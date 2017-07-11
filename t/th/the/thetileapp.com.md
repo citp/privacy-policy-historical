@@ -1,153 +1,208 @@
-> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327155205id_/https%3A//www.thetileapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711235817id_/https%3A//www.thetileapp.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Tile, Leaders in Bluetooth Tracking Device and App - Tile - Never Lose Your Keys, Wallet Or Anything Again
+# Privacy Policy - Tile
 
-We, Tile, Inc. ("we"), offer object location services to users of our mobile tracking devices ("Tile device(s)"), through our website under [www.thetileapp.com](http://www.thetileapp.com/) (the "Website") and/or our Tile mobile application (the "Tile app") (collectively referred to as the "Services"). This Privacy Policy describes: the information we collect from users; how we use that information; and your rights in connection with our collection and processing of the information. 
+Effective Date: October 13, 2016
 
-### Definition of Personal Information
+Tile is designed to make life easier and less stressful. This policy describes what information we collect from you and how we use it to accomplish that mission.
 
-In this Privacy Policy, the term "personal information" means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to a name, an identification number, or, in certain circumstances, location information, an IP address or the unique identifier allocated to each Tile device. 
+We take your privacy as seriously as you do, and because of that we take great care to collect only the information necessary to provide you with the best possible Tile experience.
 
-### Data Controller
+As you review our policy, keep in mind that it applies to Tile Inc.’s (“Tile”, “We”, “Us”) website, mobile app, help center, and all other associated services that we provide (“Services”).
 
-The owner and data controller of your personal information collected, processed, used and stored by the Services and/or the Tile device(s) is: Tile, Inc., 2121 S El Camino Real Suite C100 San Mateo, CA 94403, USA. We can be contacted by email at: [team@thetileapp.com](mailto:team@thetileapp.com)
+## 1. Information Tile Collects
 
-### Location of Storage and Processing of Personal Information
+In this Privacy Policy, the term "Personal Information" means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to a name, an identification number, or, in certain circumstances, location information, an IP address or the unique identifier allocated to each Tile device. Specifically, we collect the following information from you, which may include Personal Information.
 
-Your personal information is stored and processed at our headquarters in the USA, unless stated otherwise in the rest of this document. 
+### A. Placing an order
 
-### Personal Information that we Collect
+ **i.  Contact Information**
 
-When you register for our Services we will collect and store certain personal information necessary to set up your account with us, such as your first and last name, home address, and email address. We will further generate, and store with your account, a unique identifier allocated to each Tile device that will be registered for your account. 
+When you place an order on our website, you’ll need to provide an email address, a first and last name, and a shipping address.
 
-Whenever you sign in on your account through the Tile app on a mobile device, we will further collect your location information and your Tile devices' location information (provided your Tile devices are in reach of the mobile device), as collected and sent by the Tile app, and associate such information with your account with us. 
+ **ii.  Payment Information**
 
-In addition, we will collect, and store with your account, detailed location information about your Tile device(s) as collected and sent via other users' mobile devices with an installed and activated Tile app; these users will not have access to such information (see Section 6 on "Our Use and Sharing of your Tile Device Location Information" below). Likewise, we will collect location information about other users' Tile device(s) tracked and transmitted to us by the Tile app on your mobile device (provided the Tile app is activated on your mobile device). 
+In order to complete your order on our website, you’ll need to provide payment information, such as your credit card or PayPal account. This information is needed in order to process your order and is not stored on our servers.
 
-Whenever you use our Services, we may further collect additional information about your usage of our Services, including by making use of third party web analysis tools (see Section 11 on "Integration of Third Party Web Analysis Services and Social Functionalities" below), such as your frequency and scope of your use of the Services, Tile advertisements that you view or click on, information about the mobile device on which you have installed the Tile app, and the geographic location of the computer system or device that you are using to log-into our Services. 
+### B. Registering for the mobile app
 
-If you decide to interact with a social network when using our Services, we may further collect certain personal information made available through your social network account (see Section 8 on "Your Sharing of your Personal Information with Social Networks" below). We will further collect any personal information you may actively provide to our service personnel if you contact our customer support hotline through our Website and/or Tile app. 
+You’ll need to use a valid email address and create a password to create an account for Services on the Tile app. You can choose whether or not you’d like to provide your first and last name.
 
-### How we Use and Process your Personal Information
+We do not identify you personally to other users or make your account information available to any third parties in any way that could identify you without your prior consent.
 
-#### Our Object Location Services
+### C. Connecting with Social Networks
 
-We will use and process 
+When you create a Tile account, you may be able to connect and interact with a third-party social networking service (“Social Network”), such as Facebook or Twitter. If you decide to interact with a Social Network when using our Services, we are permitted to collect Personal Information that you have already made public on your Social Network account. You can manage this information in the privacy settings of each Social Network.
 
-  * Your personal information from your registration and usage of our Services (including your location information and your Tile devices' location information) to provide you with our object location services, e.g., to help you track and find your Tile devices which are in reach of your mobile device, to remember the last known location of your Tile devices, and/or to communicate to you the location of your Tile device(s) in reach of other users' mobile devices; 
-  * Your location information (i.e., the location of your mobile device that has tracked a Tile device of another user) to help other users of the Services to find their lost Tile device(s) by sending anonymous location updates to those other users when the Tile app on your mobile device "finds" their lost Tile device(s); (see Section 6 on "Our Use and Sharing of your Tile Device location information" for further details on how our service works). 
+### D. Information from Your Use of the Services
 
+ **i.  Tile ID, Name, and Photograph**
 
+When you activate a Tile using the Tile app, that Tile’s unique identifier (or Tile ID) will be associated with your account. If you choose to name your Tile or add a photo of it, this information will also be associated with your account.
 
-#### Further Uses of your Personal Information
+ **ii.  Location Information**
 
-In addition, we may use and process your personal information (including your location information and your Tile devices' location information 
+Tile is designed to tell you where your items are. In order to do that, it’s necessary to collect data about your location. We use the term “Location Information” to refer to the combined location data of your phone or device, and your Tiles.
 
-  * To provide you with support and handle requests and complaints; 
-  * To send you updates, notices, and additional information related to the Services; 
-  * To create anonymous, statistical and aggregated data and reports (i.e., in a form where such data does not enable the identification of a specific user). See Section 9 on "Our Use and Sharing of Aggregated Information" below; 
-  * To comply with any applicable law and assist law enforcement agencies under any applicable law, when we have a good faith belief that our cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards and procedures; 
-  * To prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Services. 
+While the app is running on your device, it periodically transmits your location information. This allows us to show you, on your map, the last place your Tile was seen by your device. It is one of the primary ways Tile helps you find your lost items.
 
+We may also collect and update location information for your Tile(s) anonymously from other Tile users who are running the app within Bluetooth range of your device. We do this to provide you with the most recent and accurate location of your Tiles, even if they are out of your devices’ Bluetooth range.
 
+The location information associated with your Tile(s) is never made available to these users.
 
-### Our Use and Sharing of your Tile Device Location Information
+If you use a computer, phone, or other device to visit our website or help center, we use the IP address of that computer or device to determine an approximate location. We do this so that we can provide you with a better, more-personal customer service experience.
 
-The Services are based on a community of all users of the Services sharing location information with us. Whenever a Tile app is activated on a user's mobile device, we will collect detailed location information about any Tile device(s) in reach of such mobile device, as collected and sent to us by the mobile device. 
+We use your Location Information to provide the Services and may use your Location Information to promote the Services or provide you with offers. However, your Location Information is never shared with other users unless you choose to share it through our Services.
 
-Any location information we receive about Tile device(s) located through a Tile app will be stored by us on our cloud server. Such information can be associated by us with the account for which the Tile device(s) have been registered (by linking the unique Tile device identifier with the account information), for instance, where necessary to help you to track your Tile device(s) in reach of other users' mobile devices with an activated Tile app. 
+ **iii.  Mobile Application Usage Information**
 
-However, your location information will be completely anonymous to other users, unless you actively decide to share these data, e.g., by choosing to share access to your Services' account with other people you trust, or by using social networks (see Section 8 on "Your Sharing of your Personal Information with Social Networks" below). We will not identify you personally to other users or otherwise make your location information available to any third party in personal identifiable form without your prior consent. 
+We track how, and how often you use our Services. We also collect certain information that your mobile device sends when you use them for Services. This includes information such as your device’s model, operating system type and version, and the dates and times of your requests. We use this information to provide you with optimal services and support, and to collect anonymous statistics that help us understand our user base.
 
-### Our Use and Sharing of your Personal Information
+### E. Information Collected Through Tile’s Support Services
 
-We may share your personal information (including your location information and your Tile devices' location information) with our third party service providers or affiliates, as authorized by us to collect, process and use your personal information as data processors on our behalf, such as, for instance, cloud based and hosting services, technical service providers, mail carriers, communication agencies and customer support service providers; these parties may be located in countries outside of your jurisdiction, including but not limited to the USA. 
+We provide support services via live chat on our website, email request submissions, recorded outbound telephone calls and direct email. We collect any Personal Information you may choose to provide to our customer care team in the process. This includes, but is not limited to: your name, email address, phone number, and mailing address. We may use and process your Personal Information, including location information, to handle your support request and provide you with the best support possible.
 
-An updated list of the parties engaged by us for the processing of your personal information may be requested from us at any time. 
+## 2. Cookies and Other Web Technologies
 
-Other than as indicated above, we will not share your personal information with any third parties, unless compelled by law to do so or if you have given your prior consent (for our use of aggregated information, see Section 9 on "Our Use and Sharing of Aggregated Information" below). 
+### A. Cookies
 
-### Your Sharing of your Personal Information with Social Networks
+Cookies are small text files that are placed on your computer’s hard drive or onto your mobile device’s memory -- if your browser is set to accept cookies. Like many other online services, cookies and other tools like them help us collect and understand how you use our services.
 
-You may choose to share information between your Services' account and some of your social network accounts (such as your Facebook account). Through this option, you may choose to have personal information and other content about you (e.g., the location of your Tile device(s) and thus also of your tracked items) available, transmitted and shared through the Services with your other social network account(s). 
+Although most internet browsers automatically accept cookies, you can change your settings or use third party tools to prompt you before accepting cookies from the websites you choose to visit, or to refuse cookies altogether. You can even delete them through your browser. Most browsers also have settings to prevent them from accepting new cookies, to notify you when you receive a new cookie, or to delete or disable cookies altogether. Some parts of our Services may not work for you if you disable cookies.
 
-By setting your Services' account to integrate with social networks including by signing onto the Services by using your social network account (such as your Facebook account), you share information (including personal information) between the Services and such social networks. 
+### B. How We Use Cookies
 
-The social network's use of (personal) information is governed by that social network's privacy policy and controlled by the social network, not by this Privacy Policy or us. 
+We use cookie technology in various ways to help make it easier for you to use our Services. For example, we use cookies to remember you when you return to our website, identify you when you sign-in, authenticate your access, keep track of your in-app specified preferences or choices, tailor content to you or geographic region, display a personalized browsing history, and/or to provide specific technical support.
 
-When you connect to the social network account through the Services for the first time or otherwise make the Services interact with your social network account, you will be asked to permit the social network to share your personal information stored on such social network with the Services. We collect your information from your social network account only in accordance with your privacy settings you have set up under your social network accounts. 
+We may also use cookies to gauge site usage, conduct research and diagnostics to improve the content we provide you, our products and services, and to help us analyze general web traffic.
 
-### Our Use and Sharing of Aggregated Information
+The cookies we use expire after they have fulfilled their purpose. Some cookies expire when you close your browser (i.e., session cookies) or after a set period of time (i.e., persistent cookies). The expiration time of cookies that are placed by third parties (explained below) is determined by the third party, not us.
 
-We use information about our users' website activities and usage of our Services (including location information) in anonymous, statistical or aggregated form, i.e., in a form that does not enable the identification of a specific user, to properly operate the Services, to improve the quality of the Services, to enhance your experience, to create new services and features, including customized services, to change or cancel existing content or service, and for further internal, commercial and statistical purposes. 
+### C. Web Beacons
 
-We also use anonymous, statistical or aggregated information collected on the Services, in a form that does not enable the identification of a specific user, by posting, disseminating, transmitting or otherwise communicating or making available such information to users of the Services, to our service providers or business partners. 
+Web beacons (also known as web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike cookies, which are stored on the user’s hard drive, web beacons are typically embedded invisibly on web pages (or in an e-mail).
 
-### Cookies
+### D. Do Not Track
 
-Cookies are small text files that our Services ask to place on your computer's hard drive and onto your mobile device's memory. If your browser is set to accept cookies, then your browser adds the text in a small file. 
+While our website and the Tile app at this time do not recognize automated browser signals regarding tracking mechanisms, such as "do not track" instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies through your web browser, as indicated above.
 
-We use cookie technology for various purposes, such as to facilitate your use of our Services, e.g., to remember you when you return to our Website, identify you when you sign-in, authenticate your access, enable your use of specific functionalities, keep track of your specified preferences or choices, tailor content to your preferences or geographic region, display personalized browsing history, or provide technical support. 
+## 3. Third Party Services
 
-We may further use cookies to monitor site usage, conduct research and diagnostics to improve our content, products, and services, and to help us analyze web traffic in general. 
+Sometimes Tile uses third party services, such as certain services offered by Facebook, Google and Mixpanel. These outside services may also collect Personal Information about you and your online activities.
 
-Cookies also enable us to display interest-based advertising on our Website using information you make available to us when you interact with our sites, content, or services. Interest-based ads are displayed to you based on cookies linked to your online activities. 
+They may also place cookies on your computer's hard drive or your mobile device's memory or use web beacons to collect or receive information from the Services and elsewhere on the internet and use that information to provide analytics and to target ads. The information practices of these outside services are not covered by this Privacy Policy. We cannot access, nor do we have any control over, the cookies or other web technologies they may use.
 
-Our cookies expire after they have fulfilled their purpose. Our Services use cookies that expire when you close your browser (i.e., session cookies) or that expire after a set period of time (i.e., persistent cookies). Cookies that are placed by third parties (see below) will have their expiration period determined by the third party, not us. 
+### A. Web Analysis Services
 
-You can decide whether or not to accept cookies. The "Help" feature on most browsers will explain how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. To learn how to manage privacy and storage settings for Flash cookies click here. Because cookies allow you to take advantage of many of our online features and functionalities, consider leaving them turned on. 
+We may use third party web analysis services to gather non-identifying information to measure how customers in aggregate interact with our website. These services may use cookies or other web technologies to collect usage information, matched to an IP address, to help us analyze how our users use our website and some portions of the Tile app.  We collect this information in order to improve overall experience of our Services for our users.
 
-While our Website and Tile app at this time do not recognize automated browser signals regarding tracking mechanisms, such as "do not track" instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies through your web browser, as indicated above. 
+We utilize Google Analytics, a service provided by Google, Inc., that we use to gather information about how users and visitors engage with our Site and Services. For more information about Google Analytics, please visit [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
-### Integration of Third Party Web Analysis Services and Social Functionalities
+We also use Mixpanel to provide us with analytics data regarding your interactions with our Services.  You may opt-out of Mixpanel’s automatic retention of data collected while using the Services by visiting <https://mixpanel.com/optout/>. To track opt-outs, Mixpanel uses a persistent opt-out cookie placed on your device. Please note that if you get a new computer, install a new browser, erase or otherwise alter the browser’s cookie file (including upgrading certain browsers), you may clear the Mixpanel opt-out cookie.
 
-In addition, our Services integrate the following services of third parties which may also place cookies on your computer's hard drive and/or your mobile device's memory. We do not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Privacy Policy. 
+These outside services may also collect information about your use of other websites over time. Since we do not link any Personal Information that you provide to us within the app to the information we store within the third party analytics software, this additional information is only analyzed in a way that cannot identify you.
 
-You can change your settings to refuse these third party cookies or to warn you before cookies are placed. However, if you choose not to accept cookies, you may not be able to take advantage of some of our features and services through our Services. 
+### B. Measurement Services and Ad Targeting
 
-#### Google Analytics (Google)
+We may use tools offered by third party services, such as Facebook, to send data about actions users take on the Services. These third party services may use such data to provide measurement services to Tile or to target ads. You can opt out of the collection and use of information for ad targeting by going to <http://www.aboutads.info/choices> or <http://www.youronlinechoices.eu/>.
 
-Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google Analytics uses cookies to help us analyze how users use our Website, to track and examine the use of our Tile app, to prepare reports on website activity and providing other services relating to usage of our Services. As a rule, any information generated by the cookies about your use of our Services will be transmitted to and stored by Google on servers in the United States. 
+### C. Social Plugins and Social Widgets
 
-Google may also use the data collected to contextualize and personalize the ads of its own advertising network and/or share the data with other Google services. 
+We may use social plugins, widgets and other features (each, a “Social Feature”) that are made available by and/or access third party Social Networks. These Social Features allow these Social Networks to place cookies on your browser and to collect certain information, which may be associated with your name and personal Social Network account.
 
-You may opt-out from the collection of information stored and generated by the Google Analytics cookies as well as the use of such data by Google by downloading and installing the browser-plugin which is available [here](https://tools.google.com/dlpage/gaoptout?hl=en). 
+These Social Features are operated solely by the respective Social Networks, and their service providers, and we recommend that you carefully read their privacy policies before you decide to use them. We have no control over or access to the information collected, stored or used by such Social Networks, and the information practices of such Social Networks are not covered by this Privacy Policy.
 
-#### Social Plugins and Social Widgets
+If you do not wish to associate any information collected via the plugins, widgets and/or other features with your personal Social Network account information, you should refrain from using these Social Features and logout from your Social Network account before visiting our Services.
 
-Our Services integrate social plugins, widgets and other features from third party social networks, including the following: 
+## 4. We Are Not Responsible for Content on Third Party Websites
 
-  * Twitter Tweet-Button, social widgets and other features allowing interaction with the Twitter social network as provided by Twitter, Inc.; further information on Twitter's privacy practices can be found under <https://twitter.com/privacy>. 
-  * Facebook Like-Button, social widgets and other features allowing interaction with the Facebook social network as provided by Facebook. Inc.; further information on Facebook's privacy practices can be found under [ https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy). 
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a “Third-party Service”). Any information that you provide on or to a Third-party Service, or that is collected by a Third-party Service, is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.
 
+## 5. We Use and Disclose Your Personal Information to Provide, Improve, and Promote Our Services
 
+### A. How We Use Your Personal Information (PI)
 
-These social plugins, widgets and other features allow the respective third party social networks to place cookies on your browser and to collect certain information, which may be associated with your name and personal social network account information. These social plugins, widgets and other features are operated solely by the respective third parties, and their service providers, and you should carefully read their privacy policies before you decide to use the respective functionalities. We have no control over or access to the information collected, stored or used by such third party social networks, and the information practices by such third parties are not covered by this Privacy Policy. 
+We may use your Personal Information and Location Information to provide you with a better service, improve the quality of our products and Services, and promote our Services. We use and process your Personal Information and Location Information to create anonymous, statistical and aggregated data reports where individual users are not identified.
 
-If you do not wish to associate any information collected via the plugins, widgets and/or other features with your personal social network account information, you should refrain from using these social functionalities and log-out from your social network account before visiting our Services. 
+### B. How We Disclose Your Personal Information
 
-Please further see Section 8 on "Your Sharing of your Personal Information with Social Networks" above for more details on sharing your information through social networks. 
+Tile uses third party services and software solutions, including web hosting and other cloud based services, to provide you with the best possible experience. We may share your Personal Information (including your Location Information and your Tile devices' Location Information) with our third party service providers or affiliates (e.g. cloud-based and hosting services, technical service providers, consultants, mail carriers, communication agencies and customer support providers) in order to provide, improve, and promote the Services on our behalf.
 
-### Controlling your Personal Information
+For example, we may disclose Personal Information to our service providers in order to enable them to communicate with you on our behalf. We may also disclose Personal Information to platform providers, such as Facebook, in order to permit such providers to serve ads and promote the Services on our behalf on such platforms.  To the extent possible, your Personal Information will be stored in hashed or obfuscated form.
 
-You have the right, at any time, to know whether your personal information has been stored and can consult us to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any of your personal information, as well as to oppose their processing for any and all legitimate reasons. Requests should be sent to us at the contact information set out under Section 2 on "Data Controller" above. 
+We will not share your Personal Information with any third parties other than in the circumstances discussed above.
 
-If you request the deletion of your account and your personal information, we will delete such information, however please note we may not delete information from our back-up systems. 
+### C. How We Use De-Identified Information
 
-### Opt-Out
+We may share with third parties, including advertisers and service providers, anonymized, aggregated data we collect about you and other users, such as de-identified demographic information, de-identified location information, and information about the computer or device from which you access the Services.
 
-We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or information about billing. 
+## 6. We May Use and Disclose Your Information for Our Protection and the Protection of Others
 
-### Information Security
+### A. How We Use Your Personal Information
 
-We implement commercially reasonable systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access, disclosure, modification or use of information. However, these measures are unable to provide absolute assurance. Therefore, although we take great efforts to protect your personal information, we cannot guarantee and you cannot reasonably expect that our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse. 
+We may use and process your Personal Information including Location Information to prevent fraud, misappropriation, infringements, identity theft, and other illegal activities and misuse of our Services.
 
-### Changes to this Privacy Policy
+### B. How We Disclose Your Personal Information
 
-We reserve the right to make changes to this Privacy Policy at any time by giving notice to you on this page and sending an email notice to you if you are a registered user. If you object to any of the changes to this Privacy Policy, you must cease using the Services and may request us to erase your personal information. Unless stated otherwise, the then-current privacy policy applies to all personal information we have about you. 
+Like other companies, we may disclose your information to government or law enforcement officials or private parties as we, in our sole discretion, believe is necessary to (i) comply with a law, regulation, or legal request; (ii) protect the safety of any person; (iii) address potential violations of our Privacy Policy or terms of service; (iv) investigate fraud, security, or technical issues; or (v) protect Tile’s rights or property, our employees, users and the public.
 
-If there are any changes to this Privacy Policy, they will be posted on the Website and in the Tile app and sent to the last email address you provided (if applicable). Any changes will be effective 20 days after their initial posting or after the email was sent (or whichever date is later). However, if we amend this Privacy Policy to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. 
+In addition, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party, in the event we go out of business or enter bankruptcy, some or all of our assets - including any information collected from or about you - may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
-You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services after being notified of such changes will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must cease any further use of the Services. 
+## 7. You May Modify Your Information
 
-### Last modified: 11/25/2015
+You can access and modify your contact information, such as your name, email address or phone number, within the Services, or by contacting us at [terms@thetileapp.com](mailto:terms@thetileapp.com). Please note that the Location Information associated with your Account is a core part of our Services and you will not be able to modify it.  However, if you do not want us to use your Location Information, you can delete it by deleting your Account using the process set forth in Section 8 below.
+
+## 8. Your Account May Deleted Upon Your Request
+
+If you want us to delete your Personal Information, Location Information and your Account, please contact us at [terms@thetileapp.com](mailto:terms@thetileapp.com) with your request. We’ll take steps to delete your information as soon as we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+
+Please note, however, that if you delete your Personal Information, Location Information and Account, the location information associated with any active Tile(s) may still be collected anonymously from other Tile users who are running the app within Bluetooth range (approximately 30-100 ft.) of your device. However, since your Personal Information will be deleted, any new location information that is collected will no longer be associated with your Personal Information. You may dispose of your Tiles at a local e-waste facility or contact customer care at [terms@thetileapp.com](mailto:terms@thetileapp.com) for more information.
+
+## 9. Personal Information Posted to Our Blog and Community Forum Are Public
+
+If you choose to submit your Tile success story or comment on our blog (“Feedback”), you should know that any Personal Information you submit there can be read, collected, or used by other users of those blogs, and could be used to send you unsolicited messages.
+
+We are not responsible for the Personal Information you choose to provide in your Feedback or for any content or communications you receive as a result of sharing such information.
+
+To request removal of your Personal Information from our blog or Tile success story, please contact us at [terms@thetileapp.com](mailto:terms@thetileapp.com).
+
+## 10. Communications
+
+We may periodically send you promotional newsletters and emails. You have the opportunity to opt-out of these by following the unsubscribe instructions provided in the emails you receive. Certain communications, like billing information and Service updates are necessary for you to receive, so you will not be able to opt out of those communications.
+
+## 11. International Transfer
+
+Your Personal Information may be transferred to, and maintained on, computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your Personal Information to us, we may transfer your Personal Information to the United States and process it there.
+
+## 12. We Take Security Seriously
+
+We implement various systems, applications and procedures to secure your Personal Information, in order to reduce the risks of theft, damage, loss of information, or unauthorized access, disclosure, modification or use of information. Please be aware, however, that these measures are cannot absolutely guarantee the security of your Personal Information. Therefore, although we take great efforts to protect your Personal Information, we cannot guarantee and you cannot reasonably expect that our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+
+## 13. You Are Responsible for Maintaining the Accuracy and Confidentiality of Your Email Address and Password
+
+You are responsible for keeping the secrecy of your password at all times. We recommend using a strong password that you do not share with other services.
+
+If you believe the security of your account has been compromised, please change your password immediately via the Tile website or through your Tile app. You can also contact us at [support@thetileapp.com](mailto:support@thetileapp.com) for assistance.
+
+You are responsible for ensuring the email address associated with your account is accurate. We use that email to contact you about service updates, changes to our policies, and account activities such as requests for your information or locate attempts on your device. Tile is not responsible for personal data transmitted to a third party as a result of a user providing an incorrect email address.
+
+## 14. We Post Updates on Our Website Whenever This Policy Changes
+
+We have the right to change our Privacy Policy at any time. If there are any changes to this Privacy Policy, they will be posted on the website, in the Tile app and sent to the most recent email address you have provided to us (if applicable). Any changes will be effective twenty days after their initial posting, or after the email was sent (or whichever date is later). We will make any immediate changes in order to comply with legal requirements.
+
+If you object to any of the changes to this Privacy Policy, you must cease using our Services and may request us to erase your Personal Information. Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected.
+
+## 15. Our Policy Toward Children
+
+Our Services are not directed to children under 13 and we do not knowingly collect Personal Information from children under 13. If we learn that we have collected Personal Information of a child under 13, we will take steps to delete such information from our files as soon as possible.
+
+## 16. Contact Us if You Have Any Questions or Concerns
+
+Please contact us at [terms@thetileapp.com](mailto:terms@thetileapp.com) or by postal mail:
+
+United States: Tile, Inc., 2121 South El Camino Real, Suite 900, San Mateo, CA 94407
+
+United Kingdom: Tile Europe, Ltd., 11th Floor, Whitefriars, Lewins Mead, Bristol, BS1 2NT
+
+Previous [Privacy Policy](https://www.thetileapp.com/en-us/privacy)  
+
