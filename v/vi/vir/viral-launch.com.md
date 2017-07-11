@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viral-launch.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211124214id_/http%3A//viral-launch.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viral-launch.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711050438id_/https%3A//viral-launch.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Viral Launch - Improve Amazon Best Seller Ranking | Sell More On Amazon
+# Viral Launch - Source, Launch, and Dominate on Amazon | Privacy Policy
 
-This privacy policy (the “Privacy Policy”) governs the manner in which Viral Marketing LLC, an Indiana limited liability company (“Viral Marketing”, “we” or “us”) collects, uses, maintains and discloses information collected from users (each, a "User") of the viral-launch.com website ("Site"). This Privacy Policy applies to the Site and all products and services offered by Viral Marketing.
+This privacy policy (the “Privacy Policy”) governs the manner in which Viral Marketing LLC dba Viral Launch, an Indiana limited liability company (“Viral Marketing”, “we” or “us”) collects, uses, maintains and discloses information collected from users (each, a "User") of the viral-launch.com website ("Site"). This Privacy Policy applies to the Site and all products and services offered by Viral Marketing.
 
 **Personal identification information**
 
@@ -10,21 +10,25 @@ We may collect personal identification information from any User in a variety of
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include (i) and User’s browser name; (ii) the type of computer and other technical information about any User; (iii) the means of connection to our Site by any User, such as the operating system and the Internet Service Provider(s) utilized by such User; and (iv) other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include (i) a User’s browser name; (ii) the type of computer and other technical information about any User; (iii) the means of connection to our Site by any User, such as the operating system and the Internet Service Provider(s) utilized by such User; and (iv) other similar information.
 
-**Web browser cookies**
+**Cookies and Retargeting**
 
-Viral Marketing, through our Site, may use "cookies" to enhance User experience. Any User's web browser places cookies on such User’s hard drive for record-keeping purposes and sometimes to track information about such User’s use of the Site. Any User may choose to set their web browser to refuse cookies, or to alert such User when cookies are being sent. Each User hereby acknowledges and agrees that if such User disallows the use of such User’s cookies with respect to the Site, that the Site may not function properly. Viral Marketing hereby disclaims any and all liability with respect to the functioning of the Site if a User disallows the use of cookies in connection with the Site.
+Viral Marketing, through our Site, may use cookies to enhance User experience. Any User's web browser places cookies on such User’s hard drive for record-keeping purposes and sometimes to track information about such User’s use of the Site. Any User may choose to set their web browser to refuse cookies, or to alert such User when cookies are being sent.
+
+Each User hereby acknowledges and agrees that if such User disallows the use of such User's cookies with respect to the Site, that the Site may not function properly. Viral Marketing hereby disclaims any and all liability with respect to the functioning of the Site if a User disallows the use of cookies in connection with the Site.
+
+Viral Marketing collects and uses information either inputted into the Site or otherwise obtained from a User’s interaction with from the Site to serve targeted display advertisements to you. Our partners, such as Google AdSense, AdRoll and Facebook, use technology such as cookies and web beacons to collect information to be retargeted to you. To opt-out of this type of advertising, please email us service@viral-launch.com
 
 **How we use collected information**
 
 Viral Marketing may collect and use any User’s specific personal identification information for the following purposes:
 
   * _\- To improve customer service_ To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize User experience._ We may use information in the aggregate to understand how our Users, as a group, use the services and resources provided on our Site.
+  * _\- To personalize User experience._ We may use information you provide to (1) understand how our Users, as a group, use the services and resources provided on our Site, and (2) provide those services you have elected for Viral Marketing to provide to you.
   * _\- To improve our Site._ We may use feedback you provide to improve our products and services.
   * _\- To process payments._ We may use the information Users provide about themselves when placing an order only to service to that order. We do not share this information with any third-party, except to the extent that doing so is necessary to provide such service.
-  * _\- To run a promotion, contest, survey or other Site feature._ To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To run a promotion, contest, survey or other Site features._ To send Users information they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails._ We may use the email address provided to us by each User to send such User information and updates pertaining to their order(s). Personal identification information may also be used to respond to inquiries, questions, and/or other requests. If a User decides to opt-in to our mailing list, such User will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -35,7 +39,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent ant User’s personal identification information to any third-party. We may share generic, aggregated demographic information not linked to any personal identification information regarding visitors and Users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent any User’s personal identification information to any third-party. We may share generic, aggregated demographic information not linked to any personal identification information regarding visitors and Users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 **Compliance with Children's Online Privacy Protection Act**
 
@@ -56,6 +60,6 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 429 N Pennsylvania St, Suite 403, Indianapolis, IN 46204  
 service@viral-launch.com
 
-This document was last updated on January 22, 2015
+This document was last updated on June 25, 2017
 
-© Viral Marketing LLC 2016. All Rights Reserved.
+© Viral Marketing LLC 2017. All Rights Reserved.
