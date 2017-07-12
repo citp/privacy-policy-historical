@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbranch.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323105042id_/https%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbranch.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712204021id_/https%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # MarketResearch.com Privacy Policy
 
@@ -80,4 +80,4 @@ Rockville, MD 20852
 Phone: 240-747-3000   
 Fax: 240.747.3004   
 Web site URL:   
-<http://www.marketresearch.com/corporate/aboutus/contactus.asp>
+<https://www.marketresearch.com/corporate/aboutus/contactus.asp>
