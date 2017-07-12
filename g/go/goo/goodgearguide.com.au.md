@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327083140id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712154005id_/https%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Gear Guide Australia
 
@@ -90,7 +90,7 @@ IDG Australia websites may use cookies for the following purposes:
 
 
 
-The following sites provide instructions on how to manage cookies in commonly used browsers.
+The following sites provide instructions on how to manage cookies in commonly used browsers, including how to opt out, if desired.
 
   * Google Chrome - <https://support.google.com/chrome/answer/95647?hl=en>
   * Mozilla Firefox - <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
@@ -134,70 +134,4 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**LAST UPDATED** : March 3, 2014
-
-  * 1 [​Gigabyte Aorus GA-AX370-Gaming 5 AMD Ryzen AM4 motherboard review](https://web.archive.org/review/gigabyte/aorus-ga-ax370-gaming-5-amd-ryzen-motherboard/615222/)
-  * 2 [​Kogan curved 4K UHD 55-inch LED LCD TV review](https://web.archive.org/review/kogan/curved-4k-55-inch-led-tv/615002/)
-  * 3 [​Panasonic Blu-ray recorder PVR set-top box review](https://web.archive.org/review/panasonic/blu-ray-recorder-pvr-set-top-box/614802/)
-  * 4 [​Garmin Fenix Chronos fitness tracker smartwatch review](https://web.archive.org/review/garmin/fenix-chronos-fitness-smartwatch/612646/)
-  * 5 [​Star Wars Death Star Bluetooth levitating rotating speaker review](https://web.archive.org/review/plox/star-wars-death-star-levitating-bluetooth-speaker/611023/)
-
-
-
-### Join the Good Gear Guide newsletter!
-
-Error: Please check your email address.
-
-### [Business Centre](https://web.archive.org/section/pc_world_business/)
-
-The latest business news, reviews, features and whitepapers
-
-### [Online Shop](https://web.archive.org/shop/)
-
-Visit our shop for the best deals on hot products
-
-### [Videos](https://web.archive.org/video/)
-
-Watch our video news and reviews from around the world
-
-### [Guides](https://web.archive.org/tax/guides/)
-
-Comprehensive buying guides, features, and step-by-step articles
-
-### [Azadeh Williams](https://web.archive.org/gggtester/16/)
-
-HP OfficeJet Pro 8730
-
-A smarter way to print for busy small business owners, combining speedy printing with scanning and copying, making it easier to produce high quality documents and images at a touch of a button. 
-
-### [Andrew Grant](https://web.archive.org/gggtester/15/)
-
-HP OfficeJet Pro 8730
-
-I've had a multifunction printer in the office going on 10 years now. It was a neat bit of kit back in the day -- print, copy, scan, fax -- when printing over WiFi felt a bit like magic. It’s seen better days though and an upgrade’s well overdue. This HP OfficeJet Pro 8730 looks like it ticks all the same boxes: print, copy, scan, and fax. (Really? Does anyone fax anything any more? I guess it's good to know the facility’s there, just in case.) Printing over WiFi is more-or- less standard these days. 
-
-### [Ed Dawson](https://web.archive.org/gggtester/14/)
-
-HP OfficeJet Pro 8730
-
-As a freelance writer who is always on the go, I like my technology to be both efficient and effective so I can do my job well. The HP OfficeJet Pro 8730 Inkjet Printer ticks all the boxes in terms of form factor, performance and user interface. 
-
-### [Michael Hargreaves](https://web.archive.org/gggtester/11/)
-
-Windows 10 for Business / Dell XPS 13
-
-I’d happily recommend this touchscreen laptop and Windows 10 as a great way to get serious work done at a desk or on the road. 
-
-### [Aysha Strobbe](https://web.archive.org/gggtester/12/)
-
-Windows 10 / HP Spectre x360
-
-Ultimately, I think the Windows 10 environment is excellent for me as it caters for so many different uses. The inclusion of the Xbox app is also great for when you need some downtime too! 
-
-### [Mark Escubio](https://web.archive.org/gggtester/13/)
-
-Windows 10 / Lenovo Yoga 910
-
-For me, the Xbox Play Anywhere is a great new feature as it allows you to play your current Xbox games with higher resolutions and better graphics without forking out extra cash for another copy. Although available titles are still scarce, but I’m sure it will grow in time. 
-
-[Good Gear Guide Evaluation Team](https://web.archive.org/gggtester/)
+**LAST UPDATED** : May 23, 2017
