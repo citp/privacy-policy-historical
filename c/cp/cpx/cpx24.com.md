@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpx24.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510055252id_/https%3A//www.cpx24.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpx24.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712091855id_/https%3A//cpx24.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # CPX24 Ad Network
 
