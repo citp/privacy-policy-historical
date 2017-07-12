@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610170656id_/https%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712032322id_/https%3A//forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
@@ -17,7 +17,7 @@ When we ask you for personal information, we promise to:
   * protect it and make sure nobody has access to it who shouldn’t
   * only share it with other organisations when the law allows
   * make sure we don’t keep it longer than necessary
-  * note make your personal information available for commercial use without your permission.
+  * not make your personal information available for commercial use without your permission.
 
 
 
@@ -128,4 +128,4 @@ If this privacy policy changes in any way, we will update this page. Regularly r
 
 Back to top
 
-Last updated: **10th March 2017**
+Last updated: **7th July 2017**
