@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131211225id_/https%3A//www.beckett.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712052026id_/https%3A//www.beckett.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,9 +109,9 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Beckett Media LLC  
+Beckett Collectibles Inc.  
 4635 McEwen Road  
 Dallas, Texas 75244  
 webmaster@beckett.com
 
-[Member Terms of Service Agreement](http://www.beckett.com/tos "Member Terms of Service Agreement")
+[Member Terms of Service Agreement](https://www.beckett.com/tos "Member Terms of Service Agreement")
