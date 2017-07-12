@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the careersatsap.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201020053id_/http%3A//go.sap.com/corporate/en/legal/privacy/careers.english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersatsap.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713012124id_/https%3A//www.sap.com/corporate/en/legal/privacy/careers.english.html) for the most accurate reproduction.*
 
 # Careers | Privacy Statement | About SAP
+
+**Skip to Content**
+
+What describes your role best?
+
+How would you rate the 2016 Integrated Report?
+
+Excellent Very Good Good Fair Poor
+
+How easily did you find the information you were looking for?
+
+Very easy Easy Neutral Difficult Very difficult
+
+  *     * English 
+    * German 
+    * Français 
+    * Español 
+    * 中文 
+    * 日本 
+  *     * 台灣 
 
 English
 
@@ -13,7 +33,7 @@ You hereby acknowledge that SAP as a global Company operates joint administrativ
 
 Your personal data may be stored and processed by SAP to share it with any member of SAP Group worldwide within the scope of the recruiting purposes and for contacting You about job opportunity at SAP.
 
-When You register as a user on the website Careers at SAP, SAP may record your IP address, name, surname, date of birth, address, telephone number or email-address and use cookies and other Internet technologies as referred to within the SAP Privacy Statement (http://www.sap.com/corporate-en/legal/privacy.epx) to gather general information about You.  
+When You register as a user on the website Careers at SAP, SAP may record your IP address, name, surname, date of birth, address, telephone number or email-address and use cookies and other Internet technologies as referred to within the SAP Privacy Statement ([http://www.sap.com/corporate/en/legal/privacy.html](https://web.archive.org/corporate/en/legal/privacy.html)) to gather general information about You.  
 By registering as a user on the website Careers at SAP, You explicitly confirm that you are interested in an employment at SAP. You therefore voluntarily provide Your personal data to be used for recruiting purposes, in particular for filling and matching your profile with any and all open positions at SAP, including beyond those for which you specifically applied. The registration process is a default setting of the application process. If your application refers solely to one specific job opportunity then the process mentioned under Section 2 (Application) below applies.
 
 By registering as a user on the website Careers at SAP and by releasing your profile, You furthermore agree to SAP contacting you for HR marketing purposes. If, at a specific time, you should no longer wish to be contacted especially for direct marketing or market research, we will respect your choice. Please use the following contact email: [careers@sap.com](mailto:careers@sap.com). Furthermore SAP does not sell your personal data to third parties. If there is a job opportunity within SAP and it matches Your profile, SAP may forward your data to the responsible SAP managers within SAP Group for further validation and in order to contact You for interviews. The personal data will be processed in the form of databases and will be collected in secured personal files.
@@ -51,7 +71,7 @@ Sie erkennen hiermit an, dass SAP als globales Unternehmen in verschiedenen Län
 
 Ihre persönlichen Daten können von SAP gespeichert und verarbeitet sowie an Mitglieder der SAP-Gruppe weltweit im Rahmen der Personalsuche und zur Kontaktaufnahme bei offenen Positionen weitergegeben werden.
 
-Bei der Registrierung auf der Website Careers at SAP kann SAP Ihre IP-Adresse, Vorname, Nachname, Geburtsdatum, Adresse, Telefonnummer oder E-Mail-Adresse erfassen und Cookies und andere Internettechnologien, wie in der SAP-Datenschutzerklärung (http://www.sap.com/corporate-en/legal/privacy.epx) beschrieben, verwenden, um allgemeine Informationen über Sie zu sammeln.
+Bei der Registrierung auf der Website Careers at SAP kann SAP Ihre IP-Adresse, Vorname, Nachname, Geburtsdatum, Adresse, Telefonnummer oder E-Mail-Adresse erfassen und Cookies und andere Internettechnologien, wie in der SAP-Datenschutzerklärung ([http://www.sap.com/corporate/de/legal/privacy.html](https://web.archive.org/corporate/de/legal/privacy.html)) beschrieben, verwenden, um allgemeine Informationen über Sie zu sammeln.
 
 Indem Sie sich auf der Website Careers at SAP registrieren, bekunden Sie explizit Ihr Interesse an einer Beschäftigung bei SAP. Sie stellen damit freiwillig Ihre persönlichen Daten über eine konkrete Bewerbung hinaus zum Zweck der Personalsuche zur Verfügung, vor allem damit Ihr Profil passenden offenen Stellen bei SAP zugeordnet werden kann. Die Registrierung ist die Standardeinstellung des Bewerbungsprozesses. Wenn Sie sich ausschließlich auf eine definierte Position bewerben möchten, gilt der unter Punkt 2 (Bewerbung) beschriebene Prozess.
 
@@ -130,7 +150,7 @@ Mediante la presente declaración, reconoce que SAP, como empresa de ámbito glo
 
 SAP podrá guardar y procesar sus datos personales con el fin de facilitárselos a cualquier integrante del Grupo SAP de cualquier parte del mundo a efectos de contratación y para ponerse en contacto con usted en relación con una oportunidad laboral en SAP.
 
-Al registrarse como usuario en el sitio web Oportunidades profesionales en SAP, SAP puede grabar su dirección IP, su nombre, apellidos, fecha de nacimiento, dirección postal, número de teléfono o dirección de correo electrónico, y utilizar cookies y otras tecnologías de Internet mencionadas en la Declaración de privacidad de SAP (http://www.sap.com/corporate-en/legal/privacy.epx) para obtener información general sobre usted.
+Al registrarse como usuario en el sitio web Oportunidades profesionales en SAP, SAP puede grabar su dirección IP, su nombre, apellidos, fecha de nacimiento, dirección postal, número de teléfono o dirección de correo electrónico, y utilizar cookies y otras tecnologías de Internet mencionadas en la Declaración de privacidad de SAP (<http://www.sap.com/spain/about/legal/privacy.html>) para obtener información general sobre usted.
 
 Registrándose como usuario en el sitio web Oportunidades profesionales en SAP usted confirma de forma explícita su interés por un puesto de trabajo en SAP. Por consiguiente, también facilita de forma voluntaria sus datos personales para su uso en procesos de contratación, en concreto, para presentar su perfil para cubrir cualquier puesto vacante en SAP (incluidos aquellos a los que no haya presentado su candidatura de forma expresa) y comprobar si cumple los requisitos de dicho puesto. El proceso de registro es una opción predeterminada en el proceso de presentación de una candidatura a un puesto de trabajo. Si presenta su candidatura únicamente para un puesto de trabajo concreto, se seguirá el proceso indicado en el Apartado 2 del presente documento (Presentación de candidaturas).
 
@@ -168,7 +188,7 @@ Para cualquier consulta u observación, escriba a [careers@sap.com](mailto:caree
 
 为了实施招聘流程和向您提供 SAP 的工作机会，SAP 可以存储和处理您的个人数据，以便 SAP 集团的任何下属公司能共享此类信息。
 
-当您在 Careers at SAP 网站上注册用户时，SAP 可能记录您的 IP 地址、姓名、出生日期、家庭住址、电话号码或电子邮件地址，并使用 SAP 隐私声明(<http://www.sap.com/corporate-en/legal/privacy.epx>)中所述的Cookie 和其他互联网技术，收集您的一般信息。  
+当您在 Careers at SAP 网站上注册用户时，SAP 可能记录您的 IP 地址、姓名、出生日期、家庭住址、电话号码或电子邮件地址，并使用 SAP 隐私声明(<http://www.sap.com/corporate/en/legal/privacy.html>)中所述的Cookie 和其他互联网技术，收集您的一般信息。  
 您注册成为 Careers at SAP 网站的用户，即表明您明确确认：您有意成为 SAP 的雇员。因此，您自愿提供您的个人数据，用于招聘目的，尤其用于将您的资料与 SAP 的所有任何空缺职位（包括但不限于您具体申请的职位）进行匹配和用于填补空缺职位之目的。注册流程属于申请流程的默认设置。如您仅申请特定的工作机会，则适用下面第二节（申请）中所述的流程。
 
 您注册成为 Careers at SAP 网站的用户并在网站上发布您的资料，即表明您进一步同意 SAP 可以出于人力资源营销之目的与您取得联系。在特定时间内，如果您不希望再接收此类信息（尤其是与直接营销以及市场调查有关的信息），我们将尊重您的选择。请发送电子邮件至[careers@sap.com](mailto:careers@sap.com)，联系我们。此外，SAP 不会将您的个人信息出售给任何第三方。如果 SAP 提供的工作机会与您的资料相匹配，则 SAP 会将您的信息转交给 SAP 集团的相关经理，以进一步确认信息和安排面试事宜。SAP 将以数据库的形式处理个人数据，并采用安全的个人文件收集数据。  
@@ -206,7 +226,7 @@ Para cualquier consulta u observación, escriba a [careers@sap.com](mailto:caree
 
 您的個人資料得由 SAP 儲存、處理並與全球 SAP 集團的所有成員共享，並以招募用途為目的，作為聯絡並提供您 SAP 的工作機會之用。
 
-當您在「SAP 職缺」網站註冊為使用者時，SAP 得記錄您的 IP 位址、名字、姓氏、生日、地址、電話號碼或電子郵件地址，並使用 SAP 隱私權聲明 (http://www.sap.com/corporate-en/legal/privacy.epx) 中所述之 Cookie 和其他網路技術以收集您的相關資訊。
+當您在「SAP 職缺」網站註冊為使用者時，SAP 得記錄您的 IP 位址、名字、姓氏、生日、地址、電話號碼或電子郵件地址，並使用 SAP 隱私權聲明 (<http://www.sap.com/corporate/en/legal/privacy.html>) 中所述之 Cookie 和其他網路技術以收集您的相關資訊。
 
 在「SAP 職缺」網站註冊為使用者之後，即明確表示您有興趣任職於 SAP。 亦表示您自願將個人資料提供給 SAP 做為招募目的之用，尤其願意讓您的資料與任一及所有 SAP 的職缺進行配對，包括您特意應徵的職缺。 註冊程序是應徵流程中的預設過程。 若您僅單獨應徵某一項工作機會，則適用第 2 節 (應徵) 以下所述之程序。
 
@@ -248,7 +268,7 @@ SAP 人力資源部門持續追求流程改善。 因此，他們不時會邀請
 
 您的個人資料得由 SAP 儲存、處理並與全球 SAP 集團的所有成員共享，並以招募用途為目的，作為聯絡並提供您 SAP 的工作機會之用。
 
-當您在「SAP 職缺」網站註冊為使用者時，SAP 得記錄您的 IP 位址、名字、姓氏、生日、地址、電話號碼或電子郵件地址，並使用 SAP 隱私權聲明 (http://www.sap.com/corporate-en/legal/privacy.epx) 中所述之 Cookie 和其他網路技術以收集您的相關資訊。
+當您在「SAP 職缺」網站註冊為使用者時，SAP 得記錄您的 IP 位址、名字、姓氏、生日、地址、電話號碼或電子郵件地址，並使用 SAP 隱私權聲明 (<http://www.sap.com/corporate/en/legal/privacy.html>) 中所述之 Cookie 和其他網路技術以收集您的相關資訊。
 
 在「SAP 職缺」網站註冊為使用者之後，即明確表示您有興趣任職於 SAP。 亦表示您自願將個人資料提供給 SAP 做為招募目的之用，尤其願意讓您的資料與任一及所有 SAP 的職缺進行配對，包括您特意應徵的職缺。 註冊程序是應徵流程中的預設過程。 若您僅單獨應徵某一項工作機會，則適用第 2 節 (應徵) 以下所述之程序。
 
@@ -275,3 +295,9 @@ SAP 人力資源部門持續追求流程改善。 因此，他們不時會邀請
 SAP 人力資源部門持續追求流程改善。 因此，他們不時會邀請應徵者 (及有效帳戶的前應徵者) 參與不記名調查。 這些調查可能由 SAP 自行進行，或由代表 SAP 的外部專責處理人員進行。 為此調查目的，所有外部處理人員皆僅可取得您的姓名、電子郵件以及 SAP 內組織單位所提供的參考資料。 調查及結果報告將完全不記名。 在我們使用電子郵件與您聯絡之後，即會刪除您的姓名和電子郵件地址。 當然，是否參與調查則完全視您的個人意願。 若您不想收到調查活動的通知，請使用下列信箱告知： [careers@sap.com](mailto:careers@sap.com)。
 
 若您有任何疑問或意見，請與 [careers@sap.com](mailto:careers@sap.com) 聯絡。 
+
+**Back to top**
+
+
+
+
