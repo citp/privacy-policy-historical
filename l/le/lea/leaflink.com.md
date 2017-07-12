@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaflink.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512084930id_/https%3A//leaflink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaflink.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712075303id_/https%3A//leaflink.com/privacy-policy) for the most accurate reproduction.*
 
 # LeafLink - Privacy Policy
 
@@ -89,7 +89,7 @@ This Site is offered and available to users who 18 years of age or older and res
 #### _**Contact Information**_
 
   
-**Leaflink, Inc.**  
+**LeafLink, Inc.**  
 85 Broad Street, 17th floor  
 New York, NY 10004
 
