@@ -1,90 +1,89 @@
-> *The following text is extracted and transformed from the khmer.be privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218100447id_/http%3A//khmer.be/Data/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khmer.be privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712191351id_/https%3A//khmer.be/privacy.htm) for the most accurate reproduction.*
 
-# PRIVACY
+# Khmer.be
 
-Last Updated on July 24, 2007
+**Effective date: July 29, 2016**
 
-#### Khmer.be does not send Spam or sell email addresses.
+Welcome to Khmer.be(“Khmer.be”,”we”,”us” or “our”), we created Khmer.be to help you connect with your Khmer family and friends anywhere around the world. We provide a fun, easy and way to share your photo and video. Using our photo filters, you can make your photo even more beautiful with just a touch on the button. 
 
-### About Khmer.be and the Information We Collect
+This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”, “Website”, “mobile app”, “Service”). The Application is provided by Khmer.be (and may be provided by Khmer.be on behalf of a Khmer.be licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement. 
 
-Khmer.be is an online social networking community that connects people through networks of friends for communicating, sharing and making new friends. To accomplish this, each Khmer.be Member creates his or her own profile, which contains the personal information that the Member chooses to include. This personal information includes such things as:
+###  WHAT PERSONAL INFORMATION DOES Khmer.be COLLECT? 
 
-* First name or first and last names of the Member (depending on the options selected by the Member), Gender, age, martial status and other, similar personal information, Occupation, Location (e.g., city and state), and Photos, videos or other shared content uploaded by the Member to his or her profile, to the extent that it includes personal information.
+####  We collect the following types of information from our users: 
 
-Khmer.be also collects Member-submitted account information such as name and email address, to identify Members and send notifications related to the use of the Khmer.be service.
+**Personal Information You Provide to Us:**  
+We may receive and store any information you submit to the Application (or otherwise authorize us to obtain – such as, from (for example) your Facebook account). The types of personal information collected may include your full name, username, e-mail address, Facebook Id, Facebook profile photos, Facebook friends’ id and Facebook friends’ full name; these are currently the information necessary for us to provide the Application services. 
 
-You should also be aware that Members may reveal other personal information while communicating on other areas of the Khmer.be website, such as while participating in discussions on Khmer.be Groups and/or posting information on Khmer.be Forums. This information, in turn, might be viewed by other Members or visitors to the Khmer.be website who are not Members.
+User Content (e.g, photos, videos, comments, stickers and other materials) that you post to the Application. 
 
-Finally, we also collect some information from Members, as well as from other visitors to the Khmer.be website, that is not personally identifiable, such as browser type and IP address. This information is gathered from all Members and visitors to the website.
+**Personal Information Collected Automatically:**  
+We receive and store certain types of usage related information whenever you interact with Application. For example, Khmer.be may automatically receive and record information regarding your computer’s IP address, browser information, Facebook user ID, Facebook Page fan status, and URLs accessed. Such information may be shared in aggregate (non-personally identifiable) form with our partners. 
 
-### Use of Information Obtained by Khmer.be
+**Analytics Information:** We use third-party analytic tools to help us collect traffics to our Application. The tool might collect information sent by your web browsers and mobile device, including, not limit to, the web pages you visit, and other information that might help us analyze and improve the Application. 
 
-The personal information of a Member contained in his or her profile will be shown to those people whom the Member chooses. Each Member has three options when choosing the level of sharing of his or her profile. They are:
+**Mobile Device Identifiers:**
 
-* "Friends" which consists only of that Member's friends,
-* "Friends of Friends" which consists of that Member's friends, as well as the extended group of people who are friends of that Member's friends, and
-* "Anyone" which is all visitors to the Khmer.be website, whether or not they are Khmer.be members.
-
-**PLEASE NOTE THAT, REGARDLESS OF WHAT PERSONAL INFORMATION A MEMBER CHOOSES TO INCLUDE IN HIS OR HER PROFILE, OR WHAT LEVEL OF SHARING HE OR SHE CHOOSES, CERTAIN INFORMATION ABOUT EACH MEMBER WILL BE INCLUDED IN THAT MEMBER'S "PUBLIC PROFILE," WHICH IS AN ABBREVIATED VERSION OF A Khmer.be PROFILE. A LIST OF THE INFORMATION CONTAINED IN EACH PUBLIC PROFILE CAN BE FOUND IN THE Khmer.be[TERMS OF SERVICE](http://khmer.be/data/html/terms.htm).**
-
-Except where a Member might choose to include a full name in his or her profile, a Member's email address and full name will only be used in the following circumstances:
-
-  * When the Member invites a friend via email to become a Khmer.be Member,
-  * When the Member sends a request to another Member to add the other Member to his or her friend list,
-  * When we send notifications to the Member relating to his or her use of the Khmer.be service or Khmer.be website, and
-  * If the Member so chooses, when we send regular notifications, weekly updates, or other news regarding the Khmer.be service or the Khmer.be website.
+  * When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers." Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by Khmer.be. 
+  * A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
 
 
-Except when inviting or adding friends, a Member's email address will never be shared with or displayed to any other person. Members and their friends, and other Members within their personal networks (depending on the level of sharing a Member has chosen) communicate on Khmer.be with each other through the Khmer.be service, without disclosing email addresses.
+**Metadata:**
 
-We use information relating to the server information, IP address.
+  * Metadata is usually technical data that is associated with User Content. For example, Metadata can describe how, when and by whom a piece of User Content was collected and how that content is formatted.
+  * Users can add or may have Metadata added to their User Content including a hashtag (e.g., to mark keywords when you post a photo), geotag (e.g., to mark your location to a photo), comments or other data. This makes your User Content more searchable by others and more interactive. If you geotag your photo or tag your photo using other's APIs then, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings.
 
-### Sharing of the Information this Site Gathers/Tracks
 
-Except as explained above, or where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information, unless required by law or for the protection of your Membership. However, Khmer.be may share profile information and aggregate usage information in a non-personally identifiable manner with advertisers and other third parties in order to present to Members and other users of the Khmer.be website more targeted advertising, products and services. In such situations we will never disclose information that would personally identify you.
 
-### Links
+### HOW DOES Khmer.be USE THE INFORMATION IT COLLECTS?
 
-The Khmer.be Website contains links to other websites. This includes links that are placed there by Khmer.be (such as in advertisements), as well as by other Khmer.be Members. Please be aware that Khmer.be is not responsible for the privacy practices of any other website. We encourage all Members and other users of the Khmer.be website to be aware of when they leave our website, and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Khmer.be through the Khmer.be website.
+Khmer.be uses the information described in this Privacy Statement (i) internally, to analyze, develop and improve its products and services, and (ii) as set forth below in the “Will Khmer.be Share any of the personal information it Collects” section below. 
 
-### Use of Cookies
+### APPLICATION PARTNER TREATMENT OF PERSONAL INFORMATION.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on the Khmer.be website. However, we do not and will not use cookies to collect private information from any Member or other user of the Khmer.be website which they did not intentionally submit to us, other than as stated in this Privacy Policy.
+Khmer.be may provide personal information to the applicable Application Partner. The Application Partner’s use of your personal information is subject to the Application Partner’s separate privacy policy – and not this Privacy Statement. The Application Partner’s privacy policy is linked to from within the Partner’s Facebook application. 
 
-We use both "session ID cookies" and "persistent cookies." We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. Note also that Members may optionally use a cookie to remember their email in order to automatically log in to our website. You can remove persistent cookies by following directions provided in your Internet browsers's "help" file; however, please note that, if you reject cookies or disable cookies in your web browser, you may not be able to use the Khmer.be website.
+### WILL Khmer.be SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
 
-### Correcting/Updating or Removing Information
+Personal information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone (with the exception of sharing your information with an applicable Application Partner – see the “Application Partner Treatment” section above). We share your personal information only as described below. 
 
-**REMEMBER THAT YOU CAN CHANGE THE GROUP OF PEOPLE WHO MAY VIEW YOUR PROFILE AT ANY TIME. YOU CAN CHANGE THESE PROFILE SHARING SETTINGS BY CLICKING THE "USER SETTINGS" LINK ON THE BOTTOM, LEFT CORNER OF THE Khmer.be HOMEPAGE. ALSO, YOU CAN ALWAYS CHANGE THE PERSONAL INFORMATION YOU'VE SUBMITTED TO THE Khmer.be WEBSITE, INCLUDING THE INFORMATION INCLUDED IN YOUR Khmer.be PROFILE, BY CLICKING THE "EDIT PROFILE" LINK ON YOUR Khmer.be PROFILE PAGE.**
+**Application Partners:**  
+We will share your personal information with an applicable Application Partner (see the “Application Partner Treatment” section above). 
 
-### Changes in Our Privacy Policy
+**Agents:**  
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Khmer.be’s agents do not have any right to use personal information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of personal information for the above purposes. Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Khmer.be, or substantially all of its assets were acquired, or in the unlikely event that Khmer.be goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Khmer.be may continue to use your personal information as set forth in this policy. 
 
-If we change our privacy policy, we will post those changes on our web site so Members and other users of the Khmer.be website are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use Members' or other users' personally identifiable information in a manner different from that stated at the time of collection, we will notify those Members and users via email or by placing a prominent notice on our website.
+Protection of Khmer.be and Others: We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Khmer.be, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-### Invite a Friend
+With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties, and will be able to prevent the sharing of this information. 
 
-If a Member elects to use our "Invite" feature to invite a friend to become a Member of the Khmer.be service, we ask them for the friend's email address. Khmer.be will automatically send the friend an email inviting them to join the site. Khmer.be stores this email address for the purpose of automatically adding the respondent to the friends list of the Member sending the invitation, and also to send reminders of the invitation. Khmer.be will never sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Any person who receives an invitation may [contact Khmer.be](http://khmer.be/contact.aspx) to request the removal of this information from our database.
+### CONDITIONS OF USE
 
-### Security
+If you decide to use or otherwise access the Application, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Washington State law. 
 
-The Khmer.be account of every Member is password-protected. Khmer.be takes every precaution to protect the information of the Members, as well as information collected from other users of the Khmer.be website. We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please [contact us](http://khmer.be/contact.aspx).
+### THIRD PARTY APPLICATIONS/WEBSITES
 
-### Email Choice/Opt-out
+The Application may permit you to link to other applications or websites. Such third party applications/websites are not under Khmer.be’s control, and such links do not constitute an endorsement by Khmer.be of those other applications/websites or the services offered through them. The privacy and security practices of such third party application/websites linked to the Application are not covered by this Privacy Statement, and Khmer.be is not responsible for the privacy or security practices or the content of such websites. 
 
-Members who no longer wish to receive our weekly email updates or other email notifications may opt-out of receiving these communications by following the instructions contained in the applicable email or by logging-in and changing their settings in the "User Settings" section of the Khmer.be website. You can access this page by clicking on the "User Settings" link on the bottom left of your profile photo on Khmer.be homepage.
+### WHAT PERSONAL INFORMATION CAN I ACCESS?
 
-### Third Party Advertising
+Khmer.be allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change in the event the Application changes. 
 
-The ads appearing on this Web site are delivered to Members by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Khmer.be does not have access to or control of the cookies that may be placed on the computer of any Member or other user of the Khmer.be website by the third-party ad servers or ad networks.
+  * User full name from your Facebook profile
+  * Username that you select when signing up.
+  * Application specific data
 
-This privacy statement covers the use of cookies by Khmer.be only, and does not cover the use of cookies by any other party.
 
-### Members and Users Located Outside of the United States of America
 
-We have made an effort to protect the personal information of all Members and other users of the Khmer.be website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Khmer.be website. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found[here](http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML)).** Members and other users of the Khmer.be website located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America.
+### CAN CHILDREN USE THE APPLICATION?
 
-### Contacting Khmer.be
+Our site and the services available through Khmer.be are not intended for children under the age of 17. Khmer.be does not knowingly or specifically collect information about children under the age of 17 and believes that children of any age should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s web experience. 
 
-If you have any questions about this privacy policy, Khmer.be's privacy practices, or your dealings with Khmer.be, please [contact us](http://www.khmer.be/contact.aspx).
+### CHANGES TO THIS PRIVACY STATEMENT
+
+Khmer.be may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Site or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted. 
+
+### QUESTIONS OR CONCERNS
+
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at https://www.facebook.com/Khmer.be/. We will make every effort to resolve your concerns. 
