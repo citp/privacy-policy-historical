@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonichits.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129025118id_/http%3A//sonichits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonichits.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712072702id_/https%3A//sonichits.com/privacy) for the most accurate reproduction.*
 
 # None
 
