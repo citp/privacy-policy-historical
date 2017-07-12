@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekplan.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010745id_/http%3A//weekplan.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekplan.net privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712052909id_/https%3A//weekplan.net/privacy) for the most accurate reproduction.*
 
 # Privacy | WEEK PLAN
 
