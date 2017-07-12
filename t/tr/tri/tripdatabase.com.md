@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripdatabase.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422222800id_/https%3A//www.tripdatabase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripdatabase.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712140034id_/https%3A//www.tripdatabase.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Trip Database
 
 NOTE: At the foot of this page is a privacy policy by our advertising partners UBM Medica, please read.
 
