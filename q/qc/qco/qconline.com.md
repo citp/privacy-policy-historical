@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qconline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131247id_/http%3A//www.qconline.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qconline.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712152455id_/http%3A//www.qconline.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | qconline.com
 
@@ -55,3 +55,24 @@ If you wish to modify or update any information Q-C Online has received, please 
  **MODIFICATIONS OF THE PRIVACY POLICY**
 
 Q-C Online reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. Q-C Online encourages you to frequently review the privacy policy for any modifications.
+
+  * Jul 12
+
+Wed, Jul 12, 2017 — all day 
+
+  * Jul 12
+
+Wed, Jul 12, 2017 — all day 
+
+  * Jul 12
+
+Wed, Jul 12, 2017 — all day 
+
+  * Jul 12
+
+Wed, Jul 12, 2017 @ 6:00 am 
+
+
+
+
+###  Photo Archive / Q-C History 
