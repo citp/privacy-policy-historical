@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltakeover.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523124309id_/http%3A//founders.valentustour.com/privacyPolicy/%3FID%3D386738%26PAGE%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltakeover.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712034526id_/http%3A//founders.valentustour.com/privacyPolicy/%3FID%3D490713%26PAGE%3D1) for the most accurate reproduction.*
 
 # Valentus Tour
 
