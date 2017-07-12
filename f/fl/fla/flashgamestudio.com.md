@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgamestudio.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615114106id_/http%3A//flashgamestudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgamestudio.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712064934id_/http%3A//www.flashgamestudio.com/privacy.html) for the most accurate reproduction.*
 
 # Flashgamestudio Privacy Policy
 
