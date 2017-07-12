@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004112id_/http%3A//mmos.com/privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712194700id_/http%3A//mmos.com/privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMOs.com
 
