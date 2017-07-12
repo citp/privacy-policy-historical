@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegpresents.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223509id_/https%3A//www.aegpresents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegpresents.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712092447id_/https%3A//www.aegpresents.com/privacy) for the most accurate reproduction.*
 
 # AEG Presents | Privacy Policy
 
