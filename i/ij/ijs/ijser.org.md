@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijser.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052345id_/http%3A//www.ijser.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijser.org privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712081208id_/https%3A//www.ijser.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - International Journal of Scientific and Engineering Research
 
@@ -15,7 +15,7 @@ Scholarly articles provided to the journal are stored, preserved, and made freel
 
 * * *
 
-IJSER is committed to maintaining your confidence and trust with respect to the privacy of the personally identifiable information we collect from you. This privacy policy sets forth our practices regarding collection, use and disclosure of information collected through or in connection with the IJSER [main website](http://www.ijser.org/) and all other IJSER websites that post a link to this privacy policy (each a "Site"). 
+IJSER is committed to maintaining your confidence and trust with respect to the privacy of the personally identifiable information we collect from you. This privacy policy sets forth our practices regarding collection, use and disclosure of information collected through or in connection with the IJSER [main website](https://www.ijser.org/) and all other IJSER websites that post a link to this privacy policy (each a "Site"). 
 
 **Collection and Registration of Personal Information**
 
