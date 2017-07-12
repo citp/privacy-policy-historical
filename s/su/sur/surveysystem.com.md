@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysystem.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184417id_/https%3A//www.surveysystem.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysystem.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713004444id_/https%3A//www.surveysystem.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Survey System, Web Survey Hosting, Survey Software, Voice Capture, & More - Creative Research Systems
 
