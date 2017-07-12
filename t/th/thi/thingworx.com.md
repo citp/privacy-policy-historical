@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingworx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173448id_/https%3A//www.thingworx.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingworx.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712145111id_/https%3A//www.thingworx.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
