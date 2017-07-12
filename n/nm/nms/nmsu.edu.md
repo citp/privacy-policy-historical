@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmsu.edu privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324052851id_/https%3A//www.nmsu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmsu.edu privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712140929id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy | New Mexico State University - All About Discovery!
 
