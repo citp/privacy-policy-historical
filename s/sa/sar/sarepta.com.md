@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629213303id_/https%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713153055id_/https%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarepta Therapeutics
 
@@ -8,7 +8,7 @@
 
 ### INTRODUCTION
 
-Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20170629213303id_/https%3A//www.sarepta.com/), [**http://www.duchenne.com/**](http://www.duchenne.com/) or any social media site, mobile sites, or online application owned and/or operated by the Company, including any content, functionality and services offered on or through these sites or channels (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20170713153055id_/https%3A//www.sarepta.com/), [**http://www.duchenne.com/**](http://www.duchenne.com/) or any social media site, mobile sites, or online application owned and/or operated by the Company, including any content, functionality and services offered on or through these sites or channels (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to personal (i.e., individually identifiable) and other information we may collect:
 
