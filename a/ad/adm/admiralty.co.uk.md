@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423145156id_/https%3A//www.admiralty.co.uk/Cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713022632id_/https%3A//www.admiralty.co.uk/Cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies | Home | ADMIRALTY
 
@@ -77,17 +77,17 @@ If you have any questions regarding our Privacy & Security Policy please contact
 
 __
 
-  * Did you know that 86 official ADMIRALTY Nautical Publications are available in electronic format? Find out more: <https://t.co/DY2yBlK6re>
+  * S-57 and S-58 are some of the standards met by our ENCs to ensure mariners always have accurate hydrographic data.… <https://t.co/ttvX4l5xWq>
 
-About 2 days ago
+About 17 hours ago
 
-  * Have you seen our e-NP film showing how easy it is to update ADMIRALTY e-NPs compared to paper equivalents? <https://t.co/vv01b8oCSs>
-
-About 4 days ago
-
-  * There’s still a week to register for our ‘Living with ECDIS’ Seminars at @SeatradeAsia on 25-27 April. Find out more <https://t.co/sEa42mGNIu>
+  * AVCS ENCs meet the latest IHO S-52, S-57 and S-63 standards. Find out how this supports mariner safety here:… <https://t.co/wOz3f6VCSe>
 
 About 6 days ago
+
+  * Following on from cyber attacks @reedsmithllp are encouraging vessels to develop effective cyber incident plans. <https://t.co/A3twCsDvy6>
+
+About 21 days ago
 
 
 
