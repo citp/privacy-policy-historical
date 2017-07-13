@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextscripts.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519235614id_/https%3A//www.nextscripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextscripts.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713133320id_/https%3A//www.nextscripts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NextScripts
 
@@ -86,4 +86,4 @@ SECURITY STATEMENT
 
 Our security includes limited access data-centers, specific firewall technology, secure socket layer certificate authentication and limited access to our systems. We will never ask you to provide credit card numbers via e-mail. 
 
-NextScripts.com was designed to accept orders only from browsers that allow Secure Socket Layer (SSL) technology including (but not limited to) Netscape Navigator 4.0 versions or higher, Internet Explorer versions 7 or higher, Firefox versions 4 or higher and Safari versions 4 or higher. SSL encryption technology secures information you transmit over the Internet. Be advised that 100% security is not always feasible. 
+NextScripts.com was designed to accept orders only from browsers that allow Secure Socket Layer (SSL) technology including (but not limited to) Netscape Navigator 4.0 versions or higher, Internet Explorer versions 7 or higher, Firefox versions 4 or higher and Safari versions 4 or higher. SSL encryption technology secures information you transmit over the Internet. Be advised that 100% security is not always feasible.
