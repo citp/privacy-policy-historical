@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dvdbox.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331175954id_/http%3A//www.videobox.com/tour/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdbox.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713184241id_/http%3A//www.videobox.com/tour/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VideoBox
 
-At videobox.com, we understand that sharing your personal information with us over the Internet requires trust. We value your trust very highly, and VideoBox believes in protecting the privacy of our subscribers, audiences, and other visitors to the videobox.com website (our " **Site** "). This Privacy Policy describes our privacy practices on our Site and all related online and mobile applications and services that we provide (our " **Services** "). The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site and Services.
+At www.videobox.com, we understand that sharing your personal information with us over the Internet requires trust. We value your trust very highly, and VideoBox believes in protecting the privacy of our subscribers, audiences, and other visitors to the www.videobox.com website (our " **Site** "). This Privacy Policy describes our privacy practices on our Site and all related online and mobile applications and services that we provide (our " **Services** "). The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site and Services.
 
 Your use of our Site or Services indicates your acceptance of this Privacy Policy. If you do not agree with our information practices, please do not access or use our Site or Services. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.
 
@@ -48,7 +48,7 @@ If you choose to use any of our Services delivered in conjunction with any of ou
 
 You may receive emails sent by us, our direct partners, or by a company we contract with to send our emails. VideoBox does not sell, trade, or rent any email addresses to other organizations or businesses.
 
-Ordinarily, access to your personally identifiable information is restricted to VideoBox employees. However, VideoBox does contract with third party billing companies. The third party billing companies, which collect your payment for subscribing to our Site and using our Services, collect personal and billing information that we have access to but do not store. You acknowledge and agree that we do not have any responsibility for the collection, maintenance or safeguarding of the privacy of any such personal or billing information provided to such third party billing companies and that such responsibility is solely between you and the third party billing company. We encourage you to examine and determine your satisfaction with the policies of such third party billing companies prior to your using them. If you have questions regarding which third party billing companies we contract with, please contact us at support@videobox.com.
+Ordinarily, access to your personally identifiable information is restricted to VideoBox employees. However, VideoBox does contract with third party billing companies. The third party billing companies, which collect your payment for subscribing to our Site and using our Services, collect personal and billing information that we have access to but do not store. You acknowledge and agree that we do not have any responsibility for the collection, maintenance or safeguarding of the privacy of any such personal or billing information provided to such third party billing companies and that such responsibility is solely between you and the third party billing company. We encourage you to examine and determine your satisfaction with the policies of such third party billing companies prior to your using them. If you have questions regarding which third party billing companies we contract with, please contact us via [our "Contact Us" page](https://web.archive.org/support/contact).
 
 We may disclose personally identifiable information to third-party vendors or law enforcement officials in order to prevent abuse of, or harm to, our systems, Site, Services, subscribers, sponsors, users, or other members of our community. We may also cooperate with law enforcement agencies in providing personally identifiable information to identify anyone who may be using our Site or Services for illegal activities.
 
@@ -80,7 +80,7 @@ Because the Internet is global, information about you that we collect or that yo
 
 ### Opting-Out
 
-You may remove yourself from our email lists at any point by clicking on the Unsubscribe link at the bottom of marketing and outreach emails that we send out. Alternately, you may log into your account and uncheck the email box to stop receiving emails, or email us at support@videobox.com if you would like to be removed from any of our email lists.
+You may remove yourself from our email lists at any point by clicking on the Unsubscribe link at the bottom of marketing and outreach emails that we send out. Alternately, you may log into your account and uncheck the email box to stop receiving emails, or email us via [our "Contact Us" page](https://web.archive.org/support/contact) if you would like to be removed from any of our email lists.
 
 It may not be possible to opt out of all forms of information sharing and communication, unless you cancel your membership and all other transactions you have pending with VideoBox. For example, we must provide certain data to credit card companies so that they can process transactions you request, and we will send order confirmations to you via e-mail whenever you make a purchase, regardless of your subscription status. Even if you terminate all ties to VideoBox, we may maintain your information in our databases to the extent we are required to do so by law.
 
@@ -92,12 +92,12 @@ We may collect personally identifiable information about you in ways other than 
 
 ### How to Contact Us
 
-If you have comments or questions regarding our privacy policy, please contact us at support@videobox.com.
+If you have comments or questions regarding our privacy policy, please contact us via [our "Contact Us" page](https://web.archive.org/support/contact).
 
 US Address:  
-609 Mission Street, 4th Floor  
-San Francisco, CA 94105  
-+1-415-295-6382 (toll-free 877-387-9077)
+1625 Clay St. Ste. 300  
+Oakland, CA 94612  
+Phone: toll-free 877-387-9077
 
 UK office (Please do not send correspondence):  
 Unit 7, 15-17 Caledonian Road  
