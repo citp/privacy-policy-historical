@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushahidi.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504234629id_/https%3A//www.ushahidi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushahidi.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713073124id_/https%3A//www.ushahidi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Ushahidi
 
