@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408134543id_/https%3A//go.nearmap.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713234331id_/https%3A//go.nearmap.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # nearmap - Privacy Policy
 
