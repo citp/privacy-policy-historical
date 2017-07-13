@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408203040id_/https%3A//www.trustwave.com/Legal/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713081757id_/https%3A//www.trustwave.com/Legal/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
 #### Copyright
 
-Unless otherwise noted, all information on Trustwave Holdings, Inc. ("Trustwave") Web Sites is copyright © 2015 by Trustwave
+Unless otherwise noted, all information on Trustwave Holdings, Inc. ("Trustwave") Web Sites is copyright © 2017 by Trustwave
 
 #### Notice
 
