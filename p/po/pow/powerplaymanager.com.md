@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerplaymanager.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407002039id_/http%3A//ppm.powerplaymanager.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerplaymanager.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713132051id_/https%3A//ppm.powerplaymanager.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,11 +46,11 @@ The user's personal data and e-mail address will not be sold to any third partie
 
 The operator is entitled to store the e-mail address, the IP addresses and login times of the user even after removal of the user's account from the game for any reason only for the necessary period of 20 years in accordance with the applicable laws. By agreeing with the PowerPlay Manager Terms of Service, the user gives the operator permission to process and store these personal data in accordance with Act no. 122/2013 of the Act on Protection of Personal Data of Slovakia. The operator declares that the e-mail addresses of removed accounts will not be used for the purposes of sending newsletters about the game, other projects of the operator or operator's partners and that they will not be disclosed to any third party for these purposes.
 
-The operator stores the e-mail addresses, the IP addresses and login times of users at it's provider VSHosting s.r.o., Tiskařská 257/10, 108 00 Prague 10 - Malešice, Czech Republic, Company registration number: 61505455.
+The operator stores the e-mail addresses, the IP addresses and login times of users at its provider VSHosting s.r.o., Tiskařská 257/10, 108 00 Prague 10 - Malešice, Czech Republic, Company registration number: 61505455.
 
   8. Security of your personal data
 
-The operator processes the data collected from users according to the data protection law effective in the Slovak Republic. All persons working with personal data of users are obliged and have been advised to maintain data with confidentiality and privacy obligations.
+The operator processes the data collected from users according to the data protection law effective in the Slovak Republic. All persons working with personal data of users are obligated and have been advised to maintain data with confidentiality and privacy obligations.
 
 The operator has issued Security guidelines on protection of personal data in accordance with Act no. 122/2013 of the Act on Protection of Personal Data of Slovakia in order to ensure protection of the stored personal data of the users.
 
