@@ -1,72 +1,52 @@
-> *The following text is extracted and transformed from the face.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501210636id_/http%3A//face.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713200918id_/https%3A//pranks.com/privacy-policy) for the most accurate reproduction.*
 
-# Face.com - Photo Tagger and Photo Finder in the press
+# Privacy Policy - Pranks.com
 
-**Privacy Policy**
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-At Face.com we take your privacy seriously. This privacy policy applies to the personal information we collect through this website, and describes how we collect, use, disclose, protect, and provide you with access to the personal information about you that we maintain. This privacy policy does not apply to personal information you may otherwise provide to us, or that we may otherwise collect.
+* * *
 
-**Collection of Personal Information**
+### What personal information do we collect from the people that visit our blog, website or app?
 
-Face.com receives and stores the personal information that you provide on our website. The personal information we collect includes information that can identify you as a specific individual, such as your name, e-mail address, and information related to your activity on our website. We collect this information from you when you register for our products and services, post on our blogs and forums, ask us a question, and initiate other transactions on our website ([opt out](http://developers.face.com/preferences/) from face recognition). 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, credit card information or other details to help you with your experience.
 
-**Collection of Other Information**
+* * *
 
-Face.com or its agents may collect other non-personal information about your computer (such as your IP address, web browser software, and online activity) when you visit our websites. We may also assign you cookies (a small, unique identifier text file) that we use for a variety of purposes to enhance your experience on our websites. We will provide you with a choice before we collect any personal information through cookies. 
+### When do we collect information?
 
-**Use of Personal Information**
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
-Face.com may use the personal information you provide on our websites in certain ways in connection with our business. These uses include: 
+* * *
 
-  * Providing you with the products and services you request; 
-  * Managing your account, including handling subscriptions; 
-  * Responding to your questions and comments; 
-  * Sending you updates and newsletters; 
-  * Providing you information about selected products and services that may be of interest to you; 
-  * Soliciting information and feedback from you, including through surveys and questionnaires; or 
-  * Performing business analyses or for other purposes to improve the quality of our business, our website, and the services we offer. 
+### How do we use your information?
 
-
-
-**Disclosure of Personal Information**
-
-Face.com may share your personal information in limited circumstances, including: 
-
-  * With our authorized service providers that perform certain functions or services on our behalf (such as to process newsletter distribution); 
-  * To respond to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or defend against legal claims; 
-  * When we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law; 
-  * To protect or defend the rights or property of Face.com or others, or the safety of the public; 
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale; or 
-  * Otherwise pursuant to your consent (for example, when and if we enable subscribers to share with other users lists of the content they have purchased). 
+  * • To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * • To improve our website in order to better serve you.
+  * • To allow us to better service you in responding to your customer service requests.
+  * • To administer a contest, promotion, survey or other site feature.
+  * • To quickly process your transactions.
+  * • To send periodic emails regarding your order or other products and services.
 
 
 
-**Access to Personal Information**
+* * *
 
-You can e-mail us at privact@face.com to update, change, or request that we delete your personal information. 
+### Governing Law
 
-**Google Analytics**
+These Terms shall be governed and construed in accordance with the laws of British Columbia, Canada, without regard to its conflict of law provisions.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
 
-**Protection of Personal Information**
+* * *
 
-Face.com has implemented security procedures to help protect the personal information that you provide to us. However, no method of transmitting or storing electronic data is ever completely secure, and we cannot guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this policy. 
+### Changes
 
-**Children's Privacy**
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
-Our website is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. 
+By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
 
-**External Links**
+* * *
 
-If any part of the Face.com website links you to other websites, those websites do not operate under this privacy policy. We recommend that you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
+### Contact Us!
 
-**Changes to This Privacy Policy**
-
-Face.com may update this privacy policy in the future. We will notify you about material changes to this privacy policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our website. 
-
-**How To Contact Us**
-
-If you have questions about our privacy policy, please e-mail us at privacy@face.com. 
-
-* Last revision: Nov 24, 2011. 
+If you have any questions about these Terms, please contact us.
