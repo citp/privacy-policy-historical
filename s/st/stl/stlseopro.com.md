@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlseopro.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513075600id_/http%3A//stlseopro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlseopro.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713173956id_/http%3A//stlseopro.com/privacy) for the most accurate reproduction.*
 
 # St. Louis SEO | Professional SEO Services
 
