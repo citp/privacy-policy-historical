@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508192200id_/https%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713162114id_/https%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Freckle Time Tracking
 
@@ -84,10 +84,16 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### Questions
 
-Should you have any question or concern, please write to [support@letsfreckle.com](mailto:support@letsfreckle.com), or write to _Slash7 LLC, 131 N 3rd St, Philadephia, PA 19106_.
+Should you have any question or concern, please write to [support@letsfreckle.com](mailto:support@letsfreckle.com), or write to:
+
+Slash7 LLC  
+228 Park Ave S #14450  
+New York, NY 10003-1502  
+United States
 
 ### Change Log
 
+  * _Version 1.7, December 3, 2016._ Update business postal address.
   * _Version 1.6, February 2, 2016._ Remove Safe Harbor as the underlying agreements between the US and EU are no longer in place.
   * _Version 1.5, September 6, 2015._ Remove Firehose Chat, add Delighted and TraceView. Explicitly mention that it’s totally fine to use content blocking software.
   * _Version 1.4, January 6, 2015._ Remove Mixpanel as we no longer use it.
