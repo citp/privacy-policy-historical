@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126165826id_/https%3A//www.yubico.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713220138id_/https%3A//www.yubico.com/support/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Yubico
 
