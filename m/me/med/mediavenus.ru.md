@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediavenus.ru privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120224631id_/http%3A//mediavenus.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediavenus.ru privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713133239id_/https%3A//mediavenus.com/site/privacy-policy) for the most accurate reproduction.*
 
-# MediaVenus — advertising network
+# MediaVenus — Native Ad Network
 
 Privacy Policy 
 
