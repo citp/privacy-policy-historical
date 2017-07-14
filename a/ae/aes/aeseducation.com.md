@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeseducation.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042554id_/http%3A//www.aeseducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeseducation.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714183242id_/https%3A//www.aeseducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Applied Educational Systems, Inc.
 
