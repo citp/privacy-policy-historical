@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anarieldesign.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024040id_/http%3A//www.anarieldesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anarieldesign.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715000548id_/https%3A//www.anarieldesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anariel Design
 
@@ -6,7 +6,7 @@ At Anariel Design, we collect and manage user data according to the following Pr
 
 * * *
 
-**Data Collected**
+ **Data Collected**
 
 We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
 
@@ -18,7 +18,7 @@ Minors and children should not use Anariel Design. By using the Website, you rep
 
 * * *
 
-**Cookies**
+ **Cookies**
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -30,7 +30,7 @@ We will use the session cookies to: keep track of you whilst you navigate the we
 
 * * *
 
-**Use of the Data**
+ **Use of the Data**
 
 We only use your personal information to provide you the Anariel Design services or to communicate with you about the services or the Website.
 
@@ -62,7 +62,7 @@ We may contact you, by email or other means. For example, we may send you promot
 
 * * *
 
-**Sharing of Data**
+ **Sharing of Data**
 
 We don’t share your personal information with third parties. Only aggregated, anonymised data is periodically transmitted to external services to help us improve the Anariel Design Website and service. We currently use Google Analytics (traffic analysis, SEO optimisation), MailChimp (mailing list management). Feel free to check out their own Privacy Policies to find out more.
 
@@ -70,7 +70,7 @@ We may choose to buy or sell assets. In these types of transactions, user inform
 
 * * *
 
-**International Data Transfers**
+ **International Data Transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
@@ -80,7 +80,7 @@ In addition, personal information that you submit for publication on the website
 
 * * *
 
-**Security of your personal information**
+ **Security of your personal information**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -90,6 +90,6 @@ You are responsible for keeping your password and other login details confidenti
 
 * * *
 
-**Changes to the Privacy Policy**
+ **Changes to the Privacy Policy**
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
