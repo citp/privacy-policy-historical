@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eaze.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211193449id_/https%3A//www.eaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaze.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714122543id_/https%3A//www.eaze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Eaze Blog | Marijuana Education, News, and Culture
+# Privacy Policy - Eaze: Marijuana Delivered
 
 Last Edited: 10/30/15
 
