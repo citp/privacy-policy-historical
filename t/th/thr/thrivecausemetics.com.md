@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thrivecausemetics.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513230415id_/http%3A//thrivecausemetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivecausemetics.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715010025id_/https%3A//thrivecausemetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Thrive Causemetics
+# Privacy Policy
 
 PRIVACY STATEMENT
 
@@ -19,9 +19,9 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at thrive@thrivecausemetics.com or mailing us at:  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@thrivecausemetics.com or mailing us at:  
 Thrive Causemetics  
-330 3rd Avenue West  
+423 3rd Avenue West  
 Seattle Washington US 98119
 
 SECTION 3 - DISCLOSURE
@@ -80,8 +80,8 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at thrive@thrivecausemetics.com or by mail at   
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@thrivecausemetics.com or by mail at   
 Thrive Causemetics  
 [Re: Privacy Compliance Officer]   
-330 3rd Avenue West  
+423 3rd Avenue West  
 Seattle Washington US 98119 
