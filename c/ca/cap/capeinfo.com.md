@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513213042id_/http%3A//capeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714222302id_/http%3A//capeinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
