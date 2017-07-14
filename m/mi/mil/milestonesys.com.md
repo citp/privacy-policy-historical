@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milestonesys.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105133709id_/https%3A//www.milestonesys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milestonesys.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714062133id_/https%3A//www.milestonesys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Personal information is data that can be used to uniquely identify or contact a 
 
   
 **What personal information we collect**  
-When you create an Milestone Systems ID, sign up for our free newsletter or participate in an online survey and competitions, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences. When you share your content with family and friends using Milestone Systems or invite others to join you on Milestone Systems forums, Milestone Systems may collect the information you provide about those people such as name, mailing address, email address and phone number.
+When you create an Milestone log-in, sign up for our free newsletter or participate in an online survey and competitions, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences. When you share your content with family and friends using Milestone Systems or invite others to join you on Milestone Systems forums, Milestone Systems may collect the information you provide about those people such as name, mailing address, email address and phone number.
 
   
 **How we use your personal information**  
@@ -52,7 +52,7 @@ Milestone Systems makes it easy for you to keep your personal information accura
 
   
 **Access to personal information**  
-You can help ensure that your contact information and preferences are accurate and up to date by logging in to your account at http://www.Milestone Systems.com/login.php and for receiving our newsletter use the profile link at the end of our newsletters.
+You can help ensure that your contact information and preferences are accurate and up to date by logging in to your account at [https://www.milestonesys.com/login-page/](https://web.archive.org/login-page/) and for receiving our newsletter use the profile link at the end of our newsletters.
 
   
 **Children**  
