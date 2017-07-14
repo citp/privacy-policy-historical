@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609165444id_/https%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714055651id_/https%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Jayisgames.com - Jay is games
 
