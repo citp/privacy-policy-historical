@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227190803id_/https%3A//www.coffeemate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714052454id_/https%3A//www.coffee-mate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coffeemate
 
