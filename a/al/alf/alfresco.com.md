@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218225928id_/https%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714103912id_/https%3A//www.alfresco.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
@@ -26,7 +26,7 @@ We may collect and process the following personal information you give to us:
 
 We may process the following information automatically from your device when you use our sites and / or our services:
 
-  * Information we may collect about your interaction with our software, mobile applications, sites and services, including IP addresses, repository IDs, account activity, license information, MAC addresses, what pages your device visited, the time that your device visited our sites, traffic data, location data, weblogs, other communication data and cookie data (please see the section below entitled "cookies" and our [Cookie Statement](https://web.archive.org/privacy/cookie) for further information on this topic).
+  * Information we may collect about your interaction with our software, mobile applications, sites and services, including IP addresses, repository IDs, account activity, license information, MAC addresses, what pages your device visited, the time that your device visited our sites, traffic data, location data, weblogs, other communication data and cookie data (please see the section below entitled "cookies" and our [Cookie Statement](https://web.archive.org/cookie-statement) for further information on this topic).
 
 
 
@@ -74,7 +74,7 @@ Although we will do our best to protect your personal information, we cannot gua
 
 ## Cookies
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. For further information on how we use cookies, please see our [Cookie Statement](https://web.archive.org/privacy/cookie).
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. For further information on how we use cookies, please see our [Cookie Statement](https://web.archive.org/cookie-statement).
 
 ## Your Choices About Marketing Communications
 
@@ -82,7 +82,11 @@ We may send you e-mails about the products / services you have purchased, your a
 
 ## How To Update And Access Information
 
-You may access, review, modify and delete your account profile information by going to your account and editing your information. However, if you want to update or access the personal information we hold about you in our systems, you will need to email your request to [privacy@alfresco.com](https://web.archive.org/%26#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#97;&#108;&#102;&#114;&#101;&#115;&#99;&#111;&#46;&#99;&#111;&#109;). If you make a request to access your personal information we may charge you a fee subject to a maximum specified by applicable law. Where Information Is Stored Personal information collected from you may be transferred and stored outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us, a member of our group, or for one of our suppliers. Such staff may be engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf.
+You may access, review, modify and delete your account profile information by going to your account and editing your information. However, if you want to update or access the personal information we hold about you in our systems, you will need to email your request to [privacy@alfresco.com](https://web.archive.org/%26#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#97;&#108;&#102;&#114;&#101;&#115;&#99;&#111;&#46;&#99;&#111;&#109;). If you make a request to access your personal information we may charge you a fee subject to a maximum specified by applicable law.
+
+## Where Information Is Stored
+
+Personal information collected from you may be transferred and stored outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us, a member of our group, or for one of our suppliers. Such staff may be engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf.
 
 Your information is stored on our servers in Ireland, the United Kingdom and the United States, and potentially in other countries whose data protection laws may be different to the laws in your country. We will protect your personal information in accordance with this Privacy Statement wherever it is processed.
 
