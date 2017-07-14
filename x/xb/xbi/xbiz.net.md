@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xbiz.net privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520151750id_/http%3A//www.xbiz.net/index.php%3Fc%3Dhelp.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbiz.net privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714132301id_/https%3A//www.xbiz.net/index.php%3Fc%3Dhelp.privacy) for the most accurate reproduction.*
 
-# XBIZ.net - The Leading Social Network for Adult Entertainment Industry Professionals
+# XBIZ.net - The Adult Industry Social Network
 
 Privacy Policy 
 
@@ -18,7 +18,7 @@ Adnet Media uses personal information to:
   * notify you about information that may be of interest to you;
   * personalize this website for you;
   * administer this website;
-  * enable your access to and use of this website’s services;
+  * enable your access to and use of this website�s services;
 
 
 
