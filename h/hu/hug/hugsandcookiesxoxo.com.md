@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugsandcookiesxoxo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130911id_/http%3A//hugsandcookiesxoxo.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugsandcookiesxoxo.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714201139id_/https%3A//hugsandcookiesxoxo.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure - Hugs and Cookies XOXO
 
