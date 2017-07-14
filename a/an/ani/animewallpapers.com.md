@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125800id_/http%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714142546id_/https%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
   
 [Visit our forum for help on making wallpapers!](http://www.animeforum.com/forumdisplay.php?76-Digital-Art)   
-[Home](http://www.animewallpapers.com/) > Privacy Policy 
+[Home](https://www.animewallpapers.com/) > Privacy Policy 
 
 Our postal address is  
 2006 Benson ave 3d  
