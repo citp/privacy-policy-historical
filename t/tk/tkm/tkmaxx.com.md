@@ -1,203 +1,183 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021754id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714090119id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - TK Maxx
 
-**Last updated: 14th August 2015**
+Effective Date: March 2017
 
-Whenever you shop or interact with us, you may share personal information with us. This Privacy and Cookie Policy (referred to in this document as the “Policy”) sets out how we collect this information and what we do to make sure it is safe in our hands. TK Maxx and HomeSense are trading names of TJX UK, a company incorporated and registered in England and Wales with company registration number 03094828 and registered address at 50 Clarendon Road, Watford WD17 1TX. For the purposes of the Data Protection Act 1998, TJX UK is the data controller of any personal information you provide to us.
+The TJX Companies, Inc. and its affiliates (collectively, **“TJX”, “we”, “us” or “our”** ) operate our stores, websites, and mobile apps. This Privacy Statement pertains to the personal information we collect or generate about our customers in our stores, on our websites, or via mobile apps. This Privacy Statement describes the types of information collected, and how your information is used, shared and protected. It also explains the choices you have relating to your information and how you can contact us.
 
-This Policy is the most up to date statement of our policy on privacy and cookies and takes precedence over any other statement on this site or in store. We will always indicate at the top of the Policy when it was last updated.  
-If there are links to third party websites on our site, these will not be covered by this Policy and we strongly recommend you refer to the terms and conditions and privacy policy on the third party website.
+The TJX entity responsible for processing your information (the “ **data controller** ”) will depend on where you are located. Refer to Appendix A for information about the data controllers. Please note that T.K. Maxx and HomeSense are trading names of the data controllers.
 
-If you have any questions or concerns about the Policy or about the security of your personal information, please do not hesitate to contact us at [data_protection@tjxeurope.com](mailto:data_protection@tjxeurope.com). 
+##  INFORMATION WE COLLECT __
 
-## When do we collect personal information? __
+The categories of information about you that we may collect, use, disclose and otherwise handle may vary by country and applicable law. Typically, we will collect, store and process information about you if you use our websites to view or buy products, e-vouchers or gift cards, or if you voluntarily provide us with such information, for example when you subscribe to our mailing list, enter a promotion or competition, contribute content about yourself to our websites, whether by direct upload, posting such content to one of our social media pages or by using a hashtag or other identifier that we use to integrate social media content with our websites, or if you apply for a job or take part in inquiries or surveys. This information will be processed by electronic means and includes:
 
-  * When you use our website to view or buy products, e vouchers or gift cards
-  * When you go into our stores and are captured on the CCTV which we use for the purposes of health and safety for the prevention and detection of crime
-  * When you buy products in our stores
-  * When you return something
-  * When you apply for a job
-  * When you enter a promotion or competition
-  * When you take part in customer research
-  * When you contact us with a comment, question or complaint or respond to a message that we send to you
-  * When you agree to go on our mailing list
-  * When you contribute content about yourself to our website, whether by direct upload, posting such content to one of our social media pages or by using a hashtag or other identifier that we use to integrate social media content with our website
+  * contact details including name, email, telephone number and address;
+  * login and account information, including screen name, password and unique user ID;
+  * personal details including gender and date of birth;
+  * payment or credit card information;
+  * personal preferences including your marketing and cookie preference;
+  * content you may provide via a form on our websites;
+  * your image and any personal information that you include in content that you contribute to our websites (such as comments, photos and videos) as well as the name of the social media account from which you contribute that information; and
+  * other personal information you provide to us on our websites, via mobile apps, on feedback forms, in our stores or when you interact with us in other ways, both online and offline.  
 
 
 
-**Note**  
-If you are 16 or under you may browse our website but you may not register with us. We do not knowingly collect personal information from any person under the age of 16 and all our promotions have a minimum age of at least 16. Our stores may ask for proof of age if an item with an age restriction is purchased and it is unclear to the associate that you are over the applicable age.  
-You confirm that you are the owner of all details provided when you registered your account, including the email address.   
+## USE OF INFORMATION __
 
+Subject to applicable law, we may collect, use, disclose or otherwise handle your information to:
 
-## What information do we collect about you and how do we use it? __
+  * enable the use of and make improvements to our websites;
+  * process business transactions and related activities;
+  * supply our goods and services;
+  * send direct marketing materials to you if you have agreed for us to do so;
+  * operate, evaluate and improve our business and websites;
+  * manage customer, supplier and vendor relationships;
+  * Enroll you in and administer our loyalty and other rewards programs upon your request;
+  * Improve merchandise selections and customer service;
+  * Identify your product and service preferences;
+  * Notify you about new products, services, features, promotions, events and special offerings relating to TJX that we think you will find valuable;
+  * Administer your participation in promotions, contests and sweepstakes;
+  * Verify your identity in certain instances (such as when you return merchandise or request a refund); 
+  * meet any legal and/or regulatory requirements; and
+  * Secure our operations and protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize risk.
 
-The sort of information we collect depends on what you need us to do for you, or how much information we need to identify who you are and resolve your query. This may include:
 
-  * Your name and address so we can make sure an online order reaches you. 
-  * Your email address so we can set up an online account for you, send you important information relating to your order and send you marketing emails if you ask us to ( _click here_ to see how you can request marketing emails or ask us not to send them). 
-  * Your card details so we can take payment or make a refund whether online or in store ([ _click here_](http://www.tkmaxx.com/faqs/page/faqs#payment4) to see how we protect financial information). 
-  * Your telephone number so we can contact you if there is a problem with delivery. 
-  * Your IP address so we can, where you have consented, use appropriate cookies to enhance your visits to our website ( _click here_ to see how we use Cookies). 
-  * Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft and fraud. 
-  * Other personal details such as date of birth, gender and shopping habits appropriate to a specific promotion or competition. 
-  * Footage of you that is captured on CCTV when you are on our premises. We use CCTV for the purposes of health and safety and for the prevention and detection of crime. 
-  * Your contact details if you enter a competition. Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft and fraud. 
-  * Your name, contact details and card details upon purchase of a product online to validate this information against third party databases for purposes of fraud prevention.
-  * Your image and any personal information that you include in content that you contribute to the website (such as comments, photos and videos) as well as the name of the social media account from which you contribute that information.  We use this information to display your content on the website and on our social media pages and to contact you about using your content other than on the website.  We may from time to time, include this information in our adverts and other marketing campaigns but will obtain your consent before doing so.
 
+## SHARING INFORMATION WITH THIRD PARTIES __
 
+We do not sell, otherwise disclose, or share information we collect and hold about you, except as described in this Privacy Statement.
 
-In addition we might use the personal information you provide for our internal purposes, for example, website administration, analysis, reporting and compliance purposes or to improve merchandise selections, enhance customer service or invite you to get involved in customer research.
+We share personal information with third parties who perform services on our behalf. For example, we may use third parties to host our websites or mobile apps, operate certain of its features, send e-mails, print or send mailings, run our sweepstakes, contests or other promotions, conduct customer research, authorize and process your payments, manage and analyze data and our advertising effectiveness, and fulfill orders. These third parties are not authorised by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Any personal information shared with such third parties is protected as described below.
 
-## How do we protect your personal information? __
+Subject to applicable law, we may also share the personal information we obtain with our affiliates, subsidiaries and other group companies. If we share your personal information with such persons, we will ensure that an adequate level of protection is in place to protect your personal information in accordance with applicable law.
 
-We maintain appropriate administrative, technical and physical security safeguards to protect against loss, misuse or unauthorised access, disclosure, alteration or destruction of the personal information you provide on our website, in our stores and through other means. However, we cannot guaranty the effectiveness of these safeguards, and nothing in this notice shall be construed as an express or implied warranty against loss, misuse or unauthorised access, disclosure, alteration or destruction.
+We also may disclose information about you: (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena) including lawful requests by public authorities to meet national security or law enforcement requirements; (ii) in response to requests by government agencies, such as law enforcement authorities; (iii) for the purpose of or in connection with legal proceedings, or otherwise for the purpose of establishing, exercising or defending our legal rights; or (iv) when we believe disclosure is necessary or appropriate in connection with an investigation of suspected or actual illegal activity. 
 
-## How can you get access to any information we have about you? __
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganisation, dissolution or liquidation), but only where we have first taken reasonable steps to ensure the security and confidentiality of your information. 
 
-You may request a copy of the personal information held about you, and you have the right to have any inaccuracies on record about you corrected. TJX charges £10 for UK requests and will require you to prove your identity before providing any data. Send any requests for access, or queries regarding access, to the Data Protection Officer, TJX Europe, 50 Clarendon Road, Watford, WD17 1TX or email [data_protection@tjxeurope.com](mailto:data_protection@tjxeurope.com).
+## HOW WE PROTECT YOUR INFORMATION __
 
-## Our mailing list - getting on and getting off! __
+We maintain appropriate technical and organisational measures to protect personal information against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access. However, we cannot guaranty the effectiveness of these safeguards, and nothing in this notice shall be construed as an express or implied warranty against loss, misuse or unauthorized access, disclosure, alteration or destruction.
 
-When you shop in our stores, interact with us online, receive an email or text message from us, place an order or enter a competition you will get the opportunity to subscribe to our mailing list. You may receive such information in person, online, by email or by text message. To subscribe, simply follow the instructions provided.
+Service providers who might have access to your information in order to provide services on our behalf will be contractually obliged to keep such information in confidence, implement adequate data security measures, and may not use that data for any other purpose.
 
-If you no longer wish to receive our emails there are several ways you can unsubscribe: 
+## LINKS TO OTHER WEBSITES __
 
-  * Click on the "Unsubscribe" link at the bottom of every TK Maxx and HomeSense marketing communication you receive and follow the instructions provided. 
-  * Contact Us and we will remove you from our list. [Click here for contact details](http://www.tkmaxx.com/contact-us/page/contact).
+Our websites may contain links to other third party websites for your convenience and information. These websites may operate independently from us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked website or applications. We are not responsible for the content, use or privacy practices of any website or applications that are not affiliated with us. 
 
+## RETENTION OF YOUR INFORMATION __
 
+We take reasonable steps to ensure that the information we process is reliable for its intended use, is accurate, up-to-date and complete, and is limited to the information required to carry out processing for the purposes described in this Privacy Statement. We retain your information for as long as necessary to fulfil the purposes for which we collect it, except if required otherwise by law.  
 
-## Do you share my information with anyone else? __
+## DATA TRANSFERS __
 
-## Cookie Policy
+We may transfer to and store the information we collect about you in countries other than the country in which the information was originally collected, including the United States and other destinations outside the European Economic Area (“ **EEA** ”), in accordance with applicable law. Those countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to other countries, we will protect the information as described in this Privacy Statement and comply with applicable legal requirements providing adequate protection for the transfer of information to countries outside the EEA.
 
-### What are cookies? __
+Please note that individuals in Poland have the right to object to data transfers to other data controller entities within the TJX group. 
 
-Cookies are small text files that are placed on your web-enabled device (such a computer, mobile phone, tablet etc.) when you visit a website. 
+## YOUR RIGHTS __
 
-### Why are they used? __
+Subject to applicable law, you may have certain rights with respect to our processing of your information. You may have the right to request access to the information we hold about you, obtain confirmation as to whether or not information concerning you exists, be informed of the content and source of such information and check its accuracy. In addition, you may have the right to correct, update, delete, block, cancel, or object to the use of, your information held by us.
 
-They are used by websites in various ways to personalise and enhance your website experience. For example, they may be used to recognise you when you return to a website, remember your preferences, monitor your use of websites in an anonymised manner so as to improve the website’s efficiency and user-friendliness or to provide you with personalised suggestions. 
+If you change your mind and no longer wish to receive marketing communications from us, you have the right to request that we cease sending marketing communications, whether by email or otherwise, to you. You can do this by:
 
-### How do we use cookies? __
+  * checking the applicable box(es) on any form we may use to collect information from you;
+  * clicking the unsubscribe link displayed in any of our marketing e-mails; or
+  * otherwise requesting that we do not process your information for marketing purposes. 
 
-Where you consent to this, we use cookies on this website. For details on how to disable these cookies where you do not consent to them, see How can you refuse cookies? We have classified the cookies we use and the purposes we use them for below, according to the International Chamber of Commerce guide for cookie categories. 
 
-**1\. Strictly Necessary**  
-These cookies are essential in order to enable you to move around our website and use its features. Without these cookies, services you have asked for (like shopping, baskets etc) cannot be provided. These cookies are **not** used to advertise any products or services to you.  
-  
----  
-  
-**2\. Performance**  
-These cookies collect information about how visitors use our website, for instance which pages visitors go to most often and if they get error messages from web pages. These cookies do not collect personal information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. The information collected is only used to improve how our website works. These cookies are **not** used to advertise any products or services to you.  
-  
-**3\. Functional**  
-These cookies allow our website to remember choices you make (such as your user name, language or the region you are in) and to provide enhanced and more personal features. They can also be used to remember changes you have made to parts of our website that you can customise. The information these cookies collect is anonymised and cannot track your activity on other websites. These cookies are **not** used to advertise any products or services to you.  
-  
-**4\. Targeting**  
-These cookies are used to deliver adverts more relevant to you and your interests. They can also be used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. They can be placed on your device by us or by a third party with our consent. Where they are placed by us, they may be used only by us to deliver adverts more relevant to you. When placed by a third party with our consent, they may be used by that third party and other parties to deliver adverts more relevant to you and your interests. For example, where you choose to link to various social networks (such as Facebook, Twitter and Pinterest) via our website, these social network sites may place cookies on your device and use these to target advertising to you on their or other websites.   
-  
-The cookies we use on our website are as follows:
 
-**1\. Strictly necessary**
+You can withdraw any consent given to us at any time and free of charge, but you may no longer be able to benefit from our services if you do so.
 
-Tkmaxx.com cookies
+To exercise these rights or to make a complaint or submit an inquiry about our privacy practices, please contact us by email at [data_protection@tjxeurope.com](mailto:data_protection@tjxeurope.com) or write to us at:
 
-  * RFID 
-  * SID 
-  * newCurr 
+Data Protection Officer  
+TJX Europe  
+50 Clarendon Road  
+Watford  
+WD17 1TX  
+United Kingdom
 
+To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. 
 
+## UPDATES TO OUR PRIVACY STATEMENT __
 
-**2\. Performance**
+This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our processing of your information and privacy practices.  We will post a prominent notice on each of the applicable websites to notify you of any significant changes to our Privacy Statement and indicate at the top of the Privacy Statement when it was most recently updated.
 
-Tkmaxx.com cookies
+## TJX Europe Cookies Policy
 
-  * referid 
-  * httprefer 
-  * newsSignupPopup
+Effective Date: March 2017
 
+The TJX Companies, Inc. and its affiliates (collectively, **“TJX”, “we”, “us” or “our”** ) operate our stores, websites, and mobile apps. We collect certain information by automated means when you visit us, such as how many users visited our websites and the pages accessed. We collect this information through various means such as "cookies," "web beacons" and IP addresses, as described in this policy.
 
+The TJX entity responsible for processing your information (the “ **data controller** ”) will depend on where you are located. Refer to Appendix A for information about the data controllers. Please note that T.K. Maxx and HomeSense are trading names of the data controllers.
 
-Cookies provided by third parties
+**COOKIES**
 
-Cookie | Host  
----|---  
-coreID6  
-90208333_login  | data.coremetrics.eu (IBM Coremetrics)  
-_utma  
-_utmb  
-_utmc  
-_utmz  | google.com (Google)  
-ngx_7077224  
-ngx_userid  
-pid2  
-sid1749  
-cvt56  
-ngx_15737030  
-JSESSIONID  | 
+Like many companies, our websites may use "cookies." Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. We may use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
 
-.gbppc.com (Merchantize)  
-  
-**3\. Functional**
+**WEB BEACONS**
 
-Tkmaxx.com cookies
+Certain pages on our websites may contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.
 
-  * locn
-  * lang
-  * RVI
-  * Setview
-  * setViewPerPage
-  * RSI
+**IP ADDRESSES**
 
+An IP address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our websites, we may view the IP address of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what geographic regions our website visitors come. We also may use this information to enhance our websites.
 
+## CATEGORIES OF COOKIES AND OTHER AUTOMATED TECHNOLOGIES __
 
-**4\. Targeting**
+**Strictly Necessary**
 
-Tkmaxx.com cookies
+These cookies are essential in order for our site to operate properly and enable you to use its features. Without these cookies, certain services (like shopping carts, etc.) cannot be provided.
 
-  * Vbmprods
-  * Vbmtracker
+**Performance**
 
+These cookies collect information about how visitors interact with our websites, such as what pages are visited and what errors may have occurred. The information collected is used to improve how our websites work.
 
+**Functional**
 
-Cookies provided by third parties
+These cookies allow our websites to remember choices our users make (such as user name) and to provide enhanced and more personal features. They can also be used to remember changes made to parts of our website that users can customise.
 
-Cookie | Host | Note  
----|---|---  
-a1ashgd  
-OAGEO  
-OAID  | AgilOne |    
-Guest_id  
-_utma  
-_utmz  
-k  
-Twitter_sess  | twitter.com (Twitter) | Only placed when using Twitter functionality via tkmaxx.com.  
-Datr  
-lu  | facebook.com (Facebook) | Only placed when using Facebook functionality via tkmaxx.com.  
-Pinterest_sess  
-| pinterest.com (Pinterest) | Only placed when using Pinterest functionality via tkmaxx.com.  
-CMAVID  
-CoreAt  
-CoreM_State  
-CoreM_Ses  | data.coremetrics.eu (IBM Coremetrics) |    
-Ecos  
-BIGipServerDLB02-ED70-HTTP-POOL  | ecustomeropinions.com |    
-  
-### How can you refuse cookies? __
+**Targeting**
 
-Your browser can be adjusted to refuse cookies being set on your device or to be notified prior to such cookies being set. How this is done depends on what type of browser you use. Details of how to manage cookies are available (depending on your type of browser) at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.aboutcookies.org](http://www.aboutcookies.org/). According to your browser, there are instructions regarding how to delete cookies or manage them being set on your device. If the browser you use is not listed, click on the Help bar on your browser and search for information on cookies. You will find an explanation on how to delete or manage cookies. Follow the relevant instructions.   
-Please note that if you refuse to consent to cookies being placed on your account, certain parts of this website may not be available to you. 
+These cookies are used to deliver adverts more relevant to users based on their interests. They can also be used to limit the number of times users see an advertisement as well as help measure the effectiveness of an advertising campaign. They can be placed on a device by us or by a third party with our consent. For example, where you choose to link to various social networks (such as Facebook, Twitter and Pinterest) via our website, these social network sites may place cookies on your device and use these to target advertising to you on their or other websites.
 
-### Where can I find out more information about cookies? __
+## YOUR CHOICES __
 
-## How do we protect your information when you apply for a job? __
+Cookies are used with your consent in accordance with applicable law. You can stop cookies being downloaded on to your computer by selecting the appropriate settings on your browser. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. You can find out how to do this for your browser by clicking "help" on your browser's menu or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/index.html). Please note, however, that without cookies you may not be able to take full advantage of all our website features.
 
-When applying for a job online with TJX you can submit your CV and other relevant personal information on our website. We will ask you to register your details by providing an email address and password. Any information you provide is maintained in a database which is managed on our behalf by a service provider in the US. They are authorised to use the information only in connection with hosting, managing and maintaining our CV database and they can process your data only in accordance with our instructions. We use the information you submit to process your application.
+**CONTACT US**
 
-If you apply for a job by submitting an application form to our stores or by post, we will retain it securely for a limited period relevant to the vacancies available.
+If you have any questions about our information practices, please contact us by email at [data_protection@tjxeurope.com](mailto:data_protection@tjxeurope.com) or write to us at:
 
-We will share your information only as requested by you or in accordance with the statements in this Privacy Policy. Information for unsuccessful candidates will be destroyed within a reasonable period once the vacancy and other suitable vacancies have been filled or the search otherwise concluded.
+Data Protection Officer  
+TJX Europe  
+50 Clarendon Road  
+Watford  
+WD17 1TX  
+United Kingdom
+
+## Appendix A
+
+## TJX Entities
+
+**1\. TJX UK** , incorporated and registered in England and Wales with company number 03094828 and registered office at 50 Clarendon Road, Watford, Hertfordshire, Watford WD17 1TX.
+
+**2\. TJX IRELAND UNLIMITED COMPANY** , incorporated and registered in Ireland with company number 316341 and registered office at Segrave House, 19-20 Earlsfort Terrace, Dublin 2.
+
+**3\. TJX DISTRIBUTION LTD. & CO. KG**, incorporated and registered in Germany with company number HRA 23488 and registered office at Peter-Mueller-Strasse18, 40468 Duesseldorf, Germany.
+
+**4\. TJX DEUTSCHLAND LTD & CO KG**, incorporated and registered in Germany with company number HR A 19118 and registered office at Peter-Mueller-Strasse18, 40468 Duesseldorf, Germany.
+
+**5\. TJX EUROPEAN DISTRIBUTION SP. Z.O.O.** , incorporated in Poland and registered in the District Court for Warsaw, XII Commercial Division of the National Court Registry with KRS 0000329221, NIP: 7010180875, REGON 141840956, share capital: 8 050 000 PLN and registered office at Marszalkowska 104/122, 00-017 Warszawa, Poland.
+
+**6\. TJX POLAND SP Z.O.O** , incorporated in Poland and registered in the District Court for Warsaw, XII Commercial Division of the National Court Registry with KRS: 0000329191, NIP: 7010180987, REGON 141840908, share capital: 35 000 000 PLN and registered office at Marszalkowska 104/122, 00-017 Warszawa, Poland.
+
+**7\. TJX EUROPE BUYING GROUP LIMITED** , incorporated and registered in England and Wales with company number 06846443 and registered office at 50 Clarendon Road, Watford, Hertfordshire, Watford WD17 1TX.
+
+**8\. JUSY MEAZZA BUYING COMPANY S.R.L.** , incorporated and registered in Italy with company number 05956200488 and whose office address is at Via Vespasiano da Bisticci 4/6, 50136 Florence, Italy and whose registered agent’s address is at Lungarno Guicciardini n. 21, 50100 Florence, Italy.
+
+**9\. TJX NEDERLAND B.V.** , incorporated and registered in The Netherlands with company number 62425102and whose registered office at Strawinskylaan 411, WTC, Toren A, 4de etage, 1077XX Amsterdam, The Netherlands (“ **TJX Netherlands** ”).
+
+**10\. TJX OESTERREICH LTD. & CO. KG**, incorporated and registered in Austria with company number FN 417129 a. and whose registered office is at Nordring 2-10/9, 2334 Vösendorf, Austria ( **“TJX Austria”** ).
