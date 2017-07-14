@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scdkey.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215051852id_/https%3A//www.scdkey.com/staticPage/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scdkey.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714092514id_/https%3A//www.scdkey.com/staticPage/privacyPolicy) for the most accurate reproduction.*
 
 # About Us - SCDKey.com
 
