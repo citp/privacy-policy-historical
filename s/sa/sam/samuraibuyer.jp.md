@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuraibuyer.jp privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607030039id_/http%3A//samuraibuyer.jp/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuraibuyer.jp privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714150522id_/http%3A//samuraibuyer.jp/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | SAMURAI BUYER engages in transfer service and proxy shopping service for all Japanese Goods by international shipping
 
