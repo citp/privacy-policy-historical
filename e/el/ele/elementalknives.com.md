@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementalknives.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205023045id_/http%3A//elementalknives.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementalknives.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714184604id_/https%3A//elementalknives.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Elemental Knives
 
@@ -15,7 +15,7 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at mail@elementalknives.com.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at helpdesk@elementalknives.com.
 
 SECTION 3 - DISCLOSURE
 
@@ -70,4 +70,4 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at mail@elementalknives.com.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at helpdesk@elementalknives.com.
