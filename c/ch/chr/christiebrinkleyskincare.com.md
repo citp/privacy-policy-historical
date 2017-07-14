@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505022103id_/https%3A//christiebrinkleyskincare.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714143726id_/https%3A//christiebrinkleyskincare.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Christie Brinkley Skincare
 
