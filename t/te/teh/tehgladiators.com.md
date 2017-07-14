@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehgladiators.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514160109id_/http%3A//www.tehgladiators.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehgladiators.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714035552id_/http%3A//tehgladiators.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
