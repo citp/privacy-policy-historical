@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrokengnome.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512191050id_/http%3A//www.mybrokengnome.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrokengnome.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714110752id_/http%3A//mybrokengnome.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
