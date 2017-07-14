@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olukai.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114021002id_/https%3A//www.olukai.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olukai.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714070924id_/https%3A//www.olukai.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
