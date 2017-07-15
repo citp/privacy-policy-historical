@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conversionconference.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113172323id_/http%3A//www.conversionconference.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversionconference.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715035232id_/http%3A//www.conversionconference.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Conversion Conference Digital Marketing Event
 
 The purpose of this Privacy Policy is to ensure that Conversion Conference (we) interact with all of our customers in line with current legislation and in accordance with their wishes. If you have any concerns with how your personal data may be being used please contact us at privacy@conversionconference.com. We collect personally identifiable information from our users at several different points on our Web site. This information is used solely for internal marketing purposes and for the production of whichever event you have registered for. The only occasion when personally identifiable information is shared with third parties is when particular event attendee lists are made available to other attendees and sponsors of the same event. In those cases, the individual is given the opportunity to opt out during his/her event registration.
 
