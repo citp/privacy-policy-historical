@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberset.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228032523id_/http%3A//www.cyberset.com/uncategorised/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberset.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715112807id_/https%3A//www.cyberset.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
