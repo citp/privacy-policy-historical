@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovis.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408012450id_/https%3A//www.innovis.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovis.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715040819id_/https%3A//www.innovis.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
