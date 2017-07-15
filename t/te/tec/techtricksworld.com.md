@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtricksworld.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194622id_/http%3A//www.techtricksworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtricksworld.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715214544id_/https%3A//www.techtricksworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechTricksWorld
 
@@ -52,7 +52,7 @@ We generally do not save the personal information which we receive from the cook
 
 ###  **Sharing Your Information**
 
-We ensure that the information that we collect is collected to improvise the quality of service we provide to our users and to enhance the quality of the content that is posted on our website. The information that we collect about our users, remains with us and we do not share this information with any third party for any monetary benifits.
+We ensure that the information that we collect is collected to improvise the quality of service we provide to our users and to enhance the quality of the content that is posted on our website. The information that we collect about our users, remains with us and we do not share this information with any third party for any monetary benefits.
 
 ##  **Disclaimer**
 
@@ -63,5 +63,7 @@ While reviewing the software, games, gadgets or other products/services; we usua
 Sometimes, even the hired content writers or other guest / ghost bloggers might furnish the data to publish on the blog, and this content might not have been verified by owners of TechTricksWorld.
 
 Having said that, every effort has been made to keep the data on the blog original and authenticated, however, the owners also do not affirm the originality and authenticity of the content on the blog. All in all, we shall not be entertaining any claims for losses /  damages caused due to the content of our website.
+
+We are Amazon and Flipkart affiliate so we do use the affiliate links and the product images from their site when we post review various products from their sites or make lists of products. 
 
 All the disputes are subject to Mumbai jurisdiction only.
