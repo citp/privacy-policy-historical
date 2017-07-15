@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228182311id_/https%3A//www.payza.com/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715091905id_/https%3A//www.payza.com/privacy-policy) for the most accurate reproduction.*
 
 # Payza | Send Money, Receive Payment, Money Transfer, Shop & Sell Online
 
-This privacy policy applies to [www.Payza.com](https://www.payza.com/) , owned and operated by MH Pillars Ltd. Henceforward “Payza” ,“we”, “us” or “our” refers collectively to Payza.com, MH Pillars Ltd., its officers, directors, agents, subsidiaries, joint ventures, employees and suppliers. This policy describes how Payza collects and uses the personal information you (the person or entity using this service) provide on our web site, www.payza.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy applies to [www.Payza.com](https://web.archive.org/) , owned and operated by MH Pillars Ltd. Henceforward "Payza" ,"we", "us" or "our" refers collectively to Payza.com, MH Pillars Ltd., its officers, directors, agents, subsidiaries, joint ventures, employees and suppliers. This policy describes how Payza collects and uses the personal information you (the person or entity using this service) provide on our web site, www.payza.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 ### Collection and Use of Personal Information
 
@@ -20,7 +20,7 @@ This privacy policy applies to [www.Payza.com](https://www.payza.com/) , owned a
 
 Additionally, as is true of most websites, we gather anonymous, aggregate information automatically and store it in log files. This information includes internet protocol (IP) address, browser type, internet service provider (ISP), referring/exit page, operating system, date/time stamp and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to any personal information.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to any personal information.
 
 **We use the information we collect to:**
 
@@ -57,7 +57,7 @@ We may provide your personal information to companies that provide services to h
 
 ### Communications
 
-We may send you email messages about our company, our platform and our Services, as well as email messages about products and services of selected third parties. By accepting the User Agreement, you consent to receive these messages. As a member, you can opt out of receiving commercial messages by following the ‘unsubscribe’ link found in each communication. Please note that we reserve the right to send you service-related communications, including service announcements and administrative messages, relating either to your account or to your transactions, without offering you the opportunity to opt out of receiving them unless you close your account.
+We may send you email messages about our company, our platform and our Services, as well as email messages about products and services of selected third parties. By accepting the User Agreement, you consent to receive these messages. As a member, you can opt out of receiving commercial messages by following the 'unsubscribe' link found in each communication. Please note that we reserve the right to send you service-related communications, including service announcements and administrative messages, relating either to your account or to your transactions, without offering you the opportunity to opt out of receiving them unless you close your account.
 
 ### User Access and Choice
 
@@ -67,7 +67,7 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 ### Cookies and Other Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Mhpillars, our affiliates, analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for saving authentication values and saving referral information . Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Technologies such as: cookies, beacons, tags and scripts are used by Mhpillars, our affiliates, analytics. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for saving authentication values and saving referral information . Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ### Behavioral Advertising
 
@@ -81,7 +81,7 @@ To manage Flash LSOs please click here: http://www.macromedia.com/support/docume
 
 ### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number or other financial information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, however, is 100% secure. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at <https://www.payza.com/support>
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number or other financial information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, however, is 100% secure. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [https://www.payza.com/support](https://web.archive.org/support)
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy policy and security practices will also apply to your information. We encourage you to read that privacy policy before providing your information.
 
