@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbfitness.net privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513070415id_/http%3A//www.dbfitness.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbfitness.net privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715135539id_/http%3A//www.dbfitness.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
