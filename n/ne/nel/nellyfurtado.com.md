@@ -1,130 +1,133 @@
-> *The following text is extracted and transformed from the nellyfurtado.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103215913id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nellyfurtado.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715174306id_/https%3A//www.nellyfurtado.com/privacy-policy) for the most accurate reproduction.*
 
-# UMG Privacy Policy
+# 
 
-The UMG Companies ("We") are committed to protecting and respecting your privacy.
+### NELLY FURTADO  
+PRIVACY NOTICE
 
-This privacy policy (together with our [terms of use](http://privacypolicy.umusic.com/terms/) and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
+Nelstar Entertainment, Inc. (“Nelstar”, “we”, “our”, or “us”) respects and is committed to protecting your privacy. That is why we have adopted this Privacy Notice. This Privacy Notice lets you know how and for what purposes we are collecting, processing, and using your Personal Information (as defined herein). We pledge that we will take reasonable steps to ensure that your Personal Information will only be used in ways that are in compliance with this Privacy Notice.
 
-BY VISITING THIS WEBSITE (THE "SITE") YOU ARE ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS POLICY (INCLUDING AS UPDATED OR AMENDED FROM TIME TO TIME). IF, FOR ANY REASON, YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE STOP USING THE SITE IMMEDIATELY.
+This Privacy Notice is in effect for any web page, mobile application, third party social media site, email list, onsite electronic data collection, generic information, and Personal Information (as defined herein) collected and/or owned by us, including but not limited to the Nelly Furtado official website, located at www.nellyfurtado.com (the “Nelly Furtado Site”), no matter the method of collection (e.g., mail, facsimile, sign-up/sign-in page, survey, promotion), including collection through the Nelly Furtado Site and any online features, services, and/or programs we offer (collectively, the “Web Properties”). Notwithstanding the foregoing, this Privacy Notice is not applicable to any other web page, mobile application, social media site, generic information, or Personal Information collected and/or owned by any entity other than Nelstar or one of its parents, affiliates and/or subsidiaries.
 
-## • WHO WE ARE
+This Privacy Notice also applies to information collected by or for us through a means other than the Web Properties. If the same information is collected through the Web Properties and through a means other than the Web Properties, the terms of this Privacy Notice shall apply.
 
-The Site is operated by Universal Music Group, Inc., 2220 Colorado Ave, Santa Monica, CA 90404. As used in this Privacy Policy, "UMG Companies" includes Universal Music Group, Inc. ("UMG"), and [all entities UMG controls](http://privacypolicy.umusic.com/entities.htm), is controlled by or is under common control with, including subsidiaries, joint ventures or other entities in whom UMG has a substantial ownership interest. 
+Your use of the Web Properties is also governed by the Terms of Use.
 
-## • INFORMATION WE MAY COLLECT FROM YOU
+#### Types of Information Collected
 
-When you use the Site or contact us by telephone, e-mail, social media, SMS, we may collect and process the following data about you: 
+Nelstar and any third party we engage for the purpose of administering, operating, hosting, configuring, designing, maintaining and providing internal support for our Web Properties, may collect two types of information when you visit the Web Properties: personal information and usage information.
 
-  * Information you give us, including: 
-    * Forms filled out by you on the Site;
-    * Content of correspondence with us by phone, e-mail or otherwise;
-    * Site registration;
-    * Subscriptions or orders placed on the Site;
-    * Participation in discussion boards or other social media functions on the Site;
-    * Entering a competition, promotion or survey;
-    * Reporting a problem or requesting support for the Site.
-The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description, photographs or images and comments. 
-  * Information we collect about you.  With regard to each of your visits to our Site we may automatically collect the following information: 
-    * Technical information, including IP address, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-    * Information about your visit, including the full URL clickstream to, through and from our site (including date and time);
-    * Pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
-    * We do not collect personal information about your online activities over time and across third party (non-UMG Company) websites.
-    * Third party partners may collect personal information about your online activities over time and across third party websites or online services through your use of the Site.
-  * Information we receive from other sources. 
-    * We may receive information about you if you use any of the other websites operated by UMG Companies or the other services UMG Companies provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+**Personal Information:** In order to participate in certain features, services and/or programs of the Web Properties, we may require that you provide us with certain specific information, which we may collect including, among other similar types of information (collectively, “Personal Information”): (1) contact information (e.g., name, address, phone number, email address); (2) demographic information (e.g., date of birth); (3) bank account and credit/debit card numbers; and (4) your physical location.
+
+**Usage Information:** We may obtain non-individualized, generic information about you when you visit the Web Properties. This may include your (i) Internet Protocol (or IP) address, protocol and sequence information; browser language; browser type; domain name system requests; browsing history (including time spent at a domain, time and date of your visit); number of clicks; hypertext transfer protocol headers; application client and server banners; and operating system fingerprinting data (collectively, “Usage Information”); and (ii) MAC address, device ID/UDID, or similar device-specific code used for advertising/marketing tracking purposes.
+
+#### How Information Is Collected
+
+We may collect Personal Information and Usage Information about you from the following sources:
+
+  * information we receive from you, or on your behalf, through forms you complete, or if you contact us, for example to raise a query, to sign up for our mailing list, or to sign up to receive notifications when Nelly Furtado is on tour near you;
+  * information we receive from you through the Web Properties, such as when creating an account, placing an order or joining our mailing list;
+  * information we receive from your computer or mobile device;
+  * information we receive from our partners or service providers; and
+  * information we receive from other sources, as permitted by applicable laws, rules and regulations.
 
 
 
-## • HOW YOUR INFORMATION MAY BE USED
+We may sponsor promotions through the Web Properties. Your participation is entirely voluntary. You may be asked to provide personally identifiable information including, but not limited to, your name or email address, or to answer questions in order to participate. We may also transfer Personal Information to certain advertising or marketing partners from whom you have requested to receive information.
 
-We use information held about you in the following ways: 
+#### Additional Ways that Information is Collected Through the Web Properties
 
-  * Information you give to us. We will use this information: 
-    * To help us respond to your queries;
-    * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-    * To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-    * To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;
-    * To notify you about changes to the Site;
-    * To manage your access to the Site;
-    * To allow you to interact with our Site, for example by posting comments;
-    * To allow you to share information from our Site on third party social media platforms;
-    * To comply with legal and regulatory requirements;
-  * Information we collect about you. We will use this information: 
-    * To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-    * To improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-    * To allow you to participate in interactive features of the Site, when you choose to do so;
-    * As part of our efforts to keep our Site safe and secure;
-    * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-    * To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them;
-  * Information we receive from other sources. 
-    * We may combine information from other sources with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive). 
+We may collect Usage Information from you as follows:
+
+**Browser Log Files:** Our servers automatically log each visitor to the Web Properties and collect and record certain Usage Information about each visitor. The Usage Information reveals nothing personal about the user and includes only the generic information described in the definition of “Usage Information.” We may use this information to examine our traffic in the aggregate, but we do not collect and evaluate this information for individuals.
+
+**Cookies:** From time to time, we and/or our advertisers or other third parties may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your Internet browser from a web server and stored on your computer’s hard drive and that can be re-sent to the serving website on subsequent visits. A cookie, by itself, cannot read other data from your hard disk or read other cookie files already on your computer. A cookie, by itself, does not damage your system. We, our advertisers and other third parties may use cookies to identify and keep track of, among other things, those areas of the Web Properties and third party websites that you have visited in the past in order to enhance your next visit to the Web Properties. Our advertisers may also use cookies to ascertain how many times that you have seen an advertisement and obtain similar analytical information. You can choose whether or not to accept cookies by changing the settings of your Internet browser, but some functionality of the Web Properties may be impaired or not function as intended if you choose not to accept cookies.
+
+**Web Beacons:** Some of our web pages and electronic communications may contain images, which may or may not be visible to you, known as Web Beacons (sometimes referred to as ‘clear gifs’). Web Beacons collect only limited information that includes a cookie number; time and date of a page view; and a description of the page on which the Web Beacon resides. We may also carry Web Beacons placed by third party advertisers. These Web Beacons do not carry any Personal Information and are only used to track usage of the Web Properties and activities associated with the Web Properties.
+
+**Unique Identifier:** We may assign you a unique internal identifier to help keep track of your future visits. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on the Web Properties and some of the electronic communications you receive from us. We keep this information for our internal use, and this information is not shared with others.
+
+#### Use of Personal Information
+
+The Personal Information that we collect may be used for three main purposes:
+
+  1. To enable the features of the Web Properties, including, but not limited to: (a) operating any promotions in which you may participate; (b) setting up and managing your online account, including, but not limited to, our processing your requests for information about Nelly Furtado or performances near you; and/or (c) providing products or services to you.
+  2. To improve the Web Properties by determining which of our products, features and services are most popular. We may analyze your information and browsing information to enable us and our affiliates to provide services to you and develop new features, functionality, and services and otherwise for our internal business purposes.
+  3. To communicate with you and to inform you about our and third parties’ products and services. We and/or any of our third party service providers may send you and keep you updated with information about existing and new services, products, and special offers, by email, telephone, mail or by means of any other contact details you provide to us or our affiliates, or to such third party service providers.
 
 
 
-## • DISCLOSURE OF YOUR INFORMATION
+#### When Information Is Disclosed
 
-We may share your personal information with any UMG Company, and with selected third parties including: 
+We might disclose Personal Information and/or Usage Information when required by law or in the good-faith belief that such disclosure is necessary to: (1) comply with legal processes and applicable law; (2) enforce this Privacy Notice; (3) take precautions against liability and to respond to any claim that any material, document, image, graphic, logo, design, audio, video, audio-visual material, photos, commentary and any other information provided to, from or on the Web Properties by you violates the rights of third parties; (4) assist government enforcement agencies; or (5) protect our rights, property, or the safety or the rights, property, or personal safety of our visitors and the public.
 
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
-  * Aggregate or anonymized data to advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-  * Analytics and search engine providers that assist us in the improvement and optimisation of our Site.
+We use reasonable precautions to keep the information that is disclosed to us secure. We may provide Personal Information and Usage Information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf and promoting the goods and services of our trusted business partners, some or all of which may store some or all of your information on servers outside of the United States. We require that these parties agree to process such information in compliance with our Privacy Notice or in a similar, industry-standard manner, and we use reasonable efforts to limit their use of such information and to use appropriate confidentiality and security measures. The use of your information by one of our trusted business partners may be subject to that party’s own privacy notice.
 
+We may share Usage Information with third parties to demonstrate the usage patterns for advertisements, content, functionality, promotions, and/or services on the Web Properties and/or on third party websites.
 
+We reserve the right to transfer your Personal Information, as well as any information about or from you, in connection with the merger, sale or other disposition of all or part of our business and/or assets. We cannot make any representations regarding the use or transfer of your Personal Information or other information that we may have in the event of our bankruptcy, reorganization, insolvency, receivership, or an assignment for the benefit of creditors, and you expressly agree and consent to the use and/or transfer of your Personal Information or other information in connection with a sale or transfer of some or all of our assets in any of the above described proceedings. Furthermore, we cannot and will not be responsible for any breach of security by any third parties or for any actions of any third parties that receive any of the information that is disclosed to us.
 
-We may disclose your personal information to third parties: 
+We may also disclose your Personal Information with your permission.
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If any of the UMG Companies or substantially all of their assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://privacypolicy.umusic.com/terms/) and other agreements; or to protect the rights, property, or safety of Universal Music Group, Inc., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-  * To any other third party with your consent to do so.
+#### Information from Children
 
+We do not collect Personal Information from any person that we know to be under the age of thirteen (13). Specifically, the Web Properties are not intended or designed to attract children under the age of thirteen (13). You will need to affirm that you are more than eighteen (18) years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Privacy Notice, and to abide by and comply with this Privacy Notice. In any case, you affirm that you are over the age of thirteen (13), as **THE WEB PROPERTIES ARE NOT INTENDED FOR CHILDREN UNDER THIRTEEN (13) WHO ARE UNACCOMPANIED BY THEIR PARENT(S) OR LEGAL GUARDIAN(S).**
 
+Parents and legal guardians should be aware that this Privacy Notice will govern our use of Personal Information, but also that information that is voluntarily given by children – or others – in email exchanges, bulletin boards or the like, may be used by other parties to generate unsolicited communications. We encourage all parents to instruct their children in the safe and responsible use of their Personal Information while using the Internet.
 
-## • WHERE WE STORE YOUR PERSONAL INFORMATION
+#### Privacy Outside the Web Properties
 
-All the information you provide may be transferred or accessed by entities around the world as described in this policy. By submitting your information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. We have put in place appropriate technical and organisational procedure to safeguard the information we collected on this Site.
+The Web Properties may now or in the future contain links to other websites, including, but not limited to, Facebook, Twitter, iTunes, Spotify, Amazon, YouTube and Instagram, and contain advertisements of third parties. We are not and cannot be responsible for the privacy practices or the content of any of those websites. Other than under agreements with certain reputable organizations and companies, and except for third party service providers (as described in this Privacy Notice), we do not share any of the Personal Information that you provide to us with any of the websites to which the Web Properties links, although we may share aggregate, non-personally identifiable information with those other third parties. Please check with those websites in order to determine their privacy policies and your rights under them.
 
-The security of your personal information is important to us. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+#### Social Features
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+Certain functionality on the Web Properties is specifically designed to permit interactions that you initiate between the Web Properties and third party websites or services, including third party social networks (“Social Features”). Examples of Social Features include enabling you to transmit content to the Web Properties from your account on a third party website or service, and to “like” or “share” our content on the Web Properties to other websites or services.
 
-## • TRACKING TECHNOLOGIES
+If you choose to use Social Features, information you post or provide access to may be publicly displayed on the Web Properties or by the provider of the Social Feature that you use. Similarly, if you post information on a third party platform that references Nelly Furtado or Nelstar (e.g., by using a hashtag associated with Nelly Furtado in a tweet or status update), your post may be published on the Web Properties in accordance with the terms of the third party website or service. Also, both Nelstar and the third party may have access to certain information about you and your use of the Web Properties and the third party site or service. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your “connections” web pages, profile pages, or similar pages on a social networking or other third party website or interactive service.
 
-We and our affiliates, analytics and service providers use technologies such as cookies, beacons, tags and scripts. These technologies are used in analyzing trends, administering the site, remembering preferences, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+The information we collect in connection with Social Features is subject to this Privacy Notice. The information collected and stored by the third parties remains subject to those third parties’ privacy practices, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
 
-We also use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+#### European Union Users
 
-## • SOCIAL MEDIA
+If you are visiting us from the European Union, please note that we may collect, transfer, and continue to use your Personal Information outside the European Union for any of the purposes described in this Privacy Notice. By using the Web Properties and providing us with your Personal Information, you consent to our collection, transfer, and continued use of your Personal Information in accordance with this Privacy Notice.
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+#### Information Security
 
-You may be able to log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+We take reasonable efforts to ensure that information collected through the Web Properties is not lost, misused or altered inappropriately by administering security measures. However, all information accessible and/or transferred over the Internet can potentially be accessed by unauthorized parties; therefore, we cannot guarantee the security of your data transmitted to the Web Properties.
 
-## • CHILDREN
+#### Choices with Your Personal Information
 
-The Site is not directed toward children under 13 years of age nor does UMG knowingly collect information from children under 13. If you are under 13 years of age, you are not permitted to submit any personally identifiable information to UMG.
+Whether you submit any Personal Information to us is entirely up to you. You are under no obligation to provide Personal Information. However, this information is essential for the provision and quality of some of the services we offer to you, so we cannot provide you with certain services if you choose to withhold requested information.
 
-## • YOUR RIGHTS
+You may choose to prevent us from disclosing or using your Personal Information under certain circumstances (“opt out”). You may opt out of any disclosure or use of your Personal Information for purposes that are incompatible with the purpose(s) for which it was originally collected or for which you subsequently gave authorization by notifying us by one of the methods at the end of this Privacy Notice, or by following the procedures set forth in an electronic communication from us, if applicable. Furthermore, even where your Personal Information is to be disclosed and used in accordance with the stated purposes in this Privacy Notice, you may elect to opt out of such disclosure to and use by a third party that is not acting as our agent. There are some uses from which you cannot opt out, such as to provide products or services that you have requested from us.
 
-You are responsible for keeping your information current and up-to-date. You may update your information by contacting us at the contact information listed below.
+#### Access and Correction
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove it by making the change on our member information page or by contacting us at the contact information listed below.
+Please contact us in the manner specified at the end of this Privacy Notice to access your Personal Information in our possession and correct inaccuracies of that information in our records. We ask individuals to identify themselves and the information requested to be accessed and amended before processing such requests, and we may decline to process requests in limited circumstances, as permitted by applicable privacy legislation.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+#### Your California Privacy Rights
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at the contact information listed below.
+Under California’s “Shine the Light” law, California residents who provide certain personally identifiable information in connection with obtaining products or services for personal, family, or household use are entitled to request and obtain from us (once a calendar year) information about the customer information we shared (if any) with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2017 will receive information regarding 2016 sharing activities, if any).
 
-Where provided under applicable law, you may have the right to ask us for a list of your personal data we share with third parties and information regarding those third parties, if the third parties use the personal data for their direct marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at the contact information listed below.
+To obtain this information, please send an email message to info@10thst.com with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in our response.
 
-## • LINKS TO THIRD PARTY SITES
+#### “Do Not Track” Signals
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, Nelstar currently does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit www.allaboutdnt.com.
 
-## • CHANGES TO OUR PRIVACY POLICY
+#### Your Consent to This Privacy Notice
 
-Any material changes we may make to our privacy policy in the future will be posted on this page prior to the change becoming effective and notify you through the Site or, where appropriate, by e-mail. Please check back frequently to see any updates or changes to our privacy policy. These changes will become effective upon obtaining your consent, if necessary, as required under local law. If you do not agree or consent to these updates or changes, do not continue to use the Site.
+By using the Web Properties, you consent to the collection and use of your information (including Personal Information) by us as specified above or as we otherwise see fit, in compliance with this Privacy Notice, unless you inform us otherwise by means of the procedure identified below. If we decide to change this Privacy Notice or some part of it, we will make an effort to post those changes on this web page so that you will always be able to understand what information we collect, how we use that information and under what circumstances we may disclose that information to others. Your use of the Web Properties following such publication of any amendment of this Privacy Notice will signify your assent to and acceptance of its revised terms for all previously collected information and information collected from you in the future. We may use comments, information or feedback that you may submit in any manner that we may choose without notice or compensation to you.
 
-## • CONTACT 
+If you have additional questions or comments or would like to access your recorded Personal Information or opt out of certain sharing, please let us know by sending your comments or requests to:
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Universal Music Group, 2220 Colorado Ave, Santa Monica, CA 90404 Attn: Head of Global or email us by clicking [here](http://privacypolicy.umusic.com/email/default.asp).
+Nelstar Entertainment Inc.  
+c/o 10th Street Entertainment  
+6420 Wilshire Blvd., #950  
+Los Angeles, CA 90048  
+Phone: 310-385-4700  
+info@10thst.com.com
+
+Copyright © 2017. Nelstar Entertainment Inc. All Rights Reserved.  
+Effective as of: January 27, 2017  
+Last updated: January 27, 2017
