@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12leaves.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204104426id_/https%3A//12leaves.com/privacy-policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12leaves.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715211110id_/https%3A//12leaves.com/privacy-policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ All non-personally-identifying information and personally identifying-informatio
 
 ## Contact Us
 
-If you have any questions about this policy or our site in general, please [contact us](http://www.12leaves.com/contact-us.html).
+If you have any questions about this policy or our site in general, please [contact us](https://12leaves.com/contact-us.html).
