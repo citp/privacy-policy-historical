@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigarettereviewed.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609223643id_/http%3A//ecigarettereviewed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigarettereviewed.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715213843id_/https%3A//ecigarettereviewed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EcigaretteReviewed
 
