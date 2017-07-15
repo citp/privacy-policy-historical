@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135206id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715202753id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Contentwriter.in
 
