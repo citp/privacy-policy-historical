@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110811id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715231951id_/https%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Confetti.co.uk
 
@@ -22,7 +22,7 @@ If we collect your personal information for any of these reasons, we may share y
 
 ### Visitors to Our Website
 
-When someone visits [confetti.co.uk](http://www.confetti.co.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+When someone visits [confetti.co.uk](https://www.confetti.co.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 ### Customers Who Place Orders with Us
 
