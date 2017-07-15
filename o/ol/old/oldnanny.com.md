@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnanny.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614114501id_/http%3A//www.oldnanny.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnanny.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715072048id_/http%3A//www.oldnanny.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Oldnanny.com - Privacy Policy
 
