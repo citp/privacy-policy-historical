@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630092020id_/http%3A//house.gov/content/site_tools/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715124907id_/https%3A//www.house.gov/content/site_tools/privacy_policy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy · House.gov
 
