@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashbar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062236id_/http%3A//www.nashbar.com/webapp/wcs/stores/servlet/StaticFooterContentDisplayView%3FstoreId%3D10053%26catalogId%3D10052%26langId%3D-1%26fContentName%3DNBSecurityInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashbar.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715163953id_/http%3A//www.nashbar.com/webapp/wcs/stores/servlet/StaticFooterContentDisplayView%3FstoreId%3D10053%26catalogId%3D10052%26langId%3D-1%26fContentName%3DNBSecurityInfo) for the most accurate reproduction.*
 
 # Nashbar - NBSecurityInfo
 
