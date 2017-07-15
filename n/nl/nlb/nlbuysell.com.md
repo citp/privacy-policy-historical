@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904181046id_/http%3A//www.nlbuysell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715165027id_/https%3A//nlbuysell.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Newfoundland Buy & Sell Magazine
+# Buy & Sell Privacy Policy - NL Buy Sell - Online & Offline
 
 This document was last modified on February 6th, 2016.
 
 At the Newfoundland Buy & Sell Online we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by the Newfoundland Buy & Sell Online or its subsidiaries.
 
-If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20160904181046id_/http%3A//www.nlbuysell.com/contactus.php) or [email](mailto:privacy@nlbuysell.com) us.
-
-## Advertisements and Browser Cookies:
+If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20170715165027id_/https%3A//nlbuysell.com/contact) or [email](mailto:privacy@nlbuysell.com) us.
 
 The Buy & Sell Website uses cookies to help show you more relevant ads on the webpages. Third party vendors also use this data to show more relevant ads throughout the internet based on your past visits to websites. If you would like to Opt-out of this tracking, please [click here](https://tools.google.com/dlpage/gaoptout/).
+
+At the Newfoundland Buy & Sell Online we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by the Newfoundland Buy & Sell Online or its subsidiaries.
+
+If you have any questions about this policy, please feel free to contact us.
 
 ## Information we collect and how we use it:
 
@@ -32,8 +34,6 @@ The Newfoundland Buy & Sell Online only processes personal information for the p
 
 The Newfoundland Buy & Sell Online processes personal information on our servers in Canada. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our financial institution.
 
-| 
-
 ## Choices for personal information
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. 
@@ -51,8 +51,6 @@ We restrict access to personal information to the Newfoundland Buy & Sell Online
 ## Data integrity
 
 The Newfoundland Buy & Sell Online processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-| 
 
 ## Accessing and updating personal information
 
