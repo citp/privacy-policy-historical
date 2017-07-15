@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175201id_/http%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715075622id_/https%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
