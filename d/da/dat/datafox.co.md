@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafox.co privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324090341id_/https%3A//www.datafox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafox.co privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715201255id_/https%3A//www.datafox.com/privacy-policy) for the most accurate reproduction.*
 
 # DataFox | Privacy Policy
 
