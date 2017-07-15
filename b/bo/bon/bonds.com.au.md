@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325130645id_/https%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716014046id_/https%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BONDS Australia
 
-This website under the domain name bonds.com.au (the “Website”) is owned and operated by Bonds, a division of Pacific Brands Clothing Pty Ltd which is part of the Pacific Brands group of companies (collectively called “Bonds”, “we, “us” or “our” in this policy).
+This website under the domain name bonds.com.au (the “Website”) is owned and operated by Bonds, a division of Hanes Innerwear Australia Pty Ltd which is part of the HanesBrands group of companies (collectively called “Bonds”, “we, “us” or “our” in this policy).
 
 ### OUR COMMITMENT TO PRIVACY
 
@@ -26,7 +26,7 @@ We collect personal information for a number of reasons, including to: deliver, 
 
 ### WHO WE SHARE IT WITH
 
-We may exchange your personal information with other Pacific Brands companies and companies who perform part of our service delivery or provide other support services to us, for example, organisations that assist us with postal, data processing and analysis, research, mail, promotional, customer contact, technology, banking, payment, debt collection and maintenance services. We may otherwise use or disclose your personal information with your consent (or if we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure) or where required or authorised by law, which may include emergency situations and assisting law enforcement agencies.
+We may exchange your personal information with other HanesBrands companies and companies who perform part of our service delivery or provide other support services to us, for example, organisations that assist us with postal, data processing and analysis, research, mail, promotional, customer contact, technology, banking, payment, debt collection and maintenance services. We may otherwise use or disclose your personal information with your consent (or if we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure) or where required or authorised by law, which may include emergency situations and assisting law enforcement agencies.
 
 Third parties to whom we disclose personal information may be located in Australia, United States of America, United Kingdom, Hong Kong, Philippines and other countries.
 
@@ -44,10 +44,10 @@ We will not knowingly collect information from any unsupervised person under the
 
 ### FURTHER INFORMATION
 
-The Pacific Brands Privacy Policy contains further details about our handling of personal information, including information about how you may access or update your personal information that we hold and how we deal with your concerns. The Pacific Brands Privacy Policy is available on request or via [www.pacificbrands.com.au](http://www.pacificbrands.com.au/).
+The Hanes Australasia Privacy Policy contains further details about our handling of personal information, including information about how you may access or update your personal information that we hold and how we deal with your concerns. The Hanes Australasia Privacy Policy is available on request or via [www.hanesaustralasia.com](https://www.hanesaustralasia.com/).
 
-If you have any questions or feedback about privacy, please contact our Privacy Officer at [privacyofficer@pacbrands.com.au](mailto:privacyofficer@pacbrands.com.au) or call (+61 3) 9947 4900. For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/) and on 1300 363 992.
+If you have any questions or feedback about privacy, please contact our Privacy Officer at [privacyofficeraustralasia@hanes.com](mailto:privacyofficeraustralasia@hanes.com) or call (+61 3) 8862 1400. For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/) and on 1300 363 992.
 
-Pacific Brands Clothing Pty Ltd ABN 40 098 742 655
+Hanes Innerwear Australia Pty Ltd ABN 40 098 742 655
 
-Latest Revision: 12 March 2014
+Latest Revision: 31 March 2017
