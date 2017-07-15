@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewpthemes.co privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826190924id_/https%3A//freewpthemes.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewpthemes.co privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716002410id_/https%3A//wpthemesgallery.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | Free WordPress Themes
+# Privacy & Cookie Policy | WordPress Themes Gallery
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
