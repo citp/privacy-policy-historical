@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tricksforums.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613033626id_/http%3A//www.tricksforums.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksforums.org privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715224426id_/http%3A//www.tricksforums.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tricks Forums
+# Privacy Policy
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [www.tricksforums.org](http://www.tricksforums.org/).
