@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getepx.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508023244id_/http%3A//www.epxbody.com/0%3FtoDo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getepx.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715074014id_/http%3A//www.epxbody.com/0%3FtoDo%3Dprivacy) for the most accurate reproduction.*
 
 # EPX Body
 
