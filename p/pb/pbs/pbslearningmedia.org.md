@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184622id_/https%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716060740id_/https%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
 
 # Help Page | Privacy Policy | PBS LearningMedia
 
@@ -102,6 +102,10 @@ We also may use standard Internet technology, such as web beacons and similar te
 ## External Links and Third-Party Content
 
 We enable you to access third-party content through the Site and to navigate to third-party sites and services from links on the Site. Whether the third-party content appears within our Site (such as in an embedded video player) or you leave our Site to view the content on another website, the third party is in control of and independently produces, maintains, and monitors the content and third-party sites. When you watch third-party content that is made available through the Site or navigate to such third-party sites, you become subject to the third party’s terms of use and privacy policies. You should review the privacy policies of these third-party sites for their policies and practices regarding the collection and use of your information as their policies may differ from ours. We do not accept any responsibility or liability for the privacy practices of third parties.
+
+## Account Creation by Administrator
+
+A student’s PBS LearningMedia account may be an account created by an administrator, such as your educational institution. When creating this account, the administrator may provide certain personal information, including, for example, a user’s first name, last name, and birth date. PBS LearningMedia associates this information with the account and uses it for the benefit of the educational institution.
 
 ## Contact Us
 
