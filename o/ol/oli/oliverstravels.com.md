@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverstravels.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404052034id_/http%3A//www.oliverstravels.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverstravels.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716021311id_/https%3A//www.oliverstravels.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oliver's Travels
 
