@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanoshiijapanese.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083113id_/http%3A//www.tanoshiijapanese.com/home/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanoshiijapanese.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716091728id_/http%3A//www.tanoshiijapanese.com/home/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Tanoshii Japanese
 
@@ -16,4 +16,4 @@ www.tanoshiijapanese.com reserves the right to make amendments to this Privacy P
 
 You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing. www.tanoshiijapanese.com reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
 
-www.tanoshiijapanese.com welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us using the [contact form](https://web.archive.org/web/20170606083113id_/http%3A//www.tanoshiijapanese.com/home/contact.cfm).
+www.tanoshiijapanese.com welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us using the [contact form](https://web.archive.org/web/20170716091728id_/http%3A//www.tanoshiijapanese.com/home/contact.cfm).
