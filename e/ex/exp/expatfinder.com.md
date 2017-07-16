@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001010id_/http%3A//www.expatfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716070515id_/http%3A//www.expatfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -31,7 +31,7 @@ We will not sell or rent your personally identifiable information to anyone. We 
 
 We have your consent to share the information;   
 We need to share your information to provide the product or service you have requested;   
-We need to send the information to companies who work on behalf of us to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);   
+We need to send the information to companies who work on behalf of us to provide a product or service to you.   
 We respond to subpoenas, court orders or legal process; or   
 We find that your actions on our web sites violate the ExpatFinder Terms of Use, or any of our usage guidelines for specific products or services.
 
@@ -46,7 +46,7 @@ If you have questions or suggestions email us at [contact@expatfinder.com](mailt
 ### Purchase your relocation   
 City Guide Now
 
-### International School Fee Survey 2016   
+### International School Fee Survey 2017   
 
 
 ##### As seen on:
