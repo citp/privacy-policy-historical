@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the audiense.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215033101id_/https%3A//audiense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiense.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716032632id_/https%3A//audiense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audiense
 
-Audiense Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our[ terms of use](https://audiense.com/tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Audiense Limited of Floor 4th, 22 Upper Ground, London, SE1 9PD.
+Audiense Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our[ terms of use](https://audiense.com/tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Audiense Limited of 114-116 Curtain Road, London, EC2A 3AH.
 
 ### Information we may collect from you
 
