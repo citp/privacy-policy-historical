@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.net privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206043451id_/http%3A//www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.net privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716233056id_/https%3A//www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy) for the most accurate reproduction.*
 
 # RCN Privacy Policy
 
@@ -10,7 +10,7 @@ RCN understands how important personal privacy is to you and we are committed to
 **As a customer of RCN, you are agreeing to the terms of this Privacy Policy, and revisions made to the Privacy Policy from time to time (see VI. Revision of This Policy), unless and until you terminate your RCN services.  
 **
 
-[Summary ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Summary) |  [Personal Information Defined ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#PersonalInfo) |  [Collection of Information ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#CollOfInfo) |  [Privacy and Use of Information ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#UseOfInfo) |  [Customer Agreement ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#CustomerAgreement) |  [Links to Other Web Sites ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Links) |  [Revision of this Policy ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Revision)
+[Summary ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Summary) |  [Personal Information Defined ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#PersonalInfo) |  [Collection of Information ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#CollOfInfo) |  [Privacy and Use of Information ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#UseOfInfo) |  [Customer Agreement ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#CustomerAgreement) |  [Links to Other Web Sites ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Links) |  [Revision of this Policy ](https://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Revision)
 
 **Summary**
 
@@ -208,32 +208,3 @@ Our web site contains links to other web sites not operated by RCN, which may or
 **VI. REVISION OF THIS POLICY**
 
 This Privacy Policy may be revised from time to time by RCN, by updating the copy posted on the RCN web site(s). Amendments to this Privacy Policy will be effective when posted on the RCN web site(s). You should therefore periodically visit the Privacy Policy page on our web site to review the current Privacy Policy, so you are aware of any such revisions to which RCN's employees, agents and customers are bound. Revisions to RCN's Privacy Policy will be announced on RCN's homepage at [www.rcn.com ](http://www.rcn.com/). 
-
-I love RCN! I've been using it since 2000! 
-
-Aaron, Dorchester Center, MA
-
-Award  
-Winning
-
-**2016**  
-Overall  
-Satisfaction
-
-**2015**  
-Top Consumer  
-Recommended
-
-**Readers Choice**  
-2 Years  
-in a Row
-
-Reprinted from www.pcmag.com with permission. © 2016 Ziff Davis, LLC. All Rights Reserved.
-
-[](http://www.rcn.com/hub/customer-center/customer-pledge/)
-
-### Switching Is Easy
-
-With same-day installation, two-hour service windows and 24/7 customer support, switching to RCN has never been easier.
-
-[Read Our Pledge](http://www.rcn.com/hub/customer-center/customer-pledge/)
