@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127194410id_/http%3A//www.monicavinader.com/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716120818id_/https%3A//www.monicavinader.com/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * Jewellery
   * Personalise
   * Monica's World
-  * [Black Friday](https://web.archive.org/blackfriday)
 
 
 
@@ -19,12 +18,12 @@
   * [Jewellery Care](https://web.archive.org/customer-care/jewellery-care)
   * [Gift Cards](https://web.archive.org/customer-care/gift-cards)
   * [Terms & Conditions ](https://web.archive.org/customer-care/privacy-and-security)
-    * [Black Friday Sale 2016](https://web.archive.org/customer-care/privacy-and-security/black-friday-sale-2016)
+    * [Diamond Giveaway Prize Draw](https://web.archive.org/customer-care/privacy-and-security/diamond-giveaway-prize-draw)
+    * [Website Terms of Use](https://web.archive.org/customer-care/privacy-and-security/website-terms-of-use)
     * [Online Terms of Sale](https://web.archive.org/customer-care/privacy-and-security/online-terms-of-sale)
     * [Payment Security](https://web.archive.org/customer-care/privacy-and-security/payment-security)
     * [Privacy Policy](https://web.archive.org/customer-care/privacy-and-security/privacy-promise)
     * [Flash and Browser Options](https://web.archive.org/customer-care/privacy-and-security/flash-and-browser-options)
-    * [Website Terms of Use](https://web.archive.org/customer-care/privacy-and-security/website-terms-of-use)
 
 
 
@@ -70,7 +69,7 @@ Criteo | These cookies help us to provide you with personalised adverts when you
 Session and Persistent
 
 To opt-out of Criteo:  
-<http://www.networkadvertising.org/choices/>  
+<http://info.criteo.com/privacy/cookiecontrol/>  
   
 DoubleClick  
 Floodlight | DoubleClick uses cookies to serve Monica Vinader display advertisements across third party websites. The DoubleClick cookie serves relevant adverts to potential customers and takes a note whenever someone interacts with an advert. If a customer interacts with an advert and then makes a purchase, a conversion tracking cookie records this and we can then use this information to improve our display adverts | Advertising Cookies  
