@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletruths.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516063544id_/http%3A//www.simpletruths.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletruths.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716032424id_/https%3A//www.simpletruths.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Truths
 
