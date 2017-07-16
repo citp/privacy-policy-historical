@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416070522id_/https%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716152444id_/https%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
 
 # Shopcade
 
 Shopvolution Limited ("we", "us" or "our") is committed to protecting and respecting your privacy. This policy (together with our [Terms of Service](http://www.shopcade/tc) ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For data protection purposes, the data controller is Shopvolution Limited, incorporated and registered in the England and Wales (number 07431086), whose registered office is at 87 Notting Hill Gate London W11 3JZ, United Kingdom.
+For data protection purposes, the data controller is Shopvolution Limited, incorporated and registered in the England and Wales (number 07431086), whose registered office is at 131-151 Great Titchfield Street, W1W 5BB London, United Kingdom.
 
   
 
@@ -118,4 +118,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcome and should be addressed to [support@shopvolution.com](mailto:support@shopvolution.com) or Shopvolution Limited, Privacy Office, 87 Notting Hill Gate, W11 3JZ, London, United Kingdom
+Questions, comments and requests regarding this privacy policy are welcome and should be addressed to [feedback@shopcade.com](mailto:feedback@shopcade.com) or Shopvolution Limited, Privacy Office, 131-151 Great Titchfield Street, W1W 5BB London, United Kingdom
