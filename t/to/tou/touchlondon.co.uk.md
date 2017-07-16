@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchlondon.co.uk privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223105658id_/http%3A//www.touchlondon.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchlondon.co.uk privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716160416id_/http%3A//www.touchlondon.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Touch Local | Privacy Policy
 
