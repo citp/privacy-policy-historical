@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602145956id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716125748id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
 
 # Instant Checkmate Terms of Use - The internet's #1 source for Background Checks
 
@@ -55,7 +55,7 @@ We may disclose Personal Information or other data to comply with law or legal r
 
 #### vi. Email Marketing
 
-By submitting your email address via the Site, you are expressly consenting to receive emails from Instant Checkmate, including from Instant Checkmate’s affiliates, and from third parties concerning offers and advertisements unrelated to Instant Checkmate.  To opt-out of receiving email messages from us, from our affiliates or from other third parties, click on the “Unsubscribe” link contained in each email.
+By submitting your email address via the Site, you are expressly consenting to receive emails from Instant Checkmate, including from Instant Checkmate’s affiliates, and from third parties concerning offers and advertisements unrelated to Instant Checkmate.  To unsubscribe from receiving email messages from us, from our affiliates or from other third parties, click on the “Unsubscribe” link contained in each email.
 
 #### vii. Contests, Sweepstakes, Surveys
 
@@ -86,9 +86,9 @@ We reserve the right, at any time and without notice, to update or modify this P
 If you have questions about this Privacy Policy or want to contact us, please send an email to privacy@instantcheckmate.com or write to us at:
 
 Instant Checkmate  
-4330 S Valley View Blvd, Ste 118  
-Las Vegas, NV 89103-4052
+3111 Camino Del Rio N Suite 400  
+San Diego, CA 92108
 
-DISCLAIMER: You may not use our service or the information it provides to make decisions about consumer credit, employment, insurance, tenant screening, or any other purpose that would require FCRA compliance. Instant Checkmate does not provide consumer reports and is not a consumer reporting agency. (These terms have special meanings under the Fair Credit Reporting Act, 15 USC 1681 et seq., ("FCRA"), which are incorporated herein by reference.) The information available on our website may not be 100% accurate, complete, or up to date, so do not use it as a substitute for your own due diligence, especially if you have concerns about a person's criminal history. Instant Checkmate does not make any representation or warranty about the accuracy of the information available through our website or about the character or integrity of the person about whom you inquire. For more information, please review Instant Checkmate Terms of Use. 
+DISCLAIMER: You may not use our service to make decisions about consumer credit, employment, insurance, tenant screening, or any other purpose that would require FCRA compliance. Instant Checkmate does not provide consumer reports and is not a consumer reporting agency. (These terms have special meanings under the Fair Credit Reporting Act, ("FCRA"), which we incorporate here.) The information available may not be 100% accurate, complete, or up to date, so do not use it as a substitute for your own due diligence, especially if you have concerns about a person's criminal history. Instant Checkmate does not make any representation or warranty about the accuracy of our website or about the character or integrity of the person about whom you inquire. Please review Instant Checkmate [Terms of Use](https://web.archive.org/terms-of-use/). 
 
-Copyright © 2016 Instant Checkmate, Inc. All Rights Reserved. 
+Copyright © 2017 Instant Checkmate, Inc. All Rights Reserved. 
