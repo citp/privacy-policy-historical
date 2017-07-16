@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfairfax.com.au privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626030914id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfairfax.com.au privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716104927id_/http%3A//www.fairfax.com.au//privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Media - Australian Digital Media publisher
 
