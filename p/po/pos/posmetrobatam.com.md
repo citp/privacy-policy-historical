@@ -1,117 +1,41 @@
-> *The following text is extracted and transformed from the posmetrobatam.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511164014id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posmetrobatam.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716222504id_/http%3A//www.posmetrobatam.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hover.com
+# Privacy | Posmetro Trending Stories
 
-## Our Privacy and Data Collection Practices
+## Privacy Policy:
 
-Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
+Posmetro Trending Stories (" **Posmetro Trending Stories** ") operates posmetrobatam.com and may operate other websites. It is Posmetro Trending Stories policy to respect your privacy regarding any information we may collect while operating our websites.
 
-The purpose of this document is to share these details with our customers and any else that is interested in these details.
+### Website Visitors
 
-Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
+Like most website operators, Posmetro Trending Stories collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Posmetro Trending Stories purpose in collecting non-personally identifying information is to better understand how Posmetro Trending Stories visitors use its website. From time to time, Posmetro Trending Stories may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
+Posmetro Trending Stories also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on posmetrobatam.com blogs/sites. Posmetro Trending Stories only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-## Account Information
+### Gathering of Personally-Identifying Information
 
-When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
+Certain visitors to Posmetro Trending Stories websites choose to interact with Posmetro Trending Stories in ways that require Posmetro Trending Stories to gather personally-identifying information. The amount and type of information that Posmetro Trending Stories gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [posmetrobatam.com](http://www.posmetrobatam.com/) to provide a username and email address. Those who engage in transactions with Posmetro Trending Stories are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Posmetro Trending Stories collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Posmetro Trending Stories. Posmetro Trending Stories does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Account data includes:
+### Aggregated Statistics
 
-  
+Posmetro Trending Stories may collect statistics about the behavior of visitors to its websites. Posmetro Trending Stories may display this information publicly or provide it to others. However, Posmetro Trending Stories does not disclose personally-identifying information other than as described below.
 
+### Protection of Certain Personally-Identifying Information
 
-• the name of the account holder;
+Posmetro Trending Stories discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Posmetro Trending Stories behalf or to provide services available at Posmetro Trending Stories websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Posmetro Trending Stories websites, you consent to the transfer of such information to them. Posmetro Trending Stories will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Posmetro Trending Stories discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Posmetro Trending Stories believes in good faith that disclosure is reasonably necessary to protect the property or rights of Posmetro Trending Stories, third parties or the public at large. If you are a registered user of an Posmetro Trending Stories website and have supplied your email address, Posmetro Trending Stories may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Posmetro Trending Stories and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Posmetro Trending Stories takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-• the mailing address of the account holder;
+### Cookies
 
-• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Posmetro Trending Stories uses cookies to help Posmetro Trending Stories identify and track visitors, their usage of Posmetro Trending Stories website, and their website access preferences. Posmetro Trending Stories visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Posmetro Trending Stories websites, with the drawback that certain features of Posmetro Trending Stories websites may not function properly without the aid of cookies.
 
-• a credit card number, expiry and verification code;
+### Business Transfers
 
-Registration contact data includes:
+If Posmetro Trending Stories, or substantially all of its assets, were acquired, or in the unlikely event that Posmetro Trending Stories goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Posmetro Trending Stories may continue to use your personal information as set forth in this policy.
 
-  
+### Ads
 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Posmetro Trending Stories and does not cover the use of cookies by any advertisers.
 
-• the name of the owner and administrative contact(s)
+### Privacy Policy Changes
 
-• the address of the owner and administrative contact(s)
-
-• the phone number of the owner and administrative contact(s)
-
-• the email address for the owner and administrative contact(s)
-
-## Our use of your account data
-
-Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
-
-We share this data programmatically with Mailchimp and Mandrill for the purpose of sending your notifications and updates about our services and Braintree, for the purpose of billing your credit card.
-
-Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry normal first six and last four digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
-
-Hover shares your name, email address and demographic information with Mailchimp and Mandrill for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Braintree, nor Mailchimp or Mandrill may ever use your data for their own purposes without our explicit consent or notice to us.
-
-Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
-
-We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
-
-Hover does not share your account data with any other parties for any other reasons.
-
-## Our use of your registration data
-
-Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
-
-ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
-
-We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
-
-We never sell this information.
-
-## WHOIS
-
-Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
-
-Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
-
-Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
-
-[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
-
-It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
-
-Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
-
-## Domain Search Information
-
-When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
-
-We never sell the search information you provide to us.
-
-We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
-
-## Customer Service Information
-
-We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
-
-When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
-
-## Electronic Newsletters and Unsubscribe Policy
-
-When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
-
-## Data Analytics
-
-We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Hotjar.
-
-From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
-
-## Surveys
-
-Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
-
-Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
-
-## How to contact us
-
-Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
+Although most changes are likely to be minor, Posmetro Trending Stories may change its Privacy Policy from time to time, and in Posmetro Trending Stories sole discretion. Posmetro Trending Stories encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a posmetrobatam.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
