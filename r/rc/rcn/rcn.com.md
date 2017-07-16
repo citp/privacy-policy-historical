@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615200336id_/https%3A//www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716233056id_/https%3A//www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy) for the most accurate reproduction.*
 
 # RCN Privacy Policy
 
@@ -208,32 +208,3 @@ Our web site contains links to other web sites not operated by RCN, which may or
 **VI. REVISION OF THIS POLICY**
 
 This Privacy Policy may be revised from time to time by RCN, by updating the copy posted on the RCN web site(s). Amendments to this Privacy Policy will be effective when posted on the RCN web site(s). You should therefore periodically visit the Privacy Policy page on our web site to review the current Privacy Policy, so you are aware of any such revisions to which RCN's employees, agents and customers are bound. Revisions to RCN's Privacy Policy will be announced on RCN's homepage at [www.rcn.com ](http://www.rcn.com/). 
-
-Love RCN! Always recommend it to friends and neighbors. 
-
-Gwendolyn, Washington, DC
-
-Award  
-Winning
-
-**2016**  
-Overall  
-Satisfaction
-
-**2015**  
-Top Consumer  
-Recommended
-
-**Readers Choice**  
-3 Years  
-in a Row
-
-Reprinted from www.pcmag.com with permission. © 2017 Ziff Davis, LLC. All Rights Reserved.
-
-[](https://www.rcn.com/hub/customer-center/customer-pledge/)
-
-### Switching Is Easy
-
-With same-day installation, two-hour service windows and 24/7 customer support, switching to RCN has never been easier.
-
-[Read Our Pledge](https://www.rcn.com/hub/customer-center/customer-pledge/)
