@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startnow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164415id_/http%3A//www.startnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startnow.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716044722id_/http%3A//startnow.com/privacy) for the most accurate reproduction.*
 
 # StartNow Start - Privacy Policy
 
