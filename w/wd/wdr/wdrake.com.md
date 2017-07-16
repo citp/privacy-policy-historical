@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716093016id_/https%3A//www.wdrake.com/faq%23SecurityandPrivacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions - Walter Drake
 
   * About Us
   * Ordering Online
   * Order Form
-  * EasyPAY
+  * EasyPay
   * Product Search and Availability
   * Personalized and Photo Merchandise
   * Shipping
@@ -15,7 +15,7 @@
   * Toy Safety
   * International
   * Buyer's Club
-  * Processing 
+  * Handling 
   * Auto Refill
   * Gift Certificates
 
@@ -47,7 +47,7 @@ Attn: Product Ideas
 Oshkosh, WI 54906  
 [newideas@wdrake.com](mailto:newideas@wdrake.com)
 
-Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/customerservice/contactus.aspx). 
+Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/walterdrake/customerservice/contactus.aspx). 
 
 How do I get to Walter Drake locations?
 
@@ -79,19 +79,19 @@ Easy Comforts is on the left before the stop sign.
 
 What are the Walter Drake Affiliate Programs?
 
-We recently partnered with Impact Radius to manage our affiliate program. Join our affiliate program today and earn cash by promoting our brand and products on your website. When one of your customers visits our site and makes a purchase, we pay you a commission. For more information and to join, please visit the [Impact Radius affiliate website](http://member.impactradius.com/campaign-campaign-info/Walter-Drake.brand?io=EjTZ2s6yzZuBDmcV0SzS7tnsKAQ0WkDpZ1chWyUdygTEkRshiaX82k94SpUPlNTR%3C/a). 
+We recently partnered with Impact Radius to manage our affiliate program. Join our affiliate program today and earn cash by promoting our brand and products on your website. When one of your customers visits our site and makes a purchase, we pay you a commission. For more information and to join, please visit the [Impact Radius affiliate website](http://member.impactradius.com/campaign-campaign-info/Walter-Drake.brand?io=EjTZ2s6yzZuBDmcV0SzS7tnsKAQ0WkDpZ1chWyUdygTEkRshiaX82k94SpUPlNTR). 
 
 What is the Walter Drake Environmental Policy?
 
 Did you know?
 
-* Walter Drake Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
+* Walter Drake Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/walterdrake/images/docs/copy%20of%20environmental%20emissions%20equivalents.xls).  
 * Walter Drake Company uses corrugate shipping containers made from over 60% post consumer content.  
 * Walter Drake Company is committed to recycling. Annually, our distribution center recycles 600 tons of cardboard and 60 tons of office paper.  
-* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/images/docs/Paper%20Reduction%202005-2007.pdf).  
+* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/walterdrake/images/docs/paper%20reduction%202005-2007.pdf).  
 * The Walter Drake Foundation donates more than $100,000 each year to support charitable, scientific, literary and educational institutions
 
-[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/CustomerService/Environmental_Policy.aspx). 
+[Click here to see our entire environmental policy and vision statement](https://web.archive.org/walterdrake/CustomerService/Environmental_Policy.aspx). 
 
   
 
@@ -126,27 +126,27 @@ Please allow 24 hours turn-around time for an email response.
 
 Can I place an order online and send you a check?
 
-We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/images/docs/OrderForm.pdf) from the website and mail it in with a check. 
+We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/walterdrake/images/docs/orderform.pdf) from the website and mail it in with a check. 
 
 Do I have to pay sales tax?
 
-Walter Drake collects the applicable sales tax on all orders shipped to Wisconsin.
+Sales tax is a tax imposed by state and local jurisdictions on retailers for the privilege of selling tangible goods to consumers.   **Walter Drake collects the applicable sales tax on all orders shipped to Wisconsin.   We do not collect sales or use taxes in any other states.** Each state and local jurisdiction has their own calculation and guidelines for what are “taxable goods” and what are exempted.  For states imposing sales or use taxes, your purchase is subject to use tax unless it is specifically exempt from taxation.  **Your purchase is not exempt merely because it is made over the Internet, by catalog or by other remote means.**  Many states require purchasers to file a sales/use tax return at the end of the year reporting all of the taxable purchases that were not taxed and to pay tax on those purchases.
 
- **Colorado, Oklahoma and Kentucky Sales Tax**
+**If you live in Colorado** , please read this information about sales tax.  For Colorado purchasers, we may be required by Colorado law to provide you with an end-of-year summary of Colorado purchases in order to assist you in filing your tax returns. The State of Colorado requires that a Colorado purchaser file a sales or use tax return at the end of the year reporting all of the taxable Colorado purchases that were not taxed and pay tax on those purchases.   Additional information on your Colorado tax reporting obligations are available on the [Colorado Department of Revenue website](https://www.colorado.gov/pacific/tax/consumer-use-tax-quick-answers). We also are required by law to provide the Colorado Department of Revenue with a report of your name, billing and shipping addresses, and the total amount of all your purchases during the previous calendar year by March 1.  If you have privacy concerns or questions about Colorado's purchase reporting law, please contact your state representatives.  See <http://leg.colorado.gov/find-my-legislator>
 
-We do not collect sales or use taxes in all states. For states imposing sales or use taxes, your purchase is subject to use tax unless it is specifically exempt from taxation. Your purchase is not exempt merely because it is made over the Internet or by other remote means. Many states require purchasers to file a sales/use tax return at the end of the year reporting all of the taxable purchases that were not taxed and to pay tax on those purchases. Details of how to file these returns may be found at the websites of your respective taxing authorities.
+**If you live in Kentucky** , please read this information about sales tax.  The Commonwealth of Kentucky requires Kentucky purchasers to report all purchases of tangible personal property or digital property that are not taxed by us and pay use tax on those purchases unless exempt under Kentucky law. The tax may be reported and paid on the Kentucky individual income tax return or by filing a consumer use tax return with the Kentucky Department of Revenue. These forms and corresponding instructions may be found on the [Kentucky Department of Revenue website](http://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx).
 
-For Oklahoma purchasers, the tax may be reported and paid on the Oklahoma individual income tax return [Form 511] or by filing a consumer use tax return [Form 21-1]. The referenced forms and corresponding instructions are available on the Oklahoma Tax Commission website, www.tax.ok.gov.
+**If you live in Louisiana** , please read this information about sales tax.  The state requires each Louisiana purchaser to report any purchase that was not taxed and to pay tax on the purchase. The use tax liability is required to be paid annually and may be reported on the Louisiana individual income tax return or on the Louisiana use tax form.  The corresponding instructions are available on the  [Louisiana Department of Revenue website](http://www.rev.state.la.us/SalesTax/GeneralSalesAndUseTax). We also are required by law to provide the Louisiana Department of Revenue with a Customer Information Report of the total amount of all your purchases during the previous calendar year by March 1.  
 
-We may be required by Colorado law to provide purchasers an end-of-year summary of Colorado purchases in order to assist purchasers in filing their tax returns. We also may be required by law to provide the Colorado Department of Revenue with a report of the total amount of all your purchases at the end of the year. We will not provide any transactional details to the Department other than the total amount of your purchases.
+**If you live in Oklahoma** , please read this information about sales tax.  The State of Oklahoma requires Oklahoma purchasers to report all purchases that were not taxed and pay tax on those purchases.  Use taxes may be reported and paid on the Oklahoma individual income tax return [Form 511] or by filing a consumer use tax return [Form 21-1]. The referenced forms and corresponding instructions are available on the [Oklahoma Tax Commission website](http://www.ok.gov/tax/).
 
-For Kentucky purchasers, we are not required to and do not collect Kentucky sales or use tax, the purchase may be subject to Kentucky use tax unless the purchase is exempt from taxation in Kentucky, the purchase is not exempt merely because it is made over the internet, by catalog or by any other remote means. The Commonwealth of Kentucky requires Kentucky purchasers to report all purchases of tangible personal property or digital property that are not taxed by the retailer and pay use tax on those purchases unless exempt under Kentucky law. The tax may be reported and paid on the Kentucky individual income tax return or by filing a consumer use tax return with the Kentucky department of Revenue. These forms and corresponding instructions may be found on the Kentucky Department of Revenue’s internet web site.
+**If you live in South Dakota** , please read this information about sales/use tax.  The state requires each South Dakota purchaser to report any purchase that was not taxed and to pay tax on the purchase.  The tax may be reported and paid on the South Dakota use tax form. The use tax form and corresponding instructions are available on the [South Dakota Department of Revenue website](http://dor.sd.gov/Taxes/Business_Taxes/UseTax.aspx).  
 
-Some customers have asked why these new requirements exist. We are required to provide the notice and the reports described above for Colorado purchases based on a Colorado law (HB 1193) enacted in February 2010. We are required to provide the notice (but not the reports) above for Oklahoma purchases based on an Oklahoma law (HB 2359) enacted in June 2010. We are required to provide the notice and the reports described above for Kentucky purchases based on a Kentucky law (HB 440) enacted in October 2013. 
+**If you live in Vermont** , please read this information about sales tax.  The state requires each Vermont purchaser to report any purchase that was not taxed and to pay tax on the purchase. Vermont law requires that use tax liability be paid annually on the Vermont individual income tax return.  The corresponding instructions are available on the [Department of Taxes website](http://tax.vermont.gov/).  We also are required by law to provide the Department of Taxes with copies of the annual statements sent to purchasers of during the previous year by January 31.   
 
 Do I have to register to place an order?
 
-No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
+No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/walterdrake/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
 
 How do I check the status of my web order?
 
@@ -168,7 +168,7 @@ Once you submit your order, we will email you twice, confirming that we have rec
 
 When will my credit card be charged?
 
-Your credit card is charged when the merchandise ships from our fulfillment center. Back orders are not charged until the merchandise ships. 
+Your credit card is charged when the merchandise ships from our fulfillment center. Back orders are not charged until the merchandise ships. Once your credit card has been charged, the transaction will appear on your credit card statement as “w/WDR WALTER DRAKE 800-858-4979”. 
 
 Which credit cards do you accept?
 
@@ -236,9 +236,9 @@ Do you have an order form that I can print?
   
 
 
-How does Installment Billing work?
+How does EasyPay work?
 
-Installment billing is available for credit card orders only and is subject to approval. (Debit cards may be used however charges will be preauthorized and funds will be reserved in your account prior to billing.) Merchandise total must exceed $75 after discounts, promotions, and gift certificates have been applied to your order. Your merchandise total will be divided into equal payments. The first payment will also include shipping & handling fees and sales tax and will be charged to your credit card on the date we ship your order. The balance due will be divided into equal monthly payments each commencing 30 days from the date of your previous payment. We will automatically charge your credit card until full payment is received. In the case of split shipments, drop shipments, or backorders your payments may be split based on when your items ship. There is no interest charged by Walter Drake for installment billing. Normal interest charges may be applied by your credit card company per your individual card agreement. If unable to obtain credit card authorization at the time of billing, you authorize Walter Drake to charge up to the full unpaid balance to another credit card we have on file. Installment Billing only available on select offers. 
+EasyPay is available for credit card orders only and is subject to approval. (Debit cards may be used however charges will be preauthorized and funds will be reserved in your account prior to billing.) Merchandise total must exceed $75 after discounts, promotions, and gift certificates have been applied to your order. Your merchandise total will be divided into equal payments. The first payment will also include shipping & handling fees and sales tax and will be charged to your credit card on the date we ship your order. The balance due will be divided into equal monthly payments each commencing 30 days from the date of your previous payment. We will automatically charge your credit card until full payment is received. In the case of split shipments, drop shipments, or backorders your payments may be split based on when your items ship. There is no interest charged by Walter Drake for installment billing. Normal interest charges may be applied by your credit card company per your individual card agreement. If unable to obtain credit card authorization at the time of billing, you authorize Walter Drake to charge up to the full unpaid balance to another credit card we have on file. EasyPay is only available on select offers. 
 
   
 
@@ -291,7 +291,7 @@ Please note that you may upload photos to accompany your order by following the 
 
 After I've typed in the personalization for a product, how do I review it to make sure it is correct?
 
-You can review personalization when you are on the [Shopping Cart page](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/checkout/shoppingcart.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
+You can review personalization when you are on the [Shopping Cart page](https://web.archive.org/walterdrake/checkout/shoppingcart.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
 
 If I order a personalized product and non-personalized product, will I receive all merchandise in the same order or in multiple shipments?
 
@@ -306,14 +306,13 @@ You can ship an order to yourself at a different address. Physical street addres
 
 Do you have express shipping?
 
-Yes, we have four express shipping methods in addition to the Economy shipping. Express shipping is not available for shipments outside the contiguous US, to P.O. Boxes or for oversized, drop-ship or out-of-stock items. 
+Yes, we have two express shipping methods in addition to the Economy shipping. Express shipping is not available for shipments outside the contiguous US, to P.O. Boxes or for oversized, drop-ship or out-of-stock items. 
 
-  * **Standard:** Your order will arrive in 3 to 6 business days after leaving our warehouse. Delivery occurs Tuesday through Saturday for residences; Monday through Friday for business addresses. **Additional cost: $7.95**
-  *  **Premium:** Your order will arrive in 3 business days after leaving our warehouse. Delivery occurs Monday through Friday. **Additional cost: $9.95**
+  * **Premium:** Your order will arrive in 3 business days after leaving our warehouse. Delivery occurs Monday through Friday. **Additional cost: $9.95**
   *  **Next Business Day** (if ordered by 1:00PM Central): Your order will arrive the next day after leaving our warehouse. Delivery occurs Monday through Friday. **Additional cost: $32.00**
 
   
-USPS Priority Mail is for customers OUTSIDE THE CONTIGUOUS UNITED STATES ONLY. It is highly recommended that shipments to Alaska, Hawaii, Puerto Rico and U.S. Territories choose Priority Mail Service in order to receive their package in 7-10 business days; otherwise, it can take as much as 2 to 3 weeks. **Additional cost: $3.99.**
+USPS Priority Mail is for customers OUTSIDE THE CONTIGUOUS UNITED STATES ONLY. It is highly recommended that shipments to Alaska, Hawaii, Puerto Rico and U.S. Territories choose Priority Mail Service in order to receive their package in 7-10 business days; otherwise, it can take as much as 2 to 4 weeks. **Additional cost: $3.99.**
 
 Do you ship internationally?
 
@@ -353,7 +352,7 @@ Shipping Costs
 
 Merchandise Subtotal| Please Add  
 ---|---  
-$0.01 - $9.99| $3.99  
+$0.01 - $9.99| $4.99  
 $10.00 - $19.99| $5.99  
 $20.00 - $29.99| $7.99  
 $30.00 - $44.99| $8.99  
@@ -641,7 +640,7 @@ Within 24 hours of placing your order, you will receive an order confirmation em
 
 What is the returns policy for international orders?
 
-All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/customerservice/ContactUs.aspx). All responses to customer service questions will be in English. Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
+All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/walterdrake/customerservice/ContactUs.aspx). All responses to customer service questions will be in English. Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
 
   
 
@@ -653,7 +652,7 @@ Joining the Walter Drake [Buyer's Club](https://web.archive.org/buy-walter-drake
   * 10% off all orders*
   * FREE shipping on all orders
   * Additional special discounts & offers
-  * [Sign up](https://web.archive.org/web/20160314073059id_/https%3A//www.wdrake.com/walterdrake/customerservice/emailsignup.aspx) for email & get member-only shopping privileges
+  * [Sign up](https://web.archive.org/walterdrake/customerservice/emailsignup.aspx) for email & get member-only shopping privileges
 
   
 * Discounts apply to orders with merchandise totals exceeding $20. Terms subject to change. Walter Drake coupons cannot be combined with other offers. Discounts apply only to Walter Drake. Non-refundable. Expires 12 months from membership purchase. 
@@ -665,9 +664,9 @@ To join the Buyer's Club, click [here.](https://web.archive.org/buy-walter-drake
   
 
 
-What is Processing?
+What is Handling?
 
-Processing helps us maintain the lowest possible prices and shipping charges by offsetting a portion of the cost to process and fulfill your order. We choose not to hide these costs within our shipping chart or cover them by raising the price of our products.
+Handling helps us maintain the lowest possible prices and shipping charges by offsetting a portion of the cost to process and fulfill your order. We choose not to hide these costs within our shipping chart or cover them by raising the price of our products.
 
 Join our [Buyer's Club](http://www.wdrake.com/walterdrake/displayitem.aspx?id=347794) and receive FREE shipping and 10% discount on all orders.
 
