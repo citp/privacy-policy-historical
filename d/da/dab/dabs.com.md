@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611020037id_/https%3A//www.shop.bt.com/help/policies/bt-shop-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716125446id_/https%3A//www.shop.bt.com/help/policies/bt-shop-privacy-policy) for the most accurate reproduction.*
 
 # Our privacy policy | BT Shop
 
