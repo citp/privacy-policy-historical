@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneyconverter.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205025227id_/http%3A//themoneyconverter.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneyconverter.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717080442id_/https%3A//themoneyconverter.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Usage
 
@@ -18,7 +18,7 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on themoneyconverter.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html). 
 
 ## DoubleClick DART cookies
 
@@ -26,7 +26,7 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. 
 
-You can opt-out of this ad serving on all sites using this advertising by visiting [Ads Settings](http://www.google.com/settings/ads "Ads Settings")
+You can opt-out of this ad serving on all sites using this advertising by visiting [Ads Settings](https://www.google.com/settings/ads "Ads Settings")
 
 Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/ "aboutads.info"). 
 
