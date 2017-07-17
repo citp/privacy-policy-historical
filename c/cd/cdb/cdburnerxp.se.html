@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the cdburnerxp.se privacy policy that was archived on 2016-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403183800id_/https%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdburnerxp.se privacy policy that was archived on 2017-07-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170717184550id_/https%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta name="Description" content="Free CD, DVD, ISO, HD-DVD and Blu-Ray burning software with multi-language interface. Everyone, even companies, can use it for free.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Robots" content="index,follow">
 <meta name="viewport" content="width=device-width">
+<meta name="referrer" content="origin">
 <link rel="stylesheet" href="/templates/refresh/images/Refresh.css" type="text/css">
 
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent v2.0 -->
@@ -50,34 +51,57 @@
   })();
 </script>
 
-<script type="text/javascript">
-// <![CDATA[
-cc.initialise({
-	cookies: {
-		analytics: { },
-		advertising: { }
-	},
-	settings: {
-		consenttype: "implicit",
-		ignoreDoNotTrack: true,
-		style: "light",
-		bannerPosition: "bottom",
-		disableallsites: true,
-		useSSL: true
-	}
-});
-// ]]>
-</script>
 </head>
 
 <body>
+<script type="text/javascript">
+var adVars = { adShown: false, userConverted: false };
+var ADNL = [];
 
+if (window.location == window.parent.location) {
+	if (localStorage.Conversion != null && !adVars.adShown) {
+		localStorage.removeItem("Conversion");
+		showAd();
+	} else if (adVars.userConverted && !adVars.adShown) {
+		showAd();
+	}
+} else {
+	localStorage.setItem("Conversion", "true");
+}
+
+function userConversion() {
+	localStorage.setItem("Conversion", "true");
+	showAd();
+}
+
+function showAd() {
+	if (!adVars.adShown) {
+		window.setTimeout(function () {
+			supp_key = "8fd8d6d10db5d52c9b0aad3870c3e768";
+			supp_time = new Date().getTime();
+			supp_channel = "";
+			supp_code_format = "ads-sync.js";
+			supp_click = "";
+			supp_custom_params = { };
+
+			var ad_script = document.createElement('script');
+			ad_script.src = '//www.1-1ads.com/js/show_ads_supp.js?pubId=4878'
+			document.body.appendChild(ad_script);
+        		return true;
+			
+			if (localStorage.Conversion != null) {
+				localStorage.removeItem("Conversion");
+			}
+		}, 5 * 1000);
+	}
+}
+</script>
 <!-- wrap starts here -->
 <div id="wrap">
 		<!--header -->
 		<div id="header">
 
-			<h1 id="logo-text"><span>CDBurnerXP</span> <small style="padding-left:166px">ver. 4.5.6</small></h1>
+			<h1 id="logo-text"><span>CDBurnerXP</span> <small style="padding-left:166px">ver. 4.5.7</small></h1>
 			<h2 id="slogan">...burn CDs and DVDs for free!</h2>
 
         <form class="search" action="/./search" id="cse-search-box">
@@ -169,12 +193,12 @@ cc.initialise({
                                                 <li><a href="/help/Appendices/uninstallation">Uninstallation / Removal of CDBurnerXP</a></li>
                                   </ul>
                         
-                		<div class="plugin_translation"><h1>Translations</h1><ul class="sidemenu">  <li><div class="li"><span class="curid"><a href="/help/policies/privacy" class="wikilink1" title="policies:privacy">en</a></span></div></li>  <li><div class="li"><a href="/help/ca/policies/privacy" class="wikilink1" title="ca:policies:privacy">ca</a></div></li>  <li><div class="li"><a href="/help/chs/policies/privacy" class="wikilink2" title="chs:policies:privacy" rel="nofollow">chs</a></div></li>  <li><div class="li"><a href="/help/de/policies/privacy" class="wikilink2" title="de:policies:privacy" rel="nofollow">de</a></div></li>  <li><div class="li"><a href="/help/es/policies/privacy" class="wikilink2" title="es:policies:privacy" rel="nofollow">es</a></div></li>  <li><div class="li"><a href="/help/fr/policies/privacy" class="wikilink2" title="fr:policies:privacy" rel="nofollow">fr</a></div></li>  <li><div class="li"><a href="/help/ru/policies/privacy" class="wikilink2" title="ru:policies:privacy" rel="nofollow">ru</a></div></li></ul></div>
+                		<div class="plugin_translation"><h1>Translations</h1><ul class="sidemenu">  <li><div class="li"><span class="curid"><a href="/policies/privacy" class="wikilink1" title="policies:privacy">en</a></span></div></li>  <li><div class="li"><a href="/ca/policies/privacy" class="wikilink1" title="ca:policies:privacy">ca</a></div></li>  <li><div class="li"><a href="/chs/policies/privacy" class="wikilink2" title="chs:policies:privacy" rel="nofollow">chs</a></div></li>  <li><div class="li"><a href="/de/policies/privacy" class="wikilink2" title="de:policies:privacy" rel="nofollow">de</a></div></li>  <li><div class="li"><a href="/es/policies/privacy" class="wikilink2" title="es:policies:privacy" rel="nofollow">es</a></div></li>  <li><div class="li"><a href="/fr/policies/privacy" class="wikilink2" title="fr:policies:privacy" rel="nofollow">fr</a></div></li>  <li><div class="li"><a href="/ru/policies/privacy" class="wikilink2" title="ru:policies:privacy" rel="nofollow">ru</a></div></li></ul></div>
                 
                 
                 <h1>Management</h1>
         <ul class="sidemenu">
-          <a href="/help/policies/privacy?do=edit&amp;rev=0" class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><li>Show pagesource</li></a>                                        <a href="/help/policies/privacy?do=login&amp;sectok=c1de68f9cc3666bdf4dd2c36ab877b23" class="action login" rel="nofollow" title="Login"><li>Login</li></a>        </ul>
+          <a href="/policies/privacy?do=edit&amp;rev=0" class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><li>Show pagesource</li></a>                                        <a href="/policies/privacy?do=login&amp;sectok=3d7b1cb3ef0a19257541e35883016bcc" class="action login" rel="nofollow" title="Login"><li>Login</li></a>        </ul>
                 
 
 			</div>
@@ -193,13 +217,7 @@ cc.initialise({
 <p>
 If you encounter an error while using CDBurnerXP, and you decide an to send us an error report, <em>only</em> the following information will be submitted:
 </p>
-
-            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 468x60, Erstellt 17.06.08 -->
-<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-9699155347347465" data-ad-slot="0631040971"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><ul>
+<ul>
 <li class="level1"><div class="li"> The name and version of your operating system</div>
 </li>
 <li class="level1"><div class="li"> The error message, the stack strace and a list of all installed devices, as shown in the dialog</div>
@@ -222,9 +240,15 @@ The received data will solely be used in attempt to solve your problem with CDBu
 <div class="level2">
 
 <p>
-If you <a href="/help/appendices/report-drive" class="wikilink1" title="appendices:report-drive">submit a working drive</a>, we collect the following information <em>only</em>:
+If you <a href="/appendices/report-drive" class="wikilink1" title="appendices:report-drive">submit a working drive</a>, we collect the following information <em>only</em>:
 </p>
-<ul>
+
+            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 468x60, Erstellt 17.06.08 -->
+<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-9699155347347465" data-ad-slot="0631040971"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><ul>
 <li class="level1"><div class="li"> Device vendor as shown in the dialog</div>
 </li>
 <li class="level1"><div class="li"> Device model as shown in the dialog</div>
@@ -245,10 +269,18 @@ Further system or personal information is <strong>not</strong> being submitted o
 <div class="level2">
 
 <p>
-Cookies will be used to store a user's settings (like login information at the <a href="http://forum.cdburnerxp.se" class="urlextern" title="http://forum.cdburnerxp.se">forum</a> or the preferred website language). No personal information is stored within them. <br>
-
-Additional to that, third parties which are not under our control may use cookies. Google for example uses cookies for ads displayed on the web page, and they have their own <a href="http://www.google.com/privacy.html" class="urlextern" title="http://www.google.com/privacy.html">privacy policy</a>.
+Cookies will be used to store a user's settings (like login information at the <a href="http://forum.cdburnerxp.se" class="urlextern" title="http://forum.cdburnerxp.se">forum</a> or the preferred website language). No personal information is stored within these.
 </p>
+
+<p>
+Additional to that, third parties which are not under our control may use cookies. This includes:
+</p>
+<ul>
+<li class="level1"><div class="li"> Google ads and Google Analytics - <a href="https://www.google.com/policies/privacy/" class="urlextern" title="https://www.google.com/policies/privacy/">Privacy policy</a>.</div>
+</li>
+<li class="level1"><div class="li"> ironSource Display ads - <a href="http://display.ironsrc.com/assets/uploads/ironSourceDisplayPrivacyPolicy.pdf" class="urlextern" title="http://display.ironsrc.com/assets/uploads/ironSourceDisplayPrivacyPolicy.pdf">Privacy policy</a></div>
+</li>
+</ul>
 
 <p>
 Note about Google ads: Google's use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" class="urlextern" title="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>. 
@@ -258,6 +290,9 @@ Note about Google ads: Google's use of the DART cookie enables it to serve ads b
 
 <h2 class="sectionedit5" id="echo-nest-music-identification">Echo Nest music identification</h2>
 <div class="level2">
+
+<div class="noteclassic">This feature has been removed from current versions of CDBurnerXP.
+</div>
 
 <p>
 For music identification (if you use the feature), CDBurnerXP generates a fingerprint of the song you identify (basically a “compressed” version of the music that only is a few KB in size) and submits it to EchoNest servers. No further data that identifies yourself or your file is submitted.
@@ -278,22 +313,33 @@ You may also want to check the <a href="http://the.echonest.com/privacy/" class=
 <h2 class="sectionedit6" id="installeropencandy">Installer / OpenCandy</h2>
 <div class="level2">
 
+<div class="noteclassic">OpenCandy has been replaced by installCore in current versions of CDBurnerXP and is no longer active in older installers.
+</div>
+
+</div>
+
+<h2 class="sectionedit7" id="installerinstallcore">Installer / installCore</h2>
+<div class="level2">
+
 <p>
-The default installer (there are also setup packages without included) makes use of the OpenCandy advertisement platform. When installing CDBurnerXP, you are asked to accept the OpenCandy EULA as following:
+The default installer (setup packages without installCore are also available) makes use of the installCore advertisement platform. When installing CDBurnerXP, you are asked to review and accept the installCore Installation Guidelines.
 </p>
 
-<div class="noteclassic">This installer uses the OpenCandy network to recommend other software you may find valuable during the installation of this software. OpenCandy collects *NON-personally identifiable* information about this installation and the recommendation process.  Collection of this information ONLY occurs during this installation and the recommendation process; in accordance with OpenCandy's Privacy Policy, available at <a href="http://www.opencandy.com/privacy-policy" class="urlextern" title="http://www.opencandy.com/privacy-policy">www.opencandy.com/privacy-policy</a>
-</div>
-
 <p>
-More information about the collected data can also be found on <a href="http://www.opencandy.com/privacy-matters/opencandy-network-details/" class="urlextern" title="http://www.opencandy.com/privacy-matters/opencandy-network-details/">Your Privacy and The OpenCandy Network</a>.
+This installer uses installCore to recommend other software you may find valuable during the installation of this software. installCore collects *NON-personally identifiable* information about this installation and the recommendation process. For further information, please review the documents below: 
 </p>
+<ul>
+<li class="level1"><div class="li"> <a href="https://www.installcore.com/site/legal/installation-guidelines/" class="urlextern" title="https://www.installcore.com/site/legal/installation-guidelines/">installCore Installation Guidelines</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://www.installcore.com/site/legal/privacy/" class="urlextern" title="https://www.installcore.com/site/legal/privacy/">installCore End-user Privacy Policy</a></div>
+</li>
+</ul>
 
 </div>
 
 </div>
 
-<div class="no"><img src="/help/lib/exe/indexer.php?id=policies%3Aprivacy&amp;1459708681" width="2" height="1" alt=""></div>
+<div class="no"><img src="/lib/exe/indexer.php?id=policies%3Aprivacy&amp;1500317151" width="2" height="1" alt=""></div>
 
 </div>
 		
@@ -304,7 +350,7 @@ More information about the collected data can also be found on <a href="http://w
 		<div id="footer">
 			
 			<p>
-			© 2004 - 2016 <strong><a href="/impressum">Impressum</a></strong> | 
+			© 2004 - 2017 <strong><a href="/impressum">Impressum</a></strong> | 
       <a href="/help/policies/privacy">Privacy</a> |
 			Design by: <a href="http://www.styleshout.com/">styleshout</a> | 
             <a href="/rss/news.xml" class="rss">RSS feed</a>
