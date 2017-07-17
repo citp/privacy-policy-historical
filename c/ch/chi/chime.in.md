@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chime.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607030549id_/https%3A//aws.amazon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chime.in privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717054413id_/https%3A//aws.amazon.com/privacy) for the most accurate reproduction.*
 
 # AWS Privacy
 
