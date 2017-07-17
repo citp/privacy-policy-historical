@@ -1,0 +1,851 @@
+<!--The following is the downloaded HTML source of the thepaperwall.com privacy policy that was archived on 2017-07-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170717110106id_/https%3A//www.thepaperwall.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <title>The Paper Wall</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <meta name="robots" content="index, follow, noarchive">
+        <meta name="googlebot" content="noarchive">
+        
+        <link rel="shortcut icon" href="/live/images/icon.ico" type="image/x-icon">
+
+        <!--Select2-->
+        <link rel="stylesheet" type="text/css" href="http://thepaperwall.com/admin/css/select2.min.css">
+        <link rel="stylesheet" type="text/css" href="http://thepaperwall.com/live/css/app.min.css">
+        <link rel="stylesheet" type="text/css" media="only screen and (min-width:50px) and (max-width:480px)" href="http://thepaperwall.com/live/css/small_style.css">
+        <link rel="stylesheet" type="text/css" media="only screen and (min-width:481px) and (max-width:768px)" href="http://thepaperwall.com/live/css/medium_style.css">
+        
+        <!--Jcrop-->
+     	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="http://thepaperwall.com/live/js/thewallpaper.js"></script>
+
+
+                
+
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <!--CATEGORIES, POPULAR, RESOLUTIONS, PACKS DROPDOWNS -->
+        <script type="text/javascript">
+            $(function() {
+                /*madium-small navigation dropdown*/
+                $(".small_nav_link").click(function(){
+                    if($(this).hasClass("active")){
+                        $(this).removeClass("active")
+                        $(".nav_big").stop(true, true).fadeOut();
+                    }else {
+                        $(this).addClass("active");
+                        $(".nav_big").stop(true, true).fadeIn();
+                    }
+                });
+                /*madium-small navigation dropdown*/
+
+                /*main nav dropdowns*/
+                //Navigation Dropdown
+                $(".nav_item a").click(function(){
+                    if($(this).hasClass("active")){
+                        $(this).removeClass("active");
+                        $(this).parent().children("div").stop(true, true).fadeOut();
+                    }else {
+                        $(".nav_item a").parent().children("div:visible").stop(true, true).fadeOut();
+                        $(".nav_item a.active").removeClass("active");
+                        $(this).addClass("active");
+                        $(this).parent().children("div").stop(true, true).fadeIn();
+                    }
+
+                });
+                //Hide navigation
+                $(document).mouseup(function(e){
+                    if ($(".nav_item").has(e.target).length === 0)
+                    {
+                        $(".nav_item > div:visible").stop(true, true).fadeOut();
+                        $(".nav_item > a.active").removeClass("active");
+                    }
+                });
+
+                // User Profile Navigation Dropdown
+                $(".user-wrap").click(function(){
+                    if($(this).hasClass("active")){
+                        $(this).removeClass("active");
+                        $(".dropdown-settings").stop(true, true).slideUp();
+                    }else {
+                        $(this).addClass("active");
+                        $(".dropdown-settings").stop(true, true).slideDown();
+                    }
+
+                });
+                // Hide User Profile Navigation Dropdown
+                $(document).mouseup(function(e){
+                    if ($(".user-wrap").has(e.target).length === 0)
+                    {
+                        $(".user-wrap").removeClass("active");
+                        $(".dropdown-settings").stop(true, true).slideUp();
+                    }
+                });
+
+                // User Notifications Dropdown
+                $(".notification-wrap").click(function(){
+                    if($(this).hasClass("active")){
+                        $(this).removeClass("active");
+                        $(".dropdown-notifications").stop(true, true).slideUp();
+                    }else {
+                        $(this).addClass("active");
+                        $(".dropdown-notifications").stop(true, true).slideDown();
+                    }
+
+                });
+                // Hide User Notifications Dropdown
+                $(document).mouseup(function(e){
+                    if ($(".notification-wrap").has(e.target).length === 0)
+                    {
+                        $(".notification-wrap").removeClass("active");
+                        $(".dropdown-notifications").stop(true, true).slideUp();
+                    }
+                });
+
+                // Function for ajax marking of notifications as read
+                $(".notification-wrap").click(function() {
+                    // Ajax call to database
+                    $.getJSON('http://thepaperwall.com/mark-all-notifications-as-read',
+                        {},function(){});
+                });
+                /*main nav dropdowns*/
+
+                //Info dialog
+                $(".safety_info").click(function(){
+                    $(".sfw_nsfw_info_cont").stop(true, true).fadeIn();
+                });
+                $(".sfw_nsfw_close").click(function(){
+                    $(".sfw_nsfw_info_cont").stop(true, true).fadeOut();
+                });
+
+                // NSFW confirm dialog box
+                $(".confirm-dialog").on("click",function(event){
+                    event.preventDefault();
+                    var redirectLink = $(this).attr("href");
+                    //Confirmation modal if not safe for work
+                    $('#confrim-nsfw').modal({escapeClose : false,clickClose  : false,showClose   : false});
+
+                });
+
+                //Confirmed over 18
+                $("a.confirmage.true").click(function(){
+                    var markLink = $(this);
+                    if(!markLink.hasClass("hold"))
+                    {
+                        var redirectLink = $(".confirm-dialog").attr("href");
+                        markLink.addClass("hold");
+                        location.href = redirectLink;
+                    }
+                });
+
+                // Search box autocomplete
+                $("#search").autocomplete({
+                    minLength: 1,
+                    source: 'http://thepaperwall.com/getautocomplete',
+                    open: function() {
+                        $(this).autocomplete("widget").appendTo(".search-dropdown");
+                    },
+                    select: function(event, ui) {
+                        $(this).val(ui.item.value).next().trigger('click');
+                    }
+                });
+            });
+        </script>
+        <!--CATEGORIES, POPULAR, RESOLUTIONS, PACKS DROPDOWNS -->
+
+        <!-- FIX FOR IPAD, MOBILE DEVICES FOR VERTICAL SCROLLBAR -->
+        <script type="text/javascript">
+            $(document).ready(function(){
+                //testing for the device
+                if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+                    $("#filters").css({"width":"189", "overflow-y":"auto"});
+                }
+                //check if the device is MAC laptop
+                if (navigator.userAgent.indexOf('Mac OS X') != -1) {
+                    $("#filters").css({"width":"189", "overflow-y":"auto"});
+                }
+            });
+        </script>
+        <!-- FIX FOR IPAD, MOBILE DEVICES FOR VERTICAL SCROLLBAR -->
+    </head>
+    <body>
+        <!--Facebook SDK include-->
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId      : '1522832727994119',
+                    xfbml      : true,
+                    version    : 'v2.5'
+                });
+            };
+
+(function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+        </script>
+        <!--Twitter javascript snippet-->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <!--Google+ javascript include-->
+    <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+    <!-- Site wrapper -->
+    <div class="site-wrapper">
+        <div id="header_out">
+            <!-- HEADER_IN START HERE -->
+            <div id="header_in">
+                <!-- TOP BAR START HERE -->
+                <div class="top_bar">
+                    <!-- SAFE/NOT SAFE FOR WORK SWITCH START -->
+                                        <!-- SAFE/NOT SAFE FOR WORK SWITCH END -->
+					<div class="top_big_ads">
+        <a href="http://thepaperwall.com/user-login" class="mblock" target="_blank">
+            <img src="/uploads/images/homeitems/0258696001500029175.jpeg" alt="" border="0">
+        </a>
+    </div>
+
+
+<style>	
+@media  screen and (min-width: 1147px)
+{
+.top_big_ads{
+    width: 100% !important;
+    max-width: 730px !important;
+    height: 48px;
+    margin: 2px auto !important;
+	float:none !important;
+}
+.login-wrap { 
+    margin: -44px 0 0;
+}
+.top_big_ads img {
+    height: 48px !important;
+}
+}	
+@media  screen and (max-width: 1146px) and (min-width : 930px)
+{
+.top_big_ads{
+    width: 100% !important;
+    max-width: 500px !important;
+    height: 48px;
+    margin: 2px auto !important;
+	float:none !important;
+}
+.login-wrap { 
+    margin: -44px 0 0;
+}
+.top_big_ads img {
+    height: 48px !important;
+}
+}
+@media  screen and (min-width: 1400px)
+{
+.login-wrap {
+    min-width: 300px;
+}
+.login-btn-wrap {
+    min-width: 160px !important;
+}
+}	
+	.site-wrapper .top_big_ads{
+		display: none;
+	}
+	.site-wrapper .top_bar .top_big_ads{
+		display: block;
+	}
+	.top_big_ads{ 
+		display: none;
+    float: left;
+    height: 48px;
+    padding: 0px;
+    clear: none;
+    margin-left: 50px;
+    margin-top: 4px;
+	}
+	@media  screen 
+and  (max-width : 1039px)   { 
+	.top_big_ads img
+	{ 
+		width:100%;
+		height: auto;
+		 
+	}
+		.top_big_ads {
+	display: block;
+    float: left;
+    height: 48px;
+    padding: 0px;
+    clear: none;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 40%;
+}
+	}
+	@media  screen and (min-width : 1040px) and (max-width : 1139px)   { 
+	.top_big_ads img
+	{ 
+		width:100%;
+		height: auto;
+		 
+	}
+		.top_big_ads {
+	display: block;
+    float: left;
+    height: 48px;
+    padding: 0px;
+    clear: none;
+    margin-left: 50px;
+    margin-top: 1px;
+    width: 46%;
+}
+	}
+	@media  screen and (min-width : 1140px) and (max-width : 1349px)   { 
+	.top_big_ads img
+	{ 
+		width:100%;
+		height: auto;
+		 
+	}
+		.top_big_ads {
+	display: block;
+    float: left;
+    height: 48px;
+    padding: 0px;
+    clear: none;
+    margin-left: 50px;
+    margin-top: 1px;
+    width: 50%;
+}
+	}
+		@media  screen 
+and (min-width : 1349px)   { 
+ .top_big_ads img
+	{ 
+		width:auto;
+		height: 48px;
+		 
+	}
+.top_big_ads {
+	 display: block;
+	margin-top: 1px;
+    width: 58%;
+}
+	}
+	@media  screen and  (max-width : 929px)   { 
+			.top_big_ads {
+			 display: none !important;
+		}
+	}
+
+	
+</style>                    <!--Login-->
+                                                <div class="login-wrap login-btn-wrap">
+                                <a class="header-login" href="http://thepaperwall.com/user-login">Login / Register</a>
+                        </div>
+                                        <!--Login-->
+                </div>
+                <!-- TOP BAR END HERE -->
+
+                <!-- NAVIGATION BAR START HERE -->
+                <div class="navigation_bar_cont">
+                    <!-- NAVIGATION-BIG START-->
+                    <div class="logo"><a href="http://thepaperwall.com"><img src="http://thepaperwall.com/live/images/logo.png" border="0" alt="The Paper Wall"></a></div>
+
+                    <div class="small_nav_link_cont">
+                        <span class="nav_border"></span>
+                        <a class="small_nav_link" href="#"></a>
+                    </div>
+
+                    <ul class="nav_big">
+                        <li class="nav_border first"></li>
+                        <li class="nav_item">
+                            <a class="categories" href="#">CATEGORIES</a>
+                            <!-- Categories dropdown-->
+                            <div class="categories_dropdown_cont">
+	<div class="dropdown_top_arrow"></div>
+	<ul class="categories_dropdown">
+							 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/architecture">Architecture</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/animals">Animals</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/bikes">Bikes</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/cars">Cars</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/cartoon-comic">Cartoon/Comic</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/cityscape">CityScape</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/computer-tech">Computer/Tech</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/digital-artwork">Digital/Artwork</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/dual-monitor">Dual Monitor</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/fantasy">Fantasy</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/food-drink">Food/Drink</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/girls">Girls</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/guns">Guns</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/holiday">Holiday</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/humor">Humor</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/industrial">Industrial</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/informational">Informational</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/insects">Insects</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/iphone-mobile">iPhone/Mobile</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/love-hate">Love/Hate</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/misc">Misc</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/movies">Movies</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/music">Music</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/nature">Nature</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/people">People</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/quotes-worded">Quotes/Worded</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/sci-fi">Sci-Fi</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/science">Science</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/space">Space</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/sports">Sports</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/television">Television</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/video-games">Video Games</a>
+				</li>
+											 
+				<li class="even">
+					<a href="http://thepaperwall.com/category/vintage-historical">Vintage/Historical</a>
+				</li>
+											 
+				<li class="odd">
+					<a href="http://thepaperwall.com/category/war-military">War/Military</a>
+				</li>
+									</ul>
+</div>                            <!-- Categories dropdown-->
+                        </li>
+                        <li class="nav_border"></li>
+                        <li class="nav_item">
+                            <!-- Recent filter -->
+                            <a class="recent" href="http://thepaperwall.com/recent-wallpapers">RECENT</a>
+                            <!-- Recent filter -->
+                        </li>
+                        <li class="nav_border"></li>
+                        <li class="nav_item">
+                            <a class="popular" href="#">POPULAR</a>
+                            <!-- Popular dropdown-->
+                            <div class="popular_dropdown_cont">
+	<div class="popular_dropdown_top_arrow"></div>
+	<ul class="popular_dropdown">
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/oneday">Last 24 hours</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/threedays">Last 3 days</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/week">Last Week</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/month">Last Month</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/sixmonths">Last 6 Months</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/year">Last Year</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/popular-wallpapers/all">All Time</a>
+					</li>
+	</ul>
+</div>                            <!-- Popular dropdown-->
+                        </li>
+                        <li class="nav_border"></li>
+                        <li class="nav_item">
+                            <a class="resolution" href="#">RESOLUTION</a>
+                            <!-- Resolution dropdown-->
+                            <div class="popular_dropdown_cont">
+	<div class="popular_dropdown_top_arrow"></div>
+	<ul class="resolution_dropdown">
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/default">All wallpapers</a>
+					</li>
+		<li class="resolution_drop_title">Widescreen 16:9</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/3840x2160">3840x2160</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/2560x1440">2560x1440</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1920x1080">1920x1080</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1600x900">1600x900</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1366x768">1366x768</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1280x720">1280x720</a>
+					</li>
+		<li class="resolution_drop_title">Widescreen 16:10</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/2880x1800">2880x1800</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/2560x1600">2560x1600</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1920x1200">1920x1200</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1680x1050">1680x1050</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1440x900">1440x900</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1280x800">1280x800</a>
+					</li>
+		<li class="resolution_drop_title">Fullscreen 4:3</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1600x1200">1600x1200</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1400x1050">1400x1050</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1280x960">1280x960</a>
+					</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1024x768">1024x768</a>
+					</li>
+		<li class="resolution_drop_title">Fullscreen 5:4</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/1280x1024">1280x1024</a>
+					</li>
+		<li class="resolution_drop_title">Dual Monitor</li>
+		<li><a href="">All</a></li>
+		<li class="resolution_drop_title">Small</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/small">Smallest-1279x799</a>
+					</li>
+		<li class="resolution_drop_title">Medium</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/medium">1280x800-1919x1079</a>
+					</li>
+		<li class="resolution_drop_title">Large</li>
+		<li>
+							<a href="http://thepaperwall.com/resolution-wallpapers/large">1920x1080-Largest</a>
+					</li>
+	</ul>
+</div>                            <!-- Resolution dropdown-->
+                        </li>
+                        <li class="nav_border"></li>
+                        <li class="nav_item">
+                            <a class="packs" href="http://thepaperwall.com/packs">PACKS</a>
+                        </li>
+                        <li class="nav_border"></li>
+                        <li class="nav_item">
+                            <a class="shuffle" href="http://thepaperwall.com/shuffle">SHUFFLE</a>
+                        </li>
+                    </ul>
+                    <!-- NAVIGATION-BIG END-->
+                </div>
+                <!-- NAVIGATION BAR END HERE -->
+
+                <!-- SEARCH BAR-->
+                <form method="GET" action="http://thepaperwall.com/search" accept-charset="UTF-8" id="search-form">
+<div class="search_bar_cont">
+    <div class="search_bar">
+
+        <input type="text" id="search" name="search" class="search_box">
+        <input type="submit" name="submit" value="search" class="search_btn">
+        <div class="search-dropdown">
+
+        </div>
+        
+    </div>
+</div></form>
+                <!-- SEARCH BAR-->
+                <div style="clear:both"></div>
+            </div>
+            <!-- HEADER_IN END HERE -->
+        </div>
+ 
+
+	<!-- MAINCOL START HERE-->
+	<div id="main-cont" class="legaly-policy-cont">
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<p>
+				Revision date: December 03, 2015 <br>
+				The Paper Wall respects your privacy. <br>
+				This Privacy Policy applies to our web site: <a class="legal-link-txt" href="http://www.thepaperwall.com/" target="_blank">www.thepaperwall.com</a>. This Privacy Policy explains what information we collect through the Site, how we use that information, and what choices you have. The Site and our services available via the Site are collectively called the <span class="legal-bold-txt">“Services”</span>.<br>
+				Please take a few moments to read this Privacy Policy. By accessing The Paper Wall Site, you acknowledge that this Privacy Policy applies to only the Services.
+			</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>What We Collect and How We Use the Information We Collect</h2>
+			<p>Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account (as defined below) if you are an Account holder), and to enable you to enjoy and easily navigate our Services.</p>
+			<p><span class="legal-italic-txt">Personally Identifiable Information</span>. If you create a Paper Wall account via The Paper Wall Site or through third party sites (an <span class="legal-bold-txt">“Account”</span>), we collect certain information that can be used to identify you, such as your name, age/birthdate, postal address, telephone number, e-mail address, credit card information, bank account details, social security number, or other information that can be used to contact you or identify you as an individual (collectively, <span class="legal-bold-txt">“PII”</span>).</p>
+			<p>If you create your Account using your login credentials from a third party site or service, we'll be able to access and collect your name and email address and other PII that your privacy settings on that third party site or service permits us to access but we don't receive or store passwords for those third party sites and services. We cannot delete or change any PII that is stored on third party sites and services.</p>
+			<p>We collect and use your PII when you register for special services, sign up for e-mail newsletters and purchase products or services. We use your PII to help customize advertising and content available on The Paper Wall Site, to send you information about products and services that may be of interest to you and/or to conduct research for internal purposes. Some features, services, and promotional opportunities that we offer may also ask you to submit PII to participate.</p>
+			<p>If you have uploaded Artist Materials (as defined in and pursuant to the Submission(s) and Copyright(s) Policy) you have also authorized The Paper Wall to use some of your publicly visible PII for distribution, advertising and promotional purposes.</p>
+			<p><span class="legal-italic-txt">Non-Personally Identifiable Information</span>. Our servers automatically record certain information about how a person uses our Services (we refer to this information as <span class="legal-bold-txt">“Log Data”<span>), for both Account holders and non-Account holders (either will be referred to as a <span class="legal-bold-txt">“User”</span>).</span></span></p>
+			<p>Log Data may include information such as a User's Internet Protocol (IP) address, mobile device identifier, browser type, operating system, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services on which a User clicked, the friends of Account holders who also use the Services, purchases made by the User, how often Users click on our advertisements, which files are downloaded most frequently, and which areas of our Site are the most popular and other statistics. We also collect certain information that your mobile device sends when you use our Services, including user settings, the operating system, as well as information about your use of our Services. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users' needs and preferences, and to make recommendations. We may use a person's IP address to fight spam, malware and identity theft. We also use the IP address to generate aggregate, non-identifying information about how our Services are used.</p>
+			<p>Like many Internet sites, we also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer and is stored on your hard drive when you access our Services. When you visit our Services the cookie identifies your computer to us so that you do not have to re-register each time you visit. We also use cookies to identify that you've logged in to the Services, to tell us how and when you interact with our Services, to monitor aggregate usage and web traffic routing on our Services, to return you to a persistent location of your choosing, and to customize and improve our Services and to measure the traffic to our Sites and the use of different features of the Services. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don't accept cookies, you may not be able to access all portions or features of the Services. Third party advertisers that appear on the Sites may place cookies on your computer and their use of the information stored on those cookies is subject to their own privacy policies. You should visit their websites to learn about their information practices. Note that this Privacy Policy only covers our use of cookies and does not include the use of cookies by such third parties. Advertisers or other companies do not have access to The Paper Wall’s cookies.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>How We Share Information</h2>
+			<p>Except as noted, The Paper Wall does not share your PII with third parties unless you give us your permission or we need to share such information in order to provide our Services to you at your request.</p>
+			<p> 
+				<span class="legal-italic-txt">Information Shared with Our Service Providers</span> <br>
+				We may engage third party service providers to work with us to administer and provide the Services. For example, we use third parties to help with some of the products and services available on our Site, such as processing payments and fulfilling orders for products through The Paper Wall shopping cart, to help us with maintenance of the Site or to administer mailing lists. When we supply PII to these third party service providers, we require them to use it only for the purposes of providing services to us or to you as you have requested through our Site. These service providers are expressly obligated not to disclose or use your PII for any other purpose.
+			</p>	
+			<p> 
+				<span class="legal-italic-txt">Information Shared with Advertisers</span> <br>
+				We may share aggregated information and non-identifying information that we collect with third party advertisers.
+			</p>
+			<p> 	
+				<span class="legal-italic-txt">Information Shared with Third Parties</span> <br>
+				We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes.
+			</p>
+			<p> 	
+				<span class="legal-italic-txt">Information Disclosed for Our Protection and the Protection of Others</span> <br>
+				We will disclose PII when required by law or under the good-faith belief that such disclosure is necessary in order to conform to applicable law, comply with subpoenas, court orders or legal process served on The Paper Wall, to establish or exercise our legal rights or defend against legal claims, and to protect the property or interests of The Paper Wall, its agents and employees, personal safety, or the public. Under these circumstances, The Paper Wall may be prohibited by law, court order or other legal process from providing notice of the disclosure, and The Paper Wall reserves the right under those conditions to not provide notice in its sole discretion.
+			</p>	
+			<p> 
+				<span class="legal-italic-txt">Information Disclosed in Connection with Business Transactions</span> <br>
+				Information that we collect from our Users, including PII, is considered to be a business asset. If we become part of another organization, including without limitation, by merger, change of control, sale of assets, or other acquisition, go out of business or enter bankruptcy, your PII may be disclosed or transferred to a third-party acquirer in connection with the transaction.
+			</p>	
+			<p> 
+				<span class="legal-italic-txt">APIs</span> <br>
+				We offer APIs for use by third parties to access various features of our Services and content on our Site. Some APIs will be used by third parties to access and use your PII with the third parties' services however, your PII will not be accessed and used by a third party API user without your consent. We also offer APIs to some of our third party service providers to assist with provision of services to us, such as, but not limited to, credit card processing and shipping fulfillment services, and those third party API users will access and use your PII only in order to provide services to us for you, as noted above under “Information Shared with Our Service Providers”.
+			</p>
+			<p> 	
+				<span class="legal-italic-txt">Information We Disclose with Your Consent or at Your Request</span> <br>
+				We will share your PII with third-party websites or platforms, such as social networking sites, if you have expressly requested that we do so.
+			</p>
+		</div>	
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Your Profile Page</h2>
+			<p>When you create an Account, you have many options which both limit or expand your privacy based upon your choices while setting up your Account or editing your Settings after creation. Please note that when you create an Account, your profile page will display your Account user name and certain statistics regarding your own use of the Services, including but not limited to, how long you have been an Account holder, the categories of materials you posted and how long ago you last visited the Site. It also may display information about the Account holders who visit your profile page including the names of those Account holders who follow you (if the Account holder has permitted such display), and the ranking of yourself as well as the Account holders who visited you.</p>
+			<p>Any information or content that you post to your profile page, or to chat rooms or forums will be publicly accessible by Users so please exercise your good judgment before you post. The name you choose when creating your Account is visible to all Users of the Services. If you visit another account holder's profile page, your user name will appear on that page. The Paper Wall does not control, and is not responsible for, the use of any information or content that you have exposed to the public through your use of the Services. You may use the tools we make available via the Services to make decisions about what information about you, including PII, will be visible on your profile page and on the profile pages of other Account holders that you visit. Please note Accounts can be created either by individuals or companies.</p>
+			<p>Even if you choose not to receive information from us, we reserve the right to communicate with you on matters we consider especially important.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Making Changes</h2>
+			<p>You may review your PII by logging in and navigating to your Settings page on the website. Once there, you may modify information that is incorrect and delete certain information from your profile. To delete your PII, you must manually change your data fields to null values. Please note that some information associated with you cannot be deleted. Data related to transactions for products and services through The Paper Wall Open House and/or shopping cart is retained indefinitely and we may retain other PII associated with you in archived/backup copies for our records or as otherwise required by law.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Security</h2>
+			<p>We take reasonable measures to protect the information that we collect from you or about you (including your PII). Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>International Transfers</h2>
+			<p>Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you're located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your use of our Services and submission of any PII represents your agreement to that transfer.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Children’s Information</h2>
+			<p>We do not intend that children under 13 years old will use our Services. We do not solicit or knowingly collect information from children under 13 years old, nor will we accept registration from them.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Updates</h2>
+			<p>Any information that we collect is subject to the Privacy Policy in effect at the time the information is collected by us. However, we may update this Privacy Policy from time to time as our Services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your Account, with the use of an internal message directed to your Account or by posting a notice of such changes on the Site. Unless otherwise provided, the updated Privacy Policy will take effect on the date it is posted. Once such changes become effective, your continued use of the Site and/or Services will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, you should stop using the Site and/or Services.</p>
+		</div>
+
+		<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Scope</h2>
+			<p>The Paper Wall Site contain links to other websites and/or services. This Privacy Policy does not apply to the practices of any companies or individuals that The Paper Wall does not control, or any websites and/or services that you link to from The Paper Wall Site. The Paper Wall is not responsible for the content, privacy or security practices and policies of those companies, individuals, websites and/or services and any information that you provide on or to third-party companies, individuals, websites or services are subject to those parties' privacy policies. You should use caution and review the privacy policies of any websites that you visit from ours to learn more about their information practices.</p>
+		</div>
+
+				<!-- Rules policy - text wrapper -->
+		<div class="rules-policy-text-wrap">
+			<h2>Questions</h2>
+			<p>The Paper Wall Site contain links to other websites and/or services. This Privacy Policy does not apply to the practices of any companies or individuals that The Paper Wall does not control, or any websites and/or services that you link to from The Paper Wall Site. The Paper Wall is not responsible for the content, privacy or security practices and policies of those companies, individuals, websites and/or services and any information that you provide on or to third-party companies, individuals, websites or services are subject to those parties' privacy policies. You should use caution and review the privacy policies of any websites that you visit from ours to learn more about their information practices.</p>
+		</div>
+
+		<h2>The Paper Wall <br> Email: <a class="legal-link-txt" href="mailto:TPWComplaints@gmail.com" target="_blank">TPWComplaints@gmail.com</a></h2>
+
+		<div style="clear:both;"></div>
+	</div>	
+
+
+<div class="push"></div>
+			</div>
+			<!-- Site wrapper -->
+			<script type="text/javascript">
+				$(function(){
+					//Donate button click
+					$(".donateclick").click(function(){
+						if($(this).hasClass("done"))
+							$(".donate-box").stop().animate({'left' : '0','opacity' : '0'}, 1000, function() { $(this).hide(); $(".donateclick").removeClass("done"); });
+						else
+							$(".donate-box").stop().show().animate({'left' : '10','opacity' : '1'}, 1000, function() { $(".donateclick").addClass("done"); });						
+					});
+					//Close button click
+					$(".donate-close-popup a").click(function(){
+						$(".donate-box").stop().animate({'left' : '0','opacity' : '0'}, 1000, function() { $(this).hide(); $(".donateclick").removeClass("done"); });
+					})
+
+					// Close notification tiles
+					$('.notification-tile > div > a').on('click',function(){
+						$(this).parent().parent().remove();
+					});
+				});
+			</script>
+			<!-- Footer -->
+			<div id="footer_out">
+				<div class="donate-box">
+					<div class="donate-close-popup">
+						<a href="javascript:;"><img src="http://thepaperwall.com/live/images/close-donate.png" alt="X" border="0" width="12px" height="12px"></a>
+					</div>
+					<p>The Paper Wall has grown faster than I ever imagined it would.  I update and maintain the site myself and keeping it fast and responsive has become quite costly.  Any and all help you could provide is truly appreciated :)</p>
+					<h4>Thank You</h4>
+					<div class="donate-box-button">
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="MRK23LF78DCB6">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form>
+					</div>
+				</div>
+				<div id="footer_in">
+					<ul class="footer_nav">
+						<li><a href="http://thepaperwall.com/rss">RSS FEED</a>|</li>
+						<li><a class="donateclick" href="javascript:;">DONATE</a>|</li>
+						<li><a href="http://thepaperwall.com/faq">FAQ</a>|</li>
+						<li><a href="http://thepaperwall.com/contact">CONTACT US</a>|</li>
+						<li><a href="http://thepaperwall.com/user-upload-wallpaper">UPLOAD</a></li>
+					</ul>
+	
+					<div class="footer_social">
+						<p>FOLLOW US !</p>
+						<a class="footer_facebook" target="_blank" href="https://www.facebook.com/pages/ThePaperWallcom/144459865614916"></a>
+						<a class="footer_twitter" target="_blank" href="http://twitter.com/TPWdotcom"></a>
+						<a class="footer_google" target="_blank" href=""></a>
+					</div>
+					
+					<div class="footer_info">
+						<p class="footer_white_text">© 2017 The Paper Wall™. All rights reserved.</p>
+						<ul class="footer_nav footer-legaly-nav">
+							<li><a href="http://thepaperwall.com/rules-of-conduct-policy">Rules of Conduct Policy</a>|</li>
+							<li><a href="http://thepaperwall.com/copyrights">Copyrights</a>|</li>
+							<li><a href="http://thepaperwall.com/terms-of-service">Terms of service</a>|</li>
+							<li><a href="http://thepaperwall.com/privacy-policy">Privacy policy</a></li>
+						</ul>	
+						<p>Disclaimer: Some of the images provided by ThePaperWall may contain language or other content that some might view as inappropriate or offensive. Discretion is advised.</p>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+			</div>
+			<!-- Footer -->
+	
+</body></html>
