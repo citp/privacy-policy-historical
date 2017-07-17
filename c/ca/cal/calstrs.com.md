@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calstrs.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625071556id_/http%3A//www.calstrs.com/footer-link/privacy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calstrs.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717064954id_/https%3A//www.calstrs.com/footer-link/privacy-0) for the most accurate reproduction.*
 
 # Privacy - CalSTRS.com
 
