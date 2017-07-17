@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-script.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802194102id_/http%3A//www.review-script.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-script.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717082001id_/http%3A//review-script.com/privacy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for http://www.review-script.com
 
