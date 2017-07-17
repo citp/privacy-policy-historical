@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buddyplay.net privacy policy that was archived on 2017-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170509095637id_/https%3A//www.buddyplay.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buddyplay.net privacy policy that was archived on 2017-07-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170717031917id_/https%3A//www.buddyplay.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -31,16 +31,14 @@
                 <div class="section-banner editableImages" data-content-name="nd_banner_img" style="background-image: url(http://www.buddyplay.net/uploads/shutterstock_257426224_mini.jpg)"></div>
                 <div class="banner-text">
                     <div class="table-cell">
-                        <h1 class="side-border animate">Buddyplay</h1>
-                        <p class="text-italic editableText" data-content-name="nd_budd_txt_01">
-                            Find the media you want when you it for  per month.                        </p>
-                        <a href="http://www.buddyplay.net/signup" class="btn btn-bordered animate">
-                            <svg class="zig-zag left">
-                                <path d="M 48 7 L42 0 L36 7 L30 0 L24 7 L18 0 L12 7 L6 0 L0 7"></path>
-                            </svg> <span>GET STARTED <i class="fa fa-long-arrow-right"></i></span>
-                            <svg class="zig-zag right">
-                                <path d="M 0 7 L6 0 L12 7 L18 0 L24 7 L30 0 L36 7 L42 0 L48 7"></path>
-                            </svg></a>
+                        <div class="holder_banner">
+                            <h1 class="side-border animate">Buddyplay</h1>
+                            <p class="text-italic editableText" data-content-name="nd_budd_txt_01">
+                                Find the media you want when you it for  per month.                            </p>
+                            <a href="http://www.buddyplay.net/signup" class="btn btn-bordered">
+                                JOIN NOW <i class="fa fa-long-arrow-right"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -105,7 +103,7 @@
         <div class="row">
             <div class="col-xs-12 col-md-5">
                 <h4 class="editableText" data-content-name="lp_txt_footer_1">Questions or comments?</h4>
-                <p class="editableText" data-content-name="lp_txt_footer_2">Call <a href="tel:1-888-991-4415">1-888-991-4415</a> or <a href="tel:1-980-202-0251">1-980-202-0251</a> 24h hours email - <a href="mailto:support@buddyplay.net">support@buddyplay.net</a></p>
+                <p>Call <a href="tel:1-888-991-4415">1-888-991-4415</a> or <a href="tel:1-980-202-0251">1-980-202-0251</a> 24 hours a day email - <a href="mailto:support@buddyplay.net">support@buddyplay.net</a></p>
             </div>
             <div class="col-xs-12 col-md-7">
                 <h4 class="editableText" data-content-name="lp_txt_footer_1">Contact Address</h4>
@@ -113,7 +111,8 @@
                     <div class="col-xs-12 col-md-6">
                         <div>
                             <p>
-                                Chalon Corporation<br>525 North Tryon Street<br> Suite 1600<br> Charlotte<br> NC 28202<br> USA                            </p>
+                                                                    Chalon Corporation                                    <br>
+                                    525 North Tryon Street<br> Suite 1600<br> Charlotte<br> NC 28202<br> USA                                                            </p>
                         </div>
                     </div>
                 </div>
@@ -134,46 +133,48 @@
     </div>
 
 </footer>
-<div class="authorization-form">
-    <a href="#" class="close-login-form">X</a>
-    <div id="login-form">
-        <form name="login" id="login" method="post" action="https://members.buddyplay.net/front/login" onkeydown="if(event.keyCode == 13){ validate_login();}">
-            <!--<form action="#">-->
-            <div id="message"></div>
-            <fieldset>
+<div class="modal_window">
+    <div class="authorization-form">
+        <a href="#" class="close-login-form">X</a>
+        <div id="login-form">
+            <form name="login" id="login" method="post" action="https://members.buddyplay.net/front/login" onkeydown="if(event.keyCode == 13){ validate_login();}">
+                <!--<form action="#">-->
+                <div id="message"></div>
+                <fieldset>
+                    <h4>Member Login</h4>
+                    <div class="row-holder">
+                        <input class="text" type="text" value="" name="username" id="username" placeholder="Email">
+                    </div>
+                    <div class="row-holder">
+                        <input class="text" type="password" value="" name="password" id="password" placeholder="Password">
+                    </div>
+                    <div class="row-holder row-submit">
+                        <!--<input class="btn" type="submit" value="login" />-->
+                        <button class="btn" id="submit-login-form" type="submit">Login</button>
+                    </div>
+                    <ul class="box-links">
+                        <li><a href="javascript:changeFrontForm('#login');">Forgot your Password?</a></li>
+                        <li><a href="https://www.buddyplay.net/signup">Dont have an account?</a></li>
+                        <li><a href="https://www.buddyplay.net/signup">Sign up for Free.</a></li>
+                    </ul>
+                </fieldset>
+            </form>
+            <form name="password_form" class="hidden" id="password_form" method="post" action="http://www.buddyplay.net/front/forgot_password_ajax" onkeydown="if(event.keyCode == 13){ doForgotPassword();return false;}">
+                <div id="message-password"></div>
                 <h4>Member Login</h4>
-                <div class="row-holder">
-                    <input class="text" type="text" value="" name="username" id="username" placeholder="Email">
+                <div id="login-form-wrapper">
+                    <div class="row-holder">
+                        <input name="email" id="username" class="login-input input text-input login-username" placeholder="Email" tabindex="1" type="text">
+                    </div>
+                    <div class="row-holder row-submit">
+                        <button class="btn" id="submit-password-form" type="submit">Send</button>
+                    </div>
+                    <a href="javascript:changeFrontForm('#password_form');" class="login-more login-more-link ">Back to login</a>
+                    <span class="Login_Misc login-more login-more-link">Don't have an account? &nbsp;<a href="https://www.buddyplay.net/signup">Sign up for free.</a></span>
+                    <input name="forgot_password" value="1" type="hidden">
                 </div>
-                <div class="row-holder">
-                    <input class="text" type="password" value="" name="password" id="password" placeholder="Password">
-                </div>
-                <div class="row-holder row-submit">
-                    <!--<input class="btn" type="submit" value="login" />-->
-                    <button class="btn" id="submit-login-form" type="submit">Login</button>
-                </div>
-                <ul class="box-links">
-                    <li><a href="javascript:changeFrontForm('#login');">Forgot your Password?</a></li>
-                    <li><a href="https://www.buddyplay.net/signup">Dont have an account?</a></li>
-                    <li><a href="https://www.buddyplay.net/signup">Sign up for Free.</a></li>
-                </ul>
-            </fieldset>
-        </form>
-        <form name="password_form" class="hidden" id="password_form" method="post" action="http://www.buddyplay.net/front/forgot_password_ajax" onkeydown="if(event.keyCode == 13){ doForgotPassword();return false;}">
-            <div id="message-password"></div>
-            <h4>Member Login</h4>
-            <div id="login-form-wrapper">
-                <div class="row-holder">
-                    <input name="email" id="username" class="login-input input text-input login-username" placeholder="Email" tabindex="1" type="text">
-                </div>
-                <div class="row-holder row-submit">
-                    <button class="btn" id="submit-password-form" type="submit">Send</button>
-                </div>
-                <a href="javascript:changeFrontForm('#password_form');" class="login-more login-more-link ">Back to login</a>
-                <span class="Login_Misc login-more login-more-link">Don't have an account? &nbsp;<a href="https://www.buddyplay.net/signup">Sign up for free.</a></span>
-                <input name="forgot_password" value="1" type="hidden">
-            </div>
-        </form>
+            </form>
+        </div>
     </div>
 </div>
 <!--Footer Section End-->
