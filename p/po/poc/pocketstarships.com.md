@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketstarships.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512200435id_/http%3A//www.pocketstarships.com/eng/static/privacy_eng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketstarships.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717212608id_/https%3A//pocketstarships.com/eng/static/privacy_eng) for the most accurate reproduction.*
 
 # None
 
