@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aviewtoathrill.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630175153id_/http%3A//aviewtoathrill.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewtoathrill.net privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717212102id_/http%3A//aviewtoathrill.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A View To A Thrill
+# Privacy Policy
 
 **Your Privacy**
 
