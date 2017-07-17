@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403183800id_/https%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717184550id_/https%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
 
 # CDBurnerXP: Privacy Policy
 
@@ -23,7 +23,7 @@ The received data will solely be used in attempt to solve your problem with CDBu
 
 ## Working devices
 
-If you [submit a working drive](https://web.archive.org/help/appendices/report-drive "appendices:report-drive"), we collect the following information _only_ : 
+If you [submit a working drive](https://web.archive.org/appendices/report-drive "appendices:report-drive"), we collect the following information _only_ : 
 
   * Device vendor as shown in the dialog
 
@@ -40,12 +40,18 @@ Further system or personal information is **not** being submitted or stored. The
 
 ## Usage of Cookies
 
-Cookies will be used to store a user's settings (like login information at the [forum](http://forum.cdburnerxp.se/ "http://forum.cdburnerxp.se") or the preferred website language). No personal information is stored within them.   
-Additional to that, third parties which are not under our control may use cookies. Google for example uses cookies for ads displayed on the web page, and they have their own [privacy policy](http://www.google.com/privacy.html "http://www.google.com/privacy.html"). 
+Cookies will be used to store a user's settings (like login information at the [forum](http://forum.cdburnerxp.se/ "http://forum.cdburnerxp.se") or the preferred website language). No personal information is stored within these. 
+
+Additional to that, third parties which are not under our control may use cookies. This includes: 
+
+  *   * 
+
 
 Note about Google ads: Google's use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). 
 
 ## Echo Nest music identification
+
+This feature has been removed from current versions of CDBurnerXP. 
 
 For music identification (if you use the feature), CDBurnerXP generates a fingerprint of the song you identify (basically a “compressed” version of the music that only is a few KB in size) and submits it to EchoNest servers. No further data that identifies yourself or your file is submitted. 
 
@@ -53,8 +59,13 @@ You may also want to check the [EchoNest privacy policy](http://the.echonest.com
 
 ## Installer / OpenCandy
 
-The default installer (there are also setup packages without included) makes use of the OpenCandy advertisement platform. When installing CDBurnerXP, you are asked to accept the OpenCandy EULA as following: 
+OpenCandy has been replaced by installCore in current versions of CDBurnerXP and is no longer active in older installers. 
 
-This installer uses the OpenCandy network to recommend other software you may find valuable during the installation of this software. OpenCandy collects *NON-personally identifiable* information about this installation and the recommendation process. Collection of this information ONLY occurs during this installation and the recommendation process; in accordance with OpenCandy's Privacy Policy, available at [www.opencandy.com/privacy-policy](http://www.opencandy.com/privacy-policy "http://www.opencandy.com/privacy-policy")
+## Installer / installCore
 
-More information about the collected data can also be found on [Your Privacy and The OpenCandy Network](http://www.opencandy.com/privacy-matters/opencandy-network-details/ "http://www.opencandy.com/privacy-matters/opencandy-network-details/"). 
+The default installer (setup packages without installCore are also available) makes use of the installCore advertisement platform. When installing CDBurnerXP, you are asked to review and accept the installCore Installation Guidelines. 
+
+This installer uses installCore to recommend other software you may find valuable during the installation of this software. installCore collects *NON-personally identifiable* information about this installation and the recommendation process. For further information, please review the documents below: 
+
+  *   * 
+
