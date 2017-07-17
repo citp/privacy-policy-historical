@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135945id_/http%3A//www.tesa.com/about-tesa/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesa.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717074157id_/https%3A//www.tesa.com/about-tesa/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - tesa
 
