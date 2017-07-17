@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentmart.in privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507181054id_/https%3A//contentmart.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentmart.in privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717051755id_/https%3A//contentmart.com/privacy_policy) for the most accurate reproduction.*
 
 # #1 Content Marketplace | Writing & Translation Services | Freelance Writers, Agencies & Companies
 
