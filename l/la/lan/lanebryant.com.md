@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616202617id_/http%3A//www.lanebryant.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717201034id_/https%3A//www.lanebryant.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Default | Lane Bryant
 
