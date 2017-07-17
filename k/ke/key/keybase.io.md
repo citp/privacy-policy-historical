@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822111557id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717074717id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
 
 # Keybase
 
@@ -68,7 +68,7 @@ The Bitcoin block chain can be described most simply as a permanent ledger that 
 
 For your protection from, and detection of, hackers and other undesirable intrusions into the Service, it is impossible to delete data from the Directory. If you want to alter information that you have provided, the previously provided information cannot be deleted and can only be revoked. When you update your identity, those changes are announced in the form of a statement by you, which is appended to the Directory. For example, if you change your Twitter username, your old Twitter username will not be deleted from the Directory. Instead, you will append a new statement, revoking the old Twitter username.
 
-For a technical explanation of how Keybase supports “revocations” instead of “deletions”, how they are chained together, and how they are pinned to the Bitcoin block chain, please read our paper documentation <https://keybase.io/docs/server_security>.
+For a technical explanation of how Keybase supports “revocations” instead of “deletions”, how they are chained together, and how they are pinned to the Bitcoin block chain, please read our paper documentation `https://keybase.io/docs/server_security`.
 
 Here are some of the other ways in which we share your information:
 
