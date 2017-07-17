@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddyplay.net privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509095637id_/https%3A//www.buddyplay.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddyplay.net privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717031917id_/https%3A//www.buddyplay.net/privacy) for the most accurate reproduction.*
 
 # Buddyplay | Privacy Policy
 
