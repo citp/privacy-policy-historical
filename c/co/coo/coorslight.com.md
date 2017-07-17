@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109140400id_/https%3A//www.coorslight.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717041124id_/http%3A//qa-rd.coorslight.com/legal/privacy) for the most accurate reproduction.*
 
-# COORS BREWING COMPANY PRIVACY POLICY | Coors Light
+# Privacy Policy | Coors Light
 
-**COORS BREWING COMPANY PRIVACY POLICY**
+## _COORS BREWING COMPANY PRIVACY POLICY_
 
 Coors Brewing Company respects the privacy of every individual who visits our websites or responds to online advertisements or e-mail campaigns. The information that you share with us will be treated with appropriate care. This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, social media pages, emails, and mobile applications (“Site” or “Sites”), as well as through our online advertisements at other websites and e-mail campaigns. This Privacy Policy will also provide you with instructions on how to opt out of sharing information about you with us.
 
@@ -42,7 +42,7 @@ Privacy Inquiries and Correcting Your Information
 
 This Privacy Policy applies to the information we obtain from individuals interacting with Coors Brewing Company and its Sites, products, and services. It does not apply to information we obtain in our capacity as an employer.
 
-#### _**ACCESS  RESTRICTED TO PEOPLE OF LEGAL DRINKING AGE**_
+#### _**ACCESS RESTRICTED TO PEOPLE OF LEGAL DRINKING AGE**_
 
 **Coors Brewing Company SITES, INCLUDING ACCESS TO ALL ADVERTISING AND MARKETING INFORMATION ON THE SITES, ARE INTENDED ONLY FOR PERSONS OF LEGAL DRINKING AGE. DATE OF BIRTH VERIFICATION IS REQUIRED AT THE ENTRANCE OF THE SITE AND AGE VERIFICATION PROMPTS MAY ALSO BE LOCATED WITHIN THE SITES. IF YOU BELIEVE SOMEONE UNDER THE LEGAL DRINKING AGE HAS PROVIDED US WITH INFORMATION BY OBTAINING ACCESS IN VIOLATION OF THE SITES' ACCESS RESTRICTIONS, PLEASE[CONTACT US](http://www.coorslight.com/contact) IMMEDIATELY AND THIS INFORMATION WILL BE REMOVED. **
 
