@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qriyo.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317151002id_/https%3A//www.qriyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qriyo.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717160841id_/https%3A//www.qriyo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Qriyo - Best Home Tuitions for Academics, Dance, Music, Yoga and 300+ Courses
 
 Personal Information
 
