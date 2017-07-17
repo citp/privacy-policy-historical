@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the findanyfilm.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730193301id_/http%3A//www.findanyfilm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findanyfilm.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717235359id_/https%3A//www.findanyfilm.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FindAnyFilm
 
 [](https://web.archive.org/)
 
-All Films.All Above Board.NOW INCLUDES TV!
+All Films.All Above Board.NOW INCLUDES TV SHOWS & [TV LISTINGS](https://web.archive.org/tv-search)
 
   1. This website (the "Find Any Film Site") is operated by Find Any Film Ltd ("Find Any Film" "we" or "us") in association with the Industry Trust for IP Awareness Ltd. We regard your privacy as important and comply with the Data Protection Act 1998. This Privacy Policy sets out our data processing practices and your options regarding the ways in which your personal information is used. If you have any requests concerning your personal information or any queries with regard to these practices please contact us.
   2. ## Information collected
