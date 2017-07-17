@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourlounge.co.uk privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706220026id_/https%3A//www.ourlounge.co.uk/web/ourlounge-uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlounge.co.uk privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717091820id_/https%3A//www.ourlounge.co.uk/web/ourlounge-uk/privacy-policy) for the most accurate reproduction.*
 
 # McDonalds Privacy Policy
 
