@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsource.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103183520id_/http%3A//winsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsource.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718035458id_/http%3A//winsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WinSource
 
