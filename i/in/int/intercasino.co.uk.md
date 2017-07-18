@@ -1,47 +1,24 @@
-> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712065700id_/https%3A//www.intercasino.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718150825id_/https%3A//www.intercasino.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - InterCasino - Intercasino.com
+# InterCasino | privacy-policy » Home
 
-**Privacy Policy**
+InterCasino is committed to protecting the privacy of any personal information that you may choose to provide to us ("Personal Information"). Personal Information is any information about you and may include your name and address, date of birth, payment card details and any other information you may wish to provide. InterCasino will attempt to ensure that its use of your Personal Information is compliant with data protection and privacy regulations in the countries where we operate. Accordingly, InterCasino issues this policy to inform you of our use of your Personal Information.  
 
-We have created this _privacy policy_ in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website, InterCasino.com.
 
-**Personal Information**
+### Is your Personal Information collected by our Website? 
 
-In order to use this site and any of our affiliated sites, you must complete the [registration form](https://www.intercasino.com/en/register "registration form") attached, providing your personal information and at the same time creating a unique username and password. Personal information means any information that may be used to identify an individual, including but not limited to, a first and last name, a home or other physical address and an e-mail address or other contact information, whether at work or at home. We use your IP address to help diagnose problems with our server and to administer our web site. This information is used to generate reports on the overall traffic to the site for bandwidth planning and usage statistics.
+If you provide your name and address on the public area of this website in order to request information about our products and services, you may voluntarily provide additional Personal Information. You will be asked to provide your Personal Information in this area for the purposes of registering with InterCasino and opening an account with us. If you are already a InterCasino Client and have opened an account with us, you must use a password to enter the InterCasino Website. A "session cookie" may be used to enable you to leave and re-enter our Website without re-entering your password. Our web server will record the pages you visit within our Website. 
 
-Wherever your personal information may be held by us, we intend to take reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure.
+### How will we use your Personal Information?
 
-We strive to comply with applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this privacy policy.
+We will process your Personal Information in accordance with applicable data protection law. InterCasino intends to process your Personal Information for the following purposes: administering your account; maintaining our own accounts and records; monitoring website usage levels and quality of service and informing you about products and services that you may be interested in from time to time ("the purposes"). Any recordings remain the property of InterCasino and will be used only for the purposes above. To ensure a good quality of service we may monitor any communication you have with us whether in writing or by electronic mail ("recordings"). E-mail is not encrypted to / from either the public or private areas of this website. 
 
-**Cookies**
+### Disclosing your Personal Information 
 
-Some of our web pages, emails and advertisements utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity and is used to ensure that private information associated with your registered account stays private and viewable only to you. Our use of cookies and other tracking technologies allows us to improve our Web site and your web experience. We may analyse information that does not contain Personal Information for trends and statistics. We set a persistent cookie to store your passwords so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, please note that if you choose to erase or block your cookies, you will need to re-enter the original user ID and password to gain access to certain parts of the web site.
+Your Personal Information may, for the purposes described above, be transferred or disclosed by us to any associated company or business partner which is well placed to process your Personal Information for the purposes. We and these companies may from time to time retain third parties to process your Personal Information for the purposes and such processing will be governed by a contract in the form required by law. Where required by law or regulation your personal data may also be disclosed to an applicable governmental, regulatory or enforcement authority.
 
-**Acceptable Use**
+We will disclose your personal data to a third party operating in the gaming industry with which we have a relationship to share player data for the purpose of marketing. You hereby consent to such disclosure.
 
-Use of this website content is prohibited unless previously agreed to by **InterCasino**. Any third party affiliate found using this website or the contents thereof to spam will be shut down.
+### Consent
 
-**Surveys and Contests**
-
-From time to time we may offer you the opportunity to participate in contests or surveys on-site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
-
-We use this information to notify contest winners of our various contests and our surveys asks visitors for demographic information which we use in the future to tailor our visitor’s experience at our site showing them content which we think they might be interested in, and displaying the content according to their preferences. It is entirely up to you if you want to participate.
-
-**Special Offers and Upgrades**
-
-We will occasionally send you information on products, services, special deals and promotions. You can sign up for these e-mails from us on our registration page. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice/Opt-in” section below.
-
-**Choice/Opt-in**
-
-We provide you with the opportunity to “opt in” to having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by sending an e-mail to [support@intercasino.com](mailto:support@intercasino.com) through which you can obtain help unsubscribing.
-
-**Changes to the Privacy Policy**
-
-We occasionally update this privacy policy to reflect changes in our services and customer feedback. When we post changes to this policy, you will see the word “updated” next to the privacy policy link on the front page of our web site. If there are any material changes to this policy or in how we will use your personal information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this policy to be informed of how we are protecting your information.
-
-**Contact Information**
-
-We welcome your comments regarding this privacy policy. If you have any questions about this policy or believe we have not adhered to it, please contact us at [support@intercasino.com](mailto:support@intercasino.com).
+By providing your Personal Information and registering with us or logging on, when you enter the website, you freely consent to the InterCasino Group processing and disclosing your Personal Information for the purposes and otherwise in the manner set out in this Policy. If you wish to qualify, vary, modify or limit your consent in any way then please notify us using the details shown on the support pages of our Website. 
