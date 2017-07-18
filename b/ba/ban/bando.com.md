@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bando.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235646id_/https%3A//www.bando.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bando.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718091039id_/https%3A//www.bando.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ban.do
 
