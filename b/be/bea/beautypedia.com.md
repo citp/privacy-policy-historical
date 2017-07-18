@@ -1,259 +1,138 @@
-> *The following text is extracted and transformed from the beautypedia.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208163723id_/http%3A//www.powerreviews.com/legal/privacy_policy_en_US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautypedia.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718143155id_/http%3A//www.powerreviews.com/legal/privacy_policy_en_US.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy • PowerReviews
 
-**PowerReviews, Inc., Cookie & Privacy Policy**
+#### **PRIVACY POLICY  ** **  
+****Last Updated 04/12/2017**
 
-Effective Date: 1/23/2013; Last Updated 09/3/2015
+This Privacy Policy (this “Policy”) describes how personal information is collected from users of the PowerReviews and PowerReviews Express websites at [http://www.PowerReviews.com](http://www.powerreviews.com/) and [http://www.PowerReviewsExpress.com](http://www.powerreviewsexpress.com/) (collectively, the “Site”) and the PowerReviews and PowerReviews Express product reviews and ratings service (“Review Service”), operated by PowerReviews, Inc. (“PowerReviews,” “we,” or “us”) and how that information is used and disclosed. The Review Service is provided both through the Site and through third party sites via framing techniques as described below (“Third Party Sites”). We encourage you to read this Policy carefully before providing any personal information on the Site or Review Service.
 
-This privacy policy is intended to inform you about PowerReviews' ("PowerReviews", "we", "us", or "our") collection, use, and disclosure of information that we receive through the software and advertising services ("Services") that we provide on third party websites of our Clients (the "PowerReviews Network"), through our corporate website, [www.powerreviews.com](http://www.powerreviews.com/) ("Website"), and through the business applications offered on the Website ("BizApps"). We collect information from visitors to the PowerReviews Network, the users of the BizApps, and visitors to the Website (collectively "Consumers").
+* * *
 
-1.        **Overview**
+**EU-U.S. PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD**
 
-a.       The Services help our Clients engage with Consumers during the buying process, gather and display product feedback from Consumers to drive purchase decisions, and analyze and act upon that Consumer feedback. For more information on our Services, please feel free to contact PowerReviews by emailing us at [sales@powerreviews.com](mailto:sales@powerreviews.com).
+PowerReviews complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union  and Switzerland to the United States, respectively.  PowerReviews has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome).  The Federal Trade Commission has jurisdiction over our compliance with the Privacy Shield.
 
-2.        **Information We Collect Through the PowerReviews Network**
+* * *
 
-a.        **Information You Submit**
+**INFORMATION WE COLLECT**
 
-                                                     i.      _User Generated Content._  As part of our Services to our Clients, we provide Consumers the ability to submit reviews, comment on or rate goods, products and services on websites within the PowerReviews Network (collectively, "User Generated Content"). You should be aware that any information you provide in the area that is intended to collect such User Generated Content will be published on a publicly facing website and will be read, collected, and used by PowerReviews, its subsidiaries, vendors and Clients. Therefore, please do not include any information within these areas that you do not want to share with the general public, including personally identifiable information, such as your name, email address or financial information. PowerReviews uses User Generated Content for providing the Services to our Clients, marketing research, new product development, to personalize or improve our Services, and for analytical purposes.
+We collect “personal information” about users of the Site and the Review Service in the normal course of our business. As used in this Policy, “personal information” is information that identifies or is capable of being associated with an identifiable person. Some examples of personal information include a user’s name, address, and email address. Personal information does not include aggregate information or de-identified information. “Aggregate information” is information about the use of the Site, such as information collected about Site users, or a category of services or users, from which any personal information has been removed. An example of aggregate information would be a report stating that forty-seven percent of the Site’s registered users identify themselves as male.
 
-                                                    ii.      _Consumer Account Info._  In order to submit User Generated Content, you will have to create an account with the PowerReviews Client whose products, services or goods you are reviewing or rating. During the course of creating an account, you may be asked to submit information, such as but not limited to, your name, email address, mailing address or phone number, and other data (collectively, "Consumer Account Info"). The Consumer Account Info may be collected by both PowerReviews and the applicable PowerReviews Client. PowerReviews uses Consumer Account Info to assist with the creation of an account, provide you the ability to review, comment on or rate products, or otherwise create content across Client websites on the PowerReviews Network.
+Most of the personal information we receive comes directly from users who register on the Site, use the Review Service or who otherwise voluntarily provide information to us in connection with various activities on the Site or Review Service. The information we request at registration includes, without limitation, name, address, e-mail address, and birth date. We may also collect other types of information during registration or in connection with your other activities on the Site, such as demographic information (including, without limitation, your age, occupation, and income) and information about or contained in postings you make in forums or any other interactive areas of the Site, your answers to surveys, your participation in sweepstakes, contests, games and promotional offers; and in any email request you send us for any reason (such as to request customer service or provide us with comments or feedback). Also, we request your email address when you submit a product or service review using the Review Service (whether through our Site or a Third Party Site) and if you provide it, we send an email message to you confirming that you submitted the review.
 
-                                                   iii.      _How PowerReviews' Clients Use User Generated Content and Consumer Account Info._  To further understand how the PowerReviews Client to whom you have submitted User Generated Content and Consumer Account Info will use such data, please consult the terms and conditions on that Client's website (e.g. the privacy policy).
+We also automatically collect some information when you use the Site or Review Service. We log your IP address. If you reached the Site by clicking on a link or advertisement on another site, we also log that information. This helps us understand our users’ interests and maximize our online exposure. All of this information is collected and used only as aggregate information; that is, it is entered into our database, where we can use it to generate overall reports on our users, but not individual reports that identify you personally.
 
-b.       **Cookies and Other Technologies**
+* * *
 
-                                                     i.     We use cookies, web beacons and other technologies to collect information from Consumers on the PowerReviews Network. Our technologies may collect the IP address of your computer, the pages you visit within the PowerReviews Network, the date and time of your visit, browser type and version and other click-stream data (collectively "Analytics and Tracking Data"). We use the Analytics and Tracking Data to operate the Services, enable the submission of User Generated Content, to enable anonymous analytics and measurement reporting. 
+**FRAMED CONTENT**
 
-                                                    ii.      _Types of Technologies on the PowerReviews Network_.
+The Review Service may be displayed on or through Third Party Sites with the use of inline frames or other framing techniques. We may collect personal information in such framed pages or content located on or provided by Third Party Sites. When you submit personal information to us in this manner, it is treated as personal information under this Policy. The collection and use of personal information by the Third Party Site directly (i.e., outside of the Review Service framed pages) is governed separately by the privacy policy of such site.
 
-1.        _Web Beacons.  _Web beacons are small, graphic images on web pages or web-based documents or in email messages. We use web beacons in order to, determine the usefulness of the information our Services provide and to analyze general user traffic patterns.
+* * *
 
-2.        _Cookies._  PowerReviews uses its Client's cookies on the PowerReviews Network. For more information on cookies, including how you can opt out, disable or delete cookies, please [click here](http://www.powerreviews.com/legal/privacy_policy_en_US.html#cookies).
+**COOKIES, WEB BEACONS, AND SIMILAR TECHNOLOGIES**
 
-c.        **Correcting, Updating or Deleting Your Information**
+We may use cookies to identify Site and Review Service users and to customize their experiences on the Site and Review Service. Unless you provide your email address to us, our cookies contain no personally identifiable information about you. If you have provided your email address to us, however, our cookies may be used to identify you. We use cookies to help us understand how visitors use (and to help us to improve) the Site and Review Service. You may refuse to accept cookies from us by following the procedures specific to your Web browser. If you do so, your browser may react strangely and you may not be able to use some services on the Site or Review Service. To learn more about our cookie policy, [click here](http://www.powerreviews.com/powerreviews-com-ad-and-cookie-policy/).
 
-                                                     i.     If you would like to access, correct, amend, or delete Consumer Account Info or User Generated Content submitted through a Client, please contact that Client directly. If our Client requests us to update or remove your information from our systems, we will respond to their request within thirty (30) days. If you would like to access, correct, amend or delete any of your personally identifiable information held by PowerReviews, please contact us using one of the methods listed in this policy.
+Additionally, we may use, and may allow third parties to use, Web beacons on the Site and Review Service to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons, also known as “Web bugs,” are small, graphic images on Web pages or Web-based documents or in email messages that allow us or third parties to monitor who is visiting the Site or Review Service. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information.
 
-3.        **Information We Collect Through the Website**
+* * *
 
-a.        **Information You Submit**
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-                                                     i.     There are various areas on the Website where you have the opportunity to provide us with information. For example, you may submit your name, email address, or phone number if you contact us or request information about PowerReviews or our Services. We will use the information we collect on the Website to respond to your inquiries, provide you with the requested service or information, send you marketing communications, or improve the Website.
+We use the information we collect to:
 
-                                                    ii.     If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information for future purposes.
+  * Contact you for administrative purposes or provide you with customer service
+  * Complete transactions requested by you or to verify that you have submitted a review to our Review Service
+  * Respond to any questions, problems or complaints, or request feedback
+  * Organize the Site and Review Service to better serve you and customize or develop our products and services
+  * Send you emails pertaining to our verification process, our policies, and content that you submit
+  * Investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the Usage Agreement
 
-b.       **Cookies and Other Technologies**
 
-                                                     i.      _PowerReviews Technology._  We use cookies and other technologies to collect information on the Website. Our cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website. To learn more about our cookie policy, [click here](http://www.powerreviews.com/powerreviews-com-ad-and-cookie-policy/).
 
-                                                    ii.      _Third Party Technology._  The Website uses the cookies and web beacons of third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. Our advertising partners use cookies or web beacons to collect information about your visit to the PowerReviews website, as well as other websites, to display advertisements that may be of interest to you. For more information on our third party partners that are setting cookies on the Website or if you wish to not have the information collected on the Website used for the purpose of serving you targeted ads, please see [click here](http://www.powerreviews.com/legal/privacy_policy_en_US.html#cookies).
+Personal information provided on our Site or through the Review Service may be linked together or merged with other personal information we obtain about you so that we may better understand your needs and inform you about our products or services and those of our business partners. In addition, if we receive personal information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
 
-                                                   iii.      _Combination of Data._  To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with the data collected by cookies or web beacons.
+* * *
 
-                                                   iv.      _Social Media._  Our website includes social media features, such as the "Facebook" or "Twitter" buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing them. ****
+**DISCLOSURE OF INFORMATION**
 
-c.        **Opting Out**
+We do not rent, sell or disclose personal information to third parties without your prior consent, except as described in this privacy policy. We may share personal information when we have your consent to do so, when required by law, when required to protect our rights or property, as necessary to complete a transaction you have requested, or for marketing purposes. We reserve the right to use and disclose any non-personal information that we collect. We may use third party service providers to assist us with the administration of the Site or Review Service or to perform other services for us, including transaction processing and sending emails.
 
-                                                     i.      _Cookies_ _._  For more information on cookies on the Website, including how you can opt out, disable or delete those cookies, please [click here](http://www.powerreviews.com/legal/privacy_policy_en_US.html#cookies)
+If you provide us with personal information through a Third Party Site, we may share such information with such Third Party Site for their internal business purposes. In addition, we may also share personal information with third parties for such third parties’ (or other third parties’) marketing purposes; however, we provide you with the choice of opting-out of such disclosures (please see “Choice and Access” below). 
 
-                                                    ii.      _Marketing Communications_ _._  From time to time, we may send marketing communications to anyone that has submitted an email address through the Website. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by contacting us via one of the methods listed in this policy.
+We may use third parties, called third-party ad servers or network advertisers, to deliver ads to you on our behalf. These third-party ad servers may use cookies, web beacons or other technology to collect non-personally identifiable information about your visits to our Site or the Review Service in order to use it to present advertisements that may be of interest to you. If you would like more information about this practice or whether you can opt out of having this information used by third-party ad servers to provide targeted ads, please [visit here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-d.       **Correcting, Updating or Deleting Your Information**
+Information about our users, the Site and the Review Service is a business asset of PowerReviews. Therefore, information about our users, including personal information, will be disclosed as part of any (a) merger or acquisition, (b) creation of a separate business to provide the Site or our Review Service, or to provide other services or fulfill products; (c) debt financing, sale or pledge of company assets, or (d) insolvency, bankruptcy or receivership in which personal information would be transferred as one of PowerReviews’ business assets.
 
-                                                     i.     If you wish to correct, update, or delete your personal information submitted through the Website, you may do so through your account settings, if applicable, or by contacting us via one of the methods listed in this policy. We will respond to your request within thirty (30) days.
+We may release personal information when we believe release is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to respond to lawful requests by public authorities, including to meet national security or law enforcement requirement; to enforce or apply our policies or any other agreement with a user; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect our users from fraudulent, abusive, or unlawful use of our Site or its services; to enforce contest, sweepstakes, promotions, or game rules; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 
-4.        **The Information We Collect Through the BizApps**
+PowerReviews may be liable for appropriate onward transfers of personal data to third parties.
 
-a.        **Information You Submit When Using the BizApps**
+* * *
 
-                                                     i.     As part of your account with PowerReviews, we may collect your personally identifiable information. For example, we may collect your name, email address, or phone number as part of your account contact information. We will use the information we collect through the BizApps to respond to your inquiries, provide you with the requested service or information, send you marketing communications, or improve our website and the BizApps.
+**CHOICE AND ACCESS**
 
-b.       **Cookies and Other Technologies**
+**Opting out:**
 
-                                                     i.      _Third Parties._  PowerReviews uses the cookies and web beacons of third party providers to assist us with analyzing how our BizApps are used, help us determine the effectiveness of content on our site and to improve the BizApps' user experience.
+Cookies. To delete cookies, simply close your web browser or turn off the computer’s power and the session cookies will be deleted automatically. To delete persistent cookies, you will need to manually delete them through your browser’s setting options. 
 
-c.        **Opting Out**
+You can disable both session and persistent cookies by adjusting the settings on your web browser. For instructions on disabling cookies, [click here](http://www.usa.gov/optout-instructions.shtml). To learn more about our cookie policy, [click here](http://www.powerreviews.com/powerreviews-com-ad-and-cookie-policy/).
 
-                                                     i.      _Cookies._ _ _ For more information on cookies, including how you can opt out, disable or delete cookies, please [click here](http://www.powerreviews.com/legal/privacy_policy_en_US.html#cookies).
+Marketing Communications. If you receive marketing communications from a PowerReviews client and would no longer like to be contacted by them, please contact that client directly.
 
-                                                    ii.      _Marketing Communications._ _ _ From time to time, we may send marketing communications to anyone that has submitted their email address through the BizApps. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by contacting us via one of the methods listed in this policy.
+If you receive marketing communications from PowerReviews and would no longer like to be contacted by us, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by sending us an email request to be opted out of marketing communications to [privacy@powerreviews.com](mailto:privacy@powerreviews.com).
 
-d.       **Correcting, Updating or Deleting Your Information**
+**Access and Correction:**
 
-                                                     i.     If you wish to correct, update, or delete your personal information submitted through the BizApps, you may do so through your account settings, if applicable, or by contacting us via one of the methods listed in this policy. We will respond to your request to access within thirty (30) days.
+If you would like to access, correct, amend, or delete consumer account info or user generated content submitted through a PowerReviews client or the Review Service, please contact that client directly. If a PowerReviews client requests us to update or remove your information from our systems, we will respond to their request within thirty (30) days of receipt.
 
-5.        **Testimonials on the Website**
+PowerReviews recognizes the individual’s right to access their personal data.  If you would like to access, correct, amend or delete any of your personally identifiable information collected or held by PowerReviews through the Site, you may do so through your account settings, if applicable, or by mailing your request to the below address. We will respond to such requests within thirty (30) days of receipt.
 
-a.       If you submit a testimonial to the Website, we will post your testimonial along with your name. Any testimonial you submit is subject to the submission terms and conditions that were presented at the time of submission. If you wish to update or delete your testimonial, you can contact us via one of the methods listed in this policy.
+Attn. Privacy  
+PowerReviews, Inc.  
+1 N. Dearborn, 8th Floor  
+Chicago, IL 60602
 
-6.        **What are Cookies?**
+* * *
 
-a.        **Generally**  \- A cookie is a small text file that some websites place on your computer.
+**CHILDREN**
 
-b.       **Uses**
+We do not intend, and the Site is not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not register with or otherwise provide personal information to our Site or the Review Service.
 
-                                                     i.     Cookies are generally used to:
+* * *
 
-1.       Collect information about the pages you view and your activities on the site.
+**SECURITY**
 
-2.       Enable sites to recognize you, for example by:
+We use reasonable security measures in an effort to prevent loss, misuse and alteration of information under our control. We cannot, however, guarantee protection of all information against interception, misappropriation, misuse, or alteration, or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with.
 
-a.       Remembering your user ID.
+* * *
 
-b.      Allowing you to share content with your social network.
+**POLICY CHANGES**
 
-c.       Remembering content you submitted or comments you made.
+We will modify this Policy if our privacy practices materially change in the future. We will notify you of such changes only by posting the new policy on our Site and indicating at the top of the Policy the date it was last updated. We encourage you to review the Policy each time you visit our Site or Review Service to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
 
-d.      Keeping track of your preferences, if you visit the site again.
+* * *
 
-                                                    ii.     The cookie stores this information which is then transmitted back to the website's computer (or server), which generally is the only computer that can read it. You can set your Web browser to warn you about attempts to place cookies on your computer, or to limit the type of cookies you allow.
+**DISPUTE RESOLUTION**
 
-c.        **Types of Cookies**
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, PowerReviews commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact PowerReviews by mail as follows:
 
-                                                     i.     There are two general types of cookies: session cookies and persistent cookies.
+Attn. Privacy  
+PowerReviews, Inc.  
+1 N. Dearborn, 8th Floor  
+Chicago, IL 60602
 
-**1.**         **Session Cookies**
+PowerReviews has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.   
+Under certain limited conditions and if your complaint is not resolved by PowerReviews or the BBB EU PRIVACY SHIELD, a binding arbitration option may be made available to you through the Privacy Shield Panel.
 
-a.       In general, session cookies:
+* * *
 
-                                                                                                                 i.     Help with navigation and usability on websites
+**QUESTIONS AND ADDITIONAL INFORMATION**
 
-                                                                                                                ii.     Only record information during one visit to a website and then are erased.
+If you have any questions inquiries or complaints about this Policy, or the practices of or your dealings with the Site or Review Service, please contact us at the following address:
 
-                                                                                                               iii.     Are enabled by default in order to provide the best user experience possible.
-
-                                                                                                               iv.     Are known as Tier 1 technologies under applicable [government guidance](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).
-
-**2.**         **Persistent Cookies**
-
-a.       In general, persistent cookies:
-
-                                                                                                                 i.     Stay on your computer and record information every time you visit some websites.
-
-                                                                                                                ii.     Are stored on the hard drive of your computer until you manually delete them from a browser folder, or until they expire, which can be months or years after they were placed on your computer.
-
-d.       **Cookies set by PowerReviews on the PowerReviews Network.  **PowerReviews does not set any session cookies on the PowerReviews Network, only persistent cookies. 
-
-**Information on persistent cookies set by PowerReviews and third parties on the PowerReviews Network**  
-  
----  
-  
-**Purpose of Cookie**
-
-| 
-
-**Alternative (if you disable, block or opt-out)**  
-  
-To enable anonymous analytics & measurement reporting. ("PowerReviews Network Cookie")
-
-| 
-
-If cookies are disabled or blocked then users will not be tracked via an anonymous unique identifier.  
-  
-To serve online advertising.
-
-| 
-
-*As of the last date this policy was updated, the following PowerReviews partners set third party cookies to serve online advertising: Doubleclick and Rocketfuel ("Ad Partners").
-
-If cookies are disabled or blocked then users may still see ads on sites that choose to serve ads, however, such ads will not be tailored to the user based on the user's browsing history. You can opt out of our Ad Partners' cookies by visiting their website. Additionally, you can learn more about ad-serving companies and opt out from their use of cookies at the following websites: [http://www.networkadvertising.org/understanding-online-advertising](http://www.networkadvertising.org/understanding-online-advertising); or[http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)  
-  
-e.        **Cookies on the Website and the BizApps.  **Some of the cookies we commonly use are listed in the following table. This list is not exhaustive, but it is intended to illustrate some of the reasons we set cookies.
-
-**Information on cookies set by third parties on the Website**  
-  
----  
-  
-**Type of Cookie/Purpose**
-
-| 
-
-**Alternative (if you disable, block or opt-out)**  
-  
-**Advertising cookies.**  These cookies may be set through our website by our advertising partners. Data may be collected by these companies that enable them to serve up advertisements on other sites that are relevant to your interests.
-
-| 
-
-If cookies are disabled or blocked then users may still see ads on sites that choose to serve ads, however, such ads will not be tailored to the user based on the user's browsing history. You can opt out of our Ad Partners' cookies by visiting their website. Additionally, you can learn more about ad-serving companies and opt out from their use of cookies at the following websites: http://www.networkadvertising.org/understanding-online-advertising; or http://www.aboutads.info/choices/  
-  
-f.        **Deleting, Disabling and Opting-out of Cookies**
-
-                                                     i.     To delete  **session cookies** , ** ** simply close your web browser or turn off the computer's power. The session cookies will be deleted automatically.
-
-                                                    ii.     Simply closing your web browser or turning off your computer will not delete  **persistent cookies**. In order to delete persistent cookies, you will need to manually delete them through your browser's settings options.
-
-                                                   iii.     You can disable both session and persistent cookies by adjusting the settings on your web browser. For instructions on disabling cookies, [click here](http://www.usa.gov/optout-instructions.shtml)
-
-                                                   iv.     If you wish to opt out of data collection by the PowerReviews Network Cookie, please see the "Opting Out" section below.
-
-g.       **Opting out of Marketing Communications.**
-
-                                                     i.     If you receive marketing communications from one of our Clients and would no longer like to be contacted by them, please contact that Client directly.
-
-                                                    ii.     If you receive marketing communications from PowerReviews and would no longer like to be contacted by us, please send a request to be opted out of marketing communications to [privacy@powerreviews.com](mailto:privacy@powerreviews.com) or by using the opt-out functionality in the marketing email.
-
-7.        **Updates to This Policy**
-
-a.       We may update this policy from time to time. When we do, we will also revise the "last updated" date at the beginning of the policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account, if applicable) or by means of a notice on this website prior to the change becoming effective.
-
-b.      We encourage you to review this policy periodically to stay informed on our privacy practices.
-
-8.        **Contacting Us**
-
-a.     In compliance with the Safe Harbor Principles, PowerReviews commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact PowerReviews by mail as follows:
-
-PowerReviews, Inc. 
-
-180 N LaSalle
-
-5th Floor
-
-Chicago, IL 60601
-
-Attn: Privacy
-
-b.       PowerReviews has further committed to refer unresolved complaints to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you are not satisfied with our response to your complaint, please [visit here](http://www.bbb.org/us/safe-harbor-complaints).
-
-9.        **Safe Harbor**
-
-[We self-certify compliance with](https://safeharbor.export.gov/list.aspx):
-
-[](http://www.export.gov/safeharbor)[](https://safeharbor.export.gov/list.aspx)
-
-a.       PowerReviews complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. PowerReviews has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view PowerReviews' certification, please visit  _http://www.export.gov/safeharbor/_.
-
-10.     **Children**
-
-a.       We do not knowingly collect information from children less than 13 years of age.
-
-11.     **Disclosure of Information**
-
-a.       Information we maintain may be stored both in and outside of the United States. If you live outside of the United States, you understand and expressly agree that we may transfer your information to the United States. Please note that U.S. laws may not afford the same level of protection as those in your country.
-
-b.      We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your name, phone number, email or mail address to third parties.
-
-c.      Consumer Account Info may be made available to our Clients in certain circumstances. For example; if a you submit a question about a product to a website on the PowerReviews Network, the question and your email address will be shared with the company that controls the website that the question was submitted to, the product manufacturer, or retailer to help answer the question.
-
-d.       We may share User Generated Content and Consumer Account Info with third-party service providers (e.g., email service providers, data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf. These companies are authorized to use your personal information  _only as necessary  _to provide _ _ these services to us.
-
-e.      We will also disclose any information we collect, use or receive: if required or permitted by law, such as to comply with a subpoena, or similar legal process; and, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-
-f.       In addition, any information in our possession or control will be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.
-
-12.     **Data Retention**
-
-a.       We retain all personal information collected by or provided to us through the PowerReviews Network, the Website and the BizApps until the information is no longer necessary to: provide you with services; respond to your requests; authenticate your identity across the PowerReviews Network (e.g. for use with social authentication); monitor for fraudulent activity; and, comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-13.     **Data Security**
-
-a.       We use security measures, including Secure Socket Layer encryption (SSL), that are reasonably designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information.
-
-14.     **Other Information**
-
-a.       The Website includes links to other websites whose privacy practices may differ from those of PowerReviews. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
-
-15.     **Affiliate Privacy Policies**
-
-a.       If you are interested in the privacy policy for Buzzillions or Viewpoints, please visit their respective privacy policies by clicking [here](http://www.buzzillions.com/public/legal/privacy_policy_en_US.html) for Buzzillions and [here](http://www.viewpoints.com/privacy_policy) for Viewpoints.
+PowerReviews, Inc.  
+1 N. Dearborn, 8th Floor  
+Chicago IL 60602
