@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519070451id_/https%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718172559id_/https%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tango
 
