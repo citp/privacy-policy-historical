@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emobfvideos.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128231101id_/http%3A//emobfvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emobfvideos.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718221526id_/http%3A//emobfvideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
