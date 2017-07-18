@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302153921id_/https%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718065650id_/https%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Salsify may use cookies that are session-based and persistent-based. Session coo
 
 The following sets out how Salsify may use different categories of cookies and your options for managing cookies’ settings:
 
-Type of Cookies| Description| Managing Settings  
+Type of Cookies | Description | Managing Settings  
 ---|---|---  
 Required cookies | 
 
@@ -164,9 +164,14 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at:
 
 `Attn: Privacy Officer  
-Salsify, Inc.  
-1 Winthrop Square, 5th Floor  
-Boston, MA 02110  
-USA`
+`
+
+`Salsify Inc.,`
+
+`3 CENTER PLAZA, 3RD FLOOR`
+
+`BOSTON, MA 02108 `
+
+`USA `
 
 `Email: privacy@salsify.com`
