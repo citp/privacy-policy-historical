@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financebuzz.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015236id_/http%3A//financebuzz.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financebuzz.io privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718085611id_/https%3A//financebuzz.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FinanceBuzz
 
