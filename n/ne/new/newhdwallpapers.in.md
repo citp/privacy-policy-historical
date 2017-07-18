@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhdwallpapers.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075924id_/http%3A//www.newhdwallpapers.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhdwallpapers.in privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718223821id_/https%3A//www.newhdwallpapers.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New HD Wallpapers
 
