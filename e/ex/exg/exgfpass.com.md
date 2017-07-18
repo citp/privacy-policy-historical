@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exgfpass.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412232212id_/http%3A//exgfpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exgfpass.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719002155id_/https%3A//exgfpass.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
