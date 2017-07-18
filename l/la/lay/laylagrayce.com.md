@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906131606id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718220500id_/http%3A//laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,9 +49,9 @@ Efforts to bring new services, ideas and partners to benefit our customers may m
 Feel like chatting? We’d love to hear your thoughts, comments and suggestions. Please contact us via email or call our customer service number. We look forward to hearing from you!
 
 > Layla Grayce  
->  2031 East Foothill Blvd  
->  Pasadena, CA 91107
+>  570 Colonial Park Dr, Ste 307  
+>  Roswell, GA 30075
 > 
-> Phone: (626) 356-2133  
->  Fax: (626) 356-2179  
+> Phone: Phone: (770) 599-7896  
+>  Fax: (770) 679-3354  
 >  Email: [shop@laylagrayce.com](mailto:shop@laylagrayce.com)
