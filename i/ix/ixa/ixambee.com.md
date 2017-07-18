@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ixambee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054246id_/http%3A//www.ixambee.com/privacy_and_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixambee.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718154525id_/http%3A//www.ixambee.com/privacy_and_policy) for the most accurate reproduction.*
 
-# Welcome to ixamBee.com
+# None
 
 ## Privacy Policy
 
-ixamBee, is a product of ATOZLEARN EDUTECH PRIVATE LTD. The term "ixamBee", "us", "we", or "our" refer to ATOZLEARN EDUTECH PRIVATE LTD. The term "you", "your" refers to users and viewers of this site. We are committed to maintain confidentiality, and security of all personal identifiable information of our customers. This document describes our system to protect customers’ information. By accessing our website, you agree to the terms of this Privacy Policy and [Terms and Conditions located here](https://web.archive.org/web/20170606054246id_/http%3A//www.ixambee.com/terms_and_conditions). We reserve the right to change the Privacy Policy and suggest you to continue referring to this policy on our website. If you do not agree with our policy you are not authorised to access our website and use our services.
+ixamBee, is a product of ATOZLEARN EDUTECH PRIVATE LTD. The term "ixamBee", "us", "we", or "our" refer to ATOZLEARN EDUTECH PRIVATE LTD. The term "you", "your" refers to users and viewers of this site. We are committed to maintain confidentiality, and security of all personal identifiable information of our customers. This document describes our system to protect customers’ information. By accessing our website, you agree to the terms of this Privacy Policy and [Terms and Conditions located here](https://web.archive.org/web/20170718154525id_/http%3A//www.ixambee.com/terms_and_conditions). We reserve the right to change the Privacy Policy and suggest you to continue referring to this policy on our website. If you do not agree with our policy you are not authorised to access our website and use our services.
 
 ## Information Sharing
 
