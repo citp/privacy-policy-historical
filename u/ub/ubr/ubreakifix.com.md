@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315134044id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719145531id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | uBreakiFix
 
@@ -44,4 +44,4 @@ UBREAKIFIX has implemented the following procedure that you may use to access, c
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us at uBreakiFix Franchising Co, 1806 33rd Street, Suite 120, Orlando, FL 32839.
+If you have any questions about this Privacy Policy, please contact us at uBreakiFix Franchising Co, 200 S. Orange Ave., Suite 200, Orlando, FL 32801.
