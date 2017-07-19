@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publish2.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100650id_/http%3A//publish2.me/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publish2.me privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719173114id_/https%3A//publish2.me/page/policy.html) for the most accurate reproduction.*
 
 # Publish2.me
 
