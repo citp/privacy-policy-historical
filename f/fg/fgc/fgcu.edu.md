@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fgcu.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627231810id_/http%3A//www.fgcu.edu/generalcounsel/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgcu.edu privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719135131id_/https%3A//www2.fgcu.edu/generalcounsel/privacystatement.html) for the most accurate reproduction.*
 
 # Office of the General Counsel
 
