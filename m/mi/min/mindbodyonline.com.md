@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbodyonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183338id_/https%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodyonline.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719133015id_/https%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.*
 
 # MINDBODY: Privacy Policy
 
