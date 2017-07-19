@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receive-sms-online.info privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607123808id_/http%3A//www.receive-sms-online.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receive-sms-online.info privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719233540id_/http%3A//www.receive-sms-online.info/privacy.php) for the most accurate reproduction.*
 
 # Receive SMS Online for FREE | NO Registration | Read SMS | Privacy Policy
 
