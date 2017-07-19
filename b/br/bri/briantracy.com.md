@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607145923id_/http%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719020019id_/https%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Achieve Your Personal and Professional Goals Faster - Brian Tracy International
 
@@ -6,7 +6,7 @@ _Brian Tracy International knows that you care how information about you is used
 
 Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com). You may also contact us at Brian Tracy International, Inc., 2840 Fifth Ave., Suite 400, San Diego, CA 92103. 
 
-This Privacy Policy sets forth the policies and practices with respect to information or data that is received or gathered regarding members, visitors and users (collectively "you" and "your"). [www.briantracy.com](http://www.briantracy.com/) and all related sites of Brian Tracy International may be referred to collectively as "www.briantracy.com", "Brian Tracy International", "us", "we", "Site", "Website" or "the Company" CAREFULLY READ THIS PRIVACY POLICY BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY AND THAT YOU ASSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
+This Privacy Policy sets forth the policies and practices with respect to information or data that is received or gathered regarding members, visitors and users (collectively "you" and "your"). [www.briantracy.com](https://www.briantracy.com/) and all related sites of Brian Tracy International may be referred to collectively as "www.briantracy.com", "Brian Tracy International", "us", "we", "Site", "Website" or "the Company" CAREFULLY READ THIS PRIVACY POLICY BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY AND THAT YOU ASSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
 
 #### How we collect member, visitor or user information 
 
@@ -27,7 +27,7 @@ Cookies are one of the tools that we use to passively collect Data.
 
 Internet cookies are alphanumeric identifiers that transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide personalized features and marketing. Cookies are used for authenticating, tracking and maintaining specific information about users, such as site preferences or shopping cart contents. Most Internet browsers allow the option to enable or disable cookies. You may disable cookies, but this may make portions of this Site unusable. Cookies are simple pieces of data unable to perform any operation by themselves. They are neither spyware nor viruses, despite the detection of cookies from certain sites by many anti-spyware products. This Site uses cookies to make the browsing experience of our members, subscribers and users more efficient and convenient. Our system will use cookies to remember your web preferences, and to assist us in tracking and targeting the interests, preferences and desires of our Site users to present the most appropriate messages, offers and other communications to our users, and to generally enhance their experience at our Site. Any and all information about Site visitors, members, subscribers or users collected by the Company, the Site or any agents or affiliates of Company or Site, through the use of cookies or other similar means may be included in our database and used in a manner consistent with this Privacy Policy.
 
-We use remarketing pixels from sites including, but not limited to, Google, Facebook, and Twitter to aid in customized, targeted follow-up advertising. These third-party vendors show our ads on sites across the Internet by using cookies based on past visits to our website. Anyone can opt-out of Google’s use of cookies by visiting Google’s Ads Settings (http://www.google.com/settings/ads). Anyone can opt-out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (http://www.networkadvertising.org/managing/opt_out.asp).
+We use remarketing pixels from sites including, but not limited to, Google, Facebook, and Twitter to aid in customized, targeted follow-up advertising. These third-party vendors show our ads on sites across the Internet by using cookies based on past visits to our website. Anyone can opt-out of Google’s use of cookies by visiting Google’s Ads Settings (https://www.google.com/settings/ads). Anyone can opt-out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (https://www.networkadvertising.org/managing/opt_out.asp).
 
 #### You may encounter third parties on our site
 
@@ -76,4 +76,4 @@ Phone: 1-858-436-7300
 Fax: 1-858-436-7301  
 Email: [support@briantracy.com](mailto:support@briantracy.com)  
 2840 Fifth Ave., Suite 400, San Diego, CA 92103  
-Website: [www.briantracy.com](http://www.briantracy.com/)
+Website: [www.briantracy.com](https://www.briantracy.com/)
