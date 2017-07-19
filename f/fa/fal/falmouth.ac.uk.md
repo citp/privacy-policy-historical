@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308084751id_/https%3A//www.falmouth.ac.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719215223id_/https%3A//www.falmouth.ac.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Falmouth - No 1 Arts University
 
