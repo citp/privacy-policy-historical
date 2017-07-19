@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225139id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719025517id_/https%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
 
 # Privacy policy - Wikiloc
 
-[← back to wikiloc](http://www.wikiloc.com/) [](http://www.wikiloc.com/)
+[← back to wikiloc](https://www.wikiloc.com/) [](https://www.wikiloc.com/)
 
 _September 2015_
 
-The website available at [http://www.wikiloc.com](http://www.wikiloc.com/), including any of its subdomains or sections (the " **Website** ") and any of the mobile applications (" **Applications** ") published by Wikiloc Outdoor, S.L. (" **Wikiloc** ") are operated by Wikiloc. 
+The website available at [https://www.wikiloc.com](https://www.wikiloc.com/), including any of its subdomains or sections (the " **Website** ") and any of the mobile applications (" **Applications** ") published by Wikiloc Outdoor, S.L. (" **Wikiloc** ") are operated by Wikiloc. 
 
 This Privacy Policy deals with the processing of Website and Applications users’ personal data by Wikiloc as part of the services provided through the Website and the Applications (" **Services** "). 
 
@@ -53,13 +53,13 @@ We use our own cookies with the sole purpose of providing you an enjoyable navig
 
 Wikiloc does not use own cookies with advertising purposes, nor to associate browsing data with individuals that have not been previously identified.
 
-### We also use third party cookies, Google Analytics, Google AdSense, Google DFP
+### We also use third party cookies, Google Analytics and Google AdSense
 
 Third parties advertising on the Website could use cookies or ‘web beacons’ for which Wikiloc would not be responsible and which would not be governed by this Privacy Policy, so it is the responsibility of the user to set the options in his/her browser in order that cookies are only used according to his/her own preferences.
 
 Google Analytics cookies are statistical means to measure web traffic to help us learn what pages are most visited and allow us to identify which parts of the site we need to improve. Google has detailed and updated information on these cookies : <http://www.google.es/intl/es/analytics/privacyoverview.html>
 
-We also use Google AdSense to display ads on some pages at Wikiloc. Google AdSense and Google DFP cookies have the primary objective of showing ads relevant and of interest to the user. For further information on AdSense cookies visit: <http://www.google.com/intl/es/policies/technologies/ads/>
+We also use Google AdSense to display ads on some pages at Wikiloc. Google AdSense cookies have the primary objective of showing ads relevant and of interest to the user. For further information on AdSense cookies visit: <https://www.google.com/intl/es/policies/technologies/ads/>
 
 This Website also has access to the IP address with which each user accesses the Website (including any access from the Applications). The IP address with which each user accesses the Website may be different each time. Additionally, different users can share a single IP address.
 
@@ -89,7 +89,7 @@ Wikiloc runs a forum in which users request help or make suggestions. Personal d
 
 Wikiloc guarantees the exercise of the rights of access, rectification, cancelation and right to objection that Constitutional Law 15/1999 grants data subjects before the data controllers. As provided above, users may access and modify their information directly in "Your settings page". 
 
-Any data subject who intends to exercise any such rights in connection with personal data processed by Wikiloc should contact Wikiloc at the address of the data controller included in this Privacy Policy or the following email address: [info@wikiloc.com](mailto:info@wikiloc.com), including in the subject a clear reference to the right he/she intends to exercise and addressing the email to the attention of Wikiloc’s governing body. 
+Any data subject who intends to exercise any such rights in connection with personal data processed by Wikiloc should contact Wikiloc at the address of the data controller included in this Privacy Policy or the following email address: [support@wikiloc.com](mailto:support@wikiloc.com), including in the subject a clear reference to the right he/she intends to exercise and addressing the email to the attention of Wikiloc’s governing body. 
 
 Pursuant to Royal Decree 1720/2007 the exercise of rights shall be made in accordance with the procedure below. 
 
@@ -116,4 +116,4 @@ The blog available at Wikiloc.com is hosted by blogger.com who will store any co
 
 The processing of personal data is governed by the laws of Spain. 
 
-Wikiloc, the data controller, is registered in the Commercial Registry of Girona, Volume 2709, sheet 156, page number GI 47726, with tax number B-55022115 and its offices are located at Parc Cientific i Tecnologic of the Universitat de Girona, -Giroempren building - Office A2-02, C/Pic de Peguera, 11, Girona, Spain. Wikiloc may be contacted in the following email address: [info@wikiloc.com](mailto:info@wikiloc.com). 
+Wikiloc, the data controller, is registered in the Commercial Registry of Girona, Volume 2709, sheet 156, page number GI 47726, with tax number B-55022115 and its offices are located at Parc Cientific i Tecnologic of the Universitat de Girona, -Giroempren building - Office A2-02, C/Pic de Peguera, 11, Girona, Spain. Wikiloc may be contacted in the following email address: [support@wikiloc.com](mailto:support@wikiloc.com). 
