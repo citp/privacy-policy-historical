@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408043046id_/http%3A//bridalguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720015600id_/https%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BridalGuide
 
