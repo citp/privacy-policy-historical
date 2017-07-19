@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518184439id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719124138id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blog By DonnaBlog By Donna
 
