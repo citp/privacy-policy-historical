@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrulymedia.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204025627id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrulymedia.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719040650id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
 
 # Unruly Privacy Policy
 
@@ -100,9 +100,7 @@ For more information, or if you have questions or concerns regarding our Privacy
 
 In the United Kingdom:
 
-Unruly Group Limited, 42-46 Princelet Street, London, E1 5LP, United Kingdom
-
-In France:
+Unruly Group Limited, The White Chapel Building, 15 Whitechapel High Street, London, E1 8QSIn France:
 
 Unruly Media SARL, 44 Rue La Fayette, 75009 Paris, France
 
@@ -124,8 +122,12 @@ Unruly Media Inc, 41 West 25th Street, 4th Floor, New York, NY 10010, USA
 
 In Singapore:
 
-Unruly Media Pte Ltd, 18A Gemmill Lane, Singapore 069255, Singapore
+Unruly Media Pte Ltd, 18B Gemmill Lane, #03-00, Singapore 069255
 
 Elsewhere:
 
-Unruly Group Limited, 42-46 Princelet Street, London, E1 5LP, United Kingdom
+Unruly Group Limited,The White Chapel Building, 15 Whitechapel High Street, London, E1 8QS
+
+[CDATA[ */ var anchors = document.getElementsByTagName("a"); for (var i = 0; i < anchors.length; i++) { var anchor = anchors[i]
+
+[CDATA[ */ var anchors = document.getElementsByTagName("a"); for (var i = 0; i < anchors.length; i++) { var anchor = anchors[i]
