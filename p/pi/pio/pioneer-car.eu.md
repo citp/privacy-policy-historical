@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer-car.eu privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616011103id_/http%3A//www.pioneer-car.eu/eur/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer-car.eu privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719121446id_/https%3A//www.pioneer-car.eu/eur/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer
 
@@ -12,7 +12,7 @@ Your privacy is important to PIONEER EUROPE NV and its national sales subsidiari
 
 This privacy notice applies to following websites :
 
-[www.pioneer-car.eu/eur/](http://www.pioneer-car.eu/eur/) | [www.pioneer.at](http://www.pioneer.at/) | [www.pioneer-car.eu/be](http://www.pioneer-car.eu/be) | [www.pioneer.ch](http://www.pioneer.ch/)  
+[www.pioneer-car.eu/eur/](https://www.pioneer-car.eu/eur/) | [www.pioneer.at](http://www.pioneer.at/) | [www.pioneer-car.eu/be](http://www.pioneer-car.eu/be) | [www.pioneer.ch](http://www.pioneer.ch/)  
 ---|---|---|---  
 [www.pioneer-car.eu/de](http://www.pioneer-car.eu/de) | [www.pioneer-car.eu/dk](http://www.pioneer-car.eu/dk) | [www.pioneer-car.eu/es](http://www.pioneer-car.eu/es) | [www.pioneer.fi](http://www.pioneer.fi/)  
 [www.pioneer-car.eu/fr](http://www.pioneer-car.eu/fr) | [www.pioneer-car.eu/it](http://www.pioneer-car.eu/it) | [www.pioneer-car.eu/nl](http://www.pioneer-car.eu/nl) | [www.pioneer-car.eu/no](http://www.pioneer-car.eu/no)  
