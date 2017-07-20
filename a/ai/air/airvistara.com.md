@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airvistara.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417154651id_/https%3A//www.airvistara.com/trip/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airvistara.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720161651id_/https%3A//www.airvistara.com/trip/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vistara
 
