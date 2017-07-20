@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202004624id_/https%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720203731id_/https%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Creativebug - Craft Classes & Workshops - What will you make today?
 
