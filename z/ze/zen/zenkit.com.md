@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenkit.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622024934id_/https%3A//www.zenkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenkit.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720083125id_/https%3A//zenkit.com/privacy) for the most accurate reproduction.*
 
 # Zenkit | A beautiful way to organize
 
