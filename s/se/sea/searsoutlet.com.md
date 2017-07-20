@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsoutlet.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520225622id_/http%3A//www.searsoutlet.com/d/static/privacy_policy.jsp%3FomFlag%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsoutlet.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720155212id_/https%3A//www.searsoutlet.com/d/static/privacy_policy.jsp%3FomFlag%3Dtrue) for the most accurate reproduction.*
 
 # Sears Outlet
 
@@ -77,7 +77,7 @@ We maintain reasonable and appropriate physical, electronic and procedural safeg
 
 ### **How Can I Access My Information?**
 
-You can personalize your experience on the SHO family of Sites by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link generally found at the top of each Site page. Your account information is secure and is accessible by using a password that you select. To become registered user, or to modify your current preferences, [click here](http://www.searsoutlet.com/d/static/privacy_policy.jsp?omFlag=true#). 
+You can personalize your experience on the SHO family of Sites by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link generally found at the top of each Site page. Your account information is secure and is accessible by using a password that you select. To become registered user, or to modify your current preferences, [click here](https://www.searsoutlet.com/d/static/privacy_policy.jsp?omFlag=true#). 
 
 ### **Can I "Opt-Out" of Receiving Promotional E-mails?**
 
