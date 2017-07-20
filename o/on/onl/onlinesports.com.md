@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002106id_/http%3A//www.onlinesports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720095904id_/https%3A//www.onlinesports.com/privacy) for the most accurate reproduction.*
 
 # Privacy - OnlineSports.com
 
