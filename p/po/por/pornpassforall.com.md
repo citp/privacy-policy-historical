@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornpassforall.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525212215id_/http%3A//tour1.21sextury.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornpassforall.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720071521id_/https%3A//www.21sextury.com/en/privacy) for the most accurate reproduction.*
 
-# 21sextury
+# Privacy Policy
 
 **Last revised on 22 July 2015**
 
