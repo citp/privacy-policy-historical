@@ -1,100 +1,51 @@
-> *The following text is extracted and transformed from the merchantwords.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantwords.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720172123id_/https%3A//www.merchantwords.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# MerchantWords | Privacy, Terms of Service
 
-**Go Daddy Respects Your Privacy**
+## MerchantWords Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy describes how and when MerchantWords LLC (the "Company") collects, uses, and shares your information when you use MerchantWords, including our mobile applications and websites (the "Services"). MerchantWords receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize MerchantWords to use your information in the United States and any other country where MerchantWords operates. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Information Collection and Use 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We use your personal information to help us efficiently operate the Service, to contact you in connection with your transactions and other activities on the Service (including, but not limited to, confirmation emails or important news that could affect your relationship with the Company), and to forward messages to you from other Service users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. By registering with the Company, you agree to receive Operational Communications. 
 
-**Information Collection and Use**
+**Creating a MerchantWords Account and Profile Information:** When you create a MerchantWords account, you must provide access credentials in the form of an email address and password. You must also provide your credit card number. You may update or modify your profile information and contact information at any time. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Contact Information:** In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Links:** We may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, for example to provide relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Cookies:** The Services employ "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. MerchantWords may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. If you do not want cookies from MerchantWords or other websites, you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Third-Party Services:** MerchantWords uses a variety of third-party services to help provide our Services. These third-party service providers may use cookies and other technologies to collect information about your use of our Services and other websites and services, including your IP address, device ID, pages viewed, and links clicked. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Information Sharing and Disclosure 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Service Providers:** We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. Our service providers include [Stripe](https://stripe.com/us/privacy). 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Law and Harm:** Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect MerchantWords's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. 
 
-**Security**
+**Business Transfers** : In the event that MerchantWords is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as the number of users who clicked on a particular link (even if only one did). 
 
-**Updating Your Information**
+Modifying Your Personal Information 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+If you are a registered user of our Services, we provide you with tools and account settings to access or modify the profile information you provided to us and associated with your account. You can also permanently delete your MerchantWords account by contacting us. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Our Policy Towards Children 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. 
 
-      iii.      You may call us at: (480) 505-8800
+Children under 18 years of age are not authorized to use the services of MerchantWords without written permission from a parent or guardian. 
 
-       iv.      You may fax us at: (480) 505-8844
+Changes to this Policy 
 
-**Sending Emails**
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at www.merchantwords.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+California Privacy Rights 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities' direct marketing purposes. The Company does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about our privacy practices, please contact us at contact@merchantwords.com. 
 
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Effective: June 28, 2017 
