@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nopcommerce.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011219id_/http%3A//www.nopcommerce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopcommerce.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720160206id_/https%3A//www.nopcommerce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - nopCommerce
 
@@ -8,4 +8,4 @@ The policy of the nopCommerce.com is to respect the privacy of all web site visi
 
 **Information Voluntarily Provided by You.** In the course of using this web site, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar requests. We will never sell, exchange or otherwise distribute your personally identifiable information, except to the extent required by law. We do not retain the information longer than necessary for normal operations. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, or listed below, with questions or concerns on the use of personally identifiable information.
 
-[http://www.nopCommerce.com](http://www.nopcommerce.com/)
+[https://www.nopCommerce.com](https://www.nopcommerce.com/)
