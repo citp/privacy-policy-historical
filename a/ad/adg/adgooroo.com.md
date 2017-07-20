@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416224659id_/https%3A//www.adgooroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720055352id_/https%3A//www.adgooroo.com/privacy-policy) for the most accurate reproduction.*
 
 # AdGooroo Privacy Policy | AdGooroo
 
@@ -79,6 +79,6 @@ To facilitate AdGooroo’s operations, the Company may transfer and access data 
 If you have questions related to privacy, please contact us at [customersupport@adgooroo.com](mailto:customersupport@adgooroo.com) or write to us at:
 
 Privacy Officer  
-AdGooroo, LLC  
-730 W. Randolph St.,  
+AdGooroo  
+1400 West Fulton Market,  
 Chicago, IL 60661
