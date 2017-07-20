@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the onebox.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212044507id_/http%3A//www.onebox.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebox.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720062518id_/https%3A//www.onebox.com/signup/privacy) for the most accurate reproduction.*
 
 # Onebox® respects your privacy and delivers a virtual phone system.
-
-[ ](https://web.archive.org/signup/)
-
-Onebox® respects your privacy and delivers a virtual phone system.
 
 This Privacy Policy is effective on April 15, 2010 for current users, and upon acceptance for new users.
 
@@ -81,7 +77,7 @@ j2 Global Communications, Inc.
 Subpoena Department  
 6922 Hollywood Boulevard  
 5th Floor Los Angeles, CA 90028  
-Fax: 1-310-943-2400 
+Fax: 1-323-446-8660 
 
 Upon receipt of a valid subpoena, it is the Company's policy to notify the subscriber whose information is sought. In non-emergency circumstances, the Company will generally not produce the subpoenaed subscriber's identity information until approximately two weeks after receipt of the subpoena, unless a formal objection is filed by the customer or we are legally required to do so.
 
@@ -164,5 +160,3 @@ The Company is a participant in the Safe Harbor program developed by the U.S. De
 ##  Data Retention
 
 The time period for which we keep information varies according to how we use the information. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.
-
-o o o
