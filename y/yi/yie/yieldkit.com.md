@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yieldkit.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119054359id_/http%3A//yieldkit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldkit.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720150035id_/https%3A//yieldkit.com/legal-notes/privacy-policy) for the most accurate reproduction.*
 
 # YieldKit - Performance Marketing Aggregator for Publishers
 
@@ -63,7 +63,7 @@ We have taken appropriate technical and organisational measures to protect your 
 #### Information/revocation/correction
 
 You can obtain information about your data stored by us and can ask for inaccurate data to be corrected at any time without stating reasons and free of charge. In addition, you can at any time withdraw your consent with future effect. In the event of revocation, we are obliged to immediately delete the personal data, unless mandatory statutory retention obligations preclude deletion. Both revocations and information requests can be sent informally either by mail to:  
-Yieldkit UG (haftungsbeschränkt), Gänsemarkt 43, 20354 Hamburg  
+Yieldkit GmbH, Jarrestraße 44b, 22303 Hamburg  
 or by email to the electronic mailbox [privacy@yieldkit.com](mailto:privacy@yeldkit.com) at any time. 
 
 #### Modification of this privacy policy
