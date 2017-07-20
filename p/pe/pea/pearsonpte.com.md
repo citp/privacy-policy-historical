@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonpte.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191824id_/http%3A//pearsonpte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonpte.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720171358id_/https%3A//pearsonpte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Pearson
 
