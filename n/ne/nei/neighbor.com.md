@@ -1,75 +1,80 @@
-> *The following text is extracted and transformed from the neighbor.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012215822id_/http%3A//www.neighbor.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbor.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720092918id_/https%3A//www.lunchbots.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ~ SAN FRANCISCO BAY AREA ~ Neighbor.com
+# LunchBots Privacy Policy, Data, Info Disclosure | LunchBots
 
-May 24, 2007 
+## Privacy Policy
 
-Neighbor.com is committed to safeguarding your online privacy. Please read the following policy to understand how your personal information will be treated as you make full use of our many features. By using Neighbor.com you agree to the terms and conditions of our Privacy Policy. This policy may change from time to time so please check back periodically.
+This policy tells you about how LunchBots Inc. (“ **LunchBots** ”) uses and protects your personal information when you use LunchBots.com (our “ **Site** ”). By browsing or shopping on our Site, you agree to and accept the terms of this Privacy Policy, and you expressly consent to our collection, storage, use, and disclosure of your personal information as described in this policy.
 
-  
+## Data We Collect
 
+You may browse the Site without revealing personally identifiable information about yourself. Once you choose to register to receive our newsletter or to make a purchase, you are not anonymous anymore. By registering for our newsletter or making a purchase, you consent to us storing your personal information.  
+We may collect and store the following information:
 
-### Information Neighbor.com Collects
-
-Certain features and services of Neighbor.com require you to register and supply personal information such as your username, email address, zip code and other information which is stored by Neighbor.com. Neighbor.com also collects information and content that you submit including questions you ask, answers you write, listings, reviews and ratings of businesses and service providers. In addition, Neighbor.com uses cookies to store and track information about you. A cookie is a small amount of data that is sent to your browser and stored on your computer's hard drive. Cookies may contain your zip code, IP address, referring URL and other information. We use cookies to customize your experience with Neighbor.com and to analyze site and user behavior. 
-
-  
-
-
-### Use of Information
-
-Information that you have provided and information Neighbor.com collects is used to provide you with services and to communicate with you. In addition, we use this information to analyze user characteristics and measure the level of interest in specific Neighbor.com features.
-
-  
+  * Email address, physical contact information, and financial information, such as credit card number
+  * Shipping, billing and other information you provide when purchasing a product
+  * Purchasing information
+  * Emails sent to us
+  * Information from your interaction with our Site, including computer and connection information, page views statistics, IP address and, standard web log information
 
 
-### Transfer of Information
 
-Once you create a user account at Neighbor.com, you can publish your content, including questions, answers, reviews, ratings and postings on our public website. Your content is displayed publicly along with a username, if you choose to display that username. We, and our licensees, can republish your content. In addition, we use your ratings to develop aggregate ratings.
+## How We Use the Data We Collect
 
-When you voluntarily disclose personal information via questions, answers, reviews, messages, postings or in other areas of Neighbor.com, that information can be collected and used by third parties and may result in unsolicited messages from other users or third parties. These activities are beyond the control of Neighbor.com.
+Our primary purpose in collecting personal information is to provide you with a safe, efficient, and customized experience.  
+You agree that we may use your personal information to:
 
-Neighbor.com may sell your questions, answers, reviews and ratings to third parties. Your username, if you chose to use one, and any personal information you have included in your questions, answers and reviews may be transferred to such third parties and published on their websites.
-
-Neighbor.com may disclose aggregated user statistics in order to describe our services to prospective partners, advertisers, other third parties, and for other lawful purposes.
-
-Neighbor.com may disclose account information in cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use.
-
-Neighbor.com may disclose account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
-
-We reserve the right to transfer your account information in the event of a transfer of ownership of Neighbor.com.
-
-  
+  * Provide the services and products you request
+  * Resolve disputes, collect fees, and troubleshoot problems
+  * Prevent potentially prohibited or illegal activities
+  * Customize, measure, and improve our services and content
+  * Offer targeted marketing and promotional offers based on your preferences
+  * Compare your information for accuracy
 
 
-### Controlling Personal Information
 
-Registered users can update their registration information or delete their membership account by logging into their Account. If you delete your account, Neighbor.com will use commercially reasonable efforts to remove your personal information from the site. However, some old data and content may remain in our archives. Also, we may be unable to send changes to partners and third parties who have already received your data and content.
+## Marketing
 
-  
+We do not sell or rent your personal information to third parties.
 
+We may combine your information with information we collect from other companies and use it to improve and personalize our Site and services.
 
-### Security
+## Announcements and Promotions
 
-Neighbor.com uses industry standard measures to protect your information that is stored in our database. We restrict access to your information to employees that need to know that information in order to operate, develop or improve our services.
+LunchBots will send you an email to confirm your order and relay any details about order delivery or delay.
 
-  
+LunchBots may send you purchase-related announcements when it is necessary to do so. You may not opt-out of purchase-related communications, which are not promotional in nature.
 
+You may opt out of receiving promotional emails from us by emailing [info@LunchBots.com](mailto:info@LunchBots.com) from the email address you used to purchase from or register with our Site.
 
-### Notification of Changes
+## Cookies
 
-This Privacy Policy may be revised as our business expands. Neighbor.com may update this Privacy Policy at any time and we will post the date of its last revision prominently. You are responsible for reviewing this Privacy Policy regularly. Your continued use of Neighbor.com indicates your assent to all changes to this Privacy Policy. 
+Cookies are small data files (which often include an anonymous unique identifier) that are sent to your browser from a web site’s computers and stored on your computer’s hard drive.
 
-  
+We use cookies on some of our pages to: gather information about traffic; analyze our web page flow; customize our services, content, and advertising; measure promotional effectiveness; and promote security.
 
+This website uses Google Analytics and other services to help analyze how users use the site. The tool uses “cookies,” which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity for LunchBots.
 
-### Third Party Advertisers and Links
+We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither LunchBots nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any PII from any source, unless you explicitly submit that information via a fill-in form on our website.
 
-Neighbor.com contains links to other web sites. Neighbor.com does not share your personal information with these web sites and is not responsible for the privacy practices or the content of these sites.
+You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
-  
+## Sharing and Disclosing Your Information
 
+We do not sell information about our customers to others.
 
-### Contact Us
+**Third-Party Service Providers:** We use other companies and individuals to perform certain functions on our behalf such as processing credit card payments, analyzing data, providing customer service, and handling disputes. They have access to personal information needed to perform their functions but may not use it for other purposes.
 
-If you have any questions about this Privacy Policy you may contact: Neighbor.com, 555 Bryant Street, #284, Palo Alto, CA 94301
+**Protection of LunchBots and Others:** We can release purchase and other personal information when we believe release is appropriate to comply with the law or protect the rights, property, or safety of LunchBots, our users, or others.
+
+We do not sell, rent, share, or otherwise disclose personally identifiable information from customers for commercial purposes.
+
+**Transfer of Assets:** LunchBots may transfer information about you if LunchBots is acquired by or merged with another company. In this event, LunchBots will notify you by email before information about you is transferred and becomes subject to a different privacy policy.
+
+## Changes to this Privacy Policy
+
+LunchBots has the right to amend this Privacy Policy at any time. We will post the amended terms on the Site. Any amendments will take effect immediately. As such, please review this policy frequently.
+
+## Questions
+
+If you have any questions, please contact us at [info@LunchBots.com](mailto:info@LunchBots.com)
