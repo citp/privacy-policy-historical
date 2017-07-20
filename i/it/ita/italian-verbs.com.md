@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italian-verbs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071614id_/http%3A//www.italian-verbs.com/italian-verbs/italian-verbs-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italian-verbs.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721005848id_/https%3A//www.italian-verbs.com/italian-verbs/italian-verbs-privacy.php) for the most accurate reproduction.*
 
 # Italian Verbs - Privacy statement
 
