@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511153418id_/https%3A//www.akazoo.com/site/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720051245id_/https%3A//www.akazoo.com/site/documents/privacy-policy) for the most accurate reproduction.*
 
 # Unlimited music, made social – Akazoo
 
