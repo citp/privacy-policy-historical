@@ -1,99 +1,87 @@
-> *The following text is extracted and transformed from the shelfengine.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623103232id_/http%3A//www.shelfengine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfengine.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720052159id_/http%3A//www.shelfengine.com/privacypolicy) for the most accurate reproduction.*
 
 # Shelf Engine
 
-Privacy Policy
+PRIVACY POLICY
 
-Last updated: February 02, 2016
+This Privacy Policy was last updated on July 1, 2017.
 
-Shelfbot Co ("us", "we", or "our") operates the Shelfbot mobile application (the "Service").
+Our Policy:
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+Welcome to the web site (the “Site”) of Shelf Engine (“Company”, “we”, “us” and/or “our”). This Site is operated by Company and has been created to provide information about our company and our prediction services, mobile applications and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth Company’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+Information We Collect:
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
 
-Information Collection And Use
+    Personal Data That You Provide Through the Services: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever Company collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information ("Personal Information").
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Company and the authorized third parties referred to herein located in the United States.
 
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+    Other Information:
 
-Log Data
+        Non-Identifiable Data: When you interact with Company through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Company may store such information itself or such information may be included in databases owned and maintained by Company affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.  
 
-When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics ("Log Data").
+    In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+        Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, Company often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Company may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Company may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-Please see the section regarding Location Information below regarding the use of your location information and your options.
+        Do Not Track Signals: We may use cookies or other technologies to collect information about your browsing activities over time and across different websites following your use of the Services. Our Service currently does not respond to “Do Not Track” (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.
 
-Location information
+        Google Analytics: We may allow third party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Services. For example, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Service. For more information on how Google uses this data, go to www.google.com/policies/privacy/partners/.
 
-We may use and store information about your location depending on the permissions you have set on your device. We use this information to provide features of our Service, to improve and customize our Service. You can enable or disable location services when you use our Service at anytime, through your mobile device settings.
+Our Use of Your Personal Data and Other Information:
 
-Cookies
+Company uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Company and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. Company and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+If Company intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+Our Disclosure of Your Personal Data and Other Information:
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+Company is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-Do Not Track Disclosure
+    Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.  
 
-We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+    Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+    Your Employer:  If you are using the Site or any Services as part of your role as an employee or contractor of a legal entity, we may share your information with such entity.
 
-Service Providers
+Agents, Consultants and Related Third Parties: Company, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.    
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+    Legal Requirements: Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Company, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+Your Choices:
 
-Communications
+You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+Exclusions:
 
-Compliance With Laws
+This Privacy Policy does not apply to any Personal Data collected by Company other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to Company through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Company shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+Children:
 
-Security
+Company does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission.
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+Links to Other Web Sites:  
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Company (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Company endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-International Transfer
+Security:
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Company takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Company via the Internet.
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+Other Terms and Conditions:
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Your access to and use of the Services is subject to the Terms of Service at http://www.shelfengine.com/terms-and-conditions/.
 
-Links To Other Sites
+Changes to Company’s Privacy Policy:
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+The Services and our business may change from time to time. As a result, at times it may be necessary for Company to make changes to this Privacy Policy. Company reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Access to Information; Contacting Company:
 
-Children's Privacy
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services.
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+Please also feel free to contact us if you have any questions about Company’s Privacy Policy or the information practices of the Services.
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-Changes To This Privacy Policy
-
-This Privacy Policy is effective as of February 02, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-Contact Us
-
-If you have any questions about this Privacy Policy, please contact us.
+You may contact us as follows: talk@shelfengine.com.
