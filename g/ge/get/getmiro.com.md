@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmiro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103702id_/http%3A//pculture.org/pcf/websites-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmiro.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720022426id_/http%3A//pculture.org/pcf/websites-privacy) for the most accurate reproduction.*
 
 # Participatory Culture Foundation - PCF - Open-source video tools for a better world.
 
