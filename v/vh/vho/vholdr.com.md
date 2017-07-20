@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504235234id_/http%3A//www.vholdr.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720043347id_/http%3A//vholdr.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Motorcycle Extreme
 
