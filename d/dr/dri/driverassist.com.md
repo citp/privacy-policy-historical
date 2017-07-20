@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driverassist.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207104948id_/https%3A//policies.safebytes.com/drv/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverassist.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720021828id_/https%3A//policies.safebytes.com/drv/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy | Our Policies
 
 1\. Introduction
 
@@ -10,23 +10,23 @@ Thank you for visiting driverassist.com and, if applicable, choosing to use our 
 
 Throughout this Privacy Policy, we may use certain words or phrases, and it is important that you understand the meaning of them. The list is not all-encompassing and no definition should be considered binding to the point that it renders this Privacy Policy nonsensical:
 
-“SafeBytes”, “we” or “us” refers to the business which owns this website www.driverassist.com, our Site, Software, or any associated Services, depending on the context of the usage;
+“SafeBytes”, “we” or “us” refers to the business which owns this website driverassist.com, our Site, Software, or any associated Services, depending on the context of the usage;
 
 “Service(s)” refers to the services that we provide through our Site and our Software;
 
-“Software” refers to DriverAssist software available for purchase and download through our Site;
+“Software” refers to Total System Care software available for purchase and download through our Site;
 
-“Site” refers to our website, www.driverassist.com;
+“Site” refers to our website, driverassist.com;
 
-“You” or “user” refers to you, the person who is entering into this Agreement with SafeBytes Software Inc., the owner and operator of www.driverassist.com.
+“You” or “user” refers to you, the person who is entering into this Agreement with SafeBytes Software Inc., the owner and operator of driverassist.com.
 
 3\. Information Collected
 
-**Identifying Information Submitted by You**
+Identifying Information Submitted by You
 
 You are not required to register to view our Site. However, registration is required to purchase our Software, when registering we may ask you to submit your name and email to us. If you wish to purchase our Software you must provide your credit card information to our third party payment processor. We do not collect or store your payment information, such information is subject to our third party payment processor’s Terms of Service and Privacy Policy.
 
-**Non-Identifying Information**
+Non-Identifying Information
 
 Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, interactions with the Site and Service, referring URL, browser, operating system, cookie information, usage, data transferred and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party such as your wireless provider, this information alone cannot usually be used to identify you.
 
@@ -34,19 +34,19 @@ Whenever you visit our Site, we may collect non-identifying information from you
 
 We will never sell, transfer or give your information to a third party without your permission. However, you agree that we may use your information:
 
-  * To enhance or improve our users’ experiences.
-  * To send emails about the other products, news and updates.
-  * To send emails and newsletters about our Site or respond to inquiries.
-  * To send emails about third party products or services.
-  * To re-market our Software and Services to our users.
+To enhance or improve our users’ experiences.
 
+To send emails about the other products, news and updates.
 
+To send emails and newsletters about our Site or respond to inquiries.
+
+To send emails about third party products or services.
 
 Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any US laws, Canadian or EU laws or if a violation of the Terms of Service, Software License Agreement or Privacy Policy has occurred.
 
 We also use remarketing to present image and text based ads to our users based on their previous interest in our Software and use of our Website. The non-identifiable information provided by you is stored in cookies and may be used by Third-Party vendors, including Google Inc. for purposes of remarketing our ads to you in the future. As a result, when you visit websites across the internet that show ads served by Third Party vendors including Google Inc. after your first visit to this Website, you may see our ads again.
 
-You can opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You can opt out of Google’s use of cookies by visiting Google’s Ads Settings. Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.
 
 5\. Accessing, Editing, and Removing Your Information
 
@@ -64,13 +64,15 @@ Throughout the course of our provision of our Services to you, we may delegate o
 
 It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. The following is a non-exhaustive list of other entities that we may store, share, or transfer your information with:
 
-  * SafeCart Inc.
-  * PayPro Global Inc.
-  * UpClick Malta Ltd.
-  * SafeBytes Software Inc.
-  * Google Inc.
+SafeCart Inc.
 
+UpClick Malta Inc.
 
+Google Inc.
+
+PayPro Global Inc.
+
+SafeBytes Software Inc.
 
 8\. Law Enforcement
 
@@ -110,4 +112,4 @@ Your information may be transferred to – and maintained on – computers locat
 
 Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will place a note on our Site or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at support@safebytes.com.
 
-LAST MODIFIED: 2015-12-01
+Last Modified: 2015-12-01
