@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502204045id_/http%3A//www.anritsu.com/en-AU/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721002721id_/https%3A//www.anritsu.com/en-AU/privacy-statement) for the most accurate reproduction.*
 
 # Anritsu Company - Privacy Statement- Anritsu Asia Pacific
 
@@ -155,4 +155,4 @@ Anritsu Corporation
 Corporate Communication Dept.  
 Address: 5-1-1 Onna, Atsugi-shi, Kanagawa, 243-8555 Japan
 
-[Contact Us](http://www.anritsu.com/subscription/privacy-contactus.aspx)
+[Contact Us](https://web.archive.org/subscription/privacy-contactus.aspx)
