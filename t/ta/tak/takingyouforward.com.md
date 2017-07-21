@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takingyouforward.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315132148id_/http%3A//www.takingyouforward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takingyouforward.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721100308id_/http%3A//www.takingyouforward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Taking You Forward Inc.
 
