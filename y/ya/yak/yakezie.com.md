@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209192002id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721135010id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yakezie.com
 
@@ -20,4 +20,4 @@ The Yakezie Network **does not** own the respective Member sites, nor do we have
 
 Per FTC guidelines, this website may be compensated by companies mentioned through advertising, affiliate programs or otherwise. Any references to third party products, rates, or websites are subject to change without notice. Please do the appropriate research before participating in any third party offers.
 
-[Contact the webmaster for more information](mailto:webmaster@yakezie.com "Email the Webmaster") | [Read our Terms of Service](http://yakezie.com/terms-of-service "Yakezie.com Terms of Service")
+[Contact the webmaster for more information](mailto:webmaster@yakezie.com "Email the Webmaster") | [Read our Terms of Service](https://yakezie.com/terms-of-service "Yakezie.com Terms of Service")
