@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaskitchen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095238id_/http%3A//natashaskitchen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaskitchen.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721104946id_/https%3A//natashaskitchen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NatashasKitchen.com
 
