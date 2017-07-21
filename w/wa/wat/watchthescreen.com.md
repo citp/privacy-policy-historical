@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchthescreen.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619150035id_/http%3A//watchthescreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchthescreen.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721132801id_/http%3A//watchthescreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch The Screen
 
