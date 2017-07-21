@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booooooom.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520192754id_/http%3A//www.booooooom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booooooom.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721152038id_/https%3A//www.booooooom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BOOOOOOOM! - CREATE * INSPIRE * COMMUNITY * ART * DESIGN * MUSIC * FILM * PHOTO * PROJECTS
 
