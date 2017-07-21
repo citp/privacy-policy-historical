@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114704id_/http%3A//www.file.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file.net privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721221902id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,6 @@ We take appropriate security measures to help safeguard your personal informatio
 
 ## Contacting us
 
-If you have any questions, just [email us](https://web.archive.org/web/20170606114704id_/http%3A//www.file.net/contact.html).
+If you have any questions, just [email us](https://web.archive.org/web/20170721221902id_/https%3A//www.file.net/contact.html).
 
 This Privacy Policy is effective as of November 20, 2014. We reserve the right to make changes to this privacy policy.
