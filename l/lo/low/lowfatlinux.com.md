@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowfatlinux.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222140529id_/https%3A//lowfatlinux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfatlinux.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721072743id_/https%3A//lowfatlinux.com/privacy.html) for the most accurate reproduction.*
 
 # lowfatlinux.com | Privacy Policy
 
