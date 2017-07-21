@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackvia.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622234042id_/http%3A//trackvia.com/about-us/trackvia-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackvia.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721032543id_/https%3A//www.trackvia.com/about-us/trackvia-privacy-policy) for the most accurate reproduction.*
 
 # TrackVia Privacy Policy
 
