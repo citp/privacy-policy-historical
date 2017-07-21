@@ -1,43 +1,39 @@
-> *The following text is extracted and transformed from the beautyeditor.ca privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922021044id_/http%3A//beautyeditor.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyeditor.ca privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721222001id_/https%3A//beautyeditor.ca/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Beauty Editor
+# Privacy Policy - Beautyeditor
 
-BeautyEditor.ca is committed to respecting the privacy concerns of its visitors. BeautyEditor.ca has created this privacy policy (the “Policy”) to establish guidelines that will govern the collection, use, protection and disclosure of the personal and non-personal information of its visitors.
+Beautyeditor (the "Website") takes your privacy seriously. This Privacy Policy describes what information is collected, and how it is used, when you visit the Website.
 
-BeautyEditor.ca collects three kinds of information from the Website: (1) your voluntarily provided personal information; (2) anonymous non-personal information; and (3) “cookie” based information.
+ **Personal Information**
 
-#### Personal Information
+The only personal information we collect is what you give us. When you leave a comment, or communicate with us by email, you may elect to give us personally-identifiable information such as your name, email address, geographic location, or other information which could be used to locate or contact you.
 
-BeautyEditor.ca does not automatically collect personal information, such as name, address, phone number, email address and other personally identifiable information, from its visitors (“Personal Information”). From time to time, BeautyEditor.ca will collect Personal Information that is voluntarily provided by its visitors in filling out contest entry forms and subscribing to newsletters and other activities carried out on BeautyEditor.ca. BeautyEditor.ca will only collect and use such Personal Information solely for the purpose(s) disclosed by BeautyEditor.ca at the time of collection and only after the visitor has voluntarily agreed to such collection and use, by clicking “I agree” on the online form or in writing if entering via faxed or mailed form. BeautyEditor.ca also sometimes use email addresses that have been voluntarily provided by its visitors to respond to visitors who communicate with us, to inform winners of contests or to subscribe to newsletters. All emails from BeautyEditor.ca to its visitors include instructions on how to discontinue receipt of emails, newsletters and other communication from BeautyEditor.ca and visitors can discontinue such communication at any time. Email addresses from visitors who wish to discontinue receipt of BeautyEditor.ca’s emails will be removed from BeautyEditor.ca’s distribution list and databases. All Personal Information that may identify a visitor and has been collected with the visitor’s consent by BeautyEditor.ca is not disclosed in any identifiable form to any other party outside the company except for the fulfillment of the specific purpose identified to the visitor at the time of collection. However, BeautyEditor.ca may disclose such information in anonymous, aggregated and non-personally identifiable form to other parties for marketing, advertising or other purposes and to better understand visitors’ use of the Website.
+ **Non-Personal Information**
 
-Visitors should exercise caution when they disclosed personally identifiable information on comment forms, bulletin boards or chat rooms on BeautyEditor.ca or any other website. Such areas are accessible by anyone and may result in the visitor receiving unsolicited messages from other people and/or companies. Although BeautyEditor.ca is committed to protecting the Personal Information provided to it by its visitors in compliance with this Privacy Policy, it cannot guarantee the security of information, whether personal or otherwise, that visitors disclose online to publicly accessible bulletin boards or chat rooms.
+Our website host, advertising network, advertisers, and affiliates ("Affiliates") may collect non-personal information such as your IP address, the type of browser you are using, the referring website, the operating system you are using, your Internet service provider, the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
-#### Anonymous Non-Personal Information
+ **Cookies**
 
-When visitors visit BeautyEditor.ca, anonymous, non-personal information about their visit is automatically collected. Such information may include the length and date of the visit, how the visitor navigated the Website, what pages the visitor viewed, the type of browser being used by the visitor, the type of operating system used by the visitor and the domain name of the visitor’s Internet service provider. BeautyEditor.ca uses this Anonymous Non-Personal Information to track the success of BeautyEditor.ca with its visitors and to better tailor BeautyEditor.ca to visitors’ needs and interests. This Anonymous Non-Personal Information may be shared with other parties, such as broadcasters, advertisers, sponsors and partners.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor’s browser provides to the website each time the visitor returns. Cookies collect certain types of non-personal information such as the search terms you use on our Website, the specific web pages you visit, the duration of your visits, and your preferences. Beautyeditor does not use cookies, but one or more of our Affiliates do. Please note that our Affiliates' use of cookies is governed by their own privacy policies.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [see here](http://www.networkadvertising.org/managing/opt_out.asp).
+ **Information Use**
 
-#### Cookie-based Information
+This site uses selective affiliate links, which means a commission is earned if you make a purchase via the link. The price you pay will be the same whether you use the affiliate link or go directly to the vendor’s website using a non-affiliate link. Our Affiliates may use non-personal information to help analyze site traffic, understand customer needs and trends, and carry out targeted promotional activities. They may use non-personal information by itself or aggregate it with information they have obtained from others to produce research reports and other information and data, and may share such information with third parties.
 
-BeautyEditor.ca may use cookies. “Cookies” are pieces of information that a website transfers to a visitor’s hard drive for record keeping and identification purposes. Cookies are used to make the visitor’s use of a website easier by saving visitor preferences and passwords and to identify which areas of the website are popular and which areas need improvement and how to target certain advertising to its visitors. BeautyEditor.ca does not use cookies to collect personally identifiable information except in connection with a password-protected online registration for a contest or newsletter or other service and only with the visitor’s informed consent. Visitors may visit BeautyEditor.ca with its cookies turned off to avoid the collection of Cookie-based Information.
+ **Third-Party Advertising**
 
-#### Protection of Visitors’ Personal Information
+We may use third-party advertising companies to serve ads on the Website. Those companies may use non-personal information about your visit to the Website to display ads for goods and services which may be of interest to you.
 
-BeautyEditor.ca protects the Personal Information it collects with appropriate technological, physical and administrative safeguards to protect if from unauthorized disclosure or use. Access to Personal Information collected by BeautyEditor.ca is limited to authorized individuals and stored on its databases, which are protected by firewalls and are password-secured. BeautyEditor.ca retains the Personal Information only for as long as is required for the purposes identified at the time of its collection and consented to by the visitor providing it or as otherwise required by law. Once Personal Information is no longer necessary for the purposes consented to by the visitor, it is BeautyEditor.ca’s practice to delete it from its databases or systems or make it anonymous.
+ **Links to Other Sites**
 
-#### Linked Websites
+We may provide links to other websites from time to time. We are not responsible for the content or information use at any of those sites, and you should review each site's privacy policy.
 
-BeautyEditor.ca may be linked to other websites. These linked websites are not under the control of BeautyEditor.ca and are required to have their own privacy policies. Visitors should ensure that they read and understand how their Personal Information may be collected, used, and disclosed by the linked websites as BeautyEditor.ca is not responsible for and shall not be held liable for any procedures, policies or activities of any websites linked to BeautyEditor.ca.
+ **Modification**
 
-#### Visitor’s Consent to Privacy Policy
+We may amend or revise this Privacy Policy from time to time. Please review it periodically. Your continued use of the site after any change in this Privacy Policy will mean you accept such change.
 
-By visiting and using BeautyEditor.ca, the visitor agrees to the Privacy Policy and the terms of use (“Terms of Use”) included with this Privacy Policy. If you do not agree to the Privacy Policy do not use the Website or provide Personal Information to BeautyEditor.ca.
+ **Contact**
 
-#### Changes to the Privacy Policy
+If you have any questions about this Privacy Policy, please contact us at michelle (at) beautyeditor (dot) ca.
 
-BeautyEditor.ca reserves the right to modify or supplement this Privacy Policy at any time. If we make a change to this Privacy Policy, we will post such change on our website and make such revised policy and change available upon request. However, BeautyEditor.ca will obtain the necessary consents required under applicable Privacy Laws if it seeks to collect, use or disclose an individual’s personal information for purposes other than those to which consent is obtained unless otherwise required or permitted by law.
-
-If you have any questions, concerns or requests relating to this Privacy Policy or our site in general, please [contact us](https://web.archive.org/pages/contact-us).
-
-This Privacy Policy is intended to comply with the provisions of the Personal Information Protection and Electronic Documents Act (Canada).
+Last Updated September 18, 2016
