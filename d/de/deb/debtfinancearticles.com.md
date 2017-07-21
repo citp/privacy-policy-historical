@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtfinancearticles.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326195244id_/http%3A//www.debtfinancearticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtfinancearticles.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721070556id_/http%3A//www.debtfinancearticles.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DebtFinanceArticles.com
 
@@ -83,3 +83,7 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Policy Modifications**  
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+If you are a real e-juice lover and cant get enough of your favourite blends then what better cost saving strategy can you employ than buying in bulk. For nearly half the price of an equivalent number of single bottles you buy one or more [100ml e liquid bottles](https://www.motivape.co.uk/products/motivape-100ml-bottles-of-e-liquid) from Motivape’s online store. Based in the UK we will deliver anywhere in the world.
+
+Swiss Watch Website Styles For Men And Ladies [Rolex Watches For Sale at Discount Prices](https://www.swissluxury.com/rolex/116613%20blu.htm) Deep Sea, Stainless Steel Sea Dweller, Daytona Rose Gold, Oyster Perpetual, Day-Date 40, President, Datejust, Day Date II, YachtMaster, Sky Dweller, Yacht-Master II, GMT, Explorer, Submariner 18K Gold, and Cellini.
