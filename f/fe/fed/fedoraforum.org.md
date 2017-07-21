@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedoraforum.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163520id_/http%3A//www.fedoraforum.org/%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedoraforum.org privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721212209id_/https%3A//www.fedoraforum.org/%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # FedoraForum.org - Privacy Policy
 
