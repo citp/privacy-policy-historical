@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joannaangelbucks.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627022742id_/http%3A//tt.burningangel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joannaangelbucks.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721040843id_/http%3A//tour1.burningangel.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# burningangel
 
 **Last revised on 21 March, 2017**
 
