@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsybitsyfun.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100445id_/http%3A//www.itsybitsyfun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsybitsyfun.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721123536id_/https%3A//www.itsybitsyfun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Itsy Bitsy Fun
 
