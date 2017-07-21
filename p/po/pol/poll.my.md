@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poll.my privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626155042id_/http%3A//jacksonliaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poll.my privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721021621id_/https%3A//jacksonliaw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JacksonLiaw.com
 
