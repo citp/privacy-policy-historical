@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419100718id_/https%3A//www.heals.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721232136id_/https%3A//www.heals.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy
 
