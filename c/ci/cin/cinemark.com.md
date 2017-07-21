@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183607id_/https%3A//cinemark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemark.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721030030id_/https%3A//www.cinemark.com/privacy-policy) for the most accurate reproduction.*
 
 # Cinemark Privacy Policy from 2016
 
