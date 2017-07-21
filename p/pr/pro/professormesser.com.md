@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the professormesser.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608094950id_/http%3A//www.professormesser.com/messer-studios-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professormesser.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721143330id_/https%3A//www.professormesser.com/messer-studios-privacy-policy) for the most accurate reproduction.*
 
 # Messer Studios Privacy Policy | Professor Messer IT Certification Training Courses
 
