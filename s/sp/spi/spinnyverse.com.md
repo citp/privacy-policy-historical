@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinnyverse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030914id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dspinnyverse.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinnyverse.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721183522id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dspinnyverse.com) for the most accurate reproduction.*
 
 # Hiveworks Comics Privacy Policy
 
