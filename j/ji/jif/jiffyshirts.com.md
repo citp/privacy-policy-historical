@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the jiffyshirts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134503id_/http%3A//www.jiffyshirts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffyshirts.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721230056id_/https%3A//www.jiffyshirts.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - JiffyShirts.com
 
 **Sorry, we do not ship to AK, DE, HI, AA, AE, AP or any other location outside of the mainland.**
+
+Your cart will be updated shortly to ensure timely and accurate delivery dates. 
 
 ## General Statement of Principles
 
