@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnewsworld.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115083216id_/http%3A//www.hotnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnewsworld.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722062809id_/http%3A//www.hotnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
