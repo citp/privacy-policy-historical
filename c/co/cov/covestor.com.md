@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625003122id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722151105id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Covestor
+# Privacy - IB Asset Management
 
-Covestor Ltd has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and portfolio managers, is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
+IB Asset Management has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and portfolio managers, is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
 This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact us at 1 (866) 825-3005.
 
@@ -11,7 +11,7 @@ This policy outlines the types of information we collect about you and how we us
 
 #### 1\. What information we collect
 
-  1. When you sign up to become a member of Covestor, we collect certain non-public personal information about you (such as your name, address, social security number, email addresses, telephone numbers and personal, financial and investment status etc.) from information that you provide on applications or other forms as well as communications (electronic, telephone, written or in person) with you or your authorized representatives (such as your attorney, accountant, etc.).
+  1. When you sign up to become a member of IB Asset Management, we collect certain non-public personal information about you (such as your name, address, social security number, email addresses, telephone numbers and personal, financial and investment status etc.) from information that you provide on applications or other forms as well as communications (electronic, telephone, written or in person) with you or your authorized representatives (such as your attorney, accountant, etc.).
 
   2. We also collect information about your brokerage accounts and transactions (such as account numbers, additions/withdrawals, purchases, sales, account balances, inquiries, etc.).
 
@@ -21,7 +21,7 @@ This policy outlines the types of information we collect about you and how we us
 
 #### 2\. Information collected from all visitors
 
-We collect two types of information from our users. The first is information that users provide through optional, voluntary submissions such as opening an account or requests to receive information from Covestor. The second is information that we gather through aggregated tracking information derived while you are browsing the covestor.com website. Anonymous information will be gathered in our computer system log files to allow us to better tailor our content to readers´ needs, help us better understand the demographics of our audience and improve our products. Under no circumstances do we divulge any information about an individual user to a third party. 
+We collect two types of information from our users. The first is information that users provide through optional, voluntary submissions such as opening an account or requests to receive information from IB Asset Management. The second is information that we gather through aggregated tracking information derived while you are browsing the covestor.com website. Anonymous information will be gathered in our computer system log files to allow us to better tailor our content to readers´ needs, help us better understand the demographics of our audience and improve our products. Under no circumstances do we divulge any information about an individual user to a third party. 
 
   
 
@@ -50,7 +50,7 @@ We collect two types of information from our users. The first is information tha
 
   2. We maintain physical, electronic and procedural safeguards that comply with applicable federal or state standards to protect your non-public personal information.
 
-  3. Information submitted by you on the Covestor.com website is encrypted using industry standard secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+  3. Information submitted by you on the covestor.com website is encrypted using industry standard secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 
   
@@ -74,7 +74,7 @@ We collect two types of information from our users. The first is information tha
 
   1. When you visit our website we use “cookies” or other similar web tools to enhance the user experience. These tools enable us to maintain your web session while you browse the site as well as helping us provide you with a better, more personalized experience. Our cookies do not contain any personally identifiable information.
 
-  2. Covestor automatically receives and records information on our server logs from your browser including your IP address, Covestor cookie information and the pages you request. We use this information to improve the functionality and usability of our services. Our log files are not tied to personally identifiable information.
+  2. IB Asset Management automatically receives and records information on our server logs from your browser including your IP address, IB Asset Management cookie information and the pages you request. We use this information to improve the functionality and usability of our services. Our log files are not tied to personally identifiable information.
 
 
   
@@ -84,7 +84,7 @@ We collect two types of information from our users. The first is information tha
 
   1. We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer. If you identify an inaccuracy in, or need to make a change to your account information, please either update the information if you are able to do so directly on our website or alternatively contact Client Services by phone at 1 (866) 825-3005 or by email at clientrelations@covestor.com.
 
-  2. Covestor has the right to edit, remove or add any information at any time at its sole discretion.
+  2. IB Asset Management has the right to edit, remove or add any information at any time at its sole discretion.
 
 
   
@@ -103,7 +103,7 @@ We collect two types of information from our users. The first is information tha
 #### Date
 
 April 04, 2016  
-Copyright © 2016 Covestor Ltd. All rights reserved.
+Copyright © 2016 IB Asset Management. All rights reserved.
 
   
 
