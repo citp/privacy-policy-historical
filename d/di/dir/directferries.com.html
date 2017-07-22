@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directferries.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606045624id_/http%3A//www.directferries.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directferries.com privacy policy that was archived on 2017-07-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170722212617id_/https%3A//www.directferries.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
     <title>Direct Ferries Privacy Policy</title>
@@ -12,7 +12,7 @@
 <meta name="robots" content="ALL">
 <meta name="description" content="Direct Ferries Privacy Policy">
 <meta property="twitter:card" content="summary">
-<meta property="twitter:title" content="Direct Ferries Privacy Policy">
+<meta property="twitter:title" content="">
 <meta property="twitter:description" content="Direct Ferries Privacy Policy">
 <meta name="twitter:url" content="http://www.directferries.com/privacy.htm">
 
@@ -26,7 +26,7 @@
 <link rel="apple-touch-icon-precomposed" href="http://cdn.directferries.com/image/ios/57-icon.png">
 
 <link rel="shortcut icon" href="http://cdn.directferries.com/favicon.ico?v=2" type="image/x-icon"> 
-<link rel="stylesheet" type="text/css" href="http://cdn.directferries.com/styles/rstyles.css?v=170216022624">
+<link rel="stylesheet" type="text/css" href="http://cdn.directferries.com/styles/rstyles.css?v=170619113730">
 
 
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" type="text/css">
@@ -38,8 +38,8 @@
 
     <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NB3MKWX"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
-<script>document.write('<script src="https://ssl.directferries.com/scripts/sayt-jquery.js?v=' + Math.floor(Math.random() * 1000000) + '"\><\/script>');</script><script src="https://ssl.directferries.com/scripts/sayt-jquery.js?v=668560"></script>
-<script type="text/javascript" src="http://fswiz.directferries.com/wiz/df_enus.js?v=1"></script>
+<script>document.write('<script src="https://ssl.directferries.com/scripts/sayt-jquery.js?v=' + Math.floor(Math.random() * 1000000) + '"\><\/script>');</script><script src="https://ssl.directferries.com/scripts/sayt-jquery.js?v=694029"></script>
+<script type="text/javascript" src="http://fswiz.directferries.com/wiz/df_enus.js?v=2"></script>
 
 <script>
     dataLayer = [{
@@ -171,12 +171,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div>
     <div class="con noBanner">
-	<div>
-        <div>	
-            <div class="row">
-                <div class="ABPageTitleChgV2"></div>
-                <div class="ABDivSubRow sm12">
-                    
+    <div>	
+        
 		 <nav class="subNav">
           <ul>
           <li class="mMenu"><span>Menu<i></i></span></li>
@@ -203,10 +199,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         ga('send', 'event', 'SpecialOffers', 'click', 'true');
     });
 </script>
-                    
-                </div>
-            </div>
-        </div>
+        
     </div>
 </div>
 </div>
@@ -457,8 +450,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 <div class="fsPop"></div>
 
-<script src="http://cdn.directferries.com/js/functions.js?v=170407031320"></script>
-<script src="http://cdn.directferries.com/js/scripts.js?v=170221012725"></script>
+<script src="http://cdn.directferries.com/js/functions.js?v=170619024647"></script>
+<script src="http://cdn.directferries.com/js/scripts.js?v=170619113730"></script>
 <script type="text/javascript">writeLanguages();</script>
 
 <div style="display:none">
@@ -494,5 +487,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     });
 </script>
 
+<script>
+    function checkGroupBookingForm() {
+        var formControls = ["contact_name","contact_email", "contact_num"]
+        for (i = 0; i < formControls.length; i++) {
+            var x = document.forms['over9passForm'][formControls[i]].value;
+            if (x == null || x == "") {
+                $('#over9passForm #formErrorBox').show();
+                return false;
+            } else {
+                $('#over9passForm #formErrorBox').hide();
+            }
+        }
+        if (!validateEmail('over9passForm' , "contact_email")) {
+            $('#over9passForm #formErrorBox').show();
+            return false;
+        }
+        return true;
+    };
+    function validateEmail(form, div) {
+    var x = document.forms[form][div].value;
+    if (x == null || x == "" || x.indexOf('@') === -1 || x.indexOf('.') === -1 ||
+                x.indexOf('/') != -1 || x.indexOf(',') != -1 || x.indexOf('>') != -1 ||
+                x.indexOf('*') != -1 || x.indexOf('<') != -1 || x.indexOf(';') != -1 ||
+                x.indexOf(':') != -1 || x.indexOf('}') != -1 || x.indexOf('{') != -1 ||
+                x.indexOf('#') != -1 || x.indexOf('?') != -1 || x.indexOf('=') != -1 ||
+                x.indexOf('+') != -1 || x.indexOf('<') != -1 || x.indexOf('>') != -1 ||
+                x.indexOf('^') != -1 || x.indexOf('¬') != -1 || x.indexOf('`') != -1 ||
+                x.indexOf('!') != -1 || x.indexOf('"') != -1 || x.indexOf('%') != -1 ||
+                x.indexOf('£') != -1 || x.indexOf('$') != -1 || x.indexOf('^') != -1 ||
+                x.indexOf('(') != -1 || x.indexOf(')') != -1 || x.indexOf('[') != -1 ||
+                x.indexOf(']') != -1) {
+        return false;
+    }
+    return true;
+    };
+
+    function showGroupBookingForm() {
+        //$('#over9pass').show;
+        loadPopup('over9pass');
+        $('#isRoundTrip').val($('#vmAll input[name="h_journeytype"]').val());
+        if ($('#ddrouteout').length == 0) {
+            $('#routeStr').val($('#txtrouteout').val());
+        } else {
+            $('#routeStr').val($('#ddrouteout option:selected').text());
+            $('#routeValue').val($('#ddrouteout').val())
+        }
+    }
+</script>
   
 </body></html>
