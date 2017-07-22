@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userdrivers.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522235819id_/http%3A//www.userdrivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userdrivers.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722111437id_/http%3A//www.userdrivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - User Drivers
 
