@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620033259id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722055624id_/https%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
 
 # Order Genuine Medicine, Best Online Pharmacy in India - SastaSundar.com
 
-This Privacy Policy relates solely to the user information collected by us and how that information is treated on our website, www.sastasundar.com. We recognize that many visitors and users of “Sastasundar.com” are concerned about the information they provide to us and how we use that information. This Privacy Policy has been developed to address those concerns. At www.sastasundar.com, we respect your privacy and take reasonable measures to protect your personal information and other details that you share with us.
+This Privacy Policy relates solely to the user information collected by us and how that information is treated on our website, www.SastaSundar.com. We recognize that many visitors and users of “SastaSundar.com” are concerned about the information they provide to us and how we use that information. This Privacy Policy has been developed to address those concerns. At www.SastaSundar.com, we respect your privacy and take reasonable measures to protect your personal information and other details that you share with us.
 
-ANY ACCESS OR USE OF THIS WEBSITE (WWW.SASTASUNDAR.COM) WOULD MEAN THAT YOU HAVE READ, UNDERSTOOD AND AGREED TO ADHERE TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS.
+ANY ACCESS OR USE OF THIS WEBSITE (www.SastaSundar.com) WOULD MEAN THAT YOU HAVE READ, UNDERSTOOD AND AGREED TO ADHERE TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS.
 
 IN CASE YOU DISAGREE TO ANY OR ALL OF THESE TERMS, PLEASE LEAVE THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
@@ -20,14 +20,14 @@ The terms are incorporated herein in English language and the website does not p
 
 ## CHANGES TO PRIVACY POLICY
 
-www.sastasundar.com reserves the right to update this Privacy Policy from time to time as it may deem fit and proper without any prior notice. These changes, introduced to the Privacy Policy upon being posted on www.sastasundar.com, will take effect immediately. So do make sure you are aware of the changes; please review this page periodically to ensure you have the latest version. After such revisions take effect, your continued use of the website, www.sastasundar.com, will indicate your acceptance and acknowledgment of the terms of the revised Privacy Policy.
+www.SastaSundar.com reserves the right to update this Privacy Policy from time to time as it may deem fit and proper without any prior notice. These changes, introduced to the Privacy Policy upon being posted on www.SastaSundar.com, will take effect immediately. So do make sure you are aware of the changes; please review this page periodically to ensure you have the latest version. After such revisions take effect, your continued use of the website, www.SastaSundar.com, will indicate your acceptance and acknowledgment of the terms of the revised Privacy Policy.
 
   
 
 
 ## TYPES OF INFORMATION COLLECTED AND USES OF COLLECTED INFORMATION
 
-During your use of www.sastasundar.com, we will collect and store your personal information which is provided by you from time to time. Such information is essential to guarantee you a safe, secure, proficient and personalized shopping experience. 
+During your use of www.SastaSundar.com, we will collect and store your personal information which is provided by you from time to time. Such information is essential to guarantee you a safe, secure, proficient and personalized shopping experience. 
 
 Any individual can browse our website without sharing his/her personal information with us. However, if you intend to become a member, it becomes necessary to share all your personal details (as required) with us.
 
@@ -35,7 +35,7 @@ We hope that this Policy helps you understand what kind of personal data, if any
 
 **Personally Identifiable Information**
 
-“Personally Identifiable Information” is the information that identifies a specific End User. Such unique identification and the subsequent submission of data are directly associated with your various activities at www.sastasundar.com such as creation of account, placing an order, sharing your feedback, suggesting a product etc. However, it is for you to choose not to engage in such activities.
+“Personally Identifiable Information” is the information that identifies a specific End User. Such unique identification and the subsequent submission of data are directly associated with your various activities at www.SastaSundar.com such as creation of account, placing an order, sharing your feedback, suggesting a product etc. However, it is for you to choose not to engage in such activities.
 
 Remember, once you enroll, it is mandatory to provide the required information. 
 
@@ -51,7 +51,7 @@ Some of the information that we collect includes:
 
 
 
-Depending on your activity on www.sastasundar.com, some of the details we may ask are mandatory and some are optional. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity. 
+Depending on your activity on www.SastaSundar.com, some of the details we may ask are mandatory and some are optional. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity. 
 
 The various purposes for which we need this information include, but not limited to:
 
@@ -66,9 +66,9 @@ This information may also be used to analyze Website use, enhance our services f
 
 We may also use Personally Identifiable Information to resolve disputes, enforce our agreements with you (including our Website Terms of Use and this Privacy Policy), comply with applicable law and cooperate with law enforcement activities.
 
-We assure that your Personally Identifiable Information are private and secure at www.sastasundar.com and will not be sold, rented or traded to any third party entity without your explicit consent.
+We assure that your Personally Identifiable Information are private and secure at www.SastaSundar.com and will not be sold, rented or traded to any third party entity without your explicit consent.
 
-Only the staff, officers, employees, agents and representatives of www.sastasundar.com and the staff, officers, employees, agents and representatives at the dispensing pharmacies will view your file and the information contained therein.
+Only the staff, officers, employees, agents and representatives of www.SastaSundar.com and the staff, officers, employees, agents and representatives at the dispensing pharmacies will view your file and the information contained therein.
 
 However, we may disclose your personal information if required to do so as detailed in the ‘Sharing of Personal Information” mentioned hereinafter.
 
@@ -103,7 +103,7 @@ We may disclose your personal, medical and other information if required to do s
 
 We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
 
-We will transfer information about you if  **Sasta Sundar Shop Private Limited**  is acquired by or merged with another company.
+We will transfer information about you if  **SastaSundar Marketplace Limited**  is acquired by or merged with another company.
 
 **c)** Business Transfers
 
@@ -162,7 +162,7 @@ If you would like to have some or all of your Personally Identifiable Informatio
 
 **Cookies**
 
-"Cookies" are certain data collection devices placed on your hard drive, which we use on certain pages of the Website, www.sastasundar.com to assist us analyze our webpage flow, measure promotional effectiveness and promote trust and ensure safety. Most cookies are "session cookies" meaning that they automatically get deleted from your hard drive at the end of a session, (that is, when you sign out from www.sastasundar.com or close your web browser). You are always free to decline our cookies if your browser permits, although, in that case, you may not be able to use certain features on the website.
+"Cookies" are certain data collection devices placed on your hard drive, which we use on certain pages of the Website, www.SastaSundar.com to assist us analyze our webpage flow, measure promotional effectiveness and promote trust and ensure safety. Most cookies are "session cookies" meaning that they automatically get deleted from your hard drive at the end of a session, (that is, when you sign out from www.SastaSundar.com or close your web browser). You are always free to decline our cookies if your browser permits, although, in that case, you may not be able to use certain features on the website.
 
 **Some of the features which cookies support:**
 
@@ -175,7 +175,7 @@ If you would like to have some or all of your Personally Identifiable Informatio
 
 
 
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website, Sastasundar.com that are placed by third parties.
+Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website, SastaSundar.com that are placed by third parties.
 
 WE DO NOT CONTROL THE USE OF COOKIES BY THIRD PARTIES.
 
@@ -183,27 +183,27 @@ WE DO NOT CONTROL THE USE OF COOKIES BY THIRD PARTIES.
 
 A "web beacon" is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one page to another and to improve site performance.
 
-Periodically, Sastasundar.com may, at random, record user sessions to help improve the onsite experience of our visitors. We do not record your personal information during these sessions.
+Periodically, SastaSundar.com may, at random, record user sessions to help improve the onsite experience of our visitors. We do not record your personal information during these sessions.
 
   
 
 
 ## SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION
 
-Sastasundar.com has rigorous security measures in place to protect the loss, misuse and modification of your Personally Identifiable Information. We always provide you the use of a secure server that only selected personnel and contractors can access and thus, track all your account accesses and modifications.
+SastaSundar.com has rigorous security measures in place to protect the loss, misuse and modification of your Personally Identifiable Information. We always provide you the use of a secure server that only selected personnel and contractors can access and thus, track all your account accesses and modifications.
 
 However, no data transmission over the Internet is absolutely safe and secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us. You transmit any information over the Internet solely at your own risk.
 
 We would also like to request you to keep your user name, password and other personal information confidential to protect your account against unauthorized access.
 
-Always remember, Sastasundar.com customer service representatives will never request you for your password.
+Always remember, SastaSundar.com customer service representatives will never request you for your password.
 
   
 
 
 ## PRIVACY POLICY FOR THIRD PARTY SERVICE PROVIDERS
 
-At present, we use third-party advertising companies or service providers to serve advertisements on our website, www.sastasundar.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to Sastasundar.com and other websites in order to provide advertisements about goods and services that you may find interesting and rewarding.
+At present, we use third-party advertising companies or service providers to serve advertisements on our website, www.SastaSundar.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to SastaSundar.com and other websites in order to provide advertisements about goods and services that you may find interesting and rewarding.
 
 We may work with other companies in the future who may also place cookies or web beacons on our website. These companies will help us operate our website and also provide you additional information on varied products and services.
 
@@ -212,7 +212,7 @@ We may work with other companies in the future who may also place cookies or web
 
 ## PRIVACY POLICY FOR THIRD PARTY WEBSITES
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through www.sastasundar.com have their own privacy policies and data collection methods, uses and disclosure practices. If you link to any such website, we insist on reviewing those websites’ privacy policies. We are not responsible for the policies or practices of the third parties.
+This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through www.SastaSundar.com have their own privacy policies and data collection methods, uses and disclosure practices. If you link to any such website, we insist on reviewing those websites’ privacy policies. We are not responsible for the policies or practices of the third parties.
 
   
 
@@ -243,7 +243,7 @@ You acknowledge and agree that this website is not liable for any loss or damage
 
 **Children**
 
-As mentioned in our Terms & Conditions, no minors are permitted to register at or use the features of www.sastasundar.com. We do not intent to sell our services and products to them, neither do we wish to collect or maintain information from anyone known to be under 18. No part of the website, www.sastasundar.com is designed to attract anyone under the age of 18. If you are a minor but still want to purchase a product, you may do so through a parent or guardian who is a member of www.sastasundar.com.
+As mentioned in our Terms & Conditions, no minors are permitted to register at or use the features of www.SastaSundar.com. We do not intent to sell our services and products to them, neither do we wish to collect or maintain information from anyone known to be under 18. No part of the website, www.SastaSundar.com is designed to attract anyone under the age of 18. If you are a minor but still want to purchase a product, you may do so through a parent or guardian who is a member of www.SastaSundar.com.
 
 Protecting the privacy of children is our primary concern. Hence, we will not knowingly collect or maintain Data on our website from those who are under 18 years of age.
 
@@ -255,7 +255,7 @@ Our e-mail distributions will be in compliance with our current Privacy Policy. 
 
 Public Areas
 
-Certain areas on our website, www.sastasundar.com allow you to publicly post feedbacks on www.sastasundar.com. When you communicate through such platforms you must understand that such information is public and may be accessible by other consumers and companies as well. In fact, the information may appear on other websites or web searches, making it easier for others to collect, read or use your information.
+Certain areas on our website, www.SastaSundar.com allow you to publicly post feedbacks on www.SastaSundar.com. When you communicate through such platforms you must understand that such information is public and may be accessible by other consumers and companies as well. In fact, the information may appear on other websites or web searches, making it easier for others to collect, read or use your information.
 
 In case you are not interested in receiving promotional e-mails and other marketing information from us, please mail us at [care@sastasundar.com](mailto:care@sastasundar.com). We assure you that we will execute your request at the earliest.
 
