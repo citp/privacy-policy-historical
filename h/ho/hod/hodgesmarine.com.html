@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hodgesmarine.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606013835id_/http%3A//www.hodgesmarine.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hodgesmarine.com privacy policy that was archived on 2017-07-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170722164719id_/http%3A//www.hodgesmarine.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js ie9" lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -36,7 +36,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.58.0.2387"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.64.0.2577"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -71,11 +71,12 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.58.0.2387"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.64.0.2577"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = true;
 </script>
+
 
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -388,6 +389,7 @@
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Fitness-Products-Wrist-Watches-s/121.htm" class="vnav__link">Fitness/Wrist Watches</a>
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Marine-Outdoor-Grills-s/133.htm" class="vnav__link">Marine/Outdoor Grills</a>
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Metal-Detectors-s/122.htm" class="vnav__link">Metal Detectors</a>
+</li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Marine-Hardware-Tools-s/193.htm" class="vnav__link">Tools</a>
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Training-Videos-DVDs-Books-s/83.htm" class="vnav__link">Training Videos/Books</a>
 </li></ul>
 </li>
@@ -715,6 +717,7 @@
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Fitness-Products-Wrist-Watches-s/121.htm" class="vnav__link">Fitness/Wrist Watches</a>
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Marine-Outdoor-Grills-s/133.htm" class="vnav__link">Marine/Outdoor Grills</a>
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Metal-Detectors-s/122.htm" class="vnav__link">Metal Detectors</a>
+</li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Marine-Hardware-Tools-s/193.htm" class="vnav__link">Tools</a>
 </li><li class="vnav__item"><a href="https://www.hodgesmarine.com/Training-Videos-DVDs-Books-s/83.htm" class="vnav__link">Training Videos/Books</a>
 </li></ul>
 </li>
@@ -1090,8 +1093,69 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+<!-- Begin Nofraud Service Javascript -->
 <script type="text/javascript" src="https://services.nofraud.com/js/1512/customer_code.js"></script>
 
+<script>
+	var Page = PageName() || 'default.asp';
+
+	if (Page === 'productdetails.asp') {
+		document.addEventListener("DOMContentLoaded", function (event) {
+
+			var stock_dom = document.getElementById('qis');
+			var stock_number = stock_dom.innerHTML.replace( /\D+/g, '');
+
+			if (parseInt(stock_number) > 10) {
+				document.getElementById('qis').innerHTML = stock_dom.innerHTML.replace(/(\d+)/g, "10+");
+			}
+
+		});
+	}
+
+</script>
+<script>
+	var Page = PageName() || 'default.asp';
+
+	if ((Page === 'searchresults.asp') || (Page ==='default.asp')){
+
+		document.addEventListener("DOMContentLoaded", function (event) {
+
+			var qis =document.querySelectorAll('span.qis');
+
+			for (var i = 0; i < qis.length; i++) {
+				if (parseInt(qis[i].innerText) > 10) {
+					qis[i].innerHTML = "10+";
+				}
+			}
+		});
+		
+	}
+
+</script>
+<script>
+	var Page = PageName() || 'default.asp';
+
+	if (Page === 'productdetails.asp') {
+		document.addEventListener("DOMContentLoaded", function (event) {
+
+			var stock_dom = document.getElementById('qis');
+			var stock_number = stock_dom.innerHTML.replace( /\D+/g, '');
+
+			var input_qty = document.querySelector('input.v65-productdetail-cartqty');
+			input_qty.addEventListener('blur', function(evt){
+				
+				var qty = parseInt(evt.target.value);
+
+				if ((qty > parseInt(stock_number))&&(qty<10))  {
+					alert("Quantity Ordered Exceeds Instock Quantity! Only "+ stock_number +" will Ship");
+				}
+
+			});
+
+		});
+	}
+
+</script>
   
 
 
