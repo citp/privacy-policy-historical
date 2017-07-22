@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmls.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101095014id_/https%3A//fmls.com/pub/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmls.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723011429id_/https%3A//fmls.com/pub/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # FMLS Privacy Policy
 
