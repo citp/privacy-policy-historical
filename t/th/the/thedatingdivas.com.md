@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedatingdivas.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611211600id_/http%3A//www.thedatingdivas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedatingdivas.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722224651id_/https%3A//www.thedatingdivas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Dating Divas
 
