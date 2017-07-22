@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheniwork.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618231557id_/https%3A//wheniwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheniwork.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722225109id_/https%3A//wheniwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | When I Work
 
