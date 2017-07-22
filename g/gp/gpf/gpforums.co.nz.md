@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpforums.co.nz privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610134127id_/http%3A//www.gameplanet.co.nz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpforums.co.nz privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722024224id_/https%3A//www.gameplanet.co.nz/privacy.php) for the most accurate reproduction.*
 
 # Gameplanet Privacy Policy
 
