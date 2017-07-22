@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605075355id_/https%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722222652id_/https%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stupeflix
 
