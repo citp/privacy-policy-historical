@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themancompany.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190841id_/https%3A//www.themancompany.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themancompany.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722094526id_/https%3A//www.themancompany.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Man Company
+# Privacy Policy – The Man Company
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
