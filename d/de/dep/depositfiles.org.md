@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depositfiles.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624125805id_/https%3A//depositfiles.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositfiles.org privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722145420id_/https%3A//depositfiles.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Mobile DepositFiles
 
