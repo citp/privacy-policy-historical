@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unixmen.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522231553id_/https%3A//www.unixmen.com/unixmen-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unixmen.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722104246id_/https%3A//www.unixmen.com/unixmen-privacy-policy) for the most accurate reproduction.*
 
 # Unixmen Privacy Policy | Unixmen
 
