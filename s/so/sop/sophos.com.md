@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065702id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722083053id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sophos Group Privacy Policy - Legal
 
-This document was last updated on 10 April 2017.
+This document was last updated on 14 July 2017.
 
 ### General
 
@@ -126,9 +126,9 @@ You acknowledge and agree that the Sophos Anti-Virus for Linux Products may prov
 
 Configuration and Usage Data and Application Usage and Threat Data does not include user-specific information or personal data and cannot be disabled.
 
-### Market research
+### Market research and surveys
 
-If you participate in surveys, we may use your personal data to carry out market research. This research is conducted for our internal business and training purposes and will improve our understanding of our users’ demographics, interests and behaviour. This research is compiled and analyzed on an aggregated basis and therefore does not individually identify any user.
+If you participate in surveys, we may use your personal data for our internal business and training purposes in order to improve our understanding of our users’ demographics, interests and behavior, and to measure and increase customer satisfaction.
 
 ### Marketing and promotions
 
