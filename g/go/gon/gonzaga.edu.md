@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonzaga.edu privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613052135id_/http%3A//www.gonzaga.edu/About/copyright-privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonzaga.edu privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724003228id_/http%3A//www.gonzaga.edu/About/copyright-privacy/default.asp) for the most accurate reproduction.*
 
 # Gonzaga University Privacy Statement - Gonzaga University
 
