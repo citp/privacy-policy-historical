@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeetc.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627162023id_/http%3A//web.timeetc.com/virtualassistant/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeetc.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724015124id_/https%3A//web.timeetc.com/virtualassistant/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Virtual Assistants for entrepreneurs and professionals - Time etc
 
