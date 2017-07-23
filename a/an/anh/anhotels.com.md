@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anhotels.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022084905id_/http%3A//anhotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anhotels.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723181243id_/http%3A//anhotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Anhotels.com
 
@@ -6,8 +6,7 @@ This privacy policy sets out how Anhotels.com uses and protects any information 
 
 Anhotels.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Anhotels.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: September 2016  
-
+Anhotels.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: September 2016
 
 ### What we collect
 
@@ -47,8 +46,7 @@ You can find more information about cookies at:
 
 
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.  
-
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide. 
 
 ### Category 1: strictly necessary cookies
 
@@ -70,8 +68,7 @@ By using our website, you agree that we can place these type of cookies on your 
 
 These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
 
-A list of all the cookies used on this website by category is set out below.  
-
+A list of all the cookies used on this website by category is set out below.
 
 ### Links to other websites
 
@@ -84,7 +81,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [ruth@anhotels.com](mailto:ruth@a%6eh%6ftels.com "Send email to: ruth@anhotels.com")
+Email: [ruth@anhotels.com](mailto:ruth%40%61nho%74els%2ecom "Send email to: ruth@anhotels.com")
 
 
 
