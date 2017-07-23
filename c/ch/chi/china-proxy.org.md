@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the china-proxy.org privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521100939id_/http%3A//www.china-proxy.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-proxy.org privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723182756id_/https%3A//www.china-proxy.org/privacy-policy.php) for the most accurate reproduction.*
 
 # China Proxy Privacy Policy
 
