@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184750id_/http%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723181308id_/http%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
 
 # Legal Notice / Privacy Policy – Human Rights Careers
 
@@ -36,7 +36,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.humanrights.careers
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.humanrightscareers.com
 
 **Information Collection And Use**
 
