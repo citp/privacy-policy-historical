@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064055id_/http%3A//www.vanmildert.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724001801id_/http%3A//www.vanmildert.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy | Van Mildert
 
