@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the com.de privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103201348id_/http%3A//com.de/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com.de privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723132938id_/http%3A//com.de/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | .com.de
 
