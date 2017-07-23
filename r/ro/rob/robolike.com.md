@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robolike.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234211id_/https%3A//robolike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robolike.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723172912id_/https%3A//robolike.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — RoboLike
 
