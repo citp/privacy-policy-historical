@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalmozo.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607122336id_/http%3A//animalmozo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalmozo.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723133909id_/http%3A//animalmozo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
