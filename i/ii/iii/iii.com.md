@@ -1,31 +1,61 @@
-> *The following text is extracted and transformed from the iii.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011075343id_/http%3A//www.iii.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724003531id_/https%3A//www.iii.com/privacy-policy) for the most accurate reproduction.*
 
-# Innovative Interfaces: Privacy Statement
+# Privacy Policy - Innovative Interfaces, Inc.
 
-| 
+The privacy of our customers and users of our products and services (collectively, “Users”) is of utmost importance to the library professionals of Innovative Interfaces, and we believe that data privacy is among our most important objectives in serving our Users. In furtherance of this objective, the following states the privacy policy (“Privacy Policy”) of Innovative Interfaces Holdings Ltd., its subsidiaries and affiliates (collectively, “Innovative”).
 
-Updated June 24, 2004
+The following Privacy Policy how Innovative collects, stores and uses data that we collect from our Users via our products and services (“Innovative Products”), or through our public website [www.iii.com](https://www.iii.com/) (the “Innovative Website”).
 
-At Innovative Interfaces Inc., we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen. 
+## **What Is Personal Information?**
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to order e-mail newsletters, or request information from us, or use our online customer support services for your library. Personal information collected by Innovative Interfaces Inc., often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. 
+“Personal Information” refers to personally identifiable information, and means any information that may be used to identify a User, including, but not limited to, a User’s family or first name, personal email address, physical address, or other information that allows a party to identify, contact, or locate a single person, or to identify an individual in context. It is the policy and practice of Innovative to treat such Personal Information as confidential and subject to the terms of this Privacy Policy.
 
-Innovative Interfaces Inc., strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your personal information is never shared outside the company without your permission, except under circumstances where this policy would violate a lawful court order and/or Federal, State, or Local law or Statue. Your information may be stored and processed in the United States or any other country where Innovative Interfaces Inc., its subsidiaries, affiliates or agents are located.
+## **How We Collect and Protect Personal Information**
 
-The Innovative Interfaces Inc., site does not publish content that is targeted to children.
+### The Innovative Website
 
-Cookies allow Web browsers to remember information from a Web site. The browser stores the information in a text file. The message is then sent back to the site each time the browser requests a page from the site. A cookie can only be accessed by the site that created it. You can reset your browser so that it will refuse cookies or to indicate when a cookie is being sent. If you choose to not have your browser accept cookies from the Innovative Interfaces Inc., Web site, you will be able to view the text on the screens, however you may not experience a personalized visit.
+We do not require Website visitors to provide Personal Information in order to have access to information available on the Website. However, if a User interactively requests information from Innovative via the Website, or registers with the Website, Innovative may collect Personal Information that Users choose to provide.
 
-Innovative uses cookies to record customer assent. We do not use cookies for storing passwords or other sensitive information.
+Innovative uses “cookies” in conjunction with the Website. “Cookies” allow web browsers to remember information from a website. The browser stores the information in a text file. The message is then sent back to the site each time the browser requests a page from the site. A cookie can only be accessed by the site that created it. You can reset your browser so that it will refuse cookies or to indicate when a cookie is being sent. If you choose to not have your browser accept cookies from the Website, you will be able to view the text on the screens, but you may not experience a personalized visit.
 
-Each view of a page on this site is logged. We record information such as the most requested pages, usage by country, most downloaded pages, most active organizations, etc. This information is used solely to gather broad demographic information for analysis of web site usage in improving services to our customers. This information is not shared outside of the company. 
+Innovative uses cookies to record customer visits to the Website. We do not use cookies for storing passwords or other sensitive information.
 
-Your use of this site implies your consent to the collection of the information described in this policy. When changes are made to this policy, Innovative will post these changes to this page of the website so that you will be aware of the information we collect and how we use it.
+### The Innovative Products
 
-Innovative Interfaces Inc., welcomes your comments regarding this Statement of Privacy, please contact us by [webmaster@iii.com](mailto:webmaster@iii.com), or postal mail. 
+We may receive and store Personal Information about Users in connection with the Innovative Products.
 
-Webmaster  
-Innovative Interfaces Inc.  
-5850 Shellmound Way  
-Emeryville, CA 94608  
+### How We Use Personal Information
 
+We may contact Users to respond to submitted requests for information, or contact Users in regard to their use of Innovative Products. We store Personal Information only for as long as reasonably necessary to respond to Users inquiries, to facilitate provision and marketing of Innovative Products, or to comply with applicable record retention requirements.
+
+We will not otherwise use Personal Information we collect for any other reason, except as further stated in this Privacy Policy.
+
+### How We Share Personal Information
+
+We may share, transmit or transfer Personal Information (i) as directed by our library customers, to whom Users originally disclosed their Personal Information; and (ii) as may be required by law.
+
+We may also share, transmit or transfer Personal Information to third party service providers solely for storage purposes, but only if such third party service providers adhere to a privacy policy at least as restrictive as this Privacy Policy.
+
+### Safe Harbor Privacy Framework
+
+Innovative adheres to the Safe Harbor Privacy Principles regarding notice, choice, onward transfer, security, data integrity, access, and enforcement as set forth by the U.S. Department of Commerce.
+
+## User Modification of Personal Information & Privacy _@_ iii.com
+
+Users may contact Innovative at [privacy@iii.com](mailto:privacy@iii.com) to request access to, correction, and/or deletion any of their stored Personal Information. Where one of our customer libraries has collected the Personal Information and passed it on to Innovative, Innovative may request that a User first attempt to contact the library and attempt to resolve the issue directly with the customer library.
+
+Users may also contact Innovative at [privacy@iii.com](mailto:privacy@iii.com) for further information regarding data privacy at Innovative, or to advise Innovative of any complaints or comments regarding data privacy at Innovative.
+
+### Privacy for Those Under 18
+
+We do not use Innovative Products to knowingly solicit data from or market to those persons under the age of 18. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [privacy@iii.com](mailto:privacy@iii.com). We will delete such information from our files within a reasonable time.
+
+### Merger, Sale, or Bankruptcy of Innovative
+
+In the event that Innovative is acquired by or merged with a third party entity, we reserve the right to transfer or assign Personal Information as part of such merger, acquisition, sale, or other change of control.
+
+### Updates
+
+Innovative reserves the right to modify this Privacy Policy at any time. Any such changes will be posted on our website at [www.iii.com](https://www.iii.com/).
+
+Updated: January 2016
