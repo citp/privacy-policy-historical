@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.co.id privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611182942id_/http%3A//id.jobsdb.com/en-id/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.id privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723234814id_/https%3A//id.jobsdb.com/en-id/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Indonesia
 
