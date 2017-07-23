@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the helloclue.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloclue.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Clue: Period and Ovulation Tracker for iPhone and Android
 
-  * [](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/index.html "HelloClue")
+  * [](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/index.html "HelloClue")
   * Menu
 
 
 
-  * [Home](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/index.html)
-  * [Clue App](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/app.html)
-  * [Company](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/company.html)
-  * [Jobs](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/jobs.html)
+  * [Home](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/index.html)
+  * [Clue App](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/app.html)
+  * [Company](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/company.html)
+  * [Jobs](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/jobs.html)
   * [Blog](http://blog.helloclue.com/)
   * __
     * ##### Back
 
-    * [__](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/de.html)
-    * [__](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/fr.html)
-    * [__](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/dk.html)
-    * [__](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/es.html)
-    * [__](https://web.archive.org/web/20170613114536id_/https%3A//www.helloclue.com/index.html)
+    * [__](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/de.html)
+    * [__](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/fr.html)
+    * [__](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/dk.html)
+    * [__](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/es.html)
+    * [__](https://web.archive.org/web/20170723223522id_/https%3A//helloclue.com/index.html)
 
 
 
