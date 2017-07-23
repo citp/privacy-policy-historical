@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430223347id_/https%3A//www.weightwatchers.com/ca/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723071630id_/https%3A//www.weightwatchers.com/ca/en/politique-de-confidentialite) for the most accurate reproduction.*
 
 # Privacy Policy | Weight Watchers Canada
 
