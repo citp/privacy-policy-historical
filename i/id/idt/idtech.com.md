@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idtech.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303030322id_/https%3A//www.idtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idtech.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723065156id_/https%3A//www.idtech.com/privacy-policy) for the most accurate reproduction.*
 
 # iD Tech Privacy Policy
 
