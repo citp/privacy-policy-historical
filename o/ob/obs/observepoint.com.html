@@ -1,43 +1,44 @@
-<!--The following is the downloaded HTML source of the observepoint.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121142704id_/http%3A//www.observepoint.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the observepoint.com privacy policy that was archived on 2017-07-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170723060704id_/https%3A//www.observepoint.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+
+
+        
+                
+        
+                 
+        
+        
+
+
+
+        
+        <!-- Google Tag Manager -->
+        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5LS3NZ"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                                              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                    })(window,document,'script','dataLayer','GTM-5LS3NZ');</script>
+        <!-- End Google Tag Manager -->
+
+
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>ObservePoint Privacy Policy </title>
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5LS3NZ"></script><script async="" src="//cdn.decibelinsight.net/i/13559/67231/di.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/bootstrap-select.min.js"></script>
-        <script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/bootstrap.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/bootstrap-select.min.js"></script>
+        <script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/bootstrap.min.js"></script>
         <script src="//assets.adobedtm.com/f65064a28f9fb640d4c6ce70f65c1160240a8224/satelliteLib-191fe1cef278f384eeb0cc98b64cac42636d5082.js"></script>
 
         <script src="https://cdn.optimizely.com/js/3592281629.js"></script>
 
 
-        <!-- Hotjar Tracking Code for www.observepoint.com -->
-        <script>
-            (function(h,o,t,j,a,r){
-                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-                h._hjSettings={hjid:323157,hjsv:5};
-                a=o.getElementsByTagName('head')[0];
-                r=o.createElement('script');r.async=1;
-                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-                a.appendChild(r);
-            })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-        </script><script async="" src="//static.hotjar.com/c/hotjar-323157.js?sv=5"></script>
 
-        <!-- Decibel Insight - observepoint.com -->
-        <script type="text/javascript">
-            // <![CDATA[
-            (function(d,e,c,i,b,el,it) {
-                d._da_=d._da_||[];_da_.oldErr=d.onerror;_da_.err=[];
-                d.onerror=function(){_da_.err.push(arguments);_da_.oldErr&&_da_.oldErr.apply(d,Array.prototype.slice.call(arguments));};
-                d.DecibelInsight=b;d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments);};
-                el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.parentNode.insertBefore(el,it);
-            })(window,document,'script','//cdn.decibelinsight.net/i/13559/67231/di.js','decibelInsight');
-            // ]]>
-        </script>
+        <link rel="canonical" href="https://www.observepoint.com/privacy-policy/">
+
 
 
 
@@ -174,77 +175,91 @@
         <!--form prepop script -->
         <script>
             $(document).ready(function(){
-
-                function getCookie(name) {
-                    var value = "; " + document.cookie;
-                    var parts = value.split("; " + name + "=");
-                    if (parts.length == 2) return parts.pop().split(";").shift();
+                //get marketo_lead_id from url. Set to cookie. gup function in op-tracking.js
+                var marketo_lead_id = gup('marketo_lead_id');
+                if(marketo_lead_id !== ''){
+                    document.cookie='marketo_lead_id=' + marketo_lead_id + '; path=/';
                 }
-
-                mktoCookie = encodeURIComponent(getCookie('_mkto_trk'));
-                //console.log( mktoCookie);
-
-                $.get("http://www.observepoint.com/form-prefill.php?cookie="+mktoCookie, function(data, status){
-
-                    var mktoLead = data
-                    console.log(mktoLead);
-
-                    var obj = jQuery.parseJSON(mktoLead);
-
-                    if(obj.result == ""){
-                    }
-                    else{
-                        if (document.getElementById("first-name")){
-                            document.getElementById("first-name").value = obj.result[0].firstName;
+                //if marketo_lead_id cookie is not set, look up from _mkto_trk. getCookie is in op-tracking.js
+                if(getCookie('_mkto_trk')) {
+                    var marketo_tracking = encodeURIComponent(getCookie('_mkto_trk'));
+                    //console.log(marketo_tracking);
+                    $.get("/marketo-tracking-cookie-api.php?cookie="+marketo_tracking, function(data, status){
+                        var mktoLead = data
+                        var obj = jQuery.parseJSON(mktoLead);
+                        if(obj.result == ""){}
+                        else{
+                            document.cookie='marketo_lead_id=' + obj.result[0].id + '; path=/';
                         }
-                        if (document.getElementById("last-name")){
-                            document.getElementById("last-name").value = obj.result[0].lastName;
+                    });
+                }
+                //If form fields exist, do api call using marketo_lead_id to prefill form            
+                if(document.getElementById("email") && getCookie('marketo_lead_id')){          
+                    $.get("/form-prefill.php?marketo_lead_id="+getCookie('marketo_lead_id'), function(data, status){
+                        var mktoLead = data;
+                        //console.log(mktoLead);
+                        var obj = jQuery.parseJSON(mktoLead);
+                        if(obj.result == ""){   
                         }
-                        if (document.getElementById("email")){
-                            document.getElementById("email").value = obj.result[0].email;
+                        else{
+                            if (document.getElementById("first-name")){
+                                document.getElementById("first-name").value = obj.result[0].firstName;
+                            }
+                            if (document.getElementById("last-name")){
+                                document.getElementById("last-name").value = obj.result[0].lastName;
+                            }
+                            if (document.getElementById("email")){
+                                document.getElementById("email").value = obj.result[0].email;
+                            }
+                            if (document.getElementById("company")){
+                                document.getElementById("company").value = obj.result[0].company;
+                            }
+                            if (document.getElementById("phone")){
+                                document.getElementById("phone").value = obj.result[0].phone;
+                            }
+                            if (document.getElementById("title")){
+                                document.getElementById("title").value = obj.result[0].title;
+                            }
+                            if (document.getElementById("company-url")){
+                                document.getElementById("company-url").value = obj.result[0].website;
+                            }
+                            if (document.getElementById("full-name")){
+                                document.getElementById("full-name").value = document.getElementById("first-name").value + " " + document.getElementById("last-name").value;
+                            }
+                            //if on Tag Debugger Page
+                            if(document.getElementById("tag-debugger-footer-form")){
+                                document.getElementById("td-first-name").value = obj.result[0].firstName;
+                                document.getElementById("td-last-name").value = obj.result[0].lastName;
+                                document.getElementById("td-email").value = obj.result[0].email;
+                                document.getElementById("td-company").value = obj.result[0].company;
+                                document.getElementById("td-phone").value = obj.result[0].phone;
+                                document.getElementById("td-title").value = obj.result[0].title;
+                            }
                         }
-                        if (document.getElementById("company")){
-                            document.getElementById("company").value = obj.result[0].company;
-                        }
-                        if (document.getElementById("phone")){
-                            document.getElementById("phone").value = obj.result[0].phone;
-                        }
-                        if (document.getElementById("title")){
-                            document.getElementById("title").value = obj.result[0].title;
-                        }
-                        if (document.getElementById("company-url")){
-                            document.getElementById("company-url").value = obj.result[0].website;
-                        }
-                        if (document.getElementById("full-name")){
-                            document.getElementById("full-name").value = document.getElementById("first-name").value + " " + document.getElementById("last-name").value;
-                        }
-                        //if on Tag Debugger Page
-                        if(document.getElementById("tag-debugger-footer-form")){
-
-                            document.getElementById("td-first-name").value = obj.result[0].firstName;
-                            document.getElementById("td-last-name").value = obj.result[0].lastName;
-                            document.getElementById("td-email").value = obj.result[0].email;
-                            document.getElementById("td-company").value = obj.result[0].company;
-                            document.getElementById("td-phone").value = obj.result[0].phone;
-                            document.getElementById("td-title").value = obj.result[0].title;
-
-                        }
-                    }
-
-                });
+                    });
+                }        
             });
         </script>
 
         
-        <link rel="stylesheet" id="genericons-css" href="http://newman.tamucc.edu/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" type="text/css" media="all">
+        <link rel="stylesheet" id="genericons-css" href="https://newman.tamucc.edu/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" type="text/css" media="all">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-        <link rel="pingback" href="http://www.observepoint.com/xmlrpc.php">
-        <link href="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/favicon.ico" rel="shortcut icon">
-        <link href="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/touch.png" rel="apple-touch-icon-precomposed">
-        <link rel="stylesheet" href="http://www.observepoint.com/wp-content/themes/observepoint-2016/css/bootstrap.min.css">
-        <!--<link rel="stylesheet" href="http://www.observepoint.com/wp-content/themes/observepoint-2016/css/font-awesome.min.css">-->
-        <link rel="stylesheet" href="http://www.observepoint.com/wp-content/themes/observepoint-2016/css/colorbox.css">
-        <link rel="stylesheet" href="http://www.observepoint.com/wp-content/themes/observepoint-2016/style.css?version=2.12">
+        <link rel="pingback" href="https://www.observepoint.com/xmlrpc.php">
+        <!-- <link href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/favicon.ico" rel="shortcut icon">
+<link href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+-->
+
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/favicons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/favicons/manifest.json">
+        <link rel="mask-icon" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/icons/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+
+        <link rel="stylesheet" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/css/bootstrap.min.css">
+        <!--<link rel="stylesheet" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/css/font-awesome.min.css">-->
+        <link rel="stylesheet" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/css/colorbox.css">
+        <link rel="stylesheet" href="https://www.observepoint.com/wp-content/themes/observepoint-2016/style.css?version=2.142">
         <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/daejfbkjipkgidckemjjafiomfeabemo">
 
 
@@ -261,15 +276,16 @@
 
 
     <body class="page page-id-57 page-template-default">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LS3NZ"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
         
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5LS3NZ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5LS3NZ');</script>
-<!-- End Google Tag Manager -->        <!--[if lt IE 7]>
+<!-- End Google Tag Manager (noscript) -->        <!--[if lt IE 7]>
 <div class="bg-warning browsehappy">
 <p> You are using an <strong>outdated</strong> browser.
 Please <a href="http://browsehappy.com/">upgrade your browser</a>
@@ -295,186 +311,188 @@ to improve your experience.
 
 
             <header id="headerID">
-                <nav class="navbar navbar-fixed-top" role="navigation">
-                    <div class="topbar" style="display: block;">
-                        <div class="container">
-                            <ul class="list-inline loginNav">
-                                <li class="phone"><a class="tel desktop" href="tel:1-855-878-8466">1.855.TRUTH.NOW</a></li>
-                                <li class="phone"><a class="tel" href="tel:1-855-878-8466">1.855.878.8466</a></li>
-                                <li class="login"><a href="https://my.observepoint.com/login" target="_blank">LOGIN</a></li>
-                            </ul>
-                        </div>
-                    </div>
+    <nav class="navbar navbar-fixed-top" role="navigation">
+        <div class="topbar" style="display: block;">
+            <div class="container">
+                <ul class="list-inline loginNav">
+                    <li class="phone"><a class="tel desktop" href="tel:1-855-878-8466">1.855.TRUTH.NOW</a></li>
+                    <li class="phone"><a class="tel" href="tel:1-855-878-8466">1.855.878.8466</a></li>
+                    <li class="login"><a id="headerLoginBtn" href="https://www.observepoint.com/logins/" target="_blank">LOGIN</a></li>
+                </ul>
+            </div>
+        </div>
 
-                    <div class="menubar" id="menubar">
-                        <div class="navbar-header">
-                            <div id="hamburgerBtn" class="hamburgerIcons">
-                                <div id="hamburgerToggle">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </div>
-                            </div>
-                            <a class="headerLogo" href="http://www.observepoint.com/" rel="home"><img src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/observepoint-logo-yellow.svg" alt="ObservePoint"></a>
-                        </div>
-
-                        <!--start header nav-->
-                        <div class="dropdownMenuBlockWrapper">
-                            <div class="dropdownMenuBlock">
-
-                                <div class="dropdownMenuSection">
-                                    <a href="/products/" class="dropdownHeader">Products</a>
-                                    <div class="dropdownMenu">
-                                        <a href="/webassurance/">WebAssurance™</a>
-                                        <a href="/appassurance/">AppAssurance™</a>
-                                        <a href="/videoassurance/">VideoAssurance™</a>
-                                    </div>
-                                </div>
-                                <div class="dropdownMenuSection">
-                                    <a href="/services/" class="dropdownHeader">Services</a>
-                                    <div class="dropdownMenu">
-                                        <a href="/customer-success/">Customer Success</a>
-                                        <a href="/professional-services/">Professional Services</a>
-                                        <a href="/education/">Education</a>
-                                    </div>
-                                </div>
-                                <div class="dropdownMenuSection">
-                                    <a href="/resources/" class="dropdownHeader">Resources</a>
-                                    <div class="dropdownMenu">
-                                        <a href="/content-library/">Content Library</a>
-                                        <a href="/tag-debugger/">TagDebugger™</a>
-                                        <a href="/observepoint-labs/">ObservePoint Labs</a>
-                                        <!-- <a href="/tag-debugger/">ProxyComparisonTool™</a>-->
-                                        <a href="/blog/" target="_blank">Blog</a>
-                                        <a href="http://www.observepoint.com/analyticssummit/" target="_blank">Analytics Summit</a>
-                                        <a href="http://www.observepoint.com/datagovernancecamp/" target="_blank">Data Governance Camp</a>
-                                        <!--<button class="yellowBtn footerBtnInCollapsibleMenu">Subscribe</button>-->
-                                    </div>
-                                </div>
-                                <div class="dropdownMenuSection">
-                                    <a href="/company/" class="dropdownHeader">Company</a>
-                                    <div class="dropdownMenu">
-                                        <a href="/contact-us/">Contact</a>
-                                        <a href="/customers/">Customers</a>
-                                        <a href="/partners/">Partners</a>
-                                        <a href="/news-events/">News and Media</a>
-                                        <a href="/careers/">Careers</a>
-                                        <!-- <a href="/events/">Events</a>-->
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!--end header nav-->
-                        <form method="POST" action="/website-audit/" target="_blank">
-                            <div class="startAuditBlock">
-                                <input type="text" class="form-control headerURLInputBox" placeholder="Enter Company URL" name="url" id="startAuditField">
-                                <button class="yellowBtn headerStartAuditBtn" id="startAuditButton">Start Audit</button>
-                            </div>
-                        </form> 
-
-
-
-
-
-
-
-
-
-
-                    </div><!--/.container -->
-                </nav>
-            </header>
-
-
-            <!--the onmouseover and out code make the page not scroll when hovering over the menu-->
-            <div id="headerAccordianNav" class="col-sm-12 headerAccordianNavWrapper" onmouseover="document.body.style.overflow='hidden';" onmouseout="document.body.style.overflow='auto';">
-                <div class="headerAccordianNavClass">
-                    <div class="headerAccordianNavInner">
-
-                        <div class="headerNavBlock1">
-                            <div class="col-sm-6 col-md-3  headerDropdownSection">
-                                <ul class="headerDropdownNav">
-                                    <li>
-                                        <a href="/products/"><h3 class="headerDropdownNavHeader">Products</h3></a>
-                                        <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
-                                        <ul>
-                                            <a href="/webassurance/"><li>WebAssurance™</li></a>
-                                            <a href="/appassurance/"><li>AppAssurance™</li></a>
-                                            <a href="/videoassurance/"><li>VideoAssurance™</li></a>
-                                        </ul>
-                                    </li>
-                                </ul>
-
-                            </div>
-
-                            <div class="col-sm-6 col-md-3  headerDropdownSection">
-                                <ul class="headerDropdownNav">
-                                    <li>
-                                        <a href="/services/"><h3 class="headerDropdownNavHeader">Services</h3></a>
-                                        <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
-                                        <ul>
-                                            <a href="/customer-success/"><li>Customer Success</li></a>
-                                            <a href="/professional-services/"><li>Professional Services</li></a>
-                                            <a href="/education/"><li>Education</li></a>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-
-
-                        </div>
-
-
-                        <div class="headerNavBlock2">
-                            <div class="col-sm-6 col-md-3  headerDropdownSection">
-                                <ul class="headerDropdownNav">
-                                    <li>
-                                        <a href="/resources/"><h3 class="headerDropdownNavHeader">Resources</h3></a>
-                                        <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
-                                        <ul>
-                                            <a href="/content-library/"><li>Data Quality Library</li></a>
-                                            <a href="/tag-debugger/"><li>TagDebugger™</li></a>
-                                            <a href="/observepoint-labs/"><li>ObservePoint Labs</li></a>
-                                            <!--<a href="/tag-debugger/"><li>ProxyComparisonTool™</li></a>-->
-                                            <a href="/blog/" target="_blank"><li>Blog</li></a>
-                                            <a href="http://www.observepoint.com/datagovernancecamp/" target="_blank"><li>Data Governance Camp</li></a>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-sm-6 col-md-3  headerDropdownSection">
-                                <ul class="headerDropdownNav">
-                                    <li>
-                                        <a href="/company/"><h3 class="headerDropdownNavHeader">Company</h3></a>
-                                        <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
-                                        <ul>
-                                            <a href="/contact-us/"><li>Contact</li></a>                                
-                                            <a href="/customers/"><li>Customers</li></a>
-                                            <a href="/partners/"><li>Partners</li></a>
-                                            <a href="/news-events/"><li>News and Media</li></a>
-                                            <a href="/careers/"><li>Careers</li></a>
-                                            <!-- <a href="/events/"><li>Events</li></a>-->
-
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+        <div class="menubar" id="menubar">
+            <div class="navbar-header">
+                <div id="hamburgerBtn" class="hamburgerIcons">
+                    <div id="hamburgerToggle">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
                     </div>
                 </div>
+                <a class="headerLogo" href="https://www.observepoint.com/" rel="home"><img src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/observepoint-logo-yellow.svg" alt="ObservePoint"></a>
             </div>
 
+            <!--start header nav-->
+            <div class="dropdownMenuBlockWrapper">
+                <div class="dropdownMenuBlock">
+
+                    <div class="dropdownMenuSection">
+                        <a href="/products/" class="dropdownHeader">Products</a>
+                        <div class="dropdownMenu">
+                            <a href="/webassurance/">WebAssurance™</a>
+                            <a href="/appassurance/">AppAssurance™</a>
+                            <a href="/videoassurance/">VideoAssurance™</a>
+                        </div>
+                    </div>
+                    <div class="dropdownMenuSection">
+                        <a href="/services/" class="dropdownHeader">Services</a>
+                        <div class="dropdownMenu">
+                            <a href="/customer-success/">Customer Success</a>
+                            <a href="/professional-services/">Professional Services</a>
+                            <a href="/education/">Education</a>
+                        </div>
+                    </div>
+                    <div class="dropdownMenuSection">
+                        <a href="/resources/" class="dropdownHeader">Resources</a>
+                        <div class="dropdownMenu">
+                            <a href="/content-library/">Content Library</a>
+                            <a href="/tag-debugger/">TagDebugger™</a>
+                            <a href="/observepoint-labs/">ObservePoint Labs</a>
+                            <!-- <a href="/tag-debugger/">ProxyComparisonTool™</a>-->
+                            <a href="/blog/" target="_blank">Blog</a>
+                            <a href="/analyticssummit/" target="_blank">Analytics Summit</a>
+                            <a href="/mobile-analytics-summit/" target="_blank">Mobile Analytics Summit</a>
+                            <a href="/validate/" target="_blank">Validate 2017</a>
+                            <!--<button class="yellowBtn footerBtnInCollapsibleMenu">Subscribe</button>-->
+                        </div>
+                    </div>
+                    <div class="dropdownMenuSection">
+                        <a href="/company/" class="dropdownHeader">Company</a>
+                        <div class="dropdownMenu">
+                            <a href="/contact-us/">Contact</a>
+                            <a href="/customers/">Customers</a>
+                            <a href="/partners/">Partners</a>
+                            <a href="/news-events/">News and Media</a>
+                            <a href="/careers/">Careers</a>
+                            <!-- <a href="/events/">Events</a>-->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!--end header nav-->
+            <form method="POST" action="/website-audit/" target="_blank">
+                <div class="startAuditBlock">
+                    <input type="text" class="form-control headerURLInputBox" placeholder="Enter Website" name="url" id="startAuditField">
+                    <button class="yellowBtn headerStartAuditBtn" id="startAuditButton">Start Audit</button>
+                </div>
+            </form> 
+
+
+
+
+
+
+
+
+
+
+        </div><!--/.container -->
+    </nav>
+</header>
+
+
+<!--the onmouseover and out code make the page not scroll when hovering over the menu-->
+<div id="headerAccordianNav" class="col-sm-12 headerAccordianNavWrapper" onmouseover="document.body.style.overflow='hidden';" onmouseout="document.body.style.overflow='auto';">
+    <div class="headerAccordianNavClass">
+        <div class="headerAccordianNavInner">
+
+            <div class="headerNavBlock1">
+                <div class="col-sm-6 col-md-3  headerDropdownSection">
+                    <ul class="headerDropdownNav">
+                        <li>
+                            <a href="/products/"><h3 class="headerDropdownNavHeader">Products</h3></a>
+                            <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Product menu button">
+                            <ul>
+                                <a href="/webassurance/"><li>WebAssurance™</li></a>
+                                <a href="/appassurance/"><li>AppAssurance™</li></a>
+                                <a href="/videoassurance/"><li>VideoAssurance™</li></a>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </div>
+
+                <div class="col-sm-6 col-md-3  headerDropdownSection">
+                    <ul class="headerDropdownNav">
+                        <li>
+                            <a href="/services/"><h3 class="headerDropdownNavHeader">Services</h3></a>
+                            <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Services menu button">
+                            <ul>
+                                <a href="/customer-success/"><li>Customer Success</li></a>
+                                <a href="/professional-services/"><li>Professional Services</li></a>
+                                <a href="/education/"><li>Education</li></a>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+
+            </div>
+
+
+            <div class="headerNavBlock2">
+                <div class="col-sm-6 col-md-3  headerDropdownSection">
+                    <ul class="headerDropdownNav">
+                        <li>
+                            <a href="/resources/"><h3 class="headerDropdownNavHeader">Resources</h3></a>
+                            <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Resources menu button">
+                            <ul>
+                                <a href="/content-library/"><li>Data Quality Library</li></a>
+                                <a href="/tag-debugger/"><li>TagDebugger™</li></a>
+                                <a href="/observepoint-labs/"><li>ObservePoint Labs</li></a>
+                                <!--<a href="/tag-debugger/"><li>ProxyComparisonTool™</li></a>-->
+                                <a href="/blog/" target="_blank"><li>Blog</li></a>
+                                <a href="/analyticssummit/" target="_blank"><li>Analytics Summit</li></a>
+                                <a href="/mobile-analytics-summit/" target="_blank"><li>Mobile Analytics Summit</li></a>
+                                <a href="/validate/" target="_blank"><li>Validate 2017</li></a>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3  headerDropdownSection">
+                    <ul class="headerDropdownNav">
+                        <li>
+                            <a href="/company/"><h3 class="headerDropdownNavHeader">Company</h3></a>
+                            <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Company menu button">
+                            <ul>
+                                <a href="/contact-us/"><li>Contact</li></a>                                
+                                <a href="/customers/"><li>Customers</li></a>
+                                <a href="/partners/"><li>Partners</li></a>
+                                <a href="/news-events/"><li>News and Media</li></a>
+                                <a href="/careers/"><li>Careers</li></a>
+                                <!-- <a href="/events/"><li>Events</li></a>-->
+
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
             
 <div class="content-wrapper legal-pages default-text-styles legalPageWrapper">
 
     <!-- <section class="section-1 standard-page-subheading">-->
     <div class="container">
         <div class="legalPageHeader">
-            <h1>Privacy Policy</h1>
+            <h1>ObservePoint Privacy Policy</h1>
 
-            <h2>Effective Date: October 10 2014</h2>
+            <h2>Effective May 25, 2017</h2>
         </div>
     </div>
     <!-- </section>  End .section-1 -->
@@ -485,41 +503,41 @@ to improve your experience.
 
 
             
-            <!-- AddThis Sharing Buttons above --><div class="at-above-post-page addthis_default_style addthis_toolbox at-wordpress-hide" data-title="Privacy Policy" data-url="http://www.observepoint.com/privacy-policy/"></div><h2>Scope of this Policy</h2>
-<p>This Privacy Policy (the “Policy”) covers ObservePoint LLC (“ObservePoint”, “we”, “us”, or “our”) and describes the types of information we gather from people visiting <a class="yellow-link" href="/">www.ObservePoint.com</a> (the “Site”) and from individual users interacting with the applications we provide to third parties, and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. By accessing the Site, you agree to be bound by this Policy. If you do not agree to the terms of this Policy, please do not use the Site or our services. Each time you use the Site or services, the current version of the Privacy Policy will apply. Accordingly, when you use the Site or Services, you should check the date of this Policy (which appears at the top) and review any changes since the last version.</p>
-<h2>Types of information we collect</h2>
-<p>ObservePoint may collect two types of information from users of our Site: “personal information” which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, Site pages most frequently accessed, browser type, etc.).</p>
-<h2>Collecting your personal information</h2>
-<p>ObservePoint collects personal information that is voluntarily provided when a user on our Site signs up for our services. Specifically, when you sign up for an account, we ask you for your name, email address, and business information, among other information. This information is used to assist us in helping you select the appropriate service package and in connecting you with other users of the Site or services. This personal information is gathered principally by our customers (through our services) for their own purposes and subject to our customer’s particular privacy policy and our privacy. When our customers’ users submit information through our services the information is co-owned by us and our customer and the user information is subject to this Policy and our customer’s applicable privacy policy. We make no representation or warranty about our customers’ privacy policies, so if you are submitting information to one of our customers through our services, you should review and understand that customer’s privacy policy before providing your information to them and us.</p>
-<h2>Collecting your aggregate information</h2>
-<p>Aggregate information is collected as you visit our Site or interact with our services even if you do not enter any information. Generally, aggregate information is used in a collective manner, and no single person can be identified by that compiled information. ObservePoint uses aggregate information to provide its services and remuneration, as well as to determine the use of our Site and to monitor, audit and analyze information pertaining to our business metrics.</p>
-<h2>Sharing, selling and trading of your personal information with third parties</h2>
-<p>ObservePoint on occasion, may share personal information with third party service providers as we deem necessary for the third party to fulfill their duties, such as fulfilling orders, processing credit card payments, or other functions necessary to our business. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. When you submit your personal information, you also agree that we may use your personal information to contact you by email, telephone, cell phone, direct mail, or text message about certain offers made available by us or third parties that we believe you might be interested in based on information you have provided to us. We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes, however, we may market certain offers to you on behalf of third parties we determine you might be interested in.</p>
-<p>We use your personal and aggregate information in an effort to improve your experience on the Site and with the services, and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve the Site and services, and to tailor our Site and services to your interests.</p>
-<h2>Sharing, selling and trading aggregate information collected online with third parties</h2>
-<p>We may use aggregate information to improve the Site and services, to monitor traffic and general usage patterns, and for other general business purposes. We may disclose aggregate information to third parties for a variety of business reasons, including to advertisers to inform them of the usage habits or characteristics of the interested audience, and to potential investors so that they may better understand our user base, etc. Aggregate information will not include any personal information and we will not disclose any personal information except as expressly stated elsewhere in this Policy.</p>
-<h2>Other instances when we share your information</h2>
-<p>In addition to the foregoing, ObservePoint may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on ObservePoint, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of ObservePoint; (iv) when we believe it is necessary to protect the rights, property, or safety of ObservePoint or other persons, or (v) as otherwise required or permitted by law.</p>
-<p>It should be noted that on some portions of the Site, users can choose to have their personal information displayed. If users choose to have their personal information displayed on the Site, they will be given forewarning that the action they are about to take will make their personal information publicly available on the Site. COOKIES If you do not provide us any of your personal information, we are limited in the information we may collect from you. For example, we may be able to determine your IP address for the purposes of administering the Site and tracking Site usage. However, your IP address may vary each time you visit or it may remain the same depending on the type of Internet connection you are using or the location from which you access the Site. We may also collect information about the websites that directed you to the Site after you clicked on a text or banner link or an ad from another website, or the day and time you visited the Site and how long you spent on the Site. We aggregate such information to help us to compile reports as to trends and other behavior about users visiting our Site; however such information is anonymous and cannot be tied directly to you.</p>
-<p>We may also use “cookies” and your personal information to enhance your experience on the Site and with the Services and to provide you with personalized offers. A cookie is a small data file placed on your computer’s hard drive that contains information that allows us to track your activity on the Site. The cookie itself does not contain any personal information; however, if you provide us any personal information the cookie may act as an identifier to tie your personal information to your IP address or computer. You may choose to delete cookies from your computer’s hard drive at anytime or to disable cookies on your computer. If you delete cookies that relate to the Site, we may not be able to identify you upon your return to the Site. Additionally, if you disable your computer’s cookies, you may not be able to access certain features of the Site or services that require that cookies be enabled. The Site’s cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. Additionally, our cookies cannot be used as a virus, Trojan horse, worm, or any other malicious tool that could impair your use of your computer. Our cookies are used to help us better understand how you and other users use the Site so we can continue to provide a better, more personalized user experience on the Site. We also share website usage information about our Site with those interested in running targeted promotional campaigns on the Site. For this purpose, we and our advertisers track some of the pages that you visit on the Site through the use of pixel tags (also called clear gifs).</p>
-<h2>Security pertaining to your information</h2>
-<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.</p>
-<p>We restrict access to personal information to ObservePoint employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.</p>
-<h2>Integrity of your data</h2>
+            <!-- AddThis Sharing Buttons above --><div class="at-above-post-page addthis_default_style addthis_toolbox at-wordpress-hide" data-url="https://www.observepoint.com/privacy-policy/"></div><p>Before providing any information to ObservePoint, Inc. (“ObservePoint”, “we”, “us”, or “our”), please take the time to read our Privacy Policy (the “Policy”) which describes the types of information we gather from people visiting www.ObservePoint.com (the “Website”) and from individual users interacting with the applications we provide to third parties, and how we use such information. ObservePoint&nbsp;complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union members countries. ObservePoint has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies contained herein and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>. &nbsp;As evidenced by ObservePoint’s self-certification with the EU-US Privacy Shield (<a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>), we understand the importance of privacy and accordingly, treat all information received in a responsible manner. By accessing the Website, you agree to be bound by this Policy. If you do not agree to the terms of this Policy, please do not use the Website or our services. Each time you use the Website or services, the current version of the Privacy Policy will apply. Accordingly, when you use the Website or ObservePoint services, you should check the date of this Policy (which appears at the top) and review any changes since the last version.</p>
+<h2>Types Of Information We Collect</h2>
+<p>ObservePoint may collect two types of information from users of our Website or application: “personal information” which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” which is information about your activities on the Website or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Website, data entered when using the Website, Website pages most frequently accessed, browser type, etc).</p>
+<h2>Collecting Your Personal Information</h2>
+<p>ObservePoint is committed to subject to the EU-US Privacy Shield Principles all personal data received from the EU and the U.S. in reliance on the Privacy Shield.  ObservePoint collects personal information that is voluntarily provided when a user on our Website signs up for our services.  For example, when you sign up for an account, we ask you for your name, email address, and business information.  This information is used to assist us in helping you select the appropriate service package and in connecting you with other users of the Website or services.  When users submit information through our services, the information is co-owned by us and the user as our customer and the user information is subject to this Policy and our customer’s applicable privacy policy. We make no representation or warranty about our customers’ privacy policies, so if you are submitting information to one of our customers through our services, you should review and understand that customer’s privacy policy before providing your information to them and us.</p>
+<h2>Collecting Your Aggregate Information</h2>
+<p>Aggregate information is collected as you visit our Website, application or interact with our services even if you do not enter any information. Generally, aggregate information is used in a collective manner, and no single person can be identified by that compiled information. ObservePoint uses aggregate information to provide its services and remuneration, as well as to determine the use of our Website and to monitor, audit and analyze information pertaining to our business metrics.</p>
+<h2>Sharing, Selling and Trading of Your Personal Information with Third Parties</h2>
+<p>As a Privacy Shield organization, ObservePoint has responsibility for the processing of any of your personal information it receives under the Privacy Shield and any subsequent transfers to a third party who would be acting as an agent on our behalf.  ObservePoint, on occasion, may share personal information with third party service providers as we deem necessary for the third party to fulfill their duties on our behalf, such as fulfilling orders, processing credit card payments, or other functions necessary to our business. These third-party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide on our behalf. ObservePoint shall remain liable under the Principles if its agent processes your personal information in a manner inconsistent with the Principles, unless ObservePoint proves that it is not responsible for the event giving rise to the damage.  When you submit your personal information, you agree that we may use your personal information to contact you by email, telephone, cell phone, direct mail, or text message about information you request and certain offers made available by us or third parties that we believe you might be interested in based on information you have provided to us.  We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes, however, we may market certain offers to you on behalf of third parties we determine you might be interested in.</p>
+<h2>Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties</h2>
+<p>We may use aggregate information to improve the Website, application and services, to monitor traffic and general usage patterns, and for other general business purposes. We may disclose aggregate information to third parties for a variety of business reasons, including to advertisers to inform them of the usage habits or characteristics of the interested audience, and to potential investors so that they may better understand our user base, etc. Aggregate information will not include any personal information and we will not disclose any personal information except as expressly stated elsewhere in this Policy.</p>
+<h2>Other Instances When We Share Your Information</h2>
+<p>In addition to the foregoing, ObservePoint may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on ObservePoint, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of ObservePoint; (iv) when we believe it is necessary to protect the rights, property, or safety of ObservePoint or other persons; or (v) as otherwise required or permitted by law.   Please note ObservePoint is required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.  The Federal Trade Commission has jurisdiction over ObservePoint with regard to its compliance with the Privacy Shield.  Please note that on some portions of the Website or application, users can choose to have their personal information displayed. If users choose to have their personal information displayed on the Website, they will be given forewarning that the action they are about to take will make their personal information publicly available on the Website.</p>
+<h2>Cookies</h2>
+<p>If you do not provide us any of your personal information, we are limited in the information we may collect from you. For example, we may be able to determine your IP address for the purposes of administering the Website and tracking Website usage, but your IP address may vary each time you visit or it may remain the same depending on the type of Internet connection you are using or the location from which you access the Website. We may collect information about the websites that directed you to the Website after you clicked on a text or banner link or an ad from another website, or the day and time you visited the Website and how long you spent on the Website. We aggregate such information to help us to compile reports as to trends and other behavior about users visiting our Website,  however such information is anonymous and cannot be tied directly to you.  We may also use “cookies” and your personal information to enhance your experience on the Website and with the services offed to provide you with personalized offers. A cookie is a small data file placed on your computer’s hard drive that contains information that allows us to track your activity on the Website. The cookie itself does not contain any personal information; however, if you provide us any personal information the cookie may act as an identifier to tie your personal information to your IP address or computer. You may choose to delete cookies from your computer’s hard drive at anytime or to disable cookies on your computer.  If you delete cookies that relate to the Website, we may not be able to identify you upon your return to the Website.  Additionally, if you disable your computer’s cookies, you may not be able to access certain features of the Website or services that require that cookies be enabled. The Website’s cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. ObservePoint’s cookies cannot be used as a virus, Trojan horse, worm, or any other malicious tool that could impair your use of your computer.  Our cookies are used to help us better understand how you and other users use the Website so we can continue to provide a better, more personalized user experience on the Website. We also share website usage information about our Website with those interested in running targeted promotional campaigns on the Website. For this purpose, we and our advertisers track some of the pages that you visit on the Website through the use of pixel tags (also called clear gifs). </p>
+<h2>Security Pertaining to Your Information</h2>
+<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to ObservePoint employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, when it is sent over the Internet.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. </p>
+<h2>Integrity of Your Data</h2>
 <p>ObservePoint processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.</p>
-<h2>Children and privacy</h2>
-<p>Our Site are not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with our Site, provided personal information, and ObservePoint has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personal information from our files.</p>
-<h2>Links to other websites</h2>
-<p>The Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. ObservePoint does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.</p>
+<h2>Children and Privacy</h2>
+<p>Our Website and application are not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with our Website, application or services and ObservePoint has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personal information from our files. </p>
+<h2>Links to Other Websites</h2>
+<p>The Website or our application may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. ObservePoint does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.</p>
 <h2>Business Transfers</h2>
-<p>In the event that ObservePoint sells substantially all of its assets, or one of ObservePoint’s business units is acquired, personal information of visitors to the Site and aggregate information will likely be one of the transferred assets.</p>
-<h2>Changes to this policy</h2>
-<p>We may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Site. Your continued use of the Site and/or services indicates your consent to our collection of and use of your personal and aggregate information under the then current Policy.</p>
-<h2>Corrections/Information removal/Opt-Out</h2>
-<p>If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting ObservePoint <a class="yellow-link" href="/contact-us">Customer Service</a>. If you prefer not to receive newsletters or other marketing e-mails from ObservePoint, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by <a class="yellow-link" href="/contact-us">contacting customer service</a>. Please be sure to include in any e-mail your full name, e-mail address, and any message. Please note that such requests may take up to ten (10) days to become effective.</p>
-<h2>Contact us</h2>
-<p>If you have any questions or concerns about this Policy, please feel free to <a class="yellow-link" href="/contact-us">contact us any time</a>.</p>
-<!-- AddThis Sharing Buttons below --><div class="at-below-post-page addthis_default_style addthis_toolbox at-wordpress-hide" data-title="Privacy Policy" data-url="http://www.observepoint.com/privacy-policy/"></div>
+<p>In the event that ObservePoint sells substantially all of its assets, or one of ObservePoint’s business units is acquired, personal information of visitors to the Website and aggregate information will likely be one of the transferred assets. </p>
+<h2>Changes to this Policy</h2>
+<p>We may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Website. Your continued use of the Website and/or services indicates your consent to our collection of and use of your personal and aggregate information under the then current Policy.</p>
+<h2>Corrections/Information Removal/Opt-Out</h2>
+<p>When ObservePoint processes your personal data, you have a right under the EU-US Privacy Shield to access, correct or delete your personal data.  If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting ObservePoint Customer Service at support@ObservePoint.com. If you prefer not to receive newsletters or other marketing e-mails from ObservePoint, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by contacting customer service at support@ObservePoint.com. Please be sure to include in any e-mail your full name, e-mail address, and any message. Please note that such requests may take up to ten (10) days to become effective. </p>
+<h2>Contact Us</h2>
+<p>In compliance with the Privacy Shield Principles, ObservePoint commits to resolve complaints about your privacy and our collection or use of your personal information. All individuals with inquiries or complaints regarding this privacy policy should first contact ObservePoint at: privacy@observepoint.com.  ObservePoint has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <a href="https://www.jamsadr.com">https://www.jamsadr.com</a> for more information or to file a complaint.&nbsp; The services JAMS are provided at no cost to you.  If you contact ObservePoint and do not receive a resolution to your privacy concerns, you may possibly, under certain limited conditions, invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission (for more information, see <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction">https://www.privacyshield.gov/article?id=ANNEX-I-introduction</a>).</p>
+<!-- AddThis Sharing Buttons below --><div class="at-below-post-page addthis_default_style addthis_toolbox at-wordpress-hide" data-url="https://www.observepoint.com/privacy-policy/"></div><!-- AddThis Advanced Settings above via filter on the_content -->
+<!-- AddThis Advanced Settings below via filter on the_content -->
+<!-- AddThis Advanced Settings generic via filter on the_content -->
+
             
 
         </div>
@@ -549,7 +567,7 @@ to improve your experience.
                             <ul class="footerDropdownNav">
                                 <li>
                                     <a href="/products/"><h3 class="footerDropdownNavHeader">Products</h3></a>
-                                    <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
+                                    <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Products menu button">
                                     <ul>
                                         <li><a href="/webassurance/">WebAssurance™</a></li>
                                         <li><a href="/appassurance/">AppAssurance™</a></li>
@@ -564,7 +582,7 @@ to improve your experience.
                             <ul class="footerDropdownNav">
                                 <li>
                                     <a href="/services/"><h3 class="footerDropdownNavHeader">Services</h3></a>
-                                    <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
+                                    <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Services menu button">
                                     <ul>
                                         <li><a href="/customer-success/">Customer Success</a></li>
                                         <li><a href="/professional-services/">Professional Services</a></li>
@@ -583,15 +601,16 @@ to improve your experience.
                             <ul class="footerDropdownNav">
                                 <li>
                                     <a href="/resources/"><h3 class="footerDropdownNavHeader">Resources</h3></a>
-                                    <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
+                                    <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Resources menu button">
                                     <ul>
                                         <li><a href="/content-library/">Content Library</a></li>
                                         <li><a href="/tag-debugger/">TagDebugger™</a></li>
                                         <li><a href="/observepoint-labs/">ObservePoint Labs</a></li>
                                         <!--<li><a href="/tag-debugger/">ProxyComparisonTool™</a></li>-->
                                         <li><a href="/blog/" target="_blank">Blog</a></li>
-                                        <li><a href="http://www.observepoint.com/analyticssummit/" target="_blank">Analytics Summit</a></li>
-                                        <li><a href="http://www.observepoint.com/datagovernancecamp/" target="_blank">Data Governance Camp</a></li>
+                                        <li><a href="/analyticssummit/" target="_blank">Analytics Summit</a></li>
+                                        <li><a href="/mobile-analytics-summit/" target="_blank">Mobile Analytics Summit</a></li>
+                                        <li><a href="/validate/" target="_blank">Validate 2017</a></li>
                                         <!--<button class="yellowBtn footerBtnInCollapsibleMenu">Subscribe</button>-->
                                     </ul>
                                 </li>
@@ -601,7 +620,7 @@ to improve your experience.
                             <ul class="footerDropdownNav">
                                 <li>
                                     <a href="/company/"><h3 class="footerDropdownNavHeader">Company</h3></a>
-                                    <img class="dropdownArrow" src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg">
+                                    <img class="dropdownArrow" src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/arrow_lightGray.svg" alt="Company menu button">
                                     <ul>
                                         <li><a href="/contact-us/">Contact</a></li>
                                         <li><a href="/customers/">Customers</a></li>
@@ -622,7 +641,7 @@ to improve your experience.
                     <div class="col-xs-12 col-md-4">
                         <div class="contactBtns col-xs-12 col-sm-6">
                             <a href="tel:18558788466" class="footerContactMethod">
-                                <img src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/phone_yellow.svg" alt="Call Us">
+                                <img src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/phone_yellow.svg" alt="Call Us">
                                 <p class="footerContactText">1.855.TRUTH.NOW</p>
                             </a>
 
@@ -630,9 +649,9 @@ to improve your experience.
                         </div>
                         <div class="col-xs-12 col-sm-6 socialBlock">
                             <div class="socialBtns">
-                                <a href="https://twitter.com/observepoint" target="_blank"><img src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/twitter.svg" alt="Twitter"></a>
-                                <a href="https://www.linkedin.com/company/observepoint" target="_blank"> <img src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/linkedin.svg" alt="Linked In"></a>
-                                <a href="https://www.facebook.com/observe.point" target="_blank"><img src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/facebook.svg" alt="Facebook"></a>
+                                <a href="https://twitter.com/observepoint" target="_blank"><img src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/twitter.svg" alt="Twitter"></a>
+                                <a href="https://www.linkedin.com/company/observepoint" target="_blank"> <img src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/linkedin.svg" alt="Linked In"></a>
+                                <a href="https://www.facebook.com/observe.point" target="_blank"><img src="https://www.observepoint.com/wp-content/themes/observepoint-2016/img/facebook.svg" alt="Facebook"></a>
                             </div>
                         </div>
                     </div>
@@ -642,7 +661,7 @@ to improve your experience.
                                 <li><a href="/tag-request/">Tag Request</a></li>
                                 <li><a href="/tag-database/">Tag Database</a></li>
                                 <li><a href="/privacy-policy/">Privacy</a></li>
-                                <li><a href="/terms-of-service/">Terms</a></li>
+                                <!--<li><a href="/terms-of-service/">Terms</a></li>-->
                                 <li><a href="/faq/">FAQ</a></li>
 
                             </ul>
@@ -650,7 +669,7 @@ to improve your experience.
                     </div>
 
                     <div class="col-xs-12 col-md-4 copyrightInfo">
-                        <p><span class="noLineBreak">Copyright © 2016 ObservePoint.</span>  <span class="noLineBreak">All Rights Reserved.</span></p>
+                        <p><span class="noLineBreak">Copyright © 2017 ObservePoint.</span>  <span class="noLineBreak">All Rights Reserved.</span></p>
                     </div>
                 </div>
 
@@ -666,12 +685,12 @@ to improve your experience.
 
 
 
-<!-- Audit Modal -->
+<!-- Audit Modal 
 <div class="modal fade in" id="audit-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" style="display: none;"><div class="modal-backdrop fade in" style="height: 1453px;"></div>
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="http://www.observepoint.com/wp-content/themes/observepoint-2016/img/close-button.png"></span></button>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="/wp-content/themes/observepoint-2016/img/close-button.png" alt="Close Button"></span></button>
             </div>
             <div class="modal-body">
                 <div class="audit-modal-content">
@@ -717,38 +736,38 @@ to improve your experience.
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 
 
 
-<!--<script>window.jQuery || document.write('<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/jquery-1.11.1.min.js"><\/script>')</script>-->
+<!--<script>window.jQuery || document.write('<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/jquery-1.11.1.min.js"><\/script>')</script>-->
 
 
 
 
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 
 
 <!--<script src="//use.typekit.net/gyt0hcx.js"></script>-->
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/uuid.js"></script>
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/infinite-scroll.js"></script>
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/jquery.colorbox-min.js"></script>
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/jquery.cookie.js"></script>
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/main.js"></script>
-<script src="http://www.observepoint.com/wp-content/themes/observepoint-2016/js/op-tracking.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/uuid.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/infinite-scroll.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/jquery.colorbox-min.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/jquery.cookie.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/main.js"></script>
+<script src="https://www.observepoint.com/wp-content/themes/observepoint-2016/js/op-tracking.js"></script>
 
 	<div style="display:none">
 	</div>
 <script data-cfasync="false" type="text/javascript"></script>
                 <!-- AddThis Settings Begin -->
                 <script data-cfasync="false" type="text/javascript">
-                    var addthis_product = "wpp-5.3.4";
-                    var wp_product_version = "wpp-5.3.4";
-                    var wp_blog_version = "4.6.1";
-                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.4","anonymous_profile_id":"wp-1d1a63a85026370608f9e81b50fa728c","plugin_mode":"AddThis","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":false,"addthis_below_enabled":false,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":true,"addthis_above_showon_posts":true,"addthis_above_showon_pages":true,"addthis_above_showon_archives":true,"addthis_above_showon_categories":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_home":true,"addthis_below_showon_posts":true,"addthis_below_showon_pages":true,"addthis_below_showon_archives":true,"addthis_below_showon_categories":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"pages","post_type":""}};
+                    var addthis_product = "wpp-5.3.6";
+                    var wp_product_version = "wpp-5.3.6";
+                    var wp_blog_version = "4.6.3";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.6","anonymous_profile_id":"wp-1d1a63a85026370608f9e81b50fa728c","plugin_mode":"AddThis","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":false,"addthis_below_enabled":false,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":true,"addthis_above_showon_posts":true,"addthis_above_showon_pages":true,"addthis_above_showon_archives":true,"addthis_above_showon_categories":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_home":true,"addthis_below_showon_posts":true,"addthis_below_showon_pages":true,"addthis_below_showon_archives":true,"addthis_below_showon_categories":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"pages","post_type":""}};
                     if (typeof(addthis_config) == "undefined") {
-                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300};
+                        var addthis_config = {"data_track_clickback":false,"ui_atversion":300};
                     }
                     if (typeof(addthis_share) == "undefined") {
                         var addthis_share = {};
@@ -769,65 +788,11 @@ to improve your experience.
                         },1000)
                     }());
                 </script>
-                
-                <script data-cfasync="false" type="text/javascript">
-                
-                if (window.addthis_product === undefined) {
-                    window.addthis_product = "wpf";
-                }
-
-                if (window.wp_product_version === undefined) {
-                    window.wp_product_version = "wpf-3.0.0";
-                }
-
-                if (window.wp_blog_version === undefined) {
-                    window.wp_blog_version = "4.6.1";
-                }
-
-                if (window.addthis_share === undefined) {
-                    window.addthis_share = {};
-                }
-
-                if (window.addthis_config === undefined) {
-                    window.addthis_config = {"data_track_clickback":true,"ui_atversion":"300"};
-                }
-
-                if (window.addthis_layers === undefined) {
-                    window.addthis_layers = {};
-                }
-
-                if (window.addthis_layers_tools === undefined) {
-                    window.addthis_layers_tools = [];
-                } else {
-                    
-                }
-
-
-                if (window.addthis_plugin_info === undefined) {
-                    window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.6.1","plugin_name":"Follow Buttons by AddThis","plugin_version":"3.0.0","plugin_mode":"AddThis","anonymous_profile_id":"wp-1d1a63a85026370608f9e81b50fa728c","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":true};
-                }
-
-                
-                    (function() {
-                      var first_load_interval_id = setInterval(function () {
-                        if (typeof window.addthis !== 'undefined') {
-                          window.clearInterval(first_load_interval_id);
-                          window.addthis.layers(window.addthis_layers);
-                          for (i = 0; i < window.addthis_layers_tools.length; i++) {
-                            window.addthis.layers(window.addthis_layers_tools[i]);
-                          }
-                        }
-                     },1000)
-                    }());
-                
-            
-                </script>
-                <script data-cfasync="false" type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57d1a9ff31bd8bcc" async="async"></script>
-            <link rel="stylesheet" id="jetpack_css-css" href="http://www.observepoint.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.2" type="text/css" media="all">
-<script type="text/javascript" src="http://stats.wp.com/e-201647.js" async="" defer=""></script>
+                <script data-cfasync="false" type="text/javascript" async="async" src="https://www.observepoint.com/wp-admin/admin-ajax.php?action=addthis_global_options_settings"></script> <script data-cfasync="false" type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57d1a9ff31bd8bcc" async="async"></script><link rel="stylesheet" id="jetpack_css-css" href="https://www.observepoint.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.9" type="text/css" media="all">
+<script type="text/javascript" src="https://stats.wp.com/e-201729.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'96425530',post:'57',tz:'0',srv:'www.observepoint.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'96425530',post:'57',tz:'0',srv:'www.observepoint.com'} ]);
 	_stq.push([ 'clickTrackerInit', '96425530', '57' ]);
 </script>
 <!--wp_footer--><script type="text/javascript">_satellite.pageBottom();</script>
