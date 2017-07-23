@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeesaa.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112063605id_/http%3A//www.zeesaa.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeesaa.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723190725id_/http%3A//www.zeesaa.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - ZeeSaa Online Market
 
