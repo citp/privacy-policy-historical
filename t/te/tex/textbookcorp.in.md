@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbookcorp.in privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427195400id_/https%3A//textbookcorp.in/schools/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbookcorp.in privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724232258id_/https%3A//textbookcorp.in/schools/privacypolicy) for the most accurate reproduction.*
 
 # Tamil Nadu Textbook and Educational Services Corporation
 
