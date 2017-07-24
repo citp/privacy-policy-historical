@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackstorm.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801003220id_/http%3A//stackstorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackstorm.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724220735id_/https%3A//stackstorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StackStorm
 
@@ -121,4 +121,4 @@ If you have questions about the privacy aspects of our Site, please contact us a
 
 ## Changes to this Privacy Policy
 
-This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Privacy Policy on our Site. If we make any changes to this Privacy Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site. 
+This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Privacy Policy on our Site. If we make any changes to this Privacy Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
