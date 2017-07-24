@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119161242id_/http%3A//www.daddario.com/DaddarioPrivacyPolicy.Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724082543id_/http%3A//www.daddario.com/DaddarioPrivacyPolicy.Page) for the most accurate reproduction.*
 
 # D'Addario Strings : Privacy Policy
 
@@ -7,11 +7,12 @@ Privacy Policy - Your Privacy Rights**
 
 * * *
 
-Effective Date: 6/10/2015. Last Updated: 3/22/2015 
+Effective Date: 6/10/2015. Last Updated: 5/30/2017 
 
  **This Privacy Policy applies to the sites and apps where it appears.**   
-This Policy (together with our [Terms and Conditions of Use ](https://web.archive.org/DaddarioTermsandConditions.Page)and our [Tracking Tools Policy](https://web.archive.org/AboutOurAds.Page)) describes how we treat information we collect from or about you on the websites and apps where it is located. This includes evansdrumheads.com, promark.com, puresoundpercussion.com, ricoreeds.com, and planetwaves.com and their related apps. By accessing or using our websites and apps or interacting with us, you consent to these practices.   
+This Policy (together with our [Terms and Conditions of Use ](https://web.archive.org/DaddarioTermsandConditions.Page)and our [Tracking Tools Policy](https://web.archive.org/AboutOurAds.Page)) describes how we treat information we collect from or about you on the websites and apps where it is located. This includes evansdrumheads.com, promark.com, puresoundpercussion.com, ricoreeds.com, and planetwaves.com and their related apps. By accessing or using our websites and apps or interacting with us, you consent to these practices. 
 
+The service providers and responsible entities with regard to the collection, processing and utilization of personal data in connection with the above websites are D'Addario & Company, 595 Smith Street, Farmingdale, New York, 11735, United States and D’Addario UK Limited, 2 Greenfinch Way, Newburn Riverside, Newcastle upon Tyne NE15 8NX, United Kingdom. 
 
 **We collect information from and about you.**   
 **We collect contact information.** For example, we might collect your name and email address if you register on our site. We may also collect your phone number and mailing address if you make a purchase or sign up for our loyalty program. 
@@ -64,9 +65,9 @@ This Policy (together with our [Terms and Conditions of Use ](https://web.archiv
  **We may share information for other reasons we may describe to you from time to time as permitted by law.**
 
  **You have certain choices about how we use your information.**   
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, you can visit your account settings on the site or follow the instructions in any promotional message you get from us or email us at [privacypolicy@daddario.com](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). Even if you opt out of getting messages, we will still send you transactional messages. These include responses to your questions. 
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, you can visit your account settings on the site or follow the instructions in any promotional message you get from us or email us at [mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). Even if you opt out of getting messages, we will still send you transactional messages. These include responses to your questions. 
 
- **You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, please send an email to [privacypolicy@daddario.com](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). 
+ **You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, please send an email to [mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). 
 
 **You can control certain cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](https://web.archive.org/AboutOurAds.Page). 
 
@@ -77,7 +78,7 @@ If you reside in California, you have the right to ask us one time each year if 
 
   
 **These sites are not intended for children.**   
-Our sites and apps where this policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at [privacypolicy@daddario.com](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). You can also write to us at the address listed at the end of this Policy. Please mark your inquiries “COPPA Information Request.” Parents in the U.S. can learn more about how to protect children's privacy on-line [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).  
+Our sites and apps where this policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at [mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). You can also write to us at the address listed at the end of this Policy. Please mark your inquiries “COPPA Information Request.” Parents in the U.S. can learn more about how to protect children's privacy on-line [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).  
 
 
   
@@ -91,8 +92,8 @@ Information we collect from you may be transferred to, processed in, or stored i
 
 
   
- **You may access your personal data.**   
-You are entitled to access your personal data. You are entitled to correct your personal data. You may also delete personal data which relates to you. You may object to the further processing of such data, as well as object to receiving marketing e-mails. You may exercise the right at any time by emailing us at [privacypolicy@daddario.com](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request).
+ **You may access, delete or object in the processing of  your personal data.**   
+You are entitled to access your personal data. You are entitled to correct your personal data. You may also delete personal data which relates to you. You may object to the further processing of such data, as well as object to receiving marketing e-mails. You may exercise the right at any time by emailing us at [mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request).
 
 Please note your right to access your personal data is not absolute. We may deny you access to your personal data when required or authorized by law. For example, we may deny access if granting access would have an unreasonable impact on another individual’s privacy.   
 
@@ -105,7 +106,7 @@ Our site may also serve third party ads or content that contains third party coo
 
 
  **Feel free to contact us if you have more questions.**   
-If you have any questions about this Policy or want to correct or update your information, please email us at [privacypolicy@daddario.com](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). Please do not include your credit card number or other sensitive information in your email. You can also write to us or call at: 
+If you have any questions about this Policy or want to correct or update your information, please email us at [mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request](mailto:privacypolicy@daddario.com?Subject=Privacy%20Policy%20Request). Please do not include your credit card number or other sensitive information in your email. You can also write to us or call at: 
 
 D'Addario & Company, Inc.  
 Attn: Privacy Officer  
@@ -118,4 +119,4 @@ From time to time we may change our privacy policies. We will notify you of any 
 
 For the purposes of the UK Data Protection Act 1998, the data controllers are D’Addario & Company, Inc. & D’Addario UK Limited.
 
-© 2016 D'Addario & Company, Inc. All rights reserved. 
+© 2017 D'Addario & Company, Inc. All rights reserved. 
