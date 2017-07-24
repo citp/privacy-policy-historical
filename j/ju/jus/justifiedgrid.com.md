@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justifiedgrid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084515id_/http%3A//justifiedgrid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justifiedgrid.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724094754id_/https%3A//justifiedgrid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Justified Image Grid
 
