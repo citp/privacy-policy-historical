@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicesofliberty.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402192801id_/https%3A//voicesofliberty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicesofliberty.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724103115id_/https%3A//voicesofliberty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Voices of Liberty
 
