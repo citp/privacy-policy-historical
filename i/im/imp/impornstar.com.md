@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the impornstar.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125033332id_/http%3A//impornstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impornstar.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724193541id_/https%3A//www.impornstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ImPornStar.com
 
 Effective Date: March 4, 2014
 
-Last Modified: March 4, 2014
+Last Modified: April 6, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“ImPornStar.com,” “we,” “our”). By using our Services and/or registering with ImPornStar.com, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as ImPornStar.com adheres to the standards set forth more clearly below.
 
