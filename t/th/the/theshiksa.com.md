@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshiksa.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611213117id_/http%3A//toriavey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiksa.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725015918id_/https%3A//toriavey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,3 +77,6 @@ We reserve the right, at any time, to add to, change, update, or modify this pri
  _This policy was last updated on June 21, 2014._
 
  _©   _ToriAvey, LLC.  All rights reserved.
+
+  
+
