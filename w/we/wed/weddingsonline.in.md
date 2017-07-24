@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingsonline.in privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524230119id_/http%3A//www.weddingsonline.in/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.in privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724095010id_/http%3A//www.weddingsonline.in/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
