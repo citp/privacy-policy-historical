@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210160410id_/https%3A//www.dennys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724214357id_/http%3A//www.dennys.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Denny's
 
