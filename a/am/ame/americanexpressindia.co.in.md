@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanexpressindia.co.in privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228081841id_/https%3A//www.americanexpress.com/india/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanexpressindia.co.in privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724163253id_/https%3A//www.americanexpress.com/india/legal/privacy.shtml) for the most accurate reproduction.*
 
 # American Express | India Online Privacy Statement
 
