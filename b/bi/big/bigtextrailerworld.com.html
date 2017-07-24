@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigtextrailerworld.com privacy policy that was archived on 2017-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613172452id_/http%3A//bigtextrailerworld.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigtextrailerworld.com privacy policy that was archived on 2017-07-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170724075304id_/https%3A//www.bigtextrailerworld.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- START main:trailers/page_parts/html_head.tpl --><head>
 <meta name="keywords" content="">
@@ -18,7 +18,7 @@
 <script type="text/javascript" src="http://www.bigtextrailerworld.com/./vendor/owl-carousel/owl.carousel.js"></script>
 <!-- external components end -->
 
-<link rel="StyleSheet" type="text/css" href="http://www.bigtextrailerworld.com/cache/asset/dc5d52d6fce91addd5358583cfe9180d.css">
+<link rel="StyleSheet" type="text/css" href="http://www.bigtextrailerworld.com/cache/asset/ae1975863647efe62c9557cd5e94e867.css">
 
 <script type="text/javascript" src="http://www.bigtextrailerworld.com/./modules/main/apps/FrontEnd/templates/_files/bookmarks.js"></script>
 
@@ -29,7 +29,7 @@
 <script type="text/javascript">
                 $.ajaxSetup({
                   data: {
-                    'secure_token': 'a856e1a46a0a8ee8037ff411a307a9d0'
+                    'secure_token': 'f356e0c0338759eb67dac35045a3c7c9'
                   }
                 });
               </script><!-- START listing_feature_featured:base/rss_link.tpl -->
@@ -555,13 +555,13 @@
         <!-- START banners:bootstrap_base/show_image_banner.tpl -->
 
 <div>
-	<a id="bannerLink786059401fe4e1aa7" onclick="javascript:window.open(this.href, &quot;_blank&quot;); return false;" href="http://bigtextrailerworld.com/buying-guide/" style="border: none">
-		<img id="bannerImg786059401fe4e1aa7" class="img-responsive" src="http://www.bigtextrailerworld.com/./files/banners/1.png" alt="MainPageBanners">
+	<a id="bannerLink77865975a760b0cde" onclick="javascript:window.open(this.href, &quot;_blank&quot;); return false;" href="http://bigtextrailerworld.com/buying-guide/" style="border: none">
+		<img id="bannerImg77865975a760b0cde" class="img-responsive" src="http://www.bigtextrailerworld.com/./files/banners/1.png" alt="MainPageBanners">
 	</a>
 </div>
 
 <script type="text/javascript">
-function bannerRotator786059401fe4e1aa7(currDisplayOrder) {
+function bannerRotator77865975a760b0cde(currDisplayOrder) {
 	$.ajax({
 		url: '/system/banners/show_banner_group/',
 		data: {
@@ -572,33 +572,33 @@ function bannerRotator786059401fe4e1aa7(currDisplayOrder) {
 		cache: false,
 		dataType: 'json',
 		success: function(data) {
-			$('#bannerImg786059401fe4e1aa7').attr("src", 'http://www.bigtextrailerworld.com/' + data.content_data.media_file);
-			$('#bannerImg786059401fe4e1aa7').attr("alt", data.content_data.caption);
+			$('#bannerImg77865975a760b0cde').attr("src", 'http://www.bigtextrailerworld.com/' + data.content_data.media_file);
+			$('#bannerImg77865975a760b0cde').attr("alt", data.content_data.caption);
 
-			$('#bannerLink786059401fe4e1aa7').attr("href", data.content_data.url);
+			$('#bannerLink77865975a760b0cde').attr("href", data.content_data.url);
 
-			$('#bannerLink786059401fe4e1aa7').unbind('click');
-			$('#bannerLink786059401fe4e1aa7').bind('click', function() {
+			$('#bannerLink77865975a760b0cde').unbind('click');
+			$('#bannerLink77865975a760b0cde').bind('click', function() {
 				var currDocCursor = document.body.style.cursor;
-				var currObjCursor = $('#bannerImg786059401fe4e1aa7').css('cursor');
+				var currObjCursor = $('#bannerImg77865975a760b0cde').css('cursor');
 
 				document.body.style.cursor = 'wait';
-				$('#bannerImg786059401fe4e1aa7').css('cursor', 'wait');
+				$('#bannerImg77865975a760b0cde').css('cursor', 'wait');
 
-				bannerCounter786059401fe4e1aa7(data.content_data.sid);
+				bannerCounter77865975a760b0cde(data.content_data.sid);
 
 			    document.body.style.cursor = currDocCursor;
-			    $('#bannerImg786059401fe4e1aa7').css('cursor', currObjCursor);
+			    $('#bannerImg77865975a760b0cde').css('cursor', currObjCursor);
 
 				return true;
 			});
 
-			setTimeout("bannerRotator786059401fe4e1aa7("+data.content_data.display_order+")", data.content_data.delay * 1000);
+			setTimeout("bannerRotator77865975a760b0cde("+data.content_data.display_order+")", data.content_data.delay * 1000);
 		}
 	});
 }
 
-function bannerCounter786059401fe4e1aa7(bannerSid) {
+function bannerCounter77865975a760b0cde(bannerSid) {
 	$.ajax({
 		url: '/system/banners/banner_click_counter/',
 		data: {
@@ -611,13 +611,13 @@ function bannerCounter786059401fe4e1aa7(bannerSid) {
 
 
 $(document).ready(function() {
-	$('#bannerLink786059401fe4e1aa7').bind('click', function() {
-		bannerCounter786059401fe4e1aa7(1);
+	$('#bannerLink77865975a760b0cde').bind('click', function() {
+		bannerCounter77865975a760b0cde(1);
 
 		return true;
 	});
 
-	setTimeout("bannerRotator786059401fe4e1aa7(2)", 30 * 1000);
+	setTimeout("bannerRotator77865975a760b0cde(2)", 30 * 1000);
 });
 
 </script>
