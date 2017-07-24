@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512180615id_/https%3A//www.clarifai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724145856id_/https%3A//clarifai.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Clarifai
 
@@ -64,7 +64,7 @@ We seek to train machines to recognize images, but there are lots of other thing
 
 Learn more
 
-We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service. Such third parties must agree to use any of your personal data only for the purposes for which they have been engaged by Clarifai and they must either comply with the Privacy Shield principles or another mechanism permitted by the applicable EU & Swiss data protection law(s) for transfers and processing of Personal Data (as defined thereby) or agree to provide adequate protections for your Personal Data that are no less protective than those set out in this Privacy Policy;
+We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service. Such third parties must agree to use any of your personal data only for the purposes for which they have been engaged by Clarifai and they must either comply with the Privacy Shield principles or another mechanism permitted by the applicable EU & Swiss data protection law(s) for transfers and processing of Personal Data (as defined thereby) or agree to provide adequate protections for your Personal Data that are no less protective than those set out in this Privacy Policy. If Clarifai has knowledge that a third party to which it has disclosed your personal data covered by this Privacy Policy is processing such personal data in a way that is contrary to this Privacy Policy and/or the data protection law(s) we subscribe to, then Clarifai will take reasonable steps to prevent or stop such processing. In such case, the third-party is liable for damages unless it is proven that Clarifai is responsible for the event giving rise to the violation.
 
 Any information or content that you voluntarily disclose for public posting to the Service, such as User Content (including photos), becomes available to the public, as controlled by any applicable account settings. To change your account settings on the Service, please change your Profile Page. Subject to your profile and account settings, any User Content that you make public is searchable by other Users and subject to use under our Clarifai API. Any party that uses the Clarifai API is subject to the API [Terms of Use](https://web.archive.org/terms) which incorporates the terms of this Privacy Policy. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
@@ -100,7 +100,7 @@ We may buy or sell/divest/transfer the company (including any shares in the comp
 
 ## Your choices
 
-We want to offer you choices when it comes to using features of our Services that may impact your privacy. These choices include things like whether to use facial recognition to help tag people you know in our mobile app and whether to use your location to tag photos with the places they were taken.
+We want to offer you choices when it comes to using features of our Services that may impact your privacy. If you purchase a feature of our Service and do not wish Clarifai to use or share information that reasonably identifies you except to provide that feature of our Service, you may submit your request to the legal team at legal@clarifai.com. Please keep in mind that you can always choose not to provide Clarifai with information; however, Clarifai may not be able to fulfill your requests or process your transactions if you do not provide certain required information.
 
 Learn more
 
@@ -142,4 +142,4 @@ In the event that any information under our control is compromised as a result o
 
 By using our Services, you consent to our collection of your information. If we change our technology or security or privacy practices, we will need to change this statement. So check back often. Let us know if you want us to send emails to you about changes to these privacy disclosures by contacting legal@clarifai.com and write "I choose to opt in to notifications about changes to the privacy disclosures." When we change the policy in a material manner we will let you know and update the 'last modified' date at the bottom of this page.
 
-Last Update: January 31, 2017
+Last Update: June 16, 2017
