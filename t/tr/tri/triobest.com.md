@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triobest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085743id_/http%3A//www.triobest.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triobest.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724102856id_/http%3A//www.triobest.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy » TrioBest
 
