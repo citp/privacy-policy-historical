@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightbiz.co.uk privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711212345id_/https%3A//rightbiz.co.uk/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.co.uk privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724165331id_/https%3A//rightbiz.co.uk/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy - RightBiz UK
 
