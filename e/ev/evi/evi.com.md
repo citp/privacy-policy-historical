@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628090809id_/https%3A//www.evi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724033225id_/https%3A//www.evi.com/privacy) for the most accurate reproduction.*
 
 # Evi - Privacy Policy
 
