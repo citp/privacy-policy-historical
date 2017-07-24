@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicktube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035414id_/http%3A//nicktube.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicktube.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724182009id_/https%3A//nicktube.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Information - privacy-policy
 
@@ -40,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20170606035414id_/http%3A//nicktube.com/info/privacy.php)
+By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20170724182009id_/https%3A//nicktube.com/info/privacy.php)
 
 **Changes to our Privacy Policy**
 
