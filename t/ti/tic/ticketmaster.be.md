@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.be privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110082556id_/http%3A//www.ticketmaster.be/help/privacypolicy.html%3Ftm_link%3Dtm_i_6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.be privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724035432id_/http%3A//www.ticketmaster.be/help/privacypolicy.html%3Ftm_link%3Dtm_i_8) for the most accurate reproduction.*
 
 # Privacy Policy
 
