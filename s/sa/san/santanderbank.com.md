@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santanderbank.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328070722id_/https%3A//santanderbank.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santanderbank.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725113227id_/https%3A//santanderbank.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
