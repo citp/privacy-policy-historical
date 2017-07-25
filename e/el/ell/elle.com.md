@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elle.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630033310id_/http%3A//www.elle.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elle.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725221923id_/http%3A//www.elle.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
