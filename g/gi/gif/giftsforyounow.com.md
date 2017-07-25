@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051922id_/http%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725143034id_/https%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -136,9 +136,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 giftsforyounow.com
 
-109 Shore Drive
+10305 Argonne Drive
 
-Burr Ridge, IL 60527
+Woodridge, IL 60517
 
 United States
 
@@ -146,4 +146,4 @@ United States
 
 630-771-0098
 
-Last Edited on 2016-01-04
+Last Edited on 2017-07-24
