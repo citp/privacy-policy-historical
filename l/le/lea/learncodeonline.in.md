@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learncodeonline.in privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615053005id_/http%3A//learncodeonline.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learncodeonline.in privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725180508id_/http%3A//www.learncodeonline.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Learn Code Online !
 
