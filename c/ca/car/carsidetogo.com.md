@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsidetogo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112401id_/http%3A//order.carsidetogo.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsidetogo.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725104610id_/https%3A//order.carsidetogo.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
