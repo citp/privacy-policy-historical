@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wwwpromoter.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107013546id_/https%3A//wwwpromoter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwwpromoter.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725190857id_/https%3A//wwwpromoter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WWWPromoter Online Advertising Network
 
 Your privacy is important to us
 
-This Privacy Policy describes how WWWPromoter, Inc ("WWWPromoter," "Company," "we," or "us") collects, uses and shares information about you. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information in certain circumstances.
+This Privacy Policy describes how Media Nexus Ltd ("Media Nexus," "Company," "we," or "us") collects, uses and shares information about you. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information in certain circumstances.
 
 Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
 
