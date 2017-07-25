@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611202952id_/http%3A//www.philips.co.uk/a-w/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726012059id_/https%3A//www.philips.co.uk/a-w/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy notice | Philips
 
 #### Introduction
 
-This privacy notice applies to the personal data of consumers that is collected or used by Koninklijke Philips N.V. or its affiliates or subsidiaries (Philips). Philips appreciates the interest you have shown in our company, products and services by visiting our websites, [www.philips.com](http://www.philips.com/) or related communication channels, including, but not limited to, our social media pages and/or channels and blogs (together "Philips pages"). This privacy notice applies to all the personal data that Philips collects when you interact with Philips, such as when you visit our websites, when you use the products or services offered by Philips, when you purchase Philips products or services, when you subscribe to newsletters, when you contact customer support, and when you interact with Philips as a business customer, supplier or business partner, etc.
+This privacy notice applies to the personal data of consumers that is collected or used by Koninklijke Philips N.V. or its affiliates or subsidiaries (Philips). Philips appreciates the interest you have shown in our company, products and services by visiting our websites, [www.philips.com](https://www.philips.com/) or related communication channels, including, but not limited to, our social media pages and/or channels and blogs (together "Philips pages"). This privacy notice applies to all the personal data that Philips collects when you interact with Philips, such as when you visit our websites, when you use the products or services offered by Philips, when you purchase Philips products or services, when you subscribe to newsletters, when you contact customer support, and when you interact with Philips as a business customer, supplier or business partner, etc.
 
 This includes, without limitation, all online and offline collections of all types of personal data. However, some Philips pages collections involve with types of data with special requirements (for example, medical data) and which require a different privacy notice. Whenever and wherever that is the case, Philips will make it clear that the privacy notice concerned is different from this general privacy notice.
 
-To create a global approach on the protection of privacy and to allow internal data transfers between Philips companies worldwide, Philips has adopted Binding Corporate Rules called the Philips Privacy Rules. You can find more information on the Philips Privacy Rules on the Philips privacy website ([www.philips.com/privacy](http://www.philips.com/a-w/privacy/introduction.html))
+To create a global approach on the protection of privacy and to allow internal data transfers between Philips companies worldwide, Philips has adopted Binding Corporate Rules called the Philips Privacy Rules. You can find more information on the Philips Privacy Rules on the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/a-w/privacy/introduction.html))
 
 ## Why we ask you to share your Personal Data  
 
@@ -122,7 +122,7 @@ When you interact with Philips as a business customer, supplier or business part
 
 
 
-Personal data may also reach us when we purchase another company of which you are a customer. If you do not want Philips to use your personal data that has not been provided by you, you may let us know at any time by contacting us at the Philips privacy website ([www.philips.com/privacy](http://www.philips.com/privacy)).
+Personal data may also reach us when we purchase another company of which you are a customer. If you do not want Philips to use your personal data that has not been provided by you, you may let us know at any time by contacting us at the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/privacy)).
 
 ## Sharing your Personal Data with others  
 
@@ -144,7 +144,7 @@ From time to time, Philips may sell a business or a part of a business to anothe
 ## Your rights  
 
 
-Once you have provided us with your personal data, you have reasonable access to that information so that you can update, modify or, if legally possible, delete it. For this purpose, we refer you to the Philips privacy website ([www.philips.com/privacy](http://www.philips.com/privacy)) where you can exercise your rights. On this website you can also pose other privacy questions or file your privacy complaints.
+Once you have provided us with your personal data, you have reasonable access to that information so that you can update, modify or, if legally possible, delete it. For this purpose, we refer you to the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/privacy)) where you can exercise your rights. On this website you can also pose other privacy questions or file your privacy complaints.
 
 You can also delete or change the privacy settings of your My Philips account by logging in to your account and accessing your "personal settings".
 
@@ -189,7 +189,7 @@ On the Philips pages, Flash cookies are also used. Flash cookies may be removed 
 
 When you participate in various social media forums like Facebook, Twitter, Yammer, Pinterest, Instagram, LinkedIn, etc., you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share the personal data in your social media profile(s).
 
-Philips is bound by the privacy practices or policies of these third parties, as well as our own [Social Media House rules](http://www.philips.co.uk/e/socialmedia/policy_and_principles.html) and this Privacy Policy, so we encourage you to read the applicable privacy notices, terms of use and related information about how your personal data is used in these social media environments.
+Philips is bound by the privacy practices or policies of these third parties, as well as our own [Social Media House rules](https://www.philips.co.uk/e/socialmedia/policy_and_principles.html) and this Privacy Policy, so we encourage you to read the applicable privacy notices, terms of use and related information about how your personal data is used in these social media environments.
 
 Also, depending on the choices you have made regarding your settings on various social media sites (and/or in combination with your settings on the Philips pages), certain personal data may be shared with Philips about your online activities and social media profiles (e.g. interests, marital status, gender, user name, photo, comments and content you have posted/shared etc.).  
 
@@ -214,7 +214,7 @@ We recognize and take seriously our responsibility to protect the personal data 
 
 While Philips websites are not generally targeted at children under the age of 16, it is Philips' policy to comply with the law when it requires parent or guardian permission before children's information is collected, used or disclosed.
 
-Philips strongly recommends that parents take an active role in supervising the online activities of their children. If you believe we have collected personal data from a person who is under the age of 16, please contact us at the Philips privacy website ([www.philips.com/privacy](http://www.philips.com/privacy)).
+Philips strongly recommends that parents take an active role in supervising the online activities of their children. If you believe we have collected personal data from a person who is under the age of 16, please contact us at the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/privacy)).
 
 #### Changes to this privacy notice  
 
