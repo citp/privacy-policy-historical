@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071706id_/http%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725055440id_/https%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
