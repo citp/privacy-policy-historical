@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406105649id_/https%3A//www.fadv.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725102206id_/https%3A//www.fadv.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | First Advantage
 
