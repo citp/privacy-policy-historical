@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609210546id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725160817id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
 
 # SmartThings. Add a little smartness to your things.
 
