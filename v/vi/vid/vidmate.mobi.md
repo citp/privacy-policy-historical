@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidmate.mobi privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624035423id_/http%3A//www.vidmate.mobi/v2/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmate.mobi privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725182350id_/http%3A//www.vidmate.mobi/v2/privacy) for the most accurate reproduction.*
 
 # VidMate | YouTube Downloader | Live TV on Mobile | Free Video And Music Download For Mobile
 
