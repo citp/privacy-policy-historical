@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whereforeclosures.com privacy policy that was archived on 2016-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161010223408id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whereforeclosures.com privacy policy that was archived on 2017-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170725085606id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -13,32 +13,29 @@
     <meta name="author" content="">
 
     
-    <link href="/resources/t/css/jquery.autocomplete.css" rel="stylesheet">
-    
-    <link href="/resources/t/css/bootstrap.min.css" rel="stylesheet">
-    
-    <link href="/resources/t/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    
-    
-    
-        <link href="/resources/t/css/themes/modern.css" rel="stylesheet" type="text/css">
-    
-    
-    <link href="/resources/t/css/colors/orange-purple.css" rel="stylesheet" type="text/css">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/responsive.js"></script>
+    
+    <link href="/resources/t/css/style.css?version=1.73.0" rel="stylesheet" type="text/css">
+    
+    
+    
+    <link href="/resources/t/css/themes/modern.min.css?version=1.73.0" rel="stylesheet" type="text/css">
+    
+    
+    <link href="/resources/t/css/colors/orange-purple.min.css?version=1.73.0" rel="stylesheet" type="text/css">
+
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/resources/t/js/responsive-pageload.js?version=1.73.0"></script>
+    <script src="/resources/t/js/responsive-async.js?version=1.73.0"></script>
 
     <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-49453021-1']);
-_gaq.push(['_setDomainName', 'none']);
-_gaq.push(['_setAllowLinker', true]);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-var analytics = new GoogleAnalytics();
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-49453021-1', 'auto', {'allowLinker': true});
+ga('require', 'linker');
+ga('require', 'linkid');
+var analytics = new UniversalAnalytics();
 </script>
     
         <script>
@@ -58,9 +55,9 @@ var analytics = new GoogleAnalytics();
             analytics.trackPageView(getTrackingUrl());
         </script>
     
+
     
-    
-    
+
     
     
 </head>
@@ -72,17 +69,19 @@ var analytics = new GoogleAnalytics();
             <a class="navbar-brand brand-logo" href="/?from=banner" style="background-image: url(/resources/site/images/logos/logo.png)"></a>
 
 
+
          </div>
          <div class="navbar-collapse collapse">
     
     <div class="navbar-right">
-        <a class="text-muted" href="/Membersite/?from=banner&amp;adid=WF1002"><i class="fa fa-user"></i>&nbsp;<span class="text-pretty">Member Sign-in</span></a>
+        <a class="text-muted" href="/Membersite/?from=banner"><i class="fa fa-user"></i>&nbsp;<span class="text-pretty">Member Sign-in</span></a>
     </div>
     
 </div>
 <div class="visible-xs">
    
 </div>
+
       </div>
    </div>
    <div class="visible-xs back-button"><button class="btn btn-default" onclick="history.go(-1)"><i class="fa fa-reply"></i> Back</button></div>
@@ -185,7 +184,9 @@ such information outside  of your country.</p>
 
 respect to the types of personal information the business shares with third parties for those third parties direct marketing purposes and the identities of the third parties with whom the business has shared such information 
 
-during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 11801 Pierce Street, Suite 200 Riverside, CA 92505 Please  include your name and the address to which you would like us 
+during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 402 West Broadway, Suite 400<br>
+San Diego, California 92101<br>
+United States of America Please  include your name and the address to which you would like us 
 
 to respond. </p>
 <p>Thank you for becoming familiar with the WhereForeclosures.com privacy policy.  You can always <a href="/contact-us.html">contact us</a> with any questions.</p>
@@ -209,7 +210,7 @@ to respond. </p>
                         </div>
                         
                         <p class="text-muted text-sm">
-                            <span>Copyright © 2016</span>
+                            <span>Copyright © 2017</span>
                         </p>
                         
                     </div>
@@ -230,6 +231,7 @@ to respond. </p>
                             click_adid: geturlparam("adid"),
                             brandId: "26",
                             afid: geturlparam("afid") == "" ? $.cookie("PID") : geturlparam("afid"),
+                            xid: geturlparam("XID"),
                             utm_source: geturlparam("utm_source"),
                             utm_medium: geturlparam("utm_medium"),
                             utm_term: geturlparam("utm_term"),
@@ -243,7 +245,17 @@ to respond. </p>
                 });
             </script>
 
-            
+            <script>
+                
+                function trackUsage(type) {
+                    trackSalesUsage(type,
+                    'WF1002',
+                    2600,
+                    '',
+                    '',
+                    'WF1002');
+                }
+            </script>
 
             
             
@@ -261,10 +273,8 @@ to respond. </p>
     
 
             
+
             
-            
-            
-        
 
         </div>
    <script>
