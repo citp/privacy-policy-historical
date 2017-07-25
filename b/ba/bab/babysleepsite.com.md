@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072431id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725052511id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Baby Sleep Site - Baby / Toddler Sleep Consultants
 
