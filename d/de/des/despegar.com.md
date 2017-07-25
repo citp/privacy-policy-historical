@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the despegar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032145id_/http%3A//comercial.despegar.com/intl-en/confidentiality/%3Fl%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the despegar.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726014113id_/http%3A//comercial.despegar.com/intl-en/confidentiality/%3Fl%3Den) for the most accurate reproduction.*
 
 # Privacy policy | International-English
 
