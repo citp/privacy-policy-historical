@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camfuze.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623191647id_/http%3A//camfuze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camfuze.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725172036id_/https%3A//camfuze.com/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - CamFuze
 
