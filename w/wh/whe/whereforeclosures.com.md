@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whereforeclosures.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010223408id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whereforeclosures.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725085606id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WhereForeclosures: Contact Us to find out more about Foreclosure Listings in your area
 
@@ -57,6 +57,8 @@ Please note that if WhereForeclosures.com or any lines of its business are sold 
 Your information may be transferred to, stored and processed in the United States or any other country where we have facilities, and by providing us with your information, you consent to the transfer, storage and processing of such information outside of your country.
 
 **Your California Privacy Rights:**  
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 11801 Pierce Street, Suite 200 Riverside, CA 92505 Please include your name and the address to which you would like us to respond. 
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 402 West Broadway, Suite 400  
+San Diego, California 92101  
+United States of America Please include your name and the address to which you would like us to respond. 
 
 Thank you for becoming familiar with the WhereForeclosures.com privacy policy. You can always [contact us](https://web.archive.org/contact-us.html) with any questions.
