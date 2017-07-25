@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dronedeploy.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522010811id_/http%3A//support.dronedeploy.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronedeploy.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725080314id_/http%3A//support.dronedeploy.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # DroneDeploy
 
