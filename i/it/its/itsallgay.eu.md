@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041657id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725033656id_/https%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
 
 # ItsAllGay
-
-[](http://www.itsallgay.eu/ "ItsAllGay")
 
 ### www.itsallgay.com Privacy Policy
 
@@ -40,5 +38,3 @@ We do not share your personally identifiable information (such as name or email 
 We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the itsallgay Website.  
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the Laws of England & Wales.  
 itsallgay also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that itsallgay believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the itsallgay Website, and to protect the rights, property, or personal safety of itsallgay, our users or others.
-
-GF Networks Ltd, 20-22 Wenlock Road, London, N1 7GU 
