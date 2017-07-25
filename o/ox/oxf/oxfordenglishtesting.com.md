@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145306id_/https%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D5%26id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725190039id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D5%26id%3D116) for the most accurate reproduction.*
 
 # Oxford Online Placement Test | Exam Practice Tests for KET, PET, FCE, CAE, IELTS, TOEIC, TOEFL iBT
 
