@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickowl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192717id_/http%3A//www.brickowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickowl.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725031926id_/http%3A//www.brickowl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brick Owl - LEGO Marketplace
 
@@ -59,6 +59,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/web/20170606192717id_/http%3A//www.brickowl.com/contact)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/web/20170725031926id_/http%3A//www.brickowl.com/contact)
 
 This document was last updated on September 28, 2013
