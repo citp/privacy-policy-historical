@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwgb.edu privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526085143id_/http%3A//www.uwgb.edu/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwgb.edu privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726003935id_/http%3A//www.uwgb.edu/policies/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | University of Wisconsin - Green Bay
 
