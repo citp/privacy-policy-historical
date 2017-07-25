@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618150309id_/http%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725050615id_/https%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Altaro
 
@@ -106,7 +106,7 @@ By using our site, you consent to our online privacy policy.
 
 ### How can you opt-out?
 
-To opt out of all our non-transactional and service related email communications simply email us at [opt-out@altaro.com](https://web.archive.org/web/20170618150309id_/http%3A//www.altaro.com/opt-out@altaro.com)
+To opt out of all our non-transactional and service related email communications simply email us at [opt-out@altaro.com](https://web.archive.org/web/20170725050615id_/https%3A//www.altaro.com/opt-out@altaro.com)
 
 ### Changes to our Privacy Policy
 
