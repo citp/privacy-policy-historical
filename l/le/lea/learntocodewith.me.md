@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learntocodewith.me privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622225554id_/http%3A//learntocodewith.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntocodewith.me privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725231255id_/https%3A//learntocodewith.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Learn to Code With Me collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://learntocodewith.me/> website (“Site”).
+This Privacy Policy governs the manner in which Learn to Code With Me collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://learntocodewith.me/> website (“Site”).
 
 ### Personal identification information
 
@@ -57,6 +57,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://learntocodewith.me/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://learntocodewith.me/contact).
 
 This document was last updated on July 24, 2015
