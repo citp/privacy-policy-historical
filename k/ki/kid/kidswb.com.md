@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402083533id_/https%3A//www.wbkidsgo.com/looney-tunes/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725163445id_/https%3A//www.wbkidsgo.com/looney-tunes/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Kids WB
 
