@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savoryexperiments.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611203649id_/http%3A//www.savoryexperiments.com/media-pr-and-advertising/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoryexperiments.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725154145id_/https%3A//www.savoryexperiments.com/media-pr-and-advertising/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savory Experiments
 
