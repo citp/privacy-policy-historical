@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapcloud.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061949id_/http%3A//rapcloud.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapcloud.co privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726051603id_/https%3A//rapcloud.audio/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RapCloud
+# Privacy Policy | Rap
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:rapcloudco@gmail.com).
 
