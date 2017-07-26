@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209154733id_/http%3A//www.flyingflowers.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726133044id_/https%3A//www.flyingflowers.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Page
 
@@ -8,7 +8,7 @@
 
  **Online Privacy Policy for the Website at www.flyingflowers.co.uk**
 
-The website at www.flyingflowers.co.uk (the " **Website** ") is owned by Flying Flowers (" **we/us** "). For the purposes of the Data Protection Act 1998, the data controller in respect of the Website Flying Flowers. We are committed to protecting the privacy of visitors to our Website and complying with all applicable laws in the use of the information we collect about you.
+The website at www.flyingflowers.co.uk (the " **Website** ") is operated by Flying Flowers. Flying Flowers is owned by Interflora British Unit (" **we/us** "). For the purposes of the Data Protection Act 1998, the data controller in respect of the Website is Interflora British Unit. We are committed to protecting the privacy of visitors to our Website and complying with all applicable laws in the use of the information we collect about you.
 
 This policy (together with our Terms and Conditions and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following policy carefully to understand our views and practices regarding your personal information and how we will treat it, including what type of information is collected and tracked on the Website, how the information is used, and with whom the information is shared.
 
@@ -52,7 +52,7 @@ In addition to circumstances set out elsewhere in this privacy policy, we may al
 
 If you are a new or existing customer, and where you permit selected third parties (such as mutual commercial partners who may advertise on our website from time to time) to use your personal information, we (or they) will contact you by e-mail, mail, telephone, SMS or other means.
 
-If you would like to opt-out of Flying Flowers contacting you for marketing purposes, you can do so at any time by e-mailing us at [customerservices@flyingflowers.co.uk](mailto:customerservices@flyingflowers.co.uk)
+From time to time we may send you details of other products or services provided by Interflora British Unit. If you would like to opt-out of Flying Flowers or other Interflora British Unit companies/brands contacting you for marketing purposes, you can do so at any time by e-mailing us at [customerservices@flyingflowers.co.uk](mailto:customerservices@flyingflowers.co.uk) or by using the unsubscribe link contained within the email.
 
 #### Transfers of your personal information abroad
 
@@ -63,8 +63,6 @@ By submitting your personal information, you agree to this transfer, storing or 
 #### Site security
 
 While no data transmission over the Internet is 100% secure, the security of our system is very important to us. We seek to ensure that up-to-date data storage and security techniques are used to protect the personal information. All our employees and any third parties we engage to process the personal information are also obliged to respect the confidentiality of this personal information. The personal information is held on secure online servers utilising the Secure Socket Layer technology (SSL) standard.
-
-[Cookie policy](https://web.archive.org/page/cookies)
 
 #### Your rights
 
@@ -86,3 +84,26 @@ Our Website may, from time to time, contain links to and from the websites of th
 We may amend this policy from time to time. If we make any substantial changes in the way we use personal information we will notify you by email or an announcement on the Website. You should check this page from time to time to ensure you are happy with any changes.
 
 If you have any questions/comments or requests about privacy, you can contact us details for which can be found in Section 6 of our [Terms and Conditions](https://web.archive.org/page/terms-and-conditions)
+
+#### Cookies
+
+We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a "cookie" which is a small file stored on your browser. The information collected in this way can be used to identify you unless you modify your browser to prevent this happening - guidance for which is set out below. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our Website visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the Website.
+
+We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph below.
+
+You have the ability to accept or decline cookies by modifying the settings in your browser (for example, using Internet Explorer select 'internet options' from the 'tools' menu, then click 'security', followed by 'custom level' and select 'disable cookies'). However, you may not be able to use all the interactive features of our site if cookies are disabled. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+
+We are currently developing the ability for you to select which cookies you are happy for us to use during your time on our site and hope to have this available soon. The cookies we use on our site are as follows:
+
+Cookies essential for placing your order| 
+
+4  
+  
+---|---  
+Cookies for analytics| 
+
+5  
+  
+Cookies for marketing| 
+
+6
