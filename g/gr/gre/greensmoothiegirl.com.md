@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greensmoothiegirl.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143815id_/http%3A//greensmoothiegirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensmoothiegirl.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726203807id_/http%3A//greensmoothiegirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GreenSmoothieGirl
 
@@ -6,19 +6,15 @@ Effective  **Aug/26/2009**
 
 ### Privacy Notice Table Of Contents:
 
-· Our Commitment To Privacy
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children’s Privacy
+  * How To Access Or Correct Your Information
+  * How To Contact Us
 
-· The Information We Collect
 
-· How We Use Information
-
-· Our Commitment To Data Security
-
-· Our Commitment To Children’s Privacy
-
-· How To Access Or Correct Your Information
-
-· How To Contact Us
 
 ### Our Commitment To Privacy
 
@@ -56,7 +52,7 @@ We offer gift-cards by which you can personalize a product you order for another
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with our website if you would like to receive our catalog or newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form or subscribe to the newsletter. Once you have subscribed to the newsletter, you will receive offers and updates.
+You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form or subscribe to the newsletter. Once you have subscribed to the newsletter, you will receive offers and updates.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
@@ -72,7 +68,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by writing to us at GreenSmoothieGirl.com 51 West Center St, #345, Orem, UT 84057. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by writing to us at GreenSmoothieGirl.com, 51 West Center St, #345, Orem, UT 84057. We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -80,4 +76,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please write to us at GreenSmoothieGirl.com 51 West Center St, #345, Orem, UT 84057.  Or send us an [email](http://greensmoothiegirl.com/about/contact/ "Contact").
+Should you have other questions or concerns about these privacy policies, please write to us at GreenSmoothieGirl.com, 51 West Center St, #345, Orem, UT 84057.  Or send us an [email](http://greensmoothiegirl.com/about/contact/ "Contact").
