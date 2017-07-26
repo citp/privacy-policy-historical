@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plumbcenter.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061444id_/http%3A//www.plumbcenter.co.uk/webapp/wcs/stores/servlet/StaticPageDisplay%3FcatalogId%3D10051%26identifier%3Dsecurity-and-privacy%26langId%3D44%26storeId%3D10201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbcenter.co.uk privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726110108id_/https%3A//www.plumbcenter.co.uk/webapp/wcs/stores/servlet/StaticPageDisplay%3FcatalogId%3D10051%26identifier%3Dsecurity-and-privacy%26langId%3D44%26storeId%3D10201) for the most accurate reproduction.*
 
 # Security Privacy & Cookies | PlumbCenter
 
