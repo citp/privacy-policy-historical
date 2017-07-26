@@ -1,910 +1,594 @@
-<!--The following is the downloaded HTML source of the dineout.co.in privacy policy that was archived on 2016-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619005951id_/http%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dineout.co.in privacy policy that was archived on 2017-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170726223552id_/https%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-          <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" id="__ta" src="//cdn-jp.gsecondscreen.com/static/tac.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcFWVFSDBABVlFVBAEGVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="http://fonts.googleapis.com/css?family=Roboto:300, 400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title></title>
-    <meta name="description" content="">
+<!DOCTYPE html><html><head>
+        
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Expires" content="7">
+        
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLCV9T"></script><script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-PLCV9T",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")</script>
 
-    <meta name="keywords" content="">
 
-    
-     <link href="http://st2.dineout-cdn.co.in/build/a5625959/bootstrap/css/bootstrap.css" rel="stylesheet">
+        
+	<title>Privacy policy | Dineout</title>
+	<meta name="description" content="">
 
-         
-    <link rel="stylesheet" type="text/css" media="screen" href="http://st1.dineout-cdn.co.in/build/a5625959/css/global/jquery-ui.css"><link rel="stylesheet" type="text/css" media="screen" href="http://st1.dineout-cdn.co.in/build/a5625959/css/global/owl.carousel.css"><link rel="stylesheet" type="text/css" media="screen" href="http://st1.dineout-cdn.co.in/build/a5625959/css/global/owl.theme.default.min.css"><link rel="stylesheet" type="text/css" media="screen" href="http://st4.dineout-cdn.co.in/build/a5625959/css/global/style_web_new.css">    
-	<!-- 
-    <link href="http://www.dineout.co.in/assets/css/global/owl.carousel.css" rel="stylesheet">
-    <link href="http://www.dineout.co.in/assets/css/global/owl.theme.default.min.css" rel="stylesheet">
-    <link href="http://www.dineout.co.in/assets/css/global/style_web_new.css" rel="stylesheet"> -->
-    
-    
-    <script>
-    var global_base_url = 'http://www.dineout.co.in/';
-    
-    
-    var global_base_url = 'http://www.dineout.co.in/';
-    var global_diner_id = '';  //need to set the user id
-    
-    var fb_app_id =  '568956213159751';
-    var google_client_id = '953585151264-gum99n1btc31gl72h68ijup5hfjonjl1.apps.googleusercontent.com';
-    var DOPLUS_TAG = 'Dineout Plus';
-    
-    </script>
-   <script>
-    (function(i,s,o,g,r,a,m){
-    	i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-    ga('create', 'UA-32580312-1', 'auto');
-    ga('require', 'displayfeatures');
-    ga('send', 'pageview');
-    if(global_diner_id && global_diner_id > 0) {
-        ga('set', 'userId', global_diner_id);
-    }
-    
-    </script>
-<script type="text/javascript" src="http://st2.dineout-cdn.co.in/build/a5625959/js/global/jquery-1.9.1.min.js"></script><script type="text/javascript" src="http://st4.dineout-cdn.co.in/build/a5625959/js/global/jquery.bxslider.js"></script><script type="text/javascript" src="http://st4.dineout-cdn.co.in/build/a5625959/js/global/global_config_public.js"></script><script type="text/javascript" src="http://st3.dineout-cdn.co.in/build/a5625959/js/global/utility.js"></script><script type="text/javascript" src="http://st4.dineout-cdn.co.in/build/a5625959/js/www/public_utils.js"></script><script type="text/javascript" src="http://st1.dineout-cdn.co.in/build/a5625959/js/www/v2/loginregisterv2.js"></script><script type="text/javascript" src="http://st2.dineout-cdn.co.in/build/a5625959/js/mobile/mobile_v2/fb_login.js"></script><script type="text/javascript" src="http://st2.dineout-cdn.co.in/build/a5625959/js/mobile/mobile_v2/google_login.js"></script><script type="text/javascript" src="http://st1.dineout-cdn.co.in/build/a5625959/js/mobile/config.js"></script><script type="text/javascript" src="http://st3.dineout-cdn.co.in/build/a5625959/js/www/www_v2/utility.js"></script><script type="text/javascript" src="http://st1.dineout-cdn.co.in/build/a5625959/js/global/jquery-ui.min.js"></script><script type="text/javascript" src="http://st3.dineout-cdn.co.in/build/a5625959/js/www/www_v2/header.js"></script><script type="text/javascript" src="http://st1.dineout-cdn.co.in/build/a5625959/js/www/v2/home_search.js"></script><!-- globals from the backend -->
 
-<script>
 
-	//initializing the js global city id for use by the search and other utils
-	var current_city_id = '';
-	var current_city_name = '';
-	set_current_city_id('6');
-	set_current_city_name('Kolkata');
 
-	//setting the global fb login url
-	var gen_fb_login_url = 'http://www.dineout.co.in/fb_login_diner';
 
-	//caching the user session here
-	var arr_diner_session_info = {"__ci_last_regenerate":1466297874,"city_id":"6","city_name":"Kolkata","booking_pref":{"no_diner":2,"diner_date":"2016-06-19","dining_time":"11:30"},"diner_logged_in":false};
-	diner_id = '-1';
-</script>
 
-	
-	
-	
-    <!-- Bootstrap -->
-<!--  
-    <link href="http://www.dineout.co.in/assets/css/global/owl.carousel.css" rel="stylesheet">
-    <link href="http://www.dineout.co.in/assets/css/global/owl.theme.default.min.css" rel="stylesheet">
-    <link href="http://www.dineout.co.in/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link href="http://www.dineout.co.in/assets/css/global/style_web_new.css" rel="stylesheet"> -->
-    
 
- <script>
-
-ini_fb_login();
-</script>
-
-<script src="https://www.google.com/recaptcha/api.js"></script>
-
-<link rel="shortcut icon" href="http://www.dineout.co.in/favicon.ico?v=2">
-
-<!--<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">-->
-<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-  </head>
-     <body>
-    <div class="container-fluid">
-    	<header>
-            	<div class="row header">
-                	<div class="col-lg-12 col-md-12 col-sm-12">
-                    	<div class="clearfix">
-                        <div class="pull-left">
-                            <a class="navbar-brand dineout_logo pull-left" href="http://www.dineout.co.in/"><img src="http://st4.dineout-cdn.co.in/images/images/new_web_img/dineout_logo.png" width="100" alt="Dineout" title="Dineout"></a>
-                        </div>
-                        <div class="pull-left header_dd hdr_lft_btn">
-                            <!--START | City Selector-->
-                            <div class="dropdown">
-                            
-                              <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                                <span class="location_icon mrgn_right5"></span>
-                                <span class="dd_txt mrgn_right5">Kolkata</span>
-                                <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
-                              </button>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-
-                                                            
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/delhi">Delhi</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/mumbai">Mumbai</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/bangalore">Bangalore</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/chennai">Chennai</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/hyderabad">Hyderabad</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/pune">Pune</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/kolkata">Kolkata</a></li>
-                             
-                                                           
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.dineout.co.in/ahmedabad">Ahmedabad</a></li>
-                             
-                                                          
-
-                              </ul>
-                            </div>
-                            <!--END | City Selector-->
-                        </div>
-                        
-                        <div class="pull-left header_search">
-                                	<div class="input-group">
-                                	  <div onclick="open_div('seg_srch');focus_on_text('text_header_search');">
-                                      	<input type="text" class="form-control font12" name="header_search" id="text_header_search" onblur="toggle_search_div('seg_srch','hide');toggle_search_div('search_result','hide');" onkeyup="gen_search_www(this.value);" placeholder="Search for Restaurant, Area, Location etc...">
-                                      </div>
-                                      <span class="input-group-btn">
-                                          <button class="btn btn-default search_dd" type="button" onclick="click_header_search()" style="  "><i class="glyphicon glyphicon-search"></i></button>
-                                      </span>
-
-                                      <ul class="dropdown-menu width100" role="menu" style="display:none" id="search_result">
-
-                                      	<li><a href="#">Restaurants in South Delhi</a></li>
-                                       <li><a href="#">North Indian Restaurants in Delhi</a></li>
-                                      </ul>
-                                      
-                                                                            
-                                      <script>
-										$( document ).ready(function() {
-											$('#seg_search').html('<strong>Suggested Search in '+window.current_city_name+'</strong>');
-										});
-									 </script>
-									 
-                                      <ul id="seg_srch" class="dropdown-menu width100" role="menu" style="display:none">
-                                      	
-                                      	<li><a id="seg_search">Suggested Search in Delhi/NCR</a></li>
-                                                      							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/east-kolkata/salt-lake';"><a href="http://www.dineout.co.in/kolkata-restaurants/east-kolkata/salt-lake">Restaurants in Salt Lake</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/north-kolkata/mg-road';"><a href="http://www.dineout.co.in/kolkata-restaurants/north-kolkata/mg-road">Restaurants in MG Road</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/south-kolkata/park-street';"><a href="http://www.dineout.co.in/kolkata-restaurants/south-kolkata/park-street">Restaurants in Park Street</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/south-kolkata';"><a href="http://www.dineout.co.in/kolkata-restaurants/south-kolkata">Restaurants in South Kolkata</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/chinese-cuisine';"><a href="http://www.dineout.co.in/kolkata-restaurants/chinese-cuisine">Chinese Restaurants in Kolkata</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/bengali-cuisine';"><a href="http://www.dineout.co.in/kolkata-restaurants/bengali-cuisine">Bengali Restaurants in Kolkata</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/italian-cuisine';"><a href="http://www.dineout.co.in/kolkata-restaurants/italian-cuisine">Italian Restaurants in Kolkata</a></li>
-              						                  							 <li onclick="window.location.href='http://www.dineout.co.in/kolkata-restaurants/romantic';"><a href="http://www.dineout.co.in/kolkata-restaurants/romantic">Romantic Restaurants in Kolkata</a></li>
-              						                 						 
-                                      </ul>
-                                    </div>
-                            </div>
-                        
-                        <div class="pull-right">
-                        
-                        <div class="pull-right">
-                        
-                            <div class="pull-left font14 hire_head"><a href="http://www.dineout.co.in/careers">WE'RE HIRING!</a></div>
-                        
-                        	 <div class="pull-left party_btn"><a href="http://www.dineout.co.in/kolkata-restaurants/party_booking">Party Bookings</a></div>
-                        	
-                            <div class="pull-left login_sec loged_btn">
-                            
-                                                             <a href="javascript:void();" class="dflt_color" data-toggle="modal" data-target="#myModal">Log in</a><!-- / <a href="javascript:void(0);" data-toggle="modal" data-target="#myModal" class="black">Signup</a>-->
-                               
-                                
-                                                             </div>
-                           
-                            
-                            
-                            <div class="pull-left header_contact">
-                                For reservations call
-                                <div class="clearfix contct_no dflt_color">+91 9212340202</div>
-                            </div>
-                        </div>
-                        </div>
-	                </div>
-                </div>
-        </div></header>
         
 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog login_pop clearfix">
-    <div class="modal-content pop_bg">
-      <div class="modal-header bdr0">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-      </div>
-      <div class="modal-body clearfix">
-		<!--START | Form Section-->
-        <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="row clearfix">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                	<div class="clearfix">
-                        <div class="btn-group width100 mrgn_btm10">
-                          <button type="button" class="btn btn-primary social_btn" onclick="get_fb_login_status();">
-                            <span class="fb_icon"></span>
-                            <span class="text">Sign in with Facebook</span>
-                          </button>
-                        </div>
-                        
-                        <div class="btn-group width100 mrgn_btm10">
-                          <button type="button" class="btn btn-danger social_btn" onclick="javascript:ini_google_login();">
-                            <span class="google_icon"></span>
-                            <span class="text">Sign in with Google+</span>
-                          </button>
-                        </div>
-                    </div>
-           
-           
-           
-           
-           
-           
-           
-           
-           <!-- Sign in div  starts-->
-                    
-                    <hr class="mrgn_top15 mrgn_btm15">
-                <div class="clearfix" id="div_login"> 
-                    <div class="h4 mrgn_btm15">Sign in with your dineout account</div>
-                    
-                    <div class="form-group input-group-lg">
-                      <label for="pwd">Email</label>
-                      <input type="email" class="form-control" name="login_email" id="">
-                    </div>
-                    <div class="form-group input-group-lg">
-                      <label for="pwd">Password</label>
-                      <input type="password" class="form-control" id="" name="login_password">
-                      <p class="mrgn_top10 text-right help-block">
-                        <a href="javascript:void(0);" class="dflt_color pd_right5" onclick="show_header('frgt_email');">Forgot Email?</a> | 
-                        <a href="javascript:void(0);" class="dflt_color pd_left5" onclick="show_header('frgt_pwd');">Forgot Password?</a>
-                      </p>
-                    </div>
-                    <div class="clearfix">
-                        <button type="submit" class="btn btn-default dflt_btn_big" onclick="return login();">Login</button>
-                    </div>
-                    </div>
-                   <!-- Sign in div  ends  --> 
-                    
-                    
-                      <!-- Frgt pwd div  starts-->
-                    <div class="clearfix" style="display: none;" id="div_frgt_pwd">
-                      <div class="h4 mrgn_btm15">Forgot password?</div>
-                    
-                  
-                    <div class="form-group input-group-lg">
-                      <label for="pwd">Email</label>
-                      <input type="text" class="form-control" id="" placeholder="Please Enter your email id" name="forgot_email">
-                      
-                    
-                    </div>
-                    <div class="clearfix">
-                        <button type="submit" class="btn btn-group-justified dflt_btn_big" onclick="return header_forgot_pwd();">Reset Password</button>
-                    </div>
-                      <p class="mrgn_top10 text-right help-block">
-                       Login to your account 
-                        <a href="javascript:void(0);" class="dflt_color" onclick="show_header('login');">Click here</a>
-                      </p>
-                      
-                      </div>
-                      <!-- Frgt pwd div  Ends-->
-                      
-                    <!-- Frgt mail div  starts-->
-                    <div class="clearfix" style="display: none;" id="div_frgt_email">
-                      	<div class="h4 mrgn_btm15">Forgot Email?</div>
-                    	<div class="form-group input-group-lg">
-                      		<label for="pwd">Enter registered mobile no</label>
-                      		<input type="text" class="form-control" id="" placeholder="Please Enter your mobile no" name="forgot_email_phn">
-                      	</div>
-                    	<div class="clearfix">
-                        	<button type="submit" class="btn btn-group-justified dflt_btn_big" onclick="return header_forgot_email();">Get Email</button>
-                    	</div>
-                      	<p class="mrgn_top10 text-right help-block">
-                       		Login to your account 
-                        	<a href="javascript:void(0);" class="dflt_color" onclick="show_header('login');">Click here</a>
-                      	</p>
-                      
-                 	</div>
-                    <!-- Frgt mail div  Ends-->
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                </div>
-                
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="h3 mrgn_btm20">Sign up for FREE</div>
-                    <div class="form-group input-group-lg mrgn_btm25">
-                       <input type="text" class="form-control" placeholder="Name" id="" name="signup_name">
-                    </div>
-                    <div class="form-group input-group-lg mrgn_btm25">
-                      <input type="email" class="form-control" placeholder="Email" id="" name="signup_email">
-                    </div>
-                    <div class="form-group input-group-lg mrgn_btm25">
-                      <input type="text" class="form-control" placeholder="Phone Number" id="" name="signup_phone">
-                    </div>
-                    
-                    
-                    <div class="form-group mrgn_btm25" role="group" aria-label="...">
-                        <div class="btn-group width100" role="group">
-                          <button id="btn_city" class="btn width100 btn-default btn-lg dropdown-toggle text-left" type="button" data-toggle="dropdown" aria-expanded="false">
-                            <span class="pull-left" id="btn_val_city">Select City</span> 
-                            <span class="glyphicon glyphicon-menu-down pull-right" aria-hidden="true"></span>
-                          </button>
-                          <input type="hidden" name="signup_city_id" value="">
-                          <ul class="dropdown-menu" role="menu" onclick="return false;">
-                          
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(0,'Delhi');" data-val="0">Delhi</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(1,'Mumbai');" data-val="1">Mumbai</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(2,'Bangalore');" data-val="2">Bangalore</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(3,'Chennai');" data-val="3">Chennai</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(4,'Hyderabad');" data-val="4">Hyderabad</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(5,'Pune');" data-val="5">Pune</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(6,'Kolkata');" data-val="6">Kolkata</a></li>
-                                                          
-                            <li><a href="javascript:void(0);" onclick="set_signup_city(7,'Ahmedabad');" data-val="7">Ahmedabad</a></li>
-                                                        
-                          </ul>
-                        </div>
-                     </div>
-                    
-                    <div class="form-group input-group-lg mrgn_btm30">
-                      <input type="password" class="form-control" placeholder="Password" id="" name="signup_password">
-                    </div>
-                    <div class="clearfix mrgn_top20 text-right">
-                        <button type="submit" class="btn btn-default dflt_btn_big" onclick="return signup();">Sign up</button>
-                    </div>
-                </div>
+        
+        
+           <link href="https://mobp4.dineout.co.in/css/desktop-8f8e924437.css" rel="stylesheet">
+        
+        
+<script>!function(e,t,a,n,c,o,s){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,o=t.createElement(a),s=t.getElementsByTagName(a)[0],o.async=1,o.src="https://www.google-analytics.com/analytics.js",s.parentNode.insertBefore(o,s)}(window,document,"script",0,"ga"),ga("create","UA-32580312-1","auto"),ga("send","pageview")</script>
+
+<script type="text/javascript">function sendGAEvent(o,d,e){"undefined"!=typeof ga&&(do_category=void 0!==o?o:"",do_action=void 0!==d?d:"",do_label=void 0!==e?e:"",ga("send","event",do_category,do_action,do_label))}</script>
+
+
+<script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"6036484"}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}()</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1">
+</noscript>
+
+        
+        
+        
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <script type="text/javascript">function onPageLoad(e){"undefined"!=typeof $&&$.onPageLoad?$.onPageLoad(e):window.addEventListener("load",e)}function bindReady(e){document.addEventListener?document.addEventListener("DOMContentLoaded",function(){e()},!1):document.attachEvent&&document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()})}</script>
+        
+        
+        <script>"undefined"==typeof fbq&&(!function(e,n,t,f,o,c,a){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(c=n.createElement(t)).async=!0,c.src="https://connect.facebook.net/en_US/fbevents.js",(a=n.getElementsByTagName(t)[0]).parentNode.insertBefore(c,a))}(window,document,"script"),fbq("init","596761190430600")),fbq("track","PageView")</script>
+<noscript>
+    <img height=1 width=1 style=display:none src="https://www.facebook.com/tr?id=596761190430600&ev=PageView&noscript=1">
+</noscript>
+        
+    </head>
+    
+    <body data-spy="scroll" data-target="#myScrollspy">
+    
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLCV9T" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript>
+
+
+       <div class="logo-loader">
+            <div class="imgDiv">
+                <img src="/img/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
             </div>
         </div>
-        <!--END | Form Section-->
-      </div>
-    </div>
-  </div>
-</div>
 
+        <header class="clearfix">
 
+          <div class="pull-left left">
 
-<!-- Enter Phone number Modal -->
+            <a class="logo" href="https://www.dineout.co.in/">
+              <img src="/img/dineout-logo_new.png" width="85" alt="Dineout" title="Dineout">
+            </a>
 
-<div class="modal fade cancel_box_model" id="phone_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog clearfix">
-    
-    <div class="modal-content">
-      <div class="modal-header bdr0">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-        <h3 class="font20">Please enter your mobile number</h3>
-      </div>
-      
-      <div class="modal-body clearfix">
-      	<div class="form-group input-group-lg mrgn_btm15">
-        	<input type="textbox" class="form-control" placeholder="Enter mobile number" id="phone_number" value="">
-      	</div>
-     	<div class="font14 mrgn_btm20">
-          Note: An SMS will be sent to this no with a activation code<p></p>
-      	</div>	
-      </div>
-      <div class="modal-footer pd_top0">
-      	<div class="clearfix">
-        	<button type="button" class="btn btn-default dflt_btn_big_grey cancel_box_no pull-left" id="back_to_otp">Back</button>
-            <button type="button" class="btn btn-default dflt_btn_big pull-right" onclick="return edit_mobile_number();">Confirm</button>
-     	</div>
-   	  </div>
-    </div>
-    
-  </div>
-</div>
+            <div class="city">
+              <div class="dropdown hidden-xs">
+                <button class="city-btn" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                    <span>Delhi</span>
 
-
-<!-- OTP modal -->
-
-<div class="modal fade cancel_box_model" id="otp_modal_signup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display:none;">
-  <div class="modal-dialog clearfix">
-    
-    <div class="modal-content">
-    	<div class="modal-header bdr0">
-        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-        	<h3 class="font20">Please enter the activation code you've recieved on your phone</h3>
-      	</div>
-    	<div class="modal-body clearfix">
-        	<div class="form-group input-group-lg mrgn_btm15">
-                    <input type="password" class="form-control" placeholder="Activation Code" id="otp_code" maxlength="4">
-                        <input type="hidden" id="d_id" value="">
-                        <input type="hidden" id="d_phone" value="">
-      		</div>
-        
-        	<div class="font14">
-        		<a href="javascript:void(0)" class="dflt_color" onclick="return send_otp_again();">Click here</a> to resend code
-      		</div>
-   	  
-      </div>
-      
-      <div class="modal-footer pd_top0">
-      	<div class="clearfix">
-            <button type="button" class="btn btn-default dflt_btn_big_grey cancel_box_no pull-left" id="edit_mobile_number">Edit Mobile Number</button>
-            <button type="button" class="btn btn-default dflt_btn_big pull-right" onclick="return verify_otp();">Confirm</button>
-     	</div>
-   	  </div>
-      
-        <div class="skip_otp" onclick="return skip_otp();">Skip</div>
-      
-    </div>
-    
-  </div>
-</div>
-
-
-
-<!-- mobile uniqueness -->
-
-<div class="modal fade cancel_box_model" id="" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog clearfix">
-    
-    <div class="modal-content">
-    	
-        <div class="modal-header bdr0">
-        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-      	</div>
-    	<div class="modal-body clearfix">
-        	<div class="font14 mrgn_btm20">
-         		The mobile number you've entered already exist. Please provide another number.
+                    <span class="fa fa-angle-down" aria-hidden="true"></span>
+                </button>
+                
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/delhi">Delhi</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/mumbai">Mumbai</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/bangalore">Bangalore</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/chennai">Chennai</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/hyderabad">Hyderabad</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/pune">Pune</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/kolkata">Kolkata</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/ahmedabad">Ahmedabad</a>
+                    </li>
+                </ul>
+                
+              </div>
             </div>
-        	<div class="form-group input-group-lg mrgn_btm15">
-        		<input type="text" class="form-control" placeholder="Enter mobile no" id="">
-      		</div>
-   	  	</div>
-      
-      <div class="modal-footer pd_top0">
-      	<div class="clearfix">
-        	<button type="button" class="btn btn-default dflt_btn_big_grey cancel_box_no pull-left">Back</button>
-                <button type="button" class="btn btn-default dflt_btn_big pull-right">Confirm</button>
-     	</div>
-   	  </div>
-      
-    </div>
+
+            
+            <div class="search-wrap suggested-opt">
+              <input type="text" name="header_search" id="location-auto-suggest" placeholder="SEARCH FOR RESTAURANTS, AREA, LOCATION ETC..." onblur="toggle_search_div(&quot;seg_srch&quot;,&quot;hide&quot;),toggle_search_div(&quot;search_result&quot;,&quot;hide&quot;)" class="fs12">
+              <div id="suggest">
+                <ul class="dropdown-menu fill-auto-suggest result-auto-suggest" role="menu" style="display:none" id="search_result">
+                  <li><a href="#">Restaurants in South Delhi</a>
+                  </li>
+                  <li><a href="#">North Indian Restaurants in Delhi</a>
+                  </li>
+                </ul>
+              </div>
+              <ul id="seg_srch" class="dropdown-menu default-auto-suggest" role="menu" style="display:none">
+                <li class="heading">
+                  <strong>Suggested Search in Delhi</strong>
+                </li>
+                
+                  
+                    <li data-index="1" onclick="redirect_search_sugg({&quot;arr_area&quot;:&quot;South Delhi&quot;})">
+                      Restaurants in South Delhi
+                    </li>
+                  
+                    <li data-index="2" onclick="redirect_search_sugg({&quot;arr_area&quot;:&quot;Central Delhi&quot;})">
+                      Restaurants in Central Delhi
+                    </li>
+                  
+                    <li data-index="3" onclick="redirect_search_sugg({&quot;arr_cuisine&quot;:&quot;North Indian&quot;})">
+                      North Indian Restaurants in Delhi
+                    </li>
+                  
+                    <li data-index="4" onclick="redirect_search_sugg({&quot;arr_tag&quot;:&quot;Happy Hours&quot;})">
+                      Happy Hours in Delhi
+                    </li>
+                  
+                    <li data-index="5" onclick="redirect_search_sugg({&quot;arr_tag&quot;:&quot;Happy Hours&quot;,&quot;arr_area&quot;:&quot;South Delhi&quot;})">
+                      Happy Hours in South Delhi
+                    </li>
+                  
+                    <li data-index="6" onclick="redirect_search_sugg({&quot;arr_cuisine&quot;:&quot;Chinese&quot;,&quot;arr_area&quot;:&quot;Central Delhi&quot;})">
+                      Chinese Restaurants in Central Delhi
+                    </li>
+                  
+                    <li data-index="7" onclick="redirect_search_sugg({&quot;arr_cuisine&quot;:&quot;Italian&quot;,&quot;arr_area&quot;:&quot;Central Delhi&quot;})">
+                      Italian Restaurants in Central Delhi
+                    </li>
+                  
+              </ul>
+              <button type="submit" value="Submit"><i class="fa fa-search"></i></button>
+            </div>
+            
+
+          </div>
+
+          <div class="pull-right right">
+            <ul class="links">
+                
+                
+                
+                    <li class="login">
+                        <a href="javascript:void(0)" class="dflt_color" onclick="open_login_redirect(&quot;/privacy-policy&quot;)">Log in</a>
+                    </li>
+                
+
+                <li>
+                    +91 9212340202
+                </li>
+            </ul>
+          </div>
+
+        </header>
+
+    <script type="text/javascript">function toggle_search_div(e,t){setTimeout(function(){"show"==t?$("#"+e).show():$("#"+e).hide()},500)}function redirectAutoSuggest(e){var t=e.replace("://",""),a=t.indexOf("/");window.location.href=t.substring(a,t.length)}function redirect_search_sugg(e){$.post("/redirect_auto_suggest",{urifilter:e,city_name:"Delhi"},function(e){window.location.href=e})}function getUserName(e){var t="";e.userDetails&&(e=e.userDetails);var a=e.output_params.data;return e&&a&&(t=(a&&""!=a.d_first_name&&void 0!==a.d_first_name?a.d_first_name:"")+" "+(a&&""!=a.d_last_name&&void 0!==a.d_last_name?a.d_last_name:"")),t}function isElementVisible(e){return"none"!=e.style.display}bindReady(function(){$(".panel-affix").length&&$(".panel-affix").each(function(){var e=$(this).offset().top,t=$(document).height()-($(this).offset().top+$(this).outerHeight()),a=$(document).height()-$("#address-panel").offset().top+($(this).outerHeight()-$(this).height());t-a>80&&($(this).css("width",$(this).width()).css("top",0).css("position",""),$(this).affix({offset:{top:e-59,bottom:a}}).on("affix.bs.affix",function(){$(this).css("top","-153px").css("position","")})),$(window).trigger("scroll")})}),bindReady(function(){$(".logo-loader").addClass("hide"),EventsManager&&"undefined"!=typeof EventsManager&&EventsManager.hasOwnProperty("addListener")&&"function"==typeof EventsManager.addListener&&EventsManager.addListener(EventsManager.events.USER_DATA_CAME,function(e){var t=e;t.userLoggedIn=!0;var a=getUserName(t);document.querySelector(".login").innerHTML='<div class="dropdown"><button class="dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="false"><span class="dd_txt"> '+a+' </span><span class="fa fa-angle-down" aria-hidden="true"></span></button><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1"><li role="presentation"><a role="menuitem" tabindex="-1" href="/my-account">My Account</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="/logout">Logout</a></li></ul></div>'},"desktop_header_ejs"),$.ajax({url:"/get_user_header_data",method:"GET",success:function(e){EventsManager&&"undefined"!=typeof EventsManager&&EventsManager.hasOwnProperty("dispatchEvent")&&"function"==typeof EventsManager.dispatchEvent&&EventsManager.dispatchEvent(EventsManager.events.USER_DATA_CAME,e)}}),$("#location-auto-suggest").on("keyup",function(e){var t="/delhi-restaurants?search_str="+$("#location-auto-suggest").val();$("form#form-auto-suggest").attr("action",t);var a=e.keyCode?e.keyCode:e.which;if(13==a){var i=document.querySelector("header .search-wrap li.highlight");return i?i.click():window.location.href=t,!0}if(38!=a&&40!=a)""!=$("#location-auto-suggest").val()&&$("#location-auto-suggest").val().length>2?$.get("/auto_suggest",{term:$("#location-auto-suggest").val(),city:"Delhi"},function(e){var t="";if(e.length>0){$(".default-auto-suggest").hide(),$(".result-auto-suggest").show();var a=0;$.parseJSON(e).forEach(function(e){"heading"==e.type?t+='<li class="heading">'+e.label+"</li>":"chain"==e.type?t+="<li data-index="+ ++a+" onclick=\"redirectAutoSuggest('"+e.value+"');\">"+e.label+"<span>"+e.count+"</span></li>":t+="<li data-index="+ ++a+" onclick=\"redirectAutoSuggest('"+e.value+"');\">"+e.label+"</li>"}),""!=t?$(".fill-auto-suggest").html(t):$(".fill-auto-suggest").hide()}}):($(".default-auto-suggest").show(),$(".result-auto-suggest").hide(),$("header .search-wrap li").removeClass("highlight"));else{var s,n,o,r,l,d=document.querySelector("header #seg_srch"),u=document.querySelector("header #search_result");isElementVisible(d)?d.classList.contains("heading")||(s=d.querySelector(".highlight"),r=(o=d.querySelectorAll("li:not(.heading)"))&&o.length,s?(n=parseInt(s.getAttribute("data-index")),s.classList.remove("highlight"),o[(l=40==a?(l=n+1)>r?1:l:(l=n-1)<1?r:l)-1].classList.add("highlight")):40==a?d.querySelector("li:not(.heading)").classList.add("highlight"):o[r-1].classList.add("highlight")):isElementVisible(u)&&(u.classList.contains("heading")||(s=u.querySelector(".highlight"),r=(o=u.querySelectorAll("li:not(.heading)"))&&o.length,s?(n=parseInt(s.getAttribute("data-index")),s.classList.remove("highlight"),o[(l=40==a?(l=n+1)>r?1:l:(l=n-1)<1?r:l)-1].classList.add("highlight")):40==a?u.querySelector("li:not(.heading)").classList.add("highlight"):o[r-1].classList.add("highlight")))}})})</script>
     
-  </div>
-</div>
-
-
-<div class="modal fade cancel_box_model" id="booking_otp_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog clearfix">
+      <script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"6036484"}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}()</script>
+      <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1">
+      </noscript>
     
-    <div class="modal-content">
-    	<div class="modal-header bdr0">
-        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-        	<h3 class="font20">Please enter the activation code you've recieved on your phone</h3>
-      	</div>
-    	<div class="modal-body clearfix">
-        	<div class="form-group input-group-lg mrgn_btm15">
-                    <input type="password" class="form-control" placeholder="Activation Code" id="otp_code_booking" maxlength="4">
-                        <input type="hidden" id="d_id_booking" value="">
-                        <input type="hidden" id="d_phone_booking" class="d_phone" value="">
-      		</div>
-        
-        	<div class="font14">
-        		<a href="javascript:void(0)" class="dflt_color" onclick="return send_otp_again_booking();">Click here</a> to resend code
-      		</div>
-   	  
-      </div>
-      
-      <div class="modal-footer pd_top0">
-      	<div class="clearfix">
-            <button type="button" class="btn btn-default dflt_btn_big pull-right" onclick="return generate_booking_verify_otp();">Confirm</button>
-     	</div>
-   	  </div>
-    </div>
-    
-  </div>
-</div>
 
 
 
+ <style>.cta-btns{display:none}</style>
+
+
+
+<h3 class="head-title text-center big"><strong><span>Privacy Policy</span></strong></h3>
 
 <section>
-<div class="bg_grey row">
-	<div class="container mrgn_top20 mrgn_btm20">
-    	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 locations">
-            	<h1 class="mrgn_btm10 clearfix">Privacy Policy</h1>
-                <div id="result_found"></div>
-            </div>
-    	</div>
+	<div class="container">
+
+		<div class="contentBox">
+			
+			<p>Times Internet Limited, ("TIL") is a wholly owned subsidiary of Bennett Coleman &amp; Co. Limited and powers / manages the website <a href="http://www.dineout.co.in/">www.dineout.co.in</a> </p>
+			<p>TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).</p>
+			<p>By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.</p>
+			<p>
+			</p><h5 class="bold clearfix">User Information</h5>
+			To avail certain sites / services on our websites, users are required to provide certain information for the registration process that may include but not limited to  :- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.<p></p>
+			<p>All required information is service dependent and TIL may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services</p>
+			<p>Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.</p>
+
+			<h5 class="bold clearfix">Cookies</h5>
+			<p>To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a user identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.</p>
+			
+			<p>Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. </p>
+			
+				<h5 class="bold clearfix">Link To Third Party Sites</h5>
+			<p>TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.</p>
+			<p>When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.</p>
+			<h5 class="bold clearfix">Information Sharing</h5>
+			<p>TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:</p>
+			<p><strong>a)</strong> When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations. </p>
+			<p><strong>b)</strong>TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</p>
+			<h5 class="bold clearfix">Accessing And Updating Personal Information</h5><h5>
+			<p>When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.</p>
+			</h5><h5 class="bold clearfix">Information Security</h5>
+			<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. </p>
+			<p>All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. </p>
+			<p>However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. </p>
+			<p>We may disclose to third party services certain personally identifiable information listed below:</p>
+			<p>-- information you provide us such as name, email, mobile phone numbers</p>
+			<p>-- information we collect as you access and use our service, including device information, location and network carrier</p>
+			<p>This information is shared with third party service providers so that we can:</p>
+			<p>-- personalize the app for you </p>
+			<p>-- perform behavioral analytics</p>
+			<p>--provide advertisements about goods and services of interest to you</p>
+			<p>Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to <a href="mailto:info@dineout.co.in">info@dineout.co.in</a> to</p>
+			<p>Mr. Sumit Chatterjee( "Grievance Officer") </p>
+			<h5 class="bold clearfix">Grievance Redressal</h5>
+			<p>Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to.</p>
+			<p>Mr. Ankit Mehrotra (Grievance  Officer)<br>
+			<strong>Times Internet Limited</strong><br>
+			<a href="http://www.dineout.co.in/">www.dineout.co.in</a></p>
+			<p>
+			Times Internet Limited<br>
+			Plot No. 391, Udyog Vihar, Phase – III,<br>
+			Gurgaon – 122016, Haryana, India.<br>
+			Ph : + 91-124-4187000/4518550.
+			</p>
+			<p>We request you to please provide the following information in your complaint:-</p>
+			<div class="bullet-list">
+				<ul>
+					<li>A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.</li>
+					<li>Identification of the copyrighted work claimed to have been infringed.</li>
+					<li>Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.</li>
+					<li>The address, telephone number or e-mail address of the complaining party.</li>
+					<li>A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.</li>
+					<li>A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.</li>
+				</ul>
+			</div>
+
+		</div>
+
+		
+
+	</div>
+</section>
+
+<style type="text/css">.hide{display:none!important}</style>
+<div class="logo-loader hide">
+	<div class="imgDiv">
+		<img src="/img/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
 	</div>
 </div>
+	<footer class="footer">
+		<div class="container">
+				<div class="col-md-2 col-sm-2 left">
+					<a href="/"><img src="/img/dineout-logo.png" width="100" alt="Dineout" title="Dineout"></a>
+					<div class="mobile-apps">
+						<h4 class="footer-title"><a href="#">Mobile Apps</a></h4>
+						<a href="https://play.google.com/store/apps/details?id=com.dineout.book&amp;hl=en"><i class="fa fa-android"></i></a>
+						<a href="https://itunes.apple.com/in/app/dineout/id779442711"><i class="fa fa-apple"></i></a>
+					</div>
+				</div>
 
-<div class="bg_grey row">
-	<div class="container mrgn_btm20">
-    	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 bg_white pd_top15 pd_bot15">
-                <p>Times Internet Limited, ("TIL") is a wholly owned subsidiary of Bennett Coleman &amp; Co. Limited and powers / manages the website <a href="http://www.dineout.co.in/">www.dineout.co.in</a> </p>
-                <p>TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).</p>
-                <p>By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.</p>
-                <p>
-                  </p><h5 class="bold clearfix">USER INFORMATION </h5>
-                  To avail certain sites / services on our websites, users are required to provide certain information for the registration process that may include but not limited to  :- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.<p></p>
-                  <p>All required information is service dependent and TIL may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services</p>
-                  <p>Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.</p>
-            
-                  <p>
-                  	</p><h5 class="bold clearfix">COOKIES</h5>
-                    To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a user identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
-                  <p></p>
-                  <p>Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. </p>
-                  <p>
-                  	</p><h5 class="bold clearfix">LINK TO THIRD PARTY SITES</h5>
-                    TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.<p></p>
-                    <p>When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.</p>
-                  <p>
-                    </p><h5 class="bold clearfix">INFORMATION SHARING</h5>
-                    TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
-                  <p></p>
-                  <p>
-                    <strong>a)</strong> When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations. </p>
-                  <p><strong>b)</strong>TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</p>
-                  <p><strong>ACCESSING AND UPDATING PERSONAL INFORMATION</strong><br>
-                    When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
-                  </p>
-                  <p>
-                  	</p><h5 class="bold clearfix">INFORMATION SECURITY</h5>
-                    We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. 
-                  <p></p>
-                  <p>All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. </p>
-                  <p>However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. </p>
-                  <p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to <a href="mailto:info@dineout.co.in">info@dineout.co.in</a> to </p>
-                  <p>Mr. Ankit Mehrotra( "Grievance Officer") </p>
-                  <p>
-                    </p><h5 class="bold clearfix">Grievance Redressal</h5>
-                    Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to .
-                  <p></p>
-                  <p>Mr. Ankit Mehrotra (Grievance  Officer)</p>
-                  <p><strong>Times Internet Limited</strong></p>
-                  <p><a href="http://www.dineout.co.in/">www.dineout.co.in</a></p>
-                  <p>
-                    Times Internet Limited<br>
-                    Plot No. 391, Udyog Vihar, Phase – III,<br>
-                    Gurgaon – 122016, Haryana, India.<br>
-                    Ph : + 91-124-4187000/4518550.
-                  </p>
-                  <p>We request you to please provide the following information in your complaint:-</p>
-                  <ul>
-                    <li>A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.</li>
-                    <li>Identification of the copyrighted work claimed to have been infringed.</li>
-                    <li>Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.</li>
-                    <li>The address, telephone number or e-mail address of the complaining party.</li>
-                    <li>A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.</li>
-                    <li>A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.</li>
-                  </ul>
-            </div>
-        </div>
+				<div class="col-md-10 col-sm-10">
+
+					<div class="best-restnts">
+						<span class="footer-title">Find Best Restaurants in:</span> <a href="/delhi">Delhi</a> | <a href="/mumbai">Mumbai</a> | <a href="/bangalore">Bangalore</a> | <a href="/chennai">Chennai</a> | <a href="/hyderabad">Hyderabad</a> | <a href="/pune">Pune</a> | <a href="/kolkata">Kolkata</a> | <a href="/ahmedabad">Ahmedabad</a>
+					</div>
+
+					<div class="best-restnts">
+						<span class="footer-title">Check out the winners:</span><a href="/delhi/times-food-and-nightlife-awards-2017">Times Food &amp; Nightlife Awards 2017</a>
+					</div>
+					
+						<div class="row">
+							<div class="col-md-6 col-sm-6">
+								
+									<div class="row">
+										<div class="col-md-4 col-sm-4">
+											<h4 class="footer-title">Top Cuisines</h4>
+											<ul>
+												
+													<li><a href="/delhi-restaurants/chinese-cuisine">Chinese</a></li>
+												
+													<li><a href="/delhi-restaurants/italian-cuisine">Italian</a></li>
+												
+													<li><a href="/delhi-restaurants/south-indian-cuisine">South Indian</a></li>
+												
+													<li><a href="/delhi-restaurants/mexican-cuisine">Mexican</a></li>
+												
+													<li><a href="/delhi-restaurants/bengali-cuisine">Bengali</a></li>
+												
+													<li><a href="/delhi-restaurants/thai-cuisine">Thai</a></li>
+												
+											</ul>
+										</div>
+										<div class="col-md-4 col-sm-4">
+											<h4 class="footer-title">Top Facilities</h4>
+											<ul>
+												
+													<li><a href="/delhi-restaurants/romantic">Romantic</a></li>
+												
+													<li><a href="/delhi-restaurants/fine-dining">Fine Dining</a></li>
+												
+													<li><a href="/delhi-restaurants/buffet">Buffet</a></li>
+												
+													<li><a href="/delhi-restaurants/5-star">5 Star</a></li>
+												
+													<li><a href="/delhi-restaurants/pure-veg">Pure Veg</a></li>
+												
+													<li><a href="/delhi-restaurants/roof-top">Roof Top</a></li>
+												
+											</ul>
+										</div>
+										<div class="col-md-4 col-sm-4">
+											<h4 class="footer-title">Top Locations</h4>
+											<ul>
+												
+													<li><a href="/delhi-restaurants/west-delhi/rajouri-garden">Rajouri Garden</a></li>
+												
+													<li><a href="/delhi-restaurants/south-delhi/hauz-khas-village">Hauz Khas Village</a></li>
+												
+													<li><a href="/delhi-restaurants/gurgaon/dlf-cyber-city">DLF Cyber City</a></li>
+												
+													<li><a href="/delhi-restaurants/central-delhi/connaught-place">Connaught Place</a></li>
+												
+													<li><a href="/delhi-restaurants/central-delhi/khan-market">Khan Market</a></li>
+												
+													<li><a href="/delhi-restaurants/west-delhi/dwarka">Dwarka</a></li>
+												
+											</ul>
+										</div>
+									</div>
+								
+							</div>
+							<div class="col-md-6 col-sm-6 right">
+								<h4 class="footer-title">Contact us</h4>
+								<div class="number">
+									+91-9212340202
+								</div>
+								<div class="social">
+									<h4 class="footer-title">Social Media</h4>
+									<a href="https://www.facebook.com/dineout.co.in"><i class="fa fa-facebook"></i></a>
+									<a href="https://twitter.com/dineout_india"><i class="fa fa-twitter"></i></a>
+									
+									<a href="https://plus.google.com/116810274670702117044?prsrc=3"><i class="fa fa-google-plus"></i></a>
+									
+								</div>
+								<div class="other-links">
+									<a href="https://www.dineout.co.in/add-your-restaurant">Add Restaurant</a>  |  <a href="https://www.dineout.co.in/event_info">Add Event</a>  |  <a href="https://www.dineout.co.in/blog">Blog</a>  |  <a href="https://www.dineout.co.in/termsandconditions">Terms &amp; Conditions</a>  |  
+									<a href="https://www.dineout.co.in/privacy-policy">Privacy Policy</a>
+	                			</div>
+							</div>
+						</div>
+					
+				</div>
+
+			</div>
+		</footer>
+		<script type="text/javascript">function open_login(e,a){$("#login-drawer").addClass("in"),$("body").addClass("overflow-h"),$(".menuBox").removeClass("go-show"),e&&(success_login_callback.succesCallBack=e),a&&"object"==typeof a&&(eventData=a)}function open_login_redirect(e,a){$("#login-drawer").addClass("in"),$("body").addClass("overflow-h"),$(".menuBox").removeClass("go-show"),e&&(after_login_success_rediect=e,success_login_callback.succesCallBack=redirect_login),a&&"object"==typeof a&&(eventData=a)}function login(e,a,t){var n=document.getElementById("input").value,o=document.getElementById(a).value;if(""==o.trim()){loader_ajax_hide();var s="#"+t;$(s).html("Password can not be blank!!")}else $.ajax({type:"POST",dataType:"json",url:"/new-login",data:{username:n,password:o},success:function(n){if(loader_ajax_hide(),0==n.status){var o=n.error_msg,s="#"+t;$(s).html(o),document.getElementById(a).className="invalid form-control"}else"ontouchstart"in window?$.ajax({type:"POST",dataType:"json",url:"/ajaxPage",data:{},success:function(a){EventsManager&&"undefined"!=typeof EventsManager&&EventsManager.hasOwnProperty("dispatchEvent")&&"function"==typeof EventsManager.dispatchEvent&&EventsManager.dispatchEvent(EventsManager.events.LOGGED_IN,eventData),$("#"+e).find(".clse").click(),success_login_callback.succesCallBack()}}):(EventsManager&&"undefined"!=typeof EventsManager&&EventsManager.hasOwnProperty("dispatchEvent")&&"function"==typeof EventsManager.dispatchEvent&&EventsManager.dispatchEvent(EventsManager.events.LOGGED_IN,eventData),$("#login-drawer").removeClass("in"),$("body").removeClass("overflow-h"),$(".menuBox").addClass("go-show"),success_login_callback.succesCallBack())},done:function(){loader_ajax_hide();var e="#"+t;$(e).html("passowrd can not be blank")}})}function resset_password(){var e=document.getElementById("resset_password").value,a=document.getElementById("resset_comfirm_password").value,t=document.getElementById("resset_otp_id").value,n=document.getElementById("resset_otp").value;$.ajax({type:"POST",dataType:"json",url:"/reset_password",data:{new_password:e,confirm_password:a,otp_id:t,otp:n},success:function(e){if(loader_ajax_hide(),0==e.status){var a=e.error_msg;$("#resset_error").html(a)}else{var t=e.output_params.data.msg;showWrap($("#validateBox")),hideWrap($("#ressetBox")),$("#resset_Text").html(t)}}})}function signup(){var e=document.getElementById("sign_name").value,a=document.getElementById("sign_email").value,t=document.getElementById("sign_phone").value,n=document.getElementById("sign_password").value,o=document.getElementById("sign_comfirm_password").value;$.ajax({type:"POST",dataType:"json",url:"/user_signup",data:{name:e,email:a,phone:t,password:n,confirm_password:o},success:function(e){if(loader_ajax_hide(),0==e.status){var a=e.error_msg;$("#sign_errormsg").html(a)}else{var t=e.output_params.data.msg,n=e.output_params.data.phone,o=e.output_params.data.type,s=e.output_params.data.email,r=e.output_params.data.otp_id,i=e.output_params.success_msg;"login"==o&&""==n&&""!=s?(hideWrap($("#signupBox")),showWrap($("#validateBox")),document.getElementById("input").value=s,$("#resset_Text").html(i)):"login"==o&&""!=n&&""==s?(hideWrap($("#signupBox")),showWrap($("#validateBox")),document.getElementById("input").value=n,$("#resset_Text").html(i)):(showWrap($("#otp_verify")),hideWrap($("#signupBox")),countdown_signup(0,30),$("#Phone_sign_Text").html(n),$("#otp_sign_msg").html(t),document.getElementById("sign_otp_id").value=r,document.getElementById("globalInput").value=n)}}})}function validate_login(){var e=document.getElementById("input").value;document.getElementById("globalInput").value=e,$("#login_errormsg").html(""),$.ajax({type:"POST",dataType:"json",url:"/validate_user_account",data:{input:e},success:function(e){if(loader_ajax_hide(),0==e.status){var a=e.error_msg;$("#login_errormsg").html(a)}else{var t=e.output_params.data.type,n=e.output_params.data.phone,o=e.output_params.data.email;"login"==t&&""==n&&""!=o&&(hideWrap($("#validateBox")),showWrap($("#login_email_screen")),$("#emailText").html(o)),"login"==t&&""==o&&""!=n&&(hideWrap($("#validateBox")),showWrap($("#login_phone_screen"))),"create_account"==t&&(hideWrap($("#validateBox")),showWrap($("#signupBox")),$("#sign_email").prop("readonly",!1),$("#sign_email").prop("readonly",!1),""!=o&&(document.getElementById("sign_email").value=o,$("#sign_email").prop("readonly",!0)),""!=n&&(document.getElementById("sign_phone").value=n,$("#sign_phone").prop("readonly",!0)))}},done:function(){loader_ajax_hide(),$("#login_errormsg").html("Something went wrong. Please try again!!")}})}function hideWrap(e){$(e).removeClass("current-wrap").removeClass("next-wrap").addClass("prev-wrap")}function showWrap(e){$(e).removeClass("prev-wrap").removeClass("next-wrap").addClass("current-wrap")}function addValueInText(e,a,t,n){var o=document.getElementById("globalInput").value;$(e).html(o),document.getElementById("otp").value="",$.ajax({type:"POST",dataType:"json",url:"/send_otp_to_diner",data:{input:o,type:a},success:function(e){if(loader_ajax_hide(),1==e.status)"login"==a&&(document.getElementById("otp_id").value=e.output_params.data.otp_id,$("#otperrormsg").html(e.output_params.data.msg)),"signup"==a&&(document.getElementById("sign_otp_id").value=e.output_params.data.otp_id,$("#otp_sign_msg").html(e.output_params.data.msg)),"reset_password"==a&&(hideWrap($("#login_email_screen")),hideWrap($("#login_phone_screen")),showWrap($("#ressetBox")),document.getElementById("resset_otp_id").value=e.output_params.data.otp_id,$("#otp_sign_msg").html(e.output_params.data.msg)),t&&"function"==typeof n&&n(0,30);else{var o=void 0===e.error_msg?"Some Error in Sending OTP":e.error_msg;"login"==a&&$("#otperrormsg").html(o)}}})}function otp_verify(e){if($("#otp_sign_msg").removeClass("error_msg"),"login_via_otp_screen"==e)var a=$("#login_via_otp_screen").find("#otp").val(),t=$("#login_via_otp_screen").find("#otp_id").val();if("otp_verify"==e)var a=document.getElementById("verification_code").value,t=document.getElementById("sign_otp_id").value;""==a.trim()?("login_via_otp_screen"==e&&(loader_ajax_hide(),$("#otperrormsg").html("OTP can not be blank!!")),"otp_verify"==e&&(loader_ajax_hide(),$("#otp_sign_msg").html("OTP can not be blank!!"),$("#otp_sign_msg").addClass("error_msg"))):t?$.ajax({type:"POST",dataType:"json",url:"/otp-login",data:{otp_id:t,otp:a},success:function(a){if(loader_ajax_hide(),0==a.status){var t=a.error_msg;"otp_verify"==e&&($("#otp_sign_msg").html(t),$("#otp_sign_msg").addClass("error_msg")),"login_via_otp_screen"==e&&$("#otperrormsg").html(t)}else $.ajax({type:"POST",dataType:"json",url:"/ajaxPage",data:{},success:function(e){$("#header").html($(e).html()),window.location.reload(),success_login_callback.succesCallBack()}})}}):loader_ajax_hide()}function countdown(e,a){var t=60*e+a,n=setInterval(function(){var e=$("span.js-countdown-span");if($("#countdown_data").hasClass("hide")&&($("#countdown_data").removeClass("hide"),$("#resend-otp").addClass("hide")),0==t)return clearInterval(n),$("#countdown_data").addClass("hide"),void $("#resend-otp").removeClass("hide");var a=Math.floor(t/60);a<10&&(a="0"+a);var o=t%60;o<10&&(o="0"+o);var s=a+":"+o;e.html(s),t--},1e3)}function loader_ajax(e){$("#login-drawer .loading").removeClass("hide")}function loader_ajax_hide(){$("#login-drawer .loading").addClass("hide")}function countdown_signup(e,a){var t=60*e+a,n=setInterval(function(){var e=$("span.js-countdownsignup-span");if($("#countdown_signupdata").hasClass("hide")&&($("#countdown_signupdata").removeClass("hide"),$("#verify-otp").addClass("hide")),0==t)return clearInterval(n),$("#countdown_signupdata").addClass("hide"),void $("#verify-otp").removeClass("hide");var a=Math.floor(t/60);a<10&&(a="0"+a);var o=t%60;o<10&&(o="0"+o);var s=a+":"+o;e.html(s),t--},1e3)}function validateBox_valid(){if(""==document.getElementById("input").value.trim())return $("#login_errormsg").html("Please Enter Email/Mobile No"),!1}var no_function=function(){},after_login_success_rediect="",redirect_login=function(){""!=after_login_success_rediect&&(window.location.href=after_login_success_rediect)},eventData={},success_login_callback={succesCallBack:no_function};bindReady(function(){$("input").bind("keyup",function(e){13==e.keyCode&&(e.preventDefault(),"input"==e.target.id?$("#valid_continue").click():"phonepassword"==e.target.id?$("#log_ph_screen").click():"otp"==e.target.id?$("#login_via_otp_continue").click():"emailpassword"==e.target.id?$("#login_email_continue").click():"sign_comfirm_password"==e.target.id?$("#signup_continue").click():"resset_otp"==e.target.id?$("#reset_continue").click():"verification_code"==e.target.id&&$("#otp_verify_continue").click())})})</script>
+ <input type="hidden" name="input" id="globalInput" value="">
+<div class="login-wrapper form-elements-wrap" id="login-drawer">
+	<div class="container">
+
+		<div class="loginBox current-wrap" id="validateBox">
+			<div class="close-sign clse" onclick="window.location.reload()"></div>
+			<h3 class="head-title marginB0"><strong><span>Log In / Sign Up</span></strong></h3>
+			<div class="input-field input-wrapper no-icon-wrapper marginB10 marginT20">
+			
+		        <input type="text" data-error="wrong" placeholder="Enter your Mobile no / Email id" class="form-control validate va_cont" name="username" autocomplete="off" id="input" value="">
+		        <label for="username" class="">Mobile No / Email Id</label>
+		        <div id="login_errormsg" class="error-msg"></div>
+		    </div>
+		    <div id="resset_Text" class="fs12 txt-green"></div>
+		    <button id="valid_continue" class="btn btn-default btn-block btn-small waves-effect waves-light marginB0" onclick="loader_ajax(&quot;validateBox&quot;),validateBox_valid(),validate_login(),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Continue&quot;,&quot;Login_Screen1&quot;)">Continue</button>
+		    <div class="or">
+	            <h3 class="head-title">Or login via</h3>
+	            <div class="clear"></div>
+	            <a href="/auth/facebook" class="pull-left fb btn btn-default btn-block waves-effect waves-light" onclick="sendGAEvent(&quot;New_Login_Flow&quot;,&quot;FacebookLogin&quot;,&quot;Login_Screen1&quot;)"><i class="fa fa-facebook"></i> Facebook</a>
+	            <a href="/auth/google" class="pull-right gp btn btn-default btn-block waves-effect waves-light" onclick="sendGAEvent(&quot;New_Login_Flow&quot;,&quot;GoogleLogin&quot;,&quot;Login_Screen1&quot;)"><i class="fa fa-google-plus"></i> Google Plus</a>
+	        </div>
+	        
+		</div>
+
+		<div class="loginBox next-wrap" id="login_phone_screen">
+			
+			<div class="close-sign clse" onclick="window.location.reload()"></div>
+			<h3 class="head-title marginB0"><strong><span>Log In</span></strong></h3>
+			<div class="input-field input-wrapper no-icon-wrapper marginB5 marginT20">
+		        <input type="password" data-error="wrong" placeholder="Enter your Password" class="validate form-control" name="password" autocomplete="off" id="phonepassword">
+		        <label for="password" class="">Password</label>
+		    </div>
+		    <div id="errorphonemsg" class="error-msg"></div>
+		    <div class="text-right marginB10">
+		    	<a onclick="addValueInText(&quot;blank&quot;,&quot;reset_password&quot;,!1,null),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Reset_Password&quot;,&quot;Enter_Password_Mobile&quot;)" class="txt-grey fs12">Reset Password?</a>
+		    </div>
+		    <button id="log_ph_screen" class="btn btn-default btn-block btn-small waves-effect waves-light marginB0" onclick="loader_ajax(&quot;login_phone_screen&quot;),login(&quot;login_phone_screen&quot;,&quot;phonepassword&quot;,&quot;errorphonemsg&quot;),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Log_In&quot;,&quot;Enter_Password_Mobile&quot;)">Login</button>
+		    <div class="or">
+	            <h3 class="head-title marginB0">Or</h3>
+	        </div>
+
+	        <button class="btn btn-default btn-block btn-small btn-o waves-effect waves-light marginB0" onclick="loader_ajax(&quot;login_phone_screen&quot;),addValueInText(&quot;#PhoneText&quot;,&quot;login&quot;,!0,countdown),showWrap($(&quot;#login_via_otp_screen&quot;)),hideWrap($(&quot;#login_phone_screen&quot;))">Login via OTP</button>
+
+	        
+
+		</div>
+
+		<div class="loginBox next-wrap" id="login_via_otp_screen">
+		 <input type="hidden" name="otp_id" id="otp_id" value="">
+			
+			<div class="close-sign clse" onclick="window.location.reload()"></div>
+			<h3 class="head-title"><strong><span>Log In </span></strong></h3>
+			<p class="marginT20"><strong><span id="PhoneText"></span></strong></p>
+			<div class="input-field input-wrapper no-icon-wrapper marginB5">
+		        <input type="text" data-error="wrong" placeholder="Enter the OTP sent to your mobile no" class="validate form-control" name="otp" id="otp" autocomplete="off">
+		        <label for="otp" class="">OTP</label>
+		    </div>
+		     <div id="otperrormsg" class="fs12 txt-green"></div>
+		    <div class="text-right marginB10">
+		    <span class="txt-link js-countdown-span" id="countdown_data"></span>
+	    	<a id="resend-otp" onclick="loader_ajax(&quot;login_via_otp_screen&quot;),addValueInText(&quot;#PhoneText&quot;,&quot;login&quot;),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Resend_OTP&quot;,&quot;Login_via_OTP&quot;,!0,countdown)" class="txt-grey fs12 hide">Resend OTP </a>
+		    </div>
+		    <button id="login_via_otp_continue" class="btn btn-default marginB10 btn-block btn-o btn-small waves-effect waves-light" onclick="loader_ajax(&quot;login_via_otp_screen&quot;),otp_verify(&quot;login_via_otp_screen&quot;)">Login</button>
+
+		    
+		    
+		</div>
+
+		<div class="loginBox next-wrap" id="login_email_screen">
+			
+			<div class="close-sign clse" onclick="window.location.reload()"></div>
+			<h3 class="head-title"><strong><span>Log In</span></strong></h3>
+			<p class="marginT20"><strong><span id="emailText"></span></strong></p>
+			<div class="input-field input-wrapper no-icon-wrapper marginB5">
+		        <input type="password" data-error="wrong" id="emailpassword" placeholder="Enter the password" class="validate form-control" name="email-password" autocomplete="off">
+		        <label for="email-password" class="">Password</label>
+		    </div>
+		     <div id="errormsg" class="error-msg"></div>
+		    <div class="text-right marginB10">
+		    	<a onclick="loader_ajax(&quot;login_email_screen&quot;),addValueInText(&quot;blank&quot;,&quot;reset_password&quot;,!1,null)" class="txt-grey fs12">Reset Password</a>
+		    </div>
+		    <button id="login_email_continue" class="btn btn-default btn-block btn-o btn-small waves-effect waves-light" onclick="loader_ajax(&quot;login_email_screen&quot;),login(&quot;login_email_screen&quot;,&quot;emailpassword&quot;,&quot;errormsg&quot;)">Login</button>
+		    
+		</div>
+
+		<div class="loginBox next-wrap" id="signupBox">
+		
+		<div class="close-sign clse" onclick="window.location.reload()"></div>
+			<h3 class="head-title"><strong><span>Sign Up</span></strong></h3>
+			<div class="input-field input-wrapper no-icon-wrapper marginB20 marginT20">
+		        <input type="text" data-error="wrong" placeholder="Enter your full name" class="validate form-control" name="name" id="sign_name" autocomplete="off" value=" ">
+		        <label for="name" class="">Name</label>
+		    </div>
+		    <div class="input-field input-wrapper no-icon-wrapper marginB20">
+		        <input type="text" data-error="wrong" placeholder="Enter your email ID" class="validate form-control" name="email" id="sign_email" autocomplete="off" value="">
+		        <label for="email" class="">Email</label>
+		    </div>
+		    <div class="input-field input-wrapper no-icon-wrapper marginB5">
+		        <input type="text" data-error="wrong" placeholder="Enter your phone number" class="validate form-control" name="phone" id="sign_phone" autocomplete="off" value="">
+		        <label for="phone" class="">Phone Number</label>
+		    </div>
+		    <p class="fs12 txt-grey marginB20">Your mobile number will be verified in next step</p>
+		    <div id="sign_errormsg" class="error-msg"></div>
+		    <div class="input-field input-wrapper no-icon-wrapper marginB20">
+		        <input type="password" data-error="wrong" placeholder="Enter password" class="validate form-control" name="sign_password" id="sign_password" autocomplete="off">
+		        <label for="password" class="">Password</label>
+		    </div>
+		       <div class="input-field input-wrapper no-icon-wrapper marginB20">
+		        <input type="password" data-error="wrong" placeholder="Confirm password" class="validate form-control" name="sign_comfirm_password" id="sign_comfirm_password" autocomplete="off">
+		        <div class="fs12 marginT10">Password must contain at least 6 characters including an Uppercase and a Number</div>
+		        <label for="password" class="">Comfirm Password</label>
+		    </div>
+		    <button id="signup_continue" class="btn btn-default btn-block btn-o btn-small waves-effect waves-light marginT0" onclick="loader_ajax(&quot;signupBox&quot;),signup(),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Sign_Up&quot;,&quot;Create_Account&quot;)">Sign Up</button>
+		    
+		</div>
+		<div class="loginBox next-wrap" id="ressetBox">
+			
+			<div class="close-sign clse" onclick="window.location.reload()"></div>
+			 <input type="hidden" name="resset_otp_id" id="resset_otp_id" value="">
+			<h3 class="head-title"><strong><span>Reset Password</span></strong></h3>
+			  		    
+		    <div class="input-field input-wrapper no-icon-wrapper marginB20">
+		        <input type="password" data-error="wrong" placeholder="Enter password" class="validate form-control" name="resset_password" id="resset_password" autocomplete="off">
+		        <label for="password" class="">Password</label>
+		        <div class="fs12 marginT10">Password must contain at least 6 characters including an Uppercase and a Number</div>
+		    </div>
+		    
+		       <div class="input-field input-wrapper no-icon-wrapper marginB20">
+		        <input type="password" data-error="wrong" placeholder="Confirm password" class="validate form-control" name="resset_comfirm_password" id="resset_comfirm_password" autocomplete="off">
+		        <label for="password" class="">Confirm Password</label>
+		    </div>
+		    <div id="resset_errormsg" class="error-msg"></div>
+		    <div class="input-field input-wrapper no-icon-wrapper marginB5">
+		        <input type="text" data-error="wrong" placeholder="Enter your OTP" class="validate form-control" name="otp" id="resset_otp" autocomplete="off">
+		        <label for="otp" class="">Otp</label>
+		    </div>
+		    <span id="resset_error" class="fs12 txt-green"> </span>
+		    <button id="reset_continue" class="btn btn-default btn-block btn-small waves-effect waves-light marginT0" onclick="loader_ajax(&quot;ressetBox&quot;),resset_password(),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Reset_Password&quot;,&quot;Reset_Password&quot;)">Continue</button>
+		    
+		</div>
+		<div class="loginBox next-wrap" id="otp_verify">
+		<input type="hidden" name="sign_otp_id" id="sign_otp_id" value="">
+			
+			<div class="close-sign clse" onclick="window.location.reload()"></div>
+			<h3 class="head-title"><strong><span>Verify mobile number</span></strong></h3>
+			<p class="marginT20"><strong><span id="Phone_sign_Text"></span></strong></p>
+
+			<div class="input-field input-wrapper no-icon-wrapper marginB5">
+		        <input type="text" data-error="wrong" placeholder="Enter the OTP sent to your mobile no" class="validate form-control" id="verification_code" name="verification-code" autocomplete="off">
+		        <label for="verification_code" class="">Verification Code</label>
+		    </div>
+		    <div id="otp_sign_msg" class="fs12 txt-green"></div>
+		    <div class="text-right marginB10">
+		    <span class="txt-link js-countdownsignup-span" id="countdown_signupdata"></span>
+	    	<a id="verify-otp" onclick="loader_ajax(&quot;otp_verify&quot;),addValueInText(&quot;#Phone_sign_Text&quot;,&quot;signup&quot;,!0,countdown_signup),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Resend&quot;,&quot;Create_Account&quot;)" class="txt-grey fs12 hide">Resend OTP </a>
+		    	
+		    </div>
+		    <button id="otp_verify_continue" class="btn btn-default btn-block btn-o btn-small waves-effect waves-light" onclick="loader_ajax(&quot;otp_verify&quot;),otp_verify(&quot;otp_verify&quot;),sendGAEvent(&quot;New_Login_Flow&quot;,&quot;Verify&quot;,&quot;Create_Account&quot;)">Continue</button>
+		    
+		    
+		</div>
+
+		<div class="loginBox next-wrap">
+			<div class="close-sign clse"></div>
+			<h3 class="head-title"><strong><span>Verify email address</span></strong></h3>
+			<p class="marginT20">Email <strong>abc.xyz@dineout.co.in</strong></p>
+			<div class="input-field input-wrapper no-icon-wrapper marginB5">
+		        <input type="text" data-error="wrong" placeholder="Enter the verification code sent to your email ID" class="validate form-control" name="email-password" autocomplete="off">
+		        <label for="email-password" class="">Verification Code</label>
+		    </div>
+		    <div class="text-right marginB10">
+		    	<a href="#" class="txt-grey fs12">Resend code in <span class="txt-link">10(s)</span></a>
+		    </div>
+		    <button class="btn btn-default btn-block btn-o btn-small waves-effect waves-light">Continue</button>
+		    <p class="text-center fs12 txt-grey">One Time Verification code has been sent to your email, Please enter it here to verify your email.</p>
+		    
+		</div>
+
+	</div>
+
+	<div class="loading hide">
+    	<img src="/img/preloader.gif">
     </div>
 </div>
+		<a href="#" class="scrollup"><i class="fa fa-angle-up"></i></a>
 
-
-
-</section>
-<section class="web_footer">
-<footer>
-    <div class="footer row" style="background:#000">
-    	<div class="container">
-        	<div class="row clearfix relative footer_main">
-            
-            	<div class="col-lg-2 col-md-2 col-sm-2 white mrgn_btm20">
-                	<a class="dineout_logo block" href="http://www.dineout.co.in/"><img src="http://st2.dineout-cdn.co.in/images/images/new_web_img/dineout_logo.png" width="100" alt="Dineout" title="Dineout"></a>
-                    
-                </div>
-                        <div class="col-lg-10 col-md-10 col-sm-10 white mrgn_top20 mrgn_btm20 city_bot">
-                    Find Best Restaurants in:
-                    
-                       <a href="http://www.dineout.co.in/delhi">Delhi</a> | <a href="http://www.dineout.co.in/mumbai">Mumbai</a> | <a href="http://www.dineout.co.in/bangalore">Bangalore</a> | <a href="http://www.dineout.co.in/chennai">Chennai</a> | <a href="http://www.dineout.co.in/hyderabad">Hyderabad</a> | <a href="http://www.dineout.co.in/pune">Pune</a> | <a href="http://www.dineout.co.in/kolkata">Kolkata</a> | <a href="http://www.dineout.co.in/ahmedabad">Ahmedabad</a>                </div>
-                            
-                <div class="col-lg-2 col-md-2 col-sm-2 footer_popular">
-
-                        
-                   
-                </div>
-            	
-                
-                <div class="col-lg-2 col-md-2 col-sm-2 footer_popular">
-
-                	<div class="clearfix mrgn_btm10 font14">Top Cuisines</div>
-                        <a href="http://www.dineout.co.in/kolkata-restaurants/chinese-cuisine">Chinese</a><a href="http://www.dineout.co.in/kolkata-restaurants/bengali-cuisine">Bengali</a><a href="http://www.dineout.co.in/kolkata-restaurants/italian-cuisine">Italian</a><a href="http://www.dineout.co.in/kolkata-restaurants/south-indian-cuisine">South Indian</a><a href="http://www.dineout.co.in/kolkata-restaurants/continental-cuisine">Continental</a><a href="http://www.dineout.co.in/kolkata-restaurants/mughlai-cuisine">Mughlai</a>                   
-                </div>
-                
-                <div class="col-lg-2 col-md-2 col-sm-2 footer_popular">
-                	<div class="clearfix mrgn_btm10 font14">Top Facilities</div>
-                        <a onclick="ga(send, Top facilities web, Romantic, click, Romantic);" href="http://www.dineout.co.in/kolkata-restaurants/romantic">Romantic</a><a onclick="ga(send, Top facilities web, Buffet, click, Buffet);" href="http://www.dineout.co.in/kolkata-restaurants/buffet">Buffet</a><a onclick="ga(send, Top facilities web, Pure Veg, click, Pure Veg);" href="http://www.dineout.co.in/kolkata-restaurants/pure-veg">Pure Veg</a><a onclick="ga(send, Top facilities web, 5 Star, click, 5 Star);" href="http://www.dineout.co.in/kolkata-restaurants/5-star">5 Star</a><a onclick="ga(send, Top facilities web, Fine Dining, click, Fine Dining);" href="http://www.dineout.co.in/kolkata-restaurants/fine-dining">Fine Dining</a><a onclick="ga(send, Top facilities web, Seafood, click, Seafood);" href="http://www.dineout.co.in/kolkata-restaurants/seafood">Seafood</a>                   
-
-                </div>
-                <div class="col-lg-2 col-md-2 col-sm-2 footer_popular">
-                	<div class="clearfix mrgn_btm10 font14">Top Locations</div>
-                        <a href="http://www.dineout.co.in/kolkata-restaurants/east-kolkata/salt-lake">Salt Lake</a><a href="http://www.dineout.co.in/kolkata-restaurants/north-kolkata/mg-road">MG Road</a><a href="http://www.dineout.co.in/kolkata-restaurants/south-kolkata/park-street">Park Street</a><a href="http://www.dineout.co.in/kolkata-restaurants/south-kolkata/gariahat">Gariahat</a><a href="http://www.dineout.co.in/kolkata-restaurants/south-kolkata/behala">Behala</a><a href="http://www.dineout.co.in/kolkata-restaurants/central-kolkata/chandni-chowk">Chandni Chowk</a>                   
-
-                </div>
-                    
-                 
-                
-                <div class="col-lg-4 col-md-4 col-sm-4 text-right">
-                	<div class="clearfix mrgn_btm10 font14">For reservations call</div>
-                    <div class="footer_cntct mrgn_btm20">+91-9212340202</div>
-                    <div class="clearfix">
-                    	<div class="clearfix font16 mrgn_btm10">Social Media</div>
-                        <a href="https://www.facebook.com/dineout.co.in" target="_blank" class="scl_icon facebook"></a>
-                        <a href="https://twitter.com/dineout_india" target="_blank" class="scl_icon twitter"></a>
-                        <a href="http://www.linkedin.com/company/2513789" target="_blank" class="scl_icon linked_in"></a>
-                        <a href="https://plus.google.com/116810274670702117044?prsrc=3" target="_blank" class="scl_icon google_plus"></a>
-                        <a href="https://pinterest.com/dineoutindia/" target="_blank" class="scl_icon pinterest"></a>
-                        
-                    </div>
-                </div>
-                
-                <div class="footer_btm_left">
-
-                    	<div class="clearfix font16 mrgn_btm10"><a href="http://www.dineout.co.in/restaurant-table-booking-app" target="_blank">Mobile Apps</a></div>
-                        <a href="https://play.google.com/store/apps/details?id=com.dineout.book&amp;hl=en" target="_blank" class="app_icon android"></a>
-                        <a href="https://itunes.apple.com/in/app/dineout/id779442711" target="_blank" class="app_icon apple"></a>
-
-                </div>
-                
-                <div class="footer_btm_right">
-                    	<a href="http://www.dineout.co.in/add-your-restaurant">Add Restaurant</a>  |  <a href="http://www.dineout.co.in/blog">Blog</a>  |  <a href="http://www.dineout.co.in/termsandconditions">Terms &amp; Conditions</a>  |  
-                        <a href="http://www.dineout.co.in/privacy-policy">Privacy Policy</a>
-                        <!--  |  Home  |  About Us  |  Contact Us  |  Media-->
-                </div>
-                
-                
-                
-            </div>
-        </div>
-    </div>
-</footer>
-</section>
-
-<!--START | Mobile Footer-->
-<section class="mob_footer">
-	<footer>
-    	<div class="footer row">
-    		<div class="container">
-        		<div class="clearfix pd_bot10">
-                    <a href="http://www.dineout.co.in/?site=d">Desktop View</a> | 
-                    <a href="http://www.dineout.co.in/termsandconditions">Terms &amp; Conditions</a> | 
-                    <a href="http://www.dineout.co.in/privacy-policy">Privacy Policy</a> | 
-                    <a target="_blank" href="" style="white-space: nowrap">Get the Apps</a> | 
-                    <a href="http://www.dineout.co.in/careers" style="white-space: nowrap">Careers</a>
-                </div>
+	    
+	    
+	    
+           <script type="text/javascript" src="https://mobp.dineout.co.in/js/jquery-b8035b8a94.min.js"></script>
+		    <script type="text/javascript" src="https://mobp.dineout.co.in/js/bootstrap-fb613417cd.min.js"></script>
+		    <script type="text/javascript" src="https://mobp.dineout.co.in/js/photoswipe-b47a24fc0c.min.js"></script>
+		    <script type="text/javascript" src="https://mobp4.dineout.co.in/js/photoswipe-ui-default-7c31dd01c0.min.js"></script>
+		    <script type="text/javascript" src="https://mobp.dineout.co.in/js/slick-17e331f34d.min.js"></script>
+		    <script type="text/javascript" src="https://mobp3.dineout.co.in/js/eventManager-467a8dfa86.js"></script>
+		    <script type="text/javascript" src="https://mobp.dineout.co.in/js/CommonUtils-dd6d0537e9.js"></script>
         
-                <div class="clearfix">
-                    <!--<div class="clearfix ttl">Social Media</div>-->
-                    <a target="_blank" href="https://www.facebook.com/dineout.co.in">Facebook</a> | 
-                    <a target="_blank" href="https://twitter.com/dineout_india">Twitter</a> | 
-                    <a target="_blank" href="http://www.linkedin.com/company/2513789">LinkedIn</a> | 
-                    <a target="_blank" href="https://plus.google.com/116810274670702117044?prsrc=3">Google+</a> | 
-                    <a target="_blank" href="https://pinterest.com/dineoutindia/">Pinterest</a>
-                </div>
-            </div>
-        </div>
-    </footer>
-</section>
-<!--END | Mobile Footer-->
 
-</div><!--EDN | main fluid container --- start is in header-->
+		<script type="text/javascript">bindReady(function(){$(".slider-for").slick({slidesToShow:1,slidesToScroll:1,arrows:!1,infinite:!1,asNavFor:".slider-nav",lazyLoad:"ondemand"}),$(".slider-nav").slick({slidesToShow:5,slidesToScroll:1,asNavFor:".slider-for",centerMode:!1,focusOnSelect:!0,prevArrow:'<button type="button" class="slick-prev"><i class="fa fa-angle-left"></i></button>',nextArrow:'<button type="button" class="slick-next"><i class="fa fa-angle-right"></i></button>'})})</script>
 
-
-<!-- loading div starts --->
-
-
-<div class="loading_wrap" style="display:none;" id="loading_div">
-        <div class="overlay_bg"></div>
-	<div class="load_img">
-    	<img src="http://st4.dineout-cdn.co.in/images/images/new_images_mobile/list_loading.gif" title="loading" alt="Loading...">
-    </div>
-</div>
-
-<div class="loading_wrap" style="display:none;" id="small_loading">
-        <div class="overlay_bg"></div>
-	<div class="load_img">
-    	<img src="http://st1.dineout-cdn.co.in/images/images/new_images_mobile/list_loading.gif" title="loading" alt="Loading...">
-    </div>
-</div>
-
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="http://st2.dineout-cdn.co.in/build/a5625959/bootstrap/js/bootstrap.min.js"></script>
-<script src="http://st1.dineout-cdn.co.in/build/a5625959/js/global/owl.carousel.js"></script>
-	<script>
-	//Slider for Review Section
-	var owl = $('.owl-carousel');
-        
-        owl.owlCarousel({
-		items:2,
-		loop:true,
-		margin:10,
-		autoplay:true,
-		autoplayTimeout:3000,
-		autoplayHoverPause:true,
-                slideBy :3,
-	});
+		<script type="text/javascript">function showMoreLessContentToggle(){var t="Read more <i class='fa fa-angle-double-right'></i>";$(".more").each(function(){var e=$(this).html();if(e.length>220){var i=e.substr(0,220)+'<span class="moreellipses">...&nbsp;</span><span class="morecontent"><span>'+e.substr(220,e.length-220)+'</span>&nbsp;&nbsp;<a href="" class="morelink">'+t+"</a></span>";$(this).html(i)}}),$(".morelink").click(function(){return $(this).hasClass("less")?($(this).removeClass("less"),$(this).html(t)):($(this).addClass("less"),$(this).html("Read less")),$(this).parent().prev().toggle(),$(this).prev().toggle(),!1})}!function(){!function(t){for(var e=function(t){for(var t,e,i,n,o=t.childNodes,s=o.length,a=[],r=0;r<s;r++)if(1===(t=o[r]).nodeType){e=t.children,i=t.getAttribute("data-size").split("x"),(n={src:t.getAttribute("href"),w:parseInt(i[0],10),h:parseInt(i[1],10),author:t.getAttribute("data-author")}).el=t,e.length>0&&(n.msrc=e[0].getAttribute("src"),e.length>1&&(n.title=e[1].innerHTML));var l=t.getAttribute("data-med");l&&(i=t.getAttribute("data-med-size").split("x"),n.m={src:l,w:parseInt(i[0],10),h:parseInt(i[1],10)}),n.o={src:n.src,w:n.w,h:n.h},a.push(n)}return a},i=function t(e,i){return e&&(i(e)?e:t(e.parentNode,i))},n=function(t){(t=t||window.event).preventDefault?t.preventDefault():t.returnValue=!1;var e=t.target||t.srcElement,n=i(e,function(t){return"A"===t.tagName});if(n){for(var s,a=n.parentNode,r=n.parentNode.childNodes,l=r.length,c=0,d=0;d<l;d++)if(1===r[d].nodeType){if(r[d]===n){s=c;break}c++}return s>=0&&o(s,a),!1}},o=function(t,i,n,o){var s,a,r,l=document.querySelectorAll(".pswp")[0];if(r=e(i),a={galleryUID:i.getAttribute("data-pswp-uid"),getThumbBoundsFn:function(t){var e=r[t].el.children[0],i=window.pageYOffset||document.documentElement.scrollTop,n=e.getBoundingClientRect();return{x:n.left,y:n.top+i,w:n.width}},addCaptionHTMLFn:function(t,e,i){return t.title?(e.children[0].innerHTML=t.title+"<br/><small>Photo: "+t.author+"</small>",!0):(e.children[0].innerText="",!1)}},o)if(a.galleryPIDs){for(var c=0;c<r.length;c++)if(r[c].pid==t){a.index=c;break}}else a.index=parseInt(t,10)-1;else a.index=parseInt(t,10);if(!isNaN(a.index)){for(var d=document.getElementsByName("gallery-style"),f=0,h=d.length;f<h;f++)if(d[f].checked){"radio-all-controls"==d[f].id||"radio-minimal-black"==d[f].id&&(a.mainClass="pswp--minimal--dark",a.barsSize={top:0,bottom:0},a.captionEl=!1,a.fullscreenEl=!1,a.shareEl=!1,a.bgOpacity=.85,a.tapToClose=!0,a.tapToToggleControls=!1);break}n&&(a.showAnimationDuration=0);var u,p,g=!1,m=!0;(s=new PhotoSwipe(l,PhotoSwipeUI_Default,r,a)).listen("beforeResize",function(){var t=window.devicePixelRatio?window.devicePixelRatio:1;t=Math.min(t,2.5),(u=s.viewportSize.x*t)>=1200||!s.likelyTouchDevice&&u>800||screen.width>1200?g||(g=!0,p=!0):g&&(g=!1,p=!0),p&&!m&&s.invalidateCurrItems(),m&&(m=!1),p=!1}),s.listen("gettingData",function(t,e){g?(e.src=e.o.src,e.w=e.o.w,e.h=e.o.h):(e.src=e.m.src,e.w=e.m.w,e.h=e.m.h)}),s.init()}},s=document.querySelectorAll(t),a=0,r=s.length;a<r;a++)s[a].setAttribute("data-pswp-uid",a+1),s[a].onclick=n;var l=function(){var t=window.location.hash.substring(1),e={};if(t.length<5)return e;for(var i=t.split("&"),n=0;n<i.length;n++)if(i[n]){var o=i[n].split("=");o.length<2||(e[o[0]]=o[1])}return e.gid&&(e.gid=parseInt(e.gid,10)),e}();l.pid&&l.gid&&o(l.pid,s[l.gid-1],!0,!0)}(".demo-gallery")}();var openPhotoSwipe=function(t){"string"==typeof t&&(t=JSON.parse(t));var e=document.querySelectorAll(".pswp")[0],i={history:!1,focus:!1,showAnimationDuration:0,hideAnimationDuration:0};new PhotoSwipe(e,PhotoSwipeUI_Default,t,i).init()};$("#tabs a").click(function(t){t.preventDefault(),$(this).tab("show")}),$(function(){var t=$(".detail-menu");$(window).scroll(function(){$(window).scrollTop()<=58?t.removeClass("show-it"):t.addClass("show-it")})}),$(function(){$(".panel-affix").length&&$(".panel-affix").each(function(){var t=$(this).offset().top,e=$(document).height()-($(this).offset().top+$(this).outerHeight()),i=$(document).height()-$("#address-panel").offset().top+($(this).outerHeight()-$(this).height());e-i>80&&($(this).css("width",$(this).width()).css("top",0).css("position",""),$(this).affix({offset:{top:t-59,bottom:i}}).on("affix.bs.affix",function(){$(this).css("top","-153px").css("position","")})),$(window).trigger("scroll")})}),$("body").scrollspy({offset:80});var sections=$(".detailBox section"),nav=$(".detail-menu"),nav_height=nav.outerHeight();$(window).on("scroll",function(){var t=$(this).scrollTop();sections.each(function(){var e=$(this).offset().top-nav_height-1,i=e+$(this).outerHeight();t>=e&&t<=i&&(nav.find("a").removeClass("active"),sections.removeClass("active"),$(this).addClass("active"),nav.find('a[href="#'+$(this).attr("id")+'"]').addClass("active"))})}),nav.find("a").on("click",function(){var t=$(this).attr("href");return $("html, body").animate({scrollTop:$(t).offset().top-nav_height},500),!1}),$(function(){$('[data-toggle="tooltip"]').tooltip("show"),$(".toggle-link").attr("aria-expanded","true").addClass("active")}),$("#more-info").click(function(){return $("#offer-info").addClass("in"),!1}),$("#offer-info .close").click(function(){return $("#offer-info").removeClass("in"),!1}),$("#more-info-modal").click(function(){return $("#offer-info-modal").addClass("in"),!1}),$("#offer-info-modal .close").click(function(){return $("#offer-info-modal").removeClass("in"),!1}),$(window).scroll(function(){$(this).scrollTop()>100?$(".scrollup").fadeIn():$(".scrollup").fadeOut()}),$(".scrollup").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$("#restaurants-slider").slick({speed:300,slidesToShow:3,slidesToScroll:1,autoplay:!0,autoplaySpeed:2e3,arrows:!1,responsive:[{breakpoint:1024,settings:{slidesToShow:2}},{breakpoint:600,settings:{slidesToShow:2}},{breakpoint:480,settings:{slidesToShow:1}}]}),$(".quantity").on("click",function(){var t=$(this);t.closest(".d-quantity").find("input.quntity-input").val(function(e,i){return+i+1*+t.data("multi")})})</script>
 	
-	$('.play').on('click',function(){
-		owl.trigger('autoplay.play.owl',[1000])
-	})
-	$('.stop').on('click',function(){
-		owl.trigger('autoplay.stop.owl')
-	})
+		<script src="https://static.clmbtech.com/ase/11637/730/aa.js" type="text/javascript" async=""></script>
 	
-        var carousel_length =   $( ".owl-carousel2 .item" ).length;
-        if(carousel_length>1)
-        {
-            $('.owl-carousel2').owlCarousel({
-                items:1,
-                navigation : true, // Show next and prev buttons
-                slideSpeed : 300,
-                loop:true,
-                paginationSpeed : 400,
-                autoplay:true,
-                singleItem:true,
-                nav: true,
-                navText: [ '<', '>' ]
-            });
-        }
-	//Slider for Review Section
-	$('.owl-carousel1').owlCarousel({
-		loop:true,
-		margin:10,
-		responsiveClass:true,
-		mouseDrag:false,/*Stoping carousel1*/
-		touchDrag:false,/*Stoping carousel1*/
-		responsive:{
-			0:{
-				items:1,
-				nav:true
-			},
-			600:{
-				items:3,
-				nav:false
-			},
-			1000:{
-				items:4,
-				nav:true,
-				loop:false
-			}
-		}
-	})
-    </script>
-  
-  
-  <!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript"> 
+	<style type="text/css">iframe[name=google_conversion_frame]{display:none!important}</style>
+<script type="text/javascript">var google_conversion_id=964022250,google_custom_params=window.google_tag_params,google_remarketing_only=!0</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style=display:inline>
+	<img height=0 width=0 style=border-style:none alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964022250/?guid=ON&amp;script=0">
+	</div>
+</noscript>
+	
 
-/* <![CDATA[ */ 
-
-var google_conversion_id = 964022250; 
-
-var google_custom_params = window.google_tag_params; 
-
-var google_remarketing_only = true; 
-
-/* ]]> */ 
-
-</script> 
-
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> 
-
-</script> 
-
-<noscript> 
-
-<div style="display:inline;"> 
-
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964022250/?value=0&amp;guid=ON&amp;script=0"/> 
-
-</div> 
-
-</noscript> 
-
-
-<!-- Google Code for Remarketing Tag ends-->
-
-<!--FAcebook code Starts-->
-<!--
-  <script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '231786857011362']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=231786857011362&amp;ev=NoScript" /></noscript>
--->
- <!--FAcebook code Ends-->
-<!-- Click tracking code ends-->
-<!-- start: lotame tracker-->
-<script src="http://tags.crwdcntrl.net/c/8865/cc_af.js"></script>
-<!-- end: lotame tracker-->
-
-
-<!-- start: remarketing -->
-
-<script>(function() { 
-
-var _fbq = window._fbq || (window._fbq = []); 
-
-if (!_fbq.loaded) { 
-
-var fbds = document.createElement('script'); 
-
-fbds.async = true; 
-
-fbds.src = '//connect.facebook.net/en_US/fbds.js'; 
-
-var s = document.getElementsByTagName('script')[0]; 
-
-s.parentNode.insertBefore(fbds, s); 
-
-_fbq.loaded = true; 
-
-} 
-
-_fbq.push(['addPixelId', '596761190430600']); 
-
-})(); 
-
-window._fbq = window._fbq || []; 
-
-window._fbq.push(['track', 'PixelInitialized', {}]); 
-
-</script> 
-
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=596761190430600&amp;ev=PixelInitialized" /></noscript> 
-<!-- end: remarketing -->
-
-<!-- hello bar popup -->
-<!--script src="//my.hellobar.com/a62e5814becf2343b2e957a136b3beeb37d58ed8.js" type="text/javascript" charset="utf-8" async="async"></script -->
-<!-- hello bar popup end -->
-
-<script type="text/javascript" src="http://st4.dineout-cdn.co.in/build/a5625959/js/global/ch_tracker.min.js"></script>
-<!--click tracking code ends-->
-<!-- adding Gamooga script -->
-<script type="text/javascript">
-    var _taq = {"id":"836634f2-5f90-4ef8-990a-d5440c7565b8","events":[],"identify":[],"property":[], "handlers":[]};
-    (function() {
-        var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true; ta.id = "__ta";
-        ta.src = '//cdn-jp.gsecondscreen.com/static/tac.min.js';
-        var fs = document.getElementsByTagName('script')[0]; fs.parentNode.insertBefore(ta, fs);
-    })();
-</script>
-<!-- End of adding Gamooga script -->
- 
-<script type="text/javascript">
-$('#otp_modal').modal('show');
-
-</script> 
- <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1526324a91","applicationID":"12073012","transactionName":"NlVUYRZTCEcFAUZbXg8fd1YQWwlaSzVFRW4XAhlFFlsQVQcbbUJeDVlVTA==","queueTime":0,"applicationTime":125,"atts":"GhJXF15JG0k=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-    
 </body></html>
