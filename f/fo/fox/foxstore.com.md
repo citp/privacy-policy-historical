@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331113324id_/https%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726043913id_/https%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Table of Contents: 
 
 Twentieth Century Fox Home Entertainment LLC (“Fox” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox Services”). By using Fox Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [www.21cf.com](http://www.21cf.com/). 
 
-As set forth in our [Terms of Use](http://www.foxprivacy.com/us/terms.html), the Fox Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
+As set forth in our [Terms of Use](https://www.foxconnect.com/terms_of_use), the Fox Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
 This Privacy Policy applies to all users, including both those who use the Fox Services without being registered with or subscribing to a Fox Service and those who have registered with or subscribed to a Fox Service. This Privacy Policy applies to Fox’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox’s practices for handling non-personal information (for example, interests, demographics and services usage). 
 
