@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmatchdoctor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchdoctor.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ Third parties, such as Google AdSense, our main advertising network, may place a
 
 "A 'cookie' is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies." 
 
-Our site's registration form requires users to give us contact information such as email address and date of birth; also, optional information such as demographic information like their zip code, age, or income level. We use customer contact information from the registration form to send the user communications from our web site. We do not share customer contact information with third parties, unless the user authorizes us to. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data are also collected at our site. We use this data for other purposes including: tailoring the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We may also use the date to display relevant ads to the user. You always have the right to opt-out. Please [contact us](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/contactUs.aspx) if you have any problems at all opting-out or if you fear your email address was abused. Note that your private information may be given out in response to any police-type investigation, subpoena, or other request pending a lawsuit, legal action or billing inquiry. 
+Our site's registration form requires users to give us contact information such as email address and date of birth; also, optional information such as demographic information like their zip code, age, or income level. We use customer contact information from the registration form to send the user communications from our web site. We do not share customer contact information with third parties, unless the user authorizes us to. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data are also collected at our site. We use this data for other purposes including: tailoring the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We may also use the date to display relevant ads to the user. You always have the right to opt-out. Please [contact us](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/contactUs.aspx) if you have any problems at all opting-out or if you fear your email address was abused. Note that your private information may be given out in response to any police-type investigation, subpoena, or other request pending a lawsuit, legal action or billing inquiry. 
 
 Your profile on Matchdoctor.com will not contain your name, email address, IP address, real world address (but will display city), or password. It may reveal other information about you that you chose to display. Be sure to view your own profile to make sure you are only displaying the information you desire to be displayed. 
 
@@ -34,18 +34,18 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for canceling their profile and to not receive future communications or to no longer receive our service. 
 
-  * You can change your mail preferences by signing into [your settings](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/mySettings.aspx?page=1).
-  * To stop all emails and cancel your account as well, [click here](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/cancelAccount.aspx).
+  * You can change your mail preferences by signing into [your settings](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/mySettings.aspx?page=1).
+  * To stop all emails and cancel your account as well, [click here](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/cancelAccount.aspx).
 
 
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  * Visit your profile details page by [clicking here](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/myProfile.aspx).
-  * LAST OPTION: Submit a [support ticket](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/contactUs.aspx).
+  * Visit your profile details page by [clicking here](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/myProfile.aspx).
+  * LAST OPTION: Submit a [support ticket](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/contactUs.aspx).
 
 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](https://web.archive.org/web/20170606005337id_/http%3A//www.matchdoctor.com/contactUs.aspx). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](https://web.archive.org/web/20170727013016id_/http%3A//www.matchdoctor.com/contactUs.aspx). 
