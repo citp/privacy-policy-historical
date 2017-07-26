@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408034326id_/https%3A//justkidcostumes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726093805id_/https%3A//justkidcostumes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Just Kid Costumes
 
