@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the hjnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005434id_/http%3A//news.hjnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hjnews.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726233257id_/https%3A//news.hjnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | news.hjnews.com
+
+#### BREAKING
+
+[ ](http://news.hjnews.com/allaccess/attempted-police-stop-leads-to-fiery-crash-fatality-near-wellsville/article_851befa3-fd3f-5d08-92de-d63ac189241e.html)
 
 _Effective date December 17, 2010_
 
@@ -65,25 +69,25 @@ Sign up today, or manage your subscriptions, to one of our great newsletters:
 
 
 
-  * Jun 6
+  * Jul 27
 
-__ Tue, Jun 6, 2017 @ 9:00 am 
+__ Thu, Jul 27, 2017 @ 9:00 am 
 
-  * Jun 6
+  * Jul 27
 
-__ Tue, Jun 6, 2017 @ 10:00 am 
+__ Thu, Jul 27, 2017 @ 11:00 am 
 
-  * Jun 6
+  * Jul 27
 
-__ Tue, Jun 6, 2017 @ 11:00 am 
+__ Thu, Jul 27, 2017 @ 11:00 am 
 
-  * Jun 6
+  * Jul 28
 
-__ Tue, Jun 6, 2017 @ 4:30 pm 
+__ Fri, Jul 28, 2017 @ 8:00 am 
 
-  * Jun 6
+  * Jul 28
 
-__ Tue, Jun 6, 2017 @ 5:20 pm 
+__ Fri, Jul 28, 2017 @ 9:00 am 
 
 
 
