@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the katalon.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120234204id_/https%3A//katalon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katalon.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727004317id_/https%3A//katalon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Katalon Studio
 
 **KATALON SITE PRIVACY POLICY**
 
-This Privacy Policy only governs information you provide to KMS Technology, Inc. (“we” or “us”) via [www.katalon.com](http://www.katalon.com/) (the “Site”) and does not govern other Web sites or any other data collection, disclosure or usage practices, off-line or otherwise.
+This Privacy Policy only governs information you provide to KMS Technology, Inc. (“we” or “us”) via [www.katalon.com](https://www.katalon.com/) (the “Site”) and does not govern other Web sites or any other data collection, disclosure or usage practices, off-line or otherwise.
 
 Effective date: August 1, 2016
 
