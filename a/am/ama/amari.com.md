@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amari.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182723id_/http%3A//www.amari.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amari.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726114434id_/https%3A//www.amari.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement for Amari.com. Site security, information collected, cookies etc. Amari Hotels and Resorts
 
