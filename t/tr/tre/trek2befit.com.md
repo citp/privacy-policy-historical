@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trek2befit.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429143421id_/http%3A//trek2befit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trek2befit.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726223354id_/http%3A//trek2befit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
