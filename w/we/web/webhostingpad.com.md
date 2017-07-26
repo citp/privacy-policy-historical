@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626053619id_/http%3A//www.webhostingpad.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726130838id_/https%3A//www.webhostingpad.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WebHostingPad
 
@@ -47,7 +47,7 @@ WebHostingPad may occasionally use cookies to temporarily record your data so th
 
   8. **Domain Privacy**
 
-In certain cases, to comply with ICANN policy, the information you provided during the registration process for a domain will be made publicly available through a WHOIS search. WebHostingPad is not responsible for any communications received through use of public WHOIS records to attain your information. You may purchase Domain Privacy to prevent or remove your information from the public WHOIS database. For more information regarding Domain Privacy, see WebHostingPad’s [Domain Registration Terms](https://web.archive.org/web/20170626053619id_/http%3A//www.webhostingpad.com/domain-registration-terms.html). 
+In certain cases, to comply with ICANN policy, the information you provided during the registration process for a domain will be made publicly available through a WHOIS search. WebHostingPad is not responsible for any communications received through use of public WHOIS records to attain your information. You may purchase Domain Privacy to prevent or remove your information from the public WHOIS database. For more information regarding Domain Privacy, see WebHostingPad’s [Domain Registration Terms](https://web.archive.org/web/20170726130838id_/https%3A//www.webhostingpad.com/domain-registration-terms.html). 
 
 
 
