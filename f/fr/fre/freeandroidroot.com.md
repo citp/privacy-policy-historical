@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeandroidroot.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610103513id_/http%3A//freeandroidroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeandroidroot.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726071537id_/https%3A//freeandroidroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Android Root
 
