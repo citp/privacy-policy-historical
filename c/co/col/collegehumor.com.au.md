@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegehumor.com.au privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528011835id_/http%3A//www.collegehumor.com.au/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehumor.com.au privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728012919id_/http%3A//www.collegehumor.com.au/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CollegeHumor Australia
 
