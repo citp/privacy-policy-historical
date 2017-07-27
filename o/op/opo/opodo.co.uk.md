@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627041607id_/http%3A//www.opodo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728003636id_/https%3A//www.opodo.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Opodo
 
@@ -204,23 +204,11 @@ Compass by Opodo is not available for Multiple Destinations
 
 Compass by Opodo is not available for Flight + Hotel 
 
-adults
+adults (12+) G Passengers 12 years old or over. 
 
-(12+) G
+children (2-11) G Maximum of 2 children per adult. 
 
-Passengers 12 years old or over. 
-
-children
-
-(2-11) G
-
-Maximum of 2 children per adult. 
-
-infants
-
-G
-
-Passengers under 2 years old during the whole trip. 
+infants G Passengers under 2 years old during the whole trip. 
 
   * ì
 
@@ -251,13 +239,19 @@ New!
 
 
 
-Up to 30%* off your hotel when you book now! 
+éUp to 30%* off your hotel when you book now! 
 
-7We offer huge discounts when a hotel and flights are booked together. 
+Looking for different dates or destinations?
+
+Change hotel search 
+
+Hotel destination 
 
 Location
 
 Distance from city centre: 
+
+. 
 
 We are updating the results 
 
