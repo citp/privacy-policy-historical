@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2createawebsite.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616171824id_/http%3A//blog.2createawebsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2createawebsite.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727123106id_/http%3A//blog.2createawebsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
