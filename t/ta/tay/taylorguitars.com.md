@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taylorguitars.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330131812id_/https%3A//www.taylorguitars.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorguitars.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727061959id_/https%3A//www.taylorguitars.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taylor Guitars
 
-Revised May 11, 2016
+Revised June 6, 2017
 
-Your information privacy is extremely important to us.  We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the Taylor Guitars website (“Site”) and any Taylor Guitars mobile application, any RSS feed or application programming interface (API) made available by Taylor Guitars, and any other service offered by Taylor Guitars such as chat and telephone based customer service interactions (“Services”).  This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information (defined below).  This Privacy Policy applies to all users of the Site and Services.  The Site and Services are provided by Taylor-Listug, Inc. dba Taylor Guitars (“Company” “we” “our” “us”).
+Your information privacy is extremely important to us.  We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the Taylor Guitars website (“Site”) and any Taylor Guitars mobile application, any RSS feed or application programming interface (API) made available by Taylor Guitars, and any other service offered by Taylor Guitars such as chat, telephone based customer service interactions, and online training. (“Services”).  This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information (defined below).  This Privacy Policy applies to all users of the Site and Services.  The Site and Services are provided by Taylor-Listug, Inc. dba Taylor Guitars (“Company” “we” “our” “us”).
 
 BY USING THE SITE OR SERVICES, YOU ARE CONSENTING TO THIS PRIVACY POLICY.  PLEASE READ IT CAREFULLY. 
 
@@ -28,7 +28,7 @@ We use cookies (a small text file placed on your computer to identify your compu
 
 We collect device-specific information (such as your unique device identifiers).  We may associate your device identifiers with your account.
 
-We contract with third party analytics services such as Google Analytics and Flurry on the Site and Services to collect Usage Data, to analyze how users use the Site and Services, and to provide advertisements to you on other websites.  For more information about how to opt out of having your information used by Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.  For more information about how to opt out of having your information used by Flurry, visit  <http://www.flurry.com/legal-privacy/end-user-opt-out>.
+We contract with third party analytics services such as Google Analytics, Flurry and TV Page on the Site and Services to collect Usage Data, to analyze how users use the Site and Services, and to provide advertisements to you on other websites.  For more information about how to opt out of having your information used by Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.  For more information about how to opt out of having your information used by Flurry, visit <https://developer.yahoo.com/flurry/end-user-opt-out/>.
 
 3\. How We Use Information and When We May Share and Disclose Information Generally
 
@@ -40,7 +40,7 @@ By using the Site or the Services you may make parts of your Personal Informatio
 
 5\. Service Providers
 
-From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours (“Service Providers”).  For example, we may contract with Service Providers to provide certain services, such as development, customer service calls (web-based chat, telephone, e-mail), hosting and maintenance, data storage and management, shipping product and publications, advertising, marketing, surveys and promotions.  We only provide our Service Providers with the information necessary for them to perform these services on our behalf.  Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use, or disclosure.  Service Providers are prohibited from using Personal Information other than as specified by us.
+From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours (“Service Providers”).  For example, we may contract with Service Providers to provide certain services, such as development, customer service calls (web-based chat, telephone, e-mail), hosting and maintenance, data storage and management, shipping product and publications, advertising, marketing, surveys and promotions, and online training.  We only provide our Service Providers with the information necessary for them to perform these services on our behalf.  Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use, or disclosure.  Service Providers are prohibited from using Personal Information other than as specified by us.
 
 6\. Advertising and Online Tracking
 
@@ -48,7 +48,7 @@ We may allow third-party companies to collect certain anonymous information when
 
 7\. Notice to California Residents/Your California Privacy Rights
 
-To opt out of sharing your Personal Information with third parties for their direct marketing purposes, please e-mail us at [insider@taylorguitars.com](mailto:insider@taylorguitars.com) and clearly state your request, including your name, mailing address, e-mail address and phone number.  Please see Section 1 (Managing Your Information Preferences) above for additional information.
+To opt out of sharing your Personal Information with third parties for their direct marketing purposes, please e-mail us at insider@taylorguitars.com and clearly state your request, including your name, mailing address, e-mail address and phone number.  Please see Section 1 (Managing Your Information Preferences) above for additional information.
 
 8\. Other Transfers
 
@@ -72,7 +72,7 @@ Our Site and Services may contain links to and from other websites or allow you 
 
 13\. Children’s Privacy
 
-The Site and Services are intended for users who are 13 years old or older.  We do not knowingly collect Personal Information from children under the age of 13.  If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.  California users under the age of 18 may request the removal of their content or information publically posted on the Site or Services by e-mailing us at [insider@taylorguitars.com](mailto:insider@taylorguitars.com). Please note that most of the user content that appears on our Site or Services is stored and controlled by third party providers; thus, complete and comprehensive removal of the content may not be possible.
+The Site and Services are intended for users who are 13 years old or older.  We do not knowingly collect Personal Information from children under the age of 13.  If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.  California users under the age of 18 may request the removal of their content or information publically posted on the Site or Services by e-mailing us at insider@taylorguitars.com. Please note that most of the user content that appears on our Site or Services is stored and controlled by third party providers; thus, complete and comprehensive removal of the content may not be possible.
 
 14\. Processing in the United States and Other Countries 
 
@@ -82,4 +82,4 @@ Please be aware that your Personal Information and communications may be transfe
 
 We may change this Privacy Policy from time to time.  If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site.  Those changes will go into effect on the “Revised” date shown in the revised Privacy Policy.  By continuing to use the Site or Services, you are consenting to the revised Privacy Policy.
 
-PLEASE PRINT A COPY OF THIS PRIVACY POLICY FOR YOUR RECORDS AND PLEASE CHECK THE SITE FREQUENTLY FOR ANY CHANGES.
+Please print a copy of this privacy policy for youR records and PLEASE check the Site frequently for any changes.
