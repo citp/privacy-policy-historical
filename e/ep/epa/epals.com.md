@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211150654id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727085256id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cricket Media
 
@@ -15,7 +15,7 @@ This privacy policy addresses the online privacy practices of Cricket Media, Inc
 The cricketmedia.com site includes an e-commerce section at [shop.cricketmedia.com](http://shop.cricketmedia.com/) for conducting sales of Cricket magazine subscriptions and products to customers 18 years of age or older, where customer accounts may be established. This e-commerce section is intended for use by visitors 18 years of age or older. By ordering a Product from at [shop.cricketmedia.com](http://shop.cricketmedia.com/), a customer is representing himself or herself as 18 years of age or older.  
  
 
-This Privacy Policy explains how Cricket collects and uses information from Users of its websites, products and services, including ePals, Challenges and/or similar contests involving or related to ePals or Cricket’s magazines, and in2Books (collectively, “Services”), and in connection with its sale of Cricket’s magazine subscriptions and related products (collectively “Products”), including our treatment of personally identifiable information.  
+This Privacy Policy explains how Cricket collects and uses information from Users of its websites, products and services, including ePals, Challenges and/or similar contests involving or related to ePals or Cricket’s magazines, and CricketTogether™ (collectively, “Services”), and in connection with its sale of Cricket’s magazine subscriptions and related products (collectively “Products”), including our treatment of personally identifiable information.  
  
 
 If you are not of legal age to form a binding contract (in many jurisdictions, this age is 18), you may only use the Services and disclose information to us with your parent’s (or guardian’s) express consent. Review this Privacy Policy with your parent (or guardian). (We recommend that you do the same with the privacy policies of all websites you visit or mobile applications you use). You may only order Products if you are 18 years of age or older, and have a valid credit card to purchase.  
@@ -36,7 +36,7 @@ If you have questions or concerns regarding the Privacy Policy, you should conta
 
 #### PRIVO-Cert™ Safe Harbor Certification Program
 
-Cricketmedia.com, In2books, the ePals Global Community, the Folklorist Challenge, and the Invent It 2016 Challenge (owned and operated by Cricket Media Inc.) are Members of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Cricket Media Inc. adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Cricket Media Inc. has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (703) 885-3400 or [support@cricketmedia.com](mailto:support@cricketmedia.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
+Cricketmedia.com, CricketTogether™, the ePals Global Community, the Folklorist Challenge, and the Invent It 2016 Challenge (owned and operated by Cricket Media Inc.) are Members of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Cricket Media Inc. adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Cricket Media Inc. has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (703) 885-3400 or [support@cricketmedia.com](mailto:support@cricketmedia.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 #### USERS UNDER THE AGE OF THIRTEEN ARE TREATED DIFFERENTLY:
 
@@ -66,8 +66,9 @@ To provide consent by fax or post, parents should fill out the parental consent 
  
 
 Cricket Media, Inc.  
-13625-A Dulles Technology Drive  
-Herndon, VA 20171 (USA)  
+7926 Jones Branch Drive  
+Suite 870  
+McLean, VA 22102  
 Attn: ePals Consent Form  
  
 
@@ -77,7 +78,7 @@ Teachers may provide consent electronically when creating accounts for their stu
 If we receive consent from a parent, teacher or school administrator, your child’s ePals® membership will be activated.  
  
 
-In2books verifies the teacher who has created the account for the school by receiving written consent from the school principal.  
+CricketTogether™ verifies the teacher who has created the account for the school by receiving written consent from the school principal.  
  
 
 If you are a student under 13, please do not send any personal information about yourself to us unless (and until) you have first obtained consent from your parent, guardian or authorized teacher, and please do not send any personal information other than the limited information we request from you in connection with the Services.  
@@ -112,7 +113,7 @@ We may use non-personally identifiable information (such as cookies and Web surf
  
 
 _Combined Information:_  
-We may collect certain non-personally identifiable information from registered users (such as the member’s favorite pet or favorite book) and match it to personally identifiable information (such as the member’s name) in our database. Such combined information is kept in our internal database under the member’s user name. We do not share such information with third parties, but we may use it for statistical purposes later, such as to say, 25 percent of In2Books® third-graders have goldfish!  
+We may collect certain non-personally identifiable information from registered users (such as the member’s favorite pet or favorite book) and match it to personally identifiable information (such as the member’s name) in our database. Such combined information is kept in our internal database under the member’s user name. We do not share such information with third parties, but we may use it for statistical purposes later, such as to say, 25 percent of CricketTogether™ third-graders have goldfish!  
  
 
 ##### Will Cricket Share My Child’s Personal Information with Third Parties?
@@ -128,7 +129,7 @@ We moderate all user generated content to remove any personally identifiable inf
 Yes, you can. You can review the Child Related Personal Information related to your child by making a request, as described below, at any time. You can also have the Child Related Personal Information related to your child deleted as described below and end authorization for further collection of such information by us. If you wish to view, delete or modify information:
 
   * _For ePals ®_ _:_ Members of ePals can review or edit, any Child Related Personal Information related to their child (such as the child’s name, phone number, email or postal address) by logging in to ePals and going to the preferences or settings page. Parents can also request that a child’s account be deleted at any time by emailing [support@cricketmedia.com](mailto:support@cricketmedia.com).
-  * _For In2Books_ _®_ _:_ Memberscan log into their accounts on [www.In2Books.com](http://www.in2books.com/), click the “Manage Account” button in the navigation bar, and then click on the “Personal Information and Security” link under the My Children column. To protect your student’s personal information, you will be required to enter a user name and password and answer an account security question. For more information, or if you need assistance, send an email to [support@cricketmedia.com](mailto:support@cricketmedia.com).
+  * _For CricketTogether™_ _:_ Memberscan log into their accounts on [www.crickettogether.com](http://www.crickettogether.com/), click the “Manage Account” button in the navigation bar, and then click on the “Personal Information and Security” link under the My Children column. To protect your student’s personal information, you will be required to enter a user name and password and answer an account security question. For more information, or if you need assistance, send an email to [support@cricketmedia.com](mailto:support@cricketmedia.com).
 
 
 
@@ -151,7 +152,7 @@ Our privacy practices for data that we collect online from individuals 13 years 
 
 ##### What Information Do We Collect From Individuals 13 Years Old and Over? What Information Do We Collect from Individuals Ordering Products through [shop.cricketmedia.com](http://shop.cricketmedia.com/)—those individuals 18 Years Old and Over?
 
-##### For all Crickets services or products (i.e., In2Books®, ePals®)
+##### For all Crickets services or products (i.e., CricketTogether™, ePals®)
 
 We may collect personally identifiable and non-personally identifiable information including, but not limited to: first and last name, date of birth, credit card information, security question and answer, nickname, information related to hobbies and preferences, email address, unique login name and password, home street address and/or telephone number, grade level, school name and address, and school telephone number. Teachers who register for ePals® may create and post an online profile, with fields for class- and school-specific information, and brief description of their class (es) for matching purposes. A Teacher can elect to suppress his or her profile so that it does not surface during class-matching (in the Find Classroom area), provided, however, that the profile would be accessible if such teacher asks to join another teacher’s project or submits a project to the Join Project listing.  
  
@@ -203,7 +204,7 @@ If you provide us your email address, we may send you email communications. Web 
 
 ##### Your friend’s email address
 
-If you are a teacher and you provide us with another teacher’s name and email address, we may send that teacher an email inviting him or her to visit the Services. We store this information for the sole purpose of sending such email (and, if applicable, subsequent “reminder” emails) and tracking the success of our referral program. The referred teacher may contact us at [support@cricketmedia.com](mailto:support@cricketmedia.com) to request that we remove this information with regard to ePals and/or in2Books from our database.  
+If you are a teacher and you provide us with another teacher’s name and email address, we may send that teacher an email inviting him or her to visit the Services. We store this information for the sole purpose of sending such email (and, if applicable, subsequent “reminder” emails) and tracking the success of our referral program. The referred teacher may contact us at [support@cricketmedia.com](mailto:support@cricketmedia.com) to request that we remove this information with regard to ePals and/or CricketTogether™ from our database.  
  
 
 ##### Usage Information
@@ -333,7 +334,8 @@ Please let us know if you have any questions or comments regarding our privacy p
  
 
 Cricket Media Legal Department  
-13625-A Dulles Technology Drive  
-Herndon, VA 20171  
+7926 Jones Branch Drive  
+Suite 870  
+McLean, VA 22102  
 Phone: (703) 885-3400  
 [support@cricketmedia.com](mailto:support@cricketmedia.com)
