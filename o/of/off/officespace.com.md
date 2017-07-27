@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officespace.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829234914id_/http%3A//www.officespace.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officespace.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728004607id_/https%3A//www.officespace.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | OfficeSpace.com
 
 The following Privacy Policy governs the online information collection practices of this website (the "Site"). Specifically, it outlines the types of information that OfficeSpace.com, Inc. ("OSI", "we" or "us") gathers about you while you are using the Site and the ways in which this information is used or shared. 
 
