@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005717id_/http%3A//www.cakecentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727093713id_/https%3A//www.cakecentral.com/privacy) for the most accurate reproduction.*
 
 # CakeCentral.com
 
@@ -12,7 +12,7 @@ When you visit our site you may provide us with two types of information: person
 
 ## **No Use of Our Site by Persons Under 13**
 
-No person under 13 should disclose information on this site. You may learn more about protecting children privacy online by visiting [_http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online_](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online)
+No person under 13 should disclose information on this site. You may learn more about protecting children privacy online by visiting [_http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online_](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online)
 
 ## **Active Information You Choose to Provide Cake Central Media Corp. - Contact and Personal Information**
 
@@ -64,7 +64,7 @@ We reserve the right to revise this policy at our discretion. Please check back 
 
 For information about opting out of Gourmet Ads and ad serving partners please visit _<http://www.gourmetads.com/about/privacy-policy>_
 
-_We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,_[ _click here_](http://www.networkadvertising.org/) _._  
+_We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,_[ _click here_](https://www.networkadvertising.org/) _._  
 
 
 ## **Contact Information**
