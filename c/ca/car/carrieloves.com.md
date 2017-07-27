@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrieloves.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527213211id_/http%3A//www.carrieloves.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrieloves.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727160604id_/https%3A//www.carrieloves.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Carrie Loves
+# Privacy Policy | Carrie Loves Design Studio
 
 This Privacy Policy governs the manner in which Carrie Loves collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.carrieloves.com website (“Site”).
 
