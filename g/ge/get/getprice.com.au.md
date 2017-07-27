@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the getprice.com.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608055713id_/http%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprice.com.au privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727091445id_/https%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.*
 
 # Privacy Charter
 
-1.1 | Welcome to the website: [www.getprice.com.au](http://www.getprice.com.au/) (Site) of Next Commerce Pty. Ltd. (we, us or our). We respect the privacy of everyone who uses the Site and we are committed to maintaining the privacy and security of the personal information of all users of the Site.  
+1.1 | Welcome to the website: [www.getprice.com.au](https://www.getprice.com.au/) (Site) of Next Commerce Pty. Ltd. (we, us or our). We respect the privacy of everyone who uses the Site and we are committed to maintaining the privacy and security of the personal information of all users of the Site.  
 1.2 | This Privacy Policy (Policy) in general terms to the collection, storage, disclosure and use of personal information by us, how you may access personal information that we keep or complain about a suspected privacy breach. Please read this Policy before you use the Site.  
 1.3 | The information and services offered by us on, or via, the Site are not directed at anyone under 18 years of age. We do not knowingly solicit or collect personally identifiable information about anyone under 18.  
    
 2 | Your Acceptance  
-2.1 | This Policy applies to and should be read in conjunction with the [Terms and Conditions](http://www.getprice.com.au/terms.htm) which are available on the Site([www.getprice.com.au](http://www.getprice.com.au/)).  
+2.1 | This Policy applies to and should be read in conjunction with the [Terms and Conditions](https://www.getprice.com.au/terms.htm) which are available on the Site([www.getprice.com.au](https://www.getprice.com.au/)).  
 2.2 | By viewing, browsing and using the Site you will be deemed to have understood and agreed to the matters described in this Policy and you agree to abide by the Privacy Policy. If you do not agree with the terms of this Policy, then you should stop accessing and using the Site immediately.  
 2.3 | Further, you should review this Policy regularly, as it may be updated from time to time, at our discretion.  
    
@@ -58,7 +58,7 @@ Third parties that support Next Commerce Pty Ltd by serving advertisements or p
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website. Please note that by blocking any or all cookies you may not have access to certain features, content or personalisation available through www.getprice.com.au.    
   
- 6.3 | If you would like to opt-out of cookie collection, you can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Get Price Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to <http://www.krux.com/krux_privacy/consumer_choice/>.  
+ 6.3 | If you would like to opt-out of cookie collection, you can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Get Price Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [//youronlinechoices.com.au](https://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to [//www.krux.com/krux_privacy/consumer_choice/](https://www.krux.com/krux_privacy/consumer_choice/).  
    
 7 | Security  
 7.1 | We will use our reasonable endeavours to store your personal information securely and to make the Site as secure as possible against unauthorised access. We have implemented technology and policies, with the objective of protecting your privacy from unauthorised access and improper use.  
@@ -86,4 +86,4 @@ Most browsers are initially set to accept cookies, but you can change your setti
 11.2 | If you are concerned about our use of your personal information, or would like to discuss any issues about this Policy, please contact us at [info@nextcommerce.com.au](mailto:info@nextcommerce.com.au) with the subject line, "privacy."  
    
 12 | Further Information On Privacy  
-  | You may obtain further information regarding privacy issues in Australia by visiting the Australian Federal Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/).
+  | You may obtain further information regarding privacy issues in Australia by visiting the Australian Federal Privacy Commissioner’s website at [www.privacy.gov.au](https://www.privacy.gov.au/).
