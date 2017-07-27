@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the rockrecipes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050500id_/http%3A//www.rockrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockrecipes.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727113726id_/https%3A//www.rockrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rock Recipes - Rock Recipes
+# Privacy Policy - Rock Recipes
+
+**AFFILIATE DISCLOSURE**
+
+Rock Recipes a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. Our product recommendations are almost exclusively for those we currently use or have used in the past.
+
+**PRIVACY POLICY**
 
 The privacy of our visitors to rockrecipes.com is important to us.
 
