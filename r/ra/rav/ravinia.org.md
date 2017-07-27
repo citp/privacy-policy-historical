@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ravinia.org privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218152451id_/https%3A//www.ravinia.org/Page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravinia.org privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727061828id_/https%3A//www.ravinia.org/Page/privacy) for the most accurate reproduction.*
 
-# Ravinia Festival - Official Site
+# Ravinia Festival Official Site | Privacy Policy
 
 This Web site is the responsibility of Ravinia Festival Association (“Ravinia”). If you have any questions about this Privacy Policy, please feel free to contact us through our Web site or contact us by mail at 418 Sheridan Road, Highland Park, IL 60035 or by e-mail at webmaster@ravinia.org. The Web server on which this Web site is housed is owned and maintained by Ravinia Festival Association. The following policies apply to www.ravinia.org.
 
