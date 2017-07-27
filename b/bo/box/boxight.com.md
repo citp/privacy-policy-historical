@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxight.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104134105id_/http%3A//boxight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxight.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728001110id_/http%3A//boxight.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Boxight
 
