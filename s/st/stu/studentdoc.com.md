@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204855id_/http%3A//www.studentdoc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoc.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728232153id_/https%3A//www.studentdoc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement for Studentdoc.com
 
