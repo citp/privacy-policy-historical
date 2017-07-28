@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314192002id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728215352id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for CouponSherpa.com
 
 **What information do we collect?**  
-We collect information from you when you register on our site or subscribe to our newsletter. 
+We collect information from you when you register on our site, download our mobile applications or subscribe to our newsletter. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
