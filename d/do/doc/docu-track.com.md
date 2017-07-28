@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117000325id_/https%3A//www.tracker-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728104908id_/https%3A//www.tracker-software.com/privacy) for the most accurate reproduction.*
 
 # Tracker Software Products :: Privacy Policy Statement
 
 This is the web site of **Tracker Software Products (Canada) Ltd** **.**. 
 
-Our postal address is   
+Our postal address is  
 **PO Box 79  
 Chemainus, BC**  
-**V0R 1K0  
-**
+**V0R 1K0**
 
 We can be reached via e-mail at [support@tracker-software.com](mailto:support@tracker-software.com?)  
 or you can reach us by telephone at **1 (250) 324-1621**
