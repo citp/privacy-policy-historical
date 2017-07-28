@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622023014id_/http%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728233149id_/https%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
 
-# E-Learning Development Leaders
+# Privacy Policy - Designing Digitally, Inc.
 
 Custom eLearning, Serious Games, Training Simulations & Mobile Learning Development 
 
