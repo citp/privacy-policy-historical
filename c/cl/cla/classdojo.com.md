@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classdojo.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427102313id_/https%3A//www.classdojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classdojo.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728150914id_/https%3A//www.classdojo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ClassDojo
 
