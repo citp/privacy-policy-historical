@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamamia.com.au privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010235735id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamamia.com.au privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728205720id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mamamia
 
@@ -58,6 +58,8 @@ Some cookies may be associated with Personal Information about You and some may 
 ** We may also obtain information, including Personal Information, from third party sources. This may include soliciting third parties to collect Personal Information on Our behalf. In such cases We instruct those third parties to comply with this Policy.
 
 We may use analytics tools and other third party technologies, to collect non-personally identifiable information in the form of various usage and user metrics when You use Our Sites and/or Services. These third party analytics companies may combine the information collected for Us with other information they have independently collected across their network of websites, products and services. Many of these companies collect and use information under their own privacy policies.
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
 **4\. Security and Integrity**
 
