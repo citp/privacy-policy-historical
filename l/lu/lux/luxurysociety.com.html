@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luxurysociety.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606133037id_/http%3A//luxurysociety.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxurysociety.com privacy policy that was archived on 2017-07-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170728213429id_/https%3A//luxurysociety.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
             <title>Luxury Society</title>
@@ -80,7 +80,7 @@
             <p class="text-uppercase"><strong>Sign in to your Luxury Society account</strong></p>
             
 <form id="form-login" class="form-login form-login-ajax" action="/en/members/login/ajax/" method="POST">
-    <input type="hidden" name="csrfmiddlewaretoken" value="w8zzDzhQUP7QWKqBRYKXrWcQfUDl6JeP">
+    <input type="hidden" name="csrfmiddlewaretoken" value="UVNr2RuxdYw43xhWRFeRKj9sSTYN8TuC">
     <div class="form-group col-centered col-md-10 col-xs-12">
         <input type="text" name="username" class="form-control text-center text-uppercase" placeholder="E-mail" required="" autofocus="">
     </div>
@@ -104,7 +104,7 @@
 
     <div class="col col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="row row-centered">
-            <form id="apply-form" action="/en/members/check-email" class="apply-form" method="POST"><input type="hidden" name="csrfmiddlewaretoken" value="w8zzDzhQUP7QWKqBRYKXrWcQfUDl6JeP">
+            <form id="apply-form" action="/en/members/check-email" class="apply-form" method="POST"><input type="hidden" name="csrfmiddlewaretoken" value="UVNr2RuxdYw43xhWRFeRKj9sSTYN8TuC">
                 <div class="form group col-centered col-md-10 col-xs-12">
                     <p class="text-uppercase text-center"><strong>Not a member yet?</strong></p>
                     <p class="text-center">Luxury Society members are professionals working in the luxury industry. They enjoy exclusive access to insights about the future of luxury. To apply, please enter your e-mail address.</p>
@@ -673,7 +673,7 @@ We have implemented commercially reasonable technical and organizational measure
             <p class="text-uppercase"><strong>Sign in to your Luxury Society account</strong></p>
             
 <form id="form-login" class="form-login form-login-ajax" action="/en/members/login/ajax/" method="POST">
-    <input type="hidden" name="csrfmiddlewaretoken" value="w8zzDzhQUP7QWKqBRYKXrWcQfUDl6JeP">
+    <input type="hidden" name="csrfmiddlewaretoken" value="UVNr2RuxdYw43xhWRFeRKj9sSTYN8TuC">
     <div class="form-group col-centered col-md-10 col-xs-12">
         <input type="text" name="username" class="form-control text-center text-uppercase" placeholder="E-mail" required="" autofocus="">
     </div>
@@ -697,7 +697,7 @@ We have implemented commercially reasonable technical and organizational measure
 
     <div class="col col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="row row-centered">
-            <form id="apply-form" action="/en/members/check-email" class="apply-form" method="POST"><input type="hidden" name="csrfmiddlewaretoken" value="w8zzDzhQUP7QWKqBRYKXrWcQfUDl6JeP">
+            <form id="apply-form" action="/en/members/check-email" class="apply-form" method="POST"><input type="hidden" name="csrfmiddlewaretoken" value="UVNr2RuxdYw43xhWRFeRKj9sSTYN8TuC">
                 <div class="form group col-centered col-md-10 col-xs-12">
                     <p class="text-uppercase text-center"><strong>Not a member yet?</strong></p>
                     <p class="text-center">Luxury Society members are professionals working in the luxury industry. They enjoy exclusive access to insights about the future of luxury. To apply, please enter your e-mail address.</p>
@@ -736,7 +736,7 @@ We have implemented commercially reasonable technical and organizational measure
                 $.ajax({
 		            url: $(form).attr('action'),
 			        method: 'POST',
-			        data: { 'email': $('input[name="email"]', $(form)).val(), csrfmiddlewaretoken: 'w8zzDzhQUP7QWKqBRYKXrWcQfUDl6JeP' },
+			        data: { 'email': $('input[name="email"]', $(form)).val(), csrfmiddlewaretoken: 'UVNr2RuxdYw43xhWRFeRKj9sSTYN8TuC' },
 		        }).done(function(results) {
 		            if(results.error_message) {
 		                $('.apply-help').text('');
@@ -756,7 +756,7 @@ We have implemented commercially reasonable technical and organizational measure
                     url: $(form).attr('action'),
                     method:'POST',
                     dataType: 'json',
-                    data: { 'username': $('input[name="username"]',$(form)).val(), 'password': $('input[name="password"]', $(form)).val(), csrfmiddlewaretoken: 'w8zzDzhQUP7QWKqBRYKXrWcQfUDl6JeP' },
+                    data: { 'username': $('input[name="username"]',$(form)).val(), 'password': $('input[name="password"]', $(form)).val(), csrfmiddlewaretoken: 'UVNr2RuxdYw43xhWRFeRKj9sSTYN8TuC' },
                 }).done(function(results) {
                     if (results.redirect_url) {
                         window.location.replace(results.redirect_url);
