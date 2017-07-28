@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185042id_/https%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728114008id_/https%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | vouchercloud
 
@@ -43,7 +43,7 @@ Your mobile phone information
 When you use the vouchercloud application for the first time, we will receive a unique identifier for your phone if your handset manufacturer or network provide it (UDID). We may also receive your mobile phone number (MISDEN). By downloading the vouchercloud app you are consenting that we may use this information to send you SMS messages or push notifications about our offers. We will not use this information to call you for telemarketing purposes or pass these details to third parties.
 
 Your IDFA/Advertising Identifier  
-We also collect where provided your devices IDFA/Advertising Identifer which is an annonymous ID provided by your operating system. We may pass this annoymised data to a third party partner (unacast.com) for purposes of providing accurate and relevant advertising across various operating systems and devices and to analyse the effectiveness of advertising campaigns. To find out more and how to opt out click here - http://unacast.com/unacast/privacy-statement/.
+We also collect where provided your devices IDFA/Advertising Identifer which is an annonymous ID provided by your operating system. We may pass this anonymised data to a third party partner for purposes of providing accurate and relevant advertising across various operating systems and devices and to analyse the effectiveness of advertising campaigns. Details of how to opt out of IDFA/AAID data sharing can be found on your mobile device operating settings. 
 
 Cookies and similar technologies  
 We use technologies, including Segment.io to gather information regarding your activities whilst you are on our website and application. We also gather information about your general internet use by using a cookie file. A cookie file is a small text file which is automatically downloaded to your computer when you visit our site. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you, by doing things like remembering your password.  
