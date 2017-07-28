@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theglow.com.au privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419024243id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglow.com.au privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728205720id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mamamia
 
