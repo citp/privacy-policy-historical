@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopakira.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907202934id_/http%3A//www.shopakira.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopakira.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728065516id_/https%3A//www.shopakira.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security | ShopAKIRA
+# Privacy & Security
 
 This privacy policy applies to the online commerce services of AKIRA CHICAGO ("AKIRA") at 1430 W. Willow Street, Chicago, IL 60642, USA. This policy is for protection of your information and privacy. AKIRA is committed to protecting your privacy and understands that your personal information is indeed private, and we only use personal information that you provide to help create a more customized shopping experience for you.
 
