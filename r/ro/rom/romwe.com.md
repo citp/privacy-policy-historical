@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630001221id_/http%3A//www.romwe.com/Privacy-Security-Policy-a-488.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728024805id_/http%3A//romwe.com/Privacy-Security-Policy-a-488.html) for the most accurate reproduction.*
 
 # 
 
