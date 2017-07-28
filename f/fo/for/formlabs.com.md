@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211201343id_/https%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728102636id_/https%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Formlabs
+# Privacy Policy | Formlabs
 
-Effective Date – Oct. 15, 2015
+Effective Date – June 10, 2014
 
-Formlabs is committed to protecting your privacy. This Privacy Policy applies to our websites, including [](http://www.formlabs.com/)[www.formlabs.com](http://www.formlabs.com/), our online store, our community forum, and our online, central printing dashboard the “Dashboard” (collectively, the “Websites”). This statement governs our data collection, processing and usage practices. By using the Websites, you consent to the data practices described in this Privacy Policy.
+Formlabs is committed to protecting your privacy. This Privacy Policy applies to our websites that link to it, including [](http://www.formlabs.com/)[www.formlabs.com](http://www.formlabs.com/), and to our online store (collectively, the “Websites”). This statement governs our data collection, processing and usage practices. By using the Websites, you consent to the data practices described in this Privacy Policy.
 
 ### Changes to this Privacy Policy
 
@@ -12,11 +12,11 @@ We may update this Privacy Policy from time-to-time by posting a new version onl
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at [](mailto:legal@formlabs.com)[legal@formlabs.com](mailto:legal@formlabs.com) or by mail to Formlabs, Inc., Formlabs, 35 Medford St., Suite 201, Somerville, MA 02143, Attn: Privacy.
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at [](mailto:support@formlabs.com)[support@formlabs.com](mailto:support@formlabs.com) or by mail to Formlabs, Inc., Formlabs, 35 Medford St., Suite 1, Somerville, MA 02143, Attn: Privacy.
 
 ## Information We Collect
 
-You are free to explore the Websites without providing any personal information about yourself. When you visit the Websites or register for our store, our forums, or the Dashboard, we request that you provide Personal Information about yourself, and we collect Navigational Information.
+You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for our store, we request that you provide Personal Information about yourself, and we collect Navigational Information.
 
 ### Personal Information
 
@@ -28,15 +28,11 @@ You are free to explore the Websites without providing any personal information 
 
 ### Information About Children
 
-The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at [](mailto:legal@formlabs.com)[legal@formlabs.com](mailto:legal@formlabs.com), so that we may delete the information.
+The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at [](mailto:support@formlabs.com)[support@formlabs.com](mailto:support@formlabs.com), so that we may delete the information.
 
 ### Data Collection
 
-During installation, Formlabs software may ask you to opt-in to the collection of diagnostic information regarding your use of Formlabs software or hardware in order to help our engineers improve Formlabs products. If you opt in, you agree that Formlabs may collect, maintain, and use information about the operation of Formlabs hardware and software, such as hardware serial numbers, print times, laser power levels, and 3D model sizes. No models, 3D geometry, or personal information will be collected without your additional and explicit consent.
-
-If you choose to create an online account with the Dashboard or use a printer that has been previously connected to the Dashboard, you agree that Formlabs may collect, maintain, and use information about the operation of Formlabs’ hardware and software, such as hardware serial numbers, print times, laser power levels, resin type and volume, temperature, 3D model size, and other information relevant to printer operation. Further, the Dashboard users agree to share an isometric view of 3D models to be used for preview purposes within the user interface. Full Models, 3D geometry, and personal information will not be collected without your additional and explicit consent. Formlabs may ask you to provide feedback regarding your printing experience. Any responses will also be collected, maintained, and used by Formlabs.
-
-Information collected for and by the Database will be associated with specific printers, identifiable by serial name. Users will access the printer through an encrypted MAC address where they will be prompted to create a username and password. Users who create an account will be able to associate printers with their account using the unique encrypted MAC address of the printer accessible via the printer’s User Interface. Multiple user accounts may be associated with each printer, but each user must have physical access to the printer. Each user will be able to see the every print job queued to the printer, but will be unable to associate print jobs with specific users unless the users self identify in the print job’s title. 
+During installation, Formlabs software may ask you to opt-in to the collection of diagnostic information regarding your use of Formlabs’ software or hardware in order to help our engineers improve Formlabs’ products. If you opt in, you agree that Formlabs may collect, maintain, and use information about the operation of Formlabs’ hardware and software, such as hardware serial numbers, print times, laser power levels, and 3D model sizes. No models, 3D geometry, or personal information will be collected without your additional and explicit consent.
 
 ## How We Use Information We Collect
 
@@ -48,11 +44,7 @@ We will never sell your Personal Information to any third party.
 
 ### Use of Personal Information
 
-In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites; (b) send information (other than marketing communications) which we think may be of interest to you or that your have opted into receiving by post, email, or other means this information includes notifications by phone or email of print status, resin levels, or other printer specific information; © send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you; and (d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user. In addition, we may share data with trusted partners to contact you based on your interest to receive such communications, help us perform statistical analysis, send you email or postal mail, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
-
-### Use of Print Specific Information
-
-In addition to the uses identified elsewhere in this Privacy Policy, we may use Printer Specific information to: (a) make adjustments to the print process; (b) identify common failure modes; © monitor print experience satisfaction; and (d) populate the Database with a queue of print jobs previously executed or to be executed.
+In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites; (b) send information (other than marketing communications) to you which we think may be of interest to you by post, email, or other means; © send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user. In addition, we may share data with trusted partners to contact you based on your interest to receive such communications, help us perform statistical analysis, send you email or postal mail, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
 
 ### Use of Navigational Information
 
@@ -90,7 +82,7 @@ We retain Personal Information that you provide us as long as we consider it pot
 
 ### International Transfer of Information
 
-To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. If you are in the European Union, or other regions with laws governing data collection and use, by providing your personal data to us, you consent to the transfer to, processing, and storage of your personal information in the United States and other countries, the privacy laws of which may be considered less strict than those of your region. This consent applies in addition to other legal grounds for transfer, processing and storage of your personal information, such as for contract fulfillment purposes. 
+To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. This Privacy Statement shall apply even if we transfer Personal Information to other countries.
 
 ### Corporate Events
 
@@ -110,7 +102,7 @@ When you return to the same Website, the information you previously provided can
 
 ### Log Files
 
-Formlabs may also collect anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites using log files. Log files may also include information regarding the success, failure of, or individual satisfaction with recent print jobs. There is also information about your computer hardware and software that is automatically collected by Formlabs. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Formlabs for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Formlabs website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
+Formlabs may also collect anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites using log files. There is also information about your computer hardware and software that is automatically collected by Formlabs. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Formlabs for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Formlabs website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
 
 ## Opting-Out and Unsubscribing
 
@@ -127,8 +119,8 @@ If you provide us with your Personal Information, you have the following rights 
 
 
 
-To exercise any of these rights, please contact us at [](mailto:legal@formlabs.com)[legal@formlabs.com](mailto:legal@formlabs.com) or by mail to Formlabs, Inc., 35 Medford St., Suite 201, Somerville, MA 02143, Attention: Privacy. We will promptly change, correct, or delete your information.
+To exercise any of these rights, please contact us at [](mailto:labs@formlabs.com)[labs@formlabs.com](mailto:labs@formlabs.com) or by mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02143, Attention: Privacy. We will promptly change, correct, or delete your information.
 
 ### To Unsubscribe From Our Communications
 
-You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us email us at [](mailto:legal@formlabs.com)[legal@formlabs.com](mailto:legal@formlabs.com), or by sending us postal mail to Formlabs, Inc., 35 Medford St., Suite 201, Somerville, MA 02143, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or our store.
+You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us email us at [](mailto:labs@formlabs.com)[labs@formlabs.com](mailto:labs@formlabs.com), or by sending us postal mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02143, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or our store.
