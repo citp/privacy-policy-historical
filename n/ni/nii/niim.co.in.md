@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niim.co.in privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527152335id_/http%3A//niim.co.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niim.co.in privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728090223id_/http%3A//niim.co.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Niim | Privacy policy
 
