@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the fluxmagazine.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327130345id_/http%3A//www.fluxmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluxmagazine.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728142054id_/http%3A//www.fluxmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Flux Magazine
+# Privacy Policy | Flux Magazine
 
-This policy explains how FLUX MAGAZINE uses personal information which we collect from you.
+**Flux Magazine Privacy Policy – Website Privacy Policy  
+**
 
-When you wish to receive or use services on this website, such as newsletters, prize draws, uploading your work, you will be asked to submit personal information such as your name and email address.
+This privacy policy explains how FLUX MAGAZINE uses personal information which we collect from you.
+
+When you wish to receive or use services on this website, such as newsletters, prize draws, uploading your work, you will be asked to submit personal information such as your name and email address. This is part of our website privacy policy.
 
 By entering the details in the forms, you enable FLUX MAGAZINE and its service providers to provide you with the services you select.
 
@@ -18,8 +21,11 @@ We will hold your personal information on our systems for as long as you use the
 
 ### Access to your personal information
 
-You have the right to request a copy of the personal information fluxmagazine.com holds about you and to have any inaccuracies corrected. Please address requests to editorial@fluxmagazine.com.
+This privacy policy gives you the right to request a copy of the personal information fluxmagazine.com holds about you and to have any inaccuracies corrected. Please address requests to editorial@fluxmagazine.com.
 
 If you are aged 16 or under, please get your parent/guardian’s permission beforehand whenever you provide personal information to fluxmagazine.com. Users without this consent are not allowed to provide us with personal information.
+
+**Flux Magazine Privacy Policy – standard privacy policy – a standard privacy policy for website  
+**
 
 This website uses cookies to improve your experience. You can opt-out if you wish. By continuing to browse this site you agree that you accept our Cookies Policy. [Read More](http://www.fluxmagazine.com/cookies-policy/)
