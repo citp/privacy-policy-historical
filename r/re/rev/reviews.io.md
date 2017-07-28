@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the reviews.io privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514033304id_/http%3A//www.reviews.io/front/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.io privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728025736id_/https%3A//www.reviews.io/front/privacypolicy) for the most accurate reproduction.*
 
 # Reviews.io - Privacy Policy
 
 1\. USER ANONYMITY
 
 Anonymous information may be disclosed at times regarding facts about user patterns. This information will only represent user statistics for advertising purposes. We do not know what you search for on search engines. We only know what you search for within our site.
+
+We may provide cookie and a de-identified data to trusted partners, this data is used for matching to other data about you to improve the relevance of online advertising and personalisation. Your actual email address is at no time shared with our 3rd party partners.
+
+To opt-out of third party cookies, please go to <http://www.aboutads.info/choices> or Your Online Choices at <http://www.youronlinechoices.com/uk/>.
 
 2\. BANK & CREDIT CARD INFORMATION
 
