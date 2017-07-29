@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightscale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061918id_/https%3A//www.rightscale.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightscale.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729222921id_/https%3A//www.rightscale.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RightScale
 
