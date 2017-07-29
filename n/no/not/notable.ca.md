@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notable.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152254id_/http%3A//notable.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notable.ca privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730004611id_/http%3A//notable.ca/privacy-policy) for the most accurate reproduction.*
 
 # Notable.ca | Privacy Policy -
 
@@ -14,4 +14,4 @@ Canadian privacy legislation defines personal information broadly as information
 
 Other companies also may sponsor promotions, contests and sweepstakes running on Notable.ca. Notable.ca web sites that have links on Notable.ca may collect personally identifiable information about you. This privacy statement does not address the information practices of those Web sites or advertisers.
 
-Although we make every effort to ensure that your information is secure on our system. Unfortunately, no data transfer over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you disclose to us, and you do so at your own risk.
+Although we make every effort to ensure that your information is secure on our system. Unfortunately, no data transfer over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you disclose to us, and you do so at your own risk. 
