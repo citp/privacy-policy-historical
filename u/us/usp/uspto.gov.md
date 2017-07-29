@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214558id_/https%3A//www.uspto.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729034152id_/https%3A//www.uspto.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USPTO
 
