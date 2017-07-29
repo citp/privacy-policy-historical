@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jfklibrary.org privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215153908id_/https%3A//www.jfklibrary.org/About-Us/Privacy-Terms-Accessibility.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jfklibrary.org privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729033135id_/https%3A//www.jfklibrary.org/About-Us/Privacy-Terms-Accessibility.aspx) for the most accurate reproduction.*
 
 # Privacy, Terms of Use, Accessibility - John F. Kennedy Presidential Library & Museum
 
@@ -7,7 +7,7 @@
 
 
 
-## Website Privacy Policy
+### Website Privacy Policy
 
 This website was funded by the John F. Kennedy Library Foundation and is a joint collaboration of the John F. Kennedy Presidential Library and Museum and the Foundation. 
 
@@ -15,11 +15,11 @@ The Library is a Presidential Library administered by the National Archives and 
 
 The Foundation is a non-governmental, nonprofit 501(c)(3) organization that supports the programs and activities of the John F. Kennedy Presidential Library and Museum. 
 
-We consider "personally identifying information" to be: your name or a unique identifier (such as an IP address), your e-mail address, your mailing address, your telephone number, and any financial information relating to you or your accounts that you may provide to us. 
+We consider "personally identifying information" to be: your name or a unique identifier (such as an IP address), your e-mail address, your mailing address, your telephone number, and any financial information relating to you or your accounts that you may provide to us.
 
 Our system does not use "persistent cookies." We consider "persistent cookies" to be computer files that a web site surreptitiously places on your computer system without your knowledge or permission. 
 
-Our system collects server log data which will include your IP address, your domain name, the type of browser and operating system you used, the pages you viewed, search requests, in some cases data you submitted via web forms, and, if you linked to our site from another web site, that web site's address. This data helps us to ascertain the volume of our web site users' interest in portions of our web site, and helps us understand how to improve the navigation and content of our web site. 
+Our system collects server log data which will include your IP address, your domain name, the type of browser and operating system you used, the pages you viewed, search requests, in some cases data you submitted via web forms, and, if you linked to our site from another web site, that web site's address. This data helps us to ascertain the volume of our web site users' interest in portions of our web site, and helps us understand how to improve the navigation and content of our web site.
 
 Personally identifying information that you provide by email or web forms will be used only for such purposes as are described at the point of collection (for example on a web form), such as to send information or products to you, or to respond to your questions or comments. If you provide contact information, library, or NARA staff, Foundation staff, or our contractors may contact you to clarify your comment or question, or to learn about your level of customer satisfaction with our services. 
 
@@ -47,15 +47,21 @@ As a non-governmental organization the John F. Kennedy Library Foundation may es
 
 **Accessibility**
 
+The National Archives is responsible for ensuring that our information and services are accessible to you. If you have comments about how we can improve accessibility to better serve you, please visit the [NARA Accessibility Page](http://www.archives.gov/global_pages/accessibility.html) for further information. 
+
+[The Freedom of Information Act (FOIA)](http://www.archives.gov/foia/)
+
 * * *
 
-## JFK Challenge iPad App Privacy Policy
+### JFK Challenge iPad App Privacy Policy
 
 Effective Date: February 12, 2015
 
 This Privacy Policy (“Policy”) describes how the John F. Kennedy Library Foundation. (“Foundation” or “we” or “our” or “us”) treats information collected or provided in connection with an end user’s (“you” or “user”) use of the **The John F. Kennedy Challenge App** mobile application (the “Application”). Please note that your use of the Application constitutes your acceptance of this Policy as set forth below:
 
-     **1.     Collected Information.** The information collected during your use of the Application includes the following:
+    
+
+ **1.     Collected Information.** The information collected during your use of the Application includes the following:
 
          **(a)     Information Collected by the Application.** As part of using the Application, you may provide certain information such as your name or photograph to the Application, but we do not collect that information from the Application and all such information will reside solely on your mobile device. You may delete such information from the Application at any time and continue to use the Application.  
 
@@ -81,4 +87,4 @@ This Privacy Policy (“Policy”) describes how the John F. Kennedy Library Fou
 
      **5.     Security.** You are solely responsible for safeguarding your of your personally identifiable information that resides on your mobile device. We expressly disclaim any representation or warranty, whether express or implied, with respect to ensuring, guaranteeing or otherwise offering any definitive promise of security in connection with such personal information. 
 
-     **6.     Contacting Us.** If you have any questions about this Policy, please contact us at [JFKapp at jfklfoundation.org](mailto:JFKapp@jfklfoundation.org).
+     **6.     Contacting Us.** If you have any questions about this Policy, please contact us at [JFKapp at jfklfoundation.org](mailto:JFKapp@jfklfoundation.org). 
