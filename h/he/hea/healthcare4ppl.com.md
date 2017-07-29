@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare4ppl.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627045618id_/http%3A//www.healthcare4ppl.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare4ppl.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729144137id_/https%3A//www.healthcare4ppl.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Health Care for People - Privacy Policy
 
