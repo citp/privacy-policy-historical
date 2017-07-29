@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartodb.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819131159id_/https%3A//cartodb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartodb.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729095538id_/https%3A//carto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — CARTO
 
@@ -18,7 +18,11 @@ We collect information that is not personally identifiable in connection with us
 
 We may use collected information to enhance the visitor experience of the Service, to operate and maintain the Service, to investigate and understand how our Service is used, to monitor and protect the security and integrity of the Service, and to analyze our business.
 
-We analyze traffic to the site in various ways, including using a service called Google Analytics. Google Analytics is subject to the privacy policy of Google which you can find on Google’s website. By visiting the Site or using the Service, you are agreeing to the terms of the Google Privacy Policy that apply to Google Analytics. (We are not responsible for any changes made to the Google Privacy Policy or of advising you of such changes.) We use this information to generate statistics and to measure activity to improve the usefulness of the Site and the Service. We reserve the right to change analytical service providers at any time without notice.
+We analyze traffic to the site in various ways, including using a service called Google Analytics. We use this information to generate statistics and to measure activity to improve the usefulness of the Site and the Service.
+
+Google Analytics is subject to the privacy policy of Google. By visiting the Site or using the Service, you are agreeing to the terms of the Google Privacy Policy that apply to Google Analytics. These terms can be found at “How Google uses data when you use our partners’ sites or apps”, located at <https://www.google.com/policies/privacy/partners/>, or any other URL Google may provide from time to time.
+
+We are not responsible for any changes made to the Google Privacy Policy or of advising you of such changes. We reserve the right to change analytical service providers at any time without notice.
 
 ## Cookies:
 
@@ -94,7 +98,7 @@ Attention: Legal
 201 Moore Street  
 Brooklyn, NY 11206  
 United States of America  
-[privacyshield@carto.com](https://web.archive.org/web/20161203232840id_/https://carto.com/privacy/%E2%80%9Dmailto:privacyshield@carto.com%E2%80%9D)
+[privacyshield@carto.com](https://web.archive.org/web/20170729095538id_/https://carto.com/privacy/%E2%80%9Dmailto:privacyshield@carto.com%E2%80%9D)
 
   * The type of third parties to which CARTO discloses PI are corporate affiliates and business partners, for the limited and specified purpose of providing services related to the Service (such as website hosting or payment processing). These business partners do not have the right to use this PI for any purpose other than those related to the Service, and onward transfers only occur on the basis of a contract. We may disclose PI about our users to entities now or in the future affiliated with CARTO for the purpose of enhancing the visitor experience of the Service; operating and maintaining the Service; investigating and understanding how the Service is used; monitoring and protecting the security and integrity of the Service; and analyzing our business. We may also disclose PI about our users as part of any merger, acquisition, change of control, debt financing, insolvency, bankruptcy or sale of our assets for the purpose of completing our contractual obligations. Except as provided above, we will not sell or transfer your PI to third parties.
   * Anyone in the EU whose personal information has been transferred to the United States has a right to access their personal information.
