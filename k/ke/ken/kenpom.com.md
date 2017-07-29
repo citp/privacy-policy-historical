@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kenpom.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627180836id_/http%3A//kenpom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenpom.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729093229id_/https%3A//kenpom.com/privacy.php) for the most accurate reproduction.*
 
 # kenpom.com privacy policy
 
-The website located at http://www.kenpom.com ("Website") is owned and operated by Ken Pomeroy (the "Company"). We created this Privacy Policy ("Policy") to demonstrate our commitment to protecting your privacy and your personally identifiable information on our Website. 
+The website located at https://www.kenpom.com ("Website") is owned and operated by Ken Pomeroy (the "Company"). We created this Privacy Policy ("Policy") to demonstrate our commitment to protecting your privacy and your personally identifiable information on our Website. 
 
 This Policy is based on the principles of notice/awareness, choice/consent, access/participation and integrity/security in the collection and use of all information regarding our users and their activities on the Website. In this document "You" shall refer to you, the end user of this site, whether as an individual, entity, company, organization or related. "We", the "Website", and/or the "Company", refers to the information, services, and other provisions by the Company, or located at the Website, or by individuals and entities associated with the Website. 
 
