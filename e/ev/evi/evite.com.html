@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the evite.com privacy policy that was archived on 2017-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170423131500id_/http%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evite.com privacy policy that was archived on 2017-07-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170729231640id_/https%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" "><head>
+<!DOCTYPE html><html lang="en" class=""><head>
     
-    <iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WGBL25"></script><script type="text/javascript" async="" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/310467258.js"></script><script>
+    
+    <iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WGBL25"></script><script type="text/javascript" async="" defer="" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script><script>
         if ("performance" in window && window.performance && window.performance.setResourceTimingBufferSize) {
             performance.setResourceTimingBufferSize(450);
         }
@@ -36,46 +37,80 @@
         })();
     </script>
     
-    <script>(function(el){el.className=el.className.replace(/\bno-js\b/g,'')})(document.getElementsByTagName("HTML")[0])</script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
     <script>
     if(window['Symbol'] === undefined || window['Promise'] === undefined || typeof Object.assign !== 'function') document.write('<scr'+'ipt src="//cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.7.4/polyfill.min.js"></sc'+'ript>');
+    </script>
+    <script>
+    var evite = function(b,c){function d(a){return function(){this.command.push({name:a,params:c.apply(arguments)});return this}}function a(a){return function(){var b=new e;this.command.push({name:a,params:c.apply(arguments),promiseCommand:b.command});return b}}var e=function(){this.command=[]};b(e.prototype,{then:d("then"),"catch":d("catch")});return b({},{command:[],when:a("when"),resolve:a("resolve"),reject:a("reject")})}(Object.assign,Array.prototype.slice);
+
+    
+        evite.features = {"FEED_AMERICA|MOBILE":false,"FEED_AMERICA|DESKTOP":false,"ADD-TO-CALENDAR|ANDROID":false,"JW_SHOWCASE|":"1981","DRAFTJS|ANDROID":false,"HOST_WHATS_NEXT|OVERSTOCK_SWEEPSTAKES":"https://www.facebook.com/notes/evite/evite-overstock-bring-home-summer-sweepstakes-official-sweepstakes-rules/10156191509050410/","MENTIONS|ANDROID":false};
+    
+
+    evite.dfp = (function(dfp){
+        dfp.compactUrl = function(){
+            var slots = Array.prototype.slice.apply(arguments);
+            var compactSlots = slots.filter(function(value){
+                return Boolean(value);
+            });
+            var repeatedSlashes = /\/{2,}/g;
+            var trailingSlashes = /\/+$/;
+            return compactSlots
+                .join('/')
+                .replace(repeatedSlashes, '/')
+                .replace(trailingSlashes, '');
+        };
+
+        
+            Object.assign(dfp, JSON.parse("{\u0022MOBILE_SLOT_2\u0022:\u0022\u0022,\u0022DESKTOP_SLOT_1\u0022:\u0022\u0022,\u0022DESKTOP_SLOT_2\u0022:\u0022\u0022,\u0022DESKTOP_SLOT_3\u0022:\u0022general\u0022,\u0022VIDEO_ID\u0022:\u0022/5480/vid.evite\u0022,\u0022PREMIUM_DESKTOP_ID\u0022:\u0022/5480/premium.evite\u0022,\u0022MOBILE_ID\u0022:\u0022/5480/m.web.evite\u0022,\u0022MOBILE_SLOT_1\u0022:\u0022general\u0022,\u0022DESKTOP_ID\u0022:\u0022/5480/web.evite\u0022,\u0022DESKTOP_CATEGORY\u0022:\u0022featured\u0022}"));
+        
+
+        dfp.DESKTOP_URL = dfp.compactUrl(dfp.DESKTOP_ID, dfp.DESKTOP_SLOT_1, dfp.DESKTOP_SLOT_2, dfp.DESKTOP_SLOT_3);
+        dfp.MOBILE_URL = dfp.compactUrl(dfp.MOBILE_ID, dfp.MOBILE_SLOT_1, dfp.MOBILE_SLOT_2);
+
+        return dfp;
+    }( Object.assign({}, { autoAds: [] })));
+</script>
+
+
+<script>
+    googletag = window.googletag || {cmd: []};
+
+    googletag.cmd.push(function(){
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            evite.when('document.ready').then(function(){
+                var slot = event.slot;
+                if(!slot){return;}
+
+                var element = document.getElementById(slot.getSlotElementId());
+                if(!element){return;}
+
+                var loaderContainer = element.querySelector('.loader-container');
+                if(!loaderContainer){return;}
+
+                loaderContainer.classList.add('hidden');
+            });
+        });
+    });
+</script>
+    <script>
     window.dataLayer = [{'is_logged_in': 0 }];
     window.track_event = window.track_event || {};
-    window.client_data = JSON.parse("{\u0022version_id\u0022:\u0022v80\u002D4\u0022,\u0022cj_aid\u0022:null,\u0022geo_city\u0022:\u0022san francisco\u0022,\u0022user_locationLatitude\u0022:37.774929,\u0022zone\u0022:\u0022general\u0022,\u0022geo_country\u0022:\u0022US\u0022,\u0022appengineProject\u0022:\u0022evite\u002Dservices\u002Dprod\u0022,\u0022cj_sid\u0022:null,\u0022session_id\u0022:\u00229972cdf4d6ce213c\u0022,\u0022page_siteLayout\u0022:\u0022Desktop\u0022,\u0022view_name\u0022:null,\u0022geo_location\u0022:\u002237.774929,\u002D122.419416\u0022,\u0022is_logged_in\u0022:0,\u0022user_locationLongitude\u0022:\u002D122.419416,\u0022geo_region\u0022:\u0022ca\u0022,\u0022frp_count\u0022:1,\u0022cj_pid\u0022:null}");
+    window.client_data = JSON.parse("{\u0022version_id\u0022:\u0022v92\u002D1\u0022,\u0022cj_aid\u0022:null,\u0022geo_city\u0022:\u0022macon\u0022,\u0022user_locationLatitude\u0022:32.840694999999997,\u0022zone\u0022:\u0022general\u0022,\u0022geo_country\u0022:\u0022US\u0022,\u0022appengineProject\u0022:\u0022evite\u002Dservices\u002Dprod\u0022,\u0022cj_sid\u0022:null,\u0022session_id\u0022:\u0022358f949e313c5df3\u0022,\u0022page_siteLayout\u0022:\u0022Desktop\u0022,\u0022view_name\u0022:null,\u0022geo_location\u0022:\u002232.840695,\u002D83.632402\u0022,\u0022is_logged_in\u0022:0,\u0022user_locationLongitude\u0022:\u002D83.632401999999999,\u0022geo_region\u0022:\u0022ga\u0022,\u0022frp_count\u0022:1,\u0022cj_pid\u0022:null}");
     window.page_ads = {};
-    window.dfp_desktop_id = "/5480/web.evite";
     </script>
-    
-    <script>
-    
-    window['optimizely'] = window['optimizely'] || [];
-    window['optimizely'].push(["setCookieExpiration", 730]);
-    (function() {
-        var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-        var scriptTag = document.createElement('script');
-        scriptTag.type = 'text/javascript';
-        scriptTag.async = true;
-        scriptTag.src = protocol + 'cdn.optimizely.com/js/310467258.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(scriptTag, s);
-    })();
-    </script>
-    
     <meta charset="utf-8">
     <meta name="google" content="notranslate">
     <meta http-equiv="Content-Language" content="en_US">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="application-name" content="Evite">
-    <meta name="msapplication-TileColor" content="#62ae20">
+    <meta name="msapplication-TileColor" content="#71ab0b">
 
     
     
 
     <title>Evite Privacy Policy</title>
 
-    <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="dns-prefetch" href="//a0.evitecdn.com">
     <link rel="dns-prefetch" href="//g0.evitecdn.com">
     <link rel="dns-prefetch" href="//g1.evitecdn.com">
@@ -84,32 +119,75 @@
     <link rel="dns-prefetch" href="//g4.evitecdn.com">
     <link rel="dns-prefetch" href="//fonts.evitecdn.com">
 
-    <link rel="shortcut icon" href="//g1.evitecdn.com/assets/1492799825/images/favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet" type="text/css">
-    
-    <link rel="stylesheet" type="text/css" href="//g1.evitecdn.com/assets/1492799825/_build/css/app.css">
+    <link rel="shortcut icon" href="//g1.evitecdn.com/assets/1501183118/images/favicon.ico">
+    <link rel="prefetch" href="//fonts.gstatic.com/s/lato/v13/Kom15zUm24dIPfIRiNogNuvvDin1pK8aKteLpeZ5c0A.woff">
+    <link rel="prefetch" href="//fonts.gstatic.com/s/lato/v13/kcf5uOXucLcbFOydGU24WALUuEpTyoUstqEm5AMlJo4.woff">
+    <link rel="prefetch" href="//fonts.gstatic.com/s/lato/v13/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA.woff">
+    <link rel="prefetch" href="//fonts.gstatic.com/s/lato/v13/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff">
+
+    <script>
+(function() {
+  if(true || window.location.href.indexOf('01A1WUKVZWIGYIJJYEPHK55DU7JBQA') > -1) {
+    function spy(e) {
+      if(!e.data || typeof e.data !== 'string' || e.data.indexOf('native_callback_1') < 0)
+        return;
+      var message = JSON.parse(e.data);
+      if(!message.message_id || message.message_id != 'native_callback_1')
+        return;
+
+      var containsAd = message.response.creatives.length > 0;
+      var select = Math.random() * 100 <= 1 && false;
+      evite.info('sponsored filled: ' + containsAd);
+      if(containsAd) {
+        client_data.abtest = '3hassharethrough';
+        dataLayer.push({
+          'event': 'backend_test_bucket',
+          'optimizely_key': "8448620984",
+          'optimizely_slot': undefined,
+          'optimizely_experiment': "measure_fill",
+          'optimizely_variation': "has",
+          'optimizely_variation_state': 'active',
+          'optimizely_variation_active': true
+        });
+
+        if(select) {
+          window['optimizely'].push(["activate", 8448620984]);
+          window['optimizely'].push(["bucketVisitor", 8439017732, 8445042899]);
+        }
+      }
+      else {
+        client_data.abtest = '3nosharethrough';
+        dataLayer.push({
+          'event': 'backend_test_bucket',
+          'optimizely_key': "8448620984",
+          'optimizely_slot': undefined,
+          'optimizely_experiment': "measure_fill",
+          'optimizely_variation': "not",
+          'optimizely_variation_state': 'active',
+          'optimizely_variation_active': true
+        });
+
+        if(select) {
+          window['optimizely'].push(["activate", 8448620984]);
+          window['optimizely'].push(["bucketVisitor", 8439017732, 8445674133]);
+        }
+      }
+    }
+
+    window.addEventListener('message', spy);
+  }
+})();
+
+</script>
 
     
-    <link rel="stylesheet" type="text/css" href="//g0.evitecdn.com/assets/1492799825/_build/css/layouts/content/content.css">
+    <link rel="stylesheet" type="text/css" href="/assets/1501183118/_build/css/app.css">
+
+    
+    <link rel="stylesheet" type="text/css" href="//g0.evitecdn.com/assets/1501183118/_build/css/layouts/content/content.css">
 
 
-
-    <script>googletag = window.googletag || {cmd: []};</script>
     <script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
-
-    <!-- Internal heatmap tracking -->
-    
-        <script>
-            (function(h,o,t,j,a,r){
-                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-                h._hjSettings={hjid:332817,hjsv:5};
-                a=o.getElementsByTagName('head')[0];
-                r=o.createElement('script');r.async=1;
-                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-                a.appendChild(r);
-            })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-        </script><script async="" src="//static.hotjar.com/c/hotjar-332817.js?sv=5"></script>
-    
 
     
     
@@ -125,11 +203,11 @@
             crtg_url +='&cookieName='+escape(crtg_cookiename);
             crtg_url +='&rnd='+crtg_rnd;
             crtg_url +='&varName=' + escape(crtg_varname);
-            var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+            var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;crtg_script.defer=true;
             if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
             else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
             })();
-        </script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=4009&amp;cookieName=crtg_evite&amp;rnd=7669639337&amp;varName=crtg_content" async=""></script>
+        </script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=4009&amp;cookieName=crtg_evite&amp;rnd=26301908185&amp;varName=crtg_content" async="" defer=""></script>
     
     
 
@@ -143,18 +221,17 @@
         a = document.createElement("script");
         a.type="text/javascript";
         a.async = true;
+        a.defer = true;
         a.src = "//c.amazon-adsystem.com/aax2/amzn_ads.js";
         s.parentNode.insertBefore(a, s);
     })();
 </script>
-
-
     
 
     
 
+    <script type="text/javascript" src="//g4.evitecdn.com/assets/1501183118/_build/webpack_bundles/common_base.js-head.js"></script>
     
-    <script type="text/javascript" src="//g4.evitecdn.com/assets/1492799825/_build/webpack_bundles/common_base.js-head.js"></script>
 
     <!--[if lt IE 9]>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -165,11 +242,8 @@
     <!--[if lte IE 7]>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/json2/20121008/json2.js"></script>
     <![endif]-->
-
-
     
     
-
     
 <script>
     Raven.config("https://a8cbaefa496646c8b7b073ac8719292b@app.getsentry.com/7871",
@@ -177,11 +251,10 @@
     ).install();
 </script>
 
-
 </head>
 
 
-<body class="  ">
+<body class="  " style="">
     
 
     
@@ -194,28 +267,855 @@
                     
 
 
-
-    <script>
-        window.NOTIFICATION_CENTER_PER_USER_LIMIT = 1000;
-        window.NOTIFICATION_CENTER_NAVBAR_LIMIT = 10;
-    </script>
-
-
 <div class="nav-container" aria-label="main navigation" role="navigation">
-    <a href="javascript:void(0)" class="side-menu-button button-nav menu" id="menu_btn">Menu</a>
+    <a href="javascript:void(0)" class="side-menu-button button-nav" id="menu_btn">Menu</a>
     <a href="/" class="logo" id="logo_top" aria-label="evite home"></a>
 
     <nav id="navigation">
         <ul class="navigation-list" role="presentation">
-            <li class="navigation-list-item " id="create_invitation_li" role="presentation">
+            <li class="navigation-list-item mega-hover" id="create_invitation_li" role="presentation">
                 <a id="create_invitation" class="navigation-link" href="/gallery">Invitations</a>
                 
-            </li>
-            
-    <li class="navigation-list-item" id="cards_li" role="presentation">
-        <a id="cards" class="navigation-link" href="/cards">Cards</a>
-    </li>
+                    
 
+<div id="mega-nav" class="mega-nav mega-nav-wrapper">
+    <div class="inner">
+        <div class="category-lists">
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Birthday Parties</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birthday_forkids/?source_meganav">Birthday for Kids</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birthday_forher/?source_meganav">Birthday for Her</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birthday_forhim/?source_meganav">Birthday for Him</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birthday_save_the_date/?source_meganav">Birthday Save the Date</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/birthday_milestones/?source_meganav">Birthday Milestones</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/babys_first/?source_meganav">Baby's First Year</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">2 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                        
+                        <h2>Spring/Summer</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/pool_party/?source_meganav">Pool Party</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/bbq/?source_meganav">BBQ</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/labor_day/?source_meganav">Labor Day</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/beach_party/?source_meganav">Beach Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/outdoor_fun/?source_meganav">Outdoor Fun</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/st_patricks_day/?source_meganav">St. Patrick's Day</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/mardi_gras/?source_meganav">Mardi Gras</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/easter/?source_meganav">Easter</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/passover/?source_meganav">Passover</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/cinco_de_mayo/?source_meganav">Cinco de Mayo</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/mothers_day/?source_meganav">Mother's Day</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/memorial_day/?source_meganav">Memorial Day</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/fathers_day/?source_meganav">Father's Day</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/ramadan/?source_meganav">Ramadan</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/derby_day/?source_meganav">Derby Day</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/graduation/?source_meganav">Graduation</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/july_fourth/?source_meganav">4th of July</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">13 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Babies &amp; Kids</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/baby_shower/?source_meganav">Baby Shower</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/babys_first/?source_meganav">Baby's First Year</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/gender_reveal/?source_meganav">Gender Reveal</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birthday_forkids/?source_meganav">Birthday for Kids</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/kids_corner/?source_meganav">Kids' Activities</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/religious/?source_meganav">Religious</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">2 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                        
+                        <h2>Fall/Winter</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/back_to_school/?source_meganav">Back to School</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/oktoberfest/?source_meganav">Oktoberfest</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/diwali/?source_meganav">Diwali</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/halloween/?source_meganav">Halloween</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/halloween_kids/?source_meganav">Halloween for Kids</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/thanksgiving/?source_meganav">Thanksgiving</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/gift_exchange/?source_meganav">Gift Exchange</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/holidayforkids/?source_meganav">Holiday for Kids</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/holiday_party/?source_meganav">Holiday Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/office_holiday/?source_meganav">Office Holiday</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/hanukkah/?source_meganav">Hanukkah</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/kwanzaa/?source_meganav">Kwanzaa</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/christmas/?source_meganav">Christmas</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/new_years/?source_meganav">New Year's Eve</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/lunarnewyear/?source_meganav">Lunar New Year</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/valentines_day/?source_meganav">Valentine's Day</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">12 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Get Togethers</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/housewarming/?source_meganav">Housewarming</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/happy_hour/?source_meganav">Happy Hour</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/dinner_party/?source_meganav">Dinner Party</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/girls_night/?source_meganav">Girls' Night</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/cocktail_party/?source_meganav">Cocktail Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/guys_night/?source_meganav">Guys' Night</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/pet_party/?source_meganav">Pet Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/potluck/?source_meganav">Potluck</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/viewing_party/?source_meganav">Viewing Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/theme_party/?source_meganav">Theme Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/wine_tasting/?source_meganav">Wine Tasting</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/trips_getaways/?source_meganav">Trips and Getaways</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/reunions/?source_meganav">Reunions</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/brunch_lunch/?source_meganav">Brunch / Lunch</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/family_gathering/?source_meganav">Family Gathering</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/game_night/?source_meganav">Game Night</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">12 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                        
+                        <h2>Sports/Leagues</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/football/?source_meganav">Football</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/baseball/?source_meganav">Baseball</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/soccer/?source_meganav">Soccer</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/bowling/?source_meganav">Bowling</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/watchthegame/?source_meganav">Watch the Game</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/tailgating/?source_meganav">Tailgating</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/golf/?source_meganav">Golf</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/college_basketball/?source_meganav">Basketball</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">4 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Organizations</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/professional_events/?source_meganav">Professional Events</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/charity_fundraisers/?source_meganav">Charity / Fundraisers</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/retirement_farewell/?source_meganav">Retirement / Farewell</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/book_club/?source_meganav">Book Club</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/school/?source_meganav">School</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/activism/?source_meganav">Activism</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/greek_life/?source_meganav">Greek Life</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/meetings/?source_meganav">Meetings</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">4 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                        
+                        <h2>Spanish</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/cumpleanos/?source_meganav">Cumpleaños</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/quinceanera/?source_meganav">Quinceañera</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/celebraciones_religiosas/?source_meganav">Celebraciones Religiosas</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/fiesta/?source_meganav">Fiesta</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/pascua/?source_meganav">Pascua</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/dia_de_las_madres/?source_meganav">Día de las Madres</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">2 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Weddings</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/engagement/?source_meganav">Engagement Party</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/save_the_date/?source_meganav">Save the Date</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/weddings/?source_meganav">Wedding Ceremony</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/bridal_shower/?source_meganav">Bridal Shower</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/bachelorette/?source_meganav">Bachelorette Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/bachelor/?source_meganav">Bachelor Party</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/rehearsal_dinner/?source_meganav">Rehearsal Dinner</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/welcome_reception/?source_meganav">Welcome/Reception</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/post_wedding_brunch/?source_meganav">Post-Wedding Brunch</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/anniversary/?source_meganav">Anniversary</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">6 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                        
+                        <h2>Design Your Own</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/design_your_own/?source_meganav">Design Your Own</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                </div>
+            
+        </div>
+        <a href="#" id="megaClose" class="mega-nav-close">
+            <i class="icon-up-open"></i>
+            Hide Menu
+        </a>
+        <!-- Leaving this out for first test to avoid clouding the test results -->
+        <!-- <div class="inhouse-ad">
+            <a href="/gallery/category/design_your_own/?source=meganav">
+                <img src="//g3.evitecdn.com/assets/1501183118/images/v2/web/mega-nav-premium-asset.jpg" alt="Design your own invitation" />
+            </a>
+        </div> -->
+    </div>
+</div>
+                
+            </li>
+            <li class="navigation-list-item mega-hover " id="cards_li" role="presentation">
+                <a id="cards" class="navigation-link" href="/cards">Cards</a>
+                
+                    
+
+<div id="mega-nav-cards" class="mega-nav-cards mega-nav-wrapper">
+    <div class="inner">
+        <div class="category-lists">
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Summer</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/fathers_day_cards/?source_meganav">Father's Day Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/graduation_cards/?source_meganav">Graduation Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/mothers_day_cards/?source_meganav">Mother's Day Cards</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                        
+                        <h2>Thank You</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/thankyou_cards/?source_meganav">Thank You Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/kids_thankyou_cards/?source_meganav">Kids' Thank You</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Babies &amp; Kids</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birth_announcements/?source_meganav">Birth Announcements</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/kids_thankyou_cards/?source_meganav">Kids' Thank You</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                        
+                        <h2>Notes</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/justnotes_cards/?source_meganav">Just Notes</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/moving_announcements/?source_meganav">Moving Announcements</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/pet_cards/?source_meganav">Pet Cards</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Celebrations</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/birthday_cards/?source_meganav">Birthday Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/congratulations_cards/?source_meganav">Congratulations Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/graduation_cards/?source_meganav">Graduation Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/savethedates_cards/?source_meganav">Save the Date</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                        
+                        <h2>Spring</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/easter_cards/?source_meganav">Easter Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/graduation_cards/?source_meganav">Graduation Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/valentines_day_cards/?source_meganav">Valentine's Day Cards</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Fall</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/halloween_cards/?source_meganav">Halloween Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/thanksgiving_cards/?source_meganav">Thanksgiving Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/thanksgiving_thankyou_cards/?source_meganav">Thanksgiving Thank You</a>
+                                </li>
+                            
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="category-list">
+                    
+                        
+                        <h2>Winter</h2>
+                        <ul>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/christmas_cards/?source_meganav">Christmas Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/hanukkah_cards/?source_meganav">Hanukkah Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/holiday_cards/?source_meganav">Holiday Cards</a>
+                                </li>
+                            
+                                <li class="">
+                                    
+                                    <a href="/gallery/category/holiday_thankyou_cards/?source_meganav">Holiday Thank You</a>
+                                </li>
+                            
+                                <li class="hidden">
+                                    
+                                    <a href="/gallery/category/new_years_cards/?source_meganav">New Year's Cards</a>
+                                </li>
+                            
+                            
+                                <li class="more-li">
+                                    <a href="#" class="mega-more">1 More</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            
+        </div>
+        <a href="#" id="cardsMegaClose" class="mega-nav-close">
+            <i class="icon-up-open"></i>
+            Hide Menu
+        </a>
+    </div>
+</div>
+                
+            </li>
             
     <li class="navigation-list-item" id="ideas_li" role="presentation">
         <a id="ideas" class="navigation-link" href="http://ideas.evite.com">Party Ideas</a>
@@ -228,12 +1128,12 @@
 
             
     <li class="navigation-list-item" id="mobile_apps_li" role="presentation">
-        <a id="mobile_apps" class="navigation-link" href="/mobile">Mobile Apps</a>
+        <a id="mobile_apps" class="navigation-link" href="/mobile">Mobile App</a>
     </li>
 
             
     <li class="navigation-list-item" id="ideas_li" role="presentation">
-        <a id="ideas" class="navigation-link" href="https://www.evitevendors.com">Find Vendors</a>
+        <a id="ideas" class="navigation-link" href="https://www.evitevendors.com">Party Vendors</a>
     </li>
 
         </ul>
@@ -241,9 +1141,9 @@
 
     <div id="account">
         <!-- Macro in Google Tag Manager relies on the 'search_box' id for pixel firing -->
-        <div id="search_box" class="suggestion-search" role="presentation">
+        <div class="search_box suggestion-search" role="presentation">
             
-            <form id="gallery_search_form" action="/gallery/search/" role="presentation">
+            <form id="gallery_search_form_head" action="/gallery/search/" role="presentation">
                 <input type="hidden" id="search_location" name="search_location" value="top_nav">
                 <input class="search" type="search" maxlength="50" name="query" placeholder="Search Designs" value="" autocomplete="off" role="search">
                 <span class="search-icon" id="searchIcon" aria-hidden="true"></span>
@@ -253,67 +1153,16 @@
         </div>
 
         <ul class="logged_in" style="display:none" aria-haspopup="true" role="presentation">
-            <li id="nav_nctr" class="contains-subnav notification-center account-more more">
+            <li id="nav_nctr" class="contains-subnav account-more more hidden">
                 <a href="javascript:void 0;" class="nav-link notifications-menu-item pulldown-link" aria-label="notifications" role="button">
-                    <img src="//g1.evitecdn.com/assets/1492799825/images/notifications_solid_24x24.png" alt="Notify">
+                    <i class="icon icon-notification"></i>
                     <div class="unviewed-count-container">
                         <span class="unviewed-count"></span>
                     </div>
                 </a>
-                <div id="nav_nctr_ornament" class="notifications-list-ornament notifications-list-ornament-hidden"></div>
-                <ul id="notifications_list" class="menu notifications-list" aria-haspopup="true">
-                    <li class="notifications-list-header" style="display:none">
-                        <span class="notifications-list-title">Evite notifications</span>
-                        <a class="notifications-mark-all-as-read" href="javascript:void 0;">Mark all as read</a>
-                    </li>
-
-                    
-<script type="text/template" class="sponsored-notification-item-wrapper">
-    <div class="notification-item sponsored">
-        <div class="sponsored-upper"><img src="/assets/images/bolt_10x10.png"/>Ad</div>
-        <div class="sponsored-right">
-            <a href="<%- view_details_url %>"><img src="<%- re_user_image_url %>"/></a>
-        </div>
-        <div class="sponsored-lower">
-            <a class="notification-text ui-link" href="<%- view_details_url %>"><p><%= text %></p></a>
-        </div>
-    </div>
-</script>
-
-<script type="text/template" class="notification-item-wrapper">
-    <div class="notification-item">
-        <div class="notify-left"><%= avatar %></div>
-        <div class="bullet-with-tooltip"><%- read_bullet %><span class="tooltiptext">Mark as <%- switch_read_state %></span></div>
-        <div class="notification-context-menu">
-            <div class="context-menu-icon"></div>
-            <div class="context-menu-items-wrapper">
-                <div class="context-menu-item">
-                    <a class="hide-notification ui-link" role="button" href="javascript:void 0;">Hide this notification</a>
-                </div>
-                <div class="context-menu-item">
-                    <%= event_settings_link %>
-                </div>
-            </div>
-        </div>
-        <div class="notify-center">
-            <a class="notification-text ui-link" href="<%- view_details_url %>"><p><%= text %></p></a>
-            <div class="time-label"><%- timestamp %></div>
-        </div>
-    </div>
-</script>
-
-<script type="text/template" class="empty-notification-items-list">
-    <div class="empty-notification-items-message">
-        <p>This is the very beginning of your Evite Notifications. Check here to stay up to date on all of your Evite events!</p>
-        <p>Host or RSVP to an event, and let the notifications roll in.</p>
-    </div>
-</script>
-
-                    <li class="notifications-list-footer" style="display:none">
-                        <a href="/all-notifications" class="ui-link">View all notifications</a>
-                    </li>
-                </ul>
+                <div id="notificationsNav" class="notifications-container news-item_nav menu hidden" aria-haspopup="true"></div>
             </li>
+
             <li class="account-more more">
                 <a href="javascript:void 0;" class="full_name pulldown-link" aria-label="user options" role="button">
                     <div class="photo">
@@ -324,8 +1173,7 @@
                         </div>
                     </div>
                 </a>
-                <div id="user_menu_ornament" class="notifications-list-ornament notifications-list-ornament-hidden"></div>
-                <ul id="user_menu" class="menu" aria-haspopup="true">
+                <ul id="user_menu" class="menu hidden" aria-haspopup="true">
                     <li>
                         <a href="/profile/edit">Profile</a>
                     </li>
@@ -341,17 +1189,17 @@
                 </ul>
             </li>
             <li class="signout" role="presentation">
-                <a href="javascript:void 0;" class="ui-link" id="signout_button">Sign Out</a>
+                <a href="/logout" class="ui-link" id="signout_button">Sign Out</a>
             </li>
         </ul>
 
         <span class="logged_out ">
             <ul role="presentation">
                 <li class="signin" role="presentation">
-                    <a href="javascript:void 0;" class="ui-link" id="signin_button">Sign In</a>
+                    <a href="/login?next=%2Fcontent%2Fprivacy_policy" class="ui-link" id="signin_button">Sign In</a>
                 </li>
                 <li class="register" role="presentation">
-                    <a href="javascript:void 0;" class="ui-link" id="register_button">Register</a>
+                    <a href="/register?next=%2Fcontent%2Fprivacy_policy" class="ui-link" id="register_button">Register</a>
                 </li>
             </ul>
         </span>
@@ -362,567 +1210,10 @@
             </header>
             <div id="header_spacer" style=""></div>
             <div id="scrolling-header">
-                <div class="subnav">
-                    
-    <nav id="gallery-nav">
-        <ul>
-            <li>
-                <a class="gallery-nav-tier-title" href="/gallery/?source_subnav">Featured</a>
-            </li>
-            
-                <li data-id="spring" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Spring</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/cinco_de_mayo/?source_subnav">Cinco de Mayo</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/college_basketball/?source_subnav">College Basketball</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/easter/?source_subnav">Easter</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/derby_day/?source_subnav">Derby Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/graduation/?source_subnav">Graduation</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/lunarnewyear/?source_subnav">Lunar New Year</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/mardi_gras/?source_subnav">Mardi Gras</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/mothers_day/?source_subnav">Mother's Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/passover/?source_subnav">Passover</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/ramadan/?source_subnav">Ramadan</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/st_patricks_day/?source_subnav">St. Patrick's Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/thebiggame/?source_subnav">The Big Game</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/valentines_day/?source_subnav">Valentine's Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/viewing_party/?source_subnav">Viewing Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/watchthegame/?source_subnav">Watch the Game</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="birthdays" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Birthdays</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/birthday_forher/?source_subnav">Birthday for Her</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/birthday_forhim/?source_subnav">Birthday for Him</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/birthday_forkids/?source_subnav">Birthday for Kids</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/birthday_milestones/?source_subnav">Birthday Milestones</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="babies_and_kids" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Babies &amp; Kids</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/baby_shower/?source_subnav">Baby Shower</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/babys_first/?source_subnav">Baby's First Year</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/birthday_forkids/?source_subnav">Birthday for Kids</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/gender_reveal/?source_subnav">Gender Reveal</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/kids_corner/?source_subnav">Kids' Corner</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="parties" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Parties</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/bbq/?source_subnav">BBQ</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/beach_party/?source_subnav">Beach Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/brunch_lunch/?source_subnav">Brunch / Lunch</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/clubs_groups/?source_subnav">Clubs / Groups</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/cocktail_party/?source_subnav">Cocktail Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/dinner_party/?source_subnav">Dinner Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/family_gathering/?source_subnav">Family Gathering</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/game_night/?source_subnav">Game Night</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/girls_night/?source_subnav">Girls' Night</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/guys_night/?source_subnav">Guys' Night</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/happy_hour/?source_subnav">Happy Hour</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/hostess_party/?source_subnav">Hostess Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/housewarming/?source_subnav">Housewarming</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/outdoor_fun/?source_subnav">Outdoor Fun</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/pet_party/?source_subnav">Pet Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/pool_party/?source_subnav">Pool Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/potluck/?source_subnav">Potluck</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/sports_leagues/?source_subnav">Sports / Leagues</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/tailgating/?source_subnav">Tailgating</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/theme_party/?source_subnav">Theme Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/trips_getaways/?source_subnav">Trips and Getaways</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/viewing_party/?source_subnav">Viewing Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/watchthegame/?source_subnav">Watch the Game</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/wine_tasting/?source_subnav">Wine Tasting</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="occasions" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Occasions</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/anniversary/?source_subnav">Anniversary</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/charity_fundraisers/?source_subnav">Charity / Fundraisers</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/graduation/?source_subnav">Graduation</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/professional_events/?source_subnav">Professional Events</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/religious/?source_subnav">Religious</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/reunions/?source_subnav">Reunions</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/retirement_farewell/?source_subnav">Retirement / Farewell</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="weddings" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Weddings</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/bachelor/?source_subnav">Bachelor Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/bachelorette/?source_subnav">Bachelorette Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/bridal_shower/?source_subnav">Bridal Shower</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/engagement/?source_subnav">Engagement Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/post_wedding_brunch/?source_subnav">Post-Wedding Brunch</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/rehearsal_dinner/?source_subnav">Rehearsal Dinner</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/save_the_date/?source_subnav">Save the Date</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/weddings/?source_subnav">Weddings</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/welcome_reception/?source_subnav">Welcome/Reception</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="spanish" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Spanish</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/celebraciones_religiosas/?source_subnav">Celebraciones Religiosas</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/cumpleanos/?source_subnav">Cumpleaños</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/dia_de_las_madres/?source_subnav">Día de las Madres</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/fiesta/?source_subnav">Fiesta</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/pascua/?source_subnav">Pascua</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/quinceanera/?source_subnav">Quinceañera</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="summer" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Summer</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/cinco_de_mayo/?source_subnav">Cinco de Mayo</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/fathers_day/?source_subnav">Father's Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/graduation/?source_subnav">Graduation</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/july_fourth/?source_subnav">4th of July</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/labor_day/?source_subnav">Labor Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/memorial_day/?source_subnav">Memorial Day</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/mothers_day/?source_subnav">Mother's Day</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="fall" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Fall</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/back_to_school/?source_subnav">Back to School</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/diwali/?source_subnav">Diwali</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/halloween/?source_subnav">Halloween</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/halloween_kids/?source_subnav">Halloween for Kids</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/oktoberfest/?source_subnav">Oktoberfest</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/thanksgiving/?source_subnav">Thanksgiving</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-                <li data-id="winter" aria-haspopup="true">
-                    <span class="gallery-nav-tier-title">Winter</span>
-                    <ul>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/christmas/?source_subnav">Christmas</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/gift_exchange/?source_subnav">Gift Exchange</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/hanukkah/?source_subnav">Hanukkah</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/holidayforkids/?source_subnav">Holiday for Kids</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/holiday_party/?source_subnav">Holiday Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/kwanzaa/?source_subnav">Kwanzaa</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/lunarnewyear/?source_subnav">Lunar New Year</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/new_years/?source_subnav">New Year's Eve</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/office_holiday/?source_subnav">Office Holiday</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/thebiggame/?source_subnav">The Big Game</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/viewing_party/?source_subnav">Viewing Party</a>
-                            </li>
-                        
-                            <li class="">
-                                
-                                <a href="/gallery/category/watchthegame/?source_subnav">Watch the Game</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-        </ul>
-    </nav>
-
-                </div>
                 <div id="cookie-warning" class="site-warning-bar hidden">
                     <p>Evite uses cookies to give you the best experience. Please read our
                         <a href="/content/privacy_policy">Privacy Policy</a> to learn more.
-                        <a class="close icon-x"></a></p>
+                        <a class="close icon-cancel"></a></p>
                 </div>
             </div>
             
@@ -932,14 +1223,19 @@
             
                 <div class="advertisement">
                     <div id="ad-north" class="gpt-ad gpt-auto leaderboard">
-                        <script>
-                            dfp_slot("LB_Top", function() {
-                                return googletag.defineSlot("/5480/web.evite/" + desktop_slot1() + desktop_slot2() + desktop_slot3(), [[728, 90],[970, 90]], "ad-north")
-                                   .addService(googletag.pubads())
-                                   .setTargeting('loc', ['top']);
-                            });
-                        </script>
-                    </div>
+    <script>
+        evite.when('dfp').then(function (dfp) {
+            googletag.cmd.push(function () {
+                // TODO - check if this url can be standardized
+                dfp.autoAds.push(
+                        googletag.defineSlot(dfp.DESKTOP_URL, [[728, 90], [970, 90]], 'ad-north')
+                                .addService(googletag.pubads())
+                                .setTargeting('loc', ['top'])
+                );
+            });
+        });
+    </script>
+</div>
                 </div>
             
             <div id="page" class="">
@@ -974,15 +1270,15 @@
 <li> <strong>Information from Social Network Services (including Facebook).</strong> If you link our Services with any third party social networking service then we may collect certain information related to or associated with your account with that social networking service. For example, our Services allow you to create and/or associate an account on our Services using your Facebook account credentials through Facebook Connect. You may have the ability to control what information is shared from these third party social network services by adjusting the privacy settings on those services. </li>
 <li> <strong>Information from other sources.</strong> We may also periodically obtain both personal and non-personal information about you from other business partners, contractors, and other third parties and may add it to our account information or other information we have collected about you. Examples of information that we may receive include but are not limited to: updated delivery and address information, purchase history, and additional demographic information. </li>
 <li> <strong>Information collected automatically.</strong> We automatically receive information from the browser of the computer or device from which you visit or use our Services. This information may include (without limitation) your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. </li>
-<li> <strong>Cookies and Similar Technologies.</strong> When you visit our Services, we may assign the browser from which you access our Services one or more cookies or similar technologies to facilitate access to our Services and to personalize your online experience. Through the use of a cookie or similar technology, we also may automatically collect information about your online activity on our Services, such as the web pages you visit, the links you click, and the searches you conduct on our Services. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies or decide which types of cookies to automatically accept or reject. If you choose to decline cookies or other similar technologies, please note that you may have difficulty signing in, and may not be able to use some of the interactive features offered through our Services. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Services. To learn more about how to opt out of Google’s use of the Google Analytics cookie, visit the Google Analytics Opt-out Browser Add-on at <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.&nbsp; To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page at <a href="https://support.google.com/ads/answer/2662922?hl=e">https://support.google.com/ads/answer/2662922?hl=e</a>. </li>
+<li> <strong>Cookies and Similar Technologies.</strong> When you visit our Services, we may assign the browser from which you access our Services one or more cookies or similar technologies to facilitate access to our Services and to personalize your online experience. Through the use of a cookie or similar technology, we also may automatically collect information about your online activity on our Services, such as the web pages you visit, the links you click, and the searches you conduct on our Services. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies or decide which types of cookies to automatically accept or reject. If you choose to decline cookies or other similar technologies, please note that you may have difficulty signing in, and may not be able to use some of the interactive features offered through our Services. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Services. To learn more about how to opt out of Google’s use of the Google Analytics cookie, visit the Google Analytics Opt-out Browser Add-on at <a href="//tools.google.com/dlpage/gaoptout">//tools.google.com/dlpage/gaoptout</a>.&nbsp; To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page at <a href="//support.google.com/ads/answer/2662922?hl=e">//support.google.com/ads/answer/2662922?hl=e</a>. </li>
 <li> <strong>Mobile Devices.</strong> We may receive information from your mobile devices when you visit our Services, such as identifiers for advertising (“IDFA”) and geographic or geolocation information. If you choose to turn off identifiers such as IDFA or locational tracking on your mobile device, please note that you may not be able to use some of the interactive features offered through our Services. </li>
 <a name="information_collected_by_third_parties"></a>
 <li> <strong>Other Technologies.</strong> We may use other technologies, such as web beacons, to track your use of our Services. We also may include web beacons in promotional or other email messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize our Services, to deliver targeted advertisements, and to measure the overall effectiveness of our online advertising, content, programming, or other activities. </li>
 <li> 
 
 <strong>Information collected by third parties.</strong>
- We may allow our authorized service providers, advertising companies, and ad networks, to display advertisements on our Services and/or use tracking technologies to collect information about users who view or interact with their advertisements or use the Service. Our Services do not provide or grant access to any personally identifying information to these third party advertisers. The tracking technologies allow the third parties to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be interest-based advertising companies that may use cookies to collect non-personally identifiable information during your visit to the Service in order to help show advertisements on other websites likely to be more interesting to you. To learn more about interest-based advertising or to opt-out of this use of your anonymous information, you can visit the Network Advertising Initiative's opt-out link at <a href="http://www.networkadvertising.org/choices">http://www.networkadvertising.org/choices</a>.</li>
-<li> <strong>Cross-Device Advertising.</strong> We may use third-party advertising companies to target advertisements to you on our Services, across the web, on your mobile device and on any of your other devices, based on the information we have collected from and about you, as well as information relating to your and other users’ visits to this and other websites and online services.&nbsp; To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags) or recognize an identifier associated with your mobile device.&nbsp; These companies may also use these technologies, along with personal information they or we collect on the different devices you use, to recognize you across the devices you use, such as a mobile device and a laptop or other computer.&nbsp; If you would like more information about these practices, go to www.aboutads.info.&nbsp; To learn about your choices in connection with these practices on the particular device on which you are accessing this policy, please visit&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>&nbsp;and&nbsp;<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> to opt out in desktop and mobile web browsers.&nbsp; You may download the AppChoices app at www.aboutads.info/appchoices to opt out in mobile apps.&nbsp; You may also click on the informational icon contained within each interest based ad. </li>
+ We may allow our authorized service providers, advertising companies, and ad networks, to display advertisements on our Services and/or use tracking technologies to collect information about users who view or interact with their advertisements or use the Service. Our Services do not provide or grant access to any personally identifying information to these third party advertisers. The tracking technologies allow the third parties to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be interest-based advertising companies that may use cookies to collect non-personally identifiable information during your visit to the Service in order to help show advertisements on other websites likely to be more interesting to you. To learn more about interest-based advertising or to opt-out of this use of your anonymous information, you can visit the Network Advertising Initiative's opt-out link at <a href="//www.networkadvertising.org/choices">//www.networkadvertising.org/choices</a>.</li>
+<li> <strong>Cross-Device Advertising.</strong> We may use third-party advertising companies to target advertisements to you on our Services, across the web, on your mobile device and on any of your other devices, based on the information we have collected from and about you, as well as information relating to your and other users’ visits to this and other websites and online services.&nbsp; To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags) or recognize an identifier associated with your mobile device.&nbsp; These companies may also use these technologies, along with personal information they or we collect on the different devices you use, to recognize you across the devices you use, such as a mobile device and a laptop or other computer.&nbsp; If you would like more information about these practices, go to www.aboutads.info.&nbsp; To learn about your choices in connection with these practices on the particular device on which you are accessing this policy, please visit&nbsp;<a href="//www.networkadvertising.org/managing/opt_out.asp">//www.networkadvertising.org/managing/opt_out.asp</a>&nbsp;and&nbsp;<a href="//www.aboutads.info/choices">//www.aboutads.info/choices</a> to opt out in desktop and mobile web browsers.&nbsp; You may download the AppChoices app at www.aboutads.info/appchoices to opt out in mobile apps.&nbsp; You may also click on the informational icon contained within each interest based ad. </li>
 <li> <strong>Information about others.</strong> We may also collect and store personal information about other people that you provide to us when you use our Services, including (without limitation) email address, physical address. So, for example, if you use our Service to send other people a gift, information that may interest them, invitations or correspondence, or other communications through our Services, we may store and use the information you provide to us. We use the information you provide about others in several ways, including (a) to allow people to respond to and comment on your Evite invitation; (b) to send reminders and other event information; (c) to display your guests’ email address or other information to other guests of the same event; (d) to send post-event communications and promotional emails; (e) to provide certain services through our Services; and (f) to provide to third parties under some circumstances. </li>
 </ul>
 <h3>How we use the information we collect.</h3>
@@ -1101,14 +1397,19 @@ Attn: Privacy Officer<br>
                 
                     <div class="advertisement">
                         <div id="ad_ad-south" class="gpt-ad gpt-auto leaderboard">
-                            <script>
-                                googletag.cmd.push(function() {
-                                    window.autoAds.push(googletag.defineSlot("/5480/web.evite/" + desktop_slot1() + "footer", [728, 90], "ad_ad-south")
-                                       .addService(googletag.pubads())
-                                       .setTargeting('loc', ['bot']));
-                                });
-                            </script>
-                        </div>
+    <script>
+        evite.when('dfp').then(function (dfp) {
+            googletag.cmd.push(function () {
+                // TODO - Try to remove hard coded 'footer' value so urls are consistent
+                dfp.autoAds.push(
+                        googletag.defineSlot(dfp.compactUrl(dfp.DESKTOP_ID, 'footer'), [728, 90], 'ad_ad-south')
+                                .addService(googletag.pubads())
+                                .setTargeting('loc', ['bot'])
+                );
+            });
+        });
+    </script>
+</div>
                     </div>
                 
             </div>
@@ -1157,9 +1458,8 @@ Attn: Privacy Officer<br>
             </ul>
         </form>
     </div>
-    <p class="legal">© 2017 Evite. All Rights Reserved.<br>Evite® and Life's Better Together® are registered trademarks of Evite, Inc.
-        in the United States and other countries.
-        The Evite logo and all other Evite-related trademarks are trademarks of Evite, Inc.<br>
+    <p class="legal">© 2017 Evite. All Rights Reserved.<br>Evite® and Be There™ are trademarks of Evite, Inc. in the United States and other countries.
+        The Evite logo and all other Evite-related trademarks are trademarks of Evite, Inc.
         Please use this mark only to refer to our services.
         Users of alcohol-endorsed Evite designs must be of legal drinking age.
         <span class="legal-links">
@@ -1172,12 +1472,13 @@ Attn: Privacy Officer<br>
 
 
 <script type="text/javascript">
+evite.when('jquery').then(function() {
     var signup_wrap = $('.newsletter-signup'),
-        feedback    = $('#newsletter-feedback'),
+        feedback = $('#newsletter-feedback'),
         success_msg = $('#success_message'),
-        error_msg   = $('#error_message');
+        error_msg = $('#error_message');
 
-    var subscribe = function() {
+    var subscribe = function () {
         var data = {
             email_addr: $('#email')[0].value
         };
@@ -1199,17 +1500,18 @@ Attn: Privacy Officer<br>
                 success_msg.hide();
             }
         });
-    }
+    };
 
     signup_wrap.find('button').click(subscribe);
 
-    signup_wrap.find('input').keypress(function(e) {
+    signup_wrap.find('input').keypress(function (e) {
         error_msg.hide();
         if (e.keyCode == 13) {
             e.preventDefault();
             subscribe();
         }
     });
+});
 </script>
   </div>
 </div>
@@ -1222,7 +1524,7 @@ Attn: Privacy Officer<br>
     <header class="container">
         
         <form id="gallery_search_form" action="/gallery/search/">
-    <input type="hidden" name="csrfmiddlewaretoken" value="96HsEturGaerjpaLsP8PMjpztFs75o7S">
+    <input type="hidden" name="csrfmiddlewaretoken" value="kiuslFGll6MMFLoMk6KLIRVKIW2nPO4g">
     <input type="hidden" id="search_location" name="search_location" value="mw_menu">
     <div class="search-container">
         <div class="search-holder">
@@ -1237,556 +1539,607 @@ Attn: Privacy Officer<br>
 </form>
         
             <span class="register-signin">
-                <a href="https://www.evite.com/register" class="button-primary-inverse register">Register</a>
-                <a href="https://www.evite.com/login" class="button-primary">Sign In</a>
+                <a href="/register" class="button-primary-inverse register">Register</a>
+                <a href="/login" class="button-primary">Sign In</a>
             </span>
         
 
     </header>
-    <div class="ui-accordion collapsed">
-        <h2 class="inactive accordion-nav" id="nav_mobile_apps">MOBILE APPS <span></span></h2>
-        <ul class="category-list">
-            <li data-id="evite-app" class="category app-nav"><a href="/mobile/?app=evite-app">Evite App</a></li>
-            <li data-id="photobooth" class="category app-nav"><a href="/mobile/?app=photobooth">Photo Booth</a></li>
-        </ul>
-    </div>
-    <div class="ui-accordion collapsed">
-        <h2 class="inactive accordion-nav" id="nav_party_ideas">PARTY IDEAS <span></span></h2>
-        <ul class="category-list">
-            <li class="category" data-id="party-home">
-                <a href="http://ideas.evite.com/">Home</a>
-            </li>
-        </ul>
-    </div>
-    <div class="ui-accordion collapsed">
-        <h2 class="inactive accordion-nav" id="nav_instant_gifts">INSTANT GIFTS <span></span></h2>
-        <ul class="category-list">
-            <li class="category" data-id="gifts-home">
-                <a href="http://gifts.evite.com/">Home</a>
-            </li>
-        </ul>
-    </div>
-    <div class="ui-accordion collapsed">
-        <h2 class="inactive accordion-nav" id="nav_evite_vendors">FIND VENDORS <span></span></h2>
-        <ul class="category-list">
-            <li class="category" data-id="vendors-home">
-                <a href="https://www.evitevendors.com/">Home</a>
-            </li>
-        </ul>
-    </div>
-    <div class="ui-accordion">
-        <h2 class="accordion-nav" id="nav_invitations">INVITATIONS <span></span></h2>
-        <ul class="category-list">
-            <li class="category" data-id="featured">
-                <a href="/gallery/">Featured</a>
-            </li>
+    <a href="/mobile/?app=evite-app" data-id="evite-app" title="Evite App" class="mobile-nav-header" id="nav_mobile_apps">MOBILE APP <span></span></a>
+    <a href="http://ideas.evite.com/" data-id="party-home" title="Party Ideas" class="mobile-nav-header" id="nav_party_ideas">PARTY IDEAS <span></span></a>
+    <a href="http://gifts.evite.com/" data-id="gifts-home" title="Instant Gifts" class="mobile-nav-header" id="nav_instant_gifts">INSTANT GIFTS <span></span></a>
+    <a href="http://www.evitevendors.com/" data-id="vendors-home" title="Party Vendors" class="mobile-nav-header" id="nav_evite_vendors">PARTY VENDORS <span></span></a>
+    <div class="mobile-nav-header" id="nav_invitations">INVITATION CATEGORIES </div>
+    <div class="category-list">
+        
+
+
+    
+        
+        <h2>Birthday Parties</h2>
+        <ul>
             
-            
-                <li class="category" data-id="july_fourth">
-                <a href="/gallery/category/july_fourth/">
-                    4th of July
-                </a>
-                </li>
-            
-                <li class="category" data-id="anniversary">
-                <a href="/gallery/category/anniversary/">
-                    Anniversary
-                </a>
-                </li>
-            
-                <li class="category" data-id="baby_shower">
-                <a href="/gallery/category/baby_shower/">
-                    Baby Shower
-                </a>
-                </li>
-            
-                <li class="category" data-id="babys_first">
-                <a href="/gallery/category/babys_first/">
-                    Baby's First Year
-                </a>
-                </li>
-            
-                <li class="category" data-id="bachelor">
-                <a href="/gallery/category/bachelor/">
-                    Bachelor Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="bachelorette">
-                <a href="/gallery/category/bachelorette/">
-                    Bachelorette Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="back_to_school">
-                <a href="/gallery/category/back_to_school/">
-                    Back to School
-                </a>
-                </li>
-            
-                <li class="category" data-id="bbq">
-                <a href="/gallery/category/bbq/">
-                    BBQ
-                </a>
-                </li>
-            
-                <li class="category" data-id="beach_party">
-                <a href="/gallery/category/beach_party/">
-                    Beach Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="birthday_forher">
-                <a href="/gallery/category/birthday_forher/">
-                    Birthday for Her
-                </a>
-                </li>
-            
-                <li class="category" data-id="birthday_forhim">
-                <a href="/gallery/category/birthday_forhim/">
-                    Birthday for Him
-                </a>
-                </li>
-            
-                <li class="category" data-id="birthday_forkids">
-                <a href="/gallery/category/birthday_forkids/">
-                    Birthday for Kids
-                </a>
-                </li>
-            
-                <li class="category" data-id="birthday_milestones">
-                <a href="/gallery/category/birthday_milestones/">
-                    Birthday Milestones
-                </a>
-                </li>
-            
-                <li class="category" data-id="bridal_shower">
-                <a href="/gallery/category/bridal_shower/">
-                    Bridal Shower
-                </a>
-                </li>
-            
-                <li class="category" data-id="brunch_lunch">
-                <a href="/gallery/category/brunch_lunch/">
-                    Brunch / Lunch
-                </a>
-                </li>
-            
-                <li class="category" data-id="celebraciones_religiosas">
-                <a href="/gallery/category/celebraciones_religiosas/">
-                    Celebraciones Religiosas
-                </a>
-                </li>
-            
-                <li class="category" data-id="charity_fundraisers">
-                <a href="/gallery/category/charity_fundraisers/">
-                    Charity / Fundraisers
-                </a>
-                </li>
-            
-                <li class="category" data-id="christmas">
-                <a href="/gallery/category/christmas/">
-                    Christmas
-                </a>
-                </li>
-            
-                <li class="category" data-id="cinco_de_mayo">
-                <a href="/gallery/category/cinco_de_mayo/">
-                    Cinco de Mayo
-                </a>
-                </li>
-            
-                <li class="category" data-id="clubs_groups">
-                <a href="/gallery/category/clubs_groups/">
-                    Clubs / Groups
-                </a>
-                </li>
-            
-                <li class="category" data-id="cocktail_party">
-                <a href="/gallery/category/cocktail_party/">
-                    Cocktail Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="college_basketball">
-                <a href="/gallery/category/college_basketball/">
-                    College Basketball
-                </a>
-                </li>
-            
-                <li class="category" data-id="cumpleanos">
-                <a href="/gallery/category/cumpleanos/">
-                    Cumpleaños
-                </a>
-                </li>
-            
-                <li class="category" data-id="derby_day">
-                <a href="/gallery/category/derby_day/">
-                    Derby Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="dinner_party">
-                <a href="/gallery/category/dinner_party/">
-                    Dinner Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="diwali">
-                <a href="/gallery/category/diwali/">
-                    Diwali
-                </a>
-                </li>
-            
-                <li class="category" data-id="dia_de_las_madres">
-                <a href="/gallery/category/dia_de_las_madres/">
-                    Día de las Madres
-                </a>
-                </li>
-            
-                <li class="category" data-id="easter">
-                <a href="/gallery/category/easter/">
-                    Easter
-                </a>
-                </li>
-            
-                <li class="category" data-id="engagement">
-                <a href="/gallery/category/engagement/">
-                    Engagement Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="family_gathering">
-                <a href="/gallery/category/family_gathering/">
-                    Family Gathering
-                </a>
-                </li>
-            
-                <li class="category" data-id="fathers_day">
-                <a href="/gallery/category/fathers_day/">
-                    Father's Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="fiesta">
-                <a href="/gallery/category/fiesta/">
-                    Fiesta
-                </a>
-                </li>
-            
-                <li class="category" data-id="game_night">
-                <a href="/gallery/category/game_night/">
-                    Game Night
-                </a>
-                </li>
-            
-                <li class="category" data-id="gender_reveal">
-                <a href="/gallery/category/gender_reveal/">
-                    Gender Reveal
-                </a>
-                </li>
-            
-                <li class="category" data-id="gift_exchange">
-                <a href="/gallery/category/gift_exchange/">
-                    Gift Exchange
-                </a>
-                </li>
-            
-                <li class="category" data-id="girls_night">
-                <a href="/gallery/category/girls_night/">
-                    Girls' Night
-                </a>
-                </li>
-            
-                <li class="category" data-id="graduation">
-                <a href="/gallery/category/graduation/">
-                    Graduation
-                </a>
-                </li>
-            
-                <li class="category" data-id="guys_night">
-                <a href="/gallery/category/guys_night/">
-                    Guys' Night
-                </a>
-                </li>
-            
-                <li class="category" data-id="halloween">
-                <a href="/gallery/category/halloween/">
-                    Halloween
-                </a>
+                <li class="">
+                    
+                    <a href="/gallery/category/birthday_forkids">Birthday for Kids <span></span></a>
                 </li>
             
-                <li class="category" data-id="halloween_kids">
-                <a href="/gallery/category/halloween_kids/">
-                    Halloween for Kids
-                </a>
+                <li class="">
+                    
+                    <a href="/gallery/category/birthday_forher">Birthday for Her <span></span></a>
                 </li>
             
-                <li class="category" data-id="hanukkah">
-                <a href="/gallery/category/hanukkah/">
-                    Hanukkah
-                </a>
+                <li class="">
+                    
+                    <a href="/gallery/category/birthday_forhim">Birthday for Him <span></span></a>
                 </li>
             
-                <li class="category" data-id="happy_hour">
-                <a href="/gallery/category/happy_hour/">
-                    Happy Hour
-                </a>
+                <li class="">
+                    
+                    <a href="/gallery/category/birthday_save_the_date">Birthday Save the Date <span></span></a>
                 </li>
             
-                <li class="category" data-id="holidayforkids">
-                <a href="/gallery/category/holidayforkids/">
-                    Holiday for Kids
-                </a>
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/birthday_milestones">Birthday Milestones <span></span></a>
                 </li>
             
-                <li class="category" data-id="holiday_party">
-                <a href="/gallery/category/holiday_party/">
-                    Holiday Party
-                </a>
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/babys_first">Baby's First Year <span></span></a>
                 </li>
             
-                <li class="category" data-id="hostess_party">
-                <a href="/gallery/category/hostess_party/">
-                    Hostess Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="housewarming">
-                <a href="/gallery/category/housewarming/">
-                    Housewarming
-                </a>
-                </li>
-            
-                <li class="category" data-id="kids_corner">
-                <a href="/gallery/category/kids_corner/">
-                    Kids' Corner
-                </a>
-                </li>
-            
-                <li class="category" data-id="kwanzaa">
-                <a href="/gallery/category/kwanzaa/">
-                    Kwanzaa
-                </a>
-                </li>
-            
-                <li class="category" data-id="labor_day">
-                <a href="/gallery/category/labor_day/">
-                    Labor Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="lunarnewyear">
-                <a href="/gallery/category/lunarnewyear/">
-                    Lunar New Year
-                </a>
-                </li>
-            
-                <li class="category" data-id="mardi_gras">
-                <a href="/gallery/category/mardi_gras/">
-                    Mardi Gras
-                </a>
-                </li>
-            
-                <li class="category" data-id="memorial_day">
-                <a href="/gallery/category/memorial_day/">
-                    Memorial Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="mothers_day">
-                <a href="/gallery/category/mothers_day/">
-                    Mother's Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="new_years">
-                <a href="/gallery/category/new_years/">
-                    New Year's Eve
-                </a>
-                </li>
-            
-                <li class="category" data-id="office_holiday">
-                <a href="/gallery/category/office_holiday/">
-                    Office Holiday
-                </a>
-                </li>
-            
-                <li class="category" data-id="oktoberfest">
-                <a href="/gallery/category/oktoberfest/">
-                    Oktoberfest
-                </a>
-                </li>
-            
-                <li class="category" data-id="outdoor_fun">
-                <a href="/gallery/category/outdoor_fun/">
-                    Outdoor Fun
-                </a>
-                </li>
-            
-                <li class="category" data-id="pascua">
-                <a href="/gallery/category/pascua/">
-                    Pascua
-                </a>
-                </li>
-            
-                <li class="category" data-id="passover">
-                <a href="/gallery/category/passover/">
-                    Passover
-                </a>
-                </li>
-            
-                <li class="category" data-id="pet_party">
-                <a href="/gallery/category/pet_party/">
-                    Pet Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="pool_party">
-                <a href="/gallery/category/pool_party/">
-                    Pool Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="post_wedding_brunch">
-                <a href="/gallery/category/post_wedding_brunch/">
-                    Post-Wedding Brunch
-                </a>
-                </li>
-            
-                <li class="category" data-id="potluck">
-                <a href="/gallery/category/potluck/">
-                    Potluck
-                </a>
-                </li>
-            
-                <li class="category" data-id="professional_events">
-                <a href="/gallery/category/professional_events/">
-                    Professional Events
-                </a>
-                </li>
-            
-                <li class="category" data-id="quinceanera">
-                <a href="/gallery/category/quinceanera/">
-                    Quinceañera
-                </a>
-                </li>
-            
-                <li class="category" data-id="ramadan">
-                <a href="/gallery/category/ramadan/">
-                    Ramadan
-                </a>
-                </li>
-            
-                <li class="category" data-id="rehearsal_dinner">
-                <a href="/gallery/category/rehearsal_dinner/">
-                    Rehearsal Dinner
-                </a>
-                </li>
-            
-                <li class="category" data-id="religious">
-                <a href="/gallery/category/religious/">
-                    Religious
-                </a>
-                </li>
-            
-                <li class="category" data-id="retirement_farewell">
-                <a href="/gallery/category/retirement_farewell/">
-                    Retirement / Farewell
-                </a>
-                </li>
-            
-                <li class="category" data-id="reunions">
-                <a href="/gallery/category/reunions/">
-                    Reunions
-                </a>
-                </li>
-            
-                <li class="category" data-id="save_the_date">
-                <a href="/gallery/category/save_the_date/">
-                    Save the Date
-                </a>
-                </li>
-            
-                <li class="category" data-id="sports_leagues">
-                <a href="/gallery/category/sports_leagues/">
-                    Sports / Leagues
-                </a>
-                </li>
-            
-                <li class="category" data-id="st_patricks_day">
-                <a href="/gallery/category/st_patricks_day/">
-                    St. Patrick's Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="tailgating">
-                <a href="/gallery/category/tailgating/">
-                    Tailgating
-                </a>
-                </li>
-            
-                <li class="category" data-id="thanksgiving">
-                <a href="/gallery/category/thanksgiving/">
-                    Thanksgiving
-                </a>
-                </li>
-            
-                <li class="category" data-id="thebiggame">
-                <a href="/gallery/category/thebiggame/">
-                    The Big Game
-                </a>
-                </li>
-            
-                <li class="category" data-id="theme_party">
-                <a href="/gallery/category/theme_party/">
-                    Theme Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="trips_getaways">
-                <a href="/gallery/category/trips_getaways/">
-                    Trips and Getaways
-                </a>
-                </li>
-            
-                <li class="category" data-id="valentines_day">
-                <a href="/gallery/category/valentines_day/">
-                    Valentine's Day
-                </a>
-                </li>
-            
-                <li class="category" data-id="viewing_party">
-                <a href="/gallery/category/viewing_party/">
-                    Viewing Party
-                </a>
-                </li>
-            
-                <li class="category" data-id="watchthegame">
-                <a href="/gallery/category/watchthegame/">
-                    Watch the Game
-                </a>
-                </li>
-            
-                <li class="category" data-id="weddings">
-                <a href="/gallery/category/weddings/">
-                    Weddings
-                </a>
-                </li>
-            
-                <li class="category" data-id="welcome_reception">
-                <a href="/gallery/category/welcome_reception/">
-                    Welcome/Reception
-                </a>
-                </li>
             
-                <li class="category" data-id="wine_tasting">
-                <a href="/gallery/category/wine_tasting/">
-                    Wine Tasting
-                </a>
+                <li class="more-li">
+                    <a href="#" class="mega-more">2 More</a>
                 </li>
             
         </ul>
+    
+        
+        <h2>Spring/Summer</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/pool_party">Pool Party <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/bbq">BBQ <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/labor_day">Labor Day <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/beach_party">Beach Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/outdoor_fun">Outdoor Fun <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/st_patricks_day">St. Patrick's Day <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/mardi_gras">Mardi Gras <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/easter">Easter <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/passover">Passover <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/cinco_de_mayo">Cinco de Mayo <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/mothers_day">Mother's Day <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/memorial_day">Memorial Day <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/fathers_day">Father's Day <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/ramadan">Ramadan <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/derby_day">Derby Day <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/graduation">Graduation <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/july_fourth">4th of July <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">13 More</a>
+                </li>
+            
+        </ul>
+    
+
+    
+        
+        <h2>Babies &amp; Kids</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/baby_shower">Baby Shower <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/babys_first">Baby's First Year <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/gender_reveal">Gender Reveal <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/birthday_forkids">Birthday for Kids <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/kids_corner">Kids' Activities <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/religious">Religious <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">2 More</a>
+                </li>
+            
+        </ul>
+    
+        
+        <h2>Fall/Winter</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/back_to_school">Back to School <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/oktoberfest">Oktoberfest <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/diwali">Diwali <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/halloween">Halloween <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/halloween_kids">Halloween for Kids <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/thanksgiving">Thanksgiving <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/gift_exchange">Gift Exchange <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/holidayforkids">Holiday for Kids <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/holiday_party">Holiday Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/office_holiday">Office Holiday <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/hanukkah">Hanukkah <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/kwanzaa">Kwanzaa <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/christmas">Christmas <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/new_years">New Year's Eve <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/lunarnewyear">Lunar New Year <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/valentines_day">Valentine's Day <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">12 More</a>
+                </li>
+            
+        </ul>
+    
+
+    
+        
+        <h2>Get Togethers</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/housewarming">Housewarming <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/happy_hour">Happy Hour <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/dinner_party">Dinner Party <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/girls_night">Girls' Night <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/cocktail_party">Cocktail Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/guys_night">Guys' Night <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/pet_party">Pet Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/potluck">Potluck <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/viewing_party">Viewing Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/theme_party">Theme Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/wine_tasting">Wine Tasting <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/trips_getaways">Trips and Getaways <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/reunions">Reunions <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/brunch_lunch">Brunch / Lunch <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/family_gathering">Family Gathering <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/game_night">Game Night <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">12 More</a>
+                </li>
+            
+        </ul>
+    
+        
+        <h2>Sports/Leagues</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/football">Football <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/baseball">Baseball <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/soccer">Soccer <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/bowling">Bowling <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/watchthegame">Watch the Game <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/tailgating">Tailgating <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/golf">Golf <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/college_basketball">Basketball <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">4 More</a>
+                </li>
+            
+        </ul>
+    
+
+    
+        
+        <h2>Organizations</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/professional_events">Professional Events <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/charity_fundraisers">Charity / Fundraisers <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/retirement_farewell">Retirement / Farewell <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/book_club">Book Club <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/school">School <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/activism">Activism <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/greek_life">Greek Life <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/meetings">Meetings <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">4 More</a>
+                </li>
+            
+        </ul>
+    
+        
+        <h2>Spanish</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/cumpleanos">Cumpleaños <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/quinceanera">Quinceañera <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/celebraciones_religiosas">Celebraciones Religiosas <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/fiesta">Fiesta <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/pascua">Pascua <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/dia_de_las_madres">Día de las Madres <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">2 More</a>
+                </li>
+            
+        </ul>
+    
+
+    
+        
+        <h2>Weddings</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/engagement">Engagement Party <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/save_the_date">Save the Date <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/weddings">Wedding Ceremony <span></span></a>
+                </li>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/bridal_shower">Bridal Shower <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/bachelorette">Bachelorette Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/bachelor">Bachelor Party <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/rehearsal_dinner">Rehearsal Dinner <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/welcome_reception">Welcome/Reception <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/post_wedding_brunch">Post-Wedding Brunch <span></span></a>
+                </li>
+            
+                <li class="hidden">
+                    
+                    <a href="/gallery/category/anniversary">Anniversary <span></span></a>
+                </li>
+            
+            
+                <li class="more-li">
+                    <a href="#" class="mega-more">6 More</a>
+                </li>
+            
+        </ul>
+    
+        
+        <h2>Design Your Own</h2>
+        <ul>
+            
+                <li class="">
+                    
+                    <a href="/gallery/category/design_your_own">Design Your Own <span></span></a>
+                </li>
+            
+            
+        </ul>
+    
+
     </div>
 </section>
 <div class="content-mask"></div>
@@ -1798,16 +2151,20 @@ Attn: Privacy Officer<br>
 
     
     
+    <script type="text/javascript" src="/assets/js-lib/jquery-1.12.4.min.js" onload="evite.resolve('jquery', jQuery)"></script>
     <script type="text/javascript">
         evite.resolvePromiseByName('block footer');
     </script>
+
+    <script type="text/javascript" src="//g0.evitecdn.com/assets/1501183118/_build/webpack_bundles/common_base.common-libraries.js"></script>
     
-    <script type="text/javascript" src="//g0.evitecdn.com/assets/1492799825/_build/webpack_bundles/common_base.common-libraries.js"></script>
+
+    
+    <script type="text/javascript" src="//g1.evitecdn.com/assets/1501183118/_build/webpack_bundles/common_base.nav.js"></script>
+    
+
 
     <script type="text/javascript">evite.resolvePromiseByName('evite.store', window.evite.store = new Backbone.Model({}));</script>
-
-    
-    <script type="text/javascript" src="//g2.evitecdn.com/assets/1492799825/_build/webpack_bundles/common_base.main.js"></script>
 
     
     
@@ -1816,28 +2173,41 @@ Attn: Privacy Officer<br>
             evite.resolvePromiseByName('block js');
 
         });
-
     </script>
 
-<script>
-(function(ads_initiated) {
-    if (ads_initiated) {
-        return;
-    }
-    window.ads_initiated = true;
-    if (window.ybotq) {
-        window.ybotq.push(function () {
-            window.googletag.cmd.push(function () {
-                window.renderAutoAds();
+    <script>
+    (function () {
+        if (window.ads_initiated) {
+            return;
+        }
+        window.ads_initiated = true;
+
+        evite.when('dfp').then(function (dfp) {
+            googletag.cmd.push(function () {
+                dfp.renderAutoAds();
             });
         });
-    } else {
-        window.googletag.cmd.push(function () {
-            window.renderAutoAds();
-        });
-    }
-})(window.ads_initiated);
+    })();
 </script>
+
+
+<script>
+
+window['optimizely'] = window['optimizely'] || [];
+window['optimizely'].push(["setCookieExpiration", 730]);
+evite.when('jquery').then(function() {
+    var s,t = document.createElement('script');
+    t.type = 'text/javascript';
+    t.async = true;
+    t.defer = true;
+    t.src = 'https://cdn.optimizely.com/js/310467258.js';
+    t.onload = function(){evite.resolve("optimizely", optimizely)};
+    s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+});
+</script>
+
+
 
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGBL25"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -1863,6 +2233,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
     
 </script>
+
 
 
 </body></html>
