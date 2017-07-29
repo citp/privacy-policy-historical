@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalenfield.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804061710id_/http%3A//royalenfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalenfield.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729021828id_/https%3A//royalenfield.com/usa/privacy) for the most accurate reproduction.*
 
 # Privacy - Royal Enfield
 
@@ -50,3 +50,5 @@ To improve your Web experience, and to offer you products in which you might be 
 Changes to this privacy policy
 
 Royal Enfield may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+
+© Royal Enfield. All Rights Reserved.
