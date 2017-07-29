@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointcommission.org privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531030547id_/https%3A//www.jointcommission.org/copyright_and_disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointcommission.org privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729110618id_/https%3A//www.jointcommission.org/copyright_and_disclaimer.aspx) for the most accurate reproduction.*
 
 # Copyright, Disclaimer and Privacy Policy | Joint Commission
 
