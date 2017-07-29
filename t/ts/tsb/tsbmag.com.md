@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626200936id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730014855id_/https%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TSB Magazine | Dating and Lifestyle Advice for Men
 
@@ -71,5 +71,5 @@ Sincerely,
 Bobby Rio  
 TSB Magazine
 
-[](http://www.tsbmag.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=142)  
+[](https://www.tsbmag.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=142)  
 
