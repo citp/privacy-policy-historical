@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 143dressup.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713193006id_/http%3A//www.143dressup.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 143dressup.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731004814id_/http%3A//www.143dressup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,4 +144,4 @@ VAT# : NL852554564B01
 
 \- End -
 
-Â© Flora ICT B.V.
+© Flora ICT B.V.
