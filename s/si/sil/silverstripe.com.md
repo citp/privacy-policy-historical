@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverstripe.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813005355id_/https%3A//www.silverstripe.org/footer-menu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverstripe.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730131546id_/https%3A//www.silverstripe.org/footer-menu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » SilverStripe
 
@@ -9,7 +9,7 @@ SilverStripe is committed to protecting your privacy. When you give us personal 
 This privacy policy covers SilverStripe's treatment of personally identifiable information that we collect on our websites. It only applies to websites which SilverStripe manages and controls, including:
 
   * Our company website at [silverstripe.com](http://silverstripe.com/)
-  * Our open source website [silverstripe.org](http://www.silverstripe.org/home/)
+  * Our open source website [silverstripe.org](https://www.silverstripe.org/home/)
   * Our documentation (wiki) at [doc.silverstripe.org](http://doc.silverstripe.com/)
   * Our translation service at [translate.silverstripe.org](http://translate.silverstripe.org/)
   * Our blogs, email newsletters, and discussion forums
