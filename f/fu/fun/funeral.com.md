@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025331id_/http%3A//funeral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730035039id_/https%3A//funeral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funeral.com
+# Privacy Policy – Funeral.com
 
 ##### Privacy Policy
 
