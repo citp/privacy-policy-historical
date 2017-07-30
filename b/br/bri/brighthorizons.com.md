@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430233621id_/https%3A//www.brighthorizons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730070402id_/https%3A//www.brighthorizons.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Bright Horizons® | Bright Horizons®
 
@@ -185,9 +185,7 @@ Based on your zip code, here are a few near you:
 
 Thank you 
 
-We will be in touch soon.
-
-Your experience is important to us. Help us improve by taking a quick [5-minute survey](http://bit.ly/2pCvMb8). 
+Your visit is being booked. Please watch for an email confirming your visit time and date.
 
 If you would like to contact additional centers, preschools or schools, you may do so below. Otherwise this window can be closed. 
 
