@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handluggageonly.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125646id_/http%3A//handluggageonly.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handluggageonly.co.uk privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730050321id_/https%3A//handluggageonly.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hand Luggage Only - Travel, Food & Home Blog
 
