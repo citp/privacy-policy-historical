@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzle-loop.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530144714id_/http%3A//www.puzzle-loop.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzle-loop.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730030845id_/https%3A//www.puzzle-loop.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Slither Link - online puzzle game
 
