@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmoodhome.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630210611id_/http%3A//www.goodmoodhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmoodhome.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730075557id_/http%3A//www.goodmoodhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Good Mood Home
 
