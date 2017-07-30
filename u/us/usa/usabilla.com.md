@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628003842id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731005411id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
 
 # Usabilla Privacy Statement
 
@@ -17,7 +17,7 @@ Email: support@usabilla.com
 
 On our public websites, we do not collect personal data, unless you provide your personal data through our contact form, request a product demo, subscribe to the newsletter, leave feedback through the feedback button, or fill in a survey. In those cases, we only collect general contact information, such as your name, email address and/or phone number, sometimes optionally. 
 
-Our websites also use cookies. In some cases, the use of cookies is considered equivalent to the processing of personal data. Personal data collected by the cookies on our website is only used for analytical purposes. For more information about our use of cookies, please refer to our [Cookie Policy](https://www.usabilla.com/cookie-policy). 
+Our websites also use cookies. In some cases, the use of cookies is considered equivalent to the processing of personal data. Personal data collected by the cookies on our website is only used for analytical purposes. For more information about our use of cookies, please refer to our [Cookie Policy](https://usabilla.com/cookie-policy/). 
 
 Personal data collected on the Usabilla websites is only used for the purposes for which it was provided. For example, we will only use your personal data to contact you for a demo if that is why you have provided the personal data. If you make use of our contact form, we will use the provided data to contact you to answer your question. If you subscribe to the newsletter, we will only use the collected email address in order to send you the newsletter. If you leave feedback on our website, we will only use the optionally provided email address to potentially contact you about this feedback. 
 
