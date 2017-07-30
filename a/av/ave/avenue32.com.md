@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avenue32.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064941id_/http%3A//www.avenue32.com/us/customer-service-privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenue32.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730185033id_/http%3A//www.avenue32.com/us/customer-service-privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Avenue 32
 
