@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043204id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730172219id_/https%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
 
 # Things To Do - Experience Kissimmee - Orlando Florida Area - Fun Family Events - Kissimmee
 
