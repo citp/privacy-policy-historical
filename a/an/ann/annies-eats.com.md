@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annies-eats.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621045553id_/http%3A//www.annies-eats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annies-eats.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730194534id_/http%3A//www.annies-eats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Annie's EatsAnnie's Eats
 
