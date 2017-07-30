@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the glasscubes.com privacy policy that was archived on 2017-01-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170130012344id_/https%3A//www.glasscubes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glasscubes.com privacy policy that was archived on 2017-07-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170730124924id_/https%3A//www.glasscubes.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css" media="all"><head>
 		<base href="https://www.glasscubes.com/"><!--[if lte IE 6]></base><![endif]-->
 		<meta charset="utf-8">
 		<title>Glasscubes Privacy Policy - Committed to protecting your data.</title> 
@@ -20,12 +20,15 @@
 		<meta name="theme-color" content="#343434">
 		<meta name="MobileOptimized" content="320">
 		<meta name="HandheldFriendly" content="true">
-		<meta name="viewport" content="width=device-width, initial-scale=1, target-densitydpi=device-dpi">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		
+
 		<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
-	<link rel="stylesheet" type="text/css" href="https://www.glasscubes.com/themes/gctheme3/css/carrie_screen.css?m=1485443126">
-<link rel="stylesheet" type="text/css" media="print" href="https://www.glasscubes.com/themes/gctheme3/css/carrie_print.css?m=1455560238">
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/themes/gctheme/css/ie7.css"/><![endif]-->
+		<link rel="stylesheet" type="text/css" media="screen" href="themes/gctheme3/css/carrie_screen.css?m=1485443130">
+
+
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/themes/gctheme/css/ie7.css"/><![endif]-->
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/themes/gctheme/css/ie6.css"/><![endif]-->
 </head>
 
@@ -209,13 +212,59 @@
 				</footer>
 		</div>
 
-		<script src="themes/gctheme3/javascript/head.js"></script>
-		<script>
-		/*	head.load({ jqu: '//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'},'themes/gctheme3/javascript/scripts.js','themes/gctheme3/javascript/mobile.js','themes/gctheme3/javascript/track.js?v=1','themes/gctheme3/javascript/zopim.js','//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css','//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit','themes/gctheme3/javascript/dot.min.js'); */
-			head.load({ jqu: 'themes/gctheme3/javascript/jquery.1.12.0.min.js'},'themes/gctheme3/javascript/scripts.js?v=2','themes/gctheme3/javascript/mobile.js','themes/gctheme3/javascript/track.js?v=1','themes/gctheme3/javascript/zopim.js','themes/gctheme3/css/jquery-ui.1.10.4.css','//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit', 'themes/gctheme3/javascript/dot.min.js');  
+	<script>
+      /*!
+      Modified for brevity from https://github.com/filamentgroup/loadCSS
+      loadCSS: load a CSS file asynchronously.
+      [c]2014 @scottjehl, Filament Group, Inc.
+      Licensed MIT
+      */
+      function loadCSS(href){
+        var ss = window.document.createElement('link'),
+            ref = window.document.getElementsByTagName('head')[0];
+
+        ss.rel = 'stylesheet';
+        ss.href = href;
+
+        // temporarily, set media to something non-matching to ensure it'll
+        // fetch without blocking render
+        ss.media = 'only x';
+
+        ref.parentNode.insertBefore(ss, ref);
+
+        setTimeout( function(){
+          // set media back to `all` so that the stylesheet applies once it loads
+          ss.media = 'all';
+        },0);
+      }
+      loadCSS('//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css');
+    </script>
+    <noscript>
+      <!-- Let's not assume anything -->
+      <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css">
+    </noscript>
+
+
+	<script src="//www.glasscubes.com/themes/gctheme3/javascript/head.js"></script><script id="thisscript">
+			function async(u, c) {
+			  var d = document, t = 'script',
+			      o = d.createElement(t),
+			      s = d.getElementById("thisscript");
+			  o.src = '//' + u;
+			  if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+			  s.parentNode.insertBefore(o, s);
+			}
+
+			async('www.glasscubes.com/themes/gctheme3/javascript/head.js', function() {
+			    	head.load({ jqu: '//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'},'themes/gctheme3/javascript/scripts.js?v=2','themes/gctheme3/javascript/mobile.js','themes/gctheme3/javascript/track.js?v=1','themes/gctheme3/javascript/zopim.js','themes/gctheme3/javascript/dot.min.js'); 
+					
+			});
+			
+
 		
 
 		</script>
+
  
 	
 
