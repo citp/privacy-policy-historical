@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwarert.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323113751id_/http%3A//www.softwarert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarert.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730033854id_/https%3A//www.softwarert.com/privacy) for the most accurate reproduction.*
 
-# Software RT Privacy Statement
+# Privacy | Software RT
 
 ### Privacy Policy
 
@@ -38,4 +38,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How to Contact Us**
 
-If you have any questions or concerns about this www.softwarert.com Privacy Policy or its implementation please contact us via email. Our email following address can be found at [the contact page here](http://www.softwarert.com/contact/).
+If you have any questions or concerns about this www.softwarert.com Privacy Policy or its implementation please contact us via email. Our email following address can be found at [the contact page here](https://www.softwarert.com/contact/).
