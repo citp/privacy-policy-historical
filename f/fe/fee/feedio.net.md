@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedio.net privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530112201id_/http%3A//feedio.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedio.net privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730190152id_/http%3A//feedio.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
