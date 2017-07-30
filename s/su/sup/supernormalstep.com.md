@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supernormalstep.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045750id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dsupernormalstep.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supernormalstep.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730133822id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dsupernormalstep.com) for the most accurate reproduction.*
 
 # Hiveworks Comics Privacy Policy
 
