@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artnology.org privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524103542id_/http%3A//artnology.org/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artnology.org privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731141802id_/http%3A//artnology.org/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Artnology.vn | Artnology.vn
 
