@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035211id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731091418id_/https%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,6 +49,6 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 
 
 Follow the12volt.com [](http://www.facebook.com/pages/the12voltcom/198505935867 "Follow the12volt.com on Facebook")   
-Monday, June 05, 2017 • Copyright © 1999-2017 the12volt.com • [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") • [Advertising](http://www.the12volt.com/adv/default.asp "Advertise on the12volt.com") • Top of Page
+Monday, July 31, 2017 • Copyright © 1999-2017 the12volt.com • [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") • [Advertising](http://www.the12volt.com/adv/default.asp "Advertise on the12volt.com") • Top of Page
 
 **Disclaimer:** *All information on this site ( the12volt.com ) is provided "as is" without any warranty of any kind, either expressed or implied, including but not limited to fitness for a particular use. Any user assumes the entire risk as to the accuracy and use of this information. Please verify all wire colors and diagrams before applying any information. 
