@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531032734id_/http%3A//humancapitalmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731075150id_/https%3A//humancapitalmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Capital Media
 
