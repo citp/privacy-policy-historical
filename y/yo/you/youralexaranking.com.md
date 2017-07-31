@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youralexaranking.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626105313id_/http%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youralexaranking.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731145914id_/https%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
 
 # Alexa Internet - Privacy Policy
 
