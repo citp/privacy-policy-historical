@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405233719id_/https%3A//huckberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801013545id_/https%3A//huckberry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huckberry
 
@@ -10,19 +10,33 @@ We collect personally identifying information that you provide us during the reg
 
 In addition, through the Site, we automatically gather certain non-personally identifiable information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. This gives us valuable information about your customer shopping experience and is used only to improve your experience with our website. Most browsers can be set to prevent cookies or to notify you when one is being placed. It is not necessary to have cookies turned on to visit our Site, but without them, your access to some areas may be limited and certain features, including shopping features, may not be available to you.
 
-If you choose to invite an individual to join Huckberry.com, you will need to provide his/her email address. Huckberry may store this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.
+##### How We Use Your Information
 
-##### How We Use Your Information 
+We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site and its features. We may also track your past purchases to provide you with a personalized profile of your purchase history. The personal information you provide to us will also be added to our databases and used for future weekly communications regarding new product offerings or other special promotions. If you wish not to receive these weekly emails you may remove yourself from our list by logging into your account, and modifying your email delivery options. By registering with Huckberry.com, you are automatically subscribed to our weekly email, but may choose to opt out of our weekly email list at any time.
 
-We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site and its features. We may also track your past purchases to provide you with a personalized profile of your purchase history. The personal information you provide to us will also be added to our databases and used for future weekly communications regarding new travel and product offerings or other special promotions. If you wish not to receive these weekly emails you may remove yourself from our list by logging into your account, and modifying your email delivery options. By registering with Huckberry.com, you are automatically subscribed to our weekly email, but may choose to opt out of our weekly email list at any time.
+In addition to email communications, we may also use your Personal Information (such as your postal address) to contact you with marketing and promotional materials, or other information that we feel may be of interest to you. Some of these materials may be sent via a third party service provider. Any of your information shared with such parties is sent and stored securely, will not be shared, and will be used for no other purposes than those stated above. If you decide at any time that you no longer wish to receive such communications from us (email and/or direct mail), you can can unsubscribe by clicking [here](http://goo.gl/forms/OVepLvR00x) or emailing us at [support@huckberry.com](mailto:support@huckberry.com).
 
-##### Access to Personal Information 
+##### Third-Party Advertising Partners + Internet Advertising Programs
+
+We use third-party service providers to serve advertisements (image banners or links) on our behalf across the Internet. These advertising service providers may collect non-identifiable information about your visits to our website, and your online interactions with certain products and services. Such non-identifiable information does not include your name, address, email address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by many major websites.
+
+In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for products and services available from Huckberry. Huckberry may work with other companies in the future to provide interest-based advertising, both on and off Huckberry.com. If so, Huckberry will provide you with the opportunity to opt-out when these advertisements are served.
+
+If you would like to learn more about Interest-based advertising, and to know your choices for not having this information used by third-party service providers, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+###### Third-Party Platform Advertising
+
+We may also use platforms provided by companies such as Google and Facebook to offer you interest-based ads. These platforms allow us to personalize the ads that we display to you. We do not share any of your personal information, including your shopping history, with these platform vendors. Huckberry may convert your email address into a unique value which can be matched by our partner companies with a user on their platform to allow us to present you with interest-based advertising. Although we do not provide any personal information to these platform vendors, they may gain insights about individuals who respond to the ads we serve. You may learn more about Interest-based advertising, and to know your choices for not having this information used by third-party service providers by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+##### Access to Personal Information
 
 We may permit certain trusted third parties to access your information in connection with their performance of services to maintain and operate the Site and certain features on the Site. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
 
 To provide services you have requested, it may be necessary to provide your personal information to Huckberry merchants and or service providers in order to aid redemption of services requested. Logistics services may utilize supplied information only for completing your delivery.
 
 We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale, membership transfer, or other change in control.
+
+In addition to email communications, we may also use your Personal Information (such as your postal address) to contact you with marketing and promotional materials, or other information that we feel may be of interest to you. Some of these materials may be sent via a third party service provider. Any of your information shared with such parties is sent and stored securely, will not be shared, and will be used for no other purposes than those stated above. If you decide at any time that you no longer wish to receive such communications from us (email and/or direct mail), please let us know by e-mailing us at [support@huckberry.com](mailto:support@huckberry.com).
 
 In addition, we may use or disclose personal information in the good faith belief that we are lawfully required to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or the instructions of legal authorities, to respond to any claims, to enforce our legal rights, or to protect the rights, property or personal safety of ourselves, our employees, you, or members of the public.
 
@@ -42,9 +56,15 @@ The Site uses security measures in order to protect from the loss, misuse and al
 
 ##### Updating and Correcting Information
 
-If you are a registered user, you may change your Personally Identifiable Information or email preferences by logging into your account and accessing the "my account" section of the site, sending us an email at support@huckberry.com or writing to us at 2230 Taylor St., San Francisco, CA 94133. Please indicate your name, address and email address, and what information you would like to update when you contact us.
+If you are a registered user, you may change your Personally Identifiable Information or email preferences by logging into your account and accessing the "my account" section of the site, sending us an email at [support@huckberry.com](mailto:support@huckberry.com) or writing to us at:
 
-##### Children's Privacy and Parental Controls 
+Huckberry Support   
+290 Utah St.   
+San Francisco, CA 94103
+
+Please indicate your name, address and email address, and what information you would like to update when you contact us.
+
+##### Children's Privacy and Parental Controls
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
@@ -61,9 +81,9 @@ California Civil Code Section 1798.83 permits our Members who are California res
 If you have any questions about this Privacy Policy, please contact us at:
 
 Huckberry  
-2230 Taylor St.  
-San Francisco, CA 9413  
-(415) 504-3400  
-support@Huckberry.com
+290 Utah St.  
+San Francisco, CA 94103  
++1 (855) 325-8998  
+[support@huckberry.com](mailto:support@huckberry.com)
 
-Last Updated: February 15, 2011. ©2015 Huckberry LLC. All rights reserved.
+Last Updated: May 25, 2017. ©2017 Huckberry Inc. All rights reserved.
