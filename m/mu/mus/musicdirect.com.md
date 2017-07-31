@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214235558id_/https%3A//www.musicdirect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731131747id_/https%3A//www.musicdirect.com/Privacy) for the most accurate reproduction.*
 
 # Music Direct | Vinyl Records, Turntables, Audiophile Equipment & Accessories
 
