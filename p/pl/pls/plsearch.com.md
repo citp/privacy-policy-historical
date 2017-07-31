@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plsearch.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124224520id_/http%3A//www.plsearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plsearch.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731070448id_/http%3A//www.plsearch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
