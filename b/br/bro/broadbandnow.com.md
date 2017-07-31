@@ -1,62 +1,63 @@
-> *The following text is extracted and transformed from the broadbandnow.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012160745id_/http%3A//broadbandnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandnow.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731192503id_/http%3A//broadbandnow.com/privacy-policy) for the most accurate reproduction.*
 
 # BroadbandNow - Privacy Policy
 
 ### Broadbandnow.com Privacy Policy
 
-#### We take your privacy seriously at broadbandnow.com.
+Thank you for using BroadbandNow.com. We take your privacy seriously at Microbrand Media LLC (the owner of BroadbandNow.com). This Privacy Policy explains how we collect your information at the BroadbandNow.com website and what happens with your information.
 
-Effective Date: November 2013
+By using this site, you consent to the terms of this Privacy Policy, so take the time to review the terms so you can make an informed choice about whether you will continue to use this site.
 
-The following Privacy Policy governs the online information collection practices of Microbrand Media LLC.”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the **Broadbandnow.com** website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+This privacy policy was last changed on 11/8/2016
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+### What Information Do We Collect?
 
-Broadbandnow.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
+When you request to receive more information about a service, we collect personally identifiable information submitted by you in the request form, which may include your name, business name, address, email, telephone number, and other relevant information to helping you find the right broadband service. We also collect your IP address.
 
-**How we gather information from users**
+We collect non-identifiable personal information as you use the site through the use of “cookies,” which is a small data file stored on your computer as an anonymous tag to identify your computer, but not you. As stated below, you can set up your browser to notify you if cookies are received, or to not accept cookies.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in surveys, sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Broadbandnow.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+### How Do We Use Your Information?
 
-**What we do with the information we collect**
+When you process a request for more information we will pass on your name, business name, address, email, telephone number, and IP address to our Third Party Partners who will send you information and contact you as you requested, per their privacy policies and other agreements with you. We may also contact you directly to survey you about your experience with our partners so we can better serve future customers.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+We use first-party and third-party cookies to compile aggregate data about site traffic and site interaction so we can optimize our website and create a better user experience for you, and for marketing purposes. We may use cookies via Google Analytics Advertising Features and Facebook Advertising for remarketing, impression reporting, and interest reporting. [Click here to opt-out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout). If you want to block cookies completely, you can disable them in your browser: [Chrome](http://support.google.com/accounts/answer/61416?hl=en), [Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Safari](http://support.apple.com/en-us/HT201265), or [Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/Block-or-allow-cookies).
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+BroadbandNow.com does not respond to DNT (“Do Not Track”) privacy settings in your website browser. Microbrand Media may use third-party tracking services to provide data in order to optimize the services available on BroadbandNow.com.
 
-We may use Personally Identifiable Information collected on Broadbandnow.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Broadbandnow.com and other topics we think you might find of interest.
+### How Do You Unsubscribe?
 
-Personally Identifiable Information collected by Broadbandnow.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+If at any time you would like to unsubscribe from receiving future emails, you may unsubscribe at the bottom of any email we send to you. If you would like you unsubscribe from receiving emails from our Third Party Partners, you need to follow their unsubscribe procedures.
 
-**Affiliated sites, linked sites and advertisements**
+### How Do We Protect Your Information?
 
-Broadbandnow.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on Broadbandnow.com pages, certain content that is actually created or hosted by a third party. Also, through Broadbandnow.com you may be introduced to, or be able to access, information, surveys, Web sites, features, contests or sweepstakes offered by other parties. Broadbandnow.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+We use various security measures to maintain the safety of your personal information, including transmitting your data securely and hosting your data on a secure server and/or a third-party password-protected, secure service. Any third-party secure service we use will keep your information confidential, will not sell or share your information, and will not contact you directly.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Broadbandnow.com does not control the use of this technology by third parties or the resulting information, and are not responsible for any actions or policies of such third parties.
+We share your information with Third Party Partners who respond to your specific requests for information about services, such as broadband internet access, and with other Third Party Partners who support our business, such as companies conducting research. We will also release your information as required by law or if necessary to protect our legal rights, to comply with a judicial proceeding or court order, to prevent threats to others or illegal activities, or to prevent abuse of BroadbandNow.com.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Broadbandnow.com and this policy.
+We have no control over how the Third Party Partners or other service providers use your identifying information. Please refer to the privacy policies of those companies for more information about how they use your information.
 
-**Children’s Privacy Statement**
+Circumstances may arise where we may decide to sell, buy, merge, or otherwise reorganize our business in the United States or elsewhere, or where we may decide to share, rent, buy, or sell business assets for the purpose of reorganizing, developing, or expanding our business. It is our policy to seek appropriate protection for information in these types of transactions. If the BroadbandNow.com assets or our entire company is acquired, then the lists of personally identifiable information will likely be one of the assets acquired.
 
-This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+### Information Regarding Children
 
-  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
-  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
+We do not collect any information from anyone under 13 years of age. This website is not directed to people who are under 13 years of age. Please notify us at legal@broadbandnow.com if you are a parent whose child has provided us with personally identifying information, and we will delete such information from our files.
+
+### Questions Regarding This Policy
+
+If there are any questions regarding this privacy policy, please direct them to: legal@broadbandnow.com.
+
+Disclaimer: All trademarks remain the property of their respective owners, and are used by BROADBANDNOW only to describe products and services offered by each respective trademark holder. The use of any third party trademarks on this site in no way indicates any relationship, connection, association, sponsorship, or affiliation between BROADBANDNOW and the holders of said trademarks. BROADBANDNOW is a comparison and research website that does not offer internet, TV, or home phone service.
+
+  * [Technology](https://web.archive.org/technology) ·
+  * [Data](https://web.archive.org/data) ·
+  * [Contact Us](https://web.archive.org/contact) ·
+  * [Privacy Policy](https://web.archive.org/privacy-policy) ·
+  * [Terms of Service](https://web.archive.org/terms-of-service)
 
 
 
-We can be reached by using our [contact page](https://web.archive.org/contact). 
+Made with love by Nick Reese and Duane Anderson in Austin, Texas.
 
-**Changes to this Policy  
-**   
-Broadbandnow.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+© 2014 – 2017 BROADBANDNOW
 
-**Governing law  
-**   
-This policy and the use of these Sites are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Texas. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Texas, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-Broadbandnow.com is controlled, operated and administered entirely within Texas. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+BroadbandNow is a registered trademark of Microbrand Media LLC
