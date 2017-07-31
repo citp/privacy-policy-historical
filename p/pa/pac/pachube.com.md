@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pachube.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614064252id_/https%3A//secure.logmein.com/home/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pachube.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731232926id_/https%3A//secure.logmein.com/home/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
