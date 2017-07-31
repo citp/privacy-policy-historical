@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineyogahub.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604092427id_/http%3A//onlineyogahub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineyogahub.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731144248id_/http%3A//onlineyogahub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Yoga Hub
 
