@@ -1,69 +1,90 @@
-> *The following text is extracted and transformed from the secretstocheapflights.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624091014id_/http%3A//www.secretstocheapflights.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretstocheapflights.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801115920id_/https%3A//flyfreeacademy.com/privacy) for the most accurate reproduction.*
 
-# Insider Secrets To Cheap Flights, Hotel Reservations and Car Rentals - Privacy Policy
+# My Awesome Landing Page - Powered by ClickFunnels.com
 
-**WWW.SECRETSTOCHEAPFLIGHTS.COM  
-**
+Fly Free Academy is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-## **PRIVACY POLICY**
+You or Your means you as a participant in or as a user of the flyfreeacademy.com website. We or Our or Us means flyfreeacdemy.com. Our site means flyfreeacademy.com.
 
-Welcome to www.SecretsToCheapFlights.com (the "Site").
+**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
-We understand that privacy online is important to users of our Site, especially when conducting business.  
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.SecretsToCheapFlights.com (collectively, "Services") ("Authorized Customers").
+When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
 
-**"Personally Identifiable Information"**  
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
-or demographic information not connected to an identified individual.
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+Email marketing: With your permission, we may send you emails about new products, free and premium content (i.e. blog posts, YouTube videos, reports/whitepapers, etc.), and special events.
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+**SECTION 2 – CONSENT**
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
+If we ask for your personal information for a secondary reason (i.e. newsletter subscription and marketing messages), we will ask you directly for your expressed consent and provide you with an opportunity to withdraw your consent.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by www.SecretsToCheapFlights.com is securely stored and is not accessible to third parties or employees of www.SecretsToCheapFlights.com except for use as indicated above.
+You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at
+You may also withdraw your consent anytime, by contacting us at support@flyfreeacademy.com.
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+**SECTION 3 – DISCLOSURE**
 
-**How does www.SecretsToCheapFlights.com use login information?**  
-www.SecretsToCheapFlights.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-www.SecretsToCheapFlights.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
-Our privacy policy does not cover their collection or use of this information.  
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+IMPORTANT: We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+**SECTION 4 – DATA STORAGE**
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at 
+Our shopping cart solution is hosted by ClickFunnels, and our payments are processed by Stripe. Our email sending service is provided by Active Campaign. These three companies provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+All of your data with all three companies are stored behind a secure firewall.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+Payment:
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+If you choose a direct payment gateway to complete your purchase, then Stripe stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-© 2009 **www.SecretsToCheapFlights.com** , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+NOTE: At no point during the transaction does Fly Free Academy take custody or store your credit card information. This is process is monitored and managed by Stripe, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: https://stripe.com/us/privacy
+
+**SECTION 5 – THIRD-PARTY SERVICES**
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links: When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+**SECTION 6 – SECURITY**
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+**SECTION 7 – COOKIES**
+
+Fly Free Academy utilizes cookies to create a more customized experience for our users and customers. For example, we use a login cookie so members do not have to re-enter their username and password each time they return to our site. We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising. You can opt out of the collection and use of these cookies for ad targeting here: http://www.aboutads.info/choices/
+
+**SECTION 8 – AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@flyfreeacademy.com.
+
+When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
 
   
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)!
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
+
+Email marketing: With your permission, we may send you emails about new products, free and premium content (i.e. blog posts, YouTube videos, reports/whitepapers, etc.), and special events.
