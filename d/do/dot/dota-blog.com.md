@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dota-blog.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108205856id_/http%3A//www.dota-blog.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dota-blog.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801051737id_/http%3A//www.dota-blog.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DotA-Blog
 
