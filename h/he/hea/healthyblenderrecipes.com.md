@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyblenderrecipes.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607115753id_/http%3A//healthyblenderrecipes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyblenderrecipes.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801193706id_/https%3A//healthyblenderrecipes.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blender Girl
 
