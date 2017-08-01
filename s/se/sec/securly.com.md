@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918175632id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801223658id_/https%3A//www.securly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Securly
 
