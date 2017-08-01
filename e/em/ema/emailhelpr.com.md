@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628062131id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801144454id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gmail Login and Gmail Sign in Information
 
