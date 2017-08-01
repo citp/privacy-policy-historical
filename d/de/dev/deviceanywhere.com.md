@@ -1,58 +1,96 @@
-> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212205037id_/http%3A//www.deviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801180348id_/https%3A//appexperience.sigos.com/privacy) for the most accurate reproduction.*
 
-# Keynote DeviceAnywhere - Mobile Application Testing Platform - Privacy Policy
+# Privacy - SIGOS
 
-Privacy Policy
+******General**
 
-This Privacy Policy  
-Keynote DeviceAnywhere™ Inc. respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains our treatment of your Personal Information collected in connection with your activities either on or related to this website referencing this Privacy Policy or related to use of Keynote DeviceAnywhere products and services. This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
+Your personal data (e.g. title, name, house address, e-mail address, phone number, bank details, credit card number) are processed by us in accordance with the provisions of German data privacy laws. The following provisions describe the type, scope and purpose of collecting, processing and utilizing personal data. This data privacy policy applies only to our web pages. If links on our pages route you to other pages, please inquire there about how your data are handled in such cases.
 
-We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time. Please note that this Privacy Policy does not apply to the practices of companies or websites which are not owned or controlled by Keynote DeviceAnywhere Inc. 
+**Inventory data**
 
-Notification of Changes   
-We are continually improving and adding new functionality and features to this website and improving and adding to our existing products, services, and programs. Because of these ongoing changes, changes in the law, and the changing nature of technology, our data practices will change from time to time. If and when such data practices change, we will post the changes on this website to notify you of the changes. We encourage you to check this page frequently. This Privacy Policy was last updated on September 21, 2009.  
-Information Collected  
-In the course of operating this website or offering Keynote DeviceAnywhere products and services, Keynote DeviceAnywhere may collect two types of information about its users: Personal Information and Anonymous Information. 
+  1.  Your personal data, insofar as these are necessary for this contractual relationship (inventory data) in terms of its establishment, organization of content and modifications, are used exclusively for fulfilling the contract. For goods to be delivered, for instance, your name and address must be relayed to the supplier of the goods.
+  2. Without your explicit consent or a legal basis, your personal data are not passed on to third parties outside the scope of fulfilling this contract. After completion of the contract, your data are blocked against further use. After expiry of deadlines as per tax-related and commercial regulations, these data are deleted unless you have expressly consented to their further use.
 
-“Personal Information” is personally identifiable information, such as your name, email address, title, phone number, and company name. Personal Information is collected by us only when you choose to provide it to us, such as when you use this website to sign up for the Keynote DeviceAnywhere Test Center Developer service, or use this website to contact Keynote DeviceAnywhere with questions and comments. If you choose to contact any of our customer service representatives, we may keep a record of that correspondence to fully address the subject matter. In addition, we may collect information based on your use of Keynote DeviceAnywhere products and services that allow us to accurately track usage and bill for such services provided.
 
-In addition to the information you provide when you use our website or through use of our products or services, we use technology to collect “Anonymous Information” about the use of our website. For example, we use technology to track how many visitors access our website, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use and the address from which they accessed our website.
 
-This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our website. Keynote DeviceAnywhere uses this anonymous data and shares it with third parties to improve the content and functionality of our website, to better understand our customers and markets, and to improve our products and services.
+**Credit check**
 
-Cookies  
-A “cookie” is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser when you access a website. This data is stored on your computer’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Cookies cannot be used to discover the identity of a user.
+If we provide performances in advance, e.g. in case of payment on invoice, we might have to obtain information about your creditworthiness from other companies: For this, we forward your personal details (e.g. name and address) to this company. Mathematical and statistical techniques are used to assess the risk of payment defaults. We make conclusion of the purchase contract dependent on the results of the credit check.
 
-Top
+**Web analysis with Google Analytics**
 
-Keynote DeviceAnywhere uses cookies to facilitate and enhance your experience on our website, such as to give your direct access to our Downloads section after you have entered your contact information once; that way you are not required to enter your contact information each time you wish to download a product or document from our website. Additionally, you may configure your browser to reject cookies sent by Keynote DeviceAnywhere; your ability to view and browse our website will not be impaired in any manner even if you were to block cookies sent by Keynote DeviceAnywhere. 
+This website uses Google Analytics, a web analysis service of Google Inc. (Google). Google Analytics uses cookies, i.e. text files stored on your computer to enable analysis of website usage by you. Information generated by the cookie about your use of this website is usually transmitted to a Google server in the United States and stored there. In case of activated IP anonymization on this website, however, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf this website’s owner, Google will use this information to evaluate your use of the website, compile reports about website activities, and provide the website’s operator with further services related to website and Internet usage. The IP address sent from your browser as part of Google Analytics is not merged with other data by Google. You can prevent storage of cookies by appropriately setting your browser software; in this case, however, please note that you might not be able to fully use all functions offered by this website. In addition, you can prevent data generated by the cookie and relating to your use of the website (including your IP address) from being collected and processed by Google, by downloading and installing a browser plug-in from the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>
 
-Use of Personal Information   
-We use your Personal Information to provide you the products, services, and information you requested from us when submitting such information. We may from time to time use your Personal Information to contact you about changes, enhancements, or similar notices regarding our services and products. In addition, we may use your Personal Information collected during your use of our products or services to accurately invoice you for such usage.
+This website uses Google Analytics with the extension “anonymizeIP()”, IP addresses being truncated before further processing in order to rule out direct associations to persons.
 
-Disclosure of Personal Information  
-Other than as expressly described in this Privacy Policy, we will not share, sell, or rent Personal Information with anyone outside of Keynote DeviceAnywhere Inc, without your prior permission. In addition, we may disclose Personal Information as required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest.
+**Information about cookies**
 
-If you become a paying customer of the Keynote DeviceAnywhere Test Center Developer service, Keynote DeviceAnywhere may disclose the fact that you are a paying customer. Keynote DeviceAnywhere may also disclose the packages of the Service that you are using and your total usage in hours of these packages to partners who are sponsoring the package(s) in question (e.g. to AT&T we may disclose information around your usage of devices in the AT&T package), for purposes of understanding developer usage trends and continuing to improve the service. Keynote DeviceAnywhere will not share, sell or rent this information to any other parties without your prior permission.
+1\. Use Of Cookies
 
-Security of Personal Information  
-The security of Personal Information is important to us. Keynote DeviceAnywhere takes technical, contractual, administrative, and physical security steps to protect Personal Information that you provide to us, as well as business related information that you enter when using our products and services. We instruct our employees with access to your Personal Information that it is to be used only in adherence with the principles set forth in this Privacy Policy.
+To optimize our web presence, we use cookies. These are small text files stored in your computer’s main memory. In most cases these are so-called “session cookies” that are deleted once you leave our website.
 
-We also protect your Personal Information during transmission by using industry standard Secure Sockets Layer (SSL) technology that includes both server authentication as well as data encryption.
+To an extent, however, these cookies also pass along information used to automatically recognize you and remain on your computer (persistent cookies). Recognition occurs through an IP address saved to the cookies. The information thereby obtained is used to improve our services and to expedite your access to our website.
 
-Links to Other Sites  
-Our website contains hyperlinks to websites that are not operated by Keynote DeviceAnywhere Inc. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. Keynote DeviceAnywhere does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.
+Today or in future we might use the following different types of cookies:
 
-Choice/Opt-Out and Updating Information  
-If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, then you may simply follow the opt-out procedure specified in such e-mail.
+##### a. Strictly necessary cookies
 
-Contact Us  
-For any question, concerns, or comments about this Privacy Policy, or for more information, please contact us directly at
+These are cookies which are needed for our websites, applications or services to function properly, for example, these cookies allow you to access secure areas of our website or to remember what you have put into your shopping basket.
 
-777 Mariners Island Blvd, Suite 250  
-San Mateo, CA 94404, USA  
-Tel: +1.650-403-2450  
-Toll Free (US Only): +1.877.338.4230  
-Fax: +1.650.240.3885
+##### b. Performance cookies and analytics technologies
 
-Top
+These cookies collect information about how visitors and users use our websites, applications and services, for instance which functionality visitors use most often, and if they get error messages from areas of the websites, applications or services . These cookies don’t collect information that identifies a visitor or user. All information these cookies collect is aggregated and therefore anonymous. We only use these cookies to improve how our website, applications and services work.
+
+##### c. Targeting or advertising cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operators’ permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+##### d. Web beacons and parameter tracking
+
+We might also use cookies and similar software known as web beacons to count users who have visited our website after clicking through from one of our advertisements on another website or in emails and to collect details of any products or services purchased. These web beacons collect limited information which does not identify particular individuals. It is not possible to refuse the use of web beacons. However, because they are used in conjunction with cookies, you can effectively disable them by setting your browser to restrict or block cookies.
+
+##### e. IP Address and traffic data
+
+We keep a record of traffic data which is logged automatically by our servers, such as your Internet Protocol (IP) address, device information, the website that you visited before ours and the website you visit after leaving our site. We also collect some site, application and service statistics such as access rates, page hits and page views. We are not able to identify any individual from traffic data or site statistics.
+
+2\. How to disable cookies
+
+You can prevent storage of cookies by choosing a “disable cookies” option in your browser settings. But this can limit the functionality of our Internet offers as a result.
+
+  **Social plug-ins from Facebook**
+
+We use social plug-ins from facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plug-ins can be recognized by way of the Facebook logo or the supplement “Facebook Social Plug-in”. For example, if you click on the “Like” button or leave a comment, the relevant information is transmitted directly from your browser to Facebook and stored there. Furthermore, Facebook makes your likes public for your Facebook friends. If you are logged into Facebook, it can assign the invocation of our page directly to your Facebook account. Even if you are not logged in or don’t have a Facebook account, your browser sends information (e.g. which web pages you have called up, your IP address) which is then stored by Facebook. For details about handling of your personal data by Facebook and your related rights, please refer to the data privacy policy of Facebook: <http://www.facebook.com/policy.php>. If you do not want Facebook to map data collected about you via our Web sites to your Facebook account, you must log out of Facebook before you visit our web pages.
+
+**Social plug-ins from Twitter**
+
+With Twitter and its Retweet functions, we use social plug-ins from Twitter.com, operated by Twitter Inc. 795 Folsom St., Suite 600, San Francisco, CA 94107. If you use Retweet, the websites visited by you are announced to third parties and associated with your Twitter account. Details about handling of your data by Twitter as well as your rights and setting options for protecting your personal information can be found in Twitter’s data privacy policy: <http://twitter.com/privacy>[ ](http://twitter.com/privacy)
+
+  **Social plug-ins from** **LinkedIn**
+
+ We also use plugins of the social network LinkedIn, which is operated by the LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043. You will recognise the LinkedIn plugins from the LinkedIn logo or the “Recommend button” on our site. By accessing our website, the plugin will create a direct connection between your browser and the LinkedIn server. This will inform LinkedIn that you have visited our website with your IP address. Details about handling of your data by LinkedIn as well as your rights and setting options for protecting your personal information can be found in LinkedIn’s data privacy policy: <https://www.linkedin.com/legal/privacy-policy>
+
+  **Plug** **-ins from Google+, Pinterest** **, YouTube** **and others**
+
+The SIGOS website is or might use in the future functions such as “Pin It” of the social media network “Pinterest”, which is operated by the Pinterest, Inc., 808 Brannan St, San Francisco, CA 94103, USA.
+
+By including the “Pin it” button Pinterest receives the information that you have accessed the corresponding page of our website. Information upon the purpose and scope of the data collection and the further processing and use of that data through Pinterest as well as your options and rights in this respect and settings options for protecting your privacy can be retrieved from Pinterests privacy policy at: <https://about.pinterest.com/en/privacy-policy>
+
+Plug-ins operated by the social network “Google+”. These programs are exclusively operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, (“Google”). The plugin is made clearly visible on our website through the add-on “+1” on white or colored background.
+
+When clicking on named plugin, your browser will establish a direct link with the servers operated by Google+; as a result the content of the plugin will be transferred to your browser and embedded in the website being shown. The fact that you have visited our website will be passed on to Google amongst other information.
+
+For details and how to set the privacy settings please refer to Google+’s privacy policy: <https://www.google.com/+/policy/pagesterm.html>
+
+Plug-ins from other solutions, functions and social media networks, the use of such and how to configure privacy settings can be found of each respective page. This includes content portals such as YouTube or other: <https://www.youtube.com/static?template=privacy_guidelines>
+
+**Newsletter**
+
+Following subscription to the newsletter, your e-mail address is used for our own advertising purposes until you cancel the newsletter again. Cancellation is possible at any time. The following consent has been expressly granted by you separately, or possibly in the course of an ordering process:
+
+“Please Confirm Subscription Yes, subscribe me to this list. If you received this email by mistake, simply delete it. You won’t be subscribed if you don’t click the confirmation link above.”
+
+Newsletters will be sent via email .You may revoke your consent at any time with future effect. If you no longer want to receive the newsletter, you can change your mailing address or unsubscribe from our mailing database anytime via the subscription form or via the unsubscribe link in the newsletter.
+
+**Disclosure**
+
+According to the Federal Data Protection Act, you have a right to free-of-charge information about your stored data, and possibly entitlement to correction, blocking or deletion of such data. Inquiries can be directed to the following e-mail addresses: ( [bjorn.koetz@sigos.com](mailto:bjorn.koetz@sigos.com) )
