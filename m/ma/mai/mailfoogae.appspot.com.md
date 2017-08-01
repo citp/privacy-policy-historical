@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mailfoogae.appspot.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126045426id_/https%3A//mailfoogae.appspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailfoogae.appspot.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801130236id_/http%3A//www.mailfoogae.appspot.com/privacy) for the most accurate reproduction.*
 
-# Streak - CRM in your Inbox
+# Streak - CRM for Gmail
 
 ### What information do we collect?
 
