@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeimage.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002634id_/http%3A//www.freeimage.us/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeimage.us privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801034135id_/https%3A//www.freeimage.us/content-privacy.html) for the most accurate reproduction.*
 
-# FreeImage.us - Free, Fast and Easy Image hosting
+# FreeImage.us - Free and Fast Image hosting
 
 'This Site' is committed to protecting the privacy of the personal information of individuals / users and/or companies who use our services.. 
 
@@ -12,7 +12,7 @@ We may monitor this website (including using 'cookies') in order to identify use
 
 **User Registration (personal profiles)**
 
-During free registration process users are required to provide their name and valid e-mail address. All information you provide during registration process and / or update information in your profile is confidential unless you make your profiles public. All this information is considered as "personal information".
+During free registration process users are required to provide their name and valid e-mail address. All information you provide during registration process and/or update information in your profile is confidential unless you make your profiles public. All this information is considered as "personal information".
 
 **'This Site' uses cookies**
 
