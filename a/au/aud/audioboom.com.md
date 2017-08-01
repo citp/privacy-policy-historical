@@ -1,40 +1,136 @@
-> *The following text is extracted and transformed from the audioboom.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210185133id_/https%3A//audioboom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioboom.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801154320id_/https%3A//audioboom.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We care about your privacy and security. This privacy policy (the "Privacy Policy") sets out how any information, including personal information, that we collect from you or that you provide to us will be collected and used. Please read it carefully (it is part of our Terms and Conditions). If you don't agree to it and don't want to be bound by it, then you won't be able to use the parts of audioBoom that require registration. If you do register, we will assume that you accept this Privacy Policy. If you have any questions about this Privacy Policy, or would like to change or update the data we hold about you, please email us at support@audioboom.com 
+## Introduction and User Consent
 
-We may have to make changes to this Privacy Policy from time to time. Any changes made will be posted on the following webpage https://audioboom.com/privacy and might also be communicated by e-mail or other means. Each change will become effective when posted and we will assume that your continued use of audioBoom after posting is your acceptance of the change. 
+The audioBoom platform is owned and operated by audioBoom Limited. This policy (together with the [Cookie Policy](https://audioboom.com/about/cookies)) explains how we use any personal information we collect from you when you use audioBoom. By using audioBoom, you are agreeing to our use of your personal information as described.
 
-For registration, we ask you for a username (which may be your "Twitter" username) and a password. You can update this information at any time by emailing us at support@audioboom.com. We will take all reasonable steps to ensure that your information is treated securely and in accordance with this Privacy Policy. We will only hold your personal information on our systems for as long as is reasonably necessary. 
+If you have any queries or concerns regarding this Privacy Policy, please contact us at support@audioboom.com.
 
-We will use the information you send us to: 
+## What information do we collect about you?
 
-  * provide audioBoom to you and its various services as set out in our Terms and Conditions;
-  * contact you in response to your requests or to notify you of updates, new content, messages or other news relating to audioBoom;
-  * contact you about products and services we feel may be of interest to you; and
-  * process and deal with any other enquiries or complaints you make.
+We may collect and process your personal information (including your name and e-mail address) about you in the following ways:
+
+  * when you create an account with us or place an order for our services
+
+  * when you post content
+
+  * when you correspond with us
+
+  * when you use the platform, in which case, we collect details of your visits to the platform and the resources that you access (which may include, amongst other things, traffic data and communication data)
+
+  * when you transact with the platform, in which case, we collate details of transactions you carry out and orders you place through the platform.
 
 
 
-Before we stream audio, Content and/or User Content to you, we may log your IP address in order to confirm your location. An IP address does not include personal information about you. 
 
-We may collect information about your general usage of audioBoom by using "cookies" which allow us to collect certain information in order to help us monitor your use of audioBoom, so that we can contact you with audioBoom news (such as to inform you of new events, including new content or when you have received a message) and recommendations, and to provide generic, non-personal information to third parties. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies contain information that we can read when you revisit the audioBoom website. Although they do identify a user's computer, cookies do not personally identify users' passwords. Most web browsers automatically accept cookies, but if you prefer you can change your browser to prevent that. However, if you select this setting you may be unable to access certain parts of audioBoom. For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau at http://www.allaboutcookies.org/. 
+## How do we use your information?
 
-When you send an email or other communication to us, we may keep the message in order to process your enquiries and to improve our services. 
+We use it in the following ways:
 
-We promise to keep your information confidential except where we are compelled to disclose it by law (for example to government bodies and law enforcement agencies), or where you have given us your express consent to sharing the information with others. 
+  * to verify you are eligible to subscribe to our platform or use a free trial
 
-We will not share your personal information with any third party (other than a third party engaged by the Company to operate the Site or any part of the Site or its function, including any processors) without your permission. We may sometimes want to share the information you give with others, such as companies who wish to provide goods and services to you so that they can contact you direct. Before we do that we will ask you to say if you're happy for us to do so via ticking an opt-in box. We will do our best to ensure that any such third parties follow our instructions and don't use your personal information in a way you haven't approved. Otherwise, we won't share your information with anyone else (except where the law requires). 
+  * to process your order and manage your account
 
-Please note that countries outside the European Economic Area ("EEA") may not have the same level of protection as countries within the EEA, but we shall ensure that any third parties to whom we transfer data adhere to the security measures set out in the Data Protection Act 1998 (as may be amended) (the "Act"). By registering to use the Site, you consent to us transferring and processing your personal information outside the EEA. 
+  * to email you with information or services that you request from us, or which we feel may interest you (provided of course that you agree)
 
-You are welcome to see the information we hold about you at any time, but we might make a small charge to cover some of the cost of providing the information (but no more than allowed by law). 
+  * to ensure that the platform’s content is presented as effectively as possible for you
 
-We have installed security measures to make sure that any personal information you give us is protected against loss, misuse or alteration. However, due to the nature of the Internet, we cannot completely guarantee the safety of your personal information and cannot be responsible for any breach of security when audioBoom is used (except in the case of our negligence). We are, however, confident in our security measures, and it is always a top priority of ours to ensure that your information is kept confidential. 
+  * for our internal purposes, such as quality control, platform performance, system administration and to evaluate use of the platform, so that we can provide you with enhanced services
 
-We will not hold personal information where the user has disclosed that he/she is under the age of 13. 
+  * to notify you about changes to our services
 
-Please remember that any personal data which you share in public areas will be available to third parties. This personal data may be listened to, viewed, collected and used by third parties over whom we have no control. We are not responsible for the information you make available in any public areas or for any use that any third party may make of such information. 
 
-This Privacy Policy does not cover the links within the Site to other websites.  We therefore encourage you to read the privacy policies of any third party websites. 
+
+
+### Non personally identifiable Information
+
+We may monitor your use of the platform and record your email address and/or IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. We may also collect non-personal aggregated statistics data about visitors to the platform and sales and traffic patterns. This is statistical information about our users’ browsing actions and patterns and does not identify any individual.
+
+We only keep your information for as long as is necessary.
+
+### Under 18s
+
+The platform is not intended for children or young adults under 18, and we don’t intentionally collect or store personal information from visitors who are under that age. If we discover that an individual under 18 has submitted personal information to audioBoom, we will attempt to delete the information as soon as possible. If you believe that we might have any personal data from an individual under 18, please contact us at support@audioboom.com.
+
+### California "Do- Not- Track" and Similar Mechanisms Disclosure
+
+Some web browsers may provide an option to communicate a "do-not-track" signal to websites that you visit. We do not currently respond to “do not track” signals from web browsers.
+
+## How do we use cookies?
+
+We may use ‘cookies’ to collect some information about how you use the platform. Cookies are small data files which gather information about your use of the platform and help us to provide you with a good experience when you browse the platform. For more information about ‘cookies’, why we use them and how to refuse them, please see our [Cookie Policy](https://audioboom.com/about/cookies).
+
+### Analytics Services
+
+We use technology provided by third-party analytics services to help analyze how users use our platform. The information generated by cookies or other technologies that monitor your use of our platform is collected by such analytics services (e.g., Google Analytics) so that they can compile reports on user activity. The analytics services may also transfer the analytics information to third parties where required to do so by law, or where such third parties process analytics information on their behalf. Each analytics service’s ability to use and share analytics information is restricted by such analytics service’s terms of use and privacy policy. By using our platform, you consent to the processing of data about you by analytics services in the manner and for the purposes set out above. To learn more about how Google Analytics uses data, visit [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners). For more information, please see our [Cookie Policy](https://audioboom.com/about/cookies).
+
+## Who do we share your information with?
+
+We may share your information:
+
+  * with our suppliers to help operate our platform, manage your account, process your order and/or provide you with support
+
+  * with selected third parties to clear your payment to us (see below)
+
+  * if you choose to disclose your information in your podcast, it will of course be publically available as part of your podcast
+
+  * if we sell or buy any business or assets (as we may share your data with the prospective seller or buyer)
+
+  * with those third parties that provide other services or products that we may feel are of interest to you, provided of course that you agree
+
+  * with audioBoom group companies for the purposes of data research and analysis to improve the platform
+
+  * if we have to share your information to comply with legal or regulatory requirements, or if we have to enforce or apply our Terms or to protect our rights, property or our customers. This may involve exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+
+If you buy any of our subscriptions, we use Stripe to process your payment. Stripe operates a secure server to process your payment details. They encrypt your credit or debit card information and authorise payment directly. This means that your credit card or debit card details are never revealed to us. Please read their privacy policy at https://stripe.com/gb/privacy to see what security measures they have in place and how they treat your information.
+
+We may share non-personal aggregated statistics data about visitors to the platform with third parties.
+
+Don’t forget that where you choose to include personal information in your podcasts or on your feeds, you are going to be disclosing that personal information to others, on our platform and on third party platforms.
+
+## Where do we transfer your information?
+
+We may transfer your information to, or store it in, countries located outside the European Economic Area (EEA) some of which may not have as developed data protection laws. It may also be processed by staff at our affiliates, suppliers, agents or appointed representatives’ offices overseas.
+
+Please do not send us your information if you do not want it to be transferred to or stored outside the EEA. By providing your information to us you agree and consent to us transferring to, and storing your information at, a destination outside the EEA.
+
+## How do we keep your information secure?
+
+All your information is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Any actions you perform on the platform which are related to your account will be encrypted.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will apply our normal procedures and comply with legal requirements to protect your information, we cannot guarantee the security of your information transmitted to the platform and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## What are your rights?
+
+You have the right to rectify your information that we hold about you. We also want to make sure that your personal information is accurate and up to date. To change your personal information, please change it in [My Account](https://audioboom.com/account/settings) or please e-mail us at support@audioboom.com.
+
+If you live in the EU or California, you have the right to see the personal information that we hold about you. Please e-mail us at support@audioboom to make your request. We may make a small charge of £10 to process this request.
+
+You have the right to ask us not to process your information (or pass your information to other companies or organisations) for marketing purposes. You can unsubscribe at any time by clicking the ‘unsubscribe’ link at the bottom of any marketing e-mail sent to you or by contacting us at support@audioboom.
+
+If you have a complaint about how we have used your information, you have the right to complain to the Information Commissioner’s Office.
+
+### Notice to California Residents – Your California Privacy Rights
+
+A California resident who has provided personal data to audioBoom, after subscribing to an account for personal, family, or household purposes (a "California customer") may request information about whether we have disclosed personal data to any third parties for the third parties’ direct marketing purposes. In general, if audioBoom have made such a disclosure of personal data, then, on receipt of your request, we are required to provide you with a list of all third parties to whom personal data was disclosed in the preceding calendar year, as well as a list of the categories of personal data that were disclosed. California customers may request further information about our compliance with this law by e-mailing support@audioboom. Please note that we are required to respond to only one request per California customer each year and we are not required to respond to requests made by means other than through this e-mail address.
+
+## General
+
+### Changes
+
+We might change this Privacy Policy from time to time. If we do, we’ll let you know by posting a revised Privacy Policy on our platform and/or by sending an e-mail to the last e-mail address you gave us. That change will become effective 3 days after it has been posted or the e-mail sent. You should check regularly to see if there are any changes. You will be considered to have accepted any change, if you continue to use the platform, after the change has been made. This Policy was last revised on 17th May 2017.
+
+### Links
+
+The platform may from time to time contain links to and from other sites. If you follow a link to any of those sites, they will have their own privacy policies. We don’t accept any responsibility or liability for those sites, so please check those privacy policies before you submit your information to those sites.
+
+### How to contact us
+
+If you have any questions, comments or requests concerning this Privacy Policy, please contact us at support@audioboom.com.
+
+This platform is owned by audioBoom Limited a company incorporated in England. Our registered office address is 10A Maltings Place, 169 Tower Bridge Road, London, SE1 3LJ and our registered company number is 07013326.
