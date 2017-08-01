@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngtrends.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629144851id_/http%3A//www.ngtrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngtrends.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801202443id_/http%3A//www.ngtrends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NG Trends
 
