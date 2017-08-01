@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcraft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141719id_/http%3A//www.soundcraft.com/en-US/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcraft.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801190239id_/http%3A//www.soundcraft.com/en-US/privacy_policy.html) for the most accurate reproduction.*
 
 # Soundcraft - Professional Audio Mixers
 
