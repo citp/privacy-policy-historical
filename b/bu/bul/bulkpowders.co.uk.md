@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613085349id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/207482929-Privacy-Policy-Data-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801092650id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/207482929-Privacy-Policy-Data-Security) for the most accurate reproduction.*
 
 # Privacy Policy & Data Security – Help
 
