@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesportsny.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627170126id_/http%3A//elitesportsny.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesportsny.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801180601id_/https%3A//elitesportsny.com/terms-of-use) for the most accurate reproduction.*
 
 # Terms / Privacy
 
