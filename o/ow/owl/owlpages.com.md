@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022759id_/http%3A//www.owlpages.com/owls/about.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802004839id_/https%3A//www.owlpages.com/owls/about.php%23privacy) for the most accurate reproduction.*
 
 # The Owl Pages - About / Contact / Copyright / Privacy
 
 ## About The Owl Pages
 
-OwlPages.com was first uploaded on October 26th, 1998 with the aim to provide information about the Owls of the world. The site was conceived of and created by [Deane Lewis](https://web.archive.org/web/20170608022759id_/http%3A//www.owlpages.com/owls/authors.php?a=3). Material is compiled from various reference sources and contributions.
+OwlPages.com was first uploaded on October 26th, 1998 with the aim to provide information about the Owls of the world. The site was conceived of and created by [Deane Lewis](https://web.archive.org/web/20170802004839id_/https%3A//www.owlpages.com/owls/authors.php?a=3). Material is compiled from various reference sources and contributions.
 
 The Owl Pages is not affiliated with any groups, organisations or educational institutions and we do not rehabilitate owls. "Owl Pages" is a Registered Trademark and an Australian Registered Business.
 
 ## Contact The Owl Pages
 
-If you want answers to questions, please read the [Owl Frequently Asked Questions](https://web.archive.org/web/20170608022759id_/http%3A//www.owlpages.com/owls/faq.php) before contacting me, it might save you some time!
+If you want answers to questions, please read the [Owl Frequently Asked Questions](https://web.archive.org/web/20170802004839id_/https%3A//www.owlpages.com/owls/faq.php) before contacting me, it might save you some time!
 
 If you would like to stay up to date with The Owl Pages, join our [Facebook Page](http://www.facebook.com/owlpages).
 
-Please [Click here](https://web.archive.org/web/20170608022759id_/http%3A//www.owlpages.com/owls/articles.php?a=81) if you have found an injured or orphaned owl.
+Please [Click here](https://web.archive.org/web/20170802004839id_/https%3A//www.owlpages.com/owls/articles.php?a=81) if you have found an injured or orphaned owl.
 
 If you would like to contribute owl pictures, articles, sounds or artwork, please send them to me at the address below.
 
