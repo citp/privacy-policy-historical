@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellow.co.ke privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602061400id_/http%3A//yellow.co.ke/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellow.co.ke privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801220651id_/https%3A//yellow.co.ke/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yellow Pages Kenya Ltd
 
