@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219084102id_/https%3A//www.westnet.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802221558id_/https%3A//www.westnet.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Legal
 
@@ -50,7 +50,7 @@ If you wish to access the information we hold about you, please send an email to
 
 ### How you may complain about a breach of privacy
 
-If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Westnet's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied (see our [Complaints Escalation Process](https://web.archive.org/web/20170219084102id_/https://www.westnet.com.au/about/legal/complaints-escalation-process))
+If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Westnet's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied (see our [Complaints Escalation Process](https://web.archive.org/web/20170802221558id_/https://www.westnet.com.au/about/legal/complaints-escalation-process))
 
 ### Disclosure of personal information to overseas recipients
 
