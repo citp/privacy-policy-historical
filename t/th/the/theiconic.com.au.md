@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiconic.com.au privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619193524id_/http%3A//www.theiconic.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.com.au privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802223233id_/http%3A//www.theiconic.com.au/privacy-policy) for the most accurate reproduction.*
 
 # THE ICONIC Privacy Policy | THE ICONIC Privacy Policy Statement |
 
