@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the primalforce.net privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429094306id_/https%3A//primalforce.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalforce.net privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802201358id_/https%3A//primalforce.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+#### Disclaimer:
+
+This applies to the use of any savings code, when available, at checkout to receive the advertised discount. The special offers are web-only and expire at the time of expiration. Free shipping where indicated. International orders will incur additional shipping & handling charges.  Discounts do not be apply to future Auto Delivery orders unless otherwise stated. Savings codes are not permitted for use on previous orders but are available during limited times.
 
 #### Dr. Sears’ Privacy Policy
 
