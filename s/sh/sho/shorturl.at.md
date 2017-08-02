@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shorturl.at privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618145826id_/http%3A//www.shorturl.at/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shorturl.at privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802045918id_/https%3A//www.shorturl.at/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShortURL
 
