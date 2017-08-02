@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504044141id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802212840id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.*
 
 # PRC's Privacy Policy | Privacy Rights Clearinghouse
 
