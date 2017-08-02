@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330232744id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802054920id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
 # Tickifieds Privacy Policy
 
@@ -83,12 +83,12 @@ Bruno Mars VIP Meet and Greet Passes - 09/29/2017 8:00PM - Verizon Center - DC -
 
 Requires separate event ticket for use. These tickets are paperless. You will receive them at the venue on ...   
   
-[](http://www.tickifieds.com/concerts_and_events/texas/228822_buy_cheap_2017_houston_rodeo_ft__zac_brown_band_tickets)
+[](http://www.tickifieds.com/concerts_and_events/texas/229092_buy_cheap_jmblya_2017___austin_featuring_chance_the_rapper__steve_aoki__lil_uzi_vert__6lack_and_more_tickets_austin_5_6_2017)
 
-|  [**Buy Cheap 2017 Houston Rodeo ft. Zac Brown Band Tickets**](http://www.tickifieds.com/concerts_and_events/texas/228822_buy_cheap_2017_houston_rodeo_ft__zac_brown_band_tickets) |  Sun March 26, 2017   
-See Houston Rodeo ft. Zac Brown Band live from your seats in section Grid Iron Sideline 635 at NRG Stadium on 3/26/2017!! We have 4 premium tickets available in section Grid Iron Sideline 635 row F to see Houston Rodeo ...   
+|  [**Buy Cheap JMBLYA 2017 - Austin featuring Chance The Rapper, Steve Aoki, Lil Uzi Vert, 6lack and more Tickets Austin 5/6/2017**](http://www.tickifieds.com/concerts_and_events/texas/229092_buy_cheap_jmblya_2017___austin_featuring_chance_the_rapper__steve_aoki__lil_uzi_vert__6lack_and_more_tickets_austin_5_6_2017) |  Sat May 06, 2017   
+See JMBLYA 2017 - Austin featuring Chance The Rapper, Steve Aoki, Lil Uzi Vert, 6lack and more live from your seats in section General Admission at Circuit Of The Americas on 5/6/2017!! We have 3 premium tickets ...   
   
-[](http://www.tickifieds.com/mls/international_soccer/uefa_champions_league/225947_uefa_champions_league__fc_barcelona_vs__arsenal_fc_tickets)
+[](http://www.tickifieds.com/concerts_and_events/california/228393_bruno_mars_2017_tickets___24k_magic_tour)
 
-|  [**UEFA Champions League: FC Barcelona vs. Arsenal FC Tickets**](http://www.tickifieds.com/mls/international_soccer/uefa_champions_league/225947_uefa_champions_league__fc_barcelona_vs__arsenal_fc_tickets) |  Thu March 16, 2017   
-FC Barcelona vs. Arsenal FC tickets, UEFA Champions League Wed, Mar 16 2016 Camp Nou Barcelona, Spain, have limited tickets order today, for soccer & futbol tickets see 123GetaTicket - online Ticket Brokers since ... 
+|  [**Bruno Mars 2017 Tickets - 24K Magic Tour**](http://www.tickifieds.com/concerts_and_events/california/228393_bruno_mars_2017_tickets___24k_magic_tour) |  Fri November 10, 2017   
+See Bruno Mars live from your seats in section 202 at The LA Forum on 11/10/2017!! We have 4 premium tickets available in section 202 row TBD to see Bruno Mars at The LA Forum on 11/10/2017. Be a Bruno Mars VIP with these ... 
