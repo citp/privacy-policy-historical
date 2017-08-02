@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyporter.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409181518id_/https%3A//www.flyporter.com/en-ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyporter.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802112633id_/https%3A//www.flyporter.com/en-ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Porter Airlines
 
@@ -124,9 +124,7 @@ Check-In using our enhanced ‘Check-In’ flow?
 
 You are now leaving Porter Airlines.
 
-The accessibility, privacy policies and other terms of use of flyporter.com do not apply to the site you have chosen to view.
-
-Porter does not control and is not responsible for any of its contents.
+The external site you have chosen to view may or may not meet accessibility guidelines.
 
 Form submission failed. There are errors in the form. 
 
