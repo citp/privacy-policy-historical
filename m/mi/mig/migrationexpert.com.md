@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121032552id_/http%3A//migrationexpert.com/australia/Visa/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802033533id_/https%3A//www.migrationexpert.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Security & Confidentiality of Personal Information | Migration Expert Australia
+# Privacy Policy US - United States Visa Services
 
 Migration Expert knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. 
 
@@ -8,10 +8,10 @@ Migration Expert knows that you care how information about you is used and share
 
 **Personal Information**
 
-The information collected from Clients is required in order to provide the personalized migration-related Services and to improve our services at Migration Expert. 
+The information collected from Clients is required in order to provide the personalized migration-related services and to improve our services at Migration Expert. 
 
 **Information You Give Us:**   
-We receive and store any information you enter on our website or give us in any other way. If you choose not to provide certain information this may affect the level of Service you receive. 
+We receive and store any information you enter on our website or give us in any other way. If you choose not to provide certain information this may affect the level of service you receive. 
 
 **Automatic Information:**   
 We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Migration Expert 
@@ -28,14 +28,14 @@ We share customer information only as described below:
 
 
   * With subsidiaries or associated companies of Migration Expert that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Notice.
-  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
   * Promotional Offers: Sometimes we send offers to selected groups of Migration Expert customers on behalf of other businesses. When we do this, we do not give that business your name and address.
   * Business Transfers: As we continue to develop our business, we might sell or buy businesses or subsidiaries. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Migration Expert, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * Protection of Migration Expert and Others: We release account and other personal information when collection is required by law or when the information is necessary for the establishment, exercise or defence of a legal claim.
+  * Protection of Migration Expert and Others: We release account and other personal information when collection is required by law or when the information is necessary for the establishment, exercise or defense of a legal claim.
 
 
 
-Migration Expert may use and disclose the Client's (and if applicable, their family's) personal information for the primary purpose for which it is collected, for reasonably expected secondary purposes which are related to the primary purpose and in other circumstances authorised by the Act.
+Migration Expert may use and disclose the Client's (and if applicable, their family's) personal information for the primary purpose for which it is collected, for reasonably expected secondary purposes which are related to the primary purpose and in other circumstances authorized by the Act.
 
 In general, Migration Expert will disclose the Client's personal information with expressed or implied consent for the following purposes:
 
@@ -69,7 +69,7 @@ Our customer information is stored in high capacity servers located in a state-o
 
 
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
 **Conditions of Use, Notices, and Revisions**
 
