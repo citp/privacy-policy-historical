@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the tusfiles.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065413id_/https%3A//tusfiles.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusfiles.net privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802063134id_/https%3A//tusfiles.net/privacy) for the most accurate reproduction.*
 
-# TusFiles | Free Cloud Storage
+# TusFiles | Free File Storage
 
-TusFiles.net is a provider of online file storage service. Your use of the [www.tusfiles.net](https://tusfiles.net/) site is governed by TusFiles Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
+TusFiles.net is a provider of online file storage service. Your use of the [www.tusfiles.net](https://tusfiles.net/) site is governed by TusFiles Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
 TusFiles.net ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.  
   
+---  
 **Your information during the registration**
 
-TusFiles.net stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. TusFiles.net does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions.   
+TusFiles.net stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. TusFiles.net does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions.   
   
 Your account password 
 
@@ -44,7 +45,7 @@ Any information collected and processed within TusFiles.net is treated with the 
   
 **Credit card security**
 
-All purchases on [TusFiles.net](https://tusfiles.net/) are handled by third party card processing company. [TusFiles.net ](https://tusfiles.net/)does not arrange and/or save numbers or any information from your credit cards.  
+All purchases on [TusFiles.net](https://tusfiles.net/) are handled by third party card processing company. [TusFiles.net ](https://tusfiles.net/)does not arrange and/or save numbers or any information from your credit cards.  
   
 **External links**
 
@@ -52,4 +53,4 @@ If any part of the TusFiles.net website links you to other websites, those websi
   
 **Contact information**
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us](https://support.tusfiles.net/Tickets/Submit).
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](https://support.tusfiles.net/Tickets/Submit).
