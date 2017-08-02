@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwashyoudry.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602055457id_/http%3A//www.iwashyoudry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwashyoudry.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802025821id_/http%3A//www.iwashyoudry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Wash... You Dry
 
