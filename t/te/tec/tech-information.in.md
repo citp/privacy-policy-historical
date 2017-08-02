@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-information.in privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602105051id_/http%3A//www.tech-information.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-information.in privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802191408id_/http%3A//www.tech-information.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
