@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com.sg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191538id_/https%3A//www.yelp.com.sg/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com.sg privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802034535id_/https%3A//www.yelp.com.sg/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
