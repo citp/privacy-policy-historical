@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uploadrocket.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130205424id_/http%3A//uploadrocket.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadrocket.net privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802062709id_/http%3A//uploadrocket.net/privacy-policy.html) for the most accurate reproduction.*
 
-# UploadRocket.net - Easy way to share your files
+# UploadRocket.net - ファイルを共有する簡単な方法
 
 **Importance of your Privacy Policy**
 
