@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrobahn.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906112322id_/http%3A//www.nitrobahn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrobahn.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802101216id_/http%3A//www.nitrobahn.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -80,5 +80,5 @@ This policy was last modified on July 12, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the link below. 
 
-[www.nitrobahn.com](http://nitrobahn.com/?page_id=85)  
+www.nitrobahn.com  
 
