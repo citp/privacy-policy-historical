@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anunciou.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025171048id_/http%3A//anunciou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anunciou.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802034334id_/http%3A//www.anunciou.com/privacy) for the most accurate reproduction.*
 
 # A4D
 
