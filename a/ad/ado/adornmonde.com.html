@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adornmonde.com privacy policy that was archived on 2017-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608191623id_/http%3A//www.adornmonde.com/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adornmonde.com privacy policy that was archived on 2017-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170802153204id_/https%3A//www.adornmonde.com/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,10 +25,13 @@
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/dropdowns.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/dropdowns-skin-discrete.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/bootstrap.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/coustomnin.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/aw_raf.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/aw_raf_custom.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/base/default/css/style-newssubscribers.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/magebuzz/catsidebarnav/click.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/base/default/algoliasearch/algoliasearch.css" media="all">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.adornmonde.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/js/lib/jquery/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/js/lib/jquery/noconflict.js"></script>
@@ -48,6 +51,11 @@
 <script type="text/javascript" src="http://www.adornmonde.com/js/newssubscribers/script.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/js/magebuzz/catsidebarnav/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/js/magebuzz/catsidebarnav/jquery.noconflict.js"></script>
+<script type="text/javascript" src="http://www.adornmonde.com/js/algoliasearch/internals/frontend/Function.prototype.bind.js"></script>
+<script type="text/javascript" src="http://www.adornmonde.com/js/algoliasearch/internals/frontend/algoliaBundle.min.js"></script>
+<script type="text/javascript" src="http://www.adornmonde.com/js/algoliasearch/internals/frontend/common.js"></script>
+<script type="text/javascript" src="http://www.adornmonde.com/js/algoliasearch/instantsearch.js"></script>
+<script type="text/javascript" src="http://www.adornmonde.com/js/algoliasearch/autocomplete.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/noconflict.js"></script>
 <script type="text/javascript" src="http://www.adornmonde.com/skin/frontend/adornmonde/default/js/lib/modernizr.custom.min.js"></script>
@@ -73,7 +81,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/madisonisland-ie8.css" media="all" />
 <![endif]-->
 <!--[if (gte IE 9) | (IEMobile)]><!-->
-<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/stylesnew.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/madisonisland.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/jquery.mCustomScrollbar.css" media="all">
 <!--<![endif]-->
@@ -109,10 +117,31 @@ optionalZipCountries = [];
                                                 ga('send', 'pageview');
                     </script>
         <!--Aromicon Google Universal Analytics Section end -->
-<script type="text/javascript">//<![CDATA[
+
+<script>
+    window.algoliaConfig = {"instant":{"enabled":false,"apiKey":"ZWI2NTIxMTYxMmYyODk3N2ExNGFjZDAzZmY5N2E3ZDE2YjMxM2QxMjNiMDY1NjBhNTg1YzU4ZjE1NDMyOGI4MGZpbHRlcnM9Jm51bWVyaWNGaWx0ZXJzPXZpc2liaWxpdHlfc2VhcmNoJTNEMQ==","selector":".main","isAddToCartEnabled":true,"showStaticContent":false,"title":"","description":"","content":"","imgHtml":"","hasFacets":true},"autocomplete":{"enabled":true,"apiKey":"YjY1MTQ0YjlkN2NiOWI0ZmUyNGNiN2Y4YWQzYTI2ZWQ4NDMxNjI5MWJjOWY5YTVhNWVmMDdmYzBmMDgzNjUxZGZpbHRlcnM9","selector":".algolia-search-input","sections":[{"name":"pages","label":"Pages","hitsPerPage":"2"}],"nbOfProductsSuggestions":"6","nbOfCategoriesSuggestions":"2","nbOfQueriesSuggestions":"0","displaySuggestionsCategories":true},"extensionVersion":"1.10.0","applicationId":"91M4ZBX6L5","indexName":"magento_default","facets":[{"attribute":"price","type":"slider","label":"Price"},{"attribute":"color","type":"disjunctive","label":"Colors"}],"areCategoriesInFacets":false,"hitsPerPage":9,"sortingIndices":[{"attribute":"price","sort":"asc","label":"Lowest price","name":"magento_default_products_price_default_asc"},{"attribute":"price","sort":"desc","label":"Highest price","name":"magento_default_products_price_default_desc"},{"attribute":"created_at","sort":"desc","label":"Newest first","name":"magento_default_products_created_at_desc"}],"isSearchPage":false,"isCategoryPage":false,"removeBranding":false,"priceKey":".USD.default","currencyCode":"USD","currencySymbol":"$","maxValuesPerFacet":10,"autofocus":true,"analytics":{"enabled":false,"delay":3000,"triggerOnUIInteraction":true,"pushInitialSearch":false},"request":{"query":"","refinementKey":"","refinementValue":"","path":"","level":"","formKey":"cnFsvQZJjWk5lbm5"},"showCatsNotIncludedInNavigation":false,"showSuggestionsOnNoResultsPage":true,"baseUrl":"http:\/\/www.adornmonde.com\/index.php","popularQueries":["Choker"],"urls":{"logo":"http:\/\/www.adornmonde.com\/skin\/frontend\/base\/default\/algoliasearch\/search-by-algolia.svg"},"translations":{"to":"to","or":"or","go":"Go","in":"in","popularQueries":"You can try one of the popular search queries","seeAll":"See all products","allDepartments":"All departments","seeIn":"See products in","orIn":"or in","noProducts":"No products for query","noResults":"No results","refine":"Refine","selectedFilters":"Selected Filters","clearAll":"Clear all","previousPage":"Previous page","nextPage":"Next page","searchFor":"Search for products","relevance":"Relevance","categories":"Categories","products":"Products","searchBy":"Search by"}};
+</script>
+
+<!--[if lte IE 9]>
+<script>
+    document.addEventListener("DOMContentLoaded", function(e) {
+        algoliaBundle.$(function ($) {
+            window.algoliaConfig.autofocus = false;
+        });
+    });
+</script>
+<![endif]-->
+
+                        
+                            <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+                            <!--[if lte IE 9]>
+                                <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+                            <![endif]-->
+                        
+                    <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/font-awesome.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/coustomnin.css" media="all">
+        //]]></script>
+<link rel="stylesheet" type="text/css" href="http://www.adornmonde.com/skin/frontend/adornmonde/default/css/font-awesome.css" media="all">
 </head>
 <body class=" cms-page-view cms-privacy-policy">
 <div class="wrapper">     <noscript>
@@ -199,21 +228,14 @@ optionalZipCountries = [];
         </div>
         
         <!-- Search -->
-        <div id="header-search" class="skip-content"> 
-<form id="search_mini_form" action="http://www.adornmonde.com/index.php/catalogsearch/result/" method="get">
-    <div class="input-box">
-        <label for="search">Search:</label>
-        <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Search the entire store...">
-        <button type="submit" title="Search" class="button search-button"><span><span>Search</span></span></button>
-    </div>
-
-        <script type="text/javascript">
-    //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-        searchForm.initAutocomplete('http://www.adornmonde.com/index.php/catalogsearch/ajax/suggest/', 'search_autocomplete');
-    //]]>
-    </script>
-</form>
+        <div id="header-search" class="skip-content">     <form id="search_mini_form" action="http://www.adornmonde.com/index.php/catalogsearch/result/" method="get">
+        <div id="algolia-searchbox">
+            <label for="search">Search:</label>
+            <input id="search" type="text" name="q" class="input-text algolia-search-input" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Search the entire store...">
+            <span class="clear-cross clear-query-autocomplete"></span>
+            <span id="algolia-glass" class="magnifying-glass" width="24" height="24"></span>
+        </div>
+    </form>
  </div>
         
         <!-- Account -->
@@ -232,21 +254,14 @@ optionalZipCountries = [];
     <!-- Navigation -->
     <div id="header-nav" class="skip-content">
       <div class="page-header" style="position: relative;">
-        <div id="HeaderSearch" style="display:none;"> 
-<form id="search_mini_form" action="http://www.adornmonde.com/index.php/catalogsearch/result/" method="get">
-    <div class="input-box">
-        <label for="search">Search:</label>
-        <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Search the entire store...">
-        <button type="submit" title="Search" class="button search-button"><span><span>Search</span></span></button>
-    </div>
-
-        <script type="text/javascript">
-    //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-        searchForm.initAutocomplete('http://www.adornmonde.com/index.php/catalogsearch/ajax/suggest/', 'search_autocomplete');
-    //]]>
-    </script>
-</form>
+        <div id="HeaderSearch" style="display:none;">     <form id="search_mini_form" action="http://www.adornmonde.com/index.php/catalogsearch/result/" method="get">
+        <div id="algolia-searchbox">
+            <label for="search">Search:</label>
+            <input id="search" type="text" name="q" class="input-text algolia-search-input" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Search the entire store...">
+            <span class="clear-cross clear-query-autocomplete"></span>
+            <span id="algolia-glass" class="magnifying-glass" width="24" height="24"></span>
+        </div>
+    </form>
  </div>
         <div class="small-logo"> <a title="Adornmonde" href="http://www.adornmonde.com/index.php/"> <img src="http://www.adornmonde.com/skin/frontend/adornmonde/default/images/logo-small.png" alt="Adornmonde">- </a> </div>
                 <div class="skip-links">
@@ -311,8 +326,8 @@ optionalZipCountries = [];
                   <div class="magamenuColNewin magamenuColNewin02"> <a class="newrootbold"> FEATURED</a>
                     <div class="spacelinemenu"></div>
                     
-                   <a href="http://www.adornmonde.com/index.php/liquidmetal/">Liquid Metal</a><a href="http://www.adornmonde.com/index.php/chinadoll/">China Doll</a> <a href="http://www.adornmonde.com/index.php/springcollection/">Spring, What’s Up</a> <a href="http://www.adornmonde.com/index.php/modernluxe/">Modern Luxe</a> <a href="http://www.adornmonde.com/index.php/partycollection/">The Party Collection</a> <a href="http://www.adornmonde.com/index.php/crescentcollection/">Crescent Collection</a> 
-                    <a href="http://www.adornmonde.com/index.php/looking-fine/">Looking Fine</a>
+                 <a href="http://www.adornmonde.com/index.php/stargirl/">Star Girl</a>  <a href="http://www.adornmonde.com/index.php/liquidmetal/">Liquid Metal</a><a href="http://www.adornmonde.com/index.php/chinadoll/">China Doll</a> <a href="http://www.adornmonde.com/index.php/springcollection/">Spring, What’s Up</a> <a href="http://www.adornmonde.com/index.php/modernluxe/">Modern Luxe</a>   
+                    
                      <!--<a href="">Cute Fall</a>--> 
                     
                     <!--  <a href="">You’re Cool</a> 
@@ -567,11 +582,16 @@ optionalZipCountries = [];
                     <li>
                       <div> 
                       
-                      <a href="http://www.adornmonde.com/index.php/liquidmetal/" class="link normallink"> Liquid Metal</a>
+                      <a href="http://www.adornmonde.com/index.php/stargirl/" class="link normallink"> Star Girl</a>
                        </div>
                     </li>
                     
-                    
+                    <li>
+                      <div> 
+                      
+                      <a href="http://www.adornmonde.com/index.php/liquidmetal/" class="link normallink"> Liquid Metal</a>
+                       </div>
+                    </li>
                     <li>
                       <div> 
                       <a href="http://www.adornmonde.com/index.php/chinadoll/" class="link normallink">China Doll</a>
@@ -584,15 +604,7 @@ optionalZipCountries = [];
                     <li>
                       <div> <a href="http://www.adornmonde.com/index.php/modernluxe/" class="link normallink">Modern Luxe</a> </div>
                     </li>
-                    <li>
-                      <div> <a href="http://www.adornmonde.com/index.php/partycollection/" class="link normallink">The Party Collection</a> </div>
-                    </li>
-                    <li>
-                      <div> <a href="http://www.adornmonde.com/index.php/crescentcollection/" class="link normallink">Crescent Collection</a> </div>
-                    </li>
-                    <li>
-                      <div> <a href="http://www.adornmonde.com/index.php/looking-fine/" class="link normallink">Looking Fine</a> </div>
-                    </li>
+                 
                     <!--<li>
                       <div> <a href=""  class="link normallink">Cute Fall</a> </div>
                     </li>-->
@@ -855,6 +867,24 @@ warmer months ahead. </h4>
     </div>
     
     
+    <div class="widerbannerstargirl">
+      <div class="home-banner newdefringpromo-wrapper">
+        <div class="bkg-home-banner-new">
+          <div class="banner-content newdefringpromo-content">
+            <div class="black_content_sec">
+              <div class="banner-title">
+                <h2>Star<br>
+Girl</h2>
+                <h4>The Star Girl Collection just landed.<br>
+Tell your friends to put on their sunglasses.</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
     
     <div class="widerbannertrendwefillit">
       <div class="home-banner newdefringpromo-wrapper">
@@ -1028,7 +1058,7 @@ to make you look prettier than you already are.
                                     </li>
             </ul>
 </div>
-        <div class="col-main">      <div class="page-title">
+        <div class="col-main">  <div id="algolia-autocomplete-container"></div>    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
 <div class="std"><div class="privecyplocypage">Our privacy policy describes the information that we collect through our website and how we use it. If you have any questions, please direct all inquiries to: customercare@adornmonde.com
@@ -1227,7 +1257,294 @@ Effective Date: July 1, 2015
           </div>
   </div>
 </div>
- </div>
+
+<!-- Product hit template -->
+<script type="text/template" id="autocomplete_products_template">
+    <a class="algoliasearch-autocomplete-hit" href="{{url}}">
+        {{#thumbnail_url}}
+            <div class="thumb"><img src="{{thumbnail_url}}" /></div>
+        {{/thumbnail_url}}
+
+        <div class="info">
+            {{{_highlightResult.name.value}}}
+
+            <div class="algoliasearch-autocomplete-category">
+                {{#categories_without_path}}
+                    in                    {{{categories_without_path}}}
+                {{/categories_without_path}}
+
+                {{#_highlightResult.color}}
+                    {{#_highlightResult.color.value}}
+                        <span>
+                           {{#categories_without_path}} | {{/categories_without_path}} Color:  {{{_highlightResult.color.value}}}
+                        </span>
+                    {{/_highlightResult.color.value}}
+                {{/_highlightResult.color}}
+            </div>
+
+            <div class="algoliasearch-autocomplete-price">
+                <span class="after_special {{#price.USD.default_original_formated}}promotion{{/price.USD.default_original_formated}}">
+                    {{price.USD.default_formated}}
+                </span>
+
+                {{#price.USD.default_original_formated}}
+                    <span class="before_special">
+                        {{price.USD.default_original_formated}}
+                    </span>
+                {{/price.USD.default_original_formated}}
+            </div>
+        </div>
+    </a>
+</script><!-- Category hit template -->
+<script type="text/template" id="autocomplete_categories_template">
+    <a class="algoliasearch-autocomplete-hit algolia-clearfix" href="{{url}}">
+        {{#image_url}}
+            <div class="thumb">
+                <img src="{{image_url}}" />
+            </div>
+        {{/image_url}}
+
+        <div class="info{{^image_url}}-without-thumb{{/image_url}}">
+
+            {{#_highlightResult.path}}
+                {{{_highlightResult.path.value}}}
+            {{/_highlightResult.path}}
+            {{^_highlightResult.path}}
+                {{{path}}}
+            {{/_highlightResult.path}}
+
+            {{#product_count}}
+                <small>({{product_count}})</small>
+            {{/product_count}}
+
+        </div>
+    </a>
+</script><!-- Page hit template -->
+<script type="text/template" id="autocomplete_pages_template">
+    <a class="algoliasearch-autocomplete-hit algolia-clearfix" href="{{url}}">
+        <div class="info-without-thumb">
+            {{{_highlightResult.name.value}}}
+
+            {{#content}}
+                <div class="details">
+                    {{{content}}}
+                </div>
+            {{/content}}
+        </div>
+    </a>
+</script><!-- Extra attribute hit template -->
+<script type="text/template" id="autocomplete_extra_template">
+    <a class="algoliasearch-autocomplete-hit" href="{{url}}">
+        <div class="info-without-thumb">
+            {{{_highlightResult.value.value}}}
+        </div>
+    </a>
+</script><!-- Suggestion hit template -->
+<script type="text/template" id="autocomplete_suggestions_template">
+    <a class="algoliasearch-autocomplete-hit algolia-clearfix" href="{{url}}">
+        <svg xmlns="http://www.w3.org/2000/svg" class="algolia-glass-suggestion magnifying-glass" width="24" height="24" viewBox="0 0 128 128" >
+            <g transform="scale(2.5)">
+                <path stroke-width="3" d="M19.5 19.582l9.438 9.438"></path>
+                <circle stroke-width="3" cx="12" cy="12" r="10.5" fill="none"></circle>
+                <path d="M23.646 20.354l-3.293 3.293c-.195.195-.195.512 0 .707l7.293 7.293c.195.195.512.195.707 0l3.293-3.293c.195-.195.195-.512 0-.707l-7.293-7.293c-.195-.195-.512-.195-.707 0z" ></path>
+            </g>
+        </svg>
+        <div class="info-without-thumb">
+            {{{_highlightResult.query.value}}}
+
+            {{#category}}
+                <span class="text-muted">in</span> <span class="category-tag">{{category}}</span>
+            {{/category}}
+        </div>
+    </a>
+</script><!-- General autocomplete menu template -->
+<script type="text/template" id="menu-template">
+    <div class="autocomplete-wrapper">
+        <div class="col9">
+            <div class="aa-dataset-products"></div>
+        </div>
+        <div class="col3">
+            <div class="other-sections">
+                <div class="aa-dataset-suggestions"></div>
+                                    <div class="aa-dataset-0"></div>
+                                    <div class="aa-dataset-1"></div>
+                                    <div class="aa-dataset-2"></div>
+                                    <div class="aa-dataset-3"></div>
+                                    <div class="aa-dataset-4"></div>
+                                    <div class="aa-dataset-5"></div>
+                                    <div class="aa-dataset-6"></div>
+                                    <div class="aa-dataset-7"></div>
+                                    <div class="aa-dataset-8"></div>
+                                    <div class="aa-dataset-9"></div>
+                            </div>
+        </div>
+    </div>
+</script>
+<!-- Instantsearch wrapper template -->
+<script type="text/template" id="instant_wrapper_template">
+    {{#findAutocomplete}}
+    <div id="algolia-autocomplete-container"></div>
+    {{/findAutocomplete}}
+    <div id="algolia_instant_selector" class=" with-facets">
+
+        
+        <div class="row">
+            <div class="col-md-3" id="algolia-left-container">
+                <div id="refine-toggle" class="visible-xs visible-sm">+ Refine</div>
+                <div class="hidden-xs hidden-sm" id="instant-search-facets-container">
+                    <div id="current-refinements"></div>
+                </div>
+            </div>
+
+            <div class="col-md-9" id="algolia-right-container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div>
+                            {{#second_bar}}
+                            <div id="instant-search-bar-container">
+                                <div id="instant-search-box">
+                                    <div class="instant-search-bar-label">
+                                        <span class="icon"></span>
+                                        <span>Current search</span>
+                                    </div>
+                                    <div class="instant-search-bar-wrapper">
+                                        <label for="instant-search-bar">
+                                            Search:                                        </label>
+
+                                        <input placeholder="Search for products"
+                                               id="instant-search-bar" type="text" autocomplete="off" spellcheck="false"
+                                               autocorrect="off" autocapitalize="off"/>
+
+                                        <span class="clear-cross clear-query-instant"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            {{/second_bar}}
+                        </div>
+                    </div>
+                </div>
+                <div class="row algolia-clearfix">
+                    <div>
+                        <div class="hits">
+                            <div class="infos algolia-clearfix">
+                                <div class="pull-left" id="algolia-stats"></div>
+                                <div class="pull-right">
+                                    <div class="sort-by-label pull-left">
+                                        SORT BY                                    </div>
+                                    <div class="pull-left" id="algolia-sorts"></div>
+                                </div>
+                            </div>
+                            <div id="instant-search-results-container"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="text-center">
+                    <div id="instant-search-pagination-container"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</script>
+<!-- Product hit template -->
+<script type="text/template" id="instant-hit-template">
+    {{#hits}}
+        <div class="col-md-4 col-sm-6">
+            <div class="result-wrapper">
+                <a href="{{url}}" class="result algolia-clearfix">
+                    <div class="result-content">
+                        <div class="result-thumbnail">
+                            {{#image_url}}<img src="{{{ image_url }}}"/>{{/image_url}}
+                            {{^image_url}}<span class="no-image"></span>{{/image_url}}
+                        </div>
+                        <div class="result-sub-content">
+                            <h3 class="result-title text-ellipsis">
+                                {{{ _highlightResult.name.value }}}
+                            </h3>
+                            <div class="ratings">
+                                <div class="ratings-wrapper">
+                                    <div class="ratings-sub-content">
+                                        <div class="rating-box">
+                                            <div class="rating" style="width:{{rating_summary}}%" width="148" height="148"></div>
+                                        </div>
+                                    </div>
+                                    <div class="price">
+                                        <div class="price-wrapper">
+                                            <div>
+                                                <span
+                                                    class="after_special {{#price.USD.default_original_formated}}promotion{{/price.USD.default_original_formated}}">
+                                                    {{price.USD.default_formated}}
+                                                </span>
+
+                                                {{#price.USD.default_original_formated}}
+                                                    <span class="before_special">
+                                                        {{price.USD.default_original_formated}}
+                                                    </span>
+                                                {{/price.USD.default_original_formated}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="result-description text-ellipsis">{{{ _highlightResult.description.value }}}</div>
+
+                            {{#isAddToCartEnabled}}
+                                {{#in_stock}}
+                                    <form action="http://www.adornmonde.com/index.php//checkout/cart/add/product/{{objectID}}"
+                                          method="post">
+                                        <input type="hidden" name="form_key"
+                                               value="cnFsvQZJjWk5lbm5"/>
+                                        <input type="hidden" name="qty" value="1">
+                                        <button type="submit">Add to Cart</button>
+                                    </form>
+                                {{/in_stock}}
+                            {{/isAddToCartEnabled}}
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    {{/hits}}
+</script><!-- Search statistics template (used for displaying hits' count and time of query) -->
+<script type="text/template" id="instant-stats-template">
+    {{#hasOneResult}}
+        <strong>1</strong> result found    {{/hasOneResult}}
+
+    {{#hasManyResults}}
+        {{^hasNoResults}}
+            {{first}}-{{last}} out of        {{/hasNoResults}}
+        <strong>{{#helpers.formatNumber}}{{nbHits}}{{/helpers.formatNumber}} results found</strong>
+    {{/hasManyResults}}
+
+    in {{seconds}} seconds</script><!-- Refinements lists item template -->
+<script type="text/template" id="refinements-lists-item-template">
+    <label class="{{cssClasses.label}}">
+        <input type="checkbox" class="{{cssClasses.checkbox}}" value="{{name}}" {{#isRefined}}checked{{/isRefined}} />{{name}}
+        {{#isRefined}}<span class="cross-circle"></span>{{/isRefined}}
+        <span class="{{cssClasses.count}}">
+            {{#helpers.formatNumber}}{{count}}{{/helpers.formatNumber}}
+        </span>
+    </label>
+</script><!-- Current refinements template -->
+<script type="text/template" id="current-refinements-template">
+    <div class="cross-wrapper">
+        <span class="clear-cross clear-refinement"></span>
+    </div>
+    <div class="current-refinement-wrapper">
+        {{#label}}
+            <span class="current-refinement-label">{{label}}{{^operator}}:{{/operator}}</span>
+        {{/label}}
+
+        {{#operator}}
+            {{{displayOperator}}}
+        {{/operator}}
+
+        {{#exclude}}-{{/exclude}}
+
+        <span class="current-refinement-name">{{name}}</span>
+    </div>
+</script> </div>
 </div>
 
 
