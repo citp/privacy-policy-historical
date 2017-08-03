@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangolanguages.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630074657id_/http%3A//mangolanguages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangolanguages.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803125521id_/https%3A//mangolanguages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Except as otherwise stated in this Policy, we do not sell, trade or rent your Pe
 
 ## 4\. HOW CAN YOU UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION?
 
-If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” or other applicable section of the Site. You can also deactivate or delete your profile on your profile setting page within the applicable Site. A customer service representative can also assist you in making any changes, as well as in exercising your right to have your personal information corrected or deleted. If you need additional assistance, please contact us at customercare@mangolanguage.com. You can expect a response from us within approximately ten (10) calendar days. Please be advised that you cannot change your username without re-registering. Please note, that because we keep track of past purchases, you cannot delete information associated with past purchases. Note that we may retain changed or deleted information for archival or other purposes.
+If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” or other applicable section of the Site. A customer service representative can also assist you in making any changes, as well as in exercising your right to have your personal information corrected or deleted. If you need additional assistance, please contact us at support@mangolanguages.com. You can expect a response from us within approximately ten (10) calendar days. Please note, that because we keep track of past purchases, you cannot delete information associated with past purchases. Note that we may retain changed or deleted information for archival or other purposes.
 
 ## 5\. WHAT SECURITY PRECAUTIONS ARE IN PLACE TO PROTECT AGAINST THE LOSS, MISUSE OR ALTERATION OF YOUR INFORMATION?
 
