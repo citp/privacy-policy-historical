@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weareultraviolet.org privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219204549id_/https%3A//weareultraviolet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareultraviolet.org privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803020717id_/https%3A//weareultraviolet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Are UltraViolet
 
