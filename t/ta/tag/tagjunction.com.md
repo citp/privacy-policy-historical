@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagjunction.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604064105id_/http%3A//www.tagjunction.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagjunction.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803205252id_/http%3A//tagjunction.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Tag Junction Privacy Policy,Affiliate Network Privacy Policy,FAQs
 
@@ -29,9 +29,9 @@ Tag Junction provides advertising links to many websites. Tag Junction is only r
 
 **Contact:**  
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:   
-MERIDIAN TECH PTE LTD.  
-Farrerpark Suites, #05-06  
-80 Owen Road  
-SINGAPORE 218896 
+MAGNUM ONLINE PTE LTD.   
+51 Bukit Batok Crescent   
+#08-05 Unity Centre   
+Singapore 658077 
 
-You may contact us by e-mail at **support[at]tagjunction.com**
+You may contact us by e-mail at **support@tagjunction.com**
