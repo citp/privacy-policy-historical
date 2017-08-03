@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183521id_/https%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapblog.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803161803id_/https%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
 # Mixbook Privacy Policy
 
