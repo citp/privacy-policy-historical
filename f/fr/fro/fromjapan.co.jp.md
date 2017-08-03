@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromjapan.co.jp privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024644id_/http%3A//www.fromjapan.co.jp/en/title/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromjapan.co.jp privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803024434id_/https%3A//www.fromjapan.co.jp/en/title/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Proxy bidding and ordering service for Japanese auctions and shopping - FROM JAPAN
 
