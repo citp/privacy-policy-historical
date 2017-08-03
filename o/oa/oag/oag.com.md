@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227013924id_/https%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803130016id_/https%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,7 +109,7 @@ OAG Aviation Worldwide Pte Ltd:     [contactus@oag.com](mailto:ContactUs@oag.
 
 **Corporate information**
 
-• OAG.com and affiliated and subsidiary Web Sites are owned or licensed and operated by OAG Aviation Worldwide Limited, registered in England and Wales, No. 8434134, registered office at 1 Capability Green, Luton, Bedfordshire LU1 3LU, United Kingdom and place of business at 1 Capability Green, Luton, Bedfordshire, LU1 3LU, United Kingdom and whose VAT number is GB 157 6342 93 (“OAG Aviation Worldwide Limited”);
+• OAG.com and affiliated and subsidiary Web Sites are owned or licensed and operated by OAG Aviation Worldwide Limited, registered in England and Wales, No. 8434134, registered office at 1 Capability Green, Luton, Bedfordshire LU1 3LU, United Kingdom and place of business at 1 Capability Green, Luton, Bedfordshire, LU1 3LU, United Kingdom and whose VAT number is GB 262856382 (“OAG Aviation Worldwide Limited”);
 
 • OAG Aviation Worldwide is part of OAG Aviation Group
 
