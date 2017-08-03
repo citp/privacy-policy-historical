@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150357id_/http%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803212323id_/http%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
 
 # US Patriot Privacy Policy
 
