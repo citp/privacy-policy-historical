@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipartsgram.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195406id_/https%3A//www.clipartsgram.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartsgram.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803050736id_/https%3A//www.clipartsgram.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - clipartsgram.com
 
