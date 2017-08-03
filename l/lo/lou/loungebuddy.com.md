@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loungebuddy.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216042326id_/https%3A//www.loungebuddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loungebuddy.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803163839id_/https%3A//www.loungebuddy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoungeBuddy
 
