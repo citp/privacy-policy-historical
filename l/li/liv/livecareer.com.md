@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204165210id_/https%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803223016id_/https%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
 
 # Policy | Privacy Policy | LiveCareer
 
@@ -149,4 +149,4 @@ From time to time, we may update this Privacy Policy. The Privacy Policy posted 
 
 ###### 15\. Contact Us
 
-If your questions are not answered online, you may e-mail us at [privacy@bold.com](mailto:privacy@bold.com), or write to us at Auxiliant sarl, 1A, rue Thomas Edison, L-445 Strassen, Luxembourg, or using the [contact us form](https://web.archive.org/contact-us) on the Site.
+If your questions are not answered online, you may e-mail us at [privacy@bold.com](mailto:privacy@bold.com), or write to us at Auxiliant sarl, 1A, rue Thomas Edison, L-445 Strassen, Luxembourg or BOLD LLC, City View Plaza II, 48 Road 165, Suite 6000, Guaynabo, PR 00968, or using the [contact us form](https://web.archive.org/contact-us) on the Site.
