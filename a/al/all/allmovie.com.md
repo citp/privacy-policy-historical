@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612180856id_/http%3A//www.allmovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803112630id_/http%3A//www.allmovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Media Network Property | AllMovie
 
