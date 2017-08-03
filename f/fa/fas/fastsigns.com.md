@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastsigns.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312114000id_/https%3A//www.fastsigns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsigns.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803231645id_/https%3A//www.fastsigns.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FASTSIGNS
 
@@ -59,4 +59,4 @@ Carrollton, TX 75006
 
 However, to the extent that corrected or deleted information is also stored in other databases, we cannot always ensure that such corrections or deletions will immediately reach the other databases. Some information may be retained for longer periods as required by law, contracts or auditing requirements.
 
-This Privacy Policy was last updated on May 1, 2009. This Privacy Policy is effective as of May 1, 2009.
+This Privacy Policy was last updated on February 17, 2016. This Privacy Policy is effective as of May 1, 2009.
