@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturefashion.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603151554id_/http%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturefashion.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803091316id_/https%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Furniture Fashion
 
