@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldandnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102459id_/http%3A//www.heraldandnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldandnews.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803025635id_/https%3A//www.heraldandnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | heraldandnews.com
 
@@ -65,4 +65,4 @@ Sign up today, or manage your subscriptions, to one of our great newsletters:
 
 
 
-The Klamath Countdown is a weekly video news program produced by the Herald and News covering some of the top stories affecting Klamath County and the surrounding area. A new episode is released every Friday. 
+Josh Looney takes the podium for introduction to Missouri Western. 
