@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growershouse.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628142924id_/http%3A//growershouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growershouse.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804120228id_/https%3A//growershouse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
