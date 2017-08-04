@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623163847id_/https%3A//www.njm.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804025624id_/https%3A//www.njm.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | NJM
 
