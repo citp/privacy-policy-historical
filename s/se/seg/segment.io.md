@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513181046id_/https%3A//segment.com/docs/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804202310id_/https%3A//segment.com/docs/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Documentation - Segment
 
@@ -115,8 +115,8 @@ If you have any questions or concerns at all about our Privacy Policy, please fe
 Or if you are feeling old fashioned, use snail mail:
 
 Segment.io, Inc.  
-101 15th St  
-San Francisco, CA 94103 USA  
+100 California Street, Suite 700  
+San Francisco, CA 94111 USA  
 Attention: Privacy Officer
 
 * * *
