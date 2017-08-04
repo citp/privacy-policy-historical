@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 97thfloor.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430055323id_/https%3A//97thfloor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 97thfloor.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804024932id_/https%3A//97thfloor.com/privacy) for the most accurate reproduction.*
 
 # 97th Floor | Digital. Marketing. Elevated.
 
