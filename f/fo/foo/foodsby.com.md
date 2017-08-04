@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsby.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526125616id_/https%3A//www.foodsby.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsby.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804133556id_/https%3A//www.foodsby.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Foodsby
 
