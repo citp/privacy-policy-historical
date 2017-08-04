@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mobify.site privacy policy that was archived on 2017-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170604095848id_/http%3A//mobify.site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobify.site privacy policy that was archived on 2017-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170804141721id_/http%3A//mobify.site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="overflow-x: hidden;"><head>
     <meta charset="UTF-8">
@@ -42,7 +42,7 @@
                 <div class="s-12 l-offset-2 l-4">
                     <form class="customform" method="post" name="" action="/privacy">
             
-<input type="hidden" class="form-control" name="header_search[csrf]" value="fca403add433fe924c2c0bbf13de3db7">
+<input type="hidden" class="form-control" name="header_search[csrf]" value="43f1fdd8f31145cd03047f1f8ee55c66">
             
 
 <div class="">
@@ -51,7 +51,7 @@
         </form>
                 </div>
                 <div class="s-12 m-offset-6 m-6 l-2">
-                    <div id="lang-selector" class="flagstrap" data-input-name="country"><select id="flagstrap-BIoxvP0e" name="country" style="display: none;"><option value="GB" selected="selected">English</option><option value="DE">Deutch</option><option value="FR">French</option><option value="ES">Espagnol</option><option value="IT">Italian</option><option value="PT">Portugese</option></select><button type="button" data-toggle="dropdown" id="flagstrap-drop-down-BIoxvP0e" style="float: right; width: 100%; height: 2.7rem;" class="btn btn-default btn-md dropdown-toggle"><span class="flagstrap-selected-BIoxvP0e"><i class="flagstrap-icon flagstrap-gb" style="margin-right: 10px;"></i>English</span><span class="caret" style="margin-left: 10px;"></span></button><ul id="flagstrap-drop-down-BIoxvP0e-list" aria-labelled-by="flagstrap-drop-down-BIoxvP0e" style="float: right; width: 100%; cursor: pointer; height: auto; max-height: 250px; overflow-x: hidden;" class="dropdown-menu"><li><a data-val="GB"><i class="flagstrap-icon flagstrap-gb" style="margin-right: 10px;"></i>English</a></li><li><a data-val="DE"><i class="flagstrap-icon flagstrap-de" style="margin-right: 10px;"></i>Deutch</a></li><li><a data-val="FR"><i class="flagstrap-icon flagstrap-fr" style="margin-right: 10px;"></i>French</a></li><li><a data-val="ES"><i class="flagstrap-icon flagstrap-es" style="margin-right: 10px;"></i>Espagnol</a></li><li><a data-val="IT"><i class="flagstrap-icon flagstrap-it" style="margin-right: 10px;"></i>Italian</a></li><li><a data-val="PT"><i class="flagstrap-icon flagstrap-pt" style="margin-right: 10px;"></i>Portugese</a></li></ul></div>
+                    <div id="lang-selector" class="flagstrap" data-input-name="country"><select id="flagstrap-1iWoQ7rZ" name="country" style="display: none;"><option value="GB" selected="selected">English</option><option value="DE">Deutch</option><option value="FR">French</option><option value="ES">Espagnol</option><option value="IT">Italian</option><option value="PT">Portugese</option></select><button type="button" data-toggle="dropdown" id="flagstrap-drop-down-1iWoQ7rZ" style="float: right; width: 100%; height: 2.7rem;" class="btn btn-default btn-md dropdown-toggle"><span class="flagstrap-selected-1iWoQ7rZ"><i class="flagstrap-icon flagstrap-gb" style="margin-right: 10px;"></i>English</span><span class="caret" style="margin-left: 10px;"></span></button><ul id="flagstrap-drop-down-1iWoQ7rZ-list" aria-labelled-by="flagstrap-drop-down-1iWoQ7rZ" style="float: right; width: 100%; cursor: pointer; height: auto; max-height: 250px; overflow-x: hidden;" class="dropdown-menu"><li><a data-val="GB"><i class="flagstrap-icon flagstrap-gb" style="margin-right: 10px;"></i>English</a></li><li><a data-val="DE"><i class="flagstrap-icon flagstrap-de" style="margin-right: 10px;"></i>Deutch</a></li><li><a data-val="FR"><i class="flagstrap-icon flagstrap-fr" style="margin-right: 10px;"></i>French</a></li><li><a data-val="ES"><i class="flagstrap-icon flagstrap-es" style="margin-right: 10px;"></i>Espagnol</a></li><li><a data-val="IT"><i class="flagstrap-icon flagstrap-it" style="margin-right: 10px;"></i>Italian</a></li><li><a data-val="PT"><i class="flagstrap-icon flagstrap-pt" style="margin-right: 10px;"></i>Portugese</a></li></ul></div>
                 </div>
             </div>
         </div>
@@ -91,11 +91,20 @@
             <a class="right" href="/privacy">Privacy Policy</a>
         </div>
     </div>
+    <div id="cc_container">This website uses cookies to ensure you get the best experience on our website. <a href="/privacy">Learn more.</a> <span id="cookie_consent">Got it.</span></div>
 </footer>
 <script src="/jquery/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
 <script type="text/javascript" src="/js/responsee.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 <script src="/js/jquery.flagstrap.js"></script>
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            $("#cookie_consent").click(function() {
+                $.ajax({type: "GET", url: "/cookie-consent"});
+                $("#cc_container").hide();
+            });
+        });
+    </script>
 <script type="text/javascript">
     $('#lang-selector').flagStrap({
         countries: {
