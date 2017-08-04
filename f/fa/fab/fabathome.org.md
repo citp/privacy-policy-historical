@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabathome.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611222056id_/http%3A//www.fabathome.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabathome.org privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804083330id_/https%3A//www.fabathome.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FabatHome
 
