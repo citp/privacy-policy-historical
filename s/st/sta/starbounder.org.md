@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbounder.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102447id_/http%3A//starbounder.org/Starbounder_-_Starbound_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbounder.org privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805154315id_/https%3A//starbounder.org/Starbounder_-_Starbound_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Starbounder - Starbound Wiki:Privacy policy - Starbounder - Starbound Wiki
 
