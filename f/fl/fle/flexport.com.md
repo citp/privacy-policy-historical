@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexport.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515043830id_/http%3A//www.flexport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexport.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805221249id_/https%3A//www.flexport.com/privacy) for the most accurate reproduction.*
 
 # Flexport - Freight Forwarder and Customs Broker
 
