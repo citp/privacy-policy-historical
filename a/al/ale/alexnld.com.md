@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexnld.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605102126id_/http%3A//alexnld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexnld.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805190127id_/http%3A//alexnld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alex NLD
 
