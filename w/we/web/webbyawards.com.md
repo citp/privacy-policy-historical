@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612142235id_/http%3A//webbyawards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805142134id_/https%3A//www.webbyawards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Webby Awards
 
