@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapermania.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013655id_/http%3A//www.wallpapermania.eu/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapermania.eu privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805021217id_/http%3A//www.wallpapermania.eu/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
