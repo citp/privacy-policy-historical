@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508142302id_/https%3A//www.usa-people-search.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805054832id_/https%3A//www.usa-people-search.com/privacy.aspx) for the most accurate reproduction.*
 
 # USA People Search Privacy Policy and User Information Guidelines
 
