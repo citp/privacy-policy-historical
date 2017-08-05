@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometone.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405172241id_/http%3A//community.drprem.com/privacy-policy-network) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometone.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806012317id_/http%3A//community.drprem.com/privacy-policy-network) for the most accurate reproduction.*
 
-# Live Life Community - Privacy Policy
+# All Articles - Privacy Policy (Network) - Global Community | Community.DrPrem.com
 
 Instamedia (Also known as Dr Prem Web Network, Global Community Network) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our various websites (the "Site" or "Sites"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").
 
