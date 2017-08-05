@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximiles.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608184646id_/http%3A//www.maximiles.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximiles.co.uk privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805173357id_/http%3A//www.maximiles.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
