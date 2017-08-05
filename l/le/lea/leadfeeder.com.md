@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leadfeeder.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523101433id_/https%3A//www.leadfeeder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadfeeder.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805222723id_/https%3A//www.leadfeeder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy policy
 
 Please read this Privacy Policy carefully before using the Leadfeeder website located at https://www.leadfeeder.com (the “Website”) or using https://app.leadfeeder.com (the “Service") operated by Liidio Oy ("us", "we", "our" or “Leadfeeder”).
 
