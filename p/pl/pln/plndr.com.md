@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plndr.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224102541id_/http%3A//www.plndr.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plndr.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805043046id_/http%3A//www.plndr.com/%23privacy) for the most accurate reproduction.*
 
 # Plndr - Clothing. Accessories. Plunder.
 
