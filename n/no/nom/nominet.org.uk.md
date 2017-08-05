@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410092940id_/https%3A//www.nominet.uk/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805093313id_/http%3A//www.nominet.uk/resources/privacy-policy) for the most accurate reproduction.*
 
 # See our Privacy Policy & Your Rights as a Website User
 
