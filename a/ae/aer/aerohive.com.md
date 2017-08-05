@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130225014id_/http%3A//www.aerohive.com/legal/aerohive-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805193843id_/https%3A//www3.aerohive.com/legal/aerohive-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Aerohive Networks
 
@@ -70,7 +70,7 @@ We may disclose or transfer information about our Users, including your Personal
 
 You may, of course, decline to share your Personal Information with Aerohive, in which case you should immediately cease using our Products or Services, and Aerohive will not be able to provide to you the features and functionality found in our Site. If you register as a customer of Aerohive, you may update, correct, or delete your profile information and preferences at any time by emailing us at [privacy@aerohive.com](mailto:privacy@aerohive.com).
 
-You may “ **opt out** ” of receiving email from us for promotional and marketing purposes by visiting <http://info.aerohive.com/UnsubscribePage.html>. Opting out of receiving email sent for promotional and marketing purposes does not limit or affect our ability to send you service and account-related emails or to collect, access, use, disclose or transfer your Personal Information as otherwise described in this Privacy Policy.
+You may “ **opt out** ” of receiving email from us for promotional and marketing purposes by visiting <http://content.aerohive.com/unsubscribe/u/279512>. Opting out of receiving email sent for promotional and marketing purposes does not limit or affect our ability to send you service and account-related emails or to collect, access, use, disclose or transfer your Personal Information as otherwise described in this Privacy Policy.
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for monitoring your privacy settings and maintaining the secrecy and security of your account information at all times.
 
