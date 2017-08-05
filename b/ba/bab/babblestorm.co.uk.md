@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babblestorm.co.uk privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102105220id_/http%3A//www.babblestorm.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babblestorm.co.uk privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805092736id_/http%3A//www.babblestorm.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Babblestorm
 
