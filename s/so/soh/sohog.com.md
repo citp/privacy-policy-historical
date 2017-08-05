@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sohog.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604183920id_/http%3A//www.blitzgamer.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sohog.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805225649id_/http%3A//www.blitzgamer.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play Free Games Online and Chat @ Blitz Gamer
 
