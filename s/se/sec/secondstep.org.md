@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164451id_/http%3A//www.secondstep.org/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805155032id_/http%3A//www.secondstep.org/home/privacy-policy) for the most accurate reproduction.*
 
 # Second Step > Home > Privacy Policy
 
-Last Updated: June 2013 
+**Last Updated: June 2013**
 
 This privacy policy (“Privacy Policy”) explains how information about you is collected, used, and disclosed by Committee for Children (“CFC,” “we,” or “us”). This Privacy Policy applies to information we collect when you use our websites, mobile applications, and other online products and services (collectively, the “Services”), when you interact with us on third-party sites where we have an official presence, or when you otherwise interact with us. 
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this Privacy Policy. In some cases, we may provide you with additional notice, such as adding a statement to the homepages of our websites or sending you an email notification. We encourage you to review this Privacy Policy whenever you access our Services to stay informed about our information practices and the ways you can help protect your privacy. 
 
-WHAT INFORMATION DO WE COLLECT? 
+##### WHAT INFORMATION DO WE COLLECT?
 
-Information You Provide to Us
+**Information You Provide to Us**
 
 We collect information you provide directly to us. For example, we collect information when you create an account, participate in interactive features of our Services, fill out a form, make a purchase or a donation, apply for a job, communicate with us via a third party social media site, subscribe to our newsletter, sign up for a contest or sweepstakes, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, mailing address, phone number, payment information, job title, information about your school or organization, and any other information you choose to provide. 
 
-Information We Collect Automatically When You Use Our Services
+**Information We Collect Automatically When You Use Our Services**
 
-When you access or use our Services, we automatically collect information about you, including:
+When you access or use our Services, we automatically collect information about you, including: 
 
   * Log Information: We log information about your use of our Services, such as your Internet Protocol ("IP") address, the type of browser you use, the address of a referring website, and your activity with our Services.
   * Device Information: We collect information about the computer or device you use to access our Services, including the operating system and version, and network information.
@@ -24,11 +24,14 @@ When you access or use our Services, we automatically collect information about 
 
 
 
-Information We Collect From Other Sources
+**Information We Collect From Other Sources**
 
 We may also obtain information from other sources, such as mailing list providers, and combine that information with information we collect through our Services. 
 
-HOW DO WE USE THE INFORMATION WE COLLECT?
+  
+
+
+##### HOW DO WE USE THE INFORMATION WE COLLECT?
 
 We may use information about you for various purposes, including to: 
 
@@ -45,9 +48,12 @@ We may use information about you for various purposes, including to:
 
 CFC is based in the United States, and the information we collect is governed by U.S. law. By accessing or using our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
 
-WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
+  
 
-We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+##### WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
+
+We may share information about you as follows or as otherwise described in this Privacy Policy: 
 
   * With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf;
   * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process, or as otherwise required by any applicable law, rule, or regulation;
@@ -57,40 +63,52 @@ We may share information about you as follows or as otherwise described in this 
 
 
 
-We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you. 
 
-HOW DO OUR SERVICES INTERACT WITH THIRD PARTY SERVICES?
+  
 
-Social Sharing Features
 
-Our Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity providing the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+##### HOW DO OUR SERVICES INTERACT WITH THIRD PARTY SERVICES?
 
-Advertising and Analytic Services Provided by Others
+**Social Sharing Features**
+
+Our Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity providing the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. 
+
+**Advertising and Analytic Services Provided by Others**
 
 We may allow others to provide analytics services on our behalf or serve advertisements across the Internet. These entities may use cookies, web beacons, and other technologies to collect information about your use of our Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites, and better understand your activity with respect to our Services. For more information about interest-based advertisements, or to opt out of having your web browsing information used for advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
-WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION? 
+  
+
+
+##### WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION?
 
 We take reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, or destruction. 
 
-YOUR CHOICES
+  
 
-Account Information
+
+##### YOUR CHOICES
+
+**Account Information**
 
 You may update, correct, or delete information about you at any time by logging into your online account, [emailing us](https://web.archive.org/Site/ContactUs.aspx) or contacting us by mail at the address provided below. If you wish to deactivate your account, please [email us](https://web.archive.org/Site/ContactUs.aspx), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period. 
 
-Cookies
+**Cookies**
 
-Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. You may visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information about deleting or disabling flash cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. You may visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information about deleting or disabling flash cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. 
 
-Promotional Communications
+**Promotional Communications**
 
 You may “opt out” of receiving marketing or promotional communications from us by following the directions in the communications. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
 
-HOW CAN YOU OBTAIN ADDITIONAL INFORMATION?
+  
+
+
+##### HOW CAN YOU OBTAIN ADDITIONAL INFORMATION?
 
 If you have any questions or comments about this Privacy Policy, please [email us](https://web.archive.org/Site/ContactUs.aspx) through our website, or contact us by mail at 
 
-Committee for Children  
+**Committee for Children  
 2815 Second Ave., Suite 400   
-Seattle, WA, 98121. 
+Seattle, WA, 98121. **
