@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadescool.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605125623id_/http%3A//www.arcadescool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadescool.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805094250id_/http%3A//www.arcadescool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ArcadesCool.com
 
