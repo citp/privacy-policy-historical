@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlstar.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507034130id_/https%3A//littlstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlstar.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806043836id_/https%3A//littlstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Littlstar - The World Revolves Around You
 
