@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129043657id_/https%3A//centreforaviation.com/about-capa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806151728id_/https%3A//centreforaviation.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CAPA - Centre for Aviation
+# Privacy Policy | CAPA
 
 CAPA - Centre for Aviation respects the privacy rights of our users and is strongly committed to protecting your privacy online. This privacy policy applies to this Web site. 
 
