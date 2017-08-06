@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorbeam.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605104548id_/https%3A//www.motorbeam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbeam.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806125359id_/https%3A//www.motorbeam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MotorBeam
+# Privacy Policy - MotorBeam - Indian Car Bike News Review Price
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
