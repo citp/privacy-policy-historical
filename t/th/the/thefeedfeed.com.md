@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefeedfeed.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401145842id_/https%3A//thefeedfeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeedfeed.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806083551id_/https%3A//thefeedfeed.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
