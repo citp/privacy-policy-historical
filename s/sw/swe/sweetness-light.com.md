@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetness-light.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604142821id_/http%3A//www.sweetness-light.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetness-light.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806065204id_/http%3A//www.sweetness-light.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sweetness & Light
 
