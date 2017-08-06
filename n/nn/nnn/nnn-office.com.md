@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nnn-office.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607144945id_/http%3A//www.nnn-office.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nnn-office.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806155556id_/http%3A//www.nnn-office.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NNN Nigeria
 
