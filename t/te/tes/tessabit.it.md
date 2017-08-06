@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessabit.it privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520232400id_/http%3A//www.tessabit.com/us/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessabit.it privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806105523id_/https%3A//www.tessabit.com/us/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Tessabit shop online
 
