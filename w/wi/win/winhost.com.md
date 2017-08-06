@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winhost.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090731id_/http%3A//www.winhost.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhost.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806110811id_/https%3A//www.winhost.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # ASP.NET Hosting Privacy Policy | Winhost ASP.NET Hosting
 
