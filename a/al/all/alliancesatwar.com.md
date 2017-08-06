@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancesatwar.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102124021id_/http%3A//alliancesatwar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancesatwar.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806052620id_/http%3A//alliancesatwar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Orkfia
 
