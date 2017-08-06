@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khantv.pk privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605231927id_/http%3A//khantv.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khantv.pk privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806202647id_/http%3A//khantv.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
