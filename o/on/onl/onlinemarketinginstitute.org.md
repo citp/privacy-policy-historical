@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemarketinginstitute.org privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226203234id_/https%3A//www.onlinemarketinginstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemarketinginstitute.org privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806143632id_/https%3A//www.onlinemarketinginstitute.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Marketing Institute
 
