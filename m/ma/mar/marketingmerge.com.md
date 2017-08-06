@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmerge.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629235140id_/http%3A//marketingmerge.com/Policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmerge.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806054331id_/http%3A//marketingmerge.com/Policies.aspx) for the most accurate reproduction.*
 
 # Policies
 
