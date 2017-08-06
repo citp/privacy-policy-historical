@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfwayanywhere.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605194927id_/http%3A//www.halfwayanywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfwayanywhere.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806103319id_/http%3A//www.halfwayanywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Halfway Anywhere
 
