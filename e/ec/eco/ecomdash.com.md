@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecomdash.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326071843id_/https%3A//www.ecomdash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomdash.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806105106id_/https%3A//www.ecomdash.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ecomdash
+# Privacy Policy | ecomdash
 
 LTD Software, LLC dba Ecomdash (collectively “ecomdash”) provides technology and services that enable industry-leading companies to use online marketplaces to acquire customers and maximize inventory yield. Ecomdash is committed to maintaining the privacy of all users of the Site.
 
