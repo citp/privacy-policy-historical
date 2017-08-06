@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reduto.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073513id_/http%3A//reduto.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reduto.co.uk privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806133947id_/http%3A//reduto.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # reduto.co.uk
 
