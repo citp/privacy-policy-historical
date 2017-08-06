@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspcparts.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515052216id_/http%3A//www.uspcparts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspcparts.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806092340id_/https%3A//www.uspcparts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : US PC Parts
 
