@@ -1,44 +1,43 @@
-> *The following text is extracted and transformed from the intellixmedia.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921172857id_/http%3A//intellixmedia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellixmedia.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806034910id_/http%3A//www.intellixmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Of Web Design Company In USA Intellix Media
+# Privacy Policy: – www.intellixmedia.com
 
-This site is owned and operated by Intellix Media. Your privacy on the Internet is of the utmost importance to us. At Intellix Media, we want to make your experience online satisfying and safe.  
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.  
-INFORMATION Intellix Media GATHERS AND TRACKS  
-Intellix Media gathers two types of information about users:  
-•    Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:  
-•    Information Intellix Media gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Intellix Media derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Intellix Media divulge any information about an individual user to a third party.   
-Intellix Media Gathers User Information In The Following Processes:  
-Optional Voluntary Information  
-We offer the following free services, which require some type of voluntary submission of personal information by users:  
-1\. Electronic newsletters policy (Dispatches)  
-We will offer a free electronic newsletter to users. Intellix Media gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.  
-2\. Message boards/forums policy  
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.  
-3\. "E-mail this to a friend" policy  
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.  
-4\. Polling  
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Intellix Media may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.  
-5\. Surveys  
-Intellix Media may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.  
-Usage tracking  
-Intellix Media tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Intellix Media does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).  
-Intellix Media sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.  
-Cookies  
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Intellix Media uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.  
-USE OF INFORMATION  
-Intellix Media uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.  
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Intellix Media never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.  
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.  
-Intellix Media creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.  
-SHARING OF THE INFORMATION  
-Intellix Media uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.  
-SECURITY  
-Intellix Media operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.  
-OPT-OUT POLICY  
-We give users options wherever necessary and practical. Such choices include:  
-•    Opting not to register to receive our electronic newsletters.  
-•    Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users   
-YOUR CONSENT  
-By using this site, you consent to the collection and use of this information by Intellix Media. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+  * http://www.intellixmedia.com/ (“ **http://www.intellixmedia.com/** “) operates http://www.intellixmedia.com/ and may operate other websites. It is http://www.intellixmedia.com/ policy to respect your privacy regarding any information we may collect while operating our websites.  
+
+
+### Website Visitors
+
+Like most website operators, http://www.intellixmedia.com/ collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. http://www.intellixmedia.com/ purpose in collecting non-personally identifying information is to better understand how http://www.intellixmedia.com/ visitors use its website. From time to time, http://www.intellixmedia.com/ may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+http://www.intellixmedia.com/ also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://www.intellixmedia.com/ blogs/sites. http://www.intellixmedia.com/ only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+
+### Gathering of Personally-Identifying Information
+
+Certain visitors to http://www.intellixmedia.com/ websites choose to interact with http://www.intellixmedia.com/ in ways that require http://www.intellixmedia.com/ to gather personally-identifying information. The amount and type of information that http://www.intellixmedia.com/ gathers depends on the nature of the interaction. For example, we ask visitors who sign up at<http://www.intellixmedia.com/> to provide a username and email address. Those who engage in transactions with http://www.intellixmedia.com/ are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, http://www.intellixmedia.com/ collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with http://www.intellixmedia.com/. http://www.intellixmedia.com/ does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Aggregated Statistics
+
+http://www.intellixmedia.com/ may collect statistics about the behavior of visitors to its websites. http://www.intellixmedia.com/ may display this information publicly or provide it to others. However, http://www.intellixmedia.com/ does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+http://www.intellixmedia.com/ discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on http://www.intellixmedia.com/ behalf or to provide services available at http://www.intellixmedia.com/ websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using http://www.intellixmedia.com/ websites, you consent to the transfer of such information to them. http://www.intellixmedia.com/ will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, http://www.intellixmedia.com/ discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when http://www.intellixmedia.com/ believes in good faith that disclosure is reasonably necessary to protect the property or rights of http://www.intellixmedia.com/, third parties or the public at large. If you are a registered user of an http://www.intellixmedia.com/ website and have supplied your email address, http://www.intellixmedia.com/ may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with http://www.intellixmedia.com/ and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. http://www.intellixmedia.com/ takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. http://www.intellixmedia.com/ uses cookies to help http://www.intellixmedia.com/ identify and track visitors, their usage of http://www.intellixmedia.com/ website, and their website access preferences. http://www.intellixmedia.com/ visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using http://www.intellixmedia.com/ websites, with the drawback that certain features of http://www.intellixmedia.com/ websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If http://www.intellixmedia.com/, or substantially all of its assets, were acquired, or in the unlikely event that http://www.intellixmedia.com/ goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of http://www.intellixmedia.com/ may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by http://www.intellixmedia.com/ and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, http://www.intellixmedia.com/ may change its Privacy Policy from time to time, and in http://www.intellixmedia.com/ sole discretion. http://www.intellixmedia.com/ encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a http://www.intellixmedia.com/ account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+
+
