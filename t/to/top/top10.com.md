@@ -1,122 +1,54 @@
-> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529235237id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807205403id_/http%3A//www.naturalint.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy – Top10.com
+# Natural Intelligence
 
-## Privacy Policy
+## PRIVACY POLICY
 
-### Data Protection
+This privacy policy (" **Privacy Policy** ") describes our, Natural Intelligence Ltd.’s (" **Naturalint** ", " **we** ", " **our** " or " **us** "), information practices in connection with the website [http://www.naturalint.com/](https://web.archive.org/) (together with its subdomains, features, and services available thereon, the " **Site** "). The section and sub-section headings used below are for convenience of reading only (and are not to be used for interpretive purposes), but we hope they make navigating this Privacy Policy easier.
 
-Top10.com is owned and managed by Top10.com Media Ltd (“we”). Top10.com Media Ltd is registered with the Information Commissioner’s Office as a data controller in accordance with the Data Protection Act 1998 (“DPA”). Our registration number is: 21549624. 
+**Naturalint does not itself host the Site – all hosting is done by third party hosting providers that we engage. This means that data you provide us or that we or third parties collect from you (including any Personal Information) is hosted with such third party service providers on servers that they own or control. Regardless of where such third party service providers themselves are based (and some are US-based), their servers may be located anywhere in the world (including the US). Your data may even be replicated across multiple servers located in multiple countries. So please be aware that you are consenting to your data being transferred to various third party service providers around the world.**
 
-### General Policy
+Generally speaking, Naturalint receives information because:
 
-This policy and any other documents referred to within it form part of our [terms and conditions](https://web.archive.org/company/legal/terms) which together set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+(a) You have provided it to us;
 
-By entering your details in fields on Top10.com, you enable us and our service providers to provide you with the services you select. Whenever you supply personal information, we will treat that information in accordance with this privacy policy. Our collection and use of data collected from you is further described below, as well as the ways (if any) in which the data may be shared with third parties. 
+(b) We collect it from you; and/or
 
-If you have comments, questions or concerns, please [click here](https://web.archive.org/company/contact "Contact us") to contact us, or call: +44 (0) 20 3170 8040, or by post to: Top10.com Media Ltd, 131-151 Great Titchfield Street, London W1W 5BB.
+(c) Third parties we engage (such as a data analytics provider) collect it from you on our behalf. This happens in cases where we use or deploy third party tracking technology, or where we otherwise give these third parties access to our technology. **So where we describe below in Section 4 (Information We Collect from You) the ways in which we collect information from you, you acknowledge that such collection may also be carried out by third parties.**
 
-### Information Collected from You
+The information we receive may be about you as well as the ways in which you use the Site. For the purposes of this Privacy Policy, we categorize information as either Personal Information or Anonymous Information.
 
-We may collect any or all of the following types of information from you: 
+" **Personal Information** " means information that may be used, either alone or in combination with other information, to personally identify an individual, such as a first and last name, an email address, phone number, a home or other physical address, and other contact information.
 
-  * traffic or clickstream data;
-  * cookies;
-  * information that you provide by filling in forms on Top10.com. This includes information provided at the time of registering to use our website (including contact information), subscribing to any service, in order to use the Top 10 Broadband Speed Test (see below for further details) or posting reviews, comments or materials. We may also ask you for information if you enter a competition or promotion and if you report a problem with our website;
-  * records of correspondence between us if you contact us; and
-  * any other personally identifying information as identified in this privacy policy.
+" **Anonymous Information** " means information which is not Personal Information, such as aggregated information.
 
-
-
-### Uses Made of the Information Collected from You
-
-We use information held about you in the following ways:
-
-  * to ensure that content from our website is presented in the most effective manner for you and for your computer or device;
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
-  * to carry out our obligations arising from any contracts entered into between you and us;
-  * to allow you to participate in interactive features of our website, when you choose to do so; and
-  * to notify you about changes to our website and services. 
-
-
-
-### Traffic and Clickstream Data
-
-Data about traffic and usage is not personally identifying or identifiable, and is not supplemented or combined with personally identifying or identifiable information. 
-
-This website collects some information regarding the use of Top10.com by observing browser functions and the files (pages) users’ access, in order to police fraudulent activities and any other irregularities. Aggregate information will be used in order to continually improve our website and service. 
-
-### Cookies
-
-We may store information about you using cookies (files which are sent by us to your computer or other access device) which we can access when you visit our website in the future. We do this to learn about repeat visitors and to find out if we are delivering quality products and services therefore improving our service further.
-
-If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. 
-
-Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
-
-### Data collected from you for the Top 10 Broadband Speed Test
-
-We will collect the following data from you where you take a Top 10 Broadband Speed Test:
-
-  * postcode or location data you manually enter; 
-  * the time and date you visited our website; 
-  * your IP address (which is automatically collected from your browser); 
-  * the type of web browser you are using (automatically detected); 
-  * the hostname and/or broadbrand provider you enter; and 
-  * the rating you give for your broadband provider when you enter your details 
+  * 1. **Website TOU.** This Privacy Policy forms part of the Site's Terms of Use (the " **Website TOU** "), the definitive version of which can be viewed at [http://www.naturalint.com/terms-of-use](https://web.archive.org/terms-of-use). Any capitalized term in this Privacy Policy that we don't define, shall have the meaning given to it in the Website TOU. 
+  * 2. **Consent and Modification.** You are not legally obligated to provide us with any Personal Information (and you acknowledge that providing us with Personal Information is done freely). Nor are you required to use the Site in the first place. By using the Site you consent to this Privacy Policy and to our information practices described herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, in our sole and absolute discretion, to change this Privacy Policy at any time. Such change will be effective ten (10) days following posting of the revised Privacy Policy on our website at [http://www.naturalint.com/privacy-policy](https://web.archive.org/privacy-policy), and your continued use of the Site after such 10-day period shall mean that you accept those changes. 
+  * 3. **Information You Provide To Us.** Currently, we require you to provide us with certain types of Personal Information in order to use the Site and benefit from some of its features. Here are some examples: 
+  * 3.1. _Job Application_. If you apply for a job with Naturalint on or via the Site, we will require you (or in some cases, may just give you the option) to provide certain Personal Information, such as your name and email address. 
+  * 3.2. _‘Contact Us’_. If you send us a ‘Contact Us’ (or similar) request, whether by submitting an online form that we make available, by sending an email to an email address that we display, by using a feedback or reporting feature, or by other means, you may be required to provide us with certain Personal Information, such as your name and email address. 
+  * 3.3. _Purchases_. The Site may offer the option of purchasing certain products or services from us. If you choose to make a purchase we will require sufficient Personal Information from you in order to process the purchase. Such information could include a credit card number and related account and billing information. We may use the products and services of third party service providers to process these purchases, in which case you will be providing the information to them as well. 
+  * 3.4. _Blogs, Newsletters, Surveys and Promotions_. The Site contains a blog forum displaying information about Naturalint and its products and services. The Site may also offer you the opportunity to subscribe to newsletters and participate in surveys and other promotional activities. In each of the foregoing cases, your interaction (such as responding on the blog forum, subscribing to a newsletter, or participating in a survey) may require you to provide certain Personal Information such as your name and email address. 
+  * 4. **Information We Collect From You.** We collect Personal Information and Anonymous Information from you in the following ways: 
+  * 4.1. _Log Files; Device and Usage Data_. We collect information through server log files, but also by deploying tracking technologies within the Site. We do this to analyze trends, track user movement around the Site, gather demographic information, and to generally collect information that we may find insightful or helpful. The type of information collected may include (but is not limited to) internet protocol (IP) addresses, MAC address, phone number, device type, browser type, operating system type, type of browser, Internet Service Provider (ISP), date/time stamp of Site use, referring/exit pages, and clicked pages. For example, the Site uses Google Analytics, more information on which you can find here: <https://www.google.com/intl/en/policies/privacy/partners/>. 
+  * 4.2. _Cookies_. The Site may use "cookies". A cookie is text file placed on your hard drive and stored by your browser. We use cookies to administer, and provide you with access to, the Site; but we also use cookies to improve the user experience of the Site (for example, cookies and other technologies may serve to recall an IP address previously indicated by a user) and to collect statistical or anonymous data about how you and other users use and interact with the Site, which may include for the purpose of serving you advertisements. Some of the cookies are set by us, and some may be set by third parties (for example, social plug-ins within the Site (such as a "Like" button) involve the setting of cookies by the applicable third party). If you do not want to receive cookies, consult your respective browser settings. This may allow you to receive notifications when cookies are set, or to otherwise block cookies altogether. You may also be able to delete cookies that have already been set. If you do block or restrict cookies, you will still be able to use the Site, but various features and functionality may be impaired. 
+  * 5. **The Way We Use Personal Information.** In addition to the uses of Personal Information described elsewhere in this Privacy Policy, we also use Personal Information in the following ways: 
+  * 5.1. _To Generally Provide You With the Site_. We will use your Personal Information to: (a) administer and provide the Site to you; (b) further develop and generally improve the Site; (c) send you updates, promotions, offerings, or other news of/about the Site or Naturalint; (d) respond to communications with you; (e) identify or authenticate your access and use of the Site or an Account; and/or (f) send you advertisements or other third party marketing content. 
+  * 5.2. _Transfer To Affiliates_. We may transfer your Personal Information to our affiliated entities for the purpose of storing such information on our behalf, or for other processing needs. These affiliated entities may be based in other countries, and their servers may be located anywhere in the world. We require these affiliated entities to agree to process such Personal Information in accordance with this Privacy Policy. 
+  * 5.3. _Third Parties_. We share your Personal Information with various third parties that help us with our business operations and help us understand how our users use the Site, and to improve the Site generally. For example, we engage third party HR companies to assist us with handling job applications. These third parties may have their own privacy policies that they adhere to, so they won't necessarily adhere to this Privacy Policy; however, we do try to engage third parties that post a privacy policy. Also, just as with our third party hosting providers, these third parties may be based (and their servers may be located) anywhere in the world. 
+  * 5.4. _Enforcement_. We may share your Personal Information with any third party if we believe that disclosure of such information is helpful or reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or governmental request; (b) enforce the Website TOU, including investigations of potential violations thereof; (c) detect, prevent, or otherwise address fraud or security issues; and/or (d) protect against harm to the rights, property or safety of Naturalint, our users, yourself or the public. 
+  * 6. **Publicly Available Information.** Any content that you make publicly available on or via the Site will be publicly available to other users of the Site. If you actively or passively allow your contact information to be public, you may receive unsolicited messages or activity from other users of the Site. We therefore encourage you only to post information that you are sure you want to be publicly accessible. 
+  * 7. **Access and Accuracy; Deletion.** We would like to maintain accurate Personal Information. If you would like to delete or correct any of your Personal Information that we may be storing, there may be tools that we make available on the Site. Otherwise, please contact us at [info@naturalint.com](mailto:info@naturalint.com) to request deletion (although we do not undertake to respond to, or otherwise implement, the request within any period of time). Please be aware that information deleted (whether directly by you or pursuant to a delete request) may or may not be permanently deleted by Naturalint, and may remain stored on our servers. In such cases, the information will no longer be accessible to you. We, in our sole and absolute discretion, decide whether or not to permanently delete information from our servers. 
+  * 8. **Opt-Out.** You may choose not to receive future promotional, advertising, or other Site-related emails from us by selecting an unsubscribe link at the bottom of each email that we send. Please note that even if you opt out of receiving such emails, we may still send you administrative emails to facilitate your use of the Site. 
+  * 9. **Links to and Interaction with Third Party Products.** The Site may link to third party content, products and services. Any Personal Information you provide in connection therewith is provided to the third party. We are not responsible for the privacy practices of such third parties, or for such content, products and services, and we encourage you to read the terms and conditions and privacy policy of each third party that you choose to use or interact with. 
+  * 10. **Children’s Privacy.** The Site is not designed to attract children under the age of 13. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13. If we learn that we have collected Personal Information from a child under 13, we will use commercially reasonable efforts to delete that information as quickly as possible. If you believe that we might have any such information, please contact us at [info@naturalint.com](mailto:info@naturalint.com). 
+  * 11. **Security.** We use administrative, physical and technical safeguards to protect Personal Information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we try to use reasonably acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality. If you have any questions about security on the Site, you can contact us at [info@naturalint.com](mailto:info@naturalint.com). 
+  * 12. **Merger, Sale or Bankruptcy.** In the event that Naturalint is acquired by or merged with a third party entity, we may (and hereby reserve the right to) transfer or assign the Personal Information and other information we have collected or received. In the event of a bankruptcy, insolvency, receivership, or comparable event, we may not be able to control how your Personal Information is treated, transferred, or used. 
+  * 13. **California Privacy Rights.** California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [info@naturalint.com](mailto:info@naturalint.com). Please note that we are only required to respond to one request per customer each year. 
+  * 14. **Our California Do Not Track Notice.** We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Information about that individual consumer’s online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect Personal Information about an individual consumer’s online activities over time and across different web sites when a consumer uses the Site. 
+  * 15. **Deletion of Content from California Residents.** If you are a California resident under the age of 18 and a registered user of the Site (for example, if you have an Account), California Business and Professions Code Section 22581 permits you to remove content or information you have publicly posted. If you wish to remove such content or information and you specify which content or information you wish to be removed, we will do so in accordance with applicable law. Please be aware that after removal you will not be able to restore removed content or information. In addition, such removal does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require us to enable removal of the content or information. 
+  * 16. **Commitment.** Protecting your privacy online is an evolving area, and we try to evolve our Site to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at [info@naturalint.com](mailto:info@naturalint.com). 
 
 
 
-We use the data collected from you when you take a Top 10 Broadband Speed Test for the following purposes: 
-
-  * performing a look-up on a third party broadband availability service or ‘postcode checker’ to query your connection details including your phone exchange and the type of broadband connections available in your area;
-  * using your IP and/or postcode details, to geo-code your approximate location using the Google Maps API and to present a pin with the broadband provider you entered and the broadband speed we recorded on your local Google Map; 
-  * presenting the data collected on our broadband StreetStats maps and aggregating results (yours included) on our graphs and using your data (in conjunction with others) to work out average speeds for our users at a local and national level.
-
-
-
-We will store all of the data we collect for the purposes of the Top 10 Broadband Speed Test in a database on our servers.
-
-### Removing yourself from our StreetStats maps and database:
-
-We can remove you from our StreetStats maps and from our database if requested. To make this request, please email us at info@top10.com.
-
-#### How to remove yourself from our StreetStats maps immediately after your Top 10 Broadband Speed Test:
-
-After you have completed your Top 10 Broadband Speed Test, immediately click ‘StreetStats’ (top right), then click ‘Remove yourself from this map’ (bottom right). You will then be permanently removed from all our StreetStats maps, however we will still hold the data we collected from you for the purposes of the Top 10 Broadband Speed Test. 
-
-#### Removing your data from our Top 10 Broadband Speed Test and database at a later date:
-
-If you never wish to be displayed on our StreetStats maps or compiled within our aggregated speeds, you can be permanently removed from our database. To remove yourself, please contact us stating your postcode, broadband provider and date of speed test and we will remove you within 3 working days. You can contact us [here](https://web.archive.org/company/contact "Contact us")
-
-### Visitors under the Age of 16
-
-We do not intentionally collect personally identifiable information online from a child under 16 since our website is not directed at children. Any users under 16 must get approval from a parent/guardian prior to submitting information. Users without consent are not allowed to provide us with information. 
-
-### Security of Personal Data
-
-We shall take measures to avoid improper use, modification, loss, processing or unauthorised access or theft of your personal data by third parties.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we fully intend to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. 
-
-### Disclosure of your Personal Information
-
-We will not sell or give your personally identifiable information to others except as provided in this privacy policy.
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * if Top10.com Media Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its users or customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of Top10.com Media Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-
-
-### Email policy (when any email is submitted via our forms)
-
-We may keep you updated with our own Top10 offers and related information via email. We will never sell your details to third parties and will not send you 'spam' emails. You will have the option to unsubscribe from our email lists at any time. 
-
-### Policy Changes
-
-Due to the rapidly evolving technologies and capabilities on the internet our privacy policy may change over time. Any changes made to our privacy policy will be notified on our website and data taken before the changes will not be affected without your individual permission. 
+**Last updated: January 27, 2016**
