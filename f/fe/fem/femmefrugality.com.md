@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femmefrugality.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607091240id_/http%3A//femmefrugality.com/%3Fp%3D4209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femmefrugality.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807050402id_/https%3A//femmefrugality.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosures | Femme Frugality
 
