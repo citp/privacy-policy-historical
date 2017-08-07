@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maneverything.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024216id_/http%3A//maneverything.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maneverything.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807213503id_/https%3A//maneverything.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Man Everything
+# Privacy Policy – Man Everything
 
 ## Privacy Policy:
 
