@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203221706id_/https%3A//www.milletsports.co.uk/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807110614id_/https%3A//www.milletsports.co.uk/customer-service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Millet Sports
 
