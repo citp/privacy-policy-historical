@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607072330id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807210230id_/https%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
 
 # Recipes | Crafts | DIY | Home Garden
 
@@ -57,7 +57,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [Mediavine](https://www.mediavine.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 **Links to other websites**
 
@@ -73,10 +73,6 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-**Opt Out**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
