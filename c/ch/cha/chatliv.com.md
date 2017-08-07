@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatliv.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607100006id_/https%3A//www.chatliv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatliv.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807072252id_/https%3A//chatliv.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
