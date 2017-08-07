@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pay-box.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013752id_/http%3A//www.pay-box.in/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay-box.in privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807234023id_/https%3A//www.pay-box.in/home/privacy) for the most accurate reproduction.*
 
 # Online free recharge,Free recharge offer,Free recharge tricks,Free recharge offers,Online free recharge,Free online recharge,Free recharge online,Free recharge,Free recharge offers,Free talktime - paybox.
 
