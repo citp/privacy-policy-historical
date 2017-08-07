@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheezhead.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202072634id_/https%3A//www.recruiting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheezhead.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808002918id_/https%3A//www.recruiting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Recruiting.com
 
