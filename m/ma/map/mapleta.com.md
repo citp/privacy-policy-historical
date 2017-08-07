@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapleta.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128093247id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapleta.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807132404id_/https%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
 
 # Our Position on Privacy and Data Protection - Maplesoft
 
@@ -54,5 +54,8 @@ Emails verifying opt-in and opt-out requests are automatically sent to the recip
 **Safeguarding Security**  
 Maplesoft will take appropriate steps to ensure that personal information is protected from unauthorized access and disclosure, including limited access to such data only to those employees with a business need to know. Maplesoft will apply these principles regardless of the specific technologies employed for data collection and use. 
 
+**FERPA**  
+Maplesoft has reviewed the requirements of the [Family Education Rights and Privacy Act (FERPA)](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html), and we have identified nothing in any Maplesoft product or service that could prevent or impede a school from complying with the FERPA requirements.
+
 **Contact Information**  
-To ask questions or express concerns, please contact our Privacy Officer by email at [privacy@maplesoft.com](mailto:privacy@maplesoft.com), or by postal mail at: Maplesoft’s Privacy Officer, 615 Kumpf Drive, Waterloo, ON, Canada, N2V1K8. The Privacy Officer will investigate any complaints that concern our compliance with this privacy policy.
+To ask questions or express concerns, please contact our Privacy Officer by email at [privacy@maplesoft.com](mailto:privacy@maplesoft.com), or by postal mail at: Maplesoftfs Privacy Officer, 615 Kumpf Drive, Waterloo, ON, Canada, N2V1K8. The Privacy Officer will investigate any complaints that concern our compliance with this privacy policy.
