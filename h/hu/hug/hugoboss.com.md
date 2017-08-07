@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623173007id_/http%3A//www.hugoboss.com/us/about-hugo-boss/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807134157id_/https%3A//www.hugoboss.com/us/about-hugo-boss/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
