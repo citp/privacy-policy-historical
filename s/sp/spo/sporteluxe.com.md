@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sporteluxe.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607050851id_/http%3A//sporteluxe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporteluxe.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807201422id_/https%3A//sporteluxe.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY - Sporteluxe Global
+# PRIVACY - Sporteluxe
 
 This following document sets forth the Privacy Policy for the _SPORTELUXE_ website, _www.sporteluxe.com_.
 
