@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrlc.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613090329id_/http%3A//www.wrlc.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrlc.org privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807020207id_/https%3A//www.wrlc.org/privacy-statement) for the most accurate reproduction.*
 
 # WRLC Services Privacy Statement | Washington Research Library Consortium
 
@@ -74,7 +74,7 @@ The WRLC services system collects some non-personal information automatically, i
 
 This information is used for network capacity planning and for system security to identify unauthorized attempts to access WRLC systems or licensed resources.
 
-WRLC does not automatically and routinely link individual patron identifiers to usage of individual resources, but we may turn on user tracking logs temporarily at the request of a member university in order to identify possible abuse of license agreement s (such as mass downloading of pages from licensed resources). NOTE: When you use the WRLC services system you are bound by the [WRLC System Appropriate Use Policy](https://web.archive.org/web/20170613090329id_/http%3A//www.wrlc.org/wrlc-library-systems-appropriate-use-policy) and also by the appropriate use policy of your home univ ersity.
+WRLC does not automatically and routinely link individual patron identifiers to usage of individual resources, but we may turn on user tracking logs temporarily at the request of a member university in order to identify possible abuse of license agreement s (such as mass downloading of pages from licensed resources). NOTE: When you use the WRLC services system you are bound by the [WRLC System Appropriate Use Policy](https://web.archive.org/web/20170807020207id_/https%3A//www.wrlc.org/wrlc-library-systems-appropriate-use-policy) and also by the appropriate use policy of your home univ ersity.
 
 _Cookies_
 
