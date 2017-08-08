@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managerzone.it privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609044009id_/http%3A//www.managerzone.com/%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerzone.it privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808204143id_/http%3A//www.managerzone.com/%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ManagerZone - Free Sports Manager Games
 
