@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608170416id_/http%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808081124id_/https%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,9 +48,21 @@ See these places on the Truly Tokyo Google map:
 
 
 
-### Tokyo District Map
+##### Tokyo Vacation Checklist
 
-Click a Tokyo District for detailed info on attractions, places to eat and accommodation 
+  * For all the essentials in a brief overview, see my [First Time In Tokyo](http://trulytokyo.com/first-time-in-tokyo/) guide
+  * Check Tokyo accommodation availability and pricing on [Booking.com](https://sp.booking.com/city/jp/tokyo.html?aid=965264;label=TTChecklist) \- usually you can reserve a room with no upfront payment. Pay when you check out. Free cancellations too.
+  * Need tips on where to stay? See my one page guide [Where To Stay In Tokyo](http://trulytokyo.com/where-to-stay-in-tokyo/)
+  * See my comprehensive [Packing List For Japan](http://www.insidekyoto.com/packing-list-for-japan)
+  * Compare Japan flight prices and timings on [Skyscanner](http://www.tkqlhce.com/click-7647395-10639348?sid=TTCheckList)
+  * If you're visiting more than one city, get your [Japan Rail Pass](http://www.insidekyoto.com/japan-rail-pass-is-it-worth-it)
+  * Get travel insurance for your Japan trip - book online with [World Nomads](http://www.worldnomads.com/af.aspx?affiliate=TVLHAP&subid=TTCheckList&utm_source=TVLHAP&utm_medium=textlink&utm_campaign=easy_url)
+
+
 
   
 
+
+### Tokyo District Map
+
+Click a Tokyo District for detailed info on attractions, places to eat and accommodation 
