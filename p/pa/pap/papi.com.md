@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papi.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221806id_/http%3A//papi.com/terms/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papi.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808123649id_/https%3A//www.papi.com/terms/pp) for the most accurate reproduction.*
 
 # Privacy Policy
 
