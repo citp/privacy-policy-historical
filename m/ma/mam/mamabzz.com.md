@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamabzz.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117221944id_/http%3A//adventuresofmel.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamabzz.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808084001id_/https%3A//adventuresofmel.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - Adventures of Mel
 
@@ -7,9 +7,11 @@
 
 This policy is valid from 1 September 2009.
 
-This blog was, at one time, a collaborative blog written by a group of individuals but is now a personal blog written and edited by Mel Lockcuff. For questions about this blog, please contact  Mel at [mel@adventuresofmel.com](mailto:mel@adventuresofmel.com).
+This blog is a personal blog written and edited by Mel Lockcuff. For questions about this blog, please contact  Mel at [mel@adventuresofmel.com](mailto:mel@adventuresofmel.com).
 
-This blog sometimes accepts forms of paid advertising, sponsorship, paid insertions or other forms of compensation.
+Adventures of Mel sometimes accepts forms of paid advertising, sponsorship, paid insertions or other forms of compensation. We also participate in affiliate programs which means that if you click on an affiliate link, I will either be paid for referring you there or paid a commission if you make a purchase.
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion, and identity. The compensation received may influence the advertising content, topics, or posts made in this blog. That content, advertising space, or post will be clearly identified as paid or sponsored content.
 
@@ -43,7 +45,7 @@ Mel is not responsible for lost or damaged items in the mail/delivery service, b
 
 #### **Privacy Policy**
 
-This Privacy Policy governs the manner in which Adventures of Mel collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://adventuresofmel.com](http://adventuresofmel.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Adventures of Mel.
+This Privacy Policy governs the manner in which Adventures of Mel collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://adventuresofmel.com](https://adventuresofmel.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Adventures of Mel.
 
 **Personal identification information**
 
@@ -104,15 +106,15 @@ Adventures of Mel has the discretion to update this privacy policy at any time. 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://adventuresofmel.com/privacy-policy-and-disclosure). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://adventuresofmel.com/privacy-policy-and-disclosure). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Adventures of Mel](http://adventuresofmel.com/)  
-[http://adventuresofmel.com](http://adventuresofmel.com/)  
+[Adventures of Mel](https://adventuresofmel.com/)  
+[https://adventuresofmel.com](https://adventuresofmel.com/)  
 [mel@adventuresofmel.com](mailto:mel@adventuresofmel.com)
 
 This document was last updated on January 30, 2015.
 
-Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
+Privacy policy created by [PrivacyPolicies.com](http://privacypolicies.com/).
