@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621082802id_/http%3A//www.cimaglobal.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808234913id_/https%3A//www.cimaglobal.com/Privacy-Policy) for the most accurate reproduction.*
 
-# CIMA - Chartered Institute of Management Accountants
+# CIMA - Privacy Policy
 
 ## 1\. Privacy and data protection
 
