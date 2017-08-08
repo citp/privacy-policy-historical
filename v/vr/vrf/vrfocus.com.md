@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrfocus.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324155706id_/http%3A//www.vrfocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrfocus.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808144649id_/https%3A//www.vrfocus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – VRFocus
 
