@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621010608id_/http%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809011425id_/https%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interesting Engineering
 
