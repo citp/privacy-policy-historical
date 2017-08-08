@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusinsiders.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125192658id_/https%3A//campusinsiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusinsiders.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808142928id_/https%3A//campusinsiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Campus Insiders
 
