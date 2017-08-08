@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftyjinxy.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608131535id_/http%3A//thriftyjinxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftyjinxy.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808193830id_/https%3A//thriftyjinxy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrifty Jinxy
 
