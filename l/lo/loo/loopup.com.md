@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028141254id_/http%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808122133id_/https%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LoopUp
+# LoopUp Privacy Policy | Remote Meeting Solution for Professionals.
 
 v4_2, last updated June 30, 2016
 
@@ -35,7 +35,7 @@ We use personal data in the usual course of our business, for example:
 
   * To respond to enquiries, to provide our websites, software and services and to invoice accordingly.
   * To analyse and improve our business and service, looking at technology, performance and network analysis, customer service, marketing, finance, billing, and the prevention or detection of fraud.
-  * To communicate with you about same or similar services that we offer, whether they are our own services or services that we resell. If we do so, we will provide you with an easy and free way to opt-out of receiving such communications in the future. 
+  * To communicate with you about same or similar services that we offer, whether they are our own services or services that we resell. If we do so, we will provide you with an easy and free way to opt-out of receiving such communications in the future.
   * In certain instances to share it within our group of companies and with limited third parties as described in this policy, eg: for service provision and business continuity purposes.
 
 
@@ -106,7 +106,7 @@ Separately, we reserve the right, in accordance with applicable law, to monitor 
 
 ## Cookies, Web Beacons etc
 
-Our websites use ‘cookies’ and web beacons, and when you use our services we use cookies, to deliver and optimize your experience. You can see more in our [Cookie Policy](http://loopup.com/docs/cookie_policy.html "LoopUp Cookie Policy"), which is part of (and incorporated into) this Privacy Policy.
+Our websites use ‘cookies’ and web beacons, and when you use our services we use cookies, to deliver and optimize your experience. You can see more in our [Cookie Policy](https://loopup.com/docs/cookie_policy.html "LoopUp Cookie Policy"), which is part of (and incorporated into) this Privacy Policy.
 
 ## California Privacy Notice
 
