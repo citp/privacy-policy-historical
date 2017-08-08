@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letslinc.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609002631id_/http%3A//www.letslinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letslinc.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808150434id_/http%3A//www.letslinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Linc Global
 
