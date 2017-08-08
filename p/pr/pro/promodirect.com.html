@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the promodirect.com privacy policy that was archived on 2017-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170525104001id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the promodirect.com privacy policy that was archived on 2017-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170809011704id_/https%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" style="" class=" js no-touch csstransforms3d csstransitions video"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -108,6 +108,11 @@
 
 
 
+
+
+	
+
+	
 <div style="width: 1000px; margin: 0 auto; position: relative; z-index: 9999">
 	<div id="SubscribePopup" style="display: none; left: 683px; top: 384px;">
 		<img src="/bootstrap/images/subscribepopup.png" usemap="#Map1">
@@ -128,7 +133,7 @@
         </map>
 	</div>
 	<div id="ExitPopup" style="display: none; left: 683px; top: 384px;">
-		<img src="/bootstrap/images/exitpopup.jpg" usemap="#Map3">
+		<img src="/bootstrap/images/expopup.jpg" usemap="#Map3">
 		<div id="emailBoxDiv">
 			<input type="text" class="emailBox" id="ExitPopupEmail" placeholder="Email Address">
 		</div>
@@ -260,7 +265,7 @@
 	
 	function getCookie(name){
 		var arr;
-		var reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+		var reg = new RegExp("(^| )"+name+"=([^;]*)(;|$)");
 		if(arr = document.cookie.match(reg))
 			return unescape(arr[2]);
 		else
@@ -298,7 +303,14 @@
 		<div class="row">
 			<span class="col-md-6 toplink-left pull-left">
 				<a href="/misc/catalog_request.jsp">Get FREE Printed Catalog</a>
-				<a class="offer" href="javascript:showSubscribePopup();">Get Email Offers</a>
+				<a class="offer" href="javascript:showSubscribePopup();">Get Email Offers</a> 
+				<a class="offer1" href="/browsingHistory.jsp" style="text-decoration: none !important;">Browsing History <span id="bhCount">0</span></a>
+				<a class="offer2" href="/wishList.jsp" style="text-decoration: none !important;">
+					Favorites
+					<span id="wishListCount">
+					
+					</span>
+				</a>
 			</span>
 			<div class="toplink-right login">
 				
@@ -367,7 +379,7 @@
 			</div>
 			<div class="col-md-6 col-sm-6 col-xs-12">
 				<table><tbody><tr><td valign="middle">
-					<form action="/catalog/srhkeyword.cz" id="topSearch" method="post" name="SearchKeywordForm">
+					<form action="/catalog/srhkeyword.cz" id="topSearch" method="get" name="SearchKeywordForm">
 						<div class="search input-group">
 							<input class="searchinput" type="text" id="topkeyword" name="keyword" value="Search Products" onfocus="if(this.value=='Search Products'){ this.value='';}" onblur="if(this.value==''){ this.value='Search Products';} keywordblur();" onkeyup="selectItem(this.value,event);" autocomplete="off" disableautocomplete="">
 							<div id="suggestdiv" onmouseover="document.getElementById('topkeyword').onblur='';" onmouseout="document.getElementById('topkeyword').onblur='keywordblur()';">
@@ -474,6 +486,8 @@
 																			<li><a href="/ccc3480-promotional-athletic.htm">Athletic</a></li>
 																		
 																			<li><a href="/ccc3337-promotional-dress-shirts.htm">Dress Shirts</a></li>
+																		
+																			<li><a href="/ccc3771-promotional-gloves.htm">Gloves</a></li>
 																		
 																	</div>
 																	<div class="col-md-5 col-sm-5 col-xs-5">
@@ -1114,6 +1128,8 @@
 									
 										<li><a href="/ccc3337-promotional-dress-shirts.htm">Dress Shirts</a></li>
 									
+										<li><a href="/ccc3771-promotional-gloves.htm">Gloves</a></li>
+									
 								</div>
 								<div class="col-md-6 col-sm-6 col-xs-6">
 									<li><a href="/ccc3696-discount-t-shirts-on-sale.htm">On-Sale Items</a></li>
@@ -1555,7 +1571,7 @@
 				<div class="copyRight">
 					<div class="container">
 						<div class="column col-md-6 col-sm-6 col-xs-12">
-							<p>© 2016 Promo Direct . All Rights Reserved.</p>
+							<p>© 2017 Promo Direct . All Rights Reserved.</p>
 						</div>
 						<div class="column col-md-6 col-sm-6 col-xs-12">
 							<div class="bottom-right">
