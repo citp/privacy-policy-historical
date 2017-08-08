@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managerzone.uol.com.br privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120050951id_/http%3A//www.managerzone.com/%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerzone.uol.com.br privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808204143id_/http%3A//www.managerzone.com/%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ManagerZone - Free Sports Manager Games
 
@@ -107,26 +107,3 @@ Whenever you give PC sensitive or confidential information (for example, credit 
 ### NOTICE OF CHANGES TO THE POLICY
 
 PC reserves the right to change this Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or posting the new Policy on the PC sites. All changes to the Policy will be effective when posted, and your continued use of any PC site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes.
-
-  * ### Agreements
-
-  * [Privacy Policy](https://web.archive.org/?p=start&sub=privacy_policy)
-  * [Terms Of Use](https://web.archive.org/?p=start&sub=terms_of_use)
-  * [Cookie Policy](https://web.archive.org/?p=start&sub=cookies)
-  * [General Rules](https://web.archive.org/?p=start&sub=game_rules)
-
-
-  * ### Support
-
-  * Forgot password?
-  * Registration problems
-  * Contact local support
-
-
-  * ### ManagerZone on the web
-
-  * [ Facebook ](http://www.facebook.com/ManagerZone)
-  * [ Twitter ](http://www.twitter.com/ManagerZone)
-  * [ Youtube ](https://www.youtube.com/user/managerzoneofficial)
-
-
