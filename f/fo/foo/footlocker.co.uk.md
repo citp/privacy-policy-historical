@@ -1,115 +1,175 @@
-> *The following text is extracted and transformed from the footlocker.co.uk privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117020349id_/https%3A//www.footlocker.co.uk/en/content/fl_page_content_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.co.uk privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809055701id_/https%3A//www.footlocker.co.uk/en/content/fl_page_content_privacy) for the most accurate reproduction.*
 
 # Foot Locker UK
 
-At Foot Locker we are committed to protecting your privacy. The Foot Locker website ("site") is a Netherlands based website and takes reasonable care to comply with the requirements of the Dutch Data Protection Legislation. Foot Locker is registered with the Dutch Data Protection authorities (Commissie Bescherming Persoonsgegevens) under the number M1028227.
+Last Updated ………………2017 
 
-**Before creating an account on our website, you need to agree to the fact that we collect your data in accordance with this Privacy Policy and our Terms and Conditions.**  
-Prior to creating an account or placing your order, you agree to the fact that we may store, process and use data collected on our website. Please note that we may also share and disclose such data globally within the Foot Locker group of companies, including companies based in the US. Foot Locker, Inc. and its controlled US subsidiaries are participants in the Safe Harbor program developed by the US Department of Commerce. The Foot Locker legal entities have certified that they adhere to the Safe Harbor Privacy Principles agreed upon by the US and the EU.
+Thank you for visiting our Website.
 
-**What information do we collect? How do we use it?**  
-The information we obtain from customers helps us to personalise and continually improve your shopping experience at Foot Locker. We use the information to handle orders, deliver products, process payments, communicate with you and prevent or detect fraud or abuses. Moreover, we will share some of the information with carefully selected third parties who will assist us for certain services such as technical, logistical support or other functions. Other services provided by third party companies may include processing of credit/debit card payments, deliveries, providing customer services and marketing assistance. 
+The website is managed by Foot Locker Europe.com BV (referred to as Foot Locker "we," "us," or "our" herein); a company incorporated under Dutch law and registered at the Dutch chamber of commerce under the registration Number 30181126. The Foot Locker website ("site") is a Netherlands based website and we have taken all necessary steps to comply with the requirements of the Dutch and European Data Protection Legislation. The Foot Locker website is registered with the Dutch Data Protection authorities (Commissie Bescherming Persoonsgegevens) under the number M1028227.
 
-By accepting our Privacy Policy and placing your online order, you agree that both your details and those of the delivery name and address may be checked by third parties such as credit agencies. 
+_We recently revised our Privacy Statement to make it easier for you to understand. This revised Privacy Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices._
 
-We may also ask specific additional information e.g. when you enter a contest or other promotional initiative on our website. 
+### **Privacy Statement**
 
-If you would like, you can also fill out a customer profile. While not required, information obtained from the customer profile helps us to learn more about our customers and is used to improve our customers' shopping experience with us. You can choose not to provide certain information but then you might not be able to take advantage of many of our features and benefits. In addition, if you choose to opt in, it will be used to send you e-mail updates about new product releases, Foot Locker newsletters, upcoming sales, contests, promotions, events and other Foot Locker initiatives. We may also send you personalised marketing materials and e-mail communications. If at any time you wish us to stop contacting you, then simply change your agreement preferences under the "My Profile" option. We may share personal information with our website hosting partners, and other parties who assist us in operating our website or conducting Foot Locker business, as long as those outside parties agree to keep the information safe and confidential. We may also release your personal information to comply with the law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may use your information for statistical purposes.
+Foot Locker, Inc., its subsidiaries, or its affiliates (referred to as Foot Locker "we," "us," or "our" herein) believes in protecting your information. With this in mind, we have adopted this Privacy Statement, which describes the information we may collect when you use visit our websites (each a "Site"), sign up for a brand loyalty membership (each a "Loyalty Program"), use our mobile applications (each an "App") or shop in our stores (each a "Store") (collectively the "Services"). By using the Services, you agree to the collection, use and disclosure of your personal information as described in this Privacy Statement. If you do not, please do not use the Services.
 
-Based on the statutory approval according to § 22 of the Privacy and Electronic Communications Regulations 2003, we are allowed to use the email-address, which you have supplied to us when making a purchase in our online store, for direct marketing for similar products or services in our assortment.
+**Contents**
 
-In case you do not want to receive any advertisements on similar products or services, you can always revoke the approval of the use of your email address at any time, without incurring any additional costs other than the normal internet connection fee. You only need to click on the link to unsubscribe, which link is provided in every separate mailing. 
+Information Collection. 2
 
-**Payment information**  
-When you place an order, personal data provided by you can be transferred to a payment provider (e.g. ReD), acting as data processor for such data. Such data are only processed by the payment provider in order to process your payment instruction. Your personal data will not be provided to third parties other than the Financial Institutions for the chosen payment method. 
+Information Use. 3
 
-By completing and submitting your order, you grant to us the authority to conduct credit searches and to perform certain other checks to validate and ensure correct payment, prevent fraudulent transactions, and verify correct shipping details.
+Information Disclosure. 4
 
-We will not sell information about you as an individual or your personal usage of the site.
+Use of Cookies. 4
 
-**How does Foot Locker protect customer information? Security of information PLSE**  
-Foot Locker has security measures in place to protect against the loss, misuse or alteration of the information you provide. We encrypt your personal information, including your credit card number, when transmitting over the internet, using SSL (Secure Socket Layer), Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL to safeguard your Internet transactions. VeriSign, Inc. is a leading provider of Public Key Infrastructure and digital certificate solutions used by enterprises, websites and consumers to conduct secure communications and transactions over the Internet and private networks. Browsers that allow for SSL Technology Ordering from our website require the use of an SSL-compliant browser, such as Netscape 4.0 or later; Microsoft Internet Explorer 5.0 or later; 5.0 AOL client for PCs; and the 5.0 AOL client for Macs. You will not be able to use [Secure Mode] if you have an older version of an Internet browser that does not support secure transactions, of if your computer is located on a local area network (LAN) that uses a firewall that prohibits secure transactions. If [Secure Mode] is not possible, please select one of our off-line options to place your order.
+Updating Your Information. 5
 
-**Cookies:**  
-Cookies are small text files that are being sent from a web server to your browser, and which can be saved on the hard drive of your computer. A cookie contains specific information, e.g. a unique ID number which can capture which web pages you visited. With this unique ID, we can track your orders while you are shopping on our site. In addition, cookies recognize whether you are a registered user, which allows us to provide you with focused information each time you visit our website 
+Changes To Our Privacy Statement 5
 
-If you do not register on our site or your do not place an order, it is still possible that we capture information regarding your use of our site, in order to improve the site for you. The usage, such as number of visits and pages most viewed, do not contain any individualised information or shopping behaviour. Such information will only be used internally to optimise our online services. 
+Option To Opt-out/unsubscribe. 5
 
-Most browsers automatically accept cookies, but you can usually change your browser settings to prevent cookies from being stored. However if you do turn cookies off this will limit the service that we are able to provide to you.
+Children's Privacy. 5
 
-**Your consent**  
-We reserve the right to amend, modify or change at any time and for any reason, our privacy policy and this privacy notice. In any such event, we will post the revised Policy on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+Security Of Information. 6
 
-**Children**  
-Foot Locker is concerned about the safety of children when they use the internet. 
+Questions/Contacting Us. 6
 
-We do not specifically collect information about children. We believe that children should get their parent's consent before giving out personal information. If you have not yet reached the age of 16 years, your parents will have to consent to your registration on our site and/or your placing an order. If you are concerned about your child's use of Footlocker.eu, we encourage you to use web-filtering technology to supervise your child's access to the site.
+Links To Other Websites. 7
 
-**Updating Information/Your Account**  
-In order to change or modify information previously provided by you, please go to the Footlocker.eu site, log into your profile, and update your information using the options provided. 
+Data Transfers. 7
 
-If you use the website, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer to prevent unauthorised access to your account. You agree to accept responsibility for all activities that occur under your account or password.
+### Information Collection 
 
-**Access Right**  
-You have a right to access the personal information held about you. To obtain a copy of this, please contact Customer Service per the details below. We may charge a small fee towards the cost of administering any request you make.
-
-**Organizational, Management and Control Model Pursuant to Italian Legislative Decree N. 231 of 2001**  
-On the 30th of March 2010 the Board of Managing Directors of Foot Locker Italy S.r.l. has approved the Organizational, Management and Control Model pursuant to Italian Legislative Decree n. 231 of 2001 (hereinafter referred to as "Model 231"), including the Principles of the Model 231. 
-
-The Model 231 represents an unicum of principles, rules and statements aiming at:  
-\- influencing the internal functioning of the Company and the principles and values to conduct its business relationships with the outside world;  
-\- preventing the commission or attempts to commit crimes as provided by the d.lgs. 231/2001 by means of an efficient management and control system. 
-
-The Model 231 is a statement of Foot Locker's commitment to conducting business according to the highest ethical and legal standards in Italy. The senior management of Foot Locker Italy S.r.l. takes the Model 231 - and the related compliance with it by the associates and third parties - very seriously. 
-
-As a result, in each ITA and ENG page we should be able to download two docs
-
-  * [**Principle of the model 231**](http://www.footlocker.eu/ns/documents/principles-of-231-Model-ENG-internet.pdf)
-  * **[COBC for business partners](http://www.footlocker.eu/ns/documents/EN_Cobc_2011_suppliers.pdf)**
+  1. _Information You Provide to Us._ We only collect certain information from you when you provide it to us, such as when you: (1) register; (2) place an order; (3) complete a survey or product review; (4) participate in one of our promotions; (5) sign up for a Loyalty Program; or (6) contact us. The information we collect from you may include your name, age, mailing address, daytime telephone number, cell phone number, e-mail address, account user name and password, and payment information. If you use a third party login to register or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on that third party service.
+  2. _Registration._ We encourage you to register when shopping on our Site or App; however registration is not required. Our Registration Form requires users to provide contact information (such as name, age, mailing address, daytime telephone number, cell phone number, e-mail address and password). **You must be 18 years of age or older to register or have consent of a parent or legal guardian.** Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you provide will be used to contact you concerning the status of an order, answer your questions and, in case you choose to opt-in, to send you communications about upcoming sales, contests, promotions and product information. You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password. You are responsible for all use of the Site or App under your registered account. If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve your shopping experience and to provide you with more relevant content and advertising.
+  3. _Information We Automatically Collect._ We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Site or App, or interact with our emails or advertisements on our Site, our App, or other websites. A cookie is a small data file that is sent to your browser from a web server and stored on your computer's hard drive. For example, we may automatically collect information such as your IP address, geolocation data, unique user ID, cell phone model, operating system, and carrier, and Internet Service Provider. We also may collect information about your use of our Services, such as the time you spend using the Site or App, the number of times you return, whether you click-through, open, or forward links, emails, and ads, and other Service usage data. These technologies, such as cookies, allow us to keep track of your order as you shop on our Site or App, recognize registered users when they visit, and to provide those customers with information and advertising that is more relevant to them. If you register with or order from us, we may use cookies or other technologies to monitor and maintain information about how you use our Services and what you buy. If you do not register with or buy from us, we may monitor and maintain information about your use in order to improve your shopping experience and provide you with more relevant content and advertising.
+  4. _Tracking Options._ You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of our offerings. Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in.
+  5. We may use certain service providers to provide you with more relevant online advertising based on your activities on our Site and third party sites. On our website we use the services of Google Analytics and Adobe Target for analyzing aggregated non-personalized data. Foot Locker will not (and will not allow any third party to) use these services to track or collect or otherwise process any personal data of Internet users.
+  6. For certain service providers, such as social media platforms, and on your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising.
+  7. _Information Collected From Other Sources._ We may obtain information about you from other sources, including social networks that you use to connect with us. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity.
+  8. _Combination of Information._ We may also combine the information we receive from and about you, including the information you provide to us on one of the Services, information we receive from third parties, information we automatically collect (as explained above), and information provided or collected offline when you shop in our Stores.
+  9. We will not identify users or facilitate the merging of personally identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless we have your explicit notice and your prior affirmative (i.e., opt-in) consent to, that identification or merger. Irrespective of your consent, we will not attempt to disaggregate data that Google reports in aggregate.
 
 
 
-**  
-Customer Service Contact Details:**  
-**  
-By Phone:** contact our customer service helpdesk, by dialing one of the below numbers based on your country:
+### Information Use
 
-Country: | Phone Number:  
----|---  
-United Kingdom | 0800-3316062  
-France | 08 05 54 07 86  
-Germany | 0800-5888232  
-Belgium | 0800-81177  
-Luxemburg | 800-26555  
-Netherlands | 08000200269  
-Italy | 800 986936  
-Spain | 800 600931  
-  
-**  
-E-mail:** If you have questions you can contact us by email based on your preferred language:
+We may use the information we collect from and about you for the following purposes:
 
-Language: | E-Mail:  
----|---  
-English | [questions_en@footlocker.eu](mailto:questions_en@footlocker.eu)  
-German | [fragen@footlocker.eu](mailto:fragen@footlocker.eu)  
-French | [questions_fr@footlocker.eu](mailto:questions_fr@footlocker.eu)  
-Dutch | [vragen@footlocker.eu](mailto:vragen@footlocker.eu)  
-Italian | [domande@footlocker.eu](mailto:domande@footlocker.eu)  
-Spanish | [preguntas@footlocker.eu](mailto:preguntas@footlocker.eu)  
-|   
-  
-**  
-Option to Opt-out**  
-You can always opt out of our email service by clicking on the "Unsubscribe" link at the bottom of any newsletter we send you.
+  1. To provide you with a quick and simple checkout experience;
+  2. To process your orders, contact you concerning the status of an order, answer any of your questions, or otherwise contact and communicate with you;
+  3. To provide you with customized content, targeted offers, and advertising on the Service, other websites or via text message, and to contact you about upcoming Foot Locker sales, promotions, and product information;
+  4. To allow you to participate in promotions;
+  5. To help us learn more about our Site visitors, App users, Loyalty Program members, and customers and to improve their shopping experience and our business;
+  6. To address problems with the Service, our business or our products and services and to protect the security of the Site and our business;
+  7. To contact you about upcoming promotions and offers on behalf of our partners; and
+  8. Otherwise, as described to you at the point of collection.
 
-**Tell us what you think**  
-Foot Locker welcomes your questions and comments about privacy. Please contact us via e-mail at questions@footlocker.eu
 
-**External Links**  
-We may provide links to other sites, which will not be governed by this Privacy Policy. These sites may have their own privacy policies, which you should review before visiting them. We are not responsible for the privacy practices or content of such other websites. The terms and conditions herein do not apply to any such linked websites. Foot Locker does not endorse any linked websites, or the information, materials, products or services that are contained in or accessible through such linked websites. Foot Locker disclaims all warranties, express or implied, with respect to the information, materials, products and services that are contained in or accessible through linked websites, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose or non-infringement. You acknowledge and agree that Foot Locker is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites, and that the access or use of any such linked websites is solely at your own risk, and you hereby waive any and all claims against Foot Locker with respect to such linked websites.
 
-**Company address**
+### Information Disclosure
 
-Foot Locker Europe.com B.V.  
-Ir. D.S. Tuijnmanweg 3-5  
+We may disclose the information we collect from and about you as follows:
+
+  1. Amongst any of the affiliates of Foot Locker within Europe.   
+  2. To our service providers, if the disclosure will enable them to perform a business, professional, or technical support function for us.
+  3. To carefully-selected third party partners, so that they may inform you of offers, promotions and services.
+  4. For payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and distributing marketing and promotional material.
+  5. To comply with the law, to respond to governmental inquiries or requests, to enforce our policies, or to protect our or others' rights, property, or safety.
+  6. Otherwise, with your consent.
+
+
+
+**Any personal information or content that you voluntarily upload or submit for public posting to the Service becomes publicly available and can be collected and used by others. It is a violation of the Service's[Terms & Conditions](https://www.footlocker.co.uk/en/content/fl_page_content_terms) for you to post any content that requests personally identifiable information from others on the Service.**
+
+As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Services in a manner that is consistent with this Privacy Statement.
+
+We may share aggregate, non-personally identifiable information about Site users with third parties.
+
+### Use of Cookies
+
+We may use cookies and other technologies like them to make our Site better. You can read about our use of cookies and how to limit or decline them in the Section on "Information Collection" and specifically paragraph "3. **Information We Automatically Collect"** and paragraph "4. **Tracking Options"**.
+
+### Updating Your Information
+
+Please note that, at all times, you are responsible for updating the personal information you provide to us. In case you have a personal account, you can modify or delete information previously provided by you, please go to the Footlocker.eu site, log into your profile, and update your information using the options provided.  You may also send a notice to us to request an overview of which data is collected by us or request to delete all data on you. If you elect to delete some or all of your personal information, keep in mind that we may retain transactional data in accordance with various laws, regulations and our Company's retention policy. 
+
+### Changes to Our Privacy Statement
+
+We may amend this Privacy Statement at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Site or App. Any material changes to this Privacy Statement will be effective upon the earlier of thirty (30) calendar days following our transmittal of an e-mail notice to you or thirty (30) calendar days following our posting of the notice of changes.
+
+### Option To Opt-out/unsubscribe
+
+At all times, if you have opted in for receiving future e-mail marketing updates, you can unsubscribe at any time by clicking the “unsubscribe link” in the emails you receive from us.  You can also send an email with "unsubscribe from newsletter" in the subject line at questions_en@footlocker.com. Even if you unsubscribe you may continue to receive non-marketing e-mail messages from us, including, for example, order confirmations.
+
+### Children's Privacy
+
+Foot Locker is concerned about the safety of children when they use the internet. **We do not direct the Site or App to, nor do we knowingly collect any personal information from, children under the age of sixteen. We believe that children should get their parent's consent before giving out personal information. If you have not yet reached the age of 16 years, your parents will have to consent to submit personal information to us, including to register or place an order on the Site or App or participate in one of our online promotions and/or you placing an order. If you are concerned about your child's use of Footlocker.eu, we encourage you to use web-filtering technology to supervise your child's access to the site.  **Please see our [Terms & Conditions](https://www.footlocker.co.uk/en/content/fl_page_content_terms) for additional information regarding the use of this Service. 
+
+### Security of Information
+
+Foot Locker has implemented the appropriate physical, administrative, and technical security measures to protect against unlawful access, loss, misuse or alteration of the information you provide. When we collect data through the Site,  we encrypt your personal information, including your credit card number, when transmitting over the Internet using encryption technology Secure Socket Layer (SSL) coding, to safeguard your Internet transactions.  You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer. 
+
+### Questions/Contacting Us
+
+Should you have any questions regarding this Privacy Statement or our data handling practices you may contact our Data Protection Officer  by e-mail at dpo@footlocker.com or by writing to us at: 
+
+If you have any questions, please contact us:
+
+**By Phone** : contact our customer service helpdesk, by dialing one of the below numbers based on your country:
+
+**Country:                       Phone Number:**
+
+United Kingdom         0800-3316062
+
+France                     08 05 54 07 86
+
+Germany                  0800-5888232
+
+Belgium                   0800-81177
+
+Luxemburg                800-26555
+
+Netherlands               08000200269
+
+Italy                        800 986936
+
+Spain                       800 600931
+
+E-mail: If you have questions you can contact us by email based on your preferred language:
+
+**Language** :                   **E-Mail** :
+
+English                        questions_en@footlocker.eu
+
+German                       fragen@footlocker.eu
+
+French                         questions_fr@footlocker.eu
+
+Dutch                          vragen@footlocker.eu
+
+Italian                          domande@footlocker.eu
+
+Spanish                        preguntas@footlocker.eu
+
+Address:
+
+Foot Locker Europe.com B.V.
+
+Ir. D.S. Tuijnmanweg 3-5
+
 4131 PN Vianen, Netherlands
+
+### Links to Other Websites
+
+This Service contains links to other sites, which may have privacy policies that differ from our own. We are not responsible for the privacy practices or content of such other websites or apps. Accordingly, we recommend that you review the Privacy Statement posted on any website or app that you access through this Service. The terms and conditions herein do not apply to any such linked websites or apps. Foot Locker does not endorse any linked websites or apps, or the information, materials, products or services that are contained in or accessible through such linked websites or apps. Foot Locker disclaims all warranties, express or implied, with respect to the information, materials, products and services that are contained in or accessible through linked websites or apps, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose or non-infringement. 
+
+You **acknowledge** and agree that Foot Locker is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites or apps, and that the access or use of any such linked websites or apps is solely at your own risk, and you hereby waive any and all claims against Foot Locker with respect to such linked websites or apps.
+
+### Data Transfers
+
+We may transfer the personal information we collect about you through our Services to countries other than the country in which the information was collected. If you are an international visitor using our Services, please be aware that the information you provide may be transferred to computers in the United States. We take steps to ensure that the data collected under this Privacy Statement is processed according to the purposes set out in this Privacy Statement and, in transferring data, that the information is protected as described herein. 
+
+Copyright Notice © 2017 Footlocker Europe.com BV. All rights reserved.
