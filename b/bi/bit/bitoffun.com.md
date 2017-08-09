@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitoffun.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523052200id_/http%3A//www.bitoffun.com/bof-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitoffun.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809064827id_/http%3A//www.bitoffun.com/bof-privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
