@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travour.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112232211id_/http%3A//www.travour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travour.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809134943id_/http%3A//www.travour.com/privacy-policy) for the most accurate reproduction.*
 
 # Real Time Flight Information Status
 
