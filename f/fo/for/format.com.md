@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the format.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511132747id_/https%3A//www.format.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the format.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809145101id_/https%3A//www.format.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Format
 
