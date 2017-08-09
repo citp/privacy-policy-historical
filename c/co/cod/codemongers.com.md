@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemongers.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608161144id_/http%3A//www.jetroulette.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemongers.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809201406id_/http%3A//www.jetroulette.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # privacy-cookie-policy | Live Roulette - Top UK Live Online Roulette Casinos - Summer 2016
 
