@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the carbonblack.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324160604id_/https%3A//www.carbonblack.com/license-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonblack.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809153449id_/https%3A//www.carbonblack.com/privacy-policy) for the most accurate reproduction.*
 
-# Carbon Black Privacy Policy - Carbon Black
+# Privacy Policy | Carbon Black
+
+text_image_eight full_width
 
   1. **_Introduction._** We at Carbon Black, Inc.  (“Carbon Black”, “we” or “us”) are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you.  To achieve these goals, we occasionally need information supplied by you or collected about you through your use of our website (the “Site”); any such information will be referred to in this Privacy Policy as “User Information”.  Carbon Black takes seriously, and values, your privacy and accordingly protects User Information as described below.  This Policy describes the types of information that you may provide or that we may collect from you when you visit our Site, and our practices for collecting, using, maintaining, protecting and disclosing that information. This Policy applies to information we collect:
 
