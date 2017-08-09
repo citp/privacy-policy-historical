@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ypox.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608212732id_/http%3A//www.ougur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ypox.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809184852id_/http%3A//www.ougur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ougur
 
