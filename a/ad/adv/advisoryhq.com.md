@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advisoryhq.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511130457id_/http%3A//www.advisoryhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisoryhq.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810002503id_/http%3A//www.advisoryhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AdvisoryHQ
 
