@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorlesscomparison.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615023805id_/http%3A//mirrorlesscomparison.com/disclaimer-privacy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorlesscomparison.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809120606id_/https%3A//mirrorlesscomparison.com/disclaimer-privacy-copyright) for the most accurate reproduction.*
 
 # Disclaimer, Privacy & Copyright Notice
 
@@ -6,7 +6,7 @@
 
 The owner of this website, Heather Broster, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking mirrorlesscomparison.com to Amazon properties including, but not limited to, amazon.com, amazon.co.uk, amazon.ca, amazon.it, endless.com, myhabit.com, smallparts.com, or amazonwireless.com.
 
-Heather Broster and her partner Mathieu Gasquet are also a participants in the following affiliate programs: B&H Photo, eBay Partner Network, MacPhun, Peak Design, Inspired Eye, Smugmug and Mediterranean Photo Tours.
+Heather Broster and her partner Mathieu Gasquet are also a participants in the following affiliate programs: B&H Photo, eBay Partner Network, MacPhun, and Mediterranean Photo Tours.
 
 ## Privacy Policy for Mirrorless Comparison: http://www.mirrorlesscomparison.com
 
@@ -34,13 +34,11 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * Google Adsense (more information [here](http://www.google.com/intl/en/policies/privacy/partners/))
   * Google Analytics (more information [here](http://www.google.com/intl/en/policies/privacy/partners/))
+  * Mediavine
   * B&H Photo
   * Amazon (US, UK)
   * eBay Partner Network
   * MacPhun
-  * Peak Design
-  * Smugmug
-  * Inspired Eye
   * Mediterranean Photo Tours
 
 
