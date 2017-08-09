@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturepedic.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608020221id_/http%3A//www.naturepedic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturepedic.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809183426id_/https%3A//www.naturepedic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
