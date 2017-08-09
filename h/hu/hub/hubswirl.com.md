@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubswirl.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231132933id_/http%3A//hubswirl.com/hub/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubswirl.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809104645id_/http%3A//www.hubswirl.com/hub/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
 
 # HubSwirl - Help is here
 
@@ -107,7 +107,7 @@ Only authorized employees have access to the information you provide us. For exa
 
 **Contacting Us**  
 *******************************************  
-If you have questions about this privacy policy or the practices of this site, please contact: HubSwirl legal@e3hub.com
+If you have questions about this privacy policy or the practices of this site, please contact: HubSwirl legal@hubswirl.com
 
 HubSwirl reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any material changes to this privacy policy.   
  
