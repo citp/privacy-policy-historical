@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628231318id_/http%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809195116id_/https%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - AConvert.com
 
 AConvert.com is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
+
+##### App
+
+JPG to PDF Converter app uses permissions that are associated with accessing camera. This permission allows this application to capture images in order to be converted to a PDF file within this application.
 
 ##### Personal information
 
