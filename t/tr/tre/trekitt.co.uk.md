@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekitt.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611012127id_/http%3A//www.trekitt.co.uk/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekitt.co.uk privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810214358id_/https%3A//www.trekitt.co.uk/pages/privacypolicy) for the most accurate reproduction.*
 
 # Trekitt | Privacy Policy & Cookies
 
@@ -81,7 +81,7 @@ HR4 0AB
 
 ### Our Website Cookies Policy
 
-A cookie is a small file of text which we transfer to your hard drive through your web browser, as with most websites, when you visit our website and use certain pages or features on the site, especially when placing an order. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](https://web.archive.org/web/20170611012127id_/http://www.trekitt.co.uk/pages/privacypolicy/www.allaboutcookies.org)
+A cookie is a small file of text which we transfer to your hard drive through your web browser, as with most websites, when you visit our website and use certain pages or features on the site, especially when placing an order. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](https://web.archive.org/web/20170810214358id_/http://www.trekitt.co.uk/pages/privacypolicy/www.allaboutcookies.org)
 
 ### Cookies
 
