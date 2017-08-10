@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentsfnow.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611195504id_/http%3A//www.rentsfnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentsfnow.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810211757id_/http%3A//www.rentsfnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RentSFNow
 
