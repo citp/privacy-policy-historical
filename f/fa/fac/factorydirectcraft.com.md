@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factorydirectcraft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132724id_/http%3A//factorydirectcraft.com/003_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirectcraft.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810054912id_/https%3A//factorydirectcraft.com/003_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Factory Direct Craft Supply
 
