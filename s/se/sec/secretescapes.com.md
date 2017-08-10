@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414094340id_/https%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810044020id_/https%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Secret Escapes
 
