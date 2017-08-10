@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the club4sms.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627174634id_/http%3A//solyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club4sms.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810083407id_/http%3A//solyz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloud School Management
 
