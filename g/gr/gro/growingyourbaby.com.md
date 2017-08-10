@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the growingyourbaby.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609165500id_/http%3A//www.growingyourbaby.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingyourbaby.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810035912id_/https%3A//www.growingyourbaby.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Growing Your Baby
+# Privacy Policy - Growing Your Baby : Growing Your Baby
 
 We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings.
 
