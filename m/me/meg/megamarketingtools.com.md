@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027103021id_/http%3A//megamarketingtools.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810070409id_/http%3A//megamarketingtools.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mega Marketing Tools
 
