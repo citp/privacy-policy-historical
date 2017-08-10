@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143012id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810224951id_/https%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database tools for MySQL, SQL Server, PostgreSQL, SQLite, Oracle, DB2, Firebird by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Johnson Sieu:** "Your PHP Generator is the BEST that I have used so far. It is affordable and user-friendly. Congratulation for coming up with such a fine product. I will not hesitate to introduce it to my peers".
+**Phillip Magger:** "A word of congratulations. I think that your Firebird Data Wizard is some of the best stuff I have ever used. I was in search of an easy-used tool, and I found it. It is a good solution".
 
-**Jeff Rule:** "I have to tell you I am really impressed. I have never had a software company turn around a bug fix like this so fast. I have been doing database work for over 20 years and that has never happened.".
+**Richard Fallerman:** "The assistance we got from SQL Maestro Group played a major part in helping us to meet our objectives. The quality of software for managing Microsoft SQL data was outstanding".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
+Jun 29, 2017
+
+New version features support for SQL Server 2017, support for row-level security policies, custom labels and colors for server nodes in Database Explorer, and some other useful things.
+
+Jun 23, 2017
+
+New version comes with optimized column filter, custom password encryption, enhanced event editor, new and updated events, auto-logout after an inactivity time and other new features.
+
 May 22, 2017
 
 New version features direct support for a number of MariaDB new features like roles, check constraints and virtual columns; support for roles added in MySQL 8.0, usage statistics for database profile and some other useful things.
 
-Apr 10, 2017
-
-New version features colored tabs, new encryption algorithms in data grids, enhanced data input forms, updated data export/import tools and a lot of other useful things.
-
-Mar 22, 2017
-
-New version allows you to grant custom permissions at page and record level. It also features enhanced Quick Filter tool, a possibility of printing selected records, a number of updated controls and other useful things.
-
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/sqlite/codefactory/screenshots/getting_started/sql_script_editor/)
+[](http://www.sqlmaestro.com/products/postgresql/maestro/screenshots/getting_started/process_browser/)
 
-SQLite Code Factory provides syntax highlighting to prevent mistakes in syntax at once.
+PostgreSQL Maestro introduces Process Browser, a tool for DBAs who want to monitor the users' activity.
 
-[](http://www.sqlmaestro.com/products/sql_anywhere/phpgenerator/screenshots/common/master_detail_presentation/)
+[](http://www.sqlmaestro.com/products/sql_anywhere/maestro/help/01_04_00_object_browser/)
 
-PHP Generator supports master-detail presentations used to display a list of detail records related to a selected record on the page.
+ASA Mastro: along with sorting, grouping and filtering abilities Object Browser allows you to select several database objects to perform the same operation upon all of them at a time.
