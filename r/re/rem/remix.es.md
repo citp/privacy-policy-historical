@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remix.es privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611182423id_/http%3A//remix.es/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remix.es privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811143304id_/http%3A//remix.es/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | remix.es
 
