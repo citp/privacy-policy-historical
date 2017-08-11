@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluvideos.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116123843id_/http%3A//www.bluvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluvideos.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811202003id_/http%3A//www.bluvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
