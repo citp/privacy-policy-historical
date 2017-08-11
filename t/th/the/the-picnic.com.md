@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-picnic.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523072200id_/http%3A//the-picnic.com/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-picnic.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811031043id_/http%3A//the-picnic.com/privacy-and-terms) for the most accurate reproduction.*
 
 # Privacy & terms | The Picnic
 
