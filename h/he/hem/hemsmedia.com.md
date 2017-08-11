@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the hemsmedia.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511132135id_/http%3A//hemsmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemsmedia.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811171318id_/http%3A//hemsmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Bulk Sms india ,Promotional Sms ,Enterprises Bulk Sms Hemsmedia
+# Privacy Policy - HemsMedia - Bulk SMS India | Promotional SMS | Transactional SMS
 
 ### PRIVACY STATEMENT
 
-This privacy statement discloses the privacy practices for [www.hemsmedia.com](http://www.hemsmail.com/)
+This privacy statement discloses the privacy practices for [www.hemsmedia.com](https://web.archive.org/web/20161102134828/http://www.hemsmail.com/)
 
 ### HEMSTM MEDIA HAS AGREED TO NOTIFY YOU OF:
 
   * What personally identifiable information of yours or third party’s is collected from you through the web site
   * The organization that is collecting the information
   * How the information is used
-  * With whom the information may be shared
+  * With whom the information may shared
   * What are the choices available to you with regards to collection, use and distribution of the information
   * What are the kind of security procedures that are in place to protect the loss, misuse or alteration of information that is under HemsTM MEDIA’s control
   * How can you correct any inaccuracies in the information collected
@@ -20,11 +20,11 @@ This privacy statement discloses the privacy practices for [www.hemsmedia.com](
 
 ### INFORMATION COLLECTION AND USE
 
-Any information collected on this site becomes the property of HemsTM Media. HemsTM Media will not sell, share, or rent this information to others in any way which is different from what is disclosed in this statement. We collect information from our users at several different points on our website.
+Any information collected on this site becomes the property of HemsTM Media. HemsTM Media will not sell, share, or rent this information to others in anyway. We collect information from our users at several different points on our website.
 
 ### INFORMATION YOU UPLOAD INTO HEMSTM Media
 
-HemsTM Media offers self-service email based direct marketing solutions for small and mid-size businesses. The client data which is uploaded into our system is stored in a secure location. HemsTM Media does not sell or rent any client data that has been loaded on to our system. Only the registered account holder can gain access to the uploaded lists.
+HemsTM Media offers self-service email based direct marketing solutions for small and mid-size businesses. All clients data, uploaded to our secure cloud storage. HemsTM Media does not sell or rend any of clients data. Only the registered account holder can gain access to the uploaded lists.
 
 ### REGISTRATION
 
@@ -44,8 +44,10 @@ This web site contains links to other sites. Please be aware that we at HemsTM 
 
 ### SECURITY
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.  
-All HemsTM Media’s servers are protected by firewalls. We also take stringent measures to protect user-information off-line. All of our users’ information is restricted access only. Only employees who need the information to perform a specific job (for example, our customer service representative) are granted access to personally identifiable information. All our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to protected information. Furthermore, ALL employees are updated as to our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only HemsTMMedia network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems.
+This website takes every precaution to protect our users’ information. When users submit sensitive information via the website. So, All the information is protected both online & offline.  
+All HemsTM Media’s servers are protected by firewalls. We also take stringent measures to protect user-information off-line. All of our user’s information is restricted access only. Only employees who need the information to perform a specific job (for example, our customer service representative) are granted access to personally identifiable information.
+
+All our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to protected information. Furthermore, All employees are updated regarding our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customer’s information is protected. Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only HemsTMMedia network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems.
 
 ### SPECIAL OFFERS
 
@@ -53,7 +55,7 @@ We send all new members a verification media to verify password and user name. E
 
 ### ADMINISTRATIVE TYPE EMAIL COMMUNICATIONS
 
-You will receive administrative emails that are related to the usage of our service. You may not opt-out of administrative sms. These administrative emails do not have any marketing, promotional or advertising material(s) in them.
+You will receive administrative emails i.e. related to usage of our services. You may not opt-out of administrative sms. These administrative emails do not have any marketing, promotional or advertising material(s) in them.
 
 ### CORRECTION/UPDATING PERSONAL INFORMATION
 
@@ -61,7 +63,7 @@ If your personally identifiable information changes (such as your zip code), or 
 
 ### NOTIFICATION OF CHANGES
 
-If we decide to change our privacy policy, we will prominently post those changes on our Homepage (located at http://www.hemsmail.com) so our users know what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we need to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will prominently post those changes on our Homepage (located at http://www.hemsmail.com) so our users know what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we need to use personally identifiable information in a manner different from that stated at the time it was collected. Then, we will notify users with an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under the information was collected.
 
 ### LEGAL DISCLAIMER
 
@@ -69,9 +71,9 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 ### UNSOLICITED EMAIL MESSAGES
 
-Policy against advertising our website using unsolicited email messages We require that all e-mails promoting Hems Media or its services are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+Policy against advertising our website using unsolicited email messages We require that all e-mails promoting Hems Media. Such services only sent to those clients, have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department at: abuse@hemsmedia.com. We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you’ve been sent unsolicited emails promoting our brand or website. And would like to register a complaint. Then, please email us to our abuse department at: abuse@hemsmedia.com. We will immediately investigate all allegations made related to unsolicited messages.
 
 Or write us at:  
 313, Rajpark Gali No. 6
