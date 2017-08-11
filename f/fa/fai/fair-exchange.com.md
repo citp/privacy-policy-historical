@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519024904id_/http%3A//www.fair-exchange.com/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811102315id_/http%3A//fair-exchange.com/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # P
 
