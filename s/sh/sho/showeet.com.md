@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showeet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142714id_/http%3A//www.showeet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showeet.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811130644id_/http%3A//www.showeet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,11 @@ When Users navigate on **[Showeet.com](http://www.showeet.com/)** , or download 
 
 But, like many other Web sites, **[Showeet.com](http://www.showeet.com/)** makes use of log files and cookies.
 
-##  **Log Files, Cookies and Web Beacons**
+**
+
+## Log Files, Cookies and Web Beacons
+
+**
 
 #### Log Files
 
@@ -16,13 +20,13 @@ The information inside the log files includes internet protocol (IP) addresses, 
 
 #### Cookies and Web Beacons
 
- **[Showeet.com](http://www.showeet.com/)** does use cookies to store information about Users’ preferences, record User-specific information on which pages Users access or visit, customize Web page content based on visitor’s browser type or other information that the visitor sends via their browser.
+**[Showeet.com](http://www.showeet.com/)** does use cookies to store information about Users’ preferences, record User-specific information on which pages Users access or visit, customize Web page content based on visitor’s browser type or other information that the visitor sends via their browser.
 
 The technologies we use for this automatic data collection may include:
 
-  1.  **Cookies (or browser cookies)** : a cookie is a small file placed on the hard drive of User’s computer. Users may refuse to accept browser cookies by activating the appropriate setting on their browser. However, if Users select this setting they may be unable to access certain parts of **[Showeet.com](http://www.showeet.com/)**. Unless Users have adjusted their browser setting so that it will refuse cookies, our system will issue cookies when Users direct their browser to **[Showeet.com](http://www.showeet.com/)**.
-  2.  **Web Beacons** : pages of **[Showeet.com](http://www.showeet.com/)** may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count Users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
-  3.  **DoubleClick DART cookies** : **[Showeet.com](http://www.showeet.com/)** also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on Users’ computer when they are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to Users and their interests (“interest based targeting”).
+  1. **Cookies (or browser cookies)** : a cookie is a small file placed on the hard drive of User’s computer. Users may refuse to accept browser cookies by activating the appropriate setting on their browser. However, if Users select this setting they may be unable to access certain parts of **[Showeet.com](http://www.showeet.com/)**. Unless Users have adjusted their browser setting so that it will refuse cookies, our system will issue cookies when Users direct their browser to **[Showeet.com](http://www.showeet.com/)**.
+  2. **Web Beacons** : pages of **[Showeet.com](http://www.showeet.com/)** may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count Users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  3. **DoubleClick DART cookies** : **[Showeet.com](http://www.showeet.com/)** also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on Users’ computer when they are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to Users and their interests (“interest based targeting”). 
 
 DART uses “non-personally identifiable information”. It does NOT track personal information about Users, such as their name, email address, physical address, etc.
 
@@ -31,9 +35,13 @@ Users may decide to disable all the Doubleclick Cookies by clicking on: <http://
 
 
 
-## **Google Services (Google Inc.)**
+**
 
- **[Showeet.com](http://www.showeet.com/)** uses several services from Google.
+## Google Services (Google Inc.)
+
+**
+
+**[Showeet.com](http://www.showeet.com/)** uses several services from Google.
 
 Google utilizes the Data collected to track and examine the use of **[Showeet.com](http://www.showeet.com/)** , to prepare reports on its activities and share them with other Google services.
 
@@ -49,7 +57,11 @@ Google’s use of the DART cookie enables it and its partners to serve ads to Us
 
 
 
-##  **Advertising and Commercial affiliation**
+**
+
+## Advertising and Commercial affiliation
+
+**
 
 We use third-party advertisements on **[Showeet.com](http://www.showeet.com/)** to support our site.
 
@@ -85,19 +97,27 @@ ShareAsale is a banner commercial affiliation service provided by ShareAsale.com
 
 
 
-##  **Links to third-party websites**
+**
+
+## Links to third-party websites
+
+**
 
 This privacy statement applies solely to information collected by **[Showeet.com](http://www.showeet.com/)**.
 
- **[Showeet.com](http://www.showeet.com/)** may contains hyperlinks to other web sites or content or resources.
+**[Showeet.com](http://www.showeet.com/)** may contains hyperlinks to other web sites or content or resources.
 
- **[Showeet.com](http://www.showeet.com/)** has no access to or control over these cookies that are used by third-party advertisers.
+**[Showeet.com](http://www.showeet.com/)** has no access to or control over these cookies that are used by third-party advertisers.
 
 When Users click on links and/or ad banners that take you to third-party web sites, they will be subject to the third parties’ privacy policies. While we support the protection of privacy on the Internet, **[Showeet.com](http://www.showeet.com/)** cannot be responsible for the actions of third parties or for their privacy practices. We encourage Users to learn about their privacy and security practices and policies before providing them with personal information.
 
 Users acknowledge and agree that We are not liable for any loss or damage which may be incurred by Users as a result of the availability of those external sites or resources, or as a result of any reliance placed by Users on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.
 
-##  **Analytics**
+**
+
+## Analytics
+
+**
 
 The services contained in this section enable us to monitor and analyze web traffic and can be used to keep track of User behavior.
 
@@ -134,7 +154,11 @@ This integration of Google Analytics anonymizes your IP address. It works by sho
 
 
 
-##  **RSS feed management**
+**
+
+## RSS feed management
+
+**
 
 This type of services allows **[Showeet.com](http://www.showeet.com/)** to manage RSS feeds and the distribution of our content. Depending on the characteristics of the service used, these services may be used to insert ads within the content and to gather statistics data from them.
 
@@ -148,7 +172,11 @@ Users may choose to receive email blog updates via FeedBurner by submitting an e
 
 
 
-##  **Interaction with external social networks and platforms**
+**
+
+## Interaction with external social networks and platforms
+
+**
 
 This type of services allow interaction with social networks or other external platforms directly from the pages of **[Showeet.com](http://www.showeet.com/)**.
 
@@ -192,7 +220,11 @@ The Pinterest “Pin it” button and social widgets are services allowing inter
 
 
 
-##  **Contacting the User**
+**
+
+## Contacting the User
+
+**
 
 #### Contact form ( **[Showeet.com](http://www.showeet.com/)** )
 
@@ -202,11 +234,15 @@ By filling in the contact form with their Data, the User authorizes **[Showeet.c
 
 
 
-##  **Miscellaneous**
+**
+
+## Miscellaneous
+
+**
 
 #### Comment system managed directly ( **[Showeet.com](http://www.showeet.com/)** )
 
- **[Showeet.com](http://www.showeet.com/)** has its own internal content comment system.
+**[Showeet.com](http://www.showeet.com/)** has its own internal content comment system.
 
   * Personal Data collected: Cookies, Usage data and username
 
@@ -231,7 +267,7 @@ This type of services has the purpose of hosting data and files that enable **[S
 Amazon Web Services is a hosting service provided by Amazon.com Inc.
 
     * Personal Data collected: various types of Data as specified in the privacy policy of the service.
-    *  **[Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)**
+    * **[Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)**
 
 
 
@@ -248,19 +284,35 @@ Akismet is a SPAM protection service provided by Automattic Inc.
 
 
 
-##  **Children under the age of 13**
+**
+
+## Children under the age of 13
+
+**
 
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-##  **Changes to Privacy Policy**
+**
+
+## Changes to Privacy Policy
+
+**
 
 This Privacy Policy may be updated* from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes.
 
-##  **Your consent**
+**
+
+## Your consent
+
+**
 
 By using **[Showeet.com](http://www.showeet.com/)** Users consent to our collection and use of your personal information as described in this Privacy Policy.
 
-##  **Definitions**
+**
+
+## Definitions
+
+**
 
 #### User
 
@@ -278,7 +330,11 @@ Any information regarding a natural person, a legal person, an institution or an
 
 Information collected automatically from **[Showeet.com](http://www.showeet.com/)** (or third party services employed in **[Showeet.com](http://www.showeet.com/)** ), which can include: the IP addresses or domain names of the computers utilized by the Users who use **[Showeet.com](http://www.showeet.com/)** , the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within **[Showeet.com](http://www.showeet.com/)** ) and the details about the path followed within **[Showeet.com](http://www.showeet.com/)** with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
-##  **Contact us**
+**
+
+## Contact us
+
+**
 
 If you have any questions or concerns regarding this privacy policy, please **[contact us](http://www.showeet.com/contact-us/)**.
 
