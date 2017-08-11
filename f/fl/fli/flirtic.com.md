@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtic.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611185938id_/http%3A//www.flirtic.com/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtic.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811204901id_/https%3A//www.flirtic.com/index/privacy_policy) for the most accurate reproduction.*
 
 # Flirtic.com - Privacy
 
