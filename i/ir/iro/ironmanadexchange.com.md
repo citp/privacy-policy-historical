@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmanadexchange.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125032932id_/http%3A//ironmanadexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmanadexchange.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811041434id_/http%3A//ironmanadexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Iron Man Adexchange Privacy Policy
 
