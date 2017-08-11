@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3esh-online.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320220904id_/http%3A//www.3esh-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3esh-online.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811024558id_/http%3A//www.3esh-online.com/privacy-policy) for the most accurate reproduction.*
 
 # 3esh-Online Flash Games » Privacy Policy
 
