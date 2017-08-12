@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justanimedubbed.tv privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612125009id_/http%3A//www.justanimedubbed.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanimedubbed.tv privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812033204id_/http%3A//www.justanimedubbed.tv/privacy-policy) for the most accurate reproduction.*
 
 # Watch Cartoons & Anime English Dubbed Online!: Privacy Policy
 
