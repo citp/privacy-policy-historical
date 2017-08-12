@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslookup.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234903id_/http%3A//www.businesslookup.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslookup.org privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812223830id_/http%3A//www.businesslookup.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Business Lookup
 
