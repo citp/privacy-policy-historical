@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the coedcherry.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008144409id_/http%3A//www.coedcherry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coedcherry.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812020512id_/https%3A//www.coedcherry.com/privacy) for the most accurate reproduction.*
 
 # Coed Cherry Privacy Policy
 
-When I entered the porn business in 2003 I was an unemployed computer nerd, having worked for two years as a programmer and one year as a systems administrator. Nerds are notoriously paranoid about privacy and security on the Internet, because we know how easily our personal information can be apprehended and abused.
+**TL;DR:** We respect your privacy and your right to be anonymous and discrete
 
-As surfers it's important we have safe and legal places to go. Sites that won't violate our privacy, give us viruses or shove ads in our faces. CoedCherry represents years of work to make a site that doesn't just offer high quality porn, but also a site that is safe and protects your privacy.
+It's your right to know what kind of info is collected about you, how / why it's collected, what's done with it and how long it's kept for
 
-I believe that it is your right to know exactly what kind of information is being collected about you, why it is collected, how it is being collected, what is done with that information and how long it is kept.
+Like millions of websites, CoedCherry uses Google Analytics to help make it better.
 
-Like millions of other websites, CoedCherry uses Google Analytics to help make CoedCherry better.
-
-Google Analytics is a piece of software that grabs data about our visitors (you). Its something like an advanced server log.
+Google Analytics is software that grabs data about our visitors (you). Its something like an advanced server log.
 
 **What information does Google Analytics record?**
 
@@ -36,7 +34,7 @@ The information Google Analytics collects allows us to better understand the kin
 
 All of this activity falls within the bounds of the [Google Analytics Terms of Service](http://www.google.com/analytics/tos.html). 
 
-You can [opt out of Googles advertising tracking cookie](http://www.google.com/privacy_ads.html) or use a [browser plugin to opt out of all Google Analytics tracking software](http://tools.google.com/dlpage/gaoptout?hl=en).
+You can [opt out of Googles advertising tracking cookie](http://www.google.com/privacy_ads.html) or use a [browser plugin to opt out of all Google Analytics tracking software](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 In addition to Google Analytics we measure the total amount of clicks that content on our site receives (gallery, pay-site link, model page, thumbnail, etc.) Currently these numbers are statistical only, i.e: we only count the total clicks received without knowing who specifically clicked on what.
 
@@ -44,7 +42,7 @@ In the future we may measure individual clicks for the purpose of making recomme
 
 A cookie is information that a web-site stores in your browser and retrieves later when you return. Cookies are the primary way that sites track you. Without them you couldn't "log in" to places like Facebook or Gmail.
 
-In addition to cookies used by Google Analytics, CoedCherry also sets a cookie so we can give different content for returning visitors v.s. new visitors. For example, the main page gives first-time visitors the most popular galleries, and returning visitors are shown the newest galleries.
+Our policy on cookies is to only use them in order to provide you with better content.
 
 We keep server logs to monitor the health of our servers. These logs contain non-personal information about you.
 
@@ -69,26 +67,22 @@ The "User Agent" data provided by the web browser to our server. This data is pr
 
 
 
-Server logs are stored on our servers for 7 days, after which they are deleted.
+Server logs are stored on our servers for a maximum of 7 days, after which they are deleted automatically. Sometimes we even turn logging off all together for performance reasons.
 
 Malware is software that is installed on your computer without your knowledge or consent and used to either collect information about you, show you unwanted advertisements or use your computer's resources in ways in which you do not intend.
 
 CoedCherry **does not** distribute or use any kind of malware. We never have and we never will. It is evil and we believe it should be illegal (fortunately in many cases it is).
 
-Yes.
+Yes!
 
-CoedCherry is a business that has been operating in Canada since October 2003 and we plan to continue long into the future. We have a reputation that we strive to protect.
+CoedCherry is a legal business operating in Canada since 2003. We have a reputation that we work hard to protect.
 
-It is unfortunate that the adult industry sometimes has a reputation for being "shady." In the overwhelming majority of cases it is undeserved and is the result of social prejudices based on beliefs that we do not share. CoedCherry's position is that sex is both natural and beautiful, and pornography is perfectly moral as long as it is produced and enjoyed by consenting adults. That is the type of material that CoedCherry provides.
+Every picture on CoedCherry comes from a site that charges memberships. These sites own the copyright and give us permission to use the pictures to promote them. When someone purchases a membership through CoedCherry, we're paid a commission. We make sure we only deal with reputable companies that are well known and trusted.
 
-Every picture comes from a site that charges memberships. These sites own the copyright and give us permission to use the pictures to promote their sites. When someone purchases a membership via one of our galleries, we are paid a commission in exchange for earning that company money. We make sure to only deal with reputable companies that are well known and established in the adult industry.
+Every gallery has a "Legal Info" link in the footer. This will take you to the record holder information for that content (the person who maintains the identification and legal documentation for the models appearing in that gallery). As a Canadian company we are not required by law to provide this information but, we choose to do so voluntarily.
 
-In most cases we provide a link at the bottom of each gallery titled "18 USC 2257." This link will take you to the record holder information for that content; the person who maintains the identification and legal documentation for the models appearing in that gallery. As a Canadian company we are not required by law to provide this information but we choose to do so voluntarily as an assurance that the content is legal.
-
-Occasionally someone contacts us and claims that a picture hosted on our site is of them and is being used without their permission. These cases are rare and are usually the result of a model who had a falling-out with her photographer or company. In these instances our policy is to contact the company that owns the copyright for clarification. If the claim holds up we always remove the images permanently. We have **never** been involved in any court case or trial regarding the use of images as we respect the wishes of both copyright holders and models and always work to resolve these issues in a diplomatic and civil manner.
+Occasionally someone contacts us and claims that a picture on our site is of them, and is being used without their permission. These cases are rare and are usually the result of a model who had a falling-out with her photographer or company. In these instances our policy is to contact the company that owns the copyright for clarification. If the claim holds up we always remove the images permanently. We have **never** been involved in any legal proceedings regarding the use of images, as we respect the wishes of both copyright holders and models and always work to resolve these issues in a civil manner.
 
 If you have any questions or comments please do not hesitate to use the [Contact Form](https://web.archive.org/contact) to get in touch with us. We will do our best to respond ASAP.
 
-Last updated June 22 2013
-
-\- Garett, Owner & Webmaster CoedCherry.com
+Last updated April 04 2015
