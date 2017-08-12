@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escentual.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611101258id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escentual.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812110604id_/https%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - About Escentual - Help & Advice
 
