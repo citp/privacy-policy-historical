@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambabes.be privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083133id_/http%3A//www.cambabes.be/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambabes.be privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812112718id_/https%3A//www.cambabes.be/en/privacy-policy) for the most accurate reproduction.*
 
 # 
 
