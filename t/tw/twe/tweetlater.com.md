@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetlater.com privacy policy that was archived on 2017-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170105051734id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetlater.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812102115id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
