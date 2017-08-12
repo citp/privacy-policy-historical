@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cambabes.be privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606083133id_/http%3A//www.cambabes.be/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cambabes.be privacy policy that was archived on 2017-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170812112718id_/https%3A//www.cambabes.be/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-cf1="E5" data-brandname="cambabes" data-country="US" data-ext="be" class="js"><!--<![endif]--><head>
 	    <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
@@ -13,12 +13,13 @@
     <meta name="keywords" content="">
 
     
-    <link rel="icon" type="image/png" href="http://www.cambabes.be/bundles/dnxfront/img/brands/cambabes/favicon.png" sizes="32x32"><link rel="shortcut icon" href="/bundles/dnxfront/img/brands/cambabes/favicon.ico"><!--[if IE]><link rel="icon" type="image/x-icon" href="/bundles/dnxfront/img/brands/cambabes/favicon.ico" /><![endif]-->
-    <link href="http://cams.images-dnxlive.com/" rel="dns-prefetch">
-    <link href="http://cams.images-dnxlive.com/" rel="prefetch">
-    <link href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="https://www.cambabes.be/bundles/dnxfront/img/brands/cambabes/favicon.png" sizes="32x32"><link rel="shortcut icon" href="/bundles/dnxfront/img/brands/cambabes/favicon.ico"><!--[if IE]><link rel="icon" type="image/x-icon" href="/bundles/dnxfront/img/brands/cambabes/favicon.ico" /><![endif]-->
+    <link href="https://cams.images-dnxlive.com/" rel="dns-prefetch">
+    <link href="https://cams.images-dnxlive.com/" rel="prefetch">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
 
-    
+        <link rel="canonical" href="http://www.cambabes.be/en/privacy-policy/">
+
             <link rel="stylesheet" type="text/css" media="screen" href="/bundles/dnxcommon/js/common/jquery/plugins/ui/css/smoothness-1.9.2/jquery-ui-1.9.2.custom.min.css">
 
             
@@ -131,7 +132,7 @@
 </script><script async="" src="//static.hotjar.com/c/hotjar-51042.js?sv=5"></script>
     <!-- /getSiteIncludes API tags (head) -->
 
-    </head>
+    <style type="text/css" media="screen">#flastTestElement {visibility:hidden}</style></head>
     
     <body id="pagePrivacy" class="cambabes device-type-desktop" data-tpl-theme="2" data-php-role-guest="1">
 
@@ -338,7 +339,7 @@ _local.script.push(function(){
 
     <!-- Hardcoded tags -->
     <!-- Tag STATM -->
-<script type="text/javascript" async="" src="http://stm.qoijertneio.com/tag_async.js?d=631837||E5||cblive|US|||desktop"></script>
+<script type="text/javascript" async="" src="https://stm.qoijertneio.com/tag_async.js?d=631837||E5||cblive|US|||desktop"></script>
 <!-- Tag STATM -->
 
     <!-- /Hardcoded tags -->
@@ -987,6 +988,59 @@ j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
     })();
 </script>
 
+<script>
+    _local.script.push(function() {
+        // Grant dependencies
+        if (
+            !window.swfobject
+            || !window.dnx
+            || !window.dnx.core
+            || !window.dnx.core.Cookie
+        ) {
+            return;
+        }
+
+        var objectId = 'flastTestElement';
+
+        $('body').append('<div id="' + objectId + '"></div>');
+
+        // callback used by streamplayer via ExternalInterface.call()
+        _local.flashTestCallback = function(event, data) {
+            // Remove the swf from DOM after the callback returns
+            setTimeout(function() {
+                swfobject.removeSWF(objectId);
+            }, 0);
+
+            dnx.core.Cookie.remove('had_stream_error_flash');
+        };
+
+        swfobject.embedSWF(
+            '/bundles/dnxchat/swf/StreamPlayer.swf',
+            objectId,
+            '100%',
+            '100%',
+            '10.1.0',
+            'playerProductInstall.swf',
+            {
+                eventCallback: '_local.flashTestCallback'
+            },
+            {
+                quality: 'high',
+                bgcolor: '#000000',
+                allowScriptAccess: 'always',
+                allowFullScreen: 'true',
+                wmode: 'opaque'
+            },
+            {
+                id: objectId,
+                name: objectId,
+                align: 'middle',
+                style: 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;'
+            }
+        );
+    });
+</script>
+
             <script type="text/javascript">
                 _local.script.push(function() {
                     
@@ -998,4 +1052,4 @@ j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
             </script>
             
 
-</body></html>
+<div id="flastTestElement" style="visibility: visible;"></div></body></html>
