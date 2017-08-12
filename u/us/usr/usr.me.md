@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usr.me privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426153156id_/http%3A//usr.me/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usr.me privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812204936id_/http%3A//usr.me/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Web Hosting Help Desk
+# usr.me Ad-Free Webhosting.
 
 We view your privacy as a very important issue and we do not share your personal information with anyone except to facilitate an order you have made, or as required by law, or to provide you with a product or service at your request or in those limited situations set forth below.
 
