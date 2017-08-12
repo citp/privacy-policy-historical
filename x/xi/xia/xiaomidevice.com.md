@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiaomidevice.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611112832id_/http%3A//www.xiaomidevice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomidevice.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812105225id_/http%3A//www.xiaomidevice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
