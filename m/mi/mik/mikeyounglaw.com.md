@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608102427id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813024410id_/https%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dallas Business Lawyer • Internet Lawyer Mike Young for Business
-
-This website privacy policy is Copyright © 2007-2016 Law Office of Michael E. Young PLLC. All rights reserved.
 
 This is the privacy policy for the website of Internet Lawyer Mike Young’s Law Office of Michael E. Young PLLC, a Texas professional limited liability company.
 
@@ -14,11 +12,11 @@ The law firm’s postal address is:
 Suite 278 PMB 421  
 Plano, Texas 75093 USA
 
-The business can be reached via e-mail by using our [Internet lawyer contact form](http://mikeyounglaw.com/internet-lawyer/contact-us/) or by telephone at 214-546-4247.
+The firm can be reached via e-mail by using our [contact form](http://mikeyounglaw.com/internet-lawyer/contact-us/) or by telephone at 214-546-4247.
 
 ## Information Collected
 
-For each visitor to this website, the Web server automatically recognizes no information regarding the domain or e-mail address.
+[](http://mikeyounglaw.com/website-legal-protection/)For each visitor to this website, the Web server automatically recognizes no information regarding the domain or e-mail address.
 
 The law firm collects the e-mail addresses of those who post messages to the blog, the e-mail addresses of those who communicate with the business via e-mail, aggregate information on what pages website visitors access or visit, information volunteered by the visitor, such as survey information and/or site registrations.The information collected is used to improve the content of this website.
 
@@ -30,9 +28,9 @@ If you use social media buttons on the Website (e.g. the Facebook “Like”, a 
 
 If you do not want to receive e-mail from [Internet Lawyer Young](http://mikeyounglaw.com/category/internet-lawyer-2/) or the law firm in the future, please let us know by sending an e-mail using the contact form on this website or send your request by postal mail to the address listed above.
 
-If you supply our Internet law firm with your postal address on-line, you may receive periodic mailings with information on new products and services or upcoming events.
+If you supply our Internet law firm with your postal address online, you may receive periodic mailings with information on new products and services or upcoming events.
 
-If you do not wish to receive such mailings, please let us know by calling the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list.
+If you do not wish to receive such mailings, please let us know by calling the phone number listed above. Please provide us with your exact name and address. We will be sure your name is removed from the list.
 
 ## Privacy Policy Changes
 
@@ -42,10 +40,10 @@ From time to time, we may use visitor information for new, unanticipated uses no
 
 Website visitors may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us through the Internet lawyer contact form linked to above.
 
-Upon request, we provide site visitors with access to a description of information that we maintain about them. Website visitors can access this information by writing to the Internet law firm at the above address.
+Upon request, we provide site visitors with access to a description of information we maintain about them. Website visitors can access this information by writing to the Internet law firm at the above address.
 
-If you feel that this Internet lawyer site is not following its stated information policy, you may contact us at the above address or phone number.
+If you feel that this [Internet lawyer](http://mikeyounglaw.com/internet-lawyer-business-choices/) site is not following its stated information policy, you may contact us at the above address or phone number.
 
 ## When This Website Privacy Policy Was Last Modified
 
-This website privacy policy was last updated on March 22, 2016.
+This [website privacy policy](http://mikeyounglaw.com/website-privacy-policy-faqs/) was last updated on June 29, 2017.
