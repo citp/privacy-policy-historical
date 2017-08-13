@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewandoo.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611174245id_/http%3A//ewandoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewandoo.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813194940id_/http%3A//ewandoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ewandoo Free Printables Worksheets for Students
 
