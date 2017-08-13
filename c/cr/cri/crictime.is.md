@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the crictime.is privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524193303id_/http%3A//www.crictime.is/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictime.is privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813145159id_/http%3A//pc.crictime.is/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Crictime.Com
+# Privacy Policy - Crictime.is
 
 **Privacy Policy**
 
 This is the privacy policy of web site Crictime.is
 
-We can be reached via feedback form given on the website.
+We can be reached via feedback given on the website.
 
 For each visitor to our Web page, our Web server automatically recognizes information of   
 your browser, IP address, City/State/Country.
