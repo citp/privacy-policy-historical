@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazyprofitengine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072436id_/http%3A//lazyprofitengine.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazyprofitengine.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813094041id_/http%3A//lazyprofitengine.com/other/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ This website, products and services are all directed to people who are at least 
 
 **Terms & Conditions**
 
-Please also visit my Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of this website by [clicking here](https://web.archive.org/web/20161119072436id_/http%3A//lazyprofitengine.com/other/terms.html).
+Please also visit my Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of this website by [clicking here](https://web.archive.org/web/20170813094041id_/http%3A//lazyprofitengine.com/other/terms.html).
 
 **Your Consent**
 
