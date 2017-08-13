@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypedojo.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608151252id_/http%3A//www.hypedojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedojo.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813170001id_/http%3A//www.hypedojo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
