@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620125030id_/http%3A//www.imninc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813235613id_/http%3A//www.imninc.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | IMN
 
