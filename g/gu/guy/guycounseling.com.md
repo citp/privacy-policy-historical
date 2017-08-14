@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guycounseling.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625002758id_/http%3A//www.guycounseling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guycounseling.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814084109id_/https%3A//guycounseling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guy Counseling
 
