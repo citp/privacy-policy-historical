@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvplusnewtabsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025812id_/http%3A//tvplusnewtabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvplusnewtabsearch.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814151227id_/http%3A//tvplusnewtabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # TVPlusNewtab | Privacy Policy
 
