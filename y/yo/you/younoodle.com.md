@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615055229id_/https%3A//ww2.younoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814092946id_/https%3A//ww2.younoodle.com/privacy) for the most accurate reproduction.*
 
 # YouNoodle | Privacy Policy | 2015
 
