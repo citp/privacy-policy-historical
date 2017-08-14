@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergroundmasterminds.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105090738id_/http%3A//undergroundmasterminds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundmasterminds.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814041436id_/http%3A//undergroundmasterminds.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
