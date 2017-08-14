@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilm.eu privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021064009id_/https%3A//www.fujifilm.eu/eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.eu privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814183918id_/https%3A//www.fujifilm.eu/eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fujifilm Europe
 
