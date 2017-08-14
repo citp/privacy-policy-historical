@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addictivetext.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119031444id_/http%3A//antification.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictivetext.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814150842id_/http%3A//antification.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Antification
+# Privacy Policy - Antification
 
 Our business is focused on creating the best publication for our clients and educating people about the need to assure their own financial security and ways to do that. Antification.com is the site to which this privacy policy applies.
 
