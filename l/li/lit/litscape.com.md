@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litscape.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611233956id_/http%3A//www.litscape.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litscape.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814165203id_/http%3A//www.litscape.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Information
 
@@ -30,7 +30,7 @@ Our site is supported by advertising revenues. For this purpose, we use Google A
 
 ## AddThis
 
-We allow third-party companies, including AddThis, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit [Your Choices Online: A Guide to Online Behavioral Advertising](http://www.youronlinechoices.eu/) and [Netword Advertising Initiative](https://web.archive.org/web/20170611233956id_/http%3A//www.litscape.com/www.networkadvertising.org)
+We allow third-party companies, including AddThis, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit [Your Choices Online: A Guide to Online Behavioral Advertising](http://www.youronlinechoices.eu/) and [Netword Advertising Initiative](https://web.archive.org/web/20170814165203id_/http%3A//www.litscape.com/www.networkadvertising.org)
 
 [Privacy Practices for End Users who use the AddThis Sharing Button on Publisher Websites](http://www.addthis.com/privacy/privacy-policy#publisher-visitors)
 
