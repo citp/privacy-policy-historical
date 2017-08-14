@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820102234id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815005014id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — Panjiva
 
