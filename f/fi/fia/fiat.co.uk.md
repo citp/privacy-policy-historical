@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184603id_/https%3A//www.fiat.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814184214id_/https%3A//www.fiat.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fiat UK
 
@@ -7,7 +7,7 @@
 
 **There have been changes in the law relating to Cookies, please see below our updated Cookie policy. You can also visit our dedicated[Cookies page](https://web.archive.org/cookies), which explains what a Cookie is, how they are used, and how they can be removed or rejected.  
 **  
-This website is operated by Fiat Chrysler Automobiles UK Ltd ("Fiat" or "Fiat Chrysler Automobiles UK"). For more information about us and how you can contact us please see the [Contact Us](http://www.fiat.co.uk/uk/header-contacts) section. The financial services available from the [Finance](http://www.fiat.co.uk/uk/financial-services) section of the Fiat website are provided by Fiat Financial Services, a trading style of FCA Automotive Services UK Ltd. The contract hire services available from the [Finance](http://www.fiat.co.uk/uk/financial-services) section of the Fiat website are provided by Fiat Contract Hire, a trading style of FCA Fleet Services UK Ltd. 
+This website is operated by Fiat Chrysler Automobiles UK Ltd ("Fiat" or "Fiat Chrysler Automobiles UK"). For more information about us and how you can contact us please see the [Contact Us](http://www.fiat.co.uk/uk/header-contacts) section. The financial services available from the [Finance](http://www.fiat.co.uk/uk/financial-services) section of the Fiat website are provided by Fiat Financial Services, a trading style of FCA Automotive Services UK Ltd. The contract hire services available from the [Finance](http://www.fiat.co.uk/uk/financial-services) section of the Fiat website are provided by Fiat Contract Hire, a trading style of Leasys UK Ltd. 
 
 FCA Italy SpA is the Italian parent company of the Fiat companies operating in the UK. FCA Italy SpA is a company within the Fiat Chrysler Automobiles N.V. group of companies and any references to the "Fiat Group" in this policy are references to Fiat Chrysler Automobiles N.V. and its subsidiary companies. 
 
