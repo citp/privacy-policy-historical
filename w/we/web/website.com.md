@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629025716id_/https%3A//www.website.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814202241id_/https%3A//www.website.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Website.com
 
