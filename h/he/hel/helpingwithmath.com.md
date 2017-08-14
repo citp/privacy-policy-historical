@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613232944id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814021942id_/https%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # HelpingWithMath.com - Privacy Policy
 
@@ -18,4 +18,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If we keep your email address we will not use it for any purpose other than that which we specifically tell you. We will not pass your email address to any other person or company without your permission.
 
-If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20170613232944id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
+If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20170814021942id_/https%3A//www.helpingwithmath.com/about_us/where.htm)
