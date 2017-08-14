@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativecos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200535id_/https%3A//www.nativecos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativecos.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814231219id_/https%3A//www.nativecos.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Native Deodorant
 
