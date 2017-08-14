@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidfasttoday.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420160126id_/http%3A//www.advertiseout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidfasttoday.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814131725id_/http%3A//www.advertiseout.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Advertise Out Marketing News
 
