@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smplayer.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141355id_/http%3A//www.smplayer.info/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smplayer.info privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814234839id_/http%3A//www.smplayer.info/en/privacy-policy) for the most accurate reproduction.*
 
 # SMPlayer - Privacy Policy
 
