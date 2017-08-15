@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcite.com.sa privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615171508id_/http%3A//www.xcite.com.sa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcite.com.sa privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815134218id_/https%3A//www.xcite.com.sa/privacy) for the most accurate reproduction.*
 
 # Xcite by Alghanim International KSA | Privacy Policy
 
