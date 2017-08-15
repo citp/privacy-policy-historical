@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vertagear.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129180427id_/http%3A//vertagear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertagear.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815235452id_/https%3A//www.vertagear.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Vertagear
+# Privacy Policy | Vertagear
 
 This Privacy Policy is provided to explain how information is collected on our website and how that information is handled once it has been collected. This Privacy Policy may change at any time. By using the Vertagear.com website, you accept the terms and conditions outlined in this Privacy Policy and the Terms of Use.
 
