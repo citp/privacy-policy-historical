@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counsyl.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112090307id_/https%3A//www.counsyl.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counsyl.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815221256id_/https%3A//www.counsyl.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Counsyl | Privacy policy
 
@@ -34,7 +34,7 @@ Counsyl only collects information that assists us to effectively provide you wit
 
   4. When you order a test, you will need to provide us with either with credit card payment or health insurance information, a shipping address, the name and location of your physician and relevant personal and family medical history. We use this information to process payment by credit card or by insurance carrier; to send the test kit to you; to acquire authorization from your physician and to assist us in providing a comprehensive genetic report.
 
-  5. If you contact us via a form on the Site, for example, to request an appointment with a genetic counselor or to request financial aid, we require those fields because they are relevant to providing you with the assistance that you are requesting. We will only use this information in relation to the purpose for which you are providing it.
+  5. If you contact us via a form on the Site, for example, to request an appointment with a genetic counselor or to request financial assistance, we require those fields because they are relevant to providing you with the assistance that you are requesting. We will only use this information in relation to the purpose for which you are providing it.
 
 
 
