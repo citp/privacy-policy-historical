@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308200708id_/https%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815193801id_/https%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
 
 # Integrated, Web-based Association Membership Management Solution: Free Trial!
 
@@ -54,7 +54,7 @@ We do not contact our customers' contacts except as related to operating their W
 **What happens to this information when an account is cancelled?  
 **
 
-If your account is closed by you or terminated by Wild Apricot, we may keep a copy of your content for archival purposes, and in case of any litigation to which it might be relevant. For more information, see [the Site Terms of Use](http://www.wildapricot.com/TermsOfUse).
+If your account is closed by you or terminated by Wild Apricot, we may keep a copy of your content for archival purposes, and in case of any litigation to which it might be relevant. For more information, see [the Site Terms of Use](https://www.wildapricot.com/TermsOfUse).
 
 **Protecting privacy on Wild Apricot sites  
 **
@@ -67,7 +67,7 @@ We are not responsible for any use or misuse of personal information you provide
 
 A cookie is a small amount of data – typically stored as text file – that is placed on your computer or other device when you visit a particular website. Cookies do not store personal information about you, just information identifying your device. 
 
-To access Wild Apricot sites as an administrator or a member, you need to enable cookies within your browser settings. For more information, see [Wild Apricot's Cookies policy](http://help.wildapricot.com/display/DOC/Cookies+policy).
+To access Wild Apricot sites as an administrator or a member, you need to enable cookies within your browser settings. For more information, see [Wild Apricot's Cookies policy](https://help.wildapricot.com/display/DOC/Cookies+policy).
 
 ### SECURITY
 
