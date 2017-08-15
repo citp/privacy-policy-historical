@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagewebsuccess.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314151442id_/http%3A//mortgagewebsystem.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagewebsuccess.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815192032id_/http%3A//mortgagewebsystem.com/legal/privacy) for the most accurate reproduction.*
 
 # Earnings Disclaimer
 
