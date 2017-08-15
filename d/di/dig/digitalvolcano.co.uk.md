@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalvolcano.co.uk privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507073638id_/http%3A//www.digitalvolcano.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalvolcano.co.uk privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815215125id_/https%3A//www.digitalvolcano.co.uk/privacy.html) for the most accurate reproduction.*
 
 # DigitalVolcano.co.uk Privacy Policy
 
@@ -12,3 +12,10 @@ As with most other websites, we collect and use the data contained in log files.
 **Cookies**  
 _This website uses Cookies.   By continuing to use this website you are giving consent to cookies being used._  
 Cookies are used to store information, such as your personal preferences when you visit our site.  This could include the ability to login to some of our features, such as forums.
+
+**Windows App Store Privacy statement**  
+_Hash Tool / Duplicate Cleaner:_  
+The application does not collect or transmit any user's personally identifiable information. No personal information is used, stored, secured or disclosed by services this application works with. 
+
+**Web site analytics**  
+
