@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft4sat.net privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614051417id_/http%3A//www.soft4sat.net/Google.Adsense.Privacy.Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4sat.net privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815233000id_/http%3A//www.soft4sat.net/Google.Adsense.Privacy.Policy.htm) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
