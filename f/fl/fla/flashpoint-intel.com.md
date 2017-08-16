@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401183654id_/https%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816022423id_/https%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
 
 # Flashpoint - Privacy Policy
 
-#### **Effective as of September 28, 2016**
+#### **Effective as of April 13, 2017**
 
 We at EJ2 Communications, Inc. d/b/a Flashpoint (“Flashpoint,” “we,” “us,” or “our”) provided this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Flashpoint when you access and use this website (<https://www.flashpoint-intel.com/>) (the “Website”) or access and use our proprietary software products (“Products”) via the Website. As of the Effective Date of this Privacy Policy, our Products include Flashpoint Platform, Reports, Curated Alerting and Analysis Assistance. Our Products may change from time to time.
 
@@ -84,23 +84,15 @@ We do not knowingly collect personal information from children under the age of 
 
 Important Notice to Non-U.S. Residents
 
-Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US Privacy Shield and the U.S.-Swiss Safe Harbor Framework, your decision to provide such data to us, or allow us to collect such data it through our Website or Products, constitutes your consent to this data transfer.
+Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, your decision to provide such data to us, or allow us to collect such data it through our Website or Products, constitutes your consent to this data transfer.
 
-Important Notice for Residents of the European Economic Area
+Important Notice for Residents of the European Economic Area and Switzerland
 
-Flashpoint complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries (including Iceland, Liechtenstein and Norway). Flashpoint has certified that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability (the “Privacy Shield Principles”). If there is a conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Flashpoint complies with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries (including Iceland, Liechtenstein and Norway) and Switzerland to the United States, respectively. Flashpoint has certified that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability (the “Privacy Shield Principles”). If there is a conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 Flashpoint is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
-In compliance with the EU-US Privacy Shield Principles, Flashpoint commits to resolve complaints about your privacy and our collection or use of your personal information. EU individuals with inquiries or complaints regarding this Privacy Policy should first contact Flashpoint at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com). Flashpoint has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Flashpoint, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
-
-Important Notice for Residents of Switzerland
-
-Flashpoint complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Flashpoint has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
-
-In compliance with the US-Swiss Safe Harbor Principles, Flashpoint commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact Flashpoint at: General Counsel at the address below.
-
-Flashpoint has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+In compliance with the EU-US and the Swiss-U.S. Privacy Shield Principles, Flashpoint commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact Flashpoint at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com). Flashpoint has further committed to refer unresolved privacy complaints under the EU-US and the Swiss-U.S. Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Flashpoint, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
 California Privacy Rights
 
@@ -126,4 +118,4 @@ d/b/a Flashpoint
 111 East 14th St. #284  
 New York, NY 10003
 
-Copyright 2016 EJ2 Communications, Inc. All rights reserved.
+Copyright 2017 EJ2 Communications, Inc. All rights reserved.
