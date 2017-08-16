@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jog.fm privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801113747id_/https%3A//jog.fm/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jog.fm privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816233741id_/http%3A//jog.fm/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Workout songs and playlists - jog.fm
 
-_Last Updated: August 16, 2011_
+_Last Updated: July 10, 2016_
 
 ## A message from the jog.fm team
 
@@ -16,17 +16,15 @@ If you have any questions or concerns about the privacy of this site, please [co
 
 2\. For instances where you need an account (e.g. playlist creation), your email address is the only personally identifiable information we require.
 
-3\. **We will NOT release, display, sell, or otherwise distribute your email address.** We will not display information regarding your third-party authentications (e.g. Twitter, Facebook usernames). However, if you use your email address as your username or in the title of your playlist, it may be visible on the website. **Please do not use your email address or your real name as your username.**
+3\. **We will NOT release, display, sell, or otherwise distribute your email address.** We will not display information regarding your third-party authentications (e.g. Twitter, Facebook usernames). However, if you use your email address or other personal information as your username or in the title of your playlist, it may be visible on the website. **Please do not use your email address or your real name as your username.**
 
-4\. We do not allow visitors to view your profile unless they are logged in to our site. In that case, they can see any information you provided on your profile (e.g. answers to profile questions, etc). Your username may be visible to visitors who are not logged in to the site.
+4\. We use [Google Analytics](http://www.google.com/analytics/) for analytics. They have standard privacy policies, but you should review them as well.
 
-5\. We use [Google Analytics](http://www.google.com/analytics/) for analytics. They have standard privacy policies, but you should review them as well.
+5\. We use cookies to keep you logged in and to provide a more personalized experience. 
 
-6\. We use cookies to keep you logged in and to provide a more personalized experience. 
+6\. We might serve advertisements from third parties. We have and will continue to reject advertisers who interfere with this Policy.
 
-7\. We might serve advertisements from third parties. We have and will continue to reject advertisers who interfere with this Policy.
-
-8\. We keep your data secure. Especially your password.
+7\. We keep your data secure. Especially your password.
 
 ## Privacy Policy
 
