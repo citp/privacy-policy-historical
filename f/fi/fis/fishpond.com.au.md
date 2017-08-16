@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishpond.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095045id_/http%3A//www.fishpond.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishpond.com.au privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816060552id_/https%3A//www.fishpond.com.au/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
