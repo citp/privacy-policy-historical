@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksolutions.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221202047id_/http%3A//www.backlinksolutions.com/amember/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksolutions.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816122648id_/http%3A//www.backlinksolutions.com/amember/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Backlinksolutions.com
 
