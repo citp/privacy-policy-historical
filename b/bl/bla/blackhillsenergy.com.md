@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhillsenergy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172531id_/http%3A//www.blackhillsenergy.com/node/4729) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhillsenergy.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816072359id_/https%3A//www.blackhillsenergy.com/node/4729) for the most accurate reproduction.*
 
 # Privacy Policy | Black Hills Energy
 
