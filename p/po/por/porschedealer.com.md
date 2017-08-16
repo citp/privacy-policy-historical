@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622030659id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817005102id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Porsche Internet Privacy Policy - Porsche USA
 
