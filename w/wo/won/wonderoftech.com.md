@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderoftech.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623194451id_/http%3A//www.wonderoftech.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderoftech.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816235959id_/https%3A//www.wonderoftech.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
