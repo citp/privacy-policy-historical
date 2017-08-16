@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entermusik.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614234531id_/http%3A//www.entermusik.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entermusik.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816235206id_/http%3A//www.entermusik.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - EnterMusik
 
