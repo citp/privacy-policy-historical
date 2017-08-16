@@ -1,83 +1,27 @@
-<!--The following is the downloaded HTML source of the alexandani.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609013903id_/http%3A//www.alexandani.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alexandani.com privacy policy that was archived on 2017-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170816091132id_/https%3A//www.alexandani.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="//tags.tiqcdn.com/utag/alexandani/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script src="//www.loopassets.net/app/alexandani/loop.js" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4CU19aGwECXFZSAAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WVX2JF4"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4CU19aGwcCVVVRBAMB"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+
 <title>Privacy Policy</title>
-<meta name="description" content="Alex and Ani designs and creates bangle bracelets, necklaces, earrings and rings that adorn the body, enlighten the mind, and empower the spirit.">
+
+<meta name="description" content="ALEX AND ANI designs and creates bangle bracelets, necklaces, earrings and rings that adorn the body, enlighten the mind, and empower the spirit.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.alexandani.com/media/favicon/default/favicon_2.png" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.alexandani.com/media/favicon/default/favicon_2.png" type="image/x-icon">
+<meta name="apple-itunes-app" content="app-id=996140201">
 
-<!--{HEAD_RESPONSIVE_1409d1d00c3e088af18c6ee59231cbca}-->    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-    <link type="text/css" rel="stylesheet" href="/skin/frontend/enterprise/responsive/css.91/responsive.css">
-<!--/{HEAD_RESPONSIVE_1409d1d00c3e088af18c6ee59231cbca}-->
-<!--[if lt IE 7]>
-<script type="text/javascript">
-//<![CDATA[
-    var BLANK_URL = 'http://www.alexandani.com/js/blank.html';
-    var BLANK_IMG = 'http://www.alexandani.com/js/spacer.gif';
-//]]>
-</script>
-<![endif]-->
-<link type="text/css" rel="stylesheet" href="http://www.alexandani.com/skin/frontend/enterprise/responsive/fonts/aa_fonts/aa_font.css">
-<link rel="stylesheet" type="text/css" href="http://www.alexandani.com/skin/frontend/enterprise/responsive/css.91/iwd/opc/opc.css" media="all">
-<script type="text/javascript" src="http://www.alexandani.com/js.91/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/lib/ccard.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/prototype/validation.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/varien/js.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/varien/form.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/varien/menu.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/mage/translate.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/varien/product.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/varien/configurable.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/jquery.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/icheck.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/custom.modernizr.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/foundation/foundation.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/foundation/foundation.forms.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/slick/slick.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/jquery.colorbox-min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/jquery.zoom-min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/jquery.unveil.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/swipe.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/pushy.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/bxslider.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/vendor/countdown.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/mirasvit/core/underscore.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/mirasvit/core/backbone.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/mirasvit/code/banner/tabbed.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.91/mirasvit/code/banner/carousel.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.91/scripts.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.91/responsive.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.91/enterprise/catalogevent.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.91/enterprise/wishlist.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/global.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/campaign.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/catalog.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/product.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/wishlist.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/cart.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/checkout.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.91/adobeanalytics/bootstrap.js"></script>
-<!--[if lt IE 9]>
-    <link rel="stylesheet" type="text/css" href="/skin/frontend/enterprise/responsive/css/responsive.css" />
-    <script type="text/javascript" src="/skin/frontend/enterprise/responsive/js/respond.min.js"></script>
-<![endif]-->
+<link rel="icon" href="https://www.alexandani.com/media/favicon/default/favicon_2.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.alexandani.com/media/favicon/default/favicon_2.png" type="image/x-icon">
 
-<script type="text/javascript">
-//<![CDATA[
-Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.alexandani.com';
-//]]>
-</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="https://www.alexandani.com/skin/frontend/aa/site/css.188/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.alexandani.com/skin/frontend/aa/site/css.188/cms-modules.css" media="all">
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/jquery-migrate-3.0.0.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/jquery.noconflict.js"></script>
+<link rel="canonical" href="https://www.alexandani.com/privacy-policy">
 
 <script type="text/javascript">
 //<![CDATA[
@@ -85,75 +29,30 @@ optionalZipCountries = [];
 //]]>
 </script>
 
-<script type="text/javascript">
-  (function(d, t) {
-    var g = d.createElement(t),
-        s = d.getElementsByTagName(t)[0];
-    g.src =  '//www.loopassets.net/app/alexandani/loop.js';
-    g.async = true;
-    s.parentNode.insertBefore(g, s);
-  }(document, 'script'));
-</script>    <!-- BEGIN: Adobe DTM Data Layer -->
-    <script type="text/javascript">
-        var digitalData = {"page":{"category":{"pageType":"aa:us:privacy-policy","subCategory1":"aa:us:privacy-policy","subCategory2":"aa:us:privacy-policy","primaryCategory":"aa:us:privacy-policy"},"pageInfo":{"pageName":"aa:us:privacy-policy"}},"user":[{"profile":[{"profileInfo":{"type":"anonymous"}}]}]};
+            <script type="text/javascript">
+        //<![CDATA[
+        var dataLayer = [];
+        dataLayer.push({
+            'route' : 'cms_page_view',
+            'visitor' : 'guest'
+        });
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+            j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WVX2JF4');
+        var dlCurrencyCode = 'USD';
+                //]]>
     </script>
-    <!-- END: Adobe DTM Data Layer -->
+        
 
-    <!-- BEGIN: Adobe DTM satelliteLib -->
-    <script src="//assets.adobedtm.com/e131e1dd1b8f53e227909aa7fcb90bef215c3c4a/satelliteLib-de9376aacfd470ae7fc3788be91b9b903ad1097c.js"></script>
-    <!-- END: Adobe DTM satelliteLib -->
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script></head>
-<body class=" cms-page-view cms-privacy-policy">
-<!-- BEGIN: Google Trusted Store -->
-<script type="text/javascript">
-//<![CDATA[
-  var gts = gts || [];
-
-  gts.push(["id", "232831"]);
-  gts.push(["google_base_subaccount_id", "9284644--"]);
-
-  (function() {
-    var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
-    var gts = document.createElement("script");
-    gts.type = "text/javascript";
-    gts.async = true;
-    gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(gts, s);
-  })();
-//]]>
-</script>
-<!-- END: Google Trusted Store --><script type="text/javascript">
-
-    if (!loopInfo) {
-        var loopInfo = {};
-    }
-    loopInfo.cartId = "";
-    loopInfo.locale = "en_US";
-    loopInfo.currency = "USD";
-    loopInfo.currencySymbol = "$";
-    loopInfo.design = {'package': "enterprise", 'theme': "responsive" };
-</script>
-<!-- Tealium CMS page javascript -->
-<script type="text/javascript">
-    var utag_data={
-        site_region: "en_US",
-        site_currency: "USD",
-        page_name: "Privacy Policy",
-        page_type: "cms page"
-    };
-</script>
-<!-- Tealium Base javascript -->
-<script type="text/javascript">
-    (function(a,b,c,d){
-      a='//tags.tiqcdn.com/utag/alexandani/main/prod/utag.js';
-      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.
-            async=true;
-        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
-    })();
-</script><div class="wrapper">
+<meta property="fb:app_id" content="1485825775055968"><meta property="og:type" content="article"><meta property="og:url" content="https://www.alexandani.com/privacy-policy"><meta property="og:title" content="Privacy Policy"><meta property="og:image" content="https://www.alexandani.com/skin/frontend/base/default/images/alex-and-ani-logo.png"><meta property="og:description" content="Privacy Policy">
+</head>
+<body class="cms-page-view cms-privacy-policy">
+            <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WVX2JF4" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+    </noscript>
+    
+<div class="wrapper">
         <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -164,1020 +63,640 @@ optionalZipCountries = [];
         </div>
     </noscript>
     <div class="page">
-        <div class="header-container hide-for-small">
-    <div class="header-panel">
-        <div id="header-panel-wrap">
-            
+        
 
-<!--{HEADER_SIGNUP_FORM_6f6f267b6437c1e83bc9e0ea3902e6be}--><div id="header-signup-form" class="row" style="display:none;">
-    <form class="large-9 columns" action="https://www.alexandani.com/customer/account/loginPost/" method="post">
-        <div class="signup-title">
-            <h1>Sign in to your account</h1>
+<header id="mobile-header" class="has-promo">
+    <div class="mobile-promo-slot">
+            </div><!-- /mobile-promo-slot -->
+    <div class="mobile-toolbar">
+        <div class="mobile-toolbar-col">
+            <a href="/" title="ALEX AND ANI" class="logo">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 470.02 46.47">
+                    <defs>
+                        <style>.logo-heart-mobile{clip-path:url(#clip-path-m);}</style>
+                        <clipPath id="clip-path-m" transform="translate(0 3.42)">
+                            <path class="cls-1" d="m425.95 8.53c-6.25-11.39-23.23-7-24.24 3.82q0 0.51 0 1c0 13.43 24.14 28.46 24.28 28.55 0.15-0.09 24.24-15.12 24.28-28.55v-1c-0.68-6.35-6.81-10.53-13.03-10.53a12.56 12.56 0 0 0 -11.3 6.7"></path>
+                        </clipPath>
+                    </defs>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m17.37 0l-17.37 42.28h7.31l3.88-10h18.06l4 10h7.31l-17.08-42.28h-6.11zm-4.37 26.85l7.14-19 7.26 19h-14.4z"></path>
+                    <polygon points="51.99 3.42 45.25 3.42 45.25 45.69 66.91 45.69 66.91 39.75 51.99 39.75" class="cls-2"></polygon>
+                    <polygon points="71.25 45.69 94.9 45.69 94.9 39.75 77.99 39.75 77.99 27.24 94.67 27.24 94.67 21.35 77.99 21.35 77.99 9.36 94.9 9.36 94.9 3.42 71.25 3.42" class="cls-2"></polygon>
+                    <polygon points="134.21 3.42 126.61 3.42 116.96 18.67 107.24 3.42 99.59 3.42 113.07 23.64 98.45 45.69 105.93 45.69 116.73 28.49 127.81 45.69 135.47 45.69 120.9 23.75" class="cls-2"></polygon>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m174.38 0h-6.11l-17.37 42.28h7.31l3.88-10h18.06l4 10h7.31zm-10.45 26.85l7.14-19 7.26 19h-14.4z"></path>
+                    <polygon points="224.26 35.58 202.32 3.42 195.98 3.42 195.98 45.69 202.49 45.69 202.38 13.47 224.49 45.69 230.66 45.69 230.66 3.42 224.15 3.42" class="cls-2"></polygon>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m273.91 21.08c0-5.54-1.43-10.4-4.63-14.23-4.68-5.99-11.71-6.85-17.36-6.85h-13.09v42.28h13.54c14.86 0 21.54-8.86 21.54-21.2zm-21.2 15.25h-7.14v-30.39h7.2c5.43 0 8.8 1.89 11 4.46a17 17 0 0 1 3.43 10.8c0.03 8.8-4.54 15.13-14.48 15.13z"></path>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m302.2 32.28h18.06l4 10h7.31l-17.09-42.28h-6.12l-17.36 42.28h7.31zm9-24.45 7.26 19h-14.46z"></path>
+                    <polygon points="342.48 13.47 364.59 45.69 370.76 45.69 370.76 3.42 364.25 3.42 364.36 35.58 342.42 3.42 336.08 3.42 336.08 45.69 342.59 45.69" class="cls-2"></polygon>
+                    <rect y="3.42" x="378.93" height="42.28" class="cls-2" width="6.74"></rect>
+                    <g class="logo-heart-mobile">
+                        <path transform="translate(0 3.42)" class="cls-4" d="m391.16 32.82v-3.41h78.3v3.41h-78.3zm78.29 6.28h-78.31v-2.81h78.31v2.81zm-78.31-16.33h78.3v3.23h-78.3v-3.23zm15-5.59 0.29-0.6 0.35 0.57 0.74 0.08-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.55-0.45zm0-5.26 0.29-0.6 0.35 0.57l0.7 0.11-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.56-0.51zm0-5.27 0.29-0.6 0.35 0.58 0.74 0.06l-0.52 0.5 0.16 0.64-0.67-0.27-0.65 0.32 0.11-0.65-0.55-0.46zm3.86 7.86l0.3-0.6 0.35 0.58 0.74 0.08-0.52 0.48 0.15 0.65-0.67-0.29-0.64 0.33 0.11-0.66-0.56-0.45zm0-5.31 0.3-0.61 0.35 0.58 0.74 0.08-0.52 0.48 0.15 0.66-0.67-0.3-0.64 0.33 0.11-0.66-0.56-0.44zm3.94 8 0.29-0.6 0.35 0.57 0.74 0.08-0.51 0.48l0.19 0.63-0.67-0.29-0.65 0.33 0.11-0.66-0.55-0.45zm0-5.26 0.29-0.6 0.35 0.57l0.79 0.09-0.51 0.48 0.14 0.62-0.67-0.29-0.65 0.33 0.11-0.66-0.54-0.48zm0-5.27 0.29-0.6 0.35 0.58 0.74 0.06-0.51 0.49l0.19 0.63-0.67-0.27-0.65 0.32 0.11-0.65-0.55-0.46zm3.94 7.86 0.3-0.6 0.35 0.58 0.74 0.08-0.52 0.48l0.25 0.63-0.67-0.29-0.64 0.33 0.11-0.66-0.56-0.45zm0-5.31 0.3-0.61 0.35 0.58 0.74 0.08-0.52 0.48l0.25 0.65-0.67-0.3-0.64 0.33 0.11-0.66-0.56-0.44zm3.94 8 0.29-0.6 0.35 0.57 0.74 0.08-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.55-0.45zm0-5.26 0.29-0.6 0.35 0.57l0.8 0.07-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.56-0.51zm0-5.27 0.29-0.6 0.35 0.58 0.74 0.06-0.51 0.49 0.16 0.64-0.67-0.27-0.65 0.32 0.11-0.65-0.55-0.46zm4 9.76h43.51v3.21h-43.43-0.09v-3.25zm0-6h43.51v2.87h-43.41v-2.96zm0-6.65h43.5v3.09h-43.4v-3.18zm0-6.67h43.5v3h-43.5v-3.13zm-35.21 46h79.39v-46.55h-79.3v46.47z"></path>
+                    </g>
+                </svg>
+            </a>
         </div>
-        <div class="input-fields">
-            <input style="display:none" type="text" name="usernameaf">
-            <input style="display:none" type="password" name="passwordaf">
-            <input name="form_key" type="hidden" value="XpEvlBc9ZoXQUHbA">
-            <input id="hs-email" name="login[username]" type="text" placeholder="Email Address">
-            <input id="hs-pass" name="login[password]" type="password" placeholder="Password" autocomplete="off">
-            <input type="hidden" name="referer" value="aHR0cDovL3d3dy5hbGV4YW5kYW5pLmNvbS9wcml2YWN5LXBvbGljeS8,">
+        <div class="mobile-toolbar-col">
+            <div id="mobile-search-trigger" class="mobile-toolbar-button-wrap">
+                <svg class="ui-search-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.199px" height="20px" viewBox="0 0 16.199 20" enable-background="new 0 0 16.199 20" xml:space="preserve">
+                    <g>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.632,12.545l4.224,4.222l-1.467,1.468l-4.222-4.224L11.632,12.545z"></path>
+                        <g>
+                            <path d="M7.146,3.682c2.802,0,5.081,2.28,5.081,5.083c0,2.803-2.279,5.083-5.081,5.083c-2.803,0-5.083-2.28-5.083-5.083
+                                C2.064,5.962,4.344,3.682,7.146,3.682 M7.146,2.14c-3.658,0-6.624,2.968-6.624,6.625c0,3.659,2.966,6.625,6.624,6.625
+                                s6.623-2.966,6.623-6.625C13.77,5.108,10.805,2.14,7.146,2.14L7.146,2.14z"></path>
+                        </g>
+                    </g>
+                </svg>
+                <div class="ui-triangle"><span></span></div>
+            </div> <!-- /mobile-search-trigger -->
+            <div id="mobile-bag-trigger" class="mobile-toolbar-button-wrap mobile-header-minicart-container-js">
+                <!-- minicart container detached/appended between mobile and desktop via header.js -->
+                <div class="ui-triangle"><span></span></div>
+            </div> <!-- /mobile-bag-trigger -->
+            <div id="mobile-nav-trigger" class="mobile-toolbar-button-wrap">
+                <svg class="ui-open-menu-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 40" enable-background="new 0 0 32 40" xml:space="preserve">
+                    <g>
+                        <g>
+                            <rect x="1" y="12" fill="#292A36" width="30" height="2"></rect>
+                            <rect x="1" y="19" fill="#292A36" width="30" height="2"></rect>
+                            <rect x="1" y="26" fill="#292A36" width="30" height="2"></rect>
+                        </g>
+                    </g>
+                </svg> <!-- /ui-open-menu-icon -->
+                <svg class="ui-close-menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.627 22.629">
+                    <g fill="none" stroke="#292A36" stroke-width="2" stroke-miterlimit="10">
+                        <path d="M.707.709L21.92 21.922M21.92.707L.707 21.92"></path>
+                    </g>
+                </svg> <!-- /ui-close-menu-icon -->
+                <!--<span class="mobile-nav-trigger-label"></span>-->
+            </div> <!-- /mobile-nav-trigger -->
         </div>
-        <button type="button" class="button action-btn" name="send" id="sign-in-button"><span><span>Sign In</span></span></button>
-        <div class="clear"></div>
-        <div>
-            <a class="forgot-pass" href="https://www.alexandani.com/customer/account/forgotpassword/">I forgot my password :(</a>
-        </div>
-    </form>
-    <div class="large-3 columns">
-        <div class="signup-title">
-            <h1>New Here?</h1>
-        </div>
-        <button type="button" class="button action-btn" name="send" id="send2"><span><span>Create An Account</span></span></button>
-    </div>
-</div><!--/{HEADER_SIGNUP_FORM_6f6f267b6437c1e83bc9e0ea3902e6be}-->
-<div class="header-create-form large-12" style="display:none;">
-    <div class="signup-title">
-        <h1>Register</h1>
-    </div>
+    </div><!-- /mobile-toolbar -->
+    <div id="mobile-search-wrapper-js" class="mobile-search-wrapper">
+        <svg class="ui-search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20.371 20.409" enable-background="new 0 0 20.371 20.409" xml:space="preserve">
+                <g>
+                    <path d="M7.527,2c1.477,0,2.865,0.575,3.908,1.617c2.154,2.156,2.154,5.663-0.001,7.819
+                    c-1.044,1.043-2.431,1.617-3.907,1.617s-2.864-0.574-3.908-1.617c-2.155-2.156-2.155-5.663,0-7.818C4.662,2.574,6.051,2,7.527,2
+                    M7.527,0C5.601,0,3.674,0.734,2.205,2.204c-2.94,2.94-2.94,7.706,0,10.646c1.47,1.469,3.396,2.203,5.322,2.203
+                    s3.852-0.734,5.321-2.203c2.939-2.94,2.94-7.706,0.002-10.646C11.381,0.734,9.453,0,7.527,0L7.527,0z"></path>
 
-    <form action="https://www.alexandani.com/customer/account/createpost/" method="post" id="regis-form">
-                <input style="display:none" type="text" name="usernameaf">
-        <input style="display:none" type="password" name="passwordaf">
-        <div class="form-list personal-info large-3 columns">
-            <div class="input-box large-12 columns">
-                <input type="text" id="firstname" name="firstname" value="" title="First Name" class="input-text required-entry short" placeholder="First Name">
-            </div>
-            <div class="input-box large-12 columns">
-                <input type="text" id="lastname" name="lastname" value="" title="Last Name" class="input-text required-entry short" placeholder="Last Name">
-            </div>
-        </div>
+                    <rect x="11.916" y="15.493" transform="matrix(0.7072 0.7071 -0.7071 0.7072 16.4797 -6.8046)" width="9.077" height="2"></rect>
+                </g>
+        </svg>
+    </div> <!-- /mobile-search-wrapper -->
+    <div id="mobile-messaging-wrapper"><div id="mobile-messaging-container"><!-- message written in from minicart.js --></div></div>
+    <nav id="mobile-menu">
+        <div class="menu-overflow-wrapper">
+            <!-- static block: mobile_nav -->
+            <ul class="mobile-menu-quick-access" id="tm--mobile">
+                <li>
+                    <a id="mobile-account-trigger" href="https://www.alexandani.com/customer/account/" class="">
+                        <span id="header-name-mobile">
+                                                            <!-- header-name-mobile -->
+                                                    </span>
+                    </a>
+                </li>
+                <li><a href="https://www.alexandani.com/sales/order/guest/"><span>Order Status</span></a></li>
+                <li>
+                    <a href="https://www.alexandani.com/saveditems/customer/view/">
+                        <span>
+                            <svg class="ui-heart-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 -256 1850 1850">
+                            <g transform="matrix(1,0,0,-1,37.966102,1343.4237)">
+                                <path d="m 896,-128 q -26,0 -44,18 L 228,492 q -10,8 -27.5,26 Q 183,536 145,583.5 107,631 77,681 47,731 23.5,802 0,873 0,940 q 0,220 127,344 127,124 351,124 62,0 126.5,-21.5 64.5,-21.5 120,-58 55.5,-36.5 95.5,-68.5 40,-32 76,-68 36,36 76,68 40,32 95.5,68.5 55.5,36.5 120,58 64.5,21.5 126.5,21.5 224,0 351,-124 127,-124 127,-344 0,-221 -229,-450 L 940,-110 q -18,-18 -44,-18"></path>
+                            </g>
+                            </svg>
+                        </span>
+                    </a>
+                </li>
+                <li><a href="https://www.alexandani.com/locations/"><span>Stores</span></a></li>
+            </ul> <!-- /mobile-menu-quick-access -->
+            <ul class="mobile-menu-main-navigation mobile-menu-level-1">
+                <li id="mm--1--spotlight--mobile"><span class="mobile-menu-expandable">Features</span><ul class="mobile-menu-level-2"><li><a href="/new-arrivals.html"><span>New Arrivals</span></a></li><li><a href="/zodiac-birthstone-jewelry/months/august.html"><span>August Jewelry</span></a></li><li><a href="/conch-shell-art-infusion-set-of-2.html"><span>August Exclusive Set</span></a></li><li><a href="/best-sellers.html"><span>Best Sellers</span></a></li><li><a href="/all-gifts"><span>Gifts</span></a></li><li><a href="/personal-blueprint"><span>Personal Blueprint Guide</span></a></li><li><a href="/our-story"><span>Our Story</span></a></li></ul></li><li class="expanded" id="mm--2--jewelry--mobile"><span class="mobile-menu-expandable">Jewelry</span><ul class="mobile-menu-level-2"><li><a href="/bracelets.html"><span>Bracelets</span></a></li><li><a href="/necklaces.html"><span>Necklaces + Charms</span></a></li><li><a href="/rings.html"><span>Rings</span></a></li><li><a href="/earrings.html"><span>Earrings</span></a></li><li><a href="/jewelry-gift-sets.html"><span>Sets</span></a></li><li><a href="/fine-jewelry.html"><span>Fine Jewelry</span></a></li><li><a href="/jewelry"><span>All Jewelry</span></a></li></ul></li><li><span class="mobile-menu-expandable">Collections</span><ul class="mobile-menu-level-2"><li><a href="/collections/fall.html"><span>Fall 2017</span></a></li><li><a href="/collections/symbols-tokens.html"><span>Symbols + Tokens</span></a></li><li><a href="/collections/stackable-accent-jewelry.html"><span>Accents</span></a></li><li><a href="/collections/personalized-jewelry.html"><span>Personal Blueprint</span></a></li><li><a href="/collections/cord-braided-bracelets.html"><span>Precious Threads</span></a></li><li><a href="/collections/mantras-inspirational-jewelry.html"><span>Mantras + Connections</span></a></li><li><a href="/all-collections"><span>All Collections</span></a></li></ul></li><li></li><li id="mm--4--precious-metals--mobile"><a href="/fine-jewelry.html"><span>Fine Jewelry</span></a></li><li id="mm--1--spotlight--mobile"><span class="mobile-menu-expandable">Positive Impact</span><ul class="mobile-menu-level-2"><li><a href="/charity-by-design"><span>About Charity by Design</span></a></li><li><a href="/charity-by-design/who-we-support"><span>Who We Support</span></a></li><li><a href="/charity-by-design/how-we-support"><span>How We Support</span></a></li><li><a href="/charity-by-design/get-involved"><span>Get Involved</span></a></li><li><a href="/collections/charity-by-design.html"><span>Shop The Collection</span></a></li></ul></li><li id="mm--5--sale--mobile"><a href="/sale.html"><span>Sale</span></a></li><li id="mm--5--sale--mobile"><a href="//blog.alexandani.com/"><span>The Blog</span></a></li>            </ul> <!-- /mobile-menu-main-navigation -->
+        </div> <!-- /menu-overflow-wrapper -->
+    </nav> <!-- /mobile-menu -->
+</header> <!-- /mobile-header -->
 
-        <div class="form-list email-confirm large-3 columns">
-            <div class="input-box large-12 columns">
-                <input type="text" name="email" id="email_address" value="" title="Email Address" class="input-text validate-email required-entry long" placeholder="Email Address" autocomplete="off">
-            </div>
-            <div class="input-box large-12 columns">
-                <input type="text" name="email_verify" id="email_address_verify" value="" title="Verify Email Address" class="input-text validate-email required-entry long" placeholder="Verify Email Address" autocomplete="off">
-            </div>
-        </div>
-
-        <div class="form-list password-confirm large-3 columns">
-            <div class="input-box">
-                <input type="password" value="" name="password" id="password-header" title="Password" class="input-text required-entry validate-password long" placeholder="Password" autocomplete="off">
-            </div>
-            <div class="input-box">
-                <input type="password" value="" name="confirmation" title="Confirm Password" id="confirmation-header" class="input-text required-entry validate-cpassword long" placeholder="Password" autocomplete="off">
-            </div>
-        </div>
-        <div class="t_fieldset control large-3 columns">
-            <div class="newsletter-check">
-                <div class="input-box">
-                    <input type="checkbox" name="is_subscribed" title="Sign Up for Newsletter" value="1" id="is_subscribed" class="checkbox ui-helper-hidden-accessible"><span class="ui-checkbox"></span>
+<header id="desktop-header">
+    <div class="desktop-promo-slot">
+            </div> <!-- /desktop-promo-slot -->
+    <div class="desktop-content-boundary">
+        <div class="desktop-logo-container">
+            <a href="/" title="ALEX AND ANI" class="logo">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 470.02 46.47">
+                    <defs>
+                        <style>.logo-heart-desktop{clip-path:url(#clip-path-dt);}</style>
+                        <clipPath id="clip-path-dt" transform="translate(0 3.42)">
+                            <path class="cls-1" d="m425.95 8.53c-6.25-11.39-23.23-7-24.24 3.82q0 0.51 0 1c0 13.43 24.14 28.46 24.28 28.55 0.15-0.09 24.24-15.12 24.28-28.55v-1c-0.68-6.35-6.81-10.53-13.03-10.53a12.56 12.56 0 0 0 -11.3 6.7"></path>
+                        </clipPath>
+                    </defs>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m17.37 0l-17.37 42.28h7.31l3.88-10h18.06l4 10h7.31l-17.08-42.28h-6.11zm-4.37 26.85l7.14-19 7.26 19h-14.4z"></path>
+                    <polygon points="51.99 3.42 45.25 3.42 45.25 45.69 66.91 45.69 66.91 39.75 51.99 39.75" class="cls-2"></polygon>
+                    <polygon points="71.25 45.69 94.9 45.69 94.9 39.75 77.99 39.75 77.99 27.24 94.67 27.24 94.67 21.35 77.99 21.35 77.99 9.36 94.9 9.36 94.9 3.42 71.25 3.42" class="cls-2"></polygon>
+                    <polygon points="134.21 3.42 126.61 3.42 116.96 18.67 107.24 3.42 99.59 3.42 113.07 23.64 98.45 45.69 105.93 45.69 116.73 28.49 127.81 45.69 135.47 45.69 120.9 23.75" class="cls-2"></polygon>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m174.38 0h-6.11l-17.37 42.28h7.31l3.88-10h18.06l4 10h7.31zm-10.45 26.85l7.14-19 7.26 19h-14.4z"></path>
+                    <polygon points="224.26 35.58 202.32 3.42 195.98 3.42 195.98 45.69 202.49 45.69 202.38 13.47 224.49 45.69 230.66 45.69 230.66 3.42 224.15 3.42" class="cls-2"></polygon>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m273.91 21.08c0-5.54-1.43-10.4-4.63-14.23-4.68-5.99-11.71-6.85-17.36-6.85h-13.09v42.28h13.54c14.86 0 21.54-8.86 21.54-21.2zm-21.2 15.25h-7.14v-30.39h7.2c5.43 0 8.8 1.89 11 4.46a17 17 0 0 1 3.43 10.8c0.03 8.8-4.54 15.13-14.48 15.13z"></path>
+                    <path transform="translate(0 3.42)" class="cls-2" d="m302.2 32.28h18.06l4 10h7.31l-17.09-42.28h-6.12l-17.36 42.28h7.31zm9-24.45 7.26 19h-14.46z"></path>
+                    <polygon points="342.48 13.47 364.59 45.69 370.76 45.69 370.76 3.42 364.25 3.42 364.36 35.58 342.42 3.42 336.08 3.42 336.08 45.69 342.59 45.69" class="cls-2"></polygon>
+                    <rect y="3.42" x="378.93" height="42.28" class="cls-2" width="6.74"></rect>
+                    <g class="logo-heart-desktop">
+                        <path transform="translate(0 3.42)" class="cls-4" d="m391.16 32.82v-3.41h78.3v3.41h-78.3zm78.29 6.28h-78.31v-2.81h78.31v2.81zm-78.31-16.33h78.3v3.23h-78.3v-3.23zm15-5.59 0.29-0.6 0.35 0.57 0.74 0.08-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.55-0.45zm0-5.26 0.29-0.6 0.35 0.57l0.7 0.11-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.56-0.51zm0-5.27 0.29-0.6 0.35 0.58 0.74 0.06l-0.52 0.5 0.16 0.64-0.67-0.27-0.65 0.32 0.11-0.65-0.55-0.46zm3.86 7.86l0.3-0.6 0.35 0.58 0.74 0.08-0.52 0.48 0.15 0.65-0.67-0.29-0.64 0.33 0.11-0.66-0.56-0.45zm0-5.31 0.3-0.61 0.35 0.58 0.74 0.08-0.52 0.48 0.15 0.66-0.67-0.3-0.64 0.33 0.11-0.66-0.56-0.44zm3.94 8 0.29-0.6 0.35 0.57 0.74 0.08-0.51 0.48l0.19 0.63-0.67-0.29-0.65 0.33 0.11-0.66-0.55-0.45zm0-5.26 0.29-0.6 0.35 0.57l0.79 0.09-0.51 0.48 0.14 0.62-0.67-0.29-0.65 0.33 0.11-0.66-0.54-0.48zm0-5.27 0.29-0.6 0.35 0.58 0.74 0.06-0.51 0.49l0.19 0.63-0.67-0.27-0.65 0.32 0.11-0.65-0.55-0.46zm3.94 7.86 0.3-0.6 0.35 0.58 0.74 0.08-0.52 0.48l0.25 0.63-0.67-0.29-0.64 0.33 0.11-0.66-0.56-0.45zm0-5.31 0.3-0.61 0.35 0.58 0.74 0.08-0.52 0.48l0.25 0.65-0.67-0.3-0.64 0.33 0.11-0.66-0.56-0.44zm3.94 8 0.29-0.6 0.35 0.57 0.74 0.08-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.55-0.45zm0-5.26 0.29-0.6 0.35 0.57l0.8 0.07-0.51 0.48 0.16 0.65-0.67-0.29-0.65 0.33 0.11-0.66-0.56-0.51zm0-5.27 0.29-0.6 0.35 0.58 0.74 0.06-0.51 0.49 0.16 0.64-0.67-0.27-0.65 0.32 0.11-0.65-0.55-0.46zm4 9.76h43.51v3.21h-43.43-0.09v-3.25zm0-6h43.51v2.87h-43.41v-2.96zm0-6.65h43.5v3.09h-43.4v-3.18zm0-6.67h43.5v3h-43.5v-3.13zm-35.21 46h79.39v-46.55h-79.3v46.47z"></path>
+                    </g>
+                </svg>
+                <!--<img src="/skin/frontend/enterprise/responsive/images/alex-and-ani-logo.png" alt="ALEX AND ANI"/>-->
+            </a>
+        </div> <!-- /desktop-logo-container -->
+        <div class="desktop-toolbar">
+            <div class="desktop-toolbar-col">
+                <div id="desktop-account-trigger" class="desktop-toolbar-button-wrap" data-target-element="#header-account">
+                    <svg class="ui-account-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20"><path d="M18.739 11.206H15.1c2.362-.058 3.264-2.008 3.264-4.416 0-2.445-.923-4.427-3.365-4.427-2.445 0-3.366 1.982-3.366 4.427 0 2.407.901 4.358 3.265 4.416h-3.64c-3.306 0-4.216 2.714-4.216 6.062v1.01h15.917v-1.01c-.001-3.349-.911-6.062-4.22-6.062z"></path></svg>
+                    <span id="header-name-desktop">
+                                                    <!-- header-name-desktop -->
+                                            </span>
+                    <div class="ui-triangle"><span class="ui-triangle-fill"></span></div>
                 </div>
-                <p>Sign up to receive exclusive offers and updates.</p>
             </div>
-            <button type="button" onclick="return register_ajax();" class="button action-btn" title="Submit"><span><span>Register</span></span></button>
-        </div>
-    </form>
-</div>
-
-<div id="header-newsletter-form" style="display:none;" class="large-12">
-
-        <div class="large-3 columns top-news-welcome" style="display:block">
-            <h1>Never miss a thing!</h1>
-        </div>
-        <form action="https://www.alexandani.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-header" class="large-6 columns">
-            <div class="form-subscribe">
-                <div class="form-subscribe-header large-6 columns">
-                    <span>Sign up to receive exclusive offers and updates.</span>
-                </div>
-                <div class="large-6 columns">
-                    <input name="fake" value="true" class="hide">
-                    <input name="email" type="text" id="newsletter" value="email address" onclick="this.value=='email address'?this.value='':''" onblur="this.value==''?this.value='email address':''" class="input-text required-entry validate-email">
-                    <input type="hidden" name="news_source" value="organic_header_initial_visit">
-                    <button type="button" class="button" title="Subscribe" onclick="newsletter_header('newsletter-validate-header')"><span><span>Subscribe</span></span></button>
+            <div class="desktop-toolbar-col">
+                <div id="desktop-heart-trigger" class="desktop-toolbar-button-wrap skip-link" data-target-element="#header-loves">
+                    <svg class="ui-heart-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.803 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.895 5.342S8.553 2.47 5.535 2.47C2.237 2.47.504 5.278.504 8.085c0 4.661 9.392 10.444 9.392 10.444s9.335-5.728 9.335-10.444c0-2.863-1.789-5.615-4.975-5.615-3.188 0-4.361 2.872-4.361 2.872z"></path></svg>
+                    <span class="trigger-label"></span>
                 </div>
             </div>
-            <div class="sub-error-msg hide"><p></p></div>
-        </form>
-        <script type="text/javascript">
-        //<![CDATA[
-        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-header');
-        //]]>
-        jQuery("#newsletter-validate-header #newsletter").keypress(function(e){
-        var evt = e || window.event;
-        var keyPress = evt.which || evt.keyCode;
-        if(keyPress == 13 || keyPress == 13){ //Enter key pressed
-            newsletter_header('newsletter-validate-header');
-        }
-        });
-        </script>
-        <div id="close-newsletter-header" class="large-3 columns"><span class="close">close</span></div>
-
-</div>
-
-            <div class="switches">
-
-</div>
-        </div>
-    </div>
-    <div class="header">
-        <div class="quick-access">
-            <div class="row large-12">
-                <!--{CART_SIDEBAR_4d7339fb86d7ba9cebce49a9cac06e9a}-->
-<div class="top-cart">
-        <div class="block-title no-items">
-        <strong id="cartHeader">Bag </strong>
-    </div>
-    <div id="topCartContent" class="block-content" style="display:none">
-        <div class="inner-wrapper">                            <p class="block-subtitle hide">
-                <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
-                Recently added item(s)            </p>
-            <p class="cart-empty">
-                Your shopping bag is empty.            </p>
-            <div class="empty-cart-inner">
-                <img src="http://www.alexandani.com/skin/frontend/enterprise/responsive/images/empty-bag.jpg">
-                <a class="cta button" id="mini-cart-close" onclick="Enterprise.TopCart.hideCart()">keep shopping</a>
+            <div class="desktop-toolbar-col">
+                <div id="desktop-order-status-trigger" class="desktop-toolbar-button-wrap">
+                    <svg class="ui-orders-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="5.081 0 19.103 20"><defs><path id="a" d="M5.998 1.312h17.509v17.18H5.998z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M14.704 6.666l.104-.059 8.35-3.836c.31-.155.312-.249.31-.454-.005-.207.041-.331-.303-.382 0 0-8.047-.623-8.221-.623-.175 0-.34.037-.487.107L6.333 4.508a.44.44 0 0 0-.176.138.78.78 0 0 0-.159.495l.25 8.938c0 .417.222.782.556.985l.008.004 6.376 3.351a.524.524 0 0 0 .388.062.537.537 0 0 0 .393-.527V9.191c0-.396-.201-.747-.507-.953l-.159-.091-6.38-2.704c-.12-.059-.064-.24.067-.221 1.969.292 7.052 1.563 7.198 1.563.186.001.36-.042.516-.119"></path><g><defs><path id="c" d="M5.998 1.312h17.509v17.18H5.998z"></path></defs><clipPath id="d"><use xlink:href="#c" overflow="visible"></use></clipPath><path clip-path="url(#d)" d="M23.209 4.528l-1.49.605L15.4 8.147l-.156.089-.004.002a1.147 1.147 0 0 0-.507.953v8.752c0 .246.154.479.394.535a.503.503 0 0 0 .386-.061l7.666-4.384.012-.007c.332-.201.295-.565.295-.983 0 0 .048-8.245.002-8.436-.05-.199-.279-.079-.279-.079"></path></g></svg>
+                    <span class="trigger-label">Order Status</span>
+                </div>
             </div>
-            <!--
-            <p class="cart-empty">
-                You have no items in your shopping cart.            </p>
-            -->
-                                    </div>
-    </div>
-<script type="text/javascript">
-    Enterprise.TopCart.initialize('topCartContent');
-    // Below can be used to show minicart after item added
-    // Enterprise.TopCart.showCart(7);
-</script>
-</div>
-<!--/{CART_SIDEBAR_4d7339fb86d7ba9cebce49a9cac06e9a}-->                <!--{CUSTOMER_NAME_9adbb30cdb5ffa806f1b10bc9a61cdd9}-->
-<div id="free-shipping">
-    $2.95 GROUND SHIPPING</div>
-
-<div id="global-nav-links">
-				<li class="hide li-welcom li-show"><span class="welcome"></span></li>
-			<li class="hide li-show"><a href="https://www.alexandani.com/customer/account/" class="customer_link account">My Account</a></li>
-			<li class="hide li-show"><a class="customer_link sign-out" name="http://www.alexandani.com/customer/account/logout/">Sign Out</a></li>
-			<li class="li-sign-in"><a class="customer_link_toggle sign-in">Sign In</a></li>
-	</div>
-<!--/{CUSTOMER_NAME_9adbb30cdb5ffa806f1b10bc9a61cdd9}-->                <a style="color:#FFF;margin-right:25px;" href="/faqs">FAQs</a>
-<a style="color:#FFF;margin-right:25px;" href="/contact-us">Contact Us</a>
-<a style="color:#FFF;margin-right:25px;" href="https://www.alexandani.com/sales/order/guest/">Order Status</a>
-<a style="color:#FFF;margin-right:5px;" href="/locations">Find Store</a>                <div class="clear"></div>
+            <div class="desktop-toolbar-col">
+                <div id="desktop-location-trigger" class="desktop-toolbar-button-wrap">
+                    <svg class="ui-location-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20"><path d="M15.001 18.875s-6.581-7-6.581-10.469c0-3.47 2.947-6.281 6.581-6.281s6.581 2.812 6.581 6.281-6.581 10.469-6.581 10.469zm0-14.656c-2.423 0-4.388 1.875-4.388 4.188 0 2.312 1.965 4.188 4.388 4.188 2.424 0 4.388-1.876 4.388-4.188 0-2.313-1.964-4.188-4.388-4.188zm0 6.281c-1.212 0-2.193-.938-2.193-2.094s.981-2.094 2.193-2.094c1.211 0 2.192.938 2.192 2.094s-.981 2.094-2.192 2.094z"></path></svg>
+                    <span class="trigger-label">Stores</span>
+                </div>
             </div>
-        </div>
+            <div class="desktop-toolbar-col">
+                <div id="desktop-bag-trigger" class="desktop-toolbar-button-wrap desktop-header-minicart-container-js">
+                    <div id="header-minicart-container"></div>
+                </div>
+            </div>
+        </div> <!-- /desktop-toolbar -->
+        <nav id="desktop-menu">
+            <ul>
+                <li id="mm--1--spotlight--desktop" class="has-children"><span>Features<div class="ui-triangle"><span class="ui-triangle-fill"></span></div></span><div class="sub-menu-wrapper"><ul><li><a href="/new-arrivals.html"><span>New Arrivals</span></a></li><li><a href="/zodiac-birthstone-jewelry/months/august.html"><span>August Jewelry</span></a></li><li><a href="/conch-shell-art-infusion-set-of-2.html"><span>August Exclusive Set</span></a></li><li><a href="/best-sellers.html"><span>Best Sellers</span></a></li><li><a href="/all-gifts"><span>Gifts</span></a></li><li><a href="/personal-blueprint"><span>Personal Blueprint Guide</span></a></li><li><a href="/our-story"><span>Our Story</span></a></li></ul></div></li><li id="mm--2--jewelry--desktop" class="has-children"><span>Jewelry<div class="ui-triangle"><span class="ui-triangle-fill"></span></div></span><div class="sub-menu-wrapper multi-column"><ul><lh id="mm--2.1--categories--desktop"><span>Categories</span></lh><li><a href="/bracelets.html"><span>Bracelets</span></a></li><li><a href="/necklaces.html"><span>Necklaces + Charms</span></a></li><li><a href="/rings.html"><span>Rings</span></a></li><li><a href="/earrings.html"><span>Earrings</span></a></li><li><a href="/jewelry-gift-sets.html"><span>Sets</span></a></li><li><a href="/fine-jewelry.html"><span>Fine Jewelry</span></a></li><li><a href="/jewelry"><span>All Jewelry</span></a></li></ul><ul><lh id="mm--2.2--jewelry--desktop"><span>Collections</span></lh><li><a href="/collections/fall.html"><span>Fall 2017</span></a></li><li><a href="/collections/symbols-tokens.html"><span>Symbols + Tokens</span></a></li><li><a href="/collections/stackable-accent-jewelry.html"><span>Accents</span></a></li><li><a href="/collections/personalized-jewelry.html"><span>Personal Blueprint</span></a></li><li><a href="/collections/cord-braided-bracelets.html"><span>Precious Threads</span></a></li><li><a href="/collections/mantras-inspirational-jewelry.html"><span>Mantras + Connections</span></a></li><li><a href="/all-collections"><span>All Collections</span></a></li></ul></div></li><li id="mm--4--precious-metals--desktop" class="no-children"><span><a href="/fine-jewelry.html">Fine Jewelry</a></span></li><li id="mm--1--spotlight--desktop" class="has-children"><span>Positive Impact<div class="ui-triangle"><span class="ui-triangle-fill"></span></div></span><div class="sub-menu-wrapper"><ul><li><a href="/charity-by-design"><span>About Charity by Design</span></a></li><li><a href="/charity-by-design/who-we-support"><span>Who We Support</span></a></li><li><a href="/charity-by-design/how-we-support"><span>How We Support</span></a></li><li><a href="/charity-by-design/get-involved"><span>Get Involved</span></a></li><li><a href="/collections/charity-by-design.html"><span>Shop The Collection</span></a></li></ul></div></li><li id="mm--5--sale--desktop" class="no-children"><span><a href="/sale.html">Sale</a></span></li><li id="mm--5--sale--desktop" class="no-children"><span><a href="//blog.alexandani.com/">The Blog</a></span></li>            </ul>
+        </nav> <!-- /desktop-menu -->
+        <div id="desktop-search-wrapper-js" class="desktop-search-wrapper">
+            <svg class="ui-search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20.371 20.409" enable-background="new 0 0 20.371 20.409" xml:space="preserve">
+                <g>
+                    <path d="M7.527,2c1.477,0,2.865,0.575,3.908,1.617c2.154,2.156,2.154,5.663-0.001,7.819
+                    c-1.044,1.043-2.431,1.617-3.907,1.617s-2.864-0.574-3.908-1.617c-2.155-2.156-2.155-5.663,0-7.818C4.662,2.574,6.051,2,7.527,2
+                    M7.527,0C5.601,0,3.674,0.734,2.205,2.204c-2.94,2.94-2.94,7.706,0,10.646c1.47,1.469,3.396,2.203,5.322,2.203
+                    s3.852-0.734,5.321-2.203c2.939-2.94,2.94-7.706,0.002-10.646C11.381,0.734,9.453,0,7.527,0L7.527,0z"></path>
+
+                    <rect x="11.916" y="15.493" transform="matrix(0.7072 0.7071 -0.7071 0.7072 16.4797 -6.8046)" width="9.077" height="2"></rect>
+                </g>
+            </svg>
+            <!-- Search -->
+            <div id="header-search" class="skip-content skip-active">
+                
+<form id="search_mini_form" action="https://www.alexandani.com/catalogsearch/result/" method="get">
+    <div class="input-box">
+        <label for="search">Search:</label>
+        <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Search">
+        <button type="submit" title="Search" class="button search-button"><span><span>Search</span></span></button>
     </div>
-    
-<div id="nav-wrap" class="hide-for-small">
 
-  <div class="top_nav wrapper hide-for-small">
-    <div class="row">
+    <div id="search_autocomplete" class="search-autocomplete" data-search-text="Search Suggestion"></div>
+</form>
+            </div>
+        </div> <!-- /desktop-search-wrapper -->
+    </div><!-- /desktop-content-boundary -->
+</header> <!-- /desktop-header -->
 
-      <div class="store_logo" name="store_logo">
-        <div class="logo">
-          <a href="/" title="Alex and Ani" class="logo">
-            <img src="http://www.alexandani.com/skin/frontend/enterprise/responsive/images/alex-and-ani-logo.png" alt="Alex and Ani">
-          </a>
-        </div>
-      </div>
+<!-- Account -->
+<div id="header-account" class="skip-content">
+    <div id="header-login">
+                    <!-- #header-login -->
+            </div>
+    <div id="header-toplinks">
+                    <!-- #header-toplinks -->
+            </div>
+</div>
 
-      <ul class="top_nav_links left-items">
-                <li class="top_nav_new" name="top_nav_new">
-          <p>what's new</p>
-        </li>
-                <li class="top_nav_shop" name="top_nav_shop">
-          <p>shop</p>
-        </li>
-        <li class="top_nav_gift" name="top_nav_gift">
-          <p>gifts</p>
-        </li>
-      </ul>
-
-      <ul class="top_nav_links right-items">
-        <li class="top_nav_about" name="top_nav_about">
-          <p>about</p>
-        </li>
-        <li class="top_nav_exp" name="top_nav_exp">
-          <p>experience</p>
-        </li>
-        <li class="top_nav_search" name="top_nav_search">
-          <p>search</p><div class="search-icon"></div>
-        </li>
-      </ul>
-
+<!-- Saved Items -->
+<div id="header-loves" class="skip-content skip-header-loves">
+    You currently have no saved items</div>        <div class="main-container col1-layout">
+            <div class="main">
+                    <div class="breadcrumbs">
+        <ul>
+                                    <li class="home">
+                                    <a href="https://www.alexandani.com/" title="Go to Home Page">Home</a>
+                                                    <span>/ </span>
+                            </li>
+                                                <li class="cms_page">
+                                    <strong>Privacy Policy</strong>
+                                            </li>
+                                </ul>
     </div>
-  </div>
+                <div class="col-main">
+                                        <div class="cms-page">
+    <h1 class="cms-page__title">
+        Privacy Policy
+    </h1>
 
-
-  <div class="top-cat-container hide" style="display: none;">
-    <div class="wrapper row">
-
-            <ul class="top_nav_new nav-cat link-list hide row" style="display: none;">
+    <h3 class="cms-page__section-title">
+        Categories of Information We Collect
+    </h3>
+    <p class="cms-page__text">
+        We collect personally identifiable information through communications with you, or through the Alex and Ani website (our “Website”), whenever you interact with us online. Some examples include:
+    </p>
+    <ul class="cms-page__ul--bullets">
         <li>
-  <a href="http://www.alexandani.com/new-arrivals.html">
-    <img src="/media/wysiwyg/whats_new_stack_v2.jpg">
-    <p class="cat_name">NEW<br>ARRIVALS</p>
-  </a>
-</li>
-<li>
-  <a href="/2015-how-to-stack.html">
-    <img src="/media/wysiwyg/howtostack_topnav.jpg">
-    <p class="cat_name">HOW TO<br>STACK</p>
-  </a>
-</li>
-<li>
-  <a href="/2015-seaside-collection-look-book">
-    <img src="/media/wysiwyg/seasidecharms_teaser_whatsnew.jpg">
-    <p class="cat_name">SHOP<br>LOOKBOOK</p>
-  </a>
-</li>
-<li>
-  <a href="/2015-the-pursuit-of-persephone-collection-look-book">
-    <img src="/media/wysiwyg/BirthMonthFlowers_whatsnew3.jpg">
-    <p class="cat_name">SHOP<br>LOOKBOOK</p>
-  </a>
-</li>
-<li>
-  <a href="/2015-the-guardian-collection-look-book">
-    <img src="/media/wysiwyg/guardians_WHATSNEW0416.jpg">
-    <p class="cat_name">SHOP<br>LOOKBOOK</p>
-  </a>
-</li>      </ul>
-      
-      <ul class="top_nav_shop nav-cat hide row" style="display: none;">
-              <li>
-          <div class="category">
-            <a href="http://www.alexandani.com/bangles.html">
-              <img src="http://www.alexandani.com/media/catalog/category/AA_nav_bangles_6.jpg" alt="bangles" title="bangles">
-              <p class="cat_name">bangles</p>
-            </a>
-          </div>
-        </li>
-                      <li>
-          <div class="category">
-            <a href="http://www.alexandani.com/necklaces.html">
-              <img src="http://www.alexandani.com/media/catalog/category/roadtoromance_necklace_nav_0421.jpg" alt="necklaces" title="necklaces">
-              <p class="cat_name">necklaces</p>
-            </a>
-          </div>
-        </li>
-                      <li>
-          <div class="category">
-            <a href="http://www.alexandani.com/earrings.html">
-              <img src="http://www.alexandani.com/media/catalog/category/roadtoromanc_eearring_nav_0421.jpg" alt="earrings" title="earrings">
-              <p class="cat_name">earrings</p>
-            </a>
-          </div>
-        </li>
-                      <li>
-          <div class="category">
-            <a href="http://www.alexandani.com/rings.html">
-              <img src="http://www.alexandani.com/media/catalog/category/rings_nav_0421.jpg" alt="rings" title="rings">
-              <p class="cat_name">rings</p>
-            </a>
-          </div>
-        </li>
-                      <li>
-          <div class="category">
-            <a href="http://www.alexandani.com/handbags-1.html">
-              <img src="http://www.alexandani.com/media/catalog/category/spring_gabriel_collection_nav.jpg" alt="Handbags" title="Handbags">
-              <p class="cat_name">Handbags</p>
-            </a>
-          </div>
-        </li>
-                      <li>
-          <div class="category">
-            <a href="http://www.alexandani.com/collections.html">
-              <img src="http://www.alexandani.com/media/catalog/category/collections_shop_nav.jpg" alt="collections" title="collections">
-              <p class="cat_name">collections</p>
-            </a>
-          </div>
-        </li>
-                    </ul>
-
-      <ul class="top_nav_gift nav-cat link-list hide row" style="display: none;">
-                <li>
-            <div class="category">
-              <a href="http://www.alexandani.com/gifts/e-gift-cards.html">
-                <img src="http://www.alexandani.com/media/catalog/category/gc-beloved_nav.jpg" alt="E-Gift Cards" title="E-Gift Cards">
-                <p class="cat_name">E-Gift Cards</p>
-              </a>
-            </div>
-          </li>
-                            <li>
-            <div class="category">
-              <a href="http://www.alexandani.com/gifts/for-her.html">
-                <img src="http://www.alexandani.com/media/catalog/category/Mothers_Day_NavBar_Stack.jpg" alt="for her" title="for her">
-                <p class="cat_name">for her</p>
-              </a>
-            </div>
-          </li>
-                            <li>
-            <div class="category">
-              <a href="http://www.alexandani.com/gifts/for-him.html">
-                <img src="http://www.alexandani.com/media/catalog/category/for_him_gift_nav.jpg" alt="for him" title="for him">
-                <p class="cat_name">for him</p>
-              </a>
-            </div>
-          </li>
-                            <li>
-            <div class="category">
-              <a href="http://www.alexandani.com/gifts/home.html">
-                <img src="http://www.alexandani.com/media/catalog/category/home_gifts_nav.jpg" alt="(+) Home" title="(+) Home">
-                <p class="cat_name">(+) Home</p>
-              </a>
-            </div>
-          </li>
-                        </ul>
-
-      <ul class="top_nav_about nav-cat link-list hide row" style="display: none;">
-                <li>
-          <a href="http://www.alexandani.com/our-story">
-            <img src="/media/wysiwyg/carolyn_about_nav_v2.jpg" alt="about_carolyn">
-            <p class="cat_name">our<br>story</p>
-          </a>
+            registering for a shopping account on our Website
         </li>
         <li>
-          <a href="http://www.alexandani.com/affinity/">
-            <img src="/media/wysiwyg/mlb_affinity_nav_may_v2.jpg" alt="about_affinity">
-            <p class="cat_name">affinity<br>program</p>
-          </a>
+            requesting that merchandise be sent to you or others or place an order
         </li>
         <li>
-          <a href="http://www.alexandani.com/charity-by-design/" alt="about_charity_by_design">
-            <img src="/media/wysiwyg/cbd_may_nav_v2.jpg">
-            <p class="cat_name">charity<br>by design</p>
-          </a>
+            purchasing products from our Website
         </li>
-        <li>
-          <a href="http://www.alexandani.com/vintage-sixty-six/" alt="about_vintage_sixty_six">
-            <img src="/media/wysiwyg/about_v66_spring_v2.jpg">
-            <p class="cat_name">vintage<br>sixty-six</p>
-          </a>
-        </li>      </ul>
-
-      <ul class="top_nav_exp nav-cat link-list hide" style="display: none;">
-                <li>
-          <a href="http://www.alexandani.com/blog/">
-            <img src="/media/wysiwyg/blognav04212015.jpg" alt="experience_blog">
-            <p class="cat_name">blog</p>
-          </a>
-        </li>
-                <li>
-          <a href="http://www.alexandani.com/charmed-arms/">
-            <img src="/media/wysiwyg/wearandsharenav_0420.jpg" alt="experience_wear_and_share">
-            <p class="cat_name">wear and share</p>
-            </a>
-            </li>
-         <li>
-          <a href="http://www.alexandani.com/press/index/">
-            <img src="/media/wysiwyg/nav_press_wwd_spring.jpg" alt="experience_press_worthy">
-            <p class="cat_name">press worthy</p>
-          </a>
-        </li>
-            <li>
-        <a href="http://www.alexandani.com/entertainment">
-          <img src="/media/wysiwyg/entertainmentnav_04222015.jpg" alt="experience_entertainment">
-          <p class="cat_name">entertainment</p></a>
-</li>
-       
-      </ul>
-      <div class="nav-cat search-form-container top_nav_search hide" style="display: none;">
-        <form id="search_mini_form" action="/catalogsearch/result/" method="get">
-          <div class="form-search">
-            <input id="search" type="text" name="q" value="Have something in mind? Just type it..." class="input-text" maxlength="128" onclick="this.value=='Have something in mind? Just type it...'?this.value='':''" onblur="this.value==''?this.value='Have something in mind? Just type it...':''" autocomplete="off">
-            <div id="hit" class="hide">HIT ENTER</div>
-            <script type="text/javascript">
-              //<![CDATA[
-                  var searchForm = new Varien.searchForm('search_mini_form', 'search');
-              //]]>
-            </script>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<div class="header-container hide-for-medium-up small">
-<div id="sticky-header">
-    <a href="/checkout/cart/" class="sticky-nav-right"><span class="m-nav-icon icon-shopping-bag"></span></a>
-    <a id="simple-menu" class="sticky-nav-left" href="#sidr"><span class="m-nav-icon icon-menu"></span></a>
-    <a class="sticky-logo" href="/"><img src="/skin/frontend/enterprise/responsive/images/alex-and-ani-logo.png"></a>
-</div>
-<div id="sidr">
-    <ul>
-        <li class="search-block">
-            <form id="search_mini_form_mobile" action="/catalogsearch/result/" method="get">
-                <div class="form-search">
-                    <div id="mobile-search-field">
-                        <input id="search_mobile" type="text" name="q" class="input-text required-entry" maxlength="128" autocomplete="off">
-                    </div>
-                    <button type="submit" id="mobile-search-icon">
-                        <span class="m-nav-icon icon-search"></span>
-                    </button>
-                    <div class="clear"></div>
-                    <script type="text/javascript">
-                    //<![CDATA[
-                    var searchMiniFormMobile = new VarienForm('search_mini_form_mobile');
-                    new Varien.searchForm('search_mini_form_mobile', 'search_mobile', '');
-                    //]]>
-                    </script>
-                </div>
-            </form>
-            <div class="mobile-nav-seperator">Menu</div>
-        </li>
-            <li class="link"><a class="my-account" href="/customer/account/login/"><span class="m-nav-icon icon-user"></span>My Account </a></li>
-            <li class="link"><a href="/checkout/cart/"><span class="m-nav-icon icon-shopping-bag"></span><!--{CART_SIDEBAR_4120c155bcbfd40a468b8b382055c4b2}-->
-                    </a><a class="shopping-bag" href="http://www.alexandani.com/checkout/cart/">Bag </a>
-
-<!--/{CART_SIDEBAR_4120c155bcbfd40a468b8b382055c4b2}--></li>
-        <li class="link"><a href="/locations"><span class="m-nav-icon icon-gps-location"></span>Find a Store</a></li>
-        <li class="mobile-nav-seperator">Shop</li>
-            <li class="link">
-        <a href="http://www.alexandani.com/bangles.html">
-            <span class="m-nav-icon icon-bangle"></span> bangles        </a>
-    </li>
-    <li class="link">
-        <a href="http://www.alexandani.com/necklaces.html">
-            <span class="m-nav-icon icon-necklace"></span> necklaces        </a>
-    </li>
-    <li class="link">
-        <a href="http://www.alexandani.com/earrings.html">
-            <span class="m-nav-icon icon-earring"></span> earrings        </a>
-    </li>
-    <li class="link">
-        <a href="http://www.alexandani.com/rings.html">
-            <span class="m-nav-icon icon-ring"></span> rings        </a>
-    </li>
-    <li class="link">
-        <a href="http://www.alexandani.com/handbags-1.html">
-            <span class="m-nav-icon icon-bangle"></span> Handbags        </a>
-    </li>
-    <li class="link">
-        <a href="http://www.alexandani.com/collections.html">
-            <span class="m-nav-icon icon-bangle"></span> collections        </a>
-    </li>
-
-    <li class="mobile-nav-seperator">Gifts</li>
-        <li class="link">
-        <a href="http://www.alexandani.com/gifts/e-gift-cards.html">
-            <span class="m-nav-icon icon-aa-shopping-bag"></span> E-Gift Cards        </a>
-    </li>
-        <li class="link">
-        <a href="http://www.alexandani.com/gifts/for-her.html">
-            <span class="m-nav-icon icon-aa-shopping-bag"></span> for her        </a>
-    </li>
-        <li class="link">
-        <a href="http://www.alexandani.com/gifts/for-him.html">
-            <span class="m-nav-icon icon-aa-shopping-bag"></span> for him        </a>
-    </li>
-        <li class="link">
-        <a href="http://www.alexandani.com/gifts/home.html">
-            <span class="m-nav-icon icon-aa-shopping-bag"></span> (+) Home        </a>
-    </li>
-    
     </ul>
+
+    <p class="cms-page__text">
+        We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you. We also gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        How We Use Your Information
+    </h3>
+
+    <p class="cms-page__text">
+        We use your personal information that we collect to conduct our business and to provide you with the best possible products, services and experience. To best serve you, we may share your personally identifiable information with service providers that provide support services to us or that help us market our products and services. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Alex and Ani. We may also, in certain instances, disclose your personally identifiable information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your rights or the rights of Alex and Ani or others. We may also disclose your personally identifiable information when you ask us to do so or when we believe it is required by law.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Mobile Privacy
+    </h3>
+
+    <p class="cms-page__text">
+        Alex and Ani offers mobile applications (commonly known as "apps") and mobile-optimized experiences that allow you to shop online, check product availability, learn about store events, or receive other information from Alex and Ani. All personal information collected by Alex and Ani via our mobile application is protected by this Privacy Policy.
+    </p>
+    <p class="cms-page__text">
+        Although you do not have to provide your location information to Alex and Ani to use our mobile applications, our store-specific services such as find-an-item require a zip code to function. You may manually enter a zip code and we will save your zip code(s) for future reference. Alternatively, when you download our mobile application, you may choose to allow it to obtain your precise location from your mobile device when you click the "near me" button. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data; we only store the zip code associated with the location. We may also update our mobile applications to offer automatic (or "push") notifications. We will provide push notifications only to those customers who opt-in to receive such notifications from Alex and Ani. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+    </p>
+    <p class="cms-page__text">
+        In the future, we may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Cookies, Web Beacons, and Other Similar Technologies
+    </h3>
+
+    <p class="cms-page__text">
+        COur Website uses "cookie" and "web beacon" technology. We use cookies and web beacons to distinguish you from other visitors, track your IP address and usage of our site, and to identify the name of the website from which you linked to alexandani.com. This information is used for fulfilling contracts with our business partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf.
+    </p>
+    <p class="cms-page__text">
+        A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie.
+    </p>
+    <p class="cms-page__text">
+        When you visit our Website, we may use both a session and a persistent cookie. This Alex and Ani-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Website and in some cases, your e-mail address. Your e-mail address is only saved in this Alex and Ani-placed cookie if you register with us. A web beacon allows us to capture certain additional types of information about a visitor's actions on a website, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
+    </p>
+    <p class="cms-page__text">
+        If you register with us, this Alex and Ani-placed cookie allows us to recognize you when you return to our Website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our Website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Website in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our Website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
+    </p>
+    <p class="cms-page__text">
+        When you visit our Website, we may use both a session and a persistent cookie. This Alex and Ani-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Website and in some cases, your e-mail address. Your e-mail address is only saved in this Alex and Ani-placed cookie if you register with us. A web beacon allows us to capture certain additional types of information about a visitor's actions on a website, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
+    </p>
+    <p class="cms-page__text">
+        If you register with us, this Alex and Ani-placed cookie allows us to recognize you when you return to our Website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our Website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Website in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our Website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
+    </p>
+    <p class="cms-page__text">
+        We may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash technology that may be built into your computer or downloaded by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. We do not use Flash cookies for marketing or behavioral targeting purposes. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. Learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Third-Party Advertising Partners
+    </h3>
+
+    <p class="cms-page__text">
+        We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet.
+    </p>
+    <p class="cms-page__text">
+        These service providers may collect non-personally identifiable information about your visits to our Website, and your interaction with our products and services. Such non-personally identifiable information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
+    </p>
+    <p class="cms-page__text">
+        In addition to the anonymous information about your visits to our Website, our service providers may also use the anonymous information about your visits to other websites to target advertisements for products and services available from Alex and Ani.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Childrens Online Privacy Protection Act Compliance
+    </h3>
+
+    <p class="cms-page__text">
+        We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Links to Other Websites and Services
+    </h3>
+
+    <p class="cms-page__text">
+        Our Website may include links to other Internet sites, content, or videos (embedded or direct links) maintained by third parties ('Linked Sites'). Alex and Ani provides Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by Alex and Ani of the Linked Sites. You access Linked Sites at your own risk and by accessing them you leave our Website. Linked Sites are not under the control of Alex and Ani and Alex and Ani is not responsible for the contents of any Linked Site, including the privacy policies or tracking technologies they may use. We encourage you to check the applicable privacy policy to determine how they will handle any personally identifying information they collect from you.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Your Information, Your Choice
+    </h3>
+
+    <p class="cms-page__text">
+        To update us with your information-sharing preferences, you may contact us using one of the following methods:
+    </p>
+
+    <ul class="cms-page__ul--bullets">
+        <li>
+            Call 401.633.1486, or
+        </li>
+        <li>
+            E-mail info@alexandani.com
+        </li>
+        <li>
+            Send your request to 2000 Chapel View Blvd. Suite 360, Cranston RI 02920
+        </li>
+    </ul>
+
+    <h3 class="cms-page__section-title">
+        Children's Privacy
+    </h3>
+
+    <p class="cms-page__text">
+        Our Website is not targeted for use by children under the age of 13 and Alex and Ani does not knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent.
+    </p>
+    <p class="cms-page__text">
+        If we become aware that an individual is under the age of 13 and has submitted any information to Alex and Ani for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Security
+    </h3>
+
+    <p class="cms-page__text">
+        We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personally identifiable information transmitted to us using our Website. To guard your information, our Website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number in transmission to our third party credit card processor. We do not store any credit card information on our servers. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
+    </p>
+
+    <p class="cms-page__text">
+        To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Business Transitions
+    </h3>
+
+    <p class="cms-page__text">
+        As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Alex and Ani or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your Personal Information can continue to be used as set forth in this Privacy Policy.
+    </p>
+
+    <h3 class="cms-page__section-title">
+        Policy Changes
+    </h3>
+
+    <p class="cms-page__text">
+        This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on our Website.
+    </p>
+
+
 </div>
+<div id="snippetContainer">
+	<div class="richsnippets">
+		<div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.alexandani.com/privacy-policy" itemprop="url"><span itemprop="title">Privacy Policy</span></a></div>	</div>
+</div>
+
+                </div>
+            </div>
+        </div>
+                <div class="footer-container">
+    <div class="footer">
+        <div class="download-cms-block">
+    <div class="download-app-block">
+        <a rel="nofollow" href="https://itunes.apple.com/us/app/alex-and-ani/id996140201" target="blank" class="download-app-link">
+            <span class="icon"></span>
+            <span class="label">Download the app</span>
+        </a>
+    </div>
+</div><div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="/sailemail/subscriber/new" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Empower Your Inbox</label>
+            </div>
+            <div class="subscribe-form">
+                <div class="input-box ">
+                    <input type="email" name="email" id="newsletter" placeholder="Enter Email Address" title="Enter Email Address" class="input-text required-entry">
+                </div><!--No white space
+                --><div class="actions">
+                    <button type="submit" title="Sign Up" class="button"><span><span>Sign Up</span></span></button>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="source" value="footer">
+    </form>
+</div>
+<div class="social-links-cms-block">
+    <div class="social-media-links-block">
+        <ul>
+            <li>
+                <a href="http://www.facebook.com/alexandaniusa" target="_blank" rel="me" class="footer-facebook" alt="Facebook">
+                    <span class="icon"></span>
+                    <span class="label">Facebook</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.instagram.com/alexandani" target="_blank" rel="me" class="footer-instagram" alt="Instagram">
+                    <span class="icon"></span>
+                    <span class="label">Instagram</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.snapchat.com/add/alexandani" target="_blank" rel="me" class="footer-snapchat" alt="Snapchat">
+                    <span class="icon"></span>
+                    <span class="label">Snapchat</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.twitter.com/alexandani" target="_blank" rel="me" class="footer-twitter" alt="Twitter">
+                    <span class="icon"></span>
+                    <span class="label">Twitter</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.pinterest.com/alexandani" target="_blank" rel="me" class="footer-pinterest" alt="Pinterest">
+                    <span class="icon"></span>
+                    <span class="label">Pinterest</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youtube.com/alexandani?sub_confirmation=1" target="_blank" rel="me" class="footer-youtube" alt="YouTube">
+                    <span class="icon"></span>
+                    <span class="label">YouTube</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="links">
+    <div class="link-block footer-your-orders">
+        <h6>Information</h6>
+        <ul class="closed">
+            <li><a href="https://www.alexandani.com/sales/order/history/">Order Status</a></li>
+            <li><a href="/faqs#shipping">Shipping</a></li>
+            <li><a href="/faqs#returns">Returns</a></li>
+            <li><a href="/faqs#warranty">Warranty</a></li>
+            <li><a href="https://www.alexandani.com/product-care/">Product Care</a></li>
+            <li><a href="https://www.alexandani.com/faqs/">FAQs</a></li>
+        </ul>
+    </div>
+
+    <div class="link-block footer-find-store">
+        <h6>Our Stores</h6>
+        <ul class="closed">
+            <li><a href="https://www.alexandani.com/locations/">Store Locator</a></li>
+        </ul>
+
+        <h6>Gift Cards</h6>
+        <ul class="closed">
+            <li><a href="https://www.alexandani.com/giftcardbalance/">Check Your Balance</a></li>
+            <li><a href="/egift-cards.html" }}"="">Shop E-Gift Card</a></li>
+        </ul>
+    </div>
+    <div class="link-block footer-our-company">
+        <h6>Our Company</h6>
+        <ul class="closed">
+            <li><a href="https://www.alexandani.com/our-story/">Our Story</a></li>
+            <li><a href="https://www.alexandani.com/press/">In the Press</a></li>
+            <li><a href="https://www.alexandani.com/corporate-gifting-program/">Corporate Gifting</a></li>
+            <li><a href="https://www.alexandani.com/careers/">Careers</a></li>
+        </ul>
+    </div>
+
+    <div class="link-block footer-corporate">
+        <h6>Legal</h6>
+        <ul class="closed">
+            <li><a data-type="ajax" data-fancybox="" href="https://www.alexandani.com/privacy-policy/">Privacy Policy</a></li>
+            <li><a data-type="ajax" data-fancybox="" href="https://www.alexandani.com/terms-and-conditions/">Terms and Conditions</a></li>
+        </ul>
+    </div>
+
+
+    <div class="link-block customer-service-links">
+        <h6 class="closed">Contact Us</h6>
+        <ul>
+            <li><a href="/contact-us">customerservice@alexandani.com</a></li>
+            <li><span>Call: <a href="tel:1-800-725-7822">800-725-7822</a></span></li>
+        </ul>
+    </div>
+</div>
+        <address class="copyright">© 2017 Alex and Ani, LLC</address>
+        <div class="back-to-top-button">
+            <a data-label="Back to Top" id="back-to-top-button" href="#">
+                <span class="up-arrow"></span>
+            </a>
+        </div>
+    </div>
+</div>
+                <script>
+//    var customerSavedItems = [//];
+</script><script type="text/javascript">
+    var mageConfig = {"base_url":"https:\/\/www.alexandani.com\/","catalog\/seo\/product_url_suffix":"html","blueacorn_saveditems\/general\/ajax":null,"blueacorn_saveditems\/general\/enabled":"1","blueacorn_saveditems\/general\/save_text":"Save to Favorites","blueacorn_saveditems\/general\/remove_text":"Remove from Favorites","blueacorn_saveditems\/cart\/show_quantity_input":"1","blueacorn_ajaxcart\/general\/enabled":"1","blueacorn_ajaxcart\/general\/ajax_cart_type":"0","blueacorn_ajaxcart\/general\/displayTime":"15","blueacorn_ajaxcart\/general\/scroll":"1"};
+</script>
+<script type="text/javascript" src="https://www.alexandani.com/js.188/vendor/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/global.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/js.188/vendor/wistia/E-v1.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/app/cms-modules.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/polyfill.object-fit.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/jquery.focuspoint.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/mwheelIntent.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/base/default/js.188/blueacorn/ajaxlogin.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/blueacorn/ajaxcart/ajaxcart.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/blueacorn/ajaxcart/observers.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/js.188/vendor/countdown.min.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/google/ga.js"></script>
+<script type="text/javascript" src="https://www.alexandani.com/skin/frontend/aa/site/js.188/vendor/google/gtm.saveditems.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
-jQuery( document ).ready(function( $ ) {
-
-    if( !$(".header-container.hide-for-small").is(":visible")) {
-        $('#footer-links ul li').each(function( index ) {
-            if($(this).hasClass('toggler') == true){
-                $(this).parent().find('li').hide();
-            }
-        });
-        $('#footer-links ul li:first-child').show();
-
-
-
-        //temp hack to add pipes
-        var count = 0;
-        jQuery('#footer-links ul').each(function() {
-            if(count > 0){
-                var ul = this;
-                jQuery( ul ).find( 'li' ).each(function() {
-                    var li = this;
-                    var orig_content = jQuery( li ).find( 'a' ).html();
-                    if(jQuery( li ).is( ":last-child" ) == false){
-                         jQuery( li ).find( 'a' ).html(orig_content+'&nbsp |');
-                    }
-                });
-            }
-            count++;
-        });
-
-    }
-
-    $('#simple-menu').sidr({
-        onClose:function(){
-            $('#sticky-header').attr('style', 'position:fixed; top:0; left:0;');
-        },
-        onOpen:function(){
-            $('#sticky-header').attr('style', 'position:fixed; top:0;');
-        }
-    }
-    );
-
-    $(window).resize(function(){
-        if ( $(window).width() > 768 ) {
-            $.sidr('close', 'sidr');
-            $('body').attr('style', '');
-        }
-    });
-
-    $('#footer-links ul li.toggler').click(function(){
-
-        if( !$(".header-container.hide-for-small").is(":visible")) {
-            var ul = $(this).parent();
-            var count = 0;
-            $(ul).find('li').each(function( index ) {
-                if(count > 0){
-                    $(this).fadeToggle();
-                }
-                else{
-                    var toggle = $(this).find('.footer-toggle');
-                    if($(toggle).hasClass('tilted')){
-                        $(toggle).removeClass('tilted');
-                    }
-                    else{
-                        $(toggle).addClass('tilted');
-                    }
-                }
-                count++;
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.alexandani.com';
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address."});
+        //]]></script><script type="text/javascript">
+//<![CDATA[
+    $j(document).on('app:block_cache:render:ajax.login', function() {
+        if($j('#header-account').length && $j('#ajax-login').length) {
+            $j('#header-account').addClass('ajaxlogin');
+            var ajaxLogin = new AjaxLogin({
+                targets: [$('ajax-login'), $('ajax-register')],
+                messageElement: $('ajax-error'),
+                url: '/ajaxlogin/ajax/index',
+                emailInput: $('ajax-login').select('input#email-login').first(),
+                redirectDelay: '1000'
             });
         }
     });
 
-});
+    function validateAjaxRecaptcha()
+    {
+                    return true;
+            }
 //]]>
 </script>
 
-</div>
 
-        <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->        <!--{PAGE_BREADCRUMBS_fc14b26b0f921449b7d391a347c66c39}--><div class="breadcrumbs row">
-    <ul>
-                    <li class="home">
-                            <a href="http://www.alexandani.com/" title="Go to Home Page">Home</a>
-                                        <span>/ </span>
-                        </li>
-                    <li class="cms_page">
-                            <strong>Privacy Policy</strong>
-                                    </li>
-            </ul>
-</div>
-<!--/{PAGE_BREADCRUMBS_fc14b26b0f921449b7d391a347c66c39}-->        <div class="main col1-layout">
-            <div class="col-main">
-                <div class="std"><!--{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><!--/{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><div id="static-cms-page">
-	<div class="col-left sidebar">
-<div class="block block-account">
-<div class="block-title">
-<p>Learn More</p>
-</div>
-<div class="block-content">
-<ul>
-<li class="the-company"><a href="http://www.alexandani.com/the-company/">The Company</a></li>
-<li class="corporate-information"><a href="http://www.alexandani.com/press_admin/index/">In the Press</a></li>
-<li class="careers"><a href="http://www.alexandani.com/careers/">Careers</a></li>
-<li class="affiliate"><a href="http://www.alexandani.com/affiliate/">Affiliate Program</a></li>
-<li class="blog"><a href="http://www.alexandani.com/blog/">Blog</a></li>
-<li class="privacy-policy"><a href="http://www.alexandani.com/privacy-policy/">Privacy Policy</a></li>
-<li class="last terms-and-conditions"><a href="http://www.alexandani.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
-</ul>
-</div>
-</div>
-<div class="block block-account">
-<div class="block-title">
-<p>Need Help?</p>
-</div>
-<div class="block-content">
-<ul>
-<li class="retail-locations"><a href="http://www.alexandani.com/locations">Retail Locations</a></li>
-<li class="faqs"><a href="http://www.alexandani.com/faqs/">FAQs</a></li>
-<li class="product-care"><a href="http://www.alexandani.com/product-care/">Product Care</a></li>
-<li class="shipping-and-returns"><a href="http://www.alexandani.com/faqs/#tabs-3">Shipping &amp; Returns</a></li>
-<li class="contact-us"><a href="http://www.alexandani.com/contact-us/">Contact Us</a></li>
-<li class="gift-cards"><a href="http://www.alexandani.com/virtual-gift-card.html/">Gift Cards</a></li>
-</ul>
-</div>
-</div>
-</div>
-
-	<div class="col-main">
-		<div class="right-content privacy-policy">
-			<div class="content">
-				<div class="page-title">
-					<h1>Privacy Policy</h1>
-				</div>
-				<div class="content-section">
-					<h2>Categories of Information We Collect</h2>
-					<p>We collect personally identifiable information through communications with you, or through the Alex and Ani website (our “Website”), whenever you interact with us online. Some examples include:
-<br><br>
-• registering for a shopping account on our Website<br>
-• requesting that merchandise be sent to you or others or place an order<br>
-• purchasing products from our Website
-<br><br>
-We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you. We also gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data.</p>
-				</div>
-				<div class="content-section">
-					<h2>How We Use Your Information</h2>
-					<p>We use your personal information that we collect to conduct our business and to provide you with the best possible products, services and experience. To best serve you, we may share your personally identifiable information with service providers that provide support services to us or that help us market our products and services. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Alex and Ani. We may also, in certain instances, disclose your personally identifiable information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your rights or the rights of Alex and Ani or others. We may also disclose your personally identifiable information when you ask us to do so or when we believe it is required by law.</p>
-				<div class="content-section">
-					<h2>Mobile Privacy</h2>
-					<p>Alex and Ani offers mobile applications (commonly known as "apps") and mobile-optimized experiences that allow you to shop online, check product availability, learn about store events, or receive other information from Alex and Ani. All personal information collected by Alex and Ani via our mobile application is protected by this Privacy Policy.
-<br><br>
-Although you do not have to provide your location information to Alex and Ani to use our mobile applications, our store-specific services such as find-an-item require a zip code to function. You may manually enter a zip code and we will save your zip code(s) for future reference. Alternatively, when you download our mobile application, you may choose to allow it to obtain your precise location from your mobile device when you click the "near me" button. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data; we only store the zip code associated with the location. We may also update our mobile applications to offer automatic (or "push") notifications. We will provide push notifications only to those customers who opt-in to receive such notifications from Alex and Ani. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
-<br><br>
-In the future, we may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.</p>
-				</div>
-				<div class="content-section">
-					<h2>Cookies, Web Beacons, and Other Similar Technologies</h2>
-					<p>Our Website uses "cookie" and "web beacon" technology. We use cookies and web beacons to distinguish you from other visitors, track your IP address and usage of our site, and to identify the name of the website from which you linked to alexandani.com. This information is used for fulfilling contracts with our business partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf.
-<br><br>
-A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie.
-<br><br>
-When you visit our Website, we may use both a session and a persistent cookie. This Alex and Ani-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Website and in some cases, your e-mail address. Your e-mail address is only saved in this Alex and Ani-placed cookie if you register with us. A web beacon allows us to capture certain additional types of information about a visitor's actions on a website, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
-<br><br>
-If you register with us, this Alex and Ani-placed cookie allows us to recognize you when you return to our Website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our Website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Website in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our Website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
-<br><br>
-We may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash technology that may be built into your computer or downloaded by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. We do not use Flash cookies for marketing or behavioral targeting purposes. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. Learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.</p>
-				</div>
-				<div class="content-section">
-					<h2>Third-Party Advertising Partners</h2>
-					<p>We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet.
-<br><br>
-These service providers may collect non-personally identifiable information about your visits to our Website, and your interaction with our products and services. Such non-personally identifiable information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
-<br><br>
-In addition to the anonymous information about your visits to our Website, our service providers may also use the anonymous information about your visits to other websites to target advertisements for products and services available from Alex and Ani.</p>
-				</div>
-				<div class="content-section">
-					<h2>Childrens Online Privacy Protection Act Compliance</h2>
-					<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
-				</div>
-				<div class="content-section">
-					<h2>Links to Other Websites and Services</h2>
-					<p>Our Website may include links to other Internet sites, content, or videos (embedded or direct links) maintained by third parties ('Linked Sites'). Alex and Ani provides Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by Alex and Ani of the Linked Sites. You access Linked Sites at your own risk and by accessing them you leave our Website. Linked Sites are not under the control of Alex and Ani and Alex and Ani is not responsible for the contents of any Linked Site, including the privacy policies or tracking technologies they may use. We encourage you to check the applicable privacy policy to determine how they will handle any personally identifying information they collect from you.</p>
-				</div>
-                <div class="content-section">
-					<h2>Your Information, Your Choice</h2>
-					<p>To update us with your information-sharing preferences, you may contact us using one of the following methods:
-<br>
-<br>Call 401.633.1486, or
-<br>E-mail info@alexandani.com
-<br>Send your request to 2000 Chapel View Blvd. Suite 360, Cranston RI 02920</p>
-</div>
-                <div class="content-section">
-					<h2>Children's Privacy</h2>
-					<p>Our Website is not targeted for use by children under the age of 13 and Alex and Ani does not knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent.
-<br><br>
-If we become aware that an individual is under the age of 13 and has submitted any information to Alex and Ani for any purpose without prior verifiable parental consent, we will delete his or her information from our files.</p>
-</div>
-                <div class="content-section">
-					<h2>Security</h2>
-					<p>We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personally identifiable information transmitted to us using our Website. To guard your information, our Website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number in transmission to our third party credit card processor.  We do not store any credit card information on our servers.   Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
-<br><br>
-To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well.</p>
-</div>
-                <div class="content-section">
-					<h2>Business Transitions</h2>
-					<p>As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Alex and Ani or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your Personal Information can continue to be used as set forth in this Privacy Policy.</p>
-</div>
-                <div class="content-section">
-					<h2>Policy Changes</h2>
-					<p>This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on our Website.</p>
-</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div></div>            </div>
-        </div>
-                <div class="footer-container">
-    <div class="footer">
-      <div id="footer-links">
-        <div class="hide-for-medium-up columns small-12">
-          <h6><span class="m-nav-icon icon-gps-location"></span>FIND A STORE</h6>
-          <form id="mobile-store-search-form" method="post" action="/locations/zip/">
-                <div id="mobile-store-search-field">
-                    <input type="text" placeholder="ZIP CODE" name="zip">
-                </div>
-                <button type="submit" onclick="document.getElementById('mobile-store-search-form').submit();" class="button" title="Search">
-                    <span><span>Search</span></span>
-                </button>
-                <div class="clear"></div>
-          </form>
-        </div>
-                        <ul id="footer-social" class="columns large-3 small-12 push-6">
-          <li class="first columns large-12 small-12">
-            <h6>Stay in touch</h6>
-          </li>
-
-          <li class="columns large-5 small-1"><a href="https://www.facebook.com/alexandaniusa" target="_blank"><span class="m-nav-icon icon-social-facebook"></span><span class="social-link-text">Facebook</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="https://www.youtube.com/alexandani?sub_confirmation=1" target="_blank"><span class="m-nav-icon icon-social-youtube"></span><span class="social-link-text">Youtube</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="https://twitter.com/alexandani" target="_blank"><span class="m-nav-icon icon-social-twitter"></span><span class="social-link-text">Twitter</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="http://alexandani.tumblr.com/" target="_blank"><span class="m-nav-icon icon-social-tumblr"></span><span class="social-link-text">Tumblr</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="http://pinterest.com/alexandani/" target="_blank"><span class="m-nav-icon icon-social-pinterest"></span><span class="social-link-text">Pinterest</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="https://plus.google.com/109754642827952654413/posts" target="_blank"><span class="m-nav-icon icon-social-google-plus"></span><span class="social-link-text">Google+</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="http://instagram.com/alexandani" target="_blank"><span class="m-nav-icon icon-social-instagram"></span><span class="social-link-text">Instagram</span></a></li>
-
-          <li class="columns large-5 small-1"><a href="http://www.linkedin.com/company/alexandani" target="_blank"><span class="m-nav-icon icon-social-linkedin"></span><span class="social-link-text">LinkedIn</span></a></li>
-
-<li class="columns large-5 small-1"><a href="https://vine.co/alexandani" target="_blank"><span class="m-nav-icon icon-social-vine"></span><span class="social-link-text">Vine</span></a></li>
-
-<li class="columns large-5 small-1"><a href="http://wanelo.com/alexandani" target="_blank"><span class="m-nav-icon icon-social-wanelo"></span><span class="social-link-text">Wanelo</span></a></li>
-
-        </ul>        <div class="newsletter-container columns large-3 small-12 push-6">
-          <h6>Never miss a thing!</h6>
-          <form action="https://www.alexandani.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-    <div class="form-subscribe">
-        <div class="form-subscribe-header">
-            <label class="hide-for-small" for="newsletter">Sign up to receive exclusive offers and updates.</label>
-        </div>
-        <div class="v-fix">
-            <input name="email" type="text" id="newsletter" value="Enter Email address" onclick="this.value=='Enter Email address'?this.value='':''" onblur="this.value==''?this.value='Enter Email address':''" class="input-text required-entry validate-email">
-        </div>
-        <input type="hidden" name="news_source" value="organic_footer">
-        <button type="submit" class="button" title="Subscribe">
-            <span><span>Subscribe</span></span>
-        </button>
-    </div>
-</form>
+<div id="wishlist_edit_action_container"></div>
 <script type="text/javascript">
-//<![CDATA[
-    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-//]]>
-</script>
-          <div class="clear"></div>
-          <div class="hide-for-small" id="stella">
-              <a class="stella-seal"></a>
-              <script defer="" src="//media.stellaservice.com/public/js/seal.js"></script>
-              <div style="clear:both;">&nbsp;</div>
-          </div>
-        </div>
-                <ul class="columns large-3 small-12 pull-6">
-          <li class="toggler">
-            <div class="footer-toggle"></div>
-            <h6>Learn more</h6>
-          </li>
-          <li><a href="http://www.alexandani.com/the-company/">The Company</a></li>   
-          <li><a href="http://www.alexandani.com/about-international/">International</a></li>
-          <li><a href="http://www.alexandani.com/careers/">Careers</a></li>
-          <li><a href="http://www.alexandani.com/corporate-gifting-program/">Corporate Gifting Program</a></li>
-          <li><a href="http://www.alexandani.com/affiliate/">Affiliate Program</a></li>
-          <li><a href="http://www.alexandani.com/privacy-policy/">Privacy Policy</a></li>
-          <li><a href="http://www.alexandani.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
-        </ul>                <ul class="columns large-3 small-12 pull-6">
-          <li class="toggler">
-            <div class="footer-toggle"></div>
-            <h6>Need help?</h6>
-          </li>
-          <li><a href="http://www.alexandani.com/alexandani-locations">Your ALEX AND ANI Store</a></li>
-          <li><a href="http://www.alexandani.com/locations">Location Finder</a></li>
-          <li><a href="http://www.alexandani.com/faqs/">FAQs</a></li>
-          <li><a href="http://www.alexandani.com/product-care/">Product Care</a></li>
-          <li><a href="http://www.alexandani.com/faqs/#tabs-3">Shipping &amp; Returns</a></li>
-          <li><a href="http://www.alexandani.com/contact-us/">Contact Us</a></li>
-          <li><a href="http://www.alexandani.com/virtual-gift-cards.html/">E-Gift Cards</a></li>
-        </ul>      </div>
-      <div class="clear"></div>
-      <div class="bottom-footer">
-        <address>© 2015 Alex and Ani, LLC</address>
-        <a class="energy">ENERGY</a>
-        <!--{RESPONSIVE_SWITCH_332532060d16fe3213672ca5ba0bdf52}-->    <a class="response-switch" href="http://www.alexandani.com/responsive/set/index/state/false/">View Desktop Site</a>
+$j(document).on('app:block_cache:render:cart_sidebar', function() {
+    app.minicart = new Minicart({
+        formKey: "HwDN7LlCDxcn1d37"
+    });
+    app.minicart.init();
 
-<!--/{RESPONSIVE_SWITCH_332532060d16fe3213672ca5ba0bdf52}-->        <div class="clear"></div>
-      </div>
-    </div>
-</div>
-<img style="width:0px;height:0px;" width="1" height="1" src="/skin/frontend/enterprise/responsive/images/waiting_animation.gif">
-        <!--{WISHLISTS_0a62920bc25654f05711578c0018ac7f}--><!--/{WISHLISTS_0a62920bc25654f05711578c0018ac7f}-->    <!-- BEGIN: Adobe DTM Call -->
-    <script type="text/javascript">if(typeof window.__satellite=='object')__satellite.pageBottom()</script>
-    <!-- END: Adobe DTM Call -->
-        
-<!-- popup styles -->
-<style type="text/css">
-.coupon-popup{
-	text-align:center;
-	width:400px;
-	margin-left:auto;
-	margin-right:auto;
-	/*padding: 10px;*/
-}
+    $j('#minicart-anchor').off('click').on('click', function(e) {
+        e.preventDefault();
+        var skipContents = $j('.skip-content');
+        var skipLinks = $j('.skip-link');
+        var self = $j(this);
+        // Use the data-target-element attribute, if it exists. Fall back to href.
+        var target = self.attr('data-target-element') ? self.attr('data-target-element') : self.attr('href');
 
-.coupon-popup-container{
-	text-align:center;
-	border: 1px solid #000;
-	padding: 10px;
-}
+        // Get target element
+        var elem = $j(target);
 
-.coupon-popup-header{
-	margin-bottom:10px;
-}
+        // Check if stub is open
+        var isSkipContentOpen = elem.hasClass('skip-active') ? 1 : 0;
 
-.coupon-popup-body{
-	font-size:16px;
-}
+        // Hide all stubs
+        skipLinks.removeClass('skip-active');
+        skipContents.removeClass('skip-active');
 
-.coupon-popup-button{
-	margin-top:10px;
-	margin-bottom:5px;
-}
-
-.coupon-popup-button button > span{
-	padding:10px 25px !important;
-}
-
-.coupon-popup-button span{
-	font-weight:bold !important;
-	font-size:13px;
-}
-
-</style>
-
-
-<div style="display:none">
-	<div id="free-shipping-coupon" class="coupon-popup">
-	    <div class="coupon-popup-container">
-	        <div class="coupon-popup-header">
-	            <h1 class="title">Alex and Ani</h1>
-	        </div>
-	        <div class="coupon-popup-body">
-	            We're glad you're back! Free shipping has been applied to your order.
-	        </div>
-	        <div class="coupon-popup-button">
-	            <button class="button color-close" popup="free-shipping-coupon" title="ok" type="button">
-	                <span>
-	                    <span>Continue »</span>
-	                </span>
-	            </button>
-	        </div>
-	    </div>
-	</div>
-</div>
-
-
-<div style="display:none">
-	<div id="image-coupon" class="image-coupon-popup">
-	    <div class="image-coupon-popup-container">
-
-	    </div>
-	</div>
-</div>
-
-
-
-
-<script>
-jQuery(document).ready(function(){
-
-	/*--> international popup start <--*/
-	var canSee = 'false';
-
-	//forcing popup off on next line
-	canSee = 'false';
-	if(canSee == 'true'){
-		Jquery.colorbox({
-			html:'<p> <a href="/international"><img src="//cdn.alexandani.com/media/popup.jpg"/> </a> </p>',
-			innerWidth: 550,
-			innerHeight: 200,
-			scrolling:false
-		});
-	}
-
-	/*--> international popup end <--*/
-
-
-
-	/*--> coupon popup start <--*/
-	var coupon = {"promo_code":"","label":"","hide_codes":false,"show_popup":false};
-
-	if(coupon.show_popup == true){
-
-		var label = coupon.label;
-		//var current_code = coupon.promo_code;
-
-		//free shipping coupon start
-		if(coupon.promo_code == 'free_shipping_abandoned_cart_2'){
-
-			jQuery.colorbox({
-				inline:true,
-				href:"#free-shipping-coupon",
-				innerWidth: 420,
-				scrolling:false
-			});
-		}
-		//free shipping coupon end
-
-		//EWAY START
-		if(coupon.label == 'Free Shipping --'){
-
-			var image = '<img class="color-close" src="//cdn.alexandani.com/media/coupon_images/coupon-complementary-shipping.jpg"/>';
-			jQuery('#image-coupon').find('.image-coupon-popup-container').html(image);
-			jQuery.colorbox({
-				inline:true,
-				href:"#image-coupon",
-				innerWidth: 500,
-				innerHeight:175,
-				scrolling:false
-			});
-		}
-		if(coupon.label == 'Free Shipping Comp --'){
-
-			var image = '<img class="color-close" src="//cdn.alexandani.com/media/coupon_images/coupon-our-appreciation.jpg"/>';
-			jQuery('#image-coupon').find('.image-coupon-popup-container').html(image);
-			jQuery.colorbox({
-				inline:true,
-				href:"#image-coupon",
-				innerWidth: 500,
-				innerHeight:175,
-				scrolling:false
-			});
-		}
-		if(coupon.label == 'Free shipping and 15 percent off --'){
-
-			var image = '<img class="color-close" src="//cdn.alexandani.com/media/coupon_images/coupon-15-pct-off.jpg"/>';
-			jQuery('#image-coupon').find('.image-coupon-popup-container').html(image);
-			jQuery.colorbox({
-				inline:true,
-				href:"#image-coupon",
-				innerWidth: 500,
-				innerHeight:175,
-				scrolling:false
-			});
-		}
-		if(coupon.label == '5 dollars off --'){
-
-			var image = '<img class="color-close" src="//cdn.alexandani.com/media/coupon_images/coupon-first-time-5-dollars-off.jpg"/>';
-			jQuery('#image-coupon').find('.image-coupon-popup-container').html(image);
-			jQuery.colorbox({
-				inline:true,
-				href:"#image-coupon",
-				innerWidth: 500,
-				innerHeight:175,
-				scrolling:false
-			});
-		}
-		if(coupon.label == '10% off item --'){
-
-			var image = '<img class="color-close" src="//cdn.alexandani.com/media/coupon_images/coupon-10-pct-off.jpg"/>';
-			jQuery('#image-coupon').find('.image-coupon-popup-container').html(image);
-			jQuery.colorbox({
-				inline:true,
-				href:"#image-coupon",
-				innerWidth: 500,
-				innerHeight:175,
-				scrolling:false
-			});
-		}
-		//EWAY END
-
-		//--> other coupon specific popups
-		//-->
-		//-->
-		//-->
-
-	}
-	//This is coupon agnostic and will hide various shipping information if free shipping is
-	//applied by the current promotion
-	if(coupon.hide_codes == true) {
-		var message = "Congrats! You've reached Free Shipping!";
-
-		jQuery('.free-shipping-note').html(message);
-		jQuery('.free-shipping-msg').html(message);
-
-		jQuery('#coupon_code').val(coupon.label);
-		jQuery('#discount-coupon-form .button.cta').hide();
-
-	}
-	/*--> coupon popup end <--*/
-
-
-
-
-
-	//used to close popups
-	jQuery('.color-close').click(function(){
-		var parent = jQuery(this).attr('popup');
-		jQuery('#'+parent).colorbox.close()
-
-	});
-
-
+        // Toggle stubs
+        if (isSkipContentOpen) {
+            self.removeClass('skip-active');
+            elem.removeClass('skip-active');
+        } else {
+            self.addClass('skip-active');
+            elem.addClass('skip-active');
+            // sets up events for each skip link click
+            // app:skip-link-click:header-cart or header-nav etc...
+            $j(document).trigger('app:skip-link-open:'+ $j(elem).attr('id'));
+        }
+    });
 });
-</script>
-    </div>
+</script>    </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ddb2f37630","applicationID":"2287077","transactionName":"YVUDYkIEChAEUEdfXVgfIFVEDAsNSlBeRR1GUQZTHxMNBhI=","queueTime":0,"applicationTime":467,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ddb2f37630","applicationID":"42143326","transactionName":"YVUDYkIEChAEUEdfXVgfNERZSg0NAVZLGEJeQA==","queueTime":0,"applicationTime":31,"atts":"TRIUFAoeGU9HUhEMSUtN","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+</body></html>
