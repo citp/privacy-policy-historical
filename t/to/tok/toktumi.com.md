@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304232129id_/https%3A//www.line2.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817000222id_/http%3A//toktumi.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Line2
 
@@ -123,4 +123,4 @@ Line2 may update this policy from time to time if our practices change or if cha
 
 #### Questions and Suggestions
 
-If you have questions or suggestions about this policy, you can contact us at: Line2, Inc., 230 California Street, Suite 500, San Francisco, CA 94111 support@Line2.com
+If you have questions or suggestions about this policy, you can contact us at: Line2, Inc., 535 Mission St 14th Floor, Unit 1926, San Francisco, CA 94105 support@Line2.com
