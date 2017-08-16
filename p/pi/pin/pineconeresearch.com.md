@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pineconeresearch.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212003352id_/https%3A//www.pineconeresearch.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pineconeresearch.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816045616id_/https%3A//www.pineconeresearch.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -168,7 +168,7 @@ We may change this Notice. Please take a look at the “Effective Date” at the
 If you have any questions about this Notice, please contact us:
 
   
-PineCone Research  
+Pinecone Research  
 250 East 5th Street, 9th Floor  
 Cincinnati, OH, 45202 
 
