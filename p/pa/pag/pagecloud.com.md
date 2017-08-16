@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagecloud.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603180626id_/http%3A//www.pagecloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagecloud.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816222412id_/http%3A//www.pagecloud.com/privacy-policy) for the most accurate reproduction.*
 
 # PageCloud - Privacy Policy
 
