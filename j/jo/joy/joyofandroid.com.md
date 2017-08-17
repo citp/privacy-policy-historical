@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627185058id_/http%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817133609id_/http%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
 
 # Privacy - JoyofAndroid.com
 
