@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the articlez.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018153454id_/http%3A//www.articlez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlez.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817210121id_/https%3A//www.articlez.com/privacy) for the most accurate reproduction.*
 
 # Articlez.com Privacy Policy
 
 Your privacy is important to everyone at Articlez.com. We are very serious about protecting any and all information you share with us.
 
-### Customer and Member Information:
+#### Customer and Member Information:
 
 Any information provided to us, such as your name and email address, address, phone number, required tax documents etc, is held in strict confidence and will not be sold, exchanged, transmitted or rented to third parties. This information will only be used by Articlez.com for providing the services we offer as described throughout this website.
 
-### Credit Card and Banking Information:
+#### Credit Card and Banking Information:
 
 _Articlez.com does not directly process payments, and therefore neither collects not has access to, any financial information you provide through our online ordering system to procure any of our services._
 
 We do maintain a record of your Paypal account email address but have no access to your personal information contained within that account.
 
-### Email:
+#### Email:
 
 We require that you confirm your request to receive email from Articlez.com.
 
@@ -32,7 +32,7 @@ Some or all of the following data may be tracked using cookies:
 
 
 
-### Third Party Advertising:
+#### Third Party Advertising:
 
 Use of cookies and web beacons by third parties in the advertising process:
 
@@ -48,14 +48,12 @@ _Articlez.com makes no claims regarding the privacy policies of any third party 
 
 _Articlez.com makes no claim as to the accuracy of information provided by third party contributors to this website._
 
-### Surveys:
+#### Surveys:
 
 From time to time Articlez.com may ask you to participate in surveys. Any information you provide via these surveys is totally optional, and 100% anonymous and is only used to gather data relating to providing better services to our customers.
 
-### Legal:
+#### Legal:
 
 _There may be rare occasions when we are required by law to disclose personal information to comply with a legal action that may have been served on our business operations._
 
 Articlez.com may choose to amend this policy from time to time. if significant changes to our privacy policy occur, we will notify those who have agreed to receive corresponded from us.
-
- Loading...
