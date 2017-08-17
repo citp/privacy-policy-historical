@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acurianhealth.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030141500id_/https%3A//acurianhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acurianhealth.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817191920id_/https%3A//acurianhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AcurianHealth | Your Guide For Getting Connected To Clinical Trials
 
-Updated: September 23, 2016
+Updated: June 8, 2017
 
 This privacy policy describes how Acurian, Inc. (“Acurian”) collects and uses the personal information you provide on our web sites: [www.acurian.com](http://www.acurian.com/), [www.acuriantrials.com](http://www.acuriantrials.com/), and [www.acurianhealth.com](http://www.acurianhealth.com/). Acurian’s primary mission is to increase awareness about, and facilitate participation, in clinical trials related to development of investigational drugs and therapies. Individuals entrust us with information of a personal and confidential nature, so we have adopted this Privacy Policy (“Policy”) to inform you about our practices in collecting, using and protecting such information. The Policy explains in general terms how we seek to comply with data privacy laws and regulations, including but not limited to national laws.
 
@@ -85,8 +85,7 @@ Upon request Acurian will provide you with information about whether we hold, or
 
 We sometimes refer to your consent to be contacted, to be included in a clinical trial, or to other use of your Personal Information as “opting in.” You may revoke your consent (i.e., “opt out”) at any time.
 
-The first time you provide us with information, you will have the ability to instruct us regarding other communications (e.g., requesting newsletters, etc.). You may opt-out from receiving our newsletters by clicking on the “unsubscribe” link located at the bottom of each newsletter. To completely opt out of our services, please send an email entitled “Unsubscribe” to [information@acurian.com](mailto:information@acurian.com)  
-
+The first time you provide us with information, you will have the ability to instruct us regarding other communications (e.g., requesting newsletters, etc.). You may opt-out from receiving our newsletters by clicking on the “unsubscribe” link located at the bottom of each newsletter. To completely opt out of our services, please send an email entitled “Unsubscribe” to [information@acurian.com](mailto:information@acurian.com)
 
 ### Information Security
 
@@ -97,10 +96,6 @@ We require you to select a username and password. To minimize the chance that so
 ### Data Protection Laws
 
 In jurisdictions with data protection laws, we will ensure that individuals can exercise all relevant informational rights regarding their Personal Information we process, including the rights of access and correction, to prevent direct marketing, block processing, and erase data. Acurian has executed Standard Contractual Clauses for the purpose of transferring personal information from the European Economic Area.
-
-### U.S. – Swiss Safe Harbor Framework 
-
-Acurian complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Acurian has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Acurian’s certification, please visit [https://safeharbor.export.gov/swisslist.aspx.](https://safeharbor.export.gov/swisslist.aspx)
 
 ### Links to Third Party Sites
 
@@ -120,13 +115,13 @@ All communications, queries, requests to exercise informational rights (e.g. acc
 
 
 
-### EU-US Privacy 
+### EU-US and Swiss US Privacy 
 
-Acurian (and its subsidiary, Panoply Health Limited) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Acurian is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+Acurian (and its subsidiary, Panoply Health Limited) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework. Acurian is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the EU-U.S. Privacy Shield Framework, to the Framework’s applicable Principles. Acurian is committed to subjecting all personal data received from Switzerland, in reliance on the Swiss-U.S. Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov/list.](https://www.privacyshield.gov/list)
 
-Acurian is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Acurian complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Acurian is responsible for the processing of personal data it receives, under the Privacy Shield Frameworks, and subsequently transfers to a third party acting as an agent on its behalf. Acurian complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and from Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Acurian is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Acurian may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Acurian is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Acurian may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
