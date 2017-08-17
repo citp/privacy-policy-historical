@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paynhire.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618011123id_/http%3A//www.paynhire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paynhire.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817124604id_/https%3A//www.paynhire.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Paynhire
 
