@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweettmakesthree.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617235745id_/http%3A//sweettmakesthree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweettmakesthree.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817065117id_/https%3A//sweettmakesthree.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Sweet T Makes Three
 
