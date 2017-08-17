@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaiboys.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816003900id_/http%3A//www.hentaiboys.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaiboys.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817155515id_/http%3A//www.hentaiboys.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect: We only keep your name and emailadress for support purpous only
 
-This notice applies to all information collected or submitted on Basicsense Holdings websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on Kamikaze Media websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name:   
 Email address:
@@ -28,4 +28,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 How To Contact Us: 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at webmaster@basicsenseholdings.com
+Should you have other questions or concerns about these privacy policies, please send us an email at webmaster@kamikazemedia.com
