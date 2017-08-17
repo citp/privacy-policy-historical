@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasthosts.co.uk privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220025823id_/https%3A//www.fasthosts.co.uk/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasthosts.co.uk privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817095044id_/https%3A//www.fasthosts.co.uk/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Fasthosts
 
@@ -31,7 +31,13 @@ We use information about you in the following ways:
   * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contact for such purposes.
 
 
-  * 3) With whom is the information shared?
+  * 3) Information we receive from other sources
+
+Fasthosts work alongside third parties (including business parties, service providers and fraud protection services) and we may receive information from them about you. These third parties may collect information about you including, but not limited to, your IP address, device-specific information, server logs, device event information, location information, unique application numbers, and local storage. These sources provide their features, which are incorporated on Our website and may have their own privacy statements.
+
+
+
+  * 4) With whom is the information shared?
 
 We may disclose your personal information to third parties:
 
@@ -43,11 +49,15 @@ We may disclose your personal information to third parties:
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or to protect the rights, property, or safety of Fasthosts, our customers, or others. This includes but is not limited to exchanging information with other companies and organisations for the purposes of fraud protection, credit risk reduction and dispute policies.
 
 
-  * 4) Use of cookies
+  * 5) Use of cookies
 
-Fasthosts uses cookies for various reasons, for example, cookies enable us to track information during the domain name registration and package sign-up process. These cookies do not track individual information. Cookies from Fasthosts can only be read by Fasthosts. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site and you will not be able to carry out a transaction with us unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website.
+Our cookie policy is applicable to all websites, messaging (online chats/emails) and services that we provide or are provided on Our behalf.
 
-If you do nothing other than read pages or download information while using this web site, we will capture and store information about your visit. This information will not identify you; it relates to:
+We use cookies and similar services to track customers’ use on Our website, analyse customer trends and obtain customer information.
+
+You may refuse to accept cookies by activating the setting on your browser which allows You to refuse the setting of cookies. However, if You select this setting You may be unable to access certain parts of Our site and You will not be able to carry out a transaction with Us unless you have adjusted Your browser setting so that it will refuse cookies, Our system will issue cookies when you log on to Our website.
+
+We use cookies to collect specific types of information including:
 
   * the Internet domain and IP address from which you access the web site;
   * the type of browser (Internet Explorer or Netscape) and operating system (Windows, UNIX) you use;
@@ -55,13 +65,15 @@ If you do nothing other than read pages or download information while using this
   * the pages you visit; and
   * the address of the web site from which you linked to us (if applicable).
 
-We use this information to make each visit more rewarding, and to provide us with information to help improve our service. We do not know (and do not want to know) the identities of people who visit us in this way.
+This is solely statistical data that enables Us to analyse customer trends and does not identify personally identifiable information.
 
-For further information about cookies, you may like to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We work closely with third parties who may also supply Us with analytical services. These third parties may provide Us with analytical cookies for Us to review.
+
+For further information about cookies, you may like to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 
 
-  * 5) Where we store your Personal Data
+  * 6) Where we store your Personal Data
 
 All information you provide to us is stored on our secured servers within Europe, including the United Kingdom. Any payment transactions will be encrypted. Credit card numbers are used for processing payment only and are not retained for marketing purposes.
 
@@ -71,13 +83,13 @@ Unfortunately, the transmission of information via the internet is not completel
 
 
 
-  * 6) Links
+  * 7) Links
 
 Fasthosts may provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies of these third party sites. Any information You supply on such sites will not be within our control.
 
 
 
-  * 7) How can you update the personal information you have provided to us?
+  * 8) How can you update the personal information you have provided to us?
 
 You must maintain the accuracy of your information and ensure all your details, including but not limited to, name, address, title, phone number, e-mail address and payment details are kept up to date at all times. You must do this by updating your personal details within your Fasthosts Control Panel.
 
@@ -85,7 +97,7 @@ The personal information we collect and maintain will be subject to the version 
 
 
 
-  * 8) Your rights
+  * 9) Your rights
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by e-mailing us at [datacontrol@fasthosts.com](mailto:datacontrol@fasthosts.com)
 
@@ -93,7 +105,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 
 
-  * 9) Contact Us
+  * 10) Contact Us
 
 Please e-mail any questions or comments you have about privacy to us at [datacontrol@fasthosts.com](mailto:datacontrol@fasthosts.com).
 
