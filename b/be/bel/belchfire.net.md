@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124085030id_/http%3A//www.ezthemes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818195702id_/http%3A//www.ezthemes.com/privacy.php) for the most accurate reproduction.*
 
 # EZthemes: Desktop Themes and more.... Privacy Page.
 
