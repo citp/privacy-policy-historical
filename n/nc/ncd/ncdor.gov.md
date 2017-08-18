@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncdor.gov privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428011818id_/http%3A//www.ncdor.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncdor.gov privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818052425id_/https%3A//ncdor.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # NCDOR Privacy Policy
 
@@ -27,7 +27,7 @@ We use this information to learn about the number of visitors to the site, the i
 
 ### International ACH Transaction (IAT) Rules
 
-It is the intent of the North Carolina Department of Revenue not to use the ACH system for transactions in violation of US Law, including the sanctions administered by the Office of Foreign Assets Control (OFAC). It is also the intent of the agency to be in compliance with the "International ACH Transaction (IAT) rules" that are part of the NACHA Operating Rules. Accordingly, all ACH payments made through this website are intended only for payments not associated with a foreign bank account, which would classify it as an "International ACH Transaction (IAT)" under the NACHA Operating Rules. Since this website's payment applications do not accommodate IAT transactions, payors that would be considered an IAT payor should use [alternative payment methods](https://web.archive.org/web/20170428011818id_/http%3A//www.ncdor.gov/alternate_payment.html) for remitting funds to the agency.
+It is the intent of the North Carolina Department of Revenue not to use the ACH system for transactions in violation of US Law, including the sanctions administered by the Office of Foreign Assets Control (OFAC). It is also the intent of the agency to be in compliance with the "International ACH Transaction (IAT) rules" that are part of the NACHA Operating Rules. Accordingly, all ACH payments made through this website are intended only for payments not associated with a foreign bank account, which would classify it as an "International ACH Transaction (IAT)" under the NACHA Operating Rules. Since this website's payment applications do not accommodate IAT transactions, payors that would be considered an IAT payor should use [alternative payment methods](https://web.archive.org/web/20170818052425id_/https%3A//ncdor.gov/alternate_payment.html) for remitting funds to the agency.
 
 ### E-mail
 
