@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615010215id_/http%3A//www.afroromance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818111838id_/https%3A//www.afroromance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chellaul
 
