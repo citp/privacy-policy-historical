@@ -1,41 +1,102 @@
-> *The following text is extracted and transformed from the 10dollarmall.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180304id_/http%3A//www.clothingunder10.com/Privacy-Policy-d7.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10dollarmall.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818215421id_/http%3A//www.vapenakedfish.com/privacy-policy) for the most accurate reproduction.*
 
-# Discount Women's and Juniors Clothing privacy policy.
+# Privacy Policy
 
-## Clothing Under 10 Privacy Policy
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-ClothingUnder10.com is dedicated to protecting your privacy rights. We greatly value our online visitors and collect information to better serve your buying needs and ensure that you have a positive shopping experience. ClothingUnder10.com guarantees that your shopping experience is safe and secure. At ClothingUnder10.com you can be assured that your transactional information is secure, consistent with current industry standard Secure Sockets Layer (SSL) encryption technology.
+## What personal information do we collect from the people that visit our blog, website or app?
 
-When visiting ClothingUnder10.com and trying to place an order, you will be asked to make an account with us and input personal data such as your name, billing address, shipping address, email address, telephone number, birth date, credit card or other form of payment information for purposes such as: providing you with updates on the items that you purchased, to process and ship orders, to send shipping confirmations, issue RMA numbers, provide general customer service and inform you of new features, promotions and special offers
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-When creating your account, you will have the option of Opting out from receiving promotional emails. To access general viewing of our site, we do not collect any personal information. However, we do gather non-personally identifiable navigational information such as IP address, service provider, browser version, and referring website, if any. This assists us in providing you with better service by knowing about where visitors go on our website, what products they view, and the time of the visit. 
+## When do we collect information?
 
-ClothingUnder10.com may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help customize the site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties for the purpose of providing you with relevant products and advertisements custom tailored to each visitor. 
+We collect information from you when you place an order, subscribe to a newsletter or enter information on our site.
 
-Cookies also allow us to store items in your shopping cart if you leave without checking out and display items that you have recently viewed. Most browsers allow you the option of disabling cookies, but we recommend that you keep it "turned on" to better assist you with your shopping. The information collected is only used to better serve your buying needs and ease your shopping experience with us online. 
+## How do we use your information?
 
-ClothingUnder10.com maintains special relationships with a number of secure third party partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, US Government policy compliance and shipping purposes.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-ClothingUnder10.com may share account or other information when we are required by law (e.g., in response to subpoenas, court orders, etc.) or to protect our interests or property. This may include sharing information, at ClothingUnder10.com's discretion, with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to export compliance, fraud, credit or debt collection.
-
-You agree that ClothingUnder10.com may use personal information provided by you in order to conduct appropriate anti-fraud and export compliance checks. Personal information that you provide may be disclosed to a credit reference, fraud prevention agency or US Government agency, which may keep a record of that information.
-
-ClothingUnder10.com also shares information with outside companies that perform services for ClothingUnder10.com. For example, when a customer signs up for our e-mail newsletters, ClothingUnder10.com will provide the customers e-mail address to third party e-mail distribution companies that transmit e-mails on behalf of ClothingUnder10.com. Your e-mail address will not be used by these companies for any purpose other than for the transmission of e-mails for ClothingUnder10.com.
-
-We may retain outside companies to assist us in managing our customer information database or to update and correct customer information for future marketing purposes. ClothingUnder10.com takes steps to ensure the confidentiality of your information and to make sure it is not used for other purposes.
-
-None of your credit card information is stored in any way by ClothingUnder10.com. When completing the checkout process, you will have an option to save your method of payment for future purchases. If you choose to save your payment information, a profile that includes billing, payment and shipping information will be created on a third party PCI DSS compliant payment processor - [Authorize.net](http://www.authorize.net/ "authorize.net"). Each profile is stored on their secure servers and assigned an ID that is used in place of all customer information. Each customer profile can include up to 10 payment profiles.  
+  * To administer a contest, promotion, survey or other site feature.
+  * To quickly process your transactions.
 
 
-ClothingUnder10.com will never SPAM or send unsolicited materials based on information collected at our site. Registrants may opt out of receiving materials from us at any time by contacting us with such request. Please contact us via e-mail at [support@clothingunder10.com](mailto:support@clothingunder10.com), by telephone 305-944-1616 or by Fax 305-944-4671. Include your name, address, and relevant information, and indicate "Do not mail".
 
-ClothingUnder10.com also uses cookies to identify visitors so that we may show display ads to people who have visited our site across the internet. If you no longer choose to receive display ads from ClothingUnder10.com, simply click on "AdChoices" icon on top right of the advertisement and select to "opt-out" of all future advertisements by us or a third party. 
+## Do we use 'cookies'?
 
-ClothingUnder10.com sends 3-4 promotional emails per week to keep our subscribers informed about the latest trends and sales. If you wish to no longer receive any promotional emails from ClothingUnder10.com, you can always click on "unsubscribe" link on the bottom of the newsletter or email support@clothingunder10.com with your email address and we will remove it from our database. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-By using ClothingUnder10.com you are agreeing to allow us access to your personal information as described in this privacy policy. We reserve the right to modify this privacy policy and related business practices at any time by posting updated text on this site.
+## We use cookies to:
 
-If you might have any questions or concerns, please contact our customer service department at [support@clothingunder10.com](mailto:support@clothingunder10.com)
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
 
-  
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+## If users disable cookies in their browser:
+
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders by contacting customer service
+
+## Third Party Disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+We do not include or offer third party products or services on our website.
+
+## Google
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+## California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+## According to CalOPPA we agree to the following:
+
+  * Users can visit our site anonymously.
+  * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+
+
+
+## Users will be notified of any privacy policy changes:
+
+On our privacy policy page.
+
+## Users are able to change their personal information:
+
+By logging in to their account.
+
+## How does our site handle do not track signals?
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+## Does our site allow third party behavioral tracking?
+
+It’s also important to note that we do not allow third party behavioral tracking.
+
+## COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+## We do not specifically market to children under 13.
+
+## Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+## In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+  * We will notify the users via in site notification within 30 business days.
+  * We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
 
