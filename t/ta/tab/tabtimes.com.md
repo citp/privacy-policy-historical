@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615022718id_/http%3A//tabtimes.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819014822id_/http%3A//tabtimes.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TabTimes
 
