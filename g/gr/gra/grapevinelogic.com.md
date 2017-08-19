@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grapevinelogic.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225191716id_/https%3A//www.grapevinelogic.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grapevinelogic.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819061825id_/https%3A//www.grapevinelogic.com/privacy_policy) for the most accurate reproduction.*
 
 # YouTube Influencer Marketing | Grapevine
 
