@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619172430id_/http%3A//www.neobits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819063518id_/http%3A//www.neobits.com/privacy) for the most accurate reproduction.*
 
 # Neobits.com is where business goes shopping. Offers the largest B2B catalog on the internet. Provides technology products, laboratory equipment, industrial and wireless infrastructure, software, audio-visual systems, materials and supplies from more than 10,000 manufacturers in 40,000+ categories. With over 5 million products and over $100 billion in inventory, we have what your business needs.
 
