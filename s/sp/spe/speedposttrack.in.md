@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedposttrack.in privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619081814id_/http%3A//speedposttrack.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedposttrack.in privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819065847id_/https%3A//www.speedposttrack.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SpeedPost Tracking
 
