@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awm.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531084830id_/http%3A//awm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820011606id_/http%3A//www.awm.com/privacy) for the most accurate reproduction.*
 
 # Privacy : AWM
 
