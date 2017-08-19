@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629070307id_/https%3A//www.velaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819205409id_/https%3A//www.velaro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Velaro Live Chat Software
 
@@ -10,7 +10,7 @@ Velaro is committed to ensuring that your privacy is protected. Should we ask yo
 
 ### What we collect
 
-**When you** visitor **our website, we may collect:**
+**When you** **visit  our website, we may collect:**
 
   * Name and job title.
   * Contact information including email address.
@@ -65,9 +65,8 @@ You may choose to restrict the collection or use of your personal information in
 
 **When using our website:**
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
   * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@velaro.com](mailto:support@velaro.com).
-  * You have a right to access the website data that we maintain about you, and may do so simply by emailing us at [support@velaro.com](mailto:support@velaro.com).
+  * You have a right to access the personal information that we maintain about you, and to correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Privacy Shield Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated. You may do so simply by emailing us at [support@velaro.com](mailto:support@velaro.com).
 
 
 
@@ -79,40 +78,23 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission (as a paying customer) or use our free service, where applicable by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. We will provide an individual opt-out or opt-in, choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. You may modify your auto-opt-in within your profile in the application profile settings.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission (as a paying customer) or you use our free service, where applicable by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. We will provide an individual opt-out or opt-in choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
 
-Velaro is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Velaro is potentially liable.
+Velaro is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shield Principles, Velaro is potentially liable.
 
-### EU-US Privacy Shield Framework
+### Privacy Shield Frameworks
 
 Velaro complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from European Union and Switzerland to the United States, respectively. Velaro has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
 To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
 
-In compliance with the EU-US Privacy Shield Principles, Velaro commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Velaro at:
+In compliance with the Privacy Shield Principles, Velaro commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Velaro at:
 
 Alex Bloom  
 8 Market Place, Suite 300  
 Baltimore Maryland 21202  
 [support@velaro.com](mailto:support@velaro.com)
 
-Velaro has further committed to refer unresolved privacy complaints under the US-EU Privacy Shield to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Velaro, please visit the BBB EU PRIVACY SHIELD web site at http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+Velaro has further committed to refer unresolved privacy complaints under the Privacy Shield to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Velaro, please visit the BBB EU PRIVACY SHIELD web site at http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
-
-### Swiss-US Privacy Shield
-
-Velaro complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.
-
-Velaro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
-
-In compliance with the US-Swiss Safe Harbor Principles, Velaro. commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Velaro at:
-
-Alex Bloom  
-8 Market Place, Suite 300  
-Baltimore Maryland 21202  
-[support@velaro.com](mailto:support@velaro.com)
-
-Velaro has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
