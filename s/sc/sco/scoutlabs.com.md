@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211015547id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819032005id_/https%3A//www.lithium.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lithium
 
@@ -9,6 +9,8 @@
 Effective Date: 11/07/2016
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=f626c3a0-4674-4a52-b5bd-eac5d2529682)
+
+Privacy Settings
 
 ## About Lithium [](https://privacy.truste.com/privacy-seal/validation?rid=eab59874-ae06-426b-9570-96dca67e143c "TRUSTe Privacy Certification")
 
@@ -121,6 +123,6 @@ We will retain your contact information for as long as your account is active or
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [privacy@lithium.com](mailto:privacy@lithium.com) or write us at the following address:
 
 Lithium Technologies, Inc.  
-225 Bush St., 15th Floor  
+225 Bush St., 14th Floor  
 San Francisco, CA 94104  
 USA 
