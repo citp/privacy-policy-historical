@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushingcandies.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618191307id_/http%3A//www.crushingcandies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushingcandies.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819112720id_/http%3A//www.crushingcandies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CrushingCandies.com
 
