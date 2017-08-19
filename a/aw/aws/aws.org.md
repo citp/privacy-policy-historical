@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032859id_/http%3A//www.aws.org/about/TermOfUse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819043445id_/https%3A//www.aws.org/about/TermOfUse) for the most accurate reproduction.*
 
 # AWS Terms of Use and Website Privacy Policy : About : American Welding Society
 
