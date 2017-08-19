@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620015720id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819203459id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
 
 # Reviews for Travel Products, Hotels, Restaurants and Tours
 
@@ -16,6 +16,9 @@ Protecting the privacy of the very young is important to me. For that reason, I 
 Please note that travelexperta.com contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage the users to be aware that when they leave the site that you read the privacy statements of each web site that might collect personally identifying information.
 
 This privacy statement applies solely to information collected by travelexperta.com. If you have any questions or concerns about the privacy policy, please contact: marinakuperman@gmail.com.
+
+  *   *   *   *   *   * 
+
 
 ## About Marina Kuperman Villatoro
 
