@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616073647id_/http%3A//www.petful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820005848id_/https%3A//www.petful.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**UPDATED, AUG. 10, 2017** — SEE UPDATE AT BOTTOM.
 
 Protecting your private information is our priority. This Statement of Privacy applies to Petful.com and governs data collection and usage. Petful.com is a News and Information site. By using Petful.com, you consent to the data practices described in this statement.
 
@@ -67,17 +69,19 @@ We respect your privacy and give you an opportunity to opt out of receiving anno
 
 Petful.com will occasionally update this Statement of Privacy to reflect company and customer feedback. Petful.com encourages you to periodically review this Statement to be informed of how Petful.com is protecting your information.
 
+ **UPDATE, AUG. 10, 2017:  **Petful.com collects data about your activities that does not personally or directly identify you when you visit our website, the website of entities for which we serve advertisements (our “Advertisers”), or the websites and online services where we display advertisements (“Publishers”). This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Retargeting”). We collect information about where you saw the ads we serve you and what ads you clicked on. You can opt out by visiting Google’s [Ads Settings](http://www.google.com/settings/ads) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
 ### Contact Information
 
 Petful.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Petful.com has not adhered to this Statement, please contact Petful.com at:
 
 Super Copy Editors LLC  
-2630 30th St. #3  
-Astoria, New York 11102
+116 Conselyea St. #3A  
+Brooklyn NY 11211
 
 Email Address:  
 [Contact Us](http://www.petful.com/contact/)
 
-_Effective as of July 03, 2016_
+ _Last updated: Aug. 10, 2017_
 
-**See Also:** [Petful.com Terms and Conditions](http://www.petful.com/terms-of-use-agreement/)
+ **See Also:** [Petful.com Terms and Conditions](http://www.petful.com/terms-of-use-agreement/)
