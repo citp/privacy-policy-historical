@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porndig.club privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104002id_/http%3A//porndig.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porndig.club privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819203005id_/http%3A//porndig.club/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - Porndig.Club Live sex chat, Amateur Webcam
 
