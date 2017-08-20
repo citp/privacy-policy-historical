@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacepalacelibrary.nl privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627170347id_/https%3A//www.peacepalacelibrary.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacepalacelibrary.nl privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820221037id_/https%3A//www.peacepalacelibrary.nl/privacy) for the most accurate reproduction.*
 
 # Peace Palace Privacy statement | Peace Palace Library
 
