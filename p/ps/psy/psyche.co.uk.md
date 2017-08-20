@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423050302id_/https%3A//psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820143524id_/https%3A//psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
-# Privacy Policy | Psyche.co.uk
+# Privacy Policy | Psyche
 
 **Privacy Statement**
 
@@ -10,7 +10,7 @@ This policy explains how we use any personal information we collect about you wh
 
 Information is collected from you when you register with us, order goods from us, sign up to receive updates or when you participate in competitions & surveys. This may include name, mailing address, telephone number, email address and card details.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilised and other similar information.
 
 Sensitive and private data is sent over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
