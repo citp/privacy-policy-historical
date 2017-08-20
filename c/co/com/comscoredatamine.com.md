@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comscoredatamine.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313194214id_/http%3A//www.comscoredatamine.com/About-comScore/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comscoredatamine.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820025539id_/http%3A//www.comscoredatamine.com/About-comScore/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - comScore, Inc
 
@@ -28,8 +28,11 @@ comScore has physical, electronic, and managerial security functions in place to
 **Children**  
 comScore understands the importance of protecting children’s privacy in the online interactive world. This Web site does not intentionally target or solicit to children 13 and younger.
 
+**International Visitors and the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks**  
+comScore complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area and Switzerland to the United States. To learn more, please view our [EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Statement](https://web.archive.org/content/download/39199/2259669/version/4/file/EN-Privacy+Shield+Statement+-+Comscore.pdf "Privacy Shield Statement"). 
+
 **Notification of Changes**  
- If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.
+If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.
 
 **Contacting Us**  
 If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a privacy inquiry.
