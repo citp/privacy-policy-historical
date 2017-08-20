@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184742id_/http%3A//www.whosoff.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821012302id_/http%3A//www.whosoff.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WhosOff and the WhosOff.com Service
+# Privacy policy governing WhosOff and the WhosOff.com service
 
-###  PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR SITE
+Please read this privacy policy carefully before using this site
 
 X:drive Computing Limited (we) are committed to protecting and respecting the privacy of our customers, their staff and other guest users of our site.
 
-This policy (together with our [Terms of Website Use](http://www.whosoff.com/terms-of-use/)  and [Cookie Policy](http://www.whosoff.com/cookie_policy/) ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.whosoff.com (our site) you are accepting and consenting to the practices described in this policy. 
+This policy (together with our [Terms of Website Use](http://www.whosoff.com/terms-of-use/)   and [Cookie Policy](http://www.whosoff.com/cookie_policy/)  ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.whosoff.com (our site) you are accepting and consenting to the practices described in this policy. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is X:drive Computing Limited, a company registered in England and Wales with company number 03736333 whose registered office is at 2nd Floor Rear Office, 29-30 Watling Street, Canterbury, Kent, CT1 2UD.  Please note though that if you are a staff member of one of our customers, your employer is the data controller for the purposes of the Act and we merely process the data on their behalf as part of your and their use of our services.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is X:drive Computing Limited, a company registered in England and Wales with company number [](dial:03736333) [03736333](dial:03736333) whose registered office is at Office D+E, 2nd Floor, Beer Cart Building, 1 Beer Cart Lane, Canterbury, Kent CT1 2NY. Please note though that if you are a staff member of one of our customers, your employer is the data controller for the purposes of the Act and we merely process the data on their behalf as part of your and their use of our services.
 
 #### INFORMATION WE MAY COLLECT FROM YOU
 
@@ -92,15 +92,13 @@ We may disclose your personal information to third parties including:
 
 • If X:drive Computing Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website [Terms of use](http://www.whosoff.com/terms-of-use/)  or [Terms and Conditions](http://www.whosoff.com/terms_and_conditions/) of Supply and any other agreements; or to protect the rights, property, or safety of X:drive Computing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website [Terms of use](http://www.whosoff.com/terms-of-use/)   or [Terms and Conditions](http://www.whosoff.com/terms_and_conditions/)  of Supply and any other agreements; or to protect the rights, property, or safety of X:drive Computing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 We may also share anonymised aggregate information about our users, for example the number of users of our website or services on a given day, however we do not share personal information with third parties for marketing purposes.
 
 #### WHERE WE STORE YOUR PERSONAL DATA
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing..
-
-All information you provide to us is stored on our secure servers which only a limited number of our employees and sub-contractors can access.  All information transmitted will be encrypted using SSL technology.
+All information you provide to us is stored on our secure servers in the UK which only a limited number of our employees and sub-contractors can access.  All information transmitted will be encrypted using SSL technology.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -112,7 +110,7 @@ We do not share personal information with third parties for marketing purposes.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
- **ACCESS TO INFORMATION**
+**ACCESS TO INFORMATION**
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
@@ -127,11 +125,3 @@ Any changes we may make to this policy in the future will be posted on this page
 Questions, comments and requests regarding this policy are welcomed and should be addressed to support@whosoff.com.
 
 Thank you for visiting our site.
-
-**Not sure whether WhosOff is right for your company?**  
-From carpet fitters to blue chip household names, with over 65,000 members why not let our users tell you all about it.  
-[](https://web.archive.org/web/20150407184742id_/http://www.whosoff.com/case_studies/)
-
-**Stay in touch**  
-Stay up to date with our latest features and more.  
-
