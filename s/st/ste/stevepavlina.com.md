@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118220024id_/https%3A//www.stevepavlina.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820042132id_/https%3A//www.stevepavlina.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Steve Pavlina
+# Privacy Statement - Steve Pavlina
 
 ## Short Version
 
