@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622090152id_/https%3A//www.aprimo.com/aprimo-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820193200id_/https%3A//www.aprimo.com/aprimo-privacy-notice) for the most accurate reproduction.*
 
 # Aprimo Privacy Notice
 
@@ -42,4 +42,4 @@ It is our policy to post any changes we make to our Privacy Notice on the Sites.
 
  ** _Contacting Us_**
 
-Please contact us using our [Contact Us](http://www.aprimo.com/contact-us/) page.
+Please contact us using our [Contact Us](https://www.aprimo.com/contact-us/) page.
