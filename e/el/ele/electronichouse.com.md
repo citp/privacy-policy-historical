@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107065027id_/https%3A//www.electronichouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820202836id_/https%3A//www.electronichouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Electronic House
 
