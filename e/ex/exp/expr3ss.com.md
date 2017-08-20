@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expr3ss.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611155831id_/https%3A//www.expr3ss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expr3ss.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820211821id_/http%3A//www.expr3ss.com/privacy) for the most accurate reproduction.*
 
 # Expr3ss! Privacy
 
