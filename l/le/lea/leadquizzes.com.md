@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadquizzes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161638id_/https%3A//www.leadquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadquizzes.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822002234id_/https%3A//www.leadquizzes.com/privacy-policy) for the most accurate reproduction.*
 
 # LeadQuizzes | Privacy Policy
 
