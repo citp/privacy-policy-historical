@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waggishworld.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613023249id_/http%3A//www.waggishworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waggishworld.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821060548id_/http%3A//www.waggishworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Waggish World
 
