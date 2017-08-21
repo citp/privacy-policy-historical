@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219114036id_/https%3A//arcserve.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821070238id_/https%3A//arcserve.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Arcserve
 
@@ -67,6 +67,10 @@ You can set your browser to decline cookies if you prefer. If you do so, you may
 ### Public Forums
 
 Portions of this website make chat rooms, forums, blogs, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
+
+### Arcserve® Product Improvement Program
+
+Customers can participate in Arcserve’s Product Improvement Program [“APIP”] to help Arcserve improve its products & services. This program will collect usage data from customer environments, which will be used by Arcserve to improve its products & services. For those customers who ‘opt-in’, Arcserve will collect data that typically resides in the product’s database. Data extracted from the customer environment (WW) is encrypted, zipped and sent over a HTTPS connection to an Amazon S3 instance in United States of America. Information collected from the customer will NOT be shared externally, and will be contained within Arcserve. The type of data being collected may vary between products or solutions, but the management system would remain the same (as described above). Arcserve does not collect personally identifiable information, and customers can always ‘opt-out’ at any time in the future. When customers ‘opt-out’, all data collected, thus far, will be removed. 
 
 ### Contacting Us
 
