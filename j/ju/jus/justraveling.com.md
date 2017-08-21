@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justraveling.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621145525id_/http%3A//www.justraveling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justraveling.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821100423id_/http%3A//www.justraveling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Justraveling
 
@@ -31,6 +31,6 @@ We are committed to ensure that the confidentiality of personal information is p
 
 If you have any questions regarding this Privacy Policy, please [send us an email](mailto:maxixl@jusxtravxelixng.com).
 
-**Updated, May 2, 2016**
+**Last modified: May 2, 2016**
 
 This website uses cookies to improve your experience. We'll assume you're fine with this, but you can opt-out if you wish. OK -or- [Learn More](https://web.archive.org/privacy-policy/)
