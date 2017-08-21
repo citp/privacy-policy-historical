@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021935id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821072929id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & Practices
 
@@ -140,7 +140,7 @@ If you have any additional questions or concerns related to this statement and/o
 Address: 6300 Interfirst Dr.  
 Ann Arbor, MI 48108  
 Phone: 1-734-780-8000  
-E-Mail: [techstreet.service@tr.com](mailto:techstreet.service@tr.com)
+E-Mail: [techstreet.service@clarivate.com](mailto:techstreet.service@clarivate.com)
 
 ### PRIVACY STATEMENT CHANGES
 
