@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahealthconnector.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602113228id_/https%3A//www.mahealthconnector.org/site-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahealthconnector.org privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821105634id_/https%3A//www.mahealthconnector.org/site-policies/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy and Notice of Privacy Practices – Massachusetts Health Connector
 
@@ -30,7 +30,7 @@ This site collects voluntary information from you through surveys and e-mails.
 
 ## Survey and E-mail
 
-This site collects voluntary information from you through surveys posted at this website and through any e-mail messages you choose to send to the Massachusetts Health Connector. Surveys may collect personally identifiable information you voluntarily submit, such as name, e-mail address or phone number, so that we may contact you for follow up to your question, concern or recommendation. Any e-mail messages sent by you to this site will contain personally identifiable information such as your e-mail address and any other information you choose to give us to help us answer your inquiry.
+This site collects voluntary information from you through surveys posted at this website and through any e-mail messages you choose to send to the Massachusetts Health Connector. Surveys may collect personally identifiable information you voluntarily submit, such as name, e-mail address or phone number, so that we may contact you for follow-up to your question, concern or recommendation. Any e-mail messages sent by you to this site will contain personally identifiable information such as your e-mail address and any other information you choose to give us to help us answer your inquiry.
 
 ## Information Automatically Collected and Stored by this Site
 
@@ -61,11 +61,11 @@ For questions about your privacy while using this website please contact the Hea
 
 
 
-#### _Effective May 2015_
+#### _Last modified January 3, 2017_
 
 **THIS NOTICE DESCRIBES HOW INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED, AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
 
-The Health Connector has personally identifiable information about you because it provides you access to health insurance through its role as a health insurance Marketplace. Personally identifiable information (“PII”) includes things such as your name, social security number, and address. The PII about you that the Health Connector collects includes information you provided on your application for coverage, and information about what health plan you enroll in, and the premium you pay. **By law the Health Connector must protect the privacy of your personally identifiable information and provide you with notice of our legal duties and privacy practices**. This notice explains your rights and our legal duties and privacy practices.
+The Health Connector has personally identifiable information about you because it provides you access to health insurance through its role as a health insurance Marketplace. Personally identifiable information (“PII”) includes things such as your name, social security number, and address. The PII about you that the Health Connector collects includes information you provided on your application for coverage, and information about what health plan you enroll in, and the premium you pay. **By law, the Health Connector must protect the privacy of your personally identifiable information and provide you with notice of our legal duties and privacy practices**. This notice explains your rights and our legal duties and privacy practices.
 
 ## Required and Permitted Uses and Disclosures
 
@@ -79,7 +79,7 @@ We may use and disclose PII in a number of ways to carry out our responsibilitie
 
   * with public health authorities, when authorized by law;
   * with health oversight agencies, for oversight activities authorized by law;
-  * in response to judicial or administrative order, or lawful process, such as a subpoena;
+  * in response to a judicial or administrative order, or lawful process, such as a subpoena;
   * for research studies that meet all privacy requirements;
   * to prevent or respond to a serious and imminent health or safety emergency; or
   * to tell you about new or changed benefits and services or health care choices.
@@ -115,13 +115,16 @@ For more information about your rights, and about how to request to see, correct
 
 The Health Connector must abide by the terms of this notice. The Health Connector may change how we use and share your health information. If the Health Connector makes important changes, we will revise our notice and will provide you a new notice if you are participating in our programs at the time of the revision. That new notice will apply to all of the PII that the Health Connector has about you.
 
-The Health Connector takes your privacy very seriously. If you would like to exercise any of the rights we describe in this notice, or if you feel that the Health Connector has violated your privacy rights, contact the Health Connector in writing at the following address:
+The Health Connector takes your privacy very seriously. If you would like to exercise any of the rights we describe in this notice, or if you feel that the Health Connector has violated your privacy rights, contact the Health Connector in writing at the following address or by email:
 
-Privacy Officer  
-Commonwealth Health Insurance Connector Authority  
-P.O. Box 960484  
-Boston, MA 02196  
-Attn: Privacy Officer
+**Mail:**
+
+Attn: Privacy Officer  
+Massachusetts Health Connector Compliance Unit  
+P.O. Box 960189  
+Boston, MA 02196
+
+**Email:** [ConnectorPrivacy@state.ma.us](mailto:ConnectorPrivacy@state.ma.us)
 
 Filing a complaint or exercising your rights will not affect any health insurance coverage you have through the Health Connector.
 
