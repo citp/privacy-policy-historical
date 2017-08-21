@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealab.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621140826id_/http%3A//www.idealab.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealab.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821034303id_/https%3A//www.idealab.com/privacy.php) for the most accurate reproduction.*
 
 # Idealab | Privacy Policy
 
