@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runningtothekitchen.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610140617id_/http%3A//www.runningtothekitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningtothekitchen.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822054307id_/https%3A//www.runningtothekitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Running to the Kitchen
+# Privacy Policy - Running to the Kitchen®
 
 Thank you for visiting Running to the Kitchen.
 
