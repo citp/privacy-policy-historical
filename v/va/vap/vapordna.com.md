@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapordna.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606135327id_/http%3A//www.vapordna.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapordna.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822105712id_/http%3A//www.vapordna.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -67,8 +67,10 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160606135327id_/http%3A//www.vapordna.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20170822105712id_/http%3A//www.vapordna.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
 By using our site, you consent to our privacy policy.
+
+VaporDNA reserves the right to refuse service to anyone. 
