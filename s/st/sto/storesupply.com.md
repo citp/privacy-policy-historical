@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314182354id_/https%3A//www.storesupply.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822234908id_/https%3A//www.storesupply.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# PrivacyPolicy
+# Privacy Policy
 
 **Store Supply Warehouse Privacy Policy**
 
 **Introduction**
 
-Store Supply Warehouse, LLC (Store Supply Warehouse) knows that your privacy is important to you, as it is a critical component to any transaction.  Customers entrust our company with sensitive information and we are committed to maintaining that level of trust.  To protect the privacy of the visitors (“you”) to the Store Supply Warehouse websites at www.storesupply.com and www.sswdealersupply.com (referred to, individually and collectively, as the “Website”), Store Supply Warehouse (“we/us/our”) has created this Privacy Policy (“Privacy Policy”) to provide an outline of the types of information you may provide to us, explain our online information practices, and explain the choices you can make about the way your information is collected and used. 
+Store Supply Warehouse, LLC (Store Supply Warehouse) knows that your privacy is important to you, as it is a critical component to any transaction.  Customers entrust our company with sensitive information and we are committed to maintaining that level of trust.  To protect the privacy of the visitors (“you”) to the Store Supply Warehouse websites at www.storesupply.com, www.sswdealersupply.com, and www.sswgoodwill.com (referred to, individually and collectively, as the “Website”), Store Supply Warehouse (“we/us/our”) has created this Privacy Policy (“Privacy Policy”) to provide an outline of the types of information you may provide to us, explain our online information practices, and explain the choices you can make about the way your information is collected and used. 
 
 This Privacy Policy does not apply to information collected from you offline, to websites that do not link to this Privacy Policy or to third-party websites to which the Website may link.  Your use of this Website is subject to this Privacy Policy and the Website’s [terms and conditions](http://www.sswdealersupply.com/liabilitydisclaimer.aspx).
 
@@ -16,13 +16,15 @@ During the ordering process, we receive certain shipping and financial informati
 
 Periodically, Store Supply Warehouse will sponsor sweepstakes or contests and links to those sweepstakes or contests will be included on this Website.  The specific rules posted with the particular sweepstakes or contests will apply to entrants and will supersede the Privacy Policy and terms and conditions posted on this Website.
 
-Through the “Email Offers” link on the Website, you may subscribe to receive periodic promotional emails offered by Store Supply Warehouse.  We will retain the email address and zip code information submitted by you to Store Supply Warehouse through the “Email Offers” link for purposes of sending you the promotional emails, for tracking recipient geographic information, and periodically sending you surveys through our third-party provider so that Store Supply Warehouse may better serve you.  All such promotional emails will contain an opt-out option whereby the recipient can choose to opt out of receiving all such future emails to the submitted recipient email address.
+Through the “Email Offers” link on the Website, you may subscribe to receive periodic promotional emails offered by Store Supply Warehouse.  We will retain the email address and zip code information submitted by you to Store Supply Warehouse through the “Email Offers” link for purposes of sending you the promotional emails, for tracking recipient geographic information, and periodically sending you surveys through our third-party provider so that Store Supply Warehouse may better serve you.  We also will use this information to improve our products and services.  All such promotional emails will contain an opt-out option whereby the recipient can choose to opt out of receiving all such future emails to the submitted recipient email address.
 
 If you choose to contact us through our “Contact Us” link, we collect your name, email address, postal address, telephone number, and the contents of your message.  We use the information obtained when you contact us through the “Contact Us” link to process and respond to your suggestion or customer service request.  We may respond to you by phone, email, or postal mail, depending on the information you choose to submit.  We also will use this information to improve our products and services.  In accordance with our Website terms and conditions, we also reserve the right to use your name and comments in promotional material for Store Supply Warehouse.
 
 Potential future employees of Store Supply Warehouse may also choose to submit an employment application on the Website.  The pages listing employment opportunities or the “Careers” pages are operated by a third party partner.  When you visit those pages, you are visiting a separate website and are subject to the terms and conditions and privacy policy of that site.
 
 Your Application Information, once delivered to us, is used only to process your employment request, which includes corresponding with you to make arrangements for your association with us or to notify you of the results of our review of your application.  The information may be printed and stored, and administrative personnel may review the information.
+
+In some circumstances, we may share your information with certain third parties to assist us in providing our products or services on your behalf or to otherwise improve your experience on the Website.
 
 **Security of Your Information**
 
@@ -32,13 +34,13 @@ While we will work to protect your data as set forth herein, it is important for
 
 **Other Information Collected**
 
-We may from time to time contract with third-party providers to provide you with a more relevant and interesting experience on the Website.  This means that Store Supply Warehouse may place a cookie on your browser, or use a web beacon, to collect information about your use of the Website so that Store Supply Warehouse can provide advertising about products and services tailored to your interest (including, without limitation, products and services offered by Store Supply Warehouse and its affiliates).
+Store Supply Warehouse may place a cookie on your browser, use a web beacon or use similar technology to administer the Website, analyze trends, track user movements around the Website or otherwise collect information about your use of the Website so that Store Supply Warehouse can provide advertising about products and services tailored to your interest (including, without limitation, products and services offered by Store Supply Warehouse and its affiliates), improve our products and services and improve your user experience with us.
 
-Cookies are pieces of data stored on the user’s hard drive containing information about the user.  For instance, by setting a cookie on the Website, the user would not have to log in a password more than once, thereby saving time while on the Website.  If a user rejects the cookie, they may still use the Website.  Usage of a cookie is in no way linked to any personally identifiable information while on the Website.  You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies.  The Help feature on most browsers will provide instructions or tutorials to assist you with managing cookies.
+Cookies are pieces of data stored on the user’s hard drive containing information about the user.  For instance, by setting a cookie on the Website, the user would not have to log in a password more than once, thereby saving time while on the Website.  If users reject the cookie, they may still use the Website.  Usage of a cookie is in no way linked to any personally identifiable information while on the Website.  You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies.  The Help feature on most browsers will provide instructions or tutorials to assist you with managing cookies.
 
-If you click on a link on the Website provided by a third party and leave the Website, whether through a link or through visiting another website framed within the Website, you are subject to the privacy policies of these third parties.  We do not have responsibility for or access to the information collected by these third parties.
+If you click on a link on the Website provided by third parties and leave the Website, whether through a link or through visiting another website framed within the Website, you are subject to the privacy policies of these third parties.  We do not have responsibility for or access to the information collected by these third parties.
 
-Additionally, certain non-personal information of yours is also recorded by the standard operation of the internet servers of Store Supply Warehouse.  The information tracked includes the visitor’s internet protocol (IP) addresses, the type of operating system (e.g., iOS, Android, Windows), the type of browser (e.g., Internet Explorer, Chrome, Firefox, Safari), the Internet Service Provider (ISP), the date/time stamp, referring/exit pages, and number of clicks.  Like many other websites, Store Supply Warehouse makes use of the log files.  We use the log files to analyze trends, administer the Website, track user movements, and gather broad demographic information for comprehensive use.
+Additionally, certain non-personal information of yours is also recorded by the standard operation of the internet servers of Store Supply Warehouse.  The information tracked includes the visitor’s internet protocol (IP) addresses, the type of operating system (e.g., iOS, Android, Windows), the type of browser (e.g., Internet Explorer, Chrome, Firefox, Safari), the Internet Service Provider (ISP), the date/time stamp, referring/exit pages, and number of clicks.  Like many other websites, Store Supply Warehouse makes use of the log files.  We use the log files to analyze trends, administer the Website, track user movements, gather broad demographic information for comprehensive use, including to improve our products and services and improve your user experience with us.
 
 **Google Analytics**
 
@@ -61,3 +63,5 @@ Do Not Track (DNT) is a privacy preference that users can set in their web brows
 We reserve the right to change our Privacy Policy from time to time.  Any changes to our Privacy Policy will be effective and applicable upon change of the Privacy Policy as accessible through the Website.
 
 **If you have any questions regarding the security of user information on this site, please email us at**[ **contactus@storesupply.com**](mailto:contactus@storesupply.com) **.**
+
+Last updated:  November 22, 2016.
