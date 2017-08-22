@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the audiobooks.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311070958id_/http%3A//audiobooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiobooks.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822233144id_/https%3A//www.audiobooks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Audiobooks Inc. d/b/a audiobooks.com (“audiobooks.com”/“we”/”us”) is committed to protecting your privacy. We make the website www.audiobooks.com (the “Website”) and audiobooks.com mobile application (“App”) available together with our services as further described in our Terms of Use, located at http://www.audiobooks.com/terms (the “Services”). This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website and Services. 
+Audiobooks Inc. d/b/a audiobooks.com (“audiobooks.com”/“we”/”us”) is committed to protecting your privacy. We make the website www.audiobooks.com (the “Website”) and audiobooks.com mobile application (“App”) available together with our services as further described in our Terms of Use, located at https://www.audiobooks.com/terms (the “Services”). This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website and Services. 
 
 ## Consent: By using the Website or our Services you consent to the use of your Personal Information as described in this Privacy Policy.
 
