@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgv-europe.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622115503id_/https%3A//en.voyages-sncf.com/media/pdf/en/charte_confidentialite_EN.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgv-europe.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822051612id_/https%3A//en.voyages-sncf.com/media/pdf/en/charte_confidentialite_EN.pdf) for the most accurate reproduction.*
 
 # ARTICLE 1 - USE OF DATA
 
