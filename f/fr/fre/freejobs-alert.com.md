@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freejobs-alert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202502id_/http%3A//www.freejobs-alert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejobs-alert.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822221810id_/https%3A//www.freejobs-alert.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Govt Jobs Alert
+# Privacy Policy - Free Jobs Alert
 
 ### Privacy Policy
 
