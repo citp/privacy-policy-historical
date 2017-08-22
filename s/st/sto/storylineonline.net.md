@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storylineonline.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042611id_/http%3A//www.storylineonline.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storylineonline.net privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822221819id_/http%3A//www.storylineonline.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Storyline Online
+# Storyline Online
 
 Your privacy is important to us.  As a 501(c)(3) organization, we are not subject to rules set forth in the Children’s Online Privacy Protection Act (COPPA), but we are still committed to providing its protections to our users.  Here are some ways that your information may be used on this site.
 
