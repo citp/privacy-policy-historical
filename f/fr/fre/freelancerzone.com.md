@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancerzone.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429115943id_/http%3A//www.freelancerzone.com/pages/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancerzone.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822155054id_/http%3A//www.freelancerzone.com/pages/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Outsource Projects, Post Jobs, Hire Programmers, Find Web Programming Freelancers & Developers | Fre
 
