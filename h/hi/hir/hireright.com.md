@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622171818id_/https%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822070827id_/https%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # HireRight Privacy Policy | HireRight
 
