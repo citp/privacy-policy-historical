@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613071711id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823184625id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
 
 # Privacy Policy - Virtacore
 
