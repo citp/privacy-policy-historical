@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stemformatics.org privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609000840id_/http%3A//www.stemformatics.org/contents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stemformatics.org privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823225345id_/http%3A//www.stemformatics.org/contents/privacy_policy) for the most accurate reproduction.*
 
 # Stemformatics - Privacy Policy
 
