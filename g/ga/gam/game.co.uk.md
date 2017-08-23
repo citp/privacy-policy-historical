@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628171631id_/https%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823081837id_/https%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # GAME Help
 
