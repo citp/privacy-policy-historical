@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvhardware.net privacy policy that was archived on 2012-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120716202851id_/http%3A//www.dvhardware.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvhardware.net privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824012302id_/https%3A//www.dvhardware.net/privacy.html) for the most accurate reproduction.*
 
 # DV Hardware - Privacy policy
 
