@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachforamerica.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620035735id_/https%3A//www.teachforamerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachforamerica.org privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823075713id_/https%3A//www.teachforamerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teach For America
 
 ## TEACH FOR AMERICA PRIVACY POLICY
 
-At Teach For America, we value your support and respect your privacy rights. To demonstrate our commitment to protecting your rights, we created this privacy policy (" **Privacy Policy** "),which explains how we treat the information collected and received from your use of our website [www.teachforamerica.org](http://www.teachforamerica.org/), internal summit websites, and Teach For America store [www.teachforamericastore.com](http://www.teachforamericastore.com/),(collectively, the " **Website** "). This Privacy Policy applies only to the Website, and we are not responsible for the practices of persons, companies, or websites that Teach For America does not control, manage, or employ. Except as set forth in this Privacy Policy, our Terms of Use [Agreement](http://www.tfanet.org/TFACommon/re_content/termsandconditions.html) (" **Terms of Use** ") and other published guidelines, we do not release personal information about our users without obtaining their written permission.
+At Teach For America, we value your support and respect your privacy rights. To demonstrate our commitment to protecting your rights, we created this privacy policy (" **Privacy Policy** "), which explains how we treat the information collected and received from your use of our website [www.teachforamerica.org](http://www.teachforamerica.org/), internal summit websites, and Teach For America store [www.teachforamericastore.com](http://www.teachforamericastore.com/), (collectively, the " **Website** "). This Privacy Policy applies only to the Website, and we are not responsible for the practices of persons, companies, or websites that Teach For America does not control, manage, or employ. Except as set forth in this Privacy Policy, our Terms of Use [Agreement](http://www.tfanet.org/TFACommon/re_content/termsandconditions.html) (" **Terms of Use** ") and other published guidelines, we do not release personal information about our users without obtaining their written permission.
 
 **What Information this Privacy Policy Covers**
 
@@ -88,7 +88,7 @@ If you have any privacy-related questions or unresolved problems, you may contac
 
 **Changing Our Privacy Policy**
 
-Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any change, update, or modification will be effective immediately upon posting on our Website. We will notify you of any material change to this Privacy Policy by posting a notice on the first page of our Website's homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page). ). **Be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.**
+Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any change, update, or modification will be effective immediately upon posting on our Website. We will notify you of any material change to this Privacy Policy by posting a notice on the first page of our Website's homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page).  **Be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.**
 
 **International Users**
 
