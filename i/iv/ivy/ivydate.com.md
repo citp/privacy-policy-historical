@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ivydate.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718035137id_/https%3A//www.ivy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivydate.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823064302id_/https%3A//www.ivy.com/privacy) for the most accurate reproduction.*
 
-# Ivy
+# IVY
 
 ### Privacy Policy
 
@@ -10,7 +10,7 @@
 
 IvyConnect, Inc. (“IvyConnect” or “we,” “us” or “our”) knows that You, our user (“You”) care about how information regarding You is used and shared, and we appreciate Your trust that we will do so carefully and sensibly when You share information via www.ivyconnect.com, www.ivydate.com, www.ivygive.com, www.ivycard.com and www.ivysocial.com including all extensions of such URLs, subdomains and mobile versions thereof (the “Websites”).
 
-If You have questions or concerns regarding this privacy policy (the “Privacy Policy”), please contact us via the following link www.ivyconnect.com/contact.
+If You have questions or concerns regarding this privacy policy (the “Privacy Policy”), please contact us via the following link www.ivy.com/contact.
 
 ## 2\. Information We Collect.
 
@@ -152,4 +152,4 @@ Your continued use of any portion of our Websites following posting of the updat
 
 Your use of our Websites or our Services, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable Terms of Use. BY USING OUR WEBSITE OR SERVICES, YOU ACCEPT THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THE APPLICABLE TERMS OF USE.
 
-Effective Date: 07/18/2014
+Effective Date: 08/23/2017
