@@ -1,31 +1,40 @@
-> *The following text is extracted and transformed from the summerthat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051415id_/http%3A//summerthat.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerthat.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824043317id_/http%3A//summermaeconsulting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Summer That
+# Privacy Policy - Summer Mae Consulting
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at summer.dumont@gmail.com.
+I am committed to keeping all your personal details safe and secure. My privacy policy strictly protects the security of your personal information and honors your choices for its intended use. I carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-At SummerThat.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SummerThat.com and how it is used.
+### COLLECTING YOUR PERSONAL INFORMATION
 
-**Log Files**  
-Like many other Web sites, SummerThat.com makes use of log files.  The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information.  IP addresses, and other such information are not linked to any information that is personally identifiable.
+I am committed to protecting your privacy. I will only use the information that I collect about you lawfully (in accordance with the Data Protection Act 1998). I will not pass on your details to any third party and do not send out marketing e-mails to customers unless they have registered to receive such material, purchased from me, or downloaded one of my free or paid products.
 
-**Cookies and Web Beacons**  
-SummerThat.com does not use cookies.
+The type of information I ‘may’ collect about you includes:
 
-**DoubleClick DART Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on SummerThat.com.  Google’s use of the DART cookie enables it to serve ads to users based on their visit to SummerThat.com and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Your full name  
+Your e-mail address  
+Your postal address
 
-Some of our advertising partners may use cookies and web beacons on our site.  Our advertising partners include:  
-Google Adsense  
-Commission Junction  
-Linkshare
+Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at summer@summerthat.com. If you find any inaccuracies we will delete or correct it promptly.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on SummerThat.com send directly to your browsers.  They automatically receive your IP address when this occurs.  Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+### HOW I CONTROL YOUR PERSONAL INFORMATION
 
-SummerThat.com has no access to or control over these cookies that are used by third-party advertisers.
+I will not use your personal information for any other reason other than to contact you. We do not sell, give away or rent your email address to any third party. If in the future I did for any reason wish to rent, sell or use your email address for any other purpose we will ask you for your permission first.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.  SummerThat.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+### HOW WE USE YOUR PERSONAL INFORMATION
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Your personal information is used for four main purposes and they are as follows:
 
-[ ](http://twitter.com/share?url=http://summerthat.com/about/privacy-policy/&text=Privacy%20Policy "Click here if you like this article.")
+  1. To send out information, recommendations and resources to you.
+  2. To provide assistance to you after you have purchased products from me.
+  3. To help me create and deliver content most relevant to you.
+  4. To enlighten you about new products, services, tool, upgrades, special offers and information which I feel may be of use to you.
+
+
+
+I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to:
+
+(a) Conform to the edicts of the law or comply with legal process served on summerthat.com and summermaeconsulting.com ;
+
+(b) Protect and defend the rights or property of summerthat.com and summermaeconsulting.com ;
+
+(c) Act in urgent circumstances to protect the personal safety of users of summerthat.com and summermaeconsulting.com.
