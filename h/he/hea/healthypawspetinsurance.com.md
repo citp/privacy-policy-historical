@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128155044id_/https%3A//www.healthypawspetinsurance.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824032559id_/https%3A//www.healthypawspetinsurance.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Healthy Paws Pet Insurance Privacy Policy
 
-HEALTHY PAWS PET INSURANCE, LLC As of April 2016 
+HEALTHY PAWS PET INSURANCE, LLC As of March 2017 
 
 OUR PRIVACY POLICIES AND PRACTICES 
 
