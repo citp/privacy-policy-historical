@@ -1,64 +1,50 @@
-> *The following text is extracted and transformed from the smut.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915004013id_/http%3A//www.smut.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smut.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824091749id_/https%3A//cams.smut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Live Adult Video Chat | Hot Web Cam Sex Shows Privacy Policy
 
-**Privacy Policy Statement**  
-This website (the "Site") is owned by Storm Media, Ltd. 
+We know that protecting your privacy is very important to you.
 
-Our postal address is:  
-2632 NW 9th Ln  
-Wilton Manors FL 33311
+In the site registration process we request information including your e-mail address.
 
-We can be reached via e-mail at [support@stormmedia.com](mailto:support@stormmedia.com)
+When you visit the site, we may (like many other websites) also collect your IP address and other information transmitted by your browser including among other things the type of browser and operating system your computer uses, and the domain name of the website from which you linked to the site. We will also insert a short piece of computer code within your computer and record certain characteristics of the computer and in this manner our site will recognize your computer when you visit the site.
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
+We also retain copies of statements published on the site and correspondence sent to us.
 
-This Site does not knowingly seek or collect any personal information or data from persons under the age of 18. 
+**Cookies**
 
-Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
+The site may track a user’s activity by issuing Cookies when entering the site. Cookies are small pieces of data or parts of a file that a server downloads to your personal computer or mobile when you visit a website. These files are stored by your web browser onto your hard drive. Cookies may anonymously record information such as your identification code, customized preferences, or a record of pages visited in order to simplify subsequent interactions with that website by you on the website and related web pages. The site uses cookies to improve your browsing experience. By using this site, you consent to the use of cookies.
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT. 
+To streamline navigation on our site we use both Session ID cookies and Persistent cookies. Session ID cookies only last for the duration of your visit to our website and expire when you close your browser while persistent cookies may remain on your hard drive for an extended period of time.
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
+Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. In order to enjoy full functionality our site and its features we highly recommend that you enable cookies in your browser. If you disable cookies you may still be able to use certain site features but your experience may be severely limited.
 
-**What Information About Subscribers is Collected?**
+How may we use the information held by us? 
 
-When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
+  * We may use this information to improve our marketing and products/services including customizing our site to your needs and interests.
+  * We may also use information about you to deliver information to you that, in some cases, is targeted to your interests whether on the site or via e-mail.
+  * We may use this information to answer your questions, troubleshoot problems and enforce our Terms & Conditions.
+  * We will use your e-mail address to contact you unless you have chosen not to be contacted by e-mail.
 
-If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
 
-When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database. 
 
-If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
+When may we disclose your information?
 
-**Use of Personal Subscriber Information.**
+We may disclose your information to our affiliated companies and sites and to our service providers who are authorized to use the information only for purposes of providing services to you and us and our affiliated companies.
 
-Except for Subscribers who: (a) voluntarily register as an advertiser with the Site or, (b) provide a specific query or comment to the Site through the â€œcontact usâ€ link on the Site, the Site will not obtain, collect, copy, use, transfer, sell nor save any unique, personal or identifying information from any Subscribers that visit the Site and/or any Affiliate Sites (collectively, the â€œProhibited Dataâ€). Without limiting the foregoing, the Site may collect, use and store (but only in its own data facility), for no more than thirty (30) days, the IP address (i.e., the octet) of a Subscriber who accesses the Site, solely for the limited purpose of detecting â€œclick fraudâ€ (i.e., an automated method of linking to, or access of, the Site for the purpose of inflating the number of page views of the Site) and for no other reason; provided that, instead of collecting, using and storing the IP address (i.e., the octet) of a Subscriber who accesses the Site, the Site will â€œhashâ€ or convert each IP address into a mathematical representation of the IP address which the Site may collect, use and store without limitation. For the avoidance of doubt, the Site will destroy each IP address (and any data containing such IP address) no later than thirty (30) days after the date the Site collected that IP address.] The Site will not use "cookie" or similar technology (e.g., clear gifs) on the Site for any purpose at any time; provided that the Site may display clear gif banner ads in connection with queries prohibited under this Agreement (e.g., illegal or â€œblacklistedâ€ queries). 
+Information may be presented to third parties in statistical form but this shall not be personally identifiable.
 
-**Security of Personal Information Collected by the Site.**
+Our business and the internet world in general is very dynamic and we may arrive at a situation in which we sell a part of our business or all of our business. In such a case we may transfer information collected by us to such third party.
 
-Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site. 
+Obviously, in case we are required by law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other rights, we may disclose your information.
 
-All subscribers should consider any information provided to or collected by the Site as **non-confidential** , and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
+Third party collection of information.
 
-**"OPT-IN" and "OPT-OUT" Provisions.**
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. For example, when making a payment by credit card our third party billers/IPSP's (and not cams.smut.com) collect your credit card information and other information necessary for processing/authorizing your credit card payments. These payment companies may also provide certain of your details to us - but this shall not include your credit card number.
 
-There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
+How can you update or delete the information held by us?
 
-"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+You have the following choices to update your information from our database: You can send our Customer Service Department an request [here](https://web.archive.org/contactus) or you may log in with your password and update or delete your profile. Please note that the information is not deleted from the Company's database but will be saved under a deleted status and will not be presented.
 
-"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
+Questions?
 
-**"OPT-OUT" Revocation Procedure.**
-
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by going to http://www.stormmedia.com/support/remove, and entering in the exact email address to be "Opted-Out". 
-
-**Terms and Conditions of Membership.**
-
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
-
-In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
-
-[ Website Security ](http://www.websitesecure.org/)
-
-[Smut](http://www.smut.com/)
+If you have any questions about this Privacy Policy, you can contact us [here](https://web.archive.org/contactus).
