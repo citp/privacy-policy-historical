@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609051009id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824054245id_/https%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Privacy Policy - Rent.com®
-
-## Legal Notice
-
-June 8, 2017
-
-### What's New with the Rent.com Privacy Policy?
-
-RentPath, LLC has revised the Rent.com Privacy Policy effective June 8, 2017 (the “Effective Date”) to add provisions relating to our Use and Disclosure of certain information you provide to us. The revised terms are found in Sections 3 and 4. 
-
-PLEASE NOTE THAT THESE MODIFICATIONS ARE EFFECTIVE IMMEDIATELY FOR NEW USERS OF THE WEBSITE OR APPLICATION ON OR AFTER THE EFFECTIVE DATE, AND ON JUNE 18, 2017 FOR ANY USERS OF THE WEBSITE PRIOR TO THE EFFECTIVE DATE.
-
-WE URGE YOU TO CAREFULLY REVIEW THE ENTIRE PRIVACY POLICY. BY USING OR CONTINUING TO USE THE WEBSITE OR APPLICATION, YOU CONSENT TO ALL PRIVACY POLICY MODIFICATIONS. 
 
 [**Click here to learn more about how we handle do-not-track signals and user tracking**](https://web.archive.org/company/privacy-do-not-track/)
 
