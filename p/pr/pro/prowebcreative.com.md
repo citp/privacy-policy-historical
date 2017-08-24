@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowebcreative.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613224809id_/http%3A//prowebcreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowebcreative.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824190700id_/http%3A//prowebcreative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
