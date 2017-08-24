@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623073204id_/http%3A//www.mydomaine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824132921id_/http%3A//www.domainehome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MyDomaine
+# Privacy Policy | WhoWhatWear
 
 **NEW PRIVACY POLICY**
 
@@ -242,7 +242,7 @@ The Site may permit you to submit ideas, photographs, user profiles, writings, m
 
 ****(b) Name and Likeness****
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20170623073204id_/http%3A/terms-conditions "Terms and Conditions of Service").
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20170824132921id_/http%3A/terms-conditions "Terms and Conditions of Service").
 
 ****5. Ads and Information About You****
 
@@ -304,6 +304,6 @@ Nielsen | Advertising |  http://www.nielsen.com/au/en/privacy-policy.html | Yes.
   
 **PLEASE NOTE:  We are not responsible for third-party policies or practices.  We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate.  Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
-Previous Privacy Policy can be found [here](http://www.mydomaine.com/rm/terms/2191571)
+Previous Privacy Policy can be found [here](http://www.whowhatwear.com/rm/terms/2191570)
 
 **
