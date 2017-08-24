@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialnewswatch.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625084320id_/http%3A//thenewamericana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialnewswatch.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824145558id_/http%3A//thenewamericana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The New Americana
 
