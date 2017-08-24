@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websolsoftware.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119051703id_/http%3A//www.websolsoftware.com/Home/privacypolicy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websolsoftware.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824113608id_/http%3A//www.websolsoftware.com/Home/privacypolicy_terms) for the most accurate reproduction.*
 
 # privacypolicy_terms - Websol Software Pvt Ltd
 
