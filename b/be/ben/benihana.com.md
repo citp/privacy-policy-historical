@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benihana.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132941id_/https%3A//www.benihana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benihana.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824213056id_/https%3A//www.benihana.com/privacy-policy) for the most accurate reproduction.*
 
 # Sushi & Japanese Steakhouse | Privacy Policy | Benihana
 
