@@ -1,153 +1,226 @@
-> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020162354id_/https%3A//new.berecruited.com/resources/privacy%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824180622id_/https%3A//berecruited.com/resources/privacy) for the most accurate reproduction.*
 
-# Privacy | BeRecruited
+# Privacy
 
 * * *
 
-Effective April 20, 2016
-
-This page summarizes certain key highlights from our Privacy Policy. Because this is just a summary, we have not included every detail on this page. For more information, please read our full Privacy Policy.
-
-We collect personal data that you provide (such as your name, address, email, athletic or academic information, pictures and videos) and, like most websites, non-personal data (such as your IP address, web pages viewed, browser type, and usage data). Keep in mind that information you share on your public profile will be visible to everyone, including non-registered users.
-
-We use your information to operate BeRecruited, and we will share some of your data. This enables us, among other things, to connect coaches and athletes, process transactions, improve BeRecruited, and provide relevant promotional offers. We communicate with you on BeRecruited.com and via email, mobile apps, and other channels.
-
-We secure your data in accordance with industry standards and technology. However, the Internet is not a 100% secure environment, and we cannot ensure or warrant the security of any information you transmit to BeRecruited. There is no guarantee that information may not be accessed or disclosed if our safeguards are breached. We ask you to do your part by maintaining the secrecy of your unique password and account information and controlling access to your email communications.
-
-As a BeRecruited user, you can always:
-
-  * Review, enhance or edit your personal information through your personal profile page;
-  * Control what information you make available publicly through your public profile;
-  * Change your settings to control visibility and accessibility through our website; and
-  * Tell us to close your BeRecruited account.
-
-
-
-If at any point we decide to use particular personal information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days’ notice on the Site. If you have questions or concerns regarding the Privacy Policy, we encourage you to [contact us](https://web.archive.org/resources/contact). 
-
-**Physical Mail:**  
-BeRecruited  
-Attn: Privacy Policy Issues  
-811 W. Evergreen Ave.  
-Unit 110  
-Chicago, IL 60642  
-USA  
-
+Effective March 20, 2017
 
 ### Introduction
 
-BeRecruited’s mission to is to enable every high-school student athlete to attend the college or university that is the best athletic, academic, and cultural fit. In order to achieve this mission, BeRecruited needs to disclose and use for its business purposes certain information that students and coaches submit to us. We want you to understand what we do with your information and encourage you to read the privacy policy terms below.
+Welcome to the digital services offered by BeRecruited, Inc (“BeRecruited”, “we”, “us” or “our”). BeRecruited respects your privacy. This Privacy Policy tells you how we will use the information entrusted to us when you visit https://new.berecruited.com/ and any other online site, mobile application, service, or product that links to this Privacy Policy (collectively the “Services”). Unless otherwise stated in a separate agreement between you and BeRecruited that governs your use of BeRecruited’s web and/or mobile based application software, this Privacy Policy also applies to the content that customers store on our system, including any personal information. 
 
-### What Does This Privacy Policy Apply To?
+### Contents
 
-BeRecruited, Inc. (“we”, “us”, or “BeRecruited”) has created this privacy policy (“Privacy Policy”) to demonstrate our firm commitment to protecting your personal information and informing you about what information we collect and how we use and disclose that information. This Privacy Policy applies to transactions and activities in which you engage, and data gathered, on the BeRecruited.com website (“Website” and/or “Site”). This Privacy Policy also applies to mobile and API access to BeRecruited (collectively referred to with the “Website” and the “Site” as the “Service”); however, additional privacy and usage terms may apply to such mobile and/or API access, as set forth in the respective platforms. Please review this Privacy Policy periodically as we may modify it from time to time. This Privacy Policy was last revised on September 15, 2015. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time. If you do not agree to this Privacy Policy you may not access or otherwise use the Website or participate in our services.
+Collection of Information
 
-### Why and How We Use Your Information
+Use of Information
 
-The most important benefit of using BeRecruited is the ability to proactively gain exposure and connect to individuals, institutions and organizations that can improve your recruiting process. To achieve this, the information you provide may be shared with other users and/or select third parties as described in this Privacy Policy. For example, you may be contacted by registered college coaches or student athletes. You may also receive information from non-profit and for-profit organizations and government agencies, including, but not limited to, (i) educational products and services (e.g. student loans, financial aid, college admissions and tutorial services, and extra-curricular enrichment and recognition programs); (ii) career, employment, and military opportunities; (iii) athletic apparel and equipment companies; and (iv) camps. BeRecruited may also sell your information to commercial marketers offering to sell you non-education and/or non-sports related products and services, unless you choose to opt-out of receiving these offers by changing your preferences on the privacy settings section of the site.
+Sharing of Information
 
-BeRecruited collects two categories of information from users: “Personal Information” that specifically identifies you (e.g. your name, email address, and physical address) and “Non-Personal Information” that is anonymous in nature (e.g. your IP address, web pages viewed, browser type and usage data). In addition, we may supplement the Personal Information and Non-Personal Information we collect with information from other sources. This Privacy Policy will further define these categories of information and explain in more detail what each category means, as well as how we collect, use, and handle your information.
+Third-Party Functionality
 
-### How We Collect and Categorize Your Personal Information
+Protection of Information
 
-On our Site, we only collect Personal Information from you if you voluntarily provide it to us. Your privacy settings determine what aspects of your Personal Information are accessible to others. As a supplement to this Privacy Policy, we make it easy for student athletes to see what different people can and cannot see by providing a drop down menu on each student athlete’s profile so they can preview what their profile looks like to different types of users based on their privacy settings. Personal Information submitted on the Site primarily consists of three sub-categories: Public Information, Semi-Public Information, and Private Information.
+Children’s Information
 
-  * PUBLIC INFORMATION. “Public Information” is Personal Information that you provide that is available to anyone on the Site. This includes, but is not limited to, data such as your full name, sport, athletic information, pictures, and videos; we or others may freely use this data. You may adjust which Public Information is shared in your privacy settings, located in the “Edit Profile” section of the Site. If you choose to submit content to any public area of the Website, your content will be considered Public Information and will not be subject to the privacy protections set forth herein.
-  * SEMI-PUBLIC INFORMATION. “Semi-Public Information” is Personal Information that you provide that is available to certain other registered users of the Service and is required from all registered users. This includes, but is not limited to, your postal address, phone number, email address and academic information. As a core function of the Service is connecting college coaches and student athletes, sufficient information needs to be presented to help each side to decide if it’s worth making a connection. For example, registered college coaches can always see a user’s full contact information and academic information. However, another registered student athlete or a logged out user cannot generally see this information. For college coaches, this means that athletes can see which school you are associated with, and information you provide about yourself, your team, and your college or university in your profile, as well as certain actions you take on the Site.
-  * PRIVATE INFORMATION. “Private Information” is Personal Information that you provide that we do not share with other Site users. This includes, but is not limited to, your password, privacy settings, credit card number, and billing and shipping information.
+Non-U.S. Users
+
+Changing or Deleting Your Personal Information
+
+Targeted Advertising
+
+Cookies, Web Beacons, and Similar Technologies
+
+Your California Privacy Rights
+
+Do Not Track Signal
+
+Links to Other Websites
+
+Changes to this Privacy Policy
+
+Questions and Contact Information
+
+### Collection of Information
+
+We collect or receive the following general types of information when you use the Services:
+
+  * **Information You Provide Directly.** You may provide information directly to us through the Services in several different ways. For example, you may respond to specific questions, communicate with us via email or feedback forms, complete online registration forms or questionnaires, and subscribe to email newsletters or other similar communications. The types of information you may provide directly include the following, as applicable: 
+    * Name;
+    * Street address;
+    * Email address;
+    * Telephone number;
+    * Date of birth/age;
+    * Height/weight;
+    * Gender;
+    * Photograph;
+    * Occupation;
+    * Athletic information (e.g., sport and position);
+    * School;
+    * Graduation year;
+    * Academic information (e.g., GPA, SAT/ACT score, awards/honors, and extracurricular activities);
+    * Payment information (e.g., credit card number and debit card number);
+    * User ID;
+    * Password; and
+    * Other relevant information.
+  * **Information We Collect Automatically.** We collect certain information about you and your computer automatically when you use the Services. Automatically collected information may include: 
+    * The type of web browser and operating system you have used to access the Services;
+    * Your IP address (which is a number automatically assigned to your computer when you access the Internet and can be used to derive your general geographic location);
+    * Your device information (which may include information about the mobile device you use to access our mobile application, including the hardware model, operating system and version, unique device identifiers, and mobile network information);
+    * The website you visited before you came to the Services; and
+    * Information about the content and webpages you view, clickstream patterns, dates and times that the Services are accessed, and the features you access on the Services that we collect using cookies, Web beacons, and similar technologies.
+  * **Social Networking Information.** If applicable, you log in to the Services through a social networking account (e.g., Facebook), we may collect information about you from that social networking account, including your name, email address, birthday, profile photograph, and other information associated with your social networking account. 
+  * **Information from Commercially Available Sources.** We may receive additional information about you from other sources, such as data cooperatives and public databases. 
 
 
 
-### How We Use Your Personal Information
+We may combine all of the information we collect or receive about you and use or disclose it in the manner described in this Privacy Policy.
 
-We only use your Personal Information as described in this Privacy Policy, unless you have specifically consented to another type of use either (i) at the time the Personal Information is collected from you or (ii) through some other form of consent from, or notification to, you. The following bullet points illustrate the primary ways in which we use your Personal Information:
+Top
 
-  * OPERATE THE SERVICE. We use your Personal Information to help us efficiently operate the Service. For example, we may use Public Information and Semi-Public Information to enable other users to find your profile, to determine whether a coach and an athlete may be a potential match for each other, and to allow users to initiate communication with each other. We may also share your Personal Information with third parties to further the purpose for which you provided such information to us. For example, to operate the Service, including processing your transactions and supporting your activities on the Service, we may share your Personal Information with our agents, representatives, contractors and service providers so they can provide us with support services, such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment.
-  * SERVICE COMMUNICATIONS. We use your Personal Information to contact you in connection with your transactions, inquiries, requests and other activities on the Service (including, but not limited to, verification emails, emails triggered by your or other users’ activity on the Service, or important news that could affect your relationship with BeRecruited). These types of communications are known as “Service Communications.” In some cases, Service Communications may also contain commercial messages, such as banner ads and special offers. We also use Personal Information to send you newsletters, information, offers and other promotional materials for BeRecruited’s or third parties’ goods or services. Each email communication has an unsubscribe link, enabling you to decline to receive future communications. By registering on the Site, you are opting in to receive BeRecruited communications by mail, email and mobile devices (via SMS/push alerts). If we contact you using methods beyond email, you will typically be able to opt-out of these communications in your privacy settings.
-  * CONNECT YOU WITH TRUSTED PARTNERS. Certain actions you or others take on the Service may indicate ways in which our partners or we can further assist you in your recruiting process, and we may use your Personal Information to do so. For example, if we believe you would benefit from an introduction to a particular partner, we may initiate an introduction. If you do not wish to have your Personal Information shared based upon specific actions you have taken on our Service, go to your privacy settings and disable this setting, if present. If we are not currently contemplating connecting you with our partners based on your specific actions, you may not see such a setting. Please note that opting out of these communications will not otherwise limit our ability to use your Personal Information as otherwise permitted herein.
-  * ALLOW YOU TO PARTICIPATE IN CERTAIN THIRD PARTY OFFERS AND PROGRAMS. By purchasing, registering or making reservations for products or services offered or sponsored by third parties on the Site, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your Personal Information to those third parties. Those third parties may use your Personal Information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your Personal Information by them.   
-BeRecruited may also sell your Personal Information to commercial marketers offering to sell you non-education and/or non-sports related services, unless you choose to opt-out of receiving these offers by changing your preferences on the privacy section of the site.
-  * SPECIAL CASES IN WHICH WE SHARE YOUR PERSONAL INFORMATION. Your Personal Information may be passed on to a third party in the event of a corporate restructuring (such as a sale, merger, or other transfer of ownership or assets, or a bankruptcy). We may also disclose Personal Information when we determine that such disclosure is necessary to comply with applicable law or legal process, to cooperate with law enforcement or to protect the interests or safety of BeRecruited or other visitors to the Site. We also may disclose your Personal Information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control.
+### Use of Information
 
+We use the information we collect and receive for the following general purposes:
 
-
-Please also see the Our Security Precautions with Your Information section of this Privacy Policy for additional information on how we secure your information. 
-
-### Social Media and Links to Other Websites
-
-BeRecruited provides you with the ability to register, log into, “like” or otherwise interact with your BeRecruited account and our Service using your existing social media accounts, such as your Facebook or Twitter accounts, among others. We do not post anything to your social media services without your explicit consent. However, upon providing your consent, these features may display some of your Personal Information or other information relating to you on or in connection with these social media services, including, without limitation, on our Site. We do not control those social media services, your profiles on those services, modify your privacy settings on those services or establish rules about how your Personal Information on those services will be used. You and the social media service providers are in control of those issues, not BeRecruited. Additionally, on the Site, we place links to third party websites. When you click on these links and visit these other websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other websites or these other websites’ business practices, and that this Privacy Policy does not apply to these other websites. The operators of these other websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. You are encouraged to read all policies and information on the applicable social media services and third party websites to learn more about how they handle your information before using any such features or website. We cannot be and are not responsible for any acts or omissions by any social media service provider or third party website.
-
-### How We Collect Non-Personal Information
-
-When you access our Service, we may automatically collect anonymous, Non-Personal Information from you, such as IP address, web pages viewed, browser type, referring service, usage and browsing habits on the Service, and similar data. We may also aggregate demographic information collected from our users (such as the number of users in a particular state, or total number of male and female users) in a manner that does not identify any one individual.
-
-The following are a few examples of Non-Personal Information that we collect:
-
-  * YOUR IP ADDRESS. Like most registration-based websites, we automatically collect your IP address and the web page from which you came each time you visit the Site. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help anonymously identify you and to gather broad demographic information about you.
-  * COOKIES AND RELATED TECHNOLOGIES. Like most websites, the Site uses cookies, javascript and similar technologies to keep track of your status, purchases and other activity on the Site and enhance your experience on the Site. We also use these technologies to deliver content specific to your interests, and if you choose, to save certain Personal Information so you do not have to reenter it each time you visit the Site. Third-party advertisers and other entities on the Site may also place or read cookies or similar technologies. If you wish to delete or disable our cookies, you can do so via your browser settings. However, in doing so, you may not be able to access certain areas on the Site. You will need to contact the applicable third party to disable third-party cookies and similar third party technologies. Please also see the How You Can Opt-Out, Access and Update Your Information and Behavioral Advertising sections of this Privacy Policy for additional information on how you can opt-out. 
-  * ANALYTICS. We use analytics services that use cookies, javascript and similar technologies to help us analyze how users use the Website. The information generated by these services about your use of the Website (including your IP address or a truncated version of your IP address) is transmitted to and stored by analytics service providers on their servers. Those service providers will use this information for the purpose of evaluating your, and other users’, use of the Website, compiling reports for us on website activity and providing other services relating to website activity and Internet usage.
+  * To provide you with the Services, products, and information you request and with legal notices or information about changes to this Privacy Policy or our Terms and Conditions of Use;
+  * To perform analytics to continually improve the Services and enhance your experience with the Services;
+  * To provide you (and enable our partners to provide you) with promotional materials, relevant content and advertisements, surveys, newsletters, questionnaires, and other materials;
+  * To offer you information regarding certain products and services of our partners, sponsors, advertisers, and affiliates;
+  * To manage your account, perform billing and payment activities, and update you on your account status (including confirmation of registrations or notices of subscription expiration);
+  * To respond to your requests, questions, and comments;
+  * As we believe is necessary to protect our rights and the rights of others, including by enforcing our Terms and Conditions of Use; and
+  * For any other purpose disclosed to you at the time we collect your information, or pursuant to your consent.
 
 
 
-### How We Use Non-Personal Information
+You may “opt out” of receiving promotional communications from BeRecruited by contacting us at the email address shown at the end of this Privacy Policy. Please note that changing your information through your user profile settings, or otherwise opting out of receipt of communications from BeRecruited, will only change or delete the data for purposes of future activities on our Services and for managing future communications from BeRecruited.
 
-We use Non-Personal Information for a number of purposes, including, but not limited to, maintaining and improving the Site, launching new products, analyzing user behavior, tailoring the Site and communications to your interests, and for marketing and press purposes. Because of the nature of Non-Personal Information, this is done on an anonymous and/or aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers’ goods and services will appeal to BeRecruited’s users, so that we may target specific ads at specific demographic groups. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your Personal Information, then the advertiser may be able to identify you as being a member of that demographic group. Please note that we reserve the right to disclose or utilize any Non-Personal Information for any purposes permitted by law, not just the specified examples used in the Privacy Policy, which are provided for illustration purposes only.
+Top
 
-###  Behavioral Advertising 
+### Sharing of Information
 
-We may engage or otherwise allow third party vendors to use and gather Non-Personal Information, drop cookies and engage in other activities on the Site that are consistent with this Privacy Policy. These parties may deliver you targeted advertising (including but not limited to targeted advertising for us or other parties both on and off this site). These parties may also otherwise improve our advertising when you visit this Site or other websites. Cookies and related technologies, described above, are used in this process. For instance, if you are searching for information on a particular sport, our vendor may cause an advertisement to appear on other websites you are viewing with information on that sport. This form of advertising that is performed by certain vendors, sometimes called “behavioral advertising”, is based solely on anonymous Non-Personal Information (such as a cookie ID or profile) and not any Personal Information that specifically identifies you. Our vendors do not know who you are in connection with the delivery of a specific ad. We believe that such advertising is a benefit to you since you will see advertisements that are relevant to your interests.
+We may share your information with the following entities:
 
-However, if you do not want to receive such targeted advertisements then you can opt-out of being tracked by our vendors. To opt-out of such tracking, please visit  
-<http://www.networkadvertising.org/managing/opt_out.asp> and select our current vendor(s) and any other companies you choose. As of April 20, 2016, BeRecruited uses the following vendors: 
+  * **Colleges and Other Users of the Services.** We may share your information directly with educational institutions, college coaches, and athletic directors. The Services may also provide opportunities for you and other users to connect with each other socially and to view each other’s profiles. To achieve this, certain information you provide may be shared with other users of the Services. 
+  * **Affiliates.** We may share your information with our affiliates—companies that control, are controlled by, or are under common control with, BeRecruited. These entities may use your information to make predictions about your interests and may provide you with offers, promotional materials, advertisements, and other materials. 
+  * **Partners.** We may share your information with partners who provide products or services that may be of interest to you or student-athletes, including: (i) educational products and services (e.g., colleges, student loans, financial aid, college admissions and tutorial services, and extra-curricular enrichment and recognition programs); (ii) career, employment, and military opportunities; (iii) products of consumer focused companies; (iv) sports related activities; and (v) other relevant products and services. These partners may use your information to make predictions about your interests and may provide you with offers, promotional materials, advertisements, and other materials. We also may share your information with partners, such as Chegg, Cappex, and NRCCUA, that share your information with college admissions departments. 
+  * **Service Providers.** We also may share your information with entities that provide services to us, including companies that provide payment processing, shipping, web analytics, data processing, web hosting, technical support, advertising, email distribution, and other services. 
+  * **Other Parties When Required by Law or as Necessary to Protect Our Services.**
 
-[](http://www.circulate.com/)
+There may be instances when we disclose your information to other parties in order to:
 
-Opting out of our behavioral advertising system does not mean that you will no longer see advertisements. You will still see advertisements; however, they will be general and not tailored to your specific interests and activities.
+    * protect the legal rights of BeRecruited, its affiliates, and of the users of the Services;
+    * protect the safety and security of users of the Services;
+    * prevent fraud (or for risk management purposes); or
+    * comply with or respond to the law or legal process or a request for cooperation by a government entity, whether or not legally required.
+  * **Other Parties in Aggregated Form.** We may also share your information with third parties in aggregated or non-personally identifiable form. 
+  * **Other Parties in Connection With a Transfer of Assets.** If we make a sale or transfer of assets, or are otherwise involved in a merger, divestiture, acquisition, liquidation, or transfer, or in the unlikely event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction. 
+  * **Other Parties With Your Consent.** In addition to the sharing described in this Privacy Policy, we may share information about you with other third parties when you consent to such sharing. 
 
-For more information on how to opt-out of behavioral advertising, see: <http://www.aboutads.info/choices/>. 
 
-### Do Not Track Signals
 
-We do not respond to or honor “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers. To learn more about how you can exercise choices about the collection and use of certain data online for purposes of targeted advertising, please visit <http://www.aboutads.info/consumers>
+If you do not want your information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to us at privacy@berecruited.com.
 
-###  Our Security Precautions with Your Information 
+Top
 
-The Site has security measures in place to help protect against the loss, misuse and alteration of the information under our control. To such end, we adhere to industry standard practices and procedures to help safeguard and secure the information we collect. Although we use commercially reasonable efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website.
+### Third-Party Functionality
 
-### Protection for Children and Minors
+Some of the functionality of the Services may be provided by third parties that are not affiliated with BeRecruited. These entities may collect or receive certain information about your use of the Services, including through the use of cookies, Web beacons, and similar technologies. BeRecruited is not responsible for the privacy practices of these entities.
 
-This Website is not intended for, and we have no intention of collecting Personal Information from, persons under the age of 13. If a person under the age of 13 has provided us with Personal Information, we will use all reasonable efforts to delete such information from our database. If you are under the age of 13, you are not authorized to access or submit any content or information to this Website.
+Top
 
-### Changing our Privacy Policy for Previously Gathered Information
+### Protection of Information
 
-If at any point we decide to use particular Personal Information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days’ notice on the Site. Please note that we will continue to have the right to change our Privacy Policy and practices, and how we use your Personal Information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.
+We use reasonable physical and technical measures to safeguard information in our possession against loss, theft and unauthorized use, disclosure, or modification. Please note, however, that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect the information we maintain, we cannot ensure or warrant the security of any information that you transmit to us. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask that you not share your password with anyone. 
 
-###  How You Can Opt-Out, Access and Update Your Information 
+Top
 
-To stop receiving BeRecruited communications you must delete your account which you can do at any time by contacting us at [http://new.berecruited.com/resources/contact](https://web.archive.org/resources/contact). Please note that if you delete your account, we may continue to retain your information on our servers for archival purposes. If you re-register with the Service in the future, we may associate your new registration information with your previously provided registration information. In addition, we may give you the opportunity to opt-out of certain communications in the ‘Edit Profile” section of the Site. 
+### Children’s Information
 
-We give you the opportunity to modify Personal Information you have provided to us at any time by going to the “Edit Profile” section of the Site or by [contacting us](https://web.archive.org/resources/contact). While these changes normally take effect in a matter of hours, in some special cases, it may take up to 5 days to take effect on the public areas of the Site. 
+The Services are neither intended for nor directed at children younger than 13 years of age. We do not knowingly collect or store personal information about children under the age of 13. 
 
-Please note that changing your information through the “Edit Profile” section of the Site, or otherwise opting-out of receipt of communications from BeRecruited, will only change or delete the data for purposes of future activities on the Site and for managing future communications from BeRecruited. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided in this Privacy Policy. If you have any questions or concerns about this Privacy Policy, the practices of the Site, or your dealings with the Site, please feel free to contact us at [http://new.berecruited.com/resources/contact](https://web.archive.org/resources/contact). Opt-outs may be device-specific, so please consult the help section of your web browser or settings on each device. 
+Top
 
-If you do not want your Personal Information shared with any third party who may use such information for direct marketing purposes, then you may opt-out of such disclosures by sending an email to us at [support@berecruited.com](mailto:support@berecruited.com). 
+### Non-U.S. Users
 
-### United States of America
+The Services are intended for a U.S. audience. If you access the Services from outside the United States, please be aware that information you provide to us or that we obtain as a result of your use of the Services may be processed and transferred to the United States and be subject to U.S. law. The privacy and data protection laws in the United States may not be equivalent to such laws in your country of residence. By using our website, participating in any of the Services, or by providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States and in accordance with U.S. law. 
 
-Our servers are maintained in the United States of America. By using the Website or participating in BeRecruited’s services, you freely and specifically give BeRecruited your consent to export your Personal Information to the USA and to store and use it in the USA as specified in this Privacy Policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. 
+Top
 
-### Governing Law
+### Changing or Deleting Your Personal Information
 
-This Privacy Policy and our legal obligations hereunder are subject to the laws of California, U.S.A., regardless of your location. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in San Francisco County, California, U.S.A. in all disputes arising out of or relating to the Services.
+We wish to maintain accurate personal information. If you have submitted personal information through the Services and set-up an account, then you can (i) access and update your personal information by logging into your online account and making the appropriate changes or (ii) delete your account by emailing us at privacy@berecruited.com. Please note that if you delete your account, we may continue to retain your information on our servers for archival purposes. If you have forgotten your login credentials, you can retrieve those via our automated password retrieval system. 
 
-**Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at[http://new.berecruited.com/resources/terms-of-use](https://web.archive.org/resources/terms-of-use) and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy. **
+Top
 
-###  Follows 
+### Targeted Advertising
 
-Following is one tool we offer athletes to help make the initial connection with college coaches. With the help of our partners Chegg, Cappex, and NRCCUA, following also helps make contact with the college’s admissions department, in order to help you effectively learn about the college and admissions process.
+In some cases, we and advertisers on the Services work with other third-party vendors to help deliver advertisements targeted to your interests. These vendors include ad networks and analytics providers, and they use cookies or other technologies to collect information about your online activity (e.g., the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. Many third-party vendors that perform these functions are members of the Network Advertising Initiative or the Digital Advertising Alliance, and you can opt out of those vendors’ delivery of targeted advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>. 
 
-How it works: When you create an account on BeRecruited, you will be automatically entered into an optional program. If you follow a school that is partnered with Chegg, Cappex, or NRCCUA, certain information (your name, email, address, high school, graduation year, GPA, gender and birthdate) will be sent to the admissions department of that college, and the college will reach out to you at the appropriate time. After the college contacts you, they will be able to answer any questions you may have about that school and the application process.
+Please note that, because these opt-out tools will place a cookie on your computer to record your opt-out preference, any actions you take using these tools will apply only to the web browser that you use to take the action. Also, these tools may not work as expected if you set your browser to refuse cookies. 
 
-When you are opted out of this program, your college following activities or personal information will NOT be shared with Chegg, Cappex or NRCCUA.
+Sometimes, our advertisers will contract with a third-party service to host their ads. In this case, an ad-serving vendor contacts the advertisers’ hosting service to obtain a particular advertisement. Because we do not have a relationship with these third parties, we do not have a mechanism to allow visitors to opt out of tracking by these vendors. 
 
-Note: Chegg, Cappex and NRCCUA use your information solely for the purpose of passing your information on to the college’s admissions department. If you do not have a Chegg, Cappex or NRCCUA account, your information will not be used for any other purpose.
+Top
+
+### Cookies, Web Beacons, and Similar Technologies
+
+BeRecruited — as well as certain third parties that provide content and other functionality on the Services—may use a variety of technologies to learn more about how people use the Services and the Internet. This section provides more information about some of those technologies and how they work.
+
+  * **Cookies.** Cookies are small text files that websites and other online services use to store information about users on the users’ own computers. For example, cookies can be used to store your sign-in credentials so that you do not have to enter them each time you return to a website. Cookies also may be used to store a unique identification number tied to your computer so that a website can recognize you as the same user across different visits to the website. You can configure your Internet browser to warn you each time a cookie is being sent or to refuse cookies completely. 
+
+BeRecruited and the third parties that provide content or functionality on the Services may use cookies to: 
+
+    * Collect information about your browsing activities in order to provide you with more relevant content and ads off the Services; and
+    * Relate the information automatically collected when you use the Services to information we obtain from you directly or from commercially available sources.
+  * **Other local storage.** We, along with third-party partners, may use other kinds of local storage, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with the Services. These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. These objects are stored in different parts of your computer from ordinary browser cookies, however. Many Internet browsers allow you to disable HTML5 local storage or delete information contained in HTML5 local storage using browser controls. 
+  * **Web beacons.** We, along with our third-party partners, may also use technologies called Web beacons that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Web beacon, the IP address of your computer, and the URL of the web page from which the Web beacon was viewed. We and our partners use Web beacons for a variety of purposes, including analyzing the use of the Services and in conjunction with cookies to provide content and ads that are more relevant to you. 
+
+
+
+Top
+
+### Your California Privacy Rights
+
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to:
+
+**Attn: BeRecruited Privacy  
+344 20th Street  
+Suite 220  
+Oakland, CA 94612  
+Email: privacy@berecruited.com **
+
+In addition, California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post as user content on the Services. You may request such removal by emailing us at privacy@berecruited.com. Please note that your request does not ensure the complete or comprehensive removal of the material.
+
+Top **
+
+### Do Not Track Signal
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. We do not currently take action in response to those signals. If an industry standard on responding to such signals is established and accepted, we may reassess how to respond to those signals.
+
+** Top
+
+### Links to Other Websites
+
+Our Services may contain links or references to third-party owned and/or operated websites that we believe might be of interest to users, including websites of our partners, sponsors, advertisers, and affiliates. We do not control the content of these third-party websites. These third-party websites may send you their own cookies, collect data, or solicit personal information. Once you have clicked on a link to a third-party website and leave our Services, you must read the privacy policy of the third-party website to see how your personal information will be handled. 
+
+Top
+
+### Changes to this Privacy Policy
+
+From time to time, we may revise this Privacy Policy to reflect changes to the scope of the Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted here each time you use the Services. If we make any material revisions to this Privacy Policy, we will email you at the email address you have provided or will place a notice on our Services. By continuing to use the Services after we make changes, you indicate your consent to those changes. 
+
+Top
+
+### Questions and Contact Information
+
+We want to assure you that we are dedicated to protecting your privacy. If you have questions or comments about this Privacy Policy, please contact us at:
+
+**Attn: BeRecruited Privacy  
+344 20th Street  
+Suite 220  
+Oakland, CA 94612  
+Email: privacy@berecruited.com **
+
+Top
