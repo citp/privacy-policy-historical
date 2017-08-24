@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazeweek.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318033613id_/http%3A//www.blazeweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazeweek.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824181148id_/http%3A//www.blazeweek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
