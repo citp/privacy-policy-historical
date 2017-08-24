@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slated.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324182735id_/https%3A//www.slated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slated.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825012805id_/https%3A//welcome.slated.com/clkn/https/www.slated.com/privacy) for the most accurate reproduction.*
 
 # Slated › Privacy Policy
 
@@ -59,7 +59,4 @@ By accessing and using the Services and/or Site through which you may provide in
 
 **_Jurisdictional Issues_**. We do not represent or warrant that the Services or Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Services or Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. By providing personal information through the Services or Site, you consent to the transfer of personal information to other countries, such as the United States, which may provide a different level of data security than in your country of residence.
 
-_Contacting Us_. If you have any questions about our practices or this Privacy Policy, please contact us at:
-
-privacy@slated.com  
-
+_Contacting Us_. If you have any questions about our practices or this Privacy Policy, please contact us at: privacy@slated.com
