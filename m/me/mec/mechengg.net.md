@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mechengg.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616165926id_/http%3A//www.mechengg.net/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mechengg.net privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824191429id_/http%3A//www.mechengg.net/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Mechanical Engineering Projects,Seminar,Basic Notes
 
 **Mechenggs.blogspot.in Privacy Policy**  
   
