@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-sex-video.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629030436id_/http%3A//free-sex-video.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-sex-video.net privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824090754id_/http%3A//free-sex-video.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Porn | Sexvideos | Porn Sites | free-sex-video.net
 
