@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizflare.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514140708id_/http%3A//www.quizflare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizflare.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824214759id_/http%3A//www.quizflare.com/privacy-policy) for the most accurate reproduction.*
 
 # QuizFlare - Privacy Policy
 
