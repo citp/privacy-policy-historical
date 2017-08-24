@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avocadu.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629065742id_/http%3A//avocadu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avocadu.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824073240id_/https%3A//avocadu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Avocadu
 
