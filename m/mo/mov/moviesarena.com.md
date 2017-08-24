@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesarena.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423020804id_/http%3A//www.moviesarena.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesarena.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824110337id_/http%3A//www.moviesarena.com/privacy.php) for the most accurate reproduction.*
 
 # MoviesArena Porn Tube - Privcay
 
