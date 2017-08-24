@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blantyre.biz privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024214308id_/http%3A//blantyre.biz/blantyres-ain-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blantyre.biz privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824040808id_/http%3A//blantyre.biz/blantyres-ain-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blantyre's Ain Website
 
-[](http://blantyres-ain-website/blantyres-ain-website-2/)
-
-[](http://blantyres-ain-website/blantyre-scotland/)
+[](http://blantyres-ain-website/blantyres-ain-website-2/)[](http://blantyres-ain-website/blantyre-scotland/)
 
 **Privacy Policy**  
   
@@ -44,6 +42,6 @@ If you wish to Donate to Blantyre’s Ain Website just click the link below and 
 **Site Designed & Maintained by:  
 ****[](http://warning/minisymbol21/)“In Pursuit of Excellence”**
 
-Copyright © Symbol Internet Marketing 2003 – 2016
+Copyright © Symbol Internet Marketing 2003 – 2017
 
 [](http://bite-sized-chunks-of-blantyre-history-horse-manure/haste-ye-banner1/)
