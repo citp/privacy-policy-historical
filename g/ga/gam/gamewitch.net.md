@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewitch.net privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507115645id_/http%3A//gamewitch.net/Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewitch.net privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825030428id_/http%3A//www.gamewitch.net/Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- Play Free Games Online gamewitch.net
 
