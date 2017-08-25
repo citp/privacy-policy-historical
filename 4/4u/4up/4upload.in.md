@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4upload.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622220620id_/http%3A//4upload.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4upload.in privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825033814id_/http%3A//4upload.in/privacy.html) for the most accurate reproduction.*
 
 # قوانین و مقررات - 4upld - File Sharing Made Simple
 
@@ -21,6 +21,6 @@ We use cookies to store information, such as your personal preferences when you 
 
 ## Copyright
 
-If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to 4upld by providing all the necessary information (More detail can be found [here](https://web.archive.org/web/20170622220620id_/http%3A//4upload.in/dmca.html)). 
+If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to 4upld by providing all the necessary information (More detail can be found [here](https://web.archive.org/web/20170825033814id_/http%3A//4upload.in/dmca.html)). 
 
 If you require any more information or have any questions about our privacy policy, please feel free to send us a ticket and we would be happy to help you. 
