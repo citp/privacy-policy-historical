@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204103id_/http%3A//www.toysrus.co.uk/toys/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.co.uk privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825174616id_/http%3A//www.toysrus.co.uk/toys/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Help & Support | Toys R Us
 
