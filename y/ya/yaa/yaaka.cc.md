@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaaka.cc privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625083315id_/http%3A//www.yaaka.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaaka.cc privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825170306id_/https%3A//www.yaaka.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Yaaka Digital Learning Network
 
