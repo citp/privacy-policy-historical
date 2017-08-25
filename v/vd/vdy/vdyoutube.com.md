@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdyoutube.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325025623id_/https%3A//www.vdyoutube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdyoutube.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825154504id_/https%3A//www.vdyoutube.com/privacy) for the most accurate reproduction.*
 
 # VDYoutube - Frequently Asked Questions
 
