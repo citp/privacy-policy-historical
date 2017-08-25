@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehbsr.com privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217122628id_/http%3A//ehbsr.com/disclosure.asp%3Fprivacy%3Dtrue%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehbsr.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825154701id_/http%3A//ehbsr.com/disclosure.asp%3Fprivacy%3Dtrue%26) for the most accurate reproduction.*
 
 # eHBSR
 
