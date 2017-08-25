@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proporta.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607042222id_/http%3A//www.proporta.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proporta.co.uk privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825073721id_/https%3A//www.proporta.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proporta
 
