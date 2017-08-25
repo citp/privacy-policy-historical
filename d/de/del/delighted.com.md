@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delighted.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012092023id_/https%3A//delighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delighted.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825103334id_/https%3A//delighted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Delighted
 
