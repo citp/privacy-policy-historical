@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015912id_/http%3A//fbdown.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825133002id_/https%3A//fbdown.net/privacy.php) for the most accurate reproduction.*
 
 # FBDOWN.net - Our Privacy Policy
 
