@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haptik.co privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625101430id_/http%3A//haptik.ai/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haptik.co privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826231410id_/http%3A//www.haptik.ai/privacy-policy) for the most accurate reproduction.*
 
 # Haptik - We Get It Done
 
@@ -66,6 +66,21 @@ All the aforementioned information is collectively referred to as “Personal In
 ###  I. ACCESSING AND UPDATING PERSONAL INFORMATION 
 
 9.1 When you use Haptik's Applications, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any Personal Information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. 
+
+9.2 We may disclose to third party services certain personally identifiable information listed below:  
+
+
+  * Information you provide us such as name, email, mobile phone number
+  * Information we collect as you access and use our service, including contacts in your device, application packages present on your device, email a 
+
+This information is shared with third party service providers so that we can:  
+
+
+  * Personalize the app for you
+  * Perform behavioral analytics
+  * Provide advertisements about goods and services of interest to you
+
+
 
 ###  J. INFORMATION SECURITY 
 
