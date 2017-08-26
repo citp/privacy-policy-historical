@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylebest.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609192526id_/http%3A//www.stylebest.com/faq/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebest.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826170731id_/https%3A//www.stylebest.com/faq/privacy-policy.html) for the most accurate reproduction.*
 
 # Stylebest.com: Privacy Policy
 
@@ -16,17 +16,22 @@ Stylebest.com believes it is important for you to know what types of information
 
 Any of the information we collect from you may be used in one of the following ways:
 
-• To personalize your experience
+  * To personalize your experience
+
+
 
 (your information helps us to better respond to your individual needs)
 
-• To improve our website and your shopping experience
+  * To improve our website and your shopping experience
+
+
 
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To administer a contest, special promotion, survey, activity or other site feature
+  * To administer a contest, special promotion, survey, activity or other site feature
+  * To send periodic emails
 
-• To send periodic emails
+
 
 The email address you provide for order processing, may be used to send you important information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -37,3 +42,11 @@ We implement a variety of security measures to maintain the safety of your perso
  **Do we use cookies?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you have allowed it via your settings. This enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools for you in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us directly conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting Customer Service.
+
+ **What kind of email you will receive?**
+
+We send email content to our customers that may include following: Transaction mail, Shipping notification, Weekly deals, Promotion, Activity.
+
+ **How to unsubscribe?**
+
+If you'd rather not receive future e-mails, you can unsubscribe by using the link from any email newsletter. Subscribing our newsletter to be the first to get the scoop on new fashion looks, big events and enjoy special offers, exclusive coupons.
