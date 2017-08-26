@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jannideler.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628060927id_/http%3A//wearecube.se/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jannideler.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826124327id_/http%3A//wearecube.se/privacy-cookies) for the most accurate reproduction.*
 
 # Cube | We influence the world | PRIVACY & COOKIES
 
