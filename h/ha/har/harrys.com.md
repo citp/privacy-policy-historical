@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607001631id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826190620id_/http%3A//www.harrys.com/en/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
