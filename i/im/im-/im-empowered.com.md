@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the im-empowered.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625203710id_/http%3A//im-empowered.com/solo-ads/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the im-empowered.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826033127id_/http%3A//im-empowered.com/solo-ads/privacy.html) for the most accurate reproduction.*
 
 # im-empowered.com - Privacy Policy
 
