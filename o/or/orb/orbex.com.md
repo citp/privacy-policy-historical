@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbex.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506025919id_/https%3A//www.orbex.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbex.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826151606id_/https%3A//www.orbex.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Orbex offers comprehensive privacy policy |Forex Broker | ORBEX
 
