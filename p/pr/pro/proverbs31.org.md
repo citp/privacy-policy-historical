@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the proverbs31.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626194248id_/http%3A//proverbs31.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proverbs31.org privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826092449id_/http%3A//proverbs31.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Information We Collect and Receive**
 
 Proverbs 31 collects and retains information about you and your device when you visit or give us information through the Proverbs 31 website.
+
+**Donor Privacy Policy**
+
+Proverbs 31 Ministries uses your information to understand your needs and interests and provide you with better service. 
+
+We do not share or sell our donors’ personal information. Any contribution information is kept in strict confidence and is not shared with anyone outside of Proverbs 31 Ministries. 
+
+This policy applies to all information received by Proverbs 31 Ministries, both online and offline. This privacy protection includes the Proverbs 31 Ministries’ website, First 5 mobile application, as well as any electronic, written or oral communications. 
+
+Any online donation information received through a third party service provider will be used only for processing the donation. 
 
 **Non-Personally Identifiable Information**
 
@@ -75,7 +85,7 @@ You may also opt out of Google’s use of cookies by visiting its [Ads Settings]
 
 **Other Information You May Want**
 
-_The Proverbs 31 Privacy Policy was updated effective 1/1/2015._
+_The Proverbs 31 Privacy Policy was updated effective 6/29/17._
 
 **Contact us:**
 
