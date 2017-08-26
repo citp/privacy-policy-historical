@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strandedteens.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031835id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dsts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strandedteens.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826081501id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Dsts) for the most accurate reproduction.*
 
 # Privacy Policy - StrandedTeens.com
 
