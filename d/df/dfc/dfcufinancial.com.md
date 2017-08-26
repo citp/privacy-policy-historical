@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610183112id_/https%3A//www.dfcufinancial.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826025941id_/https%3A//www.dfcufinancial.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - DFCU Financial
 
