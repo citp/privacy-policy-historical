@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617033438id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826073634id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
 
 # Mothers' Scholarship Application Privacy | Scholarship Provider
 
