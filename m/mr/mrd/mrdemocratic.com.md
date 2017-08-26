@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrdemocratic.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626233409id_/http%3A//mrdemocratic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdemocratic.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826141115id_/http%3A//mrdemocratic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MR. DEMOCRATIC
 
