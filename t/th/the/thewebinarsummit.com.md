@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewebinarsummit.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911060708id_/http%3A//thewebinarsummit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebinarsummit.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826162715id_/http%3A//thewebinarsummit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Webinar Summit
 
