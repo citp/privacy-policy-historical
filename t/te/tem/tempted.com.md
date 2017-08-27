@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempted.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523075134id_/https%3A//www.tempted.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempted.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827230139id_/https%3A//www.tempted.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ By your acts of signing up as a subscriber to the Site, you are agreeing to all 
 
 **"OPT-OUT" - REVOCATION OF CONSENT PROCEDURE**
 
-The Site also offers all Members and Users a procedure for 'Opting-Out' if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail from the email address you wish to opt out to "cs@temptedsupport.com" clearly stating the email address in the body of the email and that the Member or User has revoked or withdrawn consent to receive any future Offers from Site to such email address.
+The Site also offers all Members and Users a procedure for 'Opting-Out' if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail from the email address you wish to opt out to "cs@tempted.com" clearly stating the email address in the body of the email and that the Member or User has revoked or withdrawn consent to receive any future Offers from Site to such email address.
 
 **DISCLOSURE**
 
