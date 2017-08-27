@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerockets.net privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018224539id_/http%3A//gamerockets.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerockets.net privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827193823id_/http%3A//gamerockets.net/privacy) for the most accurate reproduction.*
 
 # Gamerockets.net- Best Free Online Games
 
