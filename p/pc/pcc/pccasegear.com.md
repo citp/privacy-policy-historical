@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pccasegear.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011075214id_/http%3A//www.pccasegear.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pccasegear.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827040908id_/https%3A//www.pccasegear.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : PC Case Gear
 
