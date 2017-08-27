@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closetsamples.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617180414id_/http%3A//closetsamples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetsamples.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827134647id_/https%3A//closetsamples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ If you have any questions or concerns, please take the time to further read up o
 
 **Changes to our Privacy Policy** We reserve the right to change this privacy policy at any time in the future. We will not reduce your rights under this privacy policy without notification and your explicit consent.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: **<http://www.networkadvertising.org/managing/opt_out.asp>**.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: **<https://www.networkadvertising.org/managing/opt_out.asp>**.
