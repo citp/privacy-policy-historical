@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosdatedwho.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200415id_/http%3A//www.whosdatedwho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosdatedwho.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827110107id_/http%3A//www.whosdatedwho.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
