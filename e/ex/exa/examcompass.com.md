@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examcompass.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626192306id_/http%3A//www.examcompass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examcompass.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827203306id_/http%3A//www.examcompass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
