@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627143234id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827145712id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
 
 # More Words - Privacy and Cookies Policy
 
@@ -16,4 +16,4 @@ If you have any questions about this policy, please write to me using the [conta
 
 [New Search](https://web.archive.org/)
 
-Some random words: [utmost](https://web.archive.org/word/utmost/)   [nigrified](https://web.archive.org/word/nigrified/)   [luau](https://web.archive.org/word/luau/)   [bosom](https://web.archive.org/word/bosom/)   [gweduc](https://web.archive.org/word/gweduc/)   [equabilities](https://web.archive.org/word/equabilities/)   [gnar](https://web.archive.org/word/gnar/)  
+Some random words: [oidia](https://web.archive.org/word/oidia/)   [eryngo](https://web.archive.org/word/eryngo/)   [if](https://web.archive.org/word/if/)   [vocable](https://web.archive.org/word/vocable/)   [placabilities](https://web.archive.org/word/placabilities/)   [arenose](https://web.archive.org/word/arenose/)   [huarache](https://web.archive.org/word/huarache/)  
