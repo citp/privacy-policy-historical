@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8xmovies.info privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626064835id_/http%3A//www.8xmovies.info/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8xmovies.info privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827154728id_/http%3A//www.8xmovies.info/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Vines
 
