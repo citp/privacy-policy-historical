@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616053001id_/https%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829004014id_/http%3A//www.iselect.com.au/popup-privacy-policy) for the most accurate reproduction.*
 
-# iSelect Privacy Policy | iSelect
+# 
+
+## iSelect’s Privacy Policy
+
+  * Our privacy commitment
+  * What is personal information?
+  * How does iSelect collect and hold your personal information?
+  * What kinds of personal information does iSelect collect and hold?
+  * How does iSelect use your personal information?
+  * In what circumstances will iSelect disclose your personal information?
+  * Direct marketing
+  * Does iSelect disclose your personal information to overseas recipients?
+  * Use of Government Identifiers
+  * Data quality and Security
+  * Website usage and Cookies
+  * Links to third party sites
+  * How you can access or correct your personal information
+  * How you can make a privacy complaint
+  * How to contact us
+
+
 
 ## Our privacy commitment
 
@@ -24,8 +44,7 @@ In this policy ‘we’, ‘us’, ‘our’ and ‘iSelect’ refers to (and th
   * Energy Watch Trading Pty Ltd;
   * Energy Watch Services Pty Ltd;
   * Insurawatch Pty Ltd;
-  * Telco Advice Pty Ltd;
-  * Energy Watch Services Limited (New Zealand).
+  * Telco Advice Pty Ltd.
 
 
 
@@ -58,15 +77,15 @@ If you provide us with personal information about another person (such as a fami
 
 The kinds of personal information that we collect and hold about you will depend on the circumstances of collection, including whether we collect the information from you as a customer, participating provider, contractor, stakeholder, job applicant or in some other capacity.
 
-For example, if you request a quote for a product or service offered by our participating providers, we may collect your name, address, email address, telephone number, date of birth and any other information required to provide you with the quote If you deal with us in some other capacity (for example, as a participating provider, a supplier or a stakeholder), we may collect your name, contact details and any other information you choose to provide to us.
+For example, if you request a quote for a product or service offered by our participating providers, we may collect your name, address, email address, telephone number, date of birth and any other information required to provide you with the quote.  If you deal with us in some other capacity (for example, as a participating provider, a supplier or a stakeholder), we may collect your name, contact details and any other information you choose to provide to us.
 
-Any personal information that you provide via our website or contact center (for example, for comparison purposes, to obtain a quote or to purchase products) is collected and stored by iSelect.
+Any personal information that you provide via our website or contact centre (for example, for comparison purposes, to obtain a quote or to purchase products) is collected and stored by iSelect.
 
 To provide some of our services, we may be required to collect and hold your sensitive information (such as medical or certain lifestyle information), for example, if you wish to obtain a comparison quote on health or life insurance. We will only collect sensitive information about you with your consent (unless we are otherwise allowed or required by law to collect that information).
 
 If you provide your personal information to a third party via iSelect (for example, to purchase products or services on third party website which is linked to iSelect) that information is collected and managed by those third parties. You should familiarise yourself with their privacy policy prior to deciding whether you wish to provide them with your information.
 
-We may monitor and record calls that you make to us in certain circumstances. For example, calls to our contact center are monitored and recorded for training and customer service purposes and to meet our regulatory obligations.
+We may monitor and record calls that you make to us in certain circumstances. For example, calls to our contact centre are monitored and recorded for training and customer service purposes and to meet our regulatory obligations.
 
 Some of the products offered by our participating providers can cover more than one person (for example, family and couples health insurance policies that cover two or more persons). If you provide us with information about your partner or a dependant on the policy, you must obtain that person’s permission to give us the information and inform them of this policy.
 
@@ -122,13 +141,13 @@ If you want to know how we obtained your personal information, please contact ou
 
 You can let us know at any time if you do not want the personal information we hold about you to be used or disclosed for direct marketing purposes, or you do not wish to be contacted in any of the above ways, by contacting us. In some circumstances we may need to contact you to obtain additional information, to verify your identity or to clarify your request.
 
-If you wish to unsubscribe from future marketing and promotional material, please email “Unsubscribe” to [marketing@iselect.com.au](mailto:marketing@iselect.com.au?subject=Unsubscribe)
+If you wish to unsubscribe from future marketing and promotional material, please email “Unsubscribe” to **unsubscribe@iselect.com.au**.
 
 ## Does iSelect disclose your personal information to overseas recipients?
 
-Some of our service providers are located overseas. As a result, iSelect may disclose your personal information to overseas recipients, including recipients located in the United States, the United Kingdom, South Africa, Singapore, Fiji, Philippines, Ireland, Denmark and Hong Kong. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas.
+Some of our service providers are located overseas. As a result, iSelect may disclose your personal information to overseas recipients, including recipients located in the United States, the United Kingdom, South Africa, Japan, Singapore, Fiji, Philippines, Ireland, India and Hong Kong. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas.
 
-The email platform used by iSelect is maintained overseas by Exact Target Inc. which has its principal place of business in the United States of America. Exact Target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/ "www.exacttarget.com"). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on iSelect’s behalf).
+The email platform used by iSelect is maintained overseas by Oracle. which has its principal place of business in the United States of America. Oracle’s privacy policy is available at [www.oracle.com/legal/privacy/](http://www.oracle.com/legal/privacy). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on iSelect’s behalf).
 
 ## Use of Government Identifiers
 
@@ -142,11 +161,11 @@ This may include a range of systems and communication security measures, as well
 
 We rely on the personal information we hold in conducting our business. Therefore, it is very important that the information we hold is accurate, complete and up-to-date. If you believe that your personal information is inaccurate, incomplete, out of date, and irrelevant or misleading, please contact our Privacy Officer using the details provided [below](https://web.archive.org/privacy-policy/#how-to-contact "How to contact us") and we will take reasonable steps to correct that information.
 
-## Website usage
+## Website usage and Cookies
 
 Our website is professionally hosted and operates in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.
 
-Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by iSelect to improve and customize your experience on our website. In addition, we collect aggregated non-personally identifiable data from our website to help us maintain and improve delivery of the iSelect online service and marketing. This aggregated information assists iSelect to improve content and website navigation.
+Cookies are pieces of information that a website downloads to your computer to record your preferences while you browse. Other technologies that may be used by iSelect include web beacons (which may operate in conjunction with cookies).  The information collected through these technologies may be used by iSelect to improve and customize your experience on our website. In addition, we collect aggregated non-personally identifiable data from our website to help us maintain and improve delivery of the iSelect online service and marketing. This aggregated information assists iSelect to improve content and website navigation.  You can configure your web browser to reject and block cookies.  If you decide to delete or block certain cookies, your experience on our website may be limited.
 
 When you visit any of our online resources, our system may collect information about your visit for statistical purposes, including:
 
@@ -160,13 +179,15 @@ When you visit any of our online resources, our system may collect information a
 
 
 
-We record this data to maintain our server and improve our services. There are several methods and packages that we use to collect visitor behaviours on each of our online platforms. Like a number of commercial web site operators, iSelect use tools to measure and analyse internet usage across our web sites. This enables iSelect to track the number of unique browsers to our web sites.
+We record this information to maintain our server and improve our services. There are several methods and packages that we use to collect visitor behaviours on each of our online platforms. Like a number of commercial web site operators, iSelect use tools to measure and analyse internet usage across our web sites. This enables iSelect to track the number of unique browsers to our web sites.
+
+In some cases, we allow third-party vendors to use cookies and web beacon to provide you with information about our services and products. These technologies may be used in regards to activities like surveys, website analytics, online behavioural advertising and email campaign management. There are ways for you to opt out of third-party cookies; (i) by contacting iSelect; or (ii) visiting youronlinechoices.com.au that allows you to opt out of some online behavioural advertising. These services provided by third party vendors generally operate without the collection or use of any personal information. In many cases, the information relates only to a device or is of a statistical nature, and we will not be able to identify the user.
 
 ## Links to third party sites
 
 Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites.
 
-These links are provided for your convenience and do not represent iSelect’s endorsement of any linked third party website. We recommend that you check the privacy policies of these third parties prior to providing them with your personal information.
+These links are provided for your convenience and do not represent iSelect’s endorsement of any linked third party website. We recommend that you review the privacy policies of these third parties prior to providing them with your personal information.
 
 ## How you can access or correct your personal information
 
@@ -213,4 +234,4 @@ Cheltenham 3192
 
 **Phone:** 03-9276-8000
 
-**Updated 17 February 2015**
+**Updated  19 May 2017**
