@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grannyslappers.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628080532id_/http%3A//date.grannyslappers.co.uk/help/privacy.cfm%3Fwldsite%3D20182) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grannyslappers.co.uk privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828113431id_/http%3A//date.grannyslappers.co.uk/help/privacy.cfm%3Fwldsite%3D20182) for the most accurate reproduction.*
 
 # GrannySlappers :: GrannySlappers Member Privacy Policy
 
