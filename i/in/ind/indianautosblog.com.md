@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the indianautosblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142516id_/http%3A//indianautosblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianautosblog.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828052107id_/http%3A//indianautosblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Indian Autos blog
+
+Nov 29, 2013 - 8:47pm IST
+
+**[Shrawan Raja](http://indianautosblog.com/author/notjustshrawan),** I'm the Founder & CEO of IndianAutosBlog.com. I love teamwork and talking about cars.
 
 This Privacy Policy governs the manner in which IndianAutosBlog.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [IndianAutosBlog.com](http://www.generateprivacypolicy.com/account/policies/edit/IndianAutosBlog.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by IndianAutosBlog.com.
 
@@ -66,3 +70,9 @@ IndianAutosBlog.com – 9, second street, race view colony, guindy, Chennai 6000
 shrawan@indianautosblog.com
 
 This document was last updated on November 29, 2013
+
+## Contribute to IAB
+
+Submit Spyshots & get Bragging rights! Click Here
+
+Custom Mods on your ride? Get it featured on IAB Submit
