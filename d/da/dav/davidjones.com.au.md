@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the davidjones.com.au privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502180842id_/http%3A//www.davidjones.com.au/Privacy-and-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjones.com.au privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828032449id_/http%3A//www.davidjones.com.au/Privacy-and-Security) for the most accurate reproduction.*
 
 # Privacy & Security - David Jones
 
-**DAVID JONES PRIVACY POLICY**
+**DAVID JONES PRIVACY POLICY December 2015**
 
-David Jones Limited ( **David Jones** ) recognises the importance of protecting the privacy of our customers and other third parties who provide their personal information to us.
+David Jones Pty Ltd (Australia) and David Jones (New Zealand) Pty Limited ( **David Jones** ) recognises the importance of protecting the privacy of our customers and other third parties who provide their personal information to us.
 
-Our policy for dealing with your personal information is explained below ( **Privacy Policy** ). 
+Our policy for dealing with your personal information is explained below ( **Privacy Policy** ).
 
-Our Privacy Policy was last updated on 1 March 2014 and includes disclosure of the matters set out in the Australian Privacy Principles.
+Our Privacy Policy was last updated in December 2015 and includes disclosure of thmatters set out in the Australian Privacy Principles and the New Zealand Privacy Principles.
 
 **Personal information we collect**
 
-When used in this policy, “personal information” has the meaning given to that term in the _Privacy Act 1988_ (Cth).  Personal information generally includes any information that can be used to personally identify you.
+When used in this policy, “personal information” has the meaning given to that term in the  _Privacy Act 1988_ (Cth) for our Australian operations and the _Privacy Act 1993_ for our New Zealand operations. Personal information generally includes any information that can be used to personally identify you.
 
-We may collect the following types of personal information from you:
+The personal information we collect from you is what is reasonably necessary for our business functions. We may collect the following types of personal information from you:
 
   * name;
   * residential or business address;
@@ -25,33 +25,67 @@ We may collect the following types of personal information from you:
   * signature;
   * telephone number;
   * proof of identity, such as your drivers licence or passport number;
-  * a photograph or video surveillance recording of you if you are physically present in our stores; 
-  * in relation to a David Jones American Express Card, information as further set out in the _David Jones American Express Joint Privacy Policy;_ or
-  * if you are a candidate for employment, we may collect other information as further set out in our application forms or during the recruitment process.  This may include information relating to your employment history, working eligibility rights, suitability for the role you are applying for, and your referee details.
+  * a photograph or video surveillance recording of you if you are physically present in our stores;
+  * in relation to a David Jones American Express Card (for our Australian operations), information as further set out in the _David Jones American Express Joint Privacy Policy;_ or
+  * if you are a candidate for employment, we may collect other information as further set out in our application forms or during the recruitment process. This may include information relating to your employment history, working eligibility rights, suitability for the role you are applying for, and your referee details
 
 
 
 **Other information**
 
-We may also collect information from you that is not personal information because it does not identify you personally.  This information is normally retained with your personal information and may include:
+We may also collect information from you that is not personal information because it does not identify you personally. This information is normally retained with your personal information and may include:
 
-  * your shopping preferences and a list of products and services you have purchased from David Jones.  This may include your shopping history, product types, departments, specifications, sizes, dimensions, colours, occasion date, or other attributes of products and services we have provided to you or may provide to you in the future; 
-  * information we require to deliver, service or fulfil warranty obligations for products or services;
-  * your marketing preferences, including the type of marketing materials you wish to receive and the method of delivery (email, SMS, direct mail, or other);
-  * information you provide to us via our customer service centre, website, application forms, or directly to team members within our stores in relation to our products and services; and
-  * device identification information when you use a computer, mobile phone, smart phone, tablet, or other device to access our WIFI service or interact with us through our online store ([www.davidjones.com.au](http://www.davidjones.com.au/)).  This information may include session cookies, your device IMEI number, IP address or MAC address.
+  * your shopping preferences and a list of products and services you have purchased from David Jones. This may include your shopping history, product types, departments, specifications, sizes, dimensions, colours, occasion date, or other attributes of products and services we have provided to you or may provide to you in the future;
+  * information we require to deliver, service or fulfil warranty obligations for products or services;
+  * your marketing preferences, including the type of marketing materials you wish to receive and the method of delivery (email, SMS, direct mail, or other);
+  * if you are a member of our loyalty program, your membership number, transaction history, account preferences, and reward redemption history for loyalty program rewards or services;
+  * information you provide to us via our customer service centre, website, application forms, or directly to team members within our stores in relation to our products and services;
+  * device identification information when you use a computer, mobile phone, smart phone, tablet, or other device to access our WIFI service or interact with us through our online store (www.davidjones.com.au). This information may include session cookies, your device IMEI number, IP address or MAC address; and
+  * information collected via our secure payment processing systems.
 
 
+
+**Purpose of collection of your personal information**
+
+We collect your personal information for the primary purpose of being able to sell and promote our products to you . In addition we collect your personal information so that we can carry out the following actions (each a **Purpose** ):
+
+  * to provide you with products and services that you have requested from us;
+  * to communicate with you, including about products and services, competition results, special offers, and events which might interest you;
+  * to answer your questions and provide you with information or advice;
+  * to interact with you via social media and digital marketing;
+  * to create orders, transaction records, agreements for the sale of products or services, accounts, tax invoices or receipts;
+  * if you are a loyalty program member, to service your loyalty account, fulfil redemptions, and to provide rewards and special offers to you in accordance with the terms of our loyalty program;
+  * provide your personal information to third parties that assist us in providing products and services you have requested, such as delivery service providers and fulfilment managers;
+  * carry out administration, marketing, planning, fraud and loss prevention activities, procurement, product and service development, quality control and research to improve the way David Jones and its related bodies corporate and service providers provide products and services to you;
+  * to consider and respond to complaints made by you;
+  * to comply with laws or regulations or to comply with any directions given by regulators or authorities; or
+  * if you are a candidate for employment, to assess your suitability for a position at David Jones
+
+
+
+**If we are unable to collect your personal information**
+
+If we are unable to collect your personal information, some or all of the following may occur:
+
+  * we may be unable to provide products or services to you, to the requested standard or at all;
+  * we may be unable to communicate with you to provide information about products and services that you have purchased from us, or may intend to purchase in the future;
+  * we may be unable to tailor the content of our marketing communications to suit your preferences;
+  * your experience when interacting with us may be delayed or not as efficient as you may expect; or
+  * if you are a candidate for employment, we may not be able to process your application for a position at David Jones
+
+
+
+**Pseudonyms and anonymity**
+
+While you have the discretion to use a pseudonym or remain anonymous when dealing with us, the use of pseudonyms may prevent us from being able to provide you with products and services or for other purposes described in this Privacy Policy. This is particularly the case where you order goods which need to be delivered to your postal address, or goods subject to age restrictions such as the supply of alcohol.
 
 **Cookies**
 
-We may use temporary (session) cookies or permanent cookies when you access our web site.  This allows us to recognise your browser and track the web pages you have visited. 
-
-You can switch off cookies by adjusting the settings on your web browser.
+Cookies are small pieces of information captured when your device is used to access online content. We use cookies to ensure a more streamlined online shopping experience, to identify and store your personal preferences without the need for you to save them and provide you with appropriate and relevant promotions. We may use temporary (session) cookies or permanent cookies when you access our web site, which allows us to recognise your browser and track the web pages you have visited. You can switch off cookies by adjusting the settings on your web browser.
 
 **Unsolicited information**
 
-If you send us personal information that we have not requested, or we determine that the personal information you have provided to us is not reasonably necessary or directly related to any of our functions or activities, we may de-identify or delete this information without notifying you to protect your privacy.
+We will endeavour to only take information from you which is reasonably necessary for our business functions. If you send us personal information that we have not requested, or we determine that the personal information you have provided to us is not reasonably necessary or directly related to any of our business functions or activities, we may de-identify or delete this information without notifying you to protect your privacy. 
 
 **How we collect your personal information**
 
@@ -59,73 +93,47 @@ Normally we collect information from you directly, unless it is unreasonable or 
 
 Collection of your personal information can occur through the following interactions:
 
-  * when you access and use our website or WiFi services;
-  * during conversations with our team members;
-  * when you complete purchase orders, registrations, requests or applications for our products or services (by phone, in person or electronically);
-  * when you communicate with us directly (by email, telephone, direct mail or any other means); 
-  * when you interact with us during promotions, competitions, special events, or by using devices within our stores; or
-  * if you are a candidate for employment, when you complete forms in relation to the recruitment and selection process, for the purpose of assessment.
+  * when you join our loyalty program both within Australia and New Zealand;
+  * when you register with us by creating an account, or subscribe to our marketing programs;
+  * when you access and use our website or WiFi services, or interact with us via social media or digital media;
+  * when you provide information to our team members;
+  * when you complete purchase orders, registrations, requests or applications for our products or services (by phone, in person or electronically);
+  * when you communicate with us directly (by email, telephone, direct mail or any other means);
+  * when you interact with us during promotions, competitions, special events, or by using devices within our stores; or
+  * if you are a candidate for employment, when you complete forms in relation to the recruitment and selection process, for the purpose of assessment.
 
 
 
 We may also collect personal information about you from the following third parties:
 
-  * retail brands and suppliers who provide goods and services within our stores.  This may include beauty, fashion, electrical, home wares and other suppliers who provide products and services to you on our behalf;
-  * credit reporting agencies and related entities when you apply for a David Jones American Express Card or David Jones StoreCard, as further set out in the _David Jones American Express Joint Privacy Policy_ ; __ and
-  * if you are a candidate for employment, we may collect information about you from your nominated referees, where you have authorised us to do so. 
+  * retail brands and suppliers who provide goods and services within our stores. This may include beauty, fashion, electrical, home wares and other suppliers who provide products and services to you on our behalf;
+  * credit reporting agencies and related entities when you apply for a David Jones American Express Card or David Jones StoreCard, as further set out in the _David  _ _Jones American Express Joint Privacy Policy_ ; and
+  * if you are a candidate for employment, we may collect information about you from your nominated referees, where you have authorised us to do so. 
 
 
 
 **How we hold your personal information**
 
-We may hold your personal information in either electronic or hard copy form.
-
-If you provide information to us electronically we retain this information in our computer systems and databases.  This includes computer software programs, internet servers, and hosted internet solutions provided by third parties.
-
-If you provide information to us in hard copy (paper) this information is normally retained in our files and a copy is made to our electronic files.
+We may hold your personal information in either electronic or hard copy form. If you provide information to us electronically we retain this information in our computer systems and databases. This includes computer software programs, internet servers, and hosted internet solutions provided by third parties. If you provide information to us in hard copy (paper) this information is normally retained in our files and a copy is made to our electronic files.
 
 **Security**
 
-We use industry standard security measures to safeguard and protect your information.  This includes taking reasonable steps to ensure your personal information is protected from misuse, loss, unauthorised access, modification or disclosure.
-
-**If we are unable to collect your personal information**
-
-If we are unable to collect your personal information, some or all of the following may occur:
-
-  * we may be unable to provide products or services to you, to the requested standard or at all;
-  * we may be unable to communicate with you to provide information about products and services that you have purchased from us, or may intend to purchase in the future;
-  * we may be unable to tailor the content of our marketing communications to suit your preferences;
-  * your experience when interacting with us may be delayed or not as efficient as you may expect; or
-  * if you are a candidate for employment, we may not be able to process your application for a position at David Jones. 
-
-
-
-**Purpose of collection of your personal information**
-
-We collect your personal information so that we can carry out the following actions (“ **Purpose** ”):
-
-  * to provide you with products and services that you have requested from us;
-  * to communicate with you, including about products and services, competition results, special offers, and events which might interest you;
-  * to answer your questions and provide you with information or advice;
-  * to create orders, transaction records, agreements for the sale of products or services, accounts, tax invoices or receipts; 
-  * provide your personal information to third parties that assist us in providing products and services you have requested, such as delivery service providers and fulfilment managers;
-  * carry out administration, marketing, planning, fraud and loss prevention activities, procurement, product and service development, quality control and research to improve the way David Jones and its related bodies corporate and service providers provide products and services to you;
-  * to consider and respond to complaints made by you;
-  * to comply with laws or regulations or to comply with any directions given by regulators or authorities; or
-  * if you are a candidate for employment, to assess your suitability for a position at David Jones.
-
-
+We use industry standard security measures to safeguard and protect your information. This includes taking reasonable steps to ensure your personal information is protected from misuse, loss, unauthorised access, modification or disclosure.
 
 **Disclosure of your personal information**
 
 Your personal information may be disclosed in connection with any Purpose to any of the following:
 
-  * our employees, contractors or service providers, to the extent reasonably necessary to fulfil our obligations to you.  This may include internet service providers, IT systems administrators, mailing houses, couriers, payment processors, and data entry service providers;
-  * retail brands and suppliers who provide goods and services within our stores.  This may include beauty, fashion, electrical, home wares and other suppliers who provide products and services to you on our behalf;
-  * our business advisors, including lawyers, accountants or other professional service providers, to the extent reasonably required;
-  * suppliers and other third parties with whom we have commercial relationships, for business, marketing and related purposes; 
-  * if you are a candidate for an employment position involving a third party with whom we have an agreement, to that third party to assess your application; and
-  * if required by law, to any person authorised by such law.  This may include the police service, ambulance service, or government departments or regulators within Australia in connection with law enforcement activities.
+  * our employees, contractors or service providers, to the extent reasonably necessary to fulfil our obligations to you. This may include internet service providers, IT systems administrators, mailing houses, couriers, payment processors, and data entry service providers;
+  * retail brands and suppliers who provide goods and services within our stores. This may include beauty, fashion, electrical, home wares and other suppliers who provide products and services to you on our behalf;
+  * our related companies and brands, including Country Road Group Pty Ltd (Mimco, Witchery, Trenery and Country Road) and Woolworths Holdings Limited (incorporated in South Africa);
+  * our business advisors, including lawyers, accountants or other professional service providers, to the extent reasonably required;
+  * our loyalty program partners, suppliers and service providers;
+  * suppliers and other third parties with whom we have commercial relationships, for business, marketing and related purposes;
+  * any of our related Australian and New Zealand entities;
+  * if you are a candidate for an employment position involving a third party with whom we have an agreement, to that third party to assess your application;
+  * if required by law, to any person authorised by such law. This may include the police service, ambulance service, or government departments or regulators within Australia or New Zealand in connection with law enforcement activities; and
+  * for any other purpose permitted by law.
 
 
 
@@ -133,15 +141,7 @@ Your personal information will not be shared, sold, rented or disclosed other th
 
 **Direct Marketing**
 
-We may send you direct marketing communications and information about products and services offered by us or our retail brands, partners or suppliers via email, SMS, or regular mail.
-
-If you have indicated a preference for a method of communication, we will endeavour to use that method wherever practical to do so.
-
-You may opt out of receiving marketing communications at any time by responding via the channel in which you received the marketing communication, or by contacting us (see contact information below).  You can unsubscribe from emails by clicking the unsubscribe link on the footer of the email communication you have received.  You may also update your personal information by editing your online profile.
-
-You may also receive marketing communications by post from our retail brands, partners and suppliers who provide goods and services within our stores, but this will only occur where you have requested that type of information from us or from a third party within our stores.
-
-We do not provide your personal information to any other organisations for the purposes of direct marketing.
+We may send you direct marketing communications and information about products and services offered by us or our retail brands, partners or suppliers via the channels you have nominated. This may include, but is not limited to, email, SMS, regular mail, social media and other digital channels. If you have indicated a preference for a method of communication, we will endeavour to use that method wherever practical to do so. You may opt out of receiving marketing communications at any time by responding via the channel in which you received the marketing communication, or by contacting us (see contact information below). You can unsubscribe from emails by clicking the unsubscribe link on the footer of the email communication you have received. You may also update your personal information by editing your online profile. You may also receive marketing communications by post, email, SMS , direct and digital channels from our retail brands, partners and suppliers who provide goods and services within our stores, but this will only occur where you have requested that type of information from us or from a third party within our stores. We do not provide your personal information to any other organisations for the purposes of direct marketing.
 
 **Information given by you to other parties**
 
@@ -149,25 +149,25 @@ So that we can provide a wide range of products and services to you, third parti
 
 **How you may access your information**
 
-You may access your personal information held by David Jones by making a request to us. 
+You may access your personal information (where it is held online) by logging into our portal at www.davidjones.com.au/update or through the David Jones website.
 
-Email:               [privacy@davidjones.com.au](mailto:privacy@davidjones.com.au) or [contactus@davidjones.com.au](mailto:contactus@davidjones.com.au)
+You may also access your personal information held by David Jones by making a request to us.  
 
-Phone:             1300 36 89 89
+Email: privacy@davidjones.com.au or contactus@davidjones.com.au 
 
-Mail:                 The Privacy Officer
+Mail:                 
 
-                        David Jones Limited
+The Privacy Officer
+
+David Jones Pty Ltd
 
 Legal Services
 
-Level 7M, 86-108 Castlereagh St 
+Level 7M, 86-108 Castlereagh St
 
-                        Sydney  NSW  2000
+Sydney  NSW  2000
 
-You may also access your own information where it is held via on online portal by accessing your own account over the internet.
-
-Normally we will provide a record of your personal information to you via your preferred contact method (phone, email or mail), and we will not charge a fee.
+Normally we will provide a record of your personal information to you via your preferred contact method (phone, email or mail), and we may charge a fee.
 
 If your request is unlawful or may interfere with the privacy of others we may reasonably refuse to provide access to your personal information.
 
@@ -193,39 +193,34 @@ We take reasonable steps to ensure that the overseas recipients of your personal
 
 We may disclose your personal information to the following locations:
 
-  * the United States of America - for database management services in connection with our email marketing and data management programs;
-
-
-  * the United Kingdom - for order management and processing for international hamper orders;
-
-
-  * New Zealand - for payment processing of online orders;
-
-
-  * the country in which you nominate as a delivery address – for order fulfilment (if not within Australia), if you have ordered products or services from our online store and require delivery to an address in that foreign country; and
-
-
-  * each country identified in the David Jones American Express Joint Privacy Policy, for personal information held in connection with your David Jones American Express Card.
+  * the **United States of America** , **Canada** and **Japan** \- for database management services in connection with our marketing, social media and data management programs
+  * the **United Kingdom** \- for order management and processing for international hamper orders;
+  * **New Zealand** \- for payment processing of online orders, for information held by our related company, Country Road Group Pty Ltd, or in relation to David Jones stores situated in New Zealand;
+  * **the country in which you nominate as a delivery address** – for order fulfilment (if not within Australia), if you have ordered products or services from our online store and require delivery to an address in that foreign country;
+  * **South Africa** \- for information held by David Jones' parent company; and
+  * **each country identified in the _David Jones American Express Joint Privacy Policy_** , for personal information held in connection with your David Jones American Express Card.
 
 
 
 **Other services**
 
-We may offer seasonal or temporary services, promotions, products, competitions or displays such as photo booths or other promotional events from time to time ( **Other Services** ).  Our Privacy Policy will apply to those Other Services but we may have additional terms which apply.  Any additional terms will be made available to you when you are utilising our Other Services.
+We may offer seasonal or temporary services, promotions, social media events, products, competitions or displays such as photo booths or other promotional events from time to time ( **Other Services** ).  Our Privacy Policy will apply to those Other Services but we may have additional terms which apply.  Any additional terms will be made available to you when you are utilising our Other Services.
 
 **Contacting us**
 
 If you would like to contact us in relation to this Privacy Policy or your personal information please contact us at:
 
-Mail:                 The Privacy Officer
+Mail:
 
-                        David Jones Limited
+The Privacy Officer
+
+David Jones Pty Ltd
 
 Legal Services 
 
 Level 7M, 86-108 Castlereagh St
 
-                        Sydney  NSW  2000
+Sydney  NSW  2000
 
 We may update our Privacy Policy from time to time.  Amendments will be published on our web page [www.davidjones.com.au/privacy-and-security](http://www.davidjones.com.au/privacy-and-security)
 
@@ -233,4 +228,7 @@ We may update our Privacy Policy from time to time.  Amendments will be publish
 
 If you are a candidate for employment, you may alternatively contact careers@davidjones.com.au in relation to this Privacy Policy or to access, update or amend your personal information.
 
-This Privacy Policy does not apply to current and former employees of David Jones.  If you are a current or former employee and have a query about your personal information, please contact your Human Resources Representative.  
+This Privacy Policy does not apply to current and former employees of David Jones Pty Ltd.  If you are a current or former employee and have a query about your personal information, please contact your Human Resources Representative. 
+
+**Social Networking Policy**  
+[Click here to view our Social Networking Policy](http://davidjones.com.au//~/media/David-Jones/Corporate/PDF/S15/121/S15_FinalSocialNetworkingPolicy.ashx)
