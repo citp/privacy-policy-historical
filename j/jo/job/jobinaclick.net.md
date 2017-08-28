@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobinaclick.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628075800id_/http%3A//uk.jobinaclick.net/registration/index.php%3Fmodule%3Dsite%26method%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinaclick.net privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828032207id_/http%3A//uk.jobinaclick.net/registration/index.php%3Fmodule%3Dsite%26method%3Dprivacy) for the most accurate reproduction.*
 
 # JobinaCLICK
 
@@ -254,15 +254,14 @@ Our Business Partners & Clients:
            [UK - Optical Express](http://www.opticalexpress.co.uk/) **  
 **
 
-  * [UK - Free Stuff](http://www.freestuff.eu/privacy-policy.php)
+  * [UK - Asthma](https://www.asthma.org.uk/terms/privacy-policy/)
   * [UK - Tara blue butterfly](http://www.tara-medium.com/privacy-policy.html)
-  * [UK - iTalk]()
+  * [UK - Free Stuff](http://www.freestuff.eu/privacy-policy.php)
+  * [UK - iTalk](https://web.archive.org/web/20170828032207id_/http%3A//uk.jobinaclick.net/registration/Terms%20and%20Conditions%20%20If%20'Yes'%20to%20a%20call%20from%20italk%20they%20may%20also%20contact%20you%20via%20the%20following%20methods%20-%20telephone,%20sms,%20email,%20post%20The%20competition%20is%20free%20to%20enter,%20the%20prize%20bundle%20consists%20of:%20One%20Years%20FREE%20broadband%20with%20worth%20up%20to%20%C2%A3500%20with%20FREE)
   * [UK - Free Lotto](http://www.freelotto.com/rules.asp)
-  * [UK - WinnersLabel]()
-  * [UK - GlobalTestMarket ](https://www.globaltestmarket.com/privacypolicy.php)
   * [UK - Simplify Digital](http://www.simplifydigital.co.uk/corporate/privacy-policy/)
   * [UK - Leo Vegas](https://www.leovegas.com/en#casino)
-  * [UK - Prize Reactor ](https://prizereactor.com.au/privacy-policy)
+  * [UK - 123 Casinos](http://123casinos.com/privacy-policy/)
   * [UK - Utility Warehouse](https://www.utilitywarehouse.co.uk/legal/privacy)
   * [UK - Restoration Media](http://candidatepoint.co.uk/privacy.php)
   * [UK - JOB - Results Generation - Austinshire Partners, LLC](http://resultsgeneration.com/privacy-policy-uk/)
