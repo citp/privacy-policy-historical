@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103170236id_/https%3A//newengland.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828111450id_/https%3A//newengland.com/account/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New England Today
 
@@ -20,8 +20,6 @@ We invite your online comments to the articles we post on NewEngland.com, and we
 
 When you first register with us on the NewEngland.com domain, we ask for your email address. Once you supply this information, you will be able to receive emails promoting content, important information about our site, about your subscription to our newsletter, or other offers or promotions. All information sent via email will come directly from NewEngland.com, and you may use the unsubscribe link in your email to remove your address from our list at any time. We will never sell or rent your information to anyone else. New England Network is owned and operated by Yankee Publishing, Inc., which is comprised of different operating groups. Any information we save about you may be shared among these operating groups. Occasionally you may receive offers from these operating groups. To remove your name from these lists, click the unsubscribe link at the bottom of any communications.
 
-New England Network does not share your personally identifiable information with third parties with one exception, if you sign up to receive a sponsored free guide from one of our partners, your name and email address will be shared with our partner. In those cases, we will include clear language explaining that your name and email address will be shared.
-
 All information on current and former members is retained in our database solely for customer service purposes.
 
 **Children’s Information**
@@ -42,9 +40,7 @@ New England Network is committed to your privacy. However, if another company ev
 
 **Yankee Magazine Subscriptions and Online Store Purchases**
 
-If you subscribe to Yankee Magazine via print, web, or mobile device; or make a purchase in our online store our customer service provider Palm Coast Data, LLC will collect personally identifiable information from you that may include your name, email address, billing address, shipping address, phone number and credit-card information. Palm Coast Data, LLC does not share your personally identifiable information with third parties for any reason.
-
-All information on current and former subscribers is retained in the Palm Coast Data, LLC database solely for customer service and renewal transaction purposes.
+If you subscribe to _Yankee Magazine_ via print, web, or mobile device; or make a purchase in our online store, our customer service provider Palm Coast Data, LLC will collect personally identifiable information from you that may include your name, email address, billing address, shipping address, phone number and credit-card information.  _Yankee Magazine_ on occasion shares its mailing list with approved advertisers to promote products or services we think our readers will enjoy.  If you do not wish to receive these offers, please [Contact Us](https://web.archive.org/contact-us/).
 
 **Questions, Comments?**  
 If you ever have any questions or comments, please [contact us](https://web.archive.org/contact-us/).
