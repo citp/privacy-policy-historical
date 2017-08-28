@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theluxurycloset.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122100958id_/https%3A//theluxurycloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theluxurycloset.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829002628id_/https%3A//theluxurycloset.com/privacy-policy) for the most accurate reproduction.*
 
 # LC - Buy & Sell - Privacy Policy
 
