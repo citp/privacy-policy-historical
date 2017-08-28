@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelseek.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628083846id_/http%3A//www.intelseek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelseek.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828032757id_/https%3A//www.intelseek.com/privacy.asp) for the most accurate reproduction.*
 
 # I.S. search engine privacy policy.
 
