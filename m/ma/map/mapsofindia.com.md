@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521051749id_/http%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829003003id_/https%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MapsofIndia.com
 
@@ -40,6 +40,8 @@ On some types of MapsOfIndia.com promotions, we will ask for your email address 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use some of MapsOfIndia.com services that require the use of cookies in order to participate. 
 
 MapsOfIndia.com as a policy does not sell or rent your information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. You can choose not to use a particular service or not to participate in certain promotions or contests, if you do not wish to allow such data sharing. 
+
+Mapsofindia.com has contracted with third party vendors, including Google, who may use cookies to serve ads based on a User's prior visits to Mapsofindia.com Google's use of Double Click cookie enables it and its partners to server ads Users based on their visits to MOW. Users may opt out of the use of Double Click cookie for internet based advertising by visiting the [Ad Preference Manager ](https://adssettings.google.com/u/0/authenticated?hl=en)or [here](https://tools.google.com/dlpage/gaoptout/), [Tribal Fusion Opt Out ](http://exponential.com/privacy/opt-out/), [Taboola Opt Out](https://www.taboola.com/privacy-policy#optout), or [NAI Opt Out ](http://optout.networkadvertising.org/#%21/).
 
 **6\. How much protected is my personal financial information?**   
 To keep your personal financial information private is vital and important to us. As with all personal information, MapsOfIndia.com will never rent or sell your personal financial information. Your use of certain services or features, known to us, may help us to offer you better and more relevant content and advertisements. Yet as with all personally identifiable information, we do not make this available to any third parties without your permission. 
