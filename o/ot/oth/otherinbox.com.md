@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523134317id_/https%3A//returnpath.com/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828205558id_/https%3A//returnpath.com/data-privacy-policy) for the most accurate reproduction.*
 
 # Data Privacy Policy - Return Path
 
