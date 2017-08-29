@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotions.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527183601id_/https%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotions.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829044443id_/https%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloWorld
 
