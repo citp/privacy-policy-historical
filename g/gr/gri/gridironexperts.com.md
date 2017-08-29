@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gridironexperts.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620154408id_/http%3A//gridironexperts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridironexperts.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829225713id_/https%3A//gridironexperts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gridiron Experts
 
