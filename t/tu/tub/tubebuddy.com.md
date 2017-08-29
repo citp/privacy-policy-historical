@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427174817id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829175331id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TubeBuddy
 
@@ -37,8 +37,11 @@ Any of the information we collect from you may be used in one of the following w
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
+• Industry research studies  
+TubeBuddy teams up with industry experts from time to time on research studies. Authenticated channel data is used in these studies 100% anonymously, however you can always opt-out of the studdies on your Channel Settings page on TubeBuddy.com.
+
 • To process transactions  
-Your information, whether public or private, will not be processed, sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
+Identifiable information, whether public or private, will not be processed, sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
   
 • To send periodic emails  
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
@@ -64,8 +67,7 @@ TubeBuddy accesses your channel in 2 ways. If you no longer want TubeBuddy to ac
   1. Uninstall the TubeBuddy plugin:   
 [Chrome](https://support.google.com/chrome/answer/113907?hl=en)  
 [Firefox](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_how-to-remove-extensions-and-themes)   
-[Safari](https://discussions.apple.com/thread/2523541?tstart=0)   
-[IE](http://windows.microsoft.com/en-us/internet-explorer/manage-add-ons#ie=ie-11)
+[Safari](https://discussions.apple.com/thread/2523541?tstart=0)
   2. Remove TubeBuddy's access to your channel via the YouTube API:   
 [Google security settings](https://security.google.com/settings/security/permissions)
 
@@ -116,7 +118,7 @@ Pismo Beach, California, USA 93449
 [support@tubebuddy.com](mailto:support@tubebuddy.com)  
 [Click link to contact us](https://www.tubebuddy.com/contact)
 
-Effective Date: September 30, 2016 
+Effective Date: July 13, 2017 
 
 **Summary**   
 We respect your privacy and use the most powerful security measures available to ensure information submitted on our site is safe. Your personal information will not be given out or sold to anyone under any circumstances. 
