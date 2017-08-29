@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakernews.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621143756id_/http%3A//sneakernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakernews.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829212410id_/https%3A//sneakernews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SneakerNews.com
 
