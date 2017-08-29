@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320151540id_/http%3A//myemma.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829132609id_/http%3A//myemma.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Emma Email Marketing
 
@@ -28,16 +28,16 @@ Emma participates in EU-US and Swiss-US Privacy Shield Frameworks, which have re
 
 In this privacy policy, we commit to upholding the [Privacy Shield principles](https://www.privacyshield.gov/EU-US-Framework) and outline our data collection, use, and disclosure practices. If any of our outlined practices are at odds with the Privacy Shield Principles, the Principles take precedence.
 
-The collection, storage, and/or onward transfer of personal information originating in the EU, as with all personal information stored by Emma, may be accessed by that data subject by contacting [privacy@myemma.com](mailto:privacy@myemma.com) with a clear request for disclosure. We may ask the requestor to verify their identity when reasonable to do so. If an individual residing in the EU questions or disputes the collection, use, or disclosure of their personal information, please notify us first at: 
+The collection, storage, and/or onward transfer of personal information originating in the EU, as with all personal information stored by Emma, may be accessed by that data subject by contacting [privacy@myemma.com](mailto:privacy@myemma.com) with a clear request for disclosure. We may ask the requestor to verify their identity when reasonable to do so. For any onward transfer to a third party processor related to providing Emma’s services, Emma assumes potential liability for the appropriate protection of that data. If an individual residing in the EU questions or disputes the collection, use, or disclosure of their personal information, please notify us first at: 
 
 Emma  
 9 Lea Avenue  
 Nashville, TN 37210  
 [privacy@myemma.com](mailto:privacy@myemma.com)
 
-Emma will make any reasonable effort, in concert with the Emma customer(s) involved (if any), to address and correct the issue, including editing or removing any data stored pertaining to that individual. Any unresolved Privacy Shield complaints will be referred to JAMS, our chosen alternative dispute resolution provider. Should this arbitration fail, the complaint may be subject to binding arbitration before the Privacy Shield Panel, in accordance with the Privacy Shield Agreement. All of these remedies are offered at no cost to the complainant, as long as the complainant is an individual.
+Emma will make any reasonable effort, in concert with the Emma customer(s) involved (if any), to address and correct the issue, including editing or removing any data stored pertaining to that individual. Any unresolved Privacy Shield complaints will be referred to [JAMS](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim), our chosen alternative dispute resolution provider. Should this arbitration fail, the complaint may be subject to binding arbitration before the Privacy Shield Panel, in accordance with the Privacy Shield Agreement. All of these remedies are offered at no cost to the complainant, as long as the complainant is an individual.
 
-As stated elsewhere in this policy, Emma is required to comply with certain requests from law enforcement and the U.S. government, including the U.S. Federal Trade Commission, whose investigatory and enforcement powers Emma is subject to, to provide data.
+As stated elsewhere in this policy, Emma is required to comply with certain requests from law enforcement and the U.S. government to provide data. Further, Emma is subject to the investigatory and enforcement powers U.S. Federal Trade Commission.
 
 ### The Data We Collect
 
