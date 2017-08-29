@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the skylanders.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129144739id_/https%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skylanders.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829153416id_/https%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Activision | Privacy Policy
 
-**Activision uses "Cookies" to tailor content, marketing, and improve and adjust user experience. To find out more about "Cookies", and options available to manage them, please[click here](https://web.archive.org/legal/cookie-policy)** **. By using this Activision online property, you consent to our use of "Cookies".**
+**Activision uses "Cookies" to tailor content, marketing, and improve and adjust user experience. To find out more about "Cookies", and options available to manage them, please[click here](https://web.archive.org/legal/cookie-policy). By using this Activision online property, you consent to our use of "Cookies".**
 
-**Welcome to Activision's Privacy Policy. This Privacy Policy was last updated on November 3, 2016.**
-
-Every day, millions of people worldwide use and enjoy Activision websites, products and services. We appreciate your trust in our products and services. In order to provide you with great games and make them better, Activision may collect both personal information and non-personal information (collectively, "Information"). We take care of how your Information is processed and used.
+**Welcome to Activision's Privacy Policy. This Privacy Policy was last updated on June 30, 2017.**
 
 [](http://www.esrb.org/confirm/activision-confirmation.jsp)
 
+Every day, millions of people worldwide use and enjoy Activision websites, products and services. We appreciate your trust in our products and services. In order to provide you with great games and make them better, Activision will collect both personal information and non-personal information (collectively, " **Information** "). We take care of how your Information is processed and used.
+
 This Privacy Policy:
 
-  * explains how Activision collects, stores, uses, and may transfer or disclose your **Information;**
+  * explains how Activision collects, stores, uses, and may transfer or disclose your Information **;**
   * applies to all Activision websites, products and services (" **Properties** ") **.**
 
 
 
-Activision uses cookies and/or similar technologies on the Properties, for more information about Activision’s use of cookies please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ , which is incorporated by reference into this Privacy Policy and made part of this Privacy Policy. 
+Activision uses cookies and/or similar technologies on the Properties. For more information about Activision’s use of cookies please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ , which is also incorporated by reference into this Privacy Policy and made part of this Privacy Policy. 
 
-Activision reserves the right to make changes to this Privacy Policy at any time by posting a modified version online at <https://www.activision.com/legal/privacy-policy>, so please review it frequently to ensure you are aware of any changes. If Activision makes a material change to this Privacy Policy, we will provide notice to you in our Privacy Policy as posted and on our home page.
+Activision reserves the right to make changes to this Privacy Policy at any time by posting a modified version online at <https://www.activision.com/legal/privacy-policy>, so please review it frequently to ensure you are aware of any changes. If Activision makes a material change to this Privacy Policy, we will provide notice to you in our Privacy Policy as posted and on the Activision home page.
 
 **Table of Contents**
 
   * **1\. Summary and Scope of Activision Privacy Policy**
-  * **2\. ESRB Certified Program**
+  * **2\. ESRB Privacy Certified Program**
   * **3\. Information We Collect and How We Use It**
   * **4\. Children and Parents**
   * **5\. Your Choices**
@@ -50,20 +50,20 @@ This Privacy Policy applies to all Properties, including:
 
 Whenever you use a Property we may collect, process, and combine Information; contact you from time to time; and provide you with customer service and other services you have requested. We may, from time to time, also disclose Information to Activision group companies, and/or share Information with suppliers and partners, in order to provide you with goods or services you have requested or online advertising selected by us.
 
-This Privacy Policy does not apply to third party websites or online properties to which our Properties may link, and you accept Activision is not responsible for the security or privacy practices of any such third party websites or properties.
+This Privacy Policy does not apply to third party websites, online properties, or systems to which our Properties may link or through which our Properties may be accessed, and you accept Activision is not responsible for the security or privacy practices of any such third party websites, properties or systems. In some instances, we may direct you to a site that is operated by a vendor or partner. Even though the page where you provide information may have the look and feel of the Properties, a different privacy policy may govern that information collection by our vendor or partner.
 
 This Privacy Policy does not cover Information provided when you apply for a job at Activision. Please refer [here](https://www.activision.com/legal/applicant-privacy-policy) for more information.
 
 **2\. ESRB  Privacy Certified Program**  
-This Privacy Policy and the ESRB certification seals shown on our websites confirm that Activision is a licensee and participating member in the [Entertainment Software Rating Board's (" **ESRB** ") Privacy Certified Program](http://www.esrb.org/privacy/faq.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and ESRB Privacy Certified has reviewed and certified that we meet established online information collection and use practices on all Activision Properties where this Privacy Policy is posted.
+This Privacy Policy and the ESRB certification seals shown on our Properties confirm that Activision is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Certified Program](http://www.esrb.org/privacy/faq.jsp) (“ **ESRB Privacy Certified** ”). To protect your privacy, we have voluntarily undertaken this privacy initiative and ESRB Privacy Certified has reviewed and certified that we meet established online information collection and use practices on all Activision Properties where this Privacy Policy is posted.
 
 Click here for details Hide details
 
-As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
+As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our Properties and other enforcement and accountability mechanisms administered independently by the ESRB Privacy Certified.
 
-Whenever you visit a website that displays the ESRB Privacy Certified certification seal, you may request information about:
+Whenever you visit Properties that display the ESRB Privacy Certified certification seal, you may request information about:
 
-  * Whether a company uses cookies, tracks IP Addresses or uses other passive means to collect information;
+  * Whether a company uses cookies, tracks IP addresses or uses other passive means to collect information;
   * Who, if anyone, is collecting your personal information and how will it be used;
   * With whom, if anyone, will your personal information be shared;
   * What choices you have with regard to the use of your personal information;
@@ -91,24 +91,22 @@ Back to top
 
 **3\. Information We Collect and How We Use It**
 
-Activision may collect Information from you and other sources. We use and may combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our games, your scores, new features and more, including for marketing and promotional purposes.
+Activision collects Information about you from you and other sources. We use and may combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our games, your scores, new features and more, including for marketing and promotional purposes.
 
 Click here for details Hide details
 
 **Information Provided By You**  
 Activision may collect Information from you when you: (A) create an Activision account with a Property; (B) use our Properties; (C) participate in sweepstakes, contests and promotions; (D) use Activision customer service; (E) choose to receive newsletters on products and services, receive marketing emails, and/or participate in surveys; (F) buy Activision services or products online; (G) use “send-a-friend” functionality; or (H) allow sharing through Social Media.
 
-**A. Creation of an Activision Account**
+**A. Creation of an Activision Account  
+**Activision will collect certain Information from you when you register with a Property. Personal information collected during registration includes your first and last name, email address and username. This personal information is combined with other Information such as your date of birth, country and information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we will collect and may combine Information when you link a third party account (e.g., XBOX Live, PlayStation Network, and Steam) to your Activision account, and the use of certain Properties may require you to link a third party account to your Activision account. With an Activision account you may enjoy a tailored service and support across the Properties such as the community portals, email newsletters and the games you love and enjoy. 
 
-Activision collects certain personal information from you when you register with a Property, such as your first and last name, address, postal code, email address and Activision user name. Additionally, we collect your date of birth and marketing preferences. With an Activision account you may enjoy a tailored service and support across the Properties such as the community portals, email newsletters and the games you love and enjoy.
-
-Unfortunately, as of September 1st, 2015, we no longer offer Activision accounts to Russian based consumers.
-
-**B. Use of our Properties**
-
-When you visit or use our Properties we may collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, gameplay data, purchase histories, and Social Media data. We may use Cookies and/or similar technologies (collectively referred to as “ **Cookies** ”) to do this.  In addition, we or our partners may also use Cookies to serve ads in our Properties. Please see our [Cookie Policy](https://web.archive.org/legal/cookie-policy) for more details.
+**B. Use of Our Properties  
+**When you visit or use our Properties we may collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, third party account information (e.g., the username associated with your XBOX Live, PlayStation Network, or Steam account), gameplay data, purchase histories, and Social Media data. We may use Cookies and/or similar technologies (collectively referred to as “ **Cookies** ”) to do this.  In addition, we or our partners may also use Cookies to serve ads in our Properties. Please see our [Cookie Policy](https://web.archive.org/legal/cookie-policy) for more details.
 
 Activision may collect, process, and combine data such as your age, gender, interests, name, email address, gameplay, marketing preferences, customer service, and device-related information.
+
+Activision may also publicly display certain Information about you, including third party account information and gameplay information, on the Properties. For example, your PlayStation gamertag will be displayed on leaderboards if you are a top player in a certain Activision game, regardless of whether or not you have an Activision account. If you have synced a third party account with your Activision account, your gamertag may be made available to be searched by other users if you have not opted out of this feature. You may unlink the third party account or prevent it from being searched at any time through your Activision profile settings.    
 
 To provide fair gaming experience to all players, Activision uses anti-fraud technologies to prevent any cheating in our games.
 
@@ -151,7 +149,7 @@ Back to top
 
 Activision does not knowingly collect or store any personal information from children under 13.
 
-We recognize a special need to protect the personal information of children. We urge parents to instruct their children to never give out their real names, addresses, phone numbers, or other personal information without parental permission, when online. Activision also recommends that parents familiarize themselves with parental controls available on consoles, mobile telephones, tablets and other devices they provide to their child and accompany their child if aged under 13 years of age when online. Parents should contact Activision immediately if they have any concerns. Please see the Contacting Us section below for further details.
+We recognize a special need to protect the personal information of children. We urge parents to instruct their children to never give out their real names, addresses, phone numbers, or other personal information without parental permission, when online. Activision also recommends that parents familiarize themselves with parental controls available on consoles, mobile telephones, tablets and other devices they provide to their child and accompany their child if aged under 13 years of age when online. Parents should contact Activision immediately if they have any concerns. Please see the  **Contacting Us**  section below for further details.
 
 Back to top
 
@@ -163,9 +161,9 @@ Click here for details Hide details
 
 **Your Choices About Information Provided by You**
 
-If you do not want to provide Activision with personal information, then you can choose not to provide it. Please note that if you choose not to provide us with personal information, we may not be able to provide you with the relevant Activision product or service that you want. For example, without providing personal information, you may not be able to use the Properties and/or create an Activision account.
+If you do not want to provide Activision with personal information, then you can choose not to provide it. Please note that if you choose not to provide us with personal information, we may not be able to provide you with the relevant Activision product or service that you want. For example, without providing an email address, you will not be able to create an Activision account. ****
 
-**Your Choices about Information Provided by Third Parties**
+**Your Choices About Information Provided by Third Parties**
 
 You may be able to control how third parties collect and share your Information by changing your preferences or opting out of collection directly with those third parties. Before disclosing Information to third parties, we recommend you check their respective privacy policies for further details.
 
@@ -184,11 +182,11 @@ Back to top
 
 **6\. Sharing Information**
 
-Activision shares Information with
+Activision shares Information:
 
   * with the various Activision group companies for the purposes described in this Privacy Policy;
   * with vendors and partners engaged by Activision in order to provide you with goods or services you have requested or online advertising selected by us;
-  * if required to do so by applicable law or regulation;
+  * if required to do so by applicable law, regulation or legal process;
   * if necessary to exercise, establish or defend our legal rights;
   * if necessary to protect the vital interests of any person; and
   * in connection with the sale of our business or assets.
@@ -205,19 +203,16 @@ Vendors provide goods and services (for example, billing, consumer services supp
 **Third Parties**  
 Other third parties may need your Information in order to provide goods and/or services you have requested, for example, to deliver Activision digital content you have purchased through your games console, mobile phone, or tablet.
 
-**Law**
-
-We may disclose your Information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
-
-This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
-
-**Legal Rights**  
-We may disclose your Information where necessary for the purpose of exercising, establishing or defending our legal rights. For example, we may review your gameplay, communications, and other account information in order to investigate allegations of cheating, hacking or any other breach or alleged breach of any applicable Terms of Use or this Privacy Policy and disclose your personal information, including communications, to our legal advisors, consultants and law enforcement or other government officials.
+**Law**  
+We will disclose your Information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. 
 
 This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
 
-**Vital interests**  
-We may disclose your Information with third parties where we believe this is necessary to protect the vital interests of any person. For example, we may disclose Information relating to an online account if we in good faith believe the user of that account is using it in ways that are harmful to others (e.g. making inappropriate contact with minors).
+**Legal Rights  
+**We will disclose your Information where necessary for the purpose of exercising, establishing or defending our legal rights.  For example, we will review your gameplay, communications, and other account information in order to investigate allegations of cheating, hacking or any other breach or alleged breach of any applicable Terms of Use or this Privacy Policy and disclose your personal information, including communications, to our legal advisors, consultants and law enforcement or other government officials.
+
+**Vital interests  
+**We disclose your Information with third parties where we believe this is necessary to protect the vital interests of any person.  For example, we disclose Information relating to an online account if we in good faith believe the user of that account is using it in ways that are harmful to others (e.g. making inappropriate contact with minors).
 
 **Sale of our business or assets**  
 Separately, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Activision's customer information including Information and communications may be transferred to our successor or assign.
@@ -233,11 +228,16 @@ Activision takes a range of security measures designed to protect your personal 
 
 Back to top
 
-If for any reason you wish to view, correct, update or delete personal information collected about you, simply access your Activision account through [ https://www.activision.com/](https://www.activision.com/) or other product or service as applicable and edit/delete your personal information. You will need your password to access your personal account. You may also send us an email asking us to delete your account at [removeaccount@activision.com](mailto:removeaccount@activision.com).
+**8\. Accessing Information**  
+You can view, correct, update or request the deletion of your personal information in any of your Activision accounts at any time.
 
-If you have any questions about the Information we process about you, or if you wish to view, update or delete your personal information, you can send your request to [privacy@activision.com](mailto:privacy@activision.com). Alternatively, US, Canada or Mexico residents may write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy; and users living in any other country may write to: Activision Blizzard UK Limited, Ditton Park, Riding Court Road, SLOUGH, Berks, SL3 9LL, UK,, ATTN: International Legal, Privacy. We will be happy to review, update or remove Information as appropriate.
+Click here for details Hide details
 
-We will retain your personal information for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Residual copies of Information that has been deleted from your account may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
+If for any reason you wish to view, correct, or update personal information collected about you, or if you want to deactivate your Activision account, simply access your Activision account through[ https://www.activision.com/](https://www.activision.com/) or another product or service as applicable and edit your personal information. You will need your password to access your personal account. You may also send us an email asking us to deactivate your account at [privacy@activision.com](mailto:privacy@activision.com).
+
+If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, you can send your request to [privacy@activision.com](mailto:privacy@activision.com). Alternatively, , US, Canada or Mexico residents may write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy; and users living in any other country may write to: Activision Blizzard UK Limited, Ditton Park, Riding Court Road, SLOUGH, Berks, SL3 9LL, UK,, ATTN: International Legal, Privacy. We will be happy to review, update or remove Information as appropriate.
+
+In some cases, we may not be able to delete your personal information and will retain and use Information for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Residual copies of Information that has been removed from your account may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
 
 Back to top
 
@@ -259,15 +259,17 @@ Please note your use of this Activision website, product or service is also subj
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an email to [privacy@activision.com](mailto:websitedisclosurepolicy@activision.com), or write us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy. We will be happy to honor your request.
 
 **California Privacy Rights for Minor Users**  
-Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or delete information provided by you or publicly posted by you, by simply accessing your Activision account through <https://www.activision.com/> or other product or service as applicable and editing/deleting your Information. You will need your password to access your personal account. You may also send us an email asking us to delete certain posted content at [privacy@activision.com](mailto:privacy@activision.com). In the alternative, you may write to us at Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy.
+Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or remove Information provided by you or publicly posted by you, by accessing your Activision account through <https://www.activision.com/> or another product or service as applicable and editing/removing your Information. You will need your password to access your personal account. You may also send us an email asking us to remove certain posted content at [privacy@activision.com](mailto:privacy@activision.com). In the alternative, you may write to us at Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy.
 
-We will be happy to review, update or remove information and/or content as appropriate. Residual copies of information and/or content that have been deleted from your account and/or the Properties may remain in our backup systems for approximately one month. We may still retain your information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
+We will be happy to review, update or remove Information and/or content as appropriate. Residual copies of Information and/or content that have been removed from your account and/or the Properties may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
 
 Back to top
 
 **12\. Disclosure to Users Outside the US**  
 In addition, if you are a visitor to our websites or other online products and services from outside the U.S., the personal information you provide may be collected, processed and stored directly on, or transferred to, servers in the United States or other countries where Activision group companies or vendors maintain facilities or business operations.
 
-No matter where the Information is located, Activision takes commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your information, please do not provide your information when requested and stop using our websites and other online products and services.
+No matter where the Information is located, Activision takes commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your Information, please do not provide your Information when requested and stop using our websites and other online products and services.
+
+Unfortunately, as of September 1st, 2015, we no longer offer Activision accounts to Russian based consumers.
 
 Back to top
