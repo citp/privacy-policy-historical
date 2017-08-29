@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175100id_/http%3A//www2.ed.gov/notices/privacy/index.html%3Fsrc%3Dft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829182921id_/https%3A//www2.ed.gov/notices/privacy/index.html%3Fsrc%3Dft) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Department of Education
 
