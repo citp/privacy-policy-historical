@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiebound.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323203443id_/http%3A//www.indiebound.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiebound.org privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829193051id_/https%3A//www.indiebound.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IndieBound
+# Privacy Policy | IndieBound.org
 
 American Booksellers Association and IndieBound.org Security & Privacy Policy
 
@@ -63,10 +63,10 @@ The Site may contain links to other web sites. Additionally, third party sites m
 D. Choice  
 We provide you with the following choices regarding the use of your personal information:
 
-  * You may choose not to provide us with any personal information; 
-  * If you are a user of the Site, you may set your browser not to accept cookies, or to warn you when a cookie is being placed on your computer. If you choose not to accept cookies, however, your ability to navigate this web site may be hindered; 
-  * If you would like to unsubscribe to any of our services or would like us to remove you from any of our on-line mailing lists, please email us with the subject heading "unsubscribe from ABA information" or call us at 800-637-0037; 
-  * ABA members may access the personal information we have collected about you and correct any inaccuracies by calling us at 800-637-0037; 
+  * You may choose not to provide us with any personal information;
+  * If you are a user of the Site, you may set your browser not to accept cookies, or to warn you when a cookie is being placed on your computer. If you choose not to accept cookies, however, your ability to navigate this web site may be hindered;
+  * If you would like to unsubscribe to any of our services or would like us to remove you from any of our on-line mailing lists, please email us with the subject heading "unsubscribe from ABA information" or call us at 800-637-0037;
+  * ABA members may access the personal information we have collected about you and correct any inaccuracies by calling us at 800-637-0037;
   * If you do not want us to share your information, please send e-mail or call us at 800-637-0037.
 
 
