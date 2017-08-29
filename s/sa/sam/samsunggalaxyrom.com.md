@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsunggalaxyrom.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610005558id_/http%3A//www.samsunggalaxyrom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsunggalaxyrom.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829202118id_/https%3A//samsunggalaxyrom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SAMSUNG GALAXY ROM
 
@@ -110,7 +110,7 @@ deemed your acceptance of those changes.
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this  
-site, or your dealings with this site, please [contact us](http://www.galaxyrom.com/contact-us) at:  
+site, or your dealings with this site, please [contact us](https://samsunggalaxyrom.com/redirect/http://www.galaxyrom.com/contact-us) at:  
 “Samsung Galaxy Rom”  
 http://www.samsunggalaxyrom.com/  
 “Samsung Galaxy Rom” Admin
