@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the minterest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074429id_/http%3A//www.minterest.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minterest.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829105341id_/http%3A//www.minterest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minterest
 
 ****
 
-_Disclosure: This Privacy Policy governs the manner in which Minterest collects, uses, maintains and discloses information collected from users (each, a “User”) of the_[ _http://www.minterest.org_](http://www.minterest.org/) _(or[http://www.minterest.com](http://www.minterest.com/)) website (“Site”). This privacy policy applies to the Site and all products and services offered by Minterest._
+_Disclosure: This Privacy Policy governs the manner in which Minterest collects, uses, maintains and discloses information collected from users (each, a “User”) of the_[ _http://www.minterest.com_](http://www.minterest.com/) _(or[http://www.minterest.com](http://www.minterest.com/)) website (“Site”). This privacy policy applies to the Site and all products and services offered by Minterest._
 
 **What information do we collect?**
 
