@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629181144id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830005258id_/https%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
 
-# 1105 Media, Inc. - Privacy Policy
+# 1105 Media Privacy Policy -- 1105 Media
+
+_**Effective November 20, 2013**_
+
+1105 Media Inc. recognizes the importance of protecting the privacy of information provided to us. Accordingly, we strive for compliance with all federal and state privacy laws and follow industry best practices in order to best serve our community. We consider all subscribers, customers, members, registrants, conference attendees and speakers part of the 1105 Media Inc. community. The following guidelines have been created to demonstrate our commitment to privacy.
+
+Our location and contact information:
+
+> _Privacy Issues  
+>  1105 Media Inc.  
+>  9201 Oakdale Avenue, Suite 101  
+>  Chatsworth, CA 91311  
+>  Phone: (866) 410-1321  
+>  [E-mail](mailto:privacy@1105media.com)_
 
 #### Collected Information
 
@@ -18,13 +31,13 @@ Transactional emails are sent in order to maintain your account with 1105 Media 
 
 Promotional emails are sent to bring you valuable, screened offers. You can opt-out of receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message, by [clicking here](https://1105.sub-forms.com/ONE6909_1105pref&pk=PP) to update your email preferences, calling us at the number above, or by writing to us at the address above.
 
-It will take up to 10 business days to process your e-mail opt-out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request.
+It may take several days to process your e-mail opt-out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request.
 
 #### Postal Communications
 
 If you volunteer a postal address you may receive periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other carefully selected outside companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[_I do not wish to receive any mailings from 1105 Media Inc. or other companies._](https://web.archive.org/web/20150629181144id_/http%3A//www.1105media.com/mailForm.html)
+> [**I do not wish to receive any mailings from 1105 Media Inc. or other companies.**](https://web.archive.org/forms/donotmail.aspx)
 
 It will take up to 3 months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request. 
 
@@ -32,7 +45,7 @@ It will take up to 3 months to process your do-not-mail request. Please note tha
 
 If you volunteer a telephone number you may receive periodic telephone calls about new products, services, and/or upcoming events. We may also provide this information to carefully selected outside companies for promotional purposes. If you do not wish to receive telephone calls from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.](https://web.archive.org/web/20150629181144id_/http%3A//www.1105media.com/callForm.html)
+> [**I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.**](https://web.archive.org/forms/donotcall.aspx)
 
 It will take up to 1 month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request.
 
@@ -40,7 +53,7 @@ It will take up to 1 month to process your do-not-call request. Please note that
 
 If you volunteer a fax number you may receive promotional faxes on a very limited basis. Only those with whom we have an existing business relationship (such as an established subscription or registration) will receive such faxes. If you do not wish to receive such faxes, please let us know by sending us an e-mail through the e-mail link provided above, writing to us at the above address, or calling us at the above telephone number.
 
-[I do not wish to receive any fax messages from 1105 Media Inc.](https://web.archive.org/web/20150629181144id_/http%3A//www.1105media.com/faxForm.html)
+> [**I do not wish to receive any fax messages from 1105 Media Inc.**](https://web.archive.org/forms/donotfax.aspx)
 
 It will take up to 1 month to process your do-not-fax request. Please note that you may receive additional communications from us after submitting your request if your fax number was selected from our database just prior to receiving and processing your request.
 
@@ -73,5 +86,3 @@ From time to time, we may use provided information for new, unanticipated uses n
 #### Enforcement
 
 If you feel that this site is not following its stated information policy, please contact us through the above postal address, e-mail link, or phone number.
-
-[](http://www.the-dma.org/)
