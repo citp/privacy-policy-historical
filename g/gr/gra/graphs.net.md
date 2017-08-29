@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphs.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629151019id_/http%3A//graphs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphs.net privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829051833id_/https%3A//graphs.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Infographics | Graphs.net
+# Privacy Policy - Infographics | Graphs.net
 
 We know that you care about how your personal information is used and shared, and we take your privacy seriously. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
