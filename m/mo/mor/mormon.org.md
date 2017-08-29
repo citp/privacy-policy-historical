@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610031627id_/https%3A//mormon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829171500id_/https%3A//www.mormon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mormon.org
 
