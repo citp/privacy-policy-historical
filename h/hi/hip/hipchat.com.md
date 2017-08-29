@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022002113id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829184229id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HipChat
 
