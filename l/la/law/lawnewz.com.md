@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawnewz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110253id_/http%3A//lawnewz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnewz.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829223825id_/https%3A//lawnewz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Law News
 
