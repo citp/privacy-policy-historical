@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sporttechie.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323034941id_/http%3A//www.sporttechie.com/about/sporttechie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporttechie.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829180625id_/https%3A//www.sporttechie.com/about/sporttechie-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SportTechie
 
@@ -12,7 +12,7 @@ We may collect personal information about you in various ways. For example, we m
 
 _Information You Provide to Us_.  When you use the Services, you may be invited to provide personal information to enhance your experience. For example, during registration for our email newsletter, we may ask for information such as your name, e-mail address, year of birth, gender, street address, job title and industry and related information.
 
-We also collect information that you provide us when you comment on articles, participate in message boards, and submit images, photos, videos, or other content to the Services. Please review our Submit Content [guidelines](http://www.sporttechie.com/submit-content/) for more information about content that you submit to certain areas of our Services.
+We also collect information that you provide us when you comment on articles, participate in message boards, and submit images, photos, videos, or other content to the Services.
 
 _Information About Your Use of the Services_.  In addition to the information you provide to us directly, we may collect information about your use of the Services. For example, we may collect:
 
