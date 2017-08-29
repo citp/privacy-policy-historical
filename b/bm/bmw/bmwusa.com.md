@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227224222id_/http%3A//www.bmwusa.com/Standard/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829091934id_/https%3A//www.bmwusa.com/Standard/Content/PrivacyPolicy/%3Fmobileoverride%3Dtrue) for the most accurate reproduction.*
 
 # BMW Privacy Policy - BMW - BMW North America
 
@@ -164,10 +164,7 @@ In addition, most internet browsers allow you to change your browser settings to
 11\. Do Not Track  
 Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, BMW NA and the Sites do not recognize DNT.
 
-12\. Your California Privacy Rights  
-This privacy policy describes how we may share you information, including for their own marketing purposes. California residents are entitled to request and obtain from BMW NA once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information and for any other questions about our privacy practices and compliance with California law, please contact us at the address and phone number listed below. 
-
-13\. Questions and Comments  
+12\. Questions and Comments  
 Please feel free to send your privacy-related comments or questions to 
 
 [_privacy@bmwusa.com_](mailto:privacy@bmwusa.com)
