@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnooz.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129141249id_/https%3A//www.tnooz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnooz.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829225054id_/https%3A//www.tnooz.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Tnooz
 
