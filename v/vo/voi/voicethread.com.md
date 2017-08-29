@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicethread.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629182803id_/http%3A//voicethread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicethread.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829071945id_/http%3A//voicethread.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -176,3 +176,5 @@ California Privacy Disclosures
 Do Not Track: VoiceThread does not track its users over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. For more information on “do not track”, please visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
 Third parties that have content embedded on the VoiceThread Website, such as a social feature, may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a the VoiceThread Website from a certain IP address. Third parties cannot collect any other personally identifiable information from VoiceThread’s websites unless you provide it to them directly.
+
+Updated 3/14/2017
