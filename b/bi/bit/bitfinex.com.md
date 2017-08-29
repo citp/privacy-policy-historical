@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitfinex.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205150719id_/https%3A//www.bitfinex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitfinex.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829232207id_/https%3A//www.bitfinex.com/legal/privacy) for the most accurate reproduction.*
 
 # Bitfinex - Bitfinex Privacy Policy
 
@@ -18,9 +18,10 @@ Personal Information is collected in order to:
     8. 1.8.deliver products and services to you;
     9. 1.9.provide you with news and other matters of general interest to you as a Bitfinex customer; and,
     10. 1.10.to meet Bitfinex’s legal and regulatory requirements.
+
 The Site may use a browser feature called a “cookie” to collect information anonymously and track user patterns on Bitfinex. A cookie is a small text file containing a unique identification number that identifies a customer’s browser, but not the customer personally, each time that customer visits a websites using cookies. Cookies tell Bitfinex which pages of the Site are visited and how many people visited each one. This helps enhance visitors’ online experience. Cookies also serve to identify your computer so that your preferences can be saved for future visits, and Bitfinex may work with third parties that use these cookies to help us.
 
-The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on the Site. 
+The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on the Site.
 
   2. 2.Consent: Consent is required for the collection of Personal Information and the subsequent use or disclosure of Personal Information. The form of consent may vary, depending upon the circumstances and the type of Personal Information obtained. In the case of Bitfinex, your agreement with the Terms of Service constitutes your consent to the collection and use of Personal Information as described in this Privacy Policy. Sometimes, Bitfinex may reach out to you for consent to obtain and then use further information, and Bitfinex reserves the right to do so. In exceptional circumstances, as permitted by applicable law, Bitfinex may collect, use and disclose Personal Information without your knowledge or consent.
   3. 3. Using Personal Information: Bitfinex is committed to protecting your privacy. Internally, only employees with a business need to know Personal Information, or whose duties reasonably require access to it, are granted access to customers’ Personal Information. The Site’s systems and data are constantly reviewed to ensure that you are getting the best possible service and that leading security features are in place.
