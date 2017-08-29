@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thetwilightsaga.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628040230id_/http%3A//www.hachettebookgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetwilightsaga.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829023336id_/http%3A//www.hachettebookgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hachette Book Group
 
 Privacy Policy  
 Childrens Privacy Policy  
 Copyright and Trademark Information  
-[Terms of Use](https://web.archive.org/web/20170628040230id_/terms-of-use/)  
+[Terms of Use](https://web.archive.org/web/20170829023336id_/terms-of-use/)  
 
 
 ## Hachette Book Group Privacy Policy
