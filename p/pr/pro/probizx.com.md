@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the probizx.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115052720id_/http%3A//www.probizx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probizx.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829165433id_/http%3A//www.probizx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ProBizX
+# Privacy Policy – ProBizX
 
 This Privacy Policy governs the manner in which Thandis collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.probizx.com/[/](http://www.ecacdiiihockey.com/) (“Site”).
 
