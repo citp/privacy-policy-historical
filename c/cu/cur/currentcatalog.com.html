@@ -1,695 +1,779 @@
-<!--The following is the downloaded HTML source of the currentcatalog.com privacy policy that was archived on 2014-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140519100957id_/http%3A//www.currentcatalog.com/-Customer%2BService-Privacy%2B%26%2BSecurity.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the currentcatalog.com privacy policy that was archived on 2017-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170829180741id_/https%3A//www.currentcatalog.com/resources/privacy-and-security) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
-// Disable edit cell tab.
-   parent.editCell.className    = "tab-button-dis";
-//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
-
-function saveForm() {
-    location.replace("/admin/displayeditcell.do?action=save");
-}
-
-   function editCell(ruleID, itemID, slotID, itemType) {
-        parent.editDisplay.className     = "tab-button";
-        if(typeof(parent.displayRules)!="undefined") {
-            parent.displayRules.className = "tab-button";
-        }
-        parent.editCell.className    = "tab-button-on";
-
-        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
-//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
-    }
+<!DOCTYPE html><html lang="en-US" class=" no-touch"><head>
+        <script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5QW778H"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//d3cxv97fi8q177.cloudfront.net/foundation-A281224-5517-45aa-977a-7d31b18ce71e1.min.js" type="text/javascript" async="" id="irfOuterTag"></script><script>
+    var require = {
+        "baseUrl": "https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US"
+    };
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link href="/favicon.ico" rel="shortcut icon">
-
-
-<title>Privacy &amp; Security - Current Catalog</title>
-
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="ROBOTS" content="NOODP">
-
-<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
-<script language="JavaScript">
-    var isNav, isIE;
-    if(parseInt(navigator.appVersion) >= 4) {
-      if(navigator.appName == "Netscape")
-        isNav = true
-      else
-        isIE = true;
-    }
-
-    /* checks while typing*/
-    function maxlengthCheck(txt, evtThis, maxlength){
-      if(txt.value.length >= maxlength){
-        if (isIE)
-          event.keyCode = 0 // IE
-        else
-          return false;  // Netscape
-        maxlengthHack(txt, maxlength);
-        return false;
-      }
-    }
-
-    /* checks for pasted in text, etc*/
-    function maxlengthHack(txt, maxlength){
-      if(txt.value.length >= maxlength){
-        txt.value = txt.value.substring(0,maxlength);
-      }
-    }
-</script>
-
-
-<!--Personalization 1 begin -->
-<link rel="stylesheet" type="text/css" href="/includes/personalization.css" title="style">
-<!--Personalization 1 end -->
-	  
-<link rel="stylesheet" type="text/css" href="/includes/personalization.css" title="style">
-<!--Personalization 1 end -->
-<meta name="ROBOTS" content="NOODP"> 
-
-<script src="/includes/flyopen.js"></script>
-<script src="/includes/rollover.js"></script>
-<script src="/includes/cleartext.js"></script>
-<script language="javascript">
-arImageList = new Array ();
-arSubImageList = new Array ();
-
-function preLoadCatImages(images_array) {
-	for(loop = 0; loop < images_array.length; loop++)
-	{
-           arImageList[loop] = new Image(); 
-           arImageList[loop].src = images_array[loop];
-	}
-}
-function preLoadSubCatImages(images_array) {
-	for(loop = 0; loop < images_array.length; loop++)
-	{
-           arSubImageList[loop] = new Image(); 
-           arSubImageList[loop].src = images_array[loop];
-	}
-}
-function changeCat(frm, thisbox) {
-   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
-   if (optiontxt == "0"){
-        return;
-    }
-    location.href = optiontxt
-    //frm.action = optiontxt;
-    //alert (frm.action);
-    //frm.submit();
-}
-
-</script>
-
-<!-- MilonicDHTML -->
-<script id="addToCartEventHandlersJS" language="javascript">
-<!--
-var addToCart = false;
-
-function addToCart_onclick() {
-	if(addToCart){
-		alert("We are processing your order");
-        	return false;
-	}else{ 		
-        addToCart = true;
-        return true;
-	}
-}
-//-->
-</script>
-
-<script id="checkoutEventHandlersJS" language="javascript">
-<!--
-var checkout = false;
-
-function checkout_onclick() {
-	if(checkout){
-		alert("We are processing your order");
-        	return false;
-	}else{ 		
-        checkout = true;
-        return true;
-	}
-}
-//-->
-</script>
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-39064292-1']);
-  _gaq.push(['_trackPageview']);
-  
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script type="text/javascript">
-	if (document.getElementById("processingPage") != null) {
-		document.getElementById("processingPage").style.display="none";
-	}
-</script>
-
-
-</head>
-<body class="main" marginwidth="0" marginheight="30" topmargin="30" bottommargin="0" leftmargin="0" rightmargin="0">
-
-<!-- Content Wrap Start -->
-
-<table border="0" width="768" cellpadding="0" cellspacing="0" align="center">
-  <tbody><tr valign="top">
-		<td class="siteborderleft" rowspan="4" width="7"><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"></td>
-		<td colspan="5">
-<!--SourceCode:  -->
-
-
-
-<!-- Navheader Start-->
-
-
-<table border="0" width="753" cellpadding="0" cellspacing="0">
-
-
-<tbody><tr><td class="navheaderbg" valign="top" width="209"><a href="http://www.currentcatalog.com/"><img src="/images/us/global/globalnav/logo01.gif" border="0" alt="Checks, Address Labels, Wrapping Paper &amp; Sympathy Cards - Current Catalog"></a>
-
-<!-- Dont delete the following CSS. The header background color can be changed by modifying the following class. -->
-<style>
-.navheaderbg{
-	background-color: #fff !important;
-}
-</style></td>
-	<td align="left" width="544" class="navheaderbg navtagline"><table border="0" cellspacing="0" cellpadding="0" align="right">
-	  <tbody><tr><td>
-		<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr><td><a rel="nofollow" href="https://www.currentcatalog.com/account/accountmain.jsp" onmouseover="rollover('top_myaccount','/images/us/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/us/global/globalnav/myaccount_off.gif');"><img src="/images/us/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="top_myaccount"></a></td>
-				<td><a rel="nofollow" href="http://www.currentcatalog.com/-Customer+Service.html" onmouseover="rollover('top_customerserv','/images/us/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/us/global/globalnav/customerserv_off.gif');"><img src="/images/us/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
-				<td><a rel="nofollow" href="http://www.currentcatalog.com/catalogrequest/catalogrequestmain.jsp" onmouseover="rollover('top_catrequest','/images/us/global/globalnav/catrequest_on.gif');" onmouseout="rollover('top_catrequest','/images/us/global/globalnav/catrequest_off.gif');"><img src="/images/us/global/globalnav/catrequest_off.gif" border="0" alt="Catalog Request" name="top_catrequest"></a></td>
-				<td><a rel="nofollow" href="http://www.currentcatalog.com/account/orderhistory/orderlisttrackingmain.jsp" onmouseover="rollover('top_orderstatus','/images/us/global/globalnav/orderstatus_on.gif');" onmouseout="rollover('top_orderstatus','/images/us/global/globalnav/orderstatus_off.gif');"><img src="/images/us/global/globalnav/orderstatus_off.gif" border="0" alt="Order Status" name="top_orderstatus"></a></td></tr>
-            </tbody></table></td></tr>
-	  <tr><td><table border="0" cellspacing="0" cellpadding="0" width="357"><tbody><tr><td valign="top" align="left"><img src="/images/us/global/globalnav/phonenumber.png" border="0" alt="1-800-848-2848"></td>
-	   <form name="searchForm" action="http://www.currentcatalog.com/shopping/search/advancedsearchmain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
-    	<input type="hidden" name="searchType" value="keyword">
-		<input type="hidden" name="NRS" value="1">
-		<input type="hidden" name="RS" value="1">
-	        	<input type="hidden" name="ASRP" value="1">
-			<td align="center"><input type="text" class="navsearchbox" name="keyword" value=" Keyword or item#" maxlength="30" size="10" onfocus="if(this.value==' Keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value=' Keyword or item#';"></td>
-			<td valign="middle"><input type="Image" name="Search" src="/images/us/global/globalnav/search_btn.gif" border="0" alt="Search"></td>
-      		 
-	       <td><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"></td></tr></tbody></table></td></tr>
-	  <tr><td align="right"><table border="0" cellspacing="0" cellpadding="0" width="357"><tbody><tr><td align="left" height="21"> </td><td align="right"><span class="navheader"><a href="https://www.currentcatalog.com/basket/basketmain.jsp"><img src="/images/us/global/globalnav/shopbasket_off.gif" border="0">
-			 Shopping Cart: </a>0
-			 items</span> </td><td width="12"><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td></tr></tbody></table></td></tr>
-</tbody></table></td></tr>
-<tr>
-	<td colspan="2" class="navheaderbg" width="753"><table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr valign="top">
-							  <td><a href="/shopping/catalogquickshop/cqsmain.jsp" onmouseover="rollover('LeftQuick Order Form','/images/us/global/globalnav/globalnav01_on.gif');" onmouseout="rollover('LeftQuick Order Form','/images/us/global/globalnav/globalnav01_off.gif');"><img border="0" name="LeftQuick Order Form" src="/images/us/global/globalnav/globalnav01_off.gif" alt="Quick Order Form"></a></td>
-      				 <td><a href="http://www.currentcatalog.com/-New+Arrivals.html" onmouseover="rollover('LeftNew Arrivals','/images/us/global/globalnav/globalnav02_on.gif');" onmouseout="rollover('LeftNew Arrivals','/images/us/global/globalnav/globalnav02_off.gif');"><img border="0" name="LeftNew Arrivals" src="/images/us/global/globalnav/globalnav02_off.gif" alt="New Arrivals"></a></td>
-      				  
-							  <td><a href="/-Buy+1+Get+1+Free.html" onmouseover="rollover('LeftBuy 1 Get 1 Free','/images/us/global/globalnav/globalnav03_on.gif');" onmouseout="rollover('LeftBuy 1 Get 1 Free','/images/us/global/globalnav/globalnav03_off.gif');"><img border="0" name="LeftBuy 1 Get 1 Free" src="/images/us/global/globalnav/globalnav03_off.gif" alt="Buy 1 Get 1 Free"></a></td>
-      				 <td><a href="http://www.currentcatalog.com/-Customer+Favorites.html" onmouseover="rollover('LeftCustomer Favorites','/images/us/global/globalnav/globalnav04_on.gif');" onmouseout="rollover('LeftCustomer Favorites','/images/us/global/globalnav/globalnav04_off.gif');"><img border="0" name="LeftCustomer Favorites" src="/images/us/global/globalnav/globalnav04_off.gif" alt="Customer Favorites"></a></td>
-      				  
-							  <td><a href="/~Sale.html?ref=top" onmouseover="rollover('LeftSale!','/images/us/global/globalnav/globalnav05_on.gif');" onmouseout="rollover('LeftSale!','/images/us/global/globalnav/globalnav05_off.gif');"><img border="0" name="LeftSale!" src="/images/us/global/globalnav/globalnav05_off.gif" alt="Sale!"></a></td>
-      				 </tr>
-	</tbody></table></td>
-</tr>
-<!--Producr Groups Nav starts-->
-
-<!-- Navheader End -->
-</tbody></table>
-<script language="javascript">
-var the_topimages = new Array("/images/us/global/globalnav/globalnav01_on.gif",
-"/images/us/global/globalnav/globalnav01_off.gif"
-,"/images/us/global/globalnav/globalnav02_on.gif",
-"/images/us/global/globalnav/globalnav02_off.gif"
-,"/images/us/global/globalnav/globalnav03_on.gif",
-"/images/us/global/globalnav/globalnav03_off.gif"
-,"/images/us/global/globalnav/globalnav04_on.gif",
-"/images/us/global/globalnav/globalnav04_off.gif"
-,"/images/us/global/globalnav/globalnav05_on.gif",
-"/images/us/global/globalnav/globalnav05_off.gif"
-);
-preLoadCatImages(the_topimages);
-function checkFieldsSearch() {
-        var searchtxt=Trim(document.searchForm.keyword.value);
-        if (searchtxt == '')
-	{
-		alert("Please enter keyword or item#.");
-		return false;
-	} else if (searchtxt == ' Keyword or item#') {
-		alert("Please enter keyword or item#.");
-		return false;
-        } else if (searchtxt.length <= 2) {
-		alert("We are sorry, the information you have requested is not available.");
-		return false;
-        } else {
-		return true;
-	}
-}
-function Trim(inString){
-  return LTrim(RTrim(inString));
-}
-
-function LTrim(inString){
-  return inString.replace(/^\s+/,'');
-}
-
-function RTrim(inString){
-  return inString.replace(/\s+$/,'');
-}
-
-</script></td>
-		<td class="siteborderright" rowspan="4" width="7"><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="400" border="0"></td>
-   </tr>
-   <tr valign="top"><td class="contentbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
-	 <td class="navleftborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
-	 <td colspan="3" class="contentbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
-   </tr>
-   <tr valign="top">
-   
+        <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="description" content="Privacy And Security">
+<meta name="keywords" content="privacy and security">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<title>Privacy And Security | Current Catalog</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://static.currentcatalog.com/version1503612015/_cache/merged/7ce2e0735bbb3fc5327546f66c1f3d9d.min.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/css/styles-l.min.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/css/print.min.css">
+<link rel="icon" type="image/x-icon" href="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/Magento_Theme/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/Magento_Theme/favicon.ico">
+<script type="text/javascript" src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/requirejs/require.min.js"></script>
+<script type="text/javascript" src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/secure/requirejs-min-resolver.min.js"></script>
+<script type="text/javascript" src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/mage/requirejs/mixins.min.js"></script>
+<script type="text/javascript" src="https://static.currentcatalog.com/version1503612015/_requirejs/frontend/Regent/cmg_cc/en_US/secure/requirejs-config.min.js"></script>
+        <script type="text/javascript">
+    (function() {
+        var s = document.createElement('script'),
+            e = document.getElementsByTagName('script')[0];
+            
+        s.src = '//d3cxv97fi8q177.cloudfront.net/foundation-A281224-5517-45aa-977a-7d31b18ce71e1.min.js';
+        s.type = 'text/javascript';
+        s.async = true;
+        s.id = "irfOuterTag";
         
-		<td width="164" class="navleftbg">
+        e.parentNode.insertBefore(s, e);
+    })();
+</script>
 
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script>
+//<![CDATA[
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+    ga('create', 'UA-39064292-1', 'auto');
+    ga('set', 'page', '/resources/privacy-and-security');
+    ga('send', 'pageview');    
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+    </head>
+    <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/loader-2.gif&quot;}}" class="cms-resources-privacy-and-security cms-page-view page-layout-1column">
+            <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
 
+                var dependencies = [],
+                    versionObj;
 
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
 
-<table border="0" cellspacing="0" cellpadding="0" width="164">
+                if (versionObj.version !== '58ba3da229baf7d4588ee345921890ee55d9a21d') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
 
+                }
 
-	 	
-				<script type="text/javascript">
-<!-- 
-function popupform(myform, windowname)
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: '58ba3da229baf7d4588ee345921890ee55d9a21d'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".www.currentcatalog.com",
+                "secure": false,
+                "lifetime": "604800"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    var foomanGaBaseUrl = '/resources/privacy-and-security';
+    var foomanGaQuery = '';
+</script>
+<script type="text/javascript">
+    require.config({
+        paths: {
+            'artifi': '//designer.artifi.net/SCRIPT/sasIntegration/ArtifiIntegration.js?'
+        },
+        shim: {
+            'artifi': {
+                exports: 'Artifi'
+            }
+        }
+    });
+</script>
+            <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QW778H" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+        <script>
+                            dataLayer = [{"customerLoggedIn":0,"customerId":0,"customerGroupId":"0","customerGroupCode":"NOT LOGGED IN","pageType":"cms\/page\/view"}];
+                                                                            (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5QW778H');
+    </script>
+<div class="page-wrapper"><div class="promo-block" data-role="promo-block" data-bind="scope: 'coupon_promo_banner'">
+    <div data-bind="html: getContent(), css: { promo: !!getContent() == true }"></div>
+</div>
+
+<script type="text/x-magento-init">
 {
-var email = myform.email.value;
-if (email == 'Your Email Address')
-	email = '';
-var emailurl="";
-if (email!=''){
-emailurl="&EMAIL="+email;
-}
-//var queryString = "n=100&aid=2072043564&np=101,102|103|||"+emailurl;
-//var url = "http://reg.cheetahmail.com/regp?" + queryString;
-var queryString = "aid=2072043564&n=1&a=0"+emailurl;
-var url = "http://ebm.e.currentcatalog.com/r/regf2?" + queryString;
-openMe(url, windowname);
-}
-//-->
-</script>
-
-			<form name="cheetah_form" id="cheetah_form" action="javascript:popupform(cheetah_form,'cheetahmail');"></form>
-			<tbody><tr><td><table border="0" cellspacing="0" cellpadding="0" width="164">
-			<tbody><tr><td class="clearbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="11" height="1" border="0"></td>
-			<td>&nbsp;</td>
-			<td class="clearbg">
-			<img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0">			</td>
-			
-			<!--<font color='red' face='arial' size='1'></font>-->
-
-			<td class="clearbg" align="right">
-		
-		
-		
-			 <div style="text-align:left; color:#003399">Sign up for exclusive email promotions</div>
-			 <div align="left"><input type="text" name="email" id="email" maxlength="50" size="21" value="enter email address" onfocus="if(this.value=='enter email address')this.value='';" onfocusout="if(this.value=='')this.value='enter email address';"></div>
-			 <input href="javascript:popupform(cheetah_form,'cheetahmail');" type="submit" value="Go" name="emailsignup_submit" alt="Go" align="middle">
-
-		
-			</td><td class="clearbg" align="right"><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">			</td>
-			</tr>
-			<tr><td class="clearbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="11" height="1" border="0"></td>
-			<td colspan="3" class="messageerror"></td></tr>
-			</tbody></table>
-			
-
-</td></tr>
-	
-<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td></tr>
-<tr><td valign="top" class="tabledivrule"><img src="/images/us/global/globalgraphics/spacer01.gif" width="164" height="1" border="0"></td></tr>
-					
-
-
-	
-
-<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td></tr>
-					
-
-
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Checks.html">
-							Checks</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Address+Labels.html">
-							Address Labels</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Greeting+Cards.html">
-							Greeting Cards</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Holidays+and+Events.html">
-							Holidays and Events</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Gift+Ideas.html">
-							Gift Ideas</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Personalized+Gifts.html">
-							Personalized Gifts</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~For+Your+Home.html">
-							For Your Home</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Stationery.html">
-							Stationery</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Personalized+Stationery.html">
-							Personalized Stationery</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Calendars.html">
-							Calendars</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Home+Office.html">
-							Home Office</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Wrapping+Paper.html">
-							Wrapping Paper</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Photo+Gift+Center.html">
-							Photo Gift Center</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Dollar+Deals.html">
-							Dollar Deals</a></div></td>
-						</tr>
-
-				
-              
-				
-					
-					
-						<tr> 
-							<td valign="top" class="navleftsuboff"><div><a href="http://www.currentcatalog.com/~Sale.html">
-							Sale</a></div></td>
-						</tr>
-
-				
-              
-
-</tbody></table></td>
-	
-		
-		<td class="navleftborder" width="1"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
-		<td width="10" class="contentbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
-	  	<td width="569" class="contentbg" valign="top">
-     	
-      <h2 class="breadcrumb"><a href="/home.html">Home</a>&nbsp;&gt;&nbsp;<a href="/-Customer+Service.html">Customer Service</a></h2>
-      <div><img src="/images/us/global/globalgraphics/spacer01.gif" width="569" height="10" border="0"></div>
-     
-	  <!-- Content Block Start -->
-
-
-<script language="JavaScript">
-function mySelection() {
-  var index = document.getElementById("subCatdd").selectedIndex;
-  //alert(document.getElementById("subCatdd").options[index].text); 
-  return document.getElementById("subCatdd").options[document.getElementById("subCatdd").selectedIndex].text;
-  
+    "[data-role=promo-block]": {
+        "Magento_Ui/js/core/app": {"components":{"coupon_promo_banner":{"component":"Regent_Promotion\/js\/view\/banner"}}}    }
 }
 </script>
+<header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
 
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="569">
-<form></form>
-<tbody><tr>
-	<td><table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td><img src="/images/us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></td>
-		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
-		<td class="default"><select name="subCatdd" onchange="changeCat(this.form,this);return fc_click(document.getElementById('subCatdd').options[document.getElementById('subCatdd').selectedIndex].text,'ad');"><option value="/-Customer+Service-About+Us.html">About Us</option><option value="/-Customer+Service-Personal+Check+Information.html">Personal Check Information</option><option value="/-Customer+Service-Contact+Us.html">Contact Us</option><option value="/-Customer+Service-FAQ%27s.html">FAQ's</option><option value="/-Customer+Service-Large+Quantity+Discounts.html">Large Quantity Discounts</option><option value="https://www.currentcatalog.com/account/orderhistory/orderlisttrackingmain.jsp">Order Status</option><option value="/-Customer+Service-Privacy+%26+Security.html" selected="">Privacy &amp; Security</option><option value="/-Customer+Service-Shipping+Information.html">Shipping Information</option><option value="/-Customer+Service-Terms+of+Use.html">Terms of Use</option><option value="/-Customer+Service-Our+Guarantee.html">Our Guarantee</option><option value="https://www.currentcatalog.com/account/wishlist/selectwishlistmain.jsp?iContext=0&amp;iMode=1">Wishlist</option></select></td>
-	</tr>
-	</tbody></table></td>
-</tr>
-
-<tr>
-	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="20" border="0"></td>
-</tr>
-<tr>
-	<td class="default"><strong>PRIVACY POLICY</strong><br><br>
- 
-At <a href="http://www.currentcatalog.com/">currentcatalog.com</a>, we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. Our practices comply with all applicable U.S. laws and requirements.
-<br><br> 
-We are located in the United States and this is a U.S.-based web site. By using this site, you agree to the transfer of your personal information to or within the United States.
-<br><br> 
-As we continue to develop our web site and take advantage of technologies to improve the services we offer, this policy likely will change. When we change it, we will post the change(s) on our web site. If we change the policy in a material way, we will provide appropriate online notice to you.
-<br><br>
-<strong>What Information Do We Collect and How Do We Use It?</strong><br><br> 
-<strong>Personal Information</strong><br><br>
-We may collect various types of personal information from you, depending upon how you use our site. The categories of personal information we collect may include: 
-<br>(1) Your first and last name
-<br>(2) A home or other physical address, including street name and name of a city or town.
-<br>(3) Your e-mail address.
-<br>(4) Your telephone number.
-<br>(5) If you make a purchase on our site, your credit card number and related information.
-<br><br> We may combine the information we collect from you with information we receive from you offline. We may also receive information about you from other sources, including, for example, address update services.<br><br> 
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers and advertising on the site; (3) to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (4) to contact you; (5) to review site usage and operations; (6) to address problems with the site, our business or our products and services; and (7) to protect the security or integrity of the site and our business.<br><br>
-<strong>Non-Personal Information</strong><br><br>
-We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used in order to: (1) remember the products in your shopping cart; (2) recognize you when you return to the site; (3) improve and personalize your experience on our site; (4) provide you with customized advertising; and (5) monitor site usage and analyze the behavior of site visitors. We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information.<br><br> 
-You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the "Help" menu of your browser to learn how to change your cookie preferences.<br><br>
-<strong>Do We Share Your Information?</strong><br><br> 
-We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: (1) to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site; (2) to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) to our affiliates and other third parties so that they may contact you with marketing offers of their own; (4) to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; (5) as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.<br><br>
-Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's Terms of Use for you to post any content that requests personally identifiable information.<br><br>
-<strong>Can I Change My Information?</strong><br><br> 
-You may change or update your personal information by sending an email to: <a href="mailto:CurrentCustomerService@CurrentInc.com">currentcustomerservice@currentinc.com</a>. Please include "Change My Information" in the subject line.<br><br>
-<strong>What About Information About Children?</strong><br><br> 
-We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen.<br><br> 
-<strong>Security</strong><br><br>
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors.<br><br> 
-<strong>Third Party Websites</strong><br><br>
-The site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.<br><br>
-<strong>Contact Us</strong><br><br> 
-Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: <a href="mailto:CurrentCustomerService@CurrentInc.com">currentcustomerservice@currentinc.com</a>. Please include "Question or Comment" in the subject line.<br><br>
-
-Last Updated: 1/31/2011<br><br>
-</td>
-</tr>
-</tbody></table>
-
-<!-- Content Block End -->
-	<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="20" border="0"></div></td>
-	<td width="10" class="contentbg" rowspan="2"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="245" border="0"></td>	
-</tr><tr valign="top"><td class="contentbg" colspan="5"></td></tr>
-<tr valign="bottom">
-	<td>&nbsp;</td><td align="center" colspan="5" class="navfooterbg"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" height="10"></td></tr>
-<tr><td nowrap="" class="footer"><a rel="nofollow" href="http://www.currentcatalog.com/">Home</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a rel="nofollow" href="http://www.currentcatalog.com/shopping/browse/merchants.jsp">Featured Merchants</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a rel="nofollow" href="http://www.currentcatalog.com/-Tips-Current+Tips.html">Tips</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a rel="nofollow" href="http://www.currentcatalog.com/-Customer+Service-Contact+Us.html">Contact Us</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a rel="nofollow" href="http://www.currentcatalog.com/-Customer+Service-Privacy+&amp;+Security.html">Privacy &amp; Security</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a rel="nofollow" href="http://www.currentcatalog.com/content/sitemap/sitemapmain.jsp">Site Map</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">1-800-848-2848<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a href="/catalogrequest/catalogrequestmain.jsp">Request Free Catalog</a></td>    </tr>
-<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" height="15"></td></tr>
-<tr><td class="footer">© 1998, 2014 Current USA, Inc.</td></tr>
-<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" height="20"></td></tr>
-<tr><td align="center">
-<table border="0" cellpadding="4" cellspacing="0">
-<tbody><tr>
-	<td><script src="https://seal.verisign.com/getseal?host_name=www.currentcatalog.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=Yes&amp;lang=en"></script></td>
-	<td><a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1080612131835910"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="/images/us/global/globalnav/bbbseal1.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a></td>
-	<td>
-	<!-- START SCANALERT CODE --> 
-	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.currentcatalog.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.currentcatalog.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a> 
-	<!-- END SCANALERT CODE -->
-	</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!-- Footer End -->
-<!-- MilonicDHTML -->
-<!-- Intelligent Reporting Support -->
-
-
-
-
-
-
-<!-- Intelligent Reporting Support End -->
-<!-- Jatin Added : Fireclick implementation-->
-<!-- Fireclick Netflame -->
-
-<!-- Fireclick Web Analytics - COPYRIGHT 1999-2005 - Please do not modify this code-->
-<script language="javascript">
-<!--
-function handle(){return true;}
-window.onerror=handle;
-var fc_host='www.currentcatalog.com';
-document.write('<scr'+'ipt '
-+'src="'+((location.protocol=='http:')?'http:':'https:')
-+'//a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-var fcfn=window.onload;
-function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-window.onload= null==fcfn ? fcce:fcco;
-// -->
-</script><script src="https://a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/script/www.currentcatalog.com"></script>
-<!-- Fireclick Web Analytics - COPYRIGHT 1999-2005 - Please do not modify this code-->
-<!-- Fireclick Netflame -->
-
-
-
-
-<!-- begin Marin Software Tracking Script -->
-<script type="text/javascript">
-var _marinClientId = "559ggt2475";
-var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
-_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://tracker.marinsm.com/tracker/559ggt2475.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-_marinTrack.trackPage();
-} catch(err) {}
+<ul class="header links">        <li class="greet welcome" data-bind="scope: 'customer'">
+            <!-- ko if: customer().fullname  -->
+            <span data-bind="text: new String('Welcome, %1!').replace('%1', customer().firstname)">
+            </span>
+            <!-- /ko -->
+            <!-- ko ifnot: customer().fullname  -->
+            <span data-bind="html:'Welcome'"></span>
+            <!-- /ko -->
+        </li>
+        <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "customer": {
+                            "component": "Magento_Customer/js/view/customer"
+                        }
+                    }
+                }
+            }
+        }
+        </script>
+    <li><a class="header-link-custom" href="https://www.currentcatalog.com/resources/emailsignup">Email Signup</a></li><li><a class="header-link-custom" href="https://www.currentcatalog.com/resources/catalog-request">Request Catalog</a></li><li class="item link compare" data-bind="scope: 'compareProducts'" data-role="compare-products-link">
+    <a class="action compare no-display" title="Compare Products" data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}">
+        Compare Products        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+    </a>
+</li>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-link]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
 </script>
-<noscript>
-<img src="https://tracker.marinsm.com/tp?act=1&cid=559ggt2475&script=no" >
+<li class="authorization-link" data-label="or">
+    <a href="https://www.currentcatalog.com/customer/account/login/">
+        Sign In    </a>
+</li>
+<li class="chat-link"><a href="https://home-c19.incontact.com/inContact/ChatClient/ChatClientPatron.aspx?poc=0dcfd544-adef-4a50-9d47-9874c73c3560&amp;bu=4595913" data-caption="CC Live Chat" class="open-live-chat" target="_blank">Live Chat</a></li><li class="phone-link"><a href="tel:+18008482848">1-800-848-2848</a></li></ul></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+    <a class="logo" href="https://www.currentcatalog.com/" title="Current Catalog">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/CC_logo.png" alt="Current Catalog" width="330" height="90">
+    </a>
+<div class="slogan">
+    Celebrate Life’s<br>
+    Special Moments®
+</div>
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="https://www.currentcatalog.com/checkout/cart/" data-bind="scope: 'minicart_content'">
+        <span class="text empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }">My Cart</span>
+        <span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+            <span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+        <span class="subtotal-wrapper">
+            <!-- ko if: getCartParam('summary_count') -->
+                <span class="subtotal" data-bind="html: getCartParam('subtotal')"></span>
+            <!-- /ko -->
+        </span>
+    </a>
+            <div class="block block-minicart empty" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{
+                &quot;appendTo&quot;:&quot;[data-block=minicart]&quot;,
+                &quot;triggerTarget&quot;:&quot;.showcart&quot;,
+                &quot;timeout&quot;: &quot;2000&quot;,
+                &quot;closeOnMouseLeave&quot;: false,
+                &quot;closeOnEscape&quot;: true,
+                &quot;triggerClass&quot;:&quot;active&quot;,
+                &quot;parentClass&quot;:&quot;active&quot;,
+                &quot;buttons&quot;:[]}}">
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.currentcatalog.com\/checkout\/cart\/","checkoutUrl":"https:\/\/www.currentcatalog.com\/checkout\/","updateItemQtyUrl":"https:\/\/www.currentcatalog.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.currentcatalog.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.currentcatalog.com\/","minicartMaxItemsVisible":5,"websiteId":"1","customerLoginUrl":"https:\/\/www.currentcatalog.com\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.currentcatalog.com\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.currentcatalog.com\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"uiComponent","config":{"template":"Regent_MinicartLazy\/minicart\/product-image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}},"added.notify":{"component":"Regent_MinicartExpand\/js\/view\/minicart-added-notify","config":{"displayArea":"promotion","template":"Regent_MinicartExpand\/minicart\/added-notify"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content-custom"},"component":"Magento_Checkout\/js\/view\/minicart"},"certona-tracker":{"component":"Regent_Certona\/js\/view\/certona-tracker"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/loader-1.gif"
+        }
+    }
+    </script>
+</div>
+
+
+<div class="block block-search">
+    <div class="block block-title"><strong>Search</strong></div>
+    <div class="block block-content">
+        <form class="form minisearch" id="search_mini_form" action="https://www.currentcatalog.com/catalogsearch/result/" method="get">
+            <div class="field search">
+                <label class="label" for="search" data-role="minisearch-label">
+                    <span>Search</span>
+                </label>
+                <div class="control">
+                    <input id="search" data-mage-init="{&quot;quickSearch&quot;:{
+                            &quot;formSelector&quot;:&quot;#search_mini_form&quot;,
+                            &quot;url&quot;:&quot;https://www.currentcatalog.com/search/ajax/suggest/&quot;,                            &quot;minSearchLength&quot;: 100,                            &quot;destinationSelector&quot;:&quot;#search_autocomplete&quot;}
+                        }" type="text" name="q" value="" placeholder="SEARCH BY KEYWORD OR ITEM #" class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                        <link rel="stylesheet" type="text/css" media="all" href="https://uitemplatev3.celebros.com/AutoComplete/Clients/CurrentC/CelebrosAutoCompleteV3.css">
+    <script type="text/javascript">
+require(["jquery"], function (jQuery) {
+    require(["jquery/ui"], function () {
+        require(["https://currentc-ac.celebros.com/AutoComplete/Scripts/CelebrosAutoCompleteV3e.js"], function() {
+            CelebrosAutoCompleteV3(
+                "CurrentC",
+                "search",
+                onSelect,
+                "currentc-ac.celebros.com",
+                "currentc-ac.celebros.com",
+                {
+                    acShowType: "regular",
+                    btnSearch: "search_button",
+                    maxControl: "server"                    
+                }
+            );
+        });
+    });
+});
+function onSelect(aParameter) {
+    if ((aParameter["SelectedURL"] != "") && (aParameter["IsAutoComplete"])) {
+        var sCmp = (aParameter["SelectedURL"].indexOf("?") == -1) ? "?" : "&";
+        window.location = aParameter["SelectedURL"] + sCmp + "cmp=cel" + "&trigger=ac";
+    } else { 
+        var targetLocation = "https://www.currentcatalog.com/catalogsearch/result/?q=" + encodeURIComponent(aParameter["SelectedQuery"]);
+        if (aParameter["IsAutoComplete"].toString().toLowerCase() == "true") targetLocation += "&Trigger=ac";
+        window.location = targetLocation;
+    }
+};
+</script>
+<div class="nested">
+    <a class="action advanced" href="https://www.currentcatalog.com/catalogsearch/advanced/" data-action="advanced-search">
+        Advanced Search    </a>
+</div>
+                </div>
+            </div>
+            <div class="actions">
+                <button type="submit" title="Search" class="action search" id="search_button">
+                    <span>Search</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div><script type="text/javascript">
+    require(['jquery'], function ($) {
+        var windowDirectives = 'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no,height=620,width=500';
+        $('.open-live-chat').on('click', function () {
+            window.open($(this).attr('href'), $(this).attr('data-caption'),windowDirectives);
+            this.focus();
+            this.opener = window;
+            return false;
+        });
+    });
+</script></div><div class="header-promo-wrapper">
+    <div class="header-promo bottom">
+        <div class="promo-1">
+            <div class="promo-1-text"><strong>FREE SHIPPING</strong> on any $40+ order!
+                <span>Only 1 promotion code per order</span>
+            </div>
+            <div class="promo-code">USE CODE<strong>WWHPF40</strong></div>
+        </div>
+        <div class="promo-2">
+            <div class="delimiter"><img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/promo/mailbox.png"></div>
+            <div class="promo-2-text">Shop Fall &amp; Halloween <strong>Sale - SAVE</strong> up to <strong>75%!</strong></div>
+        </div>
+        <a class="fillblock nolink left"></a>
+        <a href="https://www.currentcatalog.com/sale/special-deals/fall-sale.html" class="fillblock right"></a>
+    </div>
+</div>
+</header>    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items" data-mage-init="{&quot;tabs&quot;:{&quot;openedState&quot;:&quot;active&quot;}}">
+                                            <div class="section-item-title nav-sections-item-title" data-role="collapsible">
+                    <a class="nav-sections-item-switch" data-toggle="switch" href="#store.menu">Menu</a>
+                </div>
+                <div class="section-item-content nav-sections-item-content" id="store.menu" data-role="content">
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:true, &quot;expanded&quot;:true, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}">
+        <li class="level0 nav-1 first level-top parent"><a href="https://www.currentcatalog.com/checks.html" class="level-top"><span>Checks</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/checks/personal-checks/scenic-checks.html" class="label red one-box">1 box<br>only<span>$9.99</span></a>
+    <a href="https://www.currentcatalog.com/checks/personal-checks/scenic-checks.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/checks.jpg" alt="SHOP SCENIC CHECKS">
+    </a>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/checks/personal-checks/scenic-checks.html">SHOP SCENIC CHECKS</a>
+</div></li><li class="level1 nav-1-1 first parent"><a href="https://www.currentcatalog.com/checks/personal-checks.html"><span>Personal Checks By Design</span></a><ul class="level1 submenu"><li class="level2 nav-1-1-1 first"><a href="https://www.currentcatalog.com/checks/personal-checks/view-all-checks.html"><span>View All Checks</span></a></li><li class="level2 nav-1-1-2"><a href="https://www.currentcatalog.com/checks/personal-checks/new-checks.html"><span>New Checks</span></a></li><li class="level2 nav-1-1-3"><a href="https://www.currentcatalog.com/checks/personal-checks/animal-checks.html"><span>Animal Checks</span></a></li><li class="level2 nav-1-1-4"><a href="https://www.currentcatalog.com/checks/personal-checks/bank-checks.html"><span>Bank Checks</span></a></li><li class="level2 nav-1-1-5"><a href="https://www.currentcatalog.com/checks/personal-checks/beach-checks.html"><span>Beach Checks</span></a></li><li class="level2 nav-1-1-6"><a href="https://www.currentcatalog.com/checks/personal-checks/breast-cancer-checks.html"><span>Breast Cancer Checks</span></a></li><li class="level2 nav-1-1-7"><a href="https://www.currentcatalog.com/checks/personal-checks/cat-checks.html"><span>Cat Checks</span></a></li><li class="level2 nav-1-1-8"><a href="https://www.currentcatalog.com/checks/personal-checks/christian-checks.html"><span>Christian Checks</span></a></li><li class="level2 nav-1-1-9"><a href="https://www.currentcatalog.com/checks/personal-checks/cool-checks.html"><span>Cool Checks</span></a></li><li class="level2 nav-1-1-10"><a href="https://www.currentcatalog.com/checks/personal-checks/cute-checks.html"><span>Cute Checks</span></a></li><li class="level2 nav-1-1-11"><a href="https://www.currentcatalog.com/checks/personal-checks/dog-checks.html"><span>Dog Checks</span></a></li><li class="level2 nav-1-1-12"><a href="https://www.currentcatalog.com/checks/personal-checks/flower-checks.html"><span>Flower Checks</span></a></li><li class="level2 nav-1-1-13"><a href="https://www.currentcatalog.com/checks/personal-checks/girly-checks.html"><span>Girly Checks</span></a></li><li class="level2 nav-1-1-14"><a href="https://www.currentcatalog.com/checks/personal-checks/military-checks.html"><span>Patriotic Checks</span></a></li><li class="level2 nav-1-1-15"><a href="https://www.currentcatalog.com/checks/personal-checks/scenic-checks.html"><span>Scenic Checks</span></a></li><li class="level2 nav-1-1-16 last"><a href="https://www.currentcatalog.com/checks/personal-checks/sports-checks.html"><span>Sports Checks</span></a></li></ul></li><li class="level1 nav-1-2 parent"><a href="https://www.currentcatalog.com/checks/personal-checks-by-format.html"><span>Personal Checks By Format</span></a><ul class="level1 submenu"><li class="level2 nav-1-2-1 first"><a href="https://www.currentcatalog.com/checks/personal-checks-by-format/single-and-duplicate-checks.html"><span>Single &amp; Duplicate Checks</span></a></li><li class="level2 nav-1-2-2"><a href="https://www.currentcatalog.com/checks/personal-checks-by-format/top-stub-checks.html"><span>Top-stub Checks</span></a></li><li class="level2 nav-1-2-3 last"><a href="https://www.currentcatalog.com/checks/personal-checks-by-format/side-tear-checks.html"><span>Side-tear Checks</span></a></li></ul></li><li class="level1 nav-1-3 parent"><a href="https://www.currentcatalog.com/checks/check-accessories.html"><span>Check Accessories</span></a><ul class="level1 submenu"><li class="level2 nav-1-3-1 first"><a href="https://www.currentcatalog.com/checks/check-accessories/checkbook-covers.html"><span>Checkbook Covers</span></a></li><li class="level2 nav-1-3-2"><a href="https://www.currentcatalog.com/checks/check-accessories/deposit-slips-and-registers.html"><span>Deposit Slips and Registers</span></a></li><li class="level2 nav-1-3-3 last"><a href="https://www.currentcatalog.com/checks/check-accessories/matching-address-labels.html"><span>Matching Address Labels</span></a></li></ul></li><li class="level1 nav-1-4 parent"><a href="https://www.currentcatalog.com/checks/security-products.html"><span>Security Products</span></a><ul class="level1 submenu"><li class="level2 nav-1-4-1 first"><a href="https://www.currentcatalog.com/checks/security-products/high-security-checks.html"><span>High-Security Checks</span></a></li><li class="level2 nav-1-4-2 last"><a href="https://www.currentcatalog.com/checks/security-products/rfid-wallets-and-security-items.html"><span>RFID Wallets &amp; Security Items</span></a></li></ul></li><li class="level1 nav-1-5"><a href="https://www.currentcatalog.com/checks/business-checks.html"><span>Business Checks</span></a></li><li class="level1 nav-1-6 last"><a href="https://www.currentcatalog.com/checks/how-to-order-checks.html"><span>How to Order Checks</span></a></li></ul></li><li class="level0 nav-2 level-top parent"><a href="https://www.currentcatalog.com/address-labels-and-stampers.html" class="level-top"><span>Address Labels &amp; Stampers</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/christmas.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/labels.jpg" alt="Shop Christmas Address Labels">
+    </a>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/christmas.html">SHOP CHRISTMAS<br>ADDRESS LABELS</a>
+</div></li><li class="level1 nav-2-1 first parent"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design.html"><span>Address Labels By Design</span></a><ul class="level1 submenu"><li class="level2 nav-2-1-1 first"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/best-sellers.html"><span>Best Sellers</span></a></li><li class="level2 nav-2-1-2"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/christmas.html"><span>Christmas</span></a></li><li class="level2 nav-2-1-3"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/holidays.html"><span>Holidays</span></a></li><li class="level2 nav-2-1-4"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/occasions.html"><span>Occasions</span></a></li><li class="level2 nav-2-1-5"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/art-and-graphic.html"><span>Art and Graphic</span></a></li><li class="level2 nav-2-1-6"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/animals-and-wildlife.html"><span>Animals and Wildlife</span></a></li><li class="level2 nav-2-1-7"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/faith-inspiration-and-love.html"><span>Faith, Inspiration and Love</span></a></li><li class="level2 nav-2-1-8"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/floral-and-gardening.html"><span>Floral and Gardening</span></a></li><li class="level2 nav-2-1-9"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/monograms-and-initials.html"><span>Monograms and Initials</span></a></li><li class="level2 nav-2-1-10"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/nature-and-scenic.html"><span>Nature and Scenic</span></a></li><li class="level2 nav-2-1-11"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/patriotic.html"><span>Patriotic</span></a></li><li class="level2 nav-2-1-12"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/professions.html"><span>Professions</span></a></li><li class="level2 nav-2-1-13"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/special-interest.html"><span>Special Interest</span></a></li><li class="level2 nav-2-1-14"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/clear-and-solid-address-labels.html"><span>Solid Color &amp; Clear</span></a></li><li class="level2 nav-2-1-15 last"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-design/weve-moved.html"><span>We've Moved</span></a></li></ul></li><li class="level1 nav-2-2 parent"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type.html"><span>Address Labels By Type</span></a><ul class="level1 submenu"><li class="level2 nav-2-2-1 first"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/diecut.html"><span>Diecut</span></a></li><li class="level2 nav-2-2-2"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/foil.html"><span>Foil</span></a></li><li class="level2 nav-2-2-3"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/border.html"><span>Large Border</span></a></li><li class="level2 nav-2-2-4"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/deluxe.html"><span>Large Deluxe</span></a></li><li class="level2 nav-2-2-5"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/classic.html"><span>Small Classic</span></a></li><li class="level2 nav-2-2-6"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/oversized.html"><span>Oversized</span></a></li><li class="level2 nav-2-2-7"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/rolled.html"><span>Rolled</span></a></li><li class="level2 nav-2-2-8"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/round.html"><span>Round</span></a></li><li class="level2 nav-2-2-9"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/select.html"><span>Square Select</span></a></li><li class="level2 nav-2-2-10 last"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-labels-by-type/connect-wrap-around.html"><span>Wrap Around Connect</span></a></li></ul></li><li class="level1 nav-2-3"><a href="https://www.currentcatalog.com/address-labels-and-stampers/address-stamps.html"><span>Address Stamps</span></a></li><li class="level1 nav-2-4 last parent"><a href="https://www.currentcatalog.com/address-labels-and-stampers/specialty-labels.html"><span>Specialty Labels</span></a><ul class="level1 submenu"><li class="level2 nav-2-4-1 first"><a href="https://www.currentcatalog.com/address-labels-and-stampers/specialty-labels/id-labels.html"><span>ID Labels</span></a></li><li class="level2 nav-2-4-2"><a href="https://www.currentcatalog.com/address-labels-and-stampers/specialty-labels/sewing-labels.html"><span>Sewing Labels</span></a></li><li class="level2 nav-2-4-3"><a href="https://www.currentcatalog.com/address-labels-and-stampers/specialty-labels/package-labels.html"><span>Package Labels</span></a></li><li class="level2 nav-2-4-4 last"><a href="https://www.currentcatalog.com/address-labels-and-stampers/specialty-labels/canning-labels.html"><span>Canning Labels</span></a></li></ul></li></ul></li><li class="level0 nav-3 level-top parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery.html" class="level-top"><span>Greeting Cards &amp; Stationery</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/halloween-cards.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/gc.jpg" alt="Shop Halloween Cards">
+    </a>
+    <a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/halloween-cards.html" class="label red">Save<strong>20%</strong></a>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/halloween-cards.html">Shop Halloween Cards</a>
+</div></li><li class="level1 nav-3-1 first parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards.html"><span>Holiday Cards</span></a><ul class="level1 submenu"><li class="level2 nav-3-1-1 first parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/christmas-cards.html"><span>Christmas Cards</span></a></li><li class="level2 nav-3-1-2"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/halloween-cards.html"><span>Halloween Cards</span></a></li><li class="level2 nav-3-1-3"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/thanksgiving-cards.html"><span>Thanksgiving Cards</span></a></li><li class="level2 nav-3-1-4 last"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/holiday-cards/hanukkah-cards.html"><span>Hanukkah Cards</span></a></li></ul></li><li class="level1 nav-3-2 parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards.html"><span>All Occasion Cards</span></a><ul class="level1 submenu"><li class="level2 nav-3-2-1 first"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/greeting-card-value-pack.html"><span>Greeting Card Value Packs</span></a></li><li class="level2 nav-3-2-2"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/birthday-cards.html"><span>Birthday Cards</span></a></li><li class="level2 nav-3-2-3"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/friendship-cards.html"><span>Friendship Cards</span></a></li><li class="level2 nav-3-2-4"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/get-well-cards.html"><span>Get Well Cards</span></a></li><li class="level2 nav-3-2-5"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/sympathy-cards.html"><span>Sympathy Cards</span></a></li><li class="level2 nav-3-2-6"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/anniversary-and-wedding-cards.html"><span>Anniversary &amp; Wedding</span></a></li><li class="level2 nav-3-2-7"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/graduation-cards.html"><span>Graduation Cards</span></a></li><li class="level2 nav-3-2-8"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/baby-cards.html"><span>Baby Cards</span></a></li><li class="level2 nav-3-2-9 last"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/greeting-cards/create-a-card.html"><span>Create A Card</span></a></li></ul></li><li class="level1 nav-3-3 parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery.html"><span>Stationery</span></a><ul class="level1 submenu"><li class="level2 nav-3-3-1 first"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/envelope-seals.html"><span>Envelope Seals</span></a></li><li class="level2 nav-3-3-2"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/note-cards.html"><span>Note Cards</span></a></li><li class="level2 nav-3-3-3 parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/thank-you-cards.html"><span>Thank You Cards</span></a></li><li class="level2 nav-3-3-4"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/stickers.html"><span>Stickers</span></a></li><li class="level2 nav-3-3-5"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/letter-paper.html"><span>Letter Paper</span></a></li><li class="level2 nav-3-3-6"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/note-pads-and-memo-pads.html"><span>Notepads &amp; Memo Pads</span></a></li><li class="level2 nav-3-3-7"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/shopping-list-pads.html"><span>Shopping List Pads</span></a></li><li class="level2 nav-3-3-8 last"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/stationery/sticky-notes.html"><span>Sticky Notes</span></a></li></ul></li><li class="level1 nav-3-4 parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery.html"><span>Theme Stationery</span></a><ul class="level1 submenu"><li class="level2 nav-3-4-1 first"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery/fall-stationery.html"><span>Fall Stationery</span></a></li><li class="level2 nav-3-4-2 parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery/christmas-stationery.html"><span>Christmas Stationery</span></a></li><li class="level2 nav-3-4-3"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery/peanuts-and-snoopy-stationery.html"><span>Peanuts &amp; Snoopy Stationery</span></a></li><li class="level2 nav-3-4-4"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery/mary-engelbreit-stationery.html"><span>Mary Engelbreit Stationery</span></a></li><li class="level2 nav-3-4-5"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery/love-and-hearts.html"><span>Love &amp; Hearts</span></a></li><li class="level2 nav-3-4-6 last"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/theme-stationery/american-patriotic.html"><span>American Patriotic</span></a></li></ul></li><li class="level1 nav-3-5 parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store.html"><span>Personalized Stationery</span></a><ul class="level1 submenu"><li class="level2 nav-3-5-1 first parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/personalized-note-cards.html"><span>Personalized Note Cards</span></a></li><li class="level2 nav-3-5-2"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/personalized-thank-you-note-cards.html"><span>Personalized Thank Yous</span></a></li><li class="level2 nav-3-5-3"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/personalized-lifetime-address-books.html"><span>Lifetime Address Books</span></a></li><li class="level2 nav-3-5-4"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/notepads-and-memo-pads.html"><span>Personalized Notepads</span></a></li><li class="level2 nav-3-5-5"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/personalized-journals.html"><span>Personalized Journals</span></a></li><li class="level2 nav-3-5-6"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/personalized-planners.html"><span>Personalized Planners</span></a></li><li class="level2 nav-3-5-7"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/calling-cards.html"><span>Business Cards</span></a></li><li class="level2 nav-3-5-8"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/correspondence-cards.html"><span>Correspondence Cards</span></a></li><li class="level2 nav-3-5-9"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/weve-moved-cards.html"><span>We've Moved Cards</span></a></li><li class="level2 nav-3-5-10 last parent"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/the-stationery-store/design-collections.html"><span>Design Collections</span></a></li></ul></li><li class="level1 nav-3-6 last"><a href="https://www.currentcatalog.com/greeting-cards-and-stationery/jubilee-subscription-box.html"><span>Jubilee Subscription Box</span></a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="https://www.currentcatalog.com/gifts.html" class="level-top"><span>Gifts</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-kitchen-accessories.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/gift.jpg" alt="CUTTING BOARDS">
+    </a>
+    <div><a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-kitchen-accessories.html">On the cutting edge!<br>
+    Personalized free.</a></div>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-kitchen-accessories.html">SHOP PERSONALIZED<br>CUTTING BOARDS</a>
+</div></li><li class="level1 nav-4-1 first parent"><a href="https://www.currentcatalog.com/gifts/best-gifts.html"><span>Shop by Category</span></a><ul class="level1 submenu"><li class="level2 nav-4-1-1 first"><a href="https://www.currentcatalog.com/gifts/best-gifts/apparel-and-jewelry.html"><span>Apparel &amp; Jewelry</span></a></li><li class="level2 nav-4-1-2"><a href="https://www.currentcatalog.com/gifts/best-gifts/candy-gifts.html"><span>Candy Gifts</span></a></li><li class="level2 nav-4-1-3"><a href="https://www.currentcatalog.com/gifts/best-gifts/personalized-mugs.html"><span>Coffee Mugs</span></a></li><li class="level2 nav-4-1-4"><a href="https://www.currentcatalog.com/gifts/best-gifts/collectible-currency.html"><span>Collectible Currency</span></a></li><li class="level2 nav-4-1-5"><a href="https://www.currentcatalog.com/gifts/best-gifts/faith-and-memorial-gifts.html"><span>Faith &amp; Memorial Gifts</span></a></li><li class="level2 nav-4-1-6"><a href="https://www.currentcatalog.com/gifts/best-gifts/figurine-gifts.html"><span>Figurine Gifts</span></a></li><li class="level2 nav-4-1-7"><a href="https://www.currentcatalog.com/gifts/best-gifts/games-and-puzzles.html"><span>Games &amp; Puzzles</span></a></li><li class="level2 nav-4-1-8"><a href="https://www.currentcatalog.com/gifts/best-gifts/books.html"><span>Gift Books &amp; Bookmarks</span></a></li><li class="level2 nav-4-1-9"><a href="https://www.currentcatalog.com/gifts/best-gifts/personalized-ornaments.html"><span>Ornaments</span></a></li><li class="level2 nav-4-1-10 last"><a href="https://www.currentcatalog.com/gifts/best-gifts/wine-gifts.html"><span>Wine Gifts</span></a></li></ul></li><li class="level1 nav-4-2 parent"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient.html"><span>Shop by Recipient</span></a><ul class="level1 submenu"><li class="level2 nav-4-2-1 first"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-her.html"><span>For Her</span></a></li><li class="level2 nav-4-2-2"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-him.html"><span>For Him</span></a></li><li class="level2 nav-4-2-3"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-cook.html"><span>For the Cook</span></a></li><li class="level2 nav-4-2-4"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-home.html"><span>For Home</span></a></li><li class="level2 nav-4-2-5"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-kids.html"><span>For Kids</span></a></li><li class="level2 nav-4-2-6"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-pet-lovers.html"><span>For Pet Lovers</span></a></li><li class="level2 nav-4-2-7 last"><a href="https://www.currentcatalog.com/gifts/gifts-for-recipient/gifts-for-teachers.html"><span>For Teachers</span></a></li></ul></li><li class="level1 nav-4-3 parent"><a href="https://www.currentcatalog.com/gifts/collectibles.html"><span>Collectibles</span></a><ul class="level1 submenu"><li class="level2 nav-4-3-1 first"><a href="https://www.currentcatalog.com/gifts/collectibles/mary-engelbreit.html"><span>Mary Engelbreit</span></a></li><li class="level2 nav-4-3-2"><a href="https://www.currentcatalog.com/gifts/collectibles/peanuts.html"><span>Peanuts</span></a></li><li class="level2 nav-4-3-3 last"><a href="https://www.currentcatalog.com/gifts/collectibles/willow-tree.html"><span>Willow Tree</span></a></li></ul></li><li class="level1 nav-4-4 last parent"><a href="https://www.currentcatalog.com/gifts/personalized-gifts.html"><span>Personalized Gifts</span></a><ul class="level1 submenu"><li class="level2 nav-4-4-1 first"><a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-gifts-for-her.html"><span>Personalized Gifts for Her</span></a></li><li class="level2 nav-4-4-2"><a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-gifts-for-him.html"><span>Personalized Gifts for Him</span></a></li><li class="level2 nav-4-4-3"><a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-gifts-for-the-home.html"><span>Personalized Gifts for Home</span></a></li><li class="level2 nav-4-4-4 last"><a href="https://www.currentcatalog.com/gifts/personalized-gifts/personalized-kitchen-accessories.html"><span>Personalized Kitchen Accessories</span></a></li></ul></li></ul></li><li class="level0 nav-5 level-top parent"><a href="https://www.currentcatalog.com/for-kids.html" class="level-top"><span>For Kids</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/activity-books.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/forkids.jpg" alt="SHOP ACTIVITY BOOKS">
+    </a>
+    <div><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/activity-books.html">Activity books make<br>playtime merry!</a></div>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/activity-books.html">SHOP ACTIVITY BOOKS</a>
+</div></li><li class="level1 nav-5-1 first parent"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids.html"><span>Gifts For Kids</span></a><ul class="level1 submenu"><li class="level2 nav-5-1-1 first"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/activity-books.html"><span>Activity Books</span></a></li><li class="level2 nav-5-1-2"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/kids-personalized-beach-towels.html"><span>Beach Towels</span></a></li><li class="level2 nav-5-1-3"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/growth-charts.html"><span>Growth Charts</span></a></li><li class="level2 nav-5-1-4"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/name-poems.html"><span>Name Poems</span></a></li><li class="level2 nav-5-1-5"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/placemats.html"><span>Placemats</span></a></li><li class="level2 nav-5-1-6"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/sticker-scenes.html"><span>Sticker Scenes</span></a></li><li class="level2 nav-5-1-7"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/story-books.html"><span>Story Books</span></a></li><li class="level2 nav-5-1-8"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/toys-and-gifts.html"><span>Toys and Gifts</span></a></li><li class="level2 nav-5-1-9 last"><a href="https://www.currentcatalog.com/for-kids/gifts-for-kids/water-bottles.html"><span>Water Bottles</span></a></li></ul></li><li class="level1 nav-5-2 parent"><a href="https://www.currentcatalog.com/for-kids/stationery-for-kids.html"><span>Stationery For Kids</span></a><ul class="level1 submenu"><li class="level2 nav-5-2-1 first"><a href="https://www.currentcatalog.com/for-kids/stationery-for-kids/journals-and-sketchbooks.html"><span>Journals and Sketchbooks</span></a></li><li class="level2 nav-5-2-2"><a href="https://www.currentcatalog.com/for-kids/stationery-for-kids/notebooks.html"><span>Notebooks</span></a></li><li class="level2 nav-5-2-3"><a href="https://www.currentcatalog.com/for-kids/stationery-for-kids/stickers-and-seals.html"><span>Stickers and Seals</span></a></li><li class="level2 nav-5-2-4 last"><a href="https://www.currentcatalog.com/for-kids/stationery-for-kids/thank-you-and-note-cards.html"><span>Thank You and Note Cards</span></a></li></ul></li><li class="level1 nav-5-3 last"><a href="https://www.currentcatalog.com/for-kids/santa-letter.html"><span>Santa Letter</span></a></li></ul></li><li class="level0 nav-6 level-top parent"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories.html" class="level-top"><span>Wrapping Paper</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/wrapping-paper-and-accessories.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/wrap.jpg" alt="Wrapping Paper">
+    </a>
+    <div><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories.html">Famous peek-proof wrap!</a></div>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-wrapping-paper.html">SHOP CHRISTMAS WRAP</a>
+</div></li><li class="level1 nav-6-1 first parent"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-wrapping-paper.html"><span>Christmas Wrapping Paper</span></a><ul class="level1 submenu"><li class="level2 nav-6-1-1 first"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-wrapping-paper/christmas-rolled-wrapping-paper.html"><span>Christmas Rolled Wrapping Paper</span></a></li><li class="level2 nav-6-1-2"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-wrapping-paper/christmas-foil-wrapping-paper.html"><span>Christmas Foil Wrapping Paper</span></a></li><li class="level2 nav-6-1-3 last"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-wrapping-paper/christmas-flat-wrapping-paper.html"><span>Christmas Flat Wrapping Paper</span></a></li></ul></li><li class="level1 nav-6-2 parent"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories.html"><span>Christmas Gift Wrap Accessories</span></a><ul class="level1 submenu"><li class="level2 nav-6-2-1 first"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/christmas-bows-and-ribbon.html"><span>Christmas Bows &amp; Ribbon</span></a></li><li class="level2 nav-6-2-2"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/christmas-gift-bags.html"><span>Christmas Gift Bags</span></a></li><li class="level2 nav-6-2-3"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/christmas-gift-tags-and-labels.html"><span>Christmas Gift Tags &amp; Labels</span></a></li><li class="level2 nav-6-2-4"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/christmas-seals-and-stickers.html"><span>Christmas Seals &amp; Stickers</span></a></li><li class="level2 nav-6-2-5"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/christmas-tissue-paper.html"><span>Christmas Tissue Paper</span></a></li><li class="level2 nav-6-2-6"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/gift-ornaments-and-package-toppers.html"><span>Gift Ornaments &amp; Package Toppers</span></a></li><li class="level2 nav-6-2-7"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/christmas-treat-holders.html"><span>Christmas Treat Holders</span></a></li><li class="level2 nav-6-2-8 last"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/christmas-gift-wrap-accessories/wrapping-paper-storage.html"><span>Wrapping Paper Storage</span></a></li></ul></li><li class="level1 nav-6-3 parent"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/money-and-gift-card-holders.html"><span>Money &amp; Gift Card Holders</span></a><ul class="level1 submenu"><li class="level2 nav-6-3-1 first"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/money-and-gift-card-holders/christmas-money-cards-and-envelopes.html"><span>Christmas Money Cards &amp; Envelopes</span></a></li><li class="level2 nav-6-3-2 last"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/money-and-gift-card-holders/gift-card-holders-and-envelopes.html"><span>Gift Card Holders &amp; Envelopes</span></a></li></ul></li><li class="level1 nav-6-4 last parent"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/birthday-everyday-wrap-and-accessories.html"><span>Birthday &amp; Everyday Wrap</span></a><ul class="level1 submenu"><li class="level2 nav-6-4-1 first"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/birthday-everyday-wrap-and-accessories/everyday-wrapping-paper.html"><span>Everyday Wrapping Paper</span></a></li><li class="level2 nav-6-4-2"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/birthday-everyday-wrap-and-accessories/everyday-gift-bags.html"><span>Everyday Gift Bags</span></a></li><li class="level2 nav-6-4-3"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/birthday-everyday-wrap-and-accessories/everyday-gift-wrap-accessories.html"><span>Everyday Gift Wrap Accessories</span></a></li><li class="level2 nav-6-4-4"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/birthday-everyday-wrap-and-accessories/everyday-treat-holders.html"><span>Everyday Treat Holders</span></a></li><li class="level2 nav-6-4-5 last"><a href="https://www.currentcatalog.com/wrapping-paper-and-accessories/birthday-everyday-wrap-and-accessories/wrapping-paper-storage.html"><span>Wrapping Paper Storage</span></a></li></ul></li></ul></li><li class="level0 nav-7 level-top parent"><a href="https://www.currentcatalog.com/holidays-and-events.html" class="level-top"><span>Holidays &amp; Events</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/holidays-and-events/thanksgiving/thanksgiving-decor.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/holidays.jpg" alt="Shop Thanksgiving Décor">
+    </a>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/holidays-and-events/thanksgiving/thanksgiving-decor.html">Shop Thanksgiving Décor</a>
+</div></li><li class="level1 nav-7-1 first parent"><a href="https://www.currentcatalog.com/holidays-and-events/christmas.html"><span>Christmas</span></a><ul class="level1 submenu"><li class="level2 nav-7-1-1 first parent"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-cards.html"><span>Christmas Cards</span></a></li><li class="level2 nav-7-1-2"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-decor.html"><span>Christmas Decor</span></a></li><li class="level2 nav-7-1-3"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-gifts.html"><span>Christmas Gifts</span></a></li><li class="level2 nav-7-1-4"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-kitchen.html"><span>Christmas Kitchen</span></a></li><li class="level2 nav-7-1-5"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-ornaments.html"><span>Christmas Ornaments</span></a></li><li class="level2 nav-7-1-6 parent"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-wrapping-paper-and-accessories.html"><span>Christmas Wrapping Paper &amp; Accessories</span></a></li><li class="level2 nav-7-1-7 parent"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/stocking-stuffers.html"><span>Stocking Stuffers</span></a></li><li class="level2 nav-7-1-8"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/santa-letter.html"><span>Santa Letter</span></a></li><li class="level2 nav-7-1-9 parent"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-stationery.html"><span>Christmas Stationery</span></a></li><li class="level2 nav-7-1-10 last"><a href="https://www.currentcatalog.com/holidays-and-events/christmas/christmas-treat-holders.html"><span>Christmas Treat Holders</span></a></li></ul></li><li class="level1 nav-7-2 parent"><a href="https://www.currentcatalog.com/holidays-and-events/halloween.html"><span>Halloween</span></a><ul class="level1 submenu"><li class="level2 nav-7-2-1 first"><a href="https://www.currentcatalog.com/holidays-and-events/halloween/halloween-greeting-cards.html"><span>Halloween Cards &amp; Labels</span></a></li><li class="level2 nav-7-2-2"><a href="https://www.currentcatalog.com/holidays-and-events/halloween/halloween-stickers.html"><span>Halloween Stickers</span></a></li><li class="level2 nav-7-2-3"><a href="https://www.currentcatalog.com/holidays-and-events/halloween/halloween-decor.html"><span>Halloween Decor</span></a></li><li class="level2 nav-7-2-4 last"><a href="https://www.currentcatalog.com/holidays-and-events/halloween/halloween-treats.html"><span>Halloween Treats</span></a></li></ul></li><li class="level1 nav-7-3 parent"><a href="https://www.currentcatalog.com/holidays-and-events/thanksgiving.html"><span>Thanksgiving</span></a><ul class="level1 submenu"><li class="level2 nav-7-3-1 first"><a href="https://www.currentcatalog.com/holidays-and-events/thanksgiving/thanksgiving-greeting-cards.html"><span>Thanksgiving Greeting Cards</span></a></li><li class="level2 nav-7-3-2"><a href="https://www.currentcatalog.com/holidays-and-events/thanksgiving/thanksgiving-decor.html"><span>Thanksgiving Decor</span></a></li><li class="level2 nav-7-3-3 last"><a href="https://www.currentcatalog.com/holidays-and-events/thanksgiving/thanksgiving-kitchen.html"><span>Thanksgiving Kitchen</span></a></li></ul></li><li class="level1 nav-7-4 parent"><a href="https://www.currentcatalog.com/holidays-and-events/birthday.html"><span>Birthday</span></a><ul class="level1 submenu"><li class="level2 nav-7-4-1 first"><a href="https://www.currentcatalog.com/holidays-and-events/birthday/birthday-cards.html"><span>Birthday Cards</span></a></li><li class="level2 nav-7-4-2"><a href="https://www.currentcatalog.com/holidays-and-events/birthday/birthday-create-a-card.html"><span>Birthday Create-A-Card</span></a></li><li class="level2 nav-7-4-3"><a href="https://www.currentcatalog.com/holidays-and-events/birthday/birthday-wrapping-paper-and-accessories.html"><span>Birthday Wrapping Paper</span></a></li><li class="level2 nav-7-4-4"><a href="https://www.currentcatalog.com/holidays-and-events/birthday/birthday-labels.html"><span>Birthday Labels</span></a></li><li class="level2 nav-7-4-5"><a href="https://www.currentcatalog.com/holidays-and-events/birthday/birthday-stickers.html"><span>Birthday Stickers</span></a></li><li class="level2 nav-7-4-6 last"><a href="https://www.currentcatalog.com/holidays-and-events/birthday/birthday-gifts.html"><span>Birthday Gifts</span></a></li></ul></li><li class="level1 nav-7-5"><a href="https://www.currentcatalog.com/holidays-and-events/summer-celebrations.html"><span>Summer Celebrations</span></a></li><li class="level1 nav-7-6 parent"><a href="https://www.currentcatalog.com/holidays-and-events/wedding-and-anniversary.html"><span>Wedding &amp; Anniversary</span></a><ul class="level1 submenu"><li class="level2 nav-7-6-1 first"><a href="https://www.currentcatalog.com/holidays-and-events/wedding-and-anniversary/wedding-and-anniversary-cards-and-wrap.html"><span>Wedding &amp; Anniversary Cards</span></a></li><li class="level2 nav-7-6-2"><a href="https://www.currentcatalog.com/holidays-and-events/wedding-and-anniversary/wedding-stationery-and-labels.html"><span>Wedding Stationery &amp; Labels</span></a></li><li class="level2 nav-7-6-3 last"><a href="https://www.currentcatalog.com/holidays-and-events/wedding-and-anniversary/wedding-gifts.html"><span>Wedding Gifts</span></a></li></ul></li><li class="level1 nav-7-7"><a href="https://www.currentcatalog.com/holidays-and-events/graduation.html"><span>Graduation</span></a></li><li class="level1 nav-7-8 last"><a href="https://www.currentcatalog.com/holidays-and-events/fourth-of-july.html"><span>4th of July</span></a></li></ul></li><li class="level0 nav-8 level-top parent"><a href="https://www.currentcatalog.com/for-your-home.html" class="level-top"><span>For Your Home</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/for-your-home/home-decor/decorative-accents-and-figurines.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/forhome.jpg" alt="SHOP DECORATIVE ACCENTS &amp; FIGURINES">
+    </a>
+    <div><a href="https://www.currentcatalog.com/for-your-home/home-decor/decorative-accents-and-figurines.html">Decorating ideas for the season</a></div>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/for-your-home/home-decor/decorative-accents-and-figurines.html">SHOP decorative<br>accents &amp; figurines</a>
+</div></li><li class="level1 nav-8-1 first parent"><a href="https://www.currentcatalog.com/for-your-home/home-decor.html"><span>Home Decor</span></a><ul class="level1 submenu"><li class="level2 nav-8-1-1 first"><a href="https://www.currentcatalog.com/for-your-home/home-decor/coasters.html"><span>Coasters</span></a></li><li class="level2 nav-8-1-2"><a href="https://www.currentcatalog.com/for-your-home/home-decor/decorative-accents-and-figurines.html"><span>Decorative Accents &amp; Figurines</span></a></li><li class="level2 nav-8-1-3"><a href="https://www.currentcatalog.com/for-your-home/home-decor/floral-wreaths-and-banners.html"><span>Floral Wreaths &amp; Banners</span></a></li><li class="level2 nav-8-1-4"><a href="https://www.currentcatalog.com/for-your-home/home-decor/linens-and-table-runners.html"><span>Linens and Table Runners</span></a></li><li class="level2 nav-8-1-5"><a href="https://www.currentcatalog.com/for-your-home/home-decor/night-lights.html"><span>Night Lights</span></a></li><li class="level2 nav-8-1-6"><a href="https://www.currentcatalog.com/for-your-home/home-decor/rugs-and-mats.html"><span>Rugs and Mats</span></a></li><li class="level2 nav-8-1-7"><a href="https://www.currentcatalog.com/for-your-home/home-decor/throws-and-pillows.html"><span>Throws &amp; Pillows</span></a></li><li class="level2 nav-8-1-8 last parent"><a href="https://www.currentcatalog.com/for-your-home/home-decor/wall-decor.html"><span>Wall Decor</span></a></li></ul></li><li class="level1 nav-8-2"><a href="https://www.currentcatalog.com/for-your-home/household-helpers.html"><span>Household Helpers</span></a></li><li class="level1 nav-8-3 parent"><a href="https://www.currentcatalog.com/for-your-home/home-looks.html"><span>Decor Looks</span></a><ul class="level1 submenu"><li class="level2 nav-8-3-1 first"><a href="https://www.currentcatalog.com/for-your-home/home-looks/christmas-holiday-decor.html"><span>Christmas Holiday Decor</span></a></li><li class="level2 nav-8-3-2"><a href="https://www.currentcatalog.com/for-your-home/home-looks/coastal-decor.html"><span>Coastal Decor</span></a></li><li class="level2 nav-8-3-3"><a href="https://www.currentcatalog.com/for-your-home/home-looks/country-home-decor.html"><span>Country Home Decor</span></a></li><li class="level2 nav-8-3-4"><a href="https://www.currentcatalog.com/for-your-home/home-looks/faith-decor.html"><span>Faith Decor</span></a></li><li class="level2 nav-8-3-5"><a href="https://www.currentcatalog.com/for-your-home/home-looks/fall-decor.html"><span>Fall Decor</span></a></li><li class="level2 nav-8-3-6"><a href="https://www.currentcatalog.com/for-your-home/home-looks/lake-house-and-camping-decor.html"><span>Lake House &amp; Camping</span></a></li><li class="level2 nav-8-3-7 last"><a href="https://www.currentcatalog.com/for-your-home/home-looks/patriotic-decor.html"><span>Patriotic Decor</span></a></li></ul></li><li class="level1 nav-8-4"><a href="https://www.currentcatalog.com/for-your-home/outdoor-decor.html"><span>Outdoor Decor</span></a></li><li class="level1 nav-8-5 parent"><a href="https://www.currentcatalog.com/for-your-home/home-office.html"><span>Home Office</span></a><ul class="level1 submenu"><li class="level2 nav-8-5-1 first"><a href="https://www.currentcatalog.com/for-your-home/home-office/desk-accessories.html"><span>Desk Accessories</span></a></li><li class="level2 nav-8-5-2"><a href="https://www.currentcatalog.com/for-your-home/home-office/file-folders.html"><span>File Folders &amp; Magazine Holders</span></a></li><li class="level2 nav-8-5-3"><a href="https://www.currentcatalog.com/for-your-home/home-office/mouse-pads.html"><span>Mouse Pads</span></a></li><li class="level2 nav-8-5-4 parent"><a href="https://www.currentcatalog.com/for-your-home/home-office/organizer-books.html"><span>Organizer Books</span></a></li><li class="level2 nav-8-5-5 parent"><a href="https://www.currentcatalog.com/for-your-home/home-office/office-stationery.html"><span>Office Stationery</span></a></li><li class="level2 nav-8-5-6 last"><a href="https://www.currentcatalog.com/for-your-home/home-office/award-certificates.html"><span>Award Certificates</span></a></li></ul></li><li class="level1 nav-8-6 parent"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining.html"><span>Kitchen and Dining</span></a><ul class="level1 submenu"><li class="level2 nav-8-6-1 first"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/cookbooks.html"><span>Cookbooks</span></a></li><li class="level2 nav-8-6-2"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/cutting-boards.html"><span>Cutting Boards</span></a></li><li class="level2 nav-8-6-3"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/gadgets.html"><span>Gadgets</span></a></li><li class="level2 nav-8-6-4"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/mugs.html"><span>Mugs</span></a></li><li class="level2 nav-8-6-5"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/recipe-cards.html"><span>Recipe Cards &amp; Labels</span></a></li><li class="level2 nav-8-6-6"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/tabletop.html"><span>Tabletop</span></a></li><li class="level2 nav-8-6-7 last"><a href="https://www.currentcatalog.com/for-your-home/kitchen-and-dining/treat-holders.html"><span>Treat Holders</span></a></li></ul></li><li class="level1 nav-8-7 last"><a href="https://www.currentcatalog.com/for-your-home/magnets.html"><span>Magnets</span></a></li></ul></li><li class="level0 nav-9 level-top parent"><a href="https://www.currentcatalog.com/calendars.html" class="level-top"><span>Calendars</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/calendars/wall-calendars.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/calender.jpg" alt="Shop Wall Calendars">
+    </a>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/calendars/wall-calendars.html">Shop Wall Calendars</a>
+</div></li><li class="level1 nav-9-1 first"><a href="https://www.currentcatalog.com/calendars/wall-calendars.html"><span>Wall Calendars</span></a></li><li class="level1 nav-9-2"><a href="https://www.currentcatalog.com/calendars/big-grid-calendars.html"><span>Big Grid Calendars</span></a></li><li class="level1 nav-9-3"><a href="https://www.currentcatalog.com/calendars/pocket-calendars.html"><span>Pocket Calendars</span></a></li><li class="level1 nav-9-4"><a href="https://www.currentcatalog.com/calendars/specialty-calendars.html"><span>Specialty Calendars</span></a></li><li class="level1 nav-9-5"><a href="https://www.currentcatalog.com/calendars/calendar-pads.html"><span>Calendar Pads</span></a></li><li class="level1 nav-9-6"><a href="https://www.currentcatalog.com/calendars/desk-calendars.html"><span>Desk Calendars</span></a></li><li class="level1 nav-9-7"><a href="https://www.currentcatalog.com/calendars/photo-scrapbooking-calendars.html"><span>Photo DIY Calendars</span></a></li><li class="level1 nav-9-8 last"><a href="https://www.currentcatalog.com/calendars/calendar-holders.html"><span>Calendar Holders</span></a></li></ul></li><li class="level0 nav-10 last level-top parent"><a href="https://www.currentcatalog.com/sale.html" class="level-top"><span>SALE, Deals &amp; BOGOs</span></a><ul class="level0 submenu"><li class="r-menu-level-0"><div class="image">
+    <a href="https://www.currentcatalog.com/sale.html">
+        <img src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/menu/sale.jpg" alt="SHOP SALE">
+    </a>
+    <div><a href="https://www.currentcatalog.com/sale.html">Don’t miss out!<br>
+    Find huge savings!</a></div>
+</div>
+<div class="title">
+    <a href="https://www.currentcatalog.com/sale.html">SHOP SALE NOW</a>
+</div></li><li class="level1 nav-10-1 first parent"><a href="https://www.currentcatalog.com/sale/special-deals.html"><span>Special Deals</span></a><ul class="level1 submenu"><li class="level2 nav-10-1-1 first"><a href="https://www.currentcatalog.com/sale/special-deals/hot-deals-clearance.html"><span>Clearance Sale - Save Over 80%</span></a></li><li class="level2 nav-10-1-2"><a href="https://www.currentcatalog.com/sale/special-deals/bogos.html"><span>BOGOs</span></a></li><li class="level2 nav-10-1-3"><a href="https://www.currentcatalog.com/sale/special-deals/current-gems.html"><span>Current Gems</span></a></li><li class="level2 nav-10-1-4 last"><a href="https://www.currentcatalog.com/sale/special-deals/fall-sale.html"><span>Fall Sale - Save up to 75%</span></a></li></ul></li><li class="level1 nav-10-2 parent"><a href="https://www.currentcatalog.com/sale/christmas-sale.html"><span>Christmas Sale</span></a><ul class="level1 submenu"><li class="level2 nav-10-2-1 first"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-cards-sale.html"><span>Christmas Cards Sale</span></a></li><li class="level2 nav-10-2-2"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-correspondence-sale.html"><span>Christmas Stationery Sale</span></a></li><li class="level2 nav-10-2-3"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-decor-sale.html"><span>Christmas Gifts and Decor Sale</span></a></li><li class="level2 nav-10-2-4"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-gift-wrap-accessories-sale.html"><span>Christmas Gift Wrap Accessories</span></a></li><li class="level2 nav-10-2-5"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-wrapping-paper-sale.html"><span>Christmas Wrapping Paper Sale</span></a></li><li class="level2 nav-10-2-6"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-kitchen-sale.html"><span>Christmas Kitchen Sale</span></a></li><li class="level2 nav-10-2-7"><a href="https://www.currentcatalog.com/sale/christmas-sale/ornaments-sale.html"><span>Ornaments Sale</span></a></li><li class="level2 nav-10-2-8"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-stickers-sale.html"><span>Christmas Stickers Sale</span></a></li><li class="level2 nav-10-2-9 last"><a href="https://www.currentcatalog.com/sale/christmas-sale/christmas-treat-holders-sale.html"><span>Christmas Treat Holders Sale</span></a></li></ul></li><li class="level1 nav-10-3 parent"><a href="https://www.currentcatalog.com/sale/holiday-sale.html"><span>Holiday Sale &amp; Deals</span></a><ul class="level1 submenu"><li class="level2 nav-10-3-1 first"><a href="https://www.currentcatalog.com/sale/holiday-sale/valentines-day-sale.html"><span>Valentine's Day Sale</span></a></li><li class="level2 nav-10-3-2"><a href="https://www.currentcatalog.com/sale/holiday-sale/st-patricks-day-sale.html"><span>St. Patrick's Day Sale</span></a></li><li class="level2 nav-10-3-3"><a href="https://www.currentcatalog.com/sale/holiday-sale/easter-sale.html"><span>Easter Sale &amp; Deals</span></a></li><li class="level2 nav-10-3-4"><a href="https://www.currentcatalog.com/sale/holiday-sale/summer-celebrations-sale.html"><span>Summer Celebrations Sale</span></a></li><li class="level2 nav-10-3-5"><a href="https://www.currentcatalog.com/sale/holiday-sale/halloween-sale.html"><span>Halloween Sale</span></a></li><li class="level2 nav-10-3-6 last"><a href="https://www.currentcatalog.com/sale/holiday-sale/thanksgiving-sale.html"><span>Thanksgiving Sale</span></a></li></ul></li><li class="level1 nav-10-4"><a href="https://www.currentcatalog.com/sale/gifts-sale.html"><span>Gifts Sale &amp; Deals</span></a></li><li class="level1 nav-10-5"><a href="https://www.currentcatalog.com/sale/kids-gifts-sale.html"><span>Kids Gifts Sale &amp; Deals</span></a></li><li class="level1 nav-10-6 parent"><a href="https://www.currentcatalog.com/sale/stationery-sale.html"><span>Stationery Sale</span></a><ul class="level1 submenu"><li class="level2 nav-10-6-1 first"><a href="https://www.currentcatalog.com/sale/stationery-sale/notepads-sale.html"><span>Notepads Sale</span></a></li><li class="level2 nav-10-6-2"><a href="https://www.currentcatalog.com/sale/stationery-sale/note-cards-sale.html"><span>Note Cards Sale</span></a></li><li class="level2 nav-10-6-3 last"><a href="https://www.currentcatalog.com/sale/stationery-sale/stickers-sale.html"><span>Stickers Sale</span></a></li></ul></li><li class="level1 nav-10-7 parent"><a href="https://www.currentcatalog.com/sale/for-your-home-sale.html"><span>For Your Home Sale</span></a><ul class="level1 submenu"><li class="level2 nav-10-7-1 first"><a href="https://www.currentcatalog.com/sale/for-your-home-sale/home-decor-sale.html"><span>Home Decor Sale</span></a></li><li class="level2 nav-10-7-2 parent"><a href="https://www.currentcatalog.com/sale/for-your-home-sale/home-office-sale.html"><span>Home Office Sale</span></a></li><li class="level2 nav-10-7-3"><a href="https://www.currentcatalog.com/sale/for-your-home-sale/kitchen-sale.html"><span>Kitchen Sale</span></a></li><li class="level2 nav-10-7-4"><a href="https://www.currentcatalog.com/sale/for-your-home-sale/organizer-sale.html"><span>Household Helpers Sale</span></a></li><li class="level2 nav-10-7-5 last"><a href="https://www.currentcatalog.com/sale/for-your-home-sale/outdoor-sale.html"><span>Outdoor Sale</span></a></li></ul></li><li class="level1 nav-10-8 parent"><a href="https://www.currentcatalog.com/sale/greeting-cards-sale.html"><span>Greeting Cards Sale</span></a><ul class="level1 submenu"><li class="level2 nav-10-8-1 first"><a href="https://www.currentcatalog.com/sale/greeting-cards-sale/birthday-cards-sale.html"><span>Birthday Cards Sale</span></a></li><li class="level2 nav-10-8-2 last"><a href="https://www.currentcatalog.com/sale/greeting-cards-sale/all-occasion-cards-sale.html"><span>All Occasion Cards Sale</span></a></li></ul></li><li class="level1 nav-10-9 parent"><a href="https://www.currentcatalog.com/sale/wrapping-paper-sale.html"><span>Wrapping Paper Sale</span></a><ul class="level1 submenu"><li class="level2 nav-10-9-1 first"><a href="https://www.currentcatalog.com/sale/wrapping-paper-sale/everyday-wrapping-paper-sale.html"><span>Everyday Wrapping Paper Sale</span></a></li><li class="level2 nav-10-9-2 last"><a href="https://www.currentcatalog.com/sale/wrapping-paper-sale/gift-wrap-accessories-sale.html"><span>Gift Wrap Accessories Sale</span></a></li></ul></li><li class="level1 nav-10-10"><a href="https://www.currentcatalog.com/sale/calendar-sale-and-deals.html"><span>Calendar Sale &amp; Deals</span></a></li><li class="level1 nav-10-11 last parent"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals.html"><span>Quantity Discounts</span></a><ul class="level1 submenu"><li class="level2 nav-10-11-1 first"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals/all-occasion-cards.html"><span>All Occasion Cards</span></a></li><li class="level2 nav-10-11-2"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals/christmas-letter-papers.html"><span>Christmas Letter Papers</span></a></li><li class="level2 nav-10-11-3"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals/greeting-card-value-packs.html"><span>Greeting Card Value Packs</span></a></li><li class="level2 nav-10-11-4"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals/personalized-mugs.html"><span>Personalized Mugs</span></a></li><li class="level2 nav-10-11-5"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals/thank-you-cards.html"><span>Thank You Cards</span></a></li><li class="level2 nav-10-11-6 last"><a href="https://www.currentcatalog.com/sale/quantity-discount-deals/valentines-for-kids.html"><span>Valentine's for Kids</span></a></li></ul></li></ul></li>            </ul>
+</nav>
+<script type="text/x-magento-init">
+{
+    "nav.navigation > ul": {
+        "menuColumns": {
+            "cols": "3",
+            "minDesktopWidth": "750",
+            "minColHeight": "90",
+            "offset": "8",
+            "setSubmenuColumns": "true"
+        },
+        "expandOnTouch": {},
+        "menuLoaded": {}
+    }
+}
+</script></div>
+                                            <div class="section-item-title nav-sections-item-title" data-role="collapsible">
+                    <a class="nav-sections-item-switch" data-toggle="switch" href="#store.links">Account</a>
+                </div>
+                <div class="section-item-content nav-sections-item-content" id="store.links" data-role="content"><!-- Account links --></div>
+                                    </div>
+    </div>
+<div class="breadcrumbs">
+    <ul class="items">
+                    <li class="item home">
+                            <a href="https://www.currentcatalog.com/" title="Go to Home Page">
+                    Home                </a>
+                        </li>
+                    <li class="item cms_page">
+                            <strong>Privacy And Security</strong>
+                        </li>
+            </ul>
+</div>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page-title-wrapper">
+    <h1 class="page-title">
+        <span class="base" data-ui-id="page-title-wrapper">Privacy And Security</span>    </h1>
+    </div>
+<div class="page messages"><div data-placeholder="messages"></div><div data-bind="scope: 'messages'">
+    <div data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <div data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="n7vsrzHQ2iRCDSFY"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+    <script>
+        window.authenticationPopup = {"customerRegisterUrl":"https:\/\/www.currentcatalog.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.currentcatalog.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.currentcatalog.com\/"};
+    </script>
+    <!-- ko template: getTemplate() --><!-- /ko -->
+    <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/loader-1.gif"
+            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages","coupon_promo_banner"],"customer\/account\/logout":"*","customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data"],"multishipping\/checkout\/overviewpost":["cart"],"review\/product\/post":["review"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"personalization\/cart":["cart"]},"clientSideSections":["checkout-data"],"baseUrls":["https:\/\/www.currentcatalog.com\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.currentcatalog.com\/customer\/section\/load\/","cookieLifeTime":"604800","updateSessionUrl":"https:\/\/www.currentcatalog.com\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.currentcatalog.com\/page_cache\/block\/render\/page_id\/18\/","handles":["default","cms_page_view","cms_page_view_id_resources\/privacy-and-security"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/resources\/privacy-and-security"},"versionCookieName":"private_content_version"}        }
+    }
+</script><div class="customer-serv-body">
+    <div class="cust-serv-nav">
+    <ul>
+        <li><a href="https://www.currentcatalog.com/resources/about-us">About Us</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/affiliate-network">Affiliate Network</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/blue-ribbon-club">Blue Ribbon Club</a></li>      
+        <li><a href="https://www.currentcatalog.com/resources/contact-us">Contact Us</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/customer-testimonials">Customer Testimonials</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/faq">FAQs</a></li>
+        <li><a href="https://www.currentcatalog.com/sales/order/history/">Order Status</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/personalization-tips">Personal Checks</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/privacy-and-security">Privacy &amp; Security</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/product-safety">Product Safety</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/california-proposition-65">Proposition 65</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/returns-and-exchanges">Returns &amp; Exchanges</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/shipping-information">Shipping Information</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/terms-of-sale">Terms of Sale</a></li>
+        <li><a href="https://www.currentcatalog.com/resources/terms-of-use">Terms of Use</a></li>
+    </ul>
+</div> 
+    <div class="customer-content">
+        <p>Last modified: June 1, 2017</p>
+        <h4><u>Introduction</u></h4>
+        <p>Current Media Group LLC (<strong>"Company"</strong> or&nbsp;<strong>"We"</strong>) respect your privacy and are committed to protecting it through our compliance with this policy.</p>
+        <p>This policy describes the types of information we may collect from you or that you may provide when you visit the website <a href="https://www.currentcatalog.com/">www.currentcatalog.com</a> (our <strong>"Website"</strong>) and our practices for collecting, using, maintaining, protecting, and disclosing that information.</p>
+        <p>This policy applies to information we collect:</p>
+        <ul>
+            <li>On this Website.</li>
+            <li>In email, text, and other electronic messages between you and this Website.</li>
+            <li>Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.</li>
+            <li>When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
+        </ul>
+        <p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. </p>
+        <h4><u>Children Under the Age of 13</u></h4>
+        <p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at <a href="mailto:CurrentCustomerService@currentinc.com">CustomerService@LillianVernon</a>.com.</p>
+        <h4><u>Information We Collect About You and How We Collect It</u></h4>
+        <p>We collect several types of information from and about users of our Website, including information:</p>
+        <ul>
+            <li>by which you may be personally identified, such as name, postal address, e-mail address, telephone number, credit card information or any other identifier by which you may be contacted online or offline ("personal information");</li>
+            <li>that is about you but individually does not identify you,;</li>
+            <li>about your internet connection, the equipment you use to access our Website and usage details.</li>
+        </ul>
+        <p>We collect this information:</p>
+        <ul>
+            <li>Directly from you when you provide it to us.</li>
+            <li>Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.</li>
+            <li>From third parties, for example, our business partners.</li>
+        </ul>
+        <p><strong><u>Information You Provide to Us</u></strong>.  The information we collect on or through our Website may include:</p>
+        <ul>
+            <li>Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.</li>
+            <li>Records and copies of your correspondence (including email addresses), if you contact us.</li>
+            <li>Your responses to surveys that we might ask you to complete for research purposes.</li>
+            <li>Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.</li>
+            <li>Your search queries on the Website.</li>
+        </ul>
+        <p>You also may provide information to be published or displayed (hereinafter, <strong>"posted"</strong>) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, <strong>"User Contributions"</strong>). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
+        <p><strong><u>Information We Collect Through Automatic Data Collection Technologies</u></strong>.  As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:</p>
+        <ul>
+            <li>Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.</li>
+            <li>Information about your computer and internet connection, including your IP address, operating system, and browser type.</li>
+        </ul>
+        <p>We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). Send an email to <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a> for information on how you can opt out of behavioral tracking on this website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.</p>
+        <p>The information we collect automatically is statistical data and may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:</p>
+        <ul>
+            <li>Estimate our audience size and usage patterns.</li>
+            <li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
+            <li>Speed up your searches.</li>
+            <li>Recognize you when you return to our Website.</li>
+        </ul>
+
+        <p>The technologies we use for this automatic data collection may include:</p>
+        <ul>
+            <li><strong>Cookies (or browser cookies)</strong>. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. </li>
+            <li><strong>Flash Cookies</strong>. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. </li>
+            <li><strong>Web Beacons</strong>. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). </li>
+        </ul>
+        <h4><u>Third-Party Use of Cookies and Other Tracking Technologies</u></h4>
+        <p>Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. </p>
+        <p>We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. </p>
+        <h4><u>How We Use Your Information</u></h4>
+        <p>We use information that we collect about you or that you provide to us, including any personal information:</p>
+        <ul>
+            <li>To present our Website and its contents to you.</li>
+            <li>To provide you with information, products, or services that you request from us.</li>
+            <li>To fulfill any other purpose for which you provide it.</li>
+            <li>To provide you with notices about your account, including expiration and renewal notices.</li>
+            <li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
+            <li>To notify you about changes to our Website or any products or services we offer or provide though it.</li>
+            <li>To allow you to participate in interactive features on our Website.</li>
+            <li>In any other way we may describe when you provide the information.</li>
+            <li>For any other purpose with your consent.</li>
+        </ul>
+        <p>We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data.</p>
+        <p>We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.</p>
+        <h4><u>Disclosure of Your Information</u></h4>
+        <p>We may disclose aggregated information about our users without restriction.</p>
+        <p>We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
+        <ul>
+            <li>To our subsidiaries and affiliates.</li>
+            <li>To contractors, service providers, and other third parties we use to support our business.</li>
+            <li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Current Media Group LLC's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Current Media Group LLC about our Website users is among the assets transferred.</li>
+            <li>To third parties to market their products or services to you if you have not opted out of these disclosures.</li>
+            <li>To fulfill the purpose for which you provide it. For example, if you give us an email address to use the "email a friend" feature of our Website, we will transmit the contents of that email and your email address to the recipients.</li>
+            <li>For any other purpose disclosed by us when you provide the information.</li>
+            <li>With your consent.</li>
+        </ul>
+        <p>We may also disclose your personal information:</p>
+        <ul>
+            <li>To comply with any court order, law, or legal process, including to respond to any government or regulatory request.</li>
+            <li>To enforce or apply our <a href="https://www.currentcatalog.com/resources/terms-of-use">terms of use</a> or <a href="https://www.currentcatalog.com/resources/terms-of-sale">terms of sale</a> and other agreements, including for billing and collection purposes.</li>
+            <li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Current Media Group LLC, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li>
+        </ul>
+        <h4><u>Choices About How We Use and Disclose Your Information</u></h4>
+        <p>We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: </p>
+        <ul>
+            <li><strong>Tracking Technologies and Advertising.</strong> You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.</li>
+            <li><strong>Disclosure of Your Information for Third-Party Advertising.</strong> If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by sending us an email stating your request to <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a>.</li>
+            <li><strong>Promotional Offers from the Company.</strong> If you do not wish to have your email address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or sending us an email stating your request to <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a>. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.</li>
+            <li><strong>Targeted Advertising.</strong> If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by sending us an email stating your request to <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a>.</li>
+            <li>We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.</li>
+        </ul>
+        <h4><u>Accessing and Correcting Your Information</u></h4>
+        <p>You can review and change your personal information by logging into the Website and visiting your account profile page.</p>
+        <p>You may also send us an email to <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a> to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+        <p>If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our <a href="https://www.currentcatalog.com/resources/terms-of-use">terms of use</a>.</p>
+        <h4><u>Your California Privacy Rights</u></h4>
+        <p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a> or write us at: Current Media Group LLC, 1025 East Woodmen Road, Colorado Springs, Colorado 80920.</p>
+        <h4><u>Data Security</u></h4>
+        <p>We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. </p>
+        <p>The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.</p>
+        <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.</p>
+        <h4><u>Changes to Our Privacy Policy</u></h4>
+        <p>It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.</p>
+        <h4><u>Contact Information</u></h4>
+        <p>To ask questions or comment about this privacy policy and our privacy practices, contact us at:</p>
+        <p>Current Media Group, LLC<br>
+        1025 East Woodmen Road <br> 
+        Colorado Springs<br>
+        Colorado 80920<br>
+        or <br>
+        <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@currentinc.com</a></p>
+    </div>
+</div></div></div></main><script>
+    document.documentElement.className += 
+    ((('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) ? ' touch' : ' no-touch');
+</script><footer class="page-footer"><div class="footer content"><div class="block newsletter">
+    <div class="title"><strong>Newsletter</strong></div>
+    <div class="content">
+        <form class="form subscribe" novalidate="" action="https://www.currentcatalog.com/newsletter/subscriber/new/" method="post" data-mage-init="{&quot;validation&quot;: {&quot;errorClass&quot;: &quot;mage-error&quot;}}" id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <label class="label" for="newsletter"><span>SIGN UP FOR SPECIAL OFFERS, EXCLUSIVES AND MORE!</span></label>
+                <div class="control">
+                    <input name="email" type="email" id="newsletter" placeholder="Enter email address" data-validate="{required:true, 'validate-email':true}">
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action subscribe primary" title="Subscribe" type="submit">
+                    <span>Subscribe</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="footer-social">
+    <strong>Stay Connected</strong>
+    <ul class="social-icons">
+        <li><a class="pinterest-link" href="http://www.pinterest.com/currentcatalog1" target="_&quot;blank&quot;"><span></span></a></li>
+        <li><a class="facebook-link" href="https://www.facebook.com/currentcatalog" target="_&quot;blank&quot;"><span></span></a></li>
+        <li><a class="blog-link" href="http://blog.currentcatalog.com/blog/" target="_&quot;blank&quot;"><span></span></a></li>
+        <li><a class="twitter-link" href="https://twitter.com/currentcatalog" target="_&quot;blank&quot;"><span></span></a></li>
+    </ul>
+</div>
+<div class="row">
+    <div class="col-md-2">
+        <div class="block">
+            <div class="block-title">
+                <strong>Shop</strong>
+            </div>
+            <div class="block-content">
+                <ul class="links">
+                    <li><a title="PDF Order Form" href="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/pdf/currentcatalog_order_form.pdf">Download Our Order Form</a></li>
+                    <li><a title="Request A Catalog" href="https://www.currentcatalog.com/resources/catalog-request">Request A Catalog</a></li>
+                    <li><a title="Wish List" href="https://www.currentcatalog.com/wishlist/">Wish List</a></li>
+                    <li><a title="My Account" href="https://www.currentcatalog.com/customer/account/">My Account</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="block">
+            <div class="block-title"><strong>Help</strong></div>
+            <div class="block-content">
+                <ul class="links">
+                    <li><a title="Customer Service" href="https://www.currentcatalog.com/resources/customer-service">Customer Service</a></li>
+                    <li><a title="Order Status" href="https://www.currentcatalog.com/sales/order/history/">Order Status</a></li>
+                    <li><a title="Shipping And Delivery" href="https://www.currentcatalog.com/resources/shipping-information">Shipping &amp; Delivery</a></li>
+                    <li><a title="Returns &amp; Exchanges" href="https://www.currentcatalog.com/resources/returns-and-exchanges">Returns &amp; Exchanges</a></li>
+                    <li><a title="FAQ" href="https://www.currentcatalog.com/resources/faq">FAQ's</a></li>
+                    <li><a title="Product Safety" href="https://www.currentcatalog.com/resources/product-safety">Product Safety</a></li>
+                    <li><a title="Proposition 65" href="https://www.currentcatalog.com/resources/california-proposition-65">Proposition 65</a></li>
+                    <li><a title="Contact Us" href="https://www.currentcatalog.com/resources/contact-us">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="block">
+            <div class="block-title"><strong>About Us</strong></div>
+            <div class="block-content">
+                <ul class="links">
+                    <li><a title="Our Company" href="https://www.currentcatalog.com/resources/about-us">Our Company</a></li>
+                    <li><a title="Our Company" href="https://www.currentcatalog.com/resources/returns-and-exchanges">Our Guarantee</a></li>
+                    <li><a title="Site Map" href="https://www.currentcatalog.com/resources/site-map">Site Map</a></li>
+                    <li><a title="Affiliate Network" href="https://www.currentcatalog.com/resources/blue-ribbon-club">Blue Ribbon Club</a></li>
+                    <li><a title="Affiliate Network" href="https://www.currentcatalog.com/resources/affiliate-network">Affiliate Network</a></li>
+                    <li><a title="Our Company" href="https://boards.greenhouse.io/currentcatalog?gh_src=3gjodh1#.WPEN7PnyvIU" target="_blank">Careers</a></li>
+                    <li><a title="Privacy And Security" href="https://www.currentcatalog.com/resources/privacy-and-security">Privacy &amp; Security</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="block">
+        <div class="block-title"><strong>Shop our sister companies</strong></div>
+            <ul>
+                <li><a href="http://www.lillianvernon.com/?utm_source=CI&amp;utm_medium=link&amp;utm_campaign=partner_links" target="_blank" rel="nofollow"><img class="sisLogoImg" src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/logo-LV.png" alt="Lillian Vernon"></a></li>
+                <li><a href="http://www.colorfulimages.com/?utm_source=CI&amp;utm_medium=link&amp;utm_campaign=partner_links" target="_blank" rel="nofollow"><img class="sisLogoImg" src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/logo-CI.png" alt="Colorful Images"></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-3 footer-copyright">
+        <p>
+            Many of the names, characters, and images at this site are copyrighted. They may not be copied, reproduced, or used in any form without express written permission.
+        </p>
+        <p>
+            ©2017 Current Catalog<br>
+            All Rights Reserved.
+        </p>
+        <p>
+            Click to verify BBB accreditation and to see a BBB report.
+        </p>
+        <ul class="securityBlockMain" style="list-style:none; margin-top:10px;">			
+            <li class="bbb">
+                <a target="_blank" href="https://www.bbb.org/southern-colorado/business-reviews/mail-order-and-catalog-shopping/current-catalog-in-colorado-springs-co-15003437">
+                    <img border="0" title="Click to verify BBB accreditation and to see a BBB report." src="https://static.currentcatalog.com/version1503612015/frontend/Regent/cmg_cc/en_US/images/bbb.png" alt="Click" to="" verify="" bbb="" accreditation="" and="" see="" a="" report."="">
+                </a>
+            </li>
+            <li class="geotrust">
+                <script type="text/javascript" src="https://seal.geotrust.com/getgeotrustsslseal?host_name=www.currentcatalog.com&amp;size=S&amp;lang=en"></script>
+                <a href="http://www.geotrust.com/ssl/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;"></a>
+            </li>
+        </ul>
+    </div>
+</div></div></footer><noscript><img src="//tl.r7ls.net/unscripted/281224"
+               width="1"
+               height="1">
 </noscript>
-
-<!-- end Copyright Marin Software -->
-
-
-<!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: Current - Universal Pixel
-URL of the webpage where the tag is expected to be placed: http://www.currentcatalog.com/
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 10/11/2011
--->
-<script type="text/javascript">
-var axel = Math.random() + "";
-var a = axel * 10000000000000;
-document.write('<iframe src="https://fls.doubleclick.net/activityi;src=1905581;type=count293;cat=curre447;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="https://fls.doubleclick.net/activityi;src=1905581;type=count293;cat=curre447;ord=1;num=1527032410342.8213?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-<noscript>
-<iframe src="https://fls.doubleclick.net/activityi;src=1905581;type=count293;cat=curre447;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-</noscript>
-
-<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
-
-</td><td>&nbsp;</td>
-</tr>	
-
-</tbody></table>	
-<!-- Content Wrap End -->
-
-
-
-
-
-
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.currentcatalog.com\/","name":"Home"}}]}</script></div>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b0a3753ec7","applicationID":"38687036","transactionName":"ZgQANkJWXhVRBkZfDV9OIwFEXl8IHwZfRU1BAAUHH0FZA0c=","queueTime":0,"applicationTime":454,"atts":"SkMDQApMTRs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
