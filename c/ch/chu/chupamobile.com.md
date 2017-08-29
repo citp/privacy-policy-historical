@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081148id_/http%3A//www.chupamobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830014217id_/http%3A//www.chupamobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
