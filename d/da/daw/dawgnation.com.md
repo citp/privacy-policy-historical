@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawgnation.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128152200id_/https%3A//www.dawgnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawgnation.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829184503id_/https%3A//www.dawgnation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DawgNation.com (AJC)
 
@@ -11,7 +11,7 @@ Thank you for visiting this website, which is operated by an Affiliate of Cox Me
 
 This privacy statement is provided by the CMG Affiliate that operates this website (“we,” “us” or “our”) to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the “Site”), and the ways that we and the other CMG Affiliate Sites may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices.
 
-By visiting and using this site, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our [Visitor Agreement](http://www.dawgnation.com/visitor-agreement). If you have questions regarding privacy issues, please contact us at privacy@coxinc.com.
+By visiting and using this site, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our [Visitor Agreement](http://www.dawgnation.com/visitor-agreement). If you have questions regarding privacy issues, please contact us at [privacy@coxinc.com](mailto:privacy@coxinc.com).
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
