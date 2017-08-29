@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the courtneyssweets.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110130910id_/https%3A//www.courtneyssweets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtneyssweets.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829022842id_/https%3A//www.courtneyssweets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Courtney's Sweets
 
 ### **PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which Courtney’s Sweets, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.courtneyssweets.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Courtney’s Sweets
+This Privacy Policy governs the manner in which Courtney’s Sweets, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.courtneyssweets.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Courtney’s Sweets
 
 **Personal identification information**
 
@@ -62,6 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Courtney’s Sweets
 
-http://www.courtneyssweets.com
+https://www.courtneyssweets.com
 
 sweetaleets@gmail.com
