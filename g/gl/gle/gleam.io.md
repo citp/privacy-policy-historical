@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190146id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829193420id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
