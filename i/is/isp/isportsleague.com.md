@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isportsleague.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629195912id_/http%3A//www.isportsleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportsleague.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829160129id_/http%3A//www.isportsleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iSportsLeague
 
