@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefincal.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507023044id_/http%3A//freefincal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefincal.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831013602id_/https%3A//freefincal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,21 +38,3 @@ Any changes in this privacy policy will be immediately conveyed to all readers/u
 Sincerely yours,
 
  **Team Freefincal**
-
-* * *
-
-Freefincal has open-source, comprehensive Excel spreadsheets, tools, analysis and unbiased, conflict of interest-free commentary on different aspects of personal finance and investing. If you find the content useful, please consider supporting us by (1) sharing our articles and (2) disabling ad-blockers for our site if you are using one. We do not accept sponsored posts, links or guest posts request from content writers and agencies.
-
-### Do more with freefincal!
-
-  * [Install the freefincal retirement planner app from Google Play](https://play.google.com/store/apps/details?id=freefincal.com.freefincalretirementcal)
-  * [Read freefincal posts in Tamil!](http://freefincal.com/tamil/)
-  * [Download e-books and join the DIY investor's forum!](http://freefincal.com/mutual-fund-resources-freefincal/thank-you-for-registering/)
-
-
-
-* * *
-
-### Blog Comment Policy
-
-Your thoughts are vital to the health of this blog and are the driving force behind the analysis and calculators that you see here. We welcome criticism and differing opinions. I will do my very best to respond to all comments asap. Please do not include hyperlinks or email ids in the comment body. Such comments will be moderated and I reserve the right to delete  the entire comment or remove the links before approving them.
