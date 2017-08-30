@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511110554id_/http%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830131725id_/https%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mortgage Rates, Mortgage News and Strategy : The Mortgage Reports
-
-Last reviewed May 11, 2017
-
-by Dan Green
-
-Dan Green is an expert on topics of money. He has been featured in The Washington Post, MarketWatch, Bloomberg, and others.
-
-Share This Page
 
 _LAST UPDATED: October 31 2014_
 
