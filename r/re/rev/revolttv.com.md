@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolttv.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309232529id_/https%3A//revolt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolttv.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830124325id_/https%3A//revolt.tv/privacy) for the most accurate reproduction.*
 
 # REVOLT - The #1 Name In Music
 
