@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluedotdaily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004440id_/http%3A//www.bluedotdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluedotdaily.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830045454id_/http%3A//www.bluedotdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bluedot Daily
+# Privacy Policy | BlueDot Daily
 
 Bludotdaily.com Privacy Policy  
 Information that is gathered from visitors  
