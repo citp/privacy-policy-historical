@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythoughtsideasandramblings.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331223243id_/http%3A//mythoughtsideasandramblings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythoughtsideasandramblings.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830062657id_/https%3A//mythoughtsideasandramblings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Thoughts, Ideas, and Ramblings
 
@@ -10,7 +10,7 @@ My Thoughts, Ideas, and Ramblings may change this policy from time to time by up
 
 **What we collect**
 
-We may collect the following information:
+We may collect the following information: 
 
   * contact information including email address
   * demographic information such as zip code, preferences and interests
