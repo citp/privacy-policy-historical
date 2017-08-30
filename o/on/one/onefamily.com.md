@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onefamily.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602214343id_/http%3A//www.onefamily.com/legal/privacy-policy-and-uses-of-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefamily.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830172519id_/https%3A//www.onefamily.com/legal/privacy-policy-and-uses-of-data) for the most accurate reproduction.*
 
-# Privacy Policy | Uses of Data | OneFamily
+# Legal Information - Privacy Policy & Uses of Data | OneFamily
 
 This page contains the privacy policy and uses of data statement for our websites. If you have any questions about the information on this page, please get in touch using the contact details at the foot of the page.
 
@@ -60,7 +60,7 @@ Non-Personally Identifiable Information includes user IP addresses, browser type
 
 ## 2\. Who operates the Sites and where are your servers located?
 
-OneFamily operates the Sites and our servers are located at our offices at 16-17 West Street, Brighton, BN1 2RL and Hornbeam Park Avenue, Harrogate, North Yorkshire, HG2 8XE.
+OneFamily operates the Sites and our servers are located at our offices at 16-17 West Street, Brighton, BN1 2RL with the exception of https://foundation.onefamily.com, which is hosted inside the EU.
 
 FAMILY NEST is a trade mark of Family Assurance Friendly Society Limited, and is not in any way affiliated with, endorsed or sponsored by or in any other way connected with NEST Corporation, which is the official body responsible for the operation of the National Employment Savings Trust (NEST). NEST Corporation’s website can be found at www.nestpensions.org.uk.
 
@@ -98,9 +98,9 @@ We will not (and will not allow any third party) to use these statistical analyt
 
 To opt out of being tracked by Google Analytics across all websites, visit: <http://tools.google.com/dlpage/gaoptout>.
 
- This site uses MouseStats web analytics service. MouseStats may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use MouseStats to collect any personally identifiable information entered in the website. MouseStats does not track your browsing habits across web sites which do not use MouseStats services. For more information, see the MouseStats privacy policy at <http://www.mousestats.com/sales/privacy>.
+ This site uses [Hotjar web analytics](https://www.hotjar.com/ "Find out more about Hotjar web analytics"). Hotjar may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use Hotjar to collect any personally identifiable information entered on the website. Hotjar does not track your browsing habits across websites which do not use Hotjar services. For more information, see the Hotjar privacy policy at <https://www.hotjar.com/privacy>
 
- We are using the information collected by MouseStats to analyse how users interact with our website in order to improve our online service. You can choose to disable the service at <http://www.mousestats.com/optout>
+ We use the information collected by Hotjar to analyse how users interact with our website in order to improve our online service. You can choose to disable Hotjar tracking at <https://www.hotjar.com/opt-out>.
 
 We will also use cookies to assist us in tailoring how we advertise our services to you when you visit certain third party websites. This is known as 'retargeting', 'remarketing' or 'behavioural advertising'. When you visit certain pages on the Sites, a cookie will be downloaded onto your computer which will enable us to tailor advertisements that would appear on certain third party websites having an agreement with behavioural advertising providers to display such advertisements. If you do not wish to allow us to use cookies in this way, you can visit [www.google.co.uk/privacy/ads](http://www.google.co.uk/policies/technologies/ads/ "Google Privacy Ads opt-out") to opt out.
 
@@ -201,6 +201,8 @@ You can always contact us in order to:
 Anyone contacting us for details of the information we hold on them will have to verify their identity (or we will take reasonable steps to verify their identity). We reserve the right to make a small charge as prescribed by current legislation for such a request.
 
 We will comply with the Data Protection Act 1998 and any other applicable legislation in relation to the disclosure of any information.
+
+To improve the efficiency of our operations, for limited purposes and subject to proper protections, personal data may be transferred and/or processed outside of the European Economic Area (EEA).
 
 ## 8\. What if I want to unsubscribe from marketing communications?
 
