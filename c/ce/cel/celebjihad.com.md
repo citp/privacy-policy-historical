@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebjihad.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628210224id_/http%3A//www.celebjihad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebjihad.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830223603id_/https%3A//www.celebjihad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
