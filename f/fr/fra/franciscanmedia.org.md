@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franciscanmedia.org privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216053059id_/https%3A//www.franciscanmedia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franciscanmedia.org privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830081213id_/https%3A//www.franciscanmedia.org/privacy) for the most accurate reproduction.*
 
 # Privacy – Franciscan Media
 
@@ -20,7 +20,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 #### How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at sfoster@franciscanmedia.org or mailing us at: Franciscan Media, LLC 28 West Liberty Street, Cincinnati, OH, 45202, United States
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at cheffron@franciscanmedia.org or mailing us at: Franciscan Media, LLC 28 West Liberty Street, Cincinnati, OH, 45202, United States
 
 ### Section Three — Disclosure
 
