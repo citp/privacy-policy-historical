@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyoccupation.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414183032id_/http%3A//dailyoccupation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyoccupation.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830162919id_/https%3A//dailyoccupation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Occupation
 
