@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529064101id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830090427id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
 
 # Privacy Policy ‹ GaijinPot Jobs
 
