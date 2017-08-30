@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technobuffalo.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527224819id_/https%3A//www.technobuffalo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technobuffalo.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830031333id_/https%3A//www.technobuffalo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TechnoBuffalo
 
