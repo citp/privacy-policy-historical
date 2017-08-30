@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchtower.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023105647id_/https%3A//www.jw.org/finder%3Fdocid%3D1011512%26prefer%3Dcontent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtower.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830120710id_/https%3A//www.jw.org/finder%3Fdocid%3D1011512%26prefer%3Dcontent) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | JW.ORG
 
@@ -40,11 +40,11 @@ We collect certain information by automated means when you visit our website. We
 
 The types of cookies used on this website can be classified into one of three categories:
 
-  1. Strictly Necessary Cookies—These are essential in order to enable you to use certain features of the website, such as logging in or submitting forms on the website. Without these cookies, services you have asked for, such as making donations, cannot be provided. These also include cookies that allow us to provide a service explicitly requested by you during a browser session. These cookies don’t gather information about you that could be used for marketing or remembering where you have been on the Internet.
+  1. Strictly Necessary Cookies​—These are essential in order to enable you to use certain features of the website, such as logging in or submitting forms on the website. Without these cookies, services you have asked for, such as making donations, cannot be provided. These also include cookies that allow us to provide a service explicitly requested by you during a browser session. These cookies don’t gather information about you that could be used for marketing or remembering where you have been on the Internet.
 
-  2. Functionality Cookies—These are used to allow the website to remember choices you make (such as your user name, language, or region you are in) and provide enhanced features to improve your web experience.
+  2. Functionality Cookies​—These are used to allow the website to remember choices you make (such as your user name, language, or region you are in) and provide enhanced features to improve your web experience.
 
-  3. Analytical Cookies—These are used to collect information about how visitors use this website, for instance the number of visits or the average duration of a visit to this website. The information is only used to improve how this website works.
+  3. Analytical Cookies​—These are used to collect information about how visitors use this website, for instance the number of visits or the average duration of a visit to this website. The information is only used to improve how this website works.
 
 
 
@@ -71,4 +71,4 @@ If you fail to provide the required personal data to open an account, make a don
 
 If ever it proves necessary to change our Privacy and Cookies Policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
 
-To the extent required by law, you may have additional rights in relation to your personal data. This could include the right to access, correct or delete the personal data you have provided to us through this website. If this applies in your country, you will find contact information [here](https://www.jw.org/apps/GETPUBMEDIALINKS?docid=1011512&output=html&fileformat=PDF&alllangs=0&track=1&langwritten=E&txtCMSLang=E "Download"). If your inquiry about your personal data relates to a donation, please contact the recipient of the gift identified to you during the donation process and included in your donation receipt.
+To the extent required by law, you may have additional rights in relation to your personal data. This could include the right to access, correct or delete the personal data you have provided to us through this website. If this applies in your country, you will find contact information [here](https://apps.jw.org/GETPUBMEDIALINKS?docid=1011512&output=html&fileformat=PDF&alllangs=0&track=1&langwritten=E&txtCMSLang=E "Download"). If your inquiry about your personal data relates to a donation, please contact the recipient of the gift identified to you during the donation process and included in your donation receipt.
