@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzbuzz.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420004043id_/https%3A//adzbuzz.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzbuzz.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830051234id_/https%3A//adzbuzz.com/terms/privacy) for the most accurate reproduction.*
 
 # ADZbuzz
 
