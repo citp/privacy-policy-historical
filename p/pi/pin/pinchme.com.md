@@ -1,71 +1,89 @@
-> *The following text is extracted and transformed from the pinchme.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402045350id_/http%3A//www.pinchme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchme.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830033236id_/https%3A//www.pinchme.com/privacy) for the most accurate reproduction.*
 
-# Free samples from the world's leading brands | PINCHme
+# Privacy Policy | PINCHme
 
-## Privacy Policy
+PINCHme Group Inc. (“PINCHme”, “we”, “our”, or “us”) provides this Privacy Policy to inform you (“You” or “Your”) how we gather and use, and the circumstances under which we may disclose, personal information we collect from our members (“Members”) through [www.PINCHme.com](http://www.pinchme.com/) (the “Site”) in connection with our service (the “Service”). 
 
-Effective Date: February 12, 2013
+We may update this Privacy Policy from time to time at our discretion and will notify you of any material changes by posting an announcement notice on the Site or via email to our Members. We encourage you to revisit this Privacy Policy which was last updated on August 5, 2014. 
 
-PinchMe Group Inc. ("we", "our", or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive via our website available at www.pinchme.com (the "Website"). This Privacy Policy may be updated from time to time. Your use of the Website following our posting of a revised Privacy Policy at the URL www.pinchme.com (or other URL linked from the landing page of a Website) will signify and constitute your assent to and acceptance of such revised Privacy Policy. Unless otherwise defined in this Privacy Policy, capitalized terms used herein have the same meanings as in our Terms of Service available at http://www.pinchme.com/.
+##  THIS PRIVACY POLICY IS LIMITED TO PINCHme 
 
-This Privacy Policy does not apply to the products or services of our business partners or to any other third parties, even if their products or services are linked to, or embedded within, our Website. We recommend that you review the privacy statements of the other parties with whom you interact.
+This Privacy Policy does not apply to third party sites to which we may link or to the products or services of our business partners such as the brands that we work with who provide product samples or third parties who may host and/or deliver our data to brands such as Bazaarvoice, PowerReviews and other like services. The fact that we link to a website or display an advertisement or other third party content is not an endorsement, authorization or representation of our affiliation with any of those third parties, nor is it an endorsement of their privacy or information security policies or practices. 
 
-### 1\. INFORMATION COLLECTION AND USE
+##  COLLECTION OF PERSONAL INFORMATION 
 
-Our primary goals in collecting information are to provide and improve our Website, and to communicate with users of our Website (including those users who have subscribed to receive information from us).
+As part of your use of our Site and as part of our Service to the brands we work with, we may ask you to submit feedback on certain products, by way of surveys, testimonials, ratings and reviews or other format. In order to uniquely identify you, and so that you may receive communications from us and use our Site, we may ask for your name, address, phone number, e-mail address, age and gender or other personal information (“Personal Information”). 
 
-When you interact with us, such as by subscribing for our newsletter or e-mail updates or otherwise submitting information to us via the Website, we may ask you for personally identifiable information. This refers to information about you that can be used to contact or uniquely identify you ("Personal Information"). Personal Information includes, but is not limited to, your name and e-mail address. We may also collect other information that does not personally identify you ("Non-Identifying Information") when you use the Website, such as your gender, age and household income.
+We may also collect Personal Information when you interact with the Service by logging into an account that you already have with a third party social networking platform (“SNP”), such as Facebook, via our Service. If you log into an SNP via the Service, you are allowing PINCHme to access the Personal Information in your SNP account, as well as other information associated with your SNP account, pursuant to the SNP’s applicable terms and conditions. The information we receive from an SNP may depend on the privacy settings you have with the SNP, so please check the SNP’s privacy policy. 
 
-We may use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide and improve the Website, to verify your identity, to respond to your inquiries and otherwise communicate with you about our online services or our business or third party offers that may be of interest to you. For example, we may use your Personal Information to contact you with notifications related to the Website. We may also use your Personal Information for our own data analysis purposes as well as in other ways naturally associated with the circumstances in which you provided the information. We may use Non-Identifying Information for any purpose.
+##  USE OF PERSONAL INFORMATION 
 
-Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other visitors or sources to attempt to provide you with a better experience, to improve the quality and value of the Website and to analyze and understand how our Website is used. We may also use the combined information without aggregating it to serve you specifically.
+We may use your Personal Information, either alone or in combination with other information, so that we can provide, enhance and personalize our Service and related content, products, offers, and marketing efforts. The following is a non-exhaustive list of ways that we may use your Personal Information: 
 
-#### Log Data
+  1. to identify you as a user of the Service and to help authenticate any account you create with us; 
+  2. to communicate with you regarding campaigns, the Service, updates, offers, promotions or events and to deliver products to you for sampling; 
+  3. to help us develop, customize, deliver, support and improve our Service, products, samples, content, and advertising and to provide you with the best user experience possible; 
+  4. to administer promotions, contests, sweepstakes or other offerings; 
+  5. to protect the rights or property or security of PINCHme or our users, and prevent fraud and other prohibited or illegal activities; 
+  6. for our internal purposes (such as auditing, data analysis, and research to improve our services, and communications); and 
+  7. as may be disclosed to you at the point of collection. 
 
-When you visit the Website, our servers (or servers controlled by our third party service providers) may automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol address, browser type or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics. If Log Data is collected, we may use this information for purposes such as to monitor and analyze use of the Website and for the Websiteâ€™s technical administration, to increase our Website's functionality and user-friendliness, and to better tailor the Website to our visitors' needs. We do not treat Log Data as Personal Information.
 
-#### Cookies
 
-Like many online services, we and our third party service providers may use "cookies" to collect information. A cookie is a small data file that we or a third party may transfer to your computer's hard disk for record-keeping purposes. We or a third party may use cookies to enable certain features of the Website, to better understand how you interact with the Website and to monitor aggregate usage by visitors and web traffic routing on the Website. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the Website you visit. If you do not accept cookies, however, you may not be able to use all portions of the Website or all functionality of the Website.
+Except as described in this Privacy Policy (i.e. for hosting and delivering data to brands through Bazaarvoice, PowerReviews or other similar services) we will not share your Personal Information with other companies or individuals outside of PINCHme and its affiliates, unless we have received your consent. For example, at the time of collection of a rating and review of a product, your consent may be requested to share your Personal Information and grant certain rights to a brand or other third party, in the form of a “Testimonial Release.” 
 
-### 2\. INFORMATION SHARING AND DISCLOSURE
+###  Our Service Providers and Other Third Parties 
 
-Except as noted in this Privacy Policy, we do not sell or share your Personal Information unless we have received your consent. Non-Identifying Information may be provided to other parties.
+We may engage third parties to perform services on our behalf, such as hosting and storage services, software maintenance services, e-mail notifications, database management, analytics and other services. These third parties may have access to your Personal Information to perform certain tasks on our behalf but they are not authorized by us to otherwise use or disclose your Personal Information. 
 
-#### Our Service Providers and Affiliated Companies
+In addition, if you voluntarily participate in a sweepstakes, contest, rewards program or other promotion through our Site or Service, we may share your Personal Information with the participating sponsors or with third parties who assist us in using the content or other information you have posted or shared with us. 
 
-We may engage third party companies and individuals to perform services on our behalf (e.g., without limitation, software maintenance services, database management, web analytics, professional advisors, and other services). These third parties may have access to your Personal Information. If they do, this access is provided so that they may perform these tasks on our behalf and they are not authorized by us to otherwise use or disclose your Personal Information, except to the extent required by law. We may also share any of your information, including your Personal Information, with our parent, subsidiary, and/or affiliated companies.
+##  COLLECTION AND USE OF NON-IDENTIFYING INFORMATION 
 
-#### Compliance with Laws and Law Enforcement
+We may collect, use, transfer, and disclose information in a form that does not personally identify you (“Non-Identifying Information”) for any purpose. Non-Identifying Information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers obtain and may collect non-Identifying Information about you from information that you provide us and/or from your use of the Service, either separately or together with your Personal Information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other users or sources to attempt to provide you with a better experience, to improve the quality and value of our products and services, and to analyze and understand how our products and services are used. We may also use the combined information without aggregating it to serve you specifically. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of us, our affiliates or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.
+When you access our Service, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically record certain usage information. This information may include your Internet Protocol address (and other unique identifiers for the particular device you use to access the Internet), browser type, your web or application request, your interaction with our Service, the webpage or other feature you were using before you came to our Service, pages of our websites that you visit, information you search for via our Service, access times and dates, and other similar information. We use this information for a variety of purposes, including analyzing and enhancing our products and services, and to help personalize our Service for you. We do not treat this information as Personal Information (except to the extent required by law), although if we combine it with the Personal Information you provide, we will treat the combined information as Personal Information. 
 
-#### Data Transfer
+##  USE OF COOKIES 
 
-Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We and our third-party service providers may automatically collect Non-Identifying Information using various methods, including, without limitation, cookies. A cookie is a small data file transferred to your computer (or other device) when it is used to access our Service. Cookies may be used for many purposes, including to enable certain features of our Service, to better understand how you interact with our Service and to monitor aggregate usage by visitors and online traffic routing. You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the online services you visit. If you do not accept cookies, however, you may not be able to use all portions of our online services or all functionality of our online services. 
 
-#### Business Transfers
+Non-Identifying Information may be provided to third parties for marketing, advertising, or other uses. For example, we may share aggregated demographic about our members without disclosing Personal Information except as described in this Privacy Policy. 
 
-We may sell, transfer or otherwise disclose some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+##  SECURITY IS IMPORTANT TO US 
 
-### 3\. GENERAL.
+We strive to protect your Personal Information and privacy. We employ security measures to protect your Personal Information from unauthorized access and disclosure. We use secure sockets layer (“SSL”) technology. An SSL certificate is a digital certificate that authenticates the identity of a website and encrypts information sent to the server. Encryption is the process of scrambling data into an undecipherable format that can only be returned to a readable format with the proper decryption key. Please be advised that we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, unauthorized access by third parties or inadvertent disclosure of your Personal Information. 
 
-#### Changing or Deleting Your Information
+##  OPT-OUT 
 
-If you would like us to change or delete your Personal Information in our system (if any), please contact us and we will attempt to accommodate your request if we do not have any legal obligation or legitimate business reason to retain the Personal Information. See below for contact information. Please note we may retain server/backup copies of all such data and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others.
+If you decide at any time that you no longer wish to receive communications from us, please follow our unsubscribe instructions by emailing [privacy@pinch.me](mailto:privacy@pinch.me) While you are a member of PINCHme you may not opt-out of important communications from us such as service related announcements or notifications about changes to our Terms and Conditions or Privacy Policy. 
 
-#### Security
+##  OTHER GENERAL INFORMATION 
 
-We employ administrative, physical and electronic measures designed to protect Personal Information from unauthorized access. Please be advised, however, that while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information.
+###  Public Posts on the Service 
 
-#### Third Party Sites and Services
+Any information that you voluntarily disclose for public posting to the Service becomes available to the public and may be seen or collected by other persons, including third parties that may not adhere to the standards set forth in this Privacy Policy. Do not submit information, comments, or other content that you want to keep strictly private. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Service. 
 
-Our Website may contain links to, or content from, third party websites and services. The fact that we link to a website or display third party content is not an endorsement, authorization or representation of our affiliation with any of those third parties, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites or services. These other websites and services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies of the other websites you visit.
+###  Changing or Deleting Your Information 
 
-#### Our Policy Toward Children
+To view and change Personal Information that you have directly provided to PINCHme via the Service, you can contact PINCHme by sending an email to [privacy@pinch.me](mailto:privacy@pinch.me) Information may also be accessible via the “account profile” section of our website. Please note we may retain server/backup copies of all such data, and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others. 
 
-We do not knowingly collect personally identifiable information from children under 13 via the Website. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us via the e-mail address below. If we become aware that a child under 13 has provided us with Personal Information via the Website, we will delete such information from our files.
+###  Compliance with Laws, Legal Process and Authorities 
 
-#### Contacting Us
+We may disclose Personal Information or other information about you to government or law enforcement officials, in connection with subpoenas or judicial process, to protect the property and rights of us or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable. 
 
-If you have any questions about this Privacy Policy, please contact us via the following e-mail address: privacy@pinchme.com.
+###  Business Transfers 
+
+We reserve the right to transfer or otherwise disclose your Personal Information in connection with a merger, acquisition, or other change in control, joint venture, reorganization or sale of assets or in the event of bankruptcy or liquidation proceeding. 
+
+###  Data Transfers 
+
+PINCHme processes Personal Information on our servers in the United States of America. Your Personal Information may be transferred to, and used by, entities located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Such export is a requirement of providing your information to PINCHme, and you consent to such transfer and use in all respects. 
+
+###  Our Policy Toward Children 
+
+We do not knowingly collect personally identifiable information from children under 13 and do not target our online services to children under 13. If we discover that someone under the age of 13 has provided Personal Information we will delete such information from our Site and server. We encourage parental controls to prevent children from submitting information or data on our Site. 
+
+If you have any questions about this Privacy Policy, please feel free to contact us by sending an email to [privacy@pinch.me](mailto:privacy@pinch.me)
+
+###  Privacy Policy Effective Date: August 5, 2014 
