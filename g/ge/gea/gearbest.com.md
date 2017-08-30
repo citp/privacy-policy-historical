@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609045543id_/http%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830050836id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GearBest.com
 
@@ -32,7 +32,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Our servers and website are security scanned and fully verified externally by McAfee Secure from Symantec on a daily basis to protect you online. Click on the certificated seal to learn more. For more information, please visit our [Secure Shopping](http://www.gearbest.com/about/secure-shopping.html) page.
+Our servers and website are security scanned and fully verified externally by McAfee Secure from Symantec on a daily basis to protect you online. Click on the certificated seal to learn more. For more information, please visit our [Secure Shopping](https://www.gearbest.com/about/secure-shopping.html) page.
 
 #### Do we use cookies? 
 
@@ -52,7 +52,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions ](http://www.gearbest.com/about/terms-and-conditions.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions ](https://www.gearbest.com/about/terms-and-conditions.html)
 
 #### Terms and Conditions 
 
@@ -62,5 +62,5 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-http://www.gearbest.com  
+https://www.gearbest.com  
 support@gearbest.com
