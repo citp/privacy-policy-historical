@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024423id_/http%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830030120id_/https%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
 
-# - Ascension Classless Realm
+# Privacy Policy - Ascension Classless Realm
 
 #### PRIVACY POLICY
 
