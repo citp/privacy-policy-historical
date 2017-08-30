@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210100015id_/https%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830045311id_/https%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
 
 # MLBTradeRumors.com Privacy Policy - MLB Trade Rumors
 
-By | August 31, 2007 at 11:59pm CDT
-
 This is a **Dierkes Information Services, Inc.**  website.
 
-Our postal address is   
+Our postal address is  
 **P.O. Box 396  
 Glen Ellyn, IL 60138**
 
-We can be reached via e-mail [via the site's contact form](https://web.archive.org/contact.html) or at mlbtrhelp@gmail.com.
+We can be reached via e-mail [via the site's contact form](https://web.archive.org/contact) or at mlbtrhelp@gmail.com.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
