@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrix24.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111024416id_/https%3A//www.bitrix24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrix24.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830144652id_/https%3A//www.bitrix24.com/privacy) for the most accurate reproduction.*
 
 # Bitrix24: Privacy Policy
 
