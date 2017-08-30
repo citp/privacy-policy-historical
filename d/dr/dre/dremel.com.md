@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dremel.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312094825id_/https%3A//www.dremel.com/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dremel.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830033020id_/https%3A//www.dremel.com/en_US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - dremel.com
 
@@ -46,7 +46,7 @@ How do we handle changes to your information or to this policy?
 
 Notification of Changes: Any changes to this Privacy Policy will be posted on our web site at this location.
 
-Newsletters and Direct Promotion: :If you would prefer not to receive any direct mailings, emails or newsletters from us, please fill out the "opt-out" reply form. To do so, please click here.
+Newsletters and Direct Promotion: :If you would prefer not to receive any direct mailings, emails or newsletters from us, please fill out the "opt-out" reply form. To do so, please [click here](https://www.dremel.com/en_US/unsubscribe).
 
 Security: :While we try to maintain integrity of your personal information, none of the information that you transmit through this site is or will be encrypted, and we cannot guarantee that the personally identifiable information which you submit on the site will be secure.
 
