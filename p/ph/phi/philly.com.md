@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627203938id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830025641id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - philly.com
 
@@ -98,6 +98,8 @@ We welcome you to our site. We ask that you review these Terms of Use, which are
 **6\. Modifications/Termination.  **The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently.
 
 **7\. Jurisdiction.**  This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in Philadelphia, Pennsylvania.
+
+**8\. Content Reuse.**  [Philly.com](http://philly.com/) prohibits the collection or use of any data, including but not limited to data related to user behavior, from its site without the prior written permission of [philly.com](http://philly.com/). The scraping of any content from [philly.com](http://philly.com/) is strictly prohibited. For licensing and reprint information please contact us at: [reprints@philly.com](mailto:reprints@philly.com).
 
 * * *
 
