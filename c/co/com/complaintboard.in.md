@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416203716id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830154737id_/https%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
