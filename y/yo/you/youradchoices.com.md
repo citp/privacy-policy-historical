@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622033958id_/http%3A//youradchoices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830045011id_/http%3A//youradchoices.com/privacy-policy) for the most accurate reproduction.*
 
 # YourAdChoices.com
 
