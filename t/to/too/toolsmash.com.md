@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolsmash.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140038id_/http%3A//toolsmash.win/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolsmash.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830110511id_/http%3A//toolsmash.bid/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ User shouldn't post anything which containing Copyright or Adult content
 
 ### Privacy Policy for ToolsMash.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20170606140038id_/http%3A//toolsmash.win/privacy.php?contact.php)
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20170830110511id_/http%3A//toolsmash.bid/privacy.php?contact.php)
 
 At ToolsMash.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ToolsMash.com and how it is used. 
 
