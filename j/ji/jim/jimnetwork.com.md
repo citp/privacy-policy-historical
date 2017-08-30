@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimnetwork.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320034349id_/http%3A//fakehub.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimnetwork.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830080636id_/http%3A//fakehub.com/docs/pp) for the most accurate reproduction.*
 
 # Privacy Policy - fakehub.com
 
@@ -8,7 +8,7 @@ _Last Modified: July  29, 2016_
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy. 
 
-This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.fakehub.com](http://www.fakehub.com/) or any of its subsidiary sites  (hereinafter “ **FAKEHUB** ” or the “ **Website** ”), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures. 
+This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.fakehub.com](https://www.fakehub.com/) or any of its subsidiary sites  (hereinafter “ **FAKEHUB** ” or the “ **Website** ”), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures. 
 
 We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy. 
 
@@ -151,11 +151,11 @@ We may use the information we have collected from you to enable us to display ad
 
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on the Website or while using our services. 
 
-We may transfer your information and process it outside your country of residence, wherever the Website, its [affiliates](https://www.linkedin.com/legal/privacy-policy#Section_2_5) and service providers operate. 
+We may transfer your information and process it outside your country of residence, wherever the Website, its affiliates and service providers operate. 
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop content and services that we hope you and other users will find of interest and to target content and advertising. 
 
-We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to [opt out](https://vimeo.com/opt_out) of having your personal information shared: 
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared: 
 
   * To our subsidiaries and affiliates.
   * To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes
