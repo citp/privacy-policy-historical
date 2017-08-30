@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191126id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830232730id_/http%3A//tinypulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | TINYpulse
 
@@ -8,7 +8,7 @@
 
 **This privacy policy explains how TINYhr handles your personal information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of complex lawyer speak. The policy is structured so you can quickly find answers to the questions which interest you the most.**
 
-This privacy policy applies to all the products, services and websites offered by Delight Labs LLC and any affiliated entity or d/b/a (collectively "TINYhr") except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by Delight Labs LLC inside of the United States.
+This privacy policy applies to all the products, services and websites offered by TINYhr and any affiliated entity or d/b/a (collectively "TINYhr") except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by TINYhr inside of the United States.
 
 **Questions?** For questions regarding our privacy policy or practices, contact TINYhr emailing [support@TINYpulse.com](mailto:support@TINYpulse.com).
 
