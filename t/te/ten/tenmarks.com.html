@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the tenmarks.com privacy policy that was archived on 2017-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170116222627id_/https%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tenmarks.com privacy policy that was archived on 2017-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170830210356id_/https%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><head>
+<!DOCTYPE html><html class="no-js" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 	<meta name="viewport" content="width=device-width">
@@ -19,13 +19,25 @@
 	
 	
 	
-<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA4DWVNACQsDV1JaAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><link rel="shortcut icon" href="/favicon.ico">
+	
+<script type="text/javascript" async="" src="//web.archive.org/web/20170928233247/https://munchkin.marketo.net/151/munchkin.js"></script><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA4DWVNACQsDV1JaAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><link rel="shortcut icon" href="/favicon.ico">
 	<link rel="stylesheet" href="/vendor/fonts/google_font/font_md5sum_ae19afa9696eba161464cb195bf39ad7.css">
-	<link rel="stylesheet" href="/assets/compiled/layout/layout-lo_md5sum_f7fd198fceadfd1e2476c0910f566c2e.css">
+	<link rel="stylesheet" href="/assets/compiled/layout/layout-lo_md5sum_9a04a58ad80ea2640da68646877f3333.css">
 	<script type="text/javascript" src="/vendor/js/modernizr.custom.05547_md5sum_dc77edfcf305da41895d006163fcf7af.js"></script>
 	<script type="text/javascript" src="/vendor/js/jquery-1.8.3.min_md5sum_24bd97b1de158c4f1a162336eeca4aa6.js"></script>
+	<script type="text/javascript" src="/vendor/js/jquery.cookie_md5sum_d5af67abcad23631c6377870b3904e45.js"></script>
 	<script type="text/javascript" src="/vendor/js/bootstrap3_md5sum_0a68271396d1b8dbb9d13a68f90e8fe5.js"></script>
+	<script type="text/javascript" src="/vendor/js/aws-sdk.min_md5sum_81ac06e0486f21c87810450f844dd3f1.js"></script>
+	<script type="text/javascript" src="/vendor/js/aws-sdk-mobile-analytics.min_md5sum_70c42595b3a3002f35340a44ee0377c9.js"></script>
 	<script type="text/javascript" src="/vendor/js/retina.min_md5sum_d6d3252daec57ca544ccd11bdbff701f.js"></script>
+	<script type="text/javascript" src="/assets/js/accessibility/common_md5sum_c2c50816785805ace2a2279f6699f78a.js"></script>
+
+	
+
+
+	<script type="text/javascript">
+		var shouldTrackInMarketo = true;
+	</script>
 </head>
 <body>
 	<div class="container">
@@ -35,6 +47,8 @@
 
 
 
+
+	
 	
 	
 	
@@ -45,36 +59,44 @@
 	<div class="container white-nav-bar">
 		<div class="navbar-header">
 			<a id="logo" class="logo gaq-event" href="/" data-event-category="Header" data-event-action="Logo">
-				<img src="/assets/images/loggedout/TenMarks_Amazon_Site.png" data-at2x="/assets/images/loggedout/TenMarks_Amazon_Site@2x.png" alt="logo">
+				<img src="/assets/images/loggedout/TenMarks_Amazon_Site.png" data-at2x="/assets/images/loggedout/TenMarks_Amazon_Site@2x.png" alt="TenMarks Home Page">
 			</a>
 		</div>
 		<div class="navbar-content">
 			<div>
 				<ul class="nav navbar-nav navbar-left">
 					<li class="dropdown ">
-						<a href="/math" class="gaq-event" data-event-category="Header" data-event-action="Math">Math</a>
+						<a href="/math" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Math" data-ma-event-label="nav_math" data-ma-event-category="marketing_site_logged_out">Math</a>
 						<ul class="dropdown-menu">
-							<li><a href="/math/plans" class="gaq-event" data-event-category="Header" data-event-action="Plans">Plans</a></li>
-							<li><a href="/math/pacing-guides" class="gaq-event" data-event-category="Header" data-event-action="Pacing_Guides">Pacing Guides</a></li>
+							<li><a href="/plans/math" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Plans" data-ma-event-label="nav_math-plans" data-ma-event-category="marketing_site_logged_out">Plans</a></li>
+							<li><a href="/math/case-studies" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Case_Studies" data-ma-event-label="nav_math-case_studies" data-ma-event-category="marketing_site_logged_out">Case Studies</a></li>
+							<li><a href="/math/research" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Research" data-ma-event-label="nav_math-research" data-ma-event-category="marketing_site_logged_out">Research</a></li>
+							<li><a href="/math/pacing-guides" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Pacing_Guides" data-ma-event-label="nav_math-pacing_guides" data-ma-event-category="marketing_site_logged_out">Alignment Guides</a></li>
+							<li><a href="/math/assess-readiness" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Assess_Readiness" data-ma-event-label="nav_math-assess_readiness" data-ma-event-category="marketing_site_logged_out">Formative Assessments</a></li>
 						</ul>
 					</li>
 					<li class="dropdown ">
-						<a href="/resources" class="gaq-event" data-event-category="Header" data-event-action="Resources">Resources</a>
+						<a href="/writing" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Writing" data-ma-event-label="nav_writing" data-ma-event-category="marketing_site_logged_out">Writing</a>
 						<ul class="dropdown-menu">
-							<li><a href="/customer-success" class="gaq-event" data-event-category="Header" data-event-action="Customer_Success">Customer Success</a></li>
-							<li><a href="/pd" class="gaq-event" data-event-category="Header" data-event-action="Professional_Development">Professional Development</a></li>
-							<li><a href="/best-practices" class="gaq-event" data-event-category="Header" data-event-action="Best_Practices">Best Practices</a></li>
-							<li><a href="/white-papers" class="gaq-event" data-event-category="Header" data-event-action="Teacher_Marketing_Click_White_Papers_Page">White Papers</a></li>
-							<li><a href="http://blog.tenmarks.com/" target="_blank" class="gaq-event" data-event-category="Header" data-event-action="Blog">Blog</a></li>
+							<li><a href="/plans/writing" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Plans" data-ma-event-label="nav_resources-plans" data-ma-event-category="marketing_site_logged_out">Plans</a></li>
+							<li><a href="/writing/units" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Writing_Units" data-ma-event-label="nav_resources-writing_units" data-ma-event-category="marketing_site_logged_out">Writing Units</a></li>
+						</ul>
+					</li>
+					<li class="dropdown ">
+						<a href="#" class="gaq-event" data-event-category="Header" data-event-action="Support">Support</a>
+						<ul class="dropdown-menu">
+							<li><a href="/pd" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Professional_Development" data-ma-event-label="nav_resources-professional_development" data-ma-event-category="marketing_site_logged_out">Professional Development</a></li>
+							<li><a href="https://help.tenmarks.com" target="_blank" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Help" data-ma-event-label="nav_resources-help" data-ma-event-category="marketing_site_logged_out">Help Desk</a></li>
+							<li><a href="http://tenmarks.typepad.com" target="_blank" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="Blog" data-ma-event-label="nav_resources-blog" data-ma-event-category="marketing_site_logged_out">Blog</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/about" class="gaq-event" data-event-category="Header" data-event-action="About">About</a>
+						<a href="/about" class="gaq-event aws-ma-event" data-event-category="Header" data-event-action="About" data-ma-event-label="nav_about" data-ma-event-category="marketing_site_logged_out">About</a>
 					</li>
 				</ul>
 				
-					<a class="btn-login pull-right" href="#" data-toggle="modal" data-target="#loginModal" data-event-category="Header" data-event-action="Login">
-						Login<span class="chevron chevron-grey"></span>
+					<a class="btn-login pull-right gaq-event aws-ma-event" role="button" href="#" data-toggle="modal" data-target="#loginModal" data-event-category="Header" data-event-action="Login" data-ma-event-label="nav_login" data-ma-event-category="marketing_site_logged_out">
+						Login
 					</a>
 				
 			</div>
@@ -85,7 +107,7 @@
 	<div class="container white-nav-bar">
 		<div class="navbar-header">
 			<a id="logoMobile" class="logo gaq-event" href="/" data-event-category="Header_Mobile" data-event-action="Logo">
-				<img src="/assets/images/loggedout/TenMarks_Amazon_Site.png" data-at2x="/assets/images/loggedout/TenMarks_Amazon_Site@2x.png" alt="logo">
+				<img src="/assets/images/loggedout/TenMarks_Amazon_Site.png" data-at2x="/assets/images/loggedout/TenMarks_Amazon_Site@2x.png" alt="TenMarks Home Page">
 			</a>
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
 				<span class="icon-bar"></span>
@@ -96,46 +118,31 @@
 		<div class="navbar-content mobile-nav">
 			<div class="collapse navbar-collapse">
 				<ul class="nav navbar-nav navbar-left">
-					<li><a href="/math" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Math_Mobile">Math</a></li>
-					<li><a href="/math/plans" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Plans_Mobile">Plans</a></li>
-					<li><a href="/math/pacing-guides" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Pacing_Guides_Mobile">Pacing Guides</a></li>
-					<li><a href="/resources" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Resources_Mobile">Resources</a></li>
-					<li><a href="/customer-success" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Customer_Success_Mobile">Customer Success</a></li>
-					<li><a href="/pd" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Professional_Development_Mobile">Professional Development</a></li>
-					<li><a href="/best-practices" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Best_Practices_Mobile">Best Practices</a></li>
-					<li><a href="/white-papers" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Teacher_Marketing_Click_White_Papers_Page_Mobile">White Papers</a></li>
-					<li><a href="http://blog.tenmarks.com/" target="_blank" class="gaq-event" data-event-category="Header_Mobile" data-event-action="Blog_Mobile">Blog</a></li>
-					<li><a href="/about" class="gaq-event" data-event-category="Header_Mobile" data-event-action="About_Mobile">About</a></li>
 					<li class="btn-section">
-						<a class="btn-login pull-left" href="#" data-toggle="modal" data-target="#loginModal" data-event-category="Header_Mobile" data-event-action="Login_Mobile">
+						<a class="btn-login gaq-event aws-ma-event" role="button" href="#" data-ma-event-label="nav_login_mobile" data-ma-event-category="marketing_site_logged_out" data-toggle="modal" data-target="#loginModal" data-event-category="Header_Mobile" data-event-action="Login_Mobile">
 							Login<span class="chevron chevron-grey"></span>
 						</a>
-						<a class="btn-signup pull-right" href="#" data-toggle="modal" data-target="#signupModal">Sign up<span class="chevron chevron-white"></span></a>
 					</li>
+					<li><a href="/math" class="gaq-event aws-ma-event" data-event-category="Header_Mobile" data-event-action="Math_Mobile" data-ma-event-label="nav_math" data-ma-event-category="marketing_site_logged_out">Math</a></li>
+					<li><a href="/plans/math" class="gaq-event aws-ma-event" data-ma-event-label="nav_math-plans_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Plans_Mobile">Plans</a></li>
+					<li><a href="/math/case-studies" class="gaq-event aws-ma-event" data-ma-event-label="nav_math-case_studies_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Case_Studies_Mobile">Case Studies</a></li>
+					<li><a href="/math/research" class="gaq-event aws-ma-event" data-ma-event-label="nav_math-research_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Research_Mobile">Research</a></li>
+					<li><a href="/math/pacing-guides" class="gaq-event aws-ma-event" data-ma-event-label="nav_math-pacing_guides_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Pacing_Guides_Mobile">Alignment Guides</a></li>
+					<li><a href="/math/assess-readiness" class="gaq-event aws-ma-event" data-ma-event-label="nav_math-assess_readiness_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Assess_Readiness_Mobile">Assess Readiness</a></li>
+					<li><a href="/writing" class="gaq-event aws-ma-event" data-event-category="Header_Mobile" data-event-action="Writing_Mobile" data-ma-event-label="nav_writing" data-ma-event-category="marketing_site_logged_out">Writing</a></li>
+					<li><a href="/plans/writing" class="gaq-event aws-ma-event" data-event-category="Header_Mobile" data-event-action="Plans_Writing_Mobile" data-ma-event-label="nav_writing-plans_writing_mobile" data-ma-event-category="marketing_site_logged_out">Plans</a></li>
+					<li><a href="/writing/units" class="gaq-event aws-ma-event" data-event-category="Header_Mobile" data-event-action="Writing_Units_Mobile" data-ma-event-label="nav_writing-writing_units_mobile" data-ma-event-category="marketing_site_logged_out">Writing Units</a></li>
+					<li><a href="/pd" class="gaq-event aws-ma-event" data-event-category="Header_Mobile" data-event-action="Professional_Development_Mobile" data-ma-event-label="nav_resources-professional_development_mobile" data-ma-event-category="marketing_site_logged_out">Professional Development</a></li>
+					<li><a href="https://help.tenmarks.com" target="_blank" class="gaq-event aws-ma-event" data-ma-event-label="nav_resources-help_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Help_Mobile">Help</a></li>
+					<li><a href="http://tenmarks.typepad.com/" target="_blank" class="gaq-event aws-ma-event" data-ma-event-label="nav_resources-blog_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="Blog_Mobile">Blog</a></li>
+					<li><a href="/about" class="gaq-event aws-ma-event" data-ma-event-label="nav_about_mobile" data-ma-event-category="marketing_site_logged_out" data-event-category="Header_Mobile" data-event-action="About_Mobile">About</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </nav>
 
-<script type="text/javascript">
-	// If page from menu is opening in new window/tab, then close the menu
-	$(".navbar-content").find(".dropdown").find("a[target='_blank']").on("click", function(){
-		$(this).parents(".dropdown").removeClass("open");
-	});
-
-	// For mobile devices menu
-	$(".mobile-nav").find("a[target='_blank'], .btn-login, .btn-signup").on("click", function(){
-		$(this).parents(".navbar-collapse").removeClass("in");
-	});
-	
-	// To collapse nav menu on clicking outside of its container
-	$(document).on("click touchstart", function(e) {
-		if (!$(e.target).parents("#headerMobile").length) {
-			$(".collapse").collapse("hide");
-		}
-	});
-</script>
+<script type="text/javascript" src="/assets/js/logged_out/header_md5sum_404bc00b75dff158e241ae9733ceb069.js"></script>
 
 		
 
@@ -145,29 +152,22 @@
 		
 
 
-
-	
-	<div id="learnMoreBar" class="row learn-more-bar">
-		<div class="container default-static-position">
-			<div class="col-xs-12">
+<div id="stickyBar" class="sticky-bar">
+	<div class="row default-static-position">
+		<div class="col-xs-12">
+			<div class="lm-content">
+			
 				
-					
-					
-						<div class="lm-content">
-							<a class="btn-signup gaq-event" href="#" data-toggle="modal" data-target="#signupModal" data-event-category="" data-event-action="" data-event-label="Persistent_Free">
-								<span class="xs-unlocked-text">Sign up for a free teacher account<span class="chevron chevron-white"></span></span>
-								<span class="xs-locked-text">Sign up<span class="chevron chevron-white"></span></span>
-							</a>
-							<a class="learn-more-link gaq-event" href="/math/plans" data-event-category="" data-event-action="" data-event-label="Persistent_Premium">
-								Learn more about <span>Premium</span><span class="chevron chevron-white"></span>
-							</a>
-						</div>
-					
 				
+					<a class="btn-signup gaq-event aws-ma-event" href="/plans/math" data-event-category="" data-event-action="" data-ma-event-label="start_free_30-day_trial" data-ma-event-category="marketing_site_logged_out" data-event-label="Persistent_Free">
+						<span>Start a free 30-day trial<span class="chevron chevron-white"></span></span>
+					</a>
+				
+			
 			</div>
 		</div>
 	</div>
-
+</div>
 		<div class="content">
 			<div class="row">
 				<div class="col-md-3 terms-privacy-nav">
@@ -183,7 +183,7 @@
 		
 	
 	
-
+	
 
 
 <div class="nav-content">
@@ -200,6 +200,10 @@
 		<li>
 			<a href="/legal-notices">Legal Notices</a>
 		</li>
+		<!-- Commented as copy is not finalized
+		<li >
+			<a href="/referral-guidelines">Referral Program</a>
+		</li>-->
 	</ul>
 </div>
 				</div>
@@ -209,7 +213,7 @@
 	<div class="col-md-12">
 		<p>
 		</p><h3>Privacy Policy</h3>
-		<h4>Last Modified: July 31, 2015</h4>
+		<h4>Last Modified: August 22, 2017</h4>
 		<p>At TenMarks Education LLC, we understand how important privacy is 
 			to our customers, and we are committed to providing a safe and 
 			secure learning experience for students, educators, and parents 
@@ -222,7 +226,12 @@
 		<p>We provide additional privacy safeguards to the students who use 
 			our Programs, and we have signed the 
 			<a href="http://studentprivacypledge.org/" target="_blank">Student Privacy Pledge</a>.</p>
-		<br>
+        <br>
+        <p>We are committed to complying with the student data privacy laws 
+        that apply to your use of our Programs and helping our customers comply 
+        with FERPA.  Read more below and in our
+         <a href="https://www.tenmarks.com/terms-of-use" target="_blank">Terms of Use</a>.</p>
+        <br>
 		<p>This policy describes our privacy practices for Student Information 
 			we receive about a student's use of our Programs.  We use the term 
 			"Student Information" in this policy to refer to information that 
@@ -242,7 +251,9 @@
 			We receive information that an educator or parent gives us about 
 			a student.  This may include, for example, a student's name or 
 			identifier and grade level provided by an educator or parent when 
-			they register a student for our Programs.</li>
+			they register a student for our Programs.  Student Information we 
+			receive from a school or a district continues to be the property of 
+			and under the control of the school or district. </li>
 			<br>
 			<li><strong>Student Information Provided by Students:</strong> 
 				Student interactions with our Programs generate data we refer 
@@ -337,6 +348,64 @@
 			Information in our Programs, and the student will no longer be able to 
 			use our Programs.</p>
 		<hr>
+		<h4>Is TenMarks Compliant with FERPA?</h4>
+		<p>Yes, our Programs allow customers to comply with FERPA.  For more information, 
+		please see our <a href="https://www.tenmarks.com/terms-of-use#privacy" target="_blank">Terms of Use</a>.
+		</p>
+		<hr>
+		<h4>Additional Frequently Asked Questions Related to Student Data Privacy</h4>
+		<p>
+		<strong>Can a student retain control of any student-generated content, including 
+		transferring it to a personal account?</strong>
+		<br>
+		Yes, students using TenMarks Writing may download the final version of student-generated 
+		essays.  TenMarks Math does not involve the creation of student-generated content.
+		</p>
+		<p><strong>Can parents, legal guardians, or students review Student Information in the 
+		student's records and correct erroneous information?</strong>
+		<br>
+		A parent, legal guardian, or student may review Student Information in the 
+		applicable student's records by viewing their TenMarks account.  To correct any 
+		erroneous information, the parent, legal guardian, or student can ask the applicable 
+		studentâs teacher or TenMarks customer support to make the changes.
+		</p>
+		<p><strong>What does TenMarks do to ensure the security and confidentiality of 
+		Student Information?</strong>
+		<br>
+		We take a number of steps to protect the security and confidentiality of 
+		Student Information.  We leverage industry-standard software, encryption, and the 
+		leading infrastructure of Amazon Web Services to ensure the security of that information.  
+		All team members with access to Student Information are required to take regular 
+		training on their responsibilities in protecting that information against technical 
+		and social engineering threats.  Access to sensitive Student Information is provided 
+		only to employees with a business need, and is immediately removed upon the 
+		termination of the employee.
+		</p>
+		<p><strong>What does TenMarks do if there is an unauthorized disclosure of Student 
+		Information?</strong>
+		<br>
+		Within 48 hours of learning about a data breach, or longer reasonable time 
+		as may be required by the legitimate needs of applicable law enforcement or as 
+		to take measures necessary to determine the scope of the breach and restore 
+		reasonable integrity of its systems, TenMarks will notify all teachers, parents, 
+		principals, and district administrators whose information may have been improperly 
+		disclosed, via email communication to the email address on file for each user.  
+		Since TenMarks does not maintain any contact information for students, TenMarks 
+		will inform any users who oversee those students (i.e. relevant teachers, parents, 
+		principals, and district administrators) if any Student Information is involved.  
+		This email notification will describe the nature of the data breach and steps 
+		that are being taken to protect their TenMarks accounts going forward.
+		</p>
+		<p><strong>Can a school, district or teacher request that TenMarks delete Student 
+		Information?</strong>
+		<br>
+		Yes.  Following the termination of a license, a school or district may 
+		request that TenMarks delete or de-identify Student Information and TenMarks 
+		will do so.  A teacher who purchases a TenMarks license may also request 
+		that TenMarks delete or de-identify Student Information after termination 
+		of that license.
+		</p>
+		<hr>
 		<h4>Contact us</h4>
 		<p>If you have a comment or question about this Privacy Policy, please 
 			contact us at <a href="mailto:privacy@tenmarks.com">privacy@tenmarks.com</a>.</p>
@@ -354,16 +423,16 @@
 
 
 
-<div id="footer" class="row">
+<footer id="footer" class="row">
 	<div class="col-xs-12">
 		<div class="row footer-content">
 			<div class="col-lg-3 col-md-4 col-xs-12 col-md-push-6 join-our-community-col">
-				<span>Join our community:</span>
+				<label for="emailAddress">Join our community:</label>
 				<div class="join-our-community">
 					<form id="submitEmailForm">
-						<input id="emailAddress" type="email" name="joc-email" placeholder="Your Email">
-						<input id="csrfToken" type="hidden" value="67d57f76-f4b4-47bc-ad16-5f1816a3e953">
-						<input id="emailSubmitButton" type="submit" name="joc-submit" value="Submit" class="gaq-event" data-event-category="Footer" data-event-action="Email_Submit">
+						<input id="emailAddress" type="email" name="joc-email" placeholder="Your Email" aria-describedby="submitErrorMessage">
+						<input id="csrfToken" type="hidden" value="3dd24d55-6348-405c-9360-d2ace32329d8">
+						<input id="emailSubmitButton" type="submit" name="joc-submit" value="Submit" aria-label="Submit" class="gaq-event" data-event-category="Footer" data-event-action="Email_Submit">
 						<div id="emailSubmittingIndicator" class="email-submitting hidden">
 							<div class="img-container">
 								<img class="email-submitting-img" src="/assets/images/loggedout/email-submission/homepage_email_error_45x15.gif" data-at2x="/assets/images/loggedout/email-submission/homepage_email_error_45x15@2x.gif" alt="Submitting email...">
@@ -376,25 +445,25 @@
 			</div>
 			<div class="col-md-3 col-xs-6 col-md-pull-4 col-lg-pull-3">
 				<ul>
-					<li><a href="http://blog.tenmarks.com/" target="_blank" class="gaq-event" data-event-category="Footer" data-event-action="Blog">Blog</a></li>
-					<li><a href="/contact" class="gaq-event" data-event-category="Footer" data-event-action="Contact">Contact</a></li>
-					<li><a href="https://www.amazon.jobs/en/search?base_query=tenmarks" target="_blank" class="gaq-event" data-event-category="Footer" data-event-action="Careers">Careers</a></li>
-					<li><a href="/about" class="gaq-event" data-event-category="Footer" data-event-action="About">About</a></li>
+					<li><a href="http://tenmarks.typepad.com/" target="_blank" class="gaq-event aws-ma-event" data-ma-event-label="footer_blog" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Blog">Blog</a></li>
+					<li><a href="/contact" class="gaq-event aws-ma-event" data-ma-event-label="footer_contact" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Contact">Contact</a></li>
+					<li><a href="https://www.amazon.jobs/en/search?base_query=tenmarks" target="_blank" class="gaq-event aws-ma-event" data-ma-event-label="footer_careers" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Careers">Careers</a></li>
+					<li><a href="/about" class="gaq-event aws-ma-event" data-ma-event-label="footer_about" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="About">About</a></li>
 				</ul>
 			</div>
 			<div class="col-md-3 col-xs-6 col-md-pull-4 col-lg-pull-3">
 				<ul>
-					<li><a href="https://help.tenmarks.com/hc/en-us" target="_blank" class="gaq-event" data-event-category="Footer" data-event-action="Support">Support</a></li>
-					<li><a href="/privacy-policy" class="gaq-event" data-event-category="Footer" data-event-action="Privacy">Privacy</a></li>
-					<li><a href="/terms-of-use" class="gaq-event" data-event-category="Footer" data-event-action="Terms_of_Use">Terms of Use</a></li>
+					<li><a href="https://help.tenmarks.com/hc/en-us" target="_blank" class="gaq-event aws-ma-event" data-ma-event-label="footer_support" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Support">Support</a></li>
+					<li><a href="/privacy-policy" class="gaq-event aws-ma-event" data-ma-event-label="footer_privacy" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Privacy">Privacy</a></li>
+					<li><a href="/terms-of-use" class="gaq-event aws-ma-event" data-ma-event-label="footer_term_of_use" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Terms_of_Use">Terms of Use</a></li>
 				</ul>
 			</div>
 			<div class="col-md-2 col-lg-3 col-xs-12">
 				<div class="social-icons">
-					<a href="https://www.facebook.com/tenmarks" class="social-icon pull-left img-circle gaq-event" target="_blank" data-event-category="Footer" data-event-action="Facebook">
+					<a href="https://www.facebook.com/tenmarks" class="social-icon pull-left img-circle gaq-event aws-ma-event" target="_blank" data-ma-event-label="footer_facebook_share" data-ma-event-category="marketing_site_logged_out" data-event-category="Footer" data-event-action="Facebook">
 						<img class="img-circle" src="/assets/images/loggedout/social-icons/social_facebook_25x25.png" data-at2x="/assets/images/loggedout/social-icons/social_facebook_25x25@2x.png" alt="Tenmarks Facebook">
 					</a>
-					<a href="https://twitter.com/tenmarks" class="social-icon pull-left img-circle gaq-event" target="_blank" data-event-category="Footer" data-event-action="Twitter">
+					<a href="https://twitter.com/tenmarks" class="social-icon pull-left img-circle gaq-event aws-ma-event" data-ma-event-label="footer_twitter_share" data-ma-event-category="marketing_site_logged_out" target="_blank" data-event-category="Footer" data-event-action="Twitter">
 						<img class="" src="/assets/images/loggedout/social-icons/social_twitter_25x25.png" data-at2x="/assets/images/loggedout/social-icons/social_twitter_25x25@2x.png" alt="Tenmarks Twitter">
 					</a>
 				</div>
@@ -406,64 +475,45 @@
 			</div>
 		</div>
 	</div>
-</div>
-<script type="text/javascript" src="/assets/js/submit_email_md5sum_6a598f179d66e43f5042576b2acac24b.js"></script>
+</footer>
+<script type="text/javascript" src="/assets/js/submit_email_md5sum_858ea5b2522511e24d8bc878818b21ef.js"></script>
 
 	</div>
-	<div class="modal fade" id="loginModal" role="dialog">
-	<div class="modal-content">
-		<div class="container">
-			<div class="modal-header">
-				<a class="logo modal-logo pull-left" href="/" style="left: 8px; top: 8px;"><img src="/assets/images/loggedout/login/logo_ko_194x46.png" data-at2x="/assets/images/loggedout/login/logo_ko_194x46@2x.png" alt="logo"></a>
-				<span class="close-login-modal pull-right" data-dismiss="modal"></span>
-			</div>
-			<div class="login-links-area">
-				<div class="login-links">
-					<h1>Login as:</h1>
-					<a href="/login">
-						<span class="login-identifier link-student"></span>
-						<span class="login-identifier-text">Student</span>
-					</a>
-					<a href="/login/user">
-						<span class="login-identifier link-educator"></span>
-						<span class="login-identifier-text">Educator</span>
-					</a>
-					<a href="/login/parent">
-						<span class="login-identifier link-parent"></span>
-						<span class="login-identifier-text">Parent</span>
-					</a>
+	<div class="modal tm-modal" id="loginModal" role="dialog" tabindex="-1" aria-label="Login modal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="container">
+				<div class="modal-header">
+					<a class="logo modal-logo pull-left" href="/" style="left: 8px; top: 8px;"><img src="/assets/images/loggedout/login/logo_ko_194x46.png" data-at2x="/assets/images/loggedout/login/logo_ko_194x46@2x.png" alt="TenMarks Home Page"></a>
+					<a class="close-login-modal pull-right" role="button" href="#" data-dismiss="modal" aria-label="Close"></a>
+				</div>
+				<div class="login-links-area">
+					<div class="login-links">
+						<h1 id="loginModalCaption">Login as:</h1>
+						<a href="/login" aria-labelledby="loginModalCaption studentLoginTab">
+							<span class="login-identifier link-student"></span>
+							<span id="studentLoginTab" class="login-identifier-text">Student</span>
+						</a>
+						<a href="/login/user" aria-labelledby="loginModalCaption educatorLoginTab">
+							<span class="login-identifier link-educator"></span>
+							<span id="educatorLoginTab" class="login-identifier-text">Educator</span>
+						</a>
+						<a href="/login/parent" aria-labelledby="loginModalCaption parentLoginTab">
+							<span class="login-identifier link-parent"></span>
+							<span id="parentLoginTab" class="login-identifier-text">Parent</span>
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<div class="modal fade" id="signupModal" role="dialog">
-	<div class="modal-content">
-		<div class="container">
-			<div class="modal-header">
-				<a class="logo modal-logo pull-left" href="/" style="left: 8px; top: 8px;"><img src="/assets/images/loggedout/login/logo_ko_194x46.png" data-at2x="/assets/images/loggedout/login/logo_ko_194x46@2x.png" alt="logo"></a>
-				<span class="close-login-modal pull-right" data-dismiss="modal"></span>
-			</div>
-			<div class="login-links-area">
-				<div class="login-links signup-links">
-					<h1>Sign up as:</h1>
-					<a href="/signup">
-						<span class="login-identifier link-educator"></span>
-						<span class="login-identifier-text">Educator</span>
-					</a>
-					<a href="/signup/classroom_parent">
-						<span class="login-identifier link-parent"></span>
-						<span class="login-identifier-text">Parent</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+
 	
 
 
 
+<script type="text/javascript" src="/assets/js/utils_md5sum_c27fe3add9b32a6d62944d759820cb66.js"></script>
 
 <script>
 	var modifiedURLforGA
@@ -504,9 +554,9 @@
 	}
 	
 	_gaq.push(['_setDomainName', locationHost]);
-	var originalLocation = typeof gaLocationOverride != "undefined" && gaLocationOverride !==  null ? gaLocationOverride : location.pathname;
-	var modifiedLocation = originalLocation.replace(/(?:\/\d+)+|(?:\?.*)/g, "");
-    
+	var recordedLocation = typeof analyticsLocationOverride != "undefined" && analyticsLocationOverride !==  null ? analyticsLocationOverride : location.pathname;
+	var modifiedLocation = stripQueryStringAndClassroomIdFromUrl(recordedLocation);
+	
 	if (modifiedURLforGA){
 		//this is a virtual url used to track user flow on the website using google analytics
 		modifiedLocation = modifiedURLforGA; 
@@ -521,36 +571,160 @@
 </script>
 
 
+	
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"64f75fedc3","agent":"","beacon":"bam.nr-data.net","applicationTime":543,"applicationID":"1833384","transactionName":"NARXMEdZW0RYABdRVw1OZhRHUVtQegwNTEoMDVkBRxdFRVAVAltBThFaCFxbTBcRJCZsEQ==","queueTime":0}</script>
 
-<script type="text/javascript" src="/assets/js/handle_gaq_events_md5sum_e530ada95ed739ac24cd585e5934b4ef.js"></script>
-<script type="text/javascript" src="/assets/js/marketo-munchkin_md5sum_0450e5bcaaa2da3c98e7792552ac392c.js"></script>
+
+<script type="text/javascript" src="/assets/js/utils_md5sum_c27fe3add9b32a6d62944d759820cb66.js"></script>
 <script type="text/javascript">
+	var tenmarksProduct = "";
+	var selectedSubject = "";
+	if (selectedSubject === "ENGLISH") {
+		tenmarksProduct = "ela";
+	}
+	else if (selectedSubject === "MATH") {
+		tenmarksProduct = "math";
+	}
+	else {
+		tenmarksProduct = "global";
+	}
+	
+	var mobileAnalytics = (function() {
+		var mobileAnalyticsClient;
+		function init() {
+			var awsConfigRegion = 'us-east-1';
+			AWS.config.region = awsConfigRegion;
+			AWS.config.credentials = new AWS.CognitoIdentityCredentials({
+				IdentityPoolId: awsConfigRegion + ':' + '877a0ca9-4c43-446e-a8f0-c2bf0f85be80' //Amazon Cognito Identity Pool ID
+			});
+			var options = {
+					appId : 'd8b27f3fcea0405d9ddfc21f7b4ace4d',
+					appTitle : 'TenMarks',
+					appVersionCode : '1',
+					autoSubmitInterval : 3000, //Interval to try to submit events after 3 seconds.
+					sessionLength : 900000 //Session Length in milliseconds. This will evaluate to 15min.
+				};
+			mobileAnalyticsClient = new AMA.Manager(options);
+			
+			// On Math Teach jQuery is loaded after page is rendered that's why onload event is used to check if jQuery is loaded or not to avoid any console error.
+			window.addEventListener("load", function() {
+				if (window.jQuery) {
+					addClickEvents();
+				}
+			});
+		}
 
-var homePage = false;
+		// Add click tracking event to elements with .aws-ma-event class under the parentElement specified.
+		// If no parent Element is passed in, then all matching elements on the page is selected. This is
+		// typically done on document.ready. When dynamic html elements are added, this method can be called 
+		// to handle the elements that are newly added.
+		function addClickEvents(parentElementSelector) {
+			var selector = ".aws-ma-event";
+			if (parentElementSelector) {
+				selector = parentElementSelector + ' ' + selector;
+			}
+			$(selector).off("click.tracking").on("click.tracking", function() {
+				var eventLabel = $(this).data("ma-event-label");
+				var eventCategory = $(this).data("ma-event-category");
+				recordEvent('click', eventCategory, eventLabel);
+			});
+		}
+		
+		function recordEvent(eventType, eventCategory, eventLabel) {
+			var userId = '';
+			var modifiedUrlPath = getSimplifiedPathName();
+			var queryString = location.href.split('?')[1];
+			var currentUserIsStudent = false;
+			var marketoTokenValue;
+			
+			// if current user is not a student only then capture the marketo cookie.
+			if (!currentUserIsStudent) {
+				var marketoCookie = $.cookie('_mkto_trk');
+				var marketoCookieArray = marketoCookie ? marketoCookie.split('&') : '';
+				var marketoTokenPart;
+				for (i = 0; i < marketoCookieArray.length; i++) {
+					if (marketoCookieArray[i].indexOf("token") != -1) {
+						marketoTokenPart = marketoCookieArray[i];
+						break;
+					}
+				}
+				marketoTokenValue = marketoTokenPart ? marketoTokenPart.split(':')[1] : '';
+			}
+			
+			var eventAttributes = {
+				'event_type': eventType,
+				'event_category': eventCategory,
+				'event_label': eventLabel,
+				'path': modifiedUrlPath,
+				'query_string': (queryString && (typeof analyticsIgnoreQueryString === "undefined" || !analyticsIgnoreQueryString)) ? queryString : '',
+				'referrer': document.referrer,
+				'user_id': (userId ? userId : ''),
+				'product': tenmarksProduct,
+				'marketo_tracking_cookie': (marketoTokenValue ? marketoTokenValue : '')
+			}
+			
+			for (eventAttrKey in eventAttributes) {
+				eventAttributes[eventAttrKey] = truncateEventAttrs(eventAttributes[eventAttrKey]);
+			}
+			
+			mobileAnalyticsClient.recordEvent('TenMarks-Event', eventAttributes, {});
+		}
+		
+		function truncateEventAttrs(eventAttribute) {
+			var maxAllowedLength = 200; // Max number of characters in the value of an attribute, per AWS MA documentation
+			return eventAttribute.toString().substr(0, maxAllowedLength);
+		}
+		
+		function getSimplifiedPathName() {
+			return stripQueryStringAndClassroomIdFromUrl(location.pathname);
+		}
+		
+		function recordPageView() {
+			var recordedLocation = typeof analyticsLocationOverride !== "undefined" && analyticsLocationOverride !== null ? analyticsLocationOverride : getSimplifiedPathName();
+			recordEvent('page_view', '', recordedLocation);
+		}
+		
+		init();
+		
+		return {
+			addClickEvents: addClickEvents,
+			recordEvent: recordEvent,
+			recordPageView: recordPageView
+		};
+	})();
+</script>
 
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"64f75fedc3","agent":"","beacon":"bam.nr-data.net","applicationTime":644,"applicationID":"1833384","transactionName":"NARXMEdZW0RYABdRVw1OZhRHUVtQegwNTEoMDVkBRxdFRVAVAltBThFaCFxbTBcRJCZsEQ==","queueTime":0}</script>
+
+<script type="text/javascript" src="/assets/js/handle_gaq_events_md5sum_65784e424eec9932bf6c3dc6b4dad1fb.js"></script>
+<script type="text/javascript" src="/assets/js/marketo-munchkin_md5sum_c6170d8555f87fd0a56cb32bdb0a41c9.js"></script>
+<script type="text/javascript">
 
 var scrollPos;
 var opacityVal;
-var learnMoreBarPos;
+var stickyBarPos;
 var navbarHeight;
 var stickingPos;
-var stickingPosPlans;
-var stickingPosTable;
 var $headerContainer = $("#header .container");
 var $headerMobileContainer = $("#headerMobile .container");
-var $learnMoreBar = $("#learnMoreBar");
-var learnMoreBarHeight = $learnMoreBar.height();
-var $learnMoreBarContainer = $("#learnMoreBar .container");
-var $planPanelTop = $(".panel-four-chart-top.chart-desktop");
-var $planPanelContent = $(".panel-four-chart-top.chart-desktop .container");
-var $planPanelTopContent = $(".panel-four-chart-top.chart-desktop .content-panel");
-var $tableHeader = $(".table-header-responsive");
-var tableHeaderHeight = $tableHeader.height();
-var $tableHeaderContent = $(".table-header-responsive .content-panel");
+var $stickyBar = $("#stickyBar");
+var stickyBarHeight = $stickyBar.height();
+var $stickyBarRow = $("#stickyBar .row");
 
 $(document).ready(function ($) {
+	var callPageViewEvent = function() {
+		mobileAnalytics.recordPageView();
+	}
+	if (shouldTrackInMarketo) {
+		// once the marketo cookie is set then record the Page View event on Mobile Analytics. 
+		initMarketoMunchkin(callPageViewEvent);
+	} 
+	else {
+		callPageViewEvent();
+	}
+
 	$(".nav li.dropdown").hover(function() {
 		$(this).addClass("open");
 		}, function() {
@@ -558,7 +732,7 @@ $(document).ready(function ($) {
 	});
 
 	/*Clicking outside gate options should close the modal*/
-	$("#loginModal, #signupModal").on("click", function(event) {
+	$("#loginModal").on("click", function(event) {
 		var isBackdropElement = $(event.target).hasClass("modal-content");
 		if (isBackdropElement) {
 			$(this).modal("toggle");
@@ -568,102 +742,36 @@ $(document).ready(function ($) {
 	initStickingPos();
 	adjustModalLogo();
 	
-	if (!homePage) {
-		$headerContainer.addClass("white-nav-bar");
-	}
+	$headerContainer.addClass("white-nav-bar");
 	
 	$(this).scroll(function() {
 		scrollPos = $(this).scrollTop();
 		
-		if (homePage) {
-			// Getting header's text distance from top, so that navbar can be visible at this point
-			var headerTextDistance = $("#headerText").offset().top;
-			
-			opacityVal = scrollPos / headerTextDistance;
-			
-			if (opacityVal > 0.9) {
-				opacityVal = 0.9;
-			}
-			
-			if (scrollPos > headerTextDistance) {
-				opacityVal = (scrollPos / stickingPos * 0.1) + 0.9;
-			}
-		}
 		if (scrollPos < stickingPos) {
-			if (homePage) {
-				$headerContainer.removeClass("white-nav-bar");
-				$headerContainer.css("background", "rgba(255, 255, 255," +  opacityVal +")");
-			}
-			
-			$learnMoreBar.removeClass("lm-locked");
-			$learnMoreBarContainer.removeClass("bottom-shadow");
-			$learnMoreBarContainer.addClass("default-static-position");
+			$stickyBar.removeClass("lm-locked");
+			$stickyBarRow.removeClass("bottom-shadow");
+			$stickyBarRow.addClass("default-static-position");
 		}
 		else {
-			if (homePage) {
-				$headerContainer.addClass("white-nav-bar");
-			}
-			
-			$learnMoreBar.addClass("lm-locked");
-			$learnMoreBarContainer.addClass("bottom-shadow");
-			$learnMoreBarContainer.removeClass("default-static-position");
-			$learnMoreBarContainer.css({"position" : "fixed", "top" : navbarHeight});
-		}
-		
-		if ($planPanelTop.length > 0) { // Added check to verify if the chart panel exists or not
-			if($(".chart-desktop").is(":visible")) {
-				$(".chart-content .content").removeClass("position-top-zero");
-				if (scrollPos < stickingPosPlans) {
-					$planPanelTop.removeClass("chart-fixed-top");
-					$planPanelContent.removeClass("bottom-shadow");
-					$planPanelTopContent.addClass("default-static-position");
-					$learnMoreBarContainer.addClass("bottom-shadow");
-					$(".chart-content .content").removeClass("adjust-plans-position");
-					$planPanelContent.css({"top": "auto"});
-				}
-				else {
-					$planPanelTop.addClass("chart-fixed-top");
-					$planPanelContent.addClass("bottom-shadow");
-					$planPanelTopContent.removeClass("default-static-position");
-					$learnMoreBarContainer.removeClass("bottom-shadow");
-					$(".chart-content .content").addClass("adjust-plans-position");
-					if($learnMoreBarContainer.length > 0) {
-						$planPanelContent.css({"top": (learnMoreBarHeight + navbarHeight)})
-					}
-					else {
-						$planPanelContent.css({"top": (navbarHeight - 1)});
-					}
-				}
-			}
-			else {
-				$(".chart-content .content").addClass("position-top-zero");
-			}
-		}
-		if ($tableHeader.length > 0) { //if div exists
-			if ($tableHeader.is(":visible")) {
-				if (scrollPos >= stickingPosTable) {
-					$tableHeader.addClass("table-mobile-header-fixed");
-					$tableHeaderContent.addClass("bottom-shadow");
-					$learnMoreBarContainer.removeClass("bottom-shadow");
-					if($learnMoreBarContainer.length > 0) {
-						$tableHeaderContent.css({"top": (learnMoreBarHeight - navbarHeight)});
-					}
-					else {
-						$tableHeaderContent.css({"top": (navbarHeight - 1)});
-					}
-				}
-				else {
-					$tableHeader.removeClass("table-mobile-header-fixed");
-					$tableHeaderContent.removeClass("bottom-shadow");
-					$learnMoreBarContainer.addClass("bottom-shadow");
-					$tableHeaderContent.css({"top": "auto"});
-				}
-			}
+			$stickyBar.addClass("lm-locked");
+			$stickyBarRow.addClass("bottom-shadow");
+			$stickyBarRow.removeClass("default-static-position");
+			$stickyBarRow.css({"position" : "fixed", "top" : navbarHeight});
 		}
 	});
 	$(this).trigger("scroll");
 	
 	adjustHeaderText();
+	
+	// Handling elements having role=button
+	var keyCode = {
+		SPACEBAR: 32
+	};
+	$("[role='button']").keydown(function(e) {
+		if (e.which === keyCode.SPACEBAR) {
+			$(this).trigger("click");
+		}
+	});
 });
 
 $(window).resize(function() {
@@ -679,18 +787,9 @@ $(window).load(function() {
 
 function initStickingPos() {
 	navbarHeight = $("#header").height();
-	if ($learnMoreBarContainer.length > 0) {
-		learnMoreBarPos = $learnMoreBar.offset();
-		stickingPos = learnMoreBarPos.top - navbarHeight;
-	}
-	if ($planPanelTop.length > 0) {
-		planPanelTopPos = $planPanelTop.offset();
-		stickingPosPlans = planPanelTopPos.top - (navbarHeight + learnMoreBarHeight);
-	}
-
-	if ($tableHeader.length > 0) {
-		var tableHeaderTop = $tableHeader.offset();
-		stickingPosTable = tableHeaderTop.top - (tableHeaderHeight - navbarHeight);
+	if ($stickyBarRow.length > 0) {
+		stickyBarPos = $stickyBar.offset();
+		stickingPos = stickyBarPos.top - navbarHeight;
 	}
 }
 
@@ -699,10 +798,10 @@ function adjustModalLogo() {
 	if (!$bodyLogo.is(":visible")) {
 		$bodyLogo = $("#logoMobile img");
 	}
-	
-	$(".modal-logo").css({"left" : $bodyLogo.offset().left, "top" : $bodyLogo.position().top});
+	if ($bodyLogo.length > 0) {
+		$(".modal-logo").css({"left" : $bodyLogo.offset().left, "top" : $bodyLogo.position().top});
+	}
 }
-
 // To make text of interior page's header to be in center exactly
 function adjustHeaderText() {
 	var totalHeaderContentHeight = 0;
