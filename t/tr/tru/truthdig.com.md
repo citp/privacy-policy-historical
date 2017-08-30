@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523013434id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830170020id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
 
-# Truthdig - Privacy Policy
+# Privacy Policy & User Agreement - Truthdig: Expert Reporting, Current News, Provocative Columnists - Truthdig: Expert Reporting, Current News, Provocative Columnists
 
-### PRIVACY POLICY
-
-Welcome to Truthdig.com (the "Web Site," "Service" or "we"). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the website and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
+Welcome to Truthdig.com (the “Web Site,” “Service” or “we”). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the website and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
 ### Traffic Data
 
@@ -12,19 +10,19 @@ When you visit Truthdig, our systems collect basic information about your comput
 
 ### Use of Cookies
 
-The website uses "cookies" -- a small piece of information which a web server can store temporarily with your web browser. We use cookies to track the type of content and web sites to which our users link, the length of time they spend at any particular web site and the Truthdig services they use. Cookies also help us diagnose problems with our server.
+The website uses “cookies” — a small piece of information which a web server can store temporarily with your web browser. We use cookies to track the type of content and web sites to which our users link, the length of time they spend at any particular web site and the Truthdig services they use. Cookies also help us diagnose problems with our server.
 
-### Email News and "Send to a Colleague" Feature
+### Email News and “Send to a Colleague” Feature
 
-After signing up with Truthdig, users will receive email news and other occasional announcements from Truthdig. In order to distribute our email, we collect subscribers' email addresses. We do not share email addresses with other companies or partners. Users can unsubscribe from receiving emails from Truthdig at any time.
+After signing up with Truthdig, users will receive email news and other occasional announcements from Truthdig. In order to distribute our email, we collect subscribers’ email addresses. We do not share email addresses with other companies or partners. Users can unsubscribe from receiving emails from Truthdig at any time.
 
-We offer a "Send to a Colleague" feature, which allows our users to inform others about a Dig or other Truthdig content they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these email addresses and you will not receive any communication from Truthdig or its partners as a result of having used this feature.
+We offer a “Send to a Colleague” feature, which allows our users to inform others about a Dig or other Truthdig content they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these email addresses and you will not receive any communication from Truthdig or its partners as a result of having used this feature.
 
 ### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20170523013434id_/http%3A//user_agreement), by using the website you grant Truthdig permission to use any content you post on the website for any purpose.
+Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig’s User Agreement, by using the website you grant Truthdig permission to use any content you post on the website for any purpose.
 
-If you have any concerns about the discussion forums, send email to [info@truthdig.com](mailto:info@truthdig.com).
+If you have any concerns about the discussion forums, send email to info@truthdig.com.
 
 ### Surveys
 
@@ -34,7 +32,7 @@ From time to time Truthdig will conduct voluntary surveys of website visitors to
 
 The website may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such websites.
 
-### Children's Guidelines
+### Children’s Guidelines
 
 Protecting the rights of children is important to us. As a result, we do not collect or maintain any information from individuals we know to be under 13 years old, and no part of the website is intended to attract anyone under 13 years old.
 
@@ -44,9 +42,10 @@ Truthdig allows users to opt-out of receiving communications from us and to modi
 
 Send email to [webmaster@truthdig.com](mailto:webmaster@truthdig.com)
 
-Send mail to: 
+Send mail to:
 
-1158 26th Street, #443   
+1158 26th Street, #443
+
 Santa Monica, CA 90403-4698
 
 ### Other Disclosure of Personal Information
@@ -58,6 +57,24 @@ Truthdig will not use or disclose your personal information without your consent
 If you have any questions about this Privacy Policy, the practices of the website or your dealings with the website, you can contact:
 
 [info@truthdig.com](mailto:info@truthdig.com)
+
+### Comment Policy
+
+We specifically reserve the right to delete any comment which in the opinion of our editorial staff violates any of the above standards or otherwise violates normal standards of good taste or proper decorum, or fails to contribute in any meaningful way to furthering the discussion or topic.
+
+Truthdig will not tolerate:
+
+* personal attacks on our writers or readers
+
+* excessive profanity
+
+* racist, sexist or other discriminatory or hateful language
+
+* statements that may be construed as urging attacks on political leaders, officials, security forces or civilians—American or otherwise
+
+* comments that are off-topic or irrelevant to the story or discussion at hand
+
+* comments disclosing personal information about Truthdig writers or fellow commenters
 
 ### Policy Changes
 
