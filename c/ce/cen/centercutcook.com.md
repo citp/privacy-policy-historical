@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centercutcook.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202905id_/http%3A//www.centercutcook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centercutcook.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830205208id_/https%3A//www.centercutcook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CenterCutCook
 
@@ -12,7 +12,7 @@ Like many other Web sites, CenterCutCook makes use of log files. The information
 
 ## Email
 
-We will not give or sell your email address to anyone. You can [unsubscribe](http://www.centercutcook.com/email-subscription/?action=unsubscribe) from the daily emails at any time, and the changes will take effect immediately. If you have any issues or complaints regarding the emails please do not hesitate to [contact us](http://www.centercutcook.com/contact/).
+We will not give or sell your email address to anyone. You can [unsubscribe](https://www.centercutcook.com/email-subscription/?action=unsubscribe) from the daily emails at any time, and the changes will take effect immediately. If you have any issues or complaints regarding the emails please do not hesitate to [contact us](https://www.centercutcook.com/contact/).
 
 ## Cookies and Web Beacons
 
