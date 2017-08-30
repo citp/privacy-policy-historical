@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juragan-anime.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628061906id_/http%3A//www.juragan-anime.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juragan-anime.net privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830054709id_/https%3A//www.juragan-anime.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Juragan Anime
 
