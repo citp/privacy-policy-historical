@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211174944id_/https%3A//www.league.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830072841id_/https%3A//www.league.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # League Against Cruel Sports | Privacy policy
 
@@ -57,7 +57,7 @@ The data that we collect from you may be transferred to, and stored in the Unite
 
 ### How do you use cookies on this website?
 
-For information on how cookies are used on this website, please see our [Cookie Policy](https://web.archive.org/cookie-policy).
+For information on how cookies are used on this website, please see our [Cookie Policy](https://web.archive.org/cookies-policy).
 
 ### What if I don’t want you to use my details anymore?
 
