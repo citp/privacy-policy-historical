@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531201053id_/https%3A//www.mollom.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830210117id_/https%3A//www.mollom.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acquia
 
