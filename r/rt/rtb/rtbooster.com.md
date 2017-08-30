@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbooster.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517202919id_/http%3A//rtbooster.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbooster.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830085217id_/http%3A//rtbooster.com/english/privacy.html) for the most accurate reproduction.*
 
 # Booster.DCA: Privacy Policy
 
@@ -54,7 +54,7 @@ Your use of the Website is at your own risk. Neither Booster.DCA nor any other p
 #### **Contact us**
 
 **Data-Centric Alliance**  
-Address: 119072, Russia, Moscow, 2/1, Bersenevskiy per.  
-Phone: +7 499 429 0977. E-mail: [privacy@rtbooster.com](mailto:privacy@rtbooster.com)
+Address: 119072, Russia, Moscow, 6/3, Bersenevskaya emb.  
+Phone: 8 (800) 500 5218. E-mail: [privacy@rtbooster.com](mailto:privacy@rtbooster.com)
 
 ****
