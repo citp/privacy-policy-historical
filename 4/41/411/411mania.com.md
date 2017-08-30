@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 411mania.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190754id_/http%3A//411mania.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 411mania.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830052409id_/https%3A//411mania.com/privacy-policy) for the most accurate reproduction.*
 
-# 411MANIA | Privacy Policy
+# Privacy Policy | 411MANIA
 
 Privacy Policy Thank you for visiting 411wrestling.com or one of our affiliate sites. Your privacy on the Internet is of the utmost importance to us, and with that in mind we have devised this notice to fully disclose our online information practices. This privacy statement discloses the privacy practices for 411wrestling.com – what information we gather, how we use it and how to correct or change it.
 
