@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weighttraining.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614110708id_/https%3A//www.exercise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weighttraining.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830121928id_/https%3A//www.exercise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exercise.com
 
