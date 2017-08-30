@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reaction.life privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211103645id_/https%3A//reaction.life/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reaction.life privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830164428id_/https%3A//reaction.life/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reaction
 
@@ -18,7 +18,7 @@ In this privacy policy, the following definitions are used:
 
 **User** or **you** : any third party that accesses the Website and is not either (i) employed by Reaction Digital Media Ltd and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to Reaction Digital Media Ltd and accessing the Website in connection with the provision of such services; and
 
-**Website** : the website that you are currently using, reaction.life, and any sub-domains of this site unless expressly excluded by their own terms and conditions.
+**Website** : the website that you are currently using, reaction.wpengine.com, and any sub-domains of this site unless expressly excluded by their own terms and conditions.
 
 In this privacy policy, unless the context requires a different interpretation:  
 a. the singular includes the plural and vice versa;  
