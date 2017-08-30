@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516151346id_/https%3A//gifs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830201456id_/https%3A//gifs.com/policies/privacy) for the most accurate reproduction.*
 
 # gifs.com Privacy Policy
 
@@ -121,12 +121,12 @@ We also agree to the Individual Redress Principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at rory@gifs.com and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at support@gifs.com and we will promptly remove you from ALL correspondence.
 
 #### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-rory@gifs.com
+support@gifs.com
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. glyphic, inc. may change its Privacy Policy from time to time, and at glyphic, inc.'s sole discretion.
