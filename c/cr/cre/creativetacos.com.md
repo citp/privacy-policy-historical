@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the creativetacos.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511125200id_/https%3A//creativetacos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativetacos.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830143233id_/https%3A//creativetacos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy (“Policy”) describes how we collect, protect and use the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) provided on the https://creativetacos.com website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+
+  
+
 
 ## Collection of personal information
 
@@ -66,4 +69,9 @@ If you have any questions about this Policy, please [contact us](https://creativ
 
 This document was last updated on January 5, 2017
 
-Ads by GoogleLike us for design insights, inspiration, and the occasional resources We hope you enjoy it – please do let us know what you think, comment, pin & share are always hugely welcomed and appreciated. More importantly, please don’t hesitate to drop us a message if you have any issues or queries!
+[ ](https://dealjumbo.com/downloads/1100-creative-photo-overlays/ref/358/?campaign=ct-news)
+
+Sponsored Ads **Follow CreativeTacos** [Follow @cr3ativetacos](https://twitter.com/cr3ativetacos) [Creativetacos](https://www.pinterest.com/creativetacos/) We hope you enjoy it – please do let us know what you think, comment, pin & share are always hugely welcomed and appreciated. More importantly, please don’t hesitate to drop us a message if you have any issues or queries!
+
+  
+
