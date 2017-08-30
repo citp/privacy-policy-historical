@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshopcafe.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202752id_/http%3A//photoshopcafe.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopcafe.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830090856id_/http%3A//photoshopcafe.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - PhotoshopCAFE
 
