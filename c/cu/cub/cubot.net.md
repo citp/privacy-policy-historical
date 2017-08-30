@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubot.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623145641id_/http%3A//cubot.net/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubot.net privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830041900id_/https%3A//www.cubot.net/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy -cubot
 
