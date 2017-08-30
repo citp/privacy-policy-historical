@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akronohiomoms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093853id_/http%3A//www.akronohiomoms.com/about/akronohiomoms-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akronohiomoms.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830103034id_/https%3A//www.akronohiomoms.com/about/akronohiomoms-com-privacy-policy) for the most accurate reproduction.*
 
 # AkronOhioMoms.com Privacy Policy - Akron Ohio Moms
 
