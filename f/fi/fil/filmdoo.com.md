@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the filmdoo.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417093005id_/https%3A//www.filmdoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmdoo.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830105814id_/https%3A//www.filmdoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at FilmDoo
+
+You're signing up via Facebook...  
+there's just one more step to go 
+
+Please check your email for new password and then log in here
 
 FilmDoo Ltd (" **We** ") are committed to protecting and respecting your privacy. 
 
 This policy, together with our terms and conditions and any other documents referred to on it, sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting you are accepting and consenting to the practices described in this policy. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is FilmDoo Ltd of Innovation Warehouse, 1 East Poultry Avenue, EC1A 9PT, London. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is FilmDoo Ltd of ARK coworking, 237 Pentonville Road, Kings Cross, London N1 9NG, United Kingdom. 
 
-## Disclosure of Your Information
+### Disclosure of Your Information
 
 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may share your information with selected third parties including: 
 
