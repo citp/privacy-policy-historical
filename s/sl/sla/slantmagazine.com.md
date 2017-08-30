@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slantmagazine.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614211836id_/http%3A//www.slantmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slantmagazine.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830082904id_/https%3A//www.slantmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slant Magazine
 
@@ -34,4 +34,4 @@ Slantmagazine.com contains many links to other sites on the Web. We cannot contr
 
 If you have any further questions or concerns about Slantmagazine.com’s privacy policies and use of personal information, please contact us.
 
-[ ](http://www.slantmagazine.com/house)
+[ ](https://www.slantmagazine.com/house)
