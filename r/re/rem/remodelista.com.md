@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remodelista.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602062645id_/https%3A//www.remodelista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelista.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830144131id_/https%3A//www.remodelista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Remodelista
 
@@ -18,8 +18,8 @@ The Move family of Web sites, and mobile apps, mobile-optimized Web sites and ot
 <http://www.fivestreet.com/>  
 [http://www.listhub.com](http://www.listhub.com/)  
 <http://www.homefair.com/>  
-<http://www.remodelista.com/>  
-<http://www.gardenista.com/>
+[http://www.remodelista.com/](https://www.remodelista.com/)  
+[http://www.gardenista.com/](https://www.gardenista.com/)
 
 In conjunction with this Privacy Policy, you should also review our Terms of Use for a more complete understanding of the rules governing our Sites.  Click here for information on Internet safety and security from the Federal Trade Commission.
 
