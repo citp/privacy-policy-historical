@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dstv.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607041800id_/http%3A//www.dstv.com/topic/privacy-policy-20150313) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstv.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830125314id_/http%3A//www.dstv.com/topic/privacy-policy-20150313) for the most accurate reproduction.*
 
 # Privacy Policy
 
