@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juzdeals.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128200512id_/http%3A//www.juzdeals.com/support/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juzdeals.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830192641id_/https%3A//www.juzdeals.com/support/policy) for the most accurate reproduction.*
 
 # Privacy Policy For Juzdeals
 
@@ -64,4 +64,4 @@ This website may contain links to other websites; Juzdeals.com is not responsibl
 
   
  **Contact Juzdeals.com**  
-If you have any questions about this privacy policy or Juzdeals.com’s treatment of your personal information, please [contact juzdeals](http://www.juzdeals.com//support/contact/)
+If you have any questions about this privacy policy or Juzdeals.com’s treatment of your personal information, please [contact juzdeals](https://www.juzdeals.com//support/contact/)
