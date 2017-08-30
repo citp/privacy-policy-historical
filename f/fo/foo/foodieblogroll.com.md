@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016110302id_/http%3A//foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830104540id_/http%3A//foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20161016110302id_/http%3A//foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20170830104540id_/http%3A//foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
@@ -121,10 +121,10 @@ This document was last updated on September 26, 2012
 
 |  | 
 
-| Average Daily Visits: |   **510,715** (past 7 days)  
+| Average Daily Visits: |   **0** (past 7 days)  
 ---|---  
    
-This Month: |   **3,575,006**  
-This Year: |   **267,802,214**  
+This Month: |   **0**  
+This Year: |   **0**  
   
-## Total Blogs: [16732](http://foodieblogroll.com/blogs)
+## Total Blogs: [16930](http://foodieblogroll.com/blogs)
