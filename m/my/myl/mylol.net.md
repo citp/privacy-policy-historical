@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610061346id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830235809id_/https%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
 
 # Teen Dating - MyLOL - Teen APP
 
