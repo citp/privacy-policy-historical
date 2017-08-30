@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinknews.co.uk privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519131139id_/http%3A//www.pinknews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinknews.co.uk privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830234245id_/http%3A//www.pinknews.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · PinkNews
 
