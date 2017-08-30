@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605205205id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830092224id_/https%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,7 +26,7 @@ We encourage you to share your comments and questions with us. We promise to rea
 
 ### Use and Disclosure
 
-We use the information we collect about you in order 1) to provide membership services, 2) to determine your eligibility to be selected for special events and shows, and 3) to operate our site efficiently and continue to improve our membership relations and services. 
+We use the information we collect about you in order to (1) provide membership services, (2) determine your eligibility to be selected for special events, shows and targeted marketing opportunities, and (3) to operate our site efficiently and continue to improve our membership relations and services.
 
 ### Disclosure to Third Parties
 
@@ -56,4 +56,4 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 Hollywood, CA 90028  
 [support@1iota.com](mailto:support@1iota.com)
 
-(last updated on 7/25/2014)
+(last updated on 7/28/2017)
