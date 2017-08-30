@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the backblaze.com privacy policy that was archived on 2017-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170518051250id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backblaze.com privacy policy that was archived on 2017-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170830075019id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -27,13 +27,18 @@
         .navbar > .container {
              padding-right: inherit;
         }
-
+h4 {
+			font-size:16px;
+			color:#252525;
+			font-weight: 700;
+			margin-top: 20px;
+		}
     </style>
 
 <!-- old ga was here -->
 
 
-<!-- optimizely -->
+<!-- ** optimizely snippet **  -->
 <script src="https://cdn.optimizely.com/js/8207352565.js"></script>
 
 
@@ -44,11 +49,14 @@
     $(function() {
         var ext = window.location.host.split('.').pop();
         if (ext != "com") {
-            ID = "GTM-NL4J38"; // for Staging (.net)
+            ID = "GTM-NL4J38"; // for Staging (.net);
         }
 
     });
+
+
 </script>
+
 <!-- Google Tag Manager -->
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -79,18 +87,18 @@
                 </div>
 
             </button>
-            <a class="navbar-brand" href="/index.html">
+            <a class="navbar-brand" href="/index.html" id="homeLink">
                 <img src="https://www.backblaze.com/pics/backblaze-logo.gif" width="180" height="31" alt="Backblaze" style="float:left;"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul id="mainNav" class="nav navbar-nav">
-                <li class="personal"><a href="/cloud-backup.html">Personal Backup</a></li>
-                <li class="business"><a href="/business-backup.html">Business Backup</a></li>
-                <li class="b2"><a href="/b2/cloud-storage.html">B2 Cloud Storage</a></li>
-                <li><a href="/blog/">Blog</a></li>
-                <li class="help"><a href="/help.html">Help</a></li>
-                <li><a href="/user_signin.htm">Sign In</a></li>
+                <li class="personal"><a href="/cloud-backup.html" id="personalBackup">Personal Backup</a></li>
+                <li class="business"><a href="/business-backup.html" id="businessBackup">Business Backup</a></li>
+                <li class="b2"><a href="/b2/cloud-storage.html" id="cloudStorage">B2 Cloud Storage</a></li>
+                <li><a href="/blog/" id="blog">Blog</a></li>
+                <li class="help"><a href="/help.html" id="help">Help</a></li>
+                <li><a href="/user_signin.htm" id="signIn">Sign In</a></li>
             </ul>
         </div>
     </div>
