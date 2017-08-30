@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128200230id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830060244id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PE Hub
 
