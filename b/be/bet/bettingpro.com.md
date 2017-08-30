@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319002647id_/https%3A//www.bettingpro.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830051546id_/https%3A//www.bettingpro.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,16 +87,14 @@ privacy@bettingpro.com
 
 Bettingpro.com
 
-Caledonian Publishing
+Catena Operations Limited 
 
-c/o Avant Garde
+The Firs, Floor 6 
 
-Admiral’s Offices
+Gorg Borg Olivier Street 
 
-Main Gate Road
+SLM1801
 
-The Historic Dockyard
+Sliema 
 
-Chatham
-
-Kent ME4 4TZ 
+Malta
