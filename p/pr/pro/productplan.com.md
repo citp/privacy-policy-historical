@@ -1,115 +1,176 @@
-> *The following text is extracted and transformed from the productplan.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401182903id_/http%3A//www.productplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productplan.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831122512id_/https%3A//www.productplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# ProductPlan Privacy Policy
 
-**ProductPlan Privacy Policy**
+_Last Modified: May 18, 2017_
 
-ProductPlan, LLC (“ProductPlan” or “we”) has created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how information is collected, used, disclosed and protected with respect to our ProductPlan services (“Service”) and Web sites located at http://www.productplan.com and http://app.productplan.com (“Site”). By using the Service, you consent to the privacy practices described in this Policy.
+**_Overview of Privacy Policy_**
 
-ProductPlan may need to modify this Policy from time to time. Changes to this Policy are discussed at the end of this document.
+ProductPlan, LLC, a Delaware limited liability company (the “Company”, “we” or “us”), respects your privacy and is committed to protecting it through its compliance with this Privacy Policy (this “Policy”). This Policy explains how information is collected, used and disclosed by the Company with respect to the access and use of the Company’s websites, located at www.productplan.com and app.productplan.com (together, the “Website”) and the services that are available through the Website (the “Services”). This Policy does not apply to any third-party websites, services or applications that you may access through the Services.
 
-**TYPES OF INFORMATION WE COLLECT ABOUT YOU**
+This Policy applies to information we collect:
 
-ProductPlan collects, uses and discloses two types of information: Personal Information and Non-Personal Information. “Personal Information” is information that is directly associated with a specific person or entity such as a user’s name, e-mail address, company name, and user-chosen ID and password. “Non-Personal Information” is information that, without the aid of additional information, cannot be directly associated with a specific person or entity.
+  * On the Website, including through your use of the Services.
+  * In e-mail, text and other electronic messages between you and the Company or the Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this Policy.
 
-**GATHERING, USE AND DISCLOSURE OF NON-PERSONAL INFORMATION**
 
-**Gathering Non-Personal Information**
 
-**Web Browsers**
+This Policy does not apply to information collected by:
 
-Like most Site operators, ProductPlan gathers from users of the Site Non-Personal Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (“IP”) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Site.
+  * The Company offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries).
+  * Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-**Cookies**
 
-A cookie is a small amount of data, often including an anonymous unique identifier, that is sent to your browser from a Site’s computers and stored on your computer’s hard drive. Most browsers automatically accept cookies as the default setting. ProductPlan uses cookies to track a user’s use of the Site during each Site session, both to help ProductPlan improve users’ experiences and to help ProductPlan understand how the Site is being used. YOU CAN MODIFY THE SETTING TO REJECT COOKIES OR TO PROMPT YOU BEFORE ACCEPTING A COOKIE FROM THE SITES YOU VISIT BY EDITING BROWSER OPTIONS. IF YOU DECIDE NOT TO ACCEPT OUR COOKIES, HOWEVER, YOUR USE OF THE SERVICE MAY BE LIMITED.
 
-**Google Web Analytics Service**
+PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND OUR POLICIES AND PRACTICES REGARDING YOUR INFORMATION AND HOW WE WILL TREAT IT. IF YOU DO NOT AGREE WITH OUR POLICIES AND PRACTICES, YOUR CHOICE IS NOT TO USE THE WEBSITE OR THE SERVICES. BY ACCESSING OR USING THE WEBSITE OR THE SERVICES, YOU AGREE TO THIS POLICY.
 
-ProductPlan also use cookies as part of the Google Web Analytics service that ProductPlan uses on the Site. ProductPlan may collect, use and disclose Non-Personal Information by means of the cookies used in connection with Google Web Analytics, and such use is subject to this Policy. In addition, Google may collect Non-Personal Information about you by means of the Google Web Analytics service. Google’s use of this Non-Personal Information is subject to the Google Privacy Policy (currently located at http://www.google.com/intl/en/privacypolicy.html).
+This Policy may change from time to time. Your continued use of the Website or the Services after we make changes to this Policy is deemed to be acceptance of those changes, so please check this Policy regularly for updates.
 
-**Web Beacons**
+_**Information We Collect About You and How We Collect It**_
 
-A “Web Beacon” is an object that is embedded in a web page. It is usually invisible to users but allows Site operators to check whether a user has viewed a particular web page. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides.
+We collect several types of information from and about users of the Website and the Services, including information:
 
-You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. Third parties are not permitted to use Web Beacons on the Site.
+  * By which you and your company may be personally identified, such as your name, your company’s name, address, e-mail address, telephone number or any other identifier by which you may be contacted online or offline (“Personal Information”);
+  * That is about you but individually does not identify you; and/or
+  * About your internet connection, the equipment you use to access the Website and usage details.
 
-**Use of Non-Personal Information**
 
-ProductPlan analyzes Non-Personal Information gathered from Site users to help ProductPlan better understand how the Site is being used. By identifying patterns and trends in usage, ProductPlan is able to better design the Site to improve users’ experiences, both in terms of content and ease of use. ProductPlan does not link information gathered using cookies and Web Beacons to Personal Information.
 
-**Disclosure of Non-Personal Information**
+We collect this information:
 
-We use cookie technology to: (i) collect information so that we can improve our Site by seeing which areas and features are most popular; (ii) personalize the Site and improve the Site experience; and (iii) allow you to visit the Site without re-entering your login credentials. While we use cookies to record current session information, we do not use permanent cookies.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
 
-We may share Non-Personal Information about our users in the aggregate with third parties for various purposes, including to help us better understand and improve our Service, and for advertising and marketing purposes.
 
-**COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION.**
 
-**Collection of Personal Information**
+We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13 years old, we will take steps to delete such information from our files as soon as possible.
 
-As defined above, Personal Information is information that can be directly associated with a specific person or entity. We collect a range of Personal Information from and about Site users. Much of this Personal Information is information provided by users themselves when they register with the Site and use the Site and Service. For example, when you register with the Site to use the Service, you may submit, your name, initials or nickname, and e-mail address. You may also create a user-chosen ID and password for your use when accessing the Service. In addition, we may collect and retain information that identifies you personally when you send us comments, questions or suggestions, or if you send to us job application, resumes, or other business contacts.
+_Information You Provide to Us_
 
-Site users are under no obligation to provide ProductPlan with Personal Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Site features. BY REGISTERING WITH THE SITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION SECTION.
+The information we collect on or through the Website may include:
 
-**Safe Harbor**
+  * Information that you provide to us by filling in forms on the Website. This includes information provided at the time of registering to use the Website and the Services or requesting further services. We may also ask you for information when you report a problem with the Website or the Services.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through the Website and our provision of the Services to you.
+  * Your search queries on the Website.
 
-ProductPlan complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ProductPlan has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ProductPlan’s certification, please visit http://www.export.gov/safeharbor/
 
-**Use of Personal Information**
 
-ProductPlan may use the Personal Information a user submits for any purposes related to ProductPlan’s business purposes, including, but not limited to: (i) understanding a user’s needs; (ii) generating statistical studies; (iii) estimating audience size; (iv) measuring aggregate traffic patterns; (v) understanding Site demographics, customer interest and other trends about users; (vi) improving Services, information and products; (vii) communicating back to the user; (viii) providing a user with Services or support; (ix) updating the user on Services, information and products; (x) personalizing the Site for the user; (xi) notifying the user of any changes with the Site which may affect the user; (xii) enforcing terms of use on the Site; and (xiii) allowing the user to access Services or otherwise engage in activities the user selects.
+_Information We Collect Through Automatic Data Collection Technologies_
 
-**Disclosure of Personal Information**
+As you navigate through and interact with the Website and the Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-As described in Section “Collection of Personal Information”, users may, at their option, disclose their own Personal Information by any means they choose. ProductPlan will also disclose Personal Information, in the following circumstances:
+  * Details of your visits to the Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website or the Services.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-**Material You Choose to Reveal in Blogs, Message Boards, Chat Rooms, Web Services or Similar Services**
 
-You may post Personal Information on areas of the Site that may be viewed by other users or the public, although we recommend that you not do so. We urge you to use good judgment and not post Personal Information that you do not want other users to know.
 
-Users may not be able to change or remove public postings once they are posted. Such Personal Information may be used by visitors of these pages to send you unsolicited messages.
+The technologies we use for this automatic data collection may include:
 
-YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONAL INFORMATION.
+  * _Cookies (or browser cookies)._ A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser settings so that it will refuse cookies, our system may issue cookies when you direct your browser to the Website.
+  * _Flash Cookies._ Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * _Web Beacons._ Pages of the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain Website content and verifying system and server integrity).
 
-**DMCA Infringement Notifications, Notices of Violations of Site Terms of Service and Other Communications Directed to ProductPlan**
 
-By submitting a Digital Millennium Copyright Act (“DMCA”) Infringement Notification or other communication (including communications about content stored on or transmitted through the Site) you consent to have this communication forwarded to the person or entity who stored or transmitted the content addressed by your communication, in order to facilitate a prompt resolution. For notices other than DMCA Infringement Notifications, upon request, ProductPlan will edit out your name and contact information. However, DMCA Infringement Notifications (including any personally identifiable information set forth in the Notifications) will be forwarded as submitted to ProductPlan without any deletions.
 
-**Surveys**
+We do not collect Personal Information automatically, but we may tie this information to Personal Information about you that we collect from other sources or you provide to us. This helps us to improve the Website and the Services and to deliver a better and more personalized service.
 
-From time to time, ProductPlan may also ask Site users to participate in surveys designed to help ProductPlan improve the Site. Any Personal Information provided to ProductPlan in connection with a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Policy only in non-personally-identifying, aggregated form.
+_**How We Use Your Information**_
 
-**Employees and Third Party Processors**
+We use information that we collect about you or that you provide to us, including any Personal Information:
 
-ProductPlan will disclose Personal Information to those ProductPlan employees, contractors, affiliates, vendors and suppliers who process Personal Information on ProductPlan’s behalf or participate with ProductPlan in the provision or operation of the Site.
+  * To present the Website and provide the Services to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to the Website or the Services.
+  * To allow you to participate in interactive features on the Website or of the Services.
+  * In any other way we may describe when you provide the information.
 
-**By Law, to Protect Rights and to Comply with ProductPlan Policies**
 
-ProductPlan discloses Personal Information if: (1) required to do so by law, or in response to a subpoena or court order; (2) ProductPlan believes in its sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of ProductPlan, other users, third parties or the public at large; and (3) ProductPlan believes that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
 
-**Business Transfers; Bankruptcy**
+We may also use your information to contact you about our services that may be of interest to you. If you do not want us to use your information in this way, please unsubscribe or contact us.
 
-ProductPlan reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of ProductPlan assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.
+_**Disclosure of Your Information**_
 
-**COLLECTION AND USE OF INFORMATION BY THIRD PARTIES NOT COVERED BY THIS POLICY**
+We may disclose aggregated information about our users without restriction. 
 
-Third parties are under no obligation to comply with this Policy with respect to Personal Information or Non-Personal Information that users provide directly to those third parties or that those third parties collect for themselves (including, without limitation, Google as described in Section “Google Web Analytics Service.” Please be aware that we may provide links to third party Sites as a service to our users and we are not responsible for the content or information collection practices of those sites. ProductPlan does not control the third party websites accessible through the Site. This Policy does not apply to information provided to or gathered by third parties that operate them. Third parties’ privacy policies will differ from those of ProductPlan. Therefore, we encourage you to review and understand third parties’ privacy practices before visiting third party sites or providing third parties with information, and take those steps necessary to, in your discretion, protect your privacy.
+We may disclose Personal Information that we collect or you provide as described in this Policy:
 
-**SECURITY**
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Information held by the Company about users of the Website or the Services is among the assets transferred.
+  * To fulfill the purpose for which you provide it. 
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-ProductPlan takes reasonable precautions to prevent unauthorized release, corruption, or loss of your personal and company data. However, neither people nor security systems are foolproof. Therefore, while we have taken efforts to guard your personal information, we cannot guarantee its absolute security.
 
-**MODIFYING YOUR PERSONAL INFORMATION**
 
-If you are a registered user of our Service, you may view, correct, and delete your personal information, simply by logging into the Service and editing your profile.
+We may also disclose your Personal Information:
 
-**UPDATING THIS POLICY**
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our Terms of Service and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others. 
 
-We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. ProductPlan will alert you by email if this policy is revised. In addition, any changes to this Policy will be posted on the Site, and we will update the “last updated” date set forth below. It is therefore important that you register with the Site and notify us if you change email addresses. If you do not provide ProductPlan with a current email address, you should regularly check our Policy whenever you use the Service to see if it has been updated since your last visit.
 
-**CONTACTING PRODUCTPLAN**
 
-Any questions about this Policy should be addressed to ProductPlan, 10 E Yanonali St. Santa Barbara, CA 93101, or by email at: info@productplan.com.
+_**Choices About How We Use and Disclose Your Information**_
 
-Last Updated: September 12, 2015
+We strive to provide you with choices regarding the Personal Information you provide to us. We have created mechanisms to provide you with the following control over your information: 
+
+  * _Tracking Technologies and Advertising._ You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * _Promotional Offers from the Company._ If you do not wish to have your e-mail address or other contact information used by the Company to promote its products or services, you can unsubscribe or e-mail us at info@productplan.com a request to remove your e-mail address from our promotional list. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+
+
+
+**_Accessing and Correcting Your Information_**
+
+You can review and change your Personal Information by logging into the Website and visiting your account profile page. 
+
+_**Data Security**_
+
+We have implemented measures that we believe are reasonable to secure your Personal Information from accidental loss and from unauthorized access, use, alteration and disclosure. 
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of the Website or the Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted to the Website. Any transmission of Personal Information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
+
+_**EU-U.S. Privacy Shield Policy**_
+
+We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce (the “Privacy Shield Principles”) regarding the collection, use, and retention of personal information transferred from the European Union to the United States (the “EU Personal Data”). We have certified to the U.S. Department of Commerce that we adhere to the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield Principles, we are subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. If there is any conflict between the terms in our Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. 
+
+_Personal Data Collection and Use_
+
+This Privacy Policy describes the categories of Personal Information that we collect, which includes the EU Personal Data that we may receive in the U.S., as well as the purposes for which we use such EU Personal Data.
+
+_Third-Party Agents or Service Providers_
+
+We may transfer EU Personal Data to our third-party contractors, affiliated organizations or other service providers who perform functions on our behalf as described in this Privacy Policy. Where required by the Privacy Shield Principles, we enter into written agreements with those third-party contractors, affiliated organizations and other service providers requiring them to provide the same level of protection the Privacy Shield Principles require and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps to ensure that third-party contractors, affiliated organizations and other service providers process EU Personal Data in accordance with our obligations under the Privacy Shield Principles and to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party contractors, affiliated organizations or other service providers who perform services on our behalf for their handling of EU Personal Data that we transfer to them.
+
+_Disclosures for National Security or Law Enforcement_
+
+Under certain circumstances, we may be required to disclose EU Personal Data in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
+
+_Access Rights_
+
+You may have the right to access the EU Personal Data that we hold about you and to request that we correct, amend, or delete it if it is inaccurate or processed in violation of the Privacy Shield Principles. These access rights may not apply in some cases, including where providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of someone other than the individual requesting access. If you would like to request access to, correction, amendment, or deletion of your EU Personal Data, you can submit a written request to our contact provided below. We may request specific information from you to confirm your identity. In some circumstances we may charge a reasonable fee for access to your information.
+
+_Questions or Complaints_
+
+In compliance with the Privacy Shield Principles, we commit to resolving complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact us at info@productplan.com.
+
+We have further committed to cooperate with EU data protection authorities (“DPAs”) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction within 45 days after our receipt of your complaint, you may contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
+
+_Binding Arbitration_
+
+You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (a) raised your compliant directly with us and provided us the opportunity to resolve the issue, (b) made use of the independent dispute resolution mechanism identified above, and (c) raised the issue through the relevant data protection authority and allowed the U.S. Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see the U.S. Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration).
+
+_**Changes to this Policy**_  
+It is our policy to post any changes we make to this Policy on this page. If we make material changes to how we treat our users’ Personal Information, we will notify you by e-mail to the primary e-mail address specified in your account or through a notice on the Website home page. The date this Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting the Website and this Policy to check for any changes.
+
+**_Contact Information_**
+
+To ask questions or comment about this Policy and our privacy practices, contact us at info@productplan.com.
