@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126203330id_/http%3A//www.cafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831040755id_/https%3A//www.cafe.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Cafe.com
-
-## Privacy
+# Privacy – CAFE
 
 We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to data and information collected through cafe.com, the affiliated network of websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by Some Spider, LLC (collectively “Some Spider” or “we,” “us,” or “our”); all apps published by Some Spider; and all other interactive features, services, and communications provided by Some Spider (“Service” or “Services”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Some Spider. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your use of this Service, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
