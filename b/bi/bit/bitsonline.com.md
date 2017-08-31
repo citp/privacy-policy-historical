@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitsonline.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630030315id_/http%3A//bitsonline.com/bo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsonline.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831142643id_/https%3A//bitsonline.com/bo/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bitsonline
+# Privacy Policy - Bitsonline
 
 **By visiting our website, you agree and consent to the conditions of this privacy policy.**
 
