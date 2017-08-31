@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file.army privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331103910id_/https%3A//file.army/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file.army privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831040420id_/https%3A//file.army/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - file.army
 
