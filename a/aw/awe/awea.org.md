@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awea.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628201928id_/http%3A//www.awea.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awea.org privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831191420id_/https%3A//www.awea.org/privacy-policy) for the most accurate reproduction.*
 
 # American Wind Energy Association Privacy Policy
 
