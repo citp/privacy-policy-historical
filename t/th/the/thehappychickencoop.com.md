@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehappychickencoop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193433id_/http%3A//www.thehappychickencoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehappychickencoop.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831180930id_/https%3A//www.thehappychickencoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,6 +41,26 @@ We do not endorse and are not responsible for the information practices or priva
 **Cookies**
 
 A cookie is a small text file that the Site can place on your computer’s hard drive. When you visit the Site, a cookie may be placed on your computer for customizing and enhancing your experience on the Site. Your name and email address are not shared in this cookie. We use a cookie that collects anonymous traffic data. You can set your Web browser to block cookies, but doing so may affect your ability to access certain features of the Site.
+
+**DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on http://www.thehappychickencoop.com/.  
+Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://www.thehappychickencoop.com/ and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+**Our Advertising Partners**
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+
+  * Google
+  * Amazon
+  * Yahoo! Publisher Network
+
+
+
+You may consult this listing to find the privacy policy for each of the advertising partners of http://www.thehappychickencoop.com/.  
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.thehappychickencoop.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.  
+http://www.thehappychickencoop.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
 **Web Beacons**
 
