@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129140705id_/https%3A//jingdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831145216id_/https%3A//jingdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jing Daily
 
