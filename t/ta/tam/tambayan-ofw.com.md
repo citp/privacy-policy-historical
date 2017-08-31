@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tambayan-ofw.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626120536id_/http%3A//www.tambayan-ofw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tambayan-ofw.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831203906id_/http%3A//www.tambayan-ofw.com/privacy) for the most accurate reproduction.*
 
 # Tambayan-ofw :: Privacy Policy
 
