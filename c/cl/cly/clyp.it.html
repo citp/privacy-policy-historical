@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clyp.it privacy policy that was archived on 2017-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170603193033id_/https%3A//clyp.it/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clyp.it privacy policy that was archived on 2017-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170831125626id_/https%3A//clyp.it/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -37,7 +37,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="https://static.clyp.it/site/images/favicons/apple-touch-icon-precomposed.png">
 
     <link href="//static.clyp.it/site/css/siteinformation-1.0.5.css" rel="stylesheet">
-    <link href="//static.clyp.it/site/css/clyp-1.0.25.css" rel="stylesheet">
+    <link href="//static.clyp.it/site/css/clyp-1.0.28.css" rel="stylesheet">
 
     <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
     window.clypCampaigns = [
@@ -246,99 +246,108 @@
     </main>
 
 
-    <header role="navigation" id="clyp-header">
+
+<section role="banner" id="banner">
+    <a href="/producer-challenge" class="fixed-banner" onclick="return trackBannerClick();">
+        <h4 class="fixed-banner-text">Win $200 and more in the Producer Challenge</h4>
+    </a>
+</section>
+    
+
+<header role="navigation" id="clyp-header">
     <div class="fixed-header">
         <div class="header-content" style="display: none;" data-bind="visible: true">
-            <div class="show-for-small-only notifications-nav-action-small" data-bind="visible: loggedIn">
-                <div class="nav-action" data-bind="visible: loggedIn, click: shownotificationMenu">
+                <div class="show-for-small-only notifications-nav-action-small" data-bind="visible: loggedIn">
+                    <div class="nav-action" data-bind="visible: loggedIn, click: shownotificationMenu">
     <div class="notifications-bell" data-bind="visible: !hasUnacknowledgedNotifications()"></div>
     <div style="display: none;" class="notifications-count-circle" data-bind="visible: hasUnacknowledgedNotifications">
         <div class="notifications-count-number" data-bind="text: notificationCount"></div>
     </div>
 </div>
-            </div>
+                </div>
             <a class="logo-wrapper" href="/">
                 <img src="https://static.clyp.it/site/images/logos/clyp-logo-primary-98x44.svg" class="logo" alt="Clyp logo">
             </a>
-            <div class="nav-actions show-for-medium">
-                <button class="nav-action button upload-button primary tiny" data-bind="click: openUploadModal">Upload</button>
-                <div class="nav-action" data-bind="click: randomAudioFile">
-                    <div class="shuffle-button"></div>
-                </div>
-                <div class="nav-action">
-                    <div class="volume-button"></div>
-                    <div id="volume-slider-container" class="volume-slider-container">
-                        <div class="volume-slider-positioning">
-                            <input id="volume-slider" type="text" data-slider="true" data-slider-step="0.05">
+                <div class="nav-actions show-for-medium">
+                        <button class="nav-action button upload-button primary tiny" data-bind="click: openUploadModal, visible: plusAccountFeaturesEnabled()">Upload</button>
+                        <a class="nav-action upgrade-button button primary tiny" href="/premium-pricing" data-bind="visible: !plusAccountFeaturesEnabled()">Upgrade</a>
+                    <div class="nav-action" data-bind="click: randomAudioFile">
+                        <div class="shuffle-button"></div>
+                    </div>
+                    <div class="nav-action">
+                        <div class="volume-button"></div>
+                        <div id="volume-slider-container" class="volume-slider-container">
+                            <div class="volume-slider-positioning">
+                                <input id="volume-slider" type="text" data-slider="true" data-slider-step="0.05">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="nav-action search-box">
-                    <input type="text" placeholder="Search" class="search-input typeahead" spellcheck="false" autocomplete="off">
-                </div>
-                <div class="nav-action" data-bind="visible: loggedIn, click: shownotificationMenu">
+                    <div class="nav-action search-box">
+                        <input type="text" placeholder="Search" class="search-input typeahead" spellcheck="false" autocomplete="off">
+                    </div>
+                    <div class="nav-action" data-bind="visible: loggedIn, click: shownotificationMenu">
     <div class="notifications-bell" data-bind="visible: !hasUnacknowledgedNotifications()"></div>
     <div style="display: none;" class="notifications-count-circle" data-bind="visible: hasUnacknowledgedNotifications">
         <div class="notifications-count-number" data-bind="text: notificationCount"></div>
     </div>
 </div>
-                <div class="sign-up nav-action" data-bind="visible: !loggedIn(), click: openSignUpModal">Sign Up</div>
-                <div class="login nav-action" data-bind="visible: !loggedIn(), click: openLogInModal">Log In</div>
-                <div id="logged-in-menu-button" data-bind="click: showUserMenu, visible: loggedIn">
-                    <div class="profile-name" data-bind="text: shortDisplayName"></div>
-                    <img class="profile-pic" data-bind="attr:{src: profilePictureUrl()}">
+                    <div class="sign-up nav-action" data-bind="visible: !loggedIn(), click: openSignUpModal">Sign Up</div>
+                    <div class="login nav-action" data-bind="visible: !loggedIn(), click: openLogInModal">Log In</div>
+                    <div id="logged-in-menu-button" data-bind="click: showUserMenu, visible: loggedIn">
+                        <div class="profile-name" data-bind="text: shortDisplayName"></div>
+                        <img class="profile-pic" data-bind="attr:{src: profilePictureUrl()}">
+                    </div>
                 </div>
-            </div>
-            <div id="menu-button" class="toggle show-for-small-only" data-bind="click: showUserMenu, css: { 'is-open' : userMenuVisible }">
-                <span class="top-bar"></span>
-                <span class="bottom-bar"></span>
-            </div>
+                <div id="menu-button" class="toggle show-for-small-only" data-bind="click: showUserMenu, css: { 'is-open' : userMenuVisible }">
+                    <span class="top-bar"></span>
+                    <span class="bottom-bar"></span>
+                </div>
         </div>
-        <ul class="header-menu notification-menu" data-bind="css: {'is-open': notificationMenuVisible}">
-            <!-- ko 'foreach': notifications -->
-            <li class="header-notification-card" data-bind="click: loadTargetUrl">
-                <img class="header-notification-image" data-bind="attr: { src: imageUrl }">
-                <div class="header-notification-text-container">
-                    <span class="header-notification-text" data-bind="text: text, css: { 'unacknowledged' : !acknowledged() }"></span>
-                    <span class="header-notification-timestamp" data-bind="text: dateCreated"></span>
-                </div>
-            </li>
-            <!-- /ko -->
-            <li class="see-all" data-bind="visible: notifications().length > 0">
-                <a href="/notifications">See all</a>
-            </li>
-            <li class="header-zero-notifications" data-bind="visible: notifications().length === 0">
-                <span>You don't have any notifications.</span>
-            </li>
-        </ul>
-        <ul class="header-menu" data-bind="css: {'is-open': userMenuVisible, 'allow-overflow': typeaheadHasFocus}">
-            <li class="show-for-small-only">
-                <button class="button upload-button primary tiny" data-bind="click: openUploadModal">Upload</button>
-            </li>
-            <li data-bind="visible: loggedIn">
-                <a class="profile" data-bind="attr: { href: profilePageUrl }">Profile</a>
-            </li>
-            <li data-bind="visible: upgradeButtonVisible()">
-                <a class="pro-upgrade pink" href="/premium-pricing">Upgrade</a>
-            </li>
-            <li data-bind="visible: loggedIn">
-                <a class="settings" data-bind="attr: { href: settingsPageUrl }">Settings</a>
-            </li>
-            <li class="sign-up" data-bind="visible: !loggedIn(), click: openSignUpModal">
-                Sign Up
-            </li>
-            <li class="login" data-bind="visible: !loggedIn(), click: openLogInModal">
-                Log In
-            </li>
-            <li data-bind="visible: loggedIn, click: userLogout">
-                <a class="logout">Log Out</a>
-            </li>
-            <li class="show-for-small-only search">
-                <div class="search-box" data-bind="click: stopEventPropagation">
-                    <input type="text" placeholder="Search" class="nav-action search-input mobile typeahead" spellcheck="false" autocomplete="off" data-bind="hasFocus: typeaheadHasFocus">
-                </div>
-            </li>
-        </ul>
+            <ul class="header-menu notification-menu" data-bind="css: {'is-open': notificationMenuVisible}">
+                <!-- ko 'foreach': notifications -->
+                <li class="header-notification-card" data-bind="click: loadTargetUrl">
+                    <img class="header-notification-image" data-bind="attr: { src: imageUrl }">
+                    <div class="header-notification-text-container">
+                        <span class="header-notification-text" data-bind="text: text, css: { 'unacknowledged' : !acknowledged() }"></span>
+                        <span class="header-notification-timestamp" data-bind="text: dateCreated"></span>
+                    </div>
+                </li>
+                <!-- /ko -->
+                <li class="see-all" data-bind="visible: notifications().length > 0">
+                    <a href="/notifications">See all</a>
+                </li>
+                <li class="header-zero-notifications" data-bind="visible: notifications().length === 0">
+                    <span>You don't have any notifications.</span>
+                </li>
+            </ul>
+            <ul class="header-menu" data-bind="css: {'is-open': userMenuVisible, 'allow-overflow': typeaheadHasFocus}">
+                    <li class="show-for-small-only">
+                        <button class="button upload-button primary tiny" data-bind="click: openUploadModal">Upload</button>
+                    </li>
+                <li data-bind="visible: loggedIn">
+                    <a class="profile" data-bind="attr: { href: profilePageUrl }">Profile</a>
+                </li>
+                <li data-bind="visible: upgradeButtonVisible()">
+                    <a class="pro-upgrade pink" href="/premium-pricing">Upgrade</a>
+                </li>
+                <li data-bind="visible: loggedIn">
+                    <a class="settings" data-bind="attr: { href: settingsPageUrl }">Settings</a>
+                </li>
+                <li class="sign-up" data-bind="visible: !loggedIn(), click: openSignUpModal">
+                    Sign Up
+                </li>
+                <li class="login" data-bind="visible: !loggedIn(), click: openLogInModal">
+                    Log In
+                </li>
+                <li data-bind="visible: loggedIn, click: userLogout">
+                    <a class="logout">Log Out</a>
+                </li>
+                <li class="show-for-small-only search">
+                    <div class="search-box" data-bind="click: stopEventPropagation">
+                        <input type="text" placeholder="Search" class="nav-action search-input mobile typeahead" spellcheck="false" autocomplete="off" data-bind="hasFocus: typeaheadHasFocus">
+                    </div>
+                </li>
+            </ul>
     </div>
     <div id="fb-root"></div>
 </header>
@@ -485,7 +494,7 @@
             <div data-bind="visible: calloutVisible(), css: calloutColor()" class="upload-time-remaining-callout">
     <div data-bind="text: calloutText()"></div>
     <div>
-        <a href="/premium-pricing#checkout">Upgrade to Premium</a> for unlimited uploads.
+        <a href="/premium-pricing" onclick="return trackPremiumCalloutClick();">Upgrade to Premium</a> for unlimited uploads.
     </div>
 </div>
             <!-- /ko -->
@@ -593,7 +602,7 @@
     </div>
 </div>
 
-    <script src="//static.clyp.it/site/js/global-1.0.42.js"></script>
+    <script src="//static.clyp.it/site/js/global-1.0.49.js"></script>
 
 
 <script>
