@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkpittsburghsports.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184704id_/https%3A//www.dkpittsburghsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkpittsburghsports.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901014607id_/https%3A//www.dkpittsburghsports.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
