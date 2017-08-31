@@ -1,80 +1,63 @@
-> *The following text is extracted and transformed from the online-home-jobs.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501222257id_/https%3A//www.online-home-jobs.com/inter/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-home-jobs.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831150140id_/https%3A//online-home-jobs.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.online-home-jobs.com
+# online money making, make money online, online make money, making money online, money making online, online making money, online money making jobs, make online money, how make money online, money making online jobs, make money from online jobs
 
- 
+online-home-jobs.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience while on our Web site www.online-home-jobs.com. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to Online Home Jobs Inc. to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+**Information About All online-home-jobs.com Visitors**
 
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, Online Home Jobs Inc. follows different principles in accordance with worldwide practices for customer privacy and data protection.
+We gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. We use such information in the aggregate and not on an individual basis. This information helps us determine what is most beneficial for our users, and how we can develop a better overall website for our users. This information WILL NOT BE SHARED.
 
- We won’t sell or give away our site visitors, our clients name, mail address, phone number, email address or any other information to anyone.   
- We’ll use state-of-the-art security measures to protect your information from unauthorized users. 
+**Information About You Specifically**
 
-**NOTICE**
+In some instances, such as when you sign up to use a service, we may need more specific personal information about you, such as name, address, e-mail address, telephone number, etc. We will not use this information in any way or share it with any other party. We will not use the information to spam or send you messages from advertisers. Registered users WILL receive free weekly jobs alerts and newsletters via email informing you of new jobs that match your resume. We may also contact you to let you know of changes to our service or problems or updates to our website. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
+When applying for a job listed directly on online-home-jobs.com or signing to become a member, we will ask you for additional information such as your career background or resume. Some of this information is used as part of your profile that potential employers will be able to view if you post a resume and opt to have your resume viewable by employers. Specifically, personal details such as your contact information, age, etc will NOT be made available to employers.
 
- To make the site easier for you to use by not having to enter information more than once.   
- To help you quickly find software, services or information.   
- To help us create content most relevant to you.   
- To alert you to product upgrades, special offers, updated information and other new services from Online Home Jobs Inc.. 
+**General Information Disclosure**
 
-**CONSENT**
+We do not disclose information about your individual visits to online-home-jobs.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, etc., to any outside parties other than as disclosed within this privacy policy (such as employers that you authorize to contact you for a job).
 
-If you choose not to register or provide personal information, you can still use most of www.online-home-jobs.com . But you will not be able to access areas that require registration. 
+We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Online Home Jobs Inc. products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Online Home Jobs Inc. 
+**Featured Programs**
 
-Online Home Jobs Inc. occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
+On certain pages of our site we offer programs of third parties, such as colleges, resume services and other employment organizations. We do not share your account or personal information with these third party services. The ads appearing on this Web site are delivered to users by our advertising partners. Third party advertisers use cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that these third parties collect and shares through this technology is not personally identifiable.
 
-**ACCESS**
+This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personal information.
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
+This privacy policy applies only to information collected by this Web site.
 
- View and edit personal information you have already given us.   
- Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail.   
- Sign up for electronic newsletters about our services and products.   
- Register. Once you register, you won't need to do it again. Wherever you go on www.online-home-jobs.com, your information stays with you. 
+**Email**
 
-**SECURITY**
+To connect you with account information, jobs, and career tools, we will communicate with you via email using the email address provided during registration. Current online-home-jobs.com members may unsubscribe from emails at any time by either clicking on the "unsubscribe" link in the footer of the email or at the bottom of any page on www.online-home-jobs.com. Removing your email from our list may take up to 5 business days. Please be aware this will prevent you from learning about new jobs, being considered from some jobs and meeting application deadlines. online-home-jobs.com sends new jobs to members of our mailing list BEFORE they are posted on our website so positions may be filled by the time you see them if you are not a member of the mailing list.
 
-Online Home Jobs Inc. has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+**Updating Your Personal Information**
 
-We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you're utilizing secure server software SSL, which encrypts your personal information before it's sent over the Internet. SSL is one of the safest encryption technologies available.
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete inaccuracies, or deactivate your account by making the change on our member information page, or by emailing us at support@online-home-jobs.com. We will respond to your access request within 30 days.
 
-In addition, your transactions are guaranteed under the Fair Credit Billing Act. This Act states that your bank cannot hold you liable for more than $50.00 in fraudulent credit card charges. If your bank does hold you liable for $50.00 or less, we'll cover your liability provided the unauthorized, fraudulent use of your credit card resulted through no fault of your own and from purchases made from us over our secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at virtualofficejob.team@gmail.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Online Home Jobs Inc. strictly protects the security of your personal information and honours your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+**Profiles**
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in India or any other country where Online Home Jobs, its subsidiaries, affiliates or agents are located.
+Profiles are only shared with employers when a job seeker has opted-in to allow the employer to view their resume. The profile information is collected when you post your resume to apply for a job listed directly on online-home-jobs.com. No one else on the site may view your profile at any time.
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
+**Cookies**
 
-**NOTICE TO PARENTS  
-**  
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so that you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-The Online Home Jobs Inc. site does not publish content that is targeted to children. However, if you are concerned about your children providing Online Home Jobs Inc. any personal information without your consent, Online Home Jons Inc. offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online. 
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
 
-**ENFORCEMENT  
-**  
-If for some reason you believe Online Home Jobs Inc. has not adhered to these principles, please notify us by email at privacy@online-home-jobs.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.
 
-**ELECTRONIC PRODUCT REGISTRATION**
+**Security**
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you've already left with us (we call that information your personal profile). If you haven't previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven't already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-**CUSTOMER PROFILES**
+When you enter sensitive information (such as credit card number) on our site, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
+**Privacy Commitment Changes**
 
-When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across www.online-home-jobs.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If, at any time, you have questions or concerns about online-home-jobs.com's privacy commitment, please feel free to email us at virtualofficejob.team@gmail.com 1333 Route 70 East Suite 131 Cherry Hill, NJ 08003
 
-**WHAT WE DO WITH THE INFORMATION YOU SHARE**
-
-When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the service(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don't use this information again without your permission.
-
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
-
-Online Home Jobs Inc. will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Online Home Jobs Inc. or the site; (b) protect and defend the rights or property of Online Home Jobs Inc. and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of Online Home Jobs, its Websites, or the public.
+Thank you for using online-home-jobs.com. We'll continue working to make this your favorite website to manage your career. 
