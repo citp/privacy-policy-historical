@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketmags.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043817id_/https%3A//pocketmags.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketmags.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831042144id_/https%3A//pocketmags.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Pocketmags.com
 
@@ -102,6 +102,8 @@ Online transactions including credit card transactions on www.pocketmags.com are
 All our payments processed via paypal are processed via Paypal References Transactions and can be cancelled at anytime without penalties 
 
 Pocketmags do not store any credit/debit card details on or offline. 
+
+Your chosen terms will automatically renew unless auto-renew is cancelled in your subscription area 24 hours before the end of the current subscription 
 
 You can cancel anytime, via email, your control panel or contacting paypal direct 
 
