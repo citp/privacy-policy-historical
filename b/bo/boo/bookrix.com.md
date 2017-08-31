@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171141id_/https%3A//www.bookrix.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrix.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831073311id_/https%3A//www.bookrix.com/static/privacy.html) for the most accurate reproduction.*
 
 # BookRix – Privacy Policy
 
