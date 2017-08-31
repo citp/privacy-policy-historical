@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fearlessdining.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224113857id_/https%3A//www.fearlessdining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessdining.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831174317id_/https%3A//www.fearlessdining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fearless Dining
 
