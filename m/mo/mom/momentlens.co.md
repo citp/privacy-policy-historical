@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momentlens.co privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729041716id_/https%3A//momentlens.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentlens.co privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831080710id_/https%3A//www.shopmoment.com/returns/privacy-policy) for the most accurate reproduction.*
 
-# Moment - Privacy Policy
+# Mobile Photography Lens and Accessories | Moment
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order or subscribe to our newsletter.
@@ -56,17 +56,18 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://momentlens.co/terms-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://momentlens.co/terms-conditions>
 
 **Your Consent**  
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on June 5th, 2014
+_This policy was last modified on June 5th, 2014_
 
-**Contacting Us**  
+**Contacting Us**
+
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Moment, Inc  
