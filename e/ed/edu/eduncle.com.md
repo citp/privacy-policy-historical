@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduncle.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324124914id_/https%3A//www.eduncle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduncle.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831022506id_/https%3A//www.eduncle.com/privacy-policy) for the most accurate reproduction.*
 
 # Eduncle.com | Privacy Policy
 
