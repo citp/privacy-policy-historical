@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkster.io privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426082721id_/https%3A//thinkster.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkster.io privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831164515id_/https%3A//thinkster.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thinkster
 
