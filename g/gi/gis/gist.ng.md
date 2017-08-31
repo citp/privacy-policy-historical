@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gist.ng privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202122030id_/http%3A//www.gist.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gist.ng privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831042850id_/https%3A//gist.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gist : Lastest News And Celebrity Gossip
+# Privacy Policy - Nigerian Breaking News,Gossip,Business,Politics,Entertainment,Sport News
 
 **Privacy Policy**
 
