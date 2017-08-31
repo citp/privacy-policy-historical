@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129115654id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831045658id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
 
 # Charitybuzz: Privacy
 
 Your privacy is extremely important to Charitybuzz. We have developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information on this website www.charitybuzz.com. Please take a moment to familiarize yourself with our privacy practices and if you have any questions please direct them to [privacy@charitybuzz.com](mailto:privacy@charitybuzz.com)
-
-Charitybuzz has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.charitybuzz.com](https://www.charitybuzz.com/) and does not cover information that may be collected through our mobile application.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 ## COLLECTION AND USE OF PERSONAL INFORMATION (PI)
 
