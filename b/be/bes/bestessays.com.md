@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810002029id_/http%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831212352id_/https%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -86,3 +86,14 @@ In the event we deem it necessary to alter our privacy policy to reflect our cha
 ## SOLE STATEMENT
 
 This Privacy Policy and our [Terms of Use](https://web.archive.org/disclaimer.php) , both as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
+
+## Do you have issues with essay writing?  
+Let our professionals assist you with research and writing
+
+### See how you can benefit at Bestessays.com
+
+  * Get **professional help with proofreading and formatting** of your paper – from only $5.49/pg
+  * **See samples** of the most popular academic papers
+  * Get research help on **any subject** if you lack time or necessary resources
+
+
