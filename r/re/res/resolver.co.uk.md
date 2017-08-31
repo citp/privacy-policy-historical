@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222439id_/https%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831185642id_/https%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Resolver
 
@@ -60,7 +60,7 @@ Here are some examples of the ways we use cookies:
 
 We use information held about you in the following ways:
 
-The information you give to us. We will use this information:
+**The information you give to us.** We will use this information:
 
   * to carry out our obligations arising from any contracts entered into between you and us and to provide you with information, products and services that you request from us
   * to provide you with information relating to products, services and switching product/service providers that we believe may be of interest to you;
@@ -87,6 +87,10 @@ The information you give to us. We will use this information:
 ### Disclosure of your information
 
 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We will disclose the information you provide (including personal information), to the company / organisation that you raise your complaint with. We may also pass this information to the associated regulator / ombudsman.
+
+The company / organisation that you raise your complaint with may need to verify your identity. This could include using information from a credit reference agency, which may involve credit reference agencies checking the details supplied against any particulars on any database (public or otherwise) to which they have access. These searches should not affect your credit rating or ability to obtain future credit and are generally automatically removed after 12 months. Resolver does not have any control over any identity verification process that a provider may choose to use.
 
 By submitting personal information on our site, you consent to us using aggregated anonymised data to monitor the effectiveness of specific companies complaints resolution processes. We may pass this information to these specific companies in order to allow them to evaluate their complaints handling performance, as well as to MoneySavingExpert.com Limited (“MoneySavingExpert.com”). MoneySavingExpert.com may use this information for the purposes of:
 
