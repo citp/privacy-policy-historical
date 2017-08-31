@@ -1,99 +1,143 @@
-> *The following text is extracted and transformed from the shop411.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515185527id_/http%3A//sp.shop411.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop411.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831223349id_/https%3A//www.shop411.com/privacy) for the most accurate reproduction.*
 
-# About Shop411.com Privacy
+# WWW.SHOP411.COM | RESEARCH.SHOP.SAVE
 
-| 
+### Shop411.com Privacy Policy
 
-Untitled Document
+(As of: April 3rd, 2014) 
 
-## Privacy Policy for Shop411.com
+Thank you for visiting Shop411.com, a production of IAC Search & Media, Inc. ("IAC Search & Media", "we", "us" or "our"). We respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected through our website (whether existing now or in the future, collectively, the “Services”). Below we describe what information we collect when you use the Services, how we protect that information, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy. 
 
-Shop411.com is owned and operated by IAC Search & Media, a wholly owned business of IAC, which operates several dozen brands such as Chemistry.com, Citysearch, CollegeHumor, Dictionary.com, Evite, GarageGames, Gifts.com, Match.com, Pronto, ServiceMagic, Shoebuy, and Vimeo. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+This Privacy Policy only applies to properties we own and operate. Our properties may provide links to third party websites and this Privacy Policy will not apply to any information you may provide while on such third party websites. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by means of a notice on our website.
 
-We respect the privacy of our users and the importance of the information they entrust to us. We provide this Privacy Policy so that our users (“ **you** ”) will know what information is being collected about you and your activities on Shop411.com, (the “ **Site** ”) how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to the web ( the “ **Site** ”) and the various services (“ **Services** ”) we provide on or through the Site. 
+#### 1\. Information we collect
 
-By using the Site and Services, you are agreeing to the collection and use of certain information about you in the manner described in this Privacy Policy. 
+We explain the two ways that we collect and process information about you. 
 
-We update this Privacy Policy from time to time. If we make any material changes in the ways we may collect, use, or share information, we will notify you by posting notice of the changes on the Site. We encourage you to periodically review our Privacy Policy to become and remain familiar with it. The Privacy Policy includes at the top of the first page the date of the most recent change. 
+###### A. Information You Provide to Us
 
-This Privacy Policy addresses the following issues: 
+**a. Sale alerts and Wish List:** You may choose to set up Sale Alerts and add items to your Wish List. We will not share your Wish List items with others, and we will only use your name and/or email address for the purpose of notifying you when the products you have selected go on sale. 
 
-What types of information do we collect?
+**b. Communications:** If you participate in a survey, poll, promotion, contest, or sweepstakes; submit a customer service or other inquiry to us; request to receive certain communications from us; or contact us about employment opportunities posted to the Services, we may collect contact information such as your name, address, email address, or telephone number. 
 
-How may we use the information we collect?
+###### B. Information We Collect about your computer or mobile device when you Use the Services
 
-How are cookies used on the Site?
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
-What information may we share with third parties?
-
-What happens when you leave the Site to go to other Internet sites?
-
-What is our policy regarding personally identifiable information from children under 13?
-
-Do we take security precautions to protect your information?
-
-Are there special considerations if you are visiting the Site from outside of the United States?
-
-Whom can you ask if you have privacy-related questions?
-
-### What types of information do we collect?
-
-Each time you visit the Site, we collect the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; and (e) the data in any undeleted "cookies" that your browser previously accepted from us (see "How are cookies used on the Site?" below). Additionally, when you enter a search query using the Site or Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have modified your browser settings so that address-bar search queries and erroneous domain name system (DNS) requests are submitted to us, we may also receive any search query or misspelled URL that you enter into your browser's address bar. 
-
-Beginning with search queries received on or before July 1, 2009, we disassociate your query text data from your IP address and your unique cookie ID (see "How are cookies used on the Sites?" below) after a period of 18 months, except in limited circumstances, such as requests to retain the information by law enforcement.
-
-The Site and Services usually do not require registration or submission of an account name or email address in order to use them. However, you would provide to us your email address if you submitted a help request to us via email. The amount of information that you choose to disclose to us is completely up to you.
-
-### How may we use the information we collect?
-
-We use the information that we collect to improve the overall quality of your experience with the Site and Services, and to facilitate evaluation, improvement, and development of the Services. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows at the Site (e.g., tracking where users come from, what pages they select within the Site, how they interact with search results, etc.). 
-
-Information about the search queries you submit to the Sites and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Site and on third-party sites (see also "What information do we share with third parties?" below). If you would like to terminate our access to your search history you may remove our cookies from your computer (see "How are cookies used on the Sites?" below and consult your browser's "help" menu to learn how to delete cookies).
-
-If you choose to submit your name, email address, or other information, we may use such information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our Terms of Service or this Privacy Policy. We do not associate your search queries or selected search results in any manner with your name, email address, or other information, unless required to do so by legal process.
-
-### How are cookies used on the Sites?
-
-Our use of cookies on the Sites. We use cookies and other technology such pixel tags to track traffic flow and patterns of travel within and among the Site. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our web server will record the cookie's unique ID for our use in internal reporting and for customized advertising (see "How do we use the information that we collect?" above). All of your search queries and interactions with search results on the Sites are associated with your unique cookie ID. When you use the Site we may use your cookie data to customize the Services and advertisements delivered to you (see "What information do we share with third parties?" below). 
-
-Our cookies expire after two years, and all information from expired cookies is automatically deleted from our servers. If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you choose to decline or remove cookies, please note that this may affect the quality of the Services.
-
-We do not use cookies to track your use of the Internet in any other way, or associate your name, email address, or personal information with your cookie data. We do not disclose cookie information to third parties, except as otherwise described in this Privacy Policy (see "What information do we share with third parties?" below). 
-
-  
+  1. IP address of your computer
+  2. Unique mobile device identifier
+  3. Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
+  4. Your preferences and settings (time zone, language, etc.)
+  5. If you are using a mobile device, your mobile device's geographic location (specific geographic location if you have enabled collection of that information, or general geographic location automatically). Please see the section **"About Location Information"** below for further information.
+  6. Internet provider (Verizon, Comcast, etc.) or mobile carrier name (AT&T, Sprint, T-Mobile, etc.)
+  7. The URL of the last webpage you visited before visiting Shop411.com
+  8. Information about your activity on the Services (e.g., your search queries, search results selected, clicks, pages viewed, how long you visited our Services, etc.)
 
 
-_Use of cookies on our Site by third parties_. We use third-party companies to serve advertisements when you visit the Site. These companies may use information about your visits to the Site in order to present advertisements about goods and services that may be of interest to you. In the course of serving advertisements on the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Sites. Our Privacy Policy does not cover any use of information that a third-party ad-serving company might collect from you. These companies have their own recordkeeping and data-retention policies. If you would like to consider your options for limiting use of such information by advertising companies, or would like to learn more about this practice, please click here: <http://www.networkadvertising.org/>. We also use third party vendors to help us better understand our user demographics. These vendors may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Site to provide their services to us. 
 
-### What information may we share with third parties?
+###### About Location Information
 
-We do not share your name name, or email address or any other personal information with third parties for the purpose of enabling them to send you information about their products or services (or for any other purpose, except to respond to legal process as described below). 
+When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. We have explained how you can disable the collection of Mobile Device Location Information below: 
 
-  
+###### _How to Disable the Collection of Mobile Device Location Information_
+
+  * If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
+  * If you are using an Apple device, click on "General," then "Reset," then "Reset Location and Privacy." This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
 
 
-_Third-party service providers_. Some elements or features of the Sites, such as the sponsored results advertising on our search-results pages, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements or features for display on the Site. We may share the following information with third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries you submit. For example, when you submit a query, we transmit it (and some of the related information described above) to our paid-listing providers in order to generate relevant advertising to display in response to your query and to optimize the number and quality of sponsored results that will be provided to you on the Site. We may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers. If you provide us with answers to voluntary survey questions, we may furnish this information to our advertisers and partners in the form of group statistics compiled from our users' answers to such questions.
 
-_Law enforcement/legal requirements_. We may disclose any information you voluntarily submit to us, as well as any other information we have about you (such as your IP address, the search queries you have submitted, and the search results you have selected) in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law-enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Service](https://web.archive.org/en/docs/about/terms_of_service.shtml).
+###### Cookies, Mobile Device IDs and Online Advertising:
 
-_Corporate restructuringi_. We also may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+Cookies: We use cookies, pixel tags, web beacons, mobile device IDs, "flash cookies" and similar files or technologies to collect and store the information we automatically collect about your computer, device, and Services usage. A cookie is a small text file that is stored on your computer that enables us to recognize you when you visit our website, store your preferences and settings, enhance your experience by delivering content specific to your interests, perform research and analytics, track your use of our Services, and assist with security and administrative functions. To understand more about cookies, [click here](http://www.allaboutcookies.org/)
 
-### What happens when you leave the Site to go to other Internet sites?
+Most browsers are set to automatically allow cookies. However, if you would like to remove cookies from your browser, you can delete or disable them by consulting your browser’s "help" menu. If you choose to decline or remove cookies, please note that this may affect the quality of the services. In addition, deleting or disabling cookies on one browser is unlikely to delete them on other browsers or other computers. Thus, you may have to delete or disable cookies in more than one location. 
 
-We do not control the information collection and dissemination policies of third-party companies. When you are on the Site, you may be directed to other site that are beyond our control. For example, if you click on a search result, the click may take you to a third-party website. These other site may independently collect data from or about you, solicit information from you, or place their own cookies on your computer. We are not responsible for any use of the information such third-party site may collect. 
+Major browsers provide users with various options when it comes to cookies. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones we use to collect search activity information about our users), or block specific cookies. To modify your cookie settings, please refer to the following support pages for each browser you use to access the Shop411.com website: 
 
-### What is our policy regarding personally identifiable information from children under 13?
+  * Internet Explorer help: <http://support.microsoft.com/kb/278835>
+  * Firefox help: <http://kb.mozillazine.org/Cookies#Firefox>
+  * Safari help: <http://support.apple.com/kb/PH5042>
+  * Chrome help: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-In accordance with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we do not knowingly collect personally identifiable information from anyone under the age of 13. Registration on the Site and for the Services is not available to anyone under the age of 13. 
 
-### Do we take security precautions to protect your information?
 
-We have security measures in place that are designed to safeguard and help prevent unauthorized access to information we collect online. We also seek to limit access to our users’ information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. These employees have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secure; accordingly, we cannot guarantee the security of the information that we collect online.
+A pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email), and is used to count or track things like activity on a webpage or ad impressions or clicks, as well as to access cookies stored on users’ computers. Our pixel tags are used to measure the popularity of our various pages, features and services. Advertising company pixel tags are used to measure the number of ad impressions and the performance of ads on our site, and to access the advertising company’s cookies placed on your computer. Data analytics company pixel tags are used to aggregate information about our advertising and your engagement with our site for market research, product improvement, revenue tracking and advertising optimization. 
 
-### Are there special considerations if you are visiting the Site from outside of the United States?
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. 
 
-If you are visiting the Site from outside of the United States, your information will be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data-protection and other laws in the United States and other countries might not be as comprehensive as those in your own country. Please be assured, however, that we seek to take reasonable steps to protect your privacy. By using our services, you consent to the transfer of your information to our facilities and those third parties with whom we may share it as described in this Privacy Policy.
+Online and Mobile Advertising: Advertisers and advertising networks place ads (including sponsored links in search results) on our website. These companies as well as data analytics companies who service them may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Services. 
 
-### Whom can you ask if you have privacy-related questions?
+These companies also may use web technologies such as cookies and pixel tags to collect data about you when you visit our site. Cookies from advertising companies enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Shop411.com and other websites. For further information about your right to opt-out of receiving targeted online advertising please visit the following websites: 
 
-Questions regarding this Privacy Policy should be directed [here](https://web.archive.org/en/docs/about/index.shtml). 
+  * <http://www.networkadvertising.org/managing/opt_out.asp>
+  * [http://www.aboutads.info](http://www.aboutads.info/)
+
+
+
+If you are using a mobile device, we use your unique mobile device ID number to recognize you when you access our site, to store your preferences and settings and to track your use of our Services. Advertising companies may also use and store your mobile device ID to track your use of the Services, track the number of ads displayed, measure ad performance and show ads that they consider relevant to you in various mobile services that you use. If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: [http://oo.apple.com.](http://oo.apple.com/) If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap "General" then tap "About"; Scroll to the bottom of About and tap "Advertising"; Flip "Limit Ad Tracking" to ON. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s Ads Preferences page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available. 
+
+#### 2\. How We Use the Information We Collect
+
+We use the information we collect from and about you for a variety of purposes, including to: 
+
+  * Respond to your queries.
+  * Understand our users (their demographics, what they do on our Services, what features they like, how they use them, etc.), improve our Services, such as by personalizing content to your interests, process and complete your transactions, and make special offers.
+  * Administer our Services and diagnose technical problems.
+  * Send you communications that you have requested or that may be of interest to you.
+  * Enable us to show you ads on our website that may be more relevant to your interests.
+
+
+
+#### 3\. How We Share the Information We Collect
+
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways: 
+
+  * We use outside vendors for a variety of purposes, such as to help us analyze use of our Services. Some of our products, services and databases are hosted by third party hosting services providers. We also may use vendors for other projects, such as conducting surveys or organizing sweepstakes for us, that involve collection of information from our users. We may share information about you with these vendors to enable them to perform their services.
+  * We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company IAC/InterActiveCorp.
+  * We may disclose data we collect about you when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+  * We may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of some or all of our assets).
+  * Advertisers and advertising networks place ads (including sponsored links in search results) on our site. These companies may collect information, such as your computer's IP address, browser information, mobile device ID, and search queries, as you use our website and Services. They also may use cookies and other technologies to collect this information when you visit our site.
+  * We may use and disclose non-personal information (e.g., de-identified or aggregate data) to third parties.
+
+
+
+#### 4\. Reviewing, changing or deleting information
+
+If you would like to review, change or delete personal information we have collected from you, please contact our Privacy Officer: 
+
+IAC Search & Media, Inc.  
+Attn: Shop411.com Privacy Officer  
+555 12th Street  
+5th Floor  
+Oakland, CA 94607  
+
+
+#### 5\. Security
+
+We have implemented commercially reasonable security measures that are designed to prevent unauthorized or unlawful access to and misuse of the information we collect, including technological and physical security measures as well as procedural safeguards. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you. 
+
+#### 6\. How Long We Keep Data About You
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time. 
+
+#### 7\. Children Under 13
+
+The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13 or market to or solicit information from anyone under the age of 13. If we become aware that a person submitting personal information is under 13, we will attempt to delete any related information as soon as possible. You hereby represent that you are at least 13. 
+
+#### 8\. Consent to Transfer of Information
+
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy. 
+
+#### 9\. Contact Us
+
+If you have any question about our privacy practices, you can contact us at [privacyhelp@ask.com](mailto:privacyhelp@ask.com) or writing to our Privacy Officer at: 
+
+IAC Search & Media, Inc.  
+Attn: Shop411.com Privacy Officer  
+555 12th Street  
+5th Floor  
+Oakland, CA 94607  
+
