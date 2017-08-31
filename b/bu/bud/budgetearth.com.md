@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetearth.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607013619id_/http%3A//www.budgetearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetearth.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831145026id_/http%3A//www.budgetearth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -75,4 +75,4 @@ Budget Earth allows our readers to make comments about posts.  All comments are
 
 #### About 
 
-Susan Bewley is a professional writer & blogger who has been writing content online & in print format for over 10 years. As well, she is an alumni of the University of Louisville with a Masters Degree in Special Education. When not freelance or ghost writing, she can be found writing on Budget Earth or on her own novel. Feel free to contact Susan for more information on how she can help your business.
+Susan Bewley is a professional writer who has been writing content online & in print format for over 10 years. As well, she is an alumni of the University of Louisville with a Masters Degree in Special Education. When not working as an online business consultant or ghost writing, she can be found writing on Budget Earth, on her own novel, or working with various entities in the pet industry.
