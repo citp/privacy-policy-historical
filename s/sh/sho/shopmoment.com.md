@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopmoment.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235647id_/https%3A//www.shopmoment.com/returns/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmoment.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831080710id_/https%3A//www.shopmoment.com/returns/privacy-policy) for the most accurate reproduction.*
 
-# Moment - Phone Camera Lens & Accessories
+# Mobile Photography Lens and Accessories | Moment
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order or subscribe to our newsletter.
