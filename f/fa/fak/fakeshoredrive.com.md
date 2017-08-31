@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fakeshoredrive.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529011409id_/http%3A//www.fakeshoredrive.com/online-privacy-policy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeshoredrive.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831211352id_/https%3A//www.fakeshoredrive.com/online-privacy-policy-agreement) for the most accurate reproduction.*
 
-# ONLINE PRIVACY POLICY AGREEMENT | Fake Shore Drive®
+# ONLINE PRIVACY POLICY AGREEMENT – Fake Shore Drive®
 
 FakeShoreDrive is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with FakeShoreDrive of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
