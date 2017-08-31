@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607090418id_/http%3A//vapornation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901012241id_/http%3A//www.vapornation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VaporNation
 
 At VaporNation.com, your privacy is a TOP priority. We want our users to be aware of any information we collect, how we use it and under what circumstances (if any) we disclose it.
 
-## INFORMATION WE COLLECT AND USE
+## **Information** We Collect And Use
 
-### ACCOUNT  INFORMATION
+### Account Information
 
 This informs us about who you are, how to contact you, and your shipping and billing information, including any account preferences you have created within your account.
 
-### EMAIL CORRESPONDENCE
+### Email Correspondence
 
 Used to raise and respond to issues and inquiries of all types. Also used to distribute information about our products, and services.
 
-### CUSTOMER FEEDBACK AND SUPPORT
+### Customer Feedback And Support
 
 Provides a mechanism for requesting information from our customers about how we can improve our products, services and site designs.
 
-### TRANSACTIONS
+### Transactions
 
 Shows which products you have requested, payments and credits, and any returns processed.
 
-## DIGITAL PRIVACY
+## **Digital** Privacy
 
 This privacy notice discloses the privacy practices for www.vapornation.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -33,15 +33,11 @@ This privacy notice discloses the privacy practices for www.vapornation.com. Thi
 
 
 
-## INFORMATION COLLECTION
+## **Information** Collection
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
-
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
-
-## CONTROL OF INFORMATION
+## **Control** Of Information
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
@@ -54,7 +50,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 Please note that when you buy something from within the United States, you may be responsible for customs duties, taxes and possibly brokerage and handling fees when shipping to a destination outside the United States. Unless specified otherwise, all vaporizers sold on VaporNation.com are 110v. Customers assume all responsibility for any defects which may occur from using converters or adapters.
 
-## INFORMATION PROTECTION
+## **Information** Protection
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
@@ -64,10 +60,16 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (888) 321-VAPOR or via email.
 
-### NOTIFICATION OF CHANGES
+### Notification Of Changes
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement. Any choices you have made about how your information may be used will continue to be respected in the event of such a change. We may change, modify, add or remove portions of this policy at any time and any changes will become effective immediately upon being posted.
 
-### REPORTING PROBLEMS
+### Reporting Problems
 
 We want to hear from you. Please contact us to report a problem you have experienced on our site. You can submit your complaint via email or postal mail. We will investigate your complaint and respond promptly.
+
+## **Contact**
+
+If you have any questions or suggestions regarding our privacy policy, the practices of this site or your dealings with this site, please [contact us via email](http://www.vapornation.com/contact-us).
+
+Please Note: This site may contain links to other sites on the internet that are owned and operated by third parties.
