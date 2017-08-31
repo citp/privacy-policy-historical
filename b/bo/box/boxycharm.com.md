@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417095222id_/http%3A//www.boxycharm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831024359id_/https%3A//boxycharm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BOXYCHARM: The Best Beauty Subscription Boxes
 
@@ -182,8 +182,8 @@ This Policy may change from time to time, and your continued use of the Website 
 If you have questions regarding this Policy, please contact Us at:
 
 Boxy Charm, Inc.,  
-5364 NW 167 Street  
-Miami Gardens, FL 33014  
+2000 NW 87th Ave Suite 201  
+Doral, FL 33172  
 305-705-3752  
 info@boxycharm.com
 
