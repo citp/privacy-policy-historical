@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319200742id_/http%3A//www.ultraedit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831033755id_/https%3A//www.ultraedit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IDM Computer Solutions, Inc. Privacy Policy
 
