@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2017-02-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170211012405id_/https%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2017-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170831224338id_/https%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="linux chrome chrome69 webkit webkit5"><head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +27,7 @@
 <title>
     City of Chicago :: Privacy Policy
 </title>
- 
+
         <!-- Day Initialization -->
         
 
@@ -211,7 +211,7 @@
                 
  
 
-
+ 
  
 
  
@@ -259,6 +259,10 @@ a.lan:hover, a.lan:active {
     margin:0px 10px 0px 10px;
     font-weight:lighter;
 } 
+
+    ul.ui-autocomplete { z-index:10000000; }
+    .ui-helper-hidden-accessible { display:none; } 
+    .ui-menu-item a { cursor:pointer;}
 </style>
 
 
@@ -294,25 +298,27 @@ a.lan:hover, a.lan:active {
         </a>
     </div>
 
-    <div class="search">
+    <div class="search"> 
         <form action="/city/en/general/search_results.html" method="GET" name="g">
             <p class="search-fields"><input type="text" id="site-search" value="Keyword" style="color: #809DB9;" name="keyword" class="global-search auto-search global-search-text">
             &nbsp;
             <input type="submit" value="Search" name="Go" id="Go" class="mainSearchSubmitBtn" style="font-size: 12px; height: 20px;">
             </p>
-            
+
         </form>
     </div>
-    
+
     <script type="text/javascript">
 
     $(document).ready(function() {
 
-        
-        $( ".auto-search" ).autocomplete({
-            source: "/content/city/en.SuggestProxy.html", 
+
+        $( ".auto-search" ).autocomplete({ 
+            source: "/content/city/en.SuggestProxy.html",
+            //  appendTo: ".site-search", 
             select: function( event, ui ) {
-                $(this).attr("value",ui.item.value);
+                // $(this).attr("value",ui.item.value);
+                 $(this).val(ui.item.value);
                 var inputId = $(this).attr("id");
                 if(inputId != "findServicesBigSearchInput" && inputId != "city-service-search-cmp") {
                     $('#site-search').val($('#site-search').val().trim());
@@ -323,14 +329,14 @@ a.lan:hover, a.lan:active {
                 }
             }
         });
-        
+
         if($('#site-search').val() == "Keyword") {
             $('#site-search').css('color','#809DB9');
         }
     });
-    
+
     </script>
-    
+
     <script type="text/javascript" language="JavaScript">
     $('#site-search').focus(function(){
         if($(this).val() == 'Keyword') {
@@ -351,7 +357,7 @@ a.lan:hover, a.lan:active {
             return false;
         }
         $('#site-search').val($('#site-search').val().trim());  
-        
+
     });
     </script>
 </div>
@@ -596,7 +602,7 @@ a.lan:hover, a.lan:active {
 
 
     </div><!-- End Mega Menu Container -->
-                
+
 <!-- Banner -->
 
 
@@ -749,8 +755,34 @@ a.lan:hover, a.lan:active {
             </div>
             <!-- /container -->
         </div>
-        
-        
+
+
+ 
+	<script>
+
+        $(document).ready(function() {
+			var qs = window.location.search;
+             var isRedirect = window.location.href.indexOf("redirect.html")>=0;
+
+            if(!isRedirect) {
+				return;
+            }
+
+            if(qs.indexOf("redirectTo")>=0) {
+				url = qs.split("=")[1];
+                setTimeout( function() {
+					window.location = url;
+                },5000);
+            }else {
+                window.location = "/city/en.html";
+            }
+
+
+        });
+    </script>
+
+ 
+
         
         
             <!-- Google Analytics Snippet - start -->           
