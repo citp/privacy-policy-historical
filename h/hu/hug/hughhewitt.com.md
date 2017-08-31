@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hughhewitt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164543id_/http%3A//www.hughhewitt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughhewitt.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831163051id_/http%3A//www.hughhewitt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Hugh Hewitt Show
 
@@ -125,17 +125,15 @@ Parents can give written parental consent for their child to use Salem Websites,
 
 #### 
 
-Listen Commerical FREE  |  On-Demand
+Listen Commercial FREE  |  On-Demand
 
 [Login](https://www.hughniverse.com/member/login.php?utm_source=hewitt-website&utm_campaign=login-link&utm_medium=sidebar-box) [Join](https://www.hughniverse.com/member/signup/?utm_source=hewitt-website&utm_campaign=join-link&utm_medium=sidebar-box)
 
-[ ](http://send.salemnational.com/trump-bday/hewitt/)
-
-[ ](https://ad.doubleclick.net/ddm/clk/322939647;152429730;n)
+[ ](http://amac.us/join-amac/?campaign=HewittBanner011217)
 
 Advertisement
 
-[ ](http://www.8888881172.com/)
+[ ](https://spmcusa.com/)
 
 Advertisement
 
