@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nationalparkstraveler.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130050138id_/http%3A//www.nationalparkstraveler.com/item/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalparkstraveler.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831225606id_/http%3A//www.nationalparkstraveler.com/item/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Parks Traveler
 
-NATIONAL PARK ADVOCATES LLC AND NATIONAL PARKS TRAVELER WEBSITE
+NATIONAL PARKS TRAVELER AND NATIONAL PARKS TRAVELER WEBSITE
 
-Last updated – November 14, 2016
+Last updated – Ma 14, 2017
 
-This Privacy Policy applies to information collected at [www.nationalparkstraveler.com](http://www.nationalparkstraveler.com/), and online services owned or operated by National Park Advocates, LLC (Site).
+This Privacy Policy applies to information collected at [www.nationalparkstraveler.org](http://www.nationalparkstraveler.org/), and online services owned or operated by National Parks Traveler (Site).
 
 By accessing and continuing to use the Site you acknowledge that you have read and that you agree to the practices described in this Privacy Policy and the Site may use the information provided in accordance with this Privacy Policy.
 
@@ -14,7 +14,7 @@ By accessing and continuing to use the Site you acknowledge that you have read a
 
 a.  **Personally-Identifiable Information (“Personal Information”)**
 
-National Park Advocates, LLC and the Site and their service providers only collect Personal Information that you voluntarily submit, for example by signing up for the National Parks Traveler newsletter or registering as a User to post comments in the User Interactive Areas, or if you email or mail us directly. Depending on the service you choose or the form of the submission, the Personal Information collected may include your name, email address, address, phone number, website name, and website URL, organizational affiliation and/or similar information.
+National Parks Traveler and the Site and their service providers only collect Personal Information that you voluntarily submit, for example by signing up for the National Parks Traveler newsletter or registering as a User to post comments in the User Interactive Areas, or if you email or mail us directly. Depending on the service you choose or the form of the submission, the Personal Information collected may include your name, email address, address, phone number, website name, and website URL, organizational affiliation and/or similar information.
 
 b.  **Information That May be Collected Automatically**
 
@@ -68,7 +68,7 @@ We do not share your Personal Information with any third parties without your co
 
 b.  **Information Contained in User Content**
 
-Some parts of our Site may allow users to post or transmit messages, comments, screen names, computer files and other materials. If you choose to make personal information public through these options, such information will be considered public and National Park Advocates LLC will not limit its use or disclosure in the manner described in this Privacy Policy.
+Some parts of our Site may allow users to post or transmit messages, comments, screen names, computer files and other materials. If you choose to make personal information public through these options, such information will be considered public and National Parks Traveler will not limit its use or disclosure in the manner described in this Privacy Policy.
 
 3.  **Linked Websites**
 
@@ -82,7 +82,7 @@ Your choice will impact your communications preferences, for example we will not
 
 You may opt out of having your personal information used or disclosed for certain purposes. If you wish to update your Personal Information with us or change your communications preferences or if you no longer wish to receive communications from us, please tell us so by email, phone or written letter. Please include your name, your username, and contact details so that we can correctly remove you from our mailing list. Our mailing address is:
 
-nationalparkstraveler.com
+nationalparkstraveler.org
 
 P.O. Box 980452
 
@@ -90,7 +90,7 @@ Park City, Utah 84098
 
 United States
 
-[help@nationalparkstraveler.com](mailto:help@nationalparkstraveler.com)
+[help@nationalparkstraveler.org](mailto:help@nationalparkstraveler.org)
 
 We will try to comply with your request(s) as soon as reasonably practicable. Please note that we are not required to respond to a customer's request more than once in a calendar year, nor are we required to respond to any request that is not sent through one of the methods designated above.
 
@@ -106,7 +106,7 @@ We take a number of commercially reasonable administrative, technical, personnel
 
 We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-If you have reason to believe that your use of the Site or engagement with us is no longer secure, please immediately notify us at:[help@nationalparkstraveler.com](mailto:help@nationalparkstraveler.com)
+If you have reason to believe that your use of the Site or engagement with us is no longer secure, please immediately notify us at: [help@nationalparkstraveler.org](mailto:help@nationalparkstraveler.com)
 
 7.  **Children’s Privacy**
 
@@ -134,4 +134,4 @@ We may amend this Privacy Policy at any time by posting the most recent version 
 
 If you questions about our privacy policy or practices of the Site, please contact us at:
 
-[help@nationalparkstraveler.com](mailto:help@nationalparkstraveler.com)
+[help@nationalparkstraveler.org](mailto:help@nationalparkstraveler.org)
