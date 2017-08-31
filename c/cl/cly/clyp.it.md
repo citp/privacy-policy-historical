@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clyp.it privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603193033id_/https%3A//clyp.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clyp.it privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831125626id_/https%3A//clyp.it/privacy) for the most accurate reproduction.*
 
 # Privacy - Clyp
 
