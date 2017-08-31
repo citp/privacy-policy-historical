@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608174553id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831194617id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -75,7 +75,5 @@ If you have any questions about this privacy policy or Windmills Marketing’s t
   * by post to 14271 Jeffrey Rd., Suite 177, Irvine, CA 92620 USA
 
 
-
-Did you find apk for android? You can find new [Free Android Games](https://dlandroid24.com/) and apps.
 
 PUBLISHED ON July 16, 2010, LAST REVISED ON April 19, 2015
