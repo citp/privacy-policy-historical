@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614135354id_/https%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831222953id_/https%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HotCopper Forum
 
