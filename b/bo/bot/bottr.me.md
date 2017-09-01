@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottr.me privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514123627id_/https%3A//bottr.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottr.me privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901143006id_/http%3A//bottr.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,4 +75,4 @@ We may amend this Privacy Policy from time to time. If we make changes in the wa
 
 **9\. How can you contact us?**
 
-If you have any questions about our Privacy Policy please feel free to contact us at [hello@bottr.me](https://web.archive.org/web/20170514123627id_/https%3A//bottr.me/hello@bottr.me). 
+If you have any questions about our Privacy Policy please feel free to contact us at [hello@bottr.me](mailto:hello@bottr.me). 
