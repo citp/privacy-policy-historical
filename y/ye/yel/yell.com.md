@@ -1,482 +1,268 @@
-> *The following text is extracted and transformed from the yell.com privacy policy that was archived on 2004-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/privacy/home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yell.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901222939id_/https%3A//www.yell.com/legal/privacy-policy-users) for the most accurate reproduction.*
 
-# Yell.com >> Conditions of use >> Privacy
+# Privacy Policy for Users | Yell.com
 
-### Collected information
+This website is owned and run by Yell Limited. In this privacy policy, we will refer to Yell Limited using the terms ‘Yell’, ‘us’, ‘we’ and ‘our’. If we use the term ‘Yell group’, this means us and our subsidiaries, and our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006. The term ‘our websites’ refers to Yell.com (www.yell.com and www.yell.co.uk), Yell.com mobile (mobile.yell.com and www.yellmobile.com) and any other websites we may own or run from time to time. The term ‘our online services’ includes our websites and the Yell.com mobile services (the part of Yell.com you can use from a mobile phone). If you use our online services, or any of our other services to find businesses, we will call you a ‘user’ in this policy.
 
-  * What information do I give you as a user of Yell.com?
-  * What information do I give you as a customer/advertiser of Yell.com?
-  * Why do you need my e-mail address?
+We are committed to protecting and respecting your privacy. This privacy policy is about the way we use the personal information of users. If you use any of our services to find businesses, this privacy policy applies to you. The policy explains:
 
-
-
-### Stored information
-
-  * Do you store information on my browsing activity, and can I be identified from it?
-  * As an advertiser, do you store information on me?
-
-
-
-### How we use cookies
-
-  * What is a cookie?
-  * How do you use cookies and what information do you collect about me?
-  * What is a web beacon?
-  * How to manage cookies on our website
-
-
-
-### Disclosing information and consent
-
-  * Will Yell.com disclose the information you collect to other parties?
-  * Do you sell my details to other companies?
-  * If I have given my consent, can I change my mind?
-
-
-
-### Security
-
-  * Is my information secure?
-  * Can anybody else who's using Yell.com access my personal details?
-  * Is my information available to any companies who partner with Yell.com to provide products or services?
-
-
-
-### User Access
-
-  * Can I access my personal information at any time?
-  * Can I correct or change any details I've given you?
+  1. The information we collect about you and how we do it, including:
+    1. how we collect information about you
+    2. what information we collect
+    3. why we need your email address
+    4. using cookies or other on-device storage
+    5. recording your calls
+  2. how we will use information we collect about you, including:
+    1. when you use our websites
+    2. when you use our Keyword Search Tool
+    3. your browsing activity on Yell.com
+    4. customisation of our online services and advert targeting
+    5. tracking how our online services are used
+    6. when you order products or services through us
+    7. testimonials
+    8. comments submitted to our online blogs and articles
+    9. Yell.com mobile services
+    10. Display
+    11. direct marketing
+    12. user surveys
+  3. when we will contact you;
+  4. direct marketing and how you can change your marketing preferences;
+  5. who we may share your personal information with;
+  6. where we process your personal information;
+  7. how to keep your information up to date;
+  8. how we keep your information secure;
+  9. why we link to other websites;
+  10. using cookies on our websites and how you can reject them;
+  11. on-device storage for our Yell.com mobile services;
+  12. what rights you have in your personal information and how you can use them;
+  13. how we can make changes to this privacy policy;
+  14. what privacy organisations we belong to; and
+  15. how to contact us about this privacy policy.
 
 
 
-### Third party links
-
-  
+If you advertise with us we will also collect information about you. If you want to know how we use the personal information of advertisers, please read our [privacy policy for advertisers](https://business.yell.com/legal/privacy-policy-advertisers/ "privacy policy for advertisers").  
 
 
-### Privacy organisations
+## 1\. The information we collect about you and how we do it
 
-  * Does Yell.com belong to any privacy organisations?
-  * I'd like some more information about privacy organisations.
+To provide you with our products and services, we may need information about you.
 
+If you use our websites, you are in control of what information we collect about you, but if you choose not to share your information, you may not be able to access or use some areas of our websites.
 
+**a. How we collect information about you**
 
-### Contacting Yell about this privacy policy
+We will collect information about you when you:
 
-### Collected information
-
-  
-
-
-#### What information do I give you as a user of Yell.com?
-
-Registration  
-If you register with us, we ask you for a small amount of information. We do this so that when you return to Yell.com, we can instantly recognise you and give you access to your address book. Details we collect may include: 
-
-  * forename and surname;
-  * e-mail address.
-
-During your session as a registered user we use a [cookie](https://web.archive.org/web/20040623082102id_/http%3A//yell.com/legal/cookies/home.html) to store an encoded version of your Yell.com user ID so that you can access your address book. If you have cookies disabled on your browser you will not be able to use log in as a registered user.
-
-Competitions  
-All our competitions and promotions are governed by specific terms and conditions. We recommend that you read these before entering.
-
-#### What information do I give you as a customer/advertiser of Yell.com?
-
-Registration  
-Registering your company details enables us to give you private access to details we might be holding for you, like account information. We only collect the minimum information required to identify you and to ensure that we provide you with appropriate information. Details we collect may include: 
-
-  * forename and surname;
-  * company name;
-  * company address;
-  * telephone number;
-  * e-mail address.
-
-Orders  
-When you order an advertisement or domain name on Yell.com we need to know a little bit about you. This enables us to process and fulfil your order, or contact you in case of a query. Details we may collect include: 
-
-  * forename and surname;
-  * company name;
-  * position;
-  * company address;
-  * telephone number;
-  * e-mail address.
+  * use our online services;
+  * order directories or any of our other products and services;
+  * create an account on Yell.com (this enables you to write customer reviews);
+  * use the ‘send-to-a-friend’ feature on Yell.com (this is where you can email information about a business or service on Yell.com to a friend);
+  * ask for or use Yell.com mobile services;
+  * request business details through Yellow Pages 118 24 7 (our telephone and text back directory enquiries services);
+  * click on one of the adverts that we put on other websites;
+  * ask for information from us;
+  * give us a testimonial or other feedback;
+  * submit comments relating to blogs or articles featured on Yell.com;
+  * enter competitions or special promotions; or
+  * fill in surveys.
 
 
 
-#### Why do you need my e-mail address?
+We may also get information about you from third parties, with whom we have a business relationship.
 
-We need your e-mail address to give you security. As a registered user, you have to enter a password to access your Yell.com address book-no one else can access it-and if you forget your password, we can e-mail it to you. We also use your e-mail address to confirm your order details to you.
+**b. What information we collect**
 
-If you do not have an e-mail address or you do not wish to disclose it, we offer an alternative password retrieval process during registration.
+The information we collect and hold about you may include your:
 
-We might also use the information you've given us to bring you important news such as functionality changes to the Yell.com site or new services and special offers you might find valuable. This is only sent to users who have chosen to opt in when registering, and each time we e-mail you, you can choose not to be sent any further messages from us. We'll also guarantee not to "spam" you with annoying, irrelevant e-mails.
-
-### Stored information
-
-#### Do you store information on my browsing activity, and can I be identified from it?
-
-During your search session on Yell.com we will store the location you have requested. This is to enable you to search other types of business without having to re-enter the location every time. This information is only retained while you are searching and will not be kept once you have left Yell.com. We also collect anonymous information on your activity while logged into Yell.com such as: 
-
+  * name (first and last name);
+  * phone and/or mobile phone numbers;
+  * email address;
   * IP address;
-  * browser type;
-  * access times;
-  * referring URL.
+  * search criteria, including businesses and locations searched;
+  * cell IDs (these are the unique identifiers of the telecommunications towers being used by your mobile phone when you use our Yell.com mobile location based services) and other user location information (for example, GPS measurements);
+  * date of birth;
+  * password details, answers to security questions (for example your mother’s maiden name) or both; and
+  * any other information you may give us when you write to us or contact us in other ways.
 
-There's no way you can be identified as a result of your browsing activity on Yell.com.
 
-We only examine browsing activity to monitor aggregated site traffic and analyse it. This gives us information to help us improve the relevance of the services we offer you.
 
-We may also provide anonymous statistics about users to reputable third party vendors, but these will not include details that would allow the recipient to identify you.
+**c. Why we need your email address**
 
-#### As an advertiser, do you store information on me?
+When you register on our websites, we collect your email address. We may use it for account administration (for example to email you your password, if you forget it) and for added security. We may use your email address to send you a confirmation of any order you make, if you buy products or services from or through us, to confirm any profile changes you make and to respond to you if you contact us for information about our services. We might also use your email address to bring you news such as changes to the way you can use our online services or new services and special offers we think you might be interested in. For more information on direct marketing and how to change your preferences, please read section 4 – Direct marketing and how you can change your marketing preferences.
 
-Yes, but we only store information that we need to operate effectively, and it is stored securely in our main database.
+**d. Using cookies or other on-device storage**
 
-### How we use cookies
+Cookies are information files stored on your computer that help websites remember you. We and our business partners collect information about your use of our websites through cookies. For more information on how we use cookies and how to opt out of using them, please read our [Cookie Policy](https://www.yell.com/legal/cookie-policy/).
 
-#### What is a cookie?
+Your mobile phone can also store information files that help us remember you when you use our Yell.com mobile services. We call these files “on-device” storage. We and our business partners collect information about your use of our Yell.com mobile services through on-device storage. For more information on how we use on-device storage, please read section 11 – on-device storage for our Yell.com mobile services.
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.
+**e. Recording your calls**
 
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Two types of cookies are used on this website-session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
+We may record or monitor calls that you receive from us, or make to us. We do this for security and training purposes and to improve the service we provide to you.
 
-Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
+## 2 How we will use information we collect about you
 
-[Find out more about cookies](https://web.archive.org/web/20040623082102id_/http%3A//yell.com/legal/cookies/home.html).
+Whenever you give us your personal information, legally we have to use it in accordance with the terms of various privacy laws, including the Data Protection Act 1998 (we refer to these laws in this privacy policy as the ‘privacy laws’).
 
-#### How do you use cookies and what information do you collect about me?
+**a. When you use our websites**
 
-Session cookies  
-We use temporary/session cookies in the following ways: 
+When you give us information while using our websites, we will use it for the purposes set out in this privacy policy, on the data entry forms, in any relevant terms or conditions and on pages or emails which link to the data entry forms.
 
-  * within Yell.com Search to store your locations during a search session;
-  * within registration to enable access to your address book.
+**b. When you use our Keyword Search Tool**
 
-Persistent cookies  
-Persistent cookies are used on Yell.com in the following ways: 
+Our Keyword Search Tool allows you to search for keywords being used to find businesses on Yell.com and the number of searches being made against different keywords. When you use our Keyword Search Tool, we will store your email address and will use this information to identify any activities that are prohibited under our [online services conditions of use](https://www.yell.com/legal/). We collect this information from everyone that uses the Keyword Search Tool.
 
-  * to track aggregated usage and the number of unique, anonymous users;
-  * to manage advertisement serving and to ensure the same advert is not shown too frequently;
-  * within research surveys, to ensure you are not invited to complete a questionnaire too often or after you have already done so.
+**c. Your browsing activity on Yell.com**
 
-We do not link cookies to information you have provided during registration.
+If you use Yell.com, your computer will store up to 5 of your last searches using cookies. We will also save the location you searched for (such as the postcode or geographic area). This lets you do the same search next time you use Yell.com or search for other types of business without having to re-enter the location every time. This information is stored only on your computer. We also collect information on your activity while you use Yell.com, such as:
 
-If you don't want a cookie to be created on your PC, web browsers like Netscape Navigator and Microsoft Internet Explorer provide the option to disable them. However, you might not be able to take advantage of the full functionality of our website if you do.
+  * your IP address (this is a unique 12 digit number used by programs on the internet to recognise and communicate with your computer);
+  * the type of browser you use (a browser is the program you use to look at websites, such as Internet Explorer, Firefox or Safari);
+  * the times when you access the site and for how long; and
+  * your referring URL (the site you come from to reach our website).
 
-[Find out more about how to disable cookies](https://web.archive.org/web/20040623082102id_/http%3A//yell.com/legal/cookies/home.html#10).
 
-Sites linked to Yell.com may also use cookies. Please check the individual privacy policies of such sites to find out more.
 
-#### What is a web beacon?
+This information does not allow us to identify you. We collect it from lots of visitors to our websites and analyse it. This lets us build up a picture of how people use our websites. This helps us improve the services we offer.
 
-A web beacon—sometimes referred to as a clear GIF (Graphics Interchange Format) or pixel tag—is a line of code that we have installed on some of our pages to help us learn more about how our visitors interact with the content and services that we offer, and to count the traffic to different areas of the website. A web beacon is a 1x1 pixel tag that is invisible to you and doesn't affect the content you see.
+We may also give anonymous statistics about users to other, reputable organisations, but the information we provide will not include details that would allow these organisations to identify you.
 
-This helps us provide a better service to you by allowing us to understand which areas of the site are more popular with visitors than others. Web beacons are not used to collect any personal information about you. But allow us to gather aggregated information about the use of our site. Yell.com pages may also contain web beacons inserted by our advertising agency so that we can measure the effectiveness of our advertising on other websites. Web beacon files enable our agency to recognise a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. The web beacon only records a limited amount of information that includes the cookie number, the page id and the time and date the page was accessed, it does not contain your name, address, telephone number or e-mail address.
+For more information on our use of cookies please read our [Cookie Policy](https://www.yell.com/legal/cookie-policy/).
 
-[Find out more about web beacons](https://web.archive.org/web/20040623082102id_/http%3A//yell.com/legal/cookies/home.html#11).
+**d. Customisation of our online services and advert targeting**
 
-#### How to manage the use of cookies on our website
+We may use the information you give us about yourself when you register on or for our online services, or the information we collect via cookies when you use our online services to build up a picture of your interests. We may then use this information to try to make sure that when you visit our websites or use our online services, you don’t miss offers and information that might interest you. This is called advert targeting or interest based advertising. For more information on how to reject targeted advertising or interest based advertising cookies, please read our [Cookie Policy](https://www.yell.com/legal/cookie-policy/).
 
-You can manage the cookies in the cookie folder of your browser. You can either delete cookies from your cookie folder once you have left our site, or you can set your preferences before you enter our website.
+**e. Tracking how our online services are used**
 
-Deleting or rejecting cookies may impair your experience of our website. You may not be able to access some pages or complete some transactions securely.
+We may collect information about activity on our online services, or we may use other organisations to collect it and to share the results with us. We use this information to:
 
-[Find out more about deleting and rejecting cookies](https://web.archive.org/web/20040623082102id_/http%3A//yell.com/legal/cookies/home.html#10).
+  * analyse statistics;
+  * track pages and paths used by visitors to, or users of, our online service;
+  * target the adverts or offers, such as banners, on our online services and on the websites and other online services of other organisations; and
+  * track the use of our internet banner adverts and other links from our marketing partners’ websites to our websites.
 
-### Disclosing information and consent
 
-#### Will Yell.com disclose information about me to other parties?
 
-Not unless it's necessary for the operation of the site. We may also disclose personal information if it is legally required, or to enforce our conditions of use and other agreements, or to protect and defend the rights, property or safety of Yell.com users or others.
+For these purposes, we and the other organisations we use keep information on the path you take to get to our online services and on some of the pages you visit or use through our online services, using cookies, web beacons and other on-device storage. You cannot be personally identified from the information that we or these other organisations collect. For information about web beacons, or the organisation we use (including how to decline their cookies), please read our [Cookie Policy](https://www.yell.com/legal/cookie-policy/). For more information on how we use on device storage, please read section 11 – on-device storage for our Yell.com mobile services.
 
-#### Do you sell my details to other companies?
+**f. When you order products or services through us**
 
-No, Yell.com does not sell user information to other companies. We may occasionally use the information we collect to send you details of offers or services that we think you might be interested in, but only if you've opted in during the registration process. These offers can be provided by a third party, but will always come from Yell.com. Each time we e-mail you, you can choose not to receive any further messages.
+If you book a table at a restaurant through Yell.com, your booking is made with Livebookings.net, a separate company from Yell. Livebookings.net’s terms and conditions will apply to your booking and Livebookings.net’s privacy policy will apply to the collection and use of your personal information.
 
-#### If I have given my consent, can I change my mind?
+If you book a hotel through Yell.com, your booking is made with Expedia, a separate company from Yell. Expedia’s terms and conditions will apply to your booking and Expedia’s privacy policy will apply to the collection and use of your personal information.
 
-Yes, you can change your mind at any time by accessing your profile on Yell.com and changing your preferences.
+**g. Testimonials**
 
-### Security
+If you give us feedback, we may use it to improve our products and services and we may publish it online or offline to promote our business, products and services. We will ask for your permission before we publish it.
 
-#### Is my information secure?
+**h. Comments submitted to our online blogs and articles**
 
-Yes. We take the security of your personal data extremely seriously. We have implemented technology and security policies designed to protect the personal data under our control. We also follow strict security procedures as required by the UK Data Protection Act 1998. These cover the storage and disclosure of any information you've provided, and the prevention of unauthorised access.
+If you wish to submit a comment or feedback on a blog or article featured on Yell.com, we may (but are not obliged to) publish your comment online or offline to promote our business, products and services. We will collect your name which will be displayed next to your comment, and e-mail address, which will not be published, but which we may use to contact you in relation to your comment.
 
-Any credit card details you pass on to us are encrypted using a Secure Socket Layer (SSL). SSL is an industry standard for data encryption and is one of the best ways to ensure internet messages are not intercepted. Older browsers can't use SSL, so you'll need Netscape Navigator 3, Microsoft Internet Explorer 3 or later versions of these browsers.
+**i. Yell.com mobile services**
 
-#### Can anybody else who's using Yell.com access my personal details?
+When you request Yell.com mobile, we may keep your mobile phone number, the make and model of your phone and details of your network operator and we will link a unique identifier to your mobile phone number. We need this information in order to make Yell.com mobile work on your mobile phone and to administer the service. We may also use it for market research. When you use Yell.com mobile services, we will keep details of your search terms, map locations requested, route start and end points and the time and date of any calls you make to businesses that you’ve found using the service. We use this information to analyse how people use our Yell.com mobile services and to improve our products and services. If you use our Yell.com mobile location-based services, we will collect you Cell IDs or GPS measurements and use them to provide the services you have requested and other information we think may interest you. If you give us your name, we will keep it and use it to personalise our service to you.
 
-No. All personal information given to Yell.com is secured and stored away from public access. Credit card information is encrypted before any transaction takes place.
+**j. Display**
 
-#### Is my information available to any companies who partner with Yell.com to provide products or services?
+We use the websites of other companies to host advertising for our advertising customers. If you click on one of these advertisements, you will go through to our customer’s website and we will collect your IP address and use it to analyse how well the advertising works.
 
-Yes, Yell.com may use partners to ensure the effective operation of our site. These companies have access to your personal information under our strict supervision and within the requirements of the Data Protection Act.
+**k. Direct marketing**
 
-### User access
+For information on how we may market to you, please read section 4 – Direct marketing and how you can change your marketing preferences.
 
-#### Can I access my personal information at any time?
+**l. User surveys**
 
-Yes. If you want to look at or update your information, you can access all the details you provided us with when you registered. You can change or delete anything at any time.
+Every now and again, we may ask you for your opinion on our products and services. When we do surveys we may use cookies or other on-device storage and may combine the information collected by those cookies or other on-device storage with your answers. We will make sure that the survey results do not identify you, or anyone else who fills in our surveys.
 
-Under the Data Protection Act 1998, you're also entitled to view any information we hold on you by paying a fee. Details on how to do this are available from us or from the Office of the Information Commissioner. If any information held is inaccurate, we'll make the necessary changes and contact you with confirmation.
+## 3 When we will contact you
 
-#### Can I correct or change any details I've given to you?
+We may contact you:
 
-Yes. You can make changes to any of the information you gave us when you registered. Just access your profile and change your details as required.
+  * about information you have asked for, in order to answer your request;
+  * if you have given us feedback, to discuss that feedback or ask your permission to publish it;
+  * if you have chosen to receive further information from us;
+  * to invite you to take part in surveys about our products and services (it is always up to you whether you want to take part); and
+  * for marketing purposes, unless you tell us to stop (for more information, please read section 4 – Direct marketing and how you can change your marketing preferences.
 
-### Third party links
 
-  
-Yell.com contains links to other sites. We cannot assume responsibility for any other site's content or information handling practices. We encourage you to review each site's privacy policy before entering into transactions with them.
 
-### Privacy organisations
+## 4 Direct marketing and how you can manage your marketing preferences
 
-#### Does Yell.com belong to any privacy organisation?
+We offer you the chance to receive important news from Yell group and information about our products and services, such as changes to the way you can use our online services or new services and special offers you might be interested in.
 
-Yes. Yell.com works alongside the established and highly regarded organisations the [Interactive Advertising Bureau UK](http://www.iabuk.net/) (IAB UK), the [Direct Marketing Association](http://www.dma.org.uk/) (DMA) and the [Federation of European Direct Marketing Associations](http://www.fedma.org/) (FEDMA).
+We will ask you if you want to receive direct marketing if you:
 
-### Contacting Yell about this privacy policy
+  * register for one of our services; or
+  * enter a competition or register for a promotion with any company in the Yell group.
 
-  
-If you have any questions relating to this privacy policy or how we use the personal information we hold about you, please [contact Yell's Data Protection Officer](mailto:privacy.officer@yellgroup.com). 
-### Collected information
 
-  * What information do I give you as a user of Yell.com?
-  * What information do I give you as a customer/advertiser of Yell.com?
-  * Why do you need my e-mail address?
 
+We may also send you direct marketing if you make a booking with Livebookings.net or Expedia and agree to receive marketing from us.
 
+Unless you tell us otherwise, we may contact you by phone, post, email, text message or any other way (electronic or otherwise). We will normally send you direct marketing by email if we have your email address.
 
-### Stored information
+If you would like us to stop sending direct marketing to you, we offer simple ways for you to tell us to stop. Whenever you receive direct marketing from us, we will tell you how to unsubscribe. Also, if you create an account on Yell.com, you can change your marketing preferences at any time by logging on and changing the marketing preferences in the ‘Edit Profile’ section.
 
-  * Do you store information on my browsing activity, and can I be identified from it?
-  * As an advertiser, do you store information on me?
+If you tell us that you do not want to receive direct marketing, we will still contact you in order to provide you with services you request and for administration purposes.
 
+## 5 Who we may share your personal information with
 
+We may need to share your information with other organisations to provide you with the products, services or information you ask for. We may pass your information to one or more of the following organisations:
 
-### How we use cookies
+  * other companies in the Yell group;
+  * data processing companies, mailing houses and other third party suppliers working on our behalf;
+  * research students, universities and other research and development organisations;
+  * government and enforcement agencies, such as Trading Standards and the police.
 
-  * What is a cookie?
-  * How do you use cookies and what information do you collect about me?
-  * What is a web beacon?
-  * How to manage cookies on our website
 
 
+Occasionally, this may involve sending your information outside the European Economic Area. For more information, please read section 6 – Where we process your personal information.
 
-### Disclosing information and consent
+Every now and again, we receive requests for information from government departments, the police and other enforcement agencies. If this happens, and there is a proper legal basis for providing your personal information, we will provide it to the organisation asking for it.
 
-  * Will Yell.com disclose the information you collect to other parties?
-  * Do you sell my details to other companies?
-  * If I have given my consent, can I change my mind?
+## 6 Where we process your personal information
 
+When we use your information as described in section 2 – How we will use information we collect about you, this may occasionally involve sending your information outside the European Economic Area (EEA). Where we do this, we make sure that appropriate steps are taken to protect your personal information and your rights. By providing us with your personal information, you agree that we may transfer, store and process your information outside the EEA.
 
+## 7 How to keep your information up to date
 
-### Security
+You can update your personal details quickly and easily by clicking on the [“Contact us”](https://www.yell.com/contactus/home.html) link at the bottom of any page on Yell.com. Simply select “Registration” from the drop-down list, then enter your request to update your details. We will need both your old details and your new details, in order to deal with your request.
 
-  * Is my information secure?
-  * Can anybody else who's using Yell.com access my personal details?
-  * Is my information available to any companies who partner with Yell.com to provide products or services?
+## 8 How we keep your information secure
 
+We take the security of your personal information very seriously. We have put in place technology and security policies which are designed to protect the personal information that we hold about you. We also follow the strict security procedures that privacy laws require. These cover storing, using and releasing any information you have provided, and preventing unauthorised access or use. For more information on how Yell.com protects the security of your information, please read the [Yell.com Security Policy](https://www.yell.com/legal/yell-com-security-policy/).
 
+## 9 Why we link to other websites
 
-### User Access
+Our online services contain hyperlinks to websites that are owned and operated by other organisations. These websites have their own privacy and cookie policies, and we urge you to read them. They control how your personal information is used when you give it to these other organisations or they collect it with cookies. We do not approve any other websites and we are not responsible for any information, material, products or services that are on or accessible through those websites or for the privacy practices of websites run by other organisations. If you use these other websites you do it at your own risk.
 
-  * Can I access my personal information at any time?
-  * Can I correct or change any details I've given you?
+## 10 Using cookies on our websites and how you can reject them
 
+Please read our [Cookie Policy](https://www.yell.com/legal/cookie-policy/) for more information.
 
+## 11 On-device storage for our Yell.com mobile services
 
-### Third party links
+On-device storage is information that our Yell.com mobile services transfer to your mobile phone so that the services can remember who you are and information about your use of the services. Our Yell.com mobile services cannot operate without this on-device storage. If you do not want your information to be stored in this way, please do not install or use our Yell.com mobile services.
 
-  
+## 12 What rights you have in your personal information and how can you use them
 
+You have the right to ask us not to use your personal information for marketing purposes. We will usually tell you when we collect your personal details if we are planning to use them for marketing purposes or if we plan to pass them to any other organisation for marketing purposes. For more information, please read section 4 – Direct Marketing and how you can manage your marketing preferences.
 
-### Privacy organisations
+You have the right to see information we hold about you, (with some exceptions, which are described in the privacy laws. If you would like a copy of your personal information, you should contact our [data protection officer](mailto:privacy.officer@yell.com). You will need to pay a processing fee of £10.
 
-  * Does Yell.com belong to any privacy organisations?
-  * I'd like some more information about privacy organisations.
+You have the right to review and update your personal details. You can do this by clicking on the [“Contact us”](https://www.yell.com/contactus/home.html) link at the bottom of any page on Yell.com. Simply select “Registration” from the drop-down list, then either request a copy of your personal details or enter your request to update your details. We will need both your old details and your new details, in order to deal with any update request. If you have created an account on Yell.com, you can update your details through the ‘Edit Profile’ Section.
 
+## 13\. How we can make changes to this privacy policy
 
+We may update this privacy policy from time to time so you may want to check it each time you give us personal information or use our websites.
 
-### Contacting Yell about this privacy policy
+## 14\. What privacy organisations we belong to
 
-### Collected information
+We are a corporate member of the [Direct Marketing Association](http://www.dma.org.uk/) (DMA).
 
-  
+## 15\. How to contact us about this privacy policy
 
-
-#### What information do I give you as a user of Yell.com?
-
-Registration  
-If you register with us, we ask you for a small amount of information. We do this so that when you return to Yell.com, we can instantly recognise you and give you access to your address book. Details we collect may include: 
-
-  * forename and surname;
-  * e-mail address.
-
-During your session as a registered user we use a [cookie](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/cookies/home.html) to store an encoded version of your Yell.com user ID so that you can access your address book. If you have cookies disabled on your browser you will not be able to use log in as a registered user.
-
-Competitions  
-All our competitions and promotions are governed by specific terms and conditions. We recommend that you read these before entering.
-
-#### What information do I give you as a customer/advertiser of Yell.com?
-
-Registration  
-Registering your company details enables us to give you private access to details we might be holding for you, like account information. We only collect the minimum information required to identify you and to ensure that we provide you with appropriate information. Details we collect may include: 
-
-  * forename and surname;
-  * company name;
-  * company address;
-  * telephone number;
-  * e-mail address.
-
-Orders  
-When you order an advertisement or domain name on Yell.com we need to know a little bit about you. This enables us to process and fulfil your order, or contact you in case of a query. Details we may collect include: 
-
-  * forename and surname;
-  * company name;
-  * position;
-  * company address;
-  * telephone number;
-  * e-mail address.
-
-
-
-#### Why do you need my e-mail address?
-
-We need your e-mail address to give you security. As a registered user, you have to enter a password to access your Yell.com address book-no one else can access it-and if you forget your password, we can e-mail it to you. We also use your e-mail address to confirm your order details to you.
-
-If you do not have an e-mail address or you do not wish to disclose it, we offer an alternative password retrieval process during registration.
-
-We might also use the information you've given us to bring you important news such as functionality changes to the Yell.com site or new services and special offers you might find valuable. This is only sent to users who have chosen to opt in when registering, and each time we e-mail you, you can choose not to be sent any further messages from us. We'll also guarantee not to "spam" you with annoying, irrelevant e-mails.
-
-### Stored information
-
-#### Do you store information on my browsing activity, and can I be identified from it?
-
-During your search session on Yell.com we will store the location you have requested. This is to enable you to search other types of business without having to re-enter the location every time. This information is only retained while you are searching and will not be kept once you have left Yell.com. We also collect anonymous information on your activity while logged into Yell.com such as: 
-
-  * IP address;
-  * browser type;
-  * access times;
-  * referring URL.
-
-There's no way you can be identified as a result of your browsing activity on Yell.com.
-
-We only examine browsing activity to monitor aggregated site traffic and analyse it. This gives us information to help us improve the relevance of the services we offer you.
-
-We may also provide anonymous statistics about users to reputable third party vendors, but these will not include details that would allow the recipient to identify you.
-
-#### As an advertiser, do you store information on me?
-
-Yes, but we only store information that we need to operate effectively, and it is stored securely in our main database.
-
-### How we use cookies
-
-#### What is a cookie?
-
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.
-
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Two types of cookies are used on this website-session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
-
-Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
-
-[Find out more about cookies](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/cookies/home.html).
-
-#### How do you use cookies and what information do you collect about me?
-
-Session cookies  
-We use temporary/session cookies in the following ways: 
-
-  * within Yell.com Search to store your locations during a search session;
-  * within registration to enable access to your address book.
-
-Persistent cookies  
-Persistent cookies are used on Yell.com in the following ways: 
-
-  * to track aggregated usage and the number of unique, anonymous users;
-  * to manage advertisement serving and to ensure the same advert is not shown too frequently;
-  * within research surveys, to ensure you are not invited to complete a questionnaire too often or after you have already done so.
-
-We do not link cookies to information you have provided during registration.
-
-If you don't want a cookie to be created on your PC, web browsers like Netscape Navigator and Microsoft Internet Explorer provide the option to disable them. However, you might not be able to take advantage of the full functionality of our website if you do.
-
-[Find out more about how to disable cookies](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/cookies/home.html#10).
-
-Sites linked to Yell.com may also use cookies. Please check the individual privacy policies of such sites to find out more.
-
-#### What is a web beacon?
-
-A web beacon—sometimes referred to as a clear GIF (Graphics Interchange Format) or pixel tag—is a line of code that we have installed on some of our pages to help us learn more about how our visitors interact with the content and services that we offer, and to count the traffic to different areas of the website. A web beacon is a 1x1 pixel tag that is invisible to you and doesn't affect the content you see.
-
-This helps us provide a better service to you by allowing us to understand which areas of the site are more popular with visitors than others. Web beacons are not used to collect any personal information about you. But allow us to gather aggregated information about the use of our site. Yell.com pages may also contain web beacons inserted by our advertising agency so that we can measure the effectiveness of our advertising on other websites. Web beacon files enable our agency to recognise a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. The web beacon only records a limited amount of information that includes the cookie number, the page id and the time and date the page was accessed, it does not contain your name, address, telephone number or e-mail address.
-
-[Find out more about web beacons](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/cookies/home.html#11).
-
-#### How to manage the use of cookies on our website
-
-You can manage the cookies in the cookie folder of your browser. You can either delete cookies from your cookie folder once you have left our site, or you can set your preferences before you enter our website.
-
-Deleting or rejecting cookies may impair your experience of our website. You may not be able to access some pages or complete some transactions securely.
-
-[Find out more about deleting and rejecting cookies](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/cookies/home.html#10).
-
-### Disclosing information and consent
-
-#### Will Yell.com disclose information about me to other parties?
-
-Not unless it's necessary for the operation of the site. We may also disclose personal information if it is legally required, or to enforce our conditions of use and other agreements, or to protect and defend the rights, property or safety of Yell.com users or others.
-
-#### Do you sell my details to other companies?
-
-No, Yell.com does not sell user information to other companies. We may occasionally use the information we collect to send you details of offers or services that we think you might be interested in, but only if you've opted in during the registration process. These offers can be provided by a third party, but will always come from Yell.com. Each time we e-mail you, you can choose not to receive any further messages.
-
-#### If I have given my consent, can I change my mind?
-
-Yes, you can change your mind at any time by accessing your profile on Yell.com and changing your preferences.
-
-### Security
-
-#### Is my information secure?
-
-Yes. We take the security of your personal data extremely seriously. We have implemented technology and security policies designed to protect the personal data under our control. We also follow strict security procedures as required by the UK Data Protection Act 1998. These cover the storage and disclosure of any information you've provided, and the prevention of unauthorised access.
-
-Any credit card details you pass on to us are encrypted using a Secure Socket Layer (SSL). SSL is an industry standard for data encryption and is one of the best ways to ensure internet messages are not intercepted. Older browsers can't use SSL, so you'll need Netscape Navigator 3, Microsoft Internet Explorer 3 or later versions of these browsers.
-
-#### Can anybody else who's using Yell.com access my personal details?
-
-No. All personal information given to Yell.com is secured and stored away from public access. Credit card information is encrypted before any transaction takes place.
-
-#### Is my information available to any companies who partner with Yell.com to provide products or services?
-
-Yes, Yell.com may use partners to ensure the effective operation of our site. These companies have access to your personal information under our strict supervision and within the requirements of the Data Protection Act.
-
-### User access
-
-#### Can I access my personal information at any time?
-
-Yes. If you want to look at or update your information, you can access all the details you provided us with when you registered. You can change or delete anything at any time.
-
-Under the Data Protection Act 1998, you're also entitled to view any information we hold on you by paying a fee. Details on how to do this are available from us or from the Office of the Information Commissioner. If any information held is inaccurate, we'll make the necessary changes and contact you with confirmation.
-
-#### Can I correct or change any details I've given to you?
-
-Yes. You can make changes to any of the information you gave us when you registered. Just access your profile and change your details as required.
-
-### Third party links
-
-  
-Yell.com contains links to other sites. We cannot assume responsibility for any other site's content or information handling practices. We encourage you to review each site's privacy policy before entering into transactions with them.
-
-### Privacy organisations
-
-#### Does Yell.com belong to any privacy organisation?
-
-Yes. Yell.com works alongside the established and highly regarded organisations the [Interactive Advertising Bureau UK](http://www.iabuk.net/) (IAB UK), the [Direct Marketing Association](http://www.dma.org.uk/) (DMA) and the [Federation of European Direct Marketing Associations](http://www.fedma.org/) (FEDMA).
-
-### Contacting Yell about this privacy policy
-
-  
-If you have any questions relating to this privacy policy or how we use the personal information we hold about you, please [contact Yell's Data Protection Officer](mailto:privacy.officer@yellgroup.com). 
+We welcome your questions, comments and requests about this privacy policy. Please contact our [data protection officer](mailto:privacy.officer@yell.com).
