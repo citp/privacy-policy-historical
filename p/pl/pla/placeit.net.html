@@ -1,27 +1,79 @@
-<!--The following is the downloaded HTML source of the placeit.net privacy policy that was archived on 2017-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170513130402id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the placeit.net privacy policy that was archived on 2017-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170901201913id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-
-<meta name="google-site-verification" content="9KW0NP_udn3bZHaGi0MNQlKUET6aGxa6C5NuaiMu7Dg">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	
-	
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="/wp-content/themes/om/woah/WOAHbar.js"></script> 
-	<link href="/wp-content/themes/om/woah/WOAHbar.css" rel="stylesheet">
+	<!-- <link href="/wp-content/themes/om/woah/WOAHbar.css" rel="stylesheet"> -->
+<link rel="stylesheet" type="text/css" href="//blog.placeit.net/wp-content/cache/wpfc-minified/80bc00d50416796aba6e4d0b8bd0e2bf/1504289967index.css" media="all">
+	
+		<!-- Custom functions -->
+	<script>
+	  $(document).ready(function() {
+	  	setTimeout(function() {
+	  		// append UTM 
+	      $('a[href*="placeit.net"]').each(function() {
+	      	var _href = $(this).attr('href').split('?')[0]; 
+	      	var current_utm = $(this).attr('href').split('?')[1];
+
+	      	if(current_utm == undefined) {current_utm = "";} else { current_utm = '&'+current_utm;}
+
+	      	if($(this).children().prop('nodeName') == 'IMG') {
+	      		var utm_content = $(this).children("img").attr("alt");
+	      	} else {
+	      		var utm_content = $(this).text().trim();
+	      	}
+	      	
+	      	if (utm_content == undefined || utm_content == '') {
+	      		utm_content = '';
+	      	} else {
+	      		utm_content = utm_content.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-');
+	      		utm_content = '&utm_content='+utm_content;
+	      	}
+	      	
+	      	current_utm = current_utm.replace(/[&?]utm_source=[\w-]*/,'');
+	      	current_utm = current_utm.replace(/[&?]utm_term=[\w-]*/,'');
+	      	current_utm = current_utm.replace(/[&?]utm_content=[\w-]*/,'');
+	      	var page = window.location.pathname.replace(/\//g, "");
+	      	if (page == '') {var term = '';}else{var term = "&utm_term="+page;};
+	      	$(this).attr("href", _href + '?utm_source=placeitblog'+utm_content+term+current_utm);
+	      });
 
 
-		<script type="text/javascript">
-		/* <![CDATA[ */
-		document.documentElement.className = document.documentElement.className.replace(new RegExp('(^|\\s)no-js(\\s|$)'), '$1js$2');
-		/* ]]> */
+
+			// convert videos to hover on play
+var vid = document.getElementsByTagName("video");
+[].forEach.call(vid, function (item) {
+	item.addEventListener('mouseover', hoverVideo, false);
+	item.addEventListener('mouseout', hideVideo, false);
+});
+
+function hoverVideo(e)
+{	
+	this.play();
+}
+function hideVideo(e)
+{
+	this.pause();
+}
+
+	  	}, 150);
+	  });
 	</script>
-
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+		<script type="text/javascript">
+	/* <![CDATA[ */
+	document.documentElement.className = document.documentElement.className.replace(new RegExp('(^|\\s)no-js(\\s|$)'), '$1js$2');
+	/* ]]> */
+	</script>
+	
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
 <title>Placeit Privacy Policy - Placeit Blog</title>
 <meta name="robots" content="noodp,noydir">
@@ -33,10 +85,12 @@
 <meta property="og:url" content="https://blog.placeit.net/privacy-policy/">
 <meta property="og:site_name" content="Placeit Blog">
 <meta property="article:published_time" content="2014-04-02T20:50:42+00:00">
-<meta property="article:modified_time" content="2015-01-12T23:51:06+00:00">
-<meta property="og:updated_time" content="2015-01-12T23:51:06+00:00">
+<meta property="article:modified_time" content="2017-08-18T18:32:09+00:00">
+<meta property="og:updated_time" content="2017-08-18T18:32:09+00:00">
 <!-- / Yoast WordPress SEO plugin. -->
 
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 
@@ -52,9 +106,9 @@
 <!-- /JM Twitter Cards 5.4 -->
 
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.placeit.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://blog.placeit.net/wp-includes/js/wp-emoji-release.min.js?ver=4.7.4" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.placeit.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://blog.placeit.net/wp-includes/js/wp-emoji-release.min.js?ver=4.8.1" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -69,37 +123,45 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="digg-digg-css" href="https://blog.placeit.net/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6" type="text/css" media="screen">
-<link rel="stylesheet" id="fetch-tweets-05465ecf85babf92e49809227cbc7c8f-css" href="https://blog.placeit.net/wp-content/plugins/fetch-tweets/template/plain/style.css?ver=4.7.4" type="text/css" media="all">
+<!-- <link rel='stylesheet' id='digg-digg-css'  href='https://blog.placeit.net/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//blog.placeit.net/wp-content/cache/wpfc-minified/1ec5b0574453ee9c4dbd75a57d9954cf/1504289966index.css" media="screen">
+<link rel="stylesheet" id="optinforms-googleFont-css" href="//fonts.googleapis.com/css?family=Dancing+Script&amp;ver=4.8.1" type="text/css" media="all">
+<!-- <link rel='stylesheet' id='optinforms-stylesheet-css'  href='https://blog.placeit.net/wp-content/plugins/optin-forms/css/optinforms.css?ver=4.8.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='h5p-plugin-styles-css'  href='https://blog.placeit.net/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css?ver=1.8.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//blog.placeit.net/wp-content/cache/wpfc-minified/1778512b2b2e5c347c4a2bd63ce6852d/1504289966index.css" media="all">
 <link rel="stylesheet" id="stag-google-fonts-css" href="//fonts.googleapis.com/css?family=Fira+Sans%3Aregular%2Citalic%2C700%7CSignika%3A300%2Cregular%2C700&amp;subset=latin%2Clatin&amp;ver=1.0.4" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="https://blog.placeit.net/wp-content/themes/om/assets/css/font-awesome.css?ver=4.1.0" type="text/css" media="all">
-<link rel="stylesheet" id="stag-style-css" href="https://blog.placeit.net/wp-content/themes/om/style.css?ver=1.0.4" type="text/css" media="all">
-<link rel="stylesheet" id="social-icons-widget-widget-css" href="https://blog.placeit.net/wp-content/plugins/social-media-icons-widget/css/social_icons_widget.css?ver=4.7.4" type="text/css" media="all">
-<link rel="stylesheet" id="wordpress-popular-posts-css" href="https://blog.placeit.net/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="otw-shortcode-general_foundicons-css" href="https://blog.placeit.net/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/general_foundicons.css?ver=4.7.4" type="text/css" media="all">
-<link rel="stylesheet" id="otw-shortcode-social_foundicons-css" href="https://blog.placeit.net/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/social_foundicons.css?ver=4.7.4" type="text/css" media="all">
-<link rel="stylesheet" id="otw-shortcode-css" href="https://blog.placeit.net/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=4.7.4" type="text/css" media="all">
-<script type="text/javascript" src="https://blog.placeit.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://blog.placeit.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<!-- <link rel='stylesheet' id='font-awesome-css'  href='https://blog.placeit.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='stag-style-css'  href='https://blog.placeit.net/wp-content/themes/om/style.css?ver=1.0.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='social-icons-widget-widget-css'  href='https://blog.placeit.net/wp-content/plugins/social-media-icons-widget/css/social_icons_widget.css?ver=4.8.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='__EPYT__style-css'  href='https://blog.placeit.net/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.8.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//blog.placeit.net/wp-content/cache/wpfc-minified/184efedad3dee8e03ce3bff60b8cbbb6/1504289966index.css" media="all">
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<!-- <link rel='stylesheet' id='otw-shortcode-general_foundicons-css'  href='https://blog.placeit.net/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/general_foundicons.css?ver=4.8.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='otw-shortcode-social_foundicons-css'  href='https://blog.placeit.net/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/social_foundicons.css?ver=4.8.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='otw-shortcode-css'  href='https://blog.placeit.net/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=4.8.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//blog.placeit.net/wp-content/cache/wpfc-minified/99b46fe70be50dc91457fbb49f0e4d6b/1504289966index.css" media="all">
+<!--n2css--><script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.11.1/jquery-ui.min.js?ver=4.8.1"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.4/jquery.lazy.min.js?ver=4.8.1"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.4/jquery.lazy.plugins.min.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://blog.placeit.net/wp-content/themes/om/woah/WOAHbar.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://blog.placeit.net/wp-content/themes/om/assets/js/custom.js?ver%5B0%5D=jquery"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/blog.placeit.net\/wp-admin\/admin-ajax.php","security":"fe748b1968","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/blog.placeit.net\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"11.8.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","stopMobileBuffer":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.placeit.net/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.8.1"></script>
 <link rel="https://api.w.org/" href="https://blog.placeit.net/wp-json/">
-<meta name="generator" content="WordPress 4.7.4">
+<meta name="generator" content="WordPress 4.8.1">
 <link rel="alternate" type="application/json+oembed" href="https://blog.placeit.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.placeit.net%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://blog.placeit.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.placeit.net%2Fprivacy-policy%2F&amp;format=xml">
-<!-- wp-dribbble plugin -->
-<style type="text/css">
-.dribbbles{list-style-type:none;margin:0px 0px 1.5em;}
-.dribbbles li{font-size:15px;position:relative;width:220px;padding:0;margin:0 0 1.5em 0;}
-.dribbbles .dribbble{font-family:"Helvetica Nueue", Helvetica, Arial, sans-serif;position:relative;clear:left;overflow:hidden;padding:0 0 10px 0;background:url(https://blog.placeit.net/wp-content/plugins/WP-Dribbble-master/images/dribbblesprite.png) no-repeat -10px -480px;}
-.dribbbles .dribbble-shot{padding:10px;background:url(https://blog.placeit.net/wp-content/plugins/WP-Dribbble-master/images/dribbblesprite.png) no-repeat -10px -330px;}
-.dribbbles .dribbble-over{position:absolute;top:10px;left:10px;z-index:1;width:180px;height:130px;margin:0!important;padding:10px;font-size:0.8em;line-height:2em;text-decoration:none;color:#888;background:url(https://blog.placeit.net/wp-content/plugins/WP-Dribbble-master/images/dribbblesprite.png) no-repeat -110px -160px;}
-.dribbbles .dribbble-link{position:relative;z-index:2;}
-.dribbbles img{margin:0;width:200px;height:auto;opacity:1;-webkit-transition:opacity 0.2s linear;-o-transition:opacity 0.2s linear;-moz-transition:opacity 0.2s linear;}
-.dribbbles a:hover img{opacity:0.1;-webkit-transition:opacity 0.2s linear;-o-transition:opacity 0.2s linear;-moz-transition:opacity 0.2s linear;}
-.dribbbles strong{display:block;font-weight:bold;font-size:1.4em;line-height:1.2em;color:#ea4c88;}
-.dribbbles .dim{font-weight:bold;color:#666;}
-.dribbbles em{position: absolute;bottom:11px;left:10px;font-size:1em;line-height:1em;font-weight:normal;font-style:normal;}
-.dribbbles .dribbble-img{width:200px;height:150px;overflow:hidden;}
-</style>
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
@@ -111,9 +173,9 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,.tagcloud,.post-date,.nav-links,button,.button,.
 </style>
 <!-- End Stag Custom CSS -->
 
-<script async="" type="text/javascript" src="//placeit.disqus.com/count.js"></script></head>
+</head>
 
-<body class="page-template-default page page-id-211 custom-background full-width">
+<body class="page-template page-template-landing page-template-landing-php page page-id-211 custom-background full-width elementor-default">
 
 
 <div id="header-widgets" class="header-widgets" data-state="closed">
@@ -128,8 +190,11 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,.tagcloud,.post-date,.nav-links,button,.button,.
 	</label>
 	<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
 </form>
-</aside><aside id="recent-comments-2" class="widget unit one-of-two widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://chadsuniverse.com/" rel="external nofollow" class="url">Chadsuniverse</a></span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3220">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://ptartist.com" rel="external nofollow" class="url">Sandra Stowell</a></span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3217">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.azolloza.com/" rel="external nofollow" class="url">Lauren White</a></span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3214">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li><li class="recentcomments"><span class="comment-author-link">anton</span> on <a href="https://blog.placeit.net/how-to-make-a-t-shirt-design/#comment-3211">How to Make a T-Shirt Design From Scratch</a></li><li class="recentcomments"><span class="comment-author-link">scott green</span> on <a href="https://blog.placeit.net/how-to-make-a-t-shirt-design/#comment-3209">How to Make a T-Shirt Design From Scratch</a></li></ul></aside><aside id="archives-2" class="widget unit one-of-two widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
-			<li><a href="https://blog.placeit.net/2017/05/">May 2017</a></li>
+</aside><aside id="recent-comments-2" class="widget unit one-of-two widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://www.thevideoanimationcompany.com/" rel="external nofollow" class="url">The Video Animation Company</a></span> on <a href="https://blog.placeit.net/comprehensive-list-of-professional-app-demo-video-production-companies/#comment-3280">Comprehensive List of Professional App Demo Video Production Companies</a></li><li class="recentcomments"><span class="comment-author-link">May Rovahz</span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3279">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li><li class="recentcomments"><span class="comment-author-link">MargaretSmith</span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3270">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://blog.placeit.net" rel="external nofollow" class="url">JC</a></span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3269">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li><li class="recentcomments"><span class="comment-author-link">Youthfullborn Marshilong</span> on <a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/#comment-3268">Best Print-on-Demand Websites: The Definitive 2017 Guide</a></li></ul></aside><aside id="archives-2" class="widget unit one-of-two widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href="https://blog.placeit.net/2017/08/">August 2017</a></li>
+	<li><a href="https://blog.placeit.net/2017/07/">July 2017</a></li>
+	<li><a href="https://blog.placeit.net/2017/06/">June 2017</a></li>
+	<li><a href="https://blog.placeit.net/2017/05/">May 2017</a></li>
 	<li><a href="https://blog.placeit.net/2017/04/">April 2017</a></li>
 	<li><a href="https://blog.placeit.net/2017/03/">March 2017</a></li>
 	<li><a href="https://blog.placeit.net/2017/02/">February 2017</a></li>
@@ -175,8 +240,6 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,.tagcloud,.post-date,.nav-links,button,.button,.
 </li>
 	<li class="cat-item cat-item-175"><a href="https://blog.placeit.net/category/compilations/">Compilations</a>
 </li>
-	<li class="cat-item cat-item-7"><a href="https://blog.placeit.net/category/descriptions/">Descriptions</a>
-</li>
 	<li class="cat-item cat-item-5"><a href="https://blog.placeit.net/category/design/">Design</a>
 </li>
 	<li class="cat-item cat-item-170"><a href="https://blog.placeit.net/category/freebies/">Freebies</a>
@@ -212,16 +275,7 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,.tagcloud,.post-date,.nav-links,button,.button,.
 
 	<header id="masthead" class="site-header centered">
 
-		<div class="site-branding">
-			
-				<a rel="home" href="&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;https://placeit.net/?utm_source=blog&amp;utm_medium=logo&amp;utm_campaign=logo&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;">
-				
-					<div class="custom-logo" style="width:200px; height:40px; background-image: url('https://blog.placeit.net/wp-content/uploads/2014/12/placeit-blog-logo.png');"></div>
-					</a>
-					
-		
-		</div>
-
+	
 		<a href="#" id="menu-toggle" class="menu-toggle"><i class="fa fa-navicon"></i></a>
 
 	</header>
@@ -239,20 +293,20 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,.tagcloud,.post-date,.nav-links,button,.button,.
 	</header>
 
 	<div class="content-area sidebar-right">
-		<div class="content-wrapper">
+		<div class="content-wrapper" style="width:100%">
 			<div class="entry-content">
 				
 				<p><b>Placeit Privacy Policy</b></p>
 <p>Placeit is an application that generates marketing material (the “Services”). &nbsp;This Privacy Policy describes how and when Placeit collects, uses and shares your information when you use our Services. Placeit may receive your information through various channels, including but not limited to the Services, our application, website, and email notifications. &nbsp;When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Placeit to use your information in the United States and any other country where Placeit operates. Your continued use of our Services constitutes your acceptance and agreement to this Privacy Policy and any updates.</p>
 <p>If you have any questions or comments about this Privacy Policy, please contact us at:</p>
-<p>Placeit<br>
-2081 Center Street #300<br>
-Berkeley, CA 94707<br>
-hi@placeit.net</p>
-<p><b>&nbsp;</b></p>
+<p>9450 Gemini Road<br>
+#90438<br>
+Beaverton, OR 97008<br>
+United States<br>
+<b>&nbsp;</b></p>
 <p><b>Information Collection and Use</b></p>
 <p><b>Information Collected Upon Registration:</b> When you create or reconfigure a Placeit account, you provide some personal information, such as your name, username, password, and email address. &nbsp;If you create your Placeit account by connecting through another service, we may use public information from that connected account to help complete your Placeit profile. You may update or modify your profile information and contact information at any time.</p>
-<p><b>Use of Information and Content:</b> We utilize your information for internal business purposes and to communicate with you, including marketing services offered by Placeit and our business partners.&nbsp; You may use your account settings to unsubscribe from notifications from Placeit. Other than as set forth in this Privacy Policy, we do not sell your content or information or share it with any third party.&nbsp; Furthermore, your information and content is not listed publicly or encouraged by Search Engines to crawl.&nbsp; Your content is not attributed to you on a public URL unless you directly share such content publicly.&nbsp; All content that you upload is stored on servers selected by Placeit; such content is not deleted but is kept by or for Placeit.&nbsp; Your content can be publicly seen if a third party has access to your exact URL (it is not private).&nbsp; If you wish to have your content deleted, please email us at <a href="https://mail.google.com/a/freshout.us/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=hi@recordit.co">hi@Placeit.co</a>, and in most cases we will delete your content within five (5) business days after we receive your request.</p>
+<p><b>Use of Information and Content:</b> We utilize your information for internal business purposes and to communicate with you, including marketing services offered by Placeit and our business partners.&nbsp; You may use your account settings to unsubscribe from notifications from Placeit. Other than as set forth in this Privacy Policy, we do not sell your content or information or share it with any third party.&nbsp; Furthermore, your information and content is not listed publicly or encouraged by Search Engines to crawl.&nbsp; Your content is not attributed to you on a public URL unless you directly share such content publicly.&nbsp; All content that you upload is stored on servers selected by Placeit; such content is not deleted but is kept by or for Placeit.&nbsp; Your content can be publicly seen if a third party has access to your exact URL (it is not private).&nbsp; If you wish to have your content deleted, please email us at <a href="https://mail.google.com/a/freshout.us/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=hi@recordit.co">hi@placeit.net</a>, and in most cases we will delete your content within five (5) business days after we receive your request.</p>
 <p><b>Cookies:</b> We may use cookies and similar technologies to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer’s hard disk to help improve your user experience. Placeit may use cookies to better understand how you interact with our Services, to monitor aggregate usage by our users, and web traffic routing on our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.</p>
 <p><b>Log Data:</b> Our servers automatically record information (“Log Data”) created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, or interact with our email notifications. Placeit uses Log Data to provide our Services and to measure, customize, and improve them.</p>
 <p><b>Third-Parties:</b> Placeit uses third-party services to help provide our Services and help us understand the use of our Services. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. Third-party ad partners may share information with us, like a browser cookie ID or cryptographic hash of a common account identifier (such as an email address), to help us measure ad quality and tailor ads. For example, this allows us to display ads about things you may have already shown interest in. If you prefer, you can turn off tailored ads in your privacy settings so that your account is not matched to information shared by ad partners for tailoring ads.</p>
@@ -280,7 +334,7 @@ hi@placeit.net</p>
 <p><b>Sharing</b><br>
 We may share your information with our advertisers and other partners, or with a governmental entity if required (by law, regulation, court order, warrant), or simply upon request.</p>
 <p><b>Google Analytics Features</b><br>
-This site has implemented Google Analytics for Display Advertising, in order to advertise online (which we do) via its “Remarketing” feature. Third-party vendors, including Google, may show our ads on sites across the Internet.  We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website.</p>
+This site has implemented Google Analytics for Display Advertising, in order to advertise online (which we do) via its “Remarketing” feature. Third-party vendors, including Google, may show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website.</p>
 <p>Visitors can opt-out of Google’s use of Cookies and also Google Analytics for Display Advertising by using the Ads Settings found here:</p>
 <p>https://www.google.com/settings/ads</p>
 <p>Visitors can opt-out of Google Remarketing campaigns by using the Doubleclick opt-out page here:<br>
@@ -288,44 +342,12 @@ https://www.google.com/settings/ads/onweb#display_optout</p>
 							</div>
 					</div>
 
-		
-<section id="sidebar-right" class="widget-area active" role="complementary">
-	<aside id="wpsite_follow_us_badges-2" class="widget widget_wpsite_follow_us_badges"><h4 class="widget-title">Follow Us</h4><div class="wpsite_follow_us_div twitterbox"><a href="https://twitter.com/placeitapp" class="twitter-follow-button" data-show-count="true" data-dnt="false" data-show-screen-name="false" data-size="medium" data-lang="en" data-align="left" data-width="100%"></a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
-						<div class="wpsite_follow_us_div facebookbox"><div class="fb-like" data-href="https://facebook.com/placeitapp" data-share="false" data-show-faces="false" data-layout="standard" data-action="like" data-colorscheme="light"></div>
-							<div id="fb-root"></div>
-							<script>(function(d, s, id) {
-							  var js, fjs = d.getElementsByTagName(s)[0];
-							  if (d.getElementById(id)) return;
-							  js = d.createElement(s); js.id = id;
-							  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-							  fjs.parentNode.insertBefore(js, fjs);
-							}(document, "script", "facebook-jssdk"));</script></div>
-						</aside>
-<!-- Wordpress Popular Posts Plugin v3.0.3 [W] [all] [views] [regular] -->
-<aside id="wpp-2" class="widget popular-posts">
-<h4 class="widget-title">Popular Posts</h4>
-<ul class="wpp-list">
-<li><a href="https://blog.placeit.net/history-of-the-hamburger-icon/" title="A Brief History of the Hamburger Icon" class="wpp-post-title" target="_self">A Brief History of the Hamburger Icon</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/10-awesome-uxui-cheat-sheet/" title="10 Great UX/UI Design Cheat Sheets" class="wpp-post-title" target="_self">10 Great UX/UI Design Cheat Sheets</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/create-app-demo-video-minutes-free/" title="Create an App Demo Video in Minutes (With Gestures) for Free" class="wpp-post-title" target="_self">Create an App Demo Video in Minutes (With Gestures) for Free</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/confusing-icons-history/" title="5 Confusing Icons and Their History" class="wpp-post-title" target="_self">5 Confusing Icons and Their History</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/creative-uses-favicons/" title="5 Creative Uses of Favicons" class="wpp-post-title" target="_self">5 Creative Uses of Favicons</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/evolution-of-the-titlebar-buttons/" title="The Evolution of the Title Bar Buttons" class="wpp-post-title" target="_self">The Evolution of the Title Bar Buttons</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/ux-tactics-make-slow-things-seem-faster/" title="UX Tactics To Make Slow Things Seem Faster" class="wpp-post-title" target="_self">UX Tactics To Make Slow Things Seem Faster</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/apps-fail-teach-us-app-marketing/" title="3 Apps That Failed (And What They Teach Us About App Marketing)" class="wpp-post-title" target="_self">3 Apps That Failed (And What They Teach Us About App Marketing)</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/quick-dirty-ux-design-techniques/" title="Quick And Dirty UX Design Techniques" class="wpp-post-title" target="_self">Quick And Dirty UX Design Techniques</a>  <span class="post-stats"></span> </li>
-<li><a href="https://blog.placeit.net/10-popular-stock-photo-personalities/" title="The 5 Most Popular Stock Photo Personalities" class="wpp-post-title" target="_self">The 5 Most Popular Stock Photo Personalities</a>  <span class="post-stats"></span> </li>
-
-</ul>
-</aside>
-<!-- End Wordpress Popular Posts Plugin v3.0.3 -->
-<aside id="text-5" class="widget widget_text"><h4 class="widget-title">Subscribe to Our Feed</h4>			<div class="textwidget"><a href="/?feed=rss" target="_blank"><img src="/rss.png"></a></div>
-		</aside></section>
-
 	</div>
 
 </article>
+<script type="text/javascript">
+woahbar_show();
+</script>
 	
 </main>
 
@@ -334,6 +356,124 @@ https://www.google.com/settings/ads/onweb#display_optout</p>
 	</div><!-- .site-inner -->
 	</div> <!-- #page -->
 
+		<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-inner">
+			<div class="footer-widget-container columns-3">
+				<section id="footer-1" class="widget-area footer-1 active" role="complementary">
+	<aside id="text-27" class="widget widget_text">			<div class="textwidget"><style type="text/css">
+.footer_index div
+{
+ text-align:left;
+ vertical-align:top;
+}
+.footer_index h4
+{
+ padding:5px;
+ padding-let:0px;
+}
+.footer_index a:link
+{
+ text-decoration:none;
+ color:white;
+}
+.footer_index a:visited
+{
+ text-decoration:none;
+ color:white;
+}
+.footer_index a:hover
+{
+ text-decoration:underline;
+}
+</style>
+<div class="footer_index">
+<a href="https://blog.placeit.net/tag/t-shirt-selling/"><h4>Popular T-shirt Business Posts</h4></a>
+<a href="https://blog.placeit.net/definitive-guide-on-best-print-on-demand-websites/">Best Print-on-Demand Websites: The Definitive 2017 Guide</a><br><br>
+<a href="https://blog.placeit.net/where-to-buy-the-best-wholesale-t-shirts/">5 Best Blank Wholesale T-Shirts Distributors of 2017</a><br><br>
+<a href="https://blog.placeit.net/how-to-make-great-facebook-ads-to-sell-more-t-shirts/">How to Make Great Facebook T-shirt Ads and Boost Sales</a><br><br>
+<a href="https://blog.placeit.net/comprehensive-list-best-tshirt-template/">Comprehensive List of Best T-Shirt Design Makers</a><br><br>
+<a href="https://blog.placeit.net/how-to-make-a-t-shirt-design/">How to Make a T-Shirt Design From Scratch</a>
+</div></div>
+		</aside></section>
+<section id="footer-1" class="widget-area footer-2 active" role="complementary">
+	<aside id="text-28" class="widget widget_text">			<div class="textwidget"><style type="text/css">
+.footer_index div
+{
+ text-align:left;
+ vertical-align:top;
+}
+.footer_index h4
+{
+ padding:5px;
+ padding-left:0px;
+}
+.footer_index a:link
+{
+ text-decoration:none;
+}
+.footer_index a:visited
+{
+ text-decoration:none;
+ color:white;
+}
+.footer_index a:hover
+{
+ text-decoration:underline;
+}
+</style>
+<div class="footer_index">
+<a href="https://blog.placeit.net/tag/app-selling/"><h4>Popular App Marketing Posts</h4></a>
+<a href="https://blog.placeit.net/create-app-demo-video-minutes-free/">Create an App Demo Video in Minutes (With Gestures)</a><br><br>
+<a href="https://blog.placeit.net/ios-screenshot-sizes/">iOS Screenshot Sizes</a><br><br>
+<a href="https://blog.placeit.net/iphone-png-ipad-png-macbook-png/">PNG iPhone Mockups, Tablet Mockup Templates, Android Templates and More!</a><br><br>
+<a href="https://blog.placeit.net/make-google-play-screenshots/">How to Make Google Play Screenshots</a><br><br>
+<a href="https://blog.placeit.net/apps-fail-teach-us-app-marketing/">3 Apps That Failed (And What They Teach Us About App Marketing)</a><br><br></div>
+</div>
+		</aside></section>
+<section id="footer-1" class="widget-area footer-3 active" role="complementary">
+	<aside id="text-29" class="widget widget_text">			<div class="textwidget"><style type="text/css">
+.footer_index div
+{
+ text-align:left;
+ vertical-align:top;
+}
+.footer_index h4
+{
+ padding:5px;
+ padding-left:0px;
+}
+.footer_index a:link
+{
+ text-decoration:none;
+}
+.footer_index a:visited
+{
+ text-decoration:none;
+ color:white;
+}
+.footer_index a:hover
+{
+ text-decoration:underline;
+}
+</style>
+<div class="footer_index">
+<a href="https://blog.placeit.net/tag/ebook-selling/"><h4>Popular eBook and Print Posts</h4></a>
+<a href="https://blog.placeit.net/3d-book-cover-maker/">Create Your Free Ebook Cover with this 3D Book Cover Maker!</a><br><br>
+<a href="https://blog.placeit.net/business-card-mockup-generator/">Business Card Mockup Generator Tool</a><br><br>
+<a href="https://blog.placeit.net/billboard-mockups/">Free Urban Billboard Mockups</a><br><br>
+<a href="https://blog.placeit.net/facebook-ads-for-authors-step-by-step-guide/">Facebook Ads for Authors: A Step-by-Step Guide to Promote E-Books</a><br><br>
+<a href="https://blog.placeit.net/logo-mockup/">Free Logo Mockup PSD – Logo Mockup Templates for Designers</a><br><br>
+</div></div>
+		</aside></section>
+			</div>
+			<div id="footer-logo"><a href="https://placeit.net?utm_source=placeitblog&amp;utm_term=soccer-logo-maker"><img style="display:block;margin:auto;" src="https://blog.placeit.net/wp-content/uploads/2017/08/logo-low.png"></a></div>
+			<div class="placeit-social">
+				<a data-pin-do="buttonFollow" href="https://www.pinterest.com/placeit">Follow</a>
+				<a href="https://twitter.com/placeitapp" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @placeitapp</a>
+				<div class="g-ytsubscribe" data-channelid="UCCTmbjwUaZ0QFo1ixbgOisA" data-layout="default" data-theme="dark" data-count="hidden"></div>
+				<div class="fb-follow" data-href="https://www.facebook.com/placeitapp/" data-height="75px" data-layout="button" data-size="small" data-show-faces="false"></div>
+			</div></div>
+	</footer><!-- #colophon -->
 	
 	<footer id="footer-secondary" class="site-footer-secondary" role="contentinfo">
 		<div class="site-inner">
@@ -360,47 +500,27 @@ https://www.google.com/settings/ads/onweb#display_optout</p>
 
   </script>
 <div class="noMobile showDesktop">
+	<!-- new code --> 
+    
+      <div class="woahbar" style="display: none;"><span>Beautiful Visuals to Boost Your Business! &nbsp;&nbsp;<a class="woahbar-link" href="https://placeit.net/?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=banner">Make Mockups, Videos &amp; More!</a> </span></div>
 
-      <div class="woahbar" style="display: none;"><span style="font-family:" signika","helvetica="" neue",helvetica,arial,sans-serif;"="">Beautiful Product Mockups and Videos &nbsp;&nbsp;<a class="woahbar-link" href="https://placeit.net/?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=banner">Try Placeit</a> </span> <a class="close-notify" onclick="woahbar_hide();"><img src="/wp-content/themes/om/woah/images/woahbar-up-arrow.png"></a></div>
 
 
-
-
-<div class="woahbar-stub" style="display: none;"><a class="show-notify" onclick="woahbar_show();"><img src="/wp-content/themes/om/woah/images/woahbar-down-arrow.png"></a></div>
 </div>
 
 
-    <script type="text/javascript">
-    // <![CDATA[
-        var disqus_shortname = 'placeit';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) url = url[0];
-                    else url = url[1]
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-    //]]>
-    </script>
-<link rel="stylesheet" id="wpsite_follow_us_badges_widget_css-css" href="https://blog.placeit.net/wp-content/plugins/wpsite-follow-us-badges/css/wpsite-follow-us-badges.css?ver=4.7.4" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var StagFitvidsCustomSelectors = {"customSelector":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://blog.placeit.net/wp-content/themes/om/assets/js/global.min.js?ver=1.0.4"></script>
-<script type="text/javascript" src="https://blog.placeit.net/wp-content/themes/om/assets/js/libs/fitvids/jquery.fitvids.min.js?ver=1.1"></script>
-<script type="text/javascript" src="https://blog.placeit.net/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4"></script>
-<script type="text/javascript" src="https://blog.placeit.net/wp-includes/js/wp-embed.min.js?ver=4.7.4"></script>
-
+        <!-- 
+            Lockers: user tracker for visibility filters
+            OnePress, bizpanda.com
+        -->
+        <script>
+            window.__bp_session_timeout = '900';
+            window.__bp_session_freezing = 0;
+            !function(){window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;return(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session"))?(n=n.replace(/\-c\-/g,","),n=n.replace(/\-q\-/g,'"'),n=JSON.parse(n),n.started+1e3*e<(new Date).getTime()&&(n=null),n):!1},window.bizpanda.bp_ut_set_obj=function(e,n){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime());var e=JSON.stringify(e);e&&(e=e.replace(/\"/g,"-q-"),e=e.replace(/\,/g,"-c-")),window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview()}();
+        </script>
+        <!-- / -->
+            <script src="//blog.placeit.net/wp-content/cache/wpfc-minified/f81e1b84254fc200e71328c4e88edf72/1504289967index.js" type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://blog.placeit.net/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script> -->
+<script class="lazy" data-src="https://assets.pinterest.com/js/pinit.js" type="text/javascript"></script>
 
 </body></html>
