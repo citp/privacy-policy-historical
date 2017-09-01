@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the flixanity.watch privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114220738id_/http%3A//flixanity.watch/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixanity.watch privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901213601id_/https%3A//flixanity.online/pages/privacy) for the most accurate reproduction.*
 
-# FliXanity - Watch TV Shows Online | Watch Movies Online
+# FliXanity - Watch TV Shows & Movies Online
 
 ### FliXanity Privacy Policy
 
-###### This Privacy Policy applies to information we collect about you at www.flixanity.watch (the "Website") and FliXanity applications and how we use this information.
+###### This Privacy Policy applies to information we collect about you at flixanity.online (the "Website") and FliXanity applications and how we use this information.
 
 ###### **Collection of your FliXanity Information**
 
 ###### Your "FliXanity information" includes relevant technical information gathered or received while you use FliXanity. This technical information that may be collected or received includes: the type of browser you are using (e.g., Google Chrome, Internet Explorer, Safari), the type of operating system you are using (e.g., Windows or Mac OS), your CPU type, the manner in which you connect to the internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; pertinent Applications Installed; information about the version of service from an affiliate that you used prior to registering with the service; certain information about your geographic location; and the domain name of your Internet service provider.
 
-###### You may not be required to register for a "FliXanity account" for certain Services; however, there are some optional services available (for example, saving a video list) that require an "account". Registration functionality for FliXanity is provided by the FliXanity Network. If you choose to "Register an Account", you will need to register with and provide information to FliXanity. After registering you will obtain a Screen Name, or possibly other credential, issued by FliXanity (collectively, "Screen Name") in order to access and use these optional services. Your Screen Name and associated services account will then be subject to the FliXanity Terms of Service Agreement and Privacy Policies indicated in the registration process and available to view at any time on www.flixanity.watch.
+###### You may not be required to register for a "FliXanity account" for certain Services; however, there are some optional services available (for example, saving a video list) that require an "account". Registration functionality for FliXanity is provided by the FliXanity Network. If you choose to "Register an Account", you will need to register with and provide information to FliXanity. After registering you will obtain a Screen Name, or possibly other credential, issued by FliXanity (collectively, "Screen Name") in order to access and use these optional services. Your Screen Name and associated services account will then be subject to the FliXanity Terms of Service Agreement and Privacy Policies indicated in the registration process and available to view at any time on flixanity.online.
 
 ###### **How Your FliXanity information is Used**
 
@@ -57,10 +57,10 @@
 
 ###### **How to Contact Us**
 
-###### If you have any questions or concerns about FliXanity's Privacy Policy or its implementation, you may contact us at info@flixanity.tv.
+###### If you have any questions or concerns about FliXanity's Privacy Policy or its implementation, you may contact us at support@flixanity.online
 
 ###### **Changes to this Privacy Policy and Additional Information**
 
 ###### We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to FliXanity's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from FliXanity, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-###### Last Updated: January 27, 2015
+###### Last Updated: April 25, 2017
