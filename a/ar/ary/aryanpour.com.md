@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aryanpour.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630210910id_/http%3A//aryanpour.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aryanpour.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901152522id_/http%3A//aryanpour.com/Privacy.php) for the most accurate reproduction.*
 
-# Privacy Aryanpour Farsi Dictionary
+# Privacy dictionary
 
 Aryanpour.com respects your privacy. When you use Aryanpour.com or any other online products or websites that we own (our "sites") and mobile applications (our "apps"), we collect information about you and use it to facilitate and improve our services. Information about you may also be shared with other companies. For instance, companies engaged in "targeted" or "behavioral" advertising present ads that might be of interest to you based on information about your online activities. We want to be clear about how information about you may be used and what your privacy options are. 
 
