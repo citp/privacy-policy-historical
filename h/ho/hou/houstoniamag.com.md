@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstoniamag.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528225415id_/https%3A//www.houstoniamag.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstoniamag.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901170216id_/https%3A//www.houstoniamag.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Houstonia
 
