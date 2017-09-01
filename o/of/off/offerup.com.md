@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerup.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204102245id_/https%3A//offerupnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerup.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901120427id_/https%3A//offerup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OfferUp
 
@@ -38,7 +38,7 @@ Note: OfferUp is piloting a new electronic payments solution that is only availa
 
 5.3. Conduct investigations and to respond to disputes between users, error resolution, and other similar customer support service;
 
-5.4. Enable any identification programs we may institute and in which you elect to participate (e.g. TruYou), such as verifying your identity and address, and conduct checks against various publicly available databases;
+5.4. Enable any identification programs we may institute and in which you elect or are required to participate (e.g. TruYou), such as verifying your identity and address, and conduct checks against various publicly available databases;
 
 5.5. Operate, protect, improve and optimize the OfferUp Service, our business, and our users’ experience;
 
@@ -62,7 +62,7 @@ OfferUp is based in the United States and the information we collect is governed
 
 6\. **General.** We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-6.1. With the public on the OfferUp Service. For a detailed description of the type of information associated with your OfferUp account that is made available publicly through the OfferUp Service, please see our [FAQs](https://web.archive.org/support/?return_to=/hc/en-us/articles/205596725).
+6.1. With the public on the OfferUp Service. For a detailed description of the type of information associated with your OfferUp account that is made available publicly through the OfferUp Service, please see our [FAQs](https://web.archive.org/support/?return_to=/Trust-Safety/Privacy/887969071/).
 
 6.2 When sellers register through the OfferUp Service to receive electronic payments via Stripe’s services, we will share certain information about them with Stripe, including name, address, IP address and date of birth. This information is in addition to the information collected directly by Stripe (as described above in “Payment Information Collected by Stripe”). Stripe may use this information for the purposes described in its privacy policy, including for fraud prevention.
 
