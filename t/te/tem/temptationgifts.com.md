@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073219id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901105234id_/https%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Temptation Gifts
 
