@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cannabis.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609014208id_/https%3A//weedmaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cannabis.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901220757id_/https%3A//weedmaps.com/privacy) for the most accurate reproduction.*
 
 # Updated 2016 Weedmaps Privacy Policy
 
