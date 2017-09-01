@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placeit.net privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513130402id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placeit.net privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901201913id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.*
 
 # Placeit Privacy Policy - Placeit Blog
 
@@ -8,16 +8,17 @@ Placeit is an application that generates marketing material (the “Services”)
 
 If you have any questions or comments about this Privacy Policy, please contact us at:
 
-Placeit  
-2081 Center Street #300  
-Berkeley, CA 94707  
-hi@placeit.net
+9450 Gemini Road  
+#90438  
+Beaverton, OR 97008  
+United States  
+** **
 
 **Information Collection and Use**
 
 **Information Collected Upon Registration:** When you create or reconfigure a Placeit account, you provide some personal information, such as your name, username, password, and email address.  If you create your Placeit account by connecting through another service, we may use public information from that connected account to help complete your Placeit profile. You may update or modify your profile information and contact information at any time.
 
-**Use of Information and Content:** We utilize your information for internal business purposes and to communicate with you, including marketing services offered by Placeit and our business partners.  You may use your account settings to unsubscribe from notifications from Placeit. Other than as set forth in this Privacy Policy, we do not sell your content or information or share it with any third party.  Furthermore, your information and content is not listed publicly or encouraged by Search Engines to crawl.  Your content is not attributed to you on a public URL unless you directly share such content publicly.  All content that you upload is stored on servers selected by Placeit; such content is not deleted but is kept by or for Placeit.  Your content can be publicly seen if a third party has access to your exact URL (it is not private).  If you wish to have your content deleted, please email us at [hi@Placeit.co](https://mail.google.com/a/freshout.us/mail/?view=cm&fs=1&tf=1&to=hi@recordit.co), and in most cases we will delete your content within five (5) business days after we receive your request.
+**Use of Information and Content:** We utilize your information for internal business purposes and to communicate with you, including marketing services offered by Placeit and our business partners.  You may use your account settings to unsubscribe from notifications from Placeit. Other than as set forth in this Privacy Policy, we do not sell your content or information or share it with any third party.  Furthermore, your information and content is not listed publicly or encouraged by Search Engines to crawl.  Your content is not attributed to you on a public URL unless you directly share such content publicly.  All content that you upload is stored on servers selected by Placeit; such content is not deleted but is kept by or for Placeit.  Your content can be publicly seen if a third party has access to your exact URL (it is not private).  If you wish to have your content deleted, please email us at [hi@placeit.net](https://mail.google.com/a/freshout.us/mail/?view=cm&fs=1&tf=1&to=hi@recordit.co), and in most cases we will delete your content within five (5) business days after we receive your request.
 
 **Cookies:** We may use cookies and similar technologies to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer’s hard disk to help improve your user experience. Placeit may use cookies to better understand how you interact with our Services, to monitor aggregate usage by our users, and web traffic routing on our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
