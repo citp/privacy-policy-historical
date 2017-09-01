@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgcheckitout.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131521id_/http%3A//omgcheckitout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgcheckitout.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901190154id_/https%3A//omgcheckitout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OMG Check It Out !
 
