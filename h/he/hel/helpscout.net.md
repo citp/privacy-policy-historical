@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513175345id_/https%3A//www.helpscout.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901091913id_/http%3A//www.helpscout.net/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Scout
 
@@ -49,7 +49,7 @@ Help Scout will collect End User Customer Data necessary to provide the Help Sco
 
 We may use End User Customer Data to look up and store additional Public Data in order to create a more complete customer profile. "Public Data" is defined as information received from a third party partner named FullContact, a Safe Harbor Certified company. Public Data may be claimed, edited or discarded from their systems by [following this link](http://www.fullcontact.com/privacy/claim) and is subject to their [Privacy Policy](http://www.fullcontact.com/privacy/).
 
-If you would like to opt-out of our collection of End User Customer Data, you can do so by [making a request via email](https://web.archive.org/get-help/#contact-us). To disable this feature, you must be the Account Owner.
+If you would like to opt-out of our collection of End User Customer Data, you can do so by [making a request via email](https://web.archive.org/contact/). To disable this feature, you must be the Account Owner.
 
 Back to top
 
@@ -71,7 +71,7 @@ You do not have to accept cookies to use the Help Scout Service. Although most b
 
 "[Page tags](http://en.wikipedia.org/wiki/Web_bug)," also known as web beacons or gif tags, are a web technology used to help track website or email usage information, such as how many times a specific page or email has been viewed. Page tags are invisible to you, and any portion of the Help Scout Service, including advertisements, or e-mail sent on our behalf, may contain page tags.
 
-By using cookies and page tags together, we are able to improve the Help Scout Service and measure the effectiveness of our advertising and marketing campaigns.
+By using cookies and page tags together, we are able to improve the Help Scout Service and measure the effectiveness of our advertising and marketing campaigns. You can opt-out of dynamic retargeting from Criteo, one of the providers we use, on this page: <http://www.criteo.com/privacy/>.
 
 Finally, you should be aware that this Privacy Policy does not govern the use of third-party websites or services or providers of third-party services.
 
@@ -109,7 +109,7 @@ We may disclose your information (including personally identifiable information)
 
 We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Help Scout is potentially liable.
+In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-U.S. or Swiss-U.S. Privacy Shield, Help Scout is potentially liable.
 
 #### Third Parties Generally
 
