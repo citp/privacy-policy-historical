@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinfow.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144600id_/http%3A//www.theinfow.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfow.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901190736id_/http%3A//www.theinfow.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # TheInfow.com: iOS, iPhone, iPad jailbreaking, gadgets, news, events and more: Privacy Policy
 
