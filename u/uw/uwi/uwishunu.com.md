@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwishunu.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620083104id_/http%3A//www.uwishunu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwishunu.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902015506id_/http%3A//www.uwishunu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Uwishunu - Philadelphia Blog About Things to Do, Events, Restaurants, Food, Nightlife and More
 
