@@ -1,85 +1,7 @@
-<!--The following is the downloaded HTML source of the ssrn.com privacy policy that was archived on 2017-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170325145113id_/https%3A//www.ssrn.com/en/index.cfm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ssrn.com privacy policy that was archived on 2017-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170901232158id_/https%3A//www.ssrn.com/en/index.cfm/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><script src="https://script.crazyegg.com/pages/scripts/0020/1063.js?439482" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/6377660405.js"></script><script language="javascript">
-		//Language functions
-		function changeLanguage1(language, response){
-
-			$.ajax({
-				url: '/AltLanguage_ajax.cfm?type=changeLanguage&partid=1&strCode=en',
-				cache: false,
-				success: function(data) {
-					// Update values in cookies
-					Set_Cookie('SITEID',language,'-1','/','.ssrn.com','');
-					Set_Cookie('SITEID',language,'1000','/','.ssrn.com','');
-
-					// Finally, perform redirection
-					if (response == 'reload') {
-						window.location.reload();
-					}
-					else {
-						window.location.href=response;
-					}
-				}
-			});
-		}
-
-		function Set_Cookie( name, value, expires, path, domain, secure ) {
-			// set time, its in milliseconds
-			var today = new Date();
-			today.setTime( today.getTime() );
-
-			/*
-			if the expires variable is set, make the correct
-			expires time, the current script below will set
-			it for x number of days, to make it for hours,
-			delete * 24, for minutes, delete * 60 * 24
-			*/
-			if ( expires ) {
-				expires = expires * 1000 * 60 * 60 * 24;
-			}
-
-			var expires_date = new Date( today.getTime() + (expires) );
-
-			document.cookie = name + "=" +escape( value ) +
-			( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-			( ( path ) ? ";path=" + path : "" ) +
-			( ( domain ) ? ";domain=" + domain : "" ) +
-			( ( secure ) ? ";secure" : "" );
-		}
-
-
-		/*
-		* We use this function when the language should be stripped from an object, like a form RADIO
-		*/
-		function getLanguage ( oObj ) {
-			var specialChars = "!@#$^&%*()+=-[]\/{}|:<>?,.";
-
-			// Need to clean up code if object came from Mura site.
-			sCode = oObj.value;
-			if (sCode.length > 2) {
-				for (var i = 0; i < specialChars.length; i++) {
-					sCode = sCode.replace(new RegExp("\\" + specialChars[i], 'gi'), '');
-				}
-				// After cleaning up special chars, we take the first two chars.
-				sCode = sCode.substring(0,2).trim();
-			}
-
-			return sCode;
-		}
-	</script>
-
-
-
-
-
-
-	
-		
-	
-
-
-<script language="JavaScript">
+<html><head><script src="https://script.crazyegg.com/pages/scripts/0020/1063.js?439482" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/6377660405.js"></script><script language="JavaScript">
 var beforeload = (new Date()).getTime();
 var totalTime = 0;
 var clientTime = 0;
@@ -93,31 +15,29 @@ function CreateXmlHttpObj1() {
 	if(!XmlHttpObj1 && typeof XMLHttpRequest != "undefined") {XmlHttpObj1 = new XMLHttpRequest();}}
 
 function updateTime() {
-			var sQuery = "";
-			var sURL = "/en/index.cfm";
+	var sQuery = "";
+	var sURL = "%2Fen%2Findex%2Ecfm";
+	var sNameDom = "www.ssrn.com";
+	var sIP = "51.15.133.71";
+	var sBrowser = "ArchiveTeam ArchiveBot/20170811.01 (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";
+	var sProtocol = location.protocol;
+	var requestUrl = sProtocol+ "//"+sNameDom+"/AjaxStatic.cfm?file=updateLoadTime";
 
-			var sNameDom = "www.ssrn.com";
-			var sIP = "138.68.21.171";
-			var sBrowser = "ArchiveTeam ArchiveBot/20170106.02 (wpull 2.0.2) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";
-			var sProtocol = location.protocol;
-			var requestUrl = sProtocol+ "//"+sNameDom+"/AjaxStatic.cfm?file=updateLoadTime";
+	var mydate= new Date();
+	var sTZOffset = mydate.getTimezoneOffset()/60;
+	var getSign = Sign(sTZOffset);
 
-			var mydate= new Date();
-			var sTZOffset = mydate.getTimezoneOffset()/60;
-			var getSign = Sign(sTZOffset);
+	if (getSign == '-') {sTZOffset = "GMT+ "+ Math.abs(sTZOffset)+":00";}
+	else {if (getSign == '+') {sTZOffset = "GMT- "+ Math.abs(sTZOffset)+":00";}
+	else {sTZOffset = "GMT";}
+	}
 
-			if (getSign == '-') {sTZOffset = "GMT+ "+ Math.abs(sTZOffset)+":00";}
-			else {if (getSign == '+') {sTZOffset = "GMT- "+ Math.abs(sTZOffset)+":00";}
-				  else {sTZOffset = "GMT";}
-			}
-
-			CreateXmlHttpObj1();
-			if(XmlHttpObj1) {
-				XmlHttpObj1.open('POST',requestUrl,false);
-				XmlHttpObj1.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-				XmlHttpObj1.send("url1=" +encodeURIComponent(sURL)+ "&qry=" +encodeURIComponent(sQuery)+ "&ip=" +sIP+ "&zone=" +encodeURIComponent(sTZOffset)+ "&ua=" +encodeURIComponent(sBrowser)+ "&setime=" +serverTime+ "&totime=" +totalTime);
-
-			}
+	CreateXmlHttpObj1();
+	if(XmlHttpObj1) {
+		XmlHttpObj1.open('POST',requestUrl,false);
+		XmlHttpObj1.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+		XmlHttpObj1.send("url1=" + sURL + "&qry=" + sQuery + "&ip=" + sIP + "&zone=" + encodeURIComponent(sTZOffset) + "&ua=" + encodeURIComponent(sBrowser) + "&setime=" + serverTime + "&totime=" + totalTime);
+	}
 }
 
 function loadingTime() {
@@ -131,17 +51,17 @@ function loadingTime() {
 	updateTime();
 }
 function addLoadEvent(func) {
-  var oldonload = window.onload;
-  if (typeof window.onload != 'function') {
-    window.onload = func;
-  } else {
-    window.onload = function() {
-      if (oldonload) {
-        oldonload();
-      }
-      func();
-    }
-  }
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			if (oldonload) {
+				oldonload();
+			}
+			func();
+		}
+	}
 }
 </script>
 
@@ -243,8 +163,8 @@ function addLoadEvent(func) {
 
 	<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/normalize.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/custom.min.css?v=3">
-	<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/researchNetworks.min.css?v=3">
+	<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/custom.min.css?v=25">
+	<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/researchNetworks.min.css?v=25">
 	
 	<!--[if lte IE 8]>
 	<script src="/en/includes/themes/merced/js/ie/lte8/html5.js" type="text/javascript" language="Javascript"></script>
@@ -311,7 +231,7 @@ var rb="en";
             setTimeout(optimizelyTimeout, 1e3)
         </script>
     <script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-8fea1b3346833690f9c242f7ed61a356839d979a.js"></script>
-<script type="text/javascript">var pageData = {"page":{"productName":"SS","businessUnit":"els:rp:ssrn","loadTimestamp":"1490453469609","name":"privacy-policy","language":"en","loadTime":"203","noTracking":"","type":"NP-GP","environment":"prod"},"visitor":{"accessType":"ss:guest","userId":""}};</script>
+<script type="text/javascript">var pageData = {"visitor":{"accessType":"ss:guest","userId":""},"page":{"businessUnit":"els:rp:ssrn","language":"en","loadTime":"94","noTracking":"","environment":"prod","productName":"SS","loadTimestamp":"1504308118499","type":"NP-GP","name":"privacy-policy"}};</script>
 <script language="JavaScript">
 var beforeload = (new Date()).getTime();
 var totalTime = 0;
@@ -326,31 +246,29 @@ function CreateXmlHttpObj1() {
 	if(!XmlHttpObj1 && typeof XMLHttpRequest != "undefined") {XmlHttpObj1 = new XMLHttpRequest();}}
 
 function updateTime() {
-			var sQuery = "";
-			var sURL = "/en/index.cfm";
+	var sQuery = "";
+	var sURL = "%2Fen%2Findex%2Ecfm";
+	var sNameDom = "www.ssrn.com";
+	var sIP = "51.15.133.71";
+	var sBrowser = "ArchiveTeam ArchiveBot/20170811.01 (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";
+	var sProtocol = location.protocol;
+	var requestUrl = sProtocol+ "//"+sNameDom+"/AjaxStatic.cfm?file=updateLoadTime";
 
-			var sNameDom = "www.ssrn.com";
-			var sIP = "138.68.21.171";
-			var sBrowser = "ArchiveTeam ArchiveBot/20170106.02 (wpull 2.0.2) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";
-			var sProtocol = location.protocol;
-			var requestUrl = sProtocol+ "//"+sNameDom+"/AjaxStatic.cfm?file=updateLoadTime";
+	var mydate= new Date();
+	var sTZOffset = mydate.getTimezoneOffset()/60;
+	var getSign = Sign(sTZOffset);
 
-			var mydate= new Date();
-			var sTZOffset = mydate.getTimezoneOffset()/60;
-			var getSign = Sign(sTZOffset);
+	if (getSign == '-') {sTZOffset = "GMT+ "+ Math.abs(sTZOffset)+":00";}
+	else {if (getSign == '+') {sTZOffset = "GMT- "+ Math.abs(sTZOffset)+":00";}
+	else {sTZOffset = "GMT";}
+	}
 
-			if (getSign == '-') {sTZOffset = "GMT+ "+ Math.abs(sTZOffset)+":00";}
-			else {if (getSign == '+') {sTZOffset = "GMT- "+ Math.abs(sTZOffset)+":00";}
-				  else {sTZOffset = "GMT";}
-			}
-
-			CreateXmlHttpObj1();
-			if(XmlHttpObj1) {
-				XmlHttpObj1.open('POST',requestUrl,false);
-				XmlHttpObj1.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-				XmlHttpObj1.send("url1=" +encodeURIComponent(sURL)+ "&qry=" +encodeURIComponent(sQuery)+ "&ip=" +sIP+ "&zone=" +encodeURIComponent(sTZOffset)+ "&ua=" +encodeURIComponent(sBrowser)+ "&setime=" +serverTime+ "&totime=" +totalTime);
-
-			}
+	CreateXmlHttpObj1();
+	if(XmlHttpObj1) {
+		XmlHttpObj1.open('POST',requestUrl,false);
+		XmlHttpObj1.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+		XmlHttpObj1.send("url1=" + sURL + "&qry=" + sQuery + "&ip=" + sIP + "&zone=" + encodeURIComponent(sTZOffset) + "&ua=" + encodeURIComponent(sBrowser) + "&setime=" + serverTime + "&totime=" + totalTime);
+	}
 }
 
 function loadingTime() {
@@ -364,17 +282,17 @@ function loadingTime() {
 	updateTime();
 }
 function addLoadEvent(func) {
-  var oldonload = window.onload;
-  if (typeof window.onload != 'function') {
-    window.onload = func;
-  } else {
-    window.onload = function() {
-      if (oldonload) {
-        oldonload();
-      }
-      func();
-    }
-  }
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			if (oldonload) {
+				oldonload();
+			}
+			func();
+		}
+	}
 }
 </script></head>
 
@@ -386,6 +304,8 @@ function addLoadEvent(func) {
 	
 		
 	
+
+
 
 
 
@@ -413,7 +333,7 @@ function addLoadEvent(func) {
 	
 	<script language="javascript" type="text/javascript">
 
-	setServerVars("https://www.ssrn.com/AjaxStatic.cfm?file=SuggBoxProcess","/en/index.cfm","138.68.21.171",Trim(prepareString("www.ssrn.com/en/index.cfm")), "");
+	setServerVars("https://www.ssrn.com/AjaxStatic.cfm?file=SuggBoxProcess","/en/index.cfm","51.15.133.71",Trim(prepareString("www.ssrn.com/en/index.cfm")), "");
 
 	$('form[name="formSuggestions"]').submit(function(e) {
 		e.preventDefault();
@@ -436,12 +356,15 @@ function addLoadEvent(func) {
 	
 	
 	
+	
+	
+	
 		<div id="container" class="sysPrivacypolicy">
 			
 
 
 
-
+	
 
 
 
@@ -485,6 +408,19 @@ function addLoadEvent(func) {
 
 
 
+	
+	
+
+
+
+
+	
+	
+
+
+
+
+
 
 
 
@@ -494,15 +430,10 @@ function addLoadEvent(func) {
 
 
 
-	
 
 
-
-
-
-
-<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/custom-bootstrap.min.css?v=3">
-<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/custom.min.css?v=3">
+<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/custom-bootstrap.min.css?v=25">
+<link rel="stylesheet" type="text/css" href="https://static.ssrn.com/cfincludes/css/custom.min.css?v=25">
 
 <!--HEADER-->
 <div id="headerId" class="header-integration">
@@ -539,12 +470,12 @@ function addLoadEvent(func) {
 						<li class="has-sub-menu">
 							<a href="javascript:void(0);">Rankings</a>
 							<ul class="sub-menu">
-								<li><a href="https://hq.ssrn.com/rankings/Ranking_display.cfm?TRN_gID=10">Top Papers</a></li>
+								<li><a href="https://hq.ssrn.com/rankings/Ranking_display.cfm?TRN_gID=10" id="topPapesLink">Top Papers</a></li>
 								<li><a href="https://www.ssrn.com/en/index.cfm/top-authors/">Top Authors</a></li>
 								<li><a href="https://www.ssrn.com/en/index.cfm/top-organizations/">Top Organizations</a></li>
 							</ul>
 						</li>
-						<li><a href="https://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper</a></li>
+						<li><a href="https://hq.ssrn.com/submissions/CreateNewAbstract.cfm" id="submitPaperLink">Submit a paper</a></li>
 						<li><a href="http://ssrnblog.com" target="_blank">Blog</a></li>
 						<li class="register-link"><a href="https://hq.ssrn.com/login/pubsigninjoin.cfm">Register now <i class="icon icon-gizmo-navigate-right"></i></a></li>
 					</ul>
@@ -552,10 +483,7 @@ function addLoadEvent(func) {
 			</div>
 			<div class="header-right">
 				<a class="shopping-cart-btn" href="https://papers.ssrn.com/sol3/ShoppingCart.cfm"><i class="icon icon-gizmo-shopping-cart"></i></a>
-				<a id="profile" href="#" class="user-container" style="display:none;">
-					<div id="name-header" class="user-name"><div class="user-name-overflow">Public User</div></div>
-					<div id="user-icon-btn" class="user-icon-btn"><i class="icon icon-gizmo-person"></i></div>
-				</a>
+
 				
 				<a id="btnRegister" class="btn-blue header-signin-btn" href="https://hq.ssrn.com/login/pubsigninjoin.cfm">REGISTER</a>
 				<a id="btnSignin" class="btn-blue header-signin-btn">SIGN IN</a>
@@ -606,6 +534,10 @@ function addLoadEvent(func) {
 				<button id="btnMenu" type="button" class="header-menu-btn" aria-expanded="false">
 					<i class="icon icon-nav-menu"></i>
 				</button>
+				<a id="profile" href="#" class="user-container" style="display:none;">
+					<div id="name-header" class="user-name"><div class="user-name-overflow">Public User</div></div>
+					<div id="user-icon-btn" class="user-icon-btn"><i class="icon icon-gizmo-person"></i></div>
+				</a>
 			</div>
 		</div>
 	</div>
@@ -682,6 +614,7 @@ $( document ).ready(function() {
 	/* dropdown user*/
 	$('#btnSignin').click(function(e) {
 		e.preventDefault();
+		pageDataTracker.trackEvent('conversionDriverClick', {conversionDriver:{name : 'ssrn-header:sign-in-or-register'}});
 		$("#txtLogin").val("");
 		$("#txtPassword").val("");
 		$("#errorMessageLogin").hide();
@@ -690,6 +623,19 @@ $( document ).ready(function() {
 		$(".menu-main .register-link").hide();
 		$loginBox.toggleClass('open');
 		$body.toggleClass('nav-is-open');
+	});
+
+	
+	$('#btnRegister').on('click', function() {
+		pageDataTracker.trackEvent('conversionDriverClick', {conversionDriver:{name : 'ssrn-header:register'}});
+	});
+
+	$('#topPapesLink').on('click', function() {
+		pageDataTracker.trackEvent('conversionDriverClick', {conversionDriver:{name : 'rankings-top-papers'}});
+	});
+
+	$('#submitPaperLink').on('click', function() {
+		pageDataTracker.trackEvent('conversionDriverClick', {conversionDriver:{name : 'ssrn-header:submit-article'}});
 	});
 
 	$('#btnMenu').on('click', function() {
@@ -799,7 +745,7 @@ $( document ).ready(function() {
 					if(data.ILOGINRESULT == 0) {
 						var lngPartLogedIn = data.USER.PART_ID;
 						buildmenu(lngPartLogedIn);
-						$("#name-header").text(data.USER.FULLNAME);
+						$("#name-header div.user-name-overflow").text(data.USER.FULLNAME);
 						$("#name-mo-header").text(data.USER.FULLNAME);
 						$('#profile').show();
 						$("#btnSignin").hide();
@@ -873,13 +819,11 @@ $( document ).ready(function() {
 
 
 
-			<div id="contentdefault" class="container">
+			<div id="contentdefault" class="container has-mobile">
 				<aside id="left">
 					<div>
 						
 						
-
-
 
 
 
@@ -900,6 +844,117 @@ $( document ).ready(function() {
 	<h2 class="left">Research Networks:</h2>
 	<div class="clear"></div>
 </div>
+
+<div class="dropdown dropdown-left-navigation mobile-only">
+	<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> Select Network <span class="glyphicon glyphicon-menu-down"></span> </button>
+	<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+		<li>
+			<a class="link-left-side link-dropdown-arn" href="/en/index.cfm/arn/"> 
+				Accounting <span class="side-link-short">ARN</span>
+			</a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-aarn" href="/en/index.cfm/aarn/"> Anthropology &amp; Archaeology <span class="side-link-short">AARN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-biorn" href="/en/index.cfm/biorn/"> 
+				Biology <span class="side-link-short">BioRN</span> 
+			</a>
+		</li>
+		<li>
+			<a class="link-left-side" href="/en/index.cfm/chemrn/">
+				Chemistry<span class="side-link-short">ChemRN</span>
+			</a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-crn" href="/en/index.cfm/crn/"> Classics
+			<span class="side-link-short">CRN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-csn" href="/en/index.cfm/csn/"> 
+				Cognitive Science <span class="side-link-short"> CSN</span> 
+			</a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-cgn" href="/en/index.cfm/cgn/"> Corporate Governance 
+			<span class="side-link-short">CGN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-ern" href="/en/index.cfm/ern/"> Economics 
+			<span class="side-link-short"> ERN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-erpn" href="/en/index.cfm/erpn/"> Entrepreneurship
+				<span class="side-link-short">ERPN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-fen" href="/en/index.cfm/fen/"> Finance 
+			<span class="side-link-short">FEN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-hen" href="/en/index.cfm/hen/"> Health Economics
+			<span class="side-link-short">HEN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-hrn" href="/en/index.cfm/hrn/"> Hebrew 
+				<span class="side-link-short">HRN</span> 
+			</a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-isn" href="/en/index.cfm/isn/"> Information Systems &amp; eBusiness <span class="side-link-short">ISN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-irpn" href="/en/index.cfm/irpn/"> Innovation
+			<span class="side-link-short">IRPN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-lsn" href="/en/index.cfm/lsn/"> Law 
+			<span class="side-link-short">LSN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-lrn" href="/en/index.cfm/lrn/"> Leadership 
+			<span class="side-link-short">LRN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-lit" href="/en/index.cfm/lit/"> Literature
+			<span class="side-link-short">LIT</span></a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-mrn" href="/en/index.cfm/mrn/"> Management 
+			<span class="side-link-short">MRN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-mkt" href="/en/index.cfm/mkt/"> Marketing
+			<span class="side-link-short">MKT</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-mrcn" href="/en/index.cfm/mrcn/"> Music &amp; Composition<span class="side-link-short">MRCN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-neg" href="/en/index.cfm/neg/"> Negotiation
+			<span class="side-link-short">NEG</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-prn" href="/en/index.cfm/prn/"> Philosophy
+			<span class="side-link-short">PRN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-psn" href="/en/index.cfm/psn/"> Political Science
+			<span class="side-link-short">PSN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-rcrn" href="/en/index.cfm/rcrn/"> Rhetoric &amp; Communication <span class="side-link-short">RCRN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-sirn" href="/en/index.cfm/sirn/"> Social Insurance
+			<span class="side-link-short">SIRN</span> </a>
+		</li>
+		<li>
+			<a class="link-left-side link-dropdown-srpn" href="/en/index.cfm/srpn/"> Sustainability
+			<span class="side-link-short">SRPN</span> </a>
+		</li>
+	</ul>
+</div><!-- /dropdown -->
 
 <div class="link-arn link-left-side-btn">
 	<a class="link-left-side" href="/en/index.cfm/arn/">
@@ -926,7 +981,7 @@ $( document ).ready(function() {
 	<a class="link-left-side" href="/en/index.cfm/aarn/">
 		<div class="row">
 			<div class="col-sm-6">
-				<div class="side-link-text">Anthropology<br>&amp; Archaeology</div>
+				<div class="side-link-text">Anthropology &amp; Archaeology</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="side-link-short">AARN</div>
@@ -960,6 +1015,47 @@ $( document ).ready(function() {
 		<li class="line-below-list"><a href="/en/index.cfm/biorn/biorn-ejournals/">Subject Matter eJournals</a></li>
 		<li><a href="/en/index.cfm/biorn/biorn-job-openings/">Job Openings</a></li>
 		<li><a href="/en/index.cfm/biorn/biorn-professional-announcements/">Professional Announcements</a></li>
+	</ul>
+</div>
+
+<div class="link-chemrn link-left-side-btn">
+	<a class="link-left-side" href="/en/index.cfm/chemrn/">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="side-link-text">Chemistry</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="side-link-short">ChemRN</div>
+			</div>
+		</div>
+	</a>
+	<ul class="left-ul-links">
+		<li><a href="/en/index.cfm/chemrn/chemrn-partners-in-publishing/">Partners in Publishing</a></li>
+		<li><a href="/en/index.cfm/chemrn/chemrn-research-paper-series/">Research Paper Series</a></li>
+		<li><a href="/en/index.cfm/chemrn/chemrn-conferences-meetings/">Conference &amp; Meetings</a></li>
+		<li class="line-below-list"><a href="/en/index.cfm/chemrn/chemrn-ejournals/">Subject Matter eJournals</a></li>
+		<li><a href="/en/index.cfm/chemrn/chemrn-job-openings/">Job Openings</a></li>
+		<li><a href="/en/index.cfm/chemrn/chemrn-professional-announcements/">Professional Announcements</a></li>		
+	</ul>
+</div>
+
+<div class="link-crn link-left-side-btn">
+	<a class="link-left-side" href="/en/index.cfm/crn/">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="side-link-text">Classics</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="side-link-short">CRN</div>
+			</div>
+		</div>
+	</a>
+	<ul class="left-ul-links">
+		<li><a href="/en/index.cfm/crn/crn-research-paper-series/">Research Paper Series</a></li>
+		<li><a href="/en/index.cfm/crn/crn-conferences-meetings/">Conference &amp; Meetings</a></li>
+		<li class="line-below-list"><a href="/en/index.cfm/crn/crn-ejournals/">Subject Matter eJournals</a></li>
+		<li><a href="/en/index.cfm/crn/crn-job-openings/">Job Openings</a></li>
+		<li><a href="/en/index.cfm/crn/crn-professional-announcements/">Professional Announcements</a></li>
 	</ul>
 </div>
 
@@ -1022,7 +1118,7 @@ $( document ).ready(function() {
 		<li><a href="/en/index.cfm/ern/ern-job-openings/">Job Openings</a></li>
 		<li><a href="/en/index.cfm/ern/ern-professional-announcements/">Professional Announcements</a></li>				
 	</ul>
-</div>	
+</div>
 
 <div class="link-erpn link-left-side-btn">
 	<a class="link-left-side" href="/en/index.cfm/erpn/">
@@ -1064,7 +1160,7 @@ $( document ).ready(function() {
 		<li><a href="/en/index.cfm/fen/fen-job-openings/">Job Openings</a></li>
 		<li><a href="/en/index.cfm/fen/fen-professional-announcements/">Professional Announcements</a></li>
 	</ul>
-</div>							
+</div>
 
 <div class="link-hen link-left-side-btn">
 	<a class="link-left-side" href="/en/index.cfm/hen/">
@@ -1114,112 +1210,11 @@ $( document ).ready(function() {
 	</div>
 </div>
 
-
-<div class="link-crn link-left-side-btn">
-	<a class="link-left-side" href="/en/index.cfm/crn/">
-		<div class="row">
-			<div class="col-sm-6">
-				<div class="side-link-text">Humanities: Classics</div>
-			</div>
-			<div class="col-sm-6">
-				<div class="side-link-short">CRN</div>
-			</div>
-		</div>
-	</a>
-	<ul class="left-ul-links">
-		<li><a href="/en/index.cfm/crn/crn-research-paper-series/">Research Paper Series</a></li>
-		<li><a href="/en/index.cfm/crn/crn-conferences-meetings/">Conference &amp; Meetings</a></li>
-		<li class="line-below-list"><a href="/en/index.cfm/crn/crn-ejournals/">Subject Matter eJournals</a></li>
-		<li><a href="/en/index.cfm/crn/crn-job-openings/">Job Openings</a></li>
-		<li><a href="/en/index.cfm/crn/crn-professional-announcements/">Professional Announcements</a></li>
-	</ul>
-</div>
-
-<div class="link-lit link-left-side-btn">
-	<a class="link-left-side" href="/en/index.cfm/lit/">
-		<div class="row">
-			<div class="col-sm-6">
-				<div class="side-link-text">Humanities: Literature</div>
-			</div>
-			<div class="col-sm-6">
-				<div class="side-link-short">LIT</div>
-			</div>
-		</div>
-	</a>
-	<ul class="left-ul-links">
-		<li><a href="/en/index.cfm/lit/lit-research-paper-series/">Research Paper Series</a></li>
-		<li><a href="/en/index.cfm/lit/lit-conferences-meetings/">Conference &amp; Meetings</a></li>
-		<li class="line-below-list"><a href="/en/index.cfm/lit/lit-ejournals/">Subject Matter eJournals</a></li>
-		<li><a href="/en/index.cfm/lit/lit-job-openings/">Job Openings</a></li>
-		<li><a href="/en/index.cfm/lit/lit-professional-announcements/">Professional Announcements</a></li>
-	</ul>
-</div>
-
-<div class="link-mrcn link-left-side-btn">
-	<a class="link-left-side" href="/en/index.cfm/mrcn/">
-		<div class="row">
-			<div class="col-sm-6">
-				<div class="side-link-text">Humanities: Music  <br> &amp; Composition</div>
-			</div>
-			<div class="col-sm-6">
-				<div class="side-link-short">MRCN</div>
-			</div>
-		</div>
-	</a>
-	<ul class="left-ul-links">
-		<li><a href="/en/index.cfm/mrcn/mrcn-partners-in-publishing/">Partners in Publishing</a></li>
-		<li><a href="/en/index.cfm/mrcn/mrcn-research-paper-series/">Research Paper Series</a></li>
-		<li class="line-below-list"><a href="/en/index.cfm/mrcn/mrcn-ejournals/">Subject Matter eJournals</a></li>
-		<li><a href="/en/index.cfm/mrcn/mrcn-job-openings/">Job Openings</a></li>
-		<li><a href="/en/index.cfm/mrcn/mrcn-professional-announcements/">Professional Announcements</a></li>
-	</ul>
-</div>
-
-<div class="link-prn link-left-side-btn">
-	<a class="link-left-side" href="/en/index.cfm/prn/">
-		<div class="row">
-			<div class="col-sm-6">
-				<div class="side-link-text">Humanities: Philosophy</div>
-			</div>
-			<div class="col-sm-6">
-				<div class="side-link-short">PRN</div>
-			</div>
-		</div>
-	</a>
-	<ul class="left-ul-links">
-		<li><a href="/en/index.cfm/prn/prn-research-paper-series/">Research Paper Series</a></li>
-		<li><a href="/en/index.cfm/prn/prn-conferences-meetings/">Conference &amp; Meetings</a></li>
-		<li class="line-below-list"><a href="/en/index.cfm/prn/prn-ejournals/">Subject Matter eJournals</a></li>
-		<li><a href="/en/index.cfm/prn/prn-job-openings/">Job Openings</a></li>
-		<li><a href="/en/index.cfm/prn/prn-professional-announcements/">Professional Announcements</a></li>
-	</ul>
-</div>
-
-<div class="link-rcrn link-left-side-btn">
-	<a class="link-left-side" href="/en/index.cfm/rcrn/">
-		<div class="row">
-			<div class="col-sm-6">
-				<div class="side-link-text">Humanities: Rhetoric <br> &amp; Communication</div>
-			</div>
-			<div class="col-sm-6">
-				<div class="side-link-short">RCRN</div>
-			</div>
-		</div>
-	</a>
-	<ul class="left-ul-links">
-		<li><a href="/en/index.cfm/rcrn/rcrn-partners-in-publishing/">Partners in Publishing</a></li>
-		<li><a href="/en/index.cfm/rcrn/rcrn-research-paper-series/">Research Paper Series</a></li>
-		<li class="line-below-list"><a href="/en/index.cfm/rcrn/rcrn-ejournals/">Subject Matter eJournals</a></li>
-		<li><a href="/en/index.cfm/rcrn/rcrn-job-openings/">Job Openings</a></li>
-		<li><a href="/en/index.cfm/rcrn/rcrn-professional-announcements/">Professional Announcements</a></li>
-	</ul>
-</div>
-
 <div class="link-isn link-left-side-btn">
 	<a class="link-left-side" href="/en/index.cfm/isn/">
 		<div class="row">
 			<div class="col-sm-6">
-				<div class="side-link-text">Information Systems<br> &amp; eBusiness</div>
+				<div class="side-link-text">Information Systems &amp; eBusiness</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="side-link-short">ISN</div>
@@ -1296,6 +1291,26 @@ $( document ).ready(function() {
 	</ul>
 </div>
 
+<div class="link-lit link-left-side-btn">
+	<a class="link-left-side" href="/en/index.cfm/lit/">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="side-link-text">Literature</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="side-link-short">LIT</div>
+			</div>
+		</div>
+	</a>
+	<ul class="left-ul-links">
+		<li><a href="/en/index.cfm/lit/lit-research-paper-series/">Research Paper Series</a></li>
+		<li><a href="/en/index.cfm/lit/lit-conferences-meetings/">Conference &amp; Meetings</a></li>
+		<li class="line-below-list"><a href="/en/index.cfm/lit/lit-ejournals/">Subject Matter eJournals</a></li>
+		<li><a href="/en/index.cfm/lit/lit-job-openings/">Job Openings</a></li>
+		<li><a href="/en/index.cfm/lit/lit-professional-announcements/">Professional Announcements</a></li>
+	</ul>
+</div>
+
 <div class="link-mrn link-left-side-btn">
 	<a class="link-left-side" href="/en/index.cfm/mrn/">
 		<div class="row">
@@ -1336,6 +1351,26 @@ $( document ).ready(function() {
 	</ul>
 </div>
 
+<div class="link-mrcn link-left-side-btn">
+	<a class="link-left-side" href="/en/index.cfm/mrcn/">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="side-link-text">Music &amp; Composition</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="side-link-short">MRCN</div>
+			</div>
+		</div>
+	</a>
+	<ul class="left-ul-links">
+		<li><a href="/en/index.cfm/mrcn/mrcn-partners-in-publishing/">Partners in Publishing</a></li>
+		<li><a href="/en/index.cfm/mrcn/mrcn-research-paper-series/">Research Paper Series</a></li>
+		<li class="line-below-list"><a href="/en/index.cfm/mrcn/mrcn-ejournals/">Subject Matter eJournals</a></li>
+		<li><a href="/en/index.cfm/mrcn/mrcn-job-openings/">Job Openings</a></li>
+		<li><a href="/en/index.cfm/mrcn/mrcn-professional-announcements/">Professional Announcements</a></li>
+	</ul>
+</div>
+
 <div class="link-neg link-left-side-btn">
 	<a class="link-left-side" href="/en/index.cfm/neg/">
 		<div class="row">
@@ -1353,6 +1388,26 @@ $( document ).ready(function() {
 		<li class="line-below-list"><a href="/en/index.cfm/neg/neg-ejournals/">Subject Matter eJournals</a></li>
 		<li><a href="/en/index.cfm/neg/neg-job-openings/">Job Openings</a></li>
 		<li><a href="/en/index.cfm/neg/neg-professional-announcements/">Professional Announcements</a></li>
+	</ul>
+</div>
+
+<div class="link-prn link-left-side-btn">
+	<a class="link-left-side" href="/en/index.cfm/prn/">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="side-link-text">Philosophy</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="side-link-short">PRN</div>
+			</div>
+		</div>
+	</a>
+	<ul class="left-ul-links">
+		<li><a href="/en/index.cfm/prn/prn-research-paper-series/">Research Paper Series</a></li>
+		<li><a href="/en/index.cfm/prn/prn-conferences-meetings/">Conference &amp; Meetings</a></li>
+		<li class="line-below-list"><a href="/en/index.cfm/prn/prn-ejournals/">Subject Matter eJournals</a></li>
+		<li><a href="/en/index.cfm/prn/prn-job-openings/">Job Openings</a></li>
+		<li><a href="/en/index.cfm/prn/prn-professional-announcements/">Professional Announcements</a></li>
 	</ul>
 </div>
 
@@ -1374,6 +1429,26 @@ $( document ).ready(function() {
 		<li class="line-below-list"><a href="/en/index.cfm/psn/psn-ejournals/">Subject Matter eJournals</a></li>
 		<li><a href="/en/index.cfm/psn/psn-job-openings/">Job Openings</a></li>
 		<li><a href="/en/index.cfm/psn/psn-professional-announcements/">Professional Announcements</a></li>
+	</ul>
+</div>
+
+<div class="link-rcrn link-left-side-btn">
+	<a class="link-left-side" href="/en/index.cfm/rcrn/">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="side-link-text">Rhetoric &amp; Communication</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="side-link-short">RCRN</div>
+			</div>
+		</div>
+	</a>
+	<ul class="left-ul-links">
+		<li><a href="/en/index.cfm/rcrn/rcrn-partners-in-publishing/">Partners in Publishing</a></li>
+		<li><a href="/en/index.cfm/rcrn/rcrn-research-paper-series/">Research Paper Series</a></li>
+		<li class="line-below-list"><a href="/en/index.cfm/rcrn/rcrn-ejournals/">Subject Matter eJournals</a></li>
+		<li><a href="/en/index.cfm/rcrn/rcrn-job-openings/">Job Openings</a></li>
+		<li><a href="/en/index.cfm/rcrn/rcrn-professional-announcements/">Professional Announcements</a></li>
 	</ul>
 </div>
 
@@ -1409,6 +1484,7 @@ $( document ).ready(function() {
 	<ul class="left-ul-links">
 		<li><a href="/en/index.cfm/srpn/srpn-partners-in-publishing/">Partners in Publishing</a></li>
 		<li><a href="/en/index.cfm/srpn/srpn-research-paper-series/">Research Paper Series</a></li>
+		<li><a href="/en/index.cfm/srpn/srpn-conferences-meetings/">Conference &amp; Meetings</a></li>
 		<li class="line-below-list"><a href="/en/index.cfm/srpn/srpn-ejournals/">Subject Matter eJournals</a></li>
 		<li><a href="/en/index.cfm/srpn/srpn-job-openings/">Job Openings</a></li>
 		<li><a href="/en/index.cfm/srpn/srpn-professional-announcements/">Professional Announcements</a></li>
@@ -1524,6 +1600,12 @@ $( document ).ready(function() {
 		
 	
 
+
+
+
+	
+
+
 			
 
 
@@ -1540,7 +1622,7 @@ $( document ).ready(function() {
 	
         
 	
-
+	
 	
 
 
@@ -1615,6 +1697,7 @@ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
 					<a href="https://www.ssrn.com/en/index.cfm/conferences/">Conference Papers</a>
 					<a href="https://papers.ssrn.com/sol3/DisplayPipPublishers.cfm">Partners in Publishing</a>
 					<a href="https://www.ssrn.com/en/index.cfm/org-homepage/">Organization Homepages</a>
+					<a target="_blank" href="https://communications.elsevier.com/webApp/els_doubleOptInWA?do=0&amp;srv=els_SSRN&amp;sid=153&amp;uif=0&amp;uvis=3">Newsletter Sign Up</a>
 				</div>
 			</div>
 			<div class="footer-col">
@@ -1636,19 +1719,6 @@ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
 					<a href="https://www.ssrn.com/en/index.cfm/ssrn-faq/">FAQs</a>
 				</div>
 			</div>
-			<!--div class="footer-col">
-				<h4 data-toggle="collapse">Language <i class="icon-gizmo-navigate-down"></i></h4>
-				<div class="collapsable">
-					<select id="svLTM" class="dropdown-lang" onchange="changeLanguage(this.value);">
-						<option value="https://www.ssrn.com/en/">English</option>
-						<option value="https://www.ssrn.com/en/index.cfm/hrn/" >Hebrew</option>
-					</select>
-					<div class="translation-notice note">
-						<span>Please note:</span>
-						Language translation is available on select pages.
-					</div>
-				</div>
-			</div -->
 		</div>
 		<div class="footer-social-links">
 			<a target="_blank" href="https://www.facebook.com/SSRNcommunity/"><i class="icon icon-social-facebook"></i></a>
@@ -1673,7 +1743,7 @@ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
 					<span class="icon-gizmo-lightning alwaysshowme">
 						<span class="tooltip top" role="tooltip">
 							<span class="tooltip-arrow"></span>
-							<span class="tooltip-inner">This page was processed by apollo5 in <span id="serverTime">  0.203</span> seconds <span id="loadingtime">and delivered in 0.265 seconds</span></span>
+							<span class="tooltip-inner">This page was processed by apollo5 in <span id="serverTime">  0.094</span> seconds <span id="loadingtime">and delivered in 0.146 seconds</span></span>
 						</span>
 					</span>
 					</p>
@@ -1809,6 +1879,17 @@ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
 	<div class="toastr-link"><a id="toastrLink" href="#"></a></div>
 </div>
 
+
+
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script type="text/javascript" src="//static.ssrn.com/cfincludes/vendors/bootstrap-datepicker/bootstrap.min.js"></script>
+		<script type="text/javascript">
+			$( document ).ready(function() {
+				console.log( "ready!" );
+				$('.dropdown-toggle').dropdown()
+			});
+
+		</script>
 
 	
 	</body></html>
