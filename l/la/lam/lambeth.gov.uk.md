@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409045727id_/https%3A//www.lambeth.gov.uk/elections-and-council/website-support/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901194651id_/https%3A//www.lambeth.gov.uk/elections-and-council/website-support/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookies and Privacy | Lambeth Council
 
