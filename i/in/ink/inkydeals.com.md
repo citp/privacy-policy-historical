@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkydeals.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213213110id_/https%3A//www.inkydeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkydeals.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902005003id_/https%3A//www.inkydeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InkyDeals
 
@@ -24,7 +24,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Eaststar Management LTD  may collect and use Users personal information for the following purposes:
+Brainik LTD  may collect and use Users personal information for the following purposes:
 
   * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
