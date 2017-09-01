@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usab.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825200350id_/http%3A//www.usab.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usab.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901135722id_/https%3A//www.usab.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # USA Basketball Privacy Policy
 
-Looking for the USABasketball.com [Terms of Use](http://www.usab.com/about/terms-of-use.aspx)?
+Looking for the USABasketball.com [Terms of Use](https://www.usab.com/about/terms-of-use.aspx)?
 
 USABasketball.com (the “Site”) is operated by NBA Media Ventures, LLC (“NBAMV”) and its affiliates pursuant to an agreement with USA Basketball, Inc. (“USA Basketball”) (NBAMV and USA Basketball collectively referred to herein as “we”, “our” or “us”).
 
@@ -69,4 +69,4 @@ Any information submitted through the Site will be received and processed in the
 **LAST UPDATED: June 29, 2010**  
 Copyright 2010 USA Basketball, Inc. All rights reserved.
 
-Use of this Site signifies your acceptance of this Privacy Policy and the [Terms of Use](http://www.usab.com/about/terms-of-use.aspx) for USABasketball.com.
+Use of this Site signifies your acceptance of this Privacy Policy and the [Terms of Use](https://www.usab.com/about/terms-of-use.aspx) for USABasketball.com.
