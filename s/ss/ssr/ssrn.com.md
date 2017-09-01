@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssrn.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325145113id_/https%3A//www.ssrn.com/en/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssrn.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901232158id_/https%3A//www.ssrn.com/en/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: SSRN
 
