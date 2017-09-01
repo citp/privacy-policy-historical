@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-nation.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201145413id_/https%3A//www.t-nation.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-nation.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902012432id_/https%3A//www.t-nation.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | T Nation
 
@@ -83,5 +83,5 @@ Colorado Springs, CO 80960-0310
 Phone: 719-473-5500  
 Email: [service@t-nation.com](mailto:service@t-nation.com)
 
-Copyright © 2015 T Nation LLC.  
+Copyright © 2017 T Nation LLC.  
 All rights reserved.
