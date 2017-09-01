@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naturalizer.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606052539id_/http%3A//www.naturalizer.com/en-US/Content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturalizer.com privacy policy that was archived on 2017-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170901194610id_/http%3A//www.naturalizer.com/en-US/Content/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" style="display: block;"><!--<![endif]--><head id="ctl00_Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	
@@ -16,18 +16,28 @@
         <script type="text/javascript" src="/Scripts/MonetateNat.js"></script>
         <!-- End Monetate tag. -->
 
-         <script type="text/javascript" src="/scripts/jquery-1.6.3.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     
 
     <script type="text/javascript" src="/scripts/Scripts.js"></script>
     <script type="text/javascript" src="/scripts/ProductFindingMethod.js"></script>
     <script type="text/javascript" src="/scripts/QueryString_Cookie_Managers.js"></script>
-    <!-- Shop:90051_HeadContent [Main] START --><script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=gt4o4btoopvtp3tha45gzefz44"></script>
-<link rel="stylesheet" type="text/css" href="/Content/assets/styles/base.css">
-<script>
-//Do not remove the $.ajaxSetup(), it prevents $.getScript() from grabbing a non-cached version of scripts
-$.ajaxSetup({cache:true});
-</script><!-- Shop:90051_HeadContent [Main] END -->
+    <!-- Shop:90051_HeadContent [Main] START --><script>
+    if(/outlet/.test(window.location.hostname) && window.location.pathname === '/') {
+        window.location.href = '/en-US/All-Products.aspx';
+    }
+</script>
+<link rel="shortcut icon" href="/Content/images/icons/favicon.png?v=2" type="image/x-icon">
+<link rel="icon" href="/Content/images/icons/favicon.png?v=2" type="image/x-icon">
+
+<link rel="stylesheet" href="/Content/styles/core.css">
+
+<!-- Google DoubleClick-->
+<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=gt4o4btoopvtp3tha45gzefz44"></script>
+
+<!-- Global helpers -->
+<script src="/Content/scripts/bundles/helpers.js"></script><!-- Shop:90051_HeadContent [Main] END -->
             <script src="//assets.adobedtm.com/83461f8252048ab4dd6feb58271157764984178f/satelliteLib-eba546929df5dd819c02432fb569450e3f184474.js"></script>
           
 
@@ -122,9 +132,9 @@ $.ajaxSetup({cache:true});
 						<!--/DO NOT REMOVE/-->
 						<!-- End SiteCatalyst code version: H.25.2. -->
 					
-<!-- Shop:90051_Template_Content_cap [Top] START --><!-- Shop:90051_Template_Content_cap [Top] END --><!-- Shop:90051_privacy_cap [Top] START --><!-- Shop:90051_privacy_cap [Top] END --><link href="/App_Themes/Default/2009/eclub.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/content.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/CSS/qas.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/nat2012.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/nat-fall2013.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/nat-spring2014.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/naturalizerStyles.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/template.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/turnTo.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/zAppDev.css" type="text/css" rel="stylesheet"><meta name="Keywords" content="naturalizer.com, naturalizer shoes
+<!-- Shop:90051_Template_Content_cap [Top] START --><!-- Shop:90051_Template_Content_cap [Top] END --><!-- Shop:90051_privacy_cap [Top] START --><!-- Shop:90051_privacy_cap [Top] END --><meta name="Keywords" content="naturalizer.com, naturalizer shoes
 "><meta name="Description" content="Naturalizer.com, a Brown Shoe website, is committed to the privacy of our customers. Brown Shoe Company is the sole owner of information collected on Naturalizer.com.
-"><link title="naturalizer.com Search Provider" type="application/opensearchdescription+xml" rel="search" href="/Shopping/SearchProviders/SearchProvider_Naturalizer.xml"><link rel="canonical" itemprop="URL" href="http://www.naturalizer.com/en-US/Content/privacy.aspx"></head>
+"><link title="naturalizer.com Search Provider" type="application/opensearchdescription+xml" rel="search" href="/Shopping/SearchProviders/SearchProvider_Naturalizer.xml"><link rel="canonical" itemprop="URL" href="http://www.naturalizer.com/en-US/Content/privacy.aspx"><link rel="alternate" href="http://www.naturalizer.com/mobile/mobilecontentpage.aspx?shoprecord=privacy"></head>
 <body id="ctl00_bodyElement" class="privacy contentPage">
     <!-- csrhdr -->
     
@@ -141,6 +151,11 @@ $.ajaxSetup({cache:true});
     .ihName
     {
         color: white;
+    }
+    .impersonationHack {
+        position: relative !important;
+        top: 0px !important;
+        margin-top: 37px;
     }
 </style>
 <div id="topIBnr" style="display:none; position: fixed; top: 0; width: 100%; z-index: 200000; opacity:0.8;" "="">
@@ -265,6 +280,9 @@ $.ajaxSetup({cache:true});
         $("div.ihName").text("Impersonating " + name + tnote);
     }
 
+    (function () {
+    })();
+
     // Wire up the events as soon as the DOM tree is ready
     $(document).ready(function () {
         var impval = fetchCookieVal("ASPXFORMSIMPERSUSERA");
@@ -274,6 +292,11 @@ $.ajaxSetup({cache:true});
             document.getElementById('topIBnr').style.display = 'block';
             document.getElementById('botIBnr').style.display = 'block';
             wireUpEvents();
+
+            var mostTop = $('#most-top');
+            if (typeof (mostTop) !== 'undefined') {
+                mostTop.addClass('impersonationHack');
+            }
         }
     });
 </script>
@@ -301,392 +324,410 @@ $.ajaxSetup({cache:true});
     </div>
     
     
-    <!-- Shop:90051_Template_SitewideBanner [Main] START --><!-- Shop:90051_Template_SitewideBanner [Main] END -->
-    <div id="TopMargin">
-        <!-- Shop:90051_Template_TopMargin [Main] START --><script type="text/javascript">
-  /* set outlet cookie */
-  var setOutletCookie = function(value) {
-      //set the cookie here.
-      document.cookie = "outlet="+value+";path=/;domain=.naturalizer.com";
-  };
+    <!-- Shop:90051_Template_SitewideBanner [Main] START --><script>
+    // this script should be removed after App_Themes CSS files have been deleted. Contact Matt Johnson for details
+    var links = document.getElementsByTagName('link');
 
-  if (document.location.host.match(/outlet/i)) { 
-    setOutletCookie("viewing");
-    $('body').addClass('outlet');
-  } else if (document.location.host.match(/www/i))  {
-    var outlet = document.cookie.replace(/(?:(?:^|.*;\s*)outlet\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-    (outlet == "viewing" || outlet == "viewed") ? setOutletCookie("viewed") : setOutletCookie("inactive");
-  };
-</script>
-<link rel="stylesheet" href="/Content/style/details.css">
-<link href="/App_Themes/Default/naturalizerStyles.css" type="text/css" rel="stylesheet">
-
-<!-- Additional Sitewide Scripts START -->
-<!-- ********************************* -->
-<script type="text/javascript">
-  // Legacy concerns related to old frameworks
-  var $j = $;
-
-  // Function to submit search query
-  function SearchSubmit() {
-
-    if (document.endeca2.Ntt.value == '') {
-      return false;
-    } else {
-      return true;
+    for(i = links.length - 1; i >=0; i--) {
+        if(/App_Themes/.test(links[i].href)) {
+            links[i].parentNode.removeChild(links[i]);
+        }
     }
-    return false;
-  }
 </script>
-<!-- Cookie Manager -->
-<script type="text/javascript" src="/Content/scripts/p.cookie.js"></script>
-<!-- Pinpoint Manager -->
-<script type="text/javascript" src="/Content/scripts/p.pinpointBanner.2.js"></script>
 
-<style>
-  /*.menu .menuItem a {
-    line-height: 1em;
-    padding: 10px 18px 10px 17px;
-  }*/
-</style>
-
-<style>
-#topNavContent a {padding: 9px 5px !important;}
-#topNavContent .nav .navbar li {
-  margin-right:0px;
-}
-#topNavContent .subMenu .menuItem {
-  display: block;
-  float: none;
-  width: auto;
-}
-#topNavContent ul.subMenu.col2 {
-  top: 49px;
-}
-
-/*  -------------- Outlet Nav -------------- */
-.outletBanner {
-        margin: 0 auto;
-        text-align: center;
-}
-.outlet-nav,
-.outletBanner,
-body.outlet.productdetailsPage .outletBanner,
-body.productdetailsPage .outletBanner,
-body.outlet.productdetailsPage #SalePriceDiscount,
-body.outlet.productdetailsPage .salesTag-percOff,
-body.outlet.cartPage .outletBanner,
-body.cartPage .outletBanner,
-#footerwrapper .fcol .natFooterBtn,
-body.outlet #footerwrapper .fcol .outletFooterBtn,
-#topNavBar .naturalizerBtn,
-#topNavBar .outletBtn,
-#naturalizerOutletLogo,
-body.outlet.resultsPage #prefootertext,
-body.outlet.resultsPage #content-shop .results-thumbnails-grid .productCell.s-sale .productImage .badge,
-body.outlet.resultsPage #content-shop .results-thumbnails-grid .productCell .saleTag,
-body.outlet.resultsPage .percentOff,
-body.outlet #homeWrap .disclaimer-block,
-body.outlet #default-footer-txt,
-body.outlet #swBanner,
-body.outlet .premium-nav,
-body.outlet #topNavBar #blog,
-body.outlet #topNavBar .canada,
-body.outlet #topNavBar .myaccount,
-body.outlet #topNavBar .intlship,
-body.outlet #topNavBar .outletBtn,
-body.outlet #naturalizerLogo {
-  display:none;
-}
-body.outlet .outletBanner,
-body.outlet .outlet-nav {
-  display:block;
-}
-body.outlet #footerwrapper .fcol .natFooterBtn {
-  display: inline;
-}
-body.outlet #topNavBar .naturalizerBtn {
-  display: inline-block;
-}
-body.outlet #topNavContent .nav .navbar li:last-of-type {
-  margin-right: 0;
-}
-body.outlet #topNavContent .nav .navbar li {
-  margin-right: 28px;
-}
-body.outlet #naturalizerOutletLogo {
-  display: block;
-  position: absolute;
-  margin: 0;
-  top: 20px;
-  left: 0;
-}
-.outlet-nav #topNavContent li {
-  margin-left: 0;
-}
-.outlet-nav #imgFlag {
-    left: 244px;
-    margin-top: -6px;
-    position: absolute;
-    top: 50%;
-}
-.outlet-nav #Ntt {
-  background: #ffffff;
-    border: #bcb9b4 1px solid;
-    font-size: 11px;
-    padding: 4px 2px;
-    width: 167px;
-    float: right;
-    position: absolute;
-    right: 0px;
-    vertical-align: middle;
-    left: auto;
-    top: auto;
-    bottom: auto;
-}
-.outlet-nav ul#mainNavBar {
-  border-bottom: 1px solid #E3E3E5;
-    padding-left: 7px;
-    width: 953px;
-}
-.outlet-nav #topNavBar {
-  padding: 0 33px 10px 0;
-    font-size: 13px;
-}
-.outlet-nav #topNavBar li {
-  font-weight: 900;
-    font-family: Karla, sans-serif;
-    font-size: 13px;
-}
-.outlet-nav #topNavBar li.cart {
-  width: 90px;
-  background-position: 60px 0px;
-}
-.outlet-nav .nav .navbar a {
-  color: #313131;
-}
-/* Hide monetate ads on Outlet */
-body.outlet [id*="monetate"] {
-  display:none !important;
-}
-body.outlet #epopOptIn {
-  display:none !important;
-}
-
-
-/* outlet catbanner styles */
-body.outlet .catbanner .color-bands {
-  background-color: #bce7e0;
-}
-
-body.outlet .catbanner .white-border {
-  border-color: #313131;
-}
-
-body.outlet .color-bands h2 {
-  color: #313131;
-}
-
-</style>
-<!-- FOR MONETATE BANNER -->
-<div id="topNav" class="nav cf" style="padding: 0;"></div>
-<!-- PREMIUM NAV -->
-<div class="premium-nav">
-  <!-- Tippy Top Navigation START -->
-  <!-- ************************** -->
-  <link rel="stylesheet" href="/Content/assets/styles/nav.css">
-  <div class="top-nav">
-    <div class="utility-shelf clearfix">
-      <ul class="brands-nav">
-<li class="bzees"><a href="/en-US/Womens/_/Bzees/_/_/Products.aspx?icid=TopNav_BrandsBzees">Bzees</a></li><!--
-        --><!--
-        --><li><img id="imgFlag" alt="Ship Internationally" src="/Images/Shopping/spacer.gif"></li>
-      </ul>
-
-      <ul class="utility-nav">
-        <li><a href="http://blog.naturalizer.com">Blog</a></li><!--
-        --><li><a href="http://www.naturalizer.ca/">Canada</a></li><!--
-        --><li><a href="/Profiles/Welcome.aspx" rel="nofollow">My Account</a></li><!--
-        --><li><a href="#" id="topnav-e4x">Intl Shipping</a></li><!--
-        --><li><a href="/Community/storelocator.aspx">Store Locator</a></li><!--
-        --><li>
-          <a class="js-header-cart-link" href="/Checkout/Cart" rel="nofollow">
-            My Cart
-            <span class="cart-icon"><img src="/Content/assets/images/shopping-cart-icon.png" alt=""></span><!--
-            --><span id="cartLink" class="cartNumber"></span>
-          </a>
-        </li>
-      </ul>
-    </div><!-- /utility-shelf -->
-
-    <div class="naturalizer-logo-shelf clearfix">
-      <a href="/" class="branding"><img src="/Content/assets/images/naturalizer-logo.png" alt="Naturalizer"></a>
-      
-      <div class="top-nav-search topSearch">
-        <input id="Ntt" class="Ntt" name="Ntt" type="text"><!--
-        --><a href="#topNavSearchSubmit" id="topNavSearchSubmit" class="topSearchButton">Search</a>
-      </div>
-    </div><!-- /naturalizer-logo-shelf -->
-  </div><!-- /top-nav -->
-
-  <!-- ************************** -->
-  <!-- Tippy Top Navigation END -->
-
-  <!-- Primary Top Navigation START -->
-  <!-- **************************** -->
-
-  <div id="topNavContent">
-    <ul>
-      <li><a href="/womens?icid=TopNav_Womens">View All</a></li><!--
-      --><li><a href="/en-US/Womens/_/_/Dress+Shoes/_/Products.aspx?icid=TopNav_Womens_DressShoes">Dress</a></li><!--
-      --><li><a href="/en-US/Womens/_/_/Casual+Shoes/_/Products.aspx?icid=TopNav_Womens_CasualShoes">Casual</a></li>
-      <li><a href="/en-US/Womens/_/_/Sport+Shoes/_/Products.aspx?icid=TopNav_Womens_SportShoes">Sport</a></li>
-      <li><a href="/en-US/Womens/_/_/Boots/_/Products.aspx?icid=TopNav_Boots">Boots</a></li><!--
-      --><li><a href="/sandals?icid=TopNav_Sandals">Sandals</a></li><!--
-      --><li>
-        <a href="#" style="cursor: default;">Accessories</a>
-        <ul>
-          <li><a href="/handbags?icid=TopNav_Handbags">Handbags</a></li>
-          <li><a href="/en-US/Accessories/_/Naturalizer/_/_/Products.aspx?icid=TopNav_Accessories">Accessories</a></li>
-        </ul>
-      </li><!--
-      --><li><a href="/en-US/_/_/_/_/New+Arrivals/Products.aspx?icid=TopNav_NewArrivals">New Arrivals</a></li>
-      <li><a href="/bzees?icid=TopNav_BrandsBzees">Bzees</a></li><!--
-      --><li class="outletBtn"><a href="http://outlet.naturalizer.com/?icid=TopNav_Outlet">Outlet</a></li><!--
-      --><li class="sale"><a href="/en-US/_/_/_/_/On+Sale/Products.aspx?icid=TopNav_Sale">Sale</a></li>
-    </ul>
-  </div><!-- /topNavContent -->
+<!-- Shop:90051_Template_SitewideBanner [Main] END -->
+    <div id="TopMargin">
+        <!-- Shop:90051_Template_TopMargin [Main] START --><div class="sitewide-banner">
+	<a href="/en-US/Content/shipping.aspx">
+		<div class="promo-text">FREE SHIPPING WITH $99 PURCHASE*</div>
+	</a>
 </div>
-<!-- /PREMIUM NAV -->
 
-
-<!-- OUTLET NAV -->
-<div class="outlet-nav">
-  <div id="topNav" class="nav cf">
-    <a href="/" id="naturalizerOutletLogo"> <img src="/Content/core/outlet/outletLogo.png" alt="Naturalizer" border="0"> </a>
-    <img id="imgFlag" alt="Ship Internationally" src="/Images/Shopping/spacer.gif"> 
-    <ul id="topNavBar" class="navbar cf">
-      <li class="naturalizerBtn"> <a href="http://www.naturalizer.com">Naturalizer</a> </li>
-      <li id="blog"> <a href="http://blog.naturalizer.com" class="n">blog</a></li>
-      <li class="canada"> <a href="http://www.naturalizer.ca/">Canada</a> </li>
-      <li class="myaccount"> <a href="/Profiles/Welcome.aspx" rel="nofollow">My Account</a> </li>
-      <li class="intlship"> <a id="topnav-e4x" href="#">Intl Shipping</a> </li>
-      <li class="locator"> <a href="/Community/storelocator.aspx">Store Locator</a> </li>
-      <li class="cart"> <a href="http://outlet.naturalizer.com/Checkout/Cart" rel="nofollow">My Cart<span id="cartLink" class="cartNumber"></span></a> </li>
-    </ul>
-    <div id="topnav-service">
-      <ul>
-        <li id="topnav-cart"><a href="#" class=""></a></li>
-      </ul>
-    </div>
-    <div id="topNavSearch" class="topSearch">
-      <input id="Ntt" class="Ntt" name="Ntt" type="text"> 
-      <a href="#topNavSearchSubmit" id="topNavSearchSubmit" class="searchButton topSearchButton ir" style="overflow:hidden;text-indent:-999px; top: 3px !important; right: 3px !important;">Search</a>
-    </div>
-  </div>
-  <div id="topNavContent">
-    <div id="mainNav" class="nav">
-      <ul class="navbar menu cf" id="mainNavBar">
-        <li class="menuItem" id="topnav-all"><a class="n" href="/womens?icid=TopNav_WomensOutlet">View All</a></li>
-        <li class="menuItem" id="topnav-dress"><a class="n" href="/womens-dress-shoes?icid=TopNav_Womens_DressShoesOutlet">Dress</a></li>
-        <li class="menuItem" id="topnav-casual"><a class="n" href="/womens-casual-shoes?icid=TopNav_Womens_CasualShoesOutlet">Casual</a></li>
-        <li class="menuItem" id="topnav-casual"><a class="n" href="http://outlet.naturalizer.com/en-US/Womens/_/_/Sport+Shoes/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">Sport</a></li>
-        <li class="menuItem" id="topnav-casual"><a class="n" href="/womens-boots?icid=TopNav_BootsOutlet">Boots</a></li>
-        <li class="menuItem" id="topnav-sandals"><a class="n" href="/sandals?icid=TopNav_SandalsOutlet">Sandals</a></li>
-        <li class="menuItem" id="topnav-sandals"><a class="n" href="/en-US/Womens/_/Natural+Soul/_/_/Products.aspx?icid=TopNav_NaturalSoulOutlet">Natural Soul</a></li>
-        <li class="menuItem" id="topnav-sandals"><a class="n" href="/bags?icid=TopNav_HandbagsOutlet">Bags</a></li>
-        <li class="menuItem" id="topnav-sandals"><a class="n" href="/bzees?icid=TopNav_BzeesOutlet">Bzees</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-<!-- /OUTLET NAV -->
-
-<!-- **************************** -->
-<!-- Primary Top Navigation END -->
-<!-- Function for Targeted Banner Details Popups -->
-<script type="text/javascript">
-  $(function(){
-    $(".showDetails").live("click",function(){
-      var openThis = $(this).attr('href');
-      
-      if (openThis.indexOf('#') > 0) {
-        openThis = openThis.substring(openThis.indexOf('#'));
-      }
-      $(openThis).slideToggle();
-        return false;
-    });
-    $(".close").live("click",function(){
-      $('#swBannerPopup, #tarBannerPopup').slideToggle();
-      return false;
-    });
-
-
-
-    function getSearchResults(query){
-      query = query.replace(/(^\s*)|(\s*$)/g, ''); //trim
-      query = query.replace("/", "_");
-      query = query.replace('"', "Inches");
-      query = query.replace(' ', '+');
-      query = query.replace('&', 'AND');
-      query = query.replace(':', ';');
-      query = query.replace('-', '~');
-      return searchURL = '/en-US/_/_/_/_/Srch0+'+query+'/Products.aspx';
-    };
-    
-    $('.topSearch .topSearchButton').click(function (){
-      var query = $(this).parent().find('.Ntt').val();
-      if(query != '') {
-          window.location = getSearchResults(query);
-      }
-      return false;
-    });
-
-    $('.topSearch .Ntt').keypress(function (e){
-      if(e.keyCode == 13) {
-        var query = $(this).val();
-        if(query.length > 0) {
-          window.location = getSearchResults(query);
-        }
-        return false;
-        
-      }
-    });
-  });
-</script>
-
-<script type="text/javascript">
-  var CartQuantity = function () {
-    var cookies = new CookieManager();
-    var qty = cookies.getValue("CART_TOTAL_QUANTITY_90051", null);
-    var link = document.getElementById("cartLink");
-    if(link && qty && (qty > 0)){
-     $('#cartLink').addClass('notEmpty');
-    link.innerHTML = qty;
-  }
-  }
-  $(document).ready(CartQuantity);
-
-window.setHeaderCount = function() {
-        var updatedCount = $.cookie('mvcCartCount');
-        if (!updatedCount || updatedCount == '0') {
-            //$('#site-header').find('.cart-link').removeClass('not-empty');
-            $('#cartLink').removeClass('notEmpty').text('');
-        } else {
-            $('#cartLink').addClass('notEmpty').text(updatedCount)
-        }
-};
-/* Use MVC cart link if it's enabled */
-if (typeof(isMvcCartEnabled) != "undefined" && isMvcCartEnabled) {
-  setHeaderCount();
-  $('.js-header-cart-link').attr('href','/Checkout/Cart');
-}
-</script>
-<script type="text/javascript">
-$( document ).ready(function() {
-  $( "body" ).delegate( "#dialog_overlay", "click", function() { E4XClient.USCustomer(); });
-});
-</script><!-- Shop:90051_Template_TopMargin [Main] END -->
+<header class="top-margin-header">
+	<div class="black-bar">
+		<div class="inner-container">
+			<ul>
+				<li>
+					<a href="/Profiles/Welcome.aspx">
+						<span class="icon-account"></span>
+						<span class="signin">Sign In</span>
+						<span class="account">Your Account</span>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="js-international-shipping">Ship to <img id="imgFlag" class="flag-image" alt="Ship Internationally" src="/Images/e4xFlags/US.gif"></a>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<a href="http://www.naturalizer.com/naturalizer?icid=BrandsLogo_Naturalizer"><img src="/Content/images/logos/naturalizer-white.svg" alt="Naturalizer Logo"></a>
+				</li>
+				<li>
+					<a href="http://outlet.naturalizer.com/womens?icid=BrandsLogo_NatOutlet"><img src="/Content/images/logos/outlet-white.svg" alt="Outlet Logo"></a>
+				</li>
+				<li>
+					<a href="http://www.naturalizer.com/bzees?icid=BrandsLogo_Bzees"><img src="/Content/images/logos/bzees-white.svg" alt="Bzees Logo"></a>
+				</li>
+				<li>
+					<a href="http://www.naturalizer.com/naturalsoul?icid=BrandsLogo_NatSoul"><img src="/Content/images/logos/natural-soul-white.svg" alt="Natural Soul Logo"></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="inner-container">
+		<div class="search-container top-nav-search">
+			<input type="text" class="search-input" id="Ntt">
+			<button class="search-button"><span class="icon-search"></span></button>
+		</div>
+		<div class="logo-container">
+			<a href="/">
+				<img src="/Content/images/logos/naturalizer.svg" alt="Naturalizer Logo" class="logo">
+				<img src="/Content/images/logos/outlet.svg" alt="Naturalizer Logo" class="logo outlet-logo">
+			</a>
+		</div>
+		<div class="cart-container">
+			<a href="/Checkout/Cart" rel="nofollow">
+				<span class="icon-cart"></span>
+				Cart <span id="cartLink" class="cart-number js-cart-number"></span>
+			</a>
+		</div>
+	</div>
+	<div class="menu-bar">
+		<div class="inner-container">
+			<ul class="top-navigation">
+				<li>
+					<a href="/womens-dress-shoes?icid=TopNav_Womens_DressShoes">Dress</a>
+					<div class="sub-menu">
+						<div class="inner-container">
+							<ul>
+								<li>
+									<a href="/womens-business-shoes?icid=TopNav_Womens_DressShoes">Business shoes</a>
+								</li>
+								<li>
+									<a href="/womens-evening-shoes?icid=TopNav_Womens_DressShoes">Evening shoes</a>
+								</li>
+								<li>
+									<a href="/womens-dress-flats?icid=TopNav_Womens_DressShoes">Flats</a>
+								</li>
+								<li>
+									<a href="/womens-pumps?icid=TopNav_Womens_DressShoes">Pumps</a>
+								</li>
+								<li>
+									<a href="/womens-dress-sandals?icid=TopNav_Womens_DressShoes">Sandals</a>
+								</li>
+								<li>
+									<a href="/womens-slingbacks?icid=TopNav_Womens_DressShoes">Slingbacks</a>
+								</li>
+								<li>
+									<a href="/womens-dress-wedges?icid=TopNav_Womens_DressShoes">Wedges</a>
+								</li>
+								<li>
+									<a href="/womens-dress-shoes?icid=TopNav_Womens_DressShoes">View all</a>
+								</li>
+							</ul>
+							<img src="/Content/images/mega-menu/dress.jpg" alt="Dress Shoes">
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/en-US/Womens/_/_/Sport+Shoes/_/Products.aspx?icid=TopNav_Womens_SportShoes">Sport</a>
+					<div class="sub-menu">
+						<div class="inner-container sport">
+							<ul>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Active/_/Products.aspx?icid=TopNav_Womens_SportShoes">Active</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Sneakers/_/Products.aspx?icid=TopNav_Womens_SportShoes">Sneakers</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Sport+Boots/_/Products.aspx?icid=TopNav_Womens_SportShoes">Sport boots</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Sport+Sandals/_/Products.aspx?icid=TopNav_Womens_SportShoes">Sport sandals</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes/_/Products.aspx?icid=TopNav_Womens_SportShoes">View all</a>
+								</li>
+							</ul>
+							<img src="/Content/images/mega-menu/sport.jpg" alt="Sport Shoes">
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/womens-casual-shoes?icid=TopNav_Womens_CasualShoes">Casual</a>
+					<div class="sub-menu">
+						<div class="inner-container casual">
+							<img src="/Content/images/mega-menu/casual.jpg" alt="Casual Shoes">
+							<ul>
+								<li>
+									<a href="/womens-business-casual-shoes?icid=TopNav_Womens_CasualShoes">Business casual shoes</a>
+								</li>
+								<li>
+									<a href="/womens-casual-flats?icid=TopNav_Womens_CasualShoes">Flats</a>
+								</li>
+								<li>
+									<a href="/womens-moccasins?icid=TopNav_Womens_CasualShoes">Moccasins</a>
+								</li>
+								<li>
+									<a href="/womens-casual-shoes?icid=TopNav_Womens_CasualShoes">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/sandals?icid=TopNav_Sandals">Sandals</a>
+					<div class="sub-menu">
+						<div class="inner-container sandals">
+							<img src="/Content/images/mega-menu/sandals.jpg" alt="Sandals">
+							<ul>
+								<li>
+									<a href="/womens-sandals-dress-sandals?icid=TopNav_Sandals">Dress sandals</a>
+								</li>
+								<li>
+									<a href="/womens-espadrilles?icid=TopNav_Sandals">Espadrilles</a>
+								</li>
+								<li>
+									<a href="/womens-flat-sandals?icid=TopNav_Sandals">Flat sandals</a>
+								</li>
+								<li>
+									<a href="/womens-sport-sandals?icid=TopNav_Sandals">Sport sandals</a>
+								</li>
+								<li>
+									<a href="/womens-wedge-sandals?icid=TopNav_Sandals">Wedge sandals</a>
+								</li>
+								<li>
+									<a href="/sandals?icid=TopNav_Sandals">View All</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/womens-boots?icid=TopNav_Boots">Boots</a>
+					<div class="sub-menu">
+						<div class="inner-container boots">
+							<img src="/Content/images/mega-menu/boots.jpg" alt="Boots">
+							<ul>
+								<li>
+									<a href="/womens-ankle-boots?icid=TopNav_Boots">Ankle boots</a>
+								</li>
+								<li>
+									<a href="/womens-booties?icid=TopNav_Boots">Booties</a>
+								</li>
+								<li>
+									<a href="/womens-dress-boots?icid=TopNav_Boots">Dress boots</a>
+								</li>
+								<li>
+									<a href="/womens-knee-high-boots?icid=TopNav_Boots">Knee high boots</a>
+								</li>
+								<li>
+									<a href="/womens-riding-boots?icid=TopNav_Boots">Riding boots</a>
+								</li>
+								<li>
+									<a href="/womens-wide-calf-boots?icid=TopNav_Boots">Wide calf boots</a>
+								</li>
+								<li>
+									<a href="/womens-winter-boots?icid=TopNav_Boots">Winter boots</a>
+								</li>
+								<li>
+									<a href="/womens-boots?icid=TopNav_Boots">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<span class="category-no-link">Accessories</span>
+					<div class="sub-menu">
+						<div class="inner-container accessories">
+							<img src="/Content/images/mega-menu/accessories.jpg" alt="Accessories">
+							<ul>
+								<li>
+									<a href="/womens-accessories?icid=TopNav_Accessories">Accessories</a>
+								</li>
+								<li>
+									<a href="/handbags?icid=TopNav_Handbags">Handbags</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/en-US/_/_/_/_/On+Sale/Products.aspx?icid=TopNav_Sale">Sale</a>
+				</li>
+			</ul>
+			<ul class="top-navigation outlet">
+				<li>
+					<a href="/womens-dress-shoes?icid=TopNav_Womens_DressShoesOutlet">Dress</a>
+					<div class="sub-menu">
+						<div class="inner-container">
+							<ul>
+								<li>
+									<a href="/womens-business-shoes?icid=TopNav_Womens_DressShoesOutlet">Business shoes</a>
+								</li>
+								<li>
+									<a href="/womens-evening-shoes?icid=TopNav_Womens_DressShoesOutlet">Evening shoes</a>
+								</li>
+								<li>
+									<a href="/womens-dress-flats?icid=TopNav_Womens_DressShoesOutlet">Flats</a>
+								</li>
+								<li>
+									<a href="/womens-pumps?icid=TopNav_Womens_DressShoesOutlet">Pumps</a>
+								</li>
+								<li>
+									<a href="/womens-dress-sandals?icid=TopNav_Womens_DressShoesOutlet">Sandals</a>
+								</li>
+								<li>
+									<a href="/womens-slingbacks?icid=TopNav_Womens_DressShoesOutlet">Slingbacks</a>
+								</li>
+								<li>
+									<a href="/womens-dress-wedges?icid=TopNav_Womens_DressShoesOutlet">Wedges</a>
+								</li>
+								<li>
+									<a href="/womens-dress-shoes?icid=TopNav_Womens_DressShoesOutlet">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/en-US/Womens/_/_/Sport+Shoes/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">Sport</a>
+					<div class="sub-menu">
+						<div class="inner-container sport">
+							<ul>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Active/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">Active</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Sneakers/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">Sneakers</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Sport+Boots/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">Sport boots</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes~Sport+Sandals/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">Sport sandals</a>
+								</li>
+								<li>
+									<a href="/en-US/Womens/_/_/Sport+Shoes/_/Products.aspx?icid=TopNav_Womens_SportShoesOutlet">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/womens-casual-shoes?icid=TopNav_Womens_CasualShoesOutlet">Casual</a>
+					<div class="sub-menu">
+						<div class="inner-container casual">
+							<ul>
+								<li>
+									<a href="/womens-business-casual-shoes?icid=TopNav_Womens_CasualShoesOutlet">Business casual shoes</a>
+								</li>
+								<li>
+									<a href="/womens-clogs?icid=TopNav_Womens_CasualShoesOutlet">Clogs</a>
+								</li>
+								<li>
+									<a href="/womens-casual-flats?icid=TopNav_Womens_CasualShoesOutlet">Flats</a>
+								</li>
+								<li>
+									<a href="/womens-moccasins?icid=TopNav_Womens_CasualShoesOutlet">Moccasins</a>
+								</li>
+								<li>
+									<a href="/womens-casual-shoes?icid=TopNav_Womens_CasualShoesOutlet">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/sandals?icid=TopNav_SandalsOutlet">Sandals</a>
+					<div class="sub-menu">
+						<div class="inner-container sandals">
+							<ul>
+								<li>
+									<a href="/womens-sandals-dress-sandals?icid=TopNav_SandalsOutlet">Dress sandals</a>
+								</li>
+								<li>
+									<a href="/womens-flat-sandals?icid=TopNav_SandalsOutlet">Flat sandals</a>
+								</li>
+								<li>
+									<a href="/womens-sport-sandals?icid=TopNav_SandalsOutlet">Sport sandals</a>
+								</li>
+								<li>
+									<a href="/womens-wedge-sandals?icid=TopNav_SandalsOutlet">Wedge sandals</a>
+								</li>
+								<li>
+									<a href="/sandals?icid=TopNav_SandalsOutlet">View All</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/womens-boots?icid=TopNav_BootsOutlet">Boots</a>
+					<div class="sub-menu">
+						<div class="inner-container boots">
+							<ul>
+								<li>
+									<a href="/womens-ankle-boots?icid=TopNav_BootsOutlet">Ankle boots</a>
+								</li>
+								<li>
+									<a href="/womens-booties?icid=TopNav_BootsOutlet">Booties</a>
+								</li>
+								<li>
+									<a href="/womens-dress-boots?icid=TopNav_BootsOutlet">Dress boots</a>
+								</li>
+								<li>
+									<a href="/womens-knee-high-boots?icid=TopNav_BootsOutlet">Knee high boots</a>
+								</li>
+								<li>
+									<a href="/womens-riding-boots?icid=TopNav_BootsOutlet">Riding boots</a>
+								</li>
+								<li>
+									<a href="/womens-wide-calf-boots?icid=TopNav_BootsOutlet">Wide calf boots</a>
+								</li>
+								<li>
+									<a href="/womens-winter-boots?icid=TopNav_BootsOutlet">Winter boots</a>
+								</li>
+								<li>
+									<a href="/womens-boots?icid=TopNav_BootsOutlet">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="/bags?icid=TopNav_HandbagsOutlet">Bags</a>
+					<div class="sub-menu">
+						<div class="inner-container bags">
+							<ul>
+								<li>
+									<a href="/crossbody-handbags?icid=TopNav_HandbagsOutlet">Crossbody</a>
+								</li>
+								<li>
+									<a href="/satchels?icid=TopNav_HandbagsOutlet">Satchels</a>
+								</li>
+								<li>
+									<a href="/shoulder-bags?icid=TopNav_HandbagsOutlet">Shoulder bags</a>
+								</li>
+								<li>
+									<a href="/straw-handbags?icid=TopNav_HandbagsOutlet">Straw handbags</a>
+								</li>
+								<li>
+									<a href="/bags-totes?icid=TopNav_HandbagsOutlet">Totes</a>
+								</li>
+								<li>
+									<a href="/bags?icid=TopNav_HandbagsOutlet">View all</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</header><!-- Shop:90051_Template_TopMargin [Main] END -->
     </div>
     <div id="pageContainer">
         
@@ -696,7 +737,7 @@ $( document ).ready(function() {
 	
             <div id="E4x" class="E4x">
             </div>
-            <span class="e4xrates" aed="3.9507500000" ang="1.9117000000" aud="1.4197400000" bam="1.8902900000" bbd="2.1489400000" bdt="86.8600000000" bgn="1.8714800000" bhd="0.4058720000" bob="7.5285000000" bsd="1.0755000000" bzd="2.1403000000" cad="1.4139000000" chf="1.0386100000" clp="721.3280000000" cny="6.8055000000" cop="3113.7800000000" crc="618.8150000000" czk="25.1933000000" dkk="7.1179800000" dop="50.9957000000" eur="0.9432480000" gbp="0.8212510000" gtq="7.9115800000" hkd="8.3805100000" hnl="25.1873000000" hrk="7.0882400000" huf="294.1740000000" idr="14290.5000000000" ils="3.8185700000" inr="69.2263000000" jmd="140.5880000000" jod="0.7636050000" jpy="117.2800000000" khr="4354.2500000000" krw="1204.2600000000" kwd="0.3265120000" kyd="0.8926790000" kzt="336.8200000000" lbp="1624.8700000000" lkr="164.3230000000" mad="10.4747000000" mvr="16.8521000000" mxn="19.8195000000" myr="4.5869400000" nad="13.7029000000" nio="31.6976000000" nok="9.0850700000" npr="110.7630000000" nzd="1.5094800000" omr="0.4141200000" pab="1.0755000000" pen="3.5216100000" php="53.1610000000" pkr="112.7360000000" pln="4.0055900000" pyg="6048.9300000000" qar="3.9166500000" ron="4.3583100000" sar="4.0337700000" sek="9.3331900000" sgd="1.4866600000" szl="13.7330000000" thb="36.6202000000" try="3.7843100000" twd="32.3488000000" uah="28.2751000000" usd="1.0000000000" uyu="30.4588000000" xaf="631.1610000000" xof="630.4220000000" zar="13.7335000000"></span><span class="e4xRoundingMethods" aed="2" ang="2" aud="2" bam="2" bbd="2" bdt="2" bgn="2" bhd="2" bob="2" bsd="2" bzd="2" cad="2" chf="2" clp="-1" cny="2" cop="-2" crc="2" czk="0" dkk="0" dop="2" eur="2" gbp="2" gtq="2" hkd="2" hnl="2" hrk="2" huf="0" idr="-2" ils="1" inr="0" jmd="2" jod="2" jpy="0" khr="2" krw="0" kwd="2" kyd="2" kzt="2" lbp="2" lkr="2" mad="1" mvr="2" mxn="0" myr="2" nad="2" nio="2" nok="0" npr="2" nzd="1" omr="2" pab="2" pen="1" php="0" pkr="2" pln="2" pyg="0" qar="2" ron="2" sar="1" sek="0" sgd="1" szl="2" thb="0" try="1" twd="0" uah="2" usd="2" uyu="2" xaf="2" xof="2" zar="1"></span><span class="e4xLcpRates" ae="1.2000000000" ag="1.2000000000" ar="1.2000000000" at="1.2000000000" au="1.2000000000" aw="1.2000000000" bb="1.2000000000" bd="1.2000000000" be="1.2000000000" bg="1.2000000000" bh="1.2000000000" bm="1.2000000000" bn="1.2000000000" bo="1.2000000000" br="1.2000000000" bz="1.2000000000" ch="1.2000000000" cl="1.2000000000" cn="1.2000000000" co="1.2000000000" cr="1.2000000000" cy="1.2000000000" cz="1.2000000000" de="1.2000000000" dk="1.2000000000" dm="1.2000000000" do="1.2000000000" ec="1.2000000000" ee="1.2000000000" es="1.2000000000" fi="1.2000000000" fr="1.2000000000" gb="1.2000000000" gd="1.2000000000" gf="1.2000000000" gg="1.2000000000" gi="1.2000000000" gp="1.2000000000" gr="1.2000000000" gt="1.2000000000" hk="1.2000000000" hn="1.2000000000" hu="1.2000000000" id="1.2000000000" ie="1.2000000000" il="1.2000000000" in="1.2000000000" is="1.2000000000" it="1.2000000000" je="1.2000000000" jm="1.2000000000" jo="1.2000000000" jp="1.2000000000" kh="1.2000000000" kn="1.2000000000" kr="1.2000000000" kw="1.2000000000" ky="1.2000000000" lc="1.2000000000" li="1.2000000000" lk="1.2000000000" lt="1.2000000000" lu="1.2000000000" lv="1.2000000000" mc="1.2000000000" mo="1.2000000000" mq="1.2000000000" ms="1.2000000000" mt="1.2000000000" mv="1.2000000000" mx="1.2000000000" ni="1.2000000000" nl="1.2000000000" no="1.2000000000" nz="1.2000000000" om="1.2000000000" pa="1.2000000000" pe="1.2000000000" ph="1.2000000000" pk="1.2000000000" pl="1.2000000000" pt="1.2000000000" py="1.2000000000" qa="1.2000000000" re="1.2000000000" ro="1.2000000000" sa="1.2000000000" se="1.2000000000" sg="1.2000000000" si="1.2000000000" sk="1.2000000000" sv="1.2000000000" tc="1.2000000000" th="1.2000000000" tr="1.2000000000" tt="1.2000000000" tw="1.2000000000" za="1.2000000000"></span>
+            <span class="e4xrates" aed="3.9505300000" ang="1.9117000000" aud="1.3365300000" bam="1.7701700000" bbd="2.1489400000" bdt="87.0427000000" bgn="1.7649000000" bhd="0.4057110000" bob="7.5822800000" bsd="1.0755000000" bzd="2.1488500000" cad="1.3050300000" chf="1.0317300000" clp="671.7680000000" cny="6.5631900000" cop="3169.7600000000" crc="621.6770000000" czk="23.5288000000" dkk="6.7113400000" dop="50.8031000000" eur="0.8895970000" gbp="0.8195380000" gtq="7.8469300000" hkd="8.4156800000" hnl="25.1285000000" hrk="6.6913400000" huf="275.4870000000" idr="14351.5000000000" ils="3.8461000000" inr="68.8629000000" jmd="139.1330000000" jod="0.7636050000" jpy="116.8140000000" khr="4354.2500000000" krw="1206.3200000000" kwd="0.3246890000" kyd="0.8926790000" kzt="363.5650000000" lbp="1624.8700000000" lkr="164.3990000000" mad="10.0662000000" mvr="16.9077000000" mxn="19.2153000000" myr="4.5945800000" nad="13.9170000000" nio="31.6602000000" nok="8.3520100000" npr="110.1950000000" nzd="1.5010400000" omr="0.4141110000" pab="1.0755000000" pen="3.4862200000" php="54.9959000000" pkr="113.3300000000" pln="3.8287700000" pyg="6090.0300000000" qar="3.9175100000" ron="4.1501100000" sar="4.0335600000" sek="8.5600100000" sgd="1.4577300000" szl="13.9126000000" thb="35.6847000000" try="3.7009700000" twd="32.3556000000" uah="27.7692000000" usd="1.0000000000" uyu="31.0480000000" xaf="609.3480000000" xof="610.0400000000" zar="13.9169000000"></span><span class="e4xRoundingMethods" aed="2" ang="2" aud="2" bam="2" bbd="2" bdt="2" bgn="2" bhd="2" bob="2" bsd="2" bzd="2" cad="2" chf="2" clp="-1" cny="2" cop="-2" crc="2" czk="0" dkk="0" dop="2" eur="2" gbp="2" gtq="2" hkd="2" hnl="2" hrk="2" huf="0" idr="-2" ils="1" inr="0" jmd="2" jod="2" jpy="0" khr="2" krw="0" kwd="2" kyd="2" kzt="2" lbp="2" lkr="2" mad="1" mvr="2" mxn="0" myr="2" nad="2" nio="2" nok="0" npr="2" nzd="1" omr="2" pab="2" pen="1" php="0" pkr="2" pln="2" pyg="0" qar="2" ron="2" sar="1" sek="0" sgd="1" szl="2" thb="0" try="1" twd="0" uah="2" usd="2" uyu="2" xaf="2" xof="2" zar="1"></span><span class="e4xLcpRates" ae="1.2000000000" ag="1.2000000000" ar="1.2000000000" at="1.2000000000" au="1.2000000000" aw="1.2000000000" bb="1.2000000000" bd="1.2000000000" be="1.2000000000" bg="1.2000000000" bh="1.2000000000" bm="1.2000000000" bn="1.2000000000" bo="1.2000000000" br="1.2000000000" bz="1.2000000000" ch="1.2000000000" cl="1.2000000000" cn="1.2000000000" co="1.2000000000" cr="1.2000000000" cy="1.2000000000" cz="1.2000000000" de="1.2000000000" dk="1.2000000000" dm="1.2000000000" do="1.2000000000" ec="1.2000000000" ee="1.2000000000" es="1.2000000000" fi="1.2000000000" fr="1.2000000000" gb="1.2000000000" gd="1.2000000000" gf="1.2000000000" gg="1.2000000000" gi="1.2000000000" gp="1.2000000000" gr="1.2000000000" gt="1.2000000000" hk="1.2000000000" hn="1.2000000000" hu="1.2000000000" id="1.2000000000" ie="1.2000000000" il="1.2000000000" in="1.2000000000" is="1.2000000000" it="1.2000000000" je="1.2000000000" jm="1.2000000000" jo="1.2000000000" jp="1.2000000000" kh="1.2000000000" kn="1.2000000000" kr="1.2000000000" kw="1.2000000000" ky="1.2000000000" lc="1.2000000000" li="1.2000000000" lk="1.2000000000" lt="1.2000000000" lu="1.2000000000" lv="1.2000000000" mc="1.2000000000" mo="1.2000000000" mq="1.2000000000" ms="1.2000000000" mt="1.2000000000" mv="1.2000000000" mx="1.2000000000" ni="1.2000000000" nl="1.2000000000" no="1.2000000000" nz="1.2000000000" om="1.2000000000" pa="1.2000000000" pe="1.2000000000" ph="1.2000000000" pk="1.2000000000" pl="1.2000000000" pt="1.2000000000" py="1.2000000000" qa="1.2000000000" re="1.2000000000" ro="1.2000000000" sa="1.2000000000" se="1.2000000000" sg="1.2000000000" si="1.2000000000" sk="1.2000000000" sv="1.2000000000" tc="1.2000000000" th="1.2000000000" tr="1.2000000000" tt="1.2000000000" tw="1.2000000000" za="1.2000000000"></span>
             <script src="/Scripts/e4x.js?v=2"></script>
                 
 <script>E4x.e4xPopup();</script>
@@ -707,9 +748,9 @@ $( document ).ready(function() {
         <div id="header">
             <!-- Shop:90051_Template_Header [Main] START --><!-- Shop:90051_Template_Header [Main] END -->
         </div>
-        <form method="post" action="./Content.aspx?lang=en-US&amp;contentid=privacy" id="aspnetForm">
+        <form method="post" action="./Content.aspx?contentid=privacy&amp;lang=en-US" id="aspnetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="5n2YPFSFsMFwicTOwWPyJSwEf5f7uzVmGevDmS7FJPapOSMdpIxHZXImkyPVhfwGSHI224D4hSkCs1kW4S/8ZZmbGrQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="6R+57NcBEiV/9hQ5lmKUWHTUEofpHOqQ26KcE9His5VmO56AuSQOqPvNagJcuclh1q2nv/qVnhFRZGGMRY9h5tXFlRE=">
 </div>
 
 
@@ -744,12 +785,12 @@ var freshAddressSiteToken='e2743066837eb7db2e535752817c4708723135d56f8c7386a4f21
 
                             </div>
                         </td>
-                        <td valign="top" id="content-shop"><div class="header-spacer"></div>
+                        <td valign="top" id="content-shop">
                             <div>
                                 
     <input type="hidden" id="SEORoutesNativeUrl" value="http://www.naturalizer.com/Content.aspx?contentid=privacy">
     
-    <!-- Shop:90051_Privacy [Main] START --><link rel="stylesheet" href="/Content/core/utility/utility.css">
+    <!-- Shop:90051_Privacy [Main] START --><link rel="stylesheet" href="/Content/styles/pages/utility.css">
 <h2 class="utilhdr ir">Privacy</h2>
 
 <div class="inset">
@@ -880,347 +921,152 @@ var freshAddressSiteToken='e2743066837eb7db2e535752817c4708723135d56f8c7386a4f21
                 </div>
             </div>
             <div id="footer">
-                <!-- Shop:90051_Template_Footer [Main] START --><!-- FIX TARGETTED BANNER - 6/26/2013 - Check for spaces in banner div before removing -->
-<script type="text/javascript">
-if(typeof TargettedCampaignBanner !== 'undefined') {
-  TargettedCampaignBanner.ajaxUpdate = function () {jQuery.ajax({type: 'GET', url: TargettedCampaignBanner.webServiceUrl, dataType: 'html', success: function (html) {html = RemoveScriptFromAjaxResponse(CleanAjaxResponse(html)); if (TargettedCampaignBanner.container.html().length > 10) { TargettedCampaignBanner.cookieManager.setCookie('o_campaign', 'true', 1, siteDomain); } else { TargettedCampaignBanner.container.append(html); } } }); };
-}
-</script>
-
-<script type="text/javascript">
-/* A/B TEST */
-$('.originalPrice .previousPrice, .originalPrice .savePrice').not('.e4xprice').each(function(){
-  $(this).text('$'+$(this).attr('e4xprice_usd'));
-});
-</script>
-
-<!-- temporary fix, ujzp, 04/16/2010 -->
-<!--   hides "free shipping text" on login page -->
-<script>
-if($j('div.loginRegTxt div.loginBtnWrap ul li').length == 3) {
-   $j($j('div.loginRegTxt div.loginBtnWrap ul li')[1]).hide();
-}
-</script>
-<!-- Fill space for banners so they can be posiitoned absolutely and span sitewidth wide -->
-<script type="text/javascript">
-if ($('h2').hasClass('utilhdr')){$('#content-shop').prepend('<div class="header-spacer"></div>');}
-/* HANDBAGS NEED TO SWITCH THEIR DEFAULT VIEW */
-if (s.pageName) { if (/product.*handbag/i.test(s.pageName)) { $('#divExtThumbs img[src*="_ib"]').trigger('mouseover'); } }
-</script>
-
-
-
-
-
-<script type="text/javascript">
-var R2D2Markup = '<a style="float:left; display:block; width: 48%; height: 280px;" href="@@livepin-link@@">@@livepin-img@@</a>';
-var R2D2MarkupStatic = '<span style="float:left; display:block; width: 48%; height: 280px;">@@livepin-img@@</span>';
-
-var R2D2 = [
-
-  {
-    and: {
-      pResults: "true"
-    },
-    markup:R2D2Markup,
-    link: '/en-US/_/_/_/_/Srch0+maximizer/Products.aspx?originalsearchterm=null&icid=wk37R2D3_Maximizer',
-    img: '<img src="/Content/2013/tiles/wk32-izer/ppt-maximizer.jpg" alt="Shop Maximizer">'
-  }
-];
-
-var R6D2 = [];
-
-var LNT = [
-];
-
-var CATB = [
-];
-
-
-
-
-
-var TTop = [
-/*
- {
-    and: {
-      pageName : "[a-z]"
-    },
-    not: {
-      pContent : "sweepstakes",
-      pageName : "cart"
-    },
-    markup:'<a href="/YourPerfectDay?icid=wk31_SweepstakesTipTop" style="display:block;text-decoration:none;width: 960px; margin: 0 auto;text-align:right;font-family: \'MuseoSlab-500\', \'Gill Sans\', \'Gill Sans MT\', sans-serif;font-size:1.4em;padding:.4em 0 .2em;"> WIN YOUR PERFECT DAY IN NATURALIZER SWEEPSTAKES! ENTER NOW!</a>'
-  }
-*/
-];
-
-/// TippyTop's 
-//$('#TopMargin').pinpointBanner('before', { banners:TTop });
-
-
-
-var CATB = [
- {
-    and: {
-      sURL : "fromSizewise"
-    },
-    // placementStart: '8/30/2012',
-    // placementEnd: '1/30/2015',
-    markup:'<a href="/en-US/Content/sizewise.aspx" style="display:block; margin:3px 0 3px -20px;"><img src="/Content/core/catbanners/sizewise.gif" /></a>'
-  }
-
-];
-
-var LNT = [];
-
-
-
-
-
-
-</script>
-
-
-
-
-<script type="text/javascript" src="/scripts/bvreporting.js"></script>
-<!-- Shop:90051_Template_Footer [Main] END -->
+                <!-- Shop:90051_Template_Footer [Main] START --><!-- Shop:90051_Template_Footer [Main] END -->
             </div>
         </form>
     </div>
     <div id="SubFooter">
-        <!-- Shop:90051_Template_SubFooter [Main] START --><!--temporary style fix-->
-<style>
-.outlet #monetate_selectorHTML_c2dcb61c_0 {display: block !important;}
-.outlet #monetate_selectorBanner_240b1802_00 {display: block !important;}
-#SubFooter {z-index: 1;}
-/*video styles*/
- .videolink { position: absolute; right: 0px; top: 228px;}
-.modalcover { background:#FAFAFA; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)"; filter: alpha(opacity=85); opacity: 0.85; position: fixed; top:0; left:0; bottom:0; width:0%; z-index: 100000;}
-.footervideo { display:none; position: fixed; top: 50%; left: 150%; margin-left: -425px; margin-top: -250px; z-index: 100001; width: 853px; height: 483px; background: #000;}.footervideo iframe { border:none;}
-.footervideo .modalclose { position: absolute; top:0px; right:-52px; background:#666; font-size: 16px; color:#ccc; width:26px; line-height: 27px; height: 26px; text-align: center; text-decoration: none;}
-.footervideo #framerelative { position: relative;}.modalcover .modalclose:hover { background: #666;}
-.modalcover { background:#FAFAFA; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)"; filter: alpha(opacity=85); opacity: 0.85; position: fixed; top:0; left:0; bottom:0; width:0%; z-index: 100000;}
-.videoframe {  width: 853px; height: 480px; border: 26px solid #ccc;}
-</style>
+        <!-- Shop:90051_Template_SubFooter [Main] START --><footer class="sub-footer">
+	<div class="inner-container">
+		<div class="social-container">
+			<span>SHARE</span>
+			<a href="https://www.facebook.com/naturalizer" target="_blank">
+				<span class="icon-facebook"></span>
+			</a>
+			<a href="https://www.pinterest.com/naturalizer" target="_blank">
+				<span class="icon-pinterest"></span>
+			</a>
+			<a href="https://twitter.com/NaturalizerShoe" target="_blank">
+				<span class="icon-twitter"></span>
+			</a>
+			<a href="https://www.instagram.com/naturalizer/" target="_blank">
+				<span class="icon-instagram"></span>
+			</a>
+			<a href="http://blog.naturalizer.com" target="_blank">
+				<span class="icon-blog"></span>
+			</a>
+		</div>
+		<div class="signup-container">
+			<span class="enjoy-text">Enjoy $10 off <sup>†</sup></span>
+			<fieldset class="js-signup-container">
+				<input type="email" name="footer-email" class="footer-email-signup" placeholder="Enter Your Email Address">
+				<button class="footer-email-submit primary">Submit</button>
+			</fieldset>
+		</div>
+	</div>
+	<div class="inner-container">
+		<div class="brands-link-container">
+			<h4>Our Brands</h4>
+			<ul>
+				<li>
+					<a href="http://www.naturalizer.com">Naturalizer</a>
+				</li>
+				<li>
+					<a href="http://outlet.naturalizer.com">Naturalizer Outlet</a>
+				</li>
+				<li>
+					<a href="/en-US/Womens/_/_/_/Srch0+bzees/Products.aspx?originalsearchterm=null">Bzees</a>
+				</li>
+				<li>
+					<a href="/naturalsoul">Natural Soul</a>
+				</li>
+			</ul>
+		</div>
+		<div class="account-link-container">
+			<h4>Account</h4>
+			<ul>
+				<li>
+					<a href="/Profiles/Welcome.aspx">Log in</a>
+				</li>
+				<li>
+					<a href="/Profiles/CreateAccount.aspx">Create account</a>
+				</li>
+				<li>
+					<a href="/Orders/OrderHistory.aspx">Track your order</a>
+				</li>
+			</ul>
 
+		</div>
+		<div class="customer-service-link-container">
+			<h4>Customer Service</h4>
+			<ul>
+				<li>
+					<a href="/en-US/Content/custserv.aspx" rel="nofollow">Help</a>
+				</li>
+				<li>
+					<a href="/en-US/Content/Exchange.aspx" rel="nofollow">Returns/Exchanges</a>
+				</li>
+				<li>
+					<a href="/en-US/Content/fit_assistant_page.aspx">Size chart</a>
+				</li>
+				<li>
+					<a href="/en-US/Content/recall.aspx" rel="nofollow">Recall info</a>
+				</li>
+				<li>
+					<a href="/Community/storelocator.aspx">Find a store</a>
+				</li>
+				<li>
+					<a href="/en-US/Content/giftcards.aspx">Gift cards</a>
+				</li>
+				<li>
+					<a href="#" class="js-international-shipping">Intl shipping</a>
+				</li>
+				<li>
+					<a href="/en-US/Content/site_map.aspx">Sitemap</a>
+				</li>
+			</ul>
+		</div>
+		<div class="naturalizer-link-container">
+			<h4>Naturalizer</h4>
+			<ul>
+				<li>
+					<a href="/en-US/Content/About_Us.aspx">About us</a>
+				</li>
+				<li>
+					<a href="/shopping/catalogrequest.aspx">Request catalog</a>
+				</li>
+				<li>
+					<a href="https://jobs.caleres.com/category/naturalizer-current-openings-jobs/3530/28814/1">Join our team</a>
+				</li>
+			</ul>
+		</div>
+		<div class="policies-link-container">
+			<h4>Policies</h4>
+			<ul>
+				<li>
+					<a href="/en-US/Content/privacy.aspx">Privacy policy</a>
+				</li>
+				<li>
+					<a href="/en-us/Content/userSubmission.aspx">User submission policy</a>
+				</li>
+				<li>
+					<a href="/en-US/Content/terms.aspx">Terms &amp; conditions</a>
+				</li>
+				<li>
+					<a href="/Content/core/legal/Caleres-California-Supply-Chain-Act-Transparency-Statement_05_29_15.pdf" target="_blank">CA supply chain act</a>
+				</li>
+			</ul>
+		</div>
+		<div class="copyright-container">
+			<div><span class="copyright-year">2017</span> Caleres, Inc. (NYSE: CAL)</div>
+			<a href="http://www.essentialaccessibility.com/">
+				<img src="/Content/images/icons/accessibility.svg" alt="Essential accessibility">
+			</a>
+		</div>
+	</div>
+	<div class="checkout-info-container">
+		<img src="/Content/images/logos/paypal.svg" alt="Paypal Logo">
+		<img src="/Content/images/icons/secure-checkout.svg" alt="Lock Icon">
+		<span>Secure Checkout</span>
+	</div>
+	<div class="disclaimer-container">
+		† By entering my email address, I certify that the information I am providing is accurate and that I am at least 18 years of age.
+	</div>
+</footer>
 
-<div class="modalcover"></div>
-<div class="footervideo">
-  <div id="framerelative">
-    <a class="modalclose" href="#0">×</a>
-  </div>
-</div>
-
-<!--[if IE]>
-<style>
-a.seoLink { 
-margin-right:10px;
-}
-</style>
-<![endif]-->
-
-<div id="footer-bar"></div>
-<div id="socialBar"><img src="/Content/core/rf2015/footerSocial.gif" usemap="#socialFooterMap" border="0">
-<map name="socialFooterMap">
-  <area shape="rect" target="_blank" coords="8,8,48,50" href="http://www.facebook.com/naturalizer" alt="Naturalizer on Facebook">
-  <area shape="rect" target="_blank" coords="103,9,149,51" href="http://twitter.com/NaturalizerShoe" alt="Naturalizer on Twitter">
-  <area shape="rect" target="_blank" coords="192,10,235,51" href="http://www.pinterest.com/naturalizer/" alt="Naturalizer on Pinterest">
-  <area shape="rect" target="_blank" coords="287,9,331,50" href="http://instagram.com/naturalizer" alt="Naturalizer on Instagram">
-  <area shape="rect" coords="384,7,433,53" href="http://blog.naturalizer.com">
-</map></div>
-<div id="footerwrapper">
-  <div class="fcol">
-    <h4>About Naturalizer</h4>
-    <a href="/en-US/Content/About_Us.aspx" rel="nofollow">About Us</a>
-    <a href="/en-US/Content/privacy.aspx" rel="nofollow">Privacy Policy</a>
-    <a href="/en-US/Content/userSubmission.aspx" rel="nofollow">User Submission Policy</a>
-    <a href="/en-US/Content/terms.aspx" rel="nofollow">Terms &amp; Conditions</a>
-    <a href="/Content/core/legal/Caleres-California-Supply-Chain-Act-Transparency-Statement_05_29_15.pdf" target="_blank">CA SUPPLY CHAINS ACT</a>
-    <a href="/en-US/Content/employment.aspx">Join Our Team</a>
-    <a href="http://www.naturalizer.ca">Canada</a>
-    <!-- <a href="//www.youtube.com/embed/V7S7c3b3sj4" class="videomodal">Brand Video</a> -->
-    <a href="/en-US/Content/site_map.aspx">Sitemap</a>
-
-  </div>
-  <div class="fcol">
-    <h4>Shop Brands</h4>
-    <a href="/en-US/Womens/_/_/_/Srch0+bzees/Products.aspx?originalsearchterm=null" title="Bzees">Bzees</a>
-    <a href="/naturalizer" title="Naturalizer">Naturalizer</a>
-  </div>
-  <div class="fcol fcol-shopby">
-    <h4>Shop By</h4>
-    <a href="/en-US/Content/catalog.aspx?icid=footer_shopcatalog" rel="nofollow">Catalog</a>
-    <a href="/shopping/catalogrequest.aspx" rel="nofollow">Request Catalog</a>
-    <a href="/Community/storelocator.aspx">Store Locator</a>
-    <a href="/en-US/Content/shop_by_phone.aspx" rel="nofollow">Phone</a>
-    <a href="/n5" rel="nofollow">N5 Comfort</a>
-    <a href="/n5contour">N5 Contour</a>
-    <a href="#" id="footer-e4x">INTL Shipping</a>
-    <a href="/en-US/Content/giftcards.aspx">Gift Cards</a>
-    <a class="natFooterBtn" href="http://www.naturalizer.com/">Naturalizer.com</a>
-
-  <a class="outletFooterBtn" href="http://outlet.naturalizer.com/?icid=Footer_OutletFooter">Outlet</a></div>
-  <div class="fcol">
-    <h4>My Account</h4>
-    <a href="/Profiles/Welcome.aspx" rel="nofollow">Log in</a>
-    <a href="/Profiles/CreateAccount.aspx" rel="nofollow">Create Account</a>
-    <a href="/Profiles/EmailOptions.aspx" rel="nofollow">Email preferences</a>
-    <a href="/trackorder" rel="nofollow">Order Status</a>
-  </div>
-  <div class="fcol">
-    <h4>Customer Service</h4>
-    <a href="/en-US/Content/custserv.aspx" rel="nofollow">Help</a>
-    <a href="/en-US/Content/shipping.aspx" rel="nofollow">Shipping</a>
-    <a href="/en-US/Content/90051_Exchange.aspx" rel="nofollow">Returns/Exchanges</a>
-    <a href="/en-US/Content/fit_assistant_page.aspx">Size Chart</a>
-    <a href="/Profiles/WishList.aspx" rel="nofollow">Wish List</a>
-    <a href="/en-US/Content/recall.aspx" rel="nofollow">Recall Info</a>
-  </div>
-  <div class="fcol email">
-    <h4 class="purple">E-Club Sign Up</h4>
-    <p>Sign up for eclub today for exclusive savings, offers, e-newsletters, plus receive a special coupon just for signing up!.</p>
-    <form id="emailsignup">
-      <input type="text" id="footer-eclub-signup" name="footer-eclub-signup-email" value="" placeholder="Email Address">
-      <a href="#" id="footer-eclub-submit" class="emailSubmit"><img src="/Content/core/redesign2014/emailSubmit.gif"></a>
-    </form>   
-    <p class="exclusions">By entering my email address, I certify that the information I am providing is accurate and that I am at least 18 years of age.<a href="/eclubsignup#terms">eClub Terms and Conditions</a></p>
-  </div>
-
-  <div class="fsocial">
-
-    <a href="https://www.essentialaccessibility.com/naturalizer?utm_source=naturalizerhomepage&amp;utm_medium=iconlarge&amp;utm_term=eachannelpage&amp;utm_content=header&amp;utm_campaign=naturalizer" target="_blank" class="socialBtn right"><img src="/Content/core/redesign2014/social/accessible.gif" alt="Click this icon to learn more about our commitment to customers and employees with disabilities."></a>
-  </div>
-  <p class="dynYear">© 2020 Caleres, Inc. (NYSE:CAL)</p>
-</div>
-
-
-
-<script type="text/javascript">
-
-var config = {    
-     over: makeTall, // function = onMouseOver callback (REQUIRED)    
-     timeout: 500, // number = milliseconds delay before onMouseOut    
-     out: makeShort // function = onMouseOut callback (REQUIRED)    
-};
-
-// $(".subnav").parent('li').append('<span class="dropArrow visuallyhidden"></span>').hoverIntent( config );
-$('a.subnavLink').click(function() { return false; });
-function makeTall(){ 
-  $(this).children('.subnav').addClass('invisible').removeClass('visuallyhidden').animate({"top":25, "opacity": 1},200).removeClass('invisible');
-  $(this).children('.dropArrow').addClass('invisible').removeClass('visuallyhidden').animate({"top":18, "opacity": 1},200).removeClass('invisible');
-}
-function makeShort(){ 
-  $(this).children('.subnav').animate({"top":50, "opacity": 0},200, function(){
-    $(this).addClass('visuallyhidden').attr('style','');
-  });
-  $(this).children('.dropArrow').animate({"top":10},200, function(){
-    $(this).addClass('visuallyhidden').attr('style','');
-  });} 
-</script>
-
-<!-- E4X SCRIPTS -->
-<script type="text/javascript">
-  // Australia Mode
-  var australiaMode = function(){
-    $('body').prepend('<div id="australia-modal" style="position: absolute; left: 50%; top: 100px; z-index: 300001; margin-left:-432px;"><img class="close-button" alt="close button" onclick="usMode()" src="/Content/assets/images/close-button.png" /><div class="australia-welcome"><img class="welcome-image" alt="Welcome" src="/Content/assets/images/australia-welcome.png" /><p>It appears you are shopping from Australia. For the best experience, shop our Australian website: naturalizer.com.au</p><div class="australia-button" onclick="javascript:location.href=\'http://www.naturalizer.com.au/\'">australia &gt;</div><p style="margin-top:50px;">Or continue on the U.S. website</p><div class="australia-button" onclick="usMode()">u.s. &gt;</div></div></div><div id="dialog_overlay" style="position: absolute; top: 0px; left: 0px; z-index: 30000; width: 100%; height: 4205px; opacity: 0.3; background-color: rgb(0, 0, 0);"></div>');
-  };
-
-  var usMode = function(){
-    $('#australia-modal').remove();
-    
-  };
-
-  var cookies = new CookieManager();
-  var ipCountry = cookies.getValueIgnoreCase('IPCountry');
-
-  // Handle click
-  if (typeof(window['E4x'])!="undefined") {
-    if(ipCountry == "AU"){
-      $('#footer-e4x').click(australiaMode);
-      $('#topnav-e4x').click(australiaMode);
-    }else{
-      $('#footer-e4x').click(E4x.showPopupOnLinkClick);
-      $('#topnav-e4x').click(E4x.showPopupOnLinkClick);
-    }
-  }
-</script> 
-
-<script type="text/javascript">
-    $(document).ready(E4XClient.toggleCheckout);
-    $('.proceed-to-checkout-btn').click(function () { 
-        $.cookie('redirectUrl', window.location); 
-    }); 
-    $('.js-us-shopping-link').click(E4XClient.USCustomer);
-</script>
-
-<!--email validation-->
-<script type="text/javascript" src="/Content/scripts/p.emailValidate.js"></script>
-<script type="text/javascript">
-$('#footer-eclub-signup').emailValidate({'styles':'z-index:4;', 'source':'Nat-Footer', success: function(){ _satellite.track('desktop_eClub'); }});
-</script>
-<script type="text/javascript">
-/* youtube video script */
-$(function(){
-  if(!$('body').hasClass('mobile')){
-
-    // Video Modal
-    var video = '';
-    
-    function closeModal(){
-      
-      $('.modalcover').animate({'width': 0});
-      $('.footervideo').animate({'left': "150%"}, function(){
-        video.remove();
-        $(this).hide();
-      });
-    }
-    function openModal(){
-      $('.modalcover').show().animate({'width': '100%'});
-      $('.footervideo').css('display','block').animate({'left': "50%"}, function() {
-        $('.footervideo').append(video);
-      });
-    }
-
-    $('.videomodal').click(function(){
-      video = $('<div class="videoframe"><iframe id="iframevideo" width="853" height="480" src="'+$(this).attr('href')+'" ></iframe></div>');
-      openModal();
-      return false;
-    });
-    $('.modalcover, .modalclose').click(function(){
-      closeModal();
-      return false;
-    });
-  }
-});
-
-$(document).ready(function(){
-// Dynamic Footer Date
-    var dynYear = new Date().getFullYear();
-    $("p.dynYear").text('\u00A9 ' + dynYear + ' Caleres, Inc. (NYSE:CAL)');
-
-  $('.fcol-shopby').append('<a class="outletFooterBtn" href="http://outlet.naturalizer.com/?icid=Footer_OutletFooter">Outlet</a>');
-    var re = /^http\:\/\/stg/;
-    if(re.test(window.location.href)) {
-      $('.naturalizerBtn a').attr('href','http://stg.www.naturalizer.com');
-      $('.outletBtn a').attr('href','http://stg.outlet.naturalizer.com/?icid=TopNav_Outlet');
-    }else{
-      $('.naturalizerBtn a').attr('href','http://www.naturalizer.com');
-      $('.outletBtn a').attr('href','http://outlet.naturalizer.com/?icid=TopNav_Outlet');
-    }
-(function(){
-  var cookieManager = new CookieManager();
-  var userCurrency = cookieManager.getValueIgnoreCase('Currency') || 'USD';
-  var userCountry = cookieManager.getValueIgnoreCase('Country') || 'US';
-  if(userCountry != 'US'){
-    if(userCurrency != 'USD'){
-      $('body').addClass('international');
-    }
-  }
-})();
-});
-</script><!-- Shop:90051_Template_SubFooter [Main] END -->
+<script type="text/javascript" src="/scripts/bvreporting.js"></script>
+<script type="text/javascript" src="/Content/scripts/bundles/template.js"></script>
+<!-- Shop:90051_Template_SubFooter [Main] END -->
     </div>
     
     
