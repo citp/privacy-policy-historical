@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425064923id_/https%3A//forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901093136id_/https%3A//forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Forward Progressives
+# Privacy Policy | Forward Progressives
 
-This Privacy Policy governs the manner in which Forward Progressives LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.forwardprogressives.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Forward Progressives LLC.
+This Privacy Policy governs the manner in which Forward Progressives LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.forwardprogressives.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Forward Progressives LLC.
 
 **Personal identification information**
 
@@ -48,7 +48,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Comments**
 
-Comments by readers on our site are submitted through the Disqus platform. Please take a moment to familiarize yourself with our commenting policy, located [here](http://www.forwardprogressives.com/commenting-policy/). 
+Comments by readers on our site are submitted through the Disqus platform. Please take a moment to familiarize yourself with our commenting policy, located [here](https://www.forwardprogressives.com/commenting-policy/). 
 
 **Changes to this privacy policy**
 
