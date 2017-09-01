@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solarisjapan.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509073202id_/https%3A//solarisjapan.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarisjapan.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901184718id_/https%3A//solarisjapan.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Solaris Japan – Buy Japanese Imports straight from Japan
+# Privacy Policy
 
 **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
 
