@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centralbankmidwest.net privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320095331id_/https%3A//www.centralbankmidwest.net/uploadedFiles/enterprise/files/privacy-statement-bk014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralbankmidwest.net privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902011443id_/https%3A//www.centralbank.net/uploadedFiles/includedcontent/accountopening/bk029/privacy-statement-bk029.pdf) for the most accurate reproduction.*
 
-# Visit:
+# Visit
 
-A-16185                                                                                           Rev. June 2015            PAGE 1
+A-16185                                                                                           Rev. April 2016           PAGE 1
     FACTS            WHAT DOES CENTRAL BANCOMPANY DO WITH YOUR PERSONAL INFORMATION?
                      Financial companies choose how they share your personal information. Federal law gives consumers
      Why?            the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share,
@@ -15,32 +15,32 @@ A-16185                                                                         
                      All financial companies need to share customers’ personal information to run their everyday business.
      How?            In the section below, we list the reasons financial companies can share their customers’ personal
                      information; the reasons Central Bancompany chooses to share; and whether you can limit this sharing.
-  Reasons we can share personal information                                                Does Central          Can you limit
-                                                                                       Bancompany share?         this sharing?
+  Reasons we can share personal information                                                Does Central           Can you limit
+                                                                                       Bancompany share?          this sharing?
   For our everyday business purposes - such as to process your
-  transactions, maintain your account(s), respond to court orders and legal                      Yes                   No
+  transactions, maintain your account(s), respond to court orders and legal                      Yes                    No
   investigations, or report to credit bureaus
-  For our marketing purposes - to offer our products and services to you                         Yes                   No
-  For joint marketing with other financial companies                                             Yes                   No
+  For our marketing purposes - to offer our products and services to you                         Yes                    No
+  For joint marketing with other financial companies                                             Yes                    No
   For our affiliates everyday business purposes -
-                                                                                                 Yes                   No
+                                                                                                 Yes                    No
   information about your transactions and experiences
   For our affiliates everyday business purposes -
                                                                                                  Yes                   Yes
   information about your creditworthiness
   For our affiliates to market to you                                                            Yes                   Yes
-  For our nonaffiliates to market to you                                                         No             We don’t share
+  For our nonaffiliates to market to you                                                         No              We don’t share
                       Detach and mail the form below to the address listed.
      To limit         Please note:
         our           If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice.
      sharing          When you are no longer our customer, we continue to share your information as described in this notice.
                       However, you can contact us at any time to limit our sharing.
-    Questions?       Visit: www.centralbankmidwest.net and click “Contact Us”
+    Questions?       Visit www.centralbank.net and click Can We Help You?
 Detach and mail form below to:
-Central Bank of the Midwest
-Attn: Operations
-PO Box 1400
-Lee’s Summit, MO 64063
+Central Bank of Oklahoma
+Attn: Customer Service
+8908 S. Yale, Suite 100
+Tulsa, OK 74137
  Mail-in Form
  If you have a joint          Mark any/all you want to limit:
  account, your                     Do not share information about my creditworthiness with your affiliate for
@@ -91,6 +91,6 @@ List of Affiliates
 Central Bank                                Central Bank of Oklahoma                   Central Investment Advisors
 Central Bank of Audrain County              Central Bank of Sedalia                    Central Trust Company
 Central Bank of Boone County                Central Bank of St. Louis                  Central Mortgage Company
-Central Bank of Branson                     Central Bank of the Midwest                Dogwood Insurance Agency, L.L.C.
-Central Bank of Lake of the Ozarks          Central Bank of the Ozarks                 Jefferson Bank of Missouri
+Central Bank of Branson                     Central Bank of the Midwest                Jefferson Bank of Missouri
+Central Bank of Lake of the Ozarks          Central Bank of the Ozarks
 Central Bank of Moberly                     Central Bank of Warrensburg
