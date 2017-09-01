@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pezcyclingnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075631id_/http%3A//www.pezcyclingnews.com/advertisements/pezcyclingnews-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pezcyclingnews.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901055338id_/http%3A//www.pezcyclingnews.com/advertisements/pezcyclingnews-privacy-policy) for the most accurate reproduction.*
 
 # PEZCyclingNews Privacy Policy - PezCycling News
 
