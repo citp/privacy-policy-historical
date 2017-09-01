@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eosworldwide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114908id_/http%3A//eosworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eosworldwide.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901094416id_/https%3A//eosworldwide.hs-sites.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EOS WorldwideEOS Worldwide
+# Privacy Policy - Entrepreneurial Operating System
 
 This privacy policy sets out how “EOS Worldwide” (EOS) uses and protects any information that you give “EOS” when you use this website.
 
@@ -8,15 +8,15 @@ This privacy policy sets out how “EOS Worldwide” (EOS) uses and protects any
 
 “EOS” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 6, 2007.
 
-### What we do with the information we gather
+## What we do with the information we gather
 
 We request personal information (name, job title, company, mailing address, e-mail address, phone, industry, number of employees, annual business revenue, comments and questions) when you submit a request for assistance. That information is sent with the request to the appropriate division of “EOS”. With the exception of your e-mail address, we do not save or store any of your personal information unless you become a client. If you become a registered user of our website, we may store your email address, a login name and/or a password and may send occasional update messages concerning “EOS” news, tips, products or services. Responses to our Organizational Checkup and EOS Implementer Profile are only use for evaluation purposes and are not stored. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
-### Security
+## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### How we use cookies
+## How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -26,6 +26,6 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Links to other websites
+## Links to other websites
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
