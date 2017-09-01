@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611203831id_/https%3A//mccormick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901151021id_/https%3A//www.mccormick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | McCormick
 
 **_Last revised February 18, 2013_**
 
-This site is owned and operated by **McCormick & Company, Incorporated** (“McCormick”). We at McCormick recognize that you are concerned about your personal privacy. 
+This site is owned and operated by **McCormick & Company, Incorporated** (“McCormick”). We at McCormick recognize that you are concerned about your personal privacy. 
 
 This Privacy Policy is provided to inform you of what personal information is collected on our websites and how that information is maintained and used by McCormick. This Privacy Policy applies to all information collected or submitted on [www.mccormick.com](http://www.mccormick.com/) and [www.mccormickcorporation.com](http://www.mccormickcorporation.com/). 
 
