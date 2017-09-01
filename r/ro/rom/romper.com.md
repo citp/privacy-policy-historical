@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romper.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201190256id_/https%3A//www.romper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romper.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901150209id_/https%3A//www.romper.com/privacy) for the most accurate reproduction.*
 
 # Romper.com Privacy Policy
 
@@ -137,5 +137,9 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 ## What If I Have Questions or Concerns?
 
 If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to info@romper.com. We will make every effort to resolve your concerns.
+
+## How to Opt-Out of third party data targeting
+
+If you prefer not to receive interest-based content and ads enabled by Quantcast, you can opt-out by clicking on the “Opt Out” link at either Network Advertising Initiative (NAI) (<http://optout.networkadvertising.org/#/>) or Digital Advertising Alliance’s (DAA) (<http://optout.aboutads.info/#/>) . Quantcast is a member of the Network Advertising Initiative (NAI) and participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program. Each of these programs provides an opt-out feature where consumers can choose not to receive targeted advertising from any NAI or DAA affiliate. These links will take you to the NAI opt out (<http://www.networkadvertising.org/managing/opt_out.asp>) and the DAA opt out (<http://www.aboutads.info/choices/>) . If you are located in the European Union, you may prefer to use the EDAA opt out (<http://www.youronlinechoices.eu/>) . After you opt-out, Quantcast will place a cookie on your browser that identifies you as having opted out. Then you will not receive interest-based content or advertisements enabled by Quantcast and Quantcast will not log your pattern of website visits or other online media consumption. Because the opt-out is cookie-based, your browser must be set to accept third party cookies. If you use multiple devices or browsers, you’ll have to opt out on each. If you delete the cookie, you will need to opt-out again.
 
  **Effective Date:** 11/1/2015
