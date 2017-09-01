@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028092910id_/https%3A//www.moodys.com/privatepolicy.aspx%3Flang%3Den%26cy%3Dglobal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901095443id_/https%3A//www.moodys.com/privatepolicy.aspx%3Flang%3Den%26cy%3Dglobal) for the most accurate reproduction.*
 
 # Privacy Policy - Moody's
 
@@ -150,6 +150,7 @@ Legal Department
 Moody’s Corporation  
 7 World Trade Center at 250 Greenwich Street  
 New York, NY 10007  
-Phone: +1-212-553-1653 E-mail:[privacy@moodys.com ](mailto:privacy@moodys.com)
+Phone: +1-212-553-1653   
+E-mail:[privacy@moodys.com ](mailto:privacy@moodys.com)
 
 If you choose to contact Moody’s via e-mail about this Privacy Policy, please mark the subject heading of your e-mail “Privacy Inquiry.”
