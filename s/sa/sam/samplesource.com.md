@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018152515id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901211808id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
 
 # SampleSource.com - Free Samples - home, health, beauty, makeup, food, and more!
 
@@ -8,7 +8,7 @@ This Privacy Notice has been prepared by SampleSource Incorporated for Canadian 
 
 ##  Collection and Use Of Personal Information
 
-The term “personal information” means information about an identifiable individual, including but not limited to full name, address, email address, and other information relating to an individual.
+The term "personal information” means information about an identifiable individual, including but not limited to full name, address, email address, and other information relating to an individual.
 
 We may collect personal information when you: 
 
@@ -21,12 +21,12 @@ We may collect personal information when you:
 • Contact us with a comment, question or complaint.
 
   
-**Request Samples:** When you register to request samples on our Website, we collect certain personal information such as your name, mailing address, username and a password. You may also opt to provide your cell phone number to receive text alerts when samples are available. When you register, you will have the opportunity to provide certain demographic information, such as your gender, marital and employment status, household income, number of children, whether you own pets, and shopping habits.  This additional demographic information is optional, however, please note that product manufacturers frequently limit sampling opportunities to individuals who fall within certain demographics.  As a result, if you decide not to provide additional optional demographic information, you may not be able to take advantage of all of our sampling offers.
+**Request Samples:** When you register to request samples on our Website, we collect certain personal information such as your name, mailing address, username and a password.  When you register, you will have the opportunity to provide certain demographic information, such as your gender, marital and employment status, household income, number of children, whether you own pets, and shopping habits.  This additional demographic information is optional, however, please note that product manufacturers frequently limit sampling opportunities to individuals who fall within certain demographics.  As a result, if you decide not to provide additional optional demographic information, you may not be able to take advantage of all of our sampling offers.
 
   
 **Contests, Sweepstakes and Promotions:** When you enter a contest, sweepstakes or participate in a promotion, we may collect your name, address, phone number, email address, and other information you provide.  We use this information to administer your participation in the contest, sweepstakes or promotion.  At the time you enter the contest, sweepstakes or promotion, we may obtain your consent to send you future promotional communications.  If a contest, sweepstakes or promotion is jointly sponsored by us and one or more sponsors, your personal information may be shared with such sponsors, as specified at the time of collection of your personal information.  We do not control the use, disclosure or security of your personal information by other sponsors, and recommend you review their respective privacy notices or statements.
 
-The “TELL A FRIEND” and other similar features on our Website permit you to send email to others.  This feature requires you to submit your name and email address, as well as the name and email address of the recipient.  We do not use the names or email addresses submitted in these circumstances for any other purpose without the consent of you or the email recipient to do so. 
+The "TELL A FRIEND” and other similar features on our Website permit you to send email to others.  This feature requires you to submit your name and email address, as well as the name and email address of the recipient.  We do not use the names or email addresses submitted in these circumstances for any other purpose without the consent of you or the email recipient to do so. 
 
 **Trusted Partners.** When you make a request to receive samples through our Website, you may choose to opt-in to receive additional offers from our trusted SampleSource partners.  These offers may be sent by direct mail and/or e-mail from our trusted partners or directly from us on behalf of our partners.  If you opt-in, we may share the personal information you provide to SampleSource (including your name, mailing address, and optional demographic information) with our partners. 
 
@@ -40,11 +40,10 @@ The “TELL A FRIEND” and other similar features on our Website permit you to 
 Our policy is to not disclose your personal information to third parties for their direct marketing purposes unless we first obtain your opt-in consent. 
 
   
-You can opt-out of receiving promotional messages from us by doing one of the following:
+You can opt-out of receiving promotional email from us by doing one of the following:
 
 • If you have received an email, you can follow the opt-out or "unsubscribe" instructions provided in your email.   
-• If you have received a text message, you unsubscribe by replying with “STOP”.  
-• You can always request to be unsubscribed by contacting us through the "Contact Us" page on our Website or using the contact information set out below.
+• Contacting us by clicking on the "Contact Us" page on our Website or using the contact information set out below.
 
 **Contact Us:** When you contact us with a comment, question or complaint, you may be asked to provide personal information (such as your name, address, email address and a phone number) along with additional information we need to help us promptly answer your question or respond to your comment or complaint.  We may also retain this information to assist you in the future and to improve our customer service, product and service offerings, and events and promotions. 
 
@@ -58,7 +57,7 @@ Our policy is that we will not disclose, trade, rent, sell or otherwise transfer
 
 Your personal information may be maintained and processed by our service providers in the US or other jurisdictions.  Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. 
 
-**Ratings/Reviews:** If you provide a product rating and/or review and choose to permit SampleSource and the brands whose products you try to use your feedback to help others make smart shopping decisions, SampleSource may use personal information you have provided such as your first name and last initial, city and province/state, gender, product rating or review, your public IP address at the time of submitting the Review, and other information you provide about your experience with the product (the “Review”) for the purposes of displaying the Review to the public. SampleSource may also provide this information to the brands whose products you have tried, and if applicable, their service provider. The public IP address is disclosed to the brand partner or their service provider for review fraud detection and mitigation purposes.
+**Ratings/Reviews:** If you provide a product rating and/or review and choose to permit SampleSource and the brands whose products you try to use your feedback to help others make smart shopping decisions, SampleSource may use personal information you have provided such as your first name and last initial, city and province/state, gender, product rating or review, your public IP address at the time of submitting the Review, and other information you provide about your experience with the product (the "Review”) for the purposes of displaying the Review to the public. SampleSource may also provide this information to the brands whose products you have tried, and if applicable, their service provider. The public IP address is disclosed to the brand partner or their service provider for review fraud detection and mitigation purposes.
 
   
 **Sale of Business:** We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of SampleSource or as part of a corporate reorganization or stock sale or other change in corporate control.
@@ -76,7 +75,7 @@ Your personal information may be maintained and processed by our service provide
 We may also use a third party to help us gather and analyze information about the areas that you visit on the Website to evaluate and improve the customer experience and the convenience of the Website, and to help us evaluate some of the specific information related to your Website visits. 
 
   
-**Tracer Tags & Web Beacons: **Our Website may also use a technology called "tracer tags" or “Web Beacons”.  This technology allows us to understand which pages you visit on our Website. These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website.
+**Tracer Tags & Web Beacons: **Our Website may also use a technology called "tracer tags" or "Web Beacons”.  This technology allows us to understand which pages you visit on our Website. These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website.
 
 We may also use third parties to serve our advertisements on other websites.  These companies may use tracer tags or web beacons to report certain information (but not your name, address, e-mail address or telephone number) about your visits to our Website and the websites which advertise and feature links to our Website, in order to measure the effectiveness of our advertisements. 
 
