@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628130253id_/https%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902232656id_/https%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
 # Open Knowledge: Privacy policy
 
