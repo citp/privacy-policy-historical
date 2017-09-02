@@ -1,148 +1,185 @@
-> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328072940id_/https%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902040527id_/https%3A//www.timeout.com/london/privacy-policy) for the most accurate reproduction.*
 
-# YPlan | Tonight's going out app
+# Time Out Privacy Policy
 
-## Website and App Privacy and Cookies Policy
+**TIME OUT PRIVACY POLICY**
 
-This is the privacy and cookies policy for www.yplanapp.com and the YPlan application. For the purposes of this privacy policy, both the website and application shall be referred to as the " **App** ". The App is operated by LeanWorks Limited, trading as YPlan **** ( **we** , **us** and **our** ). For the purposes of the Data Protection Act 1998, we are the data controller.
+ **1 Your information**
 
-We are committed to protecting your privacy online. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
+1.1 Time Out England Limited ( **“Time Out”, “our”, “us” and “we”** ) is committed to protecting your privacy.
 
-By using the App, you consent to the collection and use of information in accordance with this privacy policy.
+1.2      As a customer or a visitor to the timeout.com, including any mobile application and any social media platform (altogether, the “ **Website** ”) we, and the companies that  **work on our behalf** , collect information on you. This includes your  **personal information**  and  **information we may buy**.
 
-We reserve the right to change this privacy policy from time to time by changing it on the App. This privacy policy was last updated on November 23, 2012.
+1.3      We also collect **  information on your use of our Website**, including any f **orums you** visit and  **how you arrived at our Website**  in the first place by using  **cookies or other tracking technologies**.
 
-### Information we may collect from you
+1.4      Some other **companies**  also collect certain information on you when you use our Website, such as social networking sites or web analytic companies.
 
-We may collect and process the following information about you:
+1.5      We will only keep information about you for  **as long as we need to** , and we make sure that any companies that process your information on our behalf do the same.
 
-  * information (such as your name, email address, postal address and telephone number) that you provide by completing forms on the App, including if you register as a user of the App, subscribe to any service, upload or submit any material via the App, request any information or enter into any competition or promotion we may sponsor; 
-  * in connection with an account sign-in facility, your password and log-in details;
-  * your preferences, which helps us provide you with more tailored offers;
-  * details of any transactions made by you through the App;
-  * communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the App or its content;
-  * information from surveys that we may, from time to time, run on the App for research purposes, if you choose to respond to them;
-  * details of your visits to the App, the resources you access and any data you download;
-  * if you make any purchases, your financial information (like your credit or debit card numbers);
-  * non-personal data. For purposes of this privacy policy, “non-personal data” means information that does not directly identify you. Additionally, non-personal data means “aggregate” and “de-personalized” information, which is data we collect about the use of YPlan's services, from which any personally identifiable data has been removed. We may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable us to identify you. The types of non-personal data we may collect and use include, but are not limited to: (i) device properties, including, but not limited to IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier ("UDID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as post code and coarse location; (v) other non-personal data as reasonably required by YPlan to enhance our products and services. 
-  * information obtained from your social networking profile, if you log-in via a social networking site.
+1.6      By using our Website or submitting information to us through or in connection with our Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this privacy policy (the “ **Privacy Policy** ”). If you do not agree with this Privacy Policy, you must not use the Website or submit information to us through or in connection with our Website.
 
+1.7      We comply with the principles set out in the  **Data Protection Act 1998**  in the United Kingdom and any other law as applicable from time to time.
 
+2 **Notice of collection of data**
 
-You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
+2.1      By visiting the Website, you **accept the practices**  described in this Privacy Policy and consent to the collection and use of your personal information by us for the purposes outlined in this Privacy Policy and for any other purpose reasonably necessary for the provision or proper administration of the Website and the business of Time Out.
 
-### Uses made of your information
+2.2      If you  **do not accept**  the practices set out in this Privacy Policy you should not **use the Website**.
 
-We will use the information you provide to:
+2.3      Time Out will consider its Privacy Policy from time to time which may  **develop and evolve over time** , and this policy may change to reflect that. We will use personal information in accordance with the Privacy Policy under which that personal information was collected subject to any later amendments accepted by you by virtue of your continued use of the Website. You should periodically revisit the Website Privacy Policy to  **be sure you are familiar with the current policy**. Use of the Website following any modifications to the Privacy Policy will be conclusively deemed as acceptance of the terms of this Privacy Policy and any changes to the policy both in connection with personal information previously collected and that collected following any changes to this Privacy Policy. However, we will notify you of any amendments made to our policy as a result of a change of law or where we wish to make any changes to our use of your personal information.
 
-  * help us to build a profile of your preferences so we can offer you events and services you are interested in;
-  * enable us to process your orders and to provide you with the services and information offered through the App and which you request;
-  * administer your account with us;
-  * verify and carry out financial transactions in relation to payments you make through the App;
-  * share with third parties necessary to process your transactions with us, such as credit card companies, banks and ticket dispatchers;
-  * share with our merchants for the purposes of redeeming the tickets you purchase from the App;
-  * exchange information with other companies for fraud protection and credit risk reduction;
-  * contact you by post, phone or email when necessary to discuss the transactions entered into by you on the App;
-  * audit the downloading of data from the App;
-  * improve the layout and/or content of the pages of the App and customise them for users;
-  * identify visitors to the App;
-  * carry out research on our users' demographics and tracking of sales data;
-  * share with social networking sites at your request; and
-  * disclose to lawful authorities when required to do so by law.
+2.4      Please note that the Website may contain  **links to other websites which are outside our control**  and are not covered by this Privacy Policy even though they may feature the Time Out logo because of a marketing agreement with Time Out. If you access other sites using the links provided, the operators of those sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. You should  **look for the specific privacy statement**  on any such co-branded page. Time Out cannot be held responsible for the privacy policies of other companies. Time Out recommends you review the privacy policy of any website that you visit. 
 
+2.5      Please also note that where Time Out makes available chat rooms, forums, message boards, and news groups any personal information that you disclose in these areas becomes public information and you should  **exercise caution**  when deciding to disclose any information on them.
 
+ **3 Marketing and commercial use**
 
-We will also use information you provide to us for the purposes of contacting you with information or offers regarding upcoming events, products, services or surveys. This shall only be done with your consent and our direct marketing policy which is explained in full below.
+3.1      When you gave us your information, you will have been offered the opportunity to sign up to our  **marketing communications** , as well as  **marketing from other companies**  we do business with.
 
-### Additional information
+3.2      If you have agreed to marketing from other companies via us, we are happy to provide you with a list of those companies.  Please see ‘ **Contact Us** ’ below.
 
-When you visit the App, we may automatically collect additional information about you, such as the type of phone or operating system you use and, if you came to the website, the type of internet browser you use and the website from which you have come to the site. Also, depending on whether you access YPlan on your PC or via your mobile device, we will collect your IP address (the unique address which identifies your home computer on the internet) or the unique identifier (which is linked to your mobile device) which are automatically recognised by our servers. You cannot be identified solely from this information and it is only used to assist us in providing an effective service on the App and to collect broad demographic information for aggregate use.
+3.3      You can  **subscribe to or unsubscribe from**  our marketing communications at any time. All marketing emails will contain a link to opt out of further communications from the Website.  If you make a purchase via the Website  **the assumption may be made**  that you will be interested in similar products and you may receive emails with information about these products. For the avoidance of doubt you  **cannot opt out of service emails**.
 
-The website uses cookies to store certain information. Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Although they do identify a user's device, cookies do not personally identify users. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the internet.
+ **4 Sharing**
 
-For more information about how we use cookies and other tracking devices, please refer to our Cookie Policy.
+We will only share information under the following circumstances:
 
-### Information sharing
+• **With our company group**
 
-We may disclose aggregate statistics about visitors to the App, customers and sales in order to describe our services to prospective partners, advertisers, potential merchants and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.
+ **• With government, law enforcement agencies and regulatory bodies**  when we consider **the** disclosure to be fair, reasonable and legal.
 
-We may disclose your personal information to any of our affiliates, merchants, or to our agents or contractors who assist us in providing the services we offer through the App, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions.
+• **With credit reference agencies**  when we need to,  **companies for marketing purposes,  and service providers**.
 
-In the event that we undergo re-organisation or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organised entity or third party.
+ **5 Security**
 
-We may disclose your personal information if required to do so by law or if we believe that such action is necessary to prevent fraud or cyber crime or to protect the App or enforce the terms under which you transact with us or enforce the rights, property or personal safety of any person.
+5.1      We take the security of your information very seriously, and have  **controls and processes**  to minimise the risk of a data breach occurring, though you must take responsibility when visiting  **other websites** , even if following a link to them from our website.
 
-### Public forums
+5.2      In the event that a breach does occur, we will take  **appropriate steps**  to notify you if you are, or could be, affected and will make all efforts to minimise the impact.
 
-The App may, from time to time, make public forums available to its users. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these and never disclose your personal information.
+5.3      We use some companies to process information which are based overseas and outside Europe.  We ensure that they have  **checks and controls**  in place to keep your information safe.
 
-### External links
+ **6 Your Information**
 
-The App may, from time to time, contain links to external sites. We are not responsible for the privacy policies or the content of such sites.
+6.1       What personal information is being collected?
 
-### Payment processing
+6.1.1    This is  **information that can identify you**. For example, your:  
+(a) name and address  
+(b) email address  
+(c) telephone number  
+(d) payment card information.
 
-Payment details you provide will be encrypted using industry standard 128 bit secure sockets layer (SSL) technology before they are submitted to us or our payment partners over the internet. Payments made on the App are made through our payment solutions providers, Braintree Payment Solutions LLC or DataCash Ltd (collectively, our "PSP"). You will be providing credit or debit card information directly to the PSP which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. We do not store your credit card number or security code on our servers, though it may transit through our servers as it passes to PSP. Information which you supply to our PSP is not within our control and is subject to PSP's own privacy policy and terms and conditions.
+6.1.2   If you are merely visiting the  **public areas**  of the Website,  **we do not collect any personal information**  about you, however, we may automatically collect information about your visits, such as browsing patterns. Information collected in this way does not reveal your contact details or any type of personal information. This information is only used in  **aggregate form**  to analyse, manage and develop the Website and is not linked to any individual.
 
-### Marketing to you
+ **7 How we collect personal information**
 
-We may send you information we think you may find useful or which you have requested from us by push notification and/or (if you provide us with your e-mail address) by e-mail, including information about the latest or upcoming events featured on the App, provided you have indicated that you do not object to being contacted for these purposes and we will always give you the option to opt-out of receiving further e-mails or push notifications by following the unsubscribe instructions on any communications sent to you.
+7.1      We collect personal information from i **nformation supplied by you**. Including the details provided by you:
 
-Additionally we may allow our merchants, and if you consent by opting-in to receive such information and offers, other carefully selected third parties, to send you information directly which you may find useful regarding their products and services.
+7.1.1   if you choose to fill out any reader surveys, enter a competition, apply for an offer or make a purchase from our online shop, you will be asked to supply some information about yourself, including your name, address, phone number and email address;
 
-You can tell us not to contact you with information regarding the products or services of third parties, or to share your details with third parties so that they can directly send you information regarding their products and services, either at the point such information is collected on the App (by checking the relevant box), or where you do not wish us to continue to use your information in this way by following the unsubscribe instructions on any communications sent to you.
+7.1.2   on registration together with information we learn about you from your use of our service and your visits to the Website and other sites accessible from it. We also collect information about the transactions you undertake including details of payment cards used;
 
-You can also exercise this right at any time by contacting us using the contact details at the end of this privacy policy.
+7.1.3   in connection with information you provide when giving us feedback or completing profile forms; 
 
-When you purchase a ticket from YPlan, you may at that time be offered an opportunity to purchase third party products or services or enter third party promotions or loyalty programmes. If you expressly consent to purchase those products or services or enter into the promotions or programmes you authorise us to share your name, e-mail address and, where necessary and only where you have consented for us to do so, your financial and billing details with that third party merchant. The use of your personal information will be governed by the terms of that merchant's own terms of supply and privacy policy, so ensure that you read the relevant terms and privacy policy carefully before you agree to purchase from, or participate with that third party merchant.
+7.1.4   when you click on advertisements to measure interest and inform advertisers as to how many users have seen or clicked on their ads; and
 
-### Your location data
+7.1.5   information obtained from your social networking profile, if you log-in via a social networking site.
 
-In order to get the most out of our service and to allow us to provide you with tailored offers, we need to process your approximate location from time to time. The types of location data that will be processed are your latitude, longitude, cell tower ID, etc. Your location data will only be processed for as long as necessary in order for us to respond to your request for tailored offers. After this the data will be deleted. The location data may be transferred to our merchants for the purpose of providing you with the best offers at that time to match your preferences.
+7.2      Time Out also uses  **demographic and preference information**  to allow advertising banners on the Website to be targeted, in the aggregate, to the users for whom they are most pertinent.
 
-You can choose not to allow us to process your approximate location at the time you connect to the app, or any time after that either by changing the settings on your mobile device or by contacting us using the contact details at the end of this privacy policy. Please note that if you choose not to allow us to process your location data, we will not have enough data in order to provide you with the full benefit of our service (e.g. a list of tailored offers matched to your approximate location).
+7.3      If you enter a competition you should  **read the terms and conditions**  of that promotion which will confirm how we will use any personal information submitted as part of the entry to the competition. By entering a competition or applying for an offer you may  **give permission for Time Out to pass your details**  to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer.
 
-### Security
+ **7.4    Information that we may buy**
 
-We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal information. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.
+7.4.1   If we  **purchase information on you**  from another company, such as marketing lists, we promise to take all the necessary checks to make sure your information was collected legally.
 
-You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via the App whilst it is in transit over the internet and any such submission is at your own risk.
+7.4.2   We may also  **purchase profile information**  from other companies to better understand our customers and our market.  This helps us to provide you with better suited **products and services.**
 
-### Storage of your information
+ **8 Cookies**
 
-Information that you submit via the App is sent to and stored on secure servers located in the United Kingdom and other European Economic Area countries. This is necessary in order to process the information. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above, which may be situated outside the European Economic Area and may be processed by staff operating outside the European Economic Area. By submitting information via the App, you agree to this storing, processing and/or transfer.
+8.1      The Website may also use  **cookie and tracking technology**  depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Website, and understanding how visitors use the Website. Cookies can also help  **customise the Website  **for visitors. Time Out uses cookies to track user usage on the Website. Time Out uses ad servers (such as DoubleClick) to serve advertisements on the Website. Ad servers  **use cookies to help target relevant ads  **to users. To find out more about our use of cookies and information-gathering practices follow this link to the [Cookie Policy](http://www.timeout.com/london/cookie-policy).
 
-### Your rights
+8.2      Personal information  **cannot be collected**  via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. “Cookies” are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser.
 
-You have a legal right under the Data Protection Act 1998 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
+8.3      We may also use uses cookies for a number of  **other purposes** , for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for improving and monitoring visitor’s experiences mapping and to enable traffic monitoring.
 
-### YPlan Cookies Policy
+8.4      Non-registered visitors of the site are sent  **anonymous cookies**  to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Website advertisement on another site that links to the Website will be sent anonymous cookies that will allow us to  **analyse advertising effectiveness and manage our relationship with affiliate sites**.
 
-When you interact with the App, we try to make that experience simple and meaningful. When you visit our App our Web server sends a cookie to your computer or mobile device (depending on how you access the site). Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the site. A number of cookies we use last only for the duration of your web session and expire when you close your App. These are known as session cookies. Other cookies are used to remember you when you return to the App and will last for longer. These are known as persistent cookies.
+8.5      Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users. Most browsers allow you to turn off the cookiefunction. However, some interactive features of the Website may not work if cookies are disabled. Cookies can be disabled in your browser by following the instructions found at: <http://www.allaboutcookies.org/manage-cookies>.
 
-We use cookies to: 
+ **9 Why is personal information being collected?**
 
-  * remember that you have visited us before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get;
-  * customise elements of the promotional layout and/or content of the pages of the site; and
-  * collect statistical information about how you use the site so that we can improve the site and learn which parts of the website are most popular to visitors.
+9.1      We collect personal information for  **a number of reasons**. It helps us tailor and personalise your experience of using the Website and enables us to send you relevant information about products or services that may be of interest to you.
 
+9.2      The information you provide is used to  **fulfil your specific request**  unless you give us permission to use it in another manner, for example:
 
+9.2.1    to add you to one of our mailing lists;
 
-Some of the cookies used by our App are set by us, and some are set by third parties who are delivering services on our behalf. For example, social networking sites.
+9.2.2    to communicate with you;
 
-Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on the site you may not be able to take full advantage of the App if you do so.
+9.2.3    to provide you with the services you have requested;
 
-In addition to cookies, tracking Gifs may be set by us or third parties in respect of your use of the site. Tracking Gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand what parts of the website are visited or whether particular content is of interest.
+9.2.4    to personalise our service to you; and
 
-Please also look at our privacy policy which gives details about how we use any personal information you give us.
+9.2.5   to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
 
-### Contacting us
+9.3      Time Out collects  **aggregate user information**  to sell sponsorships on the Website to advertisers and to monitor customer traffic patterns such as the number of users to the Website, the pages visited and the length of visit which enables us to improve the service we provide.
 
-Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [privacy@yplanapp.com](mailto:privacy@yplanapp.com), or write to us at:
+9.4      From time to time we may enter into a commercial arrangement with another company that is not owned by us to provide additional features. Time Out may also, from time to time, use third party suppliers to provide part of our service to you. Any personal information that you provide when signing up on a co-branded page may be shared with our third party partner.
 
-**YPlan**  
-Clover House  
-147-149 Farringdon Road  
-London  
-EC1R 3HN  
+9.5      We may also use and disclose information in aggregate (so that no individual customers are identified) for  **marketing and strategic development purposes**  and aggregate cookie and tracking information may be shared with third parties.
 
+9.6     We may also use information for **remarketing, retargeting or profiling purposes** including via third parties (such as social networking websites) and we will always ask your consent prior to doing so.
+
+9.7      In some circumstances we may share your personal information with service providers who are based in countries  **outside the European Economic Area**  whose laws provide for a different standard of protection for your personal information than that provided under UK Law.
+
+9.8      The Website cooperates with all  **law-enforcement enquiries**  and reserves the right to disclose personally identifying or aggregate information to detect and prevent fraud and in connection with any legal demand for such information.
+
+9.9      If you choose to post messages, reviews, comments or other content on the Website we will collect that information you provide to us.  We retain this information as necessary to  **resolve disputes, provide customer support and troubleshoot problems**  as permitted by law.
+
+9.10    We may share information with governmental agencies or other companies assisting us in  **fraud prevention**  or investigation. We may do so when:
+
+9.10.1 permitted or required by law; or,
+
+9.10.2 trying to protect against or prevent actual or potential fraud or unauthorised transactions; or
+
+9.10.3 investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+
+9.11    Save as explained above and subject to the provisions below Time Out will not pass on your individual user details to third parties without asking for explicit permission.
+
+ **10 How do we keep personal information secure?**
+
+10.1    We have  **security measures**  in place to protect against the loss, misuse and alteration of the information under the Website’s control. Only  **authorised employees, agents and contractors**  (who have agreed to keep information secure and confidential) have access to this information.
+
+10.2    We use  **appropriate physical, electronic and managerial security measures**  to try to prevent that personal information from being accessed by unauthorised persons and to ensure that you may input personal information safely. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
+
+10.3    Only  **aggregate statistics**  about the number of users and their traffic patterns will be given to advertisers.
+
+10.4    Individual user details will not be passed on without prior consent. If the Website ever requests that you volunteer additional information, such as financial data or age (in an online survey, for example) your response will always be voluntary and this data will only be used as an aggregate of data in conjunction with users of the Website as a whole.
+
+10.5    Despite these efforts, the Website  **cannot guarantee**  that a hacker will not obtain access to communications between users and the Website. We will do our very best to avoid a breach but sometimes these events are unavoidable.  Our promise to you is that if they do happen, we will ensure that the impact on you is as minimal as it can be.
+
+10.6    If we discover that the  **security of your personal information**  has been breached and it could adversely affect you - and we have the means to let you know - we will do so as quickly as possible.  If we can, we will tell you how the breach occurred, its nature, the  **steps we have** **taken**  to rectify its adverse effects and the steps you can take. We will provide you with details of who you can contact here if you have any queries and details of the regulator – the Information Commissioner's Office – should you want to speak to them.
+
+ **11 Your rights**
+
+11.1    For a copy of your information
+
+To  **obtain a copy**  of the personal information Time Out holds about you and to contact us regarding this Privacy Policy by post please address your request to The Legal Team, Time Out Group, 4th Floor, 125 Shaftesbury Avenue, London, WC2H 8AD, enclosing your cheque or postal order for £10 payable to Time Out England Limited.
+
+11.2    To correct your information
+
+We want to make sure that your personal information is  **accurate and up to date**. To protect your personal information, please contact us at [privacy@timeout.com](mailto:privacy@timeout.com).
+
+ **12 The Data Protection Act**
+
+Time Out England Limited is registered as a  **Data Controller**  under the terms of the Data Protection Act 1998 and we ensure we comply with all the protection the Act affords to you. Our registration number is ZA078189.
+
+ **13 Contact**
+
+13.1    If you have a  **question, complaint or query**  around how we use your information, please contact us at [privacy@timeout.com](mailto:privacy@timeout.com).
+
+13.2    We will try respond to you within 72 hours.
+
+13.3    If you have a complaint regarding the use of your information by us, you can also complain to the regulator, the Information Commissioner's Office.
+
+### Comments
