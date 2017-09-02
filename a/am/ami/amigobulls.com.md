@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amigobulls.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320111107id_/http%3A//amigobulls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigobulls.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903013102id_/https%3A//amigobulls.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, amigobulls.com
 
-Please read the Privacy Policy & [Terms of Use](http://amigobulls.com/terms) before using our Website.
+Please read the Privacy Policy & [Terms of Use](https://amigobulls.com/terms) before using our Website.
 
 We are committed to protecting your privacy while you use our Website. The policy below (referred as "Privacy Policy") explains how we handle the information that we collect implicitly and explicitly from your activities on our site.
 
@@ -12,7 +12,7 @@ The Information that we collect and how we use:
 
 WEB COOKIES
 
-To serve you better, we install what are known as 'Web Cookies' on your system. This a standard mechanism supported by all web browsers and used by many a websites to store information about your usage of the website. Cookies are not 'active' programs that can run on your computer, they are textual information that gets stored by a browser on your computer or a mobile device. We do not use cookies to store any 'personal' information like 'passwords', your name, and address. Currently we use them to store your preferences about certain type of stocks, news, articles etc. This helps us in providing you with relevant content the next time you visit our site. We may use cookies to store certain identifiers that help us identify your browser. Apart from cookies installed by our site, our advertisers may install their own cookies to track your preference regarding advertisements. Currently we use Google Ad-Sense for serving ads on our Website, their privacy policy is listed at <http://www.google.com/policies/privacy> In future we may use other advertisers in addition to Google Ad-Sense. We will keep you informed about their privacy policy.
+To serve you better, we install what are known as 'Web Cookies' on your system. This a standard mechanism supported by all web browsers and used by many a websites to store information about your usage of the website. Cookies are not 'active' programs that can run on your computer, they are textual information that gets stored by a browser on your computer or a mobile device. We do not use cookies to store any 'personal' information like 'passwords', your name, and address. Currently we use them to store your preferences about certain type of stocks, news, articles etc. This helps us in providing you with relevant content the next time you visit our site. We may use cookies to store certain identifiers that help us identify your browser. Apart from cookies installed by our site, our advertisers may install their own cookies to track your preference regarding advertisements. Currently we use Google Ad-Sense for serving ads on our Website, their privacy policy is listed at <https://www.google.com/policies/privacy> In future we may use other advertisers in addition to Google Ad-Sense. We will keep you informed about their privacy policy.
 
 * * *
 
