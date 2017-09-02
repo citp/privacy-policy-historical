@@ -1,1026 +1,1867 @@
-<!--The following is the downloaded HTML source of the bringfido.com privacy policy that was archived on 2017-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170324081625id_/https%3A//www.bringfido.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bringfido.com privacy policy that was archived on 2017-09-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170902141014id_/https%3A//www.bringfido.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en" class="no-js"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T8M247N&amp;gtm_auth=IFqTVRAaqAIpi1ojCw32_A&amp;gtm_preview=env-2&amp;gtm_cookies_win=x"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"5d933c7f6d","agent":"","transactionName":"MVYEZkMFWEYFAUxbWQgcIEdfB0JcCwwXVlwHXQFdHxJfUBMRFlVTCFYUW1JKVFQXBwJmUwtDClNFAWBcARUWVVMS","applicationID":"38024702","errorBeacon":"bam.nr-data.net","applicationTime":36}</script>
-<meta name="apple-itunes-app" content="app-id=682820712">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link rel="icon" type="image/png" href="/static/images/favicon.png">
-<link rel="stylesheet" type="text/css" href="/site_media/css/bundle.css?rev=31.0">
-<title>BringFido.com Privacy Policy</title>
-<meta name="bringfido-current-location-kind" content="">
-<meta name="bringfido-current-location-slug" content="">
-<meta name="bringfido-current-location-name" content="">
-<meta name="bringfido-default-hotel-search-filter-adults" content="2">
-<meta name="bringfido-default-hotel-search-filter-rooms" content="1">
-<meta name="bringfido-default-hotel-search-filter-pets" content="1">
-<meta name="bringfido-default-search-distance" content="25">
-<meta name="description" content="When you use BringFido.com, you are in control of all your pet friendly travel plans. You are also in control of your personal information. This Privacy Policy sets forth our policies regarding the collection, use and protection of the personal information (such as names, addresses, telephone numbers, email addresses and credit card numbers) provided to us by people using the BringFido.com website.">
-<meta name="keywords" content="BringFido.com privacy policy">
- 
-<script>
+<!DOCTYPE html><html lang="en" class=""><head itemscope="" itemtype="http://schema.org/WebSite">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T8M247N&amp;gtm_auth=IFqTVRAaqAIpi1ojCw32_A&amp;gtm_preview=env-2&amp;gtm_cookies_win=x"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"5d933c7f6d","agent":"","transactionName":"MVYEZkMFWEYFAUxbWQgcIEdfB0JcCwwXVlwHXQFdHxJfUBMRFlVTCFYUW1JKVFQXBwJmUwtDClNFAWBcARUWVVMS","applicationID":"38024702","errorBeacon":"bam.nr-data.net","applicationTime":64}</script>
+    <meta name="apple-itunes-app" content="app-id=682820712">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta itemprop="name" content="BringFido">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+
+    
+        <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+        <link rel="stylesheet" type="text/css" href="/assets/css/bundle.css?rev=43.6">
+    
+
+    
+        <title>BringFido.com Privacy Policy</title>
+    
+
+    
+
+    <meta name="bringfido-location-kind" content="">
+    <meta name="bringfido-location-slug" content="">
+    <meta name="bringfido-location-name" content="">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+    
+    <meta name="description" content="When you use BringFido.com, you are in control of all your pet friendly travel plans. You are also in control of your personal information. This Privacy Policy sets forth our policies regarding the collection, use and protection of the personal information (such as names, addresses, telephone numbers, email addresses and credit card numbers) provided to us by people using the BringFido.com website.">
+    <meta name="keywords" content="BringFido.com privacy policy">
+
+
+    <!-- Google Tag Manager data layer -->
+    <script>
         dataLayer = [];
         
     </script>
- 
- 
+    <!-- End Google Tag Manager data layer -->
+
+    <!-- Page-hiding snippet (recommended) -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',1000,
+{'GTM-WDMKRBQ':true});</script>
+
+<!-- Modified Analytics tracking code with Optimize plugin -->
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-88624-2', 'auto');
+ga('require', 'GTM-WDMKRBQ');</script>
+
+    <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=IFqTVRAaqAIpi1ojCw32_A&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T8M247N');</script>
- 
-<style type="text/css">.fancybox-margin{margin-right:0px;}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style><style></style></head>
-<body id="privacy-policy" class="loc-kind-">
- 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8M247N&gtm_auth=IFqTVRAaqAIpi1ojCw32_A&gtm_preview=env-2&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
- 
-<div id="main-wrapper">
-<header id="site-header">
-<nav>
-<ul class="ham-wrapper">
-<div id="mobile-search"><form data-reactroot="" class="hero-search" action="/lodging/section/search/"><div class="dropdown search-category"><span class="dropdown-label ui-item"><span><span style="background-image: url(&quot;/static/images/icon-hotel-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Hotels</span><!-- react-text: 6 --> <!-- /react-text --><span class="dropdown-caret">∨</span></span></span><ul class="dropdown-options" style="min-width: 50px;"><li class="dropdown-current"><span style="background-image: url(&quot;/static/images/icon-hotel-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Hotels</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-restaurant-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Restaurants</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-activity-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Activities</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-event-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Events</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-service-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Services</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-photo-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Photos</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-forum-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Forums</span></li><li class=""><span style="background-image: url(&quot;/static/images/icon-destination-greyscale.svg&quot;); background-repeat: no-repeat; padding-left: 25px; height: 20px; position: relative;">Destinations</span></li></ul></div><div class="hero-search-input-ctn"><div class="ui-item ui-input"><input value="" autocomplete="off" required="" placeholder="Destination"><ul class="hero-search-suggestions"></ul></div></div><button type="submit" href="#" class="button">Fetch</button></form></div>
-<div class="quicklinks">
-<div class="title">
-Worldwide Quick Links
+<!-- End Google Tag Manager -->
+    
+</head>
+<body id="privacy-policy" class="no-search-bar">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8M247N&gtm_auth=IFqTVRAaqAIpi1ojCw32_A&gtm_preview=env-2&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div itemscope="" itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="BringFido">
+      
+        <header id="site-header">
+            <ul class="compact-menu">
+                <div class="container">
+                    <div id="compact-menu-search">
+
+                    </div>
+                </div>
+
+                <div class="links">
+                    
+
+<nav class="quicklinks">
+    <div class="title">
+        
+            Worldwide Quick&nbsp;Links
+        
+    </div>
+
+    
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="lodging" data-quicklinks-section-name="Hotels" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-lodging.svg"></span>Hotels <span class="category-count">(80,522)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="lodging">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/" data-subcat-slug="">
+                            <div class="container">All Property Types <span class="category-count">(80,522)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/hotels/" data-subcat-slug="hotels">
+                            <div class="container">Hotels &amp; Resorts <span class="category-count">(43,709)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/rentals/" data-subcat-slug="rentals">
+                            <div class="container">Vacation Rentals <span class="category-count">(31,740)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/bandbs/" data-subcat-slug="bandbs">
+                            <div class="container">Bed &amp; Breakfasts <span class="category-count">(947)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/campgrounds/" data-subcat-slug="campgrounds">
+                            <div class="container">Campgrounds <span class="category-count">(4,050)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:hotels@bringfido.com">
+                        <div class="container">Post a New Property</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-lodging" data-quicklinks-section-slug="lodging" data-quicklinks-section-name="Hotels">
-Hotels <span class="category-count">(51,547)</span>
-<span class="caret">∨</span>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="restaurant" data-quicklinks-section-name="Restaurants" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-restaurant.svg"></span>Restaurants <span class="category-count">(29,188)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="restaurant">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/restaurant/" data-subcat-slug="">
+                            <div class="container">All Restaurants <span class="category-count">(29,188)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:restaurants@bringfido.com">
+                        <div class="container">Post a New Restaurant</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="attraction" data-quicklinks-section-name="Activities" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-attraction.svg"></span>Activities <span class="category-count">(9,235)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="attraction">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/" data-subcat-slug="">
+                            <div class="container">All Activities <span class="category-count">(9,235)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/parks/" data-subcat-slug="parks">
+                            <div class="container">Dog Parks <span class="category-count">(3,341)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/beaches/" data-subcat-slug="beaches">
+                            <div class="container">Dog Beaches <span class="category-count">(423)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/trails/" data-subcat-slug="trails">
+                            <div class="container">Hiking Trails <span class="category-count">(3,552)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/tours/" data-subcat-slug="tours">
+                            <div class="container">Tours <span class="category-count">(400)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/shops/" data-subcat-slug="shops">
+                            <div class="container">Pet Friendly Stores <span class="category-count">(707)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/other/" data-subcat-slug="other">
+                            <div class="container">Other Activities <span class="category-count">(812)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:activities@bringfido.com">
+                        <div class="container">Post a New Activity</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="lodging">
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/" data-sub-cat-slug="">All Property Types (51,547)</a>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="event" data-quicklinks-section-name="Events" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-event.svg"></span>Events <span class="category-count">(568)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="event">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/event/" data-subcat-slug="">
+                            <div class="container">Upcoming Events <span class="category-count">(568)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:events@bringfido.com">
+                        <div class="container">Post a New Event</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/hotels/" data-sub-cat-slug="hotels">Hotels &amp; Resorts (32,678)</a>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="resource" data-quicklinks-section-name="Services" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-resource.svg"></span>Services <span class="category-count">(24,008)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="resource">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/" data-subcat-slug="">
+                            <div class="container">All Pet Services <span class="category-count">(24,008)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/pet_sitters_dog_walkers/" data-subcat-slug="pet_sitters_dog_walkers">
+                            <div class="container">Pet Sitters &amp; Dog Walkers <span class="category-count">(12,973)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/doggie_daycare_boarding/" data-subcat-slug="doggie_daycare_boarding">
+                            <div class="container">Dog Boarding &amp; Kennels <span class="category-count">(1,395)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/veterinarians/" data-subcat-slug="veterinarians">
+                            <div class="container">Veterinarians <span class="category-count">(1,516)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/pet_stores/" data-subcat-slug="pet_stores">
+                            <div class="container">Pet Stores <span class="category-count">(2,566)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/dog_training/" data-subcat-slug="dog_training">
+                            <div class="container">Dog Trainers <span class="category-count">(2,213)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/dog_grooming/" data-subcat-slug="dog_grooming">
+                            <div class="container">Dog Groomers <span class="category-count">(1,974)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/animal_shelters/" data-subcat-slug="animal_shelters">
+                            <div class="container">Animal Shelters <span class="category-count">(149)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/other_pet_services/" data-subcat-slug="other_pet_services">
+                            <div class="container">Other Pet Services <span class="category-count">(793)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:services@bringfido.com">
+                        <div class="container">Post a New Business</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/rentals/" data-sub-cat-slug="rentals">Vacation Rentals (14,385)</a>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="photo" data-quicklinks-section-name="Photos" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-photo.svg"></span>Photos <span class="category-count"></span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="photo">
+        
+            
+                <li>
+                    <a href="/photo/">
+                        <div class="container">All Photos</div>
+                    </a>
+                </li>
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="/photo/upload/">
+                        <div class="container">Post a New Photo</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/bandbs/" data-sub-cat-slug="bandbs">Bed &amp; Breakfasts (405)</a>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="forum" data-quicklinks-section-name="Forum" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-forum.svg"></span>Forum <span class="category-count"></span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="forum">
+        
+            
+                <li>
+                    <a href="/forum/">
+                        <div class="container">All Forums</div>
+                    </a>
+                </li>
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="/forum/">
+                        <div class="container">Post a New Topic</div>
+                    </a>
+                </li>
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    </ol>
 </div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/apartments/" data-sub-cat-slug="apartments">Long-Term Apartments (73)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/campgrounds/" data-sub-cat-slug="campgrounds">Campgrounds (4,006)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:hotels@bringfido.com" class="">Post a New Property</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-restaurant" data-quicklinks-section-slug="restaurant" data-quicklinks-section-name="Restaurants">
-Restaurants <span class="category-count">(13,165)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="restaurant">
-<li class="item-wrap">
-<div class="item">
-<a href="/restaurant/" data-sub-cat-slug="">All Restaurants (13,165)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:restaurants@bringfido.com" class="">Post a New Restaurant</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-attraction" data-quicklinks-section-slug="attraction" data-quicklinks-section-name="Activities">
-Activities <span class="category-count">(9,087)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="attraction">
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/" data-sub-cat-slug="">All Activities (9,087)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/parks/" data-sub-cat-slug="parks">Dog Parks (3,322)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/beaches/" data-sub-cat-slug="beaches">Dog Beaches (425)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/trails/" data-sub-cat-slug="trails">Hiking Trails (3,527)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/tours/" data-sub-cat-slug="tours">Tours (381)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/shops/" data-sub-cat-slug="shops">Pet Friendly Stores (647)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/other/" data-sub-cat-slug="other">Other Activities (785)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:activities@bringfido.com" class="">Post a New Activity</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-event" data-quicklinks-section-slug="event" data-quicklinks-section-name="Events">
-Events <span class="category-count">(1,804)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="event">
-<li class="item-wrap">
-<div class="item">
-<a href="/event/" data-sub-cat-slug="">Upcoming Events (1,804)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:events@bringfido.com" class="">Post a New Event</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-resource" data-quicklinks-section-slug="resource" data-quicklinks-section-name="Services">
-Services <span class="category-count">(23,763)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="resource">
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/" data-sub-cat-slug="">All Pet Services (23,763)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/pet_sitters_dog_walkers/" data-sub-cat-slug="pet_sitters_dog_walkers">Pet Sitters &amp; Dog Walkers (13,006)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/online_resources/" data-sub-cat-slug="online_resources">Online Resources (426)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/doggie_daycare_boarding/" data-sub-cat-slug="doggie_daycare_boarding">Dog Boarding &amp; Kennels (1,363)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/veterinarians/" data-sub-cat-slug="veterinarians">Veterinarians (1,405)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/pet_stores/" data-sub-cat-slug="pet_stores">Pet Stores (2,526)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/dog_training/" data-sub-cat-slug="dog_training">Dog Trainers (2,194)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/dog_grooming/" data-sub-cat-slug="dog_grooming">Dog Groomers (1,918)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/animal_shelters/" data-sub-cat-slug="animal_shelters">Animal Shelters (139)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/other_pet_services/" data-sub-cat-slug="other_pet_services">Other Pet Services (786)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:services@bringfido.com" class="">Post a New Business</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-photo" data-quicklinks-section-slug="photo" data-quicklinks-section-name="Photos">
-Photos <span class="category-count"></span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="photo">
-<li class="item-wrap">
-<div class="item">
-<a href="/photo/" class="">All Photos</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/photo/upload/" class="fancybox-submit-photo fancybox.ajax">Post a New Photo</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-forum" data-quicklinks-section-slug="forum" data-quicklinks-section-name="Forum">
-Forum <span class="category-count"></span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="forum">
-<li class="item-wrap">
-<div class="item">
-<a href="/forum/" class="">All Forums</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/forum/" class="">Post a New Topic</a>
-</div>
-</li>
-</ol>
-</div>
-<a class="mobile-airline" href="/travel/airline_policies/">Airlines</a>
-<a class="mobile-destination" href="/destination/">Destinations</a>
-<div class="mobile-about">About</div>
-<div class="mobile-company-info">
-<h4>Company Information</h4>
-<div class="sub-links">
-<ul>
-<li><a href="/about">About Us</a></li>
-<li><a href="mailto:jobs@bringfido.com">Jobs</a></li>
-<li><a href="/promo/freebies/">Promotions</a></li>
-<li><a href="/promo/tellafriend/five_bucks/">Tell a Friend</a></li>
-<li><a href="https://itunes.apple.com/us/app/bringfido-pet-friendly-hotels/id682820712" target="_blank">Download App</a></li>
-<li><a href="http://www.ruffguides.com/shop/book" target="_blank">Order Book</a></li>
-</ul>
-</div>
-</div>
-<div class="mobile-customer-service" href="#">
-<h4>Customer Service</h4>
-<div class="sub-links">
-<ul>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="javascript:void(0);" class="chat">Chat Now</a></li>
-<li><a href="/help/">Cancel Reservation</a></li>
-<li><a href="/help/#pet_fee_guarantee">Pet Fee Guarantee</a></li>
-<li><a href="/help/">FAQ</a></li>
-</ul>
-</div>
-</div>
-<div class="mobile-partner" href="#">
-<h4>Partners</h4>
-<div class="sub-links">
-<ul>
-<li><a href="mailto:advertising@bringfido.com">Advertising</a></li>
-<li><a href="/press/">Media</a></li>
-<li><a href="/affiliate/petcharity/">Pet Charities</a></li>
-<li><a href="/affiliate/">Affiliates</a></li>
-<li><a href="/affiliate/link/">Link to Us</a></li>
-<li><a href="/resource/online_resources/">Sites We Like</a></li>
-</ul>
-</div>
-</div>
-</ul>
-<div class="nav-inner">
-<section id="nav-mobile">
-<a id="hamburger" href="#">
-<div class="mobile-hamburger-icon"></div>
-</a>
-<a id="mobile-logo" href="/">
-<img src="/static/images/bfi-logo-new.svg" alt="Bring Fido Logo">
-</a>
-<a id="user-account" href="#">
-<img src="/static/images/user.svg">
-</a>
-</section>
-<section id="nav-desktop">
-<a id="desktop-logo" href="/">
-<img src="/static/images/bfi-logo-new.svg" alt="Bring Fido Logo">
-</a>
-<a href="/lodging/">HOTELS</a>
-<a href="/restaurant/">RESTAURANTS</a>
-<a href="/attraction/">ACTIVITIES</a>
-<a href="/event/">EVENTS</a>
-<a href="/resource/">SERVICES</a>
-<span href="#" id="header-more"><div data-reactroot="" class="dropdown"><span class="dropdown-label ui-item"><span><!-- react-text: 4 -->MORE<!-- /react-text --><!-- react-text: 5 --> <!-- /react-text --><span class="dropdown-caret">∨</span></span></span><ul class="dropdown-options" style="min-width: 118px;"><li class=""><a href="/photo/"><span>Photos</span></a></li><li class=""><a href="/forum/"><span>Forum</span></a></li><li class=""><a href="/travel/"><span>Airlines</span></a></li><li class=""><a href="/destination/"><span>Destinations</span></a></li></ul></div></span>
-<span class="flex-spacer"></span>
-<span href="#" id="header-help"><div data-reactroot="" class="dropdown"><span class="dropdown-label ui-item"><span><img src="/static/images/icon-help.png"><!-- react-text: 5 --> <!-- /react-text --><!-- react-text: 6 --><!-- /react-text --></span></span><ul class="dropdown-options" style="min-width: 50px;"><li class=""><a href="/help/"><span>Customer Service</span></a></li><li class=""><a href="mailto:help@bringfido.com"><span>Email us</span></a></li><li class=""><a class="chat" href="javascript:void(0);"><span>Chat with us</span></a></li><li class=""><a href="tel:+1-877-411-3436"><span>(877) 411-3436</span></a></li></ul></div></span>
-</section>
-</div>
+
+        
+    
 </nav>
-</header>
-<div data-reactroot="" id="search-mnt" class="search-lodging-mnt"><div class="ui-expandingpanel search-ctn lodging-search-ctn desktop-flatten"><div class="ui-expandingpanel-label ui-item "><span class="ui-expandingpanel-label-hole " style="width: 100%;"><div class="lodging-search-mobile-header"><div class="magnify"></div><div class="row search-mobile-summary-line1">Worldwide</div><div class="row search-mobile-summary-line2">Fri 1/31-Sat 2/1, 1 room, 2 ppl, 1 pet</div><div class="mobile-map-filter-links"><span class="ui-expandingpanel-open"><span class="mobile-filter-link">Filter</span></span></div></div></span></div><div class="ui-expandingpanel-panel"><form id="lodging-search" class="hero-search" action="/lodging/search/"><header><span class="ui-expandingpanel-close"><a href="#" class="button">Save</a></span><h3>Filter</h3><span class="ui-expandingpanel-close"><a href="#">X</a></span></header><div class="search-row-ctn"><div class="row search-secondary"><div class="dropdown search-property-type mobile-flatten"><input type="hidden" name="type" value=""><span class="dropdown-label ui-item"><span><span>All Properties</span><!-- react-text: 27 --> <!-- /react-text --><span class="dropdown-caret">∨</span></span></span><ul class="dropdown-options" style="min-width: 50px;"><li class="dropdown-current"><span><label class="checkbox-wrapper checked" for="prop-type-option-0"><input type="checkbox" id="prop-type-option-0" value="on"></label><!-- react-text: 34 -->All Properties<!-- /react-text --></span></li><li class=""><span><label class="checkbox-wrapper " for="prop-type-option-1"><input type="checkbox" id="prop-type-option-1" value="on"></label><!-- react-text: 39 -->Hotels<!-- /react-text --></span></li><li class=""><span><label class="checkbox-wrapper " for="prop-type-option-2"><input type="checkbox" id="prop-type-option-2" value="on"></label><!-- react-text: 44 -->Vacation Rentals<!-- /react-text --></span></li><li class=""><span><label class="checkbox-wrapper " for="prop-type-option-3"><input type="checkbox" id="prop-type-option-3" value="on"></label><!-- react-text: 49 -->Bed &amp; Breakfasts<!-- /react-text --></span></li><li class=""><span><label class="checkbox-wrapper " for="prop-type-option-4"><input type="checkbox" id="prop-type-option-4" value="on"></label><!-- react-text: 54 -->Campgrounds<!-- /react-text --></span></li><li class=""><span><label class="checkbox-wrapper " for="prop-type-option-5"><input type="checkbox" id="prop-type-option-5" value="on"></label><!-- react-text: 59 -->Long-Term Apartments<!-- /react-text --></span></li></ul></div><div class="ui-expandingpanel petpolicy mobile-flatten"><div class="ui-expandingpanel-label ui-item "><span>Pet Policy</span><span class="ui-expandingpanel-caret">∨</span></div><div class="ui-expandingpanel-panel"><div><label for="petpolicy-no_fee"><span class="checkbox-wrapper "><input type="checkbox" name="no_fee" id="petpolicy-no_fee" value="on"></span><!-- react-text: 69 -->No Pet Fee or Deposit<!-- /react-text --></label><label for="petpolicy-deposit_only"><span class="checkbox-wrapper "><input type="checkbox" name="deposit_only" id="petpolicy-deposit_only" value="on"></span><!-- react-text: 73 -->Deposit Only, No Fee<!-- /react-text --></label><label for="petpolicy-fee_under_25"><span class="checkbox-wrapper "><input type="checkbox" name="fee_under_25" id="petpolicy-fee_under_25" value="on"></span><!-- react-text: 77 -->Pet Fee Less Than $25<!-- /react-text --></label><label for="petpolicy-large_allowed"><span class="checkbox-wrapper "><input type="checkbox" name="large_allowed" id="petpolicy-large_allowed" value="on"></span><!-- react-text: 81 -->Large Dogs Allowed<!-- /react-text --></label><label for="petpolicy-multiple_allowed"><span class="checkbox-wrapper "><input type="checkbox" name="multiple_allowed" id="petpolicy-multiple_allowed" value="on"></span><!-- react-text: 85 -->Multiple Dogs Allowed<!-- /react-text --></label></div></div></div><div class="ui-rating-ctn"><span class="ui-rating search-ctrl"><input type="hidden" name="rating_low" value="0"><span style="padding-right: 5px;">Rating</span><!-- react-text: 90 --> <!-- /react-text --><img src="/static/images/bones-inactive.svg"><img src="/static/images/bones-inactive.svg"><img src="/static/images/bones-inactive.svg"><img src="/static/images/bones-inactive.svg"><img src="/static/images/bones-inactive.svg"></span></div><div class="ui-expandingpanel search-all-filters mobile-flatten"><div class="ui-expandingpanel-label ui-item "><span>Price</span><span class="ui-expandingpanel-caret">∨</span></div><div class="ui-expandingpanel-panel"><div><span><input type="hidden" name="price" value="0,500"><span class="rc-slider-label-min rc-slider-label" style="opacity: 0;"><!-- react-text: 105 -->$<!-- /react-text --><!-- react-text: 106 -->0<!-- /react-text --></span><span class="rc-slider-label-max rc-slider-label" style="opacity: 0;"><!-- react-text: 108 -->$<!-- /react-text --><!-- react-text: 109 -->500<!-- /react-text --><!-- react-text: 110 -->+<!-- /react-text --></span><div class="rc-slider"><div class="rc-slider-track rc-slider-track-1" style="visibility: visible; left: 0%; width: 100%;"></div><div class="rc-slider-step"></div><div class="rc-slider-handle" style="left: 0%;"><span><!-- react-text: 116 -->$<!-- /react-text --><!-- react-text: 117 -->0<!-- /react-text --><!-- react-text: 118 --><!-- /react-text --></span></div><div class="rc-slider-handle" style="left: 100%;"><span><!-- react-text: 121 -->$<!-- /react-text --><!-- react-text: 122 -->500<!-- /react-text --><!-- react-text: 123 -->+<!-- /react-text --></span></div><div class="rc-slider-mark"></div></div></span></div></div></div></div><div class="row search-primary"><a form="lodging-search" type="submit" href="#" class="button">Fetch</a><div class="search-lodgings-filters"><div class="dropdown search-lodgings search-lodgings-rooms"><input type="hidden" name="rooms" value="1" form="lodging-search"><span class="dropdown-label ui-item"><span><span>1 room</span><!-- react-text: 133 --> <!-- /react-text --><span class="dropdown-caret">∨</span></span></span><ul class="dropdown-options" style="min-width: 50px;"><li class="dropdown-current"><span>1 room</span></li><li class=""><span>2 rooms</span></li><li class=""><span>3 rooms</span></li><li class=""><span>4 rooms</span></li></ul></div><div class="dropdown search-lodgings search-lodgings-guests"><input type="hidden" name="adults" value="2" form="lodging-search"><span class="dropdown-label ui-item"><span><span>2 people</span><!-- react-text: 149 --> <!-- /react-text --><span class="dropdown-caret">∨</span></span></span><ul class="dropdown-options" style="min-width: 50px;"><li class=""><span>1 person</span></li><li class="dropdown-current"><span>2 people</span></li><li class=""><span>3 people</span></li><li class=""><span>4 people</span></li><li class=""><span>5 people</span></li><li class=""><span>6 people</span></li><li class=""><span>7 people</span></li><li class=""><span>8 people</span></li></ul></div><div class="dropdown search-lodgings search-lodgings-pets"><input type="hidden" name="dogs" value="1" form="lodging-search"><span class="dropdown-label ui-item"><span><span>1 pet</span><!-- react-text: 173 --> <!-- /react-text --><span class="dropdown-caret">∨</span></span></span><ul class="dropdown-options" style="min-width: 50px;"><li class=""><span>0 pets</span></li><li class="dropdown-current"><span>1 pet</span></li><li class=""><span>2 pets</span></li><li class=""><span>3 pets</span></li><li class=""><span>4 pets</span></li><li class=""><span>5 pets</span></li></ul></div></div><div class="ui-date-range"><input type="hidden" form="lodging-search" name="arrival" value="2020-01-31"><input type="hidden" form="lodging-search" name="departure" value="2020-02-01"><div class="ui-expandingpanel search-lodgings search-lodgings-dates"><div class="ui-expandingpanel-label ui-item "><span>Select travel dates...</span><span></span></div><div class="ui-expandingpanel-panel"><div><span class="ui-expandingpanel-close"><span class="rangecal-overlay"></span></span><div class="rangecal-ctn"><div class="calendarheader"><span class="ui-expandingpanel-close"><button class="savebutton">Save</button></span><span class="calendarheader-text">Calendar</span><span class="ui-expandingpanel-close"><div class="closebutton">X</div></span></div><div style="overflow-y: hidden;"><div class="rc-calendar rc-calendar-range" tabindex="0" style="transform: translateY(0px); opacity: 1;"><a class="rc-calendar-clear-btn" role="button" title="Clear"></a><div class="rc-calendar-range-part rc-calendar-range-left"><div class="rc-calendar-input-wrap"><div class="rc-calendar-time-picker-wrap"></div><div class="rc-calendar-date-input-wrap"><input class="rc-calendar-input  " value="2020-01-31" placeholder="Check-in"></div></div><div style="outline: none;"><div class="rc-calendar-header"><div style="position: relative;"><a class="rc-calendar-prev-year-btn" role="button" title="Last year (Control + left)">«</a><a class="rc-calendar-prev-month-btn" role="button" title="Previous month (PageUp)">‹</a><span class="rc-calendar-my-select"><a class="rc-calendar-month-select" role="button" title="Choose a month">January</a><a class="rc-calendar-year-select" role="button" title="Choose a month">2020</a></span></div></div><div class="rc-calendar-calendar-body"><table class="rc-calendar-table" cellspacing="0" role="grid"><thead><tr role="row"><th role="columnheader" title="Sunday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Su</span></th><th role="columnheader" title="Monday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Mo</span></th><th role="columnheader" title="Tuesday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Tu</span></th><th role="columnheader" title="Wednesday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">We</span></th><th role="columnheader" title="Thursday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Th</span></th><th role="columnheader" title="Friday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Fr</span></th><th role="columnheader" title="Saturday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Sa</span></th></tr></thead><tbody class="rc-calendartbody"><tr role="row"><td role="gridcell" title="2019-12-29" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell-first-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">29</div></td><td role="gridcell" title="2019-12-30" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">30</div></td><td role="gridcell" title="2019-12-31" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">31</div></td><td role="gridcell" title="2020-1-1" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">1</div></td><td role="gridcell" title="2020-1-2" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">2</div></td><td role="gridcell" title="2020-1-3" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">3</div></td><td role="gridcell" title="2020-1-4" class="rc-calendar-cell rc-calendar-disabled-cell-last-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">4</div></td></tr><tr role="row"><td role="gridcell" title="2020-1-5" class="rc-calendar-cell rc-calendar-disabled-cell-first-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">5</div></td><td role="gridcell" title="2020-1-6" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">6</div></td><td role="gridcell" title="2020-1-7" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">7</div></td><td role="gridcell" title="2020-1-8" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">8</div></td><td role="gridcell" title="2020-1-9" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">9</div></td><td role="gridcell" title="2020-1-10" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">10</div></td><td role="gridcell" title="2020-1-11" class="rc-calendar-cell rc-calendar-disabled-cell-last-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">11</div></td></tr><tr role="row"><td role="gridcell" title="2020-1-12" class="rc-calendar-cell rc-calendar-disabled-cell-first-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">12</div></td><td role="gridcell" title="2020-1-13" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">13</div></td><td role="gridcell" title="2020-1-14" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">14</div></td><td role="gridcell" title="2020-1-15" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">15</div></td><td role="gridcell" title="2020-1-16" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">16</div></td><td role="gridcell" title="2020-1-17" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">17</div></td><td role="gridcell" title="2020-1-18" class="rc-calendar-cell rc-calendar-disabled-cell-last-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">18</div></td></tr><tr role="row"><td role="gridcell" title="2020-1-19" class="rc-calendar-cell rc-calendar-disabled-cell-first-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">19</div></td><td role="gridcell" title="2020-1-20" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">20</div></td><td role="gridcell" title="2020-1-21" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">21</div></td><td role="gridcell" title="2020-1-22" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">22</div></td><td role="gridcell" title="2020-1-23" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">23</div></td><td role="gridcell" title="2020-1-24" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">24</div></td><td role="gridcell" title="2020-1-25" class="rc-calendar-cell rc-calendar-disabled-cell-last-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">25</div></td></tr><tr role="row"><td role="gridcell" title="2020-1-26" class="rc-calendar-cell rc-calendar-disabled-cell-first-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">26</div></td><td role="gridcell" title="2020-1-27" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">27</div></td><td role="gridcell" title="2020-1-28" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">28</div></td><td role="gridcell" title="2020-1-29" class="rc-calendar-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">29</div></td><td role="gridcell" title="2020-1-30" class="rc-calendar-cell rc-calendar-disabled-cell-last-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">30</div></td><td role="gridcell" title="2020-1-31" class="rc-calendar-cell rc-calendar-today rc-calendar-selected-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">31</div></td><td role="gridcell" title="2020-2-1" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">1</div></td></tr><tr role="row"><td role="gridcell" title="2020-2-2" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">2</div></td><td role="gridcell" title="2020-2-3" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">3</div></td><td role="gridcell" title="2020-2-4" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">4</div></td><td role="gridcell" title="2020-2-5" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">5</div></td><td role="gridcell" title="2020-2-6" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">6</div></td><td role="gridcell" title="2020-2-7" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">7</div></td><td role="gridcell" title="2020-2-8" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">8</div></td></tr></tbody></table></div></div></div><span class="rc-calendar-range-middle">~</span><div class="rc-calendar-range-part rc-calendar-range-right"><div class="rc-calendar-input-wrap"><div class="rc-calendar-time-picker-wrap"></div><div class="rc-calendar-date-input-wrap"><input class="rc-calendar-input  " value="2020-02-01" placeholder="Check-out"></div></div><div style="outline: none;"><div class="rc-calendar-header"><div style="position: relative;"><span class="rc-calendar-my-select"><a class="rc-calendar-month-select" role="button" title="Choose a month">February</a><a class="rc-calendar-year-select" role="button" title="Choose a month">2020</a></span><a class="rc-calendar-next-month-btn" title="Next month (PageDown)">›</a><a class="rc-calendar-next-year-btn" title="Next year (Control + right)">»</a></div></div><div class="rc-calendar-calendar-body"><table class="rc-calendar-table" cellspacing="0" role="grid"><thead><tr role="row"><th role="columnheader" title="Sunday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Su</span></th><th role="columnheader" title="Monday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Mo</span></th><th role="columnheader" title="Tuesday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Tu</span></th><th role="columnheader" title="Wednesday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">We</span></th><th role="columnheader" title="Thursday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Th</span></th><th role="columnheader" title="Friday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Fr</span></th><th role="columnheader" title="Saturday" class="rc-calendar-column-header"><span class="rc-calendar-column-header-inner">Sa</span></th></tr></thead><tbody class="rc-calendartbody"><tr role="row"><td role="gridcell" title="2020-1-26" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell-first-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">26</div></td><td role="gridcell" title="2020-1-27" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">27</div></td><td role="gridcell" title="2020-1-28" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">28</div></td><td role="gridcell" title="2020-1-29" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">29</div></td><td role="gridcell" title="2020-1-30" class="rc-calendar-cell rc-calendar-last-month-cell rc-calendar-disabled-cell-last-of-row rc-calendar-disabled-cell"><div class="rc-calendar-date" aria-disabled="true" style="transform: scale(1);">30</div></td><td role="gridcell" title="2020-1-31" class="rc-calendar-cell rc-calendar-today rc-calendar-last-month-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">31</div></td><td role="gridcell" title="2020-2-1" class="rc-calendar-cell rc-calendar-selected-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">1</div></td></tr><tr role="row"><td role="gridcell" title="2020-2-2" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">2</div></td><td role="gridcell" title="2020-2-3" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">3</div></td><td role="gridcell" title="2020-2-4" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">4</div></td><td role="gridcell" title="2020-2-5" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">5</div></td><td role="gridcell" title="2020-2-6" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">6</div></td><td role="gridcell" title="2020-2-7" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">7</div></td><td role="gridcell" title="2020-2-8" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">8</div></td></tr><tr role="row"><td role="gridcell" title="2020-2-9" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">9</div></td><td role="gridcell" title="2020-2-10" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">10</div></td><td role="gridcell" title="2020-2-11" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">11</div></td><td role="gridcell" title="2020-2-12" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">12</div></td><td role="gridcell" title="2020-2-13" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">13</div></td><td role="gridcell" title="2020-2-14" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">14</div></td><td role="gridcell" title="2020-2-15" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">15</div></td></tr><tr role="row"><td role="gridcell" title="2020-2-16" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">16</div></td><td role="gridcell" title="2020-2-17" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">17</div></td><td role="gridcell" title="2020-2-18" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">18</div></td><td role="gridcell" title="2020-2-19" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">19</div></td><td role="gridcell" title="2020-2-20" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">20</div></td><td role="gridcell" title="2020-2-21" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">21</div></td><td role="gridcell" title="2020-2-22" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">22</div></td></tr><tr role="row"><td role="gridcell" title="2020-2-23" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">23</div></td><td role="gridcell" title="2020-2-24" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">24</div></td><td role="gridcell" title="2020-2-25" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">25</div></td><td role="gridcell" title="2020-2-26" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">26</div></td><td role="gridcell" title="2020-2-27" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">27</div></td><td role="gridcell" title="2020-2-28" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">28</div></td><td role="gridcell" title="2020-2-29" class="rc-calendar-cell"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">29</div></td></tr><tr role="row"><td role="gridcell" title="2020-3-1" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">1</div></td><td role="gridcell" title="2020-3-2" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">2</div></td><td role="gridcell" title="2020-3-3" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">3</div></td><td role="gridcell" title="2020-3-4" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">4</div></td><td role="gridcell" title="2020-3-5" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">5</div></td><td role="gridcell" title="2020-3-6" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">6</div></td><td role="gridcell" title="2020-3-7" class="rc-calendar-cell rc-calendar-next-month-btn-day"><div class="rc-calendar-date" aria-disabled="false" style="transform: scale(1);">7</div></td></tr></tbody></table></div></div></div><div class="rc-calendar-range-bottom"><a class="rc-calendar-today-btn " role="button" title="2020-1-31">Back to today</a></div></div></div><span class="ui-expandingpanel-close"><a class="button">Save</a></span></div></div></div></div></div><div class="hero-search-input-ctn"><div class="ui-item ui-input"><input id="lodging-city" value="" name="location" form="lodging-search" class="lastpass-search" autocomplete="off" required="" placeholder="Destination City"><ul class="hero-search-suggestions"></ul></div></div></div></div><span class="ui-expandingpanel-close"><a href="#" class="button mobile-search-btn">Save</a></span></form></div></div></div>
-<div class="body-container">
-<div class="body-wrapper breadcrumbs">
-</div>
-<div class="body-wrapper">
-<div id="all-results-filtered-message" style="display: none" class="detail_container">
-<p>All results are hidden due to the current filter settings.</p>
-</div>
-</div>
-<div class="body-wrapper">
-<div class="static-page-wrapper detail_container">
-<div id="detail_header">
-<h2>Privacy Policy</h2>
-<p>Thanks for visiting the BringFido website and/or mobile applications
-(collectively, the “Website”). The terms “we,” “us,” “our” and “BringFido”
-refer to Kendall Media, Inc. d/b/a BringFido, a Florida corporation, and/or our
-subsidiaries. The term “you” refers to the user interacting with the Website,
-contributing content on the Website and/or completing a booking on the Website
-or through our customer service agents.
-</p>
-<p>This Privacy Policy describes our policies for the collection, use and
-disclosure of information about you and your pets in connection with your use
-of our services, including those offered through our Website, emails, and
-mobile applications (collectively, the “Service”). When you use the Service,
-you consent to our collection, use and disclosure of information about you as
-described in this Privacy Policy.
-</p>
-<h4>INFORMATION WE COLLECT AND HOW WE USE IT</h4>
-<p>We collect and store information about you and your pets when you use the
-Service. We use the information to fulfill your requests, provide the Service’s
-functionality, improve the Service’s quality, personalize your experience,
-track usage of the Service, provide feedback to third party businesses, display
-relevant advertising, market the Service, provide customer support, message
-you, back up our systems and allow for disaster recovery, enhance the security
-of the Service, and comply with legal obligations.
-</p>
-<p class="indented"><strong>Account Information:</strong> If you create an account on BringFido,
-we may store and use your full name, email address, zip code, and other
-information you may provide with your account, such as your gender and birth
-date. Your name and any photo you submit through the registration process may
-be publicly displayed as part of your account profile. If you believe that
-someone has created an unauthorized account depicting you or your likeness, you
-can request its removal.
-</p>
-<p class="indented"><strong>Public Content:</strong> The information that you contribute through
-the Service is intended for public consumption, including your reviews, tips,
-photos, videos, check-ins, comments, likes, posts, events, bookmarks, friends,
-lists, compliments, and account profile. We may display this information
-through the Service, share it with businesses, and further distribute it to a
-wider audience through third party sites and services.
-</p>
-<p class="indented"><strong>Contacts:</strong> We may allow you to invite your friends to join the
-Service by providing us with their contact information, or by allowing us to
-access your contacts from your computer, mobile device, or third party sites to
-select which friends you want to invite. If you allow us to access your
-contacts, we may transmit that information to BringFido long enough to process
-your invitations.
-</p>
-<p class="indented"><strong>Communications:</strong> When you sign up for an account or use
-certain features, you are opting to receive messages from other BringFido
-users, businesses, and BringFido itself. You can manage some of your messaging
-preferences, but note that you cannot opt out of receiving certain
-administrative, transactional, or legal messages from BringFido. We may track
-your actions in response to the messages you receive from BringFido or through
-the Service, such as whether you deleted, opened, or forwarded such messages.
-If you exchange messages with others through the Service, we may store them in
-order to process and deliver them, allow you to manage them, and we may review
-and disclose them in connection with investigations related to the operation
-and use of the Service. If you send or receive messages through the Service via
-SMS text message, we may log phone numbers, phone carriers, and the date and
-time that the messages were processed. Carriers may charge recipients for texts
-that they receive. We may also store information that you provide through
-communications to us, including from phone calls, letters, emails and other
-electronic messages, or in person. If you are a representative of a business
-listed on BringFido, we may contact you, including by phone or email, using the
-contact information you provide us, make publicly available, or that we have on
-record for your business.
-</p>
-<p class="indented"><strong>Transactional Information:</strong> If you initiate a transaction
-through the Service, such as a booking or other purchase, we may collect and
-store information about you, such as your name, phone number, address, email,
-and credit card information, as well as any other information you provide to
-us, in order to process your transaction, send communications about them to
-you, and populate forms for future transactions. This information may be shared
-with third parties for the same purposes. BringFido does not disclose your
-personal information to third parties for the purpose of directly marketing
-their services to you unless you first agree to such disclosure. When you
-submit credit card numbers, we encrypt that information using industry standard
-technology. If you write reviews about businesses with which you transact
-through the Service, we may publicly display the fact that you transacted with
-those businesses.
-</p>
-<p class="indented"><strong>Activity:</strong> We may store information about your use of the
-Service, such as your search activity, the pages you view, the date and time of
-your visit, businesses you call using our mobile applications, and bookings and
-purchases you make through the Service. We also may store information that your
-computer or mobile device provides to us in connection with your use of the
-Service, such as your browser type, type of computer or mobile device, browser
-language, IP address, mobile carrier, phone number, unique device identifier,
-advertising identifier, location (including geo-location, beacon based
-location, and GPS location), and requested and referring URLs. You may be able
-to disallow our use of certain location data through your device or browser
-settings, for example by disabling “Location Services” for the BringFido
-application in iOS privacy settings.
-</p>
-<h4>COOKIES</h4>
-<p>We, and third parties with whom we do business, may use cookies, web beacons,
-tags, scripts, local shared objects such as HTML5 and Flash (sometimes called
-“flash cookies”), advertising identifiers (including mobile identifiers such as
-Apple’s IDFA or Google’s Advertising ID) and similar technology (“Cookies”) in
-connection with your use of the Service, third party websites, and mobile
-applications. Cookies may have unique identifiers, and reside, among other
-places, on your computer or mobile device, in emails we send to you, and on our
-web pages. Cookies may transmit information about you and your use of the
-Service, such as your browser type, search preferences, IP address, data
-relating to advertisements that have been displayed to you or that you have
-clicked on, and the date and time of your use. Cookies may be persistent or
-stored only during an individual session.
-</p>
-<p>We use Cookies for our processes, which are intended to make the Service work
-in the way you expect. For example, we may use a Cookie that tells us whether
-you have already signed up for an account. We may use Cookies for
-authentication, security, and compliance, which are intended to prevent fraud,
-protect your data from unauthorized parties, and comply with legal
-requirements. For example, we may use Cookies to determine if you are logged
-in. We may use Cookies for preferences, intended to remember information about
-how you prefer the Service to behave and look. For example, we may use a Cookie
-that tells us whether you have declined to allow us to use your phone’s
-geo-location data.
-</p>
-<p>We may use Cookies for notifications, intended to allow or prevent notices of
-information or options that we think could improve your use of the Service. For
-example, we may use a Cookie that stops us from showing you the signup
-notification if you have already seen it. We may use Cookies to make
-advertising more relevant to users and more valuable to advertisers. For
-example, we may use Cookies to serve you interest-based ads, such as ads that
-are displayed to you based on your visits to other websites, or to tell us if
-you have recently clicked on an ad. We may use Cookies for analytics, intended
-to help us understand how visitors use the Service. For example, we might use a
-Cookie that tells us how our search suggestions correlate to your interactions
-with the search page.
-</p>
-<p>It may be possible to disable some (but not all) Cookies through your device
-or browser settings, but doing so may affect the functionality of the Service.
-The method for disabling Cookies may vary by device and browser, but can
-usually be found in preferences or security settings. For example, iOS and
-Android devices each have settings which are designed to limit forms of ad
-tracking. For flash cookies, you can manage your privacy settings by clicking
-<a href="https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">here</a>. Please note that changing any of these settings does not prevent the
-display of all advertisements to you.
-</p>
-<h4>WITH WHOM YOUR INFORMATION MAY BE SHARED</h4>
-<p>Third parties may receive information about you as follows:</p>
-<p class="indented"><strong>Advertisers:</strong> We may allow third parties to use Cookies
-through the Service to collect the same type of information for the same
-purposes as BringFido does for itself. In doing so, BringFido adheres to the
-Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral
-Advertising. Third parties may be able to associate the information they
-collect with other information they have about you from other sources. We do
-not necessarily have access to or control over the Cookies they use, but you
-may be able to opt out of some of their practices through the Network
-Advertising Initiative, Omniture, Digital Advertising Alliance and
-PrivacyChoice. Please note that opting out does not prevent the display of all
-advertisements to you. Additionally, we may share non-personally identifiable
-information from or about you with third parties, such as location data,
-advertising identifiers, or a cryptographic hash of a common account identifier
-(such as an email address) to facilitate the display of targeted advertising.
-You may be able to limit our sharing of some of this information through your
-mobile device settings, as described above.
-</p>
-<p class="indented"><strong>Service Providers:</strong> We may rely on third party providers to
-support or provide some of the services that are available through the Service,
-such as bookings. We may also rely on third party providers to perform certain
-services for us in connection with your use of the Service, such as
-communications and hosting services, network security, technical and customer
-support, tracking and reporting functions, quality assurance testing, payment
-processing, our own marketing of the Service, and other functions. We may share
-information from or about you with these third party providers so that they can
-perform their services or complete your requests. For example, travel bookings
-completed on this Website may be processed via the Expedia Affiliate Network,
-whose Terms and Conditions are located <a href="http://developer.ean.com/terms/en/" target="_blank">here</a>. These third party providers may
-share information with us that they obtain from or about you in connection with
-providing their services or completing your requests. Third party providers may
-also share this information with their subsidiaries, joint ventures, or other
-companies under common control. Some of our web pages may utilize framing
-techniques to serve content to you from our third party providers, while
-preserving the look and feel of the Service. In such cases, please note that
-the information you provide is being provided to the third party.
-</p>
-<p class="indented"><strong>Aggregate Information:</strong> We may share user information in the
-aggregate with third parties, such as advertisers and content distributors.
-For example, we may disclose the number of users that have been exposed to,
-or clicked on, advertisements.
-</p>
-<p class="indented"><strong>Aggregate Information:</strong> We may share user information in the
-aggregate with third parties, such as advertisers and content distributors. For
-example, we may disclose the number of users that have been exposed to, or
-clicked on, advertisements.
-</p>
-<p class="indented"><strong>Business Transfers:</strong> We may share information from or about
-you with our parent companies, subsidiaries, joint ventures, or other companies
-under common control, in which case we will require them to honor this Privacy
-Policy. If another company acquires BringFido or all or substantially all of
-our assets, that company will possess the same information, and will assume the
-rights and obligations with respect to that information as described in this
-Privacy Policy.
-</p>
-<p class="indented"><strong>Businesses on BringFido:</strong> We may share information from or
-about you (such as your age and gender), your devices, and your use of the
-Service (such as which businesses you bookmark or call) with businesses listed
-on BringFido. You may adjust your settings to increase or decrease the amount
-of information we share. Additionally, if you make a phone call to a business
-through or in connection with your use of the Service, we may share information
-about your call with the business that the business would have received had you
-called them directly, such as the date and time of your call and your phone
-number. You may be able to limit our ability to collect and share your phone
-number through your phone’s settings or phone service provider.
-</p>
-<p class="indented"><strong>Investigations:</strong> We may investigate and disclose information
-from or about you if we have a good faith belief that such investigation or
-disclosure (a) is reasonably necessary to comply with legal process and law
-enforcement instructions and orders, such as a search warrant, subpoena,
-statute, judicial proceeding, or other legal process served on us; (b) is
-helpful to prevent, investigate, or identify possible wrongdoing in connection
-with the Service; or (c) protects our rights, reputation, property, or that of
-our users, affiliates, or the public. If you flag or otherwise complain to
-BringFido about content through the Service, we may share the substance of your
-complaint with the contributor of that content in order to provide an
-opportunity for the contributor to respond.
-</p>
-<p class="indented"><strong>Links:</strong> The Service may contain links to unaffiliated third
-party services. Except as set forth herein, we do not share your personal
-information with them, and are not responsible for their privacy practices. We
-suggest you read the privacy policies on or applicable to all such third party
-services.
-</p>
-<p class="indented"><strong>Third Party Accounts:</strong> If you sign up for BringFido using a
-third party service like Facebook, or link your BringFido account to your
-account with a third party service like Facebook or Twitter, we may receive
-information about you from such third party service.
-</p>
-<p>In certain circumstances we may disclose information about you to third
-parties if we determine, in our sole discretion, such disclosure is necessary:
-(a) to protect BringFido’s systems, assets, employees, members and customers;
-(b) to ensure the integrity and operation of BringFido’s business and systems;
-or (c) to comply with legitimate and enforceable governmental requests,
-subpoenas or court orders. We may choose to comply with or disregard such
-requests or orders in our sole discretion. BringFido’s right to disclose
-information, including but not limited to user profile information (name, email
-address, etc.), IP address and traffic information, usage history, and posted
-content, shall take precedence over any other terms of this Privacy Policy.
-</p>
-<h4>CONTROLLING YOUR PERSONAL DATA</h4>
-<p>Other users may be able to identify you, or associate you with your account,
-if you include personal information in the content you post publicly. You can
-reduce the risk of being personally identified by using the Service
-pseudonymously, though doing so could detract from the credibility of your
-contributions to the Service.
-</p>
-<p>Please also note that the messages you send or receive using the Service are
-only private to the extent that both you and the person you are communicating
-with keep them private. For example, if you send a message to another user,
-that user may choose to publicly post it. Also, BringFido may access and
-disclose such messages in the course of investigations relating to use of the
-Service.
-</p>
-<h4>DATA RETENTION AND ACCOUNT TERMINATION</h4>
-<p>Upon reasonable request, we can close your account and will remove your public
-posts from view and/or dissociate them from your account profile, but we may
-retain information about you for the purposes authorized under this Privacy
-Policy unless prohibited by law. For example, we may retain information to
-prevent, investigate, or identify possible wrongdoing in connection with the
-Service or to comply with legal obligations. Please note that businesses cannot
-remove their business listings, ratings, or reviews by closing their accounts.
-</p>
-<h4>CHILDREN</h4>
-<p>The Service is intended for general audiences and is not directed to
-individuals under 18 years of age. We do not knowingly collect personal
-information from anyone under the age of 18. If you become aware that a child
-has provided us with personal information, please contact us. If we become
-aware that a child has provided us with personal information, we take steps to
-remove such information and terminate the child’s account.
-</p>
-<h4>SECURITY</h4>
-<p>We follow generally accepted industry standards to protect the personal
-information submitted to us, both during transmission and once we receive it.
-However, no method of transmission over the Internet or via mobile device, or
-method of electronic storage, is 100% secure. Therefore, while we strive to use
-commercially acceptable means to protect your personal information, we cannot
-guarantee its absolute security.
-</p>
-<h4>CONTACT INFORMATION</h4>
-<p>If you believe that BringFido has not adhered to this Privacy Policy, you may
-contact us by email or physical mail at the following address:
-</p>
-<p class="indented">Kendall Media, Inc. dba BringFido <br>
-PO Box 1489 <br>
-Travelers Rest, SC 29690 <br>
-<a href="mailto:Privacy@BringFido.com">Privacy@BringFido.com </a>
-</p>
-<h4>INTERNATIONAL DATA TRANSFER</h4>
-<p>For users residing in the European Union, please note that the personal data
-information we obtain from or about you may be transferred, processed and
-stored outside of the E.U. for the purposes described in this Privacy Policy,
-including in the United States of America. We take the privacy of our users
-seriously and therefore take steps to safeguard your information, including
-assuring an adequate level of data protection in accordance with E.U.
-standards.
-</p>
-<p>If you would like additional information about your personal data and its use
-in connection with this Service, including correcting any incorrect
-information, please contact us at the address above. We will take such steps as
-we deem necessary to confirm your identity before sharing any personal data
-with you. We will respond to proper and confirmed requests relating to personal
-data within 30 days, or as otherwise required by applicable law.
-</p>
-<h4>MODIFICATIONS TO THIS PRIVACY POLICY</h4>
-<p>We may revise this Privacy Policy from time to time. The most current version
-of the Privacy Policy will govern our collection, use, and disclosure of
-information about you. By continuing to access or use the Service after those
-changes become effective, you agree to the revised Privacy Policy.
-</p>
-<h5>Revised and Effective as of February 1, 2017 <br>
-©2017 Kendall Media, Inc. All rights reserved. <br>
-</h5>
-</div>
-</div>
-<div id="content_narrow">
-<div class="content_inner">
-<div class="side_links">
-<div class="map-on-side">
-<img src="https://maps.googleapis.com/maps/api/staticmap?zoom=1&amp;center=0%2C10&amp;key=AIzaSyB_5kYKrWhW9DoJXnB5pjTprBlEk4LlkX0&amp;size=400x400&amp;signature=X3sqbojizEb_7tQUkz92SQeDKjY=">
-</div>
-<div class="quicklinks">
-<div class="title">
-Worldwide Quick Links
-</div>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-lodging" data-quicklinks-section-slug="lodging" data-quicklinks-section-name="Hotels">
-Hotels <span class="category-count">(51,547)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="lodging">
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/" data-sub-cat-slug="">All Property Types (51,547)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/hotels/" data-sub-cat-slug="hotels">Hotels &amp; Resorts (32,678)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/rentals/" data-sub-cat-slug="rentals">Vacation Rentals (14,385)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/bandbs/" data-sub-cat-slug="bandbs">Bed &amp; Breakfasts (405)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/apartments/" data-sub-cat-slug="apartments">Long-Term Apartments (73)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/lodging/campgrounds/" data-sub-cat-slug="campgrounds">Campgrounds (4,006)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:hotels@bringfido.com" class="">Post a New Property</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-restaurant" data-quicklinks-section-slug="restaurant" data-quicklinks-section-name="Restaurants">
-Restaurants <span class="category-count">(13,165)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="restaurant">
-<li class="item-wrap">
-<div class="item">
-<a href="/restaurant/" data-sub-cat-slug="">All Restaurants (13,165)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:restaurants@bringfido.com" class="">Post a New Restaurant</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-attraction" data-quicklinks-section-slug="attraction" data-quicklinks-section-name="Activities">
-Activities <span class="category-count">(9,087)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="attraction">
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/" data-sub-cat-slug="">All Activities (9,087)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/parks/" data-sub-cat-slug="parks">Dog Parks (3,322)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/beaches/" data-sub-cat-slug="beaches">Dog Beaches (425)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/trails/" data-sub-cat-slug="trails">Hiking Trails (3,527)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/tours/" data-sub-cat-slug="tours">Tours (381)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/shops/" data-sub-cat-slug="shops">Pet Friendly Stores (647)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/attraction/other/" data-sub-cat-slug="other">Other Activities (785)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:activities@bringfido.com" class="">Post a New Activity</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-event" data-quicklinks-section-slug="event" data-quicklinks-section-name="Events">
-Events <span class="category-count">(1,804)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="event">
-<li class="item-wrap">
-<div class="item">
-<a href="/event/" data-sub-cat-slug="">Upcoming Events (1,804)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:events@bringfido.com" class="">Post a New Event</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-resource" data-quicklinks-section-slug="resource" data-quicklinks-section-name="Services">
-Services <span class="category-count">(23,763)</span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="resource">
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/" data-sub-cat-slug="">All Pet Services (23,763)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/pet_sitters_dog_walkers/" data-sub-cat-slug="pet_sitters_dog_walkers">Pet Sitters &amp; Dog Walkers (13,006)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/online_resources/" data-sub-cat-slug="online_resources">Online Resources (426)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/doggie_daycare_boarding/" data-sub-cat-slug="doggie_daycare_boarding">Dog Boarding &amp; Kennels (1,363)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/veterinarians/" data-sub-cat-slug="veterinarians">Veterinarians (1,405)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/pet_stores/" data-sub-cat-slug="pet_stores">Pet Stores (2,526)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/dog_training/" data-sub-cat-slug="dog_training">Dog Trainers (2,194)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/dog_grooming/" data-sub-cat-slug="dog_grooming">Dog Groomers (1,918)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/animal_shelters/" data-sub-cat-slug="animal_shelters">Animal Shelters (139)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/resource/other_pet_services/" data-sub-cat-slug="other_pet_services">Other Pet Services (786)</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="mailto:services@bringfido.com" class="">Post a New Business</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-photo" data-quicklinks-section-slug="photo" data-quicklinks-section-name="Photos">
-Photos <span class="category-count"></span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="photo">
-<li class="item-wrap">
-<div class="item">
-<a href="/photo/" class="">All Photos</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/photo/upload/" class="fancybox-submit-photo fancybox.ajax">Post a New Photo</a>
-</div>
-</li>
-</ol>
-<div class="category-wrap quicklinks-toggle-btn">
-<div class="category icon-forum" data-quicklinks-section-slug="forum" data-quicklinks-section-name="Forum">
-Forum <span class="category-count"></span>
-<span class="caret">∨</span>
-</div>
-</div>
-<ol class="quicklinks-subcategories" data-quicklinks-subcategories="forum">
-<li class="item-wrap">
-<div class="item">
-<a href="/forum/" class="">All Forums</a>
-</div>
-</li>
-<li class="item-wrap">
-<div class="item">
-<a href="/forum/" class="">Post a New Topic</a>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-</div>
-</div>
-<section id="browse-by" class="container">
-<div class="column">
-</div>
-</section>
-</div>
-<div id="footer">
-<div class="body-container">
-<a href="#" id="footer-arrow-left" class="footer-arrow">
-<img src="/static/images/footer-arrow-left.png">
-</a>
-<a href="#" id="footer-arrow-right" class="footer-arrow">
-<img src="/static/images/footer-arrow-right.png">
-</a>
-<div id="footer-dogs">
-<div style="background-image: url(/static/images/call-dog-7.jpeg);" class=""></div>
-<div style="background-image: url(/static/images/call-dog-1.jpeg);" class=""></div>
-<div style="background-image: url(/static/images/call-dog-2.jpeg);" class=""></div>
-<div style="background-image: url(/static/images/call-dog-3.jpeg);" class=""></div>
-<div style="background-image: url(/static/images/call-dog-4.jpeg);" class=""></div>
-<div style="background-image: url(/static/images/call-dog-5.jpeg);" class=""></div>
-<div style="background-image: url(/static/images/call-dog-6.jpeg);" class=""></div>
-</div>
-<div id="footer-nav" class="container">
-<section class="column">
-<h3>Company Info</h3>
-<ul>
-<li><a href="/about">About Us</a></li>
-<li><a href="mailto:jobs@bringfido.com">Jobs</a></li>
-<li><a href="/promo/freebies/">Promotions</a></li>
-<li><a href="/promo/tellafriend/five_bucks/">Tell a Friend</a></li>
-<li><a href="https://itunes.apple.com/us/app/bringfido-pet-friendly-hotels/id682820712" target="_blank">Download App</a></li>
-<li><a href="http://www.ruffguides.com/shop/book" target="_blank">Order Book</a></li>
+
+
+                    <a class="mobile-airline" href="/travel/airline_policies/">
+                        <div class="container">
+                            <span class="icon"><img src="/assets/images/icon-airline.svg"></span>Airlines
+                        </div>
+                    </a>
+                    
+                    
+                        <a class="mobile-destination" href="/destination/">
+                            <div class="container">
+                                <span class="icon"><img src="/assets/images/icon-destination.svg"></span>Destinations
+                            </div>
+                        </a>
+                    
+
+                    <div class="section-header">
+                        <div class="container">About</div>
+                    </div>
+
+                    <div class="about-links-toggle-btn">
+                        <a class="category mobile-company-info" href="#">
+                            <div class="container">
+                                <span class="icon"><img src="/assets/images/icon-company.svg"></span>Company Information
+                            </div>
+                        </a>
+                        <div class="sub-links">
+                            <ul>
+	<li><a href="/about"><div class="container">About Us</div></a></li>
+	<li><a href="mailto:jobs@bringfido.com"><div class="container">Jobs</div></a></li>
+	<li><a href="/promo/freebies/"><div class="container">Promotions</div></a></li>
+	<li><a href="/promo/tellafriend/five_bucks/"><div class="container">Tell a Friend</div></a></li>
+	<li><a href="https://itunes.apple.com/us/app/bringfido-pet-friendly-hotels/id682820712" target="_blank"><div class="container">Download App</div></a></li>
+	<li><a href="http://www.ruffguides.com/shop/book" target="_blank"><div class="container">Order Book</div></a></li>
 </ul>
-</section>
-<section class="column">
-<h3>Partners</h3>
-<ul>
-<li><a href="mailto:advertising@bringfido.com">Advertising</a></li>
-<li><a href="/press/">Media</a></li>
-<li><a href="/affiliate/petcharity/">Pet Charities</a></li>
-<li><a href="/affiliate/">Affiliates</a></li>
-<li><a href="/affiliate/link/">Link to Us</a></li>
-<li><a href="/resource/online_resources/">Sites We Like</a></li>
+                        </div>
+                    </div>
+                    <div class="about-links-toggle-btn">
+                        <a class="category mobile-customer-service" href="#">
+                            <div class="container">
+                                <span class="icon"><img src="/assets/images/icon-customer.svg"></span>Customer Service
+                            </div>
+                        </a>
+                        <div class="sub-links">
+                            <ul>
+	<li><a href="/contact"><div class="container">Contact Us</div></a></li>
+	<li><a href="javascript:void(0);" class="chat"><div class="container">Chat Now</div></a></li>
+	
+	<li><a href="/help/"><div class="container">Cancel Reservation</div></a></li>
+	<li><a href="/help/#pet_fee_guarantee"><div class="container">Pet Fee Guarantee</div></a></li>
+	<li><a href="/help/"><div class="container">FAQ</div></a></li>
 </ul>
-</section>
-<section class="column">
-<h3>Customer Service</h3>
-<ul>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="javascript:void(0);" class="chat">Chat Now</a></li>
-<li><a href="/help/">Cancel Reservation</a></li>
-<li><a href="/help/#pet_fee_guarantee">Pet Fee Guarantee</a></li>
-<li><a href="/help/">FAQ</a></li>
+                        </div>
+                    </div>
+                    <div class="about-links-toggle-btn">
+                        <a class="category mobile-partner" href="#">
+                            <div class="container">
+                                <span class="icon"><img src="/assets/images/icon-partner.svg"></span>Partners
+                            </div>
+                        </a>
+                        <div class="sub-links">
+                            <ul>
+	<li><a href="mailto:advertising@bringfido.com"><div class="container">Advertising</div></a></li>
+	<li><a href="/press/"><div class="container">Media</div></a></li>
+	<li><a href="/affiliate/petcharity/"><div class="container">Pet Charities</div></a></li>
+	<li><a href="/affiliate/"><div class="container">Affiliates</div></a></li>
+	<li><a href="/affiliate/link/"><div class="container">Link to Us</div></a></li>
+	<li><a href="/resource/online_resources/"><div class="container">Sites We Like</div></a></li>
 </ul>
-</section>
-<section class="column" id="footer-social">
-<h4>Talk to a (Dog) Person</h4>
-<p id="info-body">
-Need help finding a pet friendly hotel, restaurant, or animal attraction? Contact our Canine Concierge at <a href="tel:+18774113436">(877)&nbsp;411-3436</a> or <a href="mailto:concierge@bringfido.com">concierge@bringfido.com</a> for the scoop on more than 100,000 places to bring Fido!
-</p>
-<h4 id="twitter-tag">
-<a href="https://twitter.com/search?q=%23bringfido" target="_blank">#BringFido</a>
-</h4>
-<p id="footer-social-icons">
-<a id="footer-icon" href="https://www.facebook.com/pages/BringFidocom/92703702876?ref=s" target="_blank"><img width="50" src="/static/images/icon-footer-facebook.svg" data-fallback="/static/images/icon-footer-facebook.png"></a>
-<a href="https://twitter.com/BringFido" target="_blank"><img width="50" src="/static/images/icon-footer-twitter.svg" data-fallback="/static/images/icon-footer-twitter.png"></a>
-<a href="https://plus.google.com/117673165909068565296" target="_blank"><img width="50" src="/static/images/icon-footer-gplus.svg" data-fallback="/static/images/icon-footer-gplus.png"></a>
-<a href="https://www.instagram.com/bringfido" target="_blank"><img width="50" src="/static/images/icon-footer-instagram.svg" data-fallback="/static/images/icon-footer-instagram.png"></a>
-<a href="https://www.pinterest.com/bringfido/" target="_blank"><img width="50" src="/static/images/icon-footer-pintrest.svg" data-fallback="/static/images/icon-footer-pintrest.png"></a>
-<a href="https://itunes.apple.com/us/app/bringfido-pet-friendly-hotels/id682820712" target="_blank"><img width="50" src="/static/images/icon-footer-apple.svg" data-fallback="/static/images/icon-footer-apple.png"></a>
-</p>
-</section>
-</div>
-</div>
-<div id="footer-sub">
-<div class="body-container">
-<div class="container">
-<div class="column inline" id="copyright-inline">
-© 2005-2017 Kendall Media, Inc.
-</div>
-<a class="column inline" href="/privacy">Privacy Policy</a>
-<a class="column inline" href="/terms">Terms &amp; Conditions</a>
-<a class="column inline" href="/sitemap/">Sitemap</a>
-<div class="column" id="copyright-stacked">
-© 2005-2017 Kendall Media, Inc.
-</div>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+                        </div>
+                    </div>
+                </div>
+            </ul>
+            <div class="container">
+                <nav id="nav-compact">
+                    <a class="nav-compact-element" id="hamburger" href="#">
+                        <div class="mobile-hamburger-icon"></div>
+                    </a>
+                    <a id="compact-logo" href="/" itemprop="url">
+                        <img itemprop="logo" src="/assets/images/bfi-logo-new.svg" alt="BringFido">
+                    </a>
+                    
+                </nav>
+                <nav id="nav-full">
+                    <a id="logo" href="/" itemprop="url">
+                        <img itemprop="logo" src="/assets/images/bfi-logo-new.svg" alt="BringFido">
+                    </a>
+                    <ul class="nav-full-element">
+                        
+
+                        
+
+                        
+
+                        <li><a class="" href="/lodging/"><span>Hotels</span></a>
+
+                        </li><li><a class="" href="/restaurant/"><span>Restaurants</span></a>
+                        </li><li><a class="" href="/attraction/"><span>Activities</span></a>
+                        </li><li><a class="" href="/event/"><span>Events</span></a>
+                        </li><li><a class="" href="/resource/"><span>Services</span></a>
+
+                        </li><li><a href="javascript:void(0);" id="header-more">More <span class="icomoon-chevron-down"></span></a></li>
+                    </ul>
+                    <a href="javascript:void(0);" id="header-help"><img src="/assets/images/icon-help.png"></a>
+                </nav>
+                
+            </div>
+                    
+        </header>
+
+        
+
+        <div id="main">
             
             
-            window.session_search_params = {
+            <div class="container">
+                
+                    <div class="column-set">
+                        <div class="column column-lg-6">
+                            <ul class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+    <li><a href="/"><img src="/assets/images/home.svg" alt="Home"></a></li>
+
+    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <span class="icomoon-chevron-right"></span>
+        <a itemprop="item" itemscope="" itemtype="https://schema.org/Thing" href="">
+            <span itemprop="name">Privacy</span>
+        </a>
+        <meta itemprop="position" content="1">
+    </li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="column-set">
+                        <div class="column column-xs column-sm-6">
+                            <div id="all-results-filtered-message" style="display: none">
+                                <p>All results are hidden due to the current filter settings.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                        <div class="column-set">
+                            <div class="column column-xs-full column-sm-6 column-lg-4">
+                                
+    <div class="static-page-naked">
+        <div class="naked-static-page-header">
+            <h1>Privacy Policy</h1>
+
+            <p>Thanks for visiting the BringFido website and/or mobile applications
+              (collectively, the “Website”). The terms “we,” “us,” “our” and “BringFido”
+              refer to Kendall Media, Inc. d/b/a BringFido, a Florida corporation, and/or our
+              subsidiaries. The term “you” refers to the user interacting with the Website,
+              contributing content on the Website and/or completing a booking on the Website
+              or through our customer service agents.
+            </p>
+
+            <p>This Privacy Policy describes our policies for the collection, use and
+              disclosure of information about you and your pets in connection with your use
+              of our services, including those offered through our Website, emails, and
+              mobile applications (collectively, the “Service”).  When you use the Service,
+              you consent to our collection, use and disclosure of information about you as
+              described in this Privacy Policy.
+            </p>
+        </div>
+
+        <section>
+            <h4>INFORMATION WE COLLECT AND HOW WE USE IT</h4>
+            <p>We collect and store information about you and your pets when you use the
+              Service. We use the information to fulfill your requests, provide the Service’s
+              functionality, improve the Service’s quality, personalize your experience,
+              track usage of the Service, provide feedback to third party businesses, display
+              relevant advertising, market the Service, provide customer support, message
+              you, back up our systems and allow for disaster recovery, enhance the security
+              of the Service, and comply with legal obligations.
+            </p>
+
+            <p class="indented"><strong>Account Information:</strong> If you create an account on BringFido,
+              we may store and use your full name, email address, zip code, and other
+              information you may provide with your account, such as your gender and birth
+              date. Your name and any photo you submit through the registration process may
+              be publicly displayed as part of your account profile. If you believe that
+              someone has created an unauthorized account depicting you or your likeness, you
+              can request its removal.
+            </p>
+
+            <p class="indented"><strong>Public Content:</strong> The information that you contribute through
+              the Service is intended for public consumption, including your reviews, tips,
+              photos, videos, check-ins, comments, likes, posts, events, bookmarks, friends,
+              lists, compliments, and account profile. We may display this information
+              through the Service, share it with businesses, and further distribute it to a
+              wider audience through third party sites and services.
+            </p>
+
+            <p class="indented"><strong>Contacts:</strong> We may allow you to invite your friends to join the
+              Service by providing us with their contact information, or by allowing us to
+              access your contacts from your computer, mobile device, or third party sites to
+              select which friends you want to invite. If you allow us to access your
+              contacts, we may transmit that information to BringFido long enough to process
+              your invitations.
+            </p>
+
+            <p class="indented"><strong>Communications:</strong> When you sign up for an account or use
+              certain features, you are opting to receive messages from other BringFido
+              users, businesses, and BringFido itself. You can manage some of your messaging
+              preferences, but note that you cannot opt out of receiving certain
+              administrative, transactional, or legal messages from BringFido. We may track
+              your actions in response to the messages you receive from BringFido or through
+              the Service, such as whether you deleted, opened, or forwarded such messages.
+              If you exchange messages with others through the Service, we may store them in
+              order to process and deliver them, allow you to manage them, and we may review
+              and disclose them in connection with investigations related to the operation
+              and use of the Service. If you send or receive messages through the Service via
+              SMS text message, we may log phone numbers, phone carriers, and the date and
+              time that the messages were processed. Carriers may charge recipients for texts
+              that they receive. We may also store information that you provide through
+              communications to us, including from phone calls, letters, emails and other
+              electronic messages, or in person. If you are a representative of a business
+              listed on BringFido, we may contact you, including by phone or email, using the
+              contact information you provide us, make publicly available, or that we have on
+              record for your business.
+            </p>
+
+            <p class="indented"><strong>Transactional Information:</strong> If you initiate a transaction
+              through the Service, such as a booking or other purchase, we may collect and
+              store information about you, such as your name, phone number, address, email,
+              and credit card information, as well as any other information you provide to
+              us, in order to process your transaction, send communications about them to
+              you, and populate forms for future transactions. This information may be shared
+              with third parties for the same purposes. BringFido does not disclose your
+              personal information to third parties for the purpose of directly marketing
+              their services to you unless you first agree to such disclosure. When you
+              submit credit card numbers, we encrypt that information using industry standard
+              technology. If you write reviews about businesses with which you transact
+              through the Service, we may publicly display the fact that you transacted with
+              those businesses.
+            </p>
+
+            <p class="indented"><strong>Activity:</strong> We may store information about your use of the
+              Service, such as your search activity, the pages you view, the date and time of
+              your visit, businesses you call using our mobile applications, and bookings and
+              purchases you make through the Service. We also may store information that your
+              computer or mobile device provides to us in connection with your use of the
+              Service, such as your browser type, type of computer or mobile device, browser
+              language, IP address, mobile carrier, phone number, unique device identifier,
+              advertising identifier, location (including geo-location, beacon based
+              location, and GPS location), and requested and referring URLs. You may be able
+              to disallow our use of certain location data through your device or browser
+              settings, for example by disabling “Location Services” for the BringFido
+              application in iOS privacy settings.
+            </p>
+        </section>
+        <section>
+            <h4>COOKIES</h4>
+            <p>We, and third parties with whom we do business, may use cookies, web beacons,
+              tags, scripts, local shared objects such as HTML5 and Flash (sometimes called
+              “flash cookies”), advertising identifiers (including mobile identifiers such as
+              Apple’s IDFA or Google’s Advertising ID) and similar technology (“Cookies”) in
+              connection with your use of the Service, third party websites, and mobile
+              applications. Cookies may have unique identifiers, and reside, among other
+              places, on your computer or mobile device, in emails we send to you, and on our
+              web pages. Cookies may transmit information about you and your use of the
+              Service, such as your browser type, search preferences, IP address, data
+              relating to advertisements that have been displayed to you or that you have
+              clicked on, and the date and time of your use. Cookies may be persistent or
+              stored only during an individual session.
+            </p>
+
+            <p>We use Cookies for our processes, which are intended to make the Service work
+              in the way you expect. For example, we may use a Cookie that tells us whether
+              you have already signed up for an account.  We may use Cookies for
+              authentication, security, and compliance, which are intended to prevent fraud,
+              protect your data from unauthorized parties, and comply with legal
+              requirements. For example, we may use Cookies to determine if you are logged
+              in.  We may use Cookies for preferences, intended to remember information about
+              how you prefer the Service to behave and look. For example, we may use a Cookie
+              that tells us whether you have declined to allow us to use your phone’s
+              geo-location data.
+            </p>
+
+            <p>We may use Cookies for notifications, intended to allow or prevent notices of
+              information or options that we think could improve your use of the Service. For
+              example, we may use a Cookie that stops us from showing you the signup
+              notification if you have already seen it.  We may use Cookies to make
+              advertising more relevant to users and more valuable to advertisers. For
+              example, we may use Cookies to serve you interest-based ads, such as ads that
+              are displayed to you based on your visits to other websites, or to tell us if
+              you have recently clicked on an ad.  We may use Cookies for analytics, intended
+              to help us understand how visitors use the Service. For example, we might use a
+              Cookie that tells us how our search suggestions correlate to your interactions
+              with the search page.
+            </p>
+
+            <p>It may be possible to disable some (but not all) Cookies through your device
+              or browser settings, but doing so may affect the functionality of the Service.
+              The method for disabling Cookies may vary by device and browser, but can
+              usually be found in preferences or security settings. For example, iOS and
+              Android devices each have settings which are designed to limit forms of ad
+              tracking. For flash cookies, you can manage your privacy settings by clicking
+              <a href="https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">here</a>. Please note that changing any of these settings does not prevent the
+              display of all advertisements to you.
+            </p>
+        </section>
+        <section>
+            <h4>WITH WHOM YOUR INFORMATION MAY BE SHARED</h4>
+
+            <p>Third parties may receive information about you as follows:</p>
+
+            <p class="indented"><strong>Advertisers:</strong> We may allow third parties to use Cookies
+              through the Service to collect the same type of information for the same
+              purposes as BringFido does for itself. In doing so, BringFido adheres to the
+              Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral
+              Advertising. Third parties may be able to associate the information they
+              collect with other information they have about you from other sources. We do
+              not necessarily have access to or control over the Cookies they use, but you
+              may be able to opt out of some of their practices through the Network
+              Advertising Initiative, Omniture, Digital Advertising Alliance and
+              PrivacyChoice. Please note that opting out does not prevent the display of all
+              advertisements to you. Additionally, we may share non-personally identifiable
+              information from or about you with third parties, such as location data,
+              advertising identifiers, or a cryptographic hash of a common account identifier
+              (such as an email address) to facilitate the display of targeted advertising.
+              You may be able to limit our sharing of some of this information through your
+              mobile device settings, as described above.
+            </p>
+
+            <p class="indented"><strong>Service Providers:</strong> We may rely on third party providers to
+              support or provide some of the services that are available through the Service,
+              such as bookings. We may also rely on third party providers to perform certain
+              services for us in connection with your use of the Service, such as
+              communications and hosting services, network security, technical and customer
+              support, tracking and reporting functions, quality assurance testing, payment
+              processing, our own marketing of the Service, and other functions. We may share
+              information from or about you with these third party providers so that they can
+              perform their services or complete your requests.  For example, travel bookings
+              completed on this Website may be processed via Travelscape LLC, whose Terms and Conditions are located <a href="http://developer.ean.com/terms/en/" target="_blank">here</a>. These third party providers may
+              share information with us that they obtain from or about you in connection with
+              providing their services or completing your requests. Third party providers may
+              also share this information with their subsidiaries, joint ventures, or other
+              companies under common control. Some of our web pages may utilize framing
+              techniques to serve content to you from our third party providers, while
+              preserving the look and feel of the Service. In such cases, please note that
+              the information you provide is being provided to the third party.
+            </p>
+
+            <p class="indented"><strong>Aggregate Information:</strong> We may share user information in the
+              aggregate with third parties, such as advertisers and content distributors.
+              For   example, we may disclose the number of users that have been exposed to,
+              or clicked on, advertisements.
+            </p>
+
+            <p class="indented"><strong>Aggregate Information:</strong> We may share user information in the
+              aggregate with third parties, such as advertisers and content distributors. For
+              example, we may disclose the number of users that have been exposed to, or
+              clicked on, advertisements.
+            </p>
+
+            <p class="indented"><strong>Business Transfers:</strong> We may share information from or about
+              you with our parent companies, subsidiaries, joint ventures, or other companies
+              under common control, in which case we will require them to honor this Privacy
+              Policy. If another company acquires BringFido or all or substantially all of
+              our assets, that company will possess the same information, and will assume the
+              rights and obligations with respect to that information as described in this
+              Privacy Policy.
+            </p>
+
+            <p class="indented"><strong>Businesses on BringFido:</strong> We may share information from or
+              about you (such as your age and gender), your devices, and your use of the
+              Service (such as which businesses you bookmark or call) with businesses listed
+              on BringFido. You may adjust your settings to increase or decrease the amount
+              of information we share. Additionally, if you make a phone call to a business
+              through or in connection with your use of the Service, we may share information
+              about your call with the business that the business would have received had you
+              called them directly, such as the date and time of your call and your phone
+              number. You may be able to limit our ability to collect and share your phone
+              number through your phone’s settings or phone service provider.
+            </p>
+
+            <p class="indented"><strong>Investigations:</strong> We may investigate and disclose information
+              from or about you if we have a good faith belief that such investigation or
+              disclosure (a) is reasonably necessary to comply with legal process and law
+              enforcement instructions and orders, such as a search warrant, subpoena,
+              statute, judicial proceeding, or other legal process served on us; (b) is
+              helpful to prevent, investigate, or identify possible wrongdoing in connection
+              with the Service; or (c) protects our rights, reputation, property, or that of
+              our users, affiliates, or the public. If you flag or otherwise complain to
+              BringFido about content through the Service, we may share the substance of your
+              complaint with the contributor of that content in order to provide an
+              opportunity for the contributor to respond.
+            </p>
+
+            <p class="indented"><strong>Links:</strong> The Service may contain links to unaffiliated third
+              party services. Except as set forth herein, we do not share your personal
+              information with them, and are not responsible for their privacy practices. We
+              suggest you read the privacy policies on or applicable to all such third party
+              services.
+            </p>
+
+            <p class="indented"><strong>Third Party Accounts:</strong> If you sign up for BringFido using a
+              third party service like Facebook, or link your BringFido account to your
+              account with a third party service like Facebook or Twitter, we may receive
+              information about you from such third party service.
+            </p>
+
+            <p>In certain circumstances we may disclose information about you to third
+              parties if we determine, in our sole discretion, such disclosure is necessary:
+              (a) to protect BringFido’s systems, assets, employees, members and customers;
+              (b) to ensure the integrity and operation of BringFido’s business and systems;
+              or (c) to comply with legitimate and enforceable governmental requests,
+              subpoenas or court orders. We may choose to comply with or disregard such
+              requests or orders in our sole discretion. BringFido’s right to disclose
+              information, including but not limited to user profile information (name, email
+              address, etc.), IP address and traffic information, usage history, and posted
+              content, shall take precedence over any other terms of this Privacy Policy.
+            </p>
+        </section>
+        <section>
+            <h4>CONTROLLING YOUR PERSONAL DATA</h4>
+            <p>Other users may be able to identify you, or associate you with your account,
+              if you include personal information in the content you post publicly. You can
+              reduce the risk of being personally identified by using the Service
+              pseudonymously, though doing so could detract from the credibility of your
+              contributions to the Service.
+            </p>
+
+            <p>Please also note that the messages you send or receive using the Service are
+              only private to the extent that both you and the person you are communicating
+              with keep them private. For example, if you send a message to another user,
+              that user may choose to publicly post it. Also, BringFido may access and
+              disclose such messages in the course of investigations relating to use of the
+              Service.
+            </p>
+        </section>
+        <section>
+            <h4>DATA RETENTION AND ACCOUNT TERMINATION</h4>
+            <p>Upon reasonable request, we can close your account and will remove your public
+              posts from view and/or dissociate them from your account profile, but we may
+              retain information about you for the purposes authorized under this Privacy
+              Policy unless prohibited by law. For example, we may retain information to
+              prevent, investigate, or identify possible wrongdoing in connection with the
+              Service or to comply with legal obligations. Please note that businesses cannot
+              remove their business listings, ratings, or reviews by closing their accounts.
+            </p>
+        </section>
+        <section>
+            <h4>CHILDREN</h4>
+            <p>The Service is intended for general audiences and is not directed to
+              individuals under 18 years of age. We do not knowingly collect personal
+              information from anyone under the age of 18. If you become aware that a child
+              has provided us with personal information, please contact us. If we become
+              aware that a child has provided us with personal information, we take steps to
+              remove such information and terminate the child’s account.
+            </p>
+        </section>
+        <section>
+            <h4>SECURITY</h4>
+            <p>We follow generally accepted industry standards to protect the personal
+              information submitted to us, both during transmission and once we receive it.
+              However, no method of transmission over the Internet or via mobile device, or
+              method of electronic storage, is 100% secure. Therefore, while we strive to use
+              commercially acceptable means to protect your personal information, we cannot
+              guarantee its absolute security.
+            </p>
+        </section>
+        <section>
+            <h4>CONTACT INFORMATION</h4>
+            <p>If you believe that BringFido has not adhered to this Privacy Policy, you may
+              contact us by email or physical mail at the following address:
+            </p>
+
+            <p class="indented">Kendall Media, Inc. dba BringFido <br>
+                PO Box 1489 <br>
+                Travelers Rest, SC 29690 <br>
+                <a href="mailto:Privacy@BringFido.com">Privacy@BringFido.com </a>
+            </p>
+        </section>
+        <section>
+            <h4>INTERNATIONAL DATA TRANSFER</h4>
+            <p>For users residing in the European Union, please note that the personal data
+              information we obtain from or about you may be transferred, processed and
+              stored outside of the E.U. for the purposes described in this Privacy Policy,
+              including in the United States of America. We take the privacy of our users
+              seriously and therefore take steps to safeguard your information, including
+              assuring an adequate level of data protection in accordance with E.U.
+              standards.
+            </p>
+
+            <p>If you would like additional information about your personal data and its use
+              in connection with this Service, including correcting any incorrect
+              information, please contact us at the address above. We will take such steps as
+              we deem necessary to confirm your identity before sharing any personal data
+              with you. We will respond to proper and confirmed requests relating to personal
+              data within 30 days, or as otherwise required by applicable law.
+            </p>
+        </section>
+        <section>
+            <h4>MODIFICATIONS TO THIS PRIVACY POLICY</h4>
+            <p>We may revise this Privacy Policy from time to time. The most current version
+              of the Privacy Policy will govern our collection, use, and disclosure of
+              information about you. By continuing to access or use the Service after those
+              changes become effective, you agree to the revised Privacy Policy.
+            </p>
+
+            <h5>Revised and Effective as of February 1, 2017 <br>
+            ©2017 Kendall Media, Inc. All rights reserved. <br>
+            </h5>
+        </section>
+    </div>
+
+                            </div>
+                            <div class="column column-lg-2">
+                                <aside id="side-bar">
+                                    <div class="inner">
+                                        
+                                            
+                                                <div class="side-links">
+                                                    <div class="side-map">
+                                                        
+                                                            
+                                                                <img class="map-image" data-src="https://maps.googleapis.com/maps/api/staticmap?zoom=1&amp;center=0%2C10&amp;key=AIzaSyB_5kYKrWhW9DoJXnB5pjTprBlEk4LlkX0&amp;size=400x400&amp;signature=X3sqbojizEb_7tQUkz92SQeDKjY=">
+                                                            
+                                                        
+                                                    </div>
+
+                                                    
+                                                    
+
+<nav class="quicklinks">
+    <div class="title">
+        
+            Worldwide Quick&nbsp;Links
+        
+    </div>
+
+    
+        
             
-            };
-        </script>
-<script type="text/javascript" src="/site_media/js/bundle.js?rev=31.0"></script>
-<script type="text/javascript">
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="lodging" data-quicklinks-section-name="Hotels" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-lodging.svg"></span>Hotels <span class="category-count">(80,522)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="lodging">
+        
             
-        </script>
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/" data-subcat-slug="">
+                            <div class="container">All Property Types <span class="category-count">(80,522)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/hotels/" data-subcat-slug="hotels">
+                            <div class="container">Hotels &amp; Resorts <span class="category-count">(43,709)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/rentals/" data-subcat-slug="rentals">
+                            <div class="container">Vacation Rentals <span class="category-count">(31,740)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/bandbs/" data-subcat-slug="bandbs">
+                            <div class="container">Bed &amp; Breakfasts <span class="category-count">(947)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/lodging/campgrounds/" data-subcat-slug="campgrounds">
+                            <div class="container">Campgrounds <span class="category-count">(4,050)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:hotels@bringfido.com">
+                        <div class="container">Post a New Property</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
 </div>
-<div id="mobile-menu">
-<header>
-<nav>
-<section>
-<a id="close-mobile-menu" href="#"><img src="/static/images/icon-mobile-close.png"></a>
-</section>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="restaurant" data-quicklinks-section-name="Restaurants" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-restaurant.svg"></span>Restaurants <span class="category-count">(29,188)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="restaurant">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/restaurant/" data-subcat-slug="">
+                            <div class="container">All Restaurants <span class="category-count">(29,188)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:restaurants@bringfido.com">
+                        <div class="container">Post a New Restaurant</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
+</div>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="attraction" data-quicklinks-section-name="Activities" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-attraction.svg"></span>Activities <span class="category-count">(9,235)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="attraction">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/" data-subcat-slug="">
+                            <div class="container">All Activities <span class="category-count">(9,235)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/parks/" data-subcat-slug="parks">
+                            <div class="container">Dog Parks <span class="category-count">(3,341)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/beaches/" data-subcat-slug="beaches">
+                            <div class="container">Dog Beaches <span class="category-count">(423)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/trails/" data-subcat-slug="trails">
+                            <div class="container">Hiking Trails <span class="category-count">(3,552)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/tours/" data-subcat-slug="tours">
+                            <div class="container">Tours <span class="category-count">(400)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/shops/" data-subcat-slug="shops">
+                            <div class="container">Pet Friendly Stores <span class="category-count">(707)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/attraction/other/" data-subcat-slug="other">
+                            <div class="container">Other Activities <span class="category-count">(812)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:activities@bringfido.com">
+                        <div class="container">Post a New Activity</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
+</div>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="event" data-quicklinks-section-name="Events" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-event.svg"></span>Events <span class="category-count">(568)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="event">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/event/" data-subcat-slug="">
+                            <div class="container">Upcoming Events <span class="category-count">(568)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:events@bringfido.com">
+                        <div class="container">Post a New Event</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
+</div>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="resource" data-quicklinks-section-name="Services" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-resource.svg"></span>Services <span class="category-count">(24,008)</span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="resource">
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/" data-subcat-slug="">
+                            <div class="container">All Pet Services <span class="category-count">(24,008)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/pet_sitters_dog_walkers/" data-subcat-slug="pet_sitters_dog_walkers">
+                            <div class="container">Pet Sitters &amp; Dog Walkers <span class="category-count">(12,973)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/doggie_daycare_boarding/" data-subcat-slug="doggie_daycare_boarding">
+                            <div class="container">Dog Boarding &amp; Kennels <span class="category-count">(1,395)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/veterinarians/" data-subcat-slug="veterinarians">
+                            <div class="container">Veterinarians <span class="category-count">(1,516)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/pet_stores/" data-subcat-slug="pet_stores">
+                            <div class="container">Pet Stores <span class="category-count">(2,566)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/dog_training/" data-subcat-slug="dog_training">
+                            <div class="container">Dog Trainers <span class="category-count">(2,213)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/dog_grooming/" data-subcat-slug="dog_grooming">
+                            <div class="container">Dog Groomers <span class="category-count">(1,974)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/animal_shelters/" data-subcat-slug="animal_shelters">
+                            <div class="container">Animal Shelters <span class="category-count">(149)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                
+                    <li>
+                        <a class="subcategory" href="/resource/other_pet_services/" data-subcat-slug="other_pet_services">
+                            <div class="container">Other Pet Services <span class="category-count">(793)</span></div>
+                        </a>
+                    </li>
+                
+            
+        
+            
+                <li>
+                    <a href="mailto:services@bringfido.com">
+                        <div class="container">Post a New Business</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
+</div>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="photo" data-quicklinks-section-name="Photos" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-photo.svg"></span>Photos <span class="category-count"></span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="photo">
+        
+            
+                <li>
+                    <a href="/photo/">
+                        <div class="container">All Photos</div>
+                    </a>
+                </li>
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="/photo/upload/">
+                        <div class="container">Post a New Photo</div>
+                    </a>
+                </li>
+            
+        
+    </ol>
+</div>
+
+        
+            
+<div class="quicklinks-toggle-btn">
+    <a class="category" data-quicklinks-section-slug="forum" data-quicklinks-section-name="Forum" href="#">
+        <div class="container">
+            <span class="icon"><img src="/assets/images/icon-forum.svg"></span>Forum <span class="category-count"></span> <span class="icomoon-chevron-down"></span>
+        </div>
+    </a>
+    <ol class="quicklinks-subcategories" data-quicklinks-subcategories="forum">
+        
+            
+                <li>
+                    <a href="/forum/">
+                        <div class="container">All Forums</div>
+                    </a>
+                </li>
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                <li>
+                    <a href="/forum/">
+                        <div class="container">Post a New Topic</div>
+                    </a>
+                </li>
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    </ol>
+</div>
+
+        
+    
 </nav>
-</header>
-<div id="mobile-menu-contents"></div>
-</div>
+
+                                                </div>
+                                            
+                                        
+                                    </div>
+
+                                    
+                                        <div id="sidebar-ad-300-250" class="sidebar-ad inner collapse"></div>
+                                    
+
+                                    <div class="bottom"></div>
+
+                                    
+                                    
+                                </aside>
+                            </div>
+                        </div>
+                    
+
+                    <section id="browse-by"></section>
+                    
+                
+            </div>
+
+            
+                <div class="container">
+                    <div class="footer-ad" id="footer-ad-responsive"></div>
+                </div>
+            
+        </div>
+
+        
+            <footer id="site-footer">
+                
+                    <div class="container">
+                        <a href="#" id="footer-arrow-left" class="footer-arrow">
+                            <img src="/assets/images/footer-arrow-left.png">
+                        </a>
+                        <a href="#" id="footer-arrow-right" class="footer-arrow">
+                            <img src="/assets/images/footer-arrow-right.png">
+                        </a>
+                        <div id="footer-dogs">
+                            <div style="background-image: url('/assets/images/call-dog-7.jpeg');"></div>
+                            <div style="background-image: url('/assets/images/call-dog-1.jpeg');"></div>
+                            <div style="background-image: url('/assets/images/call-dog-2.jpeg');"></div>
+                            <div style="background-image: url('/assets/images/call-dog-3.jpeg');"></div>
+                            <div style="background-image: url('/assets/images/call-dog-4.jpeg');"></div>
+                            <div style="background-image: url('/assets/images/call-dog-5.jpeg');"></div>
+                            <div style="background-image: url('/assets/images/call-dog-6.jpeg');"></div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="column-set">
+                            <div class="column column-lg-4">
+                                <div id="footer-nav">
+                                    <section>
+                                        <h3 class="fancy">Company Info</h3>
+                                        <ul>
+	<li><a href="/about"><div class="container">About Us</div></a></li>
+	<li><a href="mailto:jobs@bringfido.com"><div class="container">Jobs</div></a></li>
+	<li><a href="/promo/freebies/"><div class="container">Promotions</div></a></li>
+	<li><a href="/promo/tellafriend/five_bucks/"><div class="container">Tell a Friend</div></a></li>
+	<li><a href="https://itunes.apple.com/us/app/bringfido-pet-friendly-hotels/id682820712" target="_blank"><div class="container">Download App</div></a></li>
+	<li><a href="http://www.ruffguides.com/shop/book" target="_blank"><div class="container">Order Book</div></a></li>
+</ul>
+                                    </section>
+                                    <section>
+                                        <h3 class="fancy">Partners</h3>
+                                        <ul>
+	<li><a href="mailto:advertising@bringfido.com"><div class="container">Advertising</div></a></li>
+	<li><a href="/press/"><div class="container">Media</div></a></li>
+	<li><a href="/affiliate/petcharity/"><div class="container">Pet Charities</div></a></li>
+	<li><a href="/affiliate/"><div class="container">Affiliates</div></a></li>
+	<li><a href="/affiliate/link/"><div class="container">Link to Us</div></a></li>
+	<li><a href="/resource/online_resources/"><div class="container">Sites We Like</div></a></li>
+</ul>
+                                    </section>
+                                    <section>
+                                        <h3 class="fancy">Customer Service</h3>
+                                        <ul>
+	<li><a href="/contact"><div class="container">Contact Us</div></a></li>
+	<li><a href="javascript:void(0);" class="chat"><div class="container">Chat Now</div></a></li>
+	
+	<li><a href="/help/"><div class="container">Cancel Reservation</div></a></li>
+	<li><a href="/help/#pet_fee_guarantee"><div class="container">Pet Fee Guarantee</div></a></li>
+	<li><a href="/help/"><div class="container">FAQ</div></a></li>
+</ul>
+                                    </section>
+                                </div>
+                            </div>
+                            <div class="column column-xs column-lg-2" id="footer-social">
+                                <h4>Talk to a (Dog) Person</h4>
+                                <p id="info-body">
+                                    Need help finding a pet friendly hotel, restaurant, or animal attraction? Contact our Canine Concierge at <a href="tel:+1-877-411-3436">877-411-FIDO</a> or <a href="mailto:concierge@bringfido.com">concierge@bringfido.com</a> for the scoop on more than 100,000 places to bring Fido!
+                                </p>
+                                <h4 id="twitter-tag">
+                                    <a href="https://twitter.com/search?q=%23bringfido" target="_blank">#BringFido</a>
+                                </h4>
+                                <p id="footer-social-icons">
+                                    <a itemprop="sameAs" id="footer-icon" href="https://www.facebook.com/pages/BringFidocom/92703702876?ref=s" target="_blank"><img width="50" src="/assets/images/icon-footer-facebook.svg" data-fallback="/assets/images/icon-footer-facebook.png"></a>
+                                    <a itemprop="sameAs" href="https://twitter.com/BringFido" target="_blank"><img width="50" src="/assets/images/icon-footer-twitter.svg" data-fallback="/assets/images/icon-footer-twitter.png"></a>
+                                    <a itemprop="sameAs" href="https://plus.google.com/117673165909068565296" target="_blank"><img width="50" src="/assets/images/icon-footer-gplus.svg" data-fallback="/assets/images/icon-footer-gplus.png"></a>
+                                    <a itemprop="sameAs" href="https://www.instagram.com/bringfido" target="_blank"><img width="50" src="/assets/images/icon-footer-instagram.svg" data-fallback="/assets/images/icon-footer-instagram.png"></a>
+                                    <a itemprop="sameAs" href="https://www.pinterest.com/bringfido/" target="_blank"><img width="50" src="/assets/images/icon-footer-pintrest.svg" data-fallback="/assets/images/icon-footer-pintrest.png"></a>
+                                    <a itemprop="sameAs" href="https://itunes.apple.com/us/app/bringfido-pet-friendly-hotels/id682820712" target="_blank"><img width="50" src="/assets/images/icon-footer-apple.svg" data-fallback="/assets/images/icon-footer-apple.png"></a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div id="footer-sub">
+                    <div class="container">
+                        <div id="copyright-inline">
+                            © 2005-2017 Kendall Media, Inc.
+                        </div>
+                        
+                        <a href="/privacy">Privacy Policy</a>
+                        <a href="/terms">Terms &amp; Conditions</a>
+                        <a href="/sitemap/">Sitemap</a>
+
+                        <div class="column-set">
+                            <div class="column column-xs column-lg-hidden" id="copyright-stacked">
+                                © 2005-2017 Kendall Media, Inc.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        
+
+    </div>
+
+    <script type="text/javascript" src="/assets/js/bundle.js?rev=43.6"></script>
+    <script type="text/javascript">
+        
+    </script>
+    
+
+    
 
 
 </body></html>
