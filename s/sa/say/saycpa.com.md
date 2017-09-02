@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saycpa.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604090650id_/http%3A//songocpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saycpa.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902201234id_/http%3A//songocpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - songo CPA
 
