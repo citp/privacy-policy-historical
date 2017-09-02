@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pothys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180041id_/https%3A//www.pothys.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pothys.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902060501id_/https%3A//www.pothys.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Pothys – Aalayam of Silks
 
