@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092323id_/http%3A//www.doyouremember.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902051457id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Do You Remember?
 
@@ -127,7 +127,7 @@ We do not specifically market to children under 13.
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
 We will notify the users via email
 
@@ -141,9 +141,9 @@ We also agree to the individual redress principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+ **We collect your email address in order to:**
 
-**To be in accordance with CANSPAM we agree to the following:** **  
+ **To be in accordance with CANSPAM we agree to the following:** **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
 and we will promptly remove you from  **ALL**  correspondence.
