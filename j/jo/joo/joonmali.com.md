@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joonmali.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118224732id_/http%3A//www.joonmali.com/tour3/index.php%3Fsection%3D53%26nats%3DMDowOjE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonmali.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902190929id_/http%3A//joonmali.com/tour3/index.php%3Fsection%3D1294%26nats%3DMDowOjE) for the most accurate reproduction.*
 
 # Joon Mali - Bubble Butt Thai Asian Teen!
 
-**Introduction**
+### Introduction
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
 
@@ -24,7 +24,7 @@ If a subscriber sends any personal communication or correspondence, by any means
 
 The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
 
-**Use of Personal Subscriber Information.**
+### Use of Personal Subscriber Information.
 
 By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
 
@@ -36,13 +36,13 @@ The site is not responsible or liable for the use of any information that a subs
 
 Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
 
-**Security of Personal Information Collected by the site.**
+### Security of Personal Information Collected by the site.
 
 Consistent with the policies set forth in this privacy statement, the site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
 
 All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
-**"OPT-IN" and "OPT-OUT" Provisions.**
+### "OPT-IN" and "OPT-OUT" Provisions.
 
 There may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
 
@@ -50,7 +50,7 @@ There may be occasions when a subscriber will be presented with special offers e
 
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-**Terms and Conditions of Membership.**
+### Terms and Conditions of Membership.
 
 Each subscriber should carefully read each of the terms and conditions of membership of this site. By accepting membership to this site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
 
