@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414222856id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902195227id_/https%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PCPartPicker
 
