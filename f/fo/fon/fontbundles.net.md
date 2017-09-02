@@ -1,149 +1,102 @@
-> *The following text is extracted and transformed from the fontbundles.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528062205id_/https%3A//fontbundles.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontbundles.net privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902021349id_/https%3A//fontbundles.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Font Bundles
 
-**1\. Definitions**
+Last Updated: 23rd July 2017
 
-_1.1_ The following words and expressions have the following meanings unless inconsistent with the context:
+Data Protection Licence Number: ZA198379
 
-"cookies" a small amount of data sent from the server, which is then stored on your computer's hard disc drive;
+As the operators of the website https://fontbundles.net/ and https://designbundles.net/ ("Website"), Font Bundles Ltd is committed to protecting and respecting your privacy. This privacy policy ("Privacy Policy") (together with our website terms of use and any other documents referred to therein) sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us. Please read the following terms carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-"DPA" Data Protection Act 1998 as amended;
+For the purpose of the Data Protection Act 1998 ("Act"), the Data Controller is Font Bundles Ltd. 
 
-"data processors"
+**INFORMATION WE MAY COLLECT FROM YOU**
 
-"personal data"
+We may collect and process the following information from you: 
 
-"process" or "processing"
+  * Information that you provide by filling in forms on the Website. This may include information provided at the time of placing an order, registering to use the Website (if applicable) or requesting further information or services. We may also ask you for information when you report a problem with the Website.
+  * Specifically, personal details such as name, email address, postal address, phone number, financial and credit card information or any information inputted by you when using the Website.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through the Website and of the fulfilment of your orders.
+  * Details of your visits to the Website including, but not limited to login information, browser type and version, traffic data, location data, weblogs and other communication data and the resources that you access.
 
-"sensitive personal data"
 
-as defined in the DPA ;
 
-"Finance" the process by which you pay for the Goods by entering a by entering a conditional sale agreement with us;
+**RETENTION OF YOUR PERSONAL DATA**
 
-"Goods" the goods ordered by you from the Site;
+We take appropriate measures to ensure that any personal data are kept secure and are kept for the duration of your use of our service. 
 
-"Site" http://fontbundles.net;
+If your personal details change or you have any questions about how we use data collected which relates to you, please contact us using the contact details provided below.
 
-"we", "us" or "our" FontBundles.net
+We will endeavour to update your personal data within seven (7) working days of any new or updated personal data being provided to us, in order to ensure that the personal data we hold about you is as accurate and up to date as possible.
 
-"you", "your" an individual, company, or firm accessing our Site.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, which includes using certain security software, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**2\. Introduction**
+**USES MADE OF YOUR INFORMATION**
 
-**2.1** This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorised access or loss of personal data beyond our control. You may access most areas of our Site without registering with us. Certain areas of our Site are only open to you if you register.
+We use information held about you in the following ways: 
 
-_2.2_ Our primary reasons for collecting your personal data are:
+  * To provide you with our services. 
+  * To ensure that content on the Website is presented in the most effective manner for you and for the device(s) you use to access and view the Website. 
+  * To provide you with information, products or services that you request from us or which we feel may interest you. 
+  * To carry out our obligations arising from any contracts entered into between you and us, this may include sharing your details with third party. 
+  * To send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you. 
+  * To operate, protect, improve and optimise the Website, our business, and our users' experience, such as to perform analytics, conduct research, personalise or otherwise customise your experience, and for advertising and marketing. 
+  * To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes. 
+  * To notify you about changes to our service. 
 
-_2.2.1_ to process your orders for goods from our Site,
 
-_2.2.2_ provide you with the most efficient service possible.
 
-_2.3_ This Privacy Policy may change from time to time so please check it periodically.
+In addition to the above uses we may use your information, or permit selected third parties to use your information, to notify you about goods or services which may be of interest to you. For such uses we will only contact you by electronic means (e-mail or SMS) if you have consented to such communication when we collect your data, or if the contact by us relates to goods or services similar to those which were the subject of a previous transaction between you and us.
 
-_2.4_ Our Site may contain links to other websites. Please note that we are not responsible for the privacy practices of such other websites and advise you to read the privacy statements of each website you visit which collects personal information.
+If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data.
 
-**3\. Our Policy for Processing your Personal Data**
+Where we have asked for permission, but you do not want us to pass your details on to third parties for marketing purposes, do not tick the relevant box on the form on which we collect your data. 
 
-_3.1_ What personal data do we process and where do we get it from?
+If at any time you no longer wish to receive communications from us, please contact us at sales@fontbundles.net or select the opt-out option in our emails. 
 
-_3.1.1_ When you contact us via the "Contact Us" link on our Site or email us, or register on our Site, we will collect personal data from you.
+**DISCLOSURE OF YOUR INFORMATION**
 
-_3.1.2_ When you contact us over the telephone or email we may collect personal data from you.
+You agree that we have the right to share your personal information with: 
 
-_3.1.3_ Personal information may also be obtained automatically by your internet browser.
+  * Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
+  * Selected third parties including, but not limited to: 
+    * business partners, suppliers, affiliates, service providers and sub-contractors for the performance of any contract we enter into with them or you; 
+    * third party companies or individuals to assist us with fraud prevention and risk assessment, to assist us with customer service, and to facilitate the payments or reimbursements you request; 
+    * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others; and 
+    * analytics and search engine providers that assist us in the improvement and optimisation of our site. 
+  * We will disclose your personal information to third parties: 
+    * In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets. 
+    * If Font Bundles Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+    * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms and conditions or any other documents referred to therein, 
 
-_3.1.4_ If you place an order for goods and when you subsequently submit payment for that order we will collect personal data from you.
 
-_3.1.5_ If you request a quotation for goods we may collect personal data from you.
 
-_3.1.6_ The types of personal data which we may collect from you could include, for example, your name, your contact details (such as your address, telephone number and email address), credit / debit card information and other information collected on registration or through the "Contact Us" link on our Site.
+**IP ADDRESSES AND COOKIES**
 
-_3.1.8_ We may also collect non-personally identifiable information about your visit to our Site through the use of cookies. This information may include, for example, the pages which you browse. This information helps us to better manage and develop our Site.
+We may collect information about your mobile phone, computer or other device from which you access the Website including where available your IP address, operating system and browser type, for systems administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. We may, however, use such information in conjunction with the data we have about you in order to track your usage of our services. 
 
-**4.** What do we do with your Personal Data?
+Read more about the individual cookies we use and how to recognise them in our [Cookies Policy](https://fontbundles.net/cookiepolicy). 
 
-_4.1_ We will process your personal data so that:
+**WHERE WE STORE YOUR PERSONAL DATA**
 
-_4.1.1_ we can process your orders for Goods from our Site subject to the terms and conditions of our Site;
+The data that we collect from you may be transferred to, and stored at, a destination outside the European economic area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your orders, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
-_4.1.2_ we can deal with the general queries you raise from time to time through the "Contact Us" link on our Site, by post, by email or by telephone;
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
-_4.1.3_ we can process any payment made by you;
+**YOUR RIGHTS**
 
-_4.1.4_ we can process your registration details; and
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking/ticking certain tick boxes on the forms we use to collect your data. You can also exercise this right at any time by contacting us using our contact details set out below. 
 
-_4.1.5_ we can process any Notice of Cancellation received,.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a £10 fee to meet our costs in providing you with details of the information we hold about you. 
 
-_4.2_ Other purposes for which we may process your personal data are:
+The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and terms of use and that we do not accept any responsibility or liability for these policies and terms of use. Please check these policies before you submit any personal data to these websites. 
 
-_4.2.1_ the general administration of your records by us;
+**CHANGES TO OUR PRIVACY POLICY**
 
-_4.2.2_ the general maintenance of our database and records by us;
+We reserve the right to modify this Privacy Policy at any time. Any changes we make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or when you login to the website. Please check back frequently to see any updates or changes to our Privacy Policy. 
 
-_4.2.3_ for security purposes to protect your personal data held and/or processed by us;
+**CONTACT**
 
-_4.2.4_ for training our employees in respect of providing our service to you;
-
-_4.2.5_ to maintain records of payments made by you; and
-
-_4.2.6_ for our general marketing purposes unless you have notified us to the contrary.
-
-_4.3_ When you enter our Site, your computer will automatically be issued with a cookie. Cookies in themselves do not identify the individual user, just the computer used. Many websites do this whenever a user visits their website in order to track traffic flows. See our Cookie Policy <http://fontbundles.net/cookiepolicy/> for information on our cookies and if you wish to reject our cookies, you can configure your browser to do so, alternatively you can ask your internet browser to alert you when a cookie is being set up.
-
-**4.4** You acknowledge that by providing personal data to us, you consent to the processing of your personal data in accordance with this Privacy Policy.
-
-**5\. Who else gets to see your Personal Data?**
-
-_5.1_ Our data processors.
-
-_5.2_ to process payment of your order; and
-
-_5.3_ Such marketing companies used by us from time to time.
-
-_5.4_ Other companies which are part of the group of companies which we may be part of from time to time.
-
-**6\. Your Rights**
-
-_6.1_ You have the right to object to your personal data being used for 'direct marketing' and/or 'host mailing' purposes (see Condition 4.2.6). You can change your options in relation to the information you wish to receive at any time by contacting fontbundles.net in writing by post or email.
-
-_6.2_ As mentioned above you can set your internet browser to refuse cookies or you can ask your internet browser to alert you when a cookie is being set up.
-
-_6.3_ You have the right under the DPA to request from us information as to what personal data we are processing about you. Such requests should be made in writing by post or email to fontbundles.net and should be accompanied by a $10.00 fee. We will provide you with the relevant information within 40 days of receipt of the fee.
-
-_6.4_ You have other rights under the DPA in relation to our processing of your personal data.
-
-**7\. Maintenance of your personal data**
-
-_7.1_ We are committed to the security of your personal data. All of our employees and sub-contractors with access to your personal data and/or who are associated with the processing of that data are contractually obliged to respect the confidentiality of your personal data.
-
-_7.2_ We have implemented technology measures and security policies to protect the personal data that we have in our control from unauthorised access, improper use, alteration, unlawful or accidental destruction or accidental loss.
-
-**8\. General application of our Privacy Policy**
-
-_8.1_ This Privacy Policy only applies to the collection and use of your personal data provided to us and not to personal data you may provide directly to third parties. Any third parties will have their own policies in respect of processing personal data you provide to them and/or your personal data that we may disclose to them in accordance with this Privacy Policy.
-
-**9\. Contact information**
-
-_9.1_ If you have any queries about our processing or use of your personal data you should write or email, in the first instance to fontbundles.net
-
-_9.2_ If you want to learn more about your rights regarding your personal data, you should contact the Information Commissioner's office information line on: (0044) 01625 545745 or visit their website at [www.ico.org.uk](http://www.ico.org.uk/).
-
-**10\. Cookie Policy**
-
-_10.1_ How We Use Cookies
-
-_10.2_ A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-_10.3_ We use the following cookies:-
-
-_10.3.1_ Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas of our Site, use a shopping cart or make use of e-billing services.
-
-_10.3.2_ Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.
-
-_10.3.3_ Functionality cookies. These are used to recognise you when you return to our Site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-
-_10.4_ Please note that third parties (including, for example advertising networks and providers or external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
-
-_10.5_ Information on how to block cookies can normally be found within the help features of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site.
+All questions, comments and requests regarding this Privacy Policy should be addressed to sales@fontbundles.net. You may also write to us at Font Bundles Ltd, Office 7, 35-37 Ludgate Hill, London, EC4M 7JN, United Kingdom. 
