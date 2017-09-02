@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171957id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902204619id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
 
 # CFA Institute Privacy Policy
 
