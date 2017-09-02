@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiny4k.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214649id_/http%3A//tiny4k.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiny4k.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902153356id_/https%3A//tiny4k.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
