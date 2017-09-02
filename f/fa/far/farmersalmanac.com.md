@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128194156id_/http%3A//farmersalmanac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902033738id_/https%3A//www.farmersalmanac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Usage - Farmers' Almanac
 
