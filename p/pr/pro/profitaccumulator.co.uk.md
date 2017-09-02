@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616052522id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902205717id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Profit Accumulator
 
@@ -17,6 +17,8 @@ We use Google Analytics to monitor traffic information related to our website. Y
 We use Kissmetrics to monitor traffic information related to our website. You can find out how Kissmetrics uses that information here: <https://www.kissmetrics.com/privacy>.
 
 We use Google Adwords to display adverts based on site usage. AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. You can opt out of the cookie tracking here: <http://google.com/settings/ads/onweb/optout?hl=en>
+
+We use Facebook to display adverts based on site usage. Facebook pixels are used for behavioral targeting service. As per Facebook terms and conditions, we're obliged to tell you that (a) third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and elsewhere on the internet and use that information to provide measurement services and target ads, (b) to opt-out of the collection and use of information for ad targeting, and (c) to access a mechanism for exercising such choice, please visit [www.aboutads.info/choices](https://web.archive.org/web/20170902205717id_/https://www.profitaccumulator.co.uk/privacy-policy/www.aboutads.info/choices).
 
 If the ownership or control of the Profit Accumulator website changes, we may transfer all of your information to the new owner.
 
