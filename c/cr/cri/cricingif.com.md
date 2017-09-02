@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricingif.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220052219id_/http%3A//cricingif.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricingif.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902095947id_/https%3A//www.cricingif.com/privacypolicy) for the most accurate reproduction.*
 
-# Cricingif
+# Privacy policy | Cricingif
 
 We respect your privacy and recognize that you have a right to know about the information we access or collect about you, how your information is being used by us and what we do to protect your information. You provide us information about you on the following occasions: 
 
