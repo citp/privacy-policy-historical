@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slots.lv privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914190743id_/https%3A//www.slots.lv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slots.lv privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903004245id_/https%3A//www.slots.lv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slots.lv
 
