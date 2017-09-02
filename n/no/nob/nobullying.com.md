@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobullying.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223320id_/https%3A//nobullying.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobullying.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902131359id_/https%3A//nobullying.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NoBullying - Bullying & CyberBullying ResourcesNoBullying – Bullying & CyberBullying Resources
 
