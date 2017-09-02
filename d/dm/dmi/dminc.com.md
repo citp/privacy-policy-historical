@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dminc.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224003231id_/https%3A//dminc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dminc.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902023239id_/https%3A//dminc.com/privacy-policy) for the most accurate reproduction.*
 
 # Customer Privacy Policy - DMI
 
