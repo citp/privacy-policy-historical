@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the whatech.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130092619id_/https%3A//www.whatech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatech.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903000217id_/https%3A//www.whatech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WhaTech
-
-##  [ Privacy Policy](https://www.whatech.com/privacy-policy)
-
-Details 
-     Viewed:  148 times 
 
 **  
 WhaTech is committed to preserving your privacy and fully recognises the need for appropriate protection and management of any personally identifiable information you share with us (any information by which you can be identified, such as name, address, e-mail address or telephone number).**
@@ -36,5 +31,3 @@ Use of information collected**
 
 **  
 We will only record your e-mail address if you send us a message. Your e-mail address will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.**
-
-... 
