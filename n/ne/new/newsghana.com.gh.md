@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsghana.com.gh privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608043616id_/https%3A//www.newsghana.com.gh/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsghana.com.gh privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902034327id_/https%3A//www.newsghana.com.gh/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | News Ghana
 
