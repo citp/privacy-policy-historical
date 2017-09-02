@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenbot.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618085252id_/http%3A//www.greenbot.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbot.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902171615id_/https%3A//www.greenbot.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policies | Greenbot
 
 ### About Our Advertising
 
@@ -135,4 +135,4 @@ The IDG Publishing Network is intended for individuals age 13 and over. Personal
 
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [postmasterhelp@idgcommunications.com](mailto:postmasterhelp@idgcommunications.com) or write to us at IDG Publishing Network, C/O Customer Service, TSG, IDG Communications, Inc., 5 Speen St., Framingham, MA 01701.
 
-Last updated June 1, 2012.
+**Last updated:** May 13, 2015.
