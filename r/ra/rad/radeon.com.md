@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radeon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181012id_/http%3A//www.amd.com/en-us/who-we-are/privacy%3FsessionGUID%3D8b686d43-b4a5-00d9-1ac2-502116746ea5%26webSyncID%3D92d7e595-571b-11c6-6703-663c9684d949%26sessionGUID%3D3e469988-ce06-de26-aebe-d9c5d4003a54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radeon.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902091940id_/http%3A//www.amd.com/en-us/who-we-are/privacy%3FsessionGUID%3D8b686d43-b4a5-00d9-1ac2-502116746ea5%26webSyncID%3D92d7e595-571b-11c6-6703-663c9684d949%26sessionGUID%3D3e469988-ce06-de26-aebe-d9c5d4003a54) for the most accurate reproduction.*
 
 # Privacy
 
