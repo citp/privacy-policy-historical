@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hendrickboards.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155857id_/http%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hendrickboards.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902063155id_/https%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://hendrickboards.com/)
+[ ](https://hendrickboards.com/)
 
   * Your shopping cart is empty!
 
 
 
 
-  * [Home](http://hendrickboards.com/index.php?route=common/home)
-  * [Privacy Policy](http://hendrickboards.com/privacy-policy)
+  * [Home](https://hendrickboards.com/)
+  * [Privacy Policy](https://hendrickboards.com/privacy-policy)
 
 
 
