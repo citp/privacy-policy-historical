@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628002533id_/http%3A//www.secondspin.com/stores/ss/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902224145id_/http%3A//www.secondspin.com/stores/ss/privacy-policy.jsp) for the most accurate reproduction.*
 
 # SecondSpin - Privacy Policy
 
