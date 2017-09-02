@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodtoknow.co.uk privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527052648id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodtoknow.co.uk privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902083830id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
 
 # TimeIncUK.com Official Website|privacy policy
 
