@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodmantra.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126083035id_/https%3A//www.bollywoodmantra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodmantra.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902234407id_/https%3A//www.bollywoodmantra.com/privacy) for the most accurate reproduction.*
 
 # Bollywood News, Pictures and Reviews | Bollywood Mantra
 
