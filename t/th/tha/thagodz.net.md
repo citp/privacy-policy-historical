@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thagodz.net privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531150507id_/http%3A//www.thagodz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thagodz.net privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902032725id_/http%3A//www.thagodz.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thagodz Technology
 
