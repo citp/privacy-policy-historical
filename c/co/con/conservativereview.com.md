@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativereview.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621055439id_/https%3A//www.conservativereview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativereview.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902183628id_/https%3A//www.conservativereview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
