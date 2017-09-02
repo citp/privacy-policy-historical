@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the christianscience.com privacy policy that was archived on 2017-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622020959id_/http%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christianscience.com privacy policy that was archived on 2017-09-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170902163118id_/http%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js no-flash history queryselector svg video adownload audio svgasimg no-touchevents fontface cssanimations flexbox" lang="en" style=""><!--<![endif]--><head>
                         <!-- Meta, title, CSS, favicons, etc. -->
@@ -219,7 +219,11 @@
     
                             <li role="menuitem">        <a href="/youth" target="_self" title="Youth">Youth</a>                <ul class="menu_level_1">
             
-                <li role="menuitem" class="first">        <a href="/youth/get-involved" target="_self" title="Get Involved">Get Involved</a>        
+                <li role="menuitem" class="first">        <a href="/youth/focus" target="_self" title="Focus">Focus</a>        
+    </li>
+
+    
+                <li role="menuitem">        <a href="/youth/get-involved" target="_self" title="Get Involved">Get Involved</a>        
     </li>
 
     
@@ -227,11 +231,7 @@
     </li>
 
     
-                <li role="menuitem">        <a href="/youth/christian-science-organizations" target="_self" title="Christian Science Organizations">Christian Science Organizations</a>        
-    </li>
-
-    
-                <li role="menuitem" class="last">        <a href="/youth/focus" target="_self" title="Focus">Focus</a>        
+                <li role="menuitem" class="last">        <a href="/youth/christian-science-organizations" target="_self" title="Christian Science Organizations">Christian Science Organizations</a>        
     </li>
 
 
@@ -620,6 +620,25 @@
         }
     }
 
+    function onPlayerStateChange(e) {
+        if (typeof(ga) !== 'undefined') {
+            var state = 'undefined';
+            if (e.data === -1) {
+                state = 'Unstarted';
+            } else if (e.data === 0) {
+                state = 'Ended';
+            } else if (e.data === 1) {
+                state = 'Playing';
+            } else if (e.data === 2) {
+                state = 'Paused';
+            } else if (e.data === 3) {
+                state = 'Buffering';
+            } else if (e.data === 5) {
+                state = 'Video Cued';
+            }
+            ga('send', 'event', { 'eventCategory': 'Youtube', 'eventAction': state, 'eventLabel': e.target.getVideoUrl() });
+        }
+    }
     // create youtube player if API was not loaded previously
     function onYouTubeIframeAPIReady() {
         createYTPlayer();
