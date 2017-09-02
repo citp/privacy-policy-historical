@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629232651id_/https%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902073006id_/https%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Council on Exercise
 
