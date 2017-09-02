@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527112718id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902092616id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : BLACKED.com
 
