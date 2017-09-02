@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113804id_/http%3A//www.darkhorizons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902212922id_/http%3A//www.darkhorizons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dark Horizons
 
