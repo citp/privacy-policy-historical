@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the databricks.com privacy policy that was archived on 2017-01-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128110449id_/https%3A//databricks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the databricks.com privacy policy that was archived on 2017-09-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170902125732id_/https%3A//databricks.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
-  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TWTKQQ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TWTKQQ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <link rel="profile" href="http://gmpg.org/xfn/11">
   <link rel="pingback" href="https://databricks.com/xmlrpc.php">
   <link rel="mask-icon" href="/mask-icon.svg" color="#FD3A1C">
   <title>Databricks Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v5.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://databricks.com/privacy-policy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -19,23 +19,27 @@
 <meta property="article:publisher" content="https://www.facebook.com/databricksinc/">
 <meta property="fb:app_id" content="1550953158554421">
 <meta property="og:image" content="https://databricks.com/wp-content/uploads/2016/03/default-open-graph.png">
+<meta property="og:image:secure_url" content="https://databricks.com/wp-content/uploads/2016/03/default-open-graph.png">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Databricks Privacy Policy">
 <meta name="twitter:site" content="@databricks">
 <meta name="twitter:image" content="https://databricks.com/wp-content/uploads/2016/03/default-open-graph.png">
 <meta name="twitter:creator" content="@databricks">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/databricks.com\/","name":"Databricks","potentialAction":{"@type":"SearchAction","target":"https:\/\/databricks.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/databricks.com\/privacy-policy","sameAs":["https:\/\/www.facebook.com\/databricksinc\/","https:\/\/www.linkedin.com\/company\/databricks","https:\/\/www.youtube.com\/channel\/UC3q8O3Bh2Le8Rj1-Q-_UUbA","https:\/\/twitter.com\/databricks"],"@id":"#organization","name":"Databricks, Inc.","logo":"https:\/\/databricks.com\/wp-content\/uploads\/2016\/03\/default-open-graph.png"}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//databricks.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="db-vendor-css" href="https://databricks.com/wp-content/themes/databricks/assets/css/vendor.css?ver=2.0" type="text/css" media="all">
-<link rel="stylesheet" id="db-main-css" href="https://databricks.com/wp-content/themes/databricks/assets/css/main.css?ver=2.112" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="https://databricks.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.5" type="text/css" media="all">
+<link rel="stylesheet" id="simple-payments-css" href="https://databricks.com/wp-content/plugins/jetpack/modules/simple-payments/simple-payments.css?ver=4.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="db-main-css" href="https://databricks.com/wp-content/themes/databricks/assets/css/styles.css?ver=2.2.9" type="text/css" media="all">
+<link rel="stylesheet" id="open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=4.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://databricks.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.2.1" type="text/css" media="all">
 <link rel="https://api.w.org/" href="https://databricks.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://databricks.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://databricks.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.2">
+<meta name="generator" content="WordPress 4.8.1">
 <link rel="shortlink" href="https://databricks.com/?p=2853">
 <link rel="alternate" type="application/json+oembed" href="https://databricks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdatabricks.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="https://databricks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdatabricks.com%2Fprivacy-policy&amp;format=xml">
@@ -43,7 +47,7 @@
 <link rel="icon" href="https://databricks.com/wp-content/uploads/2016/11/cropped-DB_bug_web_RGB_512px-1-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="https://databricks.com/wp-content/uploads/2016/11/cropped-DB_bug_web_RGB_512px-1-180x180.png">
 <meta name="msapplication-TileImage" content="https://databricks.com/wp-content/uploads/2016/11/cropped-DB_bug_web_RGB_512px-1-270x270.png">
-<!-- Google Analytics Tracking by Google Analyticator 6.5.0: http://www.videousermanuals.com/google-analyticator/ -->
+<!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
 <script type="text/javascript">
     var analyticsFileTypes = [''];
     var analyticsSnippet = 'disabled';
@@ -55,11 +59,14 @@
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 	ga('create', 'UA-44077918-1', 'auto');
+
+	ga('set', 'anonymizeIp', true);
  
+	ga('require', 'GTM-W9PFPG7');
 	ga('send', 'pageview');
 </script>
 </head>
-<body class="page-template-default page page-id-2853">
+<body class="page-template page-template-template-basic-page page-template-template-basic-page-php page page-id-2853">
   <div class="body-header">
   <div class="body-header--topbar">
     <div class="body-header--topbar-container container">
@@ -135,7 +142,12 @@
               <a id="header-manage-button-mobile" href="https://accounts.cloud.databricks.com/registration.html#login" aria-label="Manage Account" data-track-button-click-event="Main Menu Manage Account CTA">Manage Account</a>
             </li>
 
-            <li id="menu-item-9010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9010"><a href="https://databricks.com/why-databricks">Why Databricks</a></li>
+            <li id="menu-item-9010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9010 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Why Databricks <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-11171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11171"><a href="https://databricks.com/unified-analytics-platform">Unified Analytics Platform</a></li>
+	<li id="menu-item-11170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11170"><a href="https://databricks.com/feature-comparison">Feature Comparison</a></li>
+</ul>
+</li>
 <li id="menu-item-7076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7076 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Product <span class="caret"></span></a>
 <ul role="menu" class=" dropdown-menu">
 	<li id="menu-item-7077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7077"><a href="https://databricks.com/product/databricks">Databricks</a></li>
@@ -145,7 +157,6 @@
 	<li id="menu-item-8178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8178"><a href="http://docs.databricks.com/">Documentation</a></li>
 	<li id="menu-item-7078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7078"><a href="https://databricks.com/product/faq">FAQ</a></li>
 	<li id="menu-item-4032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4032"><a href="https://forums.databricks.com">Forums</a></li>
-	<li id="menu-item-7081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7081"><a href="https://databricks.com/academic">Academic Program</a></li>
 </ul>
 </li>
 <li id="menu-item-7082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7082 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Apache Spark <span class="caret"></span></a>
@@ -187,18 +198,22 @@
   <div class="body-header--mobile-navbar-overlay js-toggle-mobile-header-menu"></div>
 </div><!-- .body-header -->
 <div class="body-content">
-<div class="page-container container">
-  
-<div class="post-content l-formatted">
-  <div class="section-header"><h1 class="section-header-title">Privacy Policy</h1></div>
-<div class="row"></div>
-<div class="h-narrow-centered">
+<div class="page-container">
+  <div class="page-section page-section-cover no-bg">
+  <div class="page-section-cover--inner">
+                  <div class="page-section-cover--inner-content">
+        <div class="container">                      <div class="section-header"><h1 class="section-header-title">Privacy Policy</h1></div>          
+                  </div>      </div>
+      </div>
+
+  </div>
+            <div class="page-section">
+        <div class="container text-longform">
+          <div class="h-narrow-centered">
 <h4>EFFECTIVE: FEBRUARY 2015</h4>
 <p class="p1">Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. When we say “Services” in this Privacy Policy, we mean our websites located at <a href="http://www.databricks.com" target="_blank">www.databricks.com</a>, <a href="http://spark-packages.org" target="_blank">spark-packages.org</a>/ and <a href="http://spark-summit.org" target="_blank">spark-summit.org</a>/ (the “<strong>Sites</strong>”), our web solutions for cloud-based data processing that we make available to our customers, and our Databricks App Market. This Privacy Policy applies to only those websites, services and applications included within the “Services” and does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Spark-packages.org Terms of Service, Software as a Service Agreements, App Developer Terms and Conditions, and App Market Terms of Service. So, please make sure that you have read and understand these documents to the extent they apply to your use of the Services.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Revisions to this Privacy Policy</h2>
 <p class="p1">Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Collection and Use of Information</h2>
 <h3 class="p1">Information Collected or Received from You</h3>
 <p class="p1">Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.</p>
@@ -208,43 +223,33 @@
 <p class="p1">“<strong>Cookies</strong>” are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop<span class="Apple-converted-space">&nbsp; </span>automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. We may engage third party services providers, who may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.</p>
 <p class="p1">“<strong>Web Beacons</strong>” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services and to monitor how many visitors view our Services. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).</p>
 <p class="p1"><span style="text-decoration: underline;">Information Related to Use of the Services</span>.&nbsp;Our servers automatically record certain information about how a person uses our Services (we refer to this information as “<strong>Log Data</strong>”), including both Account holders and non-Account holders (either, a “<strong>User</strong>”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on, commands executed when using our Services, features of the Services accessed, information about the types and size of files analyzed via the Services, and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Information that We Share with Third Parties</h2>
 <p class="p1">We will not share any PII that we have collected from or regarding you except as described below:</p>
 <p class="p1"><span style="text-decoration: underline;">Information Shared with Our Services Providers</span>.&nbsp;We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.</p>
 <p class="p1"><span style="text-decoration: underline;">Information Shared with Third Parties</span>.&nbsp;We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.</p>
 <p class="p1"><span style="text-decoration: underline;">Information Disclosed in Connection with Business Transactions</span>.&nbsp;Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.</p>
 <p class="p1"><span style="text-decoration: underline;">Information Disclosed for Our Protection and the Protection of Others</span>.&nbsp;We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Your Choices</h2>
 <p class="p1">We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.</p>
 <p class="p1"><span style="text-decoration: underline;">Opt-Out</span>.&nbsp;We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to the terms governing your access to or use of our Services or this Privacy Policy or information about billing.</p>
 <p class="p1"><span style="text-decoration: underline;">Modifying Your Information</span>.&nbsp;You can access and modify the PII associated with your Account by sending an email to <a href="mailto:info@databricks.com">info@databricks.com</a> or through the settings feature on your Account profile (if and when available). If you want us to delete your PII and your Account, please contact us at <a href="mailto:info@databricks.com">info@databricks.com</a> with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Responding to Do Not Track Signals</h2>
 <p class="p1">Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">The Security of Your Information</h2>
 <p class="p1">We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Links to Other Sites; Third Party Applications</h2>
 <p class="p1">Our Services may contain links to third party websites and services, and may make available applications that are owned or operated by third parties such as applications provided by third party developers on the Databricks App Market (collectively, “Third-party Services”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">International Transfer</h2>
 <p class="p1">Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Our Policy Toward Children</h2>
 <p class="p1">Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.</p>
-<p class="p1"></p><div class="row"></div>
 <h2 class="p1">Questions?</h2>
 <p class="p1">Please contact us at <a href="mailto:info@databricks.com">info@databricks.com</a> if you have any questions about our Privacy Policy.</p>
-<p class="p1"></p><div class="row"></div>
-<p class="p1"></p><div class="row"></div>
-<p class="p1"></p><div class="row"></div>
 <h6 class="p1">30224/00100/DOCS/3609010.2A</h6>
 </div>
-</div>
-</div>
+        </div>
+      </div>
+      </div>
 </div><!-- .body-content -->
 
 <div class="body-footer container">
@@ -253,14 +258,13 @@
       <div class="col-sm-3 col_widget_nav_menu"><div class="col-inner"><div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-9037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9037"><a href="https://databricks.com/product/databricks">Product</a>
 <ul class="sub-menu">
 	<li id="menu-item-9033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9033"><a href="https://databricks.com/product/databricks">Databricks</a></li>
-	<li id="menu-item-9038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9038"><a href="https://databricks.com/why-databricks">Why Databricks</a></li>
+	<li id="menu-item-9038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9038"><a href="https://databricks.com/feature-comparison">Feature Comparison</a></li>
 	<li id="menu-item-9039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9039"><a href="https://databricks.com/product/getting-started-guide">How to Get Started</a></li>
 	<li id="menu-item-9035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9035"><a href="https://databricks.com/product/pricing">Pricing</a></li>
 	<li id="menu-item-9036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9036"><a href="https://databricks.com/product/security">Security</a></li>
 	<li id="menu-item-9040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9040"><a href="http://docs.databricks.com/">Documentation</a></li>
 	<li id="menu-item-9034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9034"><a href="https://databricks.com/product/faq">FAQ</a></li>
 	<li id="menu-item-9041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9041"><a href="https://forums.databricks.com/">Forums</a></li>
-	<li id="menu-item-9042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9042"><a href="https://databricks.com/academic">Academic Program</a></li>
 </ul>
 </li>
 <li id="menu-item-9049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9049"><a href="https://databricks.com/spark/about">Apache Spark</a>
@@ -278,7 +282,7 @@
 <ul class="sub-menu">
 	<li id="menu-item-9057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9057"><a href="https://databricks.com/company/about-us">About Us</a></li>
 	<li id="menu-item-9060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9060"><a href="https://databricks.com/company/leadership-team">Leadership</a></li>
-	<li id="menu-item-9061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9061"><a href="https://databricks.com/company/team">Team</a></li>
+	<li id="menu-item-12011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12011"><a href="https://databricks.com/company/board-of-directors">Board of Directors</a></li>
 	<li id="menu-item-9063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9063"><a href="https://databricks.com/company/partners">Partners</a></li>
 	<li id="menu-item-9062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9062"><a href="https://databricks.com/company/newsroom">Newsroom</a></li>
 	<li id="menu-item-9058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9058"><a href="https://databricks.com/company/careers">Careers</a></li>
@@ -295,9 +299,9 @@
 <li id="menu-item-9068" class="resource menu-item menu-item-type-resource menu-item-object-cpt_archive menu-item-9068"><a href="https://databricks.com/resources">Resources</a></li>
 </ul></div></div></div></div><div class="col-sm-3 col_widget_text"><div class="col-inner"><div id="text-3" class="widget widget_text">			<div class="textwidget"><p>Databricks Inc.<br>
 160 Spear Street, 13th Floor<br>
-San Francisco, CA 94105</p>
-<p><a href="mailto:info@databricks.com">info@databricks.com</a><br>
+San Francisco, CA 94105<br>
 1-866-330-0121</p>
+<p><a href="http://go.databricks.com/contact-databricks" style="text-decoration: underline">Contact Us</a></p>
 </div>
 		</div></div></div>    </div>
     <div class="footer-copyright">
@@ -336,10 +340,10 @@ San Francisco, CA 94105</p>
   </div>
 </div>
 
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201735"></script>
 <script type="text/javascript" src="https://databricks.com/wp-content/themes/databricks/assets/js/vendor.js?ver=2.0"></script>
-<script type="text/javascript" src="https://databricks.com/wp-content/themes/databricks/assets/js/main.js?ver=2.112"></script>
-<script type="text/javascript" src="https://databricks.com/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="https://databricks.com/wp-content/themes/databricks/assets/js/main.js?ver=2.2.9"></script>
+<script type="text/javascript" src="https://databricks.com/wp-includes/js/wp-embed.min.js?ver=4.8.1"></script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWTKQQ"
@@ -351,6 +355,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TWTKQQ');</script>
 <!-- End Google Tag Manager -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"179d731ecd","applicationID":"28451903","transactionName":"YAcGMkRXWRBQAkJdCllNJQVCX1gNHhFXUwA=","queueTime":0,"applicationTime":259,"atts":"TEAFRAxNSh4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"179d731ecd","applicationID":"28451903","transactionName":"YAcGMkRXWRBQAkJdCllNJQVCX1gNHhVTWRVbAxADG1RWEFgCG0QEUAc=","queueTime":0,"applicationTime":221,"atts":"TEAFRAxNSh4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
