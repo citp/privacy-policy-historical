@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126130039id_/https%3A//www.nraila.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902180859id_/https%3A//www.nraila.org/privacy) for the most accurate reproduction.*
 
 # National Rifle Association - Privacy Policy
 
-Updated: May 19, 2015
+Updated with posted changes: January 27, 2017
 
 ### Privacy
 
@@ -30,7 +30,7 @@ We collect and analyze traffic on our websites by keeping track of the Internet 
 
 ### Personal Information
 
-You may be asked to provide different types of personal information, including your name, date of birth, email address, mailing address or telephone number. Particular services may require additional information such as your billing address, credit card number and expiration date. For example, we may ask for information to process your membership application, facilitate an online store purchase, or register for one of our events. There are also optional opportunities for you to share your preferences and interests. 
+You may be asked to provide different types of personal information, including your name, date of birth, email address, mailing address or telephone number. Particular services may request storage of additional information such as your billing address, credit card number and expiration date. For example, we may ask for information to process your membership application, facilitate an online store purchase, or register for one of our events. There are also optional opportunities for you to share your preferences and interests. 
 
 ### Control of Personal Information
 
