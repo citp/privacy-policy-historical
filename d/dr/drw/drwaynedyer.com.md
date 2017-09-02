@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503155405id_/http%3A//www.drwaynedyer.com/priv-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902174203id_/http%3A//www.drwaynedyer.com/priv-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
