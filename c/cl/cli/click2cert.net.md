@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2cert.net privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815211410id_/http%3A//www.click2cert.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2cert.net privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902134716id_/http%3A//www.click2cert.net/privacy-policy) for the most accurate reproduction.*
 
 # Click2cert - Privacy Policy
 
