@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609102821id_/http%3A//www.indiancinemagallery.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902162011id_/https%3A//www.indiancinemagallery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Indian Cinema Gallery
 
 Privacy Policy of **www.indiancinemagallery.com**
 
@@ -22,7 +22,7 @@ Among the types of Personal Data that this Website collects, by itself or throug
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Website.  
-Any use of Cookies - or of other tracking tools - by this Website or by the owners of third party services used by this Website, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
+Any use of Cookies – or of other tracking tools – by this Website or by the owners of third party services used by this Website, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
 Failure to provide certain Personal Data may make it impossible for this Website to provide its services.
 
 The User assumes responsibility for the Personal Data of third parties published or shared through this Website and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
@@ -36,7 +36,7 @@ The Data processing is carried out using computers and/or IT enabled tools, foll
 
 ### Place
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
 ### Retention time
 
@@ -63,7 +63,7 @@ Some of the services listed below may use Cookies to identify Users or they may 
 Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
 Users may decide to disable all the Doubleclick Cookies by clicking on: **[google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en).**
 
-You may also opt out of a third-party vendor's use of cookies for interest based advertising by visiting **[aboutads.info](http://www.aboutads.info/)**
+You may also opt out of a third-party vendor’s use of cookies for interest based advertising by visiting **[aboutads.info](http://www.aboutads.info/)**
 
 Personal Data collected: Cookie and Usage Data.
 
@@ -75,7 +75,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 
 #### Display Advertising extension for Google Analytics (Google)
 
-Google Analytics on this Website might use Google's Interest-based advertising, 3rd-party audience data and information from the DoubleClick Cookie to extend analytics with demographics, interests and ads interaction data.
+Google Analytics on this Website might use Google’s Interest-based advertising, 3rd-party audience data and information from the DoubleClick Cookie to extend analytics with demographics, interests and ads interaction data.
 
 Personal Data collected: Cookie and Usage Data.
 
@@ -184,17 +184,16 @@ Place of processing : USA – [Privacy Policy](http://twitter.com/privacy)
 
 ### Age eligibility and children privacy
 
-  
 Users declare to be adult according to their applicable legislation. Minors may use this Website only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use this Website.
 
 ### Additional information about Data collection and processing
 
 ### Legal action
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Website or the related services.  
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Website or the related services.  
 The User is aware of the fact that the Data Controller may be required to reveal personal data upon request of public authorities.
 
-### Additional information about User's Personal Data
+### Additional information about User’s Personal Data
 
 In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
 
@@ -227,7 +226,7 @@ Any information regarding a natural person, a legal person, an institution or an
 
 #### Usage Data
 
-Information collected automatically from this Website (or third party services employed in this Website ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Website) and the details about the path followed within the Website with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically from this Website (or third party services employed in this Website ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Website) and the details about the path followed within the Website with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
 #### User
 
@@ -251,7 +250,7 @@ The hardware or software tool by which the Personal Data of the User is collecte
 
 #### Cookie
 
-Small piece of data stored in the User's device.
+Small piece of data stored in the User’s device.
 
 * * *
 
@@ -263,7 +262,7 @@ This privacy policy relates solely to the Website (www.indiancinemagallery.com)
 
 Latest update: October 16, 2014
 
-**Children's Information**  
+**Children’s Information**  
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://www.indiancinemagallery.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.indiancinemagallery.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
 **Online Privacy Policy Only**  
@@ -273,5 +272,5 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Friday, July 05th, 2016.  
+This Privacy Policy was last updated on: Friday, June 29th, 2017.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here_
