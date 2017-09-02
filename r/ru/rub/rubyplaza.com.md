@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rubyplaza.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117220336id_/http%3A//www.rubyplaza.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubyplaza.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902051305id_/https%3A//www.rubylane.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
-
-Ruby Lane recognizes the importance of protecting your personal information. Therefore, we have put together a privacy policy that respects and addresses your needs. 
+Ruby Lane recognizes the importance of protecting your personal information. Our privacy policy respects and addresses your needs. 
 
 We define personal information as any and all of the information specific to you that you provide us over the Internet or any other channel. This includes personal data as varied as the information you enter into an online registration form, questions you ask via Email, or information you enter on a contest form. Outlined below is our policy in the format of frequently asked questions. 
 
@@ -28,7 +26,7 @@ We define personal information as any and all of the information specific to you
 
 Ruby Lane collects your name, Email address, and other personal information when you: 
 
-  * Sign up for our services such as Ruby Lane Shops or Ruby Lane Global Search Partner 
+  * Sign up for our services such as Ruby Lane Shop, or register as a Ruby Lane user 
   * Enter giveaways or other promotions sponsored by Ruby Lane and/or our partners 
   * Send us Email 
   * Purchase or make offers in a Ruby Lane Shop 
@@ -47,7 +45,9 @@ Ruby Lane also uses personal information to provide you, the user, with a person
 **What if I make a purchase at a Ruby Lane Shop?** Back to Top.  
 
 
-If you purchase or make offers in one of our Ruby Lane Shops, we may collect personal information including your credit card number and shipping information. This information will be used by the merchant to complete the transaction. Ruby Lane is only a venue and does not own the shops. All transactions and use of any customer information are the sole responsibility of the merchant. For further information regarding the merchant's use of customer information, contact that merchant shop directly. 
+If you purchase or make offers in one of our Ruby Lane Shops, we may collect personal information which will be used by the merchant to complete the transaction. Ruby Lane is only a venue and does not own the Shops. All transactions and use of any customer information are the sole responsibility of the merchant. For further information regarding the merchant's use of customer information, contact that merchant Shop directly. 
+
+Ruby Lane does not process or ask for credit card details in the purchase process. This is either entered via third-party sites such as PayPal or Braintree, or direct between Shop and buyer. 
 
   
 **Will Ruby Lane disclose any of my personal information?** Back to Top.  
@@ -55,11 +55,13 @@ If you purchase or make offers in one of our Ruby Lane Shops, we may collect per
 
 Ruby Lane will not disclose any of your personal information, except as described below, or when we believe in good faith that the law requires it, or to protect the rights or property of Ruby Lane. 
 
-Ruby Lane may disclose personal information, but only when it is clearly stated at the time we ask for the information, such as during a shop registration, or in the rules of a giveaway or other promotions. 
+Ruby Lane may disclose personal information, but only when it is clearly stated at the time we ask for the information, such as during a Shop registration, or in the rules of a giveaway or other promotions. 
 
-Ruby Lane does disclose user statistics to describe our audience to prospective partners, advertisers, and other third parties, and for other lawful purposes. These statistics are always anonymous and never related back to specific users. For example, we may disclose that 20% of our audience are doll collectors, but we would not release a list of email addresses for this group (or any other). 
+Ruby Lane does disclose user statistics to describe our audience to prospective partners, advertisers, and other third parties, and for other lawful purposes. These statistics are always anonymous and never related back to specific users. For example, we may disclose that 20% of our audience are vintage fashion, but we would not release a list of email addresses for this group (or any other). 
 
-If you make a purchase or offer through a shop hosted by Ruby Lane, the information that you provide may be provided to the owner of that shop to complete the transaction. These shop owners have their own, separate privacy and data collection policies independent of Ruby Lane, and Ruby Lane has no responsibility or liability in connection with these. 
+If you contact a Shop Owner, make an offer or make a purchase through Ruby Lane, the information that you provide will be shared with the owner of that Shop so they can respond or process the transaction. These Shop Owners have their own separate privacy and data collection policies independent of Ruby Lane, and Ruby Lane has no responsibility or liability in connection with these. 
+
+Ruby Lane participates in the independent third-party TrustPilot program whereby shoppers are invited to rate and review their recent Ruby Lane shopping experiences. TrustPilot has their own separate privacy and data collection practices independent of Ruby Lane. 
 
 Other Ruby Lane partners, such as Internet sites and services accessible through Ruby Lane or parties whom we inform you are collecting data in connection with giveaway or other promotions, have their own, separate privacy and data collection practices independent of Ruby Lane, and Ruby Lane has no responsibility or liability in connection with these. 
 
@@ -79,7 +81,7 @@ Ruby Lane uses cookies to:
 
 
 
-Advertising services Ruby Lane uses, such as Commission Junction, LinkShare or BFree, and other sites we partner with, may also use cookies. 
+Advertising services Ruby Lane uses, and other sites we partner with, may also use cookies. 
 
   
 **How does Ruby Lane use my IP address?** Back to Top.  
@@ -93,7 +95,7 @@ Ruby Lane uses IP addresses for system administration (for example, tracking dow
 **Will I be able to request changes to my personally identifiable information?** Back to Top.  
 
 
-Yes you can do that at any time, by signing in, going to My Account, and clicking Edit. 
+Yes, you can do that at any time, by signing in, going to My Account, and clicking Edit. 
 
   
 **How will I be informed of material changes to the Privacy Policy?** Back to Top.  
@@ -107,4 +109,4 @@ If we make material changes to the Privacy Policy, at our election we will eithe
 We not disclose your personal information to third parties for the third parties' direct marketing purposes, unless you first affirmatively agree to that disclosure. California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. If you would like more information with respect to your privacy rights under California law, you may contact us using the Email Ruby Lane link below. Please reference your request as "California Disclosure Information." 
 
   
-**This Privacy Statement was last revised on and is effective as of July 25, 2009.**
+**This Privacy Statement was last revised on and is effective as of September 15, 2015.**
