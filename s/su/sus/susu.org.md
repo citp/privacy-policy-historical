@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630134257id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902084013id_/http%3A//www.susu.org/about/2011/privacy-policy.html) for the most accurate reproduction.*
 
 # SUSU - University of Southampton Students' Union - About - Privacy Policy
 
-The University of Southampton Students’ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. 
+The University of Southampton Studentsâ€™ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. 
 
 This policy sets out the terms relevant to SUSU's processing of data obtained as a result of your use of our websites and our obligations under the Data Protection Act 1998 ("the Act"). Any personal information provided by users will be processed in accordance with the Act. The data controller is the University of Southampton Student's Union, unless otherwise stated.
 
 ### Gathering and Use of Personally Identifiable Information. 
 
-During the SUSU.ORG registration process we gather your name and email address. This personal information is held by us with care and security and is used by us in order to contact you with students’ union news and information about website updates. You may opt-out of receiving future mailings at any time; see the Choice/Opt-Out section below. We do not share your personal data with any outside parties without your express authorization, except in the special circumstances described below.
+During the SUSU.ORG registration process we gather your name and email address. This personal information is held by us with care and security and is used by us in order to contact you with studentsâ€™ union news and information about website updates. You may opt-out of receiving future mailings at any time; see the Choice/Opt-Out section below. We do not share your personal data with any outside parties without your express authorization, except in the special circumstances described below.
 
 ### Gathering and Use of Non-Personal Information. 
 
@@ -24,7 +24,7 @@ The SUSU.ORG website runs on web servers which compiles log files of visitors wh
 
 ### Use of Cookies. 
 
-The SUSU.ORG network of websites use cookies. A cookie is a small file of letters and numbers that a website transfers to the cookie file on your computer’s hard disk. These cookies help us to provide a tailored experience when browsing our websites and to make improvements.
+The SUSU.ORG network of websites use cookies. A cookie is a small file of letters and numbers that a website transfers to the cookie file on your computerâ€™s hard disk. These cookies help us to provide a tailored experience when browsing our websites and to make improvements.
 
 Cookie| Purpose| Expiry  
 ---|---|---  
@@ -59,7 +59,7 @@ If you choose to purchase any products from our website, additional information 
 
 ### Exceptions. 
 
-SUSU may disclose personally identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) SUSU’s rights or property, other SUSU.ORG users, or anyone else that could be harmed or affected by such activities. SUSU may disclose account information when we believe in good faith that the law requires it. 
+SUSU may disclose personally identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) SUSUâ€™s rights or property, other SUSU.ORG users, or anyone else that could be harmed or affected by such activities. SUSU may disclose account information when we believe in good faith that the law requires it. 
 
 ### Links to Other Sites. 
 
