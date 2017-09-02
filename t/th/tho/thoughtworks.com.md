@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202302id_/https%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903011717id_/https%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
