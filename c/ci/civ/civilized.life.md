@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilized.life privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602063540id_/https%3A//www.civilized.life/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilized.life privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902154906id_/https%3A//www.civilized.life/privacy) for the most accurate reproduction.*
 
 # We’re Sure You Know the Drill
 
