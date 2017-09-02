@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605145330id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902021318id_/https%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WizeHive
 
