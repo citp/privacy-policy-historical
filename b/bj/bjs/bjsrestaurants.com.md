@@ -1,30 +1,42 @@
-> *The following text is extracted and transformed from the bjsrestaurants.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826083940id_/https%3A//www.bjsrestaurants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjsrestaurants.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902215512id_/https%3A//www.bjsrestaurants.com/privacy-policy) for the most accurate reproduction.*
 
-# Updated Privacy Policy | BJ's Restaurant and Brewhouse
+# Updated Privacy Policy | BJ's Restaurants and Brewhouse
 
 **BJ’s Restaurants, Inc.**
 
 **Privacy Policy**
 
-**_Last updated: July 28, 2016_**
+**_Last updated: July 1, 2016_**
 
-This Privacy Policy applies to all websites and mobile applications (each a “Site”) operated by BJ’s Restaurants, Inc. (“BJ’s”, “we”, and “us”). This Privacy Policy describes how we use, store, and disclose information that we obtain about you through our Sites, including information that we obtain through any promotional program or other service that we provide (in whole or in part) through any of our Sites, such as the BJ’s Premier Rewards Program.
+This Privacy Policy applies to all websites and mobile applications (each a “ _Site_ ”) operated by BJ’s Restaurants, Inc. (“ _BJ’s_ ”, “ _we_ ”, and “ _us_ ”). This Privacy Policy describes how we use, store, and disclose information that we obtain about you through our Sites, including information that we obtain through any promotional program or other service that we provide (in whole or in part) through any of our Sites, such as the BJ’s Premier Rewards Program.
 
 Please read this information carefully before accessing any of our Sites. By accessing any of our Sites, you agree to the terms of this Privacy Policy.
 
-**Note that we have updated our Privacy Policy, effective July 28, 2016, to reflect the growth and development of our business, and to clarify the information that may be collected through our websites and mobile apps and how that information may be used and shared.**
+For ease of reference, you may click on any of the following links to jump to one of the topics addressed in this Privacy Policy:
 
-**Such information collected after the above date will be subject to the terms of our new Privacy Policy. You can read our updated Privacy Policy below for your convenience _._  Here is a summary of the primary changes:**
+Information Collected About You
 
-  * **As our business has evolved, so have our websites and mobile apps, as have our promotional programs and other services for our customers. We have clarified that our Privacy Policy applies to information collected through any of our websites or mobile apps, including information that we may obtain through the BJ’s Premier Rewards Program or any other promotional program or service that we may provide (in whole or in part) online or via an app.**
-  * **We have expanded the disclosures regarding the types of information that you may provide to us online, such as when using our Careers page or enrolling in and engaging with the BJ’s Premier Rewards Program. We have also expanded how you can choose to limit certain communications from us.**
-  * **We have added disclosures, in accordance with recent legislation, about do-not-track technologies and the collection of information on our site by third parties. We have also expanded our disclosure regarding the collection of information using cookies and other technologies to reflect new technologies that we and our business partners may use.**
-  * **We have clarified the circumstances in which we may disclose your information to third parties—including, for example, to business partners or other third parties for their own marketing or other commercial purposes; to third-party acquirers as part of a sale or transfer of our assets or capital stock; and to our service providers assisting us in business functions such as analyzing data, customer service, marketing and order processing.**
-  * **Finally, please note that California residents are entitled by law to be told what personal information we have shared during the previous year with third parties who are permitted to use such information for their own marketing purposes, as well as the parties with which the information has been shared.   Our updated Privacy Policy provides a simple mechanism for you to request and receive such disclosure.**
+Use and Retention of the Information About You
 
+Disclosure of the Information About You
 
+Children
 
-**Continue below to see our updated Privacy Policy**
+Do Not Track Signals
+
+Your California Privacy Rights
+
+Links to Third-Party Sites
+
+Security Procedures
+
+Access to Your Information and Your Choices
+
+Governing Law
+
+Changes to These Terms
+
+Contact Us
 
 **Information Collected About You**
 
@@ -87,7 +99,7 @@ At this time, our Sites do not support “Do Not Track” preferences that may b
 
 **Children**
 
-Our Sites are not designed to appeal to persons under 13 years old (“children”). We do not knowingly collect or maintain personal information from children through our Sites, except for persistent identifiers that may be collected through children’s sections of our Sites which (as permitted by applicable law) we will use solely to support the internal operations of the Sites. If we learn that any unauthorized personal information of a child has been collected, we will take appropriate steps to delete such information. If you are a parent or guardian and discover that your child has provided any such personal information to us, then you may contact us at the email or mailing address noted at the end of this Privacy Policy below and request that we delete that information from our systems.
+Our Sites are not designed to appeal to persons under 13 years old (“ _children_ ”). We do not knowingly collect or maintain personal information from children through our Sites, except for persistent identifiers that may be collected through children’s sections of our Sites which (as permitted by applicable law) we will use solely to support the internal operations of the Sites. If we learn that any unauthorized personal information of a child has been collected, we will take appropriate steps to delete such information. If you are a parent or guardian and discover that your child has provided any such personal information to us, then you may contact us at the email or mailing address noted at the end of this Privacy Policy below and request that we delete that information from our systems.
 
 **Your California Privacy Rights**
 
