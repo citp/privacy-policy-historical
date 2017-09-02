@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicdresshire.co.nz privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502182241id_/http%3A//www.academicdresshire.co.nz/About%2BUs/Privacy%2B%2BLegal%2BPolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicdresshire.co.nz privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902174357id_/http%3A//www.academicdresshire.co.nz/About%2BUs/Privacy%2B%2BLegal%2BPolicies.html) for the most accurate reproduction.*
 
 # Privacy Policy | Academic Dress Hire | Graduation & Academic Regalia
 
@@ -59,6 +59,6 @@ External sites that are linked to or from the Kate Edger Educational Charitable 
 
 ##### 4\. Data quality/access
 
-The Kate Edger Educational Charitable Trust t/a Academic Dress Hire will use reasonable endeavours to maintain accurate, up-to-date information regarding students and staff.
+The Kate Edger Educational Charitable Trust t/a Academic Dress Hire will use reasonable endeavors to maintain accurate, up-to-date information regarding students and staff.
 
-If you believe that the personal information the Kate Edger Educational Charitable Trust t/a Academic Dress Hire holds about you is inaccurate and requires correction or if you require copies of your personal information held by the Kate Edger Educational Charitable Trust t/a Academic Dress Hire, please contact us by email: manager@kateedgertrust.co.nz
+If you believe that the personal information the Kate Edger Educational Charitable Trust t/a Academic Dress Hire holds about you is inaccurate and requires correction or if you require copies of your personal information held by the Kate Edger Educational Charitable Trust t/a Academic Dress Hire, please contact us by email: manager@kateedgertrust.org.nz
