@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigmos.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614033515id_/http%3A//www.zigmos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigmos.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902152451id_/http%3A//www.zigmos.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - ZIGMOS
 
