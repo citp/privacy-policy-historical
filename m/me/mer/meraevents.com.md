@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meraevents.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073714id_/http%3A//www.meraevents.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meraevents.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902174840id_/https%3A//www.meraevents.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
