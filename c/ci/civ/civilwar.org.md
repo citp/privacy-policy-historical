@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216140735id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902043759id_/https%3A//www.civilwar.org/about/accountability/privacy-policy) for the most accurate reproduction.*
 
-# Civil War Trust's Privacy Policy
+# Privacy Policy | Civil War Trust
 
 ## Civil War Trust’s Privacy Policy
 
@@ -14,52 +14,49 @@ The Civil War Trust's online and offline resources are intended to supply our me
 
 Interactions requiring personal information include:
 
-•  Becoming a Member  
-•  Donating to our organization  
-•  Signing petitions for political outreach  
-•  Signing up for email updates/newsletters  
-•  Entering a contest  
-•  Registering for an event
+  * Becoming a Member
+  * Donating to our organization
+  * Signing petitions for political outreach
+  * Signing up for email updates/newsletters
+  * Entering a contest
+  * Registering for an event
+  * The types of information we collect include name, email address, zip code, billing address, shipping address, phone number, payment information, demographic information.
 
-The types of information we collect include name, email address, zip code, billing address, shipping address, phone number, payment information, demographic information.
+
 
 In some cases, we may also collect information you provide about others, such as in giving a gift membership. We will use this information to fulfill your request and will provide the recipient our standard opportunity to opt out of further marketing communication.
 
 In addition, we automatically collect certain information when you access or use our websites or transact with us, including:
 
-•   **Log Information:** We collect information such as the browser type and version, access time, pages viewed, IP address and the referring website.
+  * **Log Information:**  We collect information such as the browser type and version, access time, pages viewed, IP address and the referring website.
+  * **Information Collected by Cookies and Other Tracking Technologies:**  We utilize cookies, web beacons (also known as "tracking pixels") and other tracking technologies to collect information about audience interactions with our websites and email communications, including information about traffic to the sites and browsing behavior. We use this information in aggregate for various purposes, such as improving our visitors’ online experience, understanding which areas and features of our sites and mobile apps are popular, understanding how visitors navigate our site, understanding campaign effectiveness, tailoring our communications, and other internal business purposes. 
 
-•   **Information Collected by Cookies and Other Tracking Technologies:** We utilize cookies, web beacons (also known as "tracking pixels") and other tracking technologies to collect information about audience interactions with our websites and email communications, including information about traffic to the sites and browsing behavior. We use this information in aggregate for various purposes, such as improving our visitors’ online experience, understanding which areas and features of our sites and mobile apps are popular, understanding how visitors navigate our site, understanding campaign effectiveness, tailoring our communications, and other internal business purposes. 
+
 
 ## How We Use Information
 
 We use information about you for various purposes, including to:
 
-•  Provide the services you request, process transactions and send you related information, including confirmations and receipts;
+  * Provide the services you request, process transactions and send you related information, including confirmations and receipts;
+  * Respond to your comments, questions and requests;
+  * Communicate with you about the Civil War Trust, including our events, news and information we think will be of interest to you. 
+  * Personalize your online experience;
+  * Monitor and analyze trends, usage and activities; and
+  * Carry out any other purpose for which the information was collected, consistent with the commitments made in this Privacy Policy.  
 
-•  Respond to your comments, questions and requests;
 
-•  Communicate with you about the Civil War Trust, including our events, news and information we think will be of interest to you. 
-
-•  Personalize your online experience;
-
-•  Monitor and analyze trends, usage and activities; and
-
-•  Carry out any other purpose for which the information was collected, consistent with the commitments made in this Privacy Policy.  
 
 ## Sharing of Information
 
 We may share information:
 
-•  With vendors, consultants and other service providers who need access to such information to carry out work on our behalf. Orders are processed through our third party payment processor, which will receive personal information, including credit card information, in order to facilitate the fulfillment process.
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf. Orders are processed through our third party payment processor, which will receive personal information, including credit card information, in order to facilitate the fulfillment process.
+  * When we believe release is appropriate to comply with applicable laws, regulations, or legal processes; enforce or apply this Privacy Policy and other agreements; or protect the rights, property or safety of our organization, our members or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  This does not include selling, renting, sharing or otherwise disclosing personally identifiable information for commercial purposes (in a way that is contrary to the commitments made in this Privacy Policy). 
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our operations. If we are acquired by or merged with or into another entity, or if we or our assets are sold or transferred to another entity, your personal information may be transferred to such entity as part of the transaction, and that entity and its affiliates may use your personal information under the terms of their own privacy policies which may differ from this Privacy Policy.
+  * With third parties or allow them to collect information from our websites in ways that may not be specifically described in this Privacy Policy. 
+  * While we may share your name and address information, the Civil War Trust does NOT exchange phone numbers or email addresses.
 
-•  When we believe release is appropriate to comply with applicable laws, regulations, or legal processes; enforce or apply this Privacy Policy and other agreements; or protect the rights, property or safety of our organization, our members or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  This does not include selling, renting, sharing or otherwise disclosing personally identifiable information for commercial purposes (in a way that is contrary to the commitments made in this Privacy Policy). 
 
-•  In connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our operations. If we are acquired by or merged with or into another entity, or if we or our assets are sold or transferred to another entity, your personal information may be transferred to such entity as part of the transaction, and that entity and its affiliates may use your personal information under the terms of their own privacy policies which may differ from this Privacy Policy.
-
-•  With third parties or allow them to collect information from our websites in ways that may not be specifically described in this Privacy Policy. 
-
-•  While we may share your name and address information, the Civil War Trust does NOT exchange phone numbers or email addresses.
 
 We emphasize that the Civil War Trust will not provide any of your personal information to other organizations when you inform us that you have elected to opt out.  Opt Out Procedures are described below.
 
@@ -69,15 +66,15 @@ You may update, correct or delete your account information at any time by contac
 
 The Civil War Trust provides three easy ways for you to opt-out of having any of your personal information shared or sold to other organizations: 
 
-1. Email: [info@civilwar.org](mailto:info@civilwar.org) with the subject heading "Membership Confidentiality." 
+  1. Email: [info@civilwar.org](mailto:info@civilwar.org) with the subject heading "Membership Confidentiality." 
+  2. Call: 202-367-1861 and request that you would like your information to be confidential.
+  3. Mail: You may also write us at: Civil War Trust, 1156 15th Street NW, Suite 900, Washington, DC 20005 
 
-2. Call: 202-367-1861 and request that you would like your information to be confidential.
 
-3. Mail: You may also write us at: Civil War Trust, 1156 15th Street NW, Suite 900, Washington, DC 20005 
 
 When contacting us please provide your full name, membership ID number (if you have one), and address.
 
-## Information Security 
+## Information Security ** **
 
 We take our users' privacy very seriously. When users submit personal information to the Civil War Trust, we take steps designed to ensure the information remains secure both during transmission and while stored. Some of these measures include an enterprise grade firewall and a secured environment for the data storage. All sensitive donor information is stored in this manner and only accessed by authorized Civil War Trust staff through a monitored and recorded login process using secure communication and password protection.
 
@@ -115,4 +112,7 @@ The site and this Privacy Policy are governed by the laws of Virginia and all di
 
 If you have any questions about this Privacy Policy, please contact us by: 
 
- Phone: 202 367-1861 or  Email: [web@civilwar.org](https://mce_host/admin/item/actions/web@civilwar.org)
+  * Phone: 202-367-1861
+  * Email: [web@civilwar.org](mailto:web@civilwar.org)
+
+
