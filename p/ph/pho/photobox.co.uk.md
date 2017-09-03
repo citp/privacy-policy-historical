@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314143526id_/https%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903145522id_/https%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Photo Printing | PhotoBox - PhotoBox
 
@@ -38,8 +38,9 @@ Your personal data will be collected, processed, stored and used by us, and pass
   * to create personalised Products selected by you;
   * to associate your Account, and your Product purchases, with you, and to verify your identity;
   * if you elect to store a Payment Method with us, to associate that Payment Method with you when you place an order;
-  * to associate your Account, and your Product purchases, with you, and to verify your identity;
+  * to tailor aspects of Photobox (including its search function) to you;
   * to process payments you make for Products;
+  * to pass your Product order for delivery by third party deliverers engaged by us;
   * to provide customer support;
   * to contact you by email and mobile communication (such as text (SMS) and "push" notification);
   * to contact you by post;
@@ -50,11 +51,13 @@ Your personal data will be collected, processed, stored and used by us, and pass
 
 If you elect to store a Payment Method with us, that Payment Method will not in fact be stored by Photobox itself, but instead it will be stored by a payment service provider under contract with us. The storing payment service provider will be required to comply with the Payment Card Industry Data Security Standard (PCI DSS). Note that, when using a stored Payment Method to make payment for your Photobox order, certain techniques will be used to assist in maintaining the security of the details of your stored Payment Method. For example, not all of the payment card number will be visible to you (typically, all except the final four digits will be masked), and you will be required to provide certain information (such as, but not limited to, a CV2 card security number) in order to proceed with using that Payment Method. To remove or change a stored Payment Method, please follow the procedures specified on the Site or App, or contact our customer services team.
 
+If you are asked to provide a phone number for a Product you are ordering, note that the phone number will be provided to the deliverer of your order – and (unless you specifically opt not to permit this) will appear on your order's packaging – to assist with the delivery process. If you do not wish your phone number to be used in this way, then please do not provide a phone number when placing your order.
+
 We may use automatically collect anonymous information about your use of Photobox. For example, we may automatically log which parts of Photobox you access, which web browser you deploy and the website from which you linked to Photobox. You cannot be identified from any of this information. It enables us to compile statistics about the use of Photobox, and to help target aspects of Photobox and advertising to you more accurately.
 
 ## Disclosing your personal data
 
-We will not disclose any of your personal data, other than to subsidiary and/or affiliated companies and data processors (including payment service providers) under contract with us, without your permission unless:
+We will not disclose any of your personal data, other than to subsidiary and/or affiliated companies and data processors (including deliverers and payment service providers) under contract with us, without your permission unless:
 
   * we are legally entitled to do so (for example, pursuant to a court order or for the purposes of prevention or detection of crime or fraud);
   * we are in negotiations with a third party for the sale or purchase of any of Photobox's business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
