@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528001158id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903182203id_/https%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Honest John
 
@@ -148,6 +148,6 @@ The Act gives you the right to access information held about you. Your right of 
 
 Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to nova@honestjohn.co.uk.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@honestjohn.co.uk.
 
 HonestJohn.co.uk Limited, Wagstaffs, Richmond House, Walkern Rd, Stevenage SG1 3QP. Registered in London no 6011794. 
