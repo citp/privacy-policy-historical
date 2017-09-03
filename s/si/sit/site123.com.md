@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the site123.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708053149id_/https%3A//www.site123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site123.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903053013id_/https%3A//www.site123.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SITE123
+
+[](https://web.archive.org/)
+
+[](https://web.archive.org/)
 
 This privacy policy discloses the privacy practices for www.site123.com The policy applies solely to information collected by this web site. It will notify you of the following:
 
@@ -55,3 +59,5 @@ We use "cookies" on this site. A cookie is a piece of data stored on a site visi
 We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
 
  **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at +1-310-870-3733 (US) or via email: info@site123.com**
+
+__
