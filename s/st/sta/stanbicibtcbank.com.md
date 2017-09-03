@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanbicibtcbank.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628104652id_/http%3A//stanbicibtcbank.com/Nigeria/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanbicibtcbank.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903155442id_/https%3A//stanbicibtcbank.com/Nigeria/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy and security statement | StanbicIBTCBank - Nigeria
 
