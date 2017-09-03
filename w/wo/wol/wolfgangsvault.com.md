@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221022021id_/https%3A//www.wolfgangs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904011841id_/https%3A//www.wolfgangs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wolfgang's Privacy Policy
 
