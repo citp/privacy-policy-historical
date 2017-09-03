@@ -1,158 +1,83 @@
-> *The following text is extracted and transformed from the antonioleiva.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172642id_/https%3A//antonioleiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonioleiva.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903160641id_/https%3A//antonioleiva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Antonio Leiva
 
-This Application collects some Personal Data from its Users.
+Antonio Leiva Gordillo, as responsible for antonioleiva.com, has adapted this website to the requirements of the Organic Law of Data Protection (LOPD) and to the LSSI-CE (Law of the Information Society and Electronic Commerce)
 
-* * *
+In accordance with the provisions of Organic Law 15/1999 of 13 December on the Protection of Personal Data, Antonio Leiva Gordillo, with NIF: 47225561-Y, informs the User that he is the owner of a file of “Users Of the web and subscribers “registered before the RGPD (General Registry of Data Protection), in which your data are incorporated and are treated in order to provide the requested services and send you information about our company that may be of interest to you.
 
-## Data Controller and Owner
+Antonio Leiva Gordillo has taken all the necessary technical and organizational measures to guarantee the security and integrity of the personal data that he treats, as well as to prevent their loss, alteration and / or access by unauthorized third parties.
 
-Antonio Leiva – Plaza de Uruguay 6 – 28822 Coslada (Spain),  
-contact@antonioleiva.com
+## Purpose of data collected and consent to treatment
 
-* * *
+The User is informed, according to the established in article 5 of the LOPD that, through the contact forms, or subscriptions, data are collected that are stored in the file indicated above, with the following purposes:
 
-## Types of Data collected
+  * Forward the newsletter on the website.
+  * Process orders, requests or any type of request that is made by the user through any of the forms of contact that are made available on the Website.
+  * Referral of advertising commercial communications by related emails about products or services offered by Antonio Leiva Gordillo, as well as by the collaborators or partners with whom it had reached some commercial promotion agreement among its clients. In this case, third parties will never have access to personal data. In any case commercial communications will be made by the Lender and will be products and services related to the Lender sector.
+  * Perform statistical studies.
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Email address, Cookie and Usage data.
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
-The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
+The data requested through the Website are mandatory, as they are necessary for the provision of an optimal service to the User. In case all data is not provided, the provider does not guarantee that the information and services provided are fully adjusted to their needs.
 
-* * *
+The User is solely responsible for the veracity and correctness of the data that he / she refers to the lender, exempting the lender from any liability in this regard. The Users guarantee and respond, in any case, the accuracy, validity and authenticity of the personal data provided, and undertake to keep them duly updated. The User agrees to provide complete and correct information in the contact or subscription form.
 
-## Mode and place of processing the Data
+## Exercise of arch rights: Access, Rectification, Cancellation and Opposition
 
-### Methods of processing
+The User may direct his communications and exercise the rights of access, rectification, cancellation and opposition through the email: contact@antonioleiva.com together with proof valid in law, as a photocopy of D.N.I. Or equivalent, indicating in the subject “Data Protection”.
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+You can also direct the communication by mail to:
 
-### Place
+Antonio Leiva Gordillo
 
-The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+Plaza Fábrica de Paños, 1
 
-### Retention time
+28830 San Fernando de Henares
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+(Madrid)
 
-* * *
+Similarly, the User may unsubscribe from any of the subscription services provided by clicking on the unsubscribe section of all emails sent by the provider.
 
-## The use of the collected Data
+If you receive the aforementioned emails, you have given your prior authorization, as the provider does not carry out SPAM practices.
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Contacting the User, Analytics and Managing contacts and sending messages.
+## File manager and process managers
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+The person in charge of the file is Antonio Leiva Gordillo.
 
-* * *
+To provide strictly necessary services for the development of its activity, Antonio Leiva Gordillo uses the following service providers under their corresponding privacy conditions:
 
-## Detailed information on the processing of Personal Data
+  * Hosting: Webempresa Europa SL, with registered office in C / Pujol, 17, entr. 1, 08022 Barcelona, ​​inscribed in the Mercantile Register of the province of Barcelona at Volume 43.076, Folio 28, Sheet 420838. With C.I.F .: B-65739856. You can consult the privacy policy and other legal aspects of the company at the following link: <https://www.webcompresa.com/aviso-legal.html>
+  * E-mail marketing provider: Active Campaign LLC, established at 222 S. Riverside Plaza, Suite 810, Chicago, Illinois 60606, and listed on Privacy Shield: [https://www.privacyshield.gov/participant?id= A2zt0000000GnH6AAK](https://www.privacyshield.gov/participant?id=A2zt0000000GnH6AAK)
 
-Personal Data is collected for the following purposes and using the following services:
 
-### Analytics
 
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+You can check their privacy policy at <http://www.activecampaign.com/privacy-policy/>
 
-#### Google Analytics (Google Inc.)
+  * Billing program: Recrea Systems, SLU (Quaderno), with registered office at C / Fernando Guanarteme, 111, 35010 Las Palmas. You can consult its privacy policy at <https://getquaderno.es/privacidad/>
+  * Tax consultant: Lic Itálica SL, with registered address at C / Francisco Moreno Velázquez, 19 41970 Santiponce (Seville), registered in the Mercantile Register of the province of Seville in Volume 6370, Folio 7, Inscription 1, Sheet SE-113644, with CIF B90303074.
+  * Web platform: WordPress.org <https://wordpress.org/about/privacy/>
+  * Template Platform for WordPress: Elegant Themes <https://www.elegantthemes.com/policy/privacy/>
+  * Payment gateway: Stripe and Paypal, through SedOwl: <https://www.sendowl.com/privacy>
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
-Personal Data collected: Cookie and Usage data.  
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/intl/en/policies/privacy/)
 
-### Managing contacts and sending messages
 
-These services make it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
-These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+## Social networks
 
-#### Mailchimp (Mailchimp)
+Antonio Leiva Gordillo offers the User links and service related to the different social networks. So if you are a member of a social network and click on the link, the social network provider can link your profile data with the information of your visit to the web.
 
-Mailchimp is an email address management and message sending service provided by Mailchimp Inc.  
-Personal Data collected: Email address.  
-Place of processing: USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
+You can access at all times the privacy policies of different social networks, as well as configure your profile to ensure your privacy:
 
-### Contacting the User
+  * Facebook: <https://www.facebook.com/about/privacy/>
+  * Twitter: <https://twitter.com/en/privacy>
+  * Google Plus: <https://www.google.com/policies/privacy/?hl=en>
 
-Mailing List or Newsletter (This Application)  
-By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.  
-Personal Data collected: Email address.
 
-* * *
 
-## Additional information about Data collection and processing
+## Acceptance and consent
 
-### Legal action
+The User declares that he has been informed of the conditions on the Protection of Personal Data, accepting and consenting through the established opt-in procedure, the treatment of the data by Antonio Leiva Gordillo, in the terms indicated in the present Document, as well as to the international transfer of data that is produced, exclusively due to the location of the facilities of the service providers and data processors.
 
-The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
-The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.
+## Modification of the privacy policy
 
-### Additional information about User’s Personal Data
-
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
-
-### System Logs and Maintenance
-
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
-
-### Information not contained in this policy
-
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
-
-### The rights of Users
-
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
-
-This Application does not support “Do Not Track” requests.  
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
-
-### Changes to this privacy policy
-
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
-
-* * *
-
-## Definitions and legal references
-
-### Personal Data (or Data)
-
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
-
-### Usage Data
-
-Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
-
-### User
-
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
-
-### Data Subject
-
-The legal or natural person to whom the Personal Data refers.
-
-### Data Processor (or Data Supervisor)
-
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
-
-### Data Controller (or Owner)
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
-
-### This Application
-
-The hardware or software tool by which the Personal Data of the User is collected.
-
-### Cookie
-
-Small piece of data stored in the User’s device.
-
-### Legal information
-
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
-
-This privacy policy relates solely to this Application.
+Antonio Leiva Gordillo reserves the right to modify the present policy to adapt it to new legislative or jurisprudential as well as to practices of the industry. In such cases, the Lender will announce on this page the changes made with reasonable notice to its implementation.
