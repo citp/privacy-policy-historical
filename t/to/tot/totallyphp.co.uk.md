@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyphp.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126183259id_/http%3A//www.totallyphp.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyphp.co.uk privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903030028id_/http%3A//www.totallyphp.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Totally PHP
 
