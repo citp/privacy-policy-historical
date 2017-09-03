@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockettab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032202id_/http%3A//rockettab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettab.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903102331id_/http%3A//rockettab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Rocket Tab | Privacy Policy
 
@@ -6,7 +6,7 @@ Rich River Media LLC (“Rich River Media” or “we”) respects the privacy o
 
 ### Acceptance
 
-This privacy policy is incorporated into and subject to Rich River Media’s [Terms of Service](https://web.archive.org/web/20170606032202id_/http%3A//rockettab.com/terms-of-service.html). THE USE OF THE SITE OR ANY OF THE SERVICES CONSTITUTES THE ACCEPTANCE OF BOTH [TERMS OF SERVICE](https://web.archive.org/web/20170606032202id_/http%3A//rockettab.com/terms-of-service.html) AND THIS PRIVACY POLICY. If you do not agree with the terms and conditions of either document, please discontinue using the Site and the Services.
+This privacy policy is incorporated into and subject to Rich River Media’s [Terms of Service](https://web.archive.org/web/20170903102331id_/http%3A//rockettab.com/terms-of-service.html). THE USE OF THE SITE OR ANY OF THE SERVICES CONSTITUTES THE ACCEPTANCE OF BOTH [TERMS OF SERVICE](https://web.archive.org/web/20170903102331id_/http%3A//rockettab.com/terms-of-service.html) AND THIS PRIVACY POLICY. If you do not agree with the terms and conditions of either document, please discontinue using the Site and the Services.
 
 ### Information Collected And How We Use It
 
