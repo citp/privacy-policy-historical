@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617075816id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903202746id_/https%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
@@ -66,6 +66,14 @@ You can limit the range of data that your phone sends to us by disabling the ide
 
 APIs (application programming interfaces) and SDKs (software development kits) which may be embedded in our app by one of our partners provide geo-fencing capabilities, mobile analytics and the ability to deliver push messaging. When you access the app an API/SDK may collect non-personally identifiable data related to the device such as the device ID, model and operating system, information about the API or SDK being used and data related to you such as latitude and longitude location information and self-reported data provided when you downloaded the app if you provided the information. This information does not identify you personally. The information may be collected for advertising use, to ensure you receive a better consumer experience, analytics, guide our product improvements and market research.
 
+### Bluetooth (Proximity) Beacons
+
+Bluetooth beacons are devices that emit low-powered signals that have been set up in stores, museums, airports and other public spaces which can be detected by your mobile device when you enable Bluetooth and you utilize any app that you have downloaded and given permission to use your phone’s Bluetooth and location. When you grant permission in our app to enable location tracking we may collect data from physical proximity beacons located in or near public spaces where you are located at that point in time. As such, we may collect data about your location and other contextual data when you are near a beacon. If your device preferences allow us or our app access to location services, we may collect information about the location of your device in the store including data from each of our partners' beacons with which you interact, and we may segment you collectively with other users and utilize it for content/advertising as well as share the segments with third parties. The information we collect does not identify you personally. You may disable the communication of these beacons with your mobile device by disabling Bluetooth or modifying your preferences for location services for our app.
+
+### Third Party Advertising
+
+The ads on this site are served by web advertising partners including but not limited to Criteo. These partners collect non-personal data about your browsing of this site in order to serve ads tailored to your interests. For more information about Criteo, its privacy policies, interest based advertising and opting-out, please visit <http://www.criteo.com/privacy/>.
+
 ### Feedback form
 
 When you submit a comment or inquiry using our online feedback form, we request your name and e-mail address, along with the comment or inquiry for the purpose of acting on the information and responding to you. This information may be shared with persons outside of Pelmorex Corp. as required to respond.
@@ -125,4 +133,4 @@ If you have any questions or complaints about privacy, or to request access to p
 
 ### Updates
 
-Pelmorex Corp. may amend this Privacy Policy at any time. Please check back often for any changes. By continuing to use the Services, you accept all updates to this Privacy Policy. This version was updated on May, 2017.
+Pelmorex Corp. may amend this Privacy Policy at any time. Please check back often for any changes. By continuing to use the Services, you accept all updates to this Privacy Policy. This version was updated on August, 2017.
