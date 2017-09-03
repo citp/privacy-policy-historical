@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notey.com privacy policy that was archived on 2016-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417084706id_/http%3A//www.notey.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notey.com privacy policy that was archived on 2017-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170903193842id_/http%3A//www.notey.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -18,7 +18,7 @@
 <meta content="yes" name="apple-mobile-web-app-capable">
 
 	
-<meta content="ac5af155879f135d93a965900025e0bd" name="p:domain_verify">
+<meta content="61570e502f0d4a1695b10f416c15fbaa" name="p:domain_verify">
 
 	
 <meta content="234828199913556" property="fb:app_id">
@@ -36,22 +36,28 @@
 <link href="/opensearch.xml" title="Notey" type="application/opensearchdescription+xml" rel="search">
 
 	
-<link rel="stylesheet" href="/css/all.css?F114368105055WRWS4U=_">
+<link rel="stylesheet" href="/css/all.css?F503208915363GIPRXV=_">
 
 	
-<script type="text/javascript" async="" defer="" src="//ec2-52-23-206-144.compute-1.amazonaws.com/piwik/piwik.js"></script><script src="/js/jquery/jquery.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/jquery/jquery.min.js?F503208915363GIPRXV=_"></script>
 
 	
-<script src="/js/jquery/jquery-ui.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/jquery/jquery-ui.min.js?F503208915363GIPRXV=_"></script>
 
 	
-<script src="/js/fragment/header.common.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/fragment/header.common.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<link rel="stylesheet" href="/css/lib/jQueryEmoji.css?F503208915363GIPRXV=_">
 
 	
 
 
 	
-<link href="http://m.notey.com/privacy.html" rel="alternate" media="only screen and (max-width: 640px)">
+<link href="https://m.notey.com/privacy.html" rel="alternate" media="only screen and (max-width: 640px)">
+
+	
+<link href="http://www.notey.com/privacy.html" rel="canonical">
 
 	
 <script>
@@ -65,29 +71,54 @@
 </script>
 
 	
-<script src="/js/fragment/header.framework.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/fragment/header.framework.min.js?F503208915363GIPRXV=_"></script>
 
 	
-<script src="/js/fragment/header.account.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/fragment/header.account.min.js?F503208915363GIPRXV=_"></script>
 
 	
-<script src="/js/fragment/header.header.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/fragment/header.header.min.js?F503208915363GIPRXV=_"></script>
 
 	
-<script src="/js/fragment/header.topic.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/fragment/header.topic.min.js?F503208915363GIPRXV=_"></script>
 
 	
-<script src="/js/fragment/header.comment.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/lib/rome.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<script src="/js/fragment/header.comment.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<script src="/js/featherlight.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<link rel="stylesheet" href="/css/featherlight.css?F503208915363GIPRXV=_">
 
 	
 <script data-pin-build="parsePinBtns" src="//assets.pinterest.com/js/pinit.js" defer="" async="" type="text/javascript"></script>
 
 	
-<script src="/js/fragment/header.newsfeed.min.js?F114368105055WRWS4U=_"></script>
+<script src="/js/fragment/header.newsfeed.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<script src="/js/quiz.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<script src="/js/fragment/header.usercontentform.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<script src="/js/cropit.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<script src="/js/quill.min.js?F503208915363GIPRXV=_"></script>
+
+	
+<link rel="stylesheet" href="/css/quill.css?F503208915363GIPRXV=_">
 
 	
 <script>
 	ns('Page');
+	Page.isNoteyExplore = true;
 	
 	$().ready(function() {
 		//notificationCenter
@@ -100,36 +131,16 @@
 		//header
 		var cfg = {
 			notificationCenter: Page.notificationCenter,
-			renderTo: 'header'
+			loc: Page.location,
+			user: getCurrentUser(),
+			renderTo: document.body
 		};
 		cfg = apply(cfg, Page.headerCfg);
 		
 		Page.header = new poca.Header(cfg);
-		
-		$('#static').hide();
-		
 	});
 	
 	</script>
-
-	
-<script>
-	if (location.host.indexOf('www.notey.com') != -1) {
-		(function(i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r;
-			i[r] = i[r] || function() {
-				(i[r].q = i[r].q || []).push(arguments);
-			}, i[r].l = 1 * new Date();
-			a = s.createElement(o),
-			m = s.getElementsByTagName(o)[0];
-			a.async = 1;
-			a.src = g;
-			m.parentNode.insertBefore(a, m);
-		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-		ga('create', 'UA-40740055-2', 'notey.com');
-		ga('set', 'userId', getCurrentUser().userId); // Set the user ID using signed-in user_id.
-		ga('send', 'pageview');
-	}</script>
 
 	
 <title>Notey - Privacy</title>
@@ -240,6 +251,35 @@
 		</style>
 
 	
+<script>
+	if (location.host.indexOf('www.notey.com') != -1) {
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments);
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m);
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+		
+		$().ready(function(){
+			ga('create', 'UA-40740055-2', 'notey.com');
+			if(window.getCurrentUser && isLoggedIn()){
+				ga('set', 'userId', getCurrentUser().userId); // Set the user ID using signed-in user_id.
+			}
+			ga('set', 'transport', 'beacon');
+			ga('send', 'pageview', {
+				'hitCallback': function() {
+					ga.pageviewSent = true;
+				}
+			});
+		});
+	}</script>
+
+	
 </head>
 <body>
 	
@@ -249,53 +289,55 @@
 	
 	
 	
+	<script src="/js/fragment/header.premiumarticle.min.js?F503208915363GIPRXV=_"></script>
 	
-	<script src="/js/quiz.min.js?F114368105055WRWS4U=_"></script>
+	<script src="/js/react/apps.min.js?F503208915363GIPRXV=_"></script>
+
+	<script src="/js/lib/rangy.min.js?F503208915363GIPRXV=_"></script>
+	
 
 	
 	
 	
 	
-	<span id="suData" style="display:none">{"errors":{},"location":{"country":"United States","subdivision":"Virginia","city":"Reston","latitude":38.96872,"longitude":-77.3411},"isError":false,"k":"veqpiYOXWiQPE5Nt73aANl46wy0=","simpleUser":{"displayName":"","userId":-1,"username":"","email":"","photoPath":"","status":-1,"userType":0,"relation":0,"activityCount":0,"firstTimeLogin":false,"hasTwAc":false,"hasFbAc":false,"hasIgAc":false,"masterAdmin":false}}</span>
+	
+	
+	
+	<span id="suData" style="display:none">{"errors":{},"location":{"country":"United States","state":"California","city":"San Francisco","latitude":37.77493,"longitude":-122.41942,"photoPath":"https://9629f568df7d267af0c6-00ec22ed68eba45fdbe4d344e3f0d92c.ssl.cf1.rackcdn.com/3_12114_99ad5cb6.jpg","locationId":12114,"value":"San Francisco","label":"United States, California, San Francisco"},"pathname":"/privacy.html","isError":false,"isBusiness":false,"k":"aSehTtp5dyK2EndUtSQ5mspvnGc=","simpleUser":{"displayName":"","userId":-1,"username":"","email":"","photoPath":"","status":-1,"userType":0,"relation":0,"activityCount":0,"firstTimeLogin":false,"hasTwAc":false,"hasFbAc":false,"hasIgAc":false,"publisher":false,"masterAdmin":false,"admin":false}}</span>
 	<script>
 		(function(){
 			var data = getJsonFromDom('suData');
 			Page.currentUser = data.simpleUser;
+			Page.originalUser = data.originalUser;
+			Page.business = data.business;
+			Page.isBusiness = data.isBusiness;
+			Page.pathname = data.pathname;
+			Page.topic = data.topic;
+			Page.writer = data.writer;
+
+			if(data.originalUser){
+				data.originalUser.magazineRole = data.magazineRole;
+			}
+			
+			poca.i18n.init();
 			Page.k = data.k;
-			Page.location = Object.assign({
+			Page.location = data.location?Object.assign({
 				label: [data.location.city,data.location.state,data.location.country].reduce(function(o,v){return o||v;},null),
 				countryCode: getCountryCodeFromName(data.location.country),
-			}, data.location);
+			}, data.location):null;
 		})();
 	</script>
-	
-	<div class="header" id="header"></div>
 	
 		
 	<div id="fb-root"></div>
 	
+	<script defer="" async="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBM6b15WaxGOYrx7SQUo6DMp65PHBJQwgg&amp;callback=onLoadGMapApi"></script>
 
 	<a rel="publisher" href="https://plus.google.com/101566792258253645992"></a>
 	
-	<script type="text/javascript" src="//static.getclicky.com/js"></script>
-	<script type="text/javascript">try{ clicky.init(100937624); }catch(e){}</script>
-	<noscript><p><img src="//in.getclicky.com/100937624ns.gif" height="1" width="1" alt="Clicky"></p></noscript>
+ 	
 
-<script type="text/javascript">
- var _paq = _paq || [];
- _paq.push(['trackPageView']);
- _paq.push(['enableLinkTracking']);
- (function() {
-   var u="//ec2-52-23-206-144.compute-1.amazonaws.com/piwik/";
-   _paq.push(['setTrackerUrl', u+'piwik.php']);
-   _paq.push(['setSiteId', 1]);
-   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-   g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
- })();
-</script>
-<noscript><p><img alt="" style="border:0;" src="//ec2-52-23-206-144.compute-1.amazonaws.com/piwik/piwik.php?idsite=1"></p></noscript>
-
-	
+ 	
 	
 
 	
@@ -525,30 +567,31 @@
 		<div class="footer-inner">
 			<div class="footer-col">
 				<div class="footer-item-title font-pnsb">ABOUT US</div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/about.html">What is Notey?</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/about.html">What is Notey?</a></div>
 				
-				<div class="footer-item font-pnl"><a class="footer-link" href="/about_team.html">Team</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/faq.html">FAQ</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/widgets.html">Widgets</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/about_team.html">Team</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/faq.html">FAQ</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/widgets.html">Widgets</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/@thelaunch">The Launch</a></div>
 			</div>
 			<div class="footer-col">
 				<div class="footer-item-title font-pnsb">LEGAL</div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/terms.html">Terms of Service</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/privacy.html">Privacy Policy</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/dmca.html">DMCA Notice</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/terms.html">Terms of Service</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/privacy.html">Privacy Policy</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/dmca.html"><span></span></a></div>
 			</div>
 			<div class="footer-col">
-				<div class="footer-item-title font-pnsb">GET IN TOUCH</div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="mailto:info@notey.com">Contact Us</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="mailto:info@notey.com">Feedback</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/partnerships.html">Brand &amp; Partnerships</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/press.html">Press</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="/jobs.html">Jobs &amp; Careers</a></div>
+				<div class="footer-item-title font-pnsb">Get In Touch</div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="mailto:info@notey.com">Contact Us</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="mailto:info@notey.com">Feedback</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/partnerships.html"><span></span></a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/press.html">Press</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="/jobs.html">Jobs</a></div>
 			</div>
 			<div class="footer-col">
-				<div class="footer-item-title font-pnsb">DOWNLOAD</div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="https://itunes.apple.com/us/app/notey/id545231215?mt=8">iPhone</a></div>
-				<div class="footer-item font-pnl"><a class="footer-link" href="https://itunes.apple.com/us/app/notey/id545231215?mt=8">iPad</a></div>
+				<div class="footer-item-title font-pnsb">Download</div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="https://itunes.apple.com/us/app/notey/id545231215?mt=8">iPhone</a></div>
+				<div class="footer-item font-pnl"><a class="footer-link" rel="nofollow" href="https://itunes.apple.com/us/app/notey/id545231215?mt=8">iPad</a></div>
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -564,16 +607,29 @@
 			});
 			</script>
 			<style type="text/css">#footerDemoLangSelect:after{position:absolute;right:8px;top:0px;color:#999;font-size:10px;font-family:'FontAwesome';content:'\F0D7';}</style>
-			<div style="display:none;float:left;position:relative;margin-right:10px;" id="footerDemoLangSelect"><select style="border-radius:0;border:0;-webkit-appearance:none;padding:4px 10px;background-color:#555;color:#fff;font-size:12px;"><option>Bahasa Indonesia</option><option>Bahasa Melayu</option><option>Català</option><option>Dansk</option><option>Deutsch</option><option selected="">English</option><option>Español</option><option>Eλληνικά</option><option>Français</option><option>Italiano</option><option>Magyar</option><option>Nederlands</option><option>Norsk</option><option>Polski</option><option>Português</option><option>Suomi</option><option>Svenska</option><option>Türkçe</option><option>Íslenska</option><option>Čeština</option><option>Русский</option><option>ภาษาไทย</option><option>中文 (简体)</option><option>中文 (繁體)</option><option>日本語</option><option>한국어</option></select></div>
+			<div style="display:none;float:left;position:relative;margin-right:10px;" id="footerDemoLangSelect"><select style="border-radius:0;border:0;-webkit-appearance:none;padding:4px 10px;background-color:#555;color:#fff;font-size:12px;" id="lang_menu">
+				<option value="in">Bahasa Indonesia</option>
+				<option value="en">English</option>
+				<option value="cn">中文 (简体)</option>
+				<option value="tw">中文 (繁體)</option>
+			</select></div>
+			<script>$().ready(function(){
+				$('#lang_menu').val(getUILanguage());
+				$('#lang_menu').on('change',function(event,target){
+					if(event.target.value){
+						poca.i18n.setLanguage(event.target.value);
+					}
+				});
+			});</script>
 			
-			<div class="footer-disclaimer float-left font-pnsb">2016 NOTEY LIMITED</div>
-			<div class="footer-follow float-right">
-				<span class="">Follow Notey</span>
+			<div class="footer-disclaimer float-left font-pnsb">2017 NOTEY LIMITED</div>
+			<div class="footer-follow float-right share-widget-mono share-widget-mono-white">
+				<span class="">Follow Notey
 				<a href="https://www.facebook.com/teamnotey" class="footer-sq-icon share-widget-btn clickable share-widget-fb-btn" target="_blank"></a>
 				<a href="https://twitter.com/teamnotey" class="footer-sq-icon share-widget-btn clickable share-widget-tw-btn" target="_blank"></a>
 				<a href="http://instagram.com/teamnotey" class="footer-sq-icon share-widget-btn clickable share-widget-ig-btn" target="_blank"></a>
 				<a href="https://www.pinterest.com/noteyteam" class="footer-sq-icon share-widget-btn clickable share-widget-pin-btn" target="_blank"></a>
-			</div>
+			</span></div>
 		</div>
 	</div>
 	<script>
@@ -587,6 +643,7 @@
 
 	
 	
+
 
 
 
