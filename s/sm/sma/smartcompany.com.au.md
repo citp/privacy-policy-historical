@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161414id_/http%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903135842id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCompany
 
-The website [http://www.smartcompany.com.au](http://www.smartcompany.com.au/) and the SmartCompany eNewsletter are published by Private Media Pty Ltd (ACN 102 933 362) ( **Private Media** ). In this policy, “us” “we” or “our” means Private Media.
+The website [https://www.smartcompany.com.au](https://www.smartcompany.com.au/) and the SmartCompany eNewsletter are published by Private Media Pty Ltd (ACN 102 933 362) ( **Private Media** ). In this policy, “us” “we” or “our” means Private Media.
 
 This policy sets out how Private Media collects and handles your personal information.
 
