@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502171635id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903211826id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
 # Crowdfunding on Milaap | Privacy Policy | Milaap
 
@@ -64,7 +64,7 @@ By using the Website and/ or by providing your information, you consent to the c
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Athira   
+Vrushali   
 Milaap Social Ventures India Private Limited   
 549, 26th Main, 14th Cross, J P Nagar Phase I,   
 Bangalore, Karnataka, India   
