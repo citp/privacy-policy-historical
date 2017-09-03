@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imwarriors.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625081306id_/http%3A//imwarriors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imwarriors.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903154940id_/http%3A//imwarriors.com/privacy.html) for the most accurate reproduction.*
 
 # Educating The World On Their Personal Finances!
 
