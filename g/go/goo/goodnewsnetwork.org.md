@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121849id_/http%3A//www.goodnewsnetwork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903161702id_/https%3A//www.goodnewsnetwork.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good News Network
 
-[Home](http://www.goodnewsnetwork.org/) Privacy Policy
+[Home](https://www.goodnewsnetwork.org/) Privacy Policy
 
 This Privacy Policy governs the manner in which Good News Network collects, uses, maintains and discloses information collected from any “User” of the [www.goodnewsnetwork.org](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org) website (“Site”). This privacy policy applies to the Site and all products and services offered by Good News Network.
 
@@ -65,7 +65,7 @@ Good News Network has the discretion to update this privacy policy at any time. 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.goodnewsnetwork.org/terms-and-conditions.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.goodnewsnetwork.org/terms-and-conditions.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
