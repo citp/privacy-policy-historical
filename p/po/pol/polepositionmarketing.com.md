@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517094802id_/https%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904010847id_/https%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Pole Position Marketing
+# Digital Marketing Agency Pole Position Marketing's Privacy Policy
 
 This privacy policy covers all Pole Position Marketing web properties. Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information.
 
