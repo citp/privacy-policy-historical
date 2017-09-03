@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuronation.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183739id_/https%3A//www.neuronation.com/lp/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuronation.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903030130id_/https%3A//www.neuronation.com/lp/data_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
