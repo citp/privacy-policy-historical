@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemistryworld.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129095453id_/https%3A//www.chemistryworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistryworld.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903162527id_/https%3A//www.chemistryworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Information | Chemistry World
 
@@ -150,37 +150,6 @@ If you prefer, it is possible to disable cookies by modifying the settings in yo
 
 The following table provides guidance on disabling cookies on a variety of browsers and mobile devices.
 
-Browser guidance| Mobile device guidance  
----|---  
-  
-[Internet Explorer cookies](http://support.microsoft.com/kb/278835)
-
-| 
-
-[iOS cookies](http://support.apple.com/kb/HT1677)  
-  
-[Chrome cookies](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
-
-| 
-
-[Android cookies](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)  
-  
-[Safari cookies](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
-
-| 
-
-[Windows phone cookies](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)  
-  
-[Firefox cookies](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
-
-| 
-
-[Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)  
-  
-[Opera cookies](http://www.opera.com/browser/tutorials/security/privacy/)
-
-|    
-  
 ### Opting out
 
 To find out more about cookies please view the [Information Commissioner’s Office guide to cookies](http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies).
