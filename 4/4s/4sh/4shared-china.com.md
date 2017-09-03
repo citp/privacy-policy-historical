@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607085733id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903203925id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -12,7 +12,8 @@ We reserve the right to change the provisions of this Policy at any time. We wil
 
 The following types of information may be collected while you use our Digital Properties:  
 \- Personal information you choose to provide to us such as your name, mailing address, and email address.  
-\- Non-personal information including, but not limited to, browser type, IP address, mobile device type and identifier, screen resolution, operating system, the date and time of a visit or use, the pages visited on this Service and areas accessed in the App, the time spent viewing the Digital Properties, and return visits to the Digital Properties.  
+\- Non-personal information including, but not limited to, location, browser type, IP address, mobile device type and identifier, screen resolution, operating system, the date and time of a visit or use, the pages visited on this Service and areas accessed in the App, the time spent viewing the Digital Properties, and return visits to the Digital Properties.  
+\- Wireless Network usage information including, but not limited to, network performance, mobile identity, and network access point identifier.  
 \- Aggregated information as you and others browse and use our Digital Properties.
 
 We may also automatically collect certain information through the use of "cookies", beacons and other similar technology to improve the Service and your experience. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service.The use of cookies and beacons by our partners is not covered by our privacy statement. We do not have access or control over these cookies.
@@ -25,7 +26,10 @@ The information we collect may be used for such purposes as:
 \- To operate our Digital Properties and improve your experience.  
 \- To identify or repel possible threats to Digital Properties security.  
 \- To conduct research about Digital Properties usage.  
-\- For advertising purposes in order to deliver the most relevant ads to you.
+\- For advertising purposes in order to deliver the most relevant ads to you.  
+\- To plan and evaluate wireless networks.  
+\- To analyze aggregate consumer trends.  
+\- To conduct cybersecurity research.
 
 **Analytics and Research Services**
 
@@ -46,6 +50,8 @@ Digital Advertising Alliance EU (EDAA) – [www.youronlinechoices.com](http://ww
 DAA AppChoices page – [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices)
 
 Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.
+
+**Anonymous Data Collection:** Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information. You will see the ↓ icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market research purposes. For further information Airpush, Inc.’s data collection and use practices, please see Airpush, Inc.’s [Technology Privacy Statement](http://www.airpush.com/technology_privacy/) and [Privacy Policy](http://www.airpush.com/privacypolicy/). You may opt-out of interest-based ads by clicking [here](https://optout.mobi.info/).
 
 **Security**
 
