@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322203041id_/https%3A//www.libertytax.com/online/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903182855id_/https%3A//www.libertytax.com/online/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Liberty Tax Service
 
