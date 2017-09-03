@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedpxxx.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214174225id_/https%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedpxxx.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903185938id_/https%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
 
 # Digital Playground :: Privacy Policy
 
@@ -10,7 +10,7 @@ _Last Modified: July  29, 2016_
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy.
 
-This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.digitalplayground.com](http://www.digitalplayground.com/) (hereinafter " **DigitalPlayground** " or the " **Website** "), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures.
+This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.digitalplayground.com](https://www.digitalplayground.com/) (hereinafter " **DigitalPlayground** " or the " **Website** "), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures.
 
 We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy.
 
@@ -223,13 +223,13 @@ We want you to feel confident using our Website. However, no system can be compl
 
 **USER CONTRIBUTIONS**
 
-We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, audio files, etc.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <http://www.dpincsupport.com/terms-of-service/>. If you use a forum, blog, channel, bulletin board, chat room, user commenting features, or other interactive sharing or social features that may be offered through our Website, you should be aware that any personal information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction, except to the extent limited access features are available, if any. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. If you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information. To request removal of your personal information from our blog, sharing service or community forum, for example, send us an e-mail at [http://www.dpincsupport.com](http://www.dpincsupport.com/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, audio files, etc.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <https://support.digitalplayground.com/terms-of-service/>. If you use a forum, blog, channel, bulletin board, chat room, user commenting features, or other interactive sharing or social features that may be offered through our Website, you should be aware that any personal information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction, except to the extent limited access features are available, if any. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. If you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information. To request removal of your personal information from our blog, sharing service or community forum, for example, send us an e-mail at [support.digitalplayground.com](https://support.digitalplayground.com/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **ACCESSING AND CORRECTING YOUR INFORMATION**
 
-You may, at any time, send us an e-mail at <http://www.dpincsupport.com/> to request access to, correct or delete certain personal information that you have provided to us, except personal information or data that is necessary for administration purposes or for fraud prevention measures. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may, at any time, send us an e-mail at <https://support.digitalplayground.com/> to request access to, correct or delete certain personal information that you have provided to us, except personal information or data that is necessary for administration purposes or for fraud prevention measures. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use found at <http://www.dpincsupport.com/terms-of-service/>.
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use found at <https://support.digitalplayground.com/terms-of-service/>.
 
 **FINANCIAL INFORMATION**
 
@@ -243,7 +243,7 @@ By using any third party services to log in to your account or access our Websit
 
 **CHANGES TO OUR PRIVACY POLICY**
 
-We may modify or revise our privacy policy from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <http://www.digitalplayground.com/docs/pp/>, so you are aware of any changes, as they are binding on you.
+We may modify or revise our privacy policy from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <https://www.digitalplayground.com/docs/pp/>, so you are aware of any changes, as they are binding on you.
 
 If we change anything in our privacy policy, the date of change will be reflected in the "last modified date". You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones.
 
@@ -251,7 +251,7 @@ All changes are effective immediately when we post them, and apply to all access
 
 **ENFORCEMENT**
 
-We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of personal information by contacting us through this Website at <http://www.dpincsupport.com/>. When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by an individual and us.
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of personal information by contacting us through this Website at <https://support.digitalplayground.com/>. When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by an individual and us.
 
 **NO RIGHTS OF THIRD PARTIES**
 
@@ -259,7 +259,7 @@ This privacy policy does not create rights enforceable by third parties or requi
 
 **OUR POLICY TOWARDS CHILDREN**
 
-Our Website is not directed to children. If you become aware that your child has provided us with personal information, please contact us at <http://www.dpincsupport.com/>. We do not knowingly collect personal information from children. If we become aware that a child has provided us with personal information, we take steps to remove such information and terminate the child’s account.
+Our Website is not directed to children. If you become aware that your child has provided us with personal information, please contact us at <https://support.digitalplayground.com/>. We do not knowingly collect personal information from children. If we become aware that a child has provided us with personal information, we take steps to remove such information and terminate the child’s account.
 
 **NO ERROR FREE PERFORMANCE**
 
@@ -267,7 +267,7 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 **CONTACT INFORMATION**
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at <http://www.dpincsupport.com/>.
+If you have any questions about this privacy policy or our information-handling practices, please contact us at <https://support.digitalplayground.com/>.
 
 Digitalplayground.com  
 ©Copyright 2017  
