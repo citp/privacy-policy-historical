@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcf.org privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131001728id_/https%3A//www.pcf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcf.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903195729id_/https%3A//www.pcf.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – PCF
+# Privacy Policy - PCF
 
 The Prostate Cancer Foundation respects your privacy and is committed to protecting it. We provide this statement to inform you of our privacy policy and practices. 
 
