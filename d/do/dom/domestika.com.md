@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domestika.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220227id_/http%3A//www.domestika.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domestika.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903190707id_/https%3A//www.domestika.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Domestika
 
@@ -65,7 +65,7 @@ We may use and disclose your Personal Information only as follows:
   6. **To meet legal requirements** like complying with court orders and valid subpoenas.
   7. **To provide information to representatives and advisors** , like attorneys and accountants, to help us comply with legal, accounting, or security requirements.
   8. **To prosecute and defend a court, arbitration, or similar proceeding.**
-  9. **To support and improve the Services we offer**. This includes adding new features to our current Services
+  9. **To support and improve the Services we offer**. This includes adding new features to our current Services.
   10. **To communicate with you about your account for informational** , not promotional, reasons.
   11. **To transfer your information in the case of a sale, merger, consolidation, or acquisition**. In the event that we are acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
   12. **To send you informational and promotional content that you may choose (or "opt in") to receive**. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
@@ -84,11 +84,11 @@ We have public forums on our Site. Any information you include in your bio, in a
 
 If your personal information appears on our forums and you’d like it to be removed, contact us by sending an email to [privacyofficer@domestika.org](mailto:privacyofficer@domestika.org). If we’re not able to remove your information, we’ll let you know why.
 
-  2. ### Social Media Widgets.
+  2. ### Social Media Widgets
 
 Our Site includes social media features, like the Pinterest button. These features may collect information about your IP address and which page you’re visiting on our Site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
-  3. ### Links to Third-Party Sites.
+  3. ### Links to Third-Party Sites
 
 Our Site includes links to other websites, whose privacy practices may be different from Domestika’s. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
@@ -159,7 +159,7 @@ If something bad happens we will notify you.
 
 We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Site at any time after such modifications, you are agreeing to such modifications.
 
-In the event that we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and/or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Site for 30 days.
+In the event that we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and/or other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we ever intend to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days.
 
 Privacy policy may change.
 
