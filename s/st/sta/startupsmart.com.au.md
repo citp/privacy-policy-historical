@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310011717id_/http%3A//www.startupsmart.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903135842id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - StartupSmart
+# Privacy Policy - SmartCompany
 
-The website [http://www.startupsmart.com.au](http://www.startupsmart.com.au/) and the StartupSmart eNewsletter are published by Private Media Pty Ltd (ACN 102 933 362) (Private Media). In this policy, “us” “we” or “our” means Private Media.
+The website [https://www.smartcompany.com.au](https://www.smartcompany.com.au/) and the SmartCompany eNewsletter are published by Private Media Pty Ltd (ACN 102 933 362) ( **Private Media** ). In this policy, “us” “we” or “our” means Private Media.
 
 This policy sets out how Private Media collects and handles your personal information.
 
