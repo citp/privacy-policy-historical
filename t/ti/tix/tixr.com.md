@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tixr.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226053123id_/https%3A//www.tixr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tixr.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903221743id_/https%3A//www.tixr.com/privacy) for the most accurate reproduction.*
 
-# Tixr | Privacy policy | Love Your Ticket
+# Tixr | Privacy Policy | Love Your Ticket
 
 At Tixr, we want you to **love** your ticket.
 
@@ -8,7 +8,7 @@ To make sure this happens, we use technology to learn what you like and want. Wh
 
 Here's an overview of what we do. If it's not right for you, you don't have to use our services. If you go ahead and use them (and we hope you do), then you are agreeing to the policy we've set here and in our site's [terms of service](https://web.archive.org/termsofservice).
 
-If you have any questions, give us a shout at [support@tixr.com](mailto:support@tixr.com)
+If you have any questions, give us a shout at [Tixr Support](https://tixr.desk.com/).
 
 ### WHAT WE COLLECT:
 
@@ -35,12 +35,13 @@ If you have any questions, give us a shout at [support@tixr.com](mailto:support@
   * \- Enhance our site, service, and security
   * \- Customize your Tixr experience to show you the most relevant content
   * \- Figure out trends in how people use our products
-  * \- Use it to shape our marketing (email promotions, special offers, and new events and products you might find interesting—but can always opt out of)
+  * \- Use it to shape our marketing (email promotions, special offers, and new events and products you might find interestingâbut can always opt out of)
   * \- Share information with artists and venues want to communicate directly with you
   * \- Send relevant details to the vendors and business partners who help keep our site operating
   * \- Fight and eliminate fraud
   * \- If necessary, use it to comply with any subpoena or court order as required by law.
   * \- In the event our company is acquired, we'll share the info weâve collected with the new owner.
+  * \- We may use third-party advertising companies to collect data and/or serve ads when you visit our Sites. These companies may use information about your visits to this and other websites or applications in order to provide advertisements about goods and services of interest to you. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third-party companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/). You may also control the use of information on mobile applications by reviewing the privacy settings for your mobile device.
 
 
 
@@ -52,7 +53,7 @@ If you have any questions, give us a shout at [support@tixr.com](mailto:support@
   * \- You can control our tracking tools by disabling them in your browser.
   * \- You can opt out of Facebook or other social-media plugins.
   * \- You can limit the advertising presented to you.
-  * \- If you live in California, each year you can email us at [support@tixr.com](mailto:support@tixr.com) to make a "California Shine the Light" inquiry, requesting a list of third parties with whom weâve shared your information. We'll respond within 30 days.
+  * \- If you live in California, each year you can contact us at [Tixr Support](https://tixr.desk.com/) to make a "California Shine the Light" inquiry, requesting a list of third parties with whom weâve shared your information. We'll respond within 30 days.
 
 
 
@@ -81,7 +82,7 @@ If you have any questions, give us a shout at [support@tixr.com](mailto:support@
 ### UNDER THE AGE OF 13?
 
   * \- Tixr is not intended to be used by children under the age of 13.
-  * \- If you are a legal guardian of a child under 13 who may have given us information, you can email us at [support@tixr.com](mailto:support@tixr.com) with your COPPA Information Request.
+  * \- If you are a legal guardian of a child under 13 who may have given us information, you can contact us at [Tixr Support](https://tixr.desk.com/) with your COPPA Information Request.
 
 
 
@@ -94,7 +95,7 @@ If you have any questions, give us a shout at [support@tixr.com](mailto:support@
 
 ### WE WANT TO HEAR FROM YOU:
 
-If you have questions or comments, you can contact us at [support@tixr.com](mailto:support@tixr.com), or at:
+If you have questions or comments, you can contact us at [Tixr Support](https://tixr.desk.com/), or at:
 
 > Tixr  
 >  1334 3rd Street Suite 302  
