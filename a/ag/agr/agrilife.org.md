@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627215853id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903204428id_/https%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Texas A&M AgriLife
 
