@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruralking.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311022202id_/http%3A//www.ruralking.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruralking.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903070436id_/https%3A//www.ruralking.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Rural King
 
