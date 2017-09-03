@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215241id_/https%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903120602id_/https%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
 
-# Our Policies | TechRaptor
+# Our Policies
 
 This Privacy Policy governs the manner in which TechRaptor collects, uses, maintains and discloses information collected from users (each, a “User”) of the techraptor.net website (“Site”). This privacy policy applies to the Site and all products and services offered by TechRaptor.
 
