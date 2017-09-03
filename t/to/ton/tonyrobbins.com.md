@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonyrobbins.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630180450id_/https%3A//www.tonyrobbins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonyrobbins.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903120925id_/https%3A//www.tonyrobbins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tony Robbins
 
