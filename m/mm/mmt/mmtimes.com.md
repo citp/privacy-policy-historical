@@ -1,69 +1,67 @@
-> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623175027id_/http%3A//www.mmtimes.com/index.php/component/content/article%3Fid%3D2799) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903042417id_/https%3A//www.mmtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Myanmar Times
-
-  * [](http://www.mmtimes.com/index.php/imimobile-smsc/celebrity-news/2799-privacy-policy.html?tmpl=component&print=1&layout=default&page= "Print")
-
-
-
-     By The Myanmar Times   |   Monday, 01 October 2012 
-
-Effective **October 25, 2012**
+# Privacy Policy | The Myanmar Times
 
 **Fair Use Policy**
 
 Sites who re-post our news must:
 
-1) Attribute to use using the correct date, author name, and cite _The Myanmar Times_
+1) Attribute to use using the correct date, author name, and cite  _The Myanmar Times_
 
-2) link directly to the original article
+2) link directly to the original article  
+ 
 
 **Our Commitment To Privacy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
+ 
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on _The Myanmar Times_ website. On some pages, you can register, subscribe, make requests, and post comments. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on  _The Myanmar Times_  website. On some pages, you can register, subscribe, make requests, and post comments. The types of personal information collected at these pages are:
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.) 
+Name   
+Address   
+Email address   
+Phone number   
+Credit/Debit Card Information   
+(etc.)
 
-On some pages, you can submit information about other people. For example, if you subscribe online and want the Phnom Penh Post sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+On some pages, you can submit information about other people. For example, if you subscribe online and want the Phnom Penh Post sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
-Name   
-Address   
-Phone Number   
-(etc.) 
+Name   
+Address   
+Phone Number   
+(etc.)   
+ 
 
 **The Way We Use Information**
 
-We use the information you provide about yourself when registering with the website in order to give you access to additional feature and functionalities which are not accessible to anonymous users. We do not share this information with outside parties except to the extent necessary to provide you with those feature and functionalities. 
+We use the information you provide about yourself when registering with the website in order to give you access to additional feature and functionalities which are not accessible to anonymous users. We do not share this information with outside parties except to the extent necessary to provide you with those feature and functionalities.
 
-We use the information you provide about someone else when registering/subscribing only to mail/grant access to _The Myanmar Times_. We do not share this information with outside parties except to the extent necessary to complete or process that registration/subscription. 
+We use the information you provide about someone else when registering/subscribing only to mail/grant access to  _The Myanmar Times_. We do not share this information with outside parties except to the extent necessary to complete or process that registration/subscription.
 
-We offer the ability to post comments, and to engage in interactive forums. Information you provide to us to gain access to these interactive features is only used for that purpose. 
+We offer the ability to post comments, and to engage in interactive forums. Information you provide to us to gain access to these interactive features is only used for that purpose.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.   
+ 
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
+ 
 
 **Our Commitment To Children's Privacy**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.   
+ 
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by login. You can review and update the information you have posted about yourself by accessing the different sub-menus of this section. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by login. You can review and update the information you have posted about yourself by accessing the different sub-menus of this section. We use this procedure to better safeguard your information.
 
-You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
