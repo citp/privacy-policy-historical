@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amchamchina.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129214813id_/https%3A//www.amchamchina.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amchamchina.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903144343id_/https%3A//www.amchamchina.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AmCham Business Center
 
@@ -12,7 +12,7 @@ We collect information to provide, maintain and improve our services to all of o
 
 When you join AmCham China, you provide us with personal information and information about the company you work for, some of which is required by law and some of which helps the chamber provide better services to its members. 
 
-We will also gather information about those from our member companies who use our Business Visa Service to help us process their applications.  
+We will also gather information about those from our member companies who use our Business Visa Service to help us process their applications.  
 
 If you just visit our website, you may also provide us with some information when you conduct tasks such as signing up for our email newsletters or downloading various materials from the website. Coding in the website will also gather information such as where you are accessing from, what kind of systems you are using and what pages you visit that is used in aggregated traffic analytics.
 
@@ -43,9 +43,9 @@ We use the information:
 
 **_Who We Share the Information With_**
 
-In our Membership Directory, which we may sell or otherwise distribute to people outside the chamber, we acknowledge your membership of the chamber and provide general contact information for the company you work for. Otherwise, we don’t sell or distribute your information to third parties.
+In our Membership Directory, which we may sell or otherwise distribute to people outside the chamber, we acknowledge your membership of the chamber and provide general contact information for the company you work for.
 
-However, we do share your information with third parties as described below:
+We do share your information with third parties as described below:
 
   * As part of our Business Visa Service, we share with the US Embassy personal information that you provide us.
   * Third-party website developers have access to your information to help us analyze it and provide better services.
@@ -53,11 +53,15 @@ However, we do share your information with third parties as described below:
 
 
 
+When you provide your personal information on our website, you agree to our collection, use and provision of your information to third parties.
+
 We **_don’t_** share personal information about you to third-party sites that help us conduct financial transactions. Nevertheless, you will likely provide them with sensitive information, and while we’ve done our best to ensure our partners’ systems are secure, we also can’t take responsibility for any unauthorized intrusions or system failures they suffer.
 
 **_P_** ** _rotecting_** ** _Y_** ** _our_** ** _I_** ** _nformation_**
 
-We take precautions to ensure your information is protected, but cannot guarantee that unauthorized intrusion or system failures won’t compromise the security of the data we hold.
+We take precautions to ensure your information is protected, but cannot guarantee that unauthorized intrusion or system failures won’t compromise the security of the data we hold. We use commercially reasonable efforts to cause our partners (including third party website developers) to protect your personal information in the event such information is collected or maintained by or shared with them.
+
+We will notify you of any actual or potential leak, damage or loss of your personal information and take immediate remedial measures.
 
 **_Our U_** ** _se of_** ** _C_** ** _ookies_**
 
