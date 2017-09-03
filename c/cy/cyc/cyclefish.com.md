@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111011432id_/https%3A//cyclefish.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903045421id_/https%3A//www.cyclefish.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CycleFish.com
 
