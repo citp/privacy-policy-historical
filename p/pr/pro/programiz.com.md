@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the programiz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013243id_/http%3A//www.programiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programiz.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903080228id_/https%3A//www.programiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for programiz.com
+# Privacy Policy
 
-The following statements describes the privacy practices for programiz.com:
+The following statements describes the privacy practices for Programiz:
 
   * We do not collect any personal information from our users.
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
@@ -13,7 +13,7 @@ The following statements describes the privacy practices for programiz.com:
 
 ## Personal User Information
 
-programiz.com requires no user registration. Users are free to visit programiz.com, and navigate.
+Programiz requires no user registration. Users are free to visit Programiz, and navigate.
 
 ## Cookies
 
@@ -25,8 +25,4 @@ We use cookies to compile visitor statistics such as how many people have visite
 
 ## Advertising
 
-programiz.com uses different advertising agencies to server online ads.
-
-## Links
-
-programiz.com contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. This privacy document applies only to programiz.com.
+Programiz uses different advertising agencies to server online ads.
