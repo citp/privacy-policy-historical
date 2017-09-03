@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paranatural.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031100id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dparanatural.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paranatural.net privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903150528id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dparanatural.net) for the most accurate reproduction.*
 
 # Hiveworks Comics Privacy Policy
 
