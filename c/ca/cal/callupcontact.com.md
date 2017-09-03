@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callupcontact.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131536id_/http%3A//www.callupcontact.com/documents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callupcontact.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903183019id_/http%3A//www.callupcontact.com/documents/privacy.php) for the most accurate reproduction.*
 
 # Callupcontact Privacy Policy
 
