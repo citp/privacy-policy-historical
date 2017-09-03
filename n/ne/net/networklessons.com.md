@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the networklessons.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518000147id_/http%3A//networklessons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networklessons.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903155828id_/https%3A//networklessons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Networklessons.com
+# Privacy Policy | NetworkLessons.com
 
 At networklessons.com we respect your privacy and take protecting it seriously. This privacy policy covers our collection, use and disclosure of information we collect through our website. The use of information collected through our service shall be limited to the purpose of providing the service for which the user has engaged networklessons.com.
 
@@ -57,7 +57,7 @@ We use this information (which does not identify individual users) to analyze tr
 
 ### Testimonials
 
-We post customer testimonials on our website, which may contain personally identifiable information. We do obtain the customer’s consent to post their name along with their testimonial via email prior to posting the testimonial on our website. However, if you wish to request the removal of your testimonial please [contact us](http://networklessons.com/contact/ "Contact").
+We post customer testimonials on our website, which may contain personally identifiable information. We do obtain the customer’s consent to post their name along with their testimonial via email prior to posting the testimonial on our website. However, if you wish to request the removal of your testimonial please [contact us](https://networklessons.com/contact/ "Contact").
 
 ### Third Party Disclosure
 
@@ -116,10 +116,6 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 ### Contact Us
 
-If there are any questions regarding this privacy policy you may contact us via email at info@networklessons.com or via postal mail at Kreitenmolenstraat 107, 5071 BC Udenhout, The Netherlands.
-
-Learn any networking topic you like...
-
-Over 300+ lessons covering CCNA, CCNP and CCIE R&S topics. 7 day trial for just $1.
+If there are any questions regarding this privacy policy you may contact us via email at info@networklessons.com or via postal mail at Primella 3, 5057 BC Berkel-Enschot, The Netherlands.
 
 [Copyright protected by Digiprove © 2015 Rene Molenaar](http://www.digiprove.com/prove_compliance.aspx?id=P604732)
