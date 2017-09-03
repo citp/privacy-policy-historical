@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txodds.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108120649id_/https%3A//txodds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txodds.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903083124id_/https%3A//txodds.com/privacy-policy) for the most accurate reproduction.*
 
 # TXODDS - odds comparison, xml odds feeds, live odds changes
 
