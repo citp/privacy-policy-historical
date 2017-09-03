@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrackr.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513211001id_/https%3A//www.thetrackr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrackr.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903173518id_/https%3A//www.thetrackr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TrackR
 
@@ -9,7 +9,7 @@ This Application collects some Personal Data from its Users.
 
 ##### Data Controller and Owner
 
-TrackR, Inc. - 19 W. Carrillo St Santa Barbara, CA 93101, support@thetrackr.com
+TrackR, Inc., 7410 Hollister Ave., Suite 110, Goleta, CA 93117, support@thetrackr.com
 
 ##### Types of Data collected
 
