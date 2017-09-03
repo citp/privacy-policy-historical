@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530194728id_/http%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy « LandlordZONE
+# Privacy - LandlordZONE
 
-You are here:
-
-  * [Home](http://www.landlordzone.co.uk/)
-  * Privacy
-
-
-
-**Privacy Policy and Cookies** – Parkmatic Publications Limited trading as LandlordZONE, TenantVERIFY, LandlordMONEY, LandlordDEALS and LandlordABROAD is committed to providing you with the highest quality service.
+**Privacy Policy and Cookies** – Parkmatic Publications Limited trading as LandlordZONE® is committed to providing you with the highest quality service.
 
 This includes maintaining your privacy and protecting your personal data. In addition to our **Website Terms of Use** the following policy explains what we and our associated publications do with the personal data we collect about you.
 
@@ -58,8 +51,7 @@ It is essential that we collect, store and process some of your personal data so
 
 ### 3: How do we use your personal data?
 
-We retain and use your personal data for the following main purposes:  
-
+We retain and use your personal data for the following main purposes:
 
   * we reserve the right to access and disclose your personal data if we are required to do so by law.
   * providing our services, contacting you and servicing our relationship with you; administration and accounting, billing and auditing and other legal purposes;
@@ -78,8 +70,7 @@ Security v1 (TLS) encryption when you submit information to us through our websi
 
 Some older browsers do not allow the use of current SSL technology and we therefore recommend that you use an up-to-date browser for example we recommend Google Chrome. If you use Microsoft Internet Explorer use version 9.0 or later.
 
-You can also help to protect your personal data, by following these guidelines:  
-
+You can also help to protect your personal data, by following these guidelines:
 
   * choose a password that you will be able to remember but that would be hard for someone to guess. Ideally it should include special characters (such as “?” or “#” for example) and numbers. We recommend that you change it regularly and if you need to write it down, always keep it in a safe place; better still use a password manager on your computer which encrypts the information.
   * make sure that no-one can see the details you are entering when you log-in;
@@ -141,8 +132,8 @@ The Help function within your browser should tell you how to do this. However, i
 
 To view any cookies that have been placed on your computer following visits to ours or other websites you can check your browser history.
 
-If you still have any queries or concerns you can [contact us here](http://www.landlordzone.co.uk/2013rd/?page_id=733 "Contact LandlordZONE")
+If you still have any queries or concerns you can [contact us here](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/contact "Contact LandlordZONE")
 
-See our [Website Terms and Conditions of Use](http://www.landlordzone.co.uk/2013rd/?page_id=1663 "Website Terms and Conditions of Use")
+See our [Website Terms and Conditions of Use](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/terms "Website Terms and Conditions of Use")
 
-See our [Advertising Terms and Conditions of Use](http://www.landlordzone.co.uk/2013rd/?page_id=931 "LandlordZONE Advertising Terms and Conditions of Use")
+See our [Advertising Terms and Conditions of Use](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/advertise/advertising-terms-conditions "LandlordZONE Advertising Terms and Conditions of Use")
