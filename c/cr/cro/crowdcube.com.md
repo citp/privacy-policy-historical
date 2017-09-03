@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126170349id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903082013id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
 **CROWDCUBE LIMITED** (“Crowdcube” " **we** ", “ **us** ”) are committed to protecting and respecting your privacy.
 
-****Last Update Effective Date 12/09/2016****
+****Last Update Effective Date 25/07/2017****
 
 This privacy policy applies to the website www.crowdcube.com owned and operated by Crowdcube Limited. This privacy policy describes how Crowdcube collects and uses the personal information you provide on [www.crowdcube.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -12,7 +12,7 @@ This privacy policy applies to the website www.crowdcube.com owned and operated 
 
 We may collect and process the following data about you provided at the time of requesting goods, services or information from us:
 
-  * Information that you provide to us by filling in forms on our site **CROWDCUBE.COM** ( **Our Site** ). This includes Contact Information such as name, email address, mailing address, phone number, Financial Information such as bank or brokerage account numbers, Unique Identifiers such as user name, account number, password, and Preferences Information such as favourites lists, transaction history, marketing preferences. If you chose to list your company with us, we may ask for Information about your business such as company name, company size, business type and personal information such as a professional profile.
+  * Information that you provide to us by filling in forms on our site **CROWDCUBE.COM** ( **Our Site** ). This includes Contact Information such as name, email address, mailing address, phone number, Financial Information such as bank or brokerage account numbers, Unique Identifiers such as user name, account number, password, date of birth and Preferences Information such as favourites lists, transaction history, marketing preferences. If you chose to list your company with us, we may ask for Information about your business such as company name, company size, business type and personal information such as a professional profile.
 
 
   * Information that you provide to us when you write to us (including by email).
