@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signnow.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623211140id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signnow.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903084815id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
 
-# Barracuda Policies - Barracuda Networks
+# Barracuda Networks Privacy Policy - Barracuda Networks
 
 We recognize and respect your right to privacy. This policy explains how Barracuda Networks (Barracuda) collects and handles data. Please read the following carefully to understand our views and practices regarding your data and how we will treat it.
 
