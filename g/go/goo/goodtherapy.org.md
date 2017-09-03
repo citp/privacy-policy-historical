@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodtherapy.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181738id_/http%3A//www.goodtherapy.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodtherapy.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903105537id_/https%3A//www.goodtherapy.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The last update to our Privacy Policy was posted on February 14, 2017. This Privacy Policy governs the privacy terms of our website, [www.GoodTherapy.org](http://www.goodtherapy.org/). We are committed to maintaining the privacy of GoodTherapy.org Users, Members, and Facilities.
+The last update to our Privacy Policy was posted on February 14, 2017. This Privacy Policy governs the privacy terms of our website, [www.GoodTherapy.org](https://www.goodtherapy.org/). We are committed to maintaining the privacy of GoodTherapy.org Users, Members, and Facilities.
 
 GoodTherapy.org provides a public service to individual consumers who may access the GoodTherapy.org website (“Users”) for mental health information, to find a mental health provider listed in the GoodTherapy.org Therapist Directory (“Members”), or to seek inpatient or outpatient services from a Facility listed in the GoodTherapy.org Rehab and Treatment Center Directory (“Facilities”). 
 
@@ -14,7 +14,7 @@ GoodTherapy.org collects information from Users at a number of different points 
 
 This information is kept confidential and is made available only to (1) trained GoodTherapy.org support team members for purposes of administering GoodTherapy.org, such as moderating for spam or other content that is in violation of GoodTherapy.org terms of service, (2) the Member or Facility to whom the User sends the email. GoodTherapy.org never rents, sells, or gives this information to any other third party.
 
-When a User emails a Member or Facility through the GoodTherapy.org email messaging system, the User is conveniently and automatically emailed a notification when the therapist or Facility has been contacted. Additionally, when a User emails a Member or Facility through the GoodTherapy.org email messaging system, they may opt in to a subscription to our email newsletters. Users may unsubscribe from this email newsletter by completing the unsubscribe form found [here](http://www.goodtherapy.org/unsubscribe.html). 
+When a User emails a Member or Facility through the GoodTherapy.org email messaging system, the User is conveniently and automatically emailed a notification when the therapist or Facility has been contacted. Additionally, when a User emails a Member or Facility through the GoodTherapy.org email messaging system, they may opt in to a subscription to our email newsletters. Users may unsubscribe from this email newsletter by completing the unsubscribe form found [here](https://www.goodtherapy.org/unsubscribe.html). 
 
 (B) When a User calls a Member or Facility through the telephone number posted on the GoodTherapy.org website, standard caller identification information is collected and forwarded to the Member or Facility, and may be stored by GoodTherapy.org for use in administering its services. GoodTherapy.org never rents, sells, or gives this information to any third party.  
 
@@ -77,6 +77,6 @@ If we amend this Privacy Policy, we will update this page so Members, Users, and
 We will also change the "Last Update" date at the end of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of the Last Update date and replace any prior Privacy Policies.
 
 **Questions About Privacy**  
-If you have any questions or suggestions about our privacy practices or this Privacy Policy, please [contact us](http://www.goodtherapy.org/contact-us.html).
+If you have any questions or suggestions about our privacy practices or this Privacy Policy, please [contact us](https://www.goodtherapy.org/contact-us.html).
 
-**Last Update:** 02-14-2017
+**Last Update:** 09-01-2017 
