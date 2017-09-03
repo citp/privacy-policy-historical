@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellnessliving.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325233259id_/https%3A//www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessliving.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903222546id_/https%3A//www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html) for the most accurate reproduction.*
 
 # Wellnessliving.com: Next Generation Business Management Software | Wellness Center Appointment Booking Software
 
