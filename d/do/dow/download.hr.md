@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the download.hr privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423195712id_/http%3A//www.download.hr/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download.hr privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903025732id_/https%3A//www.download.hr/about/privacy) for the most accurate reproduction.*
 
 # Download.hr Privacy Policy
+
+[](https://www.download.hr/) Download.hr Privacy Policy 
+
+### Privacy and Cookies Policy
 
 **The privacy of our visitors to Download.hr is important to us.**
 
