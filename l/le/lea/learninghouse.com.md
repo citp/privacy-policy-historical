@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninghouse.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627094651id_/http%3A//www.learninghouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninghouse.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903192342id_/http%3A//www.learninghouse.com/privacy-policy) for the most accurate reproduction.*
 
 # The Learning House Privacy Policy - The Learning House
 
