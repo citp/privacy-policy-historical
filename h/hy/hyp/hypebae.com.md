@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypebae.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215052449id_/https%3A//hypebae.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebae.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903103413id_/https%3A//hypebae.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HYPEBAE
 
@@ -14,7 +14,7 @@ This Privacy Policy may be modified from time to time so check back often. Your 
 
 ###  1\. Introduction 
 
-Thank you for visiting HYPEBEAST.com. This Privacy Policy is written to better explain how we collect and use your personal data. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms & Conditions in order to use our services. 
+Thank you for visiting HBX.com. This Privacy Policy is written to better explain how we collect and use your personal data. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms & Conditions in order to use our services. 
 
 ###  2\. Personal Data You Provide to Us 
 
