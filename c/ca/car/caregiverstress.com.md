@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165404id_/https%3A//www.homeinstead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903144248id_/https%3A//www.homeinstead.com/privacy-policy) for the most accurate reproduction.*
 
 # Home Instead Senior Care - Privacy Policy
 
