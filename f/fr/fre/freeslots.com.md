@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903232540id_/https%3A//www.freeslots.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
-
-[](https://www.freeslots.com/)  
-  
-[Slots Home](https://www.freeslots.com/)     
-[Free Slots 1](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/slots-1.htm)     
-[Free Slots 2](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/slots-2.htm)     
-[Free Slots 3](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/slots-3.htm)     
-[Free Slots 4](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/slots-4.htm)     
-[Multi-Payline Slots](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/MultiPayline1.htm)     
-[Video Poker](http://www.freevideopoker.com/)     
-[Winners List](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/Winners.htm)     
-[FAQ](https://web.archive.org/web/20170606064417id_/http%3A//www.freeslots.com/FAQ.htm)    | 
 
 **Privacy Policy**
 
