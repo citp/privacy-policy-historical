@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vhlcentral.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504000821id_/https%3A//www.vhlcentral.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhlcentral.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903032804id_/https%3A//www.vhlcentral.com/privacy_policy) for the most accurate reproduction.*
 
 # VHL Central | home: privacy_policy
 
-**This Policy was last updated on May 2, 2016.**
+**This Policy was last updated on June 28, 2017.**
 
 Vista Higher Learning, Inc. (“Vista Higher Learning”, “we”, “us”, or “our”) is committed to protecting your privacy through compliance with this privacy policy (this “Privacy Policy”). This Privacy Policy explains our policies and practices with respect to the information you entrust to us when you use the VHL Digital Products (defined below). Throughout this Privacy Policy, “user”, “you”, or “your” refers to instructors or students who have registered for and are using VHL Digital Products or, if students are under the age of 13, to the parents or legal guardians of those students.
 
@@ -73,7 +73,7 @@ For the avoidance of doubt, Vista Higher Learning will not provide any third par
 
 **Third Parties Who May Receive Your Information**
 
-Vista Higher Learning may share your information with affiliates and third party service providers who assist us in operating our business, servicing our website, or supporting you with your product experience. For example, Vista Higher Learning has engaged AltaVista (“AltaVista”) to provide technical support for our VHL Digital Products. At your request or the request of your instructor or educational institution, AltaVista may request information from or about you in order to provide technical support. AltaVista has agreed to abide by Vista Higher Learning’s Privacy Policy. However, Vista Higher Learning is not responsible for AltaVista or any third party’s implementation of its privacy and security practices.
+Vista Higher Learning may share your information with affiliates and third party service providers who assist us in operating our business, servicing our website, or supporting you with your product experience. For example, Vista Higher Learning has engaged AltaVista (“AltaVista”) and OneLink (“OneLink”) to provide technical support for our VHL Digital Products. At your request or the request of your instructor or educational institution, AltaVista or OneLink may request information from or about you in order to provide technical support. AltaVista and OneLink have agreed to abide by Vista Higher Learning’s Privacy Policy. However, Vista Higher Learning is not responsible for AltaVista, OneLink or any third party’s implementation of its privacy and security practices.
 
 **How We Protect Your Information**
 
@@ -133,4 +133,4 @@ USA
 
 Vista Higher Learning takes concerns about privacy and use of personal information seriously, and will reply as quickly as reasonably possible to any report of concern.
 
-Last Updated 5/2/2016
+Last Updated 6/28/2017
