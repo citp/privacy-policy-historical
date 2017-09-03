@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629163548id_/https%3A//www.splunk.com/en_us/legal/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903031124id_/https%3A//www.splunk.com/en_us/legal/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Splunk Privacy Policy | Splunk
 
