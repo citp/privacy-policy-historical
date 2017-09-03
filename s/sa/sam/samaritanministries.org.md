@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629052226id_/https%3A//www.samaritanministries.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903181717id_/https%3A//samaritanministries.org/privacy-policy) for the most accurate reproduction.*
 
-# Samaritan Ministries | Privacy Policy
+# Privacy Policy | Samaritan Ministries
 
 ### **Samaritan Ministries International (SMI) takes your privacy very seriously. Please read our policy so you are aware of how we may use your information and how we will not use your information.  For purposes of this policy, “member” shall mean both currently active and inactive members, as well as prospective members that have contacted SMI.**
 
