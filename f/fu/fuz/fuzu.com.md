@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzu.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017214257id_/https%3A//www.fuzu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzu.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903124737id_/https%3A//www.fuzu.com/privacy-policy) for the most accurate reproduction.*
 
 # Fuzu Privacy policy - Plan career, learn skills and find latest jobs in Kenya
 
