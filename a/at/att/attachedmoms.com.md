@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attachedmoms.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124191042id_/http%3A//attachedmoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attachedmoms.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903024435id_/http%3A//attachedmoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Beyond Attachment Parenting
 
