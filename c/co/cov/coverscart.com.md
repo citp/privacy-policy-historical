@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverscart.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918184159id_/http%3A//www.coverscart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverscart.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904032008id_/https%3A//www.coverscart.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phone Covers & Cases in India Online at CoversCart.com
 
