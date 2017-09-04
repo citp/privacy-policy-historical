@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iotransfer.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630062319id_/http%3A//www.iotransfer.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iotransfer.net privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905015044id_/http%3A//www.iotransfer.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
