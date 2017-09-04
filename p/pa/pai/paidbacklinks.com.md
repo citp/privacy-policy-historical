@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502022313id_/http%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904073428id_/http%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The HOTH
+# Privacy Policy
 
   * **What information do we collect?**
 
@@ -70,11 +70,13 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.thehoth.com
+> [New Home](https://www.thehoth.com/)
 
 The HOTH  
-1907 Gulf Way #1  
-St. Pete Beach, Fl. 33706
+111 2nd Ave NE  
+Suite 1500  
+Saint Petersburg FL 33701  
+United States
 
 support@thehoth.com
 
