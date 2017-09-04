@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204041844id_/https%3A//extension.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904034110id_/https%3A//www.extension.org/privacy) for the most accurate reproduction.*
 
 # eXtension Privacy Policy – eXtension
 
