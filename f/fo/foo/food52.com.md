@@ -1,102 +1,112 @@
-> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414231317id_/http%3A//food52.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904070250id_/https%3A//food52.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Food52
 
-Last updated: January 26, 2016.
+Food52 Inc. (“Food52,” “we,” “us,” or “our”) provides this Privacy Policy because we know that you care about how your information is collected, used, shared and retained. This Privacy Policy applies to information collected when you visit our website (www.food52.com) (our “Website”), use our mobile application (our “App”), or access or use services that we make available from time to time through our platform (our “Platform) through our Website or App.
 
-We at Food52 Inc. (“ _Food52_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”) have created this privacy policy (this “ _Privacy Policy_ ”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Food52 in connection with our Platform. By visiting our Platform, Visitors and Registered Users are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.
+By visiting our Website, using our App, or accessing or using our Platform, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy have the meaning ascribed to them in the Terms of Use.
 
-**Information We Collect**
+The information that we collect, and how we use and share that information:
 
-In the course of operating the Platform, we will collect (and/or receive) the following types of information. You authorize us to collect and/or receive such information.
+_Registered User Information._ When you sign up to become a Registered User, you will be required to provide us with personal information about yourself, such as your name, e-mail address, zip code, and Unique Identifiers. If you contact us, you will need to provide your name and e-mail address. Registered Users may also provide identifiable information in the course of using the Platform. In addition, Registered Users may elect to use Facebook Connect or similar logins to automatically populate certain information on our registration page. If you use such third-party logins, you are authorizing Food52 to collect, store, and use, in accordance with this Privacy Policy, any and all information that you agreed that Facebook or such other third parties could provide to us through their application programming interface. You control the information that we receive from Facebook or other similar social media sites, and such information may include, without limitation, your first and last name, Facebook username, Facebook profile picture, unique Facebook identifier and access token, and e-mail address.
 
-  1. ### Personal Information
+_Refer a Friend._ You may voluntarily provide us with first and last names or email addresses for your friends in connection with our “Refer a Friend” program. If you do so, you may be eligible for certain benefits associated with our Platform that may change from time to time. By providing us with first and last names or email addresses in connection with our “Refer a Friend” program, you thereby represent and warrant to us that you have the right to provide us with this information for use and disclosure as described in this Privacy Policy under all applicable laws. We will use this information for the sole purpose of sending direct marketing emails to your friend, inviting him or her to visit our Website or use our App or Platform. Our direct marketing emails always include an opportunity to unsubscribe from further emails. If your friend chooses to become a Registered User, he or she will be required to accept our Terms of Use and this Privacy Policy as part of the registration process.
 
-When you sign up to become a Registered User, you will be required to provide us with personal information about yourself, such as your name, e-mail address, zip code, and Unique Identifiers. If you contact us, you will need to provide your name and e-mail address. Registered Users may also provide identifiable information in the course of using the Platform. In addition, Registered Users may elect to use Facebook Connect or similar logins to automatically populate certain information on our registration page. If you use such third-party logins, you are authorizing Food52 to collect, store, and use, in accordance with this Privacy Policy, any and all information that you agreed that Facebook, Inc. (“ _Facebook_ ”) or such other third parties could provide to us through their application programming interface. Such information may include, without limitation, your first and last name, Facebook username, Facebook profile picture, unique Facebook identifier and access token, and e-mail address. All information we collect and/or receive under this section is collectively called “ _Personal Information_.” We do not collect any personal information from Visitors or Registered Users when they use the Platform, unless they provide such information voluntarily. 
-  2. ### Geolocational Information.
+_Billing Information and Transaction Information._ If you purchase a Product through our Website, you will be required to provide certain information to our third-party payment processors pursuant to the terms and conditions of their privacy policies and terms of use. Such information may include a debit card number, credit card number, expiration date, billing address, activation codes, and similar information. You authorize our third-party payment vendors to collect, process, and store this information. We do not store or process this information.
 
-Certain features and functionalities of the Platform are based on your location. In order to provide these features and functionalities while you are using a mobile device, we may, with your consent, automatically collect geolocational information from your mobile device or wireless carrier and/or certain third-party service providers. Such information is collectively called the “ _Geolocational Information_.” Collection of such Geolocational Information occurs only when the Platform is running on your mobile device. You may decline to allow us to collect such Geolocational Information, in which case Food52 will not be able to provide certain features or functionalities to you. 
-  3. ### Billing Information.
+If you purchase a Product through the Platform, you will be required to provide us with your name, billing address and shipping address. We use this information to process and ship your Product order(s), and you authorize us to share this information with suppliers of the Product(s) that you order, so that they can process and ship your order(s).
 
-When you wish to purchase a Product, you will be required to provide certain information to our third-party payment vendors pursuant to the terms and conditions of their privacy policies and terms of use. Such information may include a debit card number, credit card number, expiration date, billing address, activation codes, and similar information. Such information is collectively called the “ _Billing Information_.” You authorize our third-party payment vendors to collect, process, and store your Billing Information. Food52 does not store or process your Billing Information. 
-  4. ### Transaction Information.
+_Geo-locational Information._ Certain features and functionalities of the Platform may be based on your location. In order to provide these features and functionalities while you are using a mobile device, we may automatically collect geo-locational information from your mobile device or wireless carrier and/or certain third-party service providers. Collection of this information occurs only when the Platform is running on your mobile device. You may decline to allow us to collect such information by adjusting your browser settings, in which case we will not be able to provide certain features or functionalities to you.
 
-When Registered Users wish to make a purchase through the Platform, they must provide us with certain information about the transaction they are seeking to execute. Such information is collectively called the “ _Transaction Information_.” You also authorize us to share your Transaction Information with the suppliers of such Products so that they can process and ship your order. 
-  5. ### Other Information.
+_Cookies._ Like most websites, we use automatic data collection technology when you visit our Website to collect information that identifies your computer. This comprises information about your operating system, your IP addresses, browser type and language, referring pages and URLs, keywords, date and time, and what sections of our Website and Platform you visit (the "usage information"). We collect this usage information by using cookies. Cookies are small packets of data that a website stores on your computer's hard drive so that your computer will "remember" information about your visit. You can reject cookies by following the directions provided by your browser vendor or by your Internet provider's "help" file. If you reject cookies, you may still visit our Website and use the Platform, but may not be able to use some areas of our Website and Platform. We use cookies (and the usage information collected) to help us identify you and analyze how you use our Website and Platform. For more information on how we use cookies, please see our [Cookie Policy](https://web.archive.org/cookie_policy).
 
-In addition to the information noted above, we may collect additional information (collectively, the “Other Information”). Such Other Information may include: 
-    1. **From You.** Additional information about yourself that you voluntarily provide to us (e.g., via a survey), such as household income range, gender, product and service preferences, and other information that does not identify you personally.
-    2. **From Your Activity.** Information that we automatically collect when you use the Platform, including, without limitation: 
-      * IP addresses, which may consist of a static or dynamic IP address and will sometimes point to a specific identifiable computer or device; browser type and language; referring and exit pages and URLs; date and time; amount of time spent on particular pages; what sections of the Platform you visit; and similar data; and
-      * Information about your device, including the type of device; universally unique ID (“UUID”); advertising identifier (“IDFA”); MAC address; operating system and version (e.g., iOS, Android or Windows); carrier and country location; hardware and processor information (e.g., storage, chip speed, camera resolution, NFC enabled); network type (WiFi, 3G, 4G, LTE); and similar data.
-    3. **From Cookies.** Information that we collect using “cookie” technology. Cookies are small packets of data that a website stores on your computer’s or mobile device’s hard drive so that your computer will “remember” information about your visit. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to help us collect Other Information and to enhance your experience using the Platform. If you do not want us to place a cookie on your hard drive, you may be able to turn that feature off on your computer or mobile device. Please consult your Internet browser’s documentation for information on how to do this and how to delete persistent cookies. However, if you decide not to accept cookies from us, the Platform may not function properly.
-    4. **Third-Party Analytics.** We use third-party analytics services (such as Google Analytics) to evaluate your use of the Platform, compile reports on activity, collect demographic data, analyze performance metrics, and collect and evaluate other information relating to the Platform and mobile and Internet usage. These third parties use cookies and other technologies to help analyze and provide us the data. By accessing and using the Platform, you consent to the processing of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy. 
+_Analytics and Remarketing._ We use one or more third party analytics services (such as Google Analytics) to evaluate your use of the Website and the Platform, compile reports on activity (based on our third party partners’ collection of IP addresses, internet service provider, browser type, operating system and language, referring and exist pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website you visit, number of links clicked while on the Website, search terms and other similar usage information, and analyze performance metrics. These third party partners use cookies to collect this usage information. By accessing and using the Website and/or the Platform, you consent to the processing of data about you by these third party service providers in the manner and for the purposes set forth in this Privacy Policy. The third party analytics service providers that we currently work with include those listed below. These third parties may change from time to time, but in each case we will provide you with the links to view these organizations' privacy policies and find out more about what data they hold about you, what they do with it, and how to opt-out from certain data collection.
 
-For more information on Google Analytics, including how to opt out from certain data collection, please visit [https://www.google.com/analytics](https://web.archive.org/privacy). Please be advised that if you opt out of any service, you may not be able to use the full functionality of the Platform. 
+Google Analytics - [http://www.google.com/analytics ](http://www.google.com/analytics) We also use one or more third-party remarketing services (for example, Google Adwords) to advertise to users of our Website and Platform on third party websites. This means that we advertise to previous visitors to the Website who have not completed a task on the Website, such as leaving un-purchased items in your shopping cart. These third-party remarketing service providers use cookies to serve ads based on a past visit to our Website or Platform. Any data collected by such third party remarketing service providers will be used in accordance with this Privacy Policy and the privacy policy of such third party remarketing services provider. These third party remarketing services may change from time to time, but in each case we will provide you with information to access these organizations' privacy policies to find out more about what data they hold about you, what they do with it, and how to opt-out from certain data collection. For more information on such third party remarketing service providers, including how to opt out from certain data collection, please see below.
 
-    5. **From Other Sources.** We also may collect or receive information from third parties, such as Facebook and/or other third-party social media sites.
+For Google Adwords, you can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
+
+_Cross-device Advertising._ We may use data we receive from advertising technology partners to match multiple devices associated with the same identifier as devices belonging to the same user or household. Where we are able to make such a match, we may use this information to deliver targeted advertisements across multiple devices on behalf of ourselves or third parties.
+
+_Aggregate Data._ In an ongoing effort to better understand users of our Website, App and Platform and the Products, we might analyze your information in aggregate form to operate, maintain, manage, and improve our Website, App, Platform or Products. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our Website, App and Platform to current and prospective business partners and to other third parties for other lawful purposes.
+
+_Purpose of Collection and Use._ We use the information that we collect from you under this Privacy Policy to provide our Website, App, Platform and related support; to process and ship Product orders; to respond to general inquiries; to solicit feedback regarding our Website, App, Platform and related support and the Products; to provide relevant content on our Website, App and Platform, including advertisements regarding products and services of ours or third parties; to send invoices and receive payments; and to communicate with you regarding our current and future product and service offerings.
+
+_Onward Transfer to Third Parties._ Like many businesses, we hire other companies to perform certain business-related services. We may disclose personal information to certain types of third party companies but only to the extent needed to enable them to provide such services. The types of companies that may receive personal information and their functions are: direct email and regular mail marketing assistance, billing, Product order fulfillment and shipping, customer service, data storage, hosting services, disaster recovery services, sales support, logistics support companies, event registration, book and media publishers (for the purpose of verifying your identity and providing you with attribution for any contributions). All such third parties function as our agents, performing services at our instruction and on our behalf pursuant to contracts which require they provide at least the same level of privacy protection as is required by this Privacy Policy and implemented by us. You may opt out of having your personal information transferred to any or all of our categories of agents by emailing us at [privacy@food52.com](mailto:privacy@food52.com). Please allow us a reasonable time to process your request. 
+
+With regard to the Principle of Accountability for Onward Transfer, we remain liable if our agent possesses such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+_Opt-In to Certain Onward Transfers._ We will not transfer your personal information to a third party acting as a controller without first providing you with information regarding the identity of such controller or the nature of such controller’s business, and obtaining your opt-in consent. You may grant such consent by emailing us at [privacy@food52.com](mailto:privacy@food52.com).
+
+We will not disclose your sensitive personal information to any third party without first obtaining your opt-in consent. You may grant such consent by emailing us at [privacy@food52.com](mailto:privacy@food52.com).
+
+In each instance, please allow us a reasonable time to process your response.
+
+_Business Transfers._ In the event of a merger, reorganization, dissolution or similar corporate event, or the sale of all or substantially all of our assets, we expect that the information that we have collected, including personal information, would be transferred to the surviving entity in a merger or the acquiring entity. All such transfers shall be subject to our commitments with respect to the privacy and confidentiality of such personal information as set forth in this Privacy Policy.
+
+_Disclosure to Public Authorities._ We may be required to disclose personal information in response to lawful requests by public authorities, including for the purpose of meeting national security or law enforcement requirements. We may also disclose personal information to other third parties when compelled to do so by government authorities or required by law or regulation including, but not limited to, in response to court orders and subpoenas.
+
+_Opt-Out for Direct Marketing; Email Management._ You may opt out at any time from the use of your personal information for direct marketing purposes by emailing us at [privacy@food52.com](mailto:privacy@food52.com). Please allow us a reasonable time to process your request.
+
+You may manage your receipt of marketing and non-transactional communications by clicking on the “Manage Email Preferences” link located on the bottom of any Food52 marketing email and following the instructions found on the page to which the link takes you. You cannot opt out of receiving transactional e-mails related to your Registered User account or any Product orders.
+
+### Information Collected by or Through Third-Party Companies
+
+We may share your usage information with third parties for ad distribution and ad optimization (defined as the tailoring, targeting (i.e., behavioral, contextual, and retargeting), analyzing, managing, reporting, and optimizing of ads). These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such usage information for such purposes. Pixel tags enable us, and these third-parties, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site. You may opt-out of the tailoring of advertising based on information we collect. To learn more about the use of this information, or to choose not to have this information used by our providers or third party advertising partners by opting out, please visit the Network Advertising Initiative by clicking http://www.networkadvertising.org/managing/opt_out.asp.
+
+#### INFORMATION THAT YOU SHARE THROUGH THE PLATFORM
+
+Please keep in mind that whenever you voluntarily make your personally identifiable or other information available to third parties (including other Registered Users) — for example, through your public profile, on message boards, through email or other direct messages, or in comment or chat areas — that information can be seen, collected, heard, and/or used by others besides us. We cannot be responsible for any third-party use of your information, and this Privacy Policy does not apply to any information that you share in any of the foregoing ways.
+
+#### ACCESS TO YOUR PERSONAL INFORMATION
+
+Upon request by sending an email to [privacy@food52.com](mailto:privacy@food52.com), we will provide you with confirmation as to whether we are processing your personal information, and have the data communicated to you within a reasonable time after your request. You have the right to correct, amend or delete your personal information where it is inaccurate or has been processed in violation of this Privacy Policy. We may require payment of a non-excessive fee to defray our expenses in this regard. Please allow us a reasonable time to respond to your inquiries and requests.
+
+#### RETENTION OF PERSONAL INFORMATION
+
+We will retain your personal information in a form that identifies you only for as long as it serves the purpose(s) for which it was initially collected as stated in this Privacy Policy, or subsequently authorized. We may continue processing your personal information for longer periods, but only for the time and to the extent such processing reasonably serves the purposes of archiving in the public interest, journalism, literature and art, scientific or historical research and statistical analysis, and subject to the protection of this Privacy Policy. After such time periods have expired, we may either delete your personal information or retain it in a form such that it does not identify you personally.
+
+#### HOW WE PROTECT YOUR INFORMATION
+
+We take very seriously the security and privacy of the personal information that we collect pursuant to this Privacy Policy. Accordingly, we will implement reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations.
+
+#### CHILDREN
+
+We do not knowingly collect any personal information from children under the age of 13 through our Website, App or Platform. If you are under the age of 13, please do not give us any personal information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide personal information to us without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us at [privacy@food52.com](mailto:privacy@food52.com), and we will endeavor to delete that information from our databases.
+
+#### LINKS TO EXTERNAL WEBSITES
+
+Our Website may contain links to third party websites (“External Sites”). We have no control over the privacy practices of these External Sites. As such, we are not responsible for the privacy policies of those External Sites. You should check the applicable third party privacy policy and terms of use when visiting any External Sites, and before providing any personal information to such External Sites.
+
+#### IMPORTANT NOTICE TO NON-US RESIDENTS
+
+Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US and Swiss-US Privacy Shield Frameworks, your decision to provide such data to us, or to allow us to collect such data through our Website, App or Platform, constitutes your consent to this data transfer.
+
+#### IMPORTANT NOTICE FOR RESIDENTS OF THE EUROPEAN ECONOMIC AREA and Switzerland
+
+Food52 complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries (including Iceland, Liechtenstein and Norway) and Switzerland, respectively. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability (the “Privacy Shield Principles”). If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/ .
+
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. EU and/or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at [privacy@food52.com](mailto:privacy@food52.com). We have further committed to refer unresolved privacy complaints from EU and/or Swiss individuals under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance.
+
+Please note that if your compliant is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Food52 is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+
+#### CALIFORNIA PRIVACY RIGHTS
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83 of the California Civil Code, please contact us via email at [privacy@food52.com](mailto:privacy@food52.com). 
+
+We do not monitor, recognize or honor any opt-out or do not track mechanisms including general web browner, “Do Not Track” settings and/or signals.
+
+#### CHANGES TO THIS PRIVACY POLICY
+
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on our Website as soon as they go into effect. By accessing or using our Website, App or Platform after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
+
+#### HOW TO CONTACT US
+
+If you have questions about this Privacy Policy, please contact in one of the following ways:  
+E-mail us at [privacy@food52.com](mailto:privacy@food52.com);  
 
 
-
-### Information Collected by or Through Third-Party Advertising Companies
-
-We may share Other Information about your activity on the Platform with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Platform and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us, and these third-party advertisers, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site.
-
-### Accessing and Modifying Personal Information and Communication Preferences
-
-If you have registered for the Platform, you may access, review, and make changes to your Personal Information, Billing Information, and certain Other Information by following the instructions found on the Platform. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Food52 marketing email. Registered Users cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
-
-### How We Use and Share the Information
-
-We use the Personal Information, the Geolocational Information, the Transaction Information, and the Other Information (collectively, the “ _Information_ ”) to provide our services; to process orders for products and services; to administer our rewards and promotional programs; to maintain and improve our Platform and services to you; to solicit your feedback; and to inform you about our products and services and those of our third-party marketing partners.
-
-We may also use and/or share Information as described below.
-
-  * Food52 will access, use, and share the Information as required to process your orders and provide support to you, including without limitation with suppliers of the Products you purchase through the Platform.
-  * In order to provide our services and administer our rewards and promotional programs, we may share the Information with our third-party promotional and marketing partners, including, without limitation, businesses participating in our various programs.
-  * With your permission, third-party applications or services may access your Personal Information. We use standard OAuth (open authorization) to enable you to give permission to share your Personal Information with other websites and services, such as Facebook and Twitter (e.g., when you agree to a pop-up requesting you to allow another application to access your account information). We also use OAuth to allow us to share information about you that is stored by us without sharing your security credentials.
-  * We may employ other companies and individuals to perform functions on our behalf. Examples may include providing technical assistance, order fulfillment, customer service, and marketing assistance. These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.
-  * In an ongoing effort to better understand our Visitors, Registered Users, and our products and services, we may analyze Information in aggregate form in order to operate, maintain, manage, and improve the Platform and/or our products and services. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.
-  * We may share some or all of your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
-  * As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
-  * To the extent permitted by law, we may also disclose the Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of Food52 or others.
-
-
-
-### Information You Share
-
-Please keep in mind that whenever you voluntarily make your Personal Information available to third parties—for example on message boards or web logs; through email; or in comment or chat areas—that information can be seen, collected, heard, and/or used by others besides us. We cannot be responsible for any unauthorized third-party use of such information, and this Privacy Policy does not apply to any Information that you share in any of the foregoing ways.
-
-### How We Protect the Information
-
-We take commercially reasonable steps to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the Information that you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Platform may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.
-
-### Important Notice to Non-U.S. Residents
-
-It is important to note that the Platform and its servers are operated in the United States. If you are located outside of the United States, please be aware that any Information you provide to us will be transferred to the United States. By using the Platform and by providing us Information when using our services, you hereby irrevocably consent to this transfer and our use of the Information and data provided by you in accordance with this Privacy Policy.
-
-### Children
-
-We do not knowingly collect Personal Information from children under the age of 13 through the Platform. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Platform without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
-
-### California Residents
-
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Food52 may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [help@food52.com](mailto:help@food52.com?subject=Privacy%20Policy) with “PRIVACY POLICY” in the subject line or write to us at:
-
-Food52 Inc.   
-122 W 26th St, Fl 8   
-New York, NY 10001
-
-Food52 does not monitor, recognize, or honor any behavioral advertising opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
-
-### External Websites
-
-The Platform may contain links to third-party websites. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
-
-### Changes to This Privacy Policy
-
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. By accessing the Platform and/or using our services after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information. Please refer back to this Privacy Policy on a regular basis.
-
-### How to Contact Us
-
-If you have questions about this Privacy Policy, please contact us via e-mail at [help@food52.com](mailto:help@food52.com?subject=Privacy%20Policy) with “Privacy Policy” in the subject line.
+Or write to us at:  
+Food52 Inc. 122 W. 26th Street, 8th floor NY NY 10001 
