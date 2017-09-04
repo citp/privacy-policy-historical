@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622034757id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904161759id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Questia, Your Online Research Library
 
