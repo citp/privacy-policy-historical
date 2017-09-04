@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumendatabase.org privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421195723id_/https%3A//lumendatabase.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumendatabase.org privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904154244id_/https%3A//www.lumendatabase.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy :: Lumen
 
