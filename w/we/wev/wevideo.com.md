@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504210416id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904071000id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # WeVideo | Privacy Policy
 
 For WeVideo for Education Privacy Policy, please [click here](https://web.archive.org/edu-privacy)
 
-_Last Modified: August 9, 2016_
+_Last Modified: July 11, 2017_
 
 Your privacy is very important to us.  This Privacy Policy explains how WeVideo, Inc., (“ _ **we**_ ” or “ _ **WeVideo**_ ”) use protect, and disclose the information we collect when you use the WeVideo services (the “ ** _Services_** ”) through our website [www.wevideo.com](http://www.wevideo.com/) (“ _ **Site**_ ”), applications on Devices (“ _ **Apps**_ ”), through APIs, and through third parties.  A “ ** _Device_** ” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
@@ -85,7 +85,7 @@ WeVideo does not access your contact information or address book within your mob
 
 ## **SPECIAL CONSIDERATION FOR PAYMENT INFORMATION**
 
-If you provide credit card or debit card information to complete a purchase, it is our policy to use third-party payment processing systems that comply with the Payment Card Industry Data Security Standard (PCI-DSS), which is an industry wide security standard designed to protect the confidentiality and security of your credit card information, by encryption using secure socket layer technology (SSL) and storage with AES-256 encryption.  Currently, we use Zuora, Inc., but we reserve the right to change this service provider at any time for any reason. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. **PLEASE READ THE PRIVACY POLICY ON THE WEBSITE OF ANY PAYMENT PROCESSOR THAT YOU ARE DIRECTED TO REGARDING THE USE, STORAGE AND PROTECTION OF YOUR CREDIT CARD INFORMATION BEFORE SUBMITTING ANY CREDIT CARD INFORMATION.**
+If you provide credit card or debit card information to complete a purchase, it is our policy to use third-party payment processing systems that comply with the Payment Card Industry Data Security Standard (PCI-DSS), which is an industry wide security standard designed to protect the confidentiality and security of your credit card information, by encryption using secure socket layer technology (SSL) and storage with AES-256 encryption.  Currently, we use Stripe, Inc., but we reserve the right to change this service provider at any time for any reason. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. **PLEASE READ THE PRIVACY POLICY ON THE WEBSITE OF ANY PAYMENT PROCESSOR THAT YOU ARE DIRECTED TO REGARDING THE USE, STORAGE AND PROTECTION OF YOUR CREDIT CARD INFORMATION BEFORE SUBMITTING ANY CREDIT CARD INFORMATION.**
 
 All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at info@wevideo.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  WeVideo complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
 
@@ -101,7 +101,7 @@ WeVideo will display your Personal Information in your profile page and elsewher
 
   * Amazon’s S3 storage service to store some of your information (for example, your User Content)
   * HubSpot’s marketing platform to perform personalized email communication
-  * Zuora’s subscription platform to handle subscription management, billing and payment    transactions
+  * Stripe and PayPal's subscription platform to handle subscription management, billing and payment    transactions
   * Google Analytics to collect and report usage data
 
 
@@ -146,10 +146,16 @@ We may use any of the following methods to verify that you have your parents’ 
 
 **WARNING:  ** **any personal  information (e.g.,  name, email address, personal photographs) that you voluntarily disclose in any video may be collected and used by parties other than us and may result in unsolicited messages from other parties. If you believe that any child under the age of 13 has posted any personal information anywhere on our website, please contact us immediately at support@wevideo.com and provide as much information as you can to help us locate and delete the personal information.  If you post personal information in any video, we have no control over this use of your personal information and, as such, cannot be responsible for it.  We reserve the right, but not the obligation, to: (a) delete any personal information we discover or which is brought to our attention, at any time, for any reason whatsoever; (b) immediately terminate your account and/or (c) contact your parents regarding the video.**
 
-## **YOUR CONSENT**
+## **OUTSIDE THE UNITED STATES**
 
-If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to WeVideo, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
+If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to WeVideo, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.  Please understand that WeVideo is subject to the investigatory and enforcement powers of the Federal Trade Commission of the United States.
+
+WeVideo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. WeVideo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. In any such cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, WeVideo understands that it may be potentially liable.
+
+In compliance with the Privacy Shield Principles, WeVideo commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact WeVideo at support@wevideo.com. WeVideo has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Please understand that we may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. It is not our intent to pass on any such personal information to public authorities, but in the identified circumstances, we may be required to do so.
 
 ## **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us at info@wevideo.com.
+If you have any questions about this Privacy Policy, please contact us at support@wevideo.com.
