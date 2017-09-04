@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentcircle.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306044430id_/https%3A//www.parentcircle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentcircle.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904143432id_/https%3A//www.parentcircle.com/privacy) for the most accurate reproduction.*
 
-# ParentCircle - Privacy Policy
+# Privacy Policy - Parentcircle
 
 We at Shri Harini Media Ltd, henceforth referred to by our property, **'ParentCircle'** ,, value your privacy and respect how you care about the way your personal information is collected, used and shared. By using or accessing our services (web, mobile or any other products of ParentCircle collectively known as ‘services’), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information as mentioned in this policy. 
 
