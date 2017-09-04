@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takefile.link privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118083017id_/https%3A//takefile.link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takefile.link privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904052522id_/https%3A//takefile.link/privacy-policy) for the most accurate reproduction.*
 
-# TakeFile - Бесплатный хостинг файлов
+# TakeFile - Der einfache Weg Dateien zu teilen
 
 **1.** The following information is collected during rendering services TakeFile confidential and undisclosed unless stated otherwise:  
 **1.1.** IP addresses.  
