@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news8austin.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624164209id_/http%3A//www.twcnews.com/tx/austin/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news8austin.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904063335id_/http%3A//www.twcnews.com/tx/austin/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
