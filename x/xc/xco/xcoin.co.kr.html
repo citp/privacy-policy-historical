@@ -1,0 +1,768 @@
+<!--The following is the downloaded HTML source of the xcoin.co.kr privacy policy that was archived on 2017-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170904120608id_/https%3A//www.bithumb.com/u1/US108) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="ko"><head>
+			<title>빗썸 - 대한민국 1등 가상화폐 거래소</title>
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="google-site-verification" content="d__PA8TUd4JJQxHwGuOKooTz8HvUJH0OFJgLPZXnvS4">
+		<meta name="description" content="비트코인, 이더리움, 라이트코인, 리플, 모네로, 실시간시세, 회원가입시 무료코인 지급, 쉽고 안전한 거래.">
+		<meta property="og:locale" content="ko_KR">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="빗썸 - 대한민국 1등 가상화폐 거래소">
+		<meta property="og:description" content="비트코인, 이더리움, 라이트코인, 리플, 모네로, 실시간시세, 회원가입시 무료코인 지급, 쉽고 안전한 거래.">
+		<meta property="og:url" content="https://www.bithumb.com">
+		<meta property="og:site_name" content="빗썸 - 대한민국 1등 가상화폐 거래소">
+		<meta property="og:image" content="https://www.bithumb.com/resources/img/comm/logo_bithumb.png">
+		<meta property="twitter:card" content="summary">
+		<meta property="twitter:description" content="비트코인, 이더리움, 라이트코인, 리플, 모네로, 실시간시세, 회원가입시 무료코인 지급, 쉽고 안전한 거래.">
+		<meta property="twitter:title" content="빗썸 - 대한민국 1등 가상화폐 거래소">
+		<meta property="twitter:image" content="https://www.bithumb.com/resources/img/comm/logo_bithumb.png">
+			<link type="image/ico" rel="shortcut icon" href="/resources/img/comm/20170221_favicon.ico?v=2">
+
+	
+	<link type="text/css" rel="stylesheet" href="/resources/css/common.min.css?v=170827223245">
+	<link type="text/css" rel="stylesheet" href="/resources/css/wModal.min.css?v=170827223254">
+	<link type="text/css" rel="stylesheet" href="/resources/css/left.min.css?v=170827223253">
+	<link type="text/css" rel="stylesheet" href="/resources/css/u1/US108.css?v=170827223252">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/common/lang_js"></script>
+			<script type="text/javascript" src="/u1/lang_js"></script>
+		<script type="text/javascript" src="/resources/js/globalInterval.min.js?v=170828184757"></script>
+	<script type="text/javascript" src="/resources/js/jquery-1.9.1.min.js?v=170827223258"></script>
+	<script type="text/javascript" src="/resources/js/comm.min.js?v=170904103010"></script>
+	<script type="text/javascript" src="/resources/js/output_world_btc.min.js?v=170902110515"></script>
+	<script type="text/javascript" src="/resources/js/wModal.min.js?v=170827223259"></script>
+	<script type="text/javascript" src="/resources/js/jquery.cookie.min.js?v=170827223259"></script>
+	
+	<script type="text/javascript">
+		function pop(){
+			var obj = document.getElementById("giftpopup");
+			if(obj.style.display == "block"){
+				obj.style.display = "none";
+			}
+			else{
+				obj.style.display = "block";
+			}
+		}
+
+		function jeevent(){
+			ajaxRequest({
+				url:'/json/JEPROC',
+				dataType : 'json',
+				async	 : false,
+				success  : function(r) {
+					_alert(r.msg);
+					//if(r.success == 'Success'){
+					$('#layer_Jebanner').hide();
+					//}
+				},
+				error : function() {
+					_alert('Please try again in a few seconds');
+				}
+			});
+		}
+
+		function closeJC(){
+			var expireDate = new Date();
+			expireDate.setDate(expireDate.getDate()-1);
+			document.cookie= 'JC_EV=;path=/;expires='+expireDate.toGMTString();
+		}
+		$(function() {
+					});
+	</script>
+	<script type="text/javascript">
+		//<![CDATA[
+		var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+		document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+		//]]>
+	</script><script src="https://secure.comodo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+</head>
+<body oncontextmenu="return false" ondragstart="return false" class="english"><!-- Wrap -->
+
+<input type="hidden" id="LOGINCHECK" value="">
+<input type="hidden" id="stopCoinTrade" value="">
+
+<div id="wrap">
+	<div id="g_SLEEP">
+		<div id="g_OVERLAY"></div>
+	</div>
+	<!-- Header -->
+	<div class="m_status_wrap">
+		<ul class="m_status">
+			<li class="first">
+				<span class="g_left"><span class="tp_category">BITHUMB final</span> : <span id="gSignEtc"></span><span id="xcoinLast"></span><span id="gSignKor">KRW</span></span>
+				<span class="g_left" id="chart_btn"><img src="/resources/img/comm/icon_graph.gif" width="27" height="30"></span>
+			</li>
+			<li class="rolling_list">
+				<div id="rolling_list" class="rolling_wrap">
+					<div>LOADING.....</div>
+				</div>
+			</li>
+			<li class="rolling-world" onclick="location.href='/u1/US109';">+global market price</li>
+			<li class="last">
+				<div class="selectbox">
+					<label for="lang">Select language</label>
+					<select id="lang" name="lang" data-text="true">
+						<option value="korean">Korea</option>
+						<option value="english" selected="">English</option>
+                        <option value="japanese">Japanese</option>
+                        <option value="chinese">Chinese</option>
+                        <option value="spanish">Spanish</option>
+                        <option value="hindi">Hindi</option>
+					</select>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div id="xcoin_trade">
+		<ul class="nav nav-tabs">
+			<li class="chart-trades active"><a class="hourly" href="#">in each time</a></li>
+			<li class="chart-trades"><a class="daily" href="#">in each date</a></li>
+		</ul>
+		<div id="chart-container"></div>
+	</div>
+
+	
+	<div class="header_wrap">
+		<div class="header">
+			<div class="logo">
+									<a href="/"><img src="/resources/img/comm/logo_bithumb.png" alt="Bithumb" class="g_left"></a>
+					<div class="top-logo-menu">
+						<a href="http://bithumb.cafe/?utm_source=inhousemkt&amp;utm_medium=170609&amp;utm_campaign=CAF%C3%89" target="_blank" class="btn_info g_left">Cafe</a>
+						<a href="http://www.bithumb.info" target="_blank" class="btn_info g_left">Info</a>
+						<a href="/u5/US508" class="btn_info g_left">Donation</a>
+					</div>
+							</div>
+							<ul class="gnb gnb_s1">
+					<li onclick="location.href='/u1/US101';">Sign-in</li>
+					<li onclick="location.href='/u1/US106';">Sign-up</li>
+				</ul>
+									</div>
+
+		<!--메뉴시작-->
+		<div id="menu">
+			<div id="menu_wrap">
+				<ul class="menu">
+					<li class="menu1">
+						<a href="javascript:tradeCoinView('1', 'BTC');" class="selected">Exchange</a>
+						<ul>
+							<li><a href="javascript:tradeCoinView(1, 'BTC');">Bitcoin</a></li><li><a href="javascript:tradeCoinView(1, 'ETH');">Ethereum</a></li><li><a href="javascript:tradeCoinView(1, 'DASH');">Dash</a></li><li><a href="javascript:tradeCoinView(1, 'LTC');">Litecoin</a></li><li><a href="javascript:tradeCoinView(1, 'ETC');">Ethereum Classic</a></li><li><a href="javascript:tradeCoinView(1, 'XRP');">Ripple</a></li><li><a href="javascript:tradeCoinView(1, 'BCH');">Bitcoin Cash</a></li><li><a href="javascript:tradeCoinView(1, 'XMR');">Monero</a></li>							<li><a href="/u2/US213">My Asset</a></li>
+							<li><a href="/u2/US204">My Trade History</a></li>
+							<li><a href="/u2/US208">My Margin Trade History</a></li>
+							<li><a href="/u2/US205">Pending Order</a></li>
+							<li><a href="/u2/US206">completed Orders</a></li>
+						</ul>
+					</li>
+					<li class="menu2">
+						<a href="/u3/US303">Wallet</a>
+						<ul>
+							<li><a href="/u3/US303">Deposit / Charge</a></li>
+							<li><a href="/u3/US304">Withdrawal</a></li>
+													</ul>
+					</li>
+					<li class="menu3">
+						<a href="/u8/US800">Remittance</a>
+						<ul>
+							<li><a href="/u8/US801">Send KRW</a></li>
+							<li><a href="/u8/US810">Send BTC</a></li>
+							<li><a href="/u8/US806">My Transfer History</a></li>
+						</ul>
+					</li>
+										<li class="menu5">
+						<a href="/u5/US505">Additional Service</a>
+						<ul>
+							<li><a href="/u5/US505">Coupon</a></li>
+
+																					<li><a href="/u5/US501">Email Notificatoin</a></li>
+							<li><a href="http://www.bithumb.info" target="_blank">Bithumb info</a></li>
+													</ul>
+					</li>
+					<li class="menu6">
+						<a href="/u6/US610">My Page</a>
+						<ul class="sub_menu">
+							<li><a href="/u6/US610"><strong>My Page</strong></a></li>
+							<li><a href="/u6/US602">Management</a></li>
+							<li><a href="/u6/US605">Authentication</a></li>
+							<li><a href="/u6/US608">Access Information</a></li>
+							<li><a href="/u4/US402">OTP Authentication</a></li>
+							<li><a href="/u4/US404">API management</a></li>
+						</ul>
+					</li>
+					<li class="menu7">
+						<a href="/u1/US125">Customer support</a>
+						<ul>
+														<li><a href="/u1/US125">1:1 Inquiry</a></li>
+							
+							<li><a href="/u1/US129">Bithumb Guide</a></li>
+							<li><a href="/u1/US138">Fee</a></li>
+							<li><a href="/u1/US162/S">Reset security password</a></li>
+							<li><a href="/u1/US162/O">Reset OTP</a></li>
+													</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		
+		<!-- Container -->
+		<div id="container">
+			<div class="m_right_banner">
+							</div>
+
+			
+			<div id="layer_Jebanner" class="layer_banner" style="display:none;">
+				<a onclick="jeevent()"><img src="/resources/img/banner/freecoupon.jpg"></a>
+				<div class="close">
+					<div class="left">
+					</div>
+					<div class="right" onclick="closeJC();$('#layer_Jebanner').hide();">X</div>
+				</div>
+			</div>
+
+			<!--gift 비트코인상품권팝업-->
+			<div id="giftpopup">
+				<div id="giftwrap">
+					<p class="pop_qr"><img src="/resources/img/banner/gift_popup.jpg" usemap="#Map11" title="Gift bitcoin product"></p>
+					<p class="pop_txt"></p>
+					<p class="pop_close"><a href="javascript:pop();">X</a></p>
+				</div>
+			</div>
+			<map name="Map11" id="Map11">
+				<area shape="rect" coords="91,280,338,356" href="/gmall/USC02/73">
+				<area shape="rect" coords="393,272,631,356" href="/gmall/USC02/74">
+			</map>
+			<!--gift 비트코인상품권팝업-->
+<!-- contents -->
+<div id="contents">
+	<h1>Privacy Statement<!-- 개인정보 취급방침 --></h1>
+	<table class="g_table">
+		<tbody><tr>
+			<th><h4>Privacy Statement<!-- 개인정보 취급방침 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;&nbsp;In order to protect the personal information of the customer and to prevent the damage caused by leakage of personal information, BICTI Korea Corporation takes the customer's personal information very seriously, and we comply with the related laws and regulations that information and communication service, such as the Act on Promotion of Information Network Usage and Information Protection, and the Personal Information Protection Act<!-- 주)비티씨코리아닷컴은 고객의 개인정보를 매우 중요시하며, 고객의 개인정보를 보호하여 개인정보 유출로 인한 피해가 발생하지 않도록 하기 위하여 '정보통신망 이용촉진 및 정보보호에 관한 법률' 및 '개인정보 보호법' 등 정보통신 서비스 제공자가 준수하여야 할 관련 법령상의 규정을 준수하며, 이를 바탕으로 다음과 같은 개인정보취급방침을 작성하여 고객님들의 개인정보가 어떠한 용도와 방식으로 이용되고 있으며, 개인정보보호를 위해 어떠한 조치가 이루어지고 있는지 알려드립니다. --><br>
+				&nbsp;&nbsp;Our privacy policy is subject to change due to changes in laws or guidelines related to the protection of personal information or changes in our policies, so please check with us whenever you visit our site<!-- 당사의 개인정보취급방침은 개인정보보호와 관련한 법률 또는 지침의 변경, 당사 정책의 변화에 따라 변경될 수 있으므로, 회원께서는 당사 사이트 방문 시 수시로 확인하여 주시기 바랍니다. -->
+			</td>
+		</tr>
+		<tr>
+			<th><h4>General Rules<!-- 총칙 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;&nbsp;BICTI Korea Corporation (hereinafter referred to as "the Company") is committed to protecting the privacy of users\' personal information and is committed to protecting the personal information that the user provides to the company while using the company\'s services Accordingly, the Company complies with the personal information protection regulations of the related laws and regulations and the personal information protection guidelines established by the Ministry of Information and Communication, which should be complied with by the providers of information and communication services, such as the Promotion of Information Network Usage and Information Protection Act<!-- 주식회사 비티씨코리아닷컴은(이하 “회사”라 합니다) 이용자들의 개인정보보호를 매우 중요시하며, 이용자가 회사의 서비스를 이용함과 동시에 온라인상에서 회사에 제공한 개인정보가 보호 받을 수 있도록 최선을 다하고 있습니다. 이에 회사는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 등 정보통신 서비스 제공자가 준수하여야 할 관련 법규상의 개인정보보호 규정 및 정보통신부가 제정한 개인정보보호지침을 준수하고 있습니다. --><br>
+				&nbsp;&nbsp;The Company will disclose through its Privacy Policy how and in what manner personal information provided by users is being used and what measures are being taken to protect personal information<!-- 회사는 개인정보 취급방침을 통하여 이용자들이 제공하는 개인정보가 어떠한 용도와 방식으로 이용되고 있으며 개인정보보호를 위해 어떠한 조치가 취해지고 있는지 알려 드립니다. --><br>
+				&nbsp;&nbsp;The company discloses its privacy policy at the front page of the homepage so that users can easily view it at any time<!-- 회사는 개인정보 취급방침을 홈페이지 첫 화면에 공개함으로써 이용자들이 언제나 용이하게 보실 수 있도록 조치하고 있습니다. --><br>
+				&nbsp;&nbsp;The privacy policy of the company may change from time to time due to changes in the laws and guidelines of the government or changes in the company\'s internal policy Users are requested to check the privacy policy on the first page of the website from time to time <!-- 회사의 개인정보 취급방침은 정부의 법률 및 지침 변경이나 회사의 내부 방침 변경 등으로 인하여 수시로 변경될 수 있으므로 이용자들께서는 사이트 첫 페이지에 고지되는 개인정보취급방침을 사이트 방문 시 수시로 확인하시기 바랍니다. -->
+			</td>
+		</tr>
+		<tr>
+			<th><h4>1 Agreement to collect personal information<!-- 1. 개인정보 수집에 대한 동의 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;&nbsp;The Company shall establish a procedure by which users can click the [Accept] button or the [Cancel] button on the contents of the company's personal information handling method or terms and conditions, if you click the [Accept] button, you agree to the collection of personal information <!-- 회사는 이용자들이 회사의 개인정보 취급방침 또는 이용약관의 내용에 대하여 「동의」버튼 또는「취소」버튼을 클릭할 수 있는 절차를 마련하여, 「동의」버튼을 클릭하면 개인정보 수집에 대해 동의한 것으로 봅니다. -->
+			</td>
+		</tr>
+		<tr>
+			<th><h4>2. Purpose of usage and collection of personal information<!-- 2. 개인정보의 수집목적 및 이용목적 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>Personal information means information about an individual who is alive and includes information that can identify the individual by the name, date of birth, etc included in the information (even if the information alone can not identify a particular individual, including those that can be easily identified and combined with) <!-- "개인정보"라 함은 생존하는 개인에 관한 정보로서 당해 정보에 포함되어 있는 성명, 생년월일 등의 사항에 의하여 당해 개인을 식별할 수 있는 정보(당해 정보만으로는 특정 개인을 식별할 수 없더라도 다른 정보와 용이하게 결합하여 식별할 수 있는 것을 포함)를 말합니다. --></li>
+					<li>Personal information collected about individual customers and the purpose of collection and use are as follows<!-- 개인회원에 대하여 수집하는 개인정보 항목과 수집 및 이용목적은 다음과 같습니다. --></li>
+				</ul>
+				- Name, ID, Password, Passport number (for foreigners only), Email address: Confirm your identity and confirm your customership<br><!-- 성명, 아이디, 비밀번호, 여권번호(외국인에 한함), 이메일 주소  :본인확인 및 회원 가입의사 확인 -->
+				- Your bank account, a copy of your photo ID (cover up the details other than your birth date), mobile number: ID verification for payment and withdrawal<br>
+				- Optional: Materials to provide personalized services<br><!-- 기타 선택항목 : 개인맞춤 서비스를 제공하기 위한 자료 -->
+				- Preventing fraudulent use of fraudulent customers and preventing unauthorized use<!-- IP Address : 불량회원의 부정 이용 방지와 비인가 사용 방지 -->
+			</td>
+		</tr>
+		<tr>
+			<th><h4>3. Preventing fraudulent use of fraudulent customers and preventing unauthorized use<!-- 수집하는 개인정보 항목 및 수집방법 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>When a user joins a customer to use a customership service, the company receives online information that is essential for providing the service &nbsp; The essential information you receive when you sign up is your name, email address, and so on Also, in order to provide high quality service, user can input optional phone number and bank account number And we can also request personal information for statistical analysis or offer of prizes during surveys or events at the exchange <!-- 회사는 이용자들이 회원서비스를 이용하기 위해 회원으로 가입하실 때 서비스 제공을 위한 필수적인 정보들을 온라인상에서 입력 받고 있습니다. 회원 가입 시에 받는 필수적인 정보는 이름, 이메일 주소 등입니다. 또한 양질의 서비스 제공을 위하여 이용자들이 선택적으로 입력할 수 있는 사항으로서 전화번호, 은행계좌번호 등을 입력 받고 있습니다. 또한 거래소 내에서의 설문조사나 이벤트 행사 시 통계분석이나 경품제공 등을 위해 선별적으로 개인정보 입력을 요청할 수 있습니다. --></li>
+					<li>We do not collect sensitive personal information (such as race and ethnicity, ideology, creed, hometown and homeland, political orientation and criminal record, health status, and sex life) that may be of concern to your basic human rights violations  If we collect inevitably, we will ask for your prior consent And, in any case, the information you enter will not be used for any other purpose other than for the purpose previously provided to you, and will not be leaked out <!-- 이용자의 기본적 인권 침해의 우려가 있는 민감한 개인정보(인종 및 민족, 사상 및 신조, 출신지 및 본적지, 정치적 성향 및 범죄기록, 건강상태 및 성생활 등)는 수집하지 않으며 부득이하게 수집해야 할 경우 이용자들의 사전동의를 반드시 구할 것입니다. 그리고, 어떤 경우에라도 입력하신 정보를 이용자들에게 사전에 밝힌 목적 이외에 다른 목적으로는 사용하지 않으며 외부로 유출하지 않습니다. --></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>4. Retention and use period of personal information collected<!-- 수집하는 개인정보의 보유 및 이용기간 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>
+						When a company collects personal information of a user, the period of retention is until customership termination (including withdrawal application, withdrawal of directorship) In addition, at the time of termination, the Company destroys the personal information of the user and instructs the third party to destroy the personal information provided to the third party  However, if there is a necessity to preserve it in accordance with laws and regulations such as commercial law, we have transaction history and minimum basic information for the period of preservation prescribed by laws and ordinances In addition, we will keep your personal information for the duration of your promised period if you notify the user in advance of the period of retention, if the period of retention has not elapsed and if the individual consents of the user <br><!-- 회사가 이용자의 개인정보를 수집하는 경우 그 보유기간은 회원가입 하신 후 해지(탈퇴신청, 직권탈퇴 포함)시까지 입니다. 또한 해지 시 회사는 이용자의 개인정보를 파기하며 개인정보가 제3자에게 제공된 경우에는 제3자에게도 파기하도록 지시합니다. 다만 상법 등 법령의 규정에 의하여 보존할 필요성이 있는 경우에는 법령에서 규정한 보존기간 동안 거래내역과 최소한의 기본정보를 보유하고 있고 있으며 보유기간을 이용자에게 미리 고지하고 그 보유기간이 경과하지 아니한 경우와 개별적으로 이용자의 동의를 받을 경우에는 약속한 보유기간 동안 개인정보를 보유합니다. -->
+						- Records on contract or withdrawal of subscription: 5 years<br><!-- 계약 또는 청약철회 등에 관한 기록 : 5년 -->
+						- Record of payment and goods supply: 5 years<br><!-- 대금결제 및 재화등의 공급에 관한 기록 : 5년 -->
+						- Records of consumer complaints or disputes: 3 years<!-- 소비자의 불만 또는 분쟁처리에 관한 기록 : 3년 -->
+					</li>
+					<li>In the event that a user requests access to transaction information, etc, which is held with the consent of the user, the Company shall take measures so that it can be read and confirmed without delay<!-- 이용자의 동의를 받아 보유하고 있는 거래정보 등을 이용자가 열람을 요구하는 경우 회사는 지체 없이 그 열람, 확인할 수 있도록 조치합니다 --></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>5 Procedures and methods of personal information destruction<!-- 5. 개인정보 파기절차 및 방법 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				In principle, the personal information of the user is destroyed without delay when the purpose of collecting and using the personal information is achieved And the procedure and method of destroying company's personal information is as follows <!-- 이용자의 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기합니다. 회사의 개인정보 파기절차 및 방법은 다음과 같습니다 --><br>
+				<ul>
+					<li>Destruction procedure<!-- 파기절차 --></li>
+					<li>- The information entered by the user for customership purposes is transferred to a separate DB after the purpose has been achieved (in the case of paper, separate documents) According to internal policies and other relevant laws and regulations, it will be destroyed after a certain period of storage </li><!-- 이용자가 회원가입 등을 위해 입력한 정보는 목적이 달성된 후 별도의 DB로 옮겨져(종이의 경우 별도의 서류함) 내부 방침 및 기타 관련 법령에 의한 정보보호 사유에 따라(보유 및 이용기간 참조)일정 기간 저장된 후 파기됩니다. -->
+					<li>Destruction Methods<!-- 파기방법 --></li>
+				</ul>
+				- Personal information printed on paper is crushed or destroyed by crushing<!-- 종이에 출력된 개인정보는 분쇄기로 분쇄하거나 소각을 통하여 파기합니다. --><br>
+				- Personal information stored in the form of electronic files is deleted using a technical method that can not reproduce the record<!-- 전자적 파일 형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다. -->
+			</td>
+		</tr>
+		<tr>
+			<th><h4>6 Commitment of Personal Information</h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>BTC KOREA Co, Ltd Has been entrusting the following personal information to improve service And in accordance with the relevant laws and regulations, we provide the necessary information so that personal information can be safely managed when contracted </li>
+					<li>The company's personal information processing agency and commissioned business are as follows</li>
+					<li>
+						<table class="s_table">
+							<colgroup>
+								<col width="25%">
+								<col width="45%">
+								<col>
+							</colgroup>
+							<tbody><tr>
+								<th>Partners</th>
+								<th>Contents of trust business</th>
+								<th>Retention and use period of personal information</th>
+							</tr>
+							<tr>
+								<td>Danal Co, Ltd</td>
+								<td>Payment of cultural gift certificates, settlement of book cultural gift certificates, payment of game culture gift certificates, settlement of Happy Money cultural gift certificates</td>
+								<td rowspan="7">At the time of the withdrawal of the customership or until the termination of the trust agreement, when the statute establishes</td>
+							</tr>
+							<tr>
+								<td>Think Full Co, Ltd</td>
+								<td>Service to prevent sign in stealing</td>
+							</tr>
+							<tr>
+								<td>Settle Bank Co Ltd</td>
+								<td rowspan="2">Payment without account (virtual account)</td>
+							</tr>
+							<tr>
+								<td>Shinhan Bank Co Ltd,</td>
+							</tr>
+							<tr>
+								<td>(주)케이지이니시스</td>
+								<td>신용카드 결제 서비스</td>
+							</tr>
+							<tr>
+								<td>IMI Corporation</td>
+								<td>B Point mall service</td>
+							</tr>
+							<tr>
+								<td>Kookmin Bank Co, Ltd</td>
+								<td>KB Escrow Service</td>
+							</tr>
+							<tr>
+								<td>Korea Credit Bureau Co, Ltd</td>
+								<td>Ipin self-certification service</td>
+								<td rowspan="4">Do not Save Separately (Information of the certified service provider) </td>
+							</tr>
+							<tr>
+								<td>Korea Mobile Certification Co, Ltd</td>
+								<td>Mobile phone verification service</td>
+							</tr>
+							<tr>
+								<td>Info Bank Co Ltd,</td>
+								<td rowspan="2">Send SMS</td>
+							</tr>
+							<tr>
+								<td>Daou Technology Co, Ltd</td>
+							</tr>
+						</tbody></table>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>7 Sharing and providing personal information collected<!-- 7. 수집한 개인정보의 공유 및 제공 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>
+						The Company shall use the personal information of the users within the range of the purpose of collecting and using personal information, and shall not use it beyond the scope of this information or give it to any third party without prior consent of the user However, except in the following cases: <!-- 회사는 이용자들의 개인정보를 "개인정보의 수집목적 및 이용목적"에서 고지한 범위 내에서 사용하며, 이용자의 사전 동의 없이는 동 범위를 초과하여 이용하거나 제3자에게 제공하지 않습니다. 다만, 아래의 경우에는 예외로 합니다. -->
+						- If there are special regulations in statutes such as the Act on Financial Real Name Transactions and Confidentiality, the Use and Protection of Credit Information, the Telecommunications Basic Act, the Telecommunications Business Act, the Local Tax Act, the Consumer Protection Act, the Bank of Korea Act and the Criminal Procedure Act<!-- 금융 실명거래 및 비밀보장에 관한 법률, 신용정보의 이용 및 보호에 관한 법률, 전기통신기본법, 전기통신사업법, 지방세법, 소비자보호법, 한국은행법, 형사 소송법등 법령에 특별한 규정이 있는 경우 --><br>
+						- In cases where it is judged in good faith that it is required by other laws (ex when there is a request from a government / investigative agency by lawful procedure under applicable law);<!-- 기타 법에 의해 요구된다고 선의로 판단되는 경우 (ex. 관련법에 의거 적법한 절차에 의한 정부/수사기관의 요청이 있는 경우 등) --><br>
+						- Users agree to release in advance<!-- 이용자들이 사전에 공개에 동의한 경우 --><br>
+						- In violation of Terms of Service or Operating Principles, such as the Terms of Service and any other customer Services posted on the Website<!-- 홈페이지에 게시한 서비스 이용 약관 및 기타 회원 서비스 등의 이용약관 또는 운영원칙을 위반한 경우 --><br>
+						- If you have reason to believe that your personal information must be disclosed in order to take legal action against it by causing mental or physical harm to others through our services<!-- 자사 서비스를 이용하여 타인에게 정신적, 물질적 피해를 줌으로써 그에 대한 법적인 조치를 취하기 위하여 개인정보를 공개해야 한다고 판단되는 충분한 근거가 있는 경우 --><br>
+						- When necessary for settlement of fees according to service provision<!-- 서비스제공에 따른 요금정산을 위하여 필요한 경우 --><br>
+						- When it is necessary for statistical writing, academic research or market research to provide a specific individual in an unidentifiable form<!-- 통계작성,학술연구 또는 시장조사를 위하여 필요한 경우로서 특정개인을 식별할 수 없는 형태로 제공하는 경우 -->
+					</li>
+					<li>The Company may provide or share personal information with its affiliates or partners in order to provide better services to its users If we provide or share your personal information, you will need to know in advance what your affiliates are, what personal information items are shared or shared, why such personal information should be provided or shared, The individual will be informed and will be asked to obtain consent If the user does not consent, it will not be provided or shared with affiliates You may also withdraw your consent at any time, even if you consent to the provision of personal information <!-- 회사는 이용자에게 보다 더 나은 서비스를 제공하기 위하여 개인정보를 제휴사 내지 협력업체에게 제공하거나 공유할 수 있습니다. 개인정보를 제공하거나 공유할 경우에는 사전에 이용자에게 제휴사등이 누구인지, 제공 또는 공유되는 개인정보항목이 무엇인지, 왜 그러한 개인정보가 제공되거나 공유되어야 하는지, 언제까지 어떻게 보호, 관리되는지에 대해 개별적으로 고지하여 동의를 구하는 절차를 거치게 되며, 이용자가 동의하지 않은 경우에는 제휴사 등에게 제공하거나 공유하지 않습니다. 또한 이용자가 일단 개인정보의 제공에 동의하더라도 언제든지 그 동의를 철회할 수 있습니다. --></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>8 Regarding the user's personal information management (reading, correcting, deleting, etc)<!-- 8. 이용자 자신의 개인정보 관리(열람,정정,삭제 등)에 관한 사항 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>Users can log in to the BTC KOREA Corporation website (wwwxcoincokr) at any time and read or correct the user's personal information by changing the customer's information In addition, we will correct if you request by e-mail or in writing to the person in charge of personal information management on the company's homepage However, the customer ID and the name can not be corrected <!--이용자는 언제든지 빗썸 홈페이지(www.bithumb.com)에 로그인하셔서 회원정보변경에서 이용자의 개인정보를 열람하시거나 정정하실 수 있으며 회사 홈페이지(www.bithumb.com)의 개인정보관리책임자에게 전자우편 또는 서면으로 요청하신 경우 정정하여 드리겠습니다. 단, 회원아이디(ID), 성명은 정정이 불가능합니다.--></li>
+					<li>Users may withdraw your consent to withdraw or terminate your consent to the collection and use of your personal information and to withdraw your consent to third parties through e-mail, telephone, fax or other means In this case, the user must provide his / her ID and e-mail address for proof of identity <!-- 이용자는 개인정보의 수집, 이용에 대한 동의 철회(해지) 및 제3자에게 제공한 동의의 철회는 E-mail, 전화, 팩스,기타의 방법을 통하여 할 수 있으며 이 경우, 이용자는 동일성 증명을 위하여 반드시 회원아이디(ID)와 이메일 주소를 밝히셔야 합니다. --></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>9 Matters concerning the operation of cookies(cookies)<!-- 9. 쿠키(cookie)의 운영에 관한 사항--></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>In order to provide customized services tailored to the customers, the company operates 'cookies' (cookies) to store and retrieve information from time to time The Company identifies your computer with respect to cookie management, but does not personally identify you <!-- 회사는 회원들에게 특화된 맞춤서비스 등을 제공하기 위해서 이용자의 정보를 수시로 저장하고 찾아내는 '쿠키(Cookie, 접속정보파일)'를 운용합니다. 회사는 쿠키 운용과 관련하여 이용자의 컴퓨터는 식별하지만 이용자를 개인적으로 식별하지는 않습니다. --></li>
+					<li>The user has a choice of 'cookies' And the user can accept all cookies by selecting [Tools]&gt; [Internet Options]&gt; [Security]&gt; [User Defined Level] in the web browser, check each time a cookie is saved, or refuse to store all cookies However, if you refuse to store all cookies, you will not be able to use the services provided by the company through cookies <!-- 이용자는 '쿠키'에 대한 선택권을 가지고 있습니다. 이용자는 웹브라우저에서 [도구]>[인터넷옵션]>[보안]>[사용자정의수준]을 선택함으로써 모든 쿠키를 허용하거나, 쿠키가 저장될 때 마다 확인을 거치거나, 아니면 모든 쿠키의 저장을 거부할 수 있습니다. 단, 모든 쿠키의 저장을 거부하는 경우, 쿠키를 통해 회사에서 제공하는 서비스를 이용할 수 없습니다. --></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>10 Measures to Ensure the Safety of Personal Information<!--10. 개인정보의 안전성 확보 조치--> </h4></th>
+		</tr>
+		<tr>
+			<td>
+				The Company, pursuant to Article 29 of the Personal Data Protection Act, has the following technical, administrative and physical measures to ensure safety:<!-- 회사는 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다. -->
+				<ul>
+					<li>Minimization and training of personal information handling staff<!-- 개인정보 취급 직원의 최소화 및 교육 --><br>
+					We designate employees who handle personal information and limit them to the person in charge, and implement measures to manage personal information<!-- 개인정보를 취급하는 직원을 지정하고 담당자에 한정시켜 최소화 하여 개인정보를 관리하는 대책을 시행하고 있습니다 --></li>
+					<li>Regular self-audit conducted<!-- 정기적인 자체 감사 실시 --><br>
+					We conduct our own audits on a regular basis (quarterly basis) to ensure the safety of handling personal information<!-- 개인정보 취급 관련 안정성 확보를 위해 정기적(분기 1회)으로 자체 감사를 실시하고 있습니다. --></li>
+					<li>Establishment and implementation of internal management plan<!-- 내부관리계획의 수립 및 시행 --><br>
+					We have established and implemented an internal management plan for the safe handling of personal information<!-- 개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다. --></li>
+					<li>Encryption of personal information<!-- 개인정보의 암호화 --><br>
+					The personal information of the user is encrypted and stored and managed so that only the user can know it, and the important data is using separate security functions such as encrypting the file and transmission data or using the file lock function<!-- 이용자의 개인정보는 비밀번호는 암호화 되어 저장 및 관리되고 있어, 본인만이 알 수 있으며 중요한 데이터는 파일 및 전송 데이터를 암호화 하거나 파일 잠금 기능을 사용하는 등의 별도 보안기능을 사용하고 있습니다. --></li>
+					<li>Technical measures against hacking<!-- 해킹 등에 대비한 기술적 대책 --><br>
+					The company installs security programs, periodically updates and checks, installs systems from outside controlled areas, and technically and physically monitors and blocks them to prevent leakage and damage of personal information caused by hacking or computer viruses <!-- 회사는 해킹이나 컴퓨터 바이러스 등에 의한 개인정보 유출 및 훼손을 막기 위하여 보안프로그램을 설치하고 주기적인 갱신•점검을 하며 외부로부터 접근이 통제된 구역에 시스템을 설치하고 기술적/물리적으로 감시 및 차단하고 있습니다. --></li>
+					<li>Restrict access to personal information<!-- 개인정보에 대한 접근 제한 --><br>
+					We take necessary measures to control access to personal information through granting, modifying, and deleting access to the database system that handles personal information, and we control unauthorized access from outside by using an intrusion prevention system<!-- 개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여,변경,말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다. --></li>
+					<li>Keeping connection logs and preventing forgery<!-- 접속기록의 보관 및 위변조 방지 --><br>
+					We keep and manage the records of access to the personal information processing system for at least six months, and we use security features to prevent forgery, theft and loss of access records<!-- 개인정보처리시스템에 접속한 기록을 최소 6개월 이상 보관, 관리하고 있으며, 접속 기록이 위변조 및 도난, 분실되지 않도록 보안기능 사용하고 있습니다. --></li>
+					<li>Using a lock for document security<!-- 문서보안을 위한 잠금장치 사용 --><br>
+					We keep the documents containing the personal information and the auxiliary storage medium in a safe place with a lock<!-- 개인정보가 포함된 서류, 보조저장매체 등을 잠금장치가 있는 안전한 장소에 보관하고 있습니다. --></li>
+					<li>Access control to unauthorized persons<!-- 비인가자에 대한 출입 통제 --><br>
+					We keep separate physical storage places for personal information and set up access control procedures for them<!-- 개인정보를 보관하고 있는 물리적 보관 장소를 별도로 두고 이에 대해 출입통제 절차를 수립, 운영하고 있습니다. --></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>11 Personal Information Management Officer and Person in Charge<!-- 11. 개인정보관리 책임자 및 담당자 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>The company is doing its best to make sure that you use the good information securely In case of any incidents that are against the notice to you in protecting personal information, the person in charge of personal information management is responsible<!-- 회사는 귀하가 좋은 정보를 안전하게 이용할 수 있도록 최선을 다하고 있습니다. 개인정보를 보호하는데 있어 귀하께 고지한 사항들에 반하는 사고가 발생할 경우 개인정보관리책임자가 책임을 집니다. --></li>
+					<li>The responsibility for maintaining the security of the password of the user ID is related to the user himself / herself The company does not ask the user directly about the password in any way, so please be careful not to let the password leak to the other person Especially if you are online in a public place <!-- 이용자 개인정보와 관련한 아이디(ID)의 비밀번호에 대한 보안유지책임은 해당 이용자 자신에게 있습니다. 회사는 비밀번호에 대해 어떠한 방법으로도 이용자에게 직접적으로 질문하는 경우는 없으므로 타인에게 비밀번호가 유출되지 않도록 각별히 주의하시기 바랍니다. 특히 공공장소에서 온라인상에서 접속해 있을 경우에는 더욱 유의하셔야 합니다. --></li>
+					<li>Despite the company's technical remedies, we are not liable for damage to information due to unforeseen accidents caused by basic network dangers such as hacking<!-- 회사가 기술적인 보완조치를 했음에도 불구하고, 해킹 등 기본적인 네트워크 상의 위험성에 의해 발생하는 예기치 못한 사고로 인한 정보의 훼손에 관해서는 책임이 없습니다. --></li>
+					<li>
+						The company has designated the personal information administrator and person in charge of collecting opinions and complaints about personal information, and the contact information is as follows<!-- 회사는 개인정보에 대한 의견수렴 및 불만처리를 담당하는 개인정보 관리책임자 및 담당자를 지정하고 있고, 연락처는 아래와 같습니다. -->
+						[Personal information administrator]<!-- [개인정보 관리책임자] --><br>
+						Responsibility: Representative Kim Dae Sik<!-- 책 임 : 김대식 대표 --><br>
+						Charge: Representative Kim Dae Sik<!-- 담 당 : 김대식 대표 --><br>
+						Position: CEO<!-- 직 위 : 대표이사 --><br>
+						Customer Support Office: 1661-5566<!-- 고객지원실 : 미정 --><br>
+						E-mail : <a href="mailto:contact2@bithumb.com">contact2@bithumb.com</a>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th><h4>12 Duty of Notification<!-- 12. 고지의 의무 --></h4></th>
+		</tr>
+		<tr>
+			<td>
+				The contents of the current Privacy Policy will be notified through the" Notice "on the website 7 days before the implementation of the changes, if there is any addition or deletion or modification of the contents due to the change of government policy or security technology<!-- 현 개인정보취급방침의 내용은 정부의 정책 또는 보안기술의 변경에 따라 내용의 추가 삭제 및 수정이 있을 시에는 변경사항의 시행 7일 전부터 홈페이지의 '공지사항'을 통해 고지할 것입니다. -->
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<!--// contents -->
+<input type="hidden" id="tradePassCheck" value="N">
+<div id="payPasswordLayer" class="g_layer">
+	<div class="title">
+		<span class="g_left">Register security password</span>
+	</div>
+	<div class="content align_center">
+		<div class="subtitle align_left">Register a security password to prevent hacking incidents and enhance <br> security.</div>
+		<input type="password" class="g_text input_type" id="payPasswordReg" placeholder="Four digit security password" maxlength="4"><br>
+		<span id="payPasswordText" class="hidden_text align_left"></span><br>
+		<input type="password" class="g_text input_type" id="payPasswordRegConfirm" placeholder="Check security password" maxlength="4"><br>
+		<span id="payPasswordRegConfirmText" class="hidden_text align_left"></span><br>
+		<table class="g_table">
+			<colgroup>
+				<col width="100">
+				<col>
+			</colgroup>
+			<tbody><tr>
+				<th>Mobile phone verification</th>
+				<td class="align_left">
+					<input type="tel" class="g_text input_sms" id="payPasswordSMS" placeholder="Enter verification code" maxlength="6">
+					<span class="btn_blue_s" id="btnPaySMS" data-type="reg">Request</span>
+					<span class="sms_time_count"></span>
+				</td>
+			</tr>
+		</tbody></table>
+		<span id="certifyText" class="hidden_text align_left"></span>
+		<div class="g_btn_wrap">
+			<span class="btn_blue" id="btnPayPasswordReg">Registration</span>
+		</div>
+	</div>
+</div>
+
+<div id="payPasswordEditLayer" class="g_layer">
+	<div class="title">
+		<div class="g_left">Change security password</div>
+		<div class="close_btn close_btn_b"></div>
+	</div>
+	<div class="content align_center">
+		<div class="subtitle align_left">Change your security password regularly to prevent hacking incidents.</div>
+		<input type="password" id="payPasswordNow" class="g_text input_type" placeholder="Enter current password" maxlength="4">
+		<span id="payPasswordNowText" class="hidden_text align_left"></span>
+		<input type="password" id="payPasswordEdit" class="g_text input_type" placeholder="Enter new password" maxlength="4">
+		<span id="payPasswordEditText" class="hidden_text align_left"></span>
+		<input type="password" id="payPasswordEditConfirm" class="g_text input_type" placeholder="Verify new password" maxlength="4">
+		<span id="payPasswordEditConfirmText" class="hidden_text align_left"></span>
+		<table class="g_table">
+			<colgroup>
+				<col width="120">
+				<col>
+			</colgroup>
+			<tbody><tr>
+				<th>Mobile phone verification</th>
+				<td class="align_left">
+					<input type="tel" class="g_text input_sms" id="payPasswordSMSEdit" placeholder="Enter verification code" maxlength="6">
+					<span class="btn_blue_s" id="btnPaySMSEdit" data-type="edit">Request</span>
+					<span class="sms_time_count"></span>
+				</td>
+			</tr>
+		</tbody></table>
+		<span id="payPasswordSMSEditText" class="hidden_text align_left"></span>
+		<div class="g_btn_wrap">
+			<span class="btn_blue" id="btnPayPasswordEdit">Change</span>
+		</div>
+	</div>
+</div>
+
+<div id="payPasswordReset" class="g_layer">
+	<div class="title">
+		<div class="g_left">Reset security password</div>
+		<div class="close_btn close_btn_b"></div>
+	</div>
+	<div class="content align_center">
+		<div class="subtitle align_left">Temporary security password will be sent to your registered e-mail address.</div>
+		<input type="email" class="g_text input_type" id="payPasswordEmail" readonly="" value="">
+		<table class="g_table">
+			<colgroup>
+				<col width="100">
+				<col>
+			</colgroup>
+			<tbody><tr>
+				<th>Mobile phone verification</th>
+				<td class="align_left">
+					<input type="tel" class="g_text input_sms" id="payPasswordSMSReset" placeholder="Enter verification code" maxlength="6">
+					<span class="btn_blue_s" id="btnPaySMSReset" data-type="reset">Request</span>
+					<span class="sms_time_count"></span>
+				</td>
+			</tr>
+		</tbody></table>
+		<span id="payPasswordSMSResetText" class="hidden_text align_left"></span>
+		<div class="g_btn_wrap">
+			<span class="btn_blue" id="btnPayPasswordReset" data-type="reset">Send e-mail</span>
+		</div>
+	</div>
+</div>
+
+<div id="emailReglayer" class="g_layer">
+	<div class="title">
+		<div class="g_left">Register e-mail</div>
+	</div>
+	<div class="content align_center">
+		<div class="subtitle align_left">Resetting your security password will be available on registering your <br>e-mail address.</div>
+		<input type="email" class="g_text input_type" id="payPasswordEmailReg" placeholder="E-mail address" maxlength="50"><br>
+		<div id="payPasswordEmailRegText" class="hidden_text align_left"></div>
+		<div class="g_btn_wrap">
+			<span class="btn_blue" id="btnMailSend" data-type="reg">Send verification e-mail</span>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	function stockpop(){
+		var obj = document.getElementById("stockpopup");
+		if(obj.style.display == "block"){
+			obj.style.display = "none";
+		}
+		else{
+			obj.style.display = "block";
+		}
+	}
+</script>
+
+<!-- Footer -->
+<ul class="f_menu">
+	<li class="frst"><a href="/u1/US103">About us</a></li>
+	<li>
+		<a href="https://www.bithumbstory.com/?utm_source=inhousemkt&amp;utm_medium=170713&amp;utm_campaign=blog" target="_blank">Bithumb story</a>
+	</li>
+	<li><a href="#" onclick="openPopupCenter('/u1/US106_P1', 'agreement', '900px', '500px', 'scrollbars=yes');">terms and conditions</a></li>
+	<li><a href="/u1/US108">Privacy Policy</a></li>
+	<li><a href="/u1/US129">Terms of Use</a></li>
+        <li><a href="/u1/US133">Partnership request</a></li>
+    	<li><a href="/u1/US127">API</a></li>
+</ul>
+</div>
+
+<div id="footer_wrap">
+	<div id="footer">
+		<div class="in">
+						<div class="adr">
+				BTC KoreaCom Corporation | 17, Teheran-ro 16-gil, Gangnam-gu, Seoul, Korea (Dongwoo Building) | 
+				CEO, Daesik Kim | Company registration No. 220-88-71844								<br> Telecommunication service registration No. 2014-Seoul Gangnam-00168<br>
+
+                <strong>Customer Support</strong> | 120, Yeoksam-ro, Gangnam-gu, Seoul, Korea(Sungbo Building) <br>
+				Phone 82-2-1661-5551 | <a href="mailto:contact2@bithumb.com">contact2@bithumb.com</a><br>
+                Response Time Weekday (GMT+09) 09:30~18:30<br>
+				<span class="copyright">Copyright(c)2013 bithumb. All Rights Reserved.</span>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="/resources/js/highstock.js?v=170827223258"></script>
+	<script type="text/javascript" src="/resources/js/highcharts-more.js?v=170827223259"></script>
+	<script type="text/javascript" src="/resources/js/data.js?v=170827223256"></script>
+	<!--// alert -->
+<script type="text/template" id="alert">
+	<div class="_wModal _wModal_yesNo">
+		<div class="_wModal_header">
+			<span class="_wModal_title"></span>
+			<div class="_wModal_close _wModal_btn_cancel"></div>
+		</div>
+		<div class="_wModal_msg"></div>
+		<div class="_wModal_btns_center">
+			<div class="_wModal_btn _wModal_btn_blue _wModal_btn_yes">confirm</div>
+		</div>
+	</div>
+</script>
+<script type="text/template" id="confirm">
+	<div class="_wModal _wModal_yesNo">
+		<div class="_wModal_header">
+			<span class="_wModal_title"></span>
+			<div class="_wModal_close _wModal_btn_cancel"></div>
+		</div>
+		<div class="_wModal_msg"></div>
+		<div class="_wModal_btns_right">
+			<div class="_wModal_btn _wModal_btn_grey _wModal_btn_no">Cancel</div>
+			<div class="_wModal_btn _wModal_btn_green _wModal_btn_yes">approve</div>
+		</div>
+	</div>
+</script>
+<!--// alert -->
+<!--// Footer -->
+</div>
+<!--// Wrap -->
+
+<script type="text/javascript" src="//static.tagmanager.toast.com/tag/view/719"></script>
+
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-46635015-2', 'auto');
+		ga('send', 'pageview');
+
+		
+		try{
+			var gg_pageview = _cookie.get('gg_pageview');
+
+			if(gg_pageview != '') {
+				/**
+				 * 성과측정 위한 가상 url 생성
+				 */
+				ga('send', 'pageview', gg_pageview);
+
+				_cookie.remove('gg_pageview');
+
+				/**
+				 * 페이스북 전환스크립트 픽셀
+				 */
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '1913504568886678'); // Insert your pixel ID here.
+				fbq('track', 'PageView');
+				fbq('track', 'CompleteRegistration');
+			}
+
+			/**
+			 * AceTrace 신규광고 진행 관련 스크립트
+			 * static.tagmanager.toast.com/tag/view/719
+			 */
+			window.ne_tgm_q = window.ne_tgm_q || [];
+			window.ne_tgm_q.push(
+				{
+					tagType: 'visit',
+					device: 'web',
+					pageEncoding: 'utf-8',
+					orderNo: '1',
+					items: [{
+						id: gg_pageview,
+						price: '1',
+						quantify: '1',
+						name: gg_pageview,
+						link: gg_pageview
+					}],
+					totalPrice: '1'
+				}
+			);
+
+			if(gg_pageview.indexOf('join') != -1){
+				window.ne_tgm_q.push(
+					{
+						tagType: 'conversion',
+						device: 'web',
+						pageEncoding: 'utf-8',
+						orderNo: '1',
+						items: [{
+							id: gg_pageview,
+							price: '1',
+							quantify: '1',
+							name: gg_pageview,
+							link: gg_pageview
+						}],
+						totalPrice: '1'
+					}
+				);
+			}
+		}
+		catch(e){
+			console.log(e);
+		}
+	</script>
+
+		<script type="text/javascript" src="https://wcs.naver.net/wcslog.js"></script>
+	<script type="text/javascript">
+		try{
+			if(!wcs_add) var wcs_add = {}; wcs_add["wa"] = "55c57830de52c4"; wcs_do();
+		}
+		catch(e){
+			console.log(e);
+		}
+	</script>
+		
+<noscript>
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1913504568886678&ev=PageView&noscript=1">
+</noscript>
+
+</div></body></html>
