@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602222208id_/http%3A//www.kgieworld.sg/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904161820id_/http%3A//www.kgieworld.sg/en/privacy-statement) for the most accurate reproduction.*
 
 # KGI Futures (Singapore) Pte. Ltd. - Privacy Statement
 
