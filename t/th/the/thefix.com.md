@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623180217id_/https%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904035456id_/https%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fix
 
   1. [Home](https://web.archive.org/)
-  2. Privacy Policy
 
 
 
@@ -179,6 +178,21 @@ _Malibu, CA_
 
 _$58,000/mo. for a semi-private room;_  
   
+[ ](https://web.archive.org/sober-college) | 
+
+###  [Sober College](https://web.archive.org/sober-college)
+
+  
+
+
+At Sober College, young people learn life skills and can take accredited college courses while going through treatment for addiction. 
+
+Rating: 4.5 stars
+
+_Woodland Hills, CA_
+
+_$15,000 - $25,000 per month;_  
+  
 [ ](https://web.archive.org/content/aton-center-san-diego-rehab00430) | 
 
 ###  [AToN Center](https://web.archive.org/content/aton-center-san-diego-rehab00430)
@@ -192,7 +206,7 @@ Rating: 4.5 stars
 
 _San Diego_
 
-_$45,000/mo._  
+_$45,000 - $149,900 per month_  
   
 [ ](https://web.archive.org/genesis-house) | 
 
@@ -252,19 +266,4 @@ Rating: 4.5 stars
 
 _Austin, TX_
 
-_$190/day_  
-  
-[ ](https://web.archive.org/content/authentic-recovery-center-arc) | 
-
-###  [Authentic Recovery Center (ARC)](https://web.archive.org/content/authentic-recovery-center-arc)
-
-  
-
-
-Traffic fumes aside, Authentic Recovery Center is a haven for addicts seeking individualized care. 
-
-Rating: 4.5 stars
-
-_Los Angeles_
-
-_$28,500_
+_$190/day_
