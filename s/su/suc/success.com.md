@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the success.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609191937id_/http%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the success.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904024532id_/http%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SUCCESS
 
@@ -106,4 +106,4 @@ This Site may provide links to other web sites that SUCCESS thinks you will find
 
 If you choose to visit our Site, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use/). By visiting the Site, using the services offered on the Site, or submitting and/or posting content to the Site, you agree that the laws of the State of Texas, without regard to principles of conflict of laws, will govern this Agreement and any dispute of any sort that might arise between you and us. Any dispute relating in any way to your visit to the Site, using the services offered on the Site and/or submitting and/or posting content on the Site, shall be adjudicated in any state court in Collin County, Texas, or any federal court in the Northern District of Texas and you and we consent to exclusive jurisdiction and venue in such courts and waive any and all claims of inconvenient forum and immunity. YOU AND WE EXPRESSLY AGREE HEREBY, TO THE FULLEST EXTENT PERMITTED BY LAW TO WAIVE THE RIGHT TO A TRIAL BY JURY.
 
-Updated: August, 2015
+Updated: June, 2017
