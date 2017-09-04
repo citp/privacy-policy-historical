@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themerex.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022753id_/http%3A//themerex.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themerex.net privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904133008id_/https%3A//themerex.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThemeRex
+# Privacy Policy - ThemeRex
 
 ThemeREX appreciates your business and trust. This Privacy Policy is a liability statement addressed to all our customers and visitors to explain which information can be requested from them in order to be able to provide products and services.  
 This Privacy Policy does not refer to any aspects or companies that ThemeREX has no control over.  
