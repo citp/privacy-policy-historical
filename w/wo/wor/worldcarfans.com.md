@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051342id_/http%3A//www.motor1.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904163700id_/http%3A//www.motor1.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motor1.com
 
-**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTOR1.COM PRODUCT OR SERVICE.**
+## PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT NETWORK, LLC PRODUCT OR SERVICE.
 
-Motor1.com produces and publishes the Motor1.com Website (this "Website"), downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+Motorsport Network, LLC produces and publishes multiple websites, one of them being the Motor1.com Website (this "Website") as well as downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
-  1. [Personal Information Collected Via Our Services](http://www.motor1.com/info/privacy-policy/#section-1)
-  2. [How We Use and Share Your Personal Information](http://www.motor1.com/info/privacy-policy/#section-2)
-  3. [Additional Information About Collection of Location Data](http://www.motor1.com/info/privacy-policy/#section-3)
-  4. [Additional Information About Our Access to Your Contact](http://www.motor1.com/info/privacy-policy/#section-4)
-  5. [Other Information Collected And Shared Within Our Services](http://www.motor1.com/info/privacy-policy/#section-5)
-  6. [Other Circumstances When Your Data May Be Shared](http://www.motor1.com/info/privacy-policy/#section-6)
-  7. [Managing Your Information](http://www.motor1.com/info/privacy-policy/#section-7)
-  8. [Other Information](http://www.motor1.com/info/privacy-policy/#section-8)
+  1. Personal Information Collected Via Our Services
+  2. How We Use and Share Your Personal Information
+  3. Additional Information About Collection of Location Data
+  4. Additional Information About Our Access to Your Contact
+  5. Other Information Collected And Shared Within Our Services
+  6. Other Circumstances When Your Data May Be Shared
+  7. Managing Your Information
+  8. Other Information
 
 
 
 ### 1\. Personal Information Collected Via Our Services
 
-**Information You Provide.** You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to:
+**Information You Provide.**  You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to:
 
   * Full name,
   * Email address,
@@ -38,16 +38,42 @@ If we collect such information, in most instances, the applicable page(s) or loc
 
 ### 2\. How We Use and Share Your Personal Information
 
-If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may:
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law.
+
+We may use and share your personal information as described in Section 1 as follows:
 
   * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list;
   * Use your information to send you electronic communications, including emails about the Website applicable to your interactions with our Website, and about products, services, sponsors, partners and affiliates when you make a purchase, agree to rules or terms, or otherwise engage with our Website, to the extent the sending of such electronic communication is permissible under applicable law;
-  * Share your information with certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you’ve requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
   * Use and share your information with one or more race series or related entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such race series or related entities (e.g., you've asked to receive the newsletter of a race series or you've purchased race series-specific merchandise), so they may learn more about fans like you, add you to the race series' postal mail list and provide better services to you;
-  * Share your information upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
-  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your Motor1.com experience;
-  * Use and share your information in connection with online loyalty, membership or rewards programs operated from our Services or with a third party from which you may receive goods or services in connection with such a program; **or**
+  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your experience;
+  * Use and share your information in connection with online loyalty, membership or rewards programs operated from our Services or with a third party from which you may receive goods or services in connection with such a program; or
   * Use and share your information with permission from you.
+
+
+
+We may use your personal information:
+
+  * For our statistical, research, recordkeeping, and reporting purposes;
+  * For our own marketing purposes;
+  * To personalize and improve your experience; and
+  * To monitor for compliance with our Terms of Service.
+
+
+
+We may share personal information:
+
+  * With certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you’ve requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
+  * Upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
+  * With our subsidiaries and affiliates for their direct marketing purposes;
+  * With third parties, including for their direct marketing purposes;
+  * With service providers that help us operate our business;
+  * With our affiliates and with service providers that help us operate our business;
+  * With government entities as needed to provide our services and where required by law;
+  * As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy;
+  * Pursuant to a subpoena, court order, or other legal process;
+  * To investigate, respond to or resolve problems or inquiries (including law enforcement requests) or protect, enforce, or defend our rights, assets and/or interests;
+  * To prevent or respond to a violation of any law, regulation, or our Terms of Service; or
+  * With your consent or as otherwise disclosed at the time of collection.
 
 
 
@@ -71,7 +97,7 @@ We use and permit automatic methods such as cookies (small amounts of data which
 
 
 
-We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by [clicking here](http://www.aboutads.info/choices/). If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information or find additional opt-out tools operated by advertising industry associations encompassing even more network advertisers, please [click here](http://www.aboutads.info/).
+We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by [clicking here.](http://www.aboutads.info/choices/) If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information or find additional opt-out tools operated by advertising industry associations encompassing even more network advertisers, please [click here.](http://www.aboutads.info/)
 
   * _Social Networking_
 
@@ -83,7 +109,7 @@ When using our Services or when using certain third party social networking serv
 
 
 
-When you use our Mobile Application, we or our third party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](http://www.flurry.com/user-opt-out.html) and follow the instructions.
+When you use our Mobile Application, we or our third-party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third-party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](https://developer.yahoo.com/user-opt-out.html) and follow the instructions.
 
 ### 6\. Other Circumstances When Your Data May Be Shared
 
@@ -97,7 +123,7 @@ We may share aggregated demographic information with third parties. This informa
 
 
 
-As time passes, Motor1.com may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+As time passes, Motorsport Network, LLC may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
 
   * _Disclosure for Legal Purposes._
 
@@ -107,11 +133,11 @@ We may be required to share your personal and non-personal information pursuant 
 
 ### 7\. Managing Your Information
 
-You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](http://www.motor1.com/login) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://www.motorsport.com/login/) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options _not_ to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
 
-If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call Motor1.com directly at +1 305 877 30 97.
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call Motorsport Network directly at +1 305 877 30 97.
 
 Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
 
@@ -133,15 +159,15 @@ The account information associated with any of our Services is password protecte
 
 
 
-Our Services contain links to other websites and products produced by Motor1.com and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+Our Services contain links to other websites and products produced by Motorsport Network, LLC, and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
 
   * _Your California Privacy Rights._
 
 
 
-If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motor1.com](mailto:privacy@motor1.com) or write to us at: Motor1.com, Privacy Administrator, 4100 NE 2nd Avenue, suite 302, Miami Design District, FL 33137, USA..
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport Network, LLC, Privacy Administrator, 5972 NE 4th Avenue Miami, FL 33137, USA.
 
-  * _Special Rules For Children._
+  * _Special Rules for Children._
 
 
 
@@ -153,15 +179,19 @@ Because of federal law, we are not permitted to knowingly collect any personal i
 
 If you have questions or concerns about this Privacy Policy, you can contact us at:
 
-**Privacy Administrator**  
- **Motor1.com**  
-4100 NE 2nd Avenue, suite 302  
-Miami Design District, FL 33137  
+**Privacy Administrator**
+
+**Motorsport Network, LLC**
+
+5972 NE 4th Avenue
+
+Miami, FL 33137
+
 USA
 
-**Phone:** +1 305 877 3097
+**Phone:**  +1 305 507 87 99
 
-Or send an email to [privacy@motor1.com](mailto:privacy@motor1.com)
+Or send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com)
 
   * _Notification of Changes._
 
@@ -169,4 +199,4 @@ Or send an email to [privacy@motor1.com](mailto:privacy@motor1.com)
 
 If we make an important change to this Privacy Policy, we will post a notification and link on our Website's homepage and within our Applications, Mobile Games and Social Games so that you may review the updated policy.
 
-**LAST UPDATED AND EFFECTIVE DATE: JULY 10, 2014**
+**Last updated and effective date: May 12, 2017.**
