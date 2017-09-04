@@ -1,591 +1,1364 @@
-<!--The following is the downloaded HTML source of the merryjane.com privacy policy that was archived on 2017-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170120074830id_/https%3A//www.merryjane.com/privacy_policy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html><head>
-<meta charset="UTF-8">
-<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0050/3333.js?439013" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKX8NW"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d4e8711470","applicationID":"7223373","transactionName":"ewpeREsKW14HFxtbDFYRVV5NOkdTBQBHFxNKDEZRWhxoQg0JXVsa","queueTime":1,"applicationTime":67,"agent":""}</script>
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<meta content="True" name="HandheldFriendly">
-<meta content="320" name="MobileOptimized">
-<meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0" name="viewport">
-<meta content="on" http-equiv="cleartype">
-<meta content="telephone=no" name="format-detection">
-<meta content="907844355953071" property="fb:app_id">
-<meta content="MERRY JANE" property="og:site_name">
-<meta content="https://www.merryjane.com/privacy_policy" property="og:url">
-<meta content="en_US" property="og:locale">
-<title>Cannabis Culture and News | MERRY JANE</title>
-<meta content="Cannabis Culture and News | MERRY JANE" name="title">
-<meta content="MERRYJANE.COM is the definitive cannabis resource on the culture, news, video, food, and style of the connected generation. Dedicated towards expressing a new cannabis mentality by elevating the culture with exclusive content and relatable perspectives." name="description">
-<meta content="website" property="og:type">
-<meta content="Cannabis Culture and News | MERRY JANE" property="og:title">
-<meta content="MERRYJANE.COM is the definitive cannabis resource on the culture, news, video, food, and style of the connected generation. Dedicated towards expressing a new cannabis mentality by elevating the culture with exclusive content and relatable perspectives." property="og:description">
-<meta content="/images/logo.png" property="og:image">
-<meta content="/images/logo.png" property="og:image:secure_url">
-
-<link rel="shortcut icon" type="image/x-icon" href="https://files.merryjane.com/assets/favicon-0be31388d48acc0703a2560e18e5408b.ico">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon60x60-d02184faf1d0863e028a606abffbbe14.png">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-76ed395424225dd271fb7fb52c93f678.png" sizes="29x29">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall@2x-15a73dff2e44055938cedef9e6402835.png" sizes="58x58">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall@3x-91e9b151ba28da1dc0bf7519d6fe4e8c.png" sizes="87x87">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-40-ac697b670100ffdfc430afdfb4e942ac.png" sizes="40x40">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-40@2x-625551dcf3c87fc6532b4c5808a64ad2.png" sizes="80x80">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-40@3x-eb7301688b51dc4ec5ff123ad6ffca60.png" sizes="120x120">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-50-de08ae4553932e94400ffe1511db2a07.png" sizes="50x50">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-50@2x-0a6511110d69ed936585ebef6305ce96.png" sizes="100x100">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon72x72-7ffde42e4cf8dfab0ef426977ce4ccec.png" sizes="72x72">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon76x76-21fcdca162ee458fac39a7c8b4a9aba8.png" sizes="76x76">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon60x60@2x-dbf5c4b2889c192917c46b72024ea6b7.png" sizes="120x120">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon72x72@2x-721788a84dbcd053a136c05bf374a29f.png" sizes="144x144">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon76x76@2x-4313f233bec76016e02b55bd7bb0075b.png" sizes="152x152">
-<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon60x60@3x-021ded6be1ac0c97ad0b8391effa6e72.png" sizes="180x180">
-
-<script src="https://files.merryjane.com/assets/vendor/modernizr-b91de653ac580a067fac90b9f2a9c529.js"></script>
-<!--[if lt IE 10]>
-<link rel="stylesheet" media="screen" href="https://files.merryjane.com/assets/ie-styles-0704d2f221380354878497b464a0f42c.css" />
-<![endif]-->
-<link rel="stylesheet" media="screen" href="https://files.merryjane.com/assets/application-4e99f50f67bb0683e45ea5f92ab8c14c.css">
-<script src="//use.typekit.net/wpj5agq.js"></script>
-<script>
-  try{Typekit.load();}catch(e){}
-</script>
-
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="AdhuBuMfJ2aRjcIW7PlGn63YSJ07lW4JVeArn0IBPPUPIrANIR9PmkFo8K/b3CDooXhFgJYxUI3pG4ZfJmHcvw==">
-<script src="https://files.merryjane.com/assets/application-89e4e9164ea77ea4e0e175bebbc16076.js"></script>
-
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0050/3333.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
-
-</head>
-<body analytics-key="UA-65189308-1" analytics-on="true" class="small-menu-template">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKX8NW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MKX8NW');</script>
-<!-- End Google Tag Manager -->
-
-<div id="flash-messages"></div>
-
-<div class="fixed nav-wrapper" data-has-brands="false">
-<div class="show-for-small-only">
-<a class="link button" href="/users/sign_up?back=%2Fprivacy_policy">Sign Up</a>
-<a class="link button" href="/users/sign_in">Login</a>
-</div>
-<nav class="main-nav top-bar" data-options="scrolltop: false" data-topbar="true" role="navigation">
-<ul class="title-area show-for-small-only">
-<li class="name">
-<a href="/"><img class="logo" src="https://files.merryjane.com/assets/imago-100dd5ea996e71bb8bf578df51d0e4f7.svg" alt="Imago">
-</a></li>
-<li class="toggle-topbar menu-icon">
-<a href="#">
-<span></span>
-</a>
-</li>
-</ul>
-<section class="top-bar-section categories">
-<ul class="left">
-<li class="category-link">
-<a class=" link" href="/news"><span class="news" style="border-bottom-color: #ac262f">
-News
-</span>
-</a><ul class="featured-articles">
-<div class="section-header right-link">
-<h5>
-Top 5
-News
-articles
-</h5>
-<a class="link" href="/news">View more articles
-</a></div>
-<div class="top-5-wrapper">
-<a class="category show-for-medium-only" href="/news"><div class="cat-image">
-<span class="article-link">View more articles</span>
-</div>
-</a></div>
-</ul>
-</li>
-<li class="category-link">
-<a class=" link" href="/culture"><span class="culture" style="border-bottom-color: #33916b">
-Culture
-</span>
-</a><ul class="featured-articles">
-<div class="section-header right-link">
-<h5>
-Top 5
-Culture
-articles
-</h5>
-<a class="link" href="/culture">View more articles
-</a></div>
-<div class="top-5-wrapper">
-<a class="category show-for-medium-only" href="/culture"><div class="cat-image">
-<span class="article-link">View more articles</span>
-</div>
-</a></div>
-</ul>
-</li>
-<li class="category-link">
-<a class=" link" href="/music"><span class="music" style="border-bottom-color: #6a6eb7">
-Music
-</span>
-</a><ul class="featured-articles">
-<div class="section-header right-link">
-<h5>
-Top 5
-Music
-articles
-</h5>
-<a class="link" href="/music">View more articles
-</a></div>
-<div class="top-5-wrapper">
-<a class="category show-for-medium-only" href="/music"><div class="cat-image">
-<span class="article-link">View more articles</span>
-</div>
-</a></div>
-</ul>
-</li>
-<li class="category-link">
-<a class=" link" href="/health"><span class="health" style="border-bottom-color: #d46d31">
-Health
-</span>
-</a><ul class="featured-articles">
-<div class="section-header right-link">
-<h5>
-Top 5
-Health
-articles
-</h5>
-<a class="link" href="/health">View more articles
-</a></div>
-<div class="top-5-wrapper">
-<a class="category show-for-medium-only" href="/health"><div class="cat-image">
-<span class="article-link">View more articles</span>
-</div>
-</a></div>
-</ul>
-</li>
-<li class="category-link">
-<a class=" link" href="/videos"><span class="videos" style="border-bottom-color: #bc9c4c">
-Videos
-</span>
-</a><ul class="featured-articles">
-<div class="section-header right-link">
-<h5>
-Top 5
-Video
-articles
-</h5>
-<a class="link" href="/videos">View more articles
-</a></div>
-<div class="top-5-wrapper">
-<a class="category show-for-medium-only" href="/videos"><div class="cat-image">
-<span class="article-link">View more articles</span>
-</div>
-</a></div>
-</ul>
-</li>
-</ul>
-<ul class="center">
-<a href="/"><svg id="Layer_1" style="enable-background:new 0 0 306.4 247.1;" version="1.1" viewBox="0 0 306.4 247.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" y="0px">
-<style>
-  .st0{fill:url(#SVGID_1_);}
-  .st1{fill:url(#SVGID_2_);}
-  .st2{fill:url(#SVGID_3_);}
-  .st3{fill:url(#SVGID_4_);}
-  .st4{fill:url(#SVGID_5_);}
-  .st5{fill:url(#SVGID_6_);}
-  .st6{fill:url(#SVGID_7_);}
-  .st7{fill:url(#SVGID_8_);}
-  .st8{fill:url(#SVGID_9_);}
-  .st9{fill:url(#SVGID_10_);}
-</style>
-<g>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="-25.748" x2="290.252" y1="228.3029" y2="-8.6971">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st0" d="M60,0v187.5h187.5V0H60z M128.8,145.4c2.4,0.8,15.5,2.8,20.5,3c-4,0.1-10.6,0.5-12.6,1.2
-		c-1.4,0.5-52.7,17-67.7,21.9V126C86.4,131.6,127.2,144.9,128.8,145.4z M69,116.5V44.4c15.8,20.8,65.8,86.8,66.9,88.2
-		c1.4,1.9,9,8.8,12.8,11.9c-3.8-2.3-14.4-6.9-16.5-7.5C130.9,136.6,87.4,122.5,69,116.5z M149.3,154.7c0,0.6,0,1.3,0,2.1
-		c0,5.5,0,15.3-0.1,21.6H76.5C95.8,172.2,138.2,158.4,149.3,154.7z M158.3,154.7c10.8,3.6,53.5,17.4,72.9,23.8h-72.9
-		C158.2,172.8,158.3,159.3,158.3,154.7z M171,149.6c-2.6-0.9-8.9-1.2-13.3-1.3c0,0,0,0,0,0c5.3-0.2,17.3-2,20.2-2.9
-		c1.6-0.5,43-13.8,60.6-19.5v45.5C223,166.4,172.4,150.1,171,149.6z M174.5,137c-2.3,0.7-11.4,5-15.6,7.5c4-3.2,11.2-10.6,12.7-12.6
-		c1.1-1.5,51.5-67.7,66.8-88v72.5C219.8,122.4,175.8,136.6,174.5,137z M238.4,28.9c-12.8,16.9-73.5,96.9-74.4,98.1
-		c-1.5,1.9-6.4,11.2-8.4,15.9c0.9-5.5,2.6-13.8,2.6-17.2c0-1.9-0.1-97,0-116.7h80.2V28.9z M149.2,9c0,26,0.1,114.8,0.1,116.3
-		c0,2.2,1.3,12.3,2.5,17.5c-2-4.6-6.9-13.1-8.3-15c-0.9-1.2-60.8-80.4-74.5-98.4V9H149.2z"></path>
-</g>
-<g class="brand-name">
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="-9.0408" x2="306.9592" y1="250.5793" y2="13.5793">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st1" d="M0,217.1h6.7l9.1,13.1l9.1-13.1h6.9v29.6h-6.7v-18.2h-0.3l-9,12.6l-9-12.5H6.7v18.1H0V217.1z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_3_" x1="4.0965" x2="320.0965" y1="268.0956" y2="31.0956">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st2" d="M44.4,234.8v5.9h22.9v6.1H37.5v-29.6h29.3v6.1H44.4v5.6H66v6.1H44.4z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_4_" x1="16.4867" x2="332.4867" y1="284.6159" y2="47.6159">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st3" d="M71.9,217.1H91c5.9,0,10.5,3.9,10.5,10.1c0,4.7-2.8,8.1-6.9,9.4l7.2,10.1H94l-6.7-9.7h-8.6v9.7h-6.9V217.1z
-		 M78.8,223v8.7h11c2.9,0,4.6-1.7,4.6-4.4c0-2.2-1.8-4.3-4.7-4.3H78.8z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_5_" x1="28.8577" x2="344.8577" y1="301.1106" y2="64.1106">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st4" d="M106.2,217.1h19.1c5.9,0,10.5,3.9,10.5,10.1c0,4.7-2.8,8.1-6.9,9.4l7.2,10.1h-7.7l-6.7-9.7h-8.6v9.7h-6.9
-		V217.1z M113.2,223v8.7h11c2.9,0,4.6-1.7,4.6-4.4c0-2.2-1.8-4.3-4.7-4.3H113.2z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_6_" x1="38.1138" x2="354.1138" y1="313.4521" y2="76.4521">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st5" d="M167.5,217.1l-11.4,17.5v12.1h-6.9v-11.9l-11.5-17.7h7.7l7.4,10.8l7.2-10.8H167.5z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_7_" x1="57.0914" x2="373.0914" y1="338.7556" y2="101.7555">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st6" d="M177.4,238.6l5.8-3.3c0.5,1.8,3.8,5.3,9.1,5.3c6.2,0,8-5,8-9.4v-14.2h6.9v13c0,11.5-4.8,17.1-14.9,17.1
-		C185.3,247.1,178.7,242.2,177.4,238.6z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_8_" x1="67.6785" x2="383.6785" y1="352.8717" y2="115.8717">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st7" d="M219.9,217.1h6.5l11.7,29.6h-7.2l-1.4-3.8h-12.6l-1.3,3.8h-7.2L219.9,217.1z M219,237h8.3l-4.2-10.6L219,237z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_9_" x1="77.7047" x2="393.7047" y1="366.2399" y2="129.2399">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st8" d="M241.9,217.1h5.1l17.8,18v-18h6.9v29.6H267l-18.1-17.5v17.5h-6.9V217.1z"></path>
-<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_10_" x1="90.1657" x2="406.1656" y1="382.8546" y2="145.8546">
-<stop offset="0" style="stop-color:#C48729"></stop>
-<stop offset="0.4921" style="stop-color:#EAD488"></stop>
-<stop offset="1" style="stop-color:#C48729"></stop>
-</linearGradient>
-<path class="st9" d="M283.5,234.8v5.9h22.9v6.1h-29.8v-29.6h29.3v6.1h-22.4v5.6h21.6v6.1H283.5z"></path>
-</g>
-</svg>
-
-</a></ul>
-<ul class="right">
-<li>
-<a class=" link" href="https://sesh.merryjane.com/?utm_source=merryjane&amp;utm_medium=seshtab&amp;utm_campaign=seshtab"><span class="sesh">
-Sesh
-<div class="underline"></div>
-</span>
-</a></li>
-<li>
-<a class=" link" href="/goods"><span class="goods">
-Goods
-<div class="underline"></div>
-</span>
-</a></li>
-<li>
-<a class=" link" href="/dispensaries"><span class="dispensaries">
-Dispensaries
-<div class="underline"></div>
-</span>
-</a></li>
-<li>
-<a class=" link" href="/store"><span class="store">
-Store
-<div class="underline"></div>
-</span>
-</a></li>
-<li class="registration-buttons show-for-medium-up">
-<a class="link button" href="/users/sign_up?back=%2Fprivacy_policy">Sign Up</a>
-<a class="link button" href="/users/sign_in">Login</a>
-</li>
-</ul>
-</section>
-</nav>
-
-</div>
-
-<div class="content-pages-wrapper">
-<div class="video-wrapper">
-<video autoplay="" id="bgvid" loop="" muted="" poster="https://files.merryjane.com/uploads/about_poster.png" preload="">
-<source src="https://files.merryjane.com/uploads/about_video.webm" type="video/webm">
-<source src="https://files.merryjane.com/uploads/about_video.mp4" type="video/mp4">
-</video>
-</div>
-
-<div class="privacy-wrapper row">
-<div class="main-content">
-<h1 class="text-left">Privacy Policy</h1>
-<h5>Last Update: October 2016</h5>
-<p>Welcome to MERRYJANE.com (the "Site"), provided by MERRY JANE, Inc., and its affiliates, subsidiaries, parent company and other related companies ("Us", "We", or "MERRY JANE"). This MERRY JANE.com Privacy Policy ("Policy") describes the information we gather from you when you use the Site, mobile applications, and related services (together, the "Services") and how we use, process, and disclose that information. We may add to this Policy with other notices. We may also post additional privacy statements for some portions of the Services. By submitting personal information through our Services, you expressly consent to the transfer of your personal data to our servers in the U.S. for our collection, use, and disclosure in accordance with this Policy.</p>
-
-<p>This privacy policy describes how MERRY JANE collects and uses the personal information you provide us and it also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
-
-<p>When registering for MERRY JANE you can be certain that we have implemented comprehensive security practices to ensure that only registered users and those people who are provided authorized access to, can see your MERRY JANE site. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.MERRY JANE.com (the “Site”).</p>
-
-<h1>&nbsp;</h1>
-
-<h1>Information You Provide</h1>
-
-<p>When registering with an email address, we collect your full name, company or organization name and email address. When making a purchase, MERRY JANE will collect credit card information and use a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on MERRY JANE’s behalf.</p>
-
-<p>You may also provide personal information about other people, such as their name and email address. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.</p>
-
-<p>If your personal information changes, or if you no longer desire our service, you can modify, update, delete your account information at anytime by clicking on the Settings icon in the global navigation bar at the top right of the screen or by contacting us at the contact information listed below. We will respond to any requests for access to personal information within 30 days. MERRY JANE’s practice is not to use such personal information for marketing purposes unless explicitly authorized. MERRY JANE may use the collected personal information and other information MERRY JANE collects for billing, identification and authentication, to contact you, research purposes and to generally improve the content and functionality of the Site. On occasion we may send out email newsletters, if you wish to opt out of these newsletters, please follow the unsubscribe directions in these emails.</p>
-
-<p>MERRY JANE will retain your information for as long as your account is active or as needed to provide you services. We will also retain personal data we process on behalf of our clients for as long as needed to provide services to our client. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-
-<p>MERRY JANE may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Site, which may require that your personal information be transferred from your current location to the offices and servers of MERRY JANE and the authorized third parties referred to here. These companies are authorized to use your personal information only as necessary to provide these services to us. Although MERRY JANE owns the software, code, databases, and all rights to the MERRY JANE application, you retain all rights to your data.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_azsf1u673sgw"></a>Information Related to Data Collected for our Clients</h2>
-
-<p>MERRY JANE collects information under the direction of its clients and has no direct relationship with the individuals whose personal data it processes.</p>
-
-<p><strong>Choice</strong> – We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.</p>
-
-<p><strong>Service Provider, Sub-Processors/Onward Transfer</strong> – MERRY JANE may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.</p>
-
-<p><strong>Access to Data Controlled by our Clients</strong> – MERRY JANE has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the MERRY JANE client (the data controller). If the client requests MERRY JANE to remove the data, we will respond to their request within 30 business days.</p>
-
-<p>&nbsp;</p>
-
-<h3><a name="_az0o6no61dbd"></a>Information We Collect</h3>
-
-<p>When you create an account, we collect the following types of information from you:</p>
-
-<ol>
-	<li>Name;</li>
-	<li>Contact information such as your email address and phone number;</li>
-	<li>Demographics information such as your gender and location;</li>
-	<li>Any other information, such as reviews, content, and bio, you provide us.</li>
-</ol>
-
-<p>If you create an account using, or otherwise connect your account to, a social networking services account (e.g. Twitter or Facebook), we may also collect information provided to us by such social networking service including for example your: name; email address; birthday; geographic location; interests; profile picture; gender; networks; user ID; list of friends; and any information you have made public on such social networking account.</p>
-
-<p>We automatically collect information about how you use our services, for example, pages you have viewed. We also collect certain technical information about your device including your Internet protocol address, geo-location information, your browser type, language and identifying information, your operating system and application version, device types, device model and manufacturer, device identifiers, , and your device operating system type and version.</p>
-
-<p>We also use cookies, Web beacons, and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Cookies are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which usually stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Web beacons are digital images that are used to log information on the Services or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use Web beacons to tell if you open or act on our emails.</p>
-
-<p>Others, including third party analytics service providers and advertising partners may also collect personally identifiable information about your online activities over time and across different Web sites when you use our Services, including as described in this Privacy Policy. This Policy does not apply to and we are not responsible for those other parties. Third party analytics services may use cookies and web beacons through our Site (for example Google Analytics, ChartBeat, and Mixpanel) and platform device identifiers and software agents on and through our mobile Services (for example Flurry Analytics, Urban Airship, and Mixpanel) to provide us with information about how you use and interact with our Site. We encourage you to review the privacy policies of these third parties to learn about your choices about information they collect from you.</p>
-
-<h3>&nbsp;</h3>
-
-<h3><a name="_e4ilnawnqy11"></a>Sharing Of Your Information</h3>
-
-<p>The MERRY JANE Services may allow you to connect and share your actions, comments, content, profile, and information publicly or with other people. You may control some of the categories of personal information shared via your profile from the account settings menu on the Site. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others.</p>
-
-<p>The Services may also provide you with the option to share certain information from your MERRY JANE account with social networking services like Facebook, Google, or Twitter. We are not responsible for the use or re-sharing by others of any of your information once it is made public. If you do not want your information to be made public, you should not use the MERRY JANE Services in this manner and/or you should adjust your privacy setting\s on the applicable social networking service accordingly. We are not responsible for and we do not control these social networking services privacy practices. Please review the applicable privacy policy for information about how they use your information.</p>
-
-<h3>&nbsp;</h3>
-
-<h3><a name="_2vfqdxtlpnzg"></a>How MERRY JANE Uses Your Information</h3>
-
-<p>MERRY JANE generally uses your information to:</p>
-
-<ol>
-	<li>Facilitate the creation of and secure your account on the Services;</li>
-	<li>Identify you as a user in our system;</li>
-	<li>Provide, personalize, and improve the Services;</li>
-	<li>Communicate with you about your use of the Services;</li>
-	<li>Develop new products and services,</li>
-	<li>Customize the advertising you view and recommend content;</li>
-	<li>Fulfill your requests;</li>
-	<li>Send newsletters, surveys, offers and promotional materials related to the Services and for other marketing purposes of MERRY JANE using your contact information;</li>
-	<li>Protect, investigate, and prevent potentially fraudulent, unauthorized, or illegal activities;</li>
-	<li>Protect our rights and the rights of other users; and</li>
-	<li>As otherwise described in this Privacy Policy or in notices we provided to you.</li>
-</ol>
-
-<p>We may also use your information to verify your geographic location. We may use your geographic location data to personalize our Service, to recommend content, determine whether the information you have requested is available in your location.</p>
-
-<h3>&nbsp;</h3>
-
-<h3><a name="_u1tmgpi3pf8b"></a>How MERRY JANE Discloses Your Information</h3>
-
-<p>We may share your information as follows:</p>
-
-<ol>
-	<li>We may share your personal information with your consent or at your direction.</li>
-	<li>We may also share your information with others who perform services on our behalf (for example, with Twilio if you make a call using the Service).</li>
-	<li>We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.</li>
-	<li>We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect MERRY JANE and our Services; or any rights, property, or personal safety of MERRY JANE or others.</li>
-	<li>In the event that MERRY JANE is or may be acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of or in connection with the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.</li>
-</ol>
-
-<p>We may also share aggregated and anonymized data with our partners, advertisers, and other third parties.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_ki56sxizwm9f"></a>Cookies and Tracking Technologies</h2>
-
-<p>Technologies such as: cookies, beacons, tags and scripts are used by MERRY JANE Inc. and our partners, marketing partners, affiliates, or analytics or service providers, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
-
-<p>We may use cookies to remember users’ settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_i4q6zi1vksfp"></a>Analytics / Log Files</h2>
-
-<p>As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p>
-
-<p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_bi3cymdwv4yn"></a>Local Storage</h2>
-
-<p>We use Local Storage (LS) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LS.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_d4jf1m69d3uz"></a>Behavioral Advertising/Re-Targeting</h2>
-
-<p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/">here</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_5kfl6572vst9"></a>Information Sharing</h2>
-
-<p>Except as described in this policy, MERRY JANE will not give, sell, rent, share or loan any personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. MERRY JANE may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personal information.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_3b9xrjkbnq69"></a>Children’s Personal Information</h2>
-
-<p>The Service and Site are not intended for, nor does MERRY JANE knowingly collect any personal information from children under the age of 18.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_480ahj8b8wkc"></a>Protection of Information</h2>
-
-<p>The security of your personal information is important to us. MERRY JANE maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. When you enter sensitive information, such as a credit card number, on our order forms and login credentials on our platform login page, we encrypt the transmission of that information using secure socket layer technology (SSL). These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure due to the nature of the distributed network that is the Internet. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@merryjane.com.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_cbk5j6szrll6"></a>Links to 3rd Party Sites</h2>
-
-<p>Our site includes links to other web sites whose privacy practices may differ from those of MERRY JANE. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_jfxe2h8kxww8"></a>Blog / Forum</h2>
-
-<p>Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us at support@MERRYJANE.COM. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_pnv75opitxfl"></a>Social Media Widgets</h2>
-
-<p>Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_ljikkdgnm55t"></a>Single Sign-On</h2>
-
-<p>You can log in to our site using sign-in services from Google. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.</p>
-
-<p>&nbsp;</p>
-
-<h3><a name="_2y51aar9bc1"></a>Third Party Advertisers</h3>
-
-<p>We permit advertisements to be delivered to you by third party Internet advertising companies (also called ad networks or network advertisers). These companies may use cookies, Web beacons, platform device identifiers, software agents, and other technologies to collect non-personally identifiable information about your visits over time on our Service and across other websites to deliver advertisements to you targeted to your interests, measure their effectiveness and personalize advertising content, and to understand the usage and visitation of the Services and the other applications and websites tracked by these advertising companies. We do not have access to or control over cookies, Web beacons, platform device identifiers, software agents, or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles information it separately collects from you. In addition, the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a> offers information about some of the Internet advertising companies we may use.</p>
-
-<h3>&nbsp;</h3>
-
-<h3><a name="_l2p4rj6iw3r0"></a>Security</h3>
-
-<p>MERRY JANE takes commercially reasonable steps to help protect your Information against loss, misuse and unauthorized access, or disclosure. No company can fully prevent security risks, however. While we strive to protect your personal information, we cannot guarantee its absolute security. To help protect yourself and your information, choose a unique password for our Services and do not use a password on our Services that you would use on any other website or online service.</p>
-
-<h3>&nbsp;</h3>
-
-<h3><a name="_494dgdend2w6"></a>Dispute Resolution</h3>
-
-<p>If you believe that MERRY JANE has not adhered to this Statement, please contact MERRY JANE by e-mail at support@MERRYJANE.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.</p>
-
-<h3>&nbsp;</h3>
-
-<h3><a name="_bcsotaraibdd"></a>Information Choices</h3>
-
-<p>You may opt out of receiving promotional emails from MERRY JANE by following the instructions in those emails or by reviewing the settings in your account. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your personal information, including changes to your contact preferences, changes to or deletions of your information or content you post, and requests to opt-out of sharing your personal information with third parties by emailing support@merryjane.com. Please note that deletion of your information or content does not ensure complete or comprehensive removal of the content or information posted on the Services.</p>
-
-<p>When you visit the Site, we and others give you the following choices about use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our Site or from third parties. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site. To opt-out of Google Analytics web tracking for certain browsers, you can download <a href="https://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>. You may opt out of other cookies that may be present on the Site by following the directions on <a href="https://www.google.com/settings/ads/plugin">Google's opt-out page</a>, <a href="http://www.scorecardresearch.com/optout.aspx?returnurl=vfoptout&amp;source=sroptout">ScorecardResearch's opt-out page</a>, and <a href="https://www.quantcast.com/opt-out">Quantcast's opt out page</a>. You can also choose to opt-out of use of cookies by some of our third party advertising partners to deliver ads tailored to your profile and preferences. To find out more and opt-out <a href="http://www.networkadvertising.org/choices/">click here</a>. However, while we and others give you choices as described in this policy, there are many ways in which Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and our Site may not be aware of or honor every mechanism.</p>
-
-<p>You may have the right to know what personal information MERRY JANE has about you and to correct any inaccuracies. Please direct any such requests by email to <a href="mailto:support@MERRYJANE.com">support@merryjane.com</a>.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_sw74yl6vovli"></a>Changes to Privacy Policy</h2>
-
-<p>MERRY JANE may update this policy from time to time. You can review the most current version of this privacy policy at any time at <a href="https://www.merryjane.com/privacy_policy">https://www.merryjane.com/privacy_policy</a>.&nbsp; Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Site and Service. If we make any material changes we will notify you or our client by email sent to the e-mail address on your account or by means of a notice on the Site prior to the change becoming effective.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_beu5p5c7bbkc"></a>Business Transactions</h2>
-
-<p>MERRY JANE may assign or transfer this privacy policy, and your user account and related information and data, to any person or entity that acquires or is merged with MERRY JANE, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_n10utivsmeci"></a>Terms of Service</h2>
-
-<p>When you access and use the Service, you are subject and bound to the MERRY JANE <a href="https://www.merryjane.com/terms_of_use">Terms of Service</a>.</p>
-
-<h2>&nbsp;</h2>
-
-<h2><a name="_308twk6wa6ou"></a>Contact Us</h2>
-
-<p>If you have questions regarding this privacy policy or about the security practices of MERRY JANE, please contact us by email at support@merryjane.com. We would love to hear from you.</p>
-
-</div>
-</div>
-</div>
-
-<!-- start Mixpanel -->
-<script type="text/javascript">
-(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split('.');2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;'undefined'!==typeof d?c=b[d]=[]:d='mixpanel';c.people=c.people||[];c.toString=function(b){var a='mixpanel';'mixpanel'!==d&&(a+='.'+d);b||(a+=' (stub)');return a};c.people.toString=function(){return c.toString(1)+'.people (stub)'};i='disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user'.split(' ');
-for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement('script');a.type='text/javascript';a.async=!0;a.src='undefined'!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:'file:'===e.location.protocol&&'//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js'.match(/^\/\//)?'https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js':'//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js';f=e.getElementsByTagName('script')[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
-mixpanel.init('b4b3f829f85ee73ec93c79aae6b5b178', { 'loaded' : function() {
-mixpanel.incrementer=function(property){value = mixpanel.get_property(property);update={};if(value && typeof(value)=='number'){update[property]=value+1;}else{update[property]=1}mixpanel.register(update);mixpanel.people.increment(property);}
-var urlParam=function(name){var results=new RegExp('[\?&]'+name+'=([^&#]*)').exec(window.location.href);if(results===null){return null;}else{return results[1]||null;}}
-
-
-}});
-</script>
-<!-- end Mixpanel -->
-
-<!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" id="inspectletjs">
-window.__insp = window.__insp || [];
-__insp.push(['wid',
-543730683
-]);
-(function() {
-function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
-setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
-})();
-</script>
-<!-- End Inspectlet Embed Code -->
-
-
-
-</body></html>
+<!--The following is the downloaded HTML source of the merryjane.com privacy policy that was archived on 2017-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170904023228id_/https%3A//merryjane.com/company/policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head><link rel="preload" href="/_next/b1daed17-6b3e-4745-b9a5-76c5f85f1ba5/page/company/policy" as="script"><link rel="preload" href="/_next/b1daed17-6b3e-4745-b9a5-76c5f85f1ba5/page/_error" as="script"><link rel="preload" href="/_next/182762aa6c15ed9f04b2b2d4a1906cc3/app.js" as="script"><meta charset="utf-8" class="next-head"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" class="next-head"><link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicons/apple-touch-icon.png" class="next-head"><link rel="icon" type="image/png" href="/static/images/favicons/favicon-32x32.png" sizes="32x32" class="next-head"><link rel="icon" type="image/png" href="/static/images/favicons/favicon-16x16.png" sizes="16x16" class="next-head"><link rel="manifest" href="/static/images/favicons/manifest.json" class="next-head"><link rel="mask-icon" href="/static/images/favicons/safari-pinned-tab.svg" color="#c6aa4f" class="next-head"><link rel="shortcut icon" href="/static/images/favicons/favicon.ico" class="next-head"><link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet" class="next-head"></head><body><div></div><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/jozGe5o0mOldOzcffD23mFjq3kFNGeV1/analytics.min.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script async="" src="https://use.fontawesome.com/36b122d84c.js" class="next-head"></script><meta name="msapplication-config" content="/static/images/favicons/browserconfig.xml" class="next-head"><meta name="theme-color" content="#ffffff" class="next-head"><meta content="True" name="HandheldFriendly" class="next-head"><meta content="320" name="MobileOptimized" class="next-head"><meta content="on" http-equiv="cleartype" class="next-head"><meta content="telephone=no" name="format-detection" class="next-head"><meta content="app-id=1031763320" name="apple-itunes-app" class="next-head"><meta content="app-id=" name="google-play-app" class="next-head"><meta content="799746796808394" property="fb:pages" class="next-head"><meta content="907844355953071" property="fb:app_id" class="next-head"><meta name="description" content="MERRY JANE is the definitive cannabis resource offering exclusive content and relatable perspectives on culture, news, video, food, and style." class="next-head"><meta name="og:site_name" property="og:site_name" content="MERRY JANE" class="next-head"><meta name="og:url" property="og:url" content="https://merryjane.com/company/policy" class="next-head"><meta name="og:locale" property="og:locale" content="en_US" class="next-head"><meta name="og:type" property="og:type" content="website" class="next-head"><meta name="og:description" property="og:description" content="MERRY JANE is the definitive cannabis resource offering exclusive content and relatable perspectives on culture, news, video, food, and style." class="next-head"><meta name="og:image" property="og:image" content="/static/images/logo_og.png" class="next-head"><meta name="og:image:secure_url" property="og:image:secure_url" content="/static/images/logo_og.png" class="next-head"><script type="application/ld+json" class="next-head"></script><title class="next-head">Privacy Policy | MERRY JANE</title><meta name="title" content="Privacy Policy | MERRY JANE" class="next-head"><meta name="og:title" property="og:title" content="Privacy Policy | MERRY JANE" class="next-head"><link><style>
+              #nprogress {
+                pointer-events: none;
+              }
+
+              #nprogress .bar {
+                background: #c6aa4f;
+
+                position: fixed;
+                z-index: 1031;
+                top: 0;
+                left: 0;
+
+                width: 100%;
+                height: 2px;
+              }
+
+              #nprogress .peg {
+                display: block;
+                position: absolute;
+                right: 0px;
+                width: 100px;
+                height: 100%;
+                box-shadow: 0 0 10px #c6aa4f, 0 0 5px #c6aa4f;
+                opacity: 1.0;
+                transform: rotate(3deg) translate(0px, -4px);
+              }
+          </style><style>html {
+  font-family: sans-serif; /* 1 */
+  line-height: 1.15; /* 2 */
+  -ms-text-size-adjust: 100%; /* 3 */
+  -webkit-text-size-adjust: 100%; /* 3 */
+}body {
+  margin: 0;
+}article,
+aside,
+footer,
+header,
+nav,
+section {
+  display: block;
+}h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}figcaption,
+figure,
+main { /* 1 */
+  display: block;
+}figure {
+  margin: 1em 40px;
+}hr {
+  box-sizing: content-box; /* 1 */
+  height: 0; /* 1 */
+  overflow: visible; /* 2 */
+}pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}a {
+  background-color: transparent; /* 1 */
+  -webkit-text-decoration-skip: objects; /* 2 */
+}a:active,
+a:hover {
+  outline-width: 0;
+}abbr[title] {
+  border-bottom: none; /* 1 */
+  text-decoration: underline; /* 2 */
+  text-decoration: underline dotted; /* 2 */
+}b,
+strong {
+  font-weight: inherit;
+}b,
+strong {
+  font-weight: bolder;
+}code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}dfn {
+  font-style: italic;
+}mark {
+  background-color: #ff0;
+  color: #000;
+}small {
+  font-size: 80%;
+}sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}sub {
+  bottom: -0.25em;
+}sup {
+  top: -0.5em;
+}audio,
+video {
+  display: inline-block;
+}audio:not([controls]) {
+  display: none;
+  height: 0;
+}img {
+  border-style: none;
+}svg:not(:root) {
+  overflow: hidden;
+}button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: sans-serif; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1.15; /* 1 */
+  margin: 0; /* 2 */
+}button,
+input { /* 1 */
+  overflow: visible;
+}button,
+select { /* 1 */
+  text-transform: none;
+}button,
+html [type="button"], /* 1 */
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button; /* 2 */
+}button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}legend {
+  box-sizing: border-box; /* 1 */
+  color: inherit; /* 2 */
+  display: table; /* 1 */
+  max-width: 100%; /* 1 */
+  padding: 0; /* 3 */
+  white-space: normal; /* 1 */
+}progress {
+  display: inline-block; /* 1 */
+  vertical-align: baseline; /* 2 */
+}textarea {
+  overflow: auto;
+}[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box; /* 1 */
+  padding: 0; /* 2 */
+}[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}[type="search"]::-webkit-search-cancel-button,
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}details, /* 1 */
+menu {
+  display: block;
+}summary {
+  display: list-item;
+}canvas {
+  display: inline-block;
+}template {
+  display: none;
+}[hidden] {
+  display: none;
+}.css-obbrb4,[data-css-obbrb4]{display:none !important;}@media (max-width: 920px){.css-by7nv3,[data-css-by7nv3]{display:none !important;}}@media (min-width: 921px){.css-115hgfz,[data-css-115hgfz]{display:none !important;}}
+.rc-collapse {
+  background-color: transparent;
+}
+.rc-collapse-anim-active {
+  -webkit-transition: height 0.2s ease-out;
+  transition: height 0.2s ease-out;
+}
+.rc-collapse > .rc-collapse-item {
+  background-image: url(/static/images/plus.svg);
+  background-color: transparent;
+  background-size: 14px;
+  background-repeat: no-repeat;
+  background-position: right 12px top 18px;
+  text-align: left;
+  font-weight: 400;
+}
+.rc-collapse > .rc-collapse-item:nth-of-type(odd) {
+  background-color: #f2f2f2;
+}
+.rc-collapse > .rc-collapse-item-active {
+  background-image: url(/static/images/minus.svg);
+  background-position: right 12px top 20px;
+}
+.rc-collapse > .rc-collapse-item > .rc-collapse-header {
+  height: 48px;
+  line-height: 48px;
+  text-indent: 16px;
+  color: #666;
+  cursor: pointer;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 700;
+  color: black;
+}
+.rc-collapse > .rc-collapse-item > .rc-collapse-header::first-letter {
+  text-transform: capitalize;
+}
+.rc-collapse-content {
+  overflow: hidden;
+  padding: 0;
+  background-color: #fff;
+}
+.rc-collapse-content > .rc-collapse-content-box {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.rc-collapse-content-inactive {
+  display: none;
+}
+.rc-collapse-item:last-child > .rc-collapse-content { }
+.rc-collapse > .rc-collapse-item > .rc-collapse-header .arrow {
+  display: none;
+  content: ' ';
+  width: 0;
+  height: 0;
+  font-size: 0;
+  line-height: 0;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-left: 4px solid #666;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+.rc-collapse > .rc-collapse-item-active > .rc-collapse-header .arrow {
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-top: 4px solid #666;
+  margin-right: 6px;
+}
+
+.rc-collapse > .rc-collapse-item.disabled {
+  display: none;
+  pointer-events: none;
+  background-image: none;
+}
+
+.rc-collapse > .rc-collapse-item.disabled > .rc-collapse-header {
+  color: grey;
+}
+
+@media (max-width: 920px) {
+  .rc-collapse > .rc-collapse-item > .rc-collapse-header {
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-indent: 0;
+  }
+}
+
+.react-tabs [role=tablist] {
+  border-bottom: 2px solid #efefef;
+  margin: 0 0 10px;
+  padding: 0
+}
+
+.react-tabs [role=tab] {
+  display: inline-block;
+  border: 1px solid #efefef;
+  border-bottom: none;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  padding: 6px 12px;
+  cursor: pointer
+}
+
+.react-tabs [role=tab][aria-selected=true] {
+  background: #efefef;
+  color: black;
+}
+
+.react-tabs [role=tab][aria-disabled=true] {
+  color: #efefef;
+  cursor: default
+}
+
+.rc-checkbox {
+  white-space: nowrap;
+  cursor: pointer;
+  outline: none;
+  display: inline-block;
+  position: relative;
+  line-height: 1;
+  vertical-align: middle;
+}
+.rc-checkbox:hover .rc-checkbox-inner,
+.rc-checkbox-focused .rc-checkbox-inner {
+  border-color: #bcbcbc;
+}
+.rc-checkbox-inner {
+  position: relative;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: #d9d9d9;
+  background-color: #ffffff;
+  -webkit-transition: border-color 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55), background-color 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+  transition: border-color 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55), background-color 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+.rc-checkbox-inner:after {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  left: 8px;
+  top: 3px;
+  display: table;
+  width: 10px;
+  height: 16px;
+  content: ' ';
+  border: 3px solid #fff;
+  border-top: 0;
+  border-left: 0;
+
+  -webkit-animation-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+          animation-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+  -webkit-animation-duration: 0.3s;
+          animation-duration: 0.3s;
+  -webkit-animation-name: amCheckboxOut;
+          animation-name: amCheckboxOut;
+}
+.rc-checkbox-input {
+  position: absolute;
+  left: 0;
+  z-index: 9999;
+  cursor: pointer;
+  opacity: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.rc-checkbox-checked:hover .rc-checkbox-inner {
+  border-color: #d9d9d9;
+}
+.rc-checkbox-checked .rc-checkbox-inner {
+  border-color: #d9d9d9;
+  background-color: white;
+}
+.rc-checkbox-checked .rc-checkbox-inner:after {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  position: absolute;
+  left: 8px;
+  top: 3px;
+  display: table;
+  width: 10px;
+  height: 16px;
+  content: ' ';
+  border: 3px solid #000;
+  border-top: 0;
+  border-left: 0;
+
+  -webkit-animation-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+          animation-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+  -webkit-animation-duration: 0.3s;
+          animation-duration: 0.3s;
+  -webkit-animation-name: amCheckboxOut;
+          animation-name: amCheckboxOut;
+}
+.rc-checkbox-disabled.rc-checkbox-checked:hover .rc-checkbox-inner {
+  border-color: #d9d9d9;
+}
+.rc-checkbox-disabled.rc-checkbox-checked .rc-checkbox-inner {
+  background-color: #f3f3f3;
+  border-color: #d9d9d9;
+}
+.rc-checkbox-disabled.rc-checkbox-checked .rc-checkbox-inner:after {
+  -webkit-animation-name: none;
+          animation-name: none;
+  border-color: #cccccc;
+}
+.rc-checkbox-disabled:hover .rc-checkbox-inner {
+  border-color: #d9d9d9;
+}
+.rc-checkbox-disabled .rc-checkbox-inner {
+  border-color: #d9d9d9;
+  background-color: #f3f3f3;
+}
+.rc-checkbox-disabled .rc-checkbox-inner:after {
+  -webkit-animation-name: none;
+          animation-name: none;
+  border-color: #f3f3f3;
+}
+.rc-checkbox-disabled .rc-checkbox-inner-input {
+  cursor: default;
+}
+@-webkit-keyframes amCheckboxIn {
+  0% {
+    opacity: 0;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+    -webkit-transform: scale(0, 0) rotate(45deg);
+            transform: scale(0, 0) rotate(45deg);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+    -webkit-transform: scale(1, 1) rotate(45deg);
+            transform: scale(1, 1) rotate(45deg);
+  }
+}
+@keyframes amCheckboxIn {
+  0% {
+    opacity: 0;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+    -webkit-transform: scale(0, 0) rotate(45deg);
+            transform: scale(0, 0) rotate(45deg);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+    -webkit-transform: scale(1, 1) rotate(45deg);
+            transform: scale(1, 1) rotate(45deg);
+  }
+}
+@-webkit-keyframes amCheckboxOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes amCheckboxOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.dropdown {
+  display: inline-block;
+}
+
+.dropdown__content {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+}
+
+.dropdown--active .dropdown__content {
+  display: block;
+}
+
+.dropdown__content > ul {
+  background: #f2f2f2;
+  list-style: none;
+  min-width: 150px;
+}
+
+.dropdown__content > ul > li {
+  text-align: left;
+  border-top: 1px solid white;
+}
+
+.dropdown__content > ul > li > a {
+  display: block;
+  font-size: 12px;
+  color: black;
+  padding: 6px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.dropdown__content > ul > li > a:hover {
+  background: black;
+  color: white;
+}
+
+
+.react-grid-layout {
+  position: relative;
+}
+
+.react-grid-item.resizing {
+  z-index: 1;
+}
+
+.react-grid-item.react-draggable-dragging {
+  transition: none;
+  z-index: 3;
+}
+
+.react-grid-item.react-grid-placeholder {
+  background: #f2f2f2;
+  opacity: 0.2;
+  z-index: 2;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.react-grid-item > .react-resizable-handle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  bottom: 0;
+  right: 0;
+  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pg08IS0tIEdlbmVyYXRvcjogQWRvYmUgRmlyZXdvcmtzIENTNiwgRXhwb3J0IFNWRyBFeHRlbnNpb24gYnkgQWFyb24gQmVhbGwgKGh0dHA6Ly9maXJld29ya3MuYWJlYWxsLmNvbSkgLiBWZXJzaW9uOiAwLjYuMSAgLS0+DTwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DTxzdmcgaWQ9IlVudGl0bGVkLVBhZ2UlMjAxIiB2aWV3Qm94PSIwIDAgNiA2IiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjojZmZmZmZmMDAiIHZlcnNpb249IjEuMSINCXhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiDQl4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjZweCIgaGVpZ2h0PSI2cHgiDT4NCTxnIG9wYWNpdHk9IjAuMzAyIj4NCQk8cGF0aCBkPSJNIDYgNiBMIDAgNiBMIDAgNC4yIEwgNCA0LjIgTCA0LjIgNC4yIEwgNC4yIDAgTCA2IDAgTCA2IDYgTCA2IDYgWiIgZmlsbD0iIzAwMDAwMCIvPg0JPC9nPg08L3N2Zz4=');
+  background-position: bottom right;
+  padding: 0 3px 3px 0;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  box-sizing: border-box;
+  cursor: se-resize;
+}
+
+#branch-banner-iframe {
+  position: fixed !important;
+  background-color: white;
+  min-width: 240px !important;
+  max-width: 980px;
+  width: 100% !important;
+  margin: 0 auto;
+}
+
+@charset "UTF-8";
+.image-gallery-fullscreen::before,
+.image-gallery-left-nav::before,
+.image-gallery-right-nav::before {
+  display: inline-block;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-rendering: auto;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.image-gallery {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none; }
+
+.image-gallery-content {
+  position: relative; }
+
+.image-gallery-fullscreen,
+.image-gallery-left-nav,
+.image-gallery-right-nav {
+  cursor: pointer;
+  position: absolute;
+  z-index: 4; }
+  .image-gallery-fullscreen::before,
+  .image-gallery-left-nav::before,
+  .image-gallery-right-nav::before {
+    color: #fff;
+    line-height: .7;
+    text-shadow: 0 2px 2px #222;
+    transition: color .2s ease-out; }
+  .image-gallery-fullscreen:hover::before,
+  .image-gallery-left-nav:hover::before,
+  .image-gallery-right-nav:hover::before {
+    color: white; }
+
+.image-gallery-fullscreen {
+  right: 0;
+  top: 0; }
+  .image-gallery-fullscreen::before {
+    content: "";
+    font-size: 1.7em;
+    padding: 15px;
+    text-shadow: 0 1px 1px #222; }
+
+  .image-gallery-fullscreen:hover::before {
+    color: #fff;
+    transform: scale(1.1); }
+
+  .image-gallery-fullscreen.active::before {
+    content: ""; }
+  .image-gallery-fullscreen.active:hover::before {
+    transform: scale(0.9); }
+
+.image-gallery-left-nav,
+.image-gallery-right-nav {
+  color: #fff;
+  font-size: 5em;
+  padding: 50px 15px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.image-gallery-left-nav {
+  left: 0; }
+  .image-gallery-left-nav::before {
+    content: ""; }
+
+.image-gallery-right-nav {
+  right: 0; }
+  .image-gallery-right-nav::before {
+    content: ""; }
+
+.image-gallery-slides {
+  line-height: 0;
+  overflow: hidden;
+  position: relative;
+  white-space: nowrap; }
+
+.image-gallery-slide {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%; }
+  .image-gallery-slide.center {
+    position: relative; }
+  .image-gallery-slide img {
+    width: 100%; }
+  .image-gallery-slide .image-gallery-description {
+    background: rgba(0, 0, 0, 0.4);
+    bottom: 70px;
+    color: #fff;
+    left: 0;
+    line-height: 1;
+    padding: 10px 20px;
+    position: absolute;
+    white-space: normal; }
+
+.image-gallery-bullets {
+  bottom: 20px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  z-index: 4; }
+  .image-gallery-bullets .image-gallery-bullets-container {
+    margin: 0;
+    padding: 0; }
+  .image-gallery-bullets .image-gallery-bullet {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 1px 0 #222;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px; }
+
+.image-gallery-thumbnails {
+  background: #fff;
+  overflow: hidden;
+  height: 100%;
+  width: 91px;
+  left: 0;
+  padding: 0;
+  position: absolute;
+  top: 0; }
+  .image-gallery-thumbnails .image-gallery-thumbnails-container {
+    transform: translate(0px, 0px);
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap; }
+
+.image-gallery-thumbnail {
+  display: table-row; }
+  .image-gallery-thumbnail img {
+    vertical-align: middle;
+    width: 91px;
+    margin-bottom: 8px; }
+
+.image-gallery-thumbnail-label {
+  color: #222;
+  font-size: 1em; }
+
+.image-gallery-index {
+  background: rgba(0, 0, 0, 0.4);
+  bottom: 0;
+  color: #fff;
+  line-height: 1;
+  padding: 10px 20px;
+  position: absolute;
+  right: 0;
+  z-index: 4; }
+
+.image-gallery-slide {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+.image-gallery-slide center {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+.image-gallery-slide left {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+.image-gallery-slide right {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+.image-gallery-thumbnails-wrapper {
+  height: 430px;
+  display: inline-block;
+  vertical-align: top;
+  width: 91px;
+  margin-right: 40px;
+}
+
+.image-gallery-content {
+  display: inline-flex;
+  line-height: 0;
+  top: 0;
+  text-align: center;
+}
+
+.image-gallery-thumbnails-wrapper left {
+
+}
+
+.image-gallery-slide-wrapper left {
+
+}
+
+.image-gallery-slide-wrapper img {
+  display: block;
+  max-width:380px;
+  max-height:680px;
+  width: auto;
+  height: auto;
+}
+
+.image-gallery-thumbnails-container {
+  transform: translate(0px, 0px);
+  cursor: pointer;
+  text-align: center;
+  white-space: nowrap;
+  width: 91px;
+}
+
+#product-quantity-container {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: black;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-decoration: none solid black;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 110px;
+    column-rule-color: black;
+    perspective-origin: 45px 24px;
+    transform-origin: 45px 24px;
+    caret-color: black;
+    border: 0px none black;
+    font: normal normal normal normal 16px / 22px Montserrat, HelveticaNeue, "Helvetica Neue", sans-serif;
+    list-style: none outside none;
+    outline: black none 0px;
+}/*#product-quantity-container*/
+
+#product-quantity-input {
+    height: 100%;
+    max-width: 100%;
+    text-align: center;
+    text-decoration: none solid black;
+    text-size-adjust: 100%;
+    width: 110px;
+    column-rule-color: black;
+    perspective-origin: 45px 24px;
+    transform-origin: 45px 24px;
+    caret-color: black;
+    background: white none repeat scroll 0% 0% / auto padding-box border-box;
+    font: normal normal normal normal 16px / 22px Montserrat, HelveticaNeue, "Helvetica Neue", sans-serif;
+    list-style: none outside none;
+    outline: black none 0px;
+    padding: auto 30px;
+    border: 1px solid black;
+    color: black;
+    text-shadow: 0 0 0 gray;
+    &:focus { outline: none; }
+}/*#product-quantity-input*/
+
+#product-quantity-btn-minus {
+    bottom: 0px;
+    color: black;
+    cursor: pointer;
+    display: block;
+    height: 100%;
+    left: 0px;
+    min-height: 0px;
+    position: absolute;
+    right: 80px;
+    text-decoration: none solid black;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 30px;
+    column-rule-color: black;
+    perspective-origin: 15px 24px;
+    transform-origin: 15px 24px;
+    caret-color: black;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid black;
+    font: normal normal normal normal 16px / 22px Montserrat, HelveticaNeue, "Helvetica Neue", sans-serif;
+    list-style: none outside none;
+    outline: black none 0px;
+    padding: 0px;
+    transition: background-color 0.03s ease-in 0s;
+}/*#product-quantity-btn-minus*/
+
+#product-quantity-btn-plus {
+    bottom: 0px;
+    color: black;
+    cursor: pointer;
+    display: block;
+    height: 100%;
+    left: 80px;
+    min-height: 0px;
+    position: absolute;
+    right: 0px;
+    text-decoration: none solid black;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 30px;
+    column-rule-color: black;
+    perspective-origin: 15px 24px;
+    transform-origin: 15px 24px;
+    caret-color: black;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid black;
+    font: normal normal normal normal 16px / 22px Montserrat, HelveticaNeue, "Helvetica Neue", sans-serif;
+    list-style: none outside none;
+    outline: black none 0px;
+    padding: 0px;
+    transition: background-color 0.03s ease-in 0s;
+}/*#product-quantity-btn-plus*/
+
+  .Cart-mobile {
+    background-color: 'red';
+    width: '100%';
+  }
+
+  .Cart {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 10000;
+    height: 100%;
+    width: 350px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-left: 1px solid #e5e5e5;
+    transform: translateX(100%);
+    transition: transform 0.15s ease-in-out;
+  }
+
+  .Cart--open {
+    transform: translateX(0);
+  }
+
+  .Cart__close {
+    position: absolute;
+    right: 9px;
+    top: 19px;
+    padding: 0 20px;
+    line-height: 1;
+    font-size: 35px;
+    color: #999;
+    border: none;
+    background: transparent;
+    transition: transform 100ms ease;
+    cursor: pointer;
+  }
+
+  .Cart__header {
+    padding: 20px;
+    border-bottom: 1px solid #e5e5e5;
+    flex: 0 0 auto;
+    display: inline-block;
+    width: 100%;
+  }
+
+  .Cart__header h2 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .Cart__line-items {
+    flex: 1 0 auto;
+    margin: 0;
+    padding: 20px;
+    list-style: none;
+  }
+
+  .Cart__footer {
+    padding: 20px;
+    border-top: 1px solid #e5e5e5;
+    flex: 0 0 auto;
+  }
+
+  .Cart__checkout {
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+  }
+
+  .Cart-info {
+    padding: 15px 20px 10px;
+  }
+
+  .Cart-info__total {
+    float: left;
+    text-transform: uppercase;
+  }
+
+  .Cart-info__small {
+    font-size: 11px;
+  }
+
+  .Cart-info__pricing {
+    float: right;
+  }
+
+  .pricing {
+    margin-left: 5px;
+    font-size: 16px;
+    color: black;
+  }
+
+.Line-item {
+  margin-bottom: 20px;
+  overflow: hidden;
+  backface-visibility: visible;
+  min-height: 65px;
+  position: relative;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.Line-item__img {
+  width: 65px;
+  height: 65px;
+  border-radius: 3px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #e5e5e5;
+  position: absolute;
+}
+
+.Line-item__content {
+  width: 100%;
+  padding-left: 75px;
+}
+
+.Line-item__content-row {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 5px;
+  position: relative;
+}
+
+.Line-item__variant-title {
+  color: #4E5665;
+  font-size: 15px;
+  font-weight: 400;
+  margin-right: 46px;
+}
+
+.Line-item__title {
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 17px;
+  color: #767676;
+}
+
+.Line-item__price {
+  line-height: 23px;
+  float: right;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 40px;
+}
+
+.Line-item__quantity-container {
+  float: left;
+  height: 32px;
+}
+
+.Line-item__remove {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 0;
+  background: 0;
+  font-size: 20px;
+  color: #000;
+  top: -2px;
+  padding-top: 0;
+  opacity: 0.5;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.Line-item__remove:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  color: #000;
+  background: #fff;
+  -webkit-overflow-scrolling: auto;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+}
+
+body {
+  -webkit-overflow-scrolling: touch;
+  color: #000;
+  background: #fff;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.4em;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+*, *:after, *:before {
+  box-sizing: inherit;
+}
+
+.button,
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+  border-width: 2px;
+  border-style: solid;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.3rem;
+  font-weight: 400;
+  padding: 0.6rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.button.inverted,
+button.inverted,
+input[type='button'].inverted,
+input[type='reset'].inverted,
+input[type='submit'].inverted {
+  color: #000;
+  background-color: #fff;
+  border-color: #000;
+}
+
+.button:focus,
+.button:hover,
+button:focus,
+button:hover,
+input[type='button']:focus,
+input[type='button']:hover,
+input[type='reset']:focus,
+input[type='reset']:hover,
+input[type='submit']:focus,
+input[type='submit']:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #000;
+  outline: 0;
+}
+
+.button.inverted:focus,
+.button.inverted:hover,
+button.inverted:focus,
+button.inverted:hover,
+input[type='button'].inverted:focus,
+input[type='button'].inverted:hover,
+input[type='reset'].inverted:focus,
+input[type='reset'].inverted:hover,
+input[type='submit'].inverted:focus,
+input[type='submit'].inverted:hover {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+  outline: 0;
+}
+
+.button[disabled],
+button[disabled],
+input[type='button'][disabled],
+input[type='reset'][disabled],
+input[type='submit'][disabled] {
+  cursor: default;
+  opacity: .5;
+}
+
+.button[disabled]:focus, .button[disabled]:hover,
+button[disabled]:focus,
+button[disabled]:hover,
+input[type='button'][disabled]:focus,
+input[type='button'][disabled]:hover,
+input[type='reset'][disabled]:focus,
+input[type='reset'][disabled]:hover,
+input[type='submit'][disabled]:focus,
+input[type='submit'][disabled]:hover {
+  background-color: #c6aa4f;
+}
+
+hr {
+  border: 0;
+  border-top: 0.1rem solid #aaa9ad;
+  margin: 3.0rem 0;
+}
+
+input[type='email'], input[type='number'], input[type='password'], input[type='search'], input[type='tel'], input[type='text'], input[type='url'], textarea, select {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border: 0.1rem solid #aaa9ad;
+  box-shadow: none;
+  box-sizing: inherit;
+  height: 3.8rem;
+  padding: .6rem 1.0rem;
+  width: 100%;
+}
+
+input[placeholder]          {text-overflow:ellipsis;}
+input::-moz-placeholder     {text-overflow:ellipsis;}
+input:-moz-placeholder      {text-overflow:ellipsis;}
+input:-ms-input-placeholder {text-overflow:ellipsis;}
+
+.inputMobile input[placeholder]          {font-size:3.6vw;}
+.inputMobile input::-moz-placeholder     {font-size:3.6vw;}
+.inputMobile input:-moz-placeholder      {font-size:3.6vw;}
+.inputMobile input:-ms-input-placeholder {font-size:3.6vw;}
+
+.dispensariesContainer::-webkit-scrollbar {-webkit-appearance: none; width: 8px;}
+.dispensariesContainer::-webkit-scrollbar-track {-webkit-appearance: none; border-radius: 8px;}
+.dispensariesContainer::-webkit-scrollbar-thumb {border-radius: 8px; background-color: rgba(156, 156, 156, .6);}
+
+input[type='email']:focus, input[type='number']:focus, input[type='password']:focus, input[type='search']:focus, input[type='tel']:focus, input[type='text']:focus, input[type='url']:focus, textarea:focus, select:focus {
+  border: 1px solid black;
+  outline: 0;
+}
+
+select {
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="#d1d1d1" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>') center right no-repeat;
+  padding-right: 3.0rem;
+}
+
+select:focus {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="#000" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>');
+}
+
+textarea {
+  min-height: 6.5rem;
+}
+
+label, legend {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: .5rem;
+}
+
+fieldset {
+  border-width: 0;
+  padding: 0;
+}
+
+input[type='checkbox'], input[type='radio'] {
+  display: inline;
+}
+
+.label-inline {
+  display: inline-block;
+  font-weight: normal;
+  margin-left: .5rem;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  transition: 'all 150ms ease-out';
+}
+
+a:focus, a:hover {
+  color: #000;
+}
+
+dl, ol, ul {
+  list-style: none;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+dl dl, dl ol, dl ul, ol dl, ol ol, ol ul, ul dl, ul ol, ul ul {
+  font-size: 90%;
+  margin: 1.5rem 0 1.5rem 3.0rem;
+}
+
+ol {
+  list-style: decimal inside;
+}
+
+ul {
+  list-style: circle inside;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+p {
+  margin-top: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  margin-bottom: 2.0rem;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 4.0rem;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 3.6rem;
+  line-height: 1.25;
+}
+
+h3 {
+  font-size: 3.0rem;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 2.4rem;
+  line-height: 1.35;
+}
+
+h5 {
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+h6 {
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 42rem) {
+  h1 {
+    font-size: 5.0rem;
+  }
+  h2 {
+    font-size: 4.2rem;
+  }
+  h3 {
+    font-size: 3.6rem;
+  }
+  h4 {
+    font-size: 3.2rem;
+  }
+  h5 {
+    font-size: 2.4rem;
+  }
+  h6 {
+    font-size: 1.5rem;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+.gmnoprint a, .gmnoprint span, .gm-style-cc {display:none;}
+
+@font-face {
+  font-family: 'Social-Icons-Thick';
+  src: url('/static/fonts/Social-Icons-Thick.eot');
+  src: url('/static/fonts/Social-Icons-Thick.eot?#iefix') format('embedded-opentype'),
+  url('/static/fonts/Social-Icons-Thick.woff') format('woff'),
+  url('/static/fonts/Social-Icons-Thick.ttf') format('truetype'),
+  url('/static/fonts/Social-Icons-Thick.svg#Social') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class*='icon-']:before{
+  display: inline-block;
+  font-family: 'Social-Icons-Thick';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.icon-facebook:before{content:'\0041';}
+.icon-instagram:before{content:'\0042';}
+.icon-pinterest:before{content:'\0043';}
+.icon-twitter:before{content:'\0044';}
+.icon-youtube:before{content:'\0045';}
+.css-1glye71,[data-css-1glye71]{background-color:white;font-weight:400;}.css-1glye71 .footerPageHeader,[data-css-1glye71] .footerPageHeader{text-align:center;margin-left:3rem;margin-right:3rem;font-weight:900;font-size:3.6rem;line-height:1.3;margin-top:0;margin-bottom:2.0rem;}.css-1glye71 .footerPageContent,[data-css-1glye71] .footerPageContent{padding:1.875rem 3rem 1.875rem 3rem;background-color:#efefef;}.css-1glye71 .footerPageContent a,[data-css-1glye71] .footerPageContent a{border-bottom:1px solid #c6aa4f;}.css-1glye71 .footerPageContent a:hover,[data-css-1glye71] .footerPageContent a:hover{border-top:1px solid #c6aa4f;font-weight:700;}@media (max-width: 920px){.css-1glye71 .footerPageContent,[data-css-1glye71] .footerPageContent{padding:1.4rem 1.5rem 1.4rem 1.5rem;background-color:#efefef;}}.css-1j7fu58,[data-css-1j7fu58]{border-width:2px;border-style:solid;font-size:1.3rem;font-weight:400;padding:.5rem 1rem;text-align:center;}.css-t9glld,[data-css-t9glld]{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-wrap:wrap;flex-direction:column;padding:0;width:100%;-webkit-box-lines:multiple;-webkit-flex-wrap:wrap;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;}@media (min-width: 921px){.css-t9glld,[data-css-t9glld]{flex-direction:row;width:100%;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;}}.css-1eare7p,[data-css-1eare7p]{display:block;flex:1;margin-left:0;max-width:100%;width:100%;-webkit-flex:1;}@media (min-width: 921px){.css-1eare7p,[data-css-1eare7p]{margin-bottom:inherit;padding:0 10px;}}.css-1l88wow,[data-css-1l88wow]{position:absolute;cursor:pointer;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex:1;max-width:2.5rem;height:2.5rem;align-items:stretch;justify-content:stretch;-webkit-flex:1;-webkit-box-align:stretch;-webkit-align-items:stretch;-webkit-box-pack:stretch;-webkit-justify-content:stretch;}.css-1l88wow i,[data-css-1l88wow] i{font-size:3.4rem;line-height:2.5rem;width:2.5rem;}@media (min-width: 921px){.css-1l88wow,[data-css-1l88wow]{display:none;}}@media (max-width: 340px){.css-1l88wow,[data-css-1l88wow]{max-width:2.3rem;height:2.3rem;}.css-1l88wow i,[data-css-1l88wow] i{font-size:3rem;line-height:2.3rem;width:2.3rem;}}.css-13azwyo,[data-css-13azwyo]{position:relative;}.css-dopm70,[data-css-dopm70]{border-radius:0;border-style:solid;border-width:1px;border-color:#efefef;box-shadow:none;color:#4d4d4d;font-size:1.2rem;height:4rem;line-height:normal !important;padding:.5rem;transition:border-color 0.15s linear, background 0.15s linear;-webkit-transition:border-color 0.15s linear, background 0.15s linear;-moz-transition:border-color 0.15s linear, background 0.15s linear;}@media (min-width: 921px){.css-dopm70,[data-css-dopm70]{height:2.6rem !important;}}@media (max-width: 920px){.css-dopm70,[data-css-dopm70]{border:none !important;}}.css-15wxpwg,[data-css-15wxpwg]{padding:20px;height:100%;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:column;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;}.css-15wxpwg .header,[data-css-15wxpwg] .header{margin-bottom:20px;}.css-15wxpwg .label1,[data-css-15wxpwg] .label1{float:left;color:#7F7F7F;margin-left:10px;}.css-15wxpwg .closeBtn,[data-css-15wxpwg] .closeBtn{float:right;cursor:pointer;font-size:2rem;}.css-15wxpwg input[type=text],[data-css-15wxpwg] input[type=text]{font-size:20px;font-weight:700;border:none;color:#000;margin:0 10px 10px 10px;padding:0 !important;}.css-15wxpwg .item-title,[data-css-15wxpwg] .item-title{font-size:1.5rem;color:#000;font-weight:500;padding:10px;margin-left:5px;border-bottom:1px solid #000;cursor:pointer;}.css-15wxpwg .ReactTabs,[data-css-15wxpwg] .ReactTabs{flex:1;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:column;-webkit-flex:1;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;}.css-15wxpwg .ReactTabs__TabPanel,[data-css-15wxpwg] .ReactTabs__TabPanel{background-color:#F1F1F1;flex:1;position:relative;-webkit-flex:1;}.css-15wxpwg .ReactTabs__TabList,[data-css-15wxpwg] .ReactTabs__TabList{margin:0px;}.css-15wxpwg .no-results,[data-css-15wxpwg] .no-results{text-align:center;margin:20px;}.css-15wxpwg .res-plus,[data-css-15wxpwg] .res-plus{font-weight:200;}.css-15wxpwg .showAll,[data-css-15wxpwg] .showAll{position:absolute;margin-bottom:10px;bottom:0px;left:0px;right:0px;background-color:#F1F1F1;color:#000;padding:10px;font-weight:bold;background-image:url(/static/images/plus.svg);background-repeat:no-repeat;background-position-x:calc(100% - 20px);background-position-y:calc(50% - 1px);background-size:15px;}.css-tr84yr,[data-css-tr84yr]{border:none;transition:all 150ms ease-out;display:table;-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;}.css-tr84yr:after,[data-css-tr84yr]:after{content:'';display:block;pointer-events:none;width:0px;height:1px;border-bottom:1px solid #c6aa4f;}.css-tr84yr:hover:after,[data-css-tr84yr]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-7e0zp1,[data-css-7e0zp1]{height:48px;line-height:48px;cursor:pointer;text-align:center;font-size:16px;font-weight:400;color:black;letter-spacing:2px;}.css-7e0zp1:hover,[data-css-7e0zp1]:hover{color:#c6aa4f !important;text-decoration:underline;}.css-d3q2ir,[data-css-d3q2ir]{border-top:4px solid #000;margin:0 0 3rem;}.css-x6rq0g,[data-css-x6rq0g]{border-top:4px solid #000;margin:3rem 0 1rem 0;}.css-1ktsav3,[data-css-1ktsav3]{width:100%;text-align:center;}.css-1ktsav3>a,[data-css-1ktsav3]>a{margin:0 .75rem;padding:0 0 0 2px;}.css-1ixdaw6,[data-css-1ixdaw6]{background-color:#F3F6F6;height:100%;width:25rem;border-right:1px solid #000;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:column;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;}.css-1ixdaw6 .img-container,[data-css-1ixdaw6] .img-container{padding:2rem 2rem 1rem 2rem;cursor:pointer;}.css-1ixdaw6 .sidebarHeader,[data-css-1ixdaw6] .sidebarHeader{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;margin:0px 2rem;justify-content:space-between;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-webkit-box-align:center;-webkit-align-items:center;}.css-1ixdaw6 .signinMobile,[data-css-1ixdaw6] .signinMobile{color:#000;font-size:1.3rem;font-weight:400;}.css-1ixdaw6 .sidebar-links,[data-css-1ixdaw6] .sidebar-links{flex:1;height:100%;overflow:scroll;-webkit-flex:1;}.css-1ixdaw6 .sidebar-footer,[data-css-1ixdaw6] .sidebar-footer{background-color:#DDDDDD;position:relative;padding:1.5rem;}.css-1ixdaw6 .newsletter-title,[data-css-1ixdaw6] .newsletter-title{font-weight:400;display:block;}.css-1ixdaw6 .success-msg,[data-css-1ixdaw6] .success-msg{display:block;}.css-1ixdaw6 .newsletter-form,[data-css-1ixdaw6] .newsletter-form{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:row;margin:5px 0 10px 0;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;}.css-1ixdaw6 .email-input,[data-css-1ixdaw6] .email-input{flex:1;font-size:1.3rem;height:3rem;background-color:#fff;border:none;border-radius:0px;-webkit-flex:1;}.css-1ixdaw6 .error,[data-css-1ixdaw6] .error{color:#ff0000;border:1px solid #ff0000;}.css-1ixdaw6 .submit-btn,[data-css-1ixdaw6] .submit-btn{height:3rem;width:30px;padding:0px;background-color:#000 !important;line-height:3rem;font-size:3rem;font-family:none;border-radius:0px;}.css-1ixdaw6 .account-menu,[data-css-1ixdaw6] .account-menu{flex:1;-webkit-flex:1;}.css-1ixdaw6 .acocunt-menu-item,[data-css-1ixdaw6] .acocunt-menu-item{border-left:4px solid #000;padding:0 10px;margin:5px 2rem 5px 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000;}.css-1ixdaw6 .acocunt-menu-item:active,[data-css-1ixdaw6] .acocunt-menu-item:active{font-weight:bold;}.css-1ixdaw6 .close-mark,[data-css-1ixdaw6] .close-mark{font-size:2rem;}.css-1ixdaw6 .close-mark-cont,[data-css-1ixdaw6] .close-mark-cont{margin-right:2.5rem;font-weight:600;text-align:right;}.css-1ixdaw6 .error::-webkit-input-placeholder,[data-css-1ixdaw6] .error::-webkit-input-placeholder{color:red;}.css-1ixdaw6 .error:-moz-placeholder,[data-css-1ixdaw6] .error:-moz-placeholder{color:red;}.css-oks5nm,[data-css-oks5nm]{font-size:14px;font-weight:400;margin-bottom:.5rem;}.css-11ksh22,[data-css-11ksh22]{width:75%;display:block;}.css-fisw11,[data-css-fisw11]{display:block;}.css-r00izb,[data-css-r00izb]{display:none !important;background-image:url('/static/images/default-avatar.png');background-repeat:no-repeat;background-size:cover;background-color:transparent;margin-right:0px;width:35px;height:35px;}.css-1k69xu8,[data-css-1k69xu8]{padding:5px 0;}.css-1k69xu8 a,[data-css-1k69xu8] a{border-left:4px solid #ff0000 !important;padding:0 10px !important;margin:0 2rem 0 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000 !important;}.css-1k69xu8 a:active,[data-css-1k69xu8] a:active{font-weight:bold;}.css-1p4n9w1,[data-css-1p4n9w1]{padding:5px 0;}.css-1p4n9w1 a,[data-css-1p4n9w1] a{border-left:4px solid #6dd5c2 !important;padding:0 10px !important;margin:0 2rem 0 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000 !important;}.css-1p4n9w1 a:active,[data-css-1p4n9w1] a:active{font-weight:bold;}.css-jc92e3,[data-css-jc92e3]{padding:5px 0;}.css-jc92e3 a,[data-css-jc92e3] a{border-left:4px solid #ffca00 !important;padding:0 10px !important;margin:0 2rem 0 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000 !important;}.css-jc92e3 a:active,[data-css-jc92e3] a:active{font-weight:bold;}.css-10mp50y,[data-css-10mp50y]{padding:5px 0;}.css-10mp50y a,[data-css-10mp50y] a{border-left:4px solid #0000ff !important;padding:0 10px !important;margin:0 2rem 0 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000 !important;}.css-10mp50y a:active,[data-css-10mp50y] a:active{font-weight:bold;}.css-11dkt8o,[data-css-11dkt8o]{padding:5px 0;}.css-11dkt8o a,[data-css-11dkt8o] a{border-left:4px solid #bea3ff !important;padding:0 10px !important;margin:0 2rem 0 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000 !important;}.css-11dkt8o a:active,[data-css-11dkt8o] a:active{font-weight:bold;}.css-1pp9iyt,[data-css-1pp9iyt]{padding:5px 0;}.css-1pp9iyt a,[data-css-1pp9iyt] a{border-left:4px solid #000 !important;padding:0 10px !important;margin:0 2rem 0 2rem;display:block;font-size:1.6rem;font-weight:400;color:#000 !important;}.css-1pp9iyt a:active,[data-css-1pp9iyt] a:active{font-weight:bold;}.css-j52dko,[data-css-j52dko]{font-size:2.8rem;width:2.8rem;display:inline-block;height:2.8rem;line-height:2.8rem;color:#000 !important;margin-right:.7rem;text-align:center;transition:all 150ms ease-out;-webkit-font-smoothing:antialiased;-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;}.css-j52dko:hover,[data-css-j52dko]:hover{color:#3B5998 !important;}.css-16v6ukm,[data-css-16v6ukm]{font-size:2.8rem;width:2.8rem;display:inline-block;height:2.8rem;line-height:2.8rem;color:#000 !important;margin-right:.7rem;text-align:center;transition:all 150ms ease-out;-webkit-font-smoothing:antialiased;-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;}.css-16v6ukm:hover,[data-css-16v6ukm]:hover{color:#1DCAFF !important;}.css-1qbk9tx,[data-css-1qbk9tx]{font-size:2.8rem;width:2.8rem;display:inline-block;height:2.8rem;line-height:2.8rem;color:#000 !important;margin-right:.7rem;text-align:center;transition:all 150ms ease-out;-webkit-font-smoothing:antialiased;-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;}.css-1qbk9tx:hover,[data-css-1qbk9tx]:hover{color:#bc2a8d !important;}.css-1ckdce3,[data-css-1ckdce3]{font-size:2.8rem;width:2.8rem;display:inline-block;height:2.8rem;line-height:2.8rem;color:#000 !important;margin-right:.7rem;text-align:center;transition:all 150ms ease-out;-webkit-font-smoothing:antialiased;-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;}.css-1ckdce3:hover,[data-css-1ckdce3]:hover{color:#C92228 !important;}.css-1osk6ys,[data-css-1osk6ys]{font-size:2.8rem;width:2.8rem;display:inline-block;height:2.8rem;line-height:2.8rem;color:#000 !important;margin-right:.7rem;text-align:center;transition:all 150ms ease-out;-webkit-font-smoothing:antialiased;-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;}.css-1osk6ys:hover,[data-css-1osk6ys]:hover{color:#b31217 !important;}.css-1w4r3p1,[data-css-1w4r3p1]{margin:0 auto;max-width:980px;padding:0 5px;position:relative;width:100%;display:none !important;}.css-1w4r3p1 .container,[data-css-1w4r3p1] .container{padding-top:80px;}.css-1w502ui,[data-css-1w502ui]{margin:0 auto;max-width:980px;padding:0 5px;position:relative;width:100%;}@media (min-width: 921px){.css-1w502ui,[data-css-1w502ui]{display:none;}}.css-1w27zt8,[data-css-1w27zt8]{margin:0 auto;max-width:980px;padding:0 5px;position:relative;width:100%;padding-top:80px;background-color:#fff;z-index:2;display:block;}@media (min-width: 921px){.css-1w27zt8,[data-css-1w27zt8]{padding-top:0px;}}.css-1ennxo,[data-css-1ennxo]{margin:0 auto;max-width:980px;padding:0 5px;position:relative;width:100%;display:none;}.css-1ennxo strong,[data-css-1ennxo] strong,.css-1ennxo .share,[data-css-1ennxo] .share{display:block;margin-bottom:1rem;}.css-1ennxo dl li,[data-css-1ennxo] dl li{padding:0.25rem 0;}.css-1ennxo dl li a,[data-css-1ennxo] dl li a,.css-1ennxo dl li a span,[data-css-1ennxo] dl li a span{color:#000;}.css-1ennxo .logo,[data-css-1ennxo] .logo{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;width:100%;text-align:center;justify-content:center;align-items:center;margin-top:3rem;-webkit-box-pack:center;-webkit-justify-content:center;-webkit-box-align:center;-webkit-align-items:center;}.css-1ennxo .logo img,[data-css-1ennxo] .logo img{height:35px;}.css-1ennxo .contactUsLink,[data-css-1ennxo] .contactUsLink{cursor:pointer;color:#000;}@media (min-width: 921px){.css-1ennxo,[data-css-1ennxo]{display:block;background-color:#fff;padding-top:5rem;}}@media (max-width: 920px){.css-1ennxo,[data-css-1ennxo]{display:none !important;}}.css-1yi81gi,[data-css-1yi81gi]{visibility:hidden;height:0px;}.css-mdzcw2,[data-css-mdzcw2]{display:block;flex:1;margin-left:0;max-width:100%;width:100%;padding:0 !important;-webkit-flex:1;}@media (min-width: 921px){.css-mdzcw2,[data-css-mdzcw2]{margin-bottom:inherit;padding:0 10px;}}.css-1m25025,[data-css-1m25025]{display:none;visibility:hidden;}@media (min-width: 921px){.css-1m25025,[data-css-1m25025]{background-color:white;display:inherit;position:absolute;width:calc(100% - 2rem);min-height:15rem;}}.css-vkl0r2,[data-css-vkl0r2]{margin-bottom:2.2rem;}.css-4tvf67,[data-css-4tvf67]{margin:0 auto;max-width:980px;padding:0 5px;position:relative;width:100%;display:block;letter-spacing:2px;}.css-4tvf67 strong,[data-css-4tvf67] strong,.css-4tvf67 .share,[data-css-4tvf67] .share{display:block;margin-bottom:1rem;}.css-4tvf67 dl li,[data-css-4tvf67] dl li{padding:0.25rem 0;}.css-4tvf67 dl li a,[data-css-4tvf67] dl li a,.css-4tvf67 dl li a span,[data-css-4tvf67] dl li a span{color:#000;}.css-4tvf67 .logo,[data-css-4tvf67] .logo{display:block;width:100%;text-align:center;justify-content:center;align-items:center;margin-top:3rem;-webkit-box-pack:center;-webkit-justify-content:center;-webkit-box-align:center;-webkit-align-items:center;}.css-4tvf67 .logo img,[data-css-4tvf67] .logo img{height:35px;}.css-4tvf67 .contactUsLink,[data-css-4tvf67] .contactUsLink{cursor:pointer;color:#000;}.css-4tvf67 a,[data-css-4tvf67] a{color:#000;}.css-4tvf67 .rc-collapse,[data-css-4tvf67] .rc-collapse{background-color:transparent;border-radius:3px;border:1px solid transparent;}.css-4tvf67 .rc-collapse-header,[data-css-4tvf67] .rc-collapse-header{background-color:transparent;text-align:center !important;font-weight:700;color:black !important;}.css-4tvf67 .rc-collapse-item,[data-css-4tvf67] .rc-collapse-item{text-align:center !important;font-weight:400;}@media (min-width: 921px){.css-4tvf67,[data-css-4tvf67]{display:none;background-color:#fff;padding-top:5rem;}}.css-1446qjc,[data-css-1446qjc]{display:block;flex:1;margin-left:0;max-width:100%;width:100%;margin:10px 0;-webkit-flex:1;}@media (min-width: 921px){.css-1446qjc,[data-css-1446qjc]{margin-bottom:inherit;padding:0 10px;}}.css-ouyqt0,[data-css-ouyqt0]{text-align:center;position:relative;z-index:1000;height:149px;}@media (max-width: 920px){.css-ouyqt0,[data-css-ouyqt0]{height:inherit;}}.css-vo2rjf,[data-css-vo2rjf]{background:#fff;z-index:101;text-align:center;width:100%;}.css-vo2rjf .social-share-container,[data-css-vo2rjf] .social-share-container{margin:-10px 0 0 4rem !important;width:100%;text-align:center;}.css-vo2rjf .share-buttons-header,[data-css-vo2rjf] .share-buttons-header{position:relative;display:inline-block;}.css-vo2rjf .share-buttons-header lr,[data-css-vo2rjf] .share-buttons-header lr{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;justify-content:flex-start;width:100%;-webkit-box-pack:start;-webkit-justify-content:flex-start;}.css-vo2rjf .share-buttons-header lr > lrc > div,[data-css-vo2rjf] .share-buttons-header lr > lrc > div{width:45px;height:45px;}.css-vo2rjf .share-buttons-header lr > lrc > div:before,[data-css-vo2rjf] .share-buttons-header lr > lrc > div:before{width:30px;height:30px;margin-top:7px;}.css-vo2rjf .follow-btn,[data-css-vo2rjf] .follow-btn{float:right;}.css-vo2rjf .follow-btn img,[data-css-vo2rjf] .follow-btn img{height:45px;padding:5px;}.css-vo2rjf .lrshare_interfacebox div.lrshare_left:hover,[data-css-vo2rjf] .lrshare_interfacebox div.lrshare_left:hover{padding:0px;}@media (max-width: 920px){.css-vo2rjf,[data-css-vo2rjf]{position:fixed;top:0px;transform:translate3d(0,0,0);-webkit-transform:translate3d(0,0,0);}}@media (min-width: 921px){.css-vo2rjf,[data-css-vo2rjf]{position:fixed;top:0px;background-color:transparent;}}.css-1nvoocg,[data-css-1nvoocg]{margin:0 auto;max-width:980px;padding:1rem 1rem 1rem;position:relative;width:100%;}@media (min-width: 921px){.css-1nvoocg,[data-css-1nvoocg]{background-color:#fff;border-bottom:1px solid #fff;padding:2rem 5px 1rem;}}.css-11tmwo9,[data-css-11tmwo9]{position:absolute;z-index:1;display:none;}@media (min-width: 921px){.css-11tmwo9,[data-css-11tmwo9]{display:block;}}@media (min-width: 921px){.css-ud4edp,[data-css-ud4edp]{height:initial;}}.css-ebzlqo,[data-css-ebzlqo]{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:row;padding:0;width:100%;position:relative;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;}.css-uihc05,[data-css-uihc05]{display:none;}@media (min-width: 921px){.css-uihc05,[data-css-uihc05]{display:none;}}.css-8lukbg,[data-css-8lukbg]{margin-left:0;flex:1;max-width:100%;width:100%;display:block;-webkit-flex:1;}.css-8lukbg a,[data-css-8lukbg] a{border:none;}.css-8lukbg .small-logo,[data-css-8lukbg] .small-logo{height:2.9rem;margin:-5px;display:none;}@media (min-width: 921px){.css-8lukbg,[data-css-8lukbg]{display:block;margin-bottom:1rem;text-align:center;position:relative;}}.css-1rjq1e7,[data-css-1rjq1e7]{height:2.5rem;max-width:none !important;width:auto;}@media (min-width: 921px){.css-1rjq1e7,[data-css-1rjq1e7]{height:3.3rem;}}@media (max-width: 340px){.css-1rjq1e7,[data-css-1rjq1e7]{height:2.3rem;}}.css-10psuwu,[data-css-10psuwu]{position:absolute;right:0px;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;}@media (max-width: 920px){.css-10psuwu,[data-css-10psuwu]{display:none !important;}}.css-e9bchf,[data-css-e9bchf]{display:none;cursor:pointer;}.css-e9bchf img,[data-css-e9bchf] img{width:24px;height:24px;margin:2px 6px;}@media (max-width: 920px){.css-e9bchf,[data-css-e9bchf]{display:none !important;}}.css-i0f8ao,[data-css-i0f8ao]{margin:0 .5rem 0 0;display:block;}.css-i0f8ao a,[data-css-i0f8ao] a{color:#fff;display:block;background:red;border-color:red;}.css-i0f8ao a:hover,[data-css-i0f8ao] a:hover{background:#bd0000;border-color:#bd0000;color:#fff;}.css-1nnfulc,[data-css-1nnfulc]{position:absolute;padding:0px;margin:0px;right:10rem;margin-right:0px;display:none !important;}@media (max-width: 920px){.css-1nnfulc,[data-css-1nnfulc]{display:none !important;}}.css-so7zvp,[data-css-so7zvp]{margin:0px;cursor:pointer;}.css-so7zvp a,[data-css-so7zvp] a{color:#000;display:block;background:#fff;border-color:red;}.css-so7zvp a:hover,[data-css-so7zvp] a:hover{background:#fff;border-color:#bd0000;color:#000;}.css-y2m6xp,[data-css-y2m6xp]{position:absolute;cursor:pointer;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;direction:rtl;}.css-y2m6xp img,[data-css-y2m6xp] img{margin-left:6px;}.css-y2m6xp:hover #searchSpan,[data-css-y2m6xp]:hover #searchSpan{font-weight:bold;}.css-y2m6xp #searchImg:hover + #searchSpan,[data-css-y2m6xp] #searchImg:hover + #searchSpan{font-weight:bold;}@media (max-width: 920px){.css-y2m6xp,[data-css-y2m6xp]{display:none !important;}}.css-1s457ml,[data-css-1s457ml]{display:block;margin:0px;}@media (min-width: 921px){.css-1s457ml,[data-css-1s457ml]{display:block;margin:0px;}}.css-h7hse3,[data-css-h7hse3]{display:none;}@media (min-width: 921px){.css-h7hse3,[data-css-h7hse3]{justify-content:center;padding:0 10rem;margin:1rem 0;flex-direction:row;width:100%;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;-webkit-box-pack:center;-webkit-justify-content:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;}}.css-1y6mlpc,[data-css-1y6mlpc]{display:none;width:10rem;border-top:1px solid #000;}.css-1d12jeg,[data-css-1d12jeg]{flex:0.7;border-top:1px solid #000;text-align:left;-webkit-flex:0.7;}.css-aoekvu,[data-css-aoekvu]{position:relative;display:inline-block;margin-left:0;overflow:visible;margin-top:-1px;padding:0px;color:green;border-top:1px solid #000;border-bottom:none;}.css-aoekvu a,[data-css-aoekvu] a{border:none;color:#000 !important;padding:0.7rem 0 !important;font-weight:inherit;display:block;}.css-aoekvu:hover a,[data-css-aoekvu]:hover a{font-weight:700;}.css-aoekvu:after,[data-css-aoekvu]:after{content:'';position:absolute;pointer-events:none;top:-1px;left:0px;width:0px;height:calc(100% + 1px);border-bottom:1px solid #ff0000;border-top:1px solid #ff0000;}.css-aoekvu:hover:after,[data-css-aoekvu]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-1priyp0,[data-css-1priyp0]{flex:1.2;border-top:1px solid #000;text-align:center;-webkit-flex:1.2;}.css-i16p0t,[data-css-i16p0t]{position:relative;display:inline-block;margin-left:0;overflow:visible;margin-top:-1px;padding:0px;color:green;border-top:1px solid #000;border-bottom:none;}.css-i16p0t a,[data-css-i16p0t] a{border:none;color:#000 !important;padding:0.7rem 0 !important;font-weight:inherit;display:block;}.css-i16p0t:hover a,[data-css-i16p0t]:hover a{font-weight:700;}.css-i16p0t:after,[data-css-i16p0t]:after{content:'';position:absolute;pointer-events:none;top:-1px;left:0px;width:0px;height:calc(100% + 1px);border-bottom:1px solid #6dd5c2;border-top:1px solid #6dd5c2;}.css-i16p0t:hover:after,[data-css-i16p0t]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-c8o53a,[data-css-c8o53a]{flex:1;border-top:1px solid #000;text-align:center;-webkit-flex:1;}.css-1v6t93l,[data-css-1v6t93l]{position:relative;display:inline-block;margin-left:0;overflow:visible;margin-top:-1px;padding:0px;color:green;border-top:1px solid #000;border-bottom:none;}.css-1v6t93l a,[data-css-1v6t93l] a{border:none;color:#000 !important;padding:0.7rem 0 !important;font-weight:inherit;display:block;}.css-1v6t93l:hover a,[data-css-1v6t93l]:hover a{font-weight:700;}.css-1v6t93l:after,[data-css-1v6t93l]:after{content:'';position:absolute;pointer-events:none;top:-1px;left:0px;width:0px;height:calc(100% + 1px);border-bottom:1px solid #ffca00;border-top:1px solid #ffca00;}.css-1v6t93l:hover:after,[data-css-1v6t93l]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-1q7auy0,[data-css-1q7auy0]{position:relative;display:inline-block;margin-left:0;overflow:visible;margin-top:-1px;padding:0px;color:green;border-top:1px solid #000;border-bottom:none;}.css-1q7auy0 a,[data-css-1q7auy0] a{border:none;color:#000 !important;padding:0.7rem 0 !important;font-weight:inherit;display:block;}.css-1q7auy0:hover a,[data-css-1q7auy0]:hover a{font-weight:700;}.css-1q7auy0:after,[data-css-1q7auy0]:after{content:'';position:absolute;pointer-events:none;top:-1px;left:0px;width:0px;height:calc(100% + 1px);border-bottom:1px solid #0000ff;border-top:1px solid #0000ff;}.css-1q7auy0:hover:after,[data-css-1q7auy0]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-1vr051c,[data-css-1vr051c]{position:relative;display:inline-block;margin-left:0;overflow:visible;margin-top:-1px;padding:0px;color:green;border-top:1px solid #000;border-bottom:none;}.css-1vr051c a,[data-css-1vr051c] a{border:none;color:#000 !important;padding:0.7rem 0 !important;font-weight:inherit;display:block;}.css-1vr051c:hover a,[data-css-1vr051c]:hover a{font-weight:700;}.css-1vr051c:after,[data-css-1vr051c]:after{content:'';position:absolute;pointer-events:none;top:-1px;left:0px;width:0px;height:calc(100% + 1px);border-bottom:1px solid #bea3ff;border-top:1px solid #bea3ff;}.css-1vr051c:hover:after,[data-css-1vr051c]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-138sx36,[data-css-138sx36]{position:relative;display:inline-block;margin-left:0;overflow:visible;margin-top:-1px;padding:0px;color:green;border-top:1px solid #000;border-bottom:none;}.css-138sx36 a,[data-css-138sx36] a{border:none;color:#000 !important;padding:0.7rem 0 !important;font-weight:inherit;display:block;}.css-138sx36:hover a,[data-css-138sx36]:hover a{font-weight:700;}.css-138sx36:after,[data-css-138sx36]:after{content:'';position:absolute;pointer-events:none;top:-1px;left:0px;width:0px;height:calc(100% + 1px);border-bottom:1px solid #000;border-top:1px solid #000;}.css-138sx36:hover:after,[data-css-138sx36]:hover:after{width:100%;transition:width 0.5s ease;-webkit-transition:width 0.5s ease;-moz-transition:width 0.5s ease;-o-transition:width 0.5s ease;-ms-transition:width 0.5s ease;}.css-17lg28x,[data-css-17lg28x]{flex:1.7;border-top:1px solid #000;text-align:center;-webkit-flex:1.7;}.css-19iccoc,[data-css-19iccoc]{flex:0.7;border-top:1px solid #000;text-align:right;-webkit-flex:0.7;}.css-1mt5ztp,[data-css-1mt5ztp]{position:fixed;top:0px;right:0px;bottom:0px;left:0px;background:rgba(255,255,255,.95);z-index:100001;display:none !important;}.css-1oxw4cb,[data-css-1oxw4cb]{display:none;width:80px;height:80px;margin:auto;animation:fa-spin 2s infinite linear;-webkit-animation:fa-spin 2s infinite linear;}.css-19p1681,[data-css-19p1681]{padding:40px;}.css-19p1681 .label1,[data-css-19p1681] .label1{float:left;color:#7F7F7F;}.css-19p1681 input[type=text],[data-css-19p1681] input[type=text]{font-size:140px;font-weight:700;height:200px !important;line-height:200px;border:none;color:#000;}.css-19p1681 .section-title,[data-css-19p1681] .section-title{color:#7F7F7F;font-size:1.7rem;font-weight:500;margin:10px 0 20px 0;display:block;}.css-19p1681 .header,[data-css-19p1681] .header{margin-bottom:30px;}.css-19p1681 hr,[data-css-19p1681] hr{margin:0px;display:block;height:2px;border:0px;border-bottom:1px solid #383838;padding:0px;}.css-19p1681 .closeBtn,[data-css-19p1681] .closeBtn{float:right;cursor:pointer;font-size:2rem;}.css-19p1681 .item-title,[data-css-19p1681] .item-title{font-size:1.5rem;color:#000;font-weight:500;margin-top:10px;margin-bottom:10px;cursor:pointer;}.css-19p1681 .res-plus,[data-css-19p1681] .res-plus{font-weight:200;}.css-19p1681 .no-results,[data-css-19p1681] .no-results{text-align:center;margin:20px;font-size:3rem;}.css-19p1681 .showAll,[data-css-19p1681] .showAll{background-color:#F1F1F1;color:#000;padding:10px;font-weight:bold;background-image:url(/static/images/plus.svg);background-repeat:no-repeat;background-position-x:calc(100% - 20px);background-position-y:calc(50% - 1px);background-size:15px;}@media (max-width: 920px){.css-19p1681,[data-css-19p1681]{display:none !important;}}.css-m2f5v1,[data-css-m2f5v1]{display:none !important;flex-wrap:wrap;flex-direction:column;padding:0;width:100%;-webkit-box-lines:multiple;-webkit-flex-wrap:wrap;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;}@media (min-width: 921px){.css-m2f5v1,[data-css-m2f5v1]{flex-direction:row;width:100%;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;}}.css-1dpqrhe,[data-css-1dpqrhe]{display:block;flex:0 0 100%;margin-left:0;max-width:100%;width:100%;-webkit-flex:0 0 100%;}@media (min-width: 921px){.css-1dpqrhe,[data-css-1dpqrhe]{margin-bottom:inherit;padding:0 10px;flex:0 0 50%;max-width:50%;-webkit-flex:0 0 50%;}}.css-13fkuzy,[data-css-13fkuzy]{display:block;flex:0 0 100%;margin-left:0;max-width:100%;width:100%;-webkit-flex:0 0 100%;}@media (min-width: 921px){.css-13fkuzy,[data-css-13fkuzy]{margin-bottom:inherit;padding:0 10px;flex:0 0 25%;max-width:25%;-webkit-flex:0 0 25%;}}</style><script>var islrsharing = true; var islrsocialcounter = true;</script><meta name="google-site-verification" content="GbT2GJ2xI9_ko0LjKgenjzc4BvIBG2_gx892OmraPjQ"><meta name="msvalidate.01" content="A93FADBBDBEA2DD62F40F7751193B9B0"><meta name="propeller" content="201dd24ab1157b1f189802460ea10003"><script async="" src="https://cdn.ravenjs.com/3.16.0/raven.min.js" crossorigin="anonymous"></script><script async="" src="//code.jquery.com/jquery-1.10.2.js"></script><script async="" defer="" src="//share.lrcontent.com/prod/v1/LoginRadius.js"></script><script>(function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode autoAppIndex banner closeBanner closeJourney creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode trackCommerceEvent".split(" "), 0);</script><script>!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+              analytics.load("jozGe5o0mOldOzcffD23mFjq3kFNGeV1");
+          }}();</script><link rel="alternate" type="application/rss+xml" title="MERRY JANE - All articles" href="https://merryjane.com/feed/all.rss"><div><div id="__next"><div data-reactroot="" data-reactid="1" data-react-checksum="1605603865"><div data-reactid="2"><!-- react-empty: 3 --><div style="position:relative;top:0;left:0;right:0;bottom:0;overflow:inherit;" role="navigation" data-reactid="4"><div style="z-index:100000;position:fixed;top:0px;bottom:0px;transition:transform .3s ease-out;-webkit-transition:-webkit-transform .3s ease-out;will-change:transform;overflow-y:auto;transform:translateX(-100%);left:0;-webkit-transform:translateX(-100%);box-shadow:2px 2px 4px rgba(0, 0, 0, 0.15);" data-reactid="5"><div data-css-1ixdaw6="" data-reactid="6"><div class="img-container" data-reactid="7"><a href="/" data-reactid="8"><img src="/static/images/logo_wide.png" alt="logo" data-reactid="9"></a></div><div class="sidebarHeader" data-reactid="10"><div data-reactid="11"><img src="/static/images/search.svg" alt="search" data-reactid="12"></div><div data-reactid="13"><div data-css-r00izb="" data-reactid="14"></div><a data-css-fisw11="" class="signinMobile" href="/account/signin" data-reactid="15">Sign Up/Sign In</a></div></div><div class="sidebar-links" data-reactid="16"><div data-css-1k69xu8="" data-reactid="17"><a class="btn" id="news" href="/news" data-reactid="18">News</a></div><div data-css-1p4n9w1="" data-reactid="19"><a class="btn" id="culture" href="/culture" data-reactid="20">Culture</a></div><div data-css-jc92e3="" data-reactid="21"><a class="btn" id="health" href="/health" data-reactid="22">Health</a></div><div data-css-10mp50y="" data-reactid="23"><a class="btn" id="music" href="/music" data-reactid="24">Music</a></div><div data-css-11dkt8o="" data-reactid="25"><a class="btn" id="videos" href="/videos" data-reactid="26">Videos</a></div><div data-css-1pp9iyt="" data-reactid="27"><a class="btn" id="good" href="/goods" data-reactid="28">Goods</a></div><div data-css-1pp9iyt="" data-reactid="29"><a class="btn" id="dispensaries" href="/dispensaries" data-reactid="30">Dispensaries</a></div><div data-css-1pp9iyt="" data-reactid="31"><a class="btn" id="sesh" href="/sesh" data-reactid="32">SESH</a></div><div data-css-1pp9iyt="" data-reactid="33"><a class="btn" id="store" href="/store" data-reactid="34">Store</a></div></div><div class="sidebar-footer" data-reactid="35"><span class="newsletter-title" data-reactid="36">Sign up for our newsletter</span><form data-reactid="37"><div class="newsletter-form" data-reactid="38"><input type="email" class="email-input" placeholder="Enter your e-mail address" data-reactid="39"><input type="submit" class="submit-btn" value=">" data-reactid="40"></div></form><div data-reactid="41"><a data-css-j52dko="" href="https://facebook.com/merryjane" target="_blank" data-reactid="42"><i class="icon-facebook" aria-hidden="true" data-reactid="43"></i></a><a data-css-16v6ukm="" href="https://twitter.com/merryjane" target="_blank" data-reactid="44"><i class="icon-twitter" aria-hidden="true" data-reactid="45"></i></a><a data-css-1qbk9tx="" href="https://www.instagram.com/merryjane" target="_blank" data-reactid="46"><i class="icon-instagram" aria-hidden="true" data-reactid="47"></i></a><a data-css-1ckdce3="" href="https://www.pinterest.com/MERRYJANEMEDIA/" target="_blank" data-reactid="48"><i class="icon-pinterest" aria-hidden="true" data-reactid="49"></i></a><a data-css-1osk6ys="" href="http://www.youtube.com/c/merryjane" target="_blank" data-reactid="50"><i class="icon-youtube" aria-hidden="true" data-reactid="51"></i></a></div></div></div></div><div style="z-index:1;position:absolute;top:0px;left:0;right:0;bottom:0px;opacity:0;visibility:hidden;transition:opacity .3s ease-out, visibility .3s ease-out;background-color:rgba(0,0,0,.3);transform:translate3d(0,0,0);" role="presentation" tabindex="0" data-reactid="52"></div><div style="position:relative;top:0;left:0;right:0;bottom:0;overflow-y:scroll;-webkit-overflow-scrolling:touch;transition:left .3s ease-out, right .3s ease-out;overflow:inherit;" data-reactid="53"><div data-css-ouyqt0="" data-reactid="54"><!-- react-empty: 55 --><header id="view-port" data-css-vo2rjf="" data-reactid="56"><div data-css-1nvoocg="" data-reactid="57"><div data-css-13azwyo="" data-reactid="58"><div data-css-11tmwo9="" data-reactid="59"><a data-css-j52dko="" href="https://facebook.com/merryjane" target="_blank" data-reactid="60"><i class="icon-facebook" aria-hidden="true" data-reactid="61"></i></a><a data-css-16v6ukm="" href="https://twitter.com/merryjane" target="_blank" data-reactid="62"><i class="icon-twitter" aria-hidden="true" data-reactid="63"></i></a><a data-css-1qbk9tx="" href="https://www.instagram.com/merryjane" target="_blank" data-reactid="64"><i class="icon-instagram" aria-hidden="true" data-reactid="65"></i></a><a data-css-1ckdce3="" href="https://www.pinterest.com/MERRYJANEMEDIA" target="_blank" data-reactid="66"><i class="icon-pinterest" aria-hidden="true" data-reactid="67"></i></a><a data-css-1osk6ys="" href="http://www.youtube.com/c/merryjane" target="_blank" data-reactid="68"><i class="icon-youtube" aria-hidden="true" data-reactid="69"></i></a></div></div><div data-css-ud4edp="" data-reactid="70"><div data-css-ebzlqo="" data-reactid="71"><div data-css-1l88wow="" data-reactid="72"><i class="fa fa-bars" aria-hidden="true" data-reactid="73"></i></div><div class="social-share-container" data-css-uihc05="" data-reactid="74"><div class="share-buttons-header" data-reactid="75"></div><a class="follow-btn" data-reactid="76"><img id="headerFollowBtn" alt="Follow" data-reactid="77"></a></div><div data-css-8lukbg="" data-reactid="78"><a href="/" data-reactid="79"><div data-reactid="80"><img data-css-by7nv3="" class="small-logo" src="/static/images/logo.png" alt="Logo" data-reactid="81"><img data-css-1rjq1e7="" src="/static/images/logo_wide.png" alt="Merry Jane" data-reactid="82"></div></a></div><div data-css-10psuwu="" data-reactid="83"><div data-css-e9bchf="" data-reactid="84"><img id="searchImg" src="/static/images/search.svg" alt="Search" data-reactid="85"></div><div data-css-i0f8ao="" data-reactid="86"><a data-css-1j7fu58="" href="/account/signin" data-reactid="87">Sign Up / Sign In</a></div><div data-css-1nnfulc="" data-reactid="88"><div data-reactid="89"></div></div><div data-css-so7zvp="" data-reactid="90"><a data-css-1j7fu58="" data-reactid="91">Subscribe</a></div></div></div><div data-reactid="92"><div data-css-y2m6xp="" data-reactid="93"><img id="searchImg" src="/static/images/search.svg" alt="Search" data-reactid="94"><span id="searchSpan" data-reactid="95">Search</span></div><div data-css-1s457ml="" data-reactid="96"><div style="font-size:0.8em;font-weight:300;" data-reactid="97"><span data-reactid="98">Monday, September 4, 2017</span><span style="margin:0 .5rem;" data-reactid="99">|</span><span data-reactid="100">2:32 AM</span><span style="display:none;margin:0 .5rem;" data-reactid="101">|</span><span style="display:none;" data-reactid="102"></span></div></div></div></div><nav data-css-h7hse3="" data-reactid="103"><div data-css-1y6mlpc="" data-reactid="104"></div><div data-css-1d12jeg="" data-reactid="105"><div data-css-aoekvu="" data-reactid="106"><a href="/news" data-reactid="107">News</a></div></div><div data-css-1priyp0="" data-reactid="108"><div data-css-i16p0t="" data-reactid="109"><a href="/culture" data-reactid="110">Culture</a></div></div><div data-css-c8o53a="" data-reactid="111"><div data-css-1v6t93l="" data-reactid="112"><a href="/health" data-reactid="113">Health</a></div></div><div data-css-c8o53a="" data-reactid="114"><div data-css-1q7auy0="" data-reactid="115"><a href="/music" data-reactid="116">Music</a></div></div><div data-css-1priyp0="" data-reactid="117"><div data-css-1vr051c="" data-reactid="118"><a href="/videos" data-reactid="119">Videos</a></div></div><div data-css-c8o53a="" data-reactid="120"><div data-css-138sx36="" data-reactid="121"><a href="/goods" data-reactid="122">Goods</a></div></div><div data-css-17lg28x="" data-reactid="123"><div data-css-138sx36="" data-reactid="124"><a href="/dispensaries" data-reactid="125">Dispensaries</a></div></div><div data-css-c8o53a="" data-reactid="126"><div data-css-138sx36="" data-reactid="127"><a href="/sesh" data-reactid="128">SESH</a></div></div><div data-css-19iccoc="" data-reactid="129"><div data-css-138sx36="" data-reactid="130"><a href="/store" data-reactid="131">Store</a></div></div><div data-css-1y6mlpc="" data-reactid="132"></div></nav></div></header></div><div data-reactid="133"><div data-css-115hgfz="" data-reactid="134"><div data-css-1w4r3p1="" data-reactid="135"><div data-css-1w502ui="" data-reactid="136"><span data-reactid="137"></span><span data-reactid="138"></span><span data-reactid="139"></span><span data-reactid="140"></span><span data-reactid="141"></span><span data-reactid="142"></span><span data-reactid="143"></span><span data-reactid="144"></span><span data-reactid="145"></span></div></div></div><div data-reactid="146"><div data-css-1w27zt8="" data-reactid="147"><div data-reactid="148"><!-- react-empty: 149 --><div data-css-1glye71="" data-reactid="150"><h1 class="footerPageHeader" data-reactid="151">Privacy Policy</h1><div class="footerPageContent" data-reactid="152"><p data-reactid="153"><strong data-reactid="154">Last Update: July 28th 2015</strong></p><br data-reactid="155"><p data-reactid="156">Welcome to MERRY JANE (“MERRY JANE, “we”, “us”, or “our”). This Privacy Policy explains how information is collected, used, and shared in relation to any software and services provided by or in connection with MERRY JANE services (collectively, the “Services”) and your choices about the collection and use of your information. Those Services include every way in which you might interact with us, including through our mobile applications, websites, and any other online products and services that link to this Privacy Policy or our Terms of Service.  By using our Services you understand and agree to the terms and conditions of this Privacy Policy.</p><div data-reactid="157">Collection of Information</div><br data-reactid="158"><p data-reactid="159">Information is collected when you utilize our Services. This can be from information that you provide to us directly such as your email address, social accounts, or username when establishing an account. Or information can be collected automatically such as your usage information of the Services. As parts of MERRY JANE services allows users to upload their own photos, media, and share their experiences, we cannot prevent others from taking screenshots or using other recording technology to capture your posted photos and videos. You should not post text, photos, and videos on MERRY JANE if you want to make sure that others cannot see or have copies of media that you are posting.</p><ol data-reactid="160"><li data-reactid="161">Usage Information: When you send or receive information when using the Services, we collect information that is being sent or received to your device. Usage information also includes Content including but not limited to, text, photos, username, graphics, or other materials (collectively, “Content”) and its metadata, such as time, date, and sender.</li><li data-reactid="162">Log Information: We log information about the use of our websites, including your browser type, web request, IP address, referring/exit pages and URLs, how you interact with the website, domain names, landing pages, pages viewed, and other online information. Log information also collected from marketing campaigns or online advertisements.</li><li data-reactid="163">Device Information: We may access, collect, monitor, store on your device, or remotely store one or more device identifiers that uniquely identifies your device. In addition, in order to participate in certain Services we may access areas of your device such as your device’s native phonebook or media storage applications.</li><li data-reactid="164">Location Information: We collect information about the location of your device to use our Services. The Services we provide depends upon knowing the location of users and cannot function otherwise.</li><li data-reactid="165">Cookies and similar tracking technologies: When you utilize the Services we may use cookies, web beacons, pixels and other similar technologies to collect information.</li><li data-reactid="166">Other Sources: We may use third parties to know how users are utilizing our Services and to know more about our users. Other sources include analytic services and providers of device operating systems.  We may also collect information about you from other users, such as your phone number if that user invites you to use the Services.  We may combine that information and information from other third party sources, with information we have collected about you.</li></ol><div data-reactid="167">Usage of Information</div><br data-reactid="168"><p data-reactid="169">Information collected when you utilize our Services is used to maintain our services and provide Content specific to certain users. We will not rent your information to third parties without your consent, except as noted in this Privacy Policy. Below are some examples on how the collected information is used:</p><ol data-reactid="170"><li data-reactid="171">Improve our Services to individual users as well as groups of users</li><li data-reactid="172">Efficiently access information from our Services</li><li data-reactid="173">Provide personalized Content and information to users including online ads</li><li data-reactid="174">Testing the effectiveness of our Services</li><li data-reactid="175">Diagnosing bugs or fixing technical issues</li><li data-reactid="176">Monitoring metrics to see any trends, patterns, or groups</li><li data-reactid="177">Combine information to provide you with enhanced Services</li><li data-reactid="178">Detect and prevent fraudulent or unauthorized activity</li><li data-reactid="179">Communicate with you</li><li data-reactid="180">Carry out any other purposes for which the information was collected</li></ol><div data-reactid="181">Sharing of Information</div><br data-reactid="182"><p data-reactid="183">Information is openly shared within the system and any information or Content that you voluntarily post using our Services will become available to the public. Even though some posted Content and information is temporarily shown to the public, it should not be presumed that the Content and information is private. Below is a list of some information that is shared:</p><ol data-reactid="184"><li data-reactid="185">Information with your consent or at your direction.</li><li data-reactid="186">Information shared between users.</li><li data-reactid="187">Selecting to allow access to or import your contacts into our Services allows known contacts to find you and know that you are using our Services. This is done so users can easily find their friends and contacts, however if you do not want to be associated with any of your contacts then do not allow access to or import your contacts list via social networks or your mobile device.</li><li data-reactid="188">With vendors, consultants, and other service providers that we are associated, contracted, or partnered with in order to carry out work on our behalf.</li><li data-reactid="189">In order to investigate and resolve potential violations of our agreements or policies and to protect the rights or safety of MERRY JANE, our users, or others.</li><li data-reactid="190">We may share information with businesses that are legally part of the same group of companies that Good Leaf, Inc. is part of or becomes part of.</li><li data-reactid="191">We may remove parts of information that identify you and share this anonymous data with other parties.</li></ol><p data-reactid="192">We take reasonable measures to help protect your information from loss, unauthorized access, alteration, and misuse.</p><div data-reactid="193">Third Party Advertisers</div><br data-reactid="194"><p data-reactid="195">We permit advertisements to be delivered to you by third party Internet advertising companies (sometimes referred to as ad networks or network advertisers). These third party Internet advertising companies may use cookies, web beacons, platform device identifiers, software agents, and other technologies to collect non-personally identifiable information about your visits over time on our Services to deliver advertisements to you targeted to your interests, measure their effectiveness and personalize advertising content, and to understand the usage and visitation of the Services and other applications and websites that are tracked by these third party Internet advertising companies. We may not have access to or control their cookies, web beacons, platform device identifiers, software agents, or other technologies that they may use. We are not responsible for the privacy practices of third party Internet advertisers. If you would like to have more information about the usage and privacy policies of third party Internet advertisers, you should check their policies or contact them directly.</p><p data-reactid="196"><!-- react-text: 197 -->Children (Younglings)<!-- /react-text --><br data-reactid="198"><!-- react-text: 199 -->We do not knowingly collect or solicit personal information from users under the age of thirteen or knowingly allow such persons to register for Services. Services and Content provided by Services are not directed for persons under the age of 13.<!-- /react-text --></p><p data-reactid="200"><!-- react-text: 201 -->If you want to contact us or have questions about the Privacy Policy, please write to us at <!-- /react-text --><a href="mailto:support@merryjane.com " target="_top" data-reactid="202">support@merryjane.com</a><!-- react-text: 203 -->.<!-- /react-text --></p><p data-reactid="204"><!-- react-text: 205 -->Changes to this Privacy Policy<!-- /react-text --><br data-reactid="206"><!-- react-text: 207 -->This privacy policy may change. If we make any changes, the Last Updated date above will reflect the last date this policy has been changed.<!-- /react-text --></p></div></div></div></div></div></div><!-- react-empty: 208 --><footer data-reactid="209"><div data-css-by7nv3="" data-reactid="210"><div id="footerDivDesktopId" data-css-1ennxo="" data-reactid="211"><div data-css-d3q2ir="" data-reactid="212"></div><div class="ads" data-css-1yi81gi="" data-reactid="213"><img id="adBlockCheck" src="/static/images/ads.png" height="0" width="0" alt="adblock" data-reactid="214"></div><div data-css-t9glld="" data-reactid="215"><div data-css-mdzcw2="" data-reactid="216"><div data-css-1m25025="" data-reactid="217"><span data-reactid="218"></span><span data-reactid="219"></span><span data-reactid="220"></span><span data-reactid="221"></span><span data-reactid="222"></span><span data-reactid="223"></span><span data-reactid="224"></span><span data-reactid="225"></span><span data-reactid="226"></span></div><noscript data-reactid="227"></noscript></div></div><div data-css-t9glld="" data-reactid="228"><div data-css-1eare7p="" data-reactid="229"><strong data-reactid="230">Company</strong><dl data-reactid="231"><li data-reactid="232"><a data-css-tr84yr="" href="/company/about" data-reactid="233">About Us</a></li><li data-reactid="234"><a data-css-tr84yr="" href="/company/terms" data-reactid="235">Terms Of Service</a></li><li data-reactid="236"><a data-css-tr84yr="" href="/company/policy" data-reactid="237">Privacy Policy</a></li></dl></div><div data-css-1eare7p="" data-reactid="238"><strong data-reactid="239">Resources</strong><dl data-reactid="240"><li data-reactid="241"><a data-css-tr84yr="" href="/company/claim-dispensary" data-reactid="242">Claim a Dispensary</a></li><li class="contactUsLink" data-reactid="243"><a data-css-tr84yr="" data-reactid="244">Add a Dispensary</a></li><li class="contactUsLink" data-reactid="245"><a data-css-tr84yr="" data-reactid="246">Advertise on MERRY JANE</a></li><li data-reactid="247"><div class="contactUsLink" data-reactid="248"><a data-css-tr84yr="" data-reactid="249">Newsletter</a></div></li></dl></div><div data-css-1eare7p="" data-reactid="250"><strong data-reactid="251">Socialize</strong><div class="share" data-reactid="252"><a data-css-j52dko="" href="https://facebook.com/merryjane" target="_blank" data-reactid="253"><i class="icon-facebook" aria-hidden="true" data-reactid="254"></i></a><a data-css-16v6ukm="" href="https://twitter.com/merryjane" target="_blank" data-reactid="255"><i class="icon-twitter" aria-hidden="true" data-reactid="256"></i></a><a data-css-1qbk9tx="" href="https://www.instagram.com/merryjane" target="_blank" data-reactid="257"><i class="icon-instagram" aria-hidden="true" data-reactid="258"></i></a><a data-css-1ckdce3="" href="https://www.pinterest.com/MERRYJANEMEDIA/" target="_blank" data-reactid="259"><i class="icon-pinterest" aria-hidden="true" data-reactid="260"></i></a><a data-css-1osk6ys="" href="http://www.youtube.com/c/merryjane" target="_blank" data-reactid="261"><i class="icon-youtube" aria-hidden="true" data-reactid="262"></i></a></div><p data-css-oks5nm="" data-reactid="263"><strong data-reactid="264">MERRY JANE iOS</strong></p><a data-css-11ksh22="" title="Download from the apple store" target="_blank" href="https://itunes.apple.com/us/app/merry-jane/id1031763320?mt=8" data-reactid="265"><img src="/static/images/download_app_store.png" alt="Download app store" data-reactid="266"></a></div><div data-css-1eare7p="" data-reactid="267"><strong data-reactid="268">Contact</strong><dl data-css-vkl0r2="" data-reactid="269"><div class="contactUsLink" data-reactid="270"><a data-css-tr84yr="" data-reactid="271">Contact Us</a></div></dl><p data-css-oks5nm="" data-reactid="272"><strong data-reactid="273">MERRY JANE Android</strong></p><a data-css-11ksh22="" title="Download from Google Play" target="_blank" href="https://play.google.com/store/apps/details?id=com.merryjane" data-reactid="274"><img src="/static/images/download_google_play.png" alt="Download google play" data-reactid="275"></a></div><div class="logo" data-reactid="276"><img src="/static/images/logo.png" alt="logo" data-reactid="277"><small data-reactid="278">© 2017 MERRY JANE. All Rights Reserved.</small></div></div></div></div><div data-css-115hgfz="" data-reactid="279"><div id="footerDivId" data-css-4tvf67="" data-reactid="280"><div data-css-x6rq0g="" data-reactid="281"></div><div data-css-7e0zp1="" data-reactid="282">Contact Us</div><div class="rc-collapse" data-reactid="283"><div class="rc-collapse-item" data-reactid="284"><div class="rc-collapse-header" role="tab" aria-expanded="false" data-reactid="285"><!-- react-text: 286 -->Company<!-- /react-text --></div><!-- react-empty: 287 --></div><div class="rc-collapse-item" data-reactid="288"><div class="rc-collapse-header" role="tab" aria-expanded="false" data-reactid="289"><!-- react-text: 290 -->Resources<!-- /react-text --></div><!-- react-empty: 291 --></div></div><div data-css-1446qjc="" data-reactid="292"><div data-css-1ktsav3="" data-reactid="293"><a data-css-j52dko="" href="https://facebook.com/merryjane" target="_blank" data-reactid="294"><i class="icon-facebook" aria-hidden="true" data-reactid="295"></i></a><a data-css-16v6ukm="" href="https://twitter.com/merryjane" target="_blank" data-reactid="296"><i class="icon-twitter" aria-hidden="true" data-reactid="297"></i></a><a data-css-1qbk9tx="" href="https://www.instagram.com/merryjane" target="_blank" data-reactid="298"><i class="icon-instagram" aria-hidden="true" data-reactid="299"></i></a><a data-css-1ckdce3="" href="https://www.pinterest.com/MERRYJANEMEDIA/" target="_blank" data-reactid="300"><i class="icon-pinterest" aria-hidden="true" data-reactid="301"></i></a><a data-css-1osk6ys="" href="http://www.youtube.com/c/merryjane" target="_blank" data-reactid="302"><i class="icon-youtube" aria-hidden="true" data-reactid="303"></i></a></div></div><div class="logo" data-reactid="304"><img src="/static/images/logo.png" alt="logo" data-reactid="305"><br data-reactid="306"><small data-reactid="307">© 2017 MERRY JANE. All Rights Reserved.</small></div><noscript data-reactid="308"></noscript><!-- react-empty: 309 --></div></div></footer></div></div><div data-css-1mt5ztp="" data-reactid="310"><div data-css-115hgfz="" data-reactid="311"><div data-css-15wxpwg="" data-reactid="312"><div class="header" data-reactid="313"><div class="label1" data-reactid="314">I'm looking for</div><div class="closeBtn" data-reactid="315">✕</div></div><div class="container" data-reactid="316"><input type="text" name="searchInput" class="input" value="" placeholder="Search" data-css-dopm70="" data-reactid="317"><div class="suggestionsContainer" data-reactid="318"><div class="suggestions" data-reactid="319"></div></div></div><svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" data-css-1oxw4cb="" style="vertical-align:middle;" data-reactid="320"><g data-reactid="321"><path d="m11.7 31.1q0 1.2-0.8 2t-2 0.9q-1.2 0-2-0.9t-0.9-2q0-1.2 0.9-2t2-0.8 2 0.8 0.8 2z m11.2 4.6q0 1.2-0.9 2t-2 0.9-2-0.9-0.9-2 0.9-2 2-0.8 2 0.8 0.9 2z m-15.8-15.7q0 1.2-0.8 2t-2 0.9-2-0.9-0.9-2 0.9-2 2-0.9 2 0.9 0.8 2z m26.9 11.1q0 1.2-0.9 2t-2 0.9q-1.2 0-2-0.9t-0.8-2 0.8-2 2-0.8 2 0.8 0.9 2z m-21.5-22.2q0 1.5-1.1 2.5t-2.5 1.1-2.5-1.1-1.1-2.5 1.1-2.5 2.5-1.1 2.5 1.1 1.1 2.5z m26.1 11.1q0 1.2-0.9 2t-2 0.9-2-0.9-0.8-2 0.8-2 2-0.9 2 0.9 0.9 2z m-14.3-15.7q0 1.8-1.3 3t-3 1.3-3-1.3-1.3-3 1.3-3.1 3-1.2 3 1.3 1.3 3z m11.8 4.6q0 2.1-1.5 3.5t-3.5 1.5q-2.1 0-3.5-1.5t-1.5-3.5q0-2.1 1.5-3.5t3.5-1.5q2.1 0 3.5 1.5t1.5 3.5z" data-reactid="322"></path></g></svg></div></div><div data-css-by7nv3="" data-reactid="323"><div data-css-19p1681="" data-reactid="324"><div class="header" data-reactid="325"><div class="label1" data-reactid="326">I'm looking for</div><div class="closeBtn" data-reactid="327">✕</div></div><div class="container" data-reactid="328"><input type="text" name="searchInput" class="input" value="" placeholder="Search" data-css-dopm70="" data-reactid="329"><div class="suggestionsContainer" data-reactid="330"><div class="suggestions" data-reactid="331"></div></div></div><svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" data-css-1oxw4cb="" style="vertical-align:middle;" data-reactid="332"><g data-reactid="333"><path d="m11.7 31.1q0 1.2-0.8 2t-2 0.9q-1.2 0-2-0.9t-0.9-2q0-1.2 0.9-2t2-0.8 2 0.8 0.8 2z m11.2 4.6q0 1.2-0.9 2t-2 0.9-2-0.9-0.9-2 0.9-2 2-0.8 2 0.8 0.9 2z m-15.8-15.7q0 1.2-0.8 2t-2 0.9-2-0.9-0.9-2 0.9-2 2-0.9 2 0.9 0.8 2z m26.9 11.1q0 1.2-0.9 2t-2 0.9q-1.2 0-2-0.9t-0.8-2 0.8-2 2-0.8 2 0.8 0.9 2z m-21.5-22.2q0 1.5-1.1 2.5t-2.5 1.1-2.5-1.1-1.1-2.5 1.1-2.5 2.5-1.1 2.5 1.1 1.1 2.5z m26.1 11.1q0 1.2-0.9 2t-2 0.9-2-0.9-0.8-2 0.8-2 2-0.9 2 0.9 0.9 2z m-14.3-15.7q0 1.8-1.3 3t-3 1.3-3-1.3-1.3-3 1.3-3.1 3-1.2 3 1.3 1.3 3z m11.8 4.6q0 2.1-1.5 3.5t-3.5 1.5q-2.1 0-3.5-1.5t-1.5-3.5q0-2.1 1.5-3.5t3.5-1.5q2.1 0 3.5 1.5t1.5 3.5z" data-reactid="334"></path></g></svg><div data-css-m2f5v1="" data-reactid="335"><div data-css-1dpqrhe="" data-reactid="336"><hr data-reactid="337"><span class="section-title" data-reactid="338">Articles</span></div><div data-css-13fkuzy="" data-reactid="339"><hr data-reactid="340"><span class="section-title" data-reactid="341">Goods</span></div><div data-css-13fkuzy="" data-reactid="342"><hr data-reactid="343"><span class="section-title" data-reactid="344">Dispensaries</span></div></div><div data-css-t9glld="" data-reactid="345"><div data-css-1dpqrhe="" data-reactid="346"><a href="/search/articles/" data-reactid="347"><div data-css-obbrb4="" class="showAll" data-reactid="348"><span data-reactid="349">Show all results</span><span class="res-plus" data-reactid="350"></span></div></a></div><div data-css-13fkuzy="" data-reactid="351"><a href="/search/goods/" data-reactid="352"><div data-css-obbrb4="" class="showAll" data-reactid="353"><span data-reactid="354">Show all results</span><span class="res-plus" data-reactid="355"></span></div></a></div><div data-css-13fkuzy="" data-reactid="356"><a href="/search/dispensaries/" data-reactid="357"><div data-css-obbrb4="" class="showAll" data-reactid="358"><span data-reactid="359">Show all results</span><span class="res-plus" data-reactid="360"></span></div></a></div></div></div></div></div><div data-reactid="361"></div></div></div></div><div id="__next-error"></div></div><div><script>
+          __NEXT_DATA__ = {"props":{"leftSkin":"homepage_left_skin_","rightSkin":"homepage_right_skin_","isAuthenticated":false,"fullUrl":"https://merryjane.com/company/policy"},"pathname":"/company/policy","query":{},"buildId":"b1daed17-6b3e-4745-b9a5-76c5f85f1ba5","buildStats":{"app.js":{"hash":"182762aa6c15ed9f04b2b2d4a1906cc3"}},"assetPrefix":"","err":null,"ids":["1lk3hfe","8jdw55","17ufatm","u4j1fe","1jmm0qs","vztle4","1spusys","p9r9zw","k99y95","tqmsxa","514nx3","bmkla1","1i9sgxs","1ilizh3","kirud9","tt2yeq","h5g5l5","18vkdd6","1f9aa52","w0wzhx","kcwrr","1dvmgyu","2oh51h","1hke9lz","1gqfy9o","und790","164veih","q1fzsk","wzwv41","8r5hw5","dumj1p","j1ud8o","npkq0u","htcfem","eznxm9","1cpgitm","1lzdxot","g5mtsg","1w8g2ov","pbmvx7","rabpw6","1tj07cs","19ekajh","1rho0fa","obbrb4","by7nv3","115hgfz","h8tnhf","o48q89","1nmxnje","1g1g996","19hlop","1fkr0vc","127u715","158p218","h05g2b","ip34uu","1s6s9nv","1l28d95","1et5u0b","1glye71","1j7fu58","t9glld","1eare7p","1l88wow","13azwyo","dopm70","15wxpwg","tr84yr","7e0zp1","d3q2ir","x6rq0g","1ktsav3","1ixdaw6","oks5nm","11ksh22","fisw11","r00izb","1k69xu8","1p4n9w1","jc92e3","10mp50y","11dkt8o","1pp9iyt","j52dko","16v6ukm","1qbk9tx","1ckdce3","1osk6ys","1w4r3p1","1w502ui","1w27zt8","1ennxo","1yi81gi","mdzcw2","1m25025","vkl0r2","4tvf67","1446qjc","ouyqt0","vo2rjf","1nvoocg","11tmwo9","ud4edp","ebzlqo","uihc05","8lukbg","1rjq1e7","10psuwu","e9bchf","i0f8ao","1nnfulc","so7zvp","y2m6xp","1s457ml","h7hse3","1y6mlpc","1d12jeg","aoekvu","1priyp0","i16p0t","c8o53a","1v6t93l","1q7auy0","1vr051c","138sx36","17lg28x","19iccoc","1mt5ztp","1oxw4cb","19p1681","m2f5v1","1dpqrhe","13fkuzy"]}
+          module={}
+          __NEXT_LOADED_PAGES__ = []
+
+          __NEXT_REGISTER_PAGE = function (route, fn) {
+            __NEXT_LOADED_PAGES__.push({ route: route, fn: fn })
+          }
+        </script><script async="" type="text/javascript" src="/_next/b1daed17-6b3e-4745-b9a5-76c5f85f1ba5/page/company/policy"></script><script async="" type="text/javascript" src="/_next/b1daed17-6b3e-4745-b9a5-76c5f85f1ba5/page/_error"></script><script type="text/javascript" src="/_next/182762aa6c15ed9f04b2b2d4a1906cc3/app.js" async=""></script></div></body></html>
