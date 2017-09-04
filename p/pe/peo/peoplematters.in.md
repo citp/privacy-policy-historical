@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827045317id_/https%3A//www.peoplematters.in/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904144700id_/https%3A//www.peoplematters.in/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Policy — People Matters
 
