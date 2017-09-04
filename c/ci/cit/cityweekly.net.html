@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cityweekly.net privacy policy that was archived on 2017-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170522000538id_/http%3A//www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityweekly.net privacy policy that was archived on 2017-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170904111158id_/https%3A//www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
   
@@ -13,17 +13,14 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="imagetoolbar" content="no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=81093610efcb490ec5227df98d2f9e1b">
 
   
   
-  
-  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=d039c1cdab31dd6e2fd95c345317362a">
-
-  
-  
-    <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=d039c1cdab31dd6e2fd95c345317362a">
-    <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=d039c1cdab31dd6e2fd95c345317362a">
-    <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=d039c1cdab31dd6e2fd95c345317362a">
+    <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=81093610efcb490ec5227df98d2f9e1b">
+    <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=81093610efcb490ec5227df98d2f9e1b">
+    <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=81093610efcb490ec5227df98d2f9e1b">
   
 
   <style type="text/css">
@@ -62,14 +59,14 @@
   
     
     
-      <link rel="alternate" type="application/rss+xml" title="Salt Lake City Weekly RSS: Whole Site" href="http://www.cityweekly.net/utah/Rss.xml?id=PrivacyPolicyTermsofUse">
+      <link rel="alternate" type="application/rss+xml" title="Salt Lake City Weekly RSS: Whole Site" href="https://www.cityweekly.net/utah/Rss.xml?id=PrivacyPolicyTermsofUse">
     
     
     
 
     
     
-      <link rel="alternate" type="application/rss+xml" title="Salt Lake City Weekly RSS: Comments on Salt Lake City Weekly" href="http://www.cityweekly.net/utah/Rss.xml?id=comments&amp;oid=2355293">
+      <link rel="alternate" type="application/rss+xml" title="Salt Lake City Weekly RSS: Comments on Salt Lake City Weekly" href="https://www.cityweekly.net/utah/Rss.xml?id=comments&amp;oid=2355293">
     
   
 
@@ -81,17 +78,25 @@
       <![endif]-->
     
     
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" defer="" src="//dti1-analytics.diib.com/js/"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+      if (!window.Promise) document.write('<scr'+'ipt src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.src.js"></scr'+'ipt>')
+    </script>
     
     
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" defer="" src="//dti1-analytics.diib.com/js/"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/foundation/scripts/common.js?cb=6cda139c80"></script>
+    
+    <script src="/foundation/scripts/common.js?cb=d17608e3d840dea84f55cc1f473a70f6"></script>
   
     
     
     
     
+    <script>
+      if (!window.Promise) document.write('<scr'+'ipt src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.src.js"></scr'+'ipt>')
+    </script>
     
     
-    <script src="/foundation/scripts/desktop-bundle.js?cb=6cda139c80"></script>
+    
+    <script src="/foundation/scripts/desktop-bundle.js?cb=d17608e3d840dea84f55cc1f473a70f6"></script>
   
 
   
@@ -108,7 +113,7 @@
     setupGlide();
     
     // Modify user's own profile links to go to correct URL.
-    fixupProfileLinks("http:\/\/www.cityweekly.net\/utah\/Profile", "http:\/\/posting.cityweekly.net\/utah\/MyProfile");
+    fixupProfileLinks("https:\/\/www.cityweekly.net\/utah\/Profile", "https:\/\/posting.cityweekly.net\/utah\/MyProfile");
   </script>
   
   
@@ -168,9 +173,15 @@
               googletag.enableServices();
                 Foundation.Ad.refresh = function (id) {
                   if (id && Foundation.Ad.slots[id]) {
+                    // Clean up ad container.
+                    jQuery('#' + id).css({width: '', height: ''});
+                    // Refresh slot.
                     googletag.pubads().refresh([Foundation.Ad.slots[id]]);
                   }
                   else {
+                    // Clean up all ad containers.
+                    jQuery('[data-content-type="ad"]').css({width: '', height: ''});
+                    // Refresh all slots.
                     googletag.pubads().refresh();
                   }
                 };
@@ -181,7 +192,7 @@
                       Foundation.Ad.refreshlockout = true;
                       window.setTimeout(function () {
                         Foundation.Ad.refreshlockout = false;
-                      }, 5000);
+                      }, 2500);
                       Foundation.Ad.refresh();
                     }
                   });
@@ -253,13 +264,14 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
     
   
   
-    <link rel="image_src" href="http://www.cityweekly.net/binary/3f42/slc_fbook.png">
-    <meta name="thumbnail" content="http://www.cityweekly.net/binary/3f42/slc_fbook.png">
+    <link rel="image_src" href="https://www.cityweekly.net/binary/3f42/slc_fbook.png">
+    <meta name="thumbnail" content="https://www.cityweekly.net/binary/3f42/slc_fbook.png">
   
 
   
     
-      <link rel="canonical" href="http://www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page">
+      <link rel="canonical" href="https://www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page">
+      <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page">
       
     
 
@@ -270,7 +282,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
 
   
     
-      <meta property="og:url" content="http://www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page">
+      <meta property="og:url" content="https://www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page">
     
   
 
@@ -283,7 +295,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
   <meta property="og:title" content="Privacy Policy / Terms of Use">
  
   
-    <meta property="og:image" content="http://www.cityweekly.net/binary/3f42/slc_fbook.png">
+    <meta property="og:image" content="https://www.cityweekly.net/binary/3f42/slc_fbook.png">
 
     
     
@@ -308,6 +320,27 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
   
   
     <meta property="og:type" content="website">
+  
+
+  
+  
+
+    
+    
+
+    
+    
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://www.cityweekly.net/binary/3f42/slc_fbook.png">
+
+    
+    
+
+    
+
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="Privacy Policy / Terms of Use">
+    <meta name="twitter:description" content="Privacy Statement: The purpose of this policy is to document the rights and confidentiality afforded to all the visitors to the City Weekly web site...">
   
 
   
@@ -346,26 +379,6 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
   
 
 
-  
-  
-
-    
-    
-
-    
-    
-      <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:image" content="http://www.cityweekly.net/binary/3f42/slc_fbook.png">
-
-    
-    
-
-    
-
-    <meta name="twitter:site" content="">
-    <meta name="twitter:title" content="Privacy Policy / Terms of Use">
-    <meta name="twitter:description" content="Privacy Statement: The purpose of this policy is to document the rights and confidentiality afforded to all the visitors to the City Weekly web site...">
-  
 </head>
 
 
@@ -393,7 +406,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
   <script>
     (function () {
       var googAuth = Foundation.Google.loadGoogleOauth().then(function(){
-        if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth initialized.")
+        //if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth initialized.")
       }.bind(this), function(){
         if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth didn't init.")
       })
@@ -430,7 +443,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
       <div id="MobileDetect" class="GlobalHeader Page " style="display:none">
         
         
-          Switch to the <a href="http://m.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
+          Switch to the <a href="https://m.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
         
       </div>
     
@@ -453,24 +466,24 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
 <div class="clearfix" style="margin-bottom:10px;">
   <div style="float:left;width:728px;height:90px;background:#ccc;text-align:center;line-height:1;margin-right:10px;">
     <!-- /1605976/ROS_728x90_1 -->
-          <div id="div-gpt-ad-ros_728x90_1" style="" data-slot="/1605976/ROS_728x90_1" data-output="asynchronous" data-width="728" data-height="90">
-            <script type="text/javascript">
-                googletag.cmd.push(function() {
-                googletag.display('div-gpt-ad-ros_728x90_1');
-                });
-            </script>
+          <div id="div-gpt-ad-ros_728x90_1" style="" data-content-type="ad" data-slot="/1605976/ROS_728x90_1" data-output="asynchronous" data-width="728" data-height="90">
+              <script type="text/javascript">
+                  googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-ros_728x90_1');
+                  });
+              </script>
           </div>
   </div>
   <div id="dailyFeedIssueBox" style="float:left;">
     
       
-        <a href="https://issuu.com/cityweeklynewspaper/docs/cw_archive_170518?e=15758103/48913738" target="_blank">
-          <img src="/imager/b/coverthisweek/4544058/4e29/CW_1_170518.jpg" alt="Issue Cover" width="83" height="90">
+        <a href="https://issuu.com/cityweeklynewspaper/docs/cw_archive_170831?e=15758103/52680279" target="_blank">
+          <img src="/imager/b/coverthisweek/5410924/4b12/CW_1_170831.jpg" alt="Issue Cover" width="83" height="90">
         </a>
 
       
       
-      <a class="issueBoxLink" href="https://issuu.com/cityweeklynewspaper/docs/cw_archive_170518?e=15758103/48913738" target="_blank">
+      <a class="issueBoxLink" href="https://issuu.com/cityweeklynewspaper/docs/cw_archive_170831?e=15758103/52680279" target="_blank">
         <img src="/images/header-thisWeek.png" alt="This Week's Issue">
       </a>
     
@@ -494,7 +507,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
       
         
         
-          <div id="logo"><a href="http://www.cityweekly.net/">Salt Lake City Weekly</a></div>
+          <div id="logo"><a href="https://www.cityweekly.net/">Salt Lake City Weekly</a></div>
         
       
 
@@ -519,7 +532,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
         <div class="search-wrap">
           <div class="search-link dropdown-link">
-            <form class="search-form prepTextForm" id="searchbox_017793458706336421686:nk7zepvg1sm" action="http://www.cityweekly.net/utah/Search">
+            <form class="search-form prepTextForm" id="searchbox_017793458706336421686:nk7zepvg1sm" action="https://posting.cityweekly.net/utah/Search">
               <input type="hidden" name="cx" value="017793458706336421686:nk7zepvg1sm">
               <input type="hidden" name="cof" value="FORID:9">
               <input type="submit" name="sa" value="Search">
@@ -527,11 +540,11 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
                 <input id="search-input" class="searchUpDown" autocomplete="off" type="text" name="q" size="25" placeholder="">
               </div>
               <ul id="search-dropdown" class="search-dropdown" style="display:none;">
-                <li class="search-option"><a class="search-all" href="http://www.cityweekly.net/utah/Search">All</a></li>
-                <li class="search-option"><a href="http://www.cityweekly.net/utah/ArticleArchives">in Articles &amp; Posts</a></li>
-                <li class="search-option"><a href="http://www.cityweekly.net/utah/EventSearch">in Events</a></li>
-                <li class="search-option"><a href="http://www.cityweekly.net/utah/LocationSearch">in Locations</a></li>
-                <li class="search-option"><a href="http://www.cityweekly.net/utah/ArticleArchives" data-category="2125047">in Videos</a></li>
+                <li class="search-option"><a class="search-all" href="https://posting.cityweekly.net/utah/Search">All</a></li>
+                <li class="search-option"><a href="https://www.cityweekly.net/utah/ArticleArchives">in Articles &amp; Posts</a></li>
+                <li class="search-option"><a href="https://www.cityweekly.net/utah/EventSearch">in Events</a></li>
+                <li class="search-option"><a href="https://www.cityweekly.net/utah/LocationSearch">in Locations</a></li>
+                <li class="search-option"><a href="https://www.cityweekly.net/utah/ArticleArchives" data-category="2125047">in Videos</a></li>
               </ul>
             </form>
           </div>
@@ -621,9 +634,9 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
         <ul data-view="loggedin" style="display:none">
           <li><strong data-label="username">Username</strong> / </li>
-          <li><a href="http://posting.cityweekly.net/utah/MyProfile">View Profile</a> / </li>
-          <li><a href="http://posting.cityweekly.net/utah/Profile/MySettings">Edit Profile</a> / </li>
-          <li><a href="http://www.cityweekly.net/utah/Logout">Log Out</a></li>
+          <li><a href="https://posting.cityweekly.net/utah/MyProfile">View Profile</a> / </li>
+          <li><a href="https://posting.cityweekly.net/utah/Profile/MySettings">Edit Profile</a> / </li>
+          <li><a href="https://www.cityweekly.net/utah/Logout">Log Out</a></li>
         </ul>
 
         <ul data-view="loggedout" style="display:none">
@@ -663,7 +676,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
     <ul id="mainNav">
       
         <li class="first" id="NavItem_News">
-          <a href="http://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" class="subnav_link" id="SNAVL_News">News</a>
+          <a href="https://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" class="subnav_link" id="SNAVL_News">News</a>
         </li>
       
 
@@ -674,7 +687,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="" id="NavItem_Culture">
-          <a href="http://www.cityweekly.net/utah/culture/Section?oid=2124973" target="_self" class="subnav_link" id="SNAVL_Culture">A&amp;E</a>
+          <a href="https://www.cityweekly.net/utah/culture/Section?oid=2124973" target="_self" class="subnav_link" id="SNAVL_Culture">A&amp;E</a>
         </li>
       
 
@@ -696,7 +709,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="" id="NavItem_restaurantsbars">
-          <a href="http://www.cityweekly.net/utah/restaurants-and-bars/Section?oid=2124971" target="_self" class="subnav_link" id="SNAVL_restaurantsbars">Food &amp; Drink</a>
+          <a href="https://www.cityweekly.net/utah/restaurants-and-bars/Section?oid=2124971" target="_self" class="subnav_link" id="SNAVL_restaurantsbars">Food &amp; Drink</a>
         </li>
       
 
@@ -707,7 +720,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="" id="NavItem_Music">
-          <a href="http://www.cityweekly.net/utah/music/Section?oid=2124972" target="_self" class="subnav_link" id="SNAVL_Music">Music</a>
+          <a href="https://www.cityweekly.net/utah/music/Section?oid=2124972" target="_self" class="subnav_link" id="SNAVL_Music">Music</a>
         </li>
       
 
@@ -718,7 +731,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="" id="NavItem_BestofUtah">
-          <a href="http://www.cityweekly.net/utah/best-of-utah-2016/Content?oid=3529303" target="_self">Best of Utah</a>
+          <a href="https://www.cityweekly.net/bestofutah" target="_self">Best of Utah</a>
         </li>
       
 
@@ -728,12 +741,12 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
 
         
 
-        <li class="last" id="NavItem_IssueArchives">
-          <a href="http://www.cityweekly.net/utah/IssueArchives?year=2017" target="_self">Issue Archives</a>
+        <li class="last" id="NavItem_Archives">
+          <a href="https://www.cityweekly.net/utah/IssueArchives?year=2017" target="_self">Archives</a>
         </li>
         
       <li class="first" id="NavItem_Services">
-          <a href="http://www.cityweekly.net/utah/home" target="_blank" class="subnav_link" id="SNAVL_Services">Services</a>
+          <a href="https://www.cityweekly.net/utah/home" target="_blank" class="subnav_link" id="SNAVL_Services">Services</a>
         </li>
       
 
@@ -744,7 +757,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="last" id="NavItem_Store">
-          <a href="https://cwstore.cityweekly.net" target="_blank">Store</a>
+          <a href="https://cwstore.cityweekly.net" target="_blank" class="subnav_link" id="SNAVL_Store">Marketplace</a>
         </li>
     </ul>
 
@@ -759,7 +772,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/cover-story/Category?oid=2125004" target="_self" title="">Cover Stories</a>
+          <a href="https://www.cityweekly.net/utah/cover-story/Category?oid=2125004" target="_self" title="">Cover Stories</a>
         </li>
         
       
@@ -768,7 +781,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" title="">News Features</a>
+          <a href="https://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" title="">News Features</a>
         </li>
         
       
@@ -777,7 +790,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/opinion/Category?oid=2125013" target="_self" title="">Opinion</a>
+          <a href="https://www.cityweekly.net/utah/opinion/Category?oid=2125013" target="_self" title="">Opinion</a>
         </li>
         
       
@@ -786,7 +799,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/5-spot/Category?oid=2124999" target="_self" title="">5 Spot</a>
+          <a href="https://www.cityweekly.net/utah/5-spot/Category?oid=2124999" target="_self" title="">5 Spot</a>
         </li>
         
       
@@ -795,7 +808,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/hits-and-misses/Category?oid=2125005" target="_self" title="">Hits &amp; Misses</a>
+          <a href="https://www.cityweekly.net/utah/hits-and-misses/Category?oid=2125005" target="_self" title="">Hits &amp; Misses</a>
         </li>
         
       
@@ -804,7 +817,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/BuzzBlogHome/Page" target="_self" title="">Blogs</a>
+          <a href="https://www.cityweekly.net/utah/BuzzBlogHome/Page" target="_self" title="">Blogs</a>
         </li>
         
       
@@ -822,7 +835,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/letters/Category?oid=2125012" target="_self" title="">Soap Box</a>
+          <a href="https://www.cityweekly.net/utah/letters/Category?oid=2125012" target="_self" title="">Soap Box</a>
         </li>
         
       
@@ -831,7 +844,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/private-eye/Category?oid=2125008" target="_self" title="">Private Eye</a>
+          <a href="https://www.cityweekly.net/utah/private-eye/Category?oid=2125008" target="_self" title="">Private Eye</a>
         </li>
         
           </ul>
@@ -845,7 +858,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/the-local-music-issue-2017/Content?oid=3835773" target="_self" title="Our annual offering to the local music gods.">Local Music Issue 2017</a>
+          <a href="https://www.cityweekly.net/utah/the-local-music-issue-2017/Content?oid=3835773" target="_self" title="Our annual offering to the local music gods.">Local Music Issue 2017</a>
         </li>
         
       
@@ -854,7 +867,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/music-picks/Category?oid=2284307" target="_self" title="">Music Picks</a>
+          <a href="https://www.cityweekly.net/utah/music-picks/Category?oid=2284307" target="_self" title="">Music Picks</a>
         </li>
         
       
@@ -863,7 +876,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/music/Category?oid=2124997" target="_self" title="">Music Features</a>
+          <a href="https://www.cityweekly.net/utah/music/Category?oid=2124997" target="_self" title="">Music Features</a>
         </li>
         
       
@@ -886,7 +899,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/arts-and-entertainment/Category?oid=2125059" target="_self" title="">A&amp;E Features</a>
+          <a href="https://www.cityweekly.net/utah/arts-and-entertainment/Category?oid=2125059" target="_self" title="">A&amp;E Features</a>
         </li>
         
       
@@ -895,7 +908,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/entertainment-picks/Category?oid=2284340" target="_self" title="">Entertainment Picks</a>
+          <a href="https://www.cityweekly.net/utah/entertainment-picks/Category?oid=2284340" target="_self" title="">Entertainment Picks</a>
         </li>
         
       
@@ -904,7 +917,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/the-ocho/Category?oid=2125010" target="_self" title="">The Ocho</a>
+          <a href="https://www.cityweekly.net/utah/the-ocho/Category?oid=2125010" target="_self" title="">The Ocho</a>
         </li>
         
       
@@ -913,7 +926,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/true-tv/Category?oid=2124990" target="_self" title="">True TV</a>
+          <a href="https://www.cityweekly.net/utah/true-tv/Category?oid=2124990" target="_self" title="">True TV</a>
         </li>
         
       
@@ -922,7 +935,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/film-reviews/Category?oid=2124987" target="_self" title="">Film Reviews</a>
+          <a href="https://www.cityweekly.net/utah/film-reviews/Category?oid=2124987" target="_self" title="">Film Reviews</a>
         </li>
         
       
@@ -931,7 +944,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/FilmSearch?genre=Action&amp;sortType=date" target="_self" title="">Movie Times</a>
+          <a href="https://www.cityweekly.net/utah/FilmSearch?genre=Action&amp;sortType=date" target="_self" title="">Movie Times</a>
         </li>
         
       
@@ -940,7 +953,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/the-straight-dope/Category?oid=2124996" target="_self" title="">The Straight Dope</a>
+          <a href="https://www.cityweekly.net/utah/the-straight-dope/Category?oid=2124996" target="_self" title="">The Straight Dope</a>
         </li>
         
       
@@ -949,7 +962,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/free-will-astrology/Category?oid=2124993" target="_self" title="">Free Will Astrology</a>
+          <a href="https://www.cityweekly.net/utah/free-will-astrology/Category?oid=2124993" target="_self" title="">Free Will Astrology</a>
         </li>
         
       
@@ -958,7 +971,30 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/best-of-utah-arts-2016-cover-story/Content?oid=3461069" target="_self" title="">Best of Utah Arts 2016</a>
+          <a href="https://www.cityweekly.net/utah/best-of-utah-arts-2016-cover-story/Content?oid=3461069" target="_self" title="">Best of Utah Arts 2016</a>
+        </li>
+        
+          </ul>
+        
+      
+        
+          <h3 class="hidden">Browse Marketplace</h3>
+          <ul class="subnav_content" id="SNAV_Store" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://www.cityweeklystore.com" target="_self" title="">CW Store</a>
+        </li>
+        
+      
+        
+
+        
+
+        <li class="">
+          <a href="http://www.parrottix.com" target="_self" title="">CW Tix</a>
         </li>
         
           </ul>
@@ -984,7 +1020,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/ArticleArchives?category=2462028" target="_self" title="">Restaurant Reviews</a>
+          <a href="https://www.cityweekly.net/utah/ArticleArchives?category=2462028" target="_self" title="">Restaurant Reviews</a>
         </li>
         
       
@@ -993,7 +1029,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/eating-well/Content?oid=3228020" target="_self" title="Eating well. Go ahead and think about the notion for a minute. " well"="" can="" mean="" many="" things="" to="" different="" people:="" clean,="" sustainable="" or="" just="" down-home,="" grease-dripping-down-your-chin="" goodness.="" thankfully,="" city="" weekly="" has="" a="" stable="" of="" ever-curious="" and="" always-hungry="" contributors="" who="" were="" up="" the="" task="" redefining="" concept."="">Dining Guide 2016</a>
+          <a href="https://www.cityweekly.net/utah/eating-well/Content?oid=3228020" target="_self" title="Eating well. Go ahead and think about the notion for a minute. " well"="" can="" mean="" many="" things="" to="" different="" people:="" clean,="" sustainable="" or="" just="" down-home,="" grease-dripping-down-your-chin="" goodness.="" thankfully,="" city="" weekly="" has="" a="" stable="" of="" ever-curious="" and="" always-hungry="" contributors="" who="" were="" up="" the="" task="" redefining="" concept."="">Dining Guide 2016</a>
         </li>
         
       
@@ -1002,7 +1038,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/LocationSearch?locationSection=2125344" target="_self" title="">Restaurant Listings</a>
+          <a href="https://www.cityweekly.net/utah/LocationSearch?locationSection=2125344" target="_self" title="">Restaurant Listings</a>
         </li>
         
       
@@ -1011,7 +1047,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/food-news/Category?oid=2362594" target="_self" title="">Food News</a>
+          <a href="https://www.cityweekly.net/utah/food-news/Category?oid=2362594" target="_self" title="">Food News</a>
         </li>
         
       
@@ -1020,7 +1056,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/drink/Category?oid=2362670" target="_self" title="">Drinks</a>
+          <a href="https://www.cityweekly.net/utah/drink/Category?oid=2362670" target="_self" title="">Drinks</a>
         </li>
         
           </ul>
@@ -1034,7 +1070,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/CityWeeklyServicePros/Page" target="_self" title="">City Weekly Service Pros</a>
+          <a href="https://www.cityweekly.net/utah/CityWeeklyServicePros/Page" target="_self" title="">City Weekly Service Pros</a>
         </li>
         
       
@@ -1066,7 +1102,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" title="">News</a>
+          <a href="https://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" title="">News</a>
         </li>
         
       
@@ -1075,7 +1111,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/restaurants-and-bars/Section?oid=2124971" target="_self" title="">Food &amp; Drink</a>
+          <a href="https://www.cityweekly.net/utah/restaurants-and-bars/Section?oid=2124971" target="_self" title="">Food &amp; Drink</a>
         </li>
         
       
@@ -1084,7 +1120,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/music/Section?oid=2124972" target="_self" title="">Music</a>
+          <a href="https://www.cityweekly.net/utah/music/Section?oid=2124972" target="_self" title="">Music</a>
         </li>
         
       
@@ -1093,7 +1129,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/culture/Section?oid=2124973" target="_self" title="">Culture</a>
+          <a href="https://www.cityweekly.net/utah/culture/Section?oid=2124973" target="_self" title="">Culture</a>
         </li>
         
           </ul>
@@ -1107,7 +1143,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/FreeStuff" target="_self" title="">Promotions</a>
+          <a href="https://www.cityweekly.net/utah/FreeStuff" target="_self" title="">CW Events</a>
         </li>
         
       
@@ -1116,7 +1152,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/EventSearch/" target="_self" title="">Events</a>
+          <a href="https://www.cityweekly.net/utah/EventSearch/" target="_self" title="">Events</a>
         </li>
         
           </ul>
@@ -1130,7 +1166,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" title="">News</a>
+          <a href="https://www.cityweekly.net/utah/news/Section?oid=2124970" target="_self" title="">News</a>
         </li>
         
       
@@ -1139,7 +1175,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/restaurants-and-bars/Section?oid=2124971" target="_self" title="">Food &amp; Drink</a>
+          <a href="https://www.cityweekly.net/utah/restaurants-and-bars/Section?oid=2124971" target="_self" title="">Food &amp; Drink</a>
         </li>
         
       
@@ -1148,7 +1184,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/music/Section?oid=2124972" target="_self" title="">Music</a>
+          <a href="https://www.cityweekly.net/utah/music/Section?oid=2124972" target="_self" title="">Music</a>
         </li>
         
       
@@ -1157,7 +1193,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/culture/Section?oid=2124973" target="_self" title="">Culture</a>
+          <a href="https://www.cityweekly.net/utah/culture/Section?oid=2124973" target="_self" title="">Culture</a>
         </li>
         
           </ul>
@@ -1171,7 +1207,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/utah/FreeStuff" target="_self" title="">Promotions</a>
+          <a href="https://www.cityweekly.net/utah/utah/FreeStuff" target="_self" title="">Promotions</a>
         </li>
         
       
@@ -1180,7 +1216,7 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
         
 
         <li class="">
-          <a href="http://www.cityweekly.net/utah/EventSearch/" target="_self" title="">Events</a>
+          <a href="https://www.cityweekly.net/utah/EventSearch/" target="_self" title="">Events</a>
         </li>
         
           </ul>
@@ -1235,6 +1271,9 @@ src="https://www.facebook.com/tr?id=1832028880415856&ev=PageView
 
 
 
+  
+  
+  
   
   
   
@@ -1457,21 +1496,21 @@ or questions regarding our privacy policy, please contact us at
     
 <div id="Ad300x250x1" class="MainSidebar Page ">
   <!-- /1605976/ROS_300x250_1 -->
-          <div id="div-gpt-ad-ros_300x250_1" style="" data-slot="/1605976/ROS_300x250_1" data-output="asynchronous" data-width="300" data-height="250">
-            <script type="text/javascript">
-                googletag.cmd.push(function() {
-                googletag.display('div-gpt-ad-ros_300x250_1');
-                });
-            </script>
+          <div id="div-gpt-ad-ros_300x250_1" style="" data-content-type="ad" data-slot="/1605976/ROS_300x250_1" data-output="asynchronous" data-width="300" data-height="250">
+              <script type="text/javascript">
+                  googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-ros_300x250_1');
+                  });
+              </script>
           </div>
 </div><!-- #Ad300x250x1 --><div id="Ad300x250x2" class="MainSidebar Page ">
   <!-- /1605976/ROS_300x250_2 -->
-          <div id="div-gpt-ad-ros_300x250_2" style="" data-slot="/1605976/ROS_300x250_2" data-output="asynchronous" data-width="300" data-height="250">
-            <script type="text/javascript">
-                googletag.cmd.push(function() {
-                googletag.display('div-gpt-ad-ros_300x250_2');
-                });
-            </script>
+          <div id="div-gpt-ad-ros_300x250_2" style="" data-content-type="ad" data-slot="/1605976/ROS_300x250_2" data-output="asynchronous" data-width="300" data-height="250">
+              <script type="text/javascript">
+                  googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-ros_300x250_2');
+                  });
+              </script>
           </div>
 </div><!-- #Ad300x250x2 --><div id="TheSocialWidget" class="MainSidebar Page ">
   
@@ -1480,30 +1519,30 @@ or questions regarding our privacy policy, please contact us at
   
 </div><div id="Ad300x250x3" class="MainSidebar Page ">
   <!-- /1605976/ROS_300x250_3 -->
-          <div id="div-gpt-ad-ros_300x250_3" style="" data-slot="/1605976/ROS_300x250_3" data-output="asynchronous" data-width="300" data-height="250">
-            <script type="text/javascript">
-                googletag.cmd.push(function() {
-                googletag.display('div-gpt-ad-ros_300x250_3');
-                });
-            </script>
+          <div id="div-gpt-ad-ros_300x250_3" style="" data-content-type="ad" data-slot="/1605976/ROS_300x250_3" data-output="asynchronous" data-width="300" data-height="250">
+              <script type="text/javascript">
+                  googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-ros_300x250_3');
+                  });
+              </script>
           </div>
 </div><!-- #Ad300x250x3 --><div id="Ad300x250x4" class="MainSidebar Page ">
   <!-- /1605976/ROS_300x250_4 -->
-          <div id="div-gpt-ad-ros_300x250_4" style="" data-slot="/1605976/ROS_300x250_4" data-output="asynchronous" data-width="300" data-height="250">
-            <script type="text/javascript">
-                googletag.cmd.push(function() {
-                googletag.display('div-gpt-ad-ros_300x250_4');
-                });
-            </script>
+          <div id="div-gpt-ad-ros_300x250_4" style="" data-content-type="ad" data-slot="/1605976/ROS_300x250_4" data-output="asynchronous" data-width="300" data-height="250">
+              <script type="text/javascript">
+                  googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-ros_300x250_4');
+                  });
+              </script>
           </div>
 </div><!-- #Ad300x250x4 --><div id="Ad300x250x5" class="MainSidebar Page ">
   <!-- /1605976/ROS_300x250_5 -->
-          <div id="div-gpt-ad-ros_300x250_5" style="" data-slot="/1605976/ROS_300x250_5" data-output="asynchronous" data-width="300" data-height="250">
-            <script type="text/javascript">
-                googletag.cmd.push(function() {
-                googletag.display('div-gpt-ad-ros_300x250_5');
-                });
-            </script>
+          <div id="div-gpt-ad-ros_300x250_5" style="" data-content-type="ad" data-slot="/1605976/ROS_300x250_5" data-output="asynchronous" data-width="300" data-height="250">
+              <script type="text/javascript">
+                  googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-ros_300x250_5');
+                  });
+              </script>
           </div>
 </div><!-- #Ad300x250x5 -->
 
@@ -1549,7 +1588,7 @@ or questions regarding our privacy policy, please contact us at
   
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/Home" target="_self">
+    <a href="https://www.cityweekly.net/utah/Home" target="_self">
       
         Home
       
@@ -1563,7 +1602,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/AboutUs/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/AboutUs/Page" target="_self">
       
         Who We Are
       
@@ -1577,7 +1616,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/ContactUs/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/ContactUs/Page" target="_self">
       
         Contact
       
@@ -1591,7 +1630,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/Circulation/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/Circulation/Page" target="_self">
       
         Circulation
       
@@ -1605,7 +1644,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/WorkWithUs/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/WorkWithUs/Page" target="_self">
       
         Work With Us
       
@@ -1619,7 +1658,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/Advertising/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/Advertising/Page" target="_self">
       
         Advertising
       
@@ -1633,7 +1672,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/UploadAnAd/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/UploadAnAd/Page" target="_self">
       
         Upload An Ad
       
@@ -1647,7 +1686,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/general/pdfs/sponsorship-application.pdf" target="_blank">
+    <a href="https://www.cityweekly.net/general/pdfs/sponsorship-application.pdf" target="_blank">
       
         Sponsorship Application
       
@@ -1661,7 +1700,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/special-guides/Section?oid=2124976" target="_self">
+    <a href="https://www.cityweekly.net/utah/special-guides/Section?oid=2124976" target="_self">
       
         Guides
       
@@ -1675,7 +1714,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/IssueArchives?year=2016" target="_blank">
+    <a href="https://www.cityweekly.net/utah/IssueArchives?year=2016" target="_blank">
       
         E-Weekly
       
@@ -1689,7 +1728,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/IssueArchives" target="_self">
+    <a href="https://www.cityweekly.net/utah/IssueArchives" target="_self">
       
         Issue Archives
       
@@ -1703,7 +1742,7 @@ or questions regarding our privacy policy, please contact us at
 
   
   <li class="">
-    <a href="http://www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page" target="_self">
+    <a href="https://www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page" target="_self">
       
         Privacy Policy / Terms of Use
       
