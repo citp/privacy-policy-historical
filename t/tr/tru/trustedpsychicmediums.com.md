@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedpsychicmediums.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134448id_/http%3A//trustedpsychicmediums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpsychicmediums.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904234234id_/https%3A//trustedpsychicmediums.com/privacy-policy) for the most accurate reproduction.*
 
 # TrustedPsychicMediums.com | Privacy Policy
 
@@ -10,7 +10,7 @@ _Revised as of May 27, 2015_
 
 **__Purpose__**. The purpose of this Privacy Policy (“ ** _Policy_** ”) is to describe how TrustedPsychicMediums.com (“ ** _Company_** ,” “ ** _we_** ,” and “ ** _us_** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at TrustedPsychicMediums.com including any associated mobile web sites and mobile applications (collectively, the “Sites”). 
 
-**PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://trustedpsychicmediums.com/contact-us/).
+**PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](https://trustedpsychicmediums.com/contact-us/).
 
 This Policy explains:
 
@@ -28,7 +28,7 @@ This Policy explains:
 
 Be aware that when you choose to leave our Sites to visit any website not owned or operated by us, you should always read the privacy policy of that website, since the privacy policies of that website that would govern how its owners collect and use your personal information.
 
-**__Read Our Terms of Use__**. Your use of our Sites is also subject to our ‘Terms of Use,’ which describe other terms and conditions to which you are deemed to agree by your act of using our Sites. Please read our Terms of Use carefully and [contact us on-line](http://trustedpsychicmediums.com/contact-us/) or by post as described below if you have any questions or concerns or feel that you do not fully understand any part of our Terms of Use.
+**__Read Our Terms of Use__**. Your use of our Sites is also subject to our ‘Terms of Use,’ which describe other terms and conditions to which you are deemed to agree by your act of using our Sites. Please read our Terms of Use carefully and [contact us on-line](https://trustedpsychicmediums.com/contact-us/) or by post as described below if you have any questions or concerns or feel that you do not fully understand any part of our Terms of Use.
 
 **IF YOU DO NOT AGREE WITH ANY PART OF THIS POLICY OR OUR TERMS OF USE, YOUR ONLY OPTION IS NOT TO USE OUR SITES**. By accessing and continuing to use our Sites, you agree to this Policy and the Terms of Use.  
 **2\. INFORMATION WE COLLECT AND WHY WE COLLECT IT**
@@ -59,7 +59,7 @@ The information that you provide and that we collect from you could and most oft
 
 **OUR SITES ARE NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 13**. If you are under the age of 13, you must get the express permission of your parents before using our Sites.
 
-Do not attempt to provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please [contact us on-line](http://trustedpsychicmediums.com/contact-us/) so that we may immediately investigate and take appropriate action as soon as practicable.
+Do not attempt to provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please [contact us on-line](https://trustedpsychicmediums.com/contact-us/) so that we may immediately investigate and take appropriate action as soon as practicable.
 
   1. _Non-Personally Identifiable Information We Collect Automatically_.
 
@@ -166,7 +166,7 @@ Websites you browse may also offer their own opt-out methods for interest-based 
 
 **ACCESS TO YOUR INFORMATION AND CHOICES**
 
-You can contact us through our [contact us page](http://trustedpsychicmediums.com/contact-us/) to obtain information about the personal information we have relating to you. If you have questions about personal information we have about you or need to update your information, you can contact us through our [contact us page](http://trustedpsychicmediums.com/contact-us/). You can opt-out of receiving marketing and promotional e-mails from Company by using the opt-out or unsubscribe feature contained in those e-mails.  
+You can contact us through our [contact us page](https://trustedpsychicmediums.com/contact-us/) to obtain information about the personal information we have relating to you. If you have questions about personal information we have about you or need to update your information, you can contact us through our [contact us page](https://trustedpsychicmediums.com/contact-us/). You can opt-out of receiving marketing and promotional e-mails from Company by using the opt-out or unsubscribe feature contained in those e-mails.  
 **5\. SECURITY OF YOUR INFORMATION**
 
 We use commercially reasonable measures to maintain the privacy and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information, if any. Please note that e-mails and other communications you send to us through our Sites are not encrypted, and we strongly advise you not to communicate any confidential information through these means.  
@@ -191,4 +191,4 @@ The date this Policy was last revised is identified at the top of this page. You
 
 **8\. QUESTIONS AND HOW CONTACT US**
 
-If you have any questions, concerns, complaints or suggestions regarding this Policy or otherwise need to contact us, please [contact us on-line](http://trustedpsychicmediums.com/contact-us/).
+If you have any questions, concerns, complaints or suggestions regarding this Policy or otherwise need to contact us, please [contact us on-line](https://trustedpsychicmediums.com/contact-us/).
