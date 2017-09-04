@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the crictime.to privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201171209id_/http%3A//www.crictime.to/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictime.to privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904061057id_/http%3A//www.crictime.to/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Crictime.Com
+# Privacy Policy
 
-**Privacy Policy**
+* **Overview**
 
-This is the privacy policy of web site Crictime.to
+Thank you for visiting www.crictime.to (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-We can be reached via email at info [at] crictime dot to
+* **What Type of Information We Collect**
 
-For each visitor to our Web page, our Web server automatically recognizes information of   
-your browser, IP address, City/State/Country.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-We do not collect the e-mail address of visitors to our Web pages except the e-mail addresses of those who communicate with us via e-mail.
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+* **Uses May Include**
 
-**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-Crictime.To has no access to or control over these cookies/Web beacons that are used by third-party advertisers.
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Crictime.To's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-We also may use DART cookies for ad serving through third-party advertising networks, which places a cookie on your computer when you are browsing the web and visit a site using that advertising network. This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
