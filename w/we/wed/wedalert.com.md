@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530223925id_/http%3A//www.honeymooniverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904160339id_/http%3A//www.honeymooniverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Honeymooniverse
 
