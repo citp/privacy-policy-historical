@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618193540id_/http%3A//www.strath.ac.uk/websiteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904173255id_/https%3A//www.strath.ac.uk/websiteprivacypolicy) for the most accurate reproduction.*
 
-# Website Privacy Policy - University of Strathclyde
+# Website Privacy Policy | University of Strathclyde
 
 The University of Strathclyde is committed to protecting your privacy. This privacy policy is to inform you how your personal information is processed and used by the University.
 
