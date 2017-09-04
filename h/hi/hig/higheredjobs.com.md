@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317022535id_/https%3A//www.higheredjobs.com/company/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904211148id_/https%3A//www.higheredjobs.com/company/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs
 
