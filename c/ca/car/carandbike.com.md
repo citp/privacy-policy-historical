@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carandbike.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504145738id_/http%3A//www.carandbike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carandbike.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904181933id_/https%3A//auto.ndtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
