@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612043906id_/http%3A//www.stjoseph.com/media-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905001307id_/http%3A//www.stjoseph.com/media-privacy-policy) for the most accurate reproduction.*
 
 # Media Privacy Policy | St. Joseph Communications
 
@@ -12,6 +12,7 @@ BY SUBMITTING PERSONAL INFORMATION TO SJM OR ITS AGENTS, YOU AGREE THAT WE MAY C
 ****
 
 **
+
   1. – Who are we?
   2. – What personal information do we collect?
   3. – Why do we collect your personal information?
@@ -23,6 +24,7 @@ BY SUBMITTING PERSONAL INFORMATION TO SJM OR ITS AGENTS, YOU AGREE THAT WE MAY C
   9. – Privacy and our Websites
   10. – Changes to the Privacy Policy
   11. – Contact Us
+
 **
 
   1. **Who are we?**
@@ -95,27 +97,27 @@ SJM may disclose your personal information to a government institution that has 
 
 
 
-If you would prefer for us NOT to share your information as described above in sections 4(a)-4(d), simply inform us (see “[Contact Us](https://web.archive.org/web/20170612043906id_/http://stjoseph.com/media-privacy-policy/question12)” below).
+If you would prefer for us NOT to share your information as described above in sections 4(a)-4(d), simply inform us (see “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” below).
 
 **5\. Control of your personal information**
 
 At SJM, we want you to be able to maintain control over how we use your personal information. In particular:
 
   * You may have the right to “opt out” of some or all of the identified purposes, uses and disclosures listed in sections 3 and 4 above.
-  * You always have the option to instruct us not to use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See “[Contact Us](https://web.archive.org/web/20170612043906id_/http://stjoseph.com/media-privacy-policy/question12)” below.
+  * You always have the option to instruct us not to use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” below.
   * E-mail communications will always include an identification of the sender and an “Unsubscribe” option.
-  * If you receive a mailing from any of our consumer magazines and you wish to know the source of your name (i.e. what list it came from), we will make every reasonable effort to determine the source and provide you with the information. For this request, or to confirm that any personal information we may have is correct, please contact us (See “[Contact Us](https://web.archive.org/web/20170612043906id_/http://stjoseph.com/media-privacy-policy/question12)” below). (Note that some account information can be confirmed by visiting the customer care section of our consumer magazine websites).
+  * If you receive a mailing from any of our consumer magazines and you wish to know the source of your name (i.e. what list it came from), we will make every reasonable effort to determine the source and provide you with the information. For this request, or to confirm that any personal information we may have is correct, please contact us (See “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” below). (Note that some account information can be confirmed by visiting the customer care section of our consumer magazine websites).
 
 
   * As mentioned above, we may not be able to provide you with our services if you withdraw your consent to our use of your personal information. 
 
 **6\. Where is your personal information stored?**
 
-Your personal information is stored in secured locations and on servers controlled by SJM, located either at our offices or at the offices of our service providers. For access to your personal information, please contact our Chief Privacy Officer using the contact information in the “[Contact Us](https://web.archive.org/web/20170612043906id_/http://stjoseph.com/media-privacy-policy/question12)” section below.
+Your personal information is stored in secured locations and on servers controlled by SJM, located either at our offices or at the offices of our service providers. For access to your personal information, please contact our Chief Privacy Officer using the contact information in the “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” section below.
 
 **7\. How can you access your personal information?**
 
-Upon written request, subject to certain exceptions, SJM will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Chief Privacy Officer, using the contact information in the “[Contact Us](https://web.archive.org/web/20170612043906id_/http://stjoseph.com/media-privacy-policy/question12)” section below.
+Upon written request, subject to certain exceptions, SJM will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Chief Privacy Officer, using the contact information in the “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” section below.
 
 **8\. How do we protect your personal information?**
 
@@ -181,7 +183,7 @@ E-mail: privacyofficer@stjoseph.com
 **Appendix 1**
 
 **  
-****How to disable cookies?**[](https://web.archive.org/web/20170612043906id_/http://stjoseph.com/media-privacy-policy/appendix)
+****How to disable cookies?**[](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/appendix)
 
 Most browsers are initially set up to accept cookies, but offer a number of ways to control cookie preferences. Typically, users can:
 
@@ -195,11 +197,12 @@ For step-by-step instructions on how to modify cookie preferences, please consul
 ****
 
 **
+
   * [Internet Explorer](http://windows.microsoft.com/en-ca/windows-vista/block-or-allow-cookies)
   * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
   * [Safari](https://support.apple.com/kb/PH19214?locale=en_US)
   * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-**
 
+**
 
 The user should understand that while SJM does not require a user to use cookies, for technical reasons, certain services will not function if a user sets his/her browser to not accept cookies.
