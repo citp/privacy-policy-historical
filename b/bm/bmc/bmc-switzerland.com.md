@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103736id_/http%3A//www.bmc-switzerland.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904070751id_/https%3A//www.bmc-switzerland.com/us-en/privacy) for the most accurate reproduction.*
 
 # Data privacy statement - BMC Switzerland
 
