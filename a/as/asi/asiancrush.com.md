@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223222102id_/http%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904114321id_/https%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Asian Crush
+# PRIVACY POLICY | AsianCrush
 
-## Asian Crush – Privacy Policy
+## Privacy Policy
 
 This privacy policy sets out how Asian Crush, and its affiliated entities, Asian Media Rights, and Digital Media Rights, uses and protects any information that you give us when you use this website.  
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
