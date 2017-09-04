@@ -1,134 +1,202 @@
-> *The following text is extracted and transformed from the boldride.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331065417id_/http%3A//www.boldride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldride.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904163700id_/https%3A//www.motor1.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Motor1.com
 
-  
+## PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT NETWORK, LLC PRODUCT OR SERVICE.
 
+Motorsport Network, LLC produces and publishes multiple websites, one of them being the Motor1.com Website (this "Website") as well as downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
-Effective as of March 31, 2011
+  1. Personal Information Collected Via Our Services
+  2. How We Use and Share Your Personal Information
+  3. Additional Information About Collection of Location Data
+  4. Additional Information About Our Access to Your Contact
+  5. Other Information Collected And Shared Within Our Services
+  6. Other Circumstances When Your Data May Be Shared
+  7. Managing Your Information
+  8. Other Information
 
-The Bold Ride Privacy Policy describes how Bold Ride LLC and its corporate affiliates treat personal information - including personal information provided by you - when you use the Bold Ride website and applications.
 
-We are committed to transparency and user privacy. If you have any questions about our Privacy Policy, please feel free to contact Bold Ride through our website, by email to [admin AT boldride.com](mailto:admin@boldride.com).
 
-## I. The Information We Collect, Including Personal Information, How We Use It.
+### 1\. Personal Information Collected Via Our Services
 
-  
+**Information You Provide.**  You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to:
 
+  * Full name,
+  * Email address,
+  * Password,
+  * Street address,
+  * Telephone number(s),
+  * Birth date,
+  * Payment card information,
+  * Location data,
+  * Contacts (as stored in your wireless device), and
+  * Other personal data as detailed in this Privacy Policy and data that may be requested from and provided by you.
 
-#### Usage and Viewing Information.
 
-When you use Bold Ride, we may record information about your usage of the site, such as pages you bookmark or frequent, your preferences or rankings of models of cars, the pictures you view and the videos you watch, the frequency and size of data transfers (such as comments, picture uploads, etc.), and information you display about yourself (if you have an account) as well as information about the preferences you select in Bold Ride (including settings and the like). We collect this information to optimize your user experience with Bold Ride. If you are logged in to your Bold Ride account, we may associate the information we collect with your account.
 
-No Account Necessary for Browsing and Viewing Content on Bold Ride.
+If we collect such information, in most instances, the applicable page(s) or location(s) within the Services will include statements regarding what information is required for the elements of the Services to function properly and functionality for you to submit the requested or required information. In addition to the list above, there may also be opportunities for you to grant permission for use of other of your information in a manner set forth on the applicable page(s) within the Services.
 
-You do not need a Bold Ride account to browse and view content on Bold Ride. Nor do you need an account to contact Bold Ride with questions regarding privacy by emailing us at [admin AT boldride.com](mailto:admin@boldride.com)
+### 2\. How We Use and Share Your Personal Information
 
-  
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law.
 
+We may use and share your personal information as described in Section 1 as follows:
 
-#### Your Bold Ride Account.
+  * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list;
+  * Use your information to send you electronic communications, including emails about the Website applicable to your interactions with our Website, and about products, services, sponsors, partners and affiliates when you make a purchase, agree to rules or terms, or otherwise engage with our Website, to the extent the sending of such electronic communication is permissible under applicable law;
+  * Use and share your information with one or more race series or related entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such race series or related entities (e.g., you've asked to receive the newsletter of a race series or you've purchased race series-specific merchandise), so they may learn more about fans like you, add you to the race series' postal mail list and provide better services to you;
+  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your experience;
+  * Use and share your information in connection with online loyalty, membership or rewards programs operated from our Services or with a third party from which you may receive goods or services in connection with such a program; or
+  * Use and share your information with permission from you.
 
-In order to participate in the full range of activities possible through Bold Ride, such as uploading pictures and videos, posting comments, recording your "Bold" preferences, flagging pictures or comments by others, or accessing restricted content, you need a Bold Ride account. We ask for some personal information when you create an account, including your email address and a password, which is used to protect your account from unauthorized access. We offer you the possibility of creating your Bold Ride account through third-party websites, such as Facebook, which may transfer personal information to us in the process. If you do not want Facebook information to be transferred to us or your account to be linked to your Facebook page, or if you would like to use a user name other than your Facebook name, please create your Bold Ride account directly through Bold Ride.
 
-  
 
+We may use your personal information:
 
-#### Content Uploaded to Bold Ride.
+  * For our statistical, research, recordkeeping, and reporting purposes;
+  * For our own marketing purposes;
+  * To personalize and improve your experience; and
+  * To monitor for compliance with our Terms of Service.
 
-Any personal information, pictures or videos that you voluntarily disclose online (e.g., your Bold Ride profile page and user name, any comments that you make, any information about your car or car preferences, or any pictures or video that you upload) may be collected and used by others. Please be aware that if you upload a picture or video containing a license plate number or identifiable location information (such as an address), that information will be visible on the site.
 
-  
 
+We may share personal information:
 
-#### Communication Confirmations.
+  * With certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you’ve requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
+  * Upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
+  * With our subsidiaries and affiliates for their direct marketing purposes;
+  * With third parties, including for their direct marketing purposes;
+  * With service providers that help us operate our business;
+  * With our affiliates and with service providers that help us operate our business;
+  * With government entities as needed to provide our services and where required by law;
+  * As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy;
+  * Pursuant to a subpoena, court order, or other legal process;
+  * To investigate, respond to or resolve problems or inquiries (including law enforcement requests) or protect, enforce, or defend our rights, assets and/or interests;
+  * To prevent or respond to a violation of any law, regulation, or our Terms of Service; or
+  * With your consent or as otherwise disclosed at the time of collection.
 
-In order to ensure you receive requested communications from us, such as customer service responses or registration materials, we may place a web beacon or other tag in emails and other types of communications with you in order to confirm delivery.
 
-  
 
+### 3\. Additional Information About Collection of Location Data
 
-#### How We Use the Information We Collect.
+Location Data We Collect. When you use our Service we may solicit your permission to collect your location data. Please be advised, for some features within our Applications to function we must confirm your current location and therefore some features will not be available if you choose not to provide your location data to us. The specificity of the location data collected may depend on a number of factors, including the device you are using (e.g. laptop, smartphone, tablet) and how you are connected to the Internet (e.g. via cable broadband connection, WiFi, etc.). If you enable location services for our Applications, we may collect location data (e.g. zip code) periodically as you use or leave open our Applications. We may also use this data internally or in conjunction with our third party service providers to customize your experience and provide offers that may be relevant to you. Depending on the platform you use to access our Applications (e.g., Apple iOS, Google Android, Windows, etc.) you may be able to control from within the settings on your wireless device or the Application(s) whether location data is collected.
 
-Bold Ride uses information you submit to us, including personal information, to operate, maintain, and improve the features and functionality of Bold Ride, and to process any rankings, communications, and flagging activity you send to us. We do not use your email address or other personal information to send commercial or marketing messages without your consent. Nor do we provide such information to others for the purposes of doing so. We may, however, use your email address solely for non-marketing, administrative purposes (such as notifying you of major Bold Ride changes or for customer service purposes). You can opt out of Bold Ride email updates in your Account settings page.
+### 4\. Additional Information About Our Access to Your Contacts
 
-Like many websites, we use cookies, web beacons, and log file information to operate the Bold Ride site. Among other things, we use these processes to (a) store information so that you will not have to re-enter it when you visit Bold Ride; (b) provide personalized content and information; (c) monitor user traffic across the site; (d) monitor metrics, in the aggregate, such as the total number of visitors to the site and pages viewed; and (e) track your uploads, rankings, entries, and submissions so that they can be linked to your account. To the extent Bold Ride operates sweepstakes or contests, we also will use cookies, web beacons, and log file information, including personal information, to track and identify entries, submissions, votes, and winners. (The exact terms of any contest or sweepstakes will be set forth in a separate document.) We also may use cookies, web beacons, and log file information to contact Bold Ride users in the event we receive legitimate complaints regarding comments or uploaded materials that are inconsistent with Bold Ride's Terms & Conditions of Use.
+Our Access to Your Contacts. When you use our Mobile Games, we may solicit your permission to access your contacts list (e.g., address book) so that we may match individuals from your contacts lists with those participating in our Mobile Games so you can invite your friends to play with and against you. We will not store the information in your contacts list.
 
-Please note that we do not exercise control over sites that are linked to from Bold Ride, sites that host third-party content embedded in Bold Ride, sites that host or incorporate Bold Ride applications, products or services, sites from which Bold Ride content is drawn (such as Flickr, YouTube, or car manufacturers' sites) or other links from within Bold Ride's platform. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. You should check their privacy policies if you have any questions or concerns. If we ever intend to use any information we collect in a manner different than the purpose for which it was collected, we will ask for your consent prior to such use.
+### 5\. Other Information Collected And Shared Within Our Services
 
-  
+  * _Our Cookies and Web Beacons_
 
 
-#### Information That Bold Ride Makes Publicly Available.
 
-When you create a Bold Ride account, some information about your account and account activity will be viewable by other users of Bold Ride. This may include the date you opened your account, the date you last logged into your account, your age or other information you choose to make public, your uploads and rankings on Bold Ride, and the frequency with which you use Bold Ride or various components of it. If you create your account using Facebook, some Facebook information may be viewable as well. Your Bold Ride account name, not your email address, is displayed to other users when you upload pictures or videos, make comments, rank cars, or send messages through Bold Ride. Other users can contact you by leaving a message or comment on the site. Any pictures, videos or comments that you submit to Bold Ride will be displayed and redistributed through the internet and other media channels. As such, they may be viewed by other Bold Ride users or the general public.
+We use and permit automatic methods such as cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) or similar technologies, alone or in combination with personally identifiable information you choose to provide us. Examples of the information we collect and analyze using such methods include, but is not limited to: personal information as authorized by you, the Internet protocol address used to connect your computer or device to the Internet; email address; login name and password; operating system type, version and computer or device platform; purchase history; the full Uniform Resource Locator clickstream to, on and from our Services, including date and time; and products you viewed or searched. We use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs) and methods used to browse away from a page. We use and may allow certain third parties, such as those who provide services associated with our Services, to access these automatic data collection methods to enable you to use a "shopping cart" while using our Services, to store your preferences and to improve, deliver and customize our Services' content and offerings.
 
-When you create your Bold Ride account, you may decide to add personal information which may include your name, gender, picture, car ownership, affiliation, or other details. This information will be visible to other users on your Bold Ride profile page and related pages. If you choose to add certain features to your account profile, then these features and your activity associated with them also will be displayed to other users, and may be aggregated and shared with other users. Such shared information may include your favorite cars, pictures, or videos; your rankings; your uploads; and your comments and favorite comments.
+  * _Third Party Cookies and Web Beacons; Network Advertisers_
 
-  
 
 
-#### Responses to Legal Process.
+We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by [clicking here.](http://www.aboutads.info/choices/) If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information or find additional opt-out tools operated by advertising industry associations encompassing even more network advertisers, please [click here.](http://www.aboutads.info/)
 
-Bold Ride processes personal information you submit on our servers in the United States of America. Though Bold Ride makes every effort to preserve user privacy, Bold Ride may need to disclose personal information as required by law, such as when we have a good-faith belief that disclosure is necessary to comply with a judicial proceeding, a court order or legal process served on Bold Ride.
+  * _Social Networking_
 
-  
 
 
-## II. Choices
+When using our Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google+) (each and collectively, a "Social Network"), you may have the option to connect your Website, Application, or Mobile Game information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on our Services, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your Services activity, your Services comments or the videos you watch on our Services. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and our Services, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to our Services.
 
-If you have a Bold Ride account, you may update or correct your personal profile information, email preferences and privacy settings at any time by visiting your account profile page.
+  * _Device ID_
 
-You may control the information that is available to other users by editing your Bold Ride account and the features that are included on your profile page.
 
-You can always decline to create an account or to submit personal information through Bold Ride, in which case you can still explore Bold Ride and view pictures, videos and other information about makes and models of cars. Please note, however, that if you do not have an account Bold Ride may not be able to provide certain services to you. To the extent Bold Ride uses a third-party service such as Google Checkout, Amazon, Facebook, or AdSense, the privacy notices of the third-party service governs the use of your personal information associated with it. Bold Ride is not responsible for any personal information that is made available because of your use of these other services.
 
-  
+When you use our Mobile Application, we or our third-party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third-party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](https://developer.yahoo.com/user-opt-out.html) and follow the instructions.
 
+### 6\. Other Circumstances When Your Data May Be Shared
 
-## III. Advertising on Bold Ride.
+  * _Aggregated Demographic Information._
 
-First party data includes information collected during your current search or visit to our website, such as the pages you are viewing or have viewed. If you are viewing parts of the Bold Ride site dedicated to a particular make and model of automobile, or if you search for a particular make or model, your interest may be used to display relevant advertisements to you on the Bold Ride site. First-party data we collect is not shared with any other third parties, however, and is used only for proprietary ad delivery, ad reporting, and contextual advertising through Bold Ride. We do not participate in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
 
-  
 
+We may share aggregated demographic information with third parties. This information is not linked to personal information that can identify you or another individual person.
 
-#### Third Party Advertising and Cookies.
+  * _Business Transfers._
 
-Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us for display. We have no access to, or control over, these cookies. These advertisers may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC. Additional information may be available through these advertisers' privacy policies.
 
-  
 
+As time passes, Motorsport Network, LLC may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
 
-#### Business Transitions.
+  * _Disclosure for Legal Purposes._
 
-In the event Bold Ride is sold, merges with another company, or transitions to another corporate form, it is highly likely that the user information collected by Bold Ride will be transferred to Bold Ride's successor as part of the business transition.
 
-  
 
+We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of Terms of Use of any of our Services or as required by law.
 
-#### Information security.
+### 7\. Managing Your Information
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of the data in our possession. These steps include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://www.motorsport.com/login/) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
 
-Access to personal information is restricted to Bold Ride employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure. Therefore, we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
 
-If you become aware of a security issue, please contact us at [admin@boldride.com](mailto:admin@boldride.com). We will work with you to address any problems that come to our attention.
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call Motorsport Network directly at +1 305 877 30 97.
 
-#### Enforcement.
+Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
 
-Bold Ride regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Bold Ride's policy to contact the person making the complaint regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding privacy that cannot be resolved directly with the complainant.
+### 8\. Other Information
 
-  
+  * _No Spyware or Adware._
 
 
-#### Changes to this Privacy Policy.
 
-This Privacy Policy may change from time to time, but we will not materially reduce your rights under our Privacy Policy without your explicit consent. Any Privacy Policy changes will be posted on our Privacy Policy page and, if the changes are significant, we will provide a more prominent notice (including, for certain changes, email notification). Archived copies of prior versions of the Privacy Policy will be kept for your review.
+We do not install any spyware or adware in connection with our Services, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
 
-  
+  * _Our Security Practices._
 
 
-#### More Information.
 
-For questions concerning Bold Ride or your account, please contact us at [admin@boldride.com](mailto:admin@boldride.com)
+The account information associated with any of our Services is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
+
+  * _Links._
+
+
+
+Our Services contain links to other websites and products produced by Motorsport Network, LLC, and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+
+  * _Your California Privacy Rights._
+
+
+
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport Network, LLC, Privacy Administrator, 5972 NE 4th Avenue Miami, FL 33137, USA.
+
+  * _Special Rules for Children._
+
+
+
+Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services require the submission of a payment card number along with personal information in connection with a purchase; other elements of our Services require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
+
+  * _Contact Us Regarding Privacy._
+
+
+
+If you have questions or concerns about this Privacy Policy, you can contact us at:
+
+**Privacy Administrator**
+
+**Motorsport Network, LLC**
+
+5972 NE 4th Avenue
+
+Miami, FL 33137
+
+USA
+
+**Phone:**  +1 305 507 87 99
+
+Or send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com)
+
+  * _Notification of Changes._
+
+
+
+If we make an important change to this Privacy Policy, we will post a notification and link on our Website's homepage and within our Applications, Mobile Games and Social Games so that you may review the updated policy.
+
+**Last updated and effective date: May 12, 2017.**
