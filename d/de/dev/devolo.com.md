@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devolo.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613205256id_/http%3A//www.devolo.com/en/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devolo.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904125112id_/http%3A//www.devolo.com/en/Privacy-policy) for the most accurate reproduction.*
 
 # Data privacy at devolo - devolo AG
 
@@ -75,7 +75,7 @@ We would be delighted should you contact us if you have further questions or sug
 
 devolo AG data protection supervisor  
 Stephan Classen  
-Charlottenburger Allee 60  
+Charlottenburger Allee 67  
 52068 Aachen  
 E-mail: [datenschutz@devolo.de](mailto:datenschutz@devolo.de)
 
