@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogetfunding.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510110357id_/https%3A//gogetfunding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogetfunding.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904162410id_/https%3A//gogetfunding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoGetFunding | GoGetFunding
 
@@ -46,4 +46,4 @@ All postings, messages, text, files, images, photos, video, sounds, or other mat
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of GoGetFunding then you may [contact us](http://gogetfunding.com/contactus).
+If you have any questions regarding the privacy policy of GoGetFunding then you may [contact us](https://gogetfunding.com/contactus).
