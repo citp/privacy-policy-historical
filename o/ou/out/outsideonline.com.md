@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624173446id_/https%3A//www.outsideonline.com/1929051/mariah-media-network-llcs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904102352id_/https%3A//www.outsideonline.com/1929051/mariah-media-network-llcs-privacy-policy) for the most accurate reproduction.*
 
 # Mariah Media Network LLC’s Privacy Policy | Outside Online
 
