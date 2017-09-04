@@ -1,76 +1,64 @@
-> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181034id_/http%3A//profoto.com/int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904072041id_/https%3A//profoto.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Profoto
 
-Your privacy is important to Profoto. Our Privacy Policy covers how we collect, use, disclose, transfer, and store information about you. Please take a moment to familiarize yourself with our privacy practices.
+## Controller identity and contact information
 
-## Consent
+Profoto AB is the controller of the personal data we collect when you use our website and services. For questions or inquiries, please contact us at Profoto AB, Landsvägen 57A, 172 65 Sundbyberg, 08-447 53 00, [info@profoto.com](mailto:info@profoto.com).
 
-You accept this Privacy Policy if you: decide to create a Profoto ID or account, register your products, download a software update, participate in an online survey or otherwise voluntarily submit personal information to Profoto.
+## Personal information - definition, collection and use
 
-By accepting this Privacy Policy you agree and consent to Profoto and its affiliates collecting and using your information for the purposes described under “How we use your personal information.” Profoto may also transfer your information to third parties, for further details see under. “Disclosure to Third Parties.”
+Personal information is all information that relates directly or indirectly to an identifiable individual person. Profoto collects personal information about you in three different situations:
 
-#### Personal Information; definition, collection and use
+  1. When visiting our website - We store and process information regarding your usage of our website. The purpose is to improve your website user experience.
+  2. When subscribing to our newsletter - We store and process your e-mail address and country. We may also collect information regarding your usage of the newsletter, such as whether you have read it or not. The purpose is personalization and to improve newsletter content.
+  3. When creating an account - We store and process information that you have provided us with (such as contact information, registered products and interests etc.), and information regarding your usage of our website. The purpose is personalization and to provide better customer care and service to you.
 
-Personal information is data that can be used to uniquely identify or contact a single person.
 
-#### The personal information we collect
 
-Profoto may collect a variety of information but specifically your name, address, telephone number, e-mail address, contact preferences, IP-number and credit card information.
-
-#### How we use your personal information
+## How we use your personal information
 
 The personal information we collect will be used:
 
-  * to keep you posted about Profoto’s latest product announcements, software updates, and upcoming events, by sending you newsletters, offerings and other news or product alerts. If you don’t want to be on our mailing list, you can opt out at any time by simply clicking the appropriate link for opt out in the footer of each and any newsletter.
-  * to help us develop, deliver, and improve our products, services, content, advertising and customer communication by internal auditing, data analyzing and research of the personal information and preferences you have shared with us.
-  * to send you important notices, such as communications about purchases and changes to our terms, conditions, and policies. If you have an agreement with Profoto which stipulates this method of communication, it is not certain you will be able to opt out of receiving such communications without amending the underlying agreement.
-  * to administer sweepstakes, contests or similar promotion programs in case you have entered into such events.
+  * to send important notices to you, such as communication about purchases and changes to our terms, conditions, and policies.
+  * to keep you posted about Profoto’s latest product announcements, firmware and software updates, and upcoming events, by sending you newsletters, offerings and other news. If you do not want to be on our mailing list, you can opt out at any time by simply clicking the appropriate link for opt out in the footer of any newsletter.
+  * to help us develop, deliver, and improve our products, services, content, advertising and customer communication by internal auditing, data analyzing and research of the personal information and preferences you have shared with us to administrate sweepstakes, contests or similar promotion programs if you participate in such events.
+  * to fulfill any obligations we have according to law, such as accounting and tax regulations.
 
 
 
-## Disclosure to Third Parties
+Our processing is necessary for the performance of our contractual obligations towards you as a customer. If you are not willing to provide Profoto with the information requested to perform our contractual obligations towards you as a customer, we will not able to provide you with our products and services. Our processing as regards marketing is based on our commercial interest to market our products and services to customers and potential customers.
 
-At times Profoto may disclose and share certain personal information to strategic partners that work with Profoto to provide or improve Profoto products and services, or that help Profoto market to customers.
+## Disclosure to third parties
 
-Personal information will not be shared with third parties for their marketing purposes.
+Profoto may disclose and share certain personal information to strategic partners that work with Profoto to provide or improve Profoto products and services, or that help Profoto to market its products and services to customers. Personal information will not be shared with third parties for their own marketing purposes.
 
-Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party to be used for the same purpose and on the same terms and conditions set out in this Privacy Policy.
+Profoto may disclose and share personal information with Profoto’s service providers, namely companies who provide services such as information processing, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, accounting, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information according to data processing agreements.
 
-#### Service Providers
+It may be necessary − by law, or because of litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Profoto to disclose your personal information. We may also disclose information about you if necessary for purposes of national security, law enforcement, or other issues of public importance. Additionally, in the event of a reorganization, merger, or sale, we may transfer any and all personal information we collect to the relevant third party to be used for the same purpose and on the same terms and conditions as set out in this Privacy Policy.
 
-Profoto may disclose and share personal information with Profoto Service Providers, namely companies who provide services such as information processing, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Profoto operates.
+## Protection of personal information
 
-#### Miscellaneous
+Profoto takes precautions — including administrative, technical, and physical measures — to protect your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
 
-It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Profoto to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+When you use some of Profoto products, services, or applications or post in a Profoto forum, chat room, or social networking service, the personal information that you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and e-mail address in a forum posting, that information is then public. Please take care when using these features.
 
-## Protection of Personal Information
+## Your rights
 
-Profoto takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+Profoto makes it easy for you to keep your personal information accurate, complete, and up to date. Upon your request, Profoto will rectify your data. If certain conditions are met, Profoto will erase your data or restrict the processing of your data, upon your request. Profoto is also obligated to, upon your request, confirm whether or not personal data regarding you is being processed as well as give you access to information regarding the processing. You also have the right to receive personal data that has been provided by you to Profoto in a structured, commonly used and machine readable format, for example to be able to transmit those data to another controller. We are obligated to meet a request from you regarding these rights within a one month period. This period may in some cases be extended by two months. All requests can be made by e-mail to [info@profoto.com](mailto:info@profoto.com).
 
-When you use some Profoto products, services, or applications or post in a Profoto forum, chat room, or social networking service, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and e-mail address in a forum posting, that information is then public. Please take care when using these features.
+We will retain your personal information for 5 years after your last contact with us. If you have purchased one of our products, we will retain the personal information needed during the course of the product’s life length.
 
-## Integrity and Retention of Personal Information
+If you experience an infringement of your rights according to the GDPR, you have a right to lodge a complaint with the relevant supervisory authority of your country of residence, or to Datainspektionen, Sweden (<http://www.datainspektionen.se/in-english/>).
 
-Profoto makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+## Third-party websites and services
 
-## Access to Personal Information
-
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by contacting us.
-
-For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Profoto is not required to retain it by law or for legitimate business purposes. Under Section 26 of the Swedish Personal Data Act (1998:204) you are entitled annually, free of charge, to obtain details your Personal Information that Profoto handles and how it is handled, and request correction in writing if necessary. Access, correction, or deletion requests can be made by e-mail: [info@profoto.com](mailto:info@profoto.com). We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
-
-## Third-Party Sites and Services
-
-Profoto websites, products, applications, and services may contain links to third-party websites, products, and services. We encourage you to learn about the privacy practices of those third parties.
+Profoto websites, products, applications, and services may contain links to third-party websites, products, and services. Profoto cannot take any responsibility for the content of such third-party websites and encourage you to obtain information about the privacy practices of those third parties.
 
 ## Transfer to third countries
 
-Information you provide may be transferred or accessed by entities around the world for the purpose and under the terms and conditions described in this Privacy Policy. Profoto is a Swedish company governed by Swedish legislation and-such transfer takes place under Section 33 of the Swedish Personal Data Act (1998:204), i.e. provided that the third country has an adequate level of protection for Personal Information.
+Personal information may be transferred to or accessed by entities in other countries for the purpose and under the terms and conditions described in this Privacy Policy. Data may be transferred to the following countries outside the EU/EEA: Australia, USA, Canada, The People’s republic of China, Japan and South Korea. Profoto uses standard data protection clauses adopted by the EU Commission to ensure secure transfers to the remaining countries.
 
-## Privacy Questions
+## Other
 
-If you have any questions or concerns about Profoto’s Privacy Policy or data processing, please email info@profoto.com[.](http://profoto.com/int/privacy-policy#)
-
-Want to read more about the Swedish legislation on privacy and the Swedish Personal Data Act ( _Personuppgiftslagen_ 2008:204)? Then visit [http://www.datainspektionen.se/in-english/](http://www.datainspektionen.se./in-english/) Profoto may update its Privacy Policy from time to time, without prior notice.
+Profoto may update its Privacy Policy from time to time, without prior notice.
