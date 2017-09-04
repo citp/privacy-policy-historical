@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agingcare.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215085926id_/https%3A//www.agingcare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agingcare.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904172004id_/https%3A//www.agingcare.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
