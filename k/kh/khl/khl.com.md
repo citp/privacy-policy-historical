@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khl.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113155id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khl.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904163148id_/https%3A//www.khl.com/privacy-policy) for the most accurate reproduction.*
 
-# KHL Group - Privacy Policy
+# KHL
 
 This website is operated by KHL Group LLC of Southfields, Southview Road, Wadhurst, East Sussex TN5 6TP, United Kingdom ("KHL"). We operate a number of websites, some of which give you an opportunity to register or provide us with personal information about yourself. Registration may be required to access certain features or promotions. This privacy policy explains how this information is used and how to contact us if you have any queries or concerns.
 
@@ -47,6 +47,8 @@ Peter Watkinson
 Data Controller  
 KHL LLC
 
-Phone: +44 (0)1892 784088  
-E-mail: peter.watkinson@khl.com  
-Post: Southfields, Southview Road, Wadhurst, East Sussex TN5 6TP, UK
+Phone:+44 (0)1892 784088
+
+E-mail[peter.watkinson@khl.com](mailto:peter.watkinson@khl.com)
+
+Post:Southfields, Southview Road, Wadhurst, East Sussex TN5 6TP, UK
