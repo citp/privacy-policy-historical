@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331121006id_/http%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904030610id_/https%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
 
 # DB-Engines - Privacy Policy
 
@@ -22,6 +22,6 @@ We do not share data with third parties.
 
 We offer links to other web sites. Please note: When you click on links to other web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
-If you have any further questions about privacy, please [contact us](http://db-engines.com/en/contact).
+If you have any further questions about privacy, please [contact us](https://db-engines.com/en/contact).
 
 ## Last Modification of this Page
