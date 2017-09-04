@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123647id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904194915id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips.com website's Privacy Policy
 
@@ -81,3 +81,5 @@ Your use of this site indicates acceptance of this privacy policy.
 [Go to **About Me page from privacy policy**](http://www.vegetarian-cooking-recipes-tips.com/about.html)
 
 * * *
+
+[ ](http://pinterest.com/VegetarianCookingRecipesTips/)
