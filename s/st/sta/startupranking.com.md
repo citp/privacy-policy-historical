@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupranking.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034538id_/http%3A//www.startupranking.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupranking.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904040300id_/http%3A//www.startupranking.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Ranking
 
