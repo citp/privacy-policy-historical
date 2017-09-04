@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shannonsviewfromhere.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324000252id_/http%3A//shannonsviewfromhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shannonsviewfromhere.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904172635id_/http%3A//shannonsviewfromhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shannon's View From Here
 
@@ -43,11 +43,3 @@ We will not sell, distribute or lease your personal information to third parties
 **Opt Out**  
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>  
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-Related Posts
-
-2016-02-20 09:10:26 
-
-blogging 
-
-8
