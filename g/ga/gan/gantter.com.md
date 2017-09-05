@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantter.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613000437id_/https%3A//gantter.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantter.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905133119id_/http%3A//gantter.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement « Gantter - web-based project scheduling made easy
 
