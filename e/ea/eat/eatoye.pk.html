@@ -1,0 +1,557 @@
+<!--The following is the downloaded HTML source of the eatoye.pk privacy policy that was archived on 2017-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170905175957id_/https%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js desktop" lang="en-PK"><head>
+    <script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+                
+            <title>Privacy policy</title>
+    
+            <meta name="description" content="Our privacy policy">
+    
+            <meta name="keywords" content="foodpanda, food">
+    
+            <meta name="robots" content="index,follow">
+    
+                        <meta name="format-detection" content="telephone=no">
+                                <meta name="mobile-web-app-capable" content="yes">
+                                <meta name="apple-mobile-web-app-capable" content="yes">
+                                <meta name="apple-mobile-web-app-status-bar-style" content="black">
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                <meta name="revisit-after" content="3 days">
+                                <meta name="msapplication-tilecolor" content="#f75626">
+                                <meta name="msapplication-tileimage" content="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/mstile-144x144.png?v=1488786187">
+                                <meta name="msapplication-config" content="/browserconfig.xml">
+            
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-57x57.png?v=1488786187" sizes="57x57">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-60x60.png?v=1488786187" sizes="60x60">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-72x72.png?v=1488786187" sizes="72x72">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-76x76.png?v=1488786187" sizes="76x76">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-114x114.png?v=1488786187" sizes="114x114">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-120x120.png?v=1488786187" sizes="120x120">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-144x144.png?v=1488786187" sizes="144x144">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-152x152.png?v=1488786187" sizes="152x152">
+            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-180x180.png?v=1488786187" sizes="180x180">
+            <link rel="apple-touch-icon-precomposed" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-precomposed.png?v=1488786187">
+            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/favicon-32x32.png?v=1488786187" sizes="32x32">
+            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/favicon-192x192.png?v=1488786187" sizes="192x192">
+            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/favicon-96x96.png?v=1488786187" sizes="96x96">
+            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/favicon-16x16.png?v=1488786187" sizes="16x16">
+            <link rel="manifest" href="/manifest.json">
+            <link rel="shortcut icon" href="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/favicon.ico?v=1488786187">
+            <link rel="alternate" href="https://www.foodpanda.pk/contents/privacy.htm" hreflang="en-PK">
+    
+                        <meta content="https://www.foodpanda.pk/contents/privacy.htm" property="og:url">
+                                <meta content="foodpanda" property="og:site_name">
+                                
+                    <link rel="stylesheet" href="/_/css/shopMain-226b245f32ce4bf5424951d814adf202.css" media="all">
+        
+                            
+        <!--[if lte IE 9]>
+        <script src="/_/js/shopHeadIE-953841d0f3902bbe360cc31d7c5080e0.js"></script>
+    <![endif]-->
+    <script src="/_/js/shopHead-7bb6d6b3f3047938c47d8a26681a8fc4.js"></script>
+    <script>window.$LABChain = $LAB.script('/_/js/shopMain-7dfa1177e6582f893436fbae5e79a430.js');</script>
+
+        
+            <script src="//cdn.dynamicyield.com/api/8766596/api_dynamic.js"></script>
+    
+            <script src="//cdn.dynamicyield.com/api/8766596/api_static.js"></script>
+    
+        <script>
+    FD
+        .setControllerConfig('Prefill', 'customer.firstName', "")
+        .setControllerConfig('Prefill', 'customer.lastName', "")
+        .setControllerConfig('Prefill', 'customer.email', "")
+                    .setControllerConfig('Prefill', 'location.areaId', "")
+            .setControllerConfig('Prefill', 'location.areaName', "")
+                        .setControllerConfig('Prefill', 'location.addressName', "")
+            .setControllerConfig('Prefill', 'location.address', "")
+            .setControllerConfig('Prefill', 'location.latitude', "")
+            .setControllerConfig('Prefill', 'location.longitude', "")
+            .setControllerConfig('Prefill', 'location.street', "")
+            .setControllerConfig('Prefill', 'location.streetNumber', "")
+            .setControllerConfig('Prefill', 'location.houseNumber', "")
+            .setControllerConfig('Prefill', 'location.district', "")
+            .setControllerConfig('Prefill', 'location.postcode', "")
+            ;
+</script>
+            <script>
+    FD
+        .setControllerConfig('LocationSearch', 'vendorListUrl', "\/restaurants")
+        .setControllerConfig('LocationSearch', 'msgNoAreasFound', "No areas found matching your search.")
+        .setControllerConfig('LocationSearch', 'msgSelectAreaFromDropdown', "Please enter your location.")
+        .setControllerConfig('LocationSearch', 'suggestionUrl', "\/location-suggestions-ajax")
+        .setControllerConfig('LocationSearch', 'areaSuggestionUrl', "\/city-suggestions-ajax\/CITY_ID")
+                .setControllerConfig('LocationSearch', 'checkMissingAddressFieldsUrl', "\/missing-complete-address-fields-ajax")
+    ;
+
+    FD.setControllerConfig('ChangeLocationLink', 'fromElementUrlForVendorListPage', "\/location\/get-location-search-box");
+</script>
+        
+    
+                        
+            <script>
+                        var dataLayer = [{"area_id":"NA","area_name":"NA","city_id":"NA","city_name":"NA","lat":"NA","lng":"NA","country_id":"PK","app_version":"production|SAPI.17.36.12|84960de7f6be088277f9368026b0671c4bfbd603","ga_code":"UA-51354317-1","ga_domain":"foodpanda.pk","language":"en_PK","visitor_id":"lebuoqj161japfcrcgq5cafkj4","landing_page":"\/contents\/privacy.htm","visitor_utm_source":"","visitor_utm_campaign":"","visitor_utm_content":"","visitor_utm_medium":"","visitor_utm_term":"","visitor_referer":"Direct","visitor_source":"https:\/\/www.foodpanda.pk\/","ab_group":"a","platform":"pc","currency":"PKR","page_type":"Content Page","newsletter_id":null,"customer_logged":0,"customer_id":"","customer_status":"NA","customer_control":0,"customer_lastname":"","customer_name":"","customer_vendor_id_list":"","customer_last_date":"NA","customer_first_date":"NA","customer_acquisition_voucher":"false"}];
+
+            tracking.setGtmActive(true);
+            tracking.setGtmId("GTM-KDJQ8S");
+
+            tracking.setGaActive(true);
+
+            tracking.initTracking();
+        </script>
+
+        <script>tracking.fireTracking();</script>
+
+                        </head>
+<body class="  foodpanda pk ">
+                                <noscript>
+        <iframe
+            src="//www.googletagmanager.com/ns.html?id=GTM-KDJQ8S"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden"
+        ></iframe>
+    </noscript>
+        
+    <div class="page-wrapper js-sticky-height-calculate-container">
+        
+        <div class="content-wrapper">
+                                                    <div class="homepage-area-selection-container" data-bg="">
+                            <header class="">
+                                                    
+                <div class="container">
+                    <div class="header-mobile-item left">
+                        <i class="icon icon-more mobile-menu__menu-toggle"></i>
+                    </div>
+
+                                            <a href="/" class="header-logo ">
+    <img alt="Logo" src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/logo.png?v=1488786187">
+</a>
+                    
+                    <div class="header-links">
+                                                    <ul class="header-links__list">
+                                                                                                    
+                                                                    
+                                
+                                                                                                            <li class="header-links__contact-us">
+    <a href="/contents/contact.htm">
+        <i class="icon icon-help"></i>
+
+        <span class="label">Help</span>
+    </a>
+</li>
+                                                                    
+                                                                    <li class="header-links__customer-account">
+            <a href="/login" class="js-auth-login" data-loading-text="Loading..." rel="nofollow">
+            <i class="icon icon-account"></i>
+            <span class="label">Log in or Sign up</span>
+        </a>
+    </li>
+                                                            </ul>
+                                            </div>
+                </div>
+            </header>
+        
+        
+            </div>
+                    <div class="mobile-side-menu">
+        <div class="mobile-side-menu__container">
+            <div class="mobile-side-menu__header">
+    <div class="mobile-side-menu__header__picture no-picture">
+                    <div class="mobile-side-menu__header__picture__no-picture"></div>
+            </div>
+    <div class="mobile-side-menu__header__title">
+                    Welcome!
+            </div>
+</div>
+
+
+            <div class="mobile-side-menu__menu">
+                <ul>
+                    <li>
+                        <a href="/restaurants">
+                            <i class="icon icon-more"></i>
+                            <span class="label">Restaurants</span>
+                        </a>
+                    </li>
+
+                                            <li>
+                            <a href="/login" class="js-auth-login" data-loading-text="Loading..." rel="nofollow">
+                                <i class="icon icon-account"></i>
+                                <span class="label">Log in or Sign up</span>
+                            </a>
+                        </li>
+                    
+                    <li>
+                        <a href="/contents/contact.htm">
+                            <i class="icon icon-contact"></i>
+                            <span class="label">Help</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="mobile-side-menu__footer">
+                <ul>
+                    <li>
+                        <a target="_blank" href="/contents/terms-and-conditions.htm">
+                            Terms and Conditions
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="/contents/privacy.htm">
+                            Privacy Policy
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+                                <div class="breadcrumbs">
+            <div class="container">
+                                    <ol class="breadcrumbs__pages">
+                            <li class="breadcrumbs__pages__item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="https://www.foodpanda.pk/" itemprop="url">
+            <span itemprop="title">Home</span>
+        </a>
+    </li>
+
+                                <li class="breadcrumbs__pages__item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="https://www.foodpanda.pk/contents/privacy.htm" itemprop="url">
+            <span itemprop="title">Privacy policy</span>
+        </a>
+    </li>
+
+                    </ol>
+                            </div>
+        </div>
+                        
+    <div class="flash-messages">
+        <div class="container">
+                                </div>
+    </div>
+                    <main class="js-sticky-height-calculate-container">
+        <div class="container">
+                    <div class="static-page ">
+                    <h1>Privacy policy</h1>
+        
+        <div class="static-content ">
+            <script>
+if(window.location.host == "order.eatoye.pk" || window.location.host == "new.foodpanda.pk"){
+ var brand = "EatOye!"
+ var link = "eatoye"
+ var number = "111-HUNGRY"
+}else{
+ var brand = "foodpanda"
+ var link = "foodpanda"
+ var number = "111-898-989"
+}
+</script>
+<p>
+	This policy explains how we, <script>document.write(brand)</script>foodpanda, a brand of <strong>http://www.foodpanda.com</strong>, use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).<br>
+	<br>
+	<strong>What information we collect about you?</strong><br>
+	<br>
+	We collect personal information from you when you order goods or services from us or use our website. We also collect information when you complete any customer survey. Website usage information may also be collected using cookies.<br>
+	<br>
+	<strong>Cookies and Google Analytics</strong><br>
+	<br>
+	Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.<br>
+	<br>
+	This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files saved on your computer, to help the website analyze how you use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. If this website anonymizes IP addresses, your IP address will be truncated by Google within a EU member state or other EEA state before being transmitted to the US. Only in exceptional situations will your full IP address be transmitted to Google servers in the United States and truncated there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. You can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading this browser plugin and installing it: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a><br>
+	<br>
+	Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.<br>
+	<br>
+	<strong>How will we use the information we collect from you?</strong><br>
+	<br>
+	Information that we collect from you is used to process your order and to manage your account. We may also use your information to email you about other products or services that we think may be of interest to you.<br>
+	<br>
+	In processing your order we may send your information to credit reference and fraud prevention agencies.<br>
+	<br>
+	From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at <a href="mailto:info@&lt;script&gt;document.write(link)&lt;/script&gt;.pk">info@<script>document.write(link)</script>foodpanda.pk</a><br>
+	<br>
+	<strong>Access to your information</strong><br>
+	<br>
+	You have a right to request a copy of the information we hold on you at any time. Please email us if you would like to receive a copy of this information – <a href="mailto:info@&lt;script&gt;document.write(link)&lt;/script&gt;.pk">info@<script>document.write(link)</script>foodpanda.pk</a>. There will be a small charge for processing this request.<br>
+	<br>
+	<strong>Other Websites</strong><br>
+	<br>
+	Our website may have links to other websites. This privacy policy only applies to this website. You should therefore read the privacy policies of the other websites when you are using those sites.</p>
+<p>
+	&nbsp;</p>
+
+                    </div>
+
+            </div>
+        </div>
+    </main>
+                    </div>
+            <div class="mobile-apps">
+            <div class="mobile-apps__container">
+            <div class="mobile-apps__inner">
+                                <img alt="foodpanda mobile app" class="mobile-apps__banner lazy" width="198" height="244" data-src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/mobile_app.png?v=1488786187"><noscript><img alt="foodpanda mobile app" class="mobile-apps__banner" width="198" height="244" src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/mobile_app.png?v=1488786187" /></noscript>
+                <div class="mobile-apps__shadow"></div>
+
+                <div class="mobile-apps__content">
+                    <div class="mobile-apps__title">
+                        foodpanda in your pocket!
+                    </div>
+                    <p class="mobile-apps__tagline">
+                        Get our app, it's the fastest way to order food on the go.
+                    </p>
+
+                    <div class="mobile-apps__icons">
+                                                    <a href="https://app.adjust.io/f6igys?campaign=PK_Homepage_iOS&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DPK%26s%3Ds%0A" target="_blank" class="app-icon app-icon-ios" rel="nofollow">
+                                <img alt="App Store" width="152" height="45" data-src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/app-icon-ios.png?v=1488786187" class=" lazy"><noscript><img alt="App Store" width="152" height="45" src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/app-icon-ios.png?v=1488786187" /></noscript>
+                            </a>
+                            <br>
+                        
+                                                    <a href="https://app.adjust.io/dfv9zs?campaign=PK_Homepage_Android&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DPK%26s%3Ds%0A" target="_blank" class="app-icon app-icon-android" rel="nofollow">
+                                <img alt="Google Play" width="129" height="45" data-src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/app-icon-android.png?v=1488786187" class=" lazy"><noscript><img alt="Google Play" width="129" height="45" src="//asia-public.foodpanda.com/assets/production/pk/layout/themes/capricciosa_foodpanda/images/en/app-icon-android.png?v=1488786187" /></noscript>
+                            </a>
+                            <br>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+            <footer>
+            <div class="container">
+                                                                                                <div class="newsletter js-newsletter" id="newsletter">
+                    <div class="newsletter__title">Subscribe to our newsletter:</div>
+            <div class="newsletter__usp">
+                <ul class="newsletter__usp__list">
+                    <li>Don't miss out on our great offers</li>
+                    <li>Receive deals from all our top restaurants via e-mail</li>
+                </ul>
+            </div>
+
+                            <form action="/newsletter/subscribe" method="post" class="form-vertical" novalidate="">
+                    <div class="newsletter__form">
+                            <input type="hidden" id="newsletter_subscribe__token" name="newsletter_subscribe[_token]" value="q5QhdqiFhlDYHyh7OKW_5FcztpAg6LLxumwF2pWf-PU">
+                        <div class="newsletter__form__city ">
+                                <select id="newsletter_subscribe_city" name="newsletter_subscribe[city]" required="required" class="form-control input-lg" data-prefill="location.cityId"><option value="" selected="selected">Please select your city</option><optgroup label="Popular Cities"><option value="5">Islamabad</option><option value="3">Karachi</option><option value="4">Lahore</option><option value="6">Rawalpindi</option></optgroup><optgroup label="More Cities"><option value="5298">Abbottabad</option><option value="5185">Bahawalpur</option><option value="12">Faisalabad</option><option value="14">Gujranwala</option><option value="13">Hyderabad</option><option value="15">Jhelum</option><option value="19">Larkana</option><option value="30">Mangla</option><option value="5335">Mardan</option><option value="10">Multan</option><option value="5360">Murree</option><option value="9">Peshawar</option><option value="32">Quetta</option><option value="5372">Sahiwal</option><option value="16">Sargodha</option><option value="11">Sialkot</option><option value="17">Sukkur</option><option value="5281">Wah Cantt</option></optgroup></select>
+                                
+                        </div>
+                        <div class="newsletter__form__email ">
+                                <input type="email" id="newsletter_subscribe_email" name="newsletter_subscribe[email]" required="required" class="form-control input-lg" placeholder="Enter your e-mail" data-prefill="customer.email">
+                                
+                        </div>
+                        <div class="newsletter__form__submit">
+                            <button type="submit" id="newsletter_subscribe_subscribe" name="newsletter_subscribe[subscribe]" class="btn btn-primary btn-lg btn-block">Sign up now</button>
+                        </div>
+                                                    <div class="newsletter__form__terms_and_conditions">
+                                <input type="checkbox" id="newsletter_subscribe_termsAndConditionsAccepted" name="newsletter_subscribe[termsAndConditionsAccepted]" required="required" value="1">
+
+                                        
+        <label class="required" for="newsletter_subscribe_termsAndConditionsAccepted">            I have read and accepted the <a target="_blank" href="/contents/terms-and-conditions.htm">Terms and conditions</a> and <a target="_blank" href="/contents/privacy.htm">Privacy policy</a>
+                </label>
+                                    
+                        </div>
+                                            </div>
+                </form>
+                    
+        <script>
+            FD.setControllerConfig('Newsletter', 'enable', true);
+        </script>
+    </div>
+
+                        
+                        
+                                                        <div class="footer-block footer-block--no-mobile-separator">
+        <div class="row">
+                            <div class="footer-related footer-links">
+                    <div class="footer-links__title">Popular cities</div>
+                    <ul class="unstyled">
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi">Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/lahore">Lahore</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/islamabad">Islamabad</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/rawalpindi">Rawalpindi</a></li>
+
+</ul>
+                </div>
+            
+                            <div class="footer-related footer-links">
+                    <div class="footer-links__title">Popular cuisines</div>
+                    <ul class="unstyled">
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/lahore/cuisines/pizza-cuisine">Pizza in Lahore</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/chinese">Chinese in Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/desserts">Desserts in Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/lahore/cuisines/chinese">Chinese in Lahore</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/breakfast">Breakfast in Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/seafood">Seafood in Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/steak-house">Steakhouse in Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/fast-food">Fast food in Karachi</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/islamabad/cuisines/seafood">Seafood in Islamabad</a></li>
+	<li>
+		<a href="https://www.foodpanda.pk/restaurants/city/karachi/cuisines/burgers">Burgers in Karachi</a></li>
+</ul>
+                </div>
+            
+                            <div class="footer-related footer-links">
+                    <div class="footer-links__title">Restaurants</div>
+                    <div class="footer-column-226">
+	<ul class="unstyled">
+		<li>
+			<a href="https://14thstreetpizza.foodpanda.pk">14th Street Pizza</a></li>
+		<li>
+			<a href="https://mcdonalds.foodpanda.pk/">McDonalds</a></li>
+		<li>
+			<a href="https://kfc.foodpanda.pk">KFC</a></li>
+		<li>
+			<a href="https://www.foodpanda.pk/restaurant/co5js">Hoagies</a></li>
+		<li>
+			<a href="https://www.foodpanda.pk/restaurant/s9jj/the-new-yorker-pizza-islamabad">New Yorker Pizza Islamabad</a></li>
+		<li>
+			<a href="https://cinnabon.foodpanda.pk">Cinnabon</a></li>
+		<li>
+			<a href="http://www.foodpanda.pk/restaurant/s3kp/espresso">Espresso</a></li>
+		<li>
+			<a href="https://www.foodpanda.pk/restaurant/s3un/rowtisserie">Rowtisserie</a></li>
+		<li>
+			<a href="http://www.foodpanda.pk/restaurant/cq7gy">Ginoginelles</a></li>
+		<li>
+			<a href="https://subway.foodpanda.pk">Subway</a></li>
+		<li>
+			<a href="https://nandos.foodpanda.pk/">Nando's</a></li>
+		<li>
+			<a href="https://www.foodpanda.pk/restaurant/cr1sg">Broadway Pizza</a></li>
+		<li>
+			<a href="https://www.foodpanda.pk/restaurant/s0zk/butlers-chocolate-cafe">Butlers Chocolate Cafe</a></li>
+		<li>
+			<a href="https://sarpinos.foodpanda.pk/">Sarpino's Pizzeria</a></li>
+		<li>
+			<a href="http://www.foodpanda.pk/restaurant/s3rl/kbc">KBC</a></li>
+		
+<li>
+			<a href="https://pizzamax.foodpanda.pk/">Pizza Max</a></li>
+	</ul>
+</div>
+<p>
+	&nbsp;</p>
+                </div>
+            
+                            <div class="footer-related footer-links">
+                                                                                                <div class="footer-links__title">foodpanda</div>
+                            <ul>
+                                                                    <li>
+                                        <a href="/contents/about.htm">
+                                            About Us
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/press.htm">
+                                            Press
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/contact.htm">
+                                            Contact and Help
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/terms-and-conditions.htm">
+                                            Terms and conditions
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/privacy.htm">
+                                            Privacy policy
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/apps">
+                                            Download our app for free
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/certified-partner">
+                                            Certified partner
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/careers">
+                                            Careers
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/suggest-a-restaurant">
+                                            Can't find the restaurant of your choice?
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/contents/Partner%20with%20us">
+                                            Partner with us
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                                            </div>
+                    </div>
+    </div>
+
+                <div class="footer-block footer-links footer-social">
+            <div class="footer-links__title">Get in touch</div>
+            <ul>
+                <li><a href="https://twitter.com/foodpandapk" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/pk/images/static/icons/twitter_sq.png"></a></li><li><a href="https://www.facebook.com/FoodPanda.pk" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/pk/images/static/icons/facebook_sq.png"></a></li><li><a href="http://magazine.foodpanda.pk/" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/pk/images/static/icons/Blog_sq.png"></a></li><li><a href="https://www.instagram.com/foodpanda_pakistan/" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/pk/images/static/icons/instagram_sq.png"></a></li>            </ul>
+        </div>
+    
+    
+        
+                                            
+                    <div class="footer-links footer-block footer-block--no-mobile-separator footer-legal">
+    <ul>
+        <li>
+            <a target="_blank" href="/contents/terms-and-conditions.htm">
+                Terms and Conditions
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="/contents/privacy.htm">
+                Privacy Policy
+            </a>
+        </li>
+        <li class="footer-legal-copyright">
+            © Copyright 2016 foodpanda is registered trademark
+        </li>
+        <li>
+            foodpanda Pakistan
+        </li>
+    </ul>
+</div>
+                            </div>
+        </footer>
+    
+    
+    <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content"></div>
+        </div>
+    </div>
+
+    
+        
+    
+    </div>
+
+                    
+        
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f77b1abc66","applicationID":"1548134","transactionName":"bldXNUJYXhAABxBZDVcddhRDTV8OTgILXwZJU1sFURdDCw4USlMPShxWDl5NQgwNCAFCTElTUgQKS1UNBQEWcQFNW1oP","queueTime":1,"applicationTime":93,"atts":"QhBUQwpCTR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+</body></html>
