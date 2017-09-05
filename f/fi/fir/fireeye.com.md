@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175029id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905123044id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | FireEye
 
@@ -6,7 +6,8 @@
 
 FireEye respects your privacy. When using our website, you may get information, communicate with us, or link to other websites with whom we do business. While doing this, you may give us information so that we can provide enhanced products or services to you, as well as personalize your experience on our Website. This online privacy policy describes how FireEye and its affiliates and subsidiaries use and protect Personal Information that you share with us. "Personal Information" is information that enables us to identify you. Examples of this kind of information include your email address, name, title, or mailing address, and there are other similar kinds of information that may be used for the same purpose.
 
-Your privacy, and the privacy of all users of www.fireeye.com, is of the highest priority. If you have any questions, [please email us](https://web.archive.org/company/contact-us.html). We will not knowingly collect or use Personal Information as defined by law without parental consent.
+Your privacy, and the privacy of all users of www.fireeye.com, is of the highest priority. If you have any questions, [please email us](mailto:privacy@fireeye.com) .  
+
 
 This policy governs websites owned and operated by FireEye. Our policy does not govern websites of other parties to which we may provide links because FireEye is not responsible for, and cannot control the privacy practices or content of, those sites.
 
@@ -46,9 +47,8 @@ Here are the principles governing our information practices and other privacy as
 
 #### Cross-Border Transfer
 
-  * FireEye complies with the requirements of the U.S.-EU [Privacy Shield Framework](https://www.privacyshield.gov/welcome), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FireEye adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity and purpose limitation, access and recourse, enforcement and liability with respect to all personal information transferred from the EU or Switzerland to the US within the scope of its Privacy Shield certification. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
-  * FireEye remains to adhere to the U.S.-EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, which will not be affected by the participation in the Privacy Shield Framework.
-  * Certain personal information may be subject to more specific privacy policies of FireEye, which are also consistent with the requirements of the U.S.-EU [Privacy Shield Framework.](https://www.privacyshield.gov/welcome)
+  * FireEye complies with the requirements of the [EU-U.S. Privacy Shield Framework, and the Swiss-U.S. Privacy Shield Framework](https://www.privacyshield.gov/welcome), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FireEye adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity and purpose limitation, access and recourse, enforcement and liability with respect to all personal information transferred from the EU or Switzerland to the US within the scope of its Privacy Shield certification. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
+  * Certain personal information may be subject to more specific privacy policies of FireEye, which are also consistent with the requirements of the EU-U.S. and Swiss-U.S. [Privacy Shield Framework.](https://www.privacyshield.gov/welcome)
   * Unless we tell you differently, companies who work on behalf of FireEye do not have any right to use the Personal Information we provide to them beyond what is necessary to assist us. FireEye ensures that those companies are contractually bound to confidentiality and use the data received on behalf of FireEye in line with this Policy and guarantee an adequate level of data protection. FireEye we will remain liable for any failure by the third party that receives personal information on behalf of FireEye, unless we prove that the event giving rise to the damage was solely caused by the third party.
 
 
@@ -102,7 +102,7 @@ In addition to cookies, we use Web beacons (also known as "clear GIFs" and "1x1"
 
 
 
-To opt out of Web beacon tracking, choose "DECLINE" on the FireEye Cookie Preferences control at the bottom of this page. Note that this will disable all first-party cookie sources from www.fireeye.com. In addition, you may choose not to open emails or download images in emails you receive from FireEye.
+In addition, you may choose not to open emails or download images in emails you receive from FireEye.
 
 To opt out of tracking via coded URLs, you may choose not to click on hyperlinks embedded in marketing emails you receive from FireEye.
 
@@ -274,32 +274,10 @@ You can configure your browser to accept all cookies, reject all cookies, or not
 
 If your browser is not listed on the site above, check your browser's "Help" menu to learn how to change your cookie preferences.
 
-**Controlling Cookies via Third-Party Opt-in/Opt-out Websites**
-
-These sites enable you to manage opt-in and opt-out preferences for multiple cookies via a consolidated UI or individual "op-out" cookies. This is a convenient alternative to controlling cookies individually.
-
-  * <http://www.networkadvertising.org/choices/>
-  * <http://www.aboutads.info/choices/>
-
-
-
-**Controlling Cookies via the FireEye Cookie Preferences Control**
-
-FireEye provides a control that allows you to disable first-party cookies and Web beacon tracking on www.fireeye.com. The control has two settings:
-
-  * ACCEPT: With this setting, all cookies and Web beacons are delivered normally.
-  * DECLINE: With this setting, first-party cookies and Web beacons are not delivered from www.fireeye.com.
-
-
-
-FireEye has multiple websites comprising its web presence, and the Cookie Preferences Control only affects first-party cookies and Web beacons sourced from www.fireeye.com.
-
   * When you transition to other sites, this privacy policy no longer applies, and the privacy policy of the other sites come into effect.
   * When browsing a site other than www.fireeye.com, FireEye recommends that you check the privacy policy local to that site to determine how it might affect you.
 
 
-
-Note: The FireEye Cookie Preferences Control setting is specific to the web browser used to adjust the setting. If you browse the www.fireeye.com site using a different web browser application, or a different device, you will need to select your preferred setting again.
 
 #### Data Storage and Security
 
@@ -333,15 +311,10 @@ _Security_
 
 #### Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](http://www.fireeye.com/company/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](mailto:privacy@fireeye.com).
 
 #### Policy Updates
 
 We may update our Policy from time to time. We will post the updated version in this section of the website. If the revision is significant and may materially change our data privacy practices , we will notify you by using other means, e.g. via email. We will also keep prior versions of this Policy in an archive for your review (see Change History).
 
-Last Updated: September 23rd, 2016
-
-[Download .pdf version](https://web.archive.org/content/dam/fireeye-www/global/en/company/pdfs/privacy-and-cookie-policy.pdf)
-
-[Change History](https://web.archive.org/content/dam/fireeye-www/global/en/company/pdfs/fireeye-privacy-and-cookie-policy-history.pdf)  
-
+Last Updated: July 12, 2017
