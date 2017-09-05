@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607075900id_/http%3A//www.piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905101401id_/http%3A//www.piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
 
 # Piktochart's Privacy Policy - Piktochart Infographics
 
