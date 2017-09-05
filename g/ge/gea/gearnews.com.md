@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearnews.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613042648id_/https%3A//www.gearnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearnews.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905040026id_/https%3A//www.gearnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gearnews.com
 
