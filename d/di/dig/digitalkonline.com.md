@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalkonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035159id_/http%3A//www.digitalkonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalkonline.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905122058id_/http%3A//www.digitalkonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital K (Kelly Ward)
 
@@ -125,4 +125,4 @@ Sherwood, WI 54169
 United States  
 info@digitalkonline.com
 
-Last Edited on 2016-12-01
+Last Edited on 12/01/2016
