@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125190245id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905194149id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
 
-# Intergi | Privacy Policies
+# Playwire Media | Privacy Policies
 
 ##  **Intergi Entertainment's Privacy Policy**
 
@@ -48,7 +48,7 @@ C. HOW INTERGI USES YOUR INFORMATION
 
 D. HOW TO ACCESS AND CHANGE YOUR PERSONAL INFORMATION
 
-Upon request, Intergi shall allow Users to update or correct Personal Information previously submitted, but only to the extent such activities will not compromise privacy or security interests. Additionally, upon request, Intergi shall delete Personal Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained. Requests to delete Personal Information shall be submitted to [_support@intergi.com_](mailto:support@intergi.com).
+Upon request, Intergi shall allow Users to update or correct Personal Information previously submitted, but only to the extent such activities will not compromise privacy or security interests. Additionally, upon request, Intergi shall delete Personal Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained. Requests to delete Personal Information shall be submitted to [_support@intergi.com_](mailto:help@ooyala.com).
 
 E. DISCLOSURE OF INFORMATION TO THIRD PARTIES
 
