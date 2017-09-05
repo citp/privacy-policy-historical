@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323201332id_/https%3A//www.project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905175215id_/https%3A//www.project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy - Project Syndicate
 
