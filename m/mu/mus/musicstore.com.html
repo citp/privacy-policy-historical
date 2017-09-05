@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musicstore.com privacy policy that was archived on 2016-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161025042144id_/https%3A//www.musicstore.de/en_GB/GBP/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicstore.com privacy policy that was archived on 2017-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170905035655id_/https%3A//www.musicstore.de/en_GB/GBP/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -65,7 +65,7 @@ preferredLocaleCheckURL : 'https://www.musicstore.de/INTERSHOP/web/WFS/MusicStor
 }
 </script>
  
-<script src="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/musicstore.min.js?lastModified=1,477,367,778,785"></script><script src="https://www.musicstore.de/INTERSHOP/web/WFS/MusicStore-MusicStoreShop-Site/en_US/ms-gb/GBP/GetExternalizedStrings-Start"></script>
+<script src="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/musicstore.min.js?lastModified=1,504,531,514,603"></script><script src="https://www.musicstore.de/INTERSHOP/web/WFS/MusicStore-MusicStoreShop-Site/en_US/ms-gb/GBP/GetExternalizedStrings-Start"></script>
 <script>
 // Picture element HTML5 shiv
 document.createElement( "picture" );
@@ -135,22 +135,22 @@ var instanceName = 'inst' + index;
 var debugMode = false;
 var showImages = true;
 var productDetailPageUrl = 'https://www.musicstore.de/en_GB/GBP/_NAME_PLACEHOLDER_/art-_SKU_PLACEHOLDER_';
-var multiPriceId = 'MSDEEUR';
+var multiPriceId = 'MSGBEUR';
 var suggest = new FactfinderSuggest();
 suggest.init(suggestUrl, formName, queryParamName, divLayerName, instanceName, debugMode, showImages, translations, multiPriceId, productDetailPageUrl);
 document.onmousedown = suggest.hideLayerOutsideCall;
 }); // each
 }) // ready
 </script><link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,600" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css"><link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/main.css?lastModified=1,477,367,778,788" media="all">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css"><link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/main.css?lastModified=1,504,531,514,610" media="all">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/ie-main.css?lastModified=1,477,367,778,788" media="all"/>
+<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/ie-main.css?lastModified=1,504,531,514,610" media="all"/>
 <![endif]-->
 <!--[if lte IE 9]>
-<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/ie9.css?lastModified=1,477,367,778,788" media="all"/>
+<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/ie9.css?lastModified=1,504,531,514,610" media="all"/>
 <![endif]-->
 <noscript>
-<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/js-disabled.css?lastModified=1,477,367,778,788" media="all"/> 
+<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/minimized/js-disabled.css?lastModified=1,504,531,514,610" media="all"/> 
 </noscript>
 <!-- HTML5 Shiv and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -191,9 +191,15 @@ ga('send', 'pageview');
 
 
 	<script type="text/javascript">
-		window.emosTrackVersion = 2;
+		// window.emosTrackVersion = 2;
+		
+		// update to econda version 3
+		window.emos3 = {
+		    stored : [],
+		    send : function(p){this.stored.push(p);}
+		};
 	</script>
-	<script type="text/javascript" src="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/js/emos2.js"></script>
+	<script type="text/javascript" src="/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US/js/emos3.js" async="async"></script>
 	<script type="text/javascript">
 		var emospro = {};
 		emospro.langid = 'en';
@@ -209,7 +215,9 @@ ga('send', 'pageview');
 		    var cookieValue = $.cookie('EcondaTrackUserRegister');
 		    emospro.register = [cookieValue.split('____')[0], cookieValue.split('____')[1]];
 			
-				window.emosPropertiesEvent(emospro);
+				//window.emosPropertiesEvent(emospro);
+				// update econda tracking 3
+				window.emos3.send(emospro);
 			
 			delete emospro.register;
 			$.cookie('EcondaTrackUserRegister', null, {path: '/', expires: -5});
@@ -218,7 +226,9 @@ ga('send', 'pageview');
 		    var cookieValue = $.cookie('EcondaTrackUserLogin');
 			emospro.login = [cookieValue.split('____')[0], cookieValue.split('____')[1]];
 			
-				window.emosPropertiesEvent(emospro);
+				//window.emosPropertiesEvent(emospro);
+				// update econda tracking 3
+				window.emos3.send(emospro);
 			
 			delete emospro.login;
 			$.cookie('EcondaTrackUserLogin', null, {path: '/', expires: -5});
@@ -228,7 +238,9 @@ ga('send', 'pageview');
 		
 			emospro.content = '/mscontent/privacypolicy';
 			
-				window.emosPropertiesEvent(emospro);
+				//window.emosPropertiesEvent(emospro);
+				// update econda tracking 3
+				window.emos3.send(emospro);
 			
 		
 	</script>
@@ -258,7 +270,7 @@ emsTracking('121869547','www.musicstore.de');
 </noscript><div id="header" class="header" role="banner"><div class="visible-from-sm">
 <div class="quicklinks-area clearfix">
 <div class="container-fluid padlr10" itemscope="" itemtype="http://schema.org/Organization">
-<ul id="departmentinfo" data-url="https://www.musicstore.de/en_GB/GBP/departmentinfo" class="col-sm-9 col-md-8 nopad"><li class="skew last">
+<ul id="departmentinfo" data-url="https://www.musicstore.de/en_GB/GBP/departmentinfo" class="col-md-8 nopad"><li class="skew last">
 <div>
 <i class="sprite sprite-ssl-header-small" title="SSL-Certificate"></i>
 </div>
@@ -268,7 +280,7 @@ emsTracking('121869547','www.musicstore.de');
 <a data-target="#contactModal_Default" data-toggle="modal" class="js-reload btn btn-ms-std margb10" href="https://www.musicstore.de/INTERSHOP/web/WFS/MusicStore-MusicStoreShop-Site/en_US/ms-gb/GBP/ViewContactForm-Start?Mode=CallMeBack">Call me back! <i class="icon icon-caret-right"></i></a><br>
 <a data-target="#contactModal_Default" data-toggle="modal" class="js-reload btn btn-ms-std" href="https://www.musicstore.de/INTERSHOP/web/WFS/MusicStore-MusicStoreShop-Site/en_US/ms-gb/GBP/ViewContactForm-Start?Mode=Default">To Contact Form <i class="icon icon-caret-right"></i></a>
 </div>
-<ul id="userAccountQuicklink" class="col-sm-3 text-right nopadlr pull-right">
+<ul id="userAccountQuicklink" class="text-right nopadlr pull-right">
 <li class="skew first">
 <div id="js-loginstatus-target">
 </div>
@@ -372,30 +384,12 @@ emsTracking('121869547','www.musicstore.de');
 </div></li> 
 <li> 
  
-<div class="skew" data-marker="KLAVIER">
+<div class="skew" data-marker="KEYS">
 <div>
 
-<a class="entry" href="https://www.musicstore.de/en_GB/GBP/Pianos/cat-KLAVIER">Pianos</a>
+<a class="entry" href="https://www.musicstore.de/en_GB/GBP/Keys/cat-KEYS">Keys</a>
 </div>
-</div><div data-marker="KLAVIER"> 
-</div></li> 
-<li> 
- 
-<div class="skew" data-marker="SYNTH">
-<div>
-
-<a class="entry" href="https://www.musicstore.de/en_GB/GBP/Synthesizers/cat-SYNTH">Synthesizers</a>
-</div>
-</div><div data-marker="SYNTH"> 
-</div></li> 
-<li> 
- 
-<div class="skew" data-marker="KEYBOARD">
-<div>
-
-<a class="entry" href="https://www.musicstore.de/en_GB/GBP/Keyboards/cat-KEYBOARD">Keyboards</a>
-</div>
-</div><div data-marker="KEYBOARD"> 
+</div><div data-marker="KEYS"> 
 </div></li> 
 <li class="empty skew"><span></span></li> 
 <li class="right"> 
@@ -571,7 +565,9 @@ delete emospro.search;
 delete emospro.view;
 emospro.content = 'Misc/Länderauswahl';
 
-window.emosPropertiesEvent(emospro);
+// window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
 
 }
 </script><div class="ms-layer-target" id="language-overlay">
@@ -579,8 +575,215 @@ window.emosPropertiesEvent(emospro);
 <input type="hidden" name="RedirectType" value="StaticPage">
 <input type="hidden" name="RedirectValue" value="">
 <input type="hidden" name="RedirectQueryString" value="PageletEntryPointID=systempage.privacyPolicy.pagelet2-Page">
-<p class="h3 nopad">Choose Region</p>
-<p>By selecting a region, the language as well as the currency of the online shop is changed.</p><div class="col-sm-4 nopad margb10">
+<p class="h3 nopad">Choose Region</p> 
+<ul class="list-unstyled row"><li>
+<i class="sprite flag flag-ms-at" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-at").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-at', 'de_DE', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-be" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-be").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-be', 'fr_FR', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-ba" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-ba").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-ba', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-bg" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-bg").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-bg', 'en_US', 'BGN')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-hr" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-hr").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-hr', 'en_US', 'HRK')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-dk" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-dk").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-dk', 'da_DK', 'DKK')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-fi" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-fi").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-fi', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-fr" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-fr").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-fr', 'fr_FR', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-de" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-de").click(function() {
+appendHiddenInputSubmitChooseRegion(this, '-', 'de_DE', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-gr" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-gr").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-gr', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-ie" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-ie").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-ie', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-it" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-it").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-it', 'it_IT', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-lv" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-lv").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-lv', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-lu" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-lu").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-lu', 'fr_FR', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-nl" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-nl").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-nl', 'nl_NL', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-no" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-no").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-no', 'en_US', 'NOK')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-pl" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-pl").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-pl', 'pl_PL', 'PLN')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-pt" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-pt").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-pt', 'pt_PT', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-ro" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-ro").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-ro', 'en_US', 'RON')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-ru" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-ru").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-ru', 'ru_RU', 'RUB')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-rs" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-rs").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-rs', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-za" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-za").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-za', 'en_US', 'ZAR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-es" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-es").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-es', 'es_ES', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-se" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-se").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-se', 'en_US', 'SEK')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-ch" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-ch").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-ch', 'de_DE', 'CHF')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-tr" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-tr").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-tr', 'en_US', 'TRY')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-us" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-us").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-us', 'en_US', '')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-ot" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-ot").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-ot', 'en_US', 'EUR')
+});
+</script>
+</li><li>
+<i class="sprite flag flag-ms-oe" style="cursor:pointer;"></i>
+<script>
+$(".flag-ms-oe").click(function() {
+appendHiddenInputSubmitChooseRegion(this, 'ms-oe', 'en_US', 'EUR')
+});
+</script>
+</li> 
+</ul>
+<div class="visible-from-sm"> 
+<p>By selecting a region, the language as well as the currency of the online shop is changed.</p></div>
+<div class="col-sm-4 nopad margb10">
 <p class="h4 nopad nomarg">Country / Region</p><div class="dropdown small w100p margt10">
 <input type="hidden" value="Great Britain" class="form-control input-lg kor-product-qty" name="region" id="SelectedApplication">
 <a href="#" data-toggle="dropdown">
@@ -614,7 +817,7 @@ window.emosPropertiesEvent(emospro);
 <span><i class="icon icon-caret-down"></i></span>
 </a>
 <ul class="dropdown-menu">
-<li title="EUR (Euro)" data-value="EUR">EUR (Euro)
+<li title="GBP (Pound Sterling)" data-value="GBP" class="selected">GBP (Pound Sterling)
 </li>
 <li class="horizontalrule">
 <hr>
@@ -626,7 +829,7 @@ window.emosPropertiesEvent(emospro);
 </li><li title="CNY (Yuan Renminbi)" data-value="CNY">CNY (Yuan Renminbi)
 </li><li title="CZK (Czech Koruna)" data-value="CZK">CZK (Czech Koruna)
 </li><li title="DKK (Danish Krone)" data-value="DKK">DKK (Danish Krone)
-</li><li title="GBP (Pound Sterling)" data-value="GBP" class="selected">GBP (Pound Sterling)
+</li><li title="EUR (Euro)" data-value="EUR">EUR (Euro)
 </li><li title="HKD (Hong Kong Dollar)" data-value="HKD">HKD (Hong Kong Dollar)
 </li><li title="HRK (Croatian Kuna)" data-value="HRK">HRK (Croatian Kuna)
 </li><li title="HUF (Hungarian Forint)" data-value="HUF">HUF (Hungarian Forint)
@@ -651,7 +854,7 @@ window.emosPropertiesEvent(emospro);
 </li></ul>
 </div>
 </div>
-<button type="submit" onclick="econdaTrackHeaderLanguage();updatePreferredLocaleCookie();" class="btn btn-ms-std btn-lg pull-right">Ok<i class="icon icon-caret-right"></i></button> 
+<button id="submitChooseRegion" type="submit" onclick="econdaTrackHeaderLanguage();updatePreferredLocaleCookie();" class="btn btn-ms-std btn-lg pull-right">Ok<i class="icon icon-caret-right"></i></button> 
 </form>
 </div><div class="ms-layer-target" id="minicartArea-overlay"></div>
 <div id="addToCartModal" class="addToCartModal modal fade">
@@ -767,7 +970,7 @@ window.emosPropertiesEvent(emospro);
 <div class="col-lg-1"></div>
 <div class="col-md-12 col-lg-12 col-xlg-10 footerlinks">
 <ul class="col-sm-9 col-md-7 col-lg-6 list-unstyled links nopadr"><li>
-<a href="http://blaetterkatalog.musicstore.de/static/index.html?catalog=en/EN_2016-02&amp;linkCurrency=EUR&amp;lang=en_OE" target="_blank" title="Interactive Catalogue  ">Interactive Catalogue  </a>
+<a href="http://blaetterkatalog.musicstore.de/static/index.html?catalog=en/BK_2017-02_EN&amp;linkCurrency=EUR&amp;lang=en_OE" target="_blank" title="Interactive Catalogue  ">Interactive Catalogue  </a>
 </li><li>
 <a href="https://www.musicstore.de/en_GB/GBP/shipping" title="Shipping Information">Shipping Information</a>
 </li><li class="stay-visible">
@@ -785,6 +988,10 @@ window.emosPropertiesEvent(emospro);
 <ul class="list-unstyled flags"><li>
 <a href="https://www.musicstore.de/de_DE/EUR" title="Germany">
 <i class="sprite flag flag-ms-de"></i>Deutschland 
+</a>
+</li><li>
+<a href="https://www.musicstore.de/en_GB/GBP" title="United Kingdom">
+<i class="sprite flag flag-ms-gb"></i>United Kingdom 
 </a>
 </li><li>
 <a href="https://www.musicstore.de/fr_BE/EUR" title="Belgium">
@@ -814,7 +1021,61 @@ window.emosPropertiesEvent(emospro);
 </div></div>
 <div class="col-lg-1"></div>
 </div>
-</div><div class="white-stripe payment hidden-xsl hiden-xsp clearfix">
+</div><div aria-hidden="false" class="modal fade" id="newsletterTeaserModal" data-threshold="5">
+<div class="modal-dialog newsletter-teaser-modal">
+<div class="modal-header">
+<span class="close overlay-close btn btn-ms-std btn-lg" data-dismiss="modal" title="Close"><i class="icon icon-close"></i></span>
+<span class="h2 modal-title">+++NEWSLETTER+++</span>
+</div>
+<div class="modal-content">
+<div class="row" id="errorMsg" hidden="">Your newsletter subscription was not successfull. Ensure that you entered a valid email address or try again later.</div>
+<div class="content"><p class="text">Never miss a deal, always be up to date - <br>The most important events and product news<br>with the MUSIC STORE Newsletters!</p></div> 
+<div class="row" id="formRow"><form name="NewsletterForm" class="js-ajax-overlay-form-submit-and-stay" id="NewsletterForm" action="https://www.musicstore.de/INTERSHOP/web/WFS/MusicStore-MusicStoreShop-Site/en_US/ms-gb/GBP/ViewNewsletter-SubscribeNewsletter" method="post" data-id="newsletter-form"><input type="hidden" name="URL" id="URL" value="http://login.emarsys.net/u/register_bg.php">
+<input type="hidden" name="owner_id" id="owner_id" value="121869547">
+<input type="hidden" name="key_id" id="key_id" value="3">
+<input type="hidden" name="f" id="f" value="2038">
+<input type="hidden" name="p" id="p" value="2">
+<input type="hidden" name="a" id="a" value="r"><input type="hidden" name="inp_10279" id="inp_10279" value="2"><div class="col-sm-12 nopad newsletter-content-container">
+<input type="hidden" name="isFromTeaser" value="true">
+<input class="form-control input-lg col-xsp-12" data-id="email" type="text" name="inp_3" id="inp_3" maxlength="255" value="" placeholder="Email address and current news...">
+<button class="btn btn-ms-std btn-lg col-xsp-12" data-id="butt-submit" type="submit" name="submit">Subscribe to newsletters<i class="icon icon-caret-right"></i></button>
+</div>
+</form></div>
+</div>
+</div>
+</div><script type="text/javascript">
+function trackEcondaNewsletterTeaserSuccess() {
+var emospro = {};
+emospro.marker = 'Newsletteraboteaser_success';
+
+//window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
+ 
+}
+function trackEcondaNewsletterTeaserCancel() {
+var success = $('#newsletterTeaserModal').attr('data-success');
+if(success != 'true')
+{
+var emospro = {};
+emospro.marker = 'Newsletteraboteaser_cancel';
+
+//window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
+
+}
+}
+function trackEcondaNewsletterTeaserError() {
+var emospro = {};
+emospro.marker = 'Newsletteraboteaser_error';
+
+//window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
+ 
+}
+</script><div class="white-stripe payment clearfix">
 <div class="container-fluid">
 <div class="col-xlg-1"></div>
 <ul class="list-unstyled col-md-12 col-xlg-10"><li title="UPS"><i class="sprite sprite-ups">
@@ -827,13 +1088,13 @@ window.emosPropertiesEvent(emospro);
 </i></li><li title="PayPal"><i class="sprite sprite-paypal">
 </i></li><li title="Amazon Payments"><i class="sprite sprite-amazonpayment">
 </i></li><li title="Nachnahme"><i class="sprite sprite-nachnahme">
-</i><span>Nachnahme</span></li><li title="Vorkasse"><i class="sprite sprite-vorkasse">
-</i><span>Vorkasse</span></li></ul>
+</i></li><li title="Vorkasse"><i class="sprite sprite-vorkasse">
+</i></li></ul>
 <div class="col-xlg-1"></div>
 </div>
 </div><div class="startext-box container-fluid margb10">
 <div class="col-md-10 col-lg-6 col-sm-10 padlr10">
-<p class="smaller grey">* RRP = Recommended Retail Price by Manufacturer<br><br>
+<p class="smaller grey">* RRP = Recommended Retail Price by Manufacturer for Germany<br><br>
 <span class="financinghint" style="display:none;">** Financing with a maximum duration of 72 months; purchase price equal to the net amount of loan; fixed interest rate (annual) 9,47 %; eff. annual interest rate 9,90 %. These statements are also the representitive example in the sense of § 6a PangV. Vermittlung erfolgt exclusivley for Commerz Finanz GmbH, Schwanthalerstr. 31, 80336 München.</span>
 </p>
 </div>
@@ -873,7 +1134,9 @@ $(document).on('click', '#news-overlay a', function() {
 var emospro = window.emospro || {};
 emospro.marker = 'BlogFooterKlick';
 
-window.emosPropertiesEvent(emospro);
+// window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
  
 });
 </script><nav class="footer-box navbar navbar-default navbar-fixed-bottom"><a id="feedbackbox" data-toggle="modal" class="js-reload noprint" data-target="#feedbackModal" href="https://www.musicstore.de/INTERSHOP/web/WFS/MusicStore-MusicStoreShop-Site/en_US/ms-gb/GBP/ViewFeedbackForm-Start">
@@ -899,7 +1162,7 @@ window.emosPropertiesEvent(emospro);
 </div>
 <div class="row footer-impress" itemscope="" itemtype="http://schema.org/Organization">
 <div class="col-sm-12 container-fluid padlr10">
-<span class="js-copyright-footer-box hidden-xsl hidden-xsl"><span>© 1996 -2016&nbsp;<span itemprop="name" style="float:none;">MUSIC STORE professional GmbH</span>. All Rights Reserved.</span>
+<span class="js-copyright-footer-box hidden-xsl hidden-xsl"><span>© 1996 -2017&nbsp;<span itemprop="name" style="float:none;">MUSIC STORE professional GmbH</span>. All Rights Reserved.</span>
 <span id="viewportplaceholder"></span>
 </span>
 <ul class="col-xsp-pull-12"><li>
@@ -923,7 +1186,9 @@ if (provider == 'Facebook' || provider == 'GooglePlus' || provider == 'YouTube' 
 var emospro = window.emospro || {};
 emospro.marker = 'SocialLink/' + provider;
 
-window.emosPropertiesEvent(emospro);
+//window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
  
 }
 }
@@ -1043,7 +1308,9 @@ if (marker != null) {
 var emospro = window.emospro || {};
 emospro.marker = marker;
 
-window.emosPropertiesEvent(emospro);
+//window.emosPropertiesEvent(emospro);
+// update econda tracking 3
+window.emos3.send(emospro);
 
 }
 }
@@ -1056,7 +1323,7 @@ videoheadline : 'Video about this product',
 pleasechoose : 'Please choose',
 webRoot : '/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/ms-gb/-/en_US',
 google_conversion_id : '1066521386',
-currencySymbol : '€',
+currencySymbol : '£',
 decimalSeparator: '.',
 appCountry: 'GB', 
 quantityValidationError1:'The order quantity is not allowed. Please enter the product quantity in % increments.',
@@ -1081,7 +1348,7 @@ or placed on pages related to sensitive categories. For more information on this
 <script type="text/javascript">
 // Get already created parameter object or create a new one
 var google_tag_params = window.google_tag_params || {};
-google_tag_params.website = 'musicstore.de/en_US/EUR/';
+google_tag_params.website = 'musicstore.de/en_US/GBP/';
 google_tag_params.country = 'GB';
 </script><script type="text/javascript">
 var google_conversion_id = '1039473152';
