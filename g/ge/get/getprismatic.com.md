@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getprismatic.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511164014id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprismatic.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905154833id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
 # Privacy Policy | Hover.com
 
