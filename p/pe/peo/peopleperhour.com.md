@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305092454id_/http%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905060912id_/https%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - People Per Hour (PPH) - PeoplePerHour.com
 
