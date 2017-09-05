@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201150343id_/https%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905205003id_/https%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -119,7 +119,7 @@ In the event Briefing.com goes through a business transition, such as a merger, 
 
 Choice/Opt-out
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by managing their e-mail preferences within their service under Account Settings. Alternatively, all emails have a "remove me" link at the very bottom of the email which will automatically remove the email address associated with that particular email offering. OR the user may contact us at 800-752-3013 or 312-670-4463; [service@briefing.com](mailto:service@briefing.com) or by writing to us at: 401 N Michigan Avenue Suite 2950 Chicago, IL 60611 to opt-out.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by managing their e-mail preferences within their service under Account Settings. Alternatively, all emails have a "remove me" link at the very bottom of the email which will automatically remove the email address associated with that particular email offering. OR the user may contact us at 800-752-3013 or 312-670-4463; [service@briefing.com](mailto:service@briefing.com) or by writing to us at: 401 N. Michigan Avenue, Suite 1910, Chicago, IL 60611 to opt-out.
 
 **Do Not Track Requests**
 
@@ -172,5 +172,5 @@ If users have any questions or suggestions regarding our privacy statement, plea
 Phone: 800-752-3013 or 312-670-4463  
 Fax: 312-670-5021  
 E-mail: [service@briefing.com](mailto:service@briefing.com)  
-Postal Address: 401 N. Michigan Avenue, Suite 2950, Chicago, IL 60611  
+Postal Address: 401 N. Michigan Avenue, Suite 1910, Chicago, IL 60611  
 Web Site URL: [www.briefing.com](http://www.briefing.com/)
