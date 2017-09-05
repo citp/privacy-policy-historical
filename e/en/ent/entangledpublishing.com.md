@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entangledpublishing.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325235917id_/https%3A//entangledpublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entangledpublishing.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905071314id_/https%3A//entangledpublishing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,3 +47,13 @@ To opt-out of any future promotions from us, you can unsubscribe using the link 
 **Contact us**
 
 If you have any questions about this Privacy Policy, you may contact us by email at [support@entangledpublishing.com](mailto:support@entangledpublishing.com).
+
+Other ways to contact us:
+
+PHONE: 877-677-9451 Mon –Fri: 8am – 5pm PST
+
+MAIL: Entangled Publishing LLC, 2614 S Timberline Rd Ste 105, Fort Collins CO 80525
+
+Please provide the email address associated with your Program account when contacting Customer Service.
+
+#### RECOMMENDED BOOKS FOR YOU
