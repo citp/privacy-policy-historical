@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasciencecentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104242id_/http%3A//www.datasciencecentral.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.datasciencecentral.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasciencecentral.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905085209id_/http%3A//www.datasciencecentral.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.datasciencecentral.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Data Science Central
 
