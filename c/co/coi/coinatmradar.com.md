@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinatmradar.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129115504id_/https%3A//coinatmradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinatmradar.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905133553id_/https%3A//coinatmradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CoinATMRadar
 
