@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modmyi.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607203049id_/http%3A//modmyi.com/forums/site-suggestions-feedback/823245-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modmyi.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905163848id_/http%3A//modmyi.com/forums/site-suggestions-feedback/823245-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
