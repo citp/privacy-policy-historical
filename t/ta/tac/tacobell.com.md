@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427183248id_/https%3A//www.tacobell.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906000641id_/https%3A//www.tacobell.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Taco Bell
 
-Our Policy describes how we treat personal information on the websites where it is located. This includes [tacobellforteens.org](http://www.tacobellforteens.org/), [feedthebeat.com](http://www.feedthebeat.com/) and [feedthebeta.com. ](http://www.feedthebeta.com./)This includes mobile versions of our websites. It also applies to our mobile and social media apps.
+Our Policy describes how we treat personal information on the websites where it is located. This includes [tacobellfoundation.org](https://www.tacobell.com/foundation), [feedthebeat.com](http://www.feedthebeat.com/) and [feedthebeta.com. ](http://www.feedthebeta.com./)This includes mobile versions of our websites. It also applies to our mobile and social media apps.
 
 This policy does not apply to the websites and practices of Yum! Brands, Inc. or other members of Yum! Brands like Pizza Hut or KFC. It also does not apply to the practices of Yum Brands subsidiaries or other affiliates. This policy also does not describe the activities of any Taco Bell franchisees.
 
@@ -81,7 +81,7 @@ We may use contact information to get permission from parents for children who w
 
 #### We may share information within the Yum! Brand family of companies
 
-This includes KFC, Pizza Hut, WingStreet, and Yum Restaurants International. This also includes future subsidiaries or affiliates. For a full list visit [yum.com/brands](http://www.yum.com/brands).
+This includes KFC, Pizza Hut, WingStreet, and Yum Restaurants International. This also includes future subsidiaries or affiliates. For a full list visit [yum.com](http://www.yum.com/).
 
 #### We may share information with third parties who perform services on our behalf
 
@@ -112,7 +112,7 @@ To stop receiving our promotional emails, email us at unsubscribe@tacobell.com o
 
 #### You can control if we share information with third parties for their marketing purposes
 
-To opt out of having us share your information with third parties for their promotional purposes, click here[](http://www.tacobell.com/legal-notices/about-our-ads). Your opt-out will be effective until you revoke it. Your opt-out will only affect the future sharing of information and will not be retroactive.
+To opt out of having us share your information with third parties for their promotional purposes, click [here](http://www.tacobell.com/legal-notices/about-our-ads). Your opt-out will be effective until you revoke it. Your opt-out will only affect the future sharing of information and will not be retroactive.
 
 #### You can control certain cookies and tracking tools
 
@@ -161,6 +161,6 @@ Phone: (949) 863-4000
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2016 Taco Bell Corp. All rights reserved.
+© 2017 Taco Bell Corp. All rights reserved.
 
-Effective as of 7/11/2006, last updated September 23, 2016
+Effective as of 7/11/2006, last updated July 10, 2017
