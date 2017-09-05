@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the5th.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184941id_/https%3A//www.the5th.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the5th.co privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905061645id_/https%3A//www.the5th.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The 5TH
 
