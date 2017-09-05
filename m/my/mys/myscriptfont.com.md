@@ -1,38 +1,29 @@
-> *The following text is extracted and transformed from the myscriptfont.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625192023id_/http%3A//www.myscriptfont.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscriptfont.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905151656id_/https%3A//www.calligraphr.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy - Myscriptfont.com
+# Calligraphr - Privacy Policy
 
-## PRIVACY POLICY
+## Privacy Policy
 
-### Personal Data Collected by us
+Calligraphr.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Calligraphr.com's purpose in collecting non-personally-identifying information is to better understand how Calligraphr.com's visitors use its website.
 
-In general, we collect only your IP address along with the dates and times of access, as this not avoidable due to the technical workings of a webserver. We do not link this information to any personally identifiable information. 
+### Gathering of Personally-Identifying Information
 
-If you send us a donation through PayPal, we will get your personal data about your PayPal account but we do not store it.   
-If you send us a letter via our contact form, we do not store your name and email address.   
-We use the email address only to communicate with you. We will never share or resell your email address. 
+Certain visitors to Calligraphr.com's websites choose to interact with Calligraphr.com in ways that require Calligraphr.com to gather personally-identifying information. The amount and type of information that Calligraphr.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up to provide an email address. Those who engage in transactions with Calligraphr.com by purchasing an upgrade are asked to provide additional information, including financial information required to process those transactions. However, Calligraphr.com does not store any such information. 
 
-### Storage of User Files and generated Data
+### Cookies
 
-All submitted files or inputs as well as the converted output are deleted automatically after half an hour. No backups are made and only employees of t-reinhardt.ch are able to access your files. We keep the files for the sole purpose for giving you enough time to download them. We do not look at the files or mine any data from them. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Calligraphr.com uses cookies to authenticate users and help Calligraphr.com identify and track visitors, their usage of Calligraphr.com's website, and their website access preferences. 
 
-### How we use Cookies
+####  Google Analytics 
 
-We use cookies solely for functional purposes, without storing any user information. For example, we store information like selected input options to increase the usability of our site. We do not use cookies to track you. 
+Calligraphr uses a Google Universal Analytics cookie for users logged-in to the Applications or the Platforms. Google Analytics cookies do not provide Calligraphr with any Personal Information. Also we do not send personally-identifying information information to Google Analytics. Learn more about [Google Analytics security and privacy principles](https://support.google.com/analytics/answer/6004245) and how you can opt out by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-However, Google Analytics, Google DoubleClick, and Google Adsense, which we are using on this site, do use cookies on our site to help analyse the web traffic or determine targeted advertisements based on your preferences, your visit on our sites and other sites on the internet. To opt out of Google’s use of cookies, please visit the Google ad and content network privacy policy. If you prefer not to use cookies at all, we recommend adjusting your browser settings accordingly. 
+### Business Transfers
 
-## TERMS OF SERVICE
+If Calligraphr.com, or substantially all of its assets, were acquired, or in the unlikely event that Calligraphr.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Calligraphr.com may continue to use your personal information as set forth in this policy. 
 
-### Responsiblities for any Damages or Troubles
+### Privacy Policy Changes
 
-We are working hard to ensure that the services we offer are free of errors but we cannot guarantee that. As a user of this service you agree that t-reinhardt.ch will not be held responsible for any failure or error. 
+Although most changes are likely to be minor, Calligraphr.com may change its Privacy Policy from time to time, and at Calligraphr.com's sole discretion.
 
-### Copyright Issues
-
-Do not use our services and intellectual property for any form of infringement. 
-
-## DATE OF MODIFICATION
-
-2015-06-21  
-Changes to this terms and conditions will be indicated by a change of this page date of modification. 
+Last update: 19.3.2017
