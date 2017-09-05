@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chichiclothing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083302id_/http%3A//www.chichiclothing.com/pages/Privacy-Notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chichiclothing.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905154702id_/http%3A//www.chichiclothing.com/pages/Privacy-Notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
