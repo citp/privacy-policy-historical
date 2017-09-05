@@ -1,69 +1,134 @@
-> *The following text is extracted and transformed from the amateurporn.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826181511id_/http%3A//www.amateurporn.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurporn.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905043321id_/https%3A//www.amateurporn.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Amateur Porn - Privacy Policy
+# Privacy Policy | AmateurPorn.com
 
-## Amateur Porn Privacy Policy
+## Privacy Policy
 
-We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our web site. 
+**AmateurPorn.com Privacy Policy  **
 
-If this policy is not agreeable to you, please do not use this site.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-###  WHAT TYPE INFORMATION IS COLLECTED?
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-####  Personal Information
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address, credit card information, IP address or other details to help you with your experience.
 
-We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother’s maiden name). 
+ **When do we collect information?**
 
-####  Non-Personal Information
+We collect information from you when you register on our site, place an order or enter information on our site.
 
-When visitors access our web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., FireFox or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g. google.com). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the web site, the areas or pages of our web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our web site. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives. 
+ **How do we use your information?**
 
-###  IN WHAT WAY DO WE USE YOUR PERSONAL AND NON-PERSONAL INFORMATION?
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Our goal in collecting personal information is to provide visitors with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information collected from visitors to our web site for any of the following purposes: (1) to send visitors information and promotional materials about our company, (2) to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our web site), (3) to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors), (4) to contact visitors to our web site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, and credit or charge card information (among other things), as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our web site, (8) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (9) to help us better understand visitors' use of our site, and (10) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors. 
+• To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.   
+• To allow us to better service you in responding to your customer service requests.   
+• To quickly process your transactions.   
+• To send periodic emails regarding your order or other products and services.
 
-###  DO WE DISCLOSE YOUR INFORMATION?
+ **How do we protect visitor information?**
 
-As a rule, we do not share or otherwise distribute our Subscribers' personal information, including email addresses (i.e. we do not share, sell, or distribute our email lists to third parties).  We may transfer or disclose information collected from visitors to our web site to our employees and independent contractors, to our parent company, subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us, or if required to do so by law.
+We do not use vulnerability scanning and/or scanning to PCI standards. We use regular Malware Scanning.
 
-###  WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient. 
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-###  WE PROTECT CHILDREN'S PRIVACY
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site. 
+ **Do we use 'cookies'?**
 
-### CORPORATE CHANGES
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our web site. 
+We use cookies to:   
+• Help remember and process the items in the shopping cart.   
+• Understand and save user's preferences for future visits.
 
-###  ACCEPTANCE OF PRIVACY TERMS & CONDITIONS
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-By visiting this web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies. 
+If users disable cookies in their browser:
 
-###  CHANGES TO THIS PRIVACY POLICY
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
 
-There may be times when we need to change the terms of this Privacy Policy. To ensure that you are aware of our current privacy practices, please bookmark this page and check back often. 
+However, you can still place orders recently viewed,voting,likes, staying logged in .
 
-### HOW TO CANCEL YOUR SUBSCRIPTION
+ **Third Party Disclosure**
 
-You can cancel your subscription online by visiting the Customer Service section of the site you joined.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-###  HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Visitors who wish to access or change the information they provided to our web site, should visit the Customer Service section of this site and contact us via Email. 
+ **Third party links**
 
-###  HOW CAN YOU CONTACT THE WEB SITE OPERATOR?
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
+ **California Online Privacy Protection Act**
 
-### HOW CAN YOU OPT OUT OF PROMOTIONAL EMAILS?
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.   
+\- See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
-At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [ /optout.php](https://web.archive.org/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
+According to CalOPPA we agree to the following:   
+Users can visit our site anonymously Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
 
-© Copyright 2005, 2006 Amateur Porn, All Rights Reserved.
+Users will be notified of any privacy policy changes:   
+• On our Privacy Policy Page Users are able to change their personal information:   
+• By emailing us   
+• By logging in to their account
 
-Toll Free 24 Hour Support Line: **1-866-449-9191**  
-International 24 Hour Support Line: **+1-312-264-4170**  
-UK 24 Hour Support Line: **+44 20 8002 9067**
+ **How does our site handle do not track signals?**  
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+ **Does our site allow third party behavioral tracking?**  
+It's also important to note that we do not allow third party behavioral tracking 
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:   
+• Other within 14 days We will notify the users via in site notification  
+• Other within 14 days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:   
+• Send information, respond to inquiries, and/or other requests or questions.   
+• Process orders and to send information and updates pertaining to orders   
+• We may also send you additional information related to your product and/or service.   
+• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+To be in accordance with CANSPAM we agree to the following:   
+• NOT use false, or misleading subjects or email addresses   
+• Identify the message as an advertisement in some reasonable way   
+• Include the physical address of our business or site headquarters   
+• Monitor third party email marketing services for compliance, if one is used.   
+• Honor opt-out/unsubscribe requests quickly   
+• Allow users to unsubscribe by using the link at the bottom of each email
+
+If at any time you would like to unsubscribe from receiving future emails, you can   
+• Follow the instructions at the bottom of each email. and we will promptly remove you from ALL correspondence.
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+AmateurPorn.com 
+
+8581 Santa Monica Blvd
+
+West Hollywood, CA
+
+90069 
+
+unsubscribe@amateurporn.com 
+
+323887170
