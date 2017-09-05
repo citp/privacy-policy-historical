@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringatrailer.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619013853id_/http%3A//bringatrailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringatrailer.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906012007id_/https%3A//bringatrailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bring a Trailer
 
