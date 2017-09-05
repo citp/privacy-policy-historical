@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highstermobile.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506185526id_/http%3A//highstermobile.com/avada/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highstermobile.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905140656id_/https%3A//highstermobile.com/avada/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Highster Mobile
 
