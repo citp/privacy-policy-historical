@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621104115id_/https%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906011446id_/https%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlienVault
 
