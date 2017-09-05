@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitalatk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212046id_/http%3A//www.orbitalatk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitalatk.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905091549id_/https%3A//www.orbitalatk.com/privacy-policy) for the most accurate reproduction.*
 
 # Space Launch Vehicles
 
