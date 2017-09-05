@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetest.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507051658id_/http%3A//www.lovetest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetest.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905162306id_/https%3A//www.lovetest.com/privacy.html) for the most accurate reproduction.*
 
 # Free Love Test - Privacy Statement
 
