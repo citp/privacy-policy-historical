@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323220127id_/https%3A//www.camdenliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905122929id_/https%3A//www.camdenliving.com/privacy-policy) for the most accurate reproduction.*
 
 # | CamdenLiving.com
 
