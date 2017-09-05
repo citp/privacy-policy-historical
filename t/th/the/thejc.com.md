@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171148id_/https%3A//www.thejc.com/privacy-policy-1.148530) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejc.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905081750id_/https%3A//www.thejc.com/privacy-policy-1.148530) for the most accurate reproduction.*
 
 # Privacy Policy - The Jewish Chronicle
 
