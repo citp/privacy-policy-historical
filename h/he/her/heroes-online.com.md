@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroes-online.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612071409id_/https%3A//legal.ubi.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroes-online.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905024002id_/https%3A//legal.ubi.com/privacypolicy) for the most accurate reproduction.*
 
 # UBISOFT PRIVACY POLICY
 
