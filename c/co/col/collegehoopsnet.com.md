@@ -1,31 +1,117 @@
-> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324015321id_/http%3A//www.collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905154833id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
-# Collegehoopsnet.com - Privacy Policy
+# Privacy Policy | Hover.com
 
-COLLEGEHOOPSNET.COM (CHN) PRIVACY POLICY
+## Our Privacy and Data Collection Practices
 
-CHN is committed to protecting your privacy. CHN collects no personal information about who visits our site. CHN uses a traffic service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site's visitors. 
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-Demographic data: 
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-We can see hostnames of our visitors through out 3rd party statistics provider (Webalizer). In other words, if you are in New York and you use earthlink, we may see that this person visited our site: 833.235.new-york.earthlink.net - but in no way does that tell us who you are. Other information we may see includes what we stated above \- screen resolution, browser type, domains, countries, etc., but we repeat - in no way does this identify any sort of personal information about you. We do not know who you are unless you tell us. 
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-Will CHN disclose the information it collects? 
+## Account Information
 
-CHN may eventually disclose the aforementioned GENERAL information about visitors (how many visitors, what countries are they from, etc)- information that does NOT identify who you are. We may disclose answers to questions such aa style= height= color=Arials: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. 
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-About Our Advertisers and Affiliates: 
+Account data includes:
 
-CHN works with third parties that serves ads to this site, these include BurstMedia and FastClick.. To find out more about how BurstMedia  and FastClick manages the privacy of information in conjunction with serving ads on this site, please go to burstmedia.com and fastclick.com.
+  
 
-CHN also works with TeamFanShop to provide affiliate sales.  Please visit TeamFanShop.com to view their privacy information.  CHN is not responsible for the privacy policies of it's affiliates or advertising partners.
 
-Your consent: 
+• the name of the account holder;
 
-By using our Web site, you consent to the collection and use of this information by Collegehoopsnet.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. But, now and forever we put your privacy first before any other concerns. We will never sell lists of email addresses from this site. We respect the privacy of our visitors.
+• the mailing address of the account holder;
 
-Questions
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
 
-Should you have other questions or concerns about these privacy policies, please send us an email at collegehoopsnet@aol.com
+• a credit card number, expiry and verification code;
+
+Registration contact data includes:
+
+  
+
+
+• the name of the owner and administrative contact(s)
+
+• the address of the owner and administrative contact(s)
+
+• the phone number of the owner and administrative contact(s)
+
+• the email address for the owner and administrative contact(s)
+
+## Our use of your account data
+
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+
+We share this data programmatically with Mailchimp and Mandrill for the purpose of sending your notifications and updates about our services and Braintree, for the purpose of billing your credit card.
+
+Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry normal first six and last four digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
+
+Hover shares your name, email address and demographic information with Mailchimp and Mandrill for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Braintree, nor Mailchimp or Mandrill may ever use your data for their own purposes without our explicit consent or notice to us.
+
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+
+Hover does not share your account data with any other parties for any other reasons.
+
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## WHOIS
+
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+
+## Domain Search Information
+
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+
+We never sell the search information you provide to us.
+
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Hotjar.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
