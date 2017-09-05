@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415145403id_/http%3A//www.digikey.com/en/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905093104id_/https%3A//www.digikey.com/en/help/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey Electronics
 
