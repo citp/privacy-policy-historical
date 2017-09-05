@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverdoctors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083429id_/http%3A//www.silverdoctors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverdoctors.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905040300id_/http%3A//www.silverdoctors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Silver Doctors
 
@@ -100,10 +100,11 @@ If you have any questions about this Privacy Policy, the practices of this site,
   7. **Weekly Giveaway**
 
 
-  * Participate must enter real email address to be registered for drawing.
-  * Weekly winner will be emailed from a Doc Investments LLC staff member. The selected winner must reply to this email within 48 hours or Doc Investments LLC will draw for a new weekly winner.
+  * Weekly winner will be notified by email on a weekly basis. It is the winner’s responsibility to reply to this correspondence to let us know where to ship the giveaway prize. The winner has 3 business days from this notification email to respond to us as to where to ship the giveaway prize. Failure to reply within 3 business days can results in losing the giveaway prize.
   * By participating, you are agreeing that Doc Investments LLC can post your first name, last initial and shipping state on their various digital assets (website, email, etc).
-  * By participating, you are giving SilverDoctors.com (Doc Investments LLC) the right to send you various marketing emails. You are allowed to “opt-out” of these emails at anytime. However, doing so will remove you from the email database and remove you from the chance to win any giveaway prizes.
+  * By participating, you are giving SilverDoctors.com (Doc Investments LLC) the right to send you various marketing emails. You are allowed to “opt-out” of these emails at anytime.
   * Must be 18 years or older to participate.
+  * No purchase necessary to register for giveaway.
+  * Open to US Residents only (due to international shipping costs and laws).
 
 
