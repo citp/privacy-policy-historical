@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-ken.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519094602id_/https%3A//the-ken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-ken.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906013433id_/https%3A//the-ken.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Ken
 
