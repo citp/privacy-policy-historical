@@ -1,73 +1,115 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215042642id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906014404id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
-Oh wow, you're actually reading this? Wait a sec, let me turn on stuffy lawyer mode. Here goes:
+Last Revised April 26, 2017
 
-Revised February 7, 2014
+This Privacy Policy (" **Policy** ") explains how Our Film Festival, Inc. d/b/a Fandor (" **Fandor** ", " **we** ") collects, uses, and shares information from or about you when you use the Fandor Services. The term " **Fandor Services** " refers to, collectively, our video service, including the selection of films and other audio-visual content, as well as the written and visual content we offer (collectively, the " **Content** ") and our player for viewing the Content (the " **Video Player** "), as well as any other products, features, tools, materials, or other services offered from time to time by Fandor through www.fandor.com website (the " **Fandor Site** "), applications, and other places through which the Fandor Services may be accessed, including websites and applications of Fandor's third-party distribution partners and other websites where users or website operators are permitted to embed the Video Player or the Content.
 
-This Privacy Policy ("Policy") explains how Our Film Festival, Inc. ("Fandor") collects, uses, and discloses personal information in connection with Fandor's social movie streaming service, including our software and streaming applications, our social discovery and sharing tools, and our collection of content, accessed via the Fandor site located at www.fandor.com, via Fandor applications on devices such as iPad or Roku, or via third-party sites such as Facebook (collectively, the "Service"). We provide this information so you can make an informed decision about using the Service and the audiovisual materials made available via the Service.
+We provide this information so you can make an informed decision about viewing the Content and using the Fandor Services. By viewing any Content or otherwise using the Fandor Services, whether you are a subscriber, or a visitor who has not subscribed to the Fandor Services, you consent to the collection and use of information from or about you as explained in this Policy.
 
-We reserve the right to change this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
+**INFORMATION WE COLLECT**
 
-## What Is Personal Information?
+_Personally Identifiable Information._ Certain information that we collect can be used to specifically identify you as an individual. We only collect personally identifiable information when you provide it to us. For example, when you register to use the Fandor Services, you give us your full name and email address. To enable your use of certain features of the Fandor Services, we may also collect your birth date, gender, and other information. If you are a paying subscriber, we also collect your billing and credit card information, which includes your billing address. In addition, from time to time, we may collect information that you provide by participating in surveys, promotional offers, or other similar activities.
 
-"Personal information" means information that specifically identifies an individual (such as a name, address, telephone number, or e-mail address) or information about that individual that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, such as data about the use of the Service or about a group or category of users where individual identities are removed. This Policy does not restrict our collection and use of aggregate information.
+_Account Data Received from Third-Party Services._ When you register on the Fandor Site or otherwise connect to the Fandor Services through a third-party service (e.g. Facebook), we may collect your user ID and user name associated with that service, your email address, as well as any information you make public using that service. We may also collect information you have authorized the service to share with us.
 
-## What Personal Information Do We Collect?
+_Device, Usage and Log Data._ When you use the Fandor Services or view Fandor advertising outside of the Fandor Services, we may also collect certain data that does not tell us specifically who you are. It includes things like your Internet Protocol (IP) address, device, browser and software characteristics (such as type and operating system), location, activity on the Fandor Services including title selections and watch history, page views, ad data, referral URLs, network state, device identifiers or other unique identifiers such as advertising identifiers (e.g., "ad-ID" or "IDFA"), and carrier information.
 
-Active Collection. We collect certain information you voluntarily provide to us, such as when you create an account or profile, send us an email, order services, pay for services, provide or request information, or post reviews, comments, or other content on the Service. The information we collect may include personal information, such as your name, user name, social network information, credit or debit card information, and demographic information. From time-to-time, we may collect personal information that you provide by participating in surveys, promotional offers, or other similar activities.
+_Data Collected Through Cookies, Beacons and Other Similar Technologies_
 
-Passive Collection. When you use the Service, some information may also be automatically collected, such as your Internet Protocol (IP) address, your operating system, browser type, the address of a referring Web site, and your activity on the Service. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+We also collect non-personal information using various technologies, including the following:
 
-We may also automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files stored on your hard drive at the request of a Web site. Web beacons are small, invisible graphic images that may be used on the site or in emails relating to the Service to collect certain information and monitor user activity. We use these tools to help us improve the Service and your experience. If we link cookies or beacon data to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, choosing to remove or reject cookies could affect or disable certain features of the Service.
-
-Fandor uses anonymized internet-based audience data from Google's DoubleClick cookie to gauge the demographics of visitors in order to improve recommendations and features. Google users may opt-out of this program by updating the ad settings for their account. Fandor does not store personally-identifiable information in this way, nor does it provide this data to any third party.
-
-You may encounter ads served by third parties in your use of the Service. These third parties may use cookies, web beacons, or other means to collect non-personal information, and may use information collected to, among other things, analyze data, determine the popularity of certain content, deliver advertising targeted to your interests, and better understand the usage and visitation of the Service and the other Web sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or web beacons located in third-party ads. We encourage you to check the privacy policies of advertisers or ad services to learn about their use of cookies and other technology.
-
-## How Do We Use The Personal Information We Collect?
-
-We use personal information collected through the Service for the purposes described in this Policy or elsewhere within the Service. For example, we may use personal information we collect:
-
-  * to provide the Service or information you request, and to process and complete any related transactions
-  * to request feedback from you or contact you about your use of the Service
-  * to respond to your emails, submissions, questions, comments, requests, complaints, or otherwise provide customer service;
-  * to monitor and analyze Service usage and trends, to personalize and improve the Service and your experiences with it, such as content or features that match your profile or interests, and to increase the Service's functionality and ease of use
-  * to provide you with news and information about events, activities, offers, promotions, products, and services that may be of interest to you
-  * to send you confirmations, updates, security alerts, and support and administrative messages, and otherwise facilitate your use and enjoyment of the Service
-  * to notify you about important changes to the Service
+  * _Cookies and Local Storage_. We may place a "cookie" on your computer, and we may automatically collect certain information through the use of "cookies". A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website's computers and stored on your computer's hard drive. We may use cookies to better understand how you interact with the Fandor Services, to gather usage data and web traffic routing on the Fandor Services, and to customize Content and advertising. These uses will help us generally improve the quality of the Fandor Services. We may collect information through other kinds of local storage and HTML5 local storage, including in connection with features such as volume/mute settings for the Video Player. If you would rather not use cookies or local storage, most browsers give you the option to turn them off, or require your approval before using them to keep information. However, if you choose not to keep information in cookies or local storage, certain features on the Fandor Services may not work as intended.
+  * _Web Beacons or Pixels_. In addition to cookies, we may use other technologies such as web beacons or pixel tags. These are small, invisible graphic images that may be used on the Fandor Site or in emails relating to the Fandor Services to collect certain information and monitor user activity.
+  * _Mobile Device Identifiers and Software Development Kits ("SDKs")._ We may use or work with third parties who use mobile SDKs to collect information, such as mobile identifiers (e.g., "ad-ID" or "IDFA") and information related to how mobile devices interact with the Fandor Services. An SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected and related services and functionality to be implemented. A mobile SDK is in effect the mobile app version of a pixel tag or beacon. We may use this technology, for instance, to analyze how you interact with the Content and advertisements and to enable analytics or other features through mobile devices.
 
 
 
-We may store and process personal information in the United States and other countries. By using the service, you consent to the transfer, processing, and use of your personal information in the United States.
+**OUR USE OF INFORMATION WE COLLECT**
 
-## What Personal Information Do We Share With Third Parties?
+We or our service providers may use the information collected from or about you for the purposes of providing and improving the Fandor Services. Our use of this information may include the following:
 
-We will not share your personal information with others except as described in this Policy or within the Service and in limited circumstances where we believe such sharing is reasonably necessary to offer the Service, legally required, or permitted by you. For example, we may use third parties to facilitate our business to host the Service at a co-location or cloud-based server facility, to authenticate and secure your account, to send out email updates about the Service, to process payments for the Service, or to provide links to related content. In connection with these business operations we may provide certain personal information to such service providers for limited time and purpose.
+  * administering the Fandor Services and your account with us;
+  * enabling users to use the Fandor Services and their features;
+  * responding to your requests, questions, and concerns;
+  * contacting you, including for promotional purposes;
+  * customizing the Fandor Services and advertising you view and evaluating how well the Content and advertising perform;
+  * tailoring ads displayed to you in the Fandor Services and elsewhere to your interests and history with us;
+  * identifying Content you view and share;
+  * conducting research;
+  * compiling aggregate data for internal and external business purposes;
+  * preventing potentially illegal or harmful activities;
+  * protecting your and our rights;
+  * other uses in accordance with our [_Terms of Use_](https://www.fandor.com/company/terms_of_use); and
+  * any other purpose disclosed to you at the time we collect the information or related to a request made by you.
 
-Where we use third parties for the processing of any personal information, we implement reasonable contractual and technological protections that limit the use and access of that information to official Fandor-specified purposes. We do reserve the right to transfer your personal information to a successor in interest in the event of a corporate transaction that changes the ownership of Fandor or substantially all of its assets.
 
-You understand that when you use the Service, information you post in your profile, film reviews, and other interactive areas of the Service, as well as any information you share or permit us to share through the Service or via third-party services like Facebook or Twitter, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out sensitive personal information to others or sharing personal information in public online forums.
 
-We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly or indirectly to any third parties. We encourage you to become familiar with their privacy practices before disclosing personal information to any such parties.
+To perform the above functions, we may combine the information we collect from or about you and use it in the manner described in this Policy or as otherwise permitted by law. We may also aggregate information about you and other individuals together so that such information does not identify you personally. We may use such non-personally identifiable or aggregate information for any legitimate business purpose, including for research and analysis, administration of the Fandor Site, advertising, and promotional purposes.
 
-## Links To Other Web sites
+**SHARING OF INFORMATION WITH THIRD PARTIES**
 
-The Site may contain links to other Web sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked web sites. Fandor is not responsible for the privacy and security practices and policies of any such site. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+We may share information collected from or about you with third parties as follows:
 
-## What Steps Do We Take To Protect Your Information Online?
+  * _Service Providers_. We may share information with third parties who need your information in order to provide services to us (or on our behalf). This might include companies that provide Fandor with payment processing, analytics, data processing and management, account management, hosting, customer and technical support, marketing and other services.
+  * _Legal Requirements_. We may also share information with third parties if we believe it is reasonably necessary to comply with a law or regulation or legal process, or to respond to a government, law enforcement, judicial or other legal request. If we're going to release your information, we will provide you reasonable advance notice under the circumstances unless we are prohibited from doing so by law or court order. We may disclose your information without giving you prior notice if we believe it's necessary to prevent imminent and serious bodily harm to a person. We may also share information with third parties when we believe in good faith that disclosure is necessary to protect our rights or property, or to protect your safety or the safety of others.
+  * _Corporate Change_. We may also share information with third parties in connection with a corporate change or dissolution, such as a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business.
+  * _Our Partners._ We may also share information with our business partners who help us offer the Fandor Services, including, for example, our content licensors, distributors, and corporate owners.
+  * _Advertisers._ We may share the information collected from or about you in encrypted, aggregated, or de-identified forms with advertisers and service providers that perform advertising-related services for us and our business partners in order to tailor advertisements, measure, and improve advertising effectiveness.
+  * _Audience Measurement Providers._ Fandor may permit the use of third-party measurement software that enables third parties (such as Nielsen or comScore) to include your viewing on the Fandor Services in calculating measurement statistics.
+  * _Social Networks_. When you choose to share information with social networking services about your activities on the Fandor Services, including films you watch or like on Fandor, information about you and your activities will be shared with that social network. In addition, if you visit Fandor while logged into Facebook, then Facebook may be able to identify your browser and associate the technical information provided by your web browser with other information that Facebook already has about you.
+  * _When You Consent._ We may also share any information from or about you with any party when we have your consent or when you otherwise choose to share such information.
+  * _Aggregate Information_. We may disclose to any third party aggregate information about how our users use the Fandor Services in a manner that does not identify you individually.
 
-We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction. Please be aware that, despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against interception or other misuse. To protect the confidentiality of personal information, you must keep your login information confidential and not disclose it to any other person. You are responsible for all uses of the Service by any person using your login information. Please advise us immediately if you believe your password has been misused.
 
-## How Is My Email Address Used for Marketing Communications?
 
-After you create an account with Fandor or agree to subscribe to our email marketing communications, you will receive information we believe that will be of use and interest to you, such as offers, promotions, product updates and notices about Fandor services. You may opt out of receiving these marketing email communications at any time.
+**ADVERTISING**
 
-## What Choices Do You Have Regarding The Use Of Your Information?
+We and our partners display interest-based advertising using information gathered about you over time across multiple websites, devices, or other platforms. Interest-based advertising or "online behavioral advertising" includes ads served to you after you leave a website, encouraging you to return. They also include ads we and our partners think are relevant based on your browsing habits or online activities.
 
-You may opt out of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at marketing@fandor.com. Finally, you may manage your email preferences by going to the Edit Email Preferences page in your Account section. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+We may use third-party advertising companies to serve ads when you use the Fandor Services. These third parties may use cookies, web beacons, or other means to collect information from or about you, and may use information collected to, among other things, analyze data, determine the popularity of certain content, tailor advertisements, measure advertising effectiveness, and better understand the usage of the Fandor Service and the other web sites tracked by these third parties. Such third parties may collect information from or about you when you view an advertisement, whether or not you click on it, or when you interact with an advertisement. This Policy does not apply to, and we are not responsible for, cookies or web beacons located in third-party ads. We encourage you to check the privacy policies of such third-party advertising companies to learn about how they treat your information.
 
-## Questions?
+**OPT-OUT OPTIONS**
 
-If you have any questions about this Policy, please contact us at [support@fandor.com](mailto:support@fandor.com "Contact customer support at Fandor").
+You can opt out of some of our uses and disclosures of your information as follows:
+
+  * _Opt-Out from Promotional Emails._ You may opt out of receiving marketing or promotional emails from us by following the "unsubscribe"; instructions in those emails. You may also opt out of such marketing emails by accessing your account and clicking on "Edit Email Preferences." If you opt out, we may still send you non-promotional emails, such as emails about your account, service announcement, or messages about the terms and conditions of your account.
+  * _Opt-Out from Online Behavioral Advertising._ Most of the advertisers and service providers that perform advertising-related services are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"). If you would like to learn more about the NAI and make choices about their members' use of information from or about you on websites, please click [here](http://optout.networkadvertising.org/). For more information on the DAA Self-Regulatory Program for Online Behavioral Advertising and the options to opt out, please click [here](http://www.aboutads.info/choices/).
+
+
+
+Some browsers have "do not track" features that make it possible for you to signal that you don not want your Internet browsing activity to be tracked. The Internet community has not reached a consensus on how to best honor these signals, so we do not currently respond to do-not-track requests at this time. Instead, to opt out of the online behavioral advertising, please exercise the opt-out options described above.
+
+**SECURITY**
+
+We use a variety of technical and physical measures to protect the security and integrity of sensitive personal Information that we might collect from or about you, However, we can make no guarantees or promises in this regard, and you provide information to us at your own risk.
+
+We may store the information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Policy.
+
+If we believe that the security of your personal Information in our care may have been compromised, we may seek to notify you of that development. If we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification.
+
+**CHILDREN'S PRIVACY**
+
+The Fandor Services are not directed at children under the age of thirteen (13), and we do not knowingly collect any personal information from or about children under 13 years of age.
+
+**ACCESS TO FANDOR SERVICES THROUGH THIRD PARTIES; LINKS TO OTHER WEBSITES**
+
+The Fandor Services may be provided through third-party websites, applications and other means of access operated by other companies. For example, you can access the Fandor Services through Fandor channels on the websites or applications of our distribution partners. The Fandor Services also may contain links to third-party websites or applications. None of such third-party websites or applications are operated by us, and we are not responsible for the privacy and security practices of their operators. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+
+**CANCELLING YOUR FANDOR SUBSCRIPTION**
+
+You may cancel your Fandor subscription in the "Account Info" section of the Fandor Site. Please note that, after you cancel your subscription, your user profile will no longer be visible on the Fandor Services, although we may still keep some log information in non-personally identifiable form and any other information you have made publicly available through the Fandor Services (for example, comments on the Content).
+
+**CHANGES TO THIS POLICY**
+
+We may change this Policy from time to time to reflect changes in the law or in the Fandor Services. When we post changes to this Policy, we will revise the "Last Revised" date at the top of this Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by posting a notice of the changes on our website. Your continued use of the Fandor Services following the posting of such notice means you accept those changes. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used and to inform yourself of any changes in this Policy.
+
+**CONTACT**
+
+If you have any questions about this Policy, please contact us at [legal@fandor.com](mailto:legal@fandor.com) or contact us by mail addressed to:
+
+Our Film Festival, Inc.  
+522 Washington Street  
+San Francisco CA 94111  
+Attn: Legal Department
