@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011426id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905072839id_/https%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy (Wikis > Rules) - GAMEBANANA
 
@@ -42,14 +42,14 @@ Send a Private Message to the submitter
 Posts
      1
 Views
-    230,708
+    232,838
 Date Added
      5y
 Date Modified
-     7mo
+     10mo
 
-  * [ Feedback ](http://gamebanana.com/ideas/add)
-  * [ Bugs ](http://gamebanana.com/bugs/add)
-  * [ Support ](http://gamebanana.com/support/add)
+  * [ Feedback ](https://gamebanana.com/ideas/add)
+  * [ Bugs ](https://gamebanana.com/bugs/add)
+  * [ Support ](https://gamebanana.com/support/add)
 
 
