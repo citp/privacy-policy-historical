@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbookonline.info privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121145133id_/http%3A//www.blackbookonline.info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbookonline.info privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905144037id_/http%3A//www.blackbookonline.info/privacy.aspx) for the most accurate reproduction.*
 
 # Black Book Online Privacy Policy
 
@@ -10,7 +10,7 @@
 
 Privacy Policy Statement 
 
-Effective Date: July 30, 2014 
+Effective Date: June 2, 2016 
 
 All of the searches found at Black Book Online are simply links to public record information and websites available elsewhere on the Internet. PLEASE DO NOT CONTACT US ABOUT REMOVING YOUR NAME FROM ONE OF THESE SEARCHES. We have no control over this. If you would like your name removed, you must contact the source website involved, NOT us. 
 
@@ -37,7 +37,7 @@ B. Modification or Removal Process. If you wish to remove or modify any of your 
 
 C. Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will notify you as much by posting a notice on the Site for 30 days. 
 
-D. Effective Date: The effective date of this Policy shall be July 30, 2014. 
+D. Effective Date: The effective date of this Policy shall be June 2, 2016. 
 
 E. Browser Do Not Track Signals: California law requires that we disclose whether we acknowledge do not track signals issued by browsers should you designate such a choice with said browsers. We do not do so. 
 
@@ -73,10 +73,12 @@ D. SALE OF INFORMATION. Should we decide to sell all or part of the Company at s
 
 5.1. THIRD PARTY WEBSITES. The Site contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before providing personal information to said sites. 
 
+5.2. ADVERTISERS. Advertisers and advertising networks like Adsense and Sovrn may use tracking code or pixels on our site pages to be able to serve ads and measure site traffic. As such, your I.P. address, pages viewed and device information may be shared with them. 
+
 6\. CONTACT INFORMATION 
 
 6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the "Contact Us" link at the bottom of each Site page. 
 
 **Rating:** |        4   |  Good |  **Vote:** |  |  |  |   
 ---|---|---|---|---|---|---|---  
-  |  (out of 177 votes) | 
+  |  (out of 183 votes) | 
