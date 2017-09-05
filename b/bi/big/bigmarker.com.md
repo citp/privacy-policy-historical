@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmarker.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614013144id_/https%3A//www.bigmarker.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmarker.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905054440id_/https%3A//www.bigmarker.com/pages/privacy) for the most accurate reproduction.*
 
 # BigMarker - Modern, No-Download Webinar Software
 
