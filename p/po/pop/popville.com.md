@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popville.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526044436id_/http%3A//www.popville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popville.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905164049id_/https%3A//www.popville.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PoPville
 
-Your privacy is important to us at Prince of Petworth, LLC (“we”, or “our”). Accordingly, we have established and implemented information handling practices for www.PoPville.com (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in our [Terms of Use](http://www.popville.com/terms-of-use/).
+Your privacy is important to us at Prince of Petworth, LLC (“we”, or “our”). Accordingly, we have established and implemented information handling practices for www.PoPville.com (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in our [Terms of Use](https://www.popville.com/terms-of-use/).
 
 ### When You Visit The Site
 
@@ -18,11 +18,11 @@ The Site has security measures in place to protect against the loss, misuse and 
 
 ### When You Post Content
 
-Users may post or upload User Content to the Site. As between you and us and between other Users and you, you are the owner of all User Content that you upload, email or post to or within the Site. You grant us permission to use your User Content on and in connection with the Site. For more information, see the Site’s [Terms of Use](http://www.popville.com/terms-of-use/).
+Users may post or upload User Content to the Site. As between you and us and between other Users and you, you are the owner of all User Content that you upload, email or post to or within the Site. You grant us permission to use your User Content on and in connection with the Site. For more information, see the Site’s [Terms of Use](https://www.popville.com/terms-of-use/).
 
 ### When You Submit Feedback to Us
 
-In order to submit comments or questions to the site, you will have to register for a user account, a process that involves, among other disclosures, the provision of your email address. We will not disclose your email address or other personal information to third parties, except as expressly set forth in this Privacy Policy. We may contact you via the email address you provide to answer your question(s), clarify the information you have submitted and send you emails, from time to time, as part of our Email List. (For additional information, see [Terms of Use ](http://www.popville.com/terms-of-use/).
+In order to submit comments or questions to the site, you will have to register for a user account, a process that involves, among other disclosures, the provision of your email address. We will not disclose your email address or other personal information to third parties, except as expressly set forth in this Privacy Policy. We may contact you via the email address you provide to answer your question(s), clarify the information you have submitted and send you emails, from time to time, as part of our Email List. (For additional information, see [Terms of Use ](https://www.popville.com/terms-of-use/).
 
 ### Cookies and Pixel Tags
 
