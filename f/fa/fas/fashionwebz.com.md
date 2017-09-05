@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionwebz.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325183225id_/https%3A//www.fashionwebz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionwebz.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905081601id_/https%3A//www.fashionwebz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
