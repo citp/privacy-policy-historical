@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forzieri.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606170046id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forzieri.com privacy policy that was archived on 2017-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170905184730id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 	<meta charset="iso-8859-1">
@@ -51,12 +51,13 @@
 <link rel="alternate" type="application/rss+xml" title="FORZIERI: ALL THAT SPARKLES" href="http://www.forzieri.com/rss_InfoJewels.asp?l=usa&amp;c=usa">
 <link rel="alternate" type="application/rss+xml" title="FORZIERI: TIES &amp; TIES" href="http://www.forzieri.com/rss_InfoTiesDressShirts.asp?l=usa&amp;c=usa">
 
-<link href="/shared/build_6855/css/site.css" rel="stylesheet">
-<link href="/shared/build_6855/css/common.css" rel="stylesheet">
+<link href="http://assets.forzieri.com/build_7464/css/site.css" rel="stylesheet">
+<link href="http://assets.forzieri.com/build_7464/css/common.css" rel="stylesheet">
 
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
 var FZ = window.FZ = {
-	assetDir: '/shared/build_6855',
+	ajaxBase: '/shared/build_7464/ajax/',
+	assetBase: 'http://assets.forzieri.com/build_7464',
 	xmlLocale: 'en-US',
 	language: 'usa',
 	currency: 'usa',
@@ -68,7 +69,8 @@ var FZ = window.FZ = {
 	isPrivClub: false,
 	disabledPrivClubOnThisPage: false,
 	disableMobileInterstitial: false,
-	siteArea: ''
+	siteArea: '',
+	api: '//public.forzieri.com/v1'
 };
 </script>
 
@@ -76,13 +78,13 @@ var FZ = window.FZ = {
 <script src="/js/libs/xdomain.min.js"></script>
 <script>
 	xdomain.slaves({
-		'http://public.forzieri.com': '/v1/cors_proxy.php'
+		'//public.forzieri.com': '/v1/cors_proxy.php'
 	});
 </script>
 <![endif]-->
 
-<script src="/shared/build_6855/js/script.min.js"></script>
-<script src="/shared/build_6855/js/app.min.js"></script>
+<script src="http://assets.forzieri.com/build_7464/js/script.min.js"></script>
+<script src="http://assets.forzieri.com/build_7464/js/app.min.js"></script>
 
 <script>
 //<![CDATA[
@@ -95,8 +97,8 @@ var FZ = window.FZ = {
 
 
 
-	$script('/shared/build_6855/js/modules.min.js');
-	$script('/shared/build_6855/js/global-navigation.min.js');
+	$script('http://assets.forzieri.com/build_7464/js/modules.min.js');
+	$script('http://assets.forzieri.com/build_7464/js/global-navigation.min.js');
 
 //]]>
 </script>
@@ -113,7 +115,7 @@ domready(function() {
 		var privClubCookie = Cookie.read('FzPrivClub');
 		if ( (!privClubCookie || (privClubCookie != 'cancelled' && privClubCookie != 'subscribed')) && !FZ.disabledPrivClubOnThisPage ) {
 			new Request.HTML({
-				url: '/shared/build_6855/ajax/popup.ajax.asp?l=usa&c=usa',
+				url: '/shared/build_7464/ajax/popup.ajax.asp?l=usa&c=usa',
 				method: 'post',
 				update: new Element('div').inject($(document.body))
 			}).send();
@@ -148,37 +150,19 @@ domready(function() {
 		setTimeout('document.location = "' + link.href + '"', 100);
 	}
 
-	$script.ready('mootools.core', function() {
-		function trackClick(el) {
-			if ( typeof(_gaq) === "undefined" ) return;
-
-			var args = $(el).get('data-gaq');
-			if ( args ) {
-				args = JSON.parse(args);
-				_gaq.push(args);
-			}
-		}
-
-		domready(function() {
-			$(document.body).addEvent('click:relay(.gaq)', function(e) {
-				trackClick(this);
-			});
-		});
-	});
-
 //]]>
 </script>
 
-<link href="/shared/build_6855/css/help.css" rel="stylesheet">
+<link href="http://assets.forzieri.com/build_7464/css/help.css" rel="stylesheet">
 
 <script>
 //<![CDATA[
 
-$script('/shared/build_6855/js/help.min.js');
+$script('http://assets.forzieri.com/build_7464/js/help.min.js');
 
 //]]>
 </script><!--[if (lt IE 9) & (!IEMobile)]>
-	<link href="/shared/build_6855/css/ie.css" rel="stylesheet" type="text/css" />
+	<link href="http://assets.forzieri.com/build_7464/css/ie.css" rel="stylesheet" type="text/css" />
 	<script src="/js/libs/html5shiv.js"></script>
 	<script>
 		$script.ready('mootools', function() {
@@ -187,17 +171,17 @@ $script('/shared/build_6855/js/help.min.js');
 	</script>
 <![endif]-->
 
-<script async="" defer="" src="//sdata.captifymedia.com/194286.js?r=9997321294253920&amp;m=1112&amp;a=194286"></script><script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/FORZIERI.js"></script></head>
+<script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/FORZIERI.js"></script></head>
 <body class="usa help ">
-	
+
 	<div id="doc">
-		
+
 		
 <div id="fb-root"></div>
 <script>
 //<![CDATA[
 	$script.ready('mootools', function() {
-		$script('/shared/build_6855/js/facebook.min.js', 'facebook', function() {
+		$script('http://assets.forzieri.com/build_7464/js/facebook.min.js', 'facebook', function() {
 			Facebook = new FacebookLoader('101040659951193');
 		});
 		
@@ -228,7 +212,7 @@ $script('/shared/build_6855/js/help.min.js');
 <div id="mobile-drawer" class="closed"></div>
 
 
-		<div id="free_info" class="header-promo" data-href="http://public.forzieri.com/v1/shipping_countries/search?l=usa&amp;c=usa&amp;sd=" data-method="GET"></div>
+		<div id="free_info" class="header-promo" data-href="//public.forzieri.com/v1/shipping_countries/search?l=usa&amp;c=usa&amp;sd=" data-method="GET"></div>
 		<script>
 		//<![CDATA[
 			$script.done('header-promo-dom');
@@ -236,7 +220,7 @@ $script('/shared/build_6855/js/help.min.js');
 		</script>
 
 
-<div id="sticky-header" data-href="/shared/build_6855/ajax/sticky_header.ajax.asp?l=usa&amp;c=usa" data-ab=""></div>
+<div id="sticky-header" data-href="/shared/build_7464/ajax/sticky_header.ajax.asp?l=usa&amp;c=usa" data-ab=""></div>
 <script>
 //<![CDATA[
 	$script.done('sticky-header-dom');
@@ -302,7 +286,7 @@ $script('/shared/build_6855/js/help.min.js');
 	//	submenu lazy load
 	$script.ready('mootools.core', function() {
 		new Request.HTML({
-			url: '/ajaxs/top_menu.ajax.asp?l=usa&c=usa',
+			url: '/ajaxs/main_nav.ajax.asp?l=usa&c=usa',
 			update: 'global-nav',
 			onSuccess: function() {
 				$script.ready('global-navigation', function() {
@@ -391,7 +375,7 @@ $script('/shared/build_6855/js/help.min.js');
 	</nav>
 </header>
 
-		
+
 		<div class="container">
 
 			<div id="breadcrumbs" class="breadcrumbs container">
@@ -405,12 +389,13 @@ $script('/shared/build_6855/js/help.min.js');
 				</ul>
 			</div>
 		</div>
-		
-		<div class="bd container">
-			
-			<section role="main" class="main-content container">
-				<h2>Privacy Policy</h2>
 
+		<div class="bd container">
+
+			<section role="main" class="main-content container">
+				
+				<h2>Privacy Policy</h2>
+				
 
 
 <div class="content privacy-policy">
@@ -647,28 +632,9 @@ $script('/shared/build_6855/js/help.min.js');
 	});
 </script>
 
-<!-- Tag/Hurra  -->
-
-	<script src="http://ssl.hurra.com/ostracker.js?cid=569"></script>
-
-<!-- / Tag/Hurra  -->
-
-
-<!-- Captify -->
-<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"":"s")+"data.captifymedia.com/194286.js?r="+Math.random()*1e16+"&m=1112&a=194286"+(iatDev?"&d=1":"")))</script>
-<!-- Captify -->
-
-<!-- Emarsys -->
-<script>
-//<![CDATA[
-	$script('/js/libs/emstrack.js', 'emstrack', function() {
-		emsSetEnv('suite9'); 
-		emsTracking(437754273, 'forzieri.com');
-	});
-//]]>
-</script>
-<!-- /Emarsys -->
-
+<!-- Hurra  -->
+<script src="//ssl.hurra.com/ostracker.js?cid=569"></script>
+<!-- /Hurra  -->
 <!-- SaleCycle -->
 <script type="text/javascript">
 	try {var __scP=(document.location.protocol=="https:")?"https://":"http://";
@@ -677,6 +643,30 @@ $script('/shared/build_6855/js/help.min.js');
 	document.getElementsByTagName("head")[0].appendChild(__scS);}catch(e){}
 </script>
 <!-- SaleCycle -->
+
+
+<!-- Emarsys -->
+<script>
+//<![CDATA[
+	if (typeof $script == 'function') {
+		$script('/js/libs/emstrack.js', 'emstrack', function() {
+			emsSetEnv('suite9');
+			emsTracking(437754273, 'forzieri.com');
+		});
+	} else {
+		var emarsys_track = $.getScript('/js/libs/emstrack.js')
+			.done(function() {
+				emsSetEnv('suite9');
+				emsTracking(437754273, 'forzieri.com');
+			});
+	}
+//]]>
+</script>
+<!-- /Emarsys -->
+
+<!-- RTB House -->
+<iframe src="//us.creativecdn.com/tags?id=pr_VuzRd8WZ0rOvjg1rLAXH&amp;ncm=1" width="1" height="1" scrolling="no" frameborder="0" style="display: none;"></iframe>
+<!-- /RTB House -->
 
 		
 	</div>
