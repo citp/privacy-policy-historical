@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-mattress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204131id_/http%3A//www.us-mattress.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-mattress.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906093708id_/https%3A//www.us-mattress.com/privacypolicy.html) for the most accurate reproduction.*
 
 # US-Mattress Privacy Policy
 
@@ -36,8 +36,8 @@ Livonia, MI 48150
  **Personal Protection Policy:**  
 Your personal protection is a priority at US-Mattress.com. Accordingly, your orders are processed with powerful encryption technology to achieve maximum information protection. Federal law limits your liability to $50 for fraudulent use of your credit card. US-Mattress will cover your liability up to $50 in the unlikely event your purchase transaction on our site results in fraudulent use of your card. Furthermore, US-Mattress.com will not sell or share your personal information to outside parties. Period. We are delighted you visited our store. If we can be of any further service, please drop us an email for a prompt reply. Please enjoy your shopping experience. We know you will!
 
-|  [Free Delivery](https://web.archive.org/web/20170606204131id_/http%3A//www.us-mattress.com/delivery.html)  
-[Your Comfort Guaranteed](https://web.archive.org/web/20170606204131id_/http%3A//www.us-mattress.com/cusser.html)   
+|  [Free Delivery](https://web.archive.org/web/20170906093708id_/https%3A//www.us-mattress.com/delivery.html)  
+[Your Comfort Guaranteed](https://web.archive.org/web/20170906093708id_/https%3A//www.us-mattress.com/cusser.html)   
    
    
 
