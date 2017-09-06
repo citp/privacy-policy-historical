@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222100636id_/http%3A//tmbi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907003339id_/http%3A//tmbi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TMB
 
@@ -105,7 +105,7 @@ We may also use third parties to serve ads on Company Sites. Certain third parti
 
 **Third Party Cookies**
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [aboutads.info/choices](http://www.aboutads.info/choices).
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other information linked to data you voluntarily have submitted to us (e.g., your email address), which data we may share with a data provider or third party solely in hashed, non-human readable form. To opt-out of these cookies, please go to [aboutads.info/choices](http://www.aboutads.info/choices).
 
 **Company Ads on Third Party Sites**
 
@@ -131,7 +131,7 @@ We have registered for Safe Harbor certification with the US Department of Comme
 
 **Privacy Policy Changes**
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Policy last updated December 2015
+We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Policy last updated June 2017
 
 **Legal Notice and Terms and Conditions**
 
