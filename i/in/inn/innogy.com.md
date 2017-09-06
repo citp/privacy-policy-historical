@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innogy.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303145435id_/https%3A//www.innogy.com/web/cms/en/3068482/about-innogy/general-data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innogy.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906144207id_/https%3A//www.innogy.com/web/cms/en/3068482/about-innogy/general-data-privacy-policy) for the most accurate reproduction.*
 
 # innogy - General data privacy policy
 
@@ -14,7 +14,7 @@ As part of a registration, contact request or similar you may provide us with yo
 
 If you wish to do so, you may provide us with additional personal data via applications that are embedded in our platform (e.g. contact forms or services that require a user account to be set up). Different conditions than those outlined in this data privacy policy may apply when using such applications. Should this be the case, we will explicitly inform you about such different conditions in additional data privacy clauses.
 
-As far as individual tasks and services are carried out by carefully selected and assigned (IT) service providers located outside the EU / European Economic Area, a third-party transmission of the data is not prohibited. In addition, a third-country transfer of data may also take place if it is agreed in the contractual relationship with you. In this case, data protection agreements that comply with legal requirements will be concluded to ensure an appropriate level of privacy with the contract partners.
+As far as individual tasks and services are carried out by carefully selected and assigned (IT) service providers located outside the EU / European Economic Area, a third-country transmission of the data can take place. In addition, a third-country transfer of data may also take place if it is agreed in the contractual relationship with you. In this case, data protection agreements that comply with legal requirements will be concluded to ensure an appropriate level of privacy with the contract partners.
 
  **Non-personal data**
 
@@ -205,7 +205,7 @@ Performance Netzwerk* der uppr GmbH
 
 By clicking the link: "Opt-Out jetzt durchführen".  
   
-* opt out applies to: Target Performance, Usemax, Remintrex, KUPONA, ad:cmedia, Targeting360, Advanced Store, The Reach Group, ecomcon, Ve Interactive, Vivalu, Kwanko, Adlicious  
+* opt out applies to: Target Performance, Usemax, KUPONA, ad:cmedia, Targeting360, Advanced Store, The Reach Group, Ve Interactive, Vivalu, Kwanko, Adlicious, Belboon, Performance Advertising, Ströer, Kühne & Loos, Criteo  
   
  **Children**
 
