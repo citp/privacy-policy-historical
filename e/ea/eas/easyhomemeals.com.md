@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyhomemeals.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621155941id_/http%3A//easyhomemeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhomemeals.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907011308id_/http%3A//easyhomemeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Easy Home Meals
 
