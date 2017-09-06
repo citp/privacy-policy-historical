@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hubpages.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033638id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubpages.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906103050id_/https%3A//hubpages.com/privacy-policy) for the most accurate reproduction.*
 
-# HubPages Privacy Policy
+# Privacy Policy
 
-This Privacy Policy was last updated on November 18, 2011, and is effective November 25, 2011. See the bottom of this page for recent changes to this Privacy Policy.
+This Privacy Policy was last updated on January 27, 2017, and is effective February 5, 2017. See the bottom of this page for recent changes to this Privacy Policy.
 
-The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at HubPages.com (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
+The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [HubPages](https://hubpages.com/) (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
 
 ## 1\. Information We Collect
 
@@ -24,7 +24,11 @@ Information collected through clear gifs and cookies, and log file information i
 
 e. Third-party service-based information. This includes linked services (such as Facebook Connect) that You authorize to share information about You with HubPages. If You elect to use Facebook Connect with HubPages, You agree that HubPages may use (as described in Section 2) information about You provided by Facebook, including (but is not limited to) Your: name, email, gender, birthday, current city, profile picture URL, as well as any additional information (such as “Like” information) that You specifically consent for HubPages to access and use.
 
-Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service.
+Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service. 
+
+Integrated services that require Google Analytics to collect data for advertising purposes (such as Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting), including the collection of data via advertising cookies and identifiers. For information about opting out of Google Analytics [see the currently available Google Analytics opt-out tool](https://tools.google.com/dlpage/gaoptout/). 
+
+You may also opt-out of receiving targeted ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) with the NAI tool available [here](http://www.networkadvertising.org/choices/). 
 
 ## 2\. Use of Information
 
@@ -42,7 +46,7 @@ We may share your Personally Identifiable Information with third parties solely 
 
 Any information or User Content submitted, transmitted, or uploaded to the public areas of the Service becomes publicly available and can be collected and used by other Users, who may forward this information or User Content to other websites or people.. Be aware that if Your User Content includes personal information, such as your name and email address, other Users will have access to it. If Your User Content is a photograph, please be aware that all photographs uploaded to the Service reside on public URLs. Any person who knows the URL of Your photograph can access the photograph, whether or not it’s published on a Hub. Your photograph will remain displayed on such URL after You delete it from Your Hub. Please do not upload any photographs that You do not want to be public information.
 
-If You request to join the eBay Partner Network as a sub-affiliate of HubPages, You acknowledge that eBay requires personal information about You to approve Your participation in the program, and You agree that HubPages may disclose to eBay personal information about You that eBay requires, including (but not limited to) Your: name, email, phone number, address, and country. If You request to participate in the Amazon Program under HubPages, You acknowledge that Amazon may require personal information about You to with respect to Your participation in the program (for fraud monitoring and other possible reasons), and You agree that HubPages may disclose to Amazon such personal information about You that Amazon requires, including (but not limited to) Your: name, email, phone number, address, and country.
+If You request to participate in the Amazon Program under HubPages, You acknowledge that Amazon may require personal information about You to with respect to Your participation in the program (for fraud monitoring and other possible reasons), and You agree that HubPages may disclose to Amazon such personal information about You that Amazon requires, including (but not limited to) Your: name, email, phone number, address, and country.
 
 In order to describe our Service to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Service, including Users’ use of our Service and the success of promotions.
 
@@ -52,7 +56,7 @@ We may release collected information if required to do so by law, or if we belie
 
 The Service may be used in conjunction with services provided through a variety of third parties, such as Google. The use of User Content and other information provided by You to such third parties is governed by their privacy policies, not our Privacy Policy. HubPages is not responsible for such third party privacy policies or their compliance with such policies.
 
-HubPages may allow third-party ad servers or ad networks to serve advertisements and/or collect information on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on HubPages. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. HubPages does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks HubPages to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Service, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [**here**](http://networkadvertising.org/managing/opt_out.asp). The HubPages Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+HubPages may allow third-party ad servers or ad networks to serve advertisements and/or collect information on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on HubPages. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. HubPages does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks HubPages to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Service, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. The HubPages Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
 ## 5\. Choices
 
@@ -76,9 +80,13 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ## 10\. Contact Information
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 95 Minna St, San Francisco, CA 94105, USA.
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
 
 ## RECENT CHANGES TO THIS PRIVACY POLICY
+
+January 27, 2016. We revised the policy on Google Analytics by adding in their advertising services and how to opt-out via their tool.
+
+February 2, 2016: We added websites to the service for where Hubs may appear when published. Websites include tatring.com, pethelpful.com and additional websites in the future. These additional websites share registration information so that users can login to any website that is part of the HubPages service.
 
 November 18, 2011: We have revised the policy to reflect our participation in the Amazon Associates Program.
 
