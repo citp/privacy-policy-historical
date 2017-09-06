@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305223325id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906020052id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/privacy) for the most accurate reproduction.*
 
 # Privacy notice
 
@@ -226,7 +226,7 @@ W1B 1PZ
 
 #### How to update your information
 
-In the event that any of the information we hold about you is incorrect, you can ask us to correct the mistake by contacting us as set out above. Where the information relates to an incorrect entry on the register, the incorrect and fraudulent entry process will apply. You can find information on the process that is followed in the guidance on  [fraudulent and incorrect entry](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp_committees/fraudulent-and-incorrect-entry-guidance.pdf).
+In the event that any of the information we hold about you is incorrect, you can ask us to correct the mistake by contacting us as set out above. Where the information relates to an incorrect entry on the register, the incorrect and fraudulent entry process will apply. You can find information on the process that is followed in the guidance on  [fraudulent and incorrect entry](https://web.archive.org/web/20170906020052id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/~/link/7fd6ae0b1aac45acb9bb9d7d9801a157.aspx).
 
 Further information about our data protection responsibilities is set out in our [Data protection policy](https://web.archive.org/globalassets/sitedocuments/other-publications/nmc-data-protection-policy.pdf).
 
