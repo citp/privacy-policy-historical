@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the squidoocdn.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630220927id_/https%3A//hubpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squidoocdn.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906103050id_/https%3A//hubpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This Privacy Policy was last updated on January 27, 2017, and is effective February 5, 2017. See the bottom of this page for recent changes to this Privacy Policy.
 
-The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [hubpages](https://hubpages.com/) (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
+The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [HubPages](https://hubpages.com/) (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
 
 ## 1\. Information We Collect
 
