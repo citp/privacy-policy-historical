@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618032526id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907014844id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy policy  
+**Privacy policy** **  
 **  
 Jollychic.com respects your privacy and secures your online safety seriously ,In order to  provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.  
 
 
- **Jollychic Privacy Policy**
+ **Jollychic Privacy Policy** ****
 
-Thank you for accessing the website of Zhejiang Jolly Information Technology Co., Ltd ,(http://www.jollychic.com/). We respect your privacy and want to protect your personalinformation. To learn more, please read our Privacy Notice.This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personalinformation. This Privacy Notice also explains the steps we have taken to secure your personal information.Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-Jollychic.com website to which this Site links to or that links to our site.
+Thank you for accessing the website of  Jollychic EC Limited, (http://www.jollychic.com/). We respect your privacy and want to protect your personalinformation. To learn more, please read our Privacy Notice.This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personalinformation. This Privacy Notice also explains the steps we have taken to secure your personal information.Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-Jollychic.com website to which this Site links to or that links to our site.
 
   
  **INFORMATION COLLECTION AND USEAGE**
@@ -102,6 +102,3 @@ Choice and Opt-Out
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company
 
 at service@Jollychic.com
-
-  
-
