@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spring.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312234346id_/https%3A//www.spring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906170859id_/https%3A//www.spring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
