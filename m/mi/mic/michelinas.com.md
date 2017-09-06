@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelinas.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507055444id_/http%3A//www.michelinas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelinas.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906135535id_/http%3A//www.michelinas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Michelinas
 
