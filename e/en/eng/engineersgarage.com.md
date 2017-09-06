@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401035441id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906025906id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of EngineersGarage
+# Privacy Policy of EngineersGarage | EngineersGarage
 
 Dear Visitor
 
