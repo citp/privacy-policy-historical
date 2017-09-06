@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124226id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906103218id_/https%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
