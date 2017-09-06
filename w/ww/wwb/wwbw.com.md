@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509022004id_/http%3A//www.wwbw.com/pages/support-center/my-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906204133id_/https%3A//www.wwbw.com/pages/support-center/my-privacy) for the most accurate reproduction.*
 
 # Support Center: My Privacy
 
