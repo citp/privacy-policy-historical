@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localjobster.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003930id_/http%3A//www.localjobster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localjobster.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906124350id_/http%3A//localjobster.com/privacy) for the most accurate reproduction.*
 
 # Local Jobster - Find Local Jobs Online
 
@@ -78,7 +78,7 @@ _Enforcement_ LocalJobster may use the information that is collected to prevent 
 
 _Mergers or Other Types of Corporate Transfers_ We may share information about you in the event that LocalJobster or the website is acquired by or merged with another company or a similar corporate transaction takes place. However, you will be notified with a prominent notice on the LocalJobster site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy. 
 
-In addition to the uses identified above, LocalJobster may also sell or provide the information that is collected to third parties solely for legally permissible purposes. 
+LocalJobster will never sell your phone number to a third party without your express consent. LocalJobster may also sell or provide other information that is collected to third parties solely for legally permissible purposes. 
 
 ### Is My Information Secure?
 
