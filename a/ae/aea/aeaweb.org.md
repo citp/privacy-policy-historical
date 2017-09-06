@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeaweb.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625130331id_/https%3A//www.aeaweb.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeaweb.org privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906072051id_/https%3A//www.aeaweb.org/privacypolicy) for the most accurate reproduction.*
 
 # American Economic Association
 
