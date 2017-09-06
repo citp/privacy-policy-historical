@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030523id_/http%3A//www.biomedcentral.com/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906162601id_/https%3A//www.biomedcentral.com/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -67,6 +67,7 @@ You may see certain ads on other websites based on your visits to our Site becau
 We may use features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keywords used to visit our Site.  
 US: To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices).  
 EU: To learn more about how to opt out of ad network interest-based advertising, [click here](http://youronlinechoices.com/).  
+For more information on managing advertising personalisation through your Google account please visit [this page](https://support.google.com/ads/answer/2662922?hl=en-GB).  
 This Site is not designed to respond to “do not track” signals received from browsers.  
 
 Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with BMC, any use of those websites, or the privacy practices of those websites.
