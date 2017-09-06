@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173031id_/https%3A//isprodresources01.blob.core.windows.net/documents/IS_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906025832id_/https%3A//isprodresources01.blob.core.windows.net/documents/IS_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # INVESTSMART GROUP LTD AND RELATED ENTITIES
 
