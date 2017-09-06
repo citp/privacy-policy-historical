@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104237id_/http%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906135747id_/https%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Lupus Foundation of America
 
@@ -216,6 +216,10 @@ DATA SECURITY
 
 We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected by the Site.  However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information.  Moreover, we are not responsible for the security of information you transmit to the Site over networks that we do not control, including the Internet and wireless networks.
 
+###  How the Foundation maintains the credit card and personal information it collects
+
+The security of your personal information is important to us. All communications between your browser and our payment system is encrypted using secure socket layer technology (SSL).You will notice the "Locked" ICON and “Blackbaud, Inc.”  (the company that provides our donor CRM software) appear in the address bar in your browser. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. All servers are protected and monitored by leading firewall technology 24 hours a day
+
 ##    
 NOTIFYING YOU ABOUT CHANGES TO OUR PRIVACY POLICY
 
@@ -233,4 +237,4 @@ If you are located outside of the United States when you use the Site, any infor
 
 By using this Site, you consent to the collection and use of the information as described above. We reserve the right to update or modify this Privacy Policy at any time.
 
-Last updated January 2017
+Last updated June 2017
