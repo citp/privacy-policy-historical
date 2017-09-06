@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outreach.io privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613190624id_/https%3A//outreach.io/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.io privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906040823id_/https%3A//outreach.io/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outreach
 
@@ -108,7 +108,7 @@ Our Services are not directed to persons under 13. We do not knowingly collect p
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [support@outreach.io](mailto:support@outreach.io), or at ComponentLab Inc., 3400 Stone Way N. Suite #201, Seattle, WA 98103.
+If you have any questions about this Privacy Policy, please contact us at [support@outreach.io](mailto:support@outreach.io), or at ComponentLab Inc., 1441 North 34th Street, Suite #100, Seattle, WA 98103.
 
 **Changes to our Privacy Policy**
 
