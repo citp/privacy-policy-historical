@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523145304id_/https%3A//databox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906203826id_/https%3A//databox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Databox
 
-**Updated: May 1, 2016**
+**Updated: June 7, 2017**
 
 We are committed to protecting our visitors’ and members’ privacy. This Privacy Policy explains what information of yours will be collected by Databox, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -22,11 +22,11 @@ Log file information is automatically reported by your browser each time you acc
 
 **The Way We Use Your Information**
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of Databox. Any personal information or content that you voluntarily disclose by posting to the Databox becomes available to the other users in your Network. If you remove user content, copies may remain viewable in cached and archived pages or if other users have copied or stored your user content.
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of Databox. Any personal information or content that you voluntarily disclose by posting to Databox becomes available to the other users in your network. If you remove user content, copies may remain viewable in cached and archived pages, or if other users have copied or stored your user content.
 
-By providing Databox your email address you consent to our using the email address to send you Databox related notices, including any notices required by law. You may use settings to opt-out or change the frequency of Databox related communications.
+By providing Databox with your email address, you consent to our using the email address to send you Databox related notices, including any notices required by law. You may use settings to opt-out or change the frequency of Databox related communications.
 
-We may also use your email address to send you other messages, such as newsletters, changes to features of Databox, or special offers. If you do not want to receive such email messages, you may opt-out.
+We may also use your email address to send you other messages, such as newsletters, changes to features within Databox, or special offers. If you do not want to receive such email messages, you may opt-out.
 
 We use cookies, clear gifs, and log file information to remember information so that you will not have to re-enter it during your visit or the next time you visit the site; provide custom, personalized content and information; monitor the effectiveness of our service; monitor aggregate metrics such as total number of visitors and traffic; diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and help you efficiently access your information after you sign in.
 
@@ -46,7 +46,9 @@ Your user content is kept private in your Network. Databox does not monitor the 
 
 **Personally Identifiable Information**
 
-Databox will not share, rent or sell your personally identifiable information to others. Databox may store personal information on its own servers or databases hosted in a secured environment behind an advanced firewall.
+Databox will not rent or sell your personally identifiable information to others. Databox may store personal information on its own servers or databases hosted in a secured environment behind an advanced firewall.
+
+As you use our site, you may interact with our business partners. In order to provide you with additional support, your name and email address may be shared with partners who created report templates or connectors that you’ve used.
 
 As we develop our business, we may buy or sell assets or business offerings. Customer and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
 
