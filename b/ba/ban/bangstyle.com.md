@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangstyle.com privacy policy that was archived on 2017-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170105182447id_/https%3A//www.bangstyle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangstyle.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906042414id_/https%3A//www.bangstyle.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
