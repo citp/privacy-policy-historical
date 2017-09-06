@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windstarcruises.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608140305id_/http%3A//www.windstarcruises.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windstarcruises.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907015619id_/https%3A//www.windstarcruises.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Windstar Cruises
 
