@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-in-love.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100640id_/http%3A//www.get-in-love.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-in-love.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907084300id_/http%3A//www.get-in-love.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - www.get-in-love.com
 
