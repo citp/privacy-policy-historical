@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldgolf.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602193804id_/http%3A//www.worldgolf.com/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolf.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907232408id_/http%3A//www.worldgolf.com/contact/privacy.htm) for the most accurate reproduction.*
 
 # Home & Summary | NBCUniversal
 
