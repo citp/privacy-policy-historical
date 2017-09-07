@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigaraficionado.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100720id_/http%3A//www.cigaraficionado.com/display/show/id/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigaraficionado.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907191913id_/http%3A//www.cigaraficionado.com/display/show/id/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
