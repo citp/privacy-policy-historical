@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sokanu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170334id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokanu.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907133012id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,9 +8,7 @@ The Privacy Policy describes Sokanu's policies and procedures regarding the pers
 
 ## Information Collection and Use
 
-When you create a Sokanu account, you will be asked to provide some personal information, such as your name, username, password and email address. Some of this information you provide during the registration process (such as your name, gender and the careers that you follow) will be listed on the Sokanu Site and accessible by the public.
-
-The Sokanu Site is designed to connect individuals to careers and help them find their passion in life. Except as otherwise specifically stated in this Privacy Policy, the information you provide to us via the Sokanu Site will be made publicly available on the Sokanu Site. Sokanu will store metadata associated with the use of the Sokanu Site and may share this information with various third parties, such as the career contributors you follow and the Content with which you interact.
+The Sokanu Site is designed to connect individuals to careers and help them find their passion in life. Sokanu will store metadata associated with the use of the Sokanu Site and may share this information with various third parties, such as the career contributors you follow and the Content with which you interact.
 
 To better improve our Content and the Sokanu Site, we track some of the actions you take on the Sokanu Site, such as "following" a career portal or "commenting on" a post.
 
