@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602041002id_/https%3A//albiononline.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907184517id_/https%3A//albiononline.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Brand New Sandbox MMORPG 2017 | Albion Online
 
