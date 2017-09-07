@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rnbmusicblog.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407082942id_/http%3A//www.rnbmusicblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnbmusicblog.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907211146id_/http%3A//www.rnbmusicblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RnB Music Blog
+# Privacy Policy - R&B Music Blog
 
 RnB Music Blog (“us”, “we”, or “our”) operates http://www.rnbmusicblog.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
@@ -52,4 +52,4 @@ RnB Music Blog may update this Privacy Policy from time to time. We will notify 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please [contact us](http://www.rnbmusicblog.com/contact-us/).
 
-This Privacy Policy was last modified on October 6, 2014.
+This Privacy Policy was last modified on July 18, 2016.
