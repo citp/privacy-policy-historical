@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-discount.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111190402id_/http%3A//www.hotel-discount.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-discount.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908003226id_/http%3A//www.hotel-discount.com/privacy) for the most accurate reproduction.*
 
 # Privacy -
 
@@ -19,7 +19,7 @@ hotel discount does use cookies to store information about visitors preferences,
   **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on hotel discount.  
 .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to hotel-discount.com  and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include Google Adsense.
 
