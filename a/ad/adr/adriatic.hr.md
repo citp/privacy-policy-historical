@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220083835id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907150141id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
 
 # Vacation in Croatia 2017 - Adriatic.hr
 
