@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkmodelzone.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113522id_/http%3A//www.lkmodelzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkmodelzone.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907144045id_/http%3A//www.lkmodelzone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LK Model Zone | Sri Lankan No.01 Model Database | Srilankan Models | Sri Lankan Models Network | Female and Male Models Sri Lanka | Latest Models Sri Lanka | Latest Gossip Sri Lanka
 
