@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wedding.net privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214041104id_/http%3A//wedding.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.net privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907210501id_/https%3A//wedding.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy for personal information (hereinafter, the Policy) applies to all information that Plusmedia LLC (hereinafter, the Company) may obtain about the user while the latter uses any of the sites or services of the company (hereinafter, the Services). Use of the services, as well as registration on the websites of the Company, signifies unconditional agreement with this Policy and the conditions stated in it for processing one's personal information. In case of disagreement with these conditions, the user should refrain from using the Services.
+This Privacy Policy for personal information (hereinafter, the Policy) applies to all information that BRIDAL LLC (hereinafter, the Company) may obtain about the user while the latter uses any of the sites or services of the company (hereinafter, the Services). Use of the services, as well as registration on the websites of the Company, signifies unconditional agreement with this Policy and the conditions stated in it for processing one's personal information. In case of disagreement with these conditions, the user should refrain from using the Services.
 
 In this Policy, «user's personal information» means personal information that the user provides voluntarily about himself/herself at registration (creating an account) or in the process of using the services, including the user's personal data.
 
