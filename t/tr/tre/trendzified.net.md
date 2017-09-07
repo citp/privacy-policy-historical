@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendzified.net privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508214551id_/http%3A//www.trendzified.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendzified.net privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907131839id_/https%3A//www.trendzified.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trendzified
 
