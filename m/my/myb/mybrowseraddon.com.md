@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrowseraddon.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190840id_/http%3A//mybrowseraddon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrowseraddon.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907150015id_/https%3A//mybrowseraddon.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: mybrowseraddon.com
 
