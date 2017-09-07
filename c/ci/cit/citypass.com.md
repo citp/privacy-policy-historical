@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083934id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907143952id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | CityPASS®
 
@@ -56,8 +56,6 @@ Once you enter the checkout page, your computer will begin communicating with ou
   * In most browsers, you will see a closed padlock to the right of the address window. You can click on the lock for more security information.
 
 
-
-Additionally, citypass.com is tested and certified daily to pass the McAfee SECURE security scan. You can click on the McAfee SECURE logo found on all citypass.com Web pages for more information. Research indicates sites remotely scanned for known vulnerabilities on a daily basis, such as those earning McAfee SECURE certification, can prevent over 99% of hacker crime. 
 
 * * *
 
