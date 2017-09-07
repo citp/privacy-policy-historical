@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627113624id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907113408id_/https%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ACD Systems
 
@@ -32,11 +32,11 @@ If, after or during purchase, you choose to register your ACD software, any info
 
 ### ACD Newsletter and Information List Memberships
 
-When you consent to receive newsletters, ACD may use information it has collected to provide you with mailed or e-mailed notices according to the preferences that you indicate to us. This may include notice in the form of newsletters, website update notices, notification of the availability of new products or product updates as well as information on promotions and special offers. You can elect to not receive any further notices from ACD, either by 1) unsubscribing directly to any e-mail you receive, or 2) by [logging into your account](https://web.archive.org/acdid/login) with ACD where you can unsubscribe or change your preferences. (You can log-in to the preference center once you have submitted your e-mail address to ACD and it has been processed.)
+When you consent to receive newsletters, ACD may use information it has collected to provide you with mailed or e-mailed notices according to the preferences that you indicate to us. This may include notice in the form of newsletters, website update notices, notification of the availability of new products or product updates as well as information on promotions and special offers. You can elect to not receive any further notices from ACD, either by 1) unsubscribing directly to any e-mail you receive, or 2) by [logging into your account](https://acdid.acdsee.com/login) with ACD where you can unsubscribe or change your preferences. (You can log-in to the preference center once you have submitted your e-mail address to ACD and it has been processed.)
 
 ### ACD Website or ACD Product User Surveys
 
-The purpose of this information request will be optional and required only to engage in certain activities. Additional information we may ask you to provide when choosing to engage in other activities on our websites or within our products may include name, mailing address, telephone number, facsimile numbers, e-mail address, and other demographic information that will enable us to better understand the requirements of our customers and to continue to provide high quality products and services.
+TThe purpose of this information request will be optional and required only to engage in certain activities. Additional information we may ask you to provide when choosing to engage in other activities on our websites or within our products may include name, mailing address, telephone number, facsimile numbers, e-mail address, and other demographic information that will enable us to better understand the requirements of our customers and to continue to provide high quality products and services.
 
 ### Website and ACDInTouch or acdID Activity
 
@@ -68,12 +68,7 @@ At any time you may review, alter or remove any personal information, including 
 
 ACD Systems.  
 Privacy/Customer Service  
-500 Aloha St  
-Suite C2-A  
-Seattle, Washington  
-98109  
-United States of America  
-Fax: 1.866.544.0291
+
 
 129-1335 Bear Mountain Parkway,  
 Victoria, BC, Canada   
