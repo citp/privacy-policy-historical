@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515145341id_/https%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907085224id_/https%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lehigh Valley Health Network - A Passion For Better Medicine
 
@@ -85,7 +85,7 @@ Please note that by disabling or opting-out from the use of these communications
 
 We understand that your medical information is personal. As a hospital network, we are committed to the protection of health information that may identify you as an individual, which we call Protected Health Information (“PHI”) and treat differently than other forms of personal information that you provide.
 
-Our network has created a [**HEALTH INFORMATION PRIVACY NOTICE**](http://lvhn.org/uploads/Media/HIPAA_-Health_Information_Privacy_Notice_Policy.pdf) to describe how we use and disclose your PHI respective to the services offered through Lehigh Valley Health Network. This Notice includes information about:
+Our network has created a [**HEALTH INFORMATION PRIVACY NOTICE**](https://www.lvhn.org/sites/default/files/uploads/PDFs/HIPAA_Health_Information_Privacy_Notice_Policy.pdf) to describe how we use and disclose your PHI respective to the services offered through Lehigh Valley Health Network. This Notice includes information about:
 
   * How we may use and disclose your PHI
   * When we may disclose your PHI to others
@@ -95,7 +95,7 @@ Our network has created a [**HEALTH INFORMATION PRIVACY NOTICE**](http://lvhn.or
 
 
 
-To download a complete copy of our **HEALTH INFORMATION PRIVACY NOTICE** , please click here.
+To download a complete copy of our **HEALTH INFORMATION PRIVACY NOTICE** , please [click here](https://www.lvhn.org/sites/default/files/uploads/PDFs/HIPAA_Health_Information_Privacy_Notice_Policy.pdf).
 
 ### Updates to Our Privacy Policy
 
