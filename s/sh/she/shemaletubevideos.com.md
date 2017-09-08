@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemaletubevideos.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118082306id_/https%3A//www.shemaletubevideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaletubevideos.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908065541id_/https%3A//www.shemaletubevideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ShemaleTubeVideos
 
