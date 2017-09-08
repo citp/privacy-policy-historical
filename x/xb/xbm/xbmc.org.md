@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbmc.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195946id_/http%3A//xbmc.org/kodi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbmc.org privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908104449id_/http%3A//xbmc.org/kodi-privacy-policy) for the most accurate reproduction.*
 
 # Kodi Privacy Policy | Kodi | Open Source Home Theater Software
 
