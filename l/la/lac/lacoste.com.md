@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lacoste.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202307id_/http%3A//www.lacoste.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacoste.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908081636id_/https%3A//www.lacoste.com/us/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Lacoste
 
 **Privacy Policy**
 
-LACOSTE USA, Inc., LACOSTE OPERATIONS S.A. and Lacoste S.A. (hereinafter collectively referred to as “Lacoste”) respect your privacy and are committed to maintaining and using your information responsibly. Except as otherwise mentioned below, this privacy policy only addresses the use and disclosure of information we collect from you on this web site, located at [http://shop.lacoste.com](http://shop.lacoste.com/) (the “Site”). By visiting the Site you are accepting the practices described in this privacy policy.
+LACOSTE USA, Inc., LACOSTE OPERATIONS S.A. and Lacoste S.A. (hereinafter collectively referred to as “Lacoste”) respect your privacy and are committed to maintaining and using your information responsibly. Except as otherwise mentioned below, this privacy policy only addresses the use and disclosure of information we collect from you on this web site, located at [http://www.lacoste.com/us/](http://shop.lacoste.com/) (the “Site”). By visiting the Site you are accepting the practices described in this privacy policy.
 
   1. **Collection of Information**
 
