@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixtimemommy.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608063846id_/http%3A//sixtimemommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixtimemommy.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908070308id_/http%3A//sixtimemommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Six Time Mommy and Counting…
 
@@ -50,5 +50,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+**For information about  opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy–policy](https://www.gourmetads.com/about/privacy-policy)**
 
 This document was last updated on July 29, 2015
