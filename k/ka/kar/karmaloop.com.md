@@ -1,145 +1,94 @@
-> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201103id_/http%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908095430id_/http%3A//karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Karmaloop.com
 
 * * *
 
-## Information Collection & Use
+Thank you for visiting our websites. We recently updated our Privacy Policy, which outlines the information we collect, how it may be used and/or disclosed, as well as your options regarding these practices. If you have any questions or concerns regarding this Privacy Policy, please contact us at [questions@karmaloop.com](mailto:questions@karmaloop.com).
 
-### Orders
+Shiekh Shoes, LLC, its subsidiaries, or its affiliates (referred to as “Shiekh”, "we," "us," or "our" herein) desires to protect your information, as such we have developed this Privacy Policy, which describes the information we may collect when you use visit our located at, or linked to, the URLs www.karmaloop.com, www.plndr.com and www.kazbah.com, KarmaloopTV.com and the use of any of our co-branded websites that we maintain with one or more of our business partners (which website contains a link to this Privacy Policy) and the services that may be offered on each of the sites; our affiliate program(s) and corporate accounts; the ability to order products and receive newsletters and promotional emails; and any related links ( the "Sites") or mobile applications (the "Apps") (collectively the "Services").
 
-If you purchase a product from us, we request certain personally identifiable information from you on our order form. You must provide contact information (including name, telephone number, email, and shipping address) and financial information (such as credit card number and its expiration date).
+Please be advised that this Privacy Policy replaces all previous policies regarding our data collection and information use practices. Please check back frequently as we reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on this website. By using the Services, you agree to the collection, use and disclosure of your personal information as described in this Privacy Policy. If you do not agree, please do not use the Services.
 
-We use this information for billing purposes and to fulfill your orders. If we have trouble processing an order, we will use this information to contact you.
+### Types of Information We Collect & Use
 
-While making a purchase from karmaloop.com, you are given the option to create a username and password. This user name and password functionality offers our customers the ability to quickly and easily proceed through the check out process on repeat visits. We do not store your credit card information as part of this optional service. There is also the option to receive our email newsletter updates. If you choose to receive these you should expect weekly HTML newsletter content to arrive at the email address you provided with your purchase.
+We collect the information you provide to us while using our Services when you register on our Sites or Apps, place an order, participate in any of our promotions, surveys or product review, sign up for any of our loyalty programs and when you contact us.
 
-Karmaloop LLC and our subsidiaries are the sole owner of the information collected on karmaloop.com.
+The information collected from you may include your name, age, mailing address, telephone/cellular phone numbers, e-mail addresses, account user name and passwords, as well as payment information. If you use a third party login to register or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on that third party service.
 
-### Surveys or Contests
+Please be aware that you are solely responsible for updating the personal information you provide to us. If you have registered with us (see Account Registration below) or participate in any of our other loyalty programs, you may update your personal information through your registered account or loyalty program account. If you elect to delete some or all of your personal information, please keep in mind that we may retain transactional data in accordance with various laws, regulations and our company’s retention policy.
 
-Karmaloop often provides you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address).
+### Account Registration
 
-We use this information to notify contest winners, award prizes, and to send participants our HTML email newsletter.
+We encourage you to register when shopping on our Sites or Apps or when using our Services; however account registration is not required. Our registration process may require users to provide contact information (such as name, age, mailing address, telephone/cell phone number, e-mail address and password). Registration helps us to provide an expedited checkout process, as well as provide a more tailored customer experience. The customer contact information you provide will be used to contact you concerning the status of an order, answer your questions and, unless you choose to opt-out, to send you communications about upcoming sales, contests, promotions, newsletters and product information. You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password. You are responsible for all use of the Sites or Apps under your registered account. If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve your shopping experience and to provide you with more relevant content and advertising.
 
-We sometimes run contests in conjunction with other websites or services. When we do so, any information you provide as a result of entering the contest or survey may also be provided to the affiliate but such practices will always be clearly marked at the time of entry.
+We will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. **If you are under 13 years old, please do not provide your information on our website or attempt to register on our Sites, Apps or Services.**
 
-### Tell-A-Friend
+### Information We May Automatically Collect
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. Your friend will also be subscribed to our weekly HTML email newsletter. Your friend may contact us at <http://www.karmaloop.com/account/unsubscribe> to request that we remove his or her email address from our database.
+We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Sites or Apps, or interact with our emails or advertisements on our Sites, our Apps, or other Services. A cookie is a small data file that is sent to your browser from a web server and stored on your phone or computer's hard drive. For example, we may automatically collect information such as your IP address, geographic location data, unique user ID, cell phone model, operating system, and carrier, and internet service provider. We also may collect information about your use of our Services, such as the time you spend using the Sites or Apps or Services, the number of times you visit, whether you click-through, open, or forward links, emails, and ads, and other Services usage data. These technologies, such as cookies, allow us to keep track of your order as you shop on our Sites or Apps, recognize registered users when they visit, and to provide those customers with information and advertising that is more relevant to them. If you register with or order from us, we may use cookies or other technologies to monitor and maintain information about how you use our Services and what you buy. If you do not register with or buy from us, we may monitor and maintain information about your use in order to improve your shopping experience and provide you with more relevant content and advertising.
 
-### Uses of Information
+### California Privacy Rights
 
-We use the information we collect from you for billing purposes and to fulfill your orders. We do not store your credit card information. If you have created a username and password to the site or if you have signed up to receive our email newsletter updates we may use your purchase history to personalize special offers and promotions for you. These offers and promotions will be delivered to you in the form of an email newsletter.
+Pursuant to California law, residents of this state are entitled to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for their direct marketing purposes. We do not provide any personal information to third parties for their own direct marketing purposes. We however may share your personal information with affiliated third parties such as the Shiekh family of companies, some of which do not share the Shiekh name, for their direct marketing purposes (see below Use of Information Disclosure section for more information about these companies). This category of affiliate is considered an unaffiliated party under California law and, if you are a California resident, you may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you want to request a notice or have any questions about our privacy practices or sharing of your personal information, please contact us at questions@shiekhshoes.com.
 
-* * *
+### Tracking Options and California Do Not Track
 
-## Communications from the Site
+You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of our offerings. Even without a cookie, you can still take advantage of most of the features of our Sites or Apps, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers.
 
-### Special Offers and Updates
+We may also use certain service providers to provide our customers with a more relevant online advertising based on their activities on our Sites, Apps and/or third party sites. To learn more about, or to opt out of use of this information by certain service providers, please click here https://www.karmaloop.com/account/unsubscribe. We may also use technologies, such as our own cookies, to provide you with online advertising tailored to your interests. If you would like to opt out of our cookies used for this online advertising, please click here <https://www.karmaloop.com/account/unsubscribe> or email marketing@karmaloop.com. For certain service providers, such as social media platforms, and on your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising.
 
-We will occasionally send you information on products, special deals, and promotions. You can sign up for these emails from us at any time on any page on the site. Out of respect for your privacy, we present the option not to receive these types of communications at <http://www.karmaloop.com/account/unsubscribe>.
+### Information We Collect From Other Sources
 
-### Newsletters
+We may obtain information about our customers from other sources, including social media networks that you use to connect with our Services. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity. We may also compile the information we receive from and about you from multiple sources, including the information you provide to us on the Services, through our promotional or loyalty programs, customer surveys, contest entries/submissions, information we receive from third parties, information we automatically collect (as explained above in Information We May Automatically Collect section), and information provided by you when you shop in our stores.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe here: <http://www.karmaloop.com/account/unsubscribe>.
+### How We May Use the Information Collected
+
+The information we collect is used to improve the content of our Services, enhance the value of our products, expedite the shopping experience and communicate with affiliates and customers.  This may also include to notify you about special events, product launches, applications for employment or career opportunities, contest entries, membership or loyalty programs you apply for, in responding to your comments, questions or complaints, and other information you have chosen to receive regarding our products.
+
+### Use of Information Disclosure
+
+We use the information we collect from you for billing purposes and to fulfill your orders. We do not store your credit card information[](http://www.karmaloop.com/help/privacy-policy/#_msocom_1). If you have created a username and password to the site or if you have signed up to receive our email newsletter updates we may use your purchase history to personalize special offers and promotions for you. These offers and promotions will be delivered to you in the form of an email newsletter.  We may also share the information we collect from you and about you with Shiekh’s subsidiaries, including Shiekh Shoes, Shiekh, ShiekhToo, ChicShoes.com, TiltedSole.com, Eilatan.com, Sole, Broadway 7.15, FBRK Clothing.com, Karmaloop, PLNDR and Kazbah , as well as certain third-party partners. We also may use your personal information for our everyday business purposes such as service improvements, security, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance.
+
+**Please be aware that any personal or proprietary information or content that you voluntarily upload or submit for public posting to the Services (e.g., comments, pictures or other content) becomes publicly available and can be collected and used by others. It is a violation of the Service's Terms of Use  **[](http://www.karmaloop.com/help/privacy-policy/#_msocom_3) **for you to post content that requests personally identifiable information from other users of our Services.**
+
+Please also be aware that it is possible that we may sell or buy other website or assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Services in a manner that is consistent with this Privacy Policy. We may also occasionally share aggregate, non-personally identifiable information about users of our Services with third parties.
+
+### Ability to Opt-Out
+
+At any time, you have the option of opting out of receiving emails regarding special offers, newsletters or other marketing communications from us by sending an email to [marketing@karmaloop.com](mailto:marketing@karmaloop.com) with the subject header “unsubscribe” or by clicking on the link in the email you receive from us which will direct you on the process of opting out of future email marketing.  Please be advised that by using these opt out procedures, you may still receive non-marketing email messages from us to confirm your order, respond to your questions, etc.
 
 ### Customer Service
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.  Opting out will not stop these types of communications.
 
 ### Supplementation of Information
 
-In order to process your credit card orders, we use [Verisign](http://www.verisign.com/), a third party service, to validate and verify your account information. All billing and account info is transmitted via https which is a secure encrypted protocol system.
+In order to process your credit card orders, we use BrainTree/PayPal, a third party service, to validate and verify your account information. All billing and account info is transmitted via https which is a secure encrypted protocol system[](http://www.karmaloop.com/help/privacy-policy/#_msocom_4).
 
 ### Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. You cannot opt out of disclosure of your personal information if required by lawful order.
+At all times, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website or company. You cannot opt out of disclosure of your personal information if required by lawful order.
 
-* * *
+### Links to Other Sites
 
-## Log Files
+This website contains links to other sites that are not owned or controlled by karmaloop.com. Please be aware that we, karmaloop.com, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.  As such, your access or use of any such linked websites or apps is solely at your own risk, and hereby waive any and all claims against Shiekh with respect to such linked websites or apps.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
-
-We do not link this automatically-collected data to personally identifiable information. We use two third-party tracking services; [Webtrends](http://www.webtrends.com/) & [Clicktracks](http://www.clicktracks.com/) that use cookies to track non-personally identifiable information about visitors.
-
-* * *
-
-## Third Party Advertisers
-
-The ads appearing on this website are delivered to users by Indiclick, our advertising partner. We do not share any website usage information about users with Indiclick
-
-* * *
-
-## Links to Other Sites
-
-This website contains links to other sites that are not owned or controlled by karmaloop.com. Please be aware that we, karmaloop.com, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.
-
-* * *
-
-## Co-branded sites
-
-Karmaloop occasionally develops co-branded sites so third parties can re-sell our products through their store or website. Co-branded sites are mostly driven by the Karmaloop shopping cart experience and all data collected stays with Karmaloop.
-
-* * *
-
-## Access to Personally Identifiable Information
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our My Account page, or by emailing our Customer Support at [questions@karmaloop.com](mailto:questions@karmaloop.com) or by contacting us by telephone or postal mail at the contact information listed below.
-
-* * *
-
-## Security
+### Security
 
 The security of your personal information is important to us. We use reasonable technological and physical safeguards to protect personal information you provide to us from loss, misuse and unauthorized access, disclosure, alteration and destruction. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet is 100% secure, however, we make all reasonable efforts to use commercially acceptable means to protect your personal information. In the unlikely event of a data breach, you will be notified as soon as possible.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet is 100% secure, however, we make all reasonable efforts to use commercially acceptable means to protect your personal information. In the unlikely event of a data breach, you will be notified as soon as possible.[](http://www.karmaloop.com/help/privacy-policy/#_msocom_5)  
 
-If you have any questions about security on our website, you can email us at [questions@karmaloop.com](mailto:questions@karmaloop.com)
 
-* * *
+Customer Service
 
-## Use/Access by Third Parties
+If you have any questions about this Privacy Policy, the security on our Sites or Apps, or our data handling practice, you may contact us by email at [questions@karmaloop.com](mailto:questions@karmaloop.com) or by writing us at:
 
-In addition to the third parties mentioned specifically in this policy, Karmaloop may share your information with third party vendors and affiliates. If Karmaloop shares your personal information with any third party, we will take precautions to ensure that these companies only use your information consistent with this Policy and that reasonable safeguards are taken to ensure the third party provides at least the same level of privacy protection that Karmaloop provides.
+Shiekh Shoes, LLC
 
-* * *
+Attn: Legal Department
 
-## Business Transitions
+1777 S. Vintage Avenue
 
-In the event karmaloop.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
-
-* * *
-
-## Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-* * *
-
-## Enforcement
-
-Karmaloop will regularly review its policies and practices to determine its continued compliance with the requirements of the Safe Harbor program, PIPEDA and the terms of this privacy policy. Karmaloop designates the European Data Protection Authorities and JAMS to refer unresolved Safe Harbor-related privacy complaints.
-
-* * *
-
-## Safe Harbor / PIPEDA
-
-Karmaloop complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, satisfying its obligations under the EU Directive on Data Protection, Swiss data protection law, and PIPEDA. Karmaloop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Karmaloop’s implementation of these principles are set forth more fully above. To learn more about the U.S. Department of Commerce Safe Harbor program, and to view Karmaloop’s certification, please visit http://www.export.gov/safeharbor/.
-
-Privacy Complaints by European Union Citizens:
-
-In compliance with the Safe Harbor Principles, Karmaloop commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Karmaloop at: 617-695-0117617-695-0117
-
-Customer Service  
-Karmaloop  
-334 Boylston St, 5th Floor  
-Boston, MA 02116  
-[questions@karmaloop.com](mailto:questions@karmaloop.com)
-
-* * *
+Ontario, CA 91761
