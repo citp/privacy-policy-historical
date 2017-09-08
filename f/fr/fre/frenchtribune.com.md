@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchtribune.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619235410id_/http%3A//frenchtribune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtribune.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908183124id_/http%3A//frenchtribune.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | French Tribune
 
