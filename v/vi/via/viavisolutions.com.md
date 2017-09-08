@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the viavisolutions.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621215528id_/http%3A//www.viavisolutions.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viavisolutions.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908061424id_/http%3A//www.viavisolutions.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Viavi Solutions Inc.
+# Privacy Policy | VIAVI Solutions Inc.
 
-## You are here
+You are here
 
-Viavi Solutions values your privacy. 
+VIAVI Solutions values your privacy. 
 
-Viavi Solutions values your privacy.
+VIAVI Solutions values your privacy.
 
 **E-mail Programs:**
 
