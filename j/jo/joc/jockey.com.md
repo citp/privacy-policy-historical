@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033156id_/http%3A//www.jockey.com/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908024509id_/http%3A//jockey.com/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
@@ -110,4 +110,4 @@ If you have any questions or concerns about Jockey's Privacy Notice, you need fu
 [Request a Jockey® Catalog](https://web.archive.org/shoppingguide/catalogrequest)  
 
 
-©2016 Jockey International, Inc. All Rights Reserved. 
+©2017 Jockey International, Inc. All Rights Reserved. 
