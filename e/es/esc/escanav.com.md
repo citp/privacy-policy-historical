@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225622id_/http%3A//www.escanav.com/en/about-us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909014344id_/https%3A//escanav.com/en/about-us/privacy-policy.asp) for the most accurate reproduction.*
 
-# eScan : Secure – Scalable – Reliable : Antivirus, Content Security and Firewall Protection for Servers and Endpoints
+# eScan privacy policy safety of your digital assets
 
 ## What is MicroWorld's privacy policy?
 
