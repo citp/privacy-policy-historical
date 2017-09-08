@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the afepower.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606115450id_/http%3A//afepower.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afepower.com privacy policy that was archived on 2017-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170908024446id_/http%3A//afepower.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -32,8 +32,8 @@
 <link rel="dns-prefetch" href="//www.googlecommerce.com">
 <link rel="dns-prefetch" href="//www.googletagmanager.com">
 <link rel="dns-prefetch" href="//www.gstatic.com">
-<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/1dd33bf64caddf89b4011da8ad557bbb.1496429578.css" media="all">
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://afepower.com/media/js/5ec710e5ed906616ed8b1cd5e09387f2.1496429578.js"></script>
+<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/1dd33bf64caddf89b4011da8ad557bbb.1504220638.css" media="all">
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://afepower.com/media/js/5ec710e5ed906616ed8b1cd5e09387f2.1504220650.js"></script>
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700,500,300">
 <link rel="canonical" href="http://afepower.com/privacy-policy">
 <meta property="og:type" content="website">
@@ -44,13 +44,13 @@
 <meta property="og:description" content="our privacy is very important to Advanced FLOW Engineering, and we are committed to protecting it.">
 <meta property="og:locale" content="en_US">
 <!--[if  (lte IE 8) & (!IEMobile)]>
-<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/9ab0a2c99ac9b9383e8fbf61785657d5.1496429578.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/9ab0a2c99ac9b9383e8fbf61785657d5.1504220638.css" media="all" />
 <![endif]-->
 <!--[if (gte IE 9) | (IEMobile)]><!-->
-<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/8423e86f895d1c0e95b0aff84ebbef46.1496429578.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/8423e86f895d1c0e95b0aff84ebbef46.1504220638.css" media="all">
 <!--<![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/79d9cca88811a9060270cfc8f72cd0c1.1496429578.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://afepower.com/media/css/79d9cca88811a9060270cfc8f72cd0c1.1504220638.css" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -88,6 +88,55 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 //]]>
 </script>
+<script type="text/javascript">
+
+    function nxtAddLoadListener(fn) {
+//mozilla and friends
+        if (typeof window.addEventListener != 'undefined') {
+            window.addEventListener('load', fn, false);
+        }
+//opera
+        else if (typeof document.addEventListener != 'undefined') {
+            document.addEventListener('load', fn, false);
+        }
+//innernetz exploder
+        else if (typeof window.attachEvent != 'undefined') {
+            window.attachEvent('onload', fn);
+        }
+//the rest is pretty much for browsers that I doubt your
+//CSS or anything else still supports like IE/Mac
+        else {
+            var oldfn = window.onload;
+            if (typeof window.onload != 'function') {
+                window.onload = fn;
+            }
+            else {
+                window.onload = function() {
+                    oldfn();
+                    fn();
+                };
+            }
+        }
+    }
+    nxtAddLoadListener(function(){
+        document.getElementById("search_mini_form").action = "http://afepower.com/nsearch";
+    });
+
+    //Nextopia initialization
+    if (typeof nxtOptions !== 'object') {
+        var nxtOptions = {};
+    }
+    if (!nxtOptions.customOptions) {
+        nxtOptions.customOptions = {};
+    }
+    nxtOptions.customOptions.formKey = 'v1nmnPiiNZb8Ap55';
+    nxtOptions.customOptions.groupId = '';
+
+</script>
+<!-- nextopia ajax initializer -->
+<script src="//cdn.nextopia.net/v1.5.1/2de75f3921da2f766299619543e90f90.js" async=""></script>
+<!-- nextopia ajax  initializer end -->
+
 <script>var AMSHOPY_AJAX = true;</script>            <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
     <script type="text/javascript">
         //<![CDATA[
@@ -205,7 +254,7 @@ ga('send', 'pageview');
                         <div class="account-cart-wrapper">
                             <div class="header-search-skip-link">
                                 
-<form id="search_mini_form" action="http://afepower.com/catalogsearch/result" method="get">
+<form id="search_mini_form" action="http://afepower.com/nsearch" method="get">
             <div class="input-box">
         <label for="search">Search:</label>
         <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Search Website">
@@ -216,7 +265,7 @@ ga('send', 'pageview');
     <script type="text/javascript">
     //<![CDATA[
         var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-        searchForm.initAutocomplete('http://afepower.com/catalogsearch/ajax/suggest', 'search_autocomplete');
+        //searchForm.initAutocomplete('http://afepower.com/catalogsearch/ajax/suggest', 'search_autocomplete');
     //]]>
     </script>
 </form>
@@ -280,10 +329,16 @@ ga('send', 'pageview');
     <a class="level0 has-children" href="http://afepower.com/vehicle-platforms/diesel-trucks">Diesel Trucks</a>
     <ul class="level0">
         <li class="level1">
-            <a class="level1" href="http://afepower.com/vehicle-platforms/diesel-trucks/gm">GM - Duramax</a>
+            <a class="level1" href="http://afepower.com/new-2017-chevygmc-duramax-l5p-performance-parts-intake-exhaust-tuner">GM - Duramax L5P</a>
         </li>
         <li class="level1">
-            <a class="level1" href="http://afepower.com/new-2017-chevygmc-duramax-l5p-performance-parts-intake-exhaust-tuner">GM - Duramax L5P</a>
+            <a class="level1" href="http://afepower.com/new-2017-ford-power-stroke-6-7l-performance-parts-intake-exhaust-tuner">Ford - '17 Power Stroke</a>
+        </li>
+        <li class="level1">
+            <a class="level1" href="http://afepower.com/nissan-titan-xd-cummins-diesel-performance-and-suspension-upgrades">Nissan - Cummins</a>
+        </li>
+        <li class="level1">
+            <a class="level1" href="http://afepower.com/vehicle-platforms/diesel-trucks/gm">GM - Duramax</a>
         </li>
         <li class="level1">
             <a class="level1" href="http://afepower.com/vehicle-platforms/diesel-trucks/dodge-ram">Dodge/RAM - Cummins</a>
@@ -294,19 +349,16 @@ ga('send', 'pageview');
         <li class="level1">
             <a class="level1" href="http://afepower.com/vehicle-platforms/diesel-trucks/ford">Ford - Power Stroke</a>
         </li>
-        <li class="level1">
-            <a class="level1" href="http://afepower.com/nissan-titan-xd-cummins-diesel-performance-and-suspension-upgrades">Nissan - Cummins</a>
-        </li>
     </ul>
 </li>
     <li class="level0 parent">
     <a class="level0 has-children" href="http://afepower.com/vehicle-platforms/gas-trucks">Gas Trucks</a>
     <ul class="level0">
         <li class="level1">
-            <a class="level1" href="http://afepower.com/vehicle-platforms/gas-trucks/ford">Ford</a>
+            <a class="level1" href="http://afepower.com/17raptor">Ford Raptor</a>
         </li>
         <li class="level1">
-            <a class="level1" href="http://afepower.com/17raptor">Ford Raptor</a>
+            <a class="level1" href="http://afepower.com/vehicle-platforms/gas-trucks/ford">Ford</a>
         </li>
         <li class="level1">
             <a class="level1" href="http://afepower.com/vehicle-platforms/gas-trucks/dodge-ram">Dodge/RAM</a>
@@ -631,7 +683,7 @@ ga('send', 'pageview');
                     <a class="level2" href="http://afepower.com/products/gear?afe_type=105">Banners</a>
                 </li>
                 <li class="level2">
-                    <a class="level2" href="http://afepower.com/products/gear?afe_type=152">Stickers</a>
+                    <a class="level2" href="http://afepower.com/products/gear?afe_type=122%2C112">Stickers / Decals</a>
                 </li>
             </ul>
         </li>
@@ -698,7 +750,7 @@ Element.addMethods({getText:function(element){a=$(element);return a.innerHTML;}}
 </script>    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><h3>Your privacy is important to us</h3>
+<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><h3>Your privacy is important to us</h3>
 <p>Your privacy is very important to Advanced FLOW Engineering, and we are committed to protecting it. You are welcome to explore our web site without providing any information about yourself. When you visit and navigate our Web site, we will not collect personal information about you unless you provide us that information voluntarily. By "personal information," we mean data that is unique to an individual, such as a name, account address, e-mail account address or telephone number.</p>
 <p>What information does Advanced FLOW Engineering collect from me? Our web server automatically recognizes your domain name. Our web server does not recognize your e-mail account address. Most of Advanced FLOW Engineering web site has been designed to not require the use of any personal identifiers (such as name, account address, telephone number or e-mail account address). IF YOU SEND US AN E-MAIL OR SUBSCRIBE TO A NEWSLETTTER, WE WILL HAVE YOUR E-MAIL ADDRESS AT OUR SITE.</p>
 <p>Advanced FLOW Engineering collects and uses certain information on its web site. This information includes your IP account address, information about your browser (i.e., whether you are using Netscape, Internet Explorer, etc.), and information about your Internet Service Provider (i.e., AOL, Verizon). An IP account address (Internet Protocol Address) is a unique number that is used to represent every single computer in a network. All computers on the Internet have a unique IP account address. None of the foregoing information will be used by Advanced FLOW Engineering in any way, or in connection with any other information, to identify you personally.</p>
@@ -734,7 +786,100 @@ Element.addMethods({getText:function(element){a=$(element);return a.innerHTML;}}
 <p>All content at Advanced FLOW Engineering, including graphics, logos, icons, text, and images, is the property of Advanced FLOW Engineering and is protected by U.S. and international copyright laws.</p></div>                </div>
             </div>
         </div>
-                <div class="footer-container">
+        <div class="footer-before-container"><div class="widget widget-static-block"><script type="text/javascript">
+  $j(document).ready(function(){
+    var tripValue = localStorage.getItem("aFe_trip");
+    
+    if (localStorage.getItem("aFe_trip") === null) {
+      localStorage.setItem("aFe_trip", 1);
+    } else {
+      tripValue++;
+      localStorage.setItem("aFe_trip", tripValue);
+    }
+
+    if (localStorage.getItem("aFe_trip") >= 2) {
+      
+      if (localStorage.getItem("aFe_popup") === null) {
+        //show your pupup
+        setTimeout(function(){
+          $j(".newsletter-popup").fadeIn();
+        },10000);
+        
+      }
+      //Close Button or Background Click
+      $j(".newsletter-close, .newsletter-popup").click(function(){
+        localStorage.setItem("aFe_popup", "True");
+        $j(".newsletter-popup").fadeOut();
+      });
+      
+      //Escape button click
+      $j(document).keyup(function(e) {
+        if (e.keyCode == 27) { // escape key maps to keycode `27`
+          localStorage.setItem("aFe_popup", "True");
+          $j(".newsletter-popup").fadeOut();
+        }
+      });
+      
+    }
+  })
+</script>
+
+<style type="text/css">
+  .newsletter-popup {
+    background: url(http://afepower.com/media/wysiwyg/newsletter-popup/popup-overlay.png);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    display: none;
+  }
+  .newsletter-inner {
+    width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .newsletter-inner img {
+    width: 100%;
+    height: auto;
+  }
+  .newsletter-close {
+    width: auto !important;
+    height: auto !important;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+  }
+  .nlp-mobile { display: none; }
+
+  @media screen and (max-width: 850px) {
+    .nlp-mobile { display: block; }
+    .nlp-desktop { display: none; }
+    .newsletter-inner { width: 400px }
+  }
+
+  @media screen and (max-width: 460px) {
+    .newsletter-inner { width: 300px; }
+    .newsletter-close { width: 25px !important; height: auto; }
+  }
+</style>
+
+<div class="newsletter-popup">
+  <div class="newsletter-inner">
+    <a href="/newsletter-signup">
+      <img class="nlp-desktop" src="http://afepower.com/media/wysiwyg/newsletter-popup/newsletter-popup-800x400.1501871269.jpg" alt="">
+      <img class="nlp-mobile" src="http://afepower.com/media/wysiwyg/newsletter-popup/newsletter-popup-400x350.1501871268.jpg" alt="">
+    </a>
+    <img class="newsletter-close" src="http://afepower.com/media/wysiwyg/newsletter-popup/popup-close.1501871268.png" alt="">
+  </div>
+</div></div></div>        
+<div class="footer-container">
     <div class="footer-newsletter">
         <div class="page-content">
             
@@ -840,6 +985,42 @@ Element.addMethods({getText:function(element){a=$(element);return a.innerHTML;}}
         </div>
     </div>
 </div>
+
+
+
+
+
+<script type="text/javascript">
+
+    function CheckPopup() {
+        if (document.cookie.indexOf("visited=") >= 0) {
+            // They've been here before.
+            document.getElementsByClassName("YMM_main")[0].style.display = "none";
+        }
+    }
+</script>
+
+<style>
+    .YMM_main {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .YMM_main{
+        background-color: #eeeeee;
+        width: 768px;
+        height: 430px;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        z-index: 999;
+    }
+</style>
+
+
+
 <div class="fixed-bar" style="display: flex;">
   <div class="image">
     <img src="http://afepower.com/skin/frontend/afe/default/images/calender.1492639461.png" alt="calender">
