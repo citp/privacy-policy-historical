@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycentsofstyle.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916165012id_/http%3A//www.mycentsofstyle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycentsofstyle.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908083942id_/https%3A//www.mycentsofstyle.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cents Of Style
 
