@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mmobomb.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302203609id_/http%3A//www.mmobomb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmobomb.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908145600id_/https%3A//www.mmobomb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – MMOBomb.com
+# Privacy Policy - MMO Bomb
 
 **GENERAL**
 
-Your privacy is important to us. Our [Privacy Policy](http://www.mmobomb.com/privacy-policy/) describes our practices concerning data that you provide or that we may collect about you through the Services, and you consent to our use of data in compliance with the Privacy Policy.
+Your privacy is important to us. Our [Privacy Policy](https://www.mmobomb.com/privacy-policy/) describes our practices concerning data that you provide or that we may collect about you through the Services, and you consent to our use of data in compliance with the Privacy Policy.
 
 **COLLECTION OF PERSONAL INFORMATION**
 
@@ -14,7 +14,7 @@ MMOBomb.com does not sell, exchange, or release your personal information withou
 
 We use Personal Information for our own internal purposes including contacting you via email to inform you about updates to Site. We reserve the right to disclose your information as required by law. We do not rent or sell our Users’ Personal Information to third parties. We do, however, provide you with the opportunity to receive newsletters via email. If you decide to opt in to receive newsletters, you may opt out of receiving these newsletters at any time. We use your IP address and browser information to help diagnose problems with our server and to gather broad demographic information.
 
-Sweepstakes, [giveaways](http://www.mmobomb.com/giveaway/), contests, and promotions on the Services may also have additional rules and eligibility requirements, such as certain age or geographic area restrictions, and you are responsible for complying with these rules and requirements.
+Sweepstakes, [giveaways](https://www.mmobomb.com/giveaway/), contests, and promotions on the Services may also have additional rules and eligibility requirements, such as certain age or geographic area restrictions, and you are responsible for complying with these rules and requirements.
 
 **COOKIES**
 
