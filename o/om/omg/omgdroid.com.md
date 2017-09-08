@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327032952id_/https%3A//www.androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908204913id_/https%3A//www.androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Androidheadlines.com
 
@@ -10,7 +10,9 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We may use third-party advertising companies to serve ads when you visit Androidheadlines. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to our site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see [the Network Advertising Initiative’s consumer web site](http://optout.networkadvertising.org/#%21/).
 
 **What do we use your information for?**
 
