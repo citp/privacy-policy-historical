@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsarjan.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608011924id_/http%3A//techsarjan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsarjan.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908071048id_/http%3A//techsarjan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Sarjan
 
