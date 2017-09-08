@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122153927id_/https%3A//www.pharmacy2u.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908184418id_/https%3A//www.pharmacy2u.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Customer Privacy at Pharmacy2U
 
@@ -13,7 +13,7 @@ The key principles of our privacy policy are as follows.
   * We will use your personal information to allow us to provide the services you ask us for.
   * We will only share your information with other companies if this is necessary to provide our service to you (for example, to deliver medication or products we will need to share your address with a postal service). We share the minimum amount of information for the relevant purpose. Those we share your information with are not allowed to use it to try to sell their own services to you.
   * We will not sell your information to anyone for any reason.
-  * We will only send you information about our own products and services, and those of group companies if you have given us permission to. Bear in mind that if you choose not to receive this information, you may miss out on offers and deals.
+  * We will only send you information about our own products and services, and those of group companies and selected partners if you have given us permission to. Bear in mind that if you choose not to receive this information, you may miss out on offers and deals.
   * In some instances (for example, customers using our NHS repeat prescription service or online doctor consultation service), we will need to collect sensitive information about your health – such as existing health conditions or prescribed medication. The law and NHS regulations set out how we can record and use this sensitive information.
 
 
@@ -65,7 +65,7 @@ We will collect and store details of all medicines and other products we supply 
 
 We will use this information, as well as the other information we collect about you, to improve the quality of our website and services, as well as improving the personal information we hold about you. This helps us to build a profile of you, so we can send you marketing messages that should be relevant to you (unless you have told us that you do not to want to receive marketing from us). We will also put this information (which does not identify you) with other information so that we can use all the information we have to help us understand our customers and prospective customers better, including helping to predict which of our services may be of interest to them. We may share your personal information with our marketing service providers to help us identify prospective customers.
 
-Please note that we will only send you marketing information about our own products and services, and those of group companies, if you have given us permission to do so (you have to tell us if you want us to send you marketing information). We will not sell your information to anyone else, for any reason.
+Please note that we will only send you marketing information about our own products and services and those of group companies and selected partners, if you have given us permission to do so (you have to tell us if you want us to send you marketing information). We will not sell your information to anyone else, for any reason.
 
 ### Our service providers
 
@@ -92,7 +92,7 @@ Our website uses cookies to distinguish you from other users of our website. Thi
 
 ## Marketing
 
-We would like to get in touch with you, by post, email and text message, about products and services which we, our group companies provide and think you would be interested in, and to let you know about relevant offers and news. We will only do this if you have given us permission (you must tell us if you want to receive this information). If you no longer want to receive marketing information in a particular way, or receive any marketing at all, you can change your mind at any time. You can change your preferences by logging into ‘Your Account’ or visiting [help.pharmacy2u.co.uk/](http://help.pharmacy2u.co.uk/). You can also unsubscribe from further emails by clicking on the unsubscribe link at the end of every email we send you.
+We would like to get in touch with you, by post, email and text message, about products and services which we, our group companies and selected partners provide and think you would be interested in, and to let you know about relevant offers and news. We will only do this if you have given us permission (you must tell us if you want to receive this information). If you no longer want to receive marketing information in a particular way, or receive any marketing at all, you can change your mind at any time. You can change your preferences by logging into ‘Your Account’ or visiting [help.pharmacy2u.co.uk/](http://help.pharmacy2u.co.uk/). You can also unsubscribe from further emails by clicking on the unsubscribe link at the end of every email we send you.
 
 ## Giving information to third parties
 
@@ -131,12 +131,12 @@ If you have any questions, contact us by visiting [help.pharmacy2u.co.uk/](http:
 
 ## Changes to this privacy policy
 
-This policy was last updated on 12 August 2016.
+This policy was last updated on 29 November 2016.
 
 Date| Change  
 ---|---  
 11 June 2015 | First draft in current format with substantial changes since the previous version.  
 20 July 2015 | Additions to the ‘Getting to know you better’ section to make it clear that we may share your personal information and the profiling information with service providers to help us identify prospective customers.  
-24 Septempber 2015 | Addition of the summary of main points, to make key information more easily available. Minor changes to wording, following a review by the Plain English Campaign, to make sure this document is clear and understandable.  
-12 August 2016 | Addition of marketing the products and services of other companies in our group of companies./td>  
-8 October 2016 | Addition of provision to market products and services of group partners.
+24 September 2015 | Addition of the summary of main points, to make key information more easily available. Minor changes to wording, following a review by the Plain English Campaign, to make sure this document is clear and understandable.  
+12 August 2016 | Addition of marketing the products and services of other companies in our group of companies.  
+29 November 2016 | Addition of provision to market products and services of selected partners.
