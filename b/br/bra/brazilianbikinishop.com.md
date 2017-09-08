@@ -1,6 +1,76 @@
-> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610031143id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908145453id_/https%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
 
 # Terms and Conditions
+
+## Index:
+
+[\- Legal Notice](http://www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html#legal)  
+[\- Terms and Conditions](http://www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html#terms)  
+[\- Privacy](http://www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html#privacy)
+
+## Legal Notice
+
+  
+
+
+**Tel** : (786) 224-0188 (Our customer services team will be happy to answer your questions any time from 2 p.m. to�11 p.m., Monday to Friday)   
+**Email** : info@brazilianbikinishop.com
+
+ **Company name�:** Brazilian Bikini Shop S.A.R.L.
+
+**Companies Register Number :** R.C.S. ANTIBES 509778270�  
+**Date of incorporation�:** 08 January 2009  
+**Registered Capital�:** 7500 �  
+**EU VAT number :** FR 36 509778270
+
+**Editorial Director�:** M. Guatteri Gian Marco  
+**Our Translation Partner :** Dixit.com
+
+**Head Office**  
+Brazilian Bikini Shop S.A.R.L.   
+75, Chemin des Collettes,   
+06800 Cagnes sur mer,  
+C�te D'azur - French Riviera, France
+
+**Return Address - USA**  
+Brazilian Bikini Shop  
+1033 SW 30TH AVE   
+DEERFIELD BEACH   
+FL 33442   
+United States
+
+**Return Address - Europe**  
+Brazilian Bikini Shop S.A.R.L.  
+Monique van Luijk  
+Chemin de Peyrecave  
+09600 Regat  
+France
+
+**Return Address - Canada:**  
+Brazilian Bikini Shop   
+5810 AMBLER DRIVE UNIT 10  
+MISSISSAUGA  
+ONTARIO L4W4J5   
+Canada
+
+**Return Address - Italy:**  
+Brazilian bikini shop C/o SDA  
+ImperiaVia Argine dx snc  
+18100 Imperia  
+Italia
+
+**Return Address - Portugal:**  
+Elisabete Coelho  
+Brazilian Bikini Shop  
+Rua Sao Tome e Principe Lote 14-M 3 esq.  
+2950-114 Palmela  
+Portugal
+
+## Terms and Conditions
+
+Last update 23/06/2017
+
+Local address are also available in Germany, India, Brazil and other countries. Contact the customer service to get more information
 
 ### **1\. INFORMATION ABOUT US**
 
@@ -9,7 +79,7 @@ We are registered in Antibes, France under company number RCS 509778270 and with
 
 **Customer Service** :  
 You can contact us by email at info@brazilianbikinishop.com,   
-by telephone on +1 786 329 5591 - Monday to Friday from 2 PM to 23h PM (Paris Time zone)
+by telephone on (786) 224-0188 - Monday to Friday from 2 PM to 23h PM (Paris Time zone)
 
 ### **2\. YOUR PERSONAL INFORMATION**
 
@@ -110,6 +180,9 @@ If any part of these terms is unenforceable, the enforceability of any other par
 
 All notices you send us must be sent to the contact details on this site: info@brazilianbikinishop.com. We may give notice to you at either the e-mail or postal address you provide to us when making a purchase. In proving the service of any notice, it will be sufficient to prove, in the case of a letter, that the letter was properly addressed, stamped and placed in the post and, in the case of an e-mail, that the e-mail was sent to the specified e-mail address of the addressee.
 
+  
+
+
 ## PRIVACY POLICY
 
 We are committed to protecting your privacy on-line.  
@@ -177,4 +250,4 @@ At any stage you also have the right to ask us to stop using your personal data 
 ### **Our contact details**
 
 We welcome your feedback and questions. If you wish to contact us, please send an email to  
-info@brazilianbikinishop.com or or call us on +1 786 329 5591
+info@brazilianbikinishop.com or or call us on (786) 224-0188
