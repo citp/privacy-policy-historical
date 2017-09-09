@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgully.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330213342id_/https%3A//www.adgully.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgully.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909220109id_/https%3A//www.adgully.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Adgully
 
