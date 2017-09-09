@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestvalueschools.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627154303id_/http%3A//www.bestvalueschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvalueschools.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909123427id_/http%3A//www.bestvalueschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Value Schools
 
