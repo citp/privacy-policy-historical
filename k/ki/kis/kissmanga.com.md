@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissmanga.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084623id_/http%3A//kissmanga.com/Message/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmanga.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909231246id_/http%3A//kissmanga.com/Message/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
