@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stanstedexpress.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615162156id_/https%3A//www.stanstedexpress.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedexpress.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910000721id_/https%3A//www.stanstedexpress.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Stansted Express - Privacy Policy
+# Our Privacy Policy | Stansted Express
 
 ## Stansted Express Privacy Policy
 
@@ -16,9 +16,9 @@ Part 2 - Information about Cookies: Which cookie files we use, how these work an
 
 Abellio East Anglia Ltd (" **we** ", " **us** ", or " **our** ") are committed to protecting and respecting your privacy.
 
-This policy (together with [our terms and conditions](https://www.stanstedexpress.com/about-us/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with [our terms and conditions](https://web.archive.org/about-us/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This policy applies to the website [www.stanstedexpress.com](https://www.stanstedexpress.com/) and the Stansted Express mobile application. Both the website www.stanstedexpress.com ( **our site** ) and mobile application are owned and operated by Abellio East Anglia Ltd, a company registered in England and Wales whose registered office is at 1 Ely Place, London EC1N 6RY. Company Registration No. 07861414. By visiting www.stanstedexpress.com and booking via the mobile application you are accepting and consenting to the practices described in this policy.
+This policy applies to the website [www.stanstedexpress.com](https://www.stanstedexpress.com/) and the Stansted Express mobile application. Both the website [www.stanstedexpress.com](https://www.stanstedexpress.com/) ( **our site** ) and mobile application are owned and operated by Abellio East Anglia Ltd, a company registered in England and Wales whose registered office is at 1 Ely Place, London EC1N 6RY. Company Registration No. 07861414. By visiting [www.stanstedexpress.com](https://www.stanstedexpress.com/) and booking via the mobile application you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller in respect of the website and mobile application is Abellio East Anglia Ltd of 1 Ely Place, London EC1N 6RY. 
 
@@ -74,7 +74,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Abellio East Anglia Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms and conditions](https://www.stanstedexpress.com/about-us/terms-conditions) and other agreements; or to protect the rights, property, or safety of Abellio East Anglia Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms and conditions](https://web.archive.org/about-us/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of Abellio East Anglia Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
