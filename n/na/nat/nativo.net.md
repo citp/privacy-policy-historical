@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623053941id_/https%3A//www.nativo.net%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909090758id_/http%3A//www.nativo.net%23privacy-policy) for the most accurate reproduction.*
 
 # Nativo: Scalable and automated native advertising platform
 
