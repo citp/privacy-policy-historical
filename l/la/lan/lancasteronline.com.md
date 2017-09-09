@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003644id_/http%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909215522id_/https%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Rights - Steinman Communications
 
