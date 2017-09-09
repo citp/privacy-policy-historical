@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215155339id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909234624id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
@@ -53,12 +53,6 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at "support **@** LuxSci.com". We offer an opportunity to opt-out of certain communications on our personal profile update pages, or you may contact us at 1-800-441-6612, "support **@** LuxSci.com", or Lux Scientiae, 15 Brook Street, Medfield, MA 02052 USA.
-
-### OpenID
-
-You can log in to our site using sign-in services such as an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-Additionally, we record all logins to Lux Scientiae by our members and the pages visited by them. This is for security purposes and for the purpose of analyzing what pages and features are being used and with what frequency.
 
 ### Social Media (Features) and Widgets
 
