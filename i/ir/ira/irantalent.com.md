@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606123848id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909034140id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # IranTalent.com Privacy Policy
 
@@ -37,7 +37,7 @@ When you post your resume, IranTalent automatically creates a registration for y
 
 IranTalent recognises that job seekers have different levels of comfort in posting their resume on the internet. To accommodate the needs of all users, IranTalent offers three levels of privacy from which to choose from. 
 
-Standard Posting gives job seekers the most visibility to the broadest employer and/or recruiter audience possible, making the resume including full name and contact details searchable by all third-parties who have subscribed to IranTalent’s database search service. 
+Standard Posting gives job seekers the most visibility to the broadest employer and/or recruiter audience possible, making the resume including full name and contact details searchable by all third-parties who have subscribed to IranTalent's database search service. 
 
 Private Posting will allow the resume to be searched, without the name or contact information being displayed. In this case, interested parties can only contact the candidate through IranTalent. 
 
