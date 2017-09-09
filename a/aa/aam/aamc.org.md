@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411223643id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909182734id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
@@ -96,6 +96,6 @@ MCAT® (Medical College Admissions Test®)| [MCAT Essentials](https://aamc-orang
 MedEdPORTAL®| [ Copyright and Patient Privacy Policy ](https://www.aamc.org/external/69416?url=https://www.mededportal.org/submit/policies/)  
 [Medical School Profile System (MSPS)](https://www.aamc.org/data/msps/)|   
 [Matriculating Student Questionnaire (MSQ)](https://www.aamc.org/data/msq/)|   
-Pre-MCAT Questionnaire (PMQ)| [Frequently Asked Questions (FAQs)](https://www.aamc.org/data/pmq/faq/)  
+Pre-MCAT Questionnaire (PMQ)| [Frequently Asked Questions (FAQs)](https://www.aamc.org/data/pmq/480576/pmq-faq.html)  
 [Survey of Resident/Fellow Stipends and Benefits](https://www.aamc.org/data/stipend/)|   
 [VSAS® (Visiting Student Application Service)](https://students-residents.aamc.org/attending-medical-school/electives-and-make-courses/applying-away-electives-vsas/)| 
