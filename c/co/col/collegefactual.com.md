@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefactual.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621210045id_/http%3A//www.collegefactual.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefactual.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909214505id_/http%3A//www.collegefactual.com/about/privacy) for the most accurate reproduction.*
 
 # College Factual Privacy Policy
 
