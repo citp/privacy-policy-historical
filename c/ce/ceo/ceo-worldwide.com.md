@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208232415id_/http%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909193514id_/https%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer | CEO Worldwide
 
@@ -28,6 +28,7 @@ Company registration number: 8081967
   4. References and links
   5. Copyright
   6. Legal validity
+  7. Background checks
 
 
 
@@ -70,3 +71,9 @@ CEO Worldwide aims to respect the copyright of all material published on this we
 ## 6\. CEO Worldwide: Legal validity 
 
 This general disclaimer is part of the material offered on the CEO Worldwide website. If any of the terms and conditions should be determined invalid by reason of the relevant laws then the remaining terms and conditions shall remain in full effect.
+
+* * *
+
+## 7\. CEO Worldwide: Background checks
+
+Please note that CEO Worldwide performs background checks on all of our candidates. This solely includes confirmation of previous employment as well as the obtainment of references. No criminal background check is conducted. Therefore, it is strongly recommended that the Client follow up on this process in order to have complete knowledge of the candidate's background, including criminal records and offenses, if any.
