@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the johnstonscashmere.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508203646id_/http%3A//www.johnstonscashmere.com/us/customer-assistance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnstonscashmere.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909131527id_/http%3A//www.johnstonscashmere.com/us/customer-assistance/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - fine cashmere clothing, accessories and knitwear
+# Privacy Policy
 
 Like you, we don't like people running off with our personal details so we promise not to sell, lease or otherwise transfer your information to anyone else, except where you've expressly asked us to (by entering a competition we're running jointly with another company for example).
 
 We've tried to make our privacy policy nice and simple to understand, but if you're unsure what something means, or feel we could do a better job of explaining, please [get in touch and let us know](https://web.archive.org/index.php/retail/customer-assistance/contact-us "Click here to get in touch").
-
-## Privacy Policy
 
   1. **INTRODUCTION**  
 This website, www.johnstonscashmere.com (the " **Website** ") is operated by or on behalf of James Johnston & Company of Elgin Limited (" **Johnstons of Elgin** "), registered in Scotland under company number SC22553 and having its registered office at Newmill, Elgin, Morayshire IV30 4AF. Our trading names include Johnstons of Elgin and Johnstons Cashmere.   
@@ -65,8 +63,6 @@ cookielaw | Acknowledges cookie message has been shown. | 1 year
 
 **Cookie** | **Domain** | **Purpose** | **Expires**  
 ---|---|---|---  
-ASP.NET_SessionId | webservices.sub2tech.com | Sub2 Abandonment cookie | session  
-V9v1 | webservices.sub2tech.com | Sub2 Abandonment cookie | 16 days  
 _ga | .johnstonscashmere.com | Google analytics cookie. | 2 years  
 _gat | .johnstonscashmere.com | Google analytics cookie. | 2 years  
 DSID | .doubleclick.net | DoubleClick targeting cookie. | 2 years  
