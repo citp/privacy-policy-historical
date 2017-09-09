@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626132401id_/http%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909224646id_/https%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | UpToDate
+# Privacy Policy | UpToDate
 
 Terms of Use and Privacy Agreement
 
