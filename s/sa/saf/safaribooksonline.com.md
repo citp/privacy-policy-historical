@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225130954id_/https%3A//www.safaribooksonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909043825id_/https%3A//www.safaribooksonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Safari
 
-This version (Version 3.2) of Safari's Privacy Policy is effective as of November 10, 2016.
+This version (Version 3.3) of Safari's Privacy Policy is effective as of June 12, 2017.
 
-This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our") with respect to the websites that Safari owns and operates and that link to or display this Policy. Those websites include [www.pubfactory.com](http://www.pubfactory.com/) and [www.safaribooksonline.com](https://www.safaribooksonline.com/). This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you with respect to those sites. Other Safari websites display or link to the privacy policy that applies to them.
+This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our") with respect to the website(s) that Safari owns and operates and that link to or display this Policy, including the website [www.safaribooksonline.com](https://www.safaribooksonline.com/). This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you with respect to this site. Other Safari websites display or link to the privacy policy that applies to them.
 
 Please note that any use you make of any Safari service offering (including uses in preview mode, on a free trial basis, or pursuant to your purchase of a membership or other service offering) is also subject to our [Membership Agreement](https://www.safaribooksonline.com/membership-agreement/) and our [TOS](https://www.safaribooksonline.com/terms/). By accessing or using any website that links to or displays this Policy, you agree to the terms of the Policy, and you also certify that you are at least 13 years old, and that if you are between 13 and 18 years old, you have obtained the consent of your parent or legal guardian to use the relevant site. Do not use our websites if you do not agree to this Policy, and the TOS and Membership Agreement.
 
@@ -147,4 +147,4 @@ California law requires us to let you know how we respond to web browser Do Not 
 
 ### 12\. PREVIOUS VERSIONS
 
-For the previous version [Version 3.1] [please click here](https://web.archive.org/static/legal/v3.1_sfPrivacyPolicy_updated5October2015.8d3cbd40ac92.pdf). This is version 3.2.
+For the previous version [Version 3.2] [please click here](https://web.archive.org/static/legal/SafariPrivacyPolicy_v3.2_10Nov2016.ffdf883ebc91.pdf). This is version 3.3.
