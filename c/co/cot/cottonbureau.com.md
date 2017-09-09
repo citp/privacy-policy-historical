@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonbureau.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207042032id_/https%3A//cottonbureau.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonbureau.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909182643id_/https%3A//cottonbureau.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cotton Bureau
 
@@ -18,7 +18,7 @@ Cotton Bureau encourages you to review the privacy statements the third party we
 
 Cotton Bureau collects and uses your personal information in order to operate our website and to give you the services that you request from us. We may also use your personally identifiable information to inform you of other products or services available from Cotton Bureau and its affiliates. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Cotton Bureau does not sell, rent or lease its customer lists to third parties. Cotton Bureau may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Cotton Bureau may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Cotton Bureau, and they are required to maintain the confidentiality of your information.
+Cotton Bureau does not sell, rent or lease its customer lists to third parties. Cotton Bureau may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Cotton Bureau may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, arrange for deliveries, or send and receive payments. All such third parties are prohibited from using your personal information except to provide these services to Cotton Bureau, and they are required to maintain the confidentiality of your information.
 
 Cotton Bureau will never collect or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
