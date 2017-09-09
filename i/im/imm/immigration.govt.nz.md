@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414235500id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909224103id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
 
 # Privacy | Immigration New Zealand
 
@@ -21,7 +21,7 @@ The collection of your information is authorised by the Immigration Act 2009 (th
 
 Storage of information INZ has a legal obligation to protect any information we collect from you. INZ's online services are designed to meet national and international security standards to safeguard personal information collected.
 
-You can find further information of INZ’s obligations to protect your information here:
+You can find further information on INZ’s obligations to protect your information here:
 
 [Immigration Act 2009](http://www.legislation.govt.nz/act/public/2009/0051/latest/DLM1440303.html?search=ts_act%40bill%40regulation%40deemedreg_immigration+act_resel_25_a&p=1)  
 [Privacy Act 1993](https://www.privacy.org.nz/)
@@ -57,7 +57,7 @@ You have the right to:
 
 In accordance with the 'Privacy Act 1993', we reserve the right to refuse your request if we have a good reason.
 
-If you wish to check personal information held about you, please contact your local Visa Application Centre (VAC) or INZ office. If you do not have a local VAC or INZ office, you can contact us or post your enquiry to:  Immigration New Zealand, PO Box 3705, Wellington 6140.
+If you wish to check personal information held about you, contact your local Visa Application Centre (VAC) or INZ office. If you do not have a local VAC or INZ office, you can contact us or post your enquiry to:  Immigration New Zealand, PO Box 3705, Wellington 6140.
 
 [Contact us](https://www.immigration.govt.nz/contact)
 
