@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromvalskitchen.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509203249id_/http%3A//www.fromvalskitchen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromvalskitchen.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909150458id_/http%3A//www.fromvalskitchen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - From Val's Kitchen
 
