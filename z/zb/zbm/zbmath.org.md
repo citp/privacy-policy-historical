@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008161526id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909140309id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
 
-# Privacy Policy - FIZ Karlsruhe
+# Datenschutz - FIZ Karlsruhe
 
 **At FIZ Karlsruhe, the customer's right to data security and protection of data privacy is a primary concern. We therefore strictly comply with the data protection laws in the processing of personal data of customers visiting our website.**
 
@@ -21,7 +21,7 @@ d) carry out IP authentications on special request from our customers. For this 
 We will not use customer IP addresses for any other purposes than the ones outlined in items a) to d) above. 
 
   
-FIZ Karlsruhe's website uses Piwik, an Open Source software for statistical analysis of visitor access. This software also uses cookies. The information about how you use our web offer obtained through these cookies is stored on our own servers in Germany. The IP address will be anonymized immediately after processing and prior to storage. You may prevent the installation of the cookies by setting your browser software accordingly. As an alternative, [you may contact us here](https://www.fiz-karlsruhe.de/en/service/privacy-policy/piwik-opt-out.html "PIWIK Opt Out") and tell us you do not want us to keep a log of your activities on our website. In this case we will store a cookie containing this information on your computer. As long as this cookie is installed on your computer, we will not log any of your visits to our website made from this end device. Should you use several end devices to access our website (e.g., a computer and a mobile phone), you have to repeat this procedure for each device. If your computer does not accept cookies, certain features of the system will not be available. 
+FIZ Karlsruhe's website uses Piwik, an Open Source software for statistical analysis of visitor access. This software also uses cookies. The information about how you use our web offer obtained through these cookies is stored on our own servers in Germany. The IP address will be anonymized immediately after processing and prior to storage. You may prevent the installation of the cookies by setting your browser software accordingly. As an alternative, [you may contact us here](https://web.archive.org/en/service/privacy-policy/piwik-opt-out.html "PIWIK Opt Out") and tell us you do not want us to keep a log of your activities on our website. In this case we will store a cookie containing this information on your computer. As long as this cookie is installed on your computer, we will not log any of your visits to our website made from this end device. Should you use several end devices to access our website (e.g., a computer and a mobile phone), you have to repeat this procedure for each device. If your computer does not accept cookies, certain features of the system will not be available. 
 
 #### 2\. Personal Data 
 
@@ -58,7 +58,7 @@ Upon request, FIZ Karlsruhe will inform you in writing or by e-mail which of you
 
 ## V. Correct/Update and Choice/Opt-Out
 
-If you find factual inaccuracies in your personal data previously transmitted to FIZ Karlsruhe, or in case of changes in your personal details, please send an [e-mail](https://www.fiz-karlsruhe.de/en/kontakt.html "Contact form") or send mail to the following address, indicating the necessary corrections: 
+If you find factual inaccuracies in your personal data previously transmitted to FIZ Karlsruhe, or in case of changes in your personal details, please send an [e-mail](https://web.archive.org/en/kontakt.html "Contact form") or send mail to the following address, indicating the necessary corrections: 
 
   
 FIZ Karlsruhe  
