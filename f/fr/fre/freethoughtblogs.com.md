@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freethoughtblogs.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529002010id_/http%3A//freethoughtblogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethoughtblogs.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909192831id_/https%3A//freethoughtblogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
