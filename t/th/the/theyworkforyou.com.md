@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyworkforyou.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624175609id_/https%3A//www.theyworkforyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyworkforyou.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909180724id_/https%3A//www.theyworkforyou.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheyWorkForYou
 
