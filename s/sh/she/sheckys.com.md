@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sheckys.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427035335id_/http%3A//www.sheckys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheckys.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909162014id_/http%3A//www.sheckys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Las Vegas Escorts
+# Las Vegas Escorts » Privacy Policy
 
 sheckys.com (“sheckys.com”) operates sheckys.com and may operate other websites. It is sheckys.com policy to respect your privacy regarding any information we may collect while operating our websites.
 
