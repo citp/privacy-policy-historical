@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630045528id_/https%3A//ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909194530id_/https%3A//ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
 
 # Privacy Statements | I H O U S E U
 
@@ -18,6 +18,8 @@ Correspondence from our partners is subject to their relevant Privacy Policy.
 
 We do not sell, rent or exchange mailing lists.
 
-  * 52057 reads
+**All artwork used within content on our website or in our iOS app (including track artwork, album artwork, photos) are publicly available and used under a common Public Domain License but remain copyright of the original owner and not of Ihouseu Limited directly. All images were originally supplied to Ihouseu Limited by the content owner directly or their official press company for our use. We acsept full responsibility for any copyright infringement. Please report issues to[info@ihouseu.com](mailto:info@ihouseu.com?subject=Copyright%20Query) where we will reply within 24 hours.**
+
+  * 57230 reads
 
 
