@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406072032id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909235750id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
 
 # Zalora Personal Data Protection Policy
 
@@ -8,7 +8,7 @@ When you submit information to us, or sign up as a customer on our website to pu
 
 This Personal Data Protection Policy supplements but does not supersede nor replace any other consents you may have previously provided to Zalora in respect of your Personal Data.
 
-Zalora may update this Personal Data Protection Policy to ensure that it is consistent with industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Personal Data Protection Policy as updated from time to time on our website [www.zalora.sg/pdp](http://www.zalora.sg/pdp/)
+Zalora may update this Personal Data Protection Policy to ensure that it is consistent with industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Personal Data Protection Policy as updated from time to time on our [website](https://www.zalora.sg/pdp/)
 
 **Personal Data**  
 
@@ -140,9 +140,9 @@ Zalora is not responsible for the Personal Data policies (including Personal Dat
 
 **Google Analytics**
 
-Zalora uses features of Google Analytics, please see this link <http://www.google.com/policies/privacy/partners/> for how your data is collected and <https://tools.google.com/dlpage/gaoptout> for how to opt-out of any Google Analytics tracking.
+Zalora uses features of Google Analytics, please see this [_link_](http://www.google.com/policies/privacy/partners/) for how your data is collected and this [link](https://tools.google.com/dlpage/gaoptout) for how to opt-out of any Google Analytics tracking.
 
-As part of the above, Zalora may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. Using the Google Ads Settings (<https://www.google.com/settings/ads>), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+As part of the above, Zalora may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. Using the [_Google Ads Settings_](https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 Zalora also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show Zalora ads on sites across the Internet. Zalora and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to Zalora, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Zalora.
 
@@ -150,7 +150,7 @@ When you log on to the Zalora website, Zalora with the help of Google Analytics 
 
 **Contacting Us**
 
-For any questions relating to your Personal Data or about our Privacy Policy, you may contact our Data Privacy Officer at +65 3157 5555 or email at [customer@sg.zalora.com](mailto:customer@sg.zalora.com).
+For any questions relating to your Personal Data or about our Privacy Policy, you may contact our Data Privacy Officer at +65 3157 5555 or email [here](https://www.zalora.sg/contact).
 
 **Governing Law**
 
