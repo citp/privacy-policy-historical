@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182447id_/http%3A//www.tulumba.com/shopcontent.asp%3Ftype%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909050919id_/https%3A//tulumba.com/shopcontent.asp%3Ftype%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - Turkish Grocery & Food, Turkish Music, Turkish Books, Home Decoration, Evil Eyes, Jewelries, Turkish Soccer Teams
 
 This is the web site of **www.tulumba.com**.
 
 Our postal address is   
-**52 Graham Street  
-Jersey City, NJ 07307**
+**1005 South Bee Street  
+Pittsburgh, PA 15220**
 
 We can be reached via e-mail at [info@tulumba.com](mailto:info@tulumba.com)  
 or you can reach us by telephone at 8668858622
