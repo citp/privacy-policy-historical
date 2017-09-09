@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendvid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011307id_/http%3A//support.sendvid.com/customer/portal/articles/1743599-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendvid.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909070713id_/http%3A//support.sendvid.com/customer/portal/articles/1743599-privacy-policy) for the most accurate reproduction.*
 
-# Sendvid | Privacy Policy
+# SendVid.com | Privacy Policy
 
 As a condition to using the Service, you agree to the terms of the Sendvid Privacy Policy as it may be updated from time to time. Sendvid understands that privacy is important to you. You do, however, agree that Sendvid may monitor, edit or disclose your personal information, including the content of your emails, if required to do so in order to comply with any valid legal process or governmental request (such as a search warrant, subpoena, statute, or court order), or as otherwise provided in these Terms of Use and the Sendvid Privacy Policy. Personal information collected by Sendvid may be stored and processed in the United States. By using Sendvid, you consent to any such transfer of information outside of your country.
 
