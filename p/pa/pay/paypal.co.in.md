@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paypal.co.in privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216075513id_/https%3A//www.paypal.com/in/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.co.in privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911005112id_/https%3A//www.paypal.com/in/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
 >> [View all legal agreements](https://www.paypal.com/in/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-Effective Date: July 1, 2015
+Effective Date: 29 June, 2017
 
 **Your Privacy Rights**
 
@@ -149,7 +149,7 @@ We may share your personal information with:
   * Credit bureaus and collection agencies to report account information, as permitted by law.
   * Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you meet their criteria which includes having PayPal close your PayPal Account due to your breach of PayPal’s User Agreement).
   * Companies that we plan to merge with or are acquired by. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice.)
-  * Law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to PayPal or one of its affiliates; when we need to do so to comply with law or credit card rules; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreement.
+  * Law enforcement,  regulators, government officials, or other third parties (in Singapore or elsewhere) in relation to a subpoena, court order, or other legal process or requirement  under Singapore law or regulation, or the laws and regulations of other jurisdictions that are applicable to PayPal or one of its Affiliates; when we need to do so to comply with such law or credit card rules; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss; to report suspected illegal activity or investigate violations of our User Agreement 
   * Other unaffiliated third parties, for the following purposes: 
     * _Fraud Prevention and Risk Management_ : to help prevent fraud or assess and manage risk.  For example, if you use the PayPal Services to buy or sell goods using eBay Inc. or its affiliates (“eBay”), we may share account information in order to help protect your account from fraudulent activity, alert you if we detect such fraudulent activity on your accounts, or evaluate credit risk.
 
@@ -189,10 +189,12 @@ Log In with PayPal is a tool we’ve developed to improve your Internet experien
 
 You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile. You can also close your account through the PayPal website. If you close your PayPal account, we will mark your account in our database as "Closed," but may retain personal information from your account for a certain period of time to collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud, enforce our User Agreement, or take other actions as required or permitted by law.
 
+If you would like to limit the processing of your personal data, please feel free to contact us at the contact details as provided below. Please note however, that all information requested from you is obligatory to be provided by you unless stated otherwise. Should you fail to provide us with your personal data, we may not be able to process your request for our product and / or services.
+
 **Back to top**
 
 ### How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this link**](https://www.paypal.com/in/selfhelp/contact/email/privacy).
+If you have questions or concerns regarding this Privacy Policy, you should contact us by telephone using the numbers contained  **[this link](https://www.paypal.com/in/selfhelp/contact/email/privacy). **Alternatively, for data privacy and protection matters, you may also contact our Data Privacy and Protection Officer at the following link.
 
 **Back to top**
