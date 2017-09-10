@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superfreeslotgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044309id_/http%3A//www.superfreeslotgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfreeslotgames.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910153820id_/http%3A//www.superfreeslotgames.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Super Free Slot Games — Super Free Slot Games
+# Privacy Policy - Super Free Slot Games - What We Collect and Why — Super Free Slot Games
 
 This privacy policy sets out how Super Free Slot Games uses and protects any information that you give Super Free Slot Games when you use this website.
 
