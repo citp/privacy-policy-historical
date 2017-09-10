@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210083339id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910221755id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | CrossCountry
+# Protecting & Respecting your Privacy | CrossCountry
 
 ## At CrossCountry, we're committed to protecting and respecting your privacy...
 
