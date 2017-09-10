@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128183836id_/https%3A//www.visitnorway.com/info/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910214644id_/https%3A//www.visitnorway.com/info/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and security policy
 
@@ -42,7 +42,7 @@ Visitnorway.com is the official travel portal for Norway and is published by Inn
 
 ### 2\. RESPONSIBILITY FOR PROCESSING
 
-Innovation Norway's Tourism Director Per-Arne Tuftin has the formal responsibility for the processing of your personal information.
+Innovation Norway's Tourism Director Bente Bratland Holm has the formal responsibility for the processing of your personal information.
 
 ### 3\. PURPOSE OF PROCESSING
 
@@ -84,7 +84,7 @@ Visitnorway.com collects and Innovation Norway processes data about visitors to 
 
 "Cookies" are small information capsules (text files) that the website asks your browser to store on your computer or mobile device. This allows the website can remember actions or preferences over time. Most browsers automatically accept cookies. You can always choose to not accept a cookie by changing your browser settings to reject cookies automatically, or so that each cookie must be approved individually, but this may limit the functions available. Consent is considered given if the browser is set to accept the use of cookies. This also applies if the browser is pre-set for acceptance.
 
-To read more about cookies, including how to opt out of accepting cookies on your computer, see for example: [allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies "allaboutcookies.org/manage-cookies/"), Google Analytics and [cxense.com/privacy](http://www.cxense.com/privacy "cxense.com/privacy").
+To read more about cookies, including how to opt out of accepting cookies on your computer, see for example: [allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies "allaboutcookies.org/manage-cookies/"), [Google Analytics](https://www.google.com/intl/en/policies/privacy/) and [cxense.com/privacy](http://www.cxense.com/privacy "cxense.com/privacy").
 
 Visitnorway.com sets the following cookies:
 
@@ -151,7 +151,7 @@ We use banner ads and "remarketing" with Google Analytics to advertise online.
 
 Third party vendors, including Google, show our ads on sites worldwide.
 
-Visitors may opt out of Google's use of cookies by visiting [Settings for Google Ads](http://www.google.com/settings/ads "Settings for Google Ads").
+Visitors may opt out of Google's use of cookies by visiting [Settings for Google Ads](https://www.google.com/settings/u/0/ads/authenticated "Settings for Google Ads").
 
 Scripts are used for advertising solutions to measure the effect of campaigns, and for this use a cookie is used to give campaigns the appropriate crediting for sales and conversions over time.
 
@@ -175,7 +175,7 @@ We will not disclose, sell, distribute, rent, license, share or pass details or 
 
 Innovation Norway has signed an agreement with various distribution partners who distribute our newsletters, brochures and other materials, so-called "routing." Distribution partners are:
 
-  * Apsis for newsletter and other information via email ([info@apsis.no](mailto:info@apsis.no "info@apsis.no")).
+  * Distribion for email newsletter  (USA)
   * Blatt Gruppen AS (Norway)
   * ISY AB (Sweden and Denmark)
   * Mediascene Ltd (UK)
@@ -210,7 +210,7 @@ Innovation Norway has signed an agreement with the following data handlers:
 
 
 
-All Visitnorway sites are currently located on servers in Norway, but our data processors has reserved the right to transmit information to servers or subcontractors in other countries.
+All Visitnorway sites are currently located on servers in USA, but our data processors has reserved the right to transmit information to servers or subcontractors in other countries.
 
 If information is transferred within the EU/EEA, we will ensure that the EU directives on personal data in computing and country-specific data protection laws are followed. If we pass personal information to third parties located outside the EEA, we will ensure that the transfer is in accordance with EU Directive on personal data. If information is transmitted to the United States, we will preferably use Safe Harbor-certified companies.
 
