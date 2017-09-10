@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222450id_/https%3A//freeads.zendesk.com/hc/en-us/articles/203180471-Privacy-Policy-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.net privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910172700id_/https%3A//freeads.zendesk.com/hc/en-us/articles/203180471-Privacy-Policy-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Policy – Freeads Help Center
 
