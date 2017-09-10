@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popxo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183804id_/https%3A//www.popxo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popxo.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910031707id_/https%3A//www.popxo.com/privacy) for the most accurate reproduction.*
 
 # POPxo | Privacy Policy
 
