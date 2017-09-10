@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mcleaks.net privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106000429id_/https%3A//mcleaks.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcleaks.net privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910203310id_/https%3A//mcleaks.net/privacypolicy) for the most accurate reproduction.*
 
 # MCLeaks.net - Privacy Policy
 
-**Last updated: September 13, 2016**
+**Last updated: July, 16, 2017**
 
 MCLeaks ("us", "we", or "our") operates the https://mcleaks.net/ website (the "Service").
 
@@ -33,6 +33,10 @@ We use "cookies" to collect information. You can instruct your browser to refuse
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+
+**Google**
+
+Google may collect and store data about you. For more information, visit <http://www.google.de/policies/privacy/partners/>
 
 **Service Providers**
 
