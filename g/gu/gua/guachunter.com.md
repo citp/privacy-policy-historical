@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guachunter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181509id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guachunter.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910023810id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
 
 # Chipotle — Privacy Policy
 
 ## CHIPOTLE’S PRIVACY POLICY
 
-###### (LAST UPDATED APRIL 5, 2017)
+###### (LAST UPDATED SEPTEMBER 1, 2017)
 
 Thank you for visiting Chipotle online. This Privacy Policy describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliated companies (collectively, "Chipotle", “we” or “our”) collect, use and disclose personal information of visitors to our websites, users of our online services and others to whom we expressly provide that this Privacy Policy will apply.
 
@@ -20,7 +20,7 @@ Chipotle only obtains personally identifiable information such as your name, ema
 
 
 
-This information will be used for the purposes for which you provide it. We may also use this information to communicate with you from time to time for other purposes, such as to create personalized promotions by combining your personal information with non personal information about you, such as the amounts and types of purchases you make or any benefits you receive through our programs.
+This information will be used for the purposes for which you provide it. We may also use this information to communicate with you from time to time for other purposes, such as to create personalized promotions by combining your personal information with non-personal information about you, such as the amounts and types of purchases you make or any benefits you receive through our programs.
 
 We may also use information you provide us for additional purposes as described under “Sharing of Personal Information.”
 
@@ -32,14 +32,26 @@ Chipotle does not support Do Not Track browser settings and does not currently p
 
 ###### Mobile Terms & Conditions
 
+**MOBILE ALERTS**
+
   1. You must be 13 years of age or older to participate in the Chipotle mobile text program.
-  2. By providing your mobile number and checking the box to sign up for mobile offers and text updates, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Chipotle. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase. 
-  3. **Message and data rates may apply.** All charges are billed by and payable to your mobile service provider. Chipotle does not charge you for sending or receiving text messages to 888222 (888333 in Canada).
-  4. You can unsubscribe at any time by texting " **STOP** " to **888222**   **(888333 in Canada)** and you will receive a confirmation text, or further instructions if enrolled in more than one of Chipotle’s SMS lists. Chipotle reserves the right to remove subscribers from our messaging database at our discretion. For more information, reply “ **HELP** ” to **888222**   **(888333 in Canada)** or contact us [here](http://chipotle.com/email-us).
-  5. Chipotle will not be liable for any delays in the receipt of any SMS messages or undelivered messages. T-Mobile policies require that we specify that T-Mobile, also, will not be liable for any delays in the receipt of any SMS messages or undelivered messages.
-  6. Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, the date, time and content of your messages and other information you provide to us as part of this service. We may use this information to contact you and to provide the services you request from us.
+  2. By participating in the Chipotle mobile text program and signing up for mobile offers and text updates, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Chipotle. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase.
+  3. Message and data rates may apply. All charges are billed by and payable to your mobile service provider. Chipotle does not charge you for sending or receiving text messages to 888222. 
+  4. If you would like to be removed from the Chipotle mobile text program, you must text STOP to 888222 to opt-out. This is the exclusive method for opting out. After texting STOP to 888222 you will receive one additional message confirming that your request has been processed.
+  5. Chipotle reserves the right to remove subscribers from our messaging database at our discretion. For more information, reply “HELP” to 888222 or contact us [here](http://chipotle.com/email-us).
+  6. In the event that you change or deactivate your mobile number it is your responsibility to notify Chipotle [here](http://chipotle.com/email-us) to have your number removed.
+  7. Chipotle will not be liable for any delays in the receipt of any SMS messages or undelivered messages. T-Mobile policies require that we specify that T-Mobile, also, will not be liable for any delays in the receipt of any SMS messages or undelivered messages.
+  8. Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, the date, time and content of your messages and other information you provide to us as part of this service. We may use this information to contact you and to provide the services you request from us.
+  9. These mobile terms and conditions as well as the rest of the privacy policy are subject to change at any time without notice.
+  10. View our Terms of Use [here](https://www.chipotle.com/terms).
 
 
+
+###### DISPUTE RESOLUTION, ARBITRATION CLAUSE AND CLASS ACTION WAIVER
+
+You agree that any claim or dispute at law or equity that has arisen or may arise relating in any way to or arising out of this Privacy Policy will be resolved in accordance with the provisions set forth in this Dispute Resolution section. PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR RIGHTS AND WILL HAVE A SUBSTANTIAL IMPACT ON HOW CLAIMS YOU AND WE HAVE AGAINST EACH OTHER ARE RESOLVED. You agree that whenever you have a disagreement with Chipotle arising out of, connected to, or in any way related to this Privacy Policy, you will send a written notice to Chipotle (“Demand”). You agree that the requirements of this Dispute Resolution section will apply even to disagreements that may have arisen before you accepted this Privacy Policy. You must send the Demand to the following address (the “Notice Address”): Legal Department, Chipotle Mexican Grill c/o CMG Strategy Co., LLC, 1401 Wynkoop Street, Suite 500, Denver, CO 80202. **You agree that you will not take any legal action, including filing a lawsuit or demanding arbitration, until 20 business days after you send a Demand.** If the disagreement stated in the Demand is not resolved to your satisfaction within 10 business days after it is received, and you intend on taking legal action, you agree that you will file a demand for arbitration with the American Arbitration Association (the “Arbitrator”). **This arbitration provision limits the ability of you and Chipotle to litigate claims in court and you and Chipotle each agree to waive your respective rights to a jury trial or a state or federal judge.** There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow this Privacy Policy as a court would. **You agree that you will not file any lawsuit against Chipotle in any state or federal court. You agree that if you do sue in state or federal court, and Chipotle brings a successful motion to compel arbitration, you must pay all fees and costs incurred by Chipotle in court, including reasonable attorney’s fees.** For any such filing of a demand for arbitration, you must effect proper service under the rules of the Arbitrator and notice to the Notice Address may not be sufficient. If, for any reason, the American Arbitration Association is unable to conduct the arbitration, you may file your case with any national arbitration company. The Arbitrator shall apply the AAA Consumer-Related Disputes Supplementary Procedure effective September 15, 2005 (as may be amended) and as modified by the agreement to arbitrate in this Dispute Resolution section. **You agree that the Arbitrator will have sole and exclusive jurisdiction over any dispute you have with Chipotle.** The Federal Arbitration Act allows for the enforcement of arbitration agreements and governs the interpretation and enforcement of the agreement to arbitrate.
+
+**You agree that you will not file a class action or collective action against** **Chipotle,** **and that you will not participate in a class action or collective action against them. You agree that you will not join your claims to those of any other person.** Notwithstanding any other provision in this Privacy Policy, if this class action waiver is invalidated, then the agreement to arbitrate is null and void, as though it were never entered into, and any arbitration dispute at that time will be dismissed without prejudice and may be refiled in a court. Under no circumstances do you or Chipotle agree to class or collective procedures in arbitration or the joinder of claims in arbitration. Chipotle agrees that we will submit all disputes with you to arbitration before the Arbitrator.
 
 ###### We Have Cookies!
 
@@ -110,3 +122,7 @@ From time to time, Chipotle may change this privacy policy. Thus, you should che
 ###### Limitation to Online
 
 This policy applies only to individuals who visit our websites or interact with us through any of our e-mail or mobile campaigns. It does not apply to information which we may collect by means other than through our websites and it does not apply to businesses which may use our websites.
+
+###### INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless Chipotle, its affiliates, its providers, and its officers, directors, employees, attorneys, and agents from and against any and all claims, damages, losses, costs (including reasonable attorneys’ fees), and expenses that arise directly or indirectly out of or from: (1) your breach of this Privacy Policy; and/or (2) your activities in connection with the services and/or materials, programs, and features to which we expressly provide that this Privacy Policy will apply.
