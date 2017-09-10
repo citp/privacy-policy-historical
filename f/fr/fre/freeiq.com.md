@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeiq.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015052223id_/http%3A//www.freeassessment.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiq.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910225031id_/http%3A//www.freeassessment.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Free Assessment
 
