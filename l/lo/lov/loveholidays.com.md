@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060824id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910053739id_/https%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - loveholidays
 
@@ -30,7 +30,7 @@ Our website may contain links to enable you to visit other websites of interest 
 
 You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for providing this to you]. 
 
-If you do not agree to our use of the information as set out above, you should inform us as soon as possible by writing to us at loveholidays, The Triangle, 4th Floor South Side, 5-17 Hammersmith Grove, London, W6 0LG or by email at [insert e-mail address]. 
+If you do not agree to our use of the information as set out above, you should inform us as soon as possible by writing to us at loveholidays, The Triangle, 4th Floor South Side, 5-17 Hammersmith Grove, London, W6 0LG. 
 
 In accordance with the Data Protection Act 1998, you may ask us in writing for a copy of the information we hold about you (for which we may charge an administration fee) and to correct any inaccuracies in your information. We aim to respond to you within 21 days from the date of request. 
 
@@ -38,7 +38,7 @@ You can also choose not to provide us with some of the information we request, h
 
 #### OPT-OUT POLICY
 
-Subscribers can opt out of receiving further information from us at any time. You will also be given a fast and easy option of opting out on all communications. Email us at [insert e-mail address] to unsubscribe. 
+Subscribers can opt out of receiving further information from us at any time. You will also be given a fast and easy option of opting out on all communications. 
 
 #### COOKIES
 
