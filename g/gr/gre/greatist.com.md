@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608174042id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910062007id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
 
 # Greatist Privacy Policy | Greatist
 
@@ -50,7 +50,7 @@ Greatist is not intended for and does not knowingly collect information from chi
 
 ### 5\. What security measures do we take with respect to your information?
 
-We employ reasonable security measures to protect the security and confidentiality of your personal information that we collect and maintain. However, we cannot guarantee the security of your personal information or that any communication or transmission of such information over the Internet will be entirely secure. 
+We employ reasonable security measures to protect the security and confidentiality of your personal information that we collect and maintain. However, we cannot guarantee the security of your personal information or that any communication or transmission of such information over the Internet will be entirely secure.
 
 ### 6\. Third Party Websites
 
