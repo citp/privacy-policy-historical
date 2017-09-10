@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupees.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223163010id_/http%3A//groupees.com/GroupeesLLC-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupees.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910193337id_/https%3A//groupees.com/GroupeesLLC-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Groupees LLC Privacy Policy
 
