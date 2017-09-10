@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ismrm.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134448id_/http%3A//www.ismrm.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismrm.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910055825id_/https%3A//www.ismrm.org/about/privacy) for the most accurate reproduction.*
 
 # ISMRM - Refund, Return and Privacy Policies
 
