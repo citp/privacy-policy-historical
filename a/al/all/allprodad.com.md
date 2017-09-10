@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allprodad.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129152903id_/https%3A//www.familyfirst.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allprodad.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910055942id_/https%3A//www.familyfirst.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family First : Family First
 
