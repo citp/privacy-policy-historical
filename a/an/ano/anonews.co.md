@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonews.co privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219032129id_/http%3A//www.anonews.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonews.co privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910101046id_/http%3A//www.anonews.co/privacy) for the most accurate reproduction.*
 
 # Privacy – Anonymous
 
@@ -10,7 +10,7 @@ If you are asked to provide information when using this website, it will only be
 
 This policy is updated from time to time. The latest version is published on this page.
 
-This website privacy policy was updated on: **01/01/2016**
+This website privacy policy was updated on: **01/07/2017**
 
 If you have any questions about this policy, please email anonews.co@gmail.com or write to:
 
@@ -140,7 +140,7 @@ Always be wary when submitting data to websites. Read the site’s data protecti
 
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-  * [Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+  * [Privacy and Electronic Communications Regulations 2003 – The Guide](https://templatearchive.com/guide-to-the-privacy-latest/)
   * [Twitter Privacy Policy](http://twitter.com/privacy)
   * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
   * [Google Privacy Policy](http://www.google.com/privacy.html)
