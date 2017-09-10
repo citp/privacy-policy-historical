@@ -1,168 +1,125 @@
-> *The following text is extracted and transformed from the fountain.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529025634id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fountain.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910161233id_/https%3A//www.fountain.com/privacy.html) for the most accurate reproduction.*
 
-# Porch: Designs, remodel ideas, and costs for home projects
+# None
 
-Effective Date 4/22/2016
+* * *
 
-Your privacy is important to us and we are committed to protecting your information in accordance with the terms of this Privacy Policy.
+#### Effective Date: October 1, 2014
 
-## Overview
+#### Last Modified Date: November 10, 2016
 
-This Privacy Policy describes the collection, use and disclosure of information by Porch.com, Inc. (“Porch”, “we,” “us”) and other parties with respect to your use of all properties (Web sites, mobile application, telephone service or otherwise) owned or operated by Porch and our affiliates (collectively, the "Properties"), and all products and services available from Porch, home improvement service providers (“Pros”) or other third parties in connection with the Properties (individually and collectively with the Properties, the “Services”). By accessing or using the Services, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Services.
+* * *
 
-All capitalized terms used but not defined in this Privacy Policy have the meanings given in our Terms of Use (located [here](https://web.archive.org/about/terms)). References to Porch (or “we” or “us”) also include Porch’s service providers and partners, to the extent that such service providers are collecting, using or disclosing information for or on behalf of Porch.
+OnboardIQ, Inc. (â€œOnboardIQ,â€ â€œwe,â€ â€œour,â€ or â€œusâ€) develops applicant tracking and workflow solutions for business Customers (â€œCustomersâ€), which include tools and functionalities that can be integrated into Customersâ€™ applicant tracking and workflow management systems (our â€œServiceâ€). OnboardIQ understands that privacy is important to our users. This Privacy Policy explains:
 
-## Privacy Policy Updates
+â€¢ How OnboardIQ collects, uses, and shares information about visitors to our website and mobile products (â€œOnboardIQ Sitesâ€), and 
 
-We may update this Privacy Policy at any time by posting a revised version. Any changes to this Privacy Policy will be effective immediately upon posting. Please review this Privacy Policy each time you use the Services, as your continued use of the Services after such changes will constitute your acceptance and agreement to such changes.
+â€¢ How OnboardIQ collects, uses and shares information provided to us by or on behalf of our Customer as part of the applicant-tracking and workflow management Service. 
 
-## Collection of Information
+All capitalized terms that are not defined herein have the definitions given them in our Terms of Service (www.onboardiq.com/tos). By using our Service, you agree to the terms of this Privacy Policy and our Terms of Service (www.onboardiq.com/tos). 
 
- **Information You Provide**
+* * *
 
- _Information You Submit._ As a User, you can visit and browse the Properties without opening an account and entering personal information. (You will need to open an account if you would like to get a quote for home services or if you are a Pro.) When using the Services, you may elect to provide information about yourself, such as name, address, telephone number, email address, and payment details. You may provide this information, for example, when you create an account, post User Submissions, request or purchase products or services, communicate with a Pro, subscribe to our email programs, “Like” us on Facebook or otherwise connect us to your social networks, or complete other forms. In addition, if you are a Pro, you may provide information about yourself or your company, including for example, when you provide details to complete your account, post User Submissions, respond to service requests, communicate with Users, and provide information for background/reference checks.
+####  1\. WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE? 
 
-In connection with the Services, you may also elect to provide Porch or Pros with reviews, comments, feedback, notes, photos, videos, know-how, techniques, or other information relating to you, your project, your household, your business, your real or personal property or otherwise.
+Information you provide to OnboardIQ Sites. Visitors can browse some areas of our website without providing any personal information. However, certain interactions with us require personal information. For example, we may collect personal information such as a username and password, first and last name, phone number, email address, home address and billing information when you register for a User Account, use our Service, or if you correspond with us. We may also collect additional information you provide to us about your company or employer/workers, which we will consider to be personal information if it is linked to your identifying information. We may combine this information with data we collect from you through other methods, such as telephone conversations.
 
- _Social Networks._  If you use the social networking connection functions offered through the Services, we may access any of your social profile information that you have made available to be shared and to use it in accordance with this Privacy Policy. Please refer to your social network policies to manage information that is shared through that account.
+Information that we collect through the OnboardIQ Service: In providing our service to our Customers, we collect, store, process and disclose personal information belonging to individualworkers who apply to or are employed by our Customers. Our Service is being provided as part of our Customerâ€™s applicant tracking and workflow management systems and we are handling personal information solely on behalf of our Customers and in accordance with our agreements with our Customers. 
 
- **Information We Collect Automatically**
+If you are interacting with us in the applicant tracking and workflow management context through one of our Customers, please review the Customerâ€™s privacy policy, terms of use, or employment policies to learn more about the Customerâ€™s information practices, including its use of service providers like OnboardIQ. 
 
- _Cookies and Web Beacons._   We, our service providers and our advertising networks use cookies, web beacons (sometimes called single-pixel gifs or action tags) or similar technologies on the Properties, in emails and in advertisements to collect information about your online activities. Cookies (small data files that your Internet browser stores on your hard disk or in your browser's memory) are used by the Services to connect your activity on the Services with other information we store about you in your account profile or from prior usage of the Services. Web beacons are electronic images that assist in delivering cookies, provide additional information (such as which ad you clicked on to arrive at the Properties) and allow us to compile aggregated statistics. For example, the use of cookies allows us to improve our Services by tracking saved searches, understanding your and other site visitors’ use of various features and functionality, delivering targeted ads that are more relevant to you, avoiding ad duplication, measuring the effectiveness of advertising and otherwise creating a consistent user experience for you. Collected information may include the content you view, the date and time you view content, and the referring web site or advertisement. This information may be associated with your unique browser, device identifier or IP address.
+For your information, here are some examples of how OnboardIQ collects and uses information in the course of providing our Services to our Customers: 
 
-At any time, you may adjust your browser settings to delete existing cookies (and the data that web beacons add to the cookie), or refuse new cookies, according to the method permitted by your browser. If you choose to delete cookies, you will need to log in again on your next visit to the Properties and re-enter any preferences you have set. If you choose to disable cookies, you may not be able to access or use some portions and features of the Services and may not get the best experience possible.
+â€¢ We collect information you provide to our Customer through the Service, such as when you submit a job application. Such information could include your name, photo, contact information, and other information typically found on a job application such as your job history, education level, age, specialized skill set, and other information;
 
-Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and other properties that you do not wish such operators to track certain online activities. Our Services do not support Do Not Track requests at this time.
+â€¢ We collect information about you provided by our Customer, which may include your name, job title, contact information, email address, work schedule, and other information; 
 
- _Log Usage Data._  Our servers automatically record usage log data created when you use the Services. Usage log data may include information such as your IP address, browser type, operating system, referring web page, visited web pages, location, mobile carrier, computer or mobile device type, search terms and cookie information.
+â€¢ We may permit you to provide additional contact and profile information, or to connect your account with your company address book or calendar, or to a third party service such as Facebook, Google or LinkedIn, in which case we may also collect information available through that third party service. Please always check your permissions on third party sites before connecting them to our Service; 
 
- _Location Data._  If you provide location information during the account registration process or at any other time via your account settings, or if location information is included as part of the information we collect (for example, your IP address may provide an approximate geo-location), we may store that information in connection with your account. If you are using mobile Services, we may collect location data directly from your mobile device if your device allows us to do so. Your mobile device manufacturer or mobile service provider may provide you with choices about how and whether location data is shared with us.
+â€¢ We provide analytics and reporting functionalities to Customers to help manage and analyze work force capabilities and efficiencies; 
 
- **Other Information We Collect**
+â€¢ We may allow you to post messages or other content for other members of the Service and to communicate directly with others through the Service. 
 
- _Telephone Calls._  When you call us, when we call you, or when we forward calls between Users and Pros, we may monitor and/or record those calls for quality assurance and customer satisfaction purposes. In those jurisdictions where consent is required for a party to record a telephone call, you consent to us recording such calls.
+The type of personal information we collect from or about you, and the ways in which such data is shared with other members of the Service will depend on the functionalities and guidelines established by our Customer pursuant to our Agreement with our Customer and the Customerâ€™s settings on the Service.
 
- _Email and Mobile Content Programs._ You can choose to receive promotional emails from us. Like most e-commerce sites, we include software code in our emails to monitor whether and when you opened the email, whether you have clicked on the images and/or links in the email, and whether your computer or mobile device is capable of receiving HTML-based email. You may also choose to access our content through a mobile application and to receive text messages on your mobile device. You may opt out from email and mobile programs as described below under "Opting Out.”
+We use this information to operate, maintain, and provide to you the features of the Service. We may use this information to communicate with you, such as to send you email messages, or text messages with your consent, or to permit other users of the Service to send you such messages, and to follow up with you to offer information about our Service and your account. We may also send you Service-related emails or messages (e.g., account verification, transactional communications, change or updates to features of the Service, technical and security notices). For more information about your communication preferences, see â€œYour Choices Regarding Your Informationâ€ below.
 
- **Information Collected by Third Parties**
+We reserve the right, but have no obligation, to monitor any user-generated content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. We also reserve the right to remove information upon the request of any third party.
 
- _Online Activity._ You may get cookies or web beacons from our advertisers, tracking utilities, partner programs or other third parties with links on the Properties. While this is a standard practice in the industry, we have no control or access to these cookies or web beacons. Our Privacy Policy does not cover the use of these technologies by third parties or the use of such technologies on websites or mobile applications other than the Properties.
+* * *
 
- _Offline Activity._  Porch and Pros may collect text, photos, videos, measurements, comments, reviews, feedback, notes, ideas, know-how, techniques, data or information of any nature whatsoever before, during or after the provision of Services, or otherwise in connection with the Services, relating to you, your household, your real or personal property or otherwise.
+####  2\. HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION
 
- **Information We Obtain From Third Parties**
+We and our third party partners may automatically collect certain types of usage information when you visit our website or use our Service. For instance, when you visit our websites, we may send one or more cookies â€” a small text file containing a string of alphanumeric characters â€” to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information about your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (â€œIPâ€) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. Although we do our best to honor the privacy preferences of our Users, we are not able to respond to Do Not Track signals from your browser at this time.
 
-We may obtain information about you from third parties and use it to provide a customized experience, to suggest products or services that might be of interest to you, or to supplement or correct information that you have provided to us, and generally to improve our Services.
+When you access our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (â€œIDFAâ€), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
- **Aggregate Information**
+We may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our Service. 
 
-We collect non-personal, statistical information about the use of the Services, such as how many visitors visit a specific page, how long they stay, and which links they click on. We may also group and de-personalize information into aggregate visitor data in order to describe and analyze Services usage.
+Third party tracking and online advertising. We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely â€œopt outâ€ of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browserâ€™s or mobile deviceâ€™s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiativeâ€™s online resources, at http://www.networkadvertising.org). Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
-Information collected on the Properties may be combined with other personal or aggregate information, including information we collect by other means (for example, if you call or email us). The combined information will also be subject to this Privacy Policy.
+* * *
 
-## Use of Information
+#### 3\. SHARING OF YOUR INFORMATION
 
-Any information we collect from you may be used in the following ways:
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see the â€œYour Choices About Your Informationâ€ section below. Remember, our Service allows you to connect and interact with others. Your profile information, including your name, photo, and other personal information, may be available publicly to other members of the Service by default. This information may be available to the public and may be searchable by search engines which may display certain parts of your personal information publicly.We may share your personal information with:
 
-  * To provide the Services;
-  * To improve the Services (for example, to personalize your experience to make it smoother and more relevant to you, and to improve the content and design of the Properties;
-  * To process transactions, to provide and improve customer service, and to otherwise manage our customer relationships;
-  * To connect you with Pros and other companies that receive or help us meet your service requests;
-  * To help Pros select with whom they choose to work;
-  * To provide you with information about products and services that may be of interest to you, and to optimize our and our partners’ marketing campaigns;
-  * To administer contests, promotions or sweepstakes;
-  * To prevent fraud and abuse, to address technical and security issues, and to otherwise protect Users, Pros, and our business;
-  * To develop and deliver our advertising, products and services and analyze their effectiveness; and
-  * To perform other functions described at the time the information is collected.
+â€¢ Other parties you chose to share data with through our Service. This includes your employer or potential employer and any other company or individual you engage with through our Service; 
 
+â€¢ Other companies owned by or under common ownership as OnboardIQ. These companies will use your personal information in the same way as we can under this policy;
 
+â€¢ Third parties for marketing purposes;
 
-## Disclosure of Information
+â€¢ Third-party vendors and other service providers that perform services on our behalf, in order to carry out their work for us, which may include billing, payments, service fulfillment, web hosting or providing analytic services. We provide only as much information as is reasonably necessary to perform the Services on our behalf; 
 
-Information that you choose to provide in a public area of the Services (such as your profile page or via User Submissions) will not be protected by this Privacy Policy because you have chosen to make that information public. Otherwise, your information and aggregate information will be shared with third parties only in accordance with this Privacy Policy, as follows:
+â€¢ Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings; and
 
- **Consent**
+â€¢ Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service (www.onboardiq.com/tos) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of OnboardIQ, our Users, or others.
 
-We may share your information when you consent or direct Porch to do so. For example, if you choose to seek a Pro through the Services, we may provide your information to the Pro. The method of consent will be appropriate for the type of personal information involved and the purposes for which it is collected, used or disclosed. Depending on the circumstances, consent may be express (i.e., you specifically agree either verbally, in writing or electronically) or implied.
+As described above, any personal information that we receive or have access to in the course of providing our Service to a Customer, is shared by OnboardIQ solely on behalf of the Customer, and in accordance with our agreements with the Customer, unless you agree to participate in additional services offered by OnboardIQ. Therefore, if you are interacting in the applicant tracking and workflow performance context with one of our Customers, please review the Customer's privacy policy, terms of use, employment policies and procedures or other notices, and the Customerâ€™s settings on the Service to learn more about the Customer's information practices, including the use of service providers like OnboardIQ. 
 
- **Please note that, when you submit a request for products or services, you are requesting to be (and you expressly consent to be) contacted by Porch, companies that receive your service request, and Pros, as the case may be. You consent to be contacted by these parties by telephone, email, mail, text (SMS) messaging, fax, or other reasonable means at any of the residential, cell or fax phone numbers or addresses you provide, even if they are listed on a national "do not call" or “do not contact” list. You agree that these communications may include prerecorded, artificially voiced or autodialed telemarketing messages, and that they may be monitored and recorded for quality assurance and other reasons. You agree that these parties may contact you for the purposes of providing the products or services you have requested (as the case may be), marketing, addressing complaints, billing or other account-related matters, or other purposes reasonably related to the services you have requested. Your consent to receive marketing communications is not required as a condition of purchasing any goods or services.**
+To the extent that we provide forums, blogs or bulletins that allow you to post user-generated content, such content may become available to the public and to other members of the Service. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information. 
 
- **Service Providers**
+We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated or anonymized data with third parties.
 
-We contract with other companies to provide services on our behalf. For example, we may use third-party service providers to process payments, host the Properties, provide call center or other customer service, send out information or offers, serve or manage ads, and analyze Services data. Some of these companies collect and store information for us as part of their services, or we may provide them with the elements of your personally identifiable information that they need to deliver their services. These companies are prohibited from using personally identifiable information for any other purpose and will have access only as necessary to perform the applicable services for us.
+* * *
 
- **Co-Branded Partners**
+#### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
 
-Some of our Services may be offered in conjunction with a third party. If you access or use our Services through a third party, or you access or use a third party’s services through the Properties, both Porch and the third party may receive information provided by you or collected in connection therewith. For example, If you sign-up with Porch through a Lowe's promoted or co-branded website or within a Lowe's store directly, Porch and Lowe’s may share your information with each other.
+How to control your communications preferences: You can stop receiving promotional email communications from us by clicking on the â€œunsubscribe linkâ€ provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices). Please note that other users, such as your employer or potential employer, may contact you through or outside of the Service and OnboardIQ may not be able to control your preferences for those types of communications. 
 
- **Other Partner Programs**
+Modifying or deleting your information. We will retain your information for as long as your account is active or as needed to provide you Services. You may view and modify your personal information through your account settings. We may not be able to modify or delete your information in all circumstances. For example, information we collect in the course of providing the Service is shared with our Customer and we do not control access to nor delete that information once it has been shared with our Customer. If you have any questions about reviewing, modifying or deleting your account information, contact us at clients@onboardiq.com. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. You can also contact the Customer directly to learn more about how the Customer uses and stores your personal information.
 
-From time to time, we may partner with companies that, in conjunction with rewards programs or other membership programs, require that we disclose personal information about their members who visit our Property (for example, to earn points or discounts for purchases made on the Properties through links from the partner site). We will disclose your personal information to the partner companies when you consent to that disclosure, including consent implied by your agreement to the applicable membership or participation rules, as necessary to support your membership in these programs.
+* * *
 
- **Compliance with Laws and Policies; Protection of Rights**
+#### 5\. HOW WE STORE AND PROTECT YOUR INFORMATION
 
-We may release your information (including personally identifiable information) and aggregated information when we believe that doing so is appropriate to comply with applicable laws, regulations, subpoenas or court orders, or other legal requirements; to cooperate with government or law enforcement; to resolve disputes; to avoid legal liability; to comply with, enforce or investigate potential violations of our agreements, Terms of Use, Privacy Policy or other policies; to bill and collect amounts owed to us; to protect our rights, reputation, safety or property or that of Users or others; and to address fraud, security or technical issues.
+Storage and processing: Your information collected through the Service may be stored and processed in the United States and in any other country in which OnboardIQ or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we will transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which OnboardIQ or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. If you are a Customer with employees, team members or other end users located in the European Union, you confirm that you have the right to consent to the transfer of end user data to our Service and to facilities located in the United States or in any other country in which OnboardIQ or its service providers maintain facilities. 
 
- **Sale/Merger**
+Keeping your information safe: OnboardIQ cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, OnboardIQ will investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-We may decide to sell, buy, merge or reorganize our own or other businesses, conduct a securities offering, or do a joint venture or other strategic transaction. We could also be involved in a bankruptcy, liquidation, dissolution or similar transaction. Any such transaction may involve disclosing personal and other information. We would seek protections of confidentiality and restricted use for all information disclosed. In the event that we or all of our assets are acquired in such a transaction, our collected information would be one of the transferred assets.
+* * *
 
- **Contest/Sweepstakes**
+#### 6\. CHILDRENâ€™S PRIVACY
 
-We may publicly disclose the name, city and state of winners.
+OnboardIQ does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at clients@onboardiq.com
 
- **Aggregate Data**
+* * *
 
-We may share aggregated, non-personal data with service providers, advertisers or existing or potential business partners.
+#### 7\. LINKS TO OTHER WEB SITES AND SERVICES
 
-## Opting Out; Editing Your Personal Information
+Our Service may integrate with or contain links to other third party sites and services. We are not responsible for the practices employed by third party websites or services embedded in, linked to, linked from, or connected with the Service and your interactions with any third-party website or service are subject to that third partyâ€™s own rules and policies.
 
- **Changing Information; Closing Account**
+* * *
 
-To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at [questions@porch.com](mailto:questions@porch.com). We will remove your account within a reasonable time after receiving your request. Please note that, even after your account is deleted, information that you chose to provide in a public area of the Services (such as reviews and projects) will remain visible to the public and may remain in the accounts of Users and Pros with whom such information has been shared, and all of your information will remain in Porch’s backup/archival records. Porch may retain and use information in our records as described in this Privacy Policy, including but not limited to the section entitled “Disclosure of Information/Compliance with Laws and Policies; Protection of Rights,” above.
+#### 8\. HOW TO CONTACT US
 
-You may also make requests regarding your personal information, such as requests to access information or requests to update or correct inaccurate information, by emailing us at [questions@porch.com](mailto:questions@porch.com) or writing us at 2200 1st Avenue South, Seattle, WA 98134.
+If you have any questions about this Privacy Policy or the Service, please contact us at clients@onboardiq.com.
 
- **Email Programs**
+* * *
 
-You may unsubscribe at any time from our email programs by clicking on the unsubscribe link included at the bottom of every email message or by sending a request to [questions@porch.com](mailto:questions@porch.com). We reserve the right to send you service announcements (such as notifications about site outages) or administrative messages, without offering you the opportunity to opt out of receiving them. In addition, because we must communicate with you about service requests that you have submitted (or received, if you are a Pro), you cannot opt out of receiving emails relating to those requests.
+#### 9\. CHANGES TO OUR PRIVACY POLICY
 
- **Direct Mail**
+OnboardIQ may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy we will update the â€˜last modifiedâ€™ date at the top of this page.
 
-You may opt out at any time from receiving direct-mail promotional correspondence by sending a request to [questions@porch.com](mailto:questions@porch.com).
-
- **Mobile Programs**
-
-You may opt out of a specific mobile messaging campaign by texting “stop”. Text "stop all" to opt out of all mobile messaging.
-
-## Your California Privacy Rights
-
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at [questions@porch.com](mailto:questions@porch.com) or writing us at 2200 1st Ave South, Seattle, WA 98134.
-
-## Security
-
-The security of your personal information is important to us. We maintain industry-standard physical, electronic, and procedural safeguards, such as firewalls and encryption technology, to protect against the loss, misuse, and alteration of the information under our control. For example, when you enter sensitive information (such as a credit card number) on the Properties, we encrypt the transmission of that information using secure socket layer (SSL) technology. However, no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the protection of any information shared with us.
-
-If you create an account, you may be asked to choose a password to protect your account and account information. We recommend that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.
-
-## General Matters
-
- **Children**
-
-The Services are not directed to children under 13, and we do not knowingly collect or store any personally identifiable information about persons under the age of 13. If we learn that we have collected personally identifiable information of a child under 13, we will make commercially reasonable efforts to delete such information from our files. If you are under the age of 13, please do not submit any personal information through the Properties.
-
- **Third-Party Websites**
-
-Our Services may contain links to other websites and services. Any information that you provide on another website or service is provided directly to the owner or operator of the website or service and is subject to that party's privacy policy. In addition, if you visit the Properties through a link or advertisement on another website, then that website may be collecting information from users who click on the link or banner, and the collected information will be subject to that website’s privacy policy. Our Privacy Policy does not apply to any such websites or services, and we are not responsible for their content, privacy or security practices and policies. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
-
- ** _Governing Law; Visitors Residing Outside The United States_**
-
-All of the Services are hosted in the United States. This Privacy Policy and the privacy practices of our Site will be subject exclusively to the laws of the State of Washington within the United States of America, without regard to conflict of law principles. If you reside outside of the United States, you are responsible for complying with local laws in connection with your use of the Services, and you consent to the collection, transfer, storage, and use of your personal information in the United States of America in accordance with this Privacy Policy.
-
- **Porch Terms of Use**
-
-Your access or use of the Services is subject to Porch’s Terms of Use (located [here](https://web.archive.org/about/terms)).
-
- **Contacting Us**
-
-If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at [questions@porch.com](mailto:questions@porch.com) or in writing at 2200 1st Ave South, Seattle, WA 98134.
+* * *
