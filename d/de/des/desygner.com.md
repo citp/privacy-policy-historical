@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desygner.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514012122id_/https%3A//desygner.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desygner.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911000138id_/https%3A//desygner.com/en/privacy) for the most accurate reproduction.*
 
 # Desygner - Privacy Policy
 
@@ -17,7 +17,7 @@ We make it real easy to protect your information, so that you never have to worr
 
 As we need to provide detailed information on our privacy policies, the page below was written to explain what information we collect, how your information is used and the options you have regarding your information. 
 
-Our privacy policy applies to all visitors, users, and others who use the service we provide. Please feel free to [contact us](https://desygner.com/contact) if you have any questions about our privacy policy.
+Our privacy policy applies to all visitors, users, and others who use the service we provide. Please feel free to [Contact Us](https://desygner.com/contact) if you have any questions about our privacy policy.
 
 ## Information Collection
 
