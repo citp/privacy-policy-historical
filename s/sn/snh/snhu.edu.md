@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610193100id_/http%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910062012id_/https%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SNHU
 
