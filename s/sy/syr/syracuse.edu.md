@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syracuse.edu privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215165950id_/https%3A//www.syracuse.edu/about/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.edu privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910031612id_/https%3A//www.syracuse.edu/about/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Syracuse University
+# Privacy Policy - Syracuse University
 
 Syracuse University is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this web site, you can be assured that it will only be used in accordance with this privacy statement.
 
