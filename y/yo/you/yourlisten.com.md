@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlisten.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620000011id_/http%3A//yourlisten.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlisten.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910142935id_/http%3A//yourlisten.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy | YourListen
 
