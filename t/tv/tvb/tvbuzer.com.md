@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvbuzer.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613123811id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbuzer.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910034831id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
 
 # Watch Series Online, Full episodes, TV Shows, Seasons, News
 
