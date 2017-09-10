@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesaz.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624101509id_/http%3A//www.e-liquidzine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesaz.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910132434id_/http%3A//www.e-liquidzine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - e-liquidzine.com
 
