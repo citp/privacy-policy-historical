@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192402id_/https%3A//www.careerjunction.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910204244id_/https%3A//www.careerjunction.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerJunction
 
@@ -21,11 +21,9 @@
 
 
 
-This privacy policy applies to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) owned and operated by Interactive Junction Holdings (Pty) Ltd. ("CareerJunction", "We", "Us", "Our"). This privacy policy describes how Interactive Junction Holdings (Pty) Ltd. collects and uses the personal information you provide on our web site: [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20170606192402id_/https%3A//www.careerjunction.co.za/careerjunction.mobi). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) owned and operated by Interactive Junction Holdings (Pty) Ltd. ("CareerJunction", "We", "Us", "Our"). This privacy policy describes how Interactive Junction Holdings (Pty) Ltd. collects and uses the personal information you provide on our web site: [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20170910204244id_/https%3A//www.careerjunction.co.za/careerjunction.mobi). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Interactive Junction Holdings (Pty) Ltd. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20170606192402id_/https%3A//www.careerjunction.co.za/careerjunction.mobi).
-
-If you have questions or concerns regarding this policy, you should first [Contact Us](https://web.archive.org/about). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 #### 1\. Introduction
 
@@ -37,37 +35,33 @@ CareerJunction is the sole owner of the information collected on this site. We w
 
 #### 3\. Job Seeker Registration
 
-In order to use the functionality of this website, a user must first complete the two step registration form. During registration a user is required to provide all the information needed to complete the CV in the system.
+In order to use the functionality of this website, a user must first complete the two step registration form. Sign Up a user is required to provide all the information needed to complete the CV in the system.
 
 We request the following information in our CV form:
 
   * Full Name
   * Date of Birth
   * ID Number
-  * Affirmative Action Job Seeker (African/Coloured/Indian/Disabled/Female)
+  * Employment Equity Status (Ethnicity, Gender and Disabilities)
   * Phone Number
-  * Additional Phone Number (optional)
   * Email Address
   * Location
   * Languages
   * Education Details
   * Employment History
   * Skills
-  * Associations
-  * Achievements
-  * My Next Job
-  * Availability
+  * My Career Status (Availability)
   * Searchability
 
 
 
 This information is used for the Online Recruitment process and this includes sending Job Seeker CVs to a Recruiter for the purpose of a Job Seekers job application process where such CV data may then be stored by the Recruiter for future recruitment consideration. A Recruiter may also make contact with a Job Seeker for recruitment opportunities as a result of a CV search conducted by the Recruiter on searchable CVs on the CareerJunction database. If we have trouble processing a request, the contact information is used to get in touch with the user.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend\'s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CareerJunction stores email addresses for the sole purpose of sending this one-time email (and tracking the success of our referral program.
+If you choose to share a job via email, we will ask you for the recipient\’s email address. We will automatically send them a one-time email inviting them to view the job on our site. CareerJunction stores email addresses for the sole purpose of sending this one-time email (and tracking the success of the referral).
 
-Your friend may contact us at [jobseeker.support@careerjunction.co.za](mailto:jobseeker.support@careerjunction.co.za) to request that we remove this information from our database.
+The recipient may contact us at [jobseeker.support@careerjunction.co.za](mailto:jobseeker.support@careerjunction.co.za) to request that we remove this information from our database.
 
-#### 4\. Recruiter Registration
+#### 4\. Recruiter Sign Up
 
 Information that is collected from subscribing Recruiters will be used to contact the Recruiter about the services for which they have expressed interest. If Recruiters want to change their information their company supervisor has access to do this using the Supervisor Tools functionality.
 
@@ -76,8 +70,6 @@ This information is used for the Online Recruitment process and this includes se
 #### 5\. Cookies
 
 We Interactive Junction Holdings (Pty) Ltd. and our partners use technologies such as cookies or similar technologies to analyse trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
-
-We use cookies for tracking usage behaviour, recognise repeat users, manage user access and track user settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).
 
@@ -89,16 +81,15 @@ As is true of most websites, we gather certain information automatically and sto
 
 We sometimes share aggregated demographic information with our partners and advertisers. This is not linked to personally identifiable information. We also partner with third parties to provide specific services. When the user signs up for these services, we will share names or other information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. We will not voluntarily disclose any information about individual users to third parties, except as described in this privacy policy, or to comply with applicable laws or valid legal process, or to protect the rights or property of CareerJunction and its partner sites.
 
-CareerJunction maintains relationships with outside service providers for some of the services offered through our site, for example MyGate and Virtual Card Services (VCS).
+CareerJunction maintains relationships with outside service providers for some of the services offered through our site, for example PayU and Virtual Card Services (VCS).
 
 The information these providers make available may be presented in a "framed" format, where the CareerJunction border will surround the pages served by the service provider, or where pages have the look and feel of CareerJunction. In either case, the service provider is prominently identified. Please be aware that any information you provide on those framed pages is provided directly to those service providers, not to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and is subject to their security and privacy policies. We encourage you to read the privacy policies of these outside service providers because their privacy practices may differ from ours.
 
 #### 8\. Legal Disclaimer
 
-We may also disclose your personal information:
+In certain situations, Interactive Junction Holdings (Pty) Ltd. may be required to disclose personal information:
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * in response to lawful requests by public authorities, including law enforcement requirements.
   * if CareerJunction is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so
 
@@ -124,7 +115,7 @@ We also do everything in our power to protect user information offline. Access t
 
 #### 12\. Access and Choice
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on our member information page or by emailing our Customer Support at [jobseeker.support@careerjunction.co.za](mailto:jobseeker.support@careerjunction.co.za). We will respond to your request to access within 30 days.
+Upon request Interactive Junction Holdings (Pty) Ltd. will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on our member information page or by emailing our Customer Support at [jobseeker.support@careerjunction.co.za](mailto:jobseeker.support@careerjunction.co.za). We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -144,4 +135,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Third Floor Central Building, Black River Park, 2 Fir Street, Observatory, Cape Town, Western Cape, South Africa.
 
-Last Updated: 29 July 2016
+Last Updated: 29 June 2017
