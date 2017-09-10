@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the misterwhat.co.uk privacy policy that was archived on 2017-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609204159id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the misterwhat.co.uk privacy policy that was archived on 2017-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170910060236id_/https%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <link href="http://cdn.misterwhat.com/apple-touch-icon.png" rel="apple-touch-icon">
@@ -359,20 +359,6 @@ Italy
 $(".inpwrap").mouseenter(function() { $(this).find("i").show(); }) .mouseleave(function() { $(this).find("i" ).hide(); });
 $(".inpwrap .icon-remove-sign").live("click",function(){$(this).parent().find("input").val("").focus()});
 
-
-$(function() {
-  $('#cookie-wrap').load('/ajax/cookiewarn.php', function() {
-    $('#cookie-wrap').fadeIn(1000);
-    $('body').on('click', '#cookie-ok, .cookieok', function() {
-      var exdate=new Date();
-      exdate.setDate(exdate.getDate() + 3650);
-      var c_value=escape('1') + ';expires=' + exdate.toUTCString();
-      document.cookie='MW_CCTRL' + '=' + c_value;
-      $('#cookie-wrap').fadeOut();
-    });
-  });
-
-});
 
 
 </script>
