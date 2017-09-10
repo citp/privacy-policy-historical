@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119145805id_/http%3A//www.sunderland.ac.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910190618id_/https%3A//www.sunderland.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies
+# Privacy & Cookies | The University of Sunderland
 
-****Please read this Privacy Policy carefully. By accessing and using this website you are deemed to agree to the terms of this Privacy Policy. Please only submit information to us through this site if you agree we may collect it, use it, and retain it in accordance with this policy. Please note this site uses cookies to improve your user experience. By using this site you agree to these cookies being used. To find out more see our[Cookies policy](https://web.archive.org/info/privacy/cookiespolicy/). ****
+## Please read this Privacy Policy carefully.
 
-1. **About this Privacy Policy**
+By accessing and using this website you are deemed to agree to the terms of this Privacy Policy. Please only submit information to us through this site if you agree we may collect it, use it, and retain it in accordance with this policy. Please note this site uses cookies to improve your user experience. By using this site you agree to these cookies being used. To find out more see our [Cookies policy](https://www.sunderland.ac.uk/privacy-and-cookies/cookies-policy/ "Home » Beta » Privacy & Cookies » Cookies Policy"). 
+
+**About this Privacy Policy**
 
 This is the University of Sunderland’s Privacy Policy. The University of Sunderland (the ‘University’) is committed to preserving your privacy. This policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for, with whom we intend to share it, how we keep it secure, and  how we transfer your information outside the European Economic Area (EEA).
 
-**2\. Who we are**
+**Who we are**
 
-More information can be found in [About Us](http://www.sunderland.ac.uk/university/) and in [Legal Status](http://www.sunderland.ac.uk/university/legalstatus/).
+More information can be found in About Us and in Legal Status.
 
-**3\. Cookies and Adwords**
+**Cookies and Adwords**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to maintain, report on and aggregate information. This data informs us about your browsing actions and patterns. It is used to inform improvements to the website and for system administration.
 
 We may collect anonymous information through the use of various technologies including the use of ‘cookies’. Our website uses cookies to distinguish you from other users of the website. A cookie is a small file of letters and numbers that is stored on your hard drive and allows a website to remember who you are. The cookies set may contain information about you, your computer, your use of our website and your general internet usage.
 
-To learn more about how we use cookies, read our [Cookies policy](https://web.archive.org/info/privacy/cookiespolicy/).
+To learn more about how we use cookies, read our [Cookies policy](https://www.sunderland.ac.uk/privacy-and-cookies/cookies-policy/ "Home » Beta » Privacy & Cookies » Cookies Policy").
 
 The University’s website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve adverts based on someone’s past visits to the University of Sunderland’s websites. Any data collected will be used in accordance with our own privacy policy and [Google’s privacy policy](http://www.google.com/policies/privacy/) _._
 
-**4\. Other information we collect**
+**Other information we collect**
 
 In certain sections of the website you may be asked to provide some limited personal information. This could include: your name, contact details and email address, job title, demographic information such as postcode, preferences and interests, responses to surveys which we ask you to complete for research purposes, completion of online forms or applications, bank details and/or credit card details in order to receive goods or services or any other information you post or send us. In order to enable the provision of certain services, the University may store this information manually or electronically. By supplying this information you are consenting to the University holding and using this information for the purposes for which it was provided. The information provided will be kept for as long as is necessary to fulfil that purpose.
 
-**5\. How the information collected is used**
+**How the information collected is used**
 
 Personal information provided to the University by you will only be used for the purposes stated when the information is requested. We may use your information to:
 
@@ -41,7 +43,7 @@ Personal information provided to the University by you will only be used for the
 
 
 
-If you are a student, your personal information may be used for other purposes please see the Data Protection section of the [Terms and Conditions](https://web.archive.org/info/terms/).  
+If you are a student, your personal information may be used for other purposes please see the Data Protection section of the [Terms and Conditions](https://www.sunderland.ac.uk/terms-and-conditions/ "Home » Beta » Terms and Conditions").  
 
 If you are one of our suppliers, we will use information we hold on you to manage the contract between us and to improve our services. The information we hold may include information about your performance in providing services to us.
 
@@ -49,7 +51,7 @@ Personal information will not be sold to third parties, or provided to direct ma
 
 Personal information collected and/or processed by the University is held in accordance with the provisions of the Data Protection Act 1998.
 
-**6\. When we share your information**
+**When we share your information**
 
 We may share your information with other organisations including but not limited to:
 
@@ -67,27 +69,27 @@ Authorised personnel within the University (and that of our affiliates) will be 
 
 Transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, and will use strict procedures and security features to prevent unauthorised access, we cannot guarantee the security of data transmitted to the website. Any transmission is at your own risk.
 
-**7\. Security**
+**Security**
 
 Where we have given you (or where you have chosen) a password which enables you to access various areas of the website, you are responsible for keeping your password confidential and safe.
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**8\. Transfers outside the EEA**
+**Transfers outside the EEA**
 
 Personal data within the EEA (EU countries and Norway, Lichtenstein and Iceland) is protected under data protection legislation. Outside of the EEA personal data may not be afforded the same level of protection.
 
 Information which you provide us will ordinarily be stored on our secure servers which are based in the UK. However, we may need to transfer your personal information to countries which do not provide the same level of protection as the UK. By supplying your personal information by email or through this website you are consenting to this transfer. If you do not wish your personal information to a country outside of the EEA do not provide it by email or through this website.
 
-**9\. Changes to our privacy policy**
+**Changes to our privacy policy**
 
 We may amend this policy to reflect changes taking place within the University, website or to data protection law, freedom of information law or other legislation. We therefore ask that you revisit this policy on a regular basis to ensure you are familiar with its terms.
 
-**10\. Third party websites**
+**Third party websites**
 
 You should be aware that if you follow a link from this site to another site, this policy will no longer apply, except in the case of Google AdWords as discussed in clause 3 above. The University is not responsible or liable for how other sites collect and use your information. Please check the individual third party websites privacy policies before you submit personal information to those websites.
 
-**11\. Access to information and your rights**
+Access to information and your rights
 
 The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please contact our Data Protection Officer at:
 
