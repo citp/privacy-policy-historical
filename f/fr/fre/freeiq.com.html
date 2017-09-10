@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeiq.com privacy policy that was archived on 2014-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015052223id_/http%3A//www.freeassessment.com/privacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeiq.com privacy policy that was archived on 2017-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170910225031id_/http%3A//www.freeassessment.com/privacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -113,51 +113,57 @@
 	<body>
 		<div class="top_container">
 			<script type="text/javascript">
-	function funcLogin() {
-		var loginUser = $("#loginUser").val();
-		var loginPass = $("#loginPass").val();
-		if (loginUser == '' || loginPass == '') {
-			$("#error1").fadeIn();
-			$("#error1").fadeOut(3000);
-		} else {
-			$.ajax({
-				type : "POST",
-				url : "process/mainProcess.php",
-				data : "action=4&loginUser=" + loginUser + "&loginPass=" + loginPass,
-				success : function(msg) {
-					if (msg == 1) {
-						$("#error2").fadeIn();
-						$("#error2").fadeOut(3000);
-					} else if (msg == 2) {
-						window.location = "likeUs.php";
-					} else if (msg == 3) {
-						window.location = "result.php";
-					} else {
-						var n = msg.split("|");
-						var number = parseInt(n[1]) + 1;
-						window.location = "assessment.php?qid=" + number;
-					}
-				}
-			});
-		}
-	}
-	function loginForm() {
-		$('#login_section').slideToggle();
-	}
+    function funcLogin() {
+        var loginUser = $("#loginUser").val();
+        var loginPass = $("#loginPass").val();
+        if (loginUser == '' || loginPass == '') {
+            $("#error1").fadeIn();
+            $("#error1").fadeOut(3000);
+        } else {
+            $.ajax({
+                type : "POST",
+                url : "process/mainProcess.php",
+                data : "action=4&loginUser=" + loginUser + "&loginPass=" + loginPass,
+                success : function(msg) {
+                    if (msg == 1) {
+                        $("#error2").fadeIn();
+                        $("#error2").fadeOut(3000);
+                    } else if (msg == 2) {
+                        window.location = "likeUs.php";
+                    } else if (msg == 3) {
+                        window.location = "result.php";
+                    } else {
+                        var n = msg.split("|");
+                        var number = parseInt(n[1]) + 1;
+                        var id = b64EncodeUnicode(number)+'ASS'+Math.random();
+                        window.location = "assessment.php?qid=" + id;
+                    }
+                }
+            });
+        }
+    }
+    function loginForm() {
+        $('#login_section').slideToggle();
+    }
+    function b64EncodeUnicode(str) {
+        return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(match, p1) {
+            return String.fromCharCode('0x' + p1);
+        }));
+    }
 </script>
 <div class="wrapper">
-	<div class="header">
-		<h1 class="logo"><a href="index.php"><img src="common/images/logo.png" alt=""></a></h1>
-		<div class="login_box">
-			<a class="login_btn" onclick="loginForm();">login</a>			<div class="login_section" id="login_section" style="display:none;">
-				<div id="error1" style="font-size: 14px; font-weight: bold; color: red; margin-bottom: 10px; display: none;">Please enter username or password.</div>
+    <div class="header">
+        <h1 class="logo"><a href="index.php"><img src="common/images/logo.png" alt=""></a></h1>
+        <div class="login_box">
+            <a class="login_btn" onclick="loginForm();">login</a>            <div class="login_section" id="login_section" style="display:none;">
+                <div id="error1" style="font-size: 14px; font-weight: bold; color: red; margin-bottom: 10px; display: none;">Please enter username or password.</div>
                 <div id="error2" style="font-size: 14px; font-weight: bold; color: red; margin-bottom: 10px; display: none;">Invalid username or password.</div>
-				<input type="text" id="loginUser" name="loginUser" placeholder="User Name">
-				<input type="password" id="loginPass" name="loginPass" placeholder="Password">
-				<input type="submit" class="submit_btn" value="Submit" onclick="funcLogin();">
-			</div>
-		</div>
-	</div>
+                <input type="text" id="loginUser" name="loginUser" placeholder="User Name">
+                <input type="password" id="loginPass" name="loginPass" placeholder="Password">
+                <input type="submit" class="submit_btn" value="Submit" onclick="funcLogin();">
+            </div>
+        </div>
+    </div>
 </div>			<div class="body_container">
 				<div class="report_box" id="div_print">
 					<div class="wrapper">
