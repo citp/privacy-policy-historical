@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitestudents.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130204655id_/http%3A//www.unitestudents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitestudents.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910133902id_/http%3A//www.unitestudents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unite Students
 
@@ -36,7 +36,7 @@ We may collect traffic data related to you use and access to our services. Such 
 
 We will process your personal information so that: We can process your booking and any orders for goods and/or services that you place with us; We can fulfil our obligations under any contract for the supply of rented accommodation or the supply of any goods and/or services subject always to the terms and conditions relating to the supply; We can deal with the general queries that you raise from time to time by email, post or telephone etc.
 
-**How long do we keep your information  **
+**How long we keep your information  **
 
 The periods we keep your information can vary according to the use given to the information. Unless there is a specific legal requirement to keep your information we will not keep it for longer than necessary for the purposes for which the data was collected or for which it is to be further processed.
 
