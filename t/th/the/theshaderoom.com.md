@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshaderoom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054948id_/http%3A//theshaderoom.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshaderoom.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911002146id_/http%3A//theshaderoom.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - The Shade Room
 
