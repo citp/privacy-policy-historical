@@ -1,76 +1,62 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218032213id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911012452id_/https%3A//www.lbhf.gov.uk/council-and-elections/data-and-information/data-protection/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy and cookies - Hammersmith & Fulham
+# Privacy policy | LBHF
 
-## Privacy policy and cookies
+On 1 November 2016, the council changed its current supplier of Information and Communications Technology (ICT) services, H&F Bridge Partnership Limited. From that date, some ICT services will be provided by BT plc and some by Agilisys Ltd.  Your data may therefore be held or processed by one or both of these partner organisations on behalf of the council.  All data will be held or processed securely in the UK
 
-**How the council uses your information**
+We respect your privacy and your right to confidentiality. And we're committed to following the Data Protection Act.
 
-The council is committed to abiding by the Data Protection Act, as well as people’s rights to confidentiality and respect for privacy.
+We keep your private information secure. Only staff and third parties who are entitled to see the information, have access to it and they can only use it for the purposes stated.
 
-We treat your private information with respect. It is kept secure. Only staff and third parties including service providers who are entitled to see the information, have access to it and they may only use it for the purposes stated.
+Service providers are contracted to provide certain services on our behalf and where appropriate we have information-sharing protocols and agreements in place to protect your data.
 
-Service providers are contracted to provide certain services on behalf of the council and where appropriate we have Information Sharing Protocols and Agreements in place to formalise this.
+We will do our best to keep information about you accurate and up-to-date, and would like you to do the same.
 
-We will do our best to keep information about you accurate and up to date and would like you to do the same.
+When we no longer need to keep information about you, we will dispose of it in a secure manner.
 
-When we no longer have a need to keep information about you, we will dispose of it in a secure manner.
+## How we use information about you
 
-We use computer systems to ensure we have the best available information on you from the council departments who provide you with a service.
-
-In particular, we will use information about you on the following basis:
-
-(1) For all law enforcement, regulation and licensing, criminal prosecutions and court proceedings, we will use all information held by us in order to undertake those functions efficiently and effectively.   
-(2) For the maintenance and improvement of the services which we deliver, this includes the development and upgrading of the systems which we use to process your information.   
-(3) For all uses of information relating to situations where you owe money to the council, or where we are paying you money, or you are claiming grants, housing or council tax benefits, your personal information (other than just your name, address, dates of occupancy etc.) will be kept secure and used only for that range of purposes (and for those stated at (1) and (2) above).
-
-By doing that. we are able to:
-
-  * Provide you with a better level of service, ensuring that our information about you is accurate and up to date.
-  * Ensure that public (taxpayers') money is spent wisely and efficiently.
-  * Avoid people being paid money to which they are not entitled.
-  * Avoid having to ask people to pay money back when it has been paid to them incorrectly.
-  * Reduce fraud and crime generally.
+  1. to give you the best service by making sure we contact you when you need us to (for example, we will send our online account holders regular emails updating them on council services)
+  2. to upgrade the systems we use to process your information
+  3. to make sure that public (taxpayers') money is spent wisely and efficiently
+  4. to avoid people being paid money to which they are not entitled
+  5. to avoid having to ask people to pay money back when it has been paid to them incorrectly
+  6. to reduce fraud and for efficient law enforcement, regulation and licensing, criminal prosecutions and court proceedings.
 
 
 
-(4) For other functions of the council we will seek to ensure that your name, address, date of birth etc., is used intelligently, in order that we treat you as our customer and minimise inefficiency. For example, we will send our online account holders regular emails updating them council services.
+It is important to us that we properly coordinate what we do for you. As a result, when you tell us that you are moving address or changing your name, we will try and make it as easy as we can for you. We will try to keep your name and address up to date in all our records.
 
-It is important to us that we properly coordinate what we do for you. As a result, when you tell us that you are moving address or changing your name, we will try and make it as easy as we can for you. We will try and keep all of our records up to date with your name and address details.
+See also **[My Account privacy policy](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/my-account-privacy-policy)**
 
-###  **_  
-Cookies_ **
+## Cookies
 
-We use cookies on certain sections of the website. These are used to help us see which parts of our website are the most useful to customers. We use the information to make the site easier for you to use. If you do not wish to receive cookies then you can set your web browser to reject them. However, you may not be able to use the e-payments section of our website.
+We use cookies on certain sections of our website. These are used to help us see which parts of our website are the most useful to customers. We use the information to make the site easier for you to use. If you do not want this to happen, you can set your web browser to reject cookies. However, you may not be able to use online payments or other features of our site.
 
-[More information about how we use cookies](https://web.archive.org/Directory/Links/169016_Cookies.asp)
+Read more information about [how we use cookies](https://web.archive.org/council-and-elections/data-and-information/data-protection/cookies).
 
-###    
-Bi-borough and Tri-borough partnership
+## Shared services, shared information
 
-As you are aware the London Borough of Hammersmith and Fulham (H&F), Westminster City Council (WCC) and the Royal Borough of Kensington and Chelsea (RBK&C) have announced plans for shared working across some service areas. This will be on a Bi-borough (with two of the above councils) or on a Tri-borough basis (with all of three of the above councils). On 20 June 2011, a Tri-borough Implementation Plan was agreed by Cabinet.
+We share some services with Westminster and Kensington and Chelsea councils. To work effectively and give you a high standard of customer service, some of your personal information will be shared across the councils. The partnership will collect, use, share, protect and dispose of your personal data in full compliance with the Data Protection Act.
 
-To enable the partnership to work effectively and efficiently whilst maintaining a high standard of customer service, some of your personal information will be shared across the councils. The partnership is committed to abiding with legislation and will collect, use, share, protect and dispose of your personal data in full compliance with the Data Protection Act as cited above.  You will be notified or requested to provide consent, where appropriate, as the shared services are developed.
+## IP (internet protocol) addresses
 
-For further information on how this may affect you, please contact the departments directly: Search A to Z of services.
+We monitor the number of visitors to our website and collect IP addresses through our system of continuous review. However, we don’t use this information to identify individuals.
 
-###    
-IP (internet protocol) addresses
+## Use of personal information
 
-We monitor the number of visitors to our website and collect IP addresses through our system of continuous review. However, this information is not used to identify individuals.   
+You can find more information about how we use personal information in our entry in the [Information Commissioner’s Office register of data controllers](https://ico.org.uk/about-the-ico/what-we-do/register-of-data-controllers/). We renew this annually and update it whenever we are going to use personal information in a new way. Our Registration Number is Z5124889.
 
+## Security
 
-###    
-Use of personal information
+We have strict security measures to prevent the alteration, loss or misuse of information on our computers. Our online payments are subject to the tightest security under our control.
 
-You can find more information about how we use personal information in our entry in the Information Commissioner’s Office Register of Data Controllers. We must renew this annually and update it whenever we are going to use personal information in a new way.
+If you would like to know more, including about how we look after your information, please see our [information charter](https://web.archive.org/councillors-and-democracy/data-and-information/freedom-information/information-charter) or contact the information management team (contact details can be found at the bottom of our [data protection](https://web.archive.org/council-and-elections/data-and-information/data-protection) page).
 
-[» Visit the ICO Registration of Data Controllers web page](https://ico.org.uk/about-the-ico/what-we-do/register-of-data-controllers/) (opens new window)   
-Our Registration Number is Z5124889
+### See also
 
-###  **_  
-Security_ **
+[Public health directorate privacy notice (pdf)](https://web.archive.org/sites/default/files/section_attachments/public_health_privacy_notice_final.pdf)
 
-We have strict security measures in place to prevent the alteration, loss or misuse of information on our computers. Our online payments are subject to the tightest security under our control.
+[My Account privacy policy](https://web.archive.org/myaccountprivacypolicy)
 
-If you would like to know more, including about how we look after your information, please see our [Information Charter](https://web.archive.org/Directory/Council_and_Democracy/Data_Protection_and_Freedom_of_Information/Data_Protection_Act/130526_Information_Charter.asp) or contact the [Information Management Team](https://web.archive.org/Directory/Council_and_Democracy/Data_Protection_and_Freedom_of_Information/Data_Protection_Act/39929_Data_Protection_Act.asp).
+[Housing department privacy notice](https://web.archive.org/housing/housing-department-privacy-notice)
