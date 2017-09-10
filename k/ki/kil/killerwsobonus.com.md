@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerwsobonus.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022175312id_/http%3A//www.killerwsobonus.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerwsobonus.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910094505id_/http%3A//killerwsobonus.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
