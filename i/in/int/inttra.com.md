@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080107id_/http%3A//www.inttra.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910063848id_/https%3A//www.inttra.com/privacy) for the most accurate reproduction.*
 
 # INTTRA | Privacy
 
@@ -12,7 +12,7 @@ This Privacy and Security Policy (“ **Privacy Policy** ”) applies to the web
 
 
 
-The corporate website resides at [www.inttra.com](https://web.archive.org/en). The product platforms and the corporate website listed here are collectively referred to as the " **Websites** ".
+The corporate website resides at [www.inttra.com](https://web.archive.org/). The product platforms and the corporate website listed here are collectively referred to as the " **Websites** ".
 
 This Privacy Policy applies to all data and information that inttra may obtain about you, in connection with its provision of the inttra systems defined below, including, without limitation, the Websites and transmissions via electronic data interchange (“ **EDI** ”) (collectively referred to as the “ **System** ”), and all related services (provision of the System and all related services are collectively referred to as the “ **Services** ”). This Privacy Policy should be read in conjunction with one or more agreements between your company (the “ **Company** ”) and inttra (the “ **Agreement(s)** ”) that apply to the System and the Services and with any other documents or guides that are provided from time to time in relation to the Services.
 
