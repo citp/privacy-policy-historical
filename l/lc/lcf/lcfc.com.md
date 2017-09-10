@@ -1,143 +1,113 @@
-> *The following text is extracted and transformed from the lcfc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162237id_/http%3A//www.lcfc.com/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcfc.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910025951id_/https%3A//www.lcfc.com/club/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Leicester City FC
 
-**Introduction**
+For the purpose of the Data Protection Act 1998, the data controller is Leicester City Football Club Limited (company number: 4593477) whose registered office is at King Power Stadium, Filbert Way, Leicester, LE2 7FL.
 
-This website, www.lcfc.co.uk ( **"Site"** ) is owned and operated by EFL-Digital Limited (company number 04112553) ( **"EFL Digital"** ), a company wholly-owned by The Football League Limited (company number 00080612) ( **"EFL"** ) each having their registered office at EFL House, 10-12 West Cliff, Preston, PR1 8HU. 'The English Football League' and 'EFL' are trading names of The Football League Limited.
+**Marketing preferences and preference centre**
 
-EFL Digital operate the Site on behalf of Leicester City Football Club Limited _, (Company number 4593477),_ registered at King Power Stadium, Filbert Way, Leicester, LE2 7FL (" **Club** ").
+There are many exciting promotions, news, features and activities we and our commercial partners want to keep in touch with you about.  
 
-EFL-Digital and the Club are joint Data Controllers of personal data collected by us which you provide through the Site, for the purpose of the Data Protection Act 1998 (" **DPA** ").
+When you register with us, or provide us with your personal information, there will be a consent box that allows you to indicate your preference in this respect.
 
-References to " **we** ", " **us** " and " **our"** in this policy are all references to EFL-Digital and the Club.
+If you opt-in it means that we will let you know about exciting promotions, news, features and activities of LCFC, King Power and/or our commercial partners.
 
-Protecting your privacy is very important to us. This privacy policy (" **Policy** ") describes the types of personal data you provide and/or we collect via your use of the Site, what we may do with that personal data and your rights. 'Personal data' is defined in the DPA and is essentially information from which an individual person can be identified. By submitting information and/or continuing to use the Site, you signify your consent to us using your personal data in accordance with the below.
+Providing this consent means you get access to fantastic promotions, news, features and more.
 
-We may need to change the terms of this Policy from time to time and changes will be posted on this page (and/or where appropriate, otherwise notified to you). Your continued use of the Site will be deemed to be acceptance of amendments we make. This Policy was last updated on 23rd August 2016.
+Just to make sure you are happy with your preferences, we will get in touch once a year by email to check you are happy with what you are (or are not) receiving from us and that the information we hold about you is up to date. 
 
- **How we use your personal data**
+If you do not want us to get in contact once a year, please let us know by emailing  **[lcfchelp@lcfc.co.uk](mailto:lcfchelp@lcfc.co.uk)**.  
 
-We request that the information you provide is as accurate as possible as this allows us to secure your privacy by differentiating you from others, and creating a "profile" for you so that we can provide a personalised service when you visit the Site and/or we send you emails. Periodically we may send you an email asking you to "Update your Details".
+You can also change your mind at any time via your preference centre by [clicking here](https://signin.lcfc.com/). You can update your personal information if it changes by logging into your account or messaging us at **[lcfchelp@lcfc.co.uk](mailto:lcfchelp@lcfc.co.uk)**.
 
-The only item of personal data that it is obligatory to provide to receive information from us is your email address. However, the more you tell us about yourself, the more we can tailor our communication to your needs. Use of services accessed through the Site may require you to provide further or specific types of information.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.
 
-We use information about you for five primary purposes:
+Please check these policies before you submit any personal data to these websites.
 
-I.To perform the services you have requested, such as sending you our newsletters and other information about us, the EFL and its competitions. The type of information we may use might include, for example, your name, address, email address, date of birth, telephone number and card or other payment details in relation to goods or services you purchase from us through the Site or otherwise. We will NEVER share your financial information with other third parties for any reason other than processing transactions, fraud and credit risk protection, unless we have your explicit consent.
+**Our commercial partners**
 
-II.To enable you to participate in chat rooms, forums, message boards, and/or news groups on the Site on which you can post information and, where we deem necessary, to respond to any such posts you make. Information you post in these areas may become public information and must always comply with our [Terms and Conditions](http://www.lcfc.co.uk/global/term-of-use.aspx)
+For a current list of our sponsors, licensees and partners please [click here](https://web.archive.org/web/city-business/club-partners). These may change from time to time, so please come and check the list regularly.
 
-III.To alert you to other information, including offers and promotions, relating to us, EFL and/or (except where you have indicated otherwise) commercial partners. See below heading ' _Marketing Information_ ' for more information about this. For example, such information may include newsletters, offers, promotions, occasional surveys and other communications of potential interest from us, or EFL official partners and/or The Football League Trust (company number 06466997) (" **EFL** **Trust** ") being a charity registered at the same address as EFL and EFL Digital.
+**What information we collect and what we use it for**
 
-IV.To carry out market research so that we can improve the products and services we offer. Your feedback is valued and helps to shape the products and services we offer. You will have the right to opt-out of receiving or participating in our surveys at any time.
+When you purchase products and services, we may collect personal information from you, such as your name, address, delivery address, email, telephone number and payment card details.  
 
-V.To manage and improve the Site and allow you to use the features offered by the Site. Information we use for this purpose may include (for example) that about your computer and, where available, your IP address, operating system and browser type.
+We will use this information to supply you with the products and services, to recover debt, to help us to prevent fraud, and keep records about your purchases. If necessary, we may also record details of any disability or health needs you may have at the time of booking an event or service to help to ensure your safety.
 
-We may also supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations such as our commercial partners, group companies (including EFL and the Trust).
+In order to provide you with the products and services, we may need to store or transfer your personal information to countries outside the European Economic Area (EEA), some of which do not protect privacy rights as extensively as in the United Kingdom.  
 
-In addition, we reserve the right to perform statistical analysis of user behaviour and characteristics to measure interest in and use of the various areas of the Site and to ascertain the number of users that have visited particular web pages. We also keep track of what you do with our newsletters when you receive them for trends and statistics and to evaluate the efficiency of our newsletter and information service. We may provide aggregated and anonymised data (not identifying any individual) only from these analyses to third parties.
+In some instances, your personal data will be transferred to our commercial partners based outside of the EEA to allow them to contact you about their products and services. By submitting your personal information, you agree to this transfer, storing or processing.
 
- **Marketing Information**
+When you sign up to be kept informed about exciting promotions, news, features and activities we may collect your personal information, such as your name, email address, date of birth and country of residence.
 
-We do not sell, rent, or otherwise provide personally identifiable information to third-parties without your consent, except only as set out in the ' _Disclosing (Sharing) Your Information_ ' section below.
+If you log in using social media, depending on how you log in, we may collect your profile name/user name, profile picture, email address and date of birth.  
 
-From time-to-time we, EFL, and/or our commercial partners (if you have agreed to receive their information when you provided your personal information) would like to contact you to tell you more about the offers, services, products and other initiatives available to you.
+The social media information you consent to share with us will be combined with the other information you provide to us or that we collect about you. We will also collect information about your comments, posts and 'likes' to allow us to administer our membership scheme.
 
-We, EFL, and/or our commercial partners will only contact you by electronic means if you have consented to this. However, if you are an existing customer (and have not opted out) we may contact you by electronic means about services, products and initiatives similar to those you have previously received or enquired about (unless you have chosen not to receive such electronic communications).
+As you move around our site we will collect information about your visit, such as which pages you visit, how often you visit and which competitions you enter.
 
-If, at any time after registering, you would like to change your preference and opt-in or opt-out from receiving communications from us or third-parties you can do this at any time by changing your preferences on your personal profile page, which is accessible from all of our emails.
+**We will also automatically collect the following information:**
 
- **Cookies**
+\- Technical information, including the Internet Protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
 
-The Site uses cookies. A cookie is a small file containing an identity code. With your consent, your computer accepts the cookie and stores it. When you next visit the Site, the code is retrieved, allowing an individual visitor or computer to be recognised. Full information on which cookies we deploy is available in our Cookie Policy.
+\- Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-We are not responsible or liable for the content, privacy policies or services offered by websites other than the Site, including those which link from the Site (with the exception of the Club PlayerHD service. We encourage you to read and familiarise yourself with the privacy policies, terms and conditions and/or other notices on other websites you visit.
+From our commercial partners and other third parties we may collect information they hold about you and use it to supplement the information that you provide to us.
 
- **Children and Young People**
+All the personal information we collect about you is stored by us or our service providers on our behalf.  We will use this information, as well as the other information we collect about you, to improve the quality of our site and help build a profile of you so we can get to know you better.  Also, it helps us make sure we and our commercial partners are sending you news, updates and offers that will be of interest to you.
 
-We realise and understand that children and young people under 18 (" **minors** ") may visit the Site, or otherwise interact with us and our commercial partners. It is our policy:
+We may also use the personal information we collect about you to create statistics and anonymised information to then share with third parties including ad networks, search engines and analytics providers.
 
-I.to encourage all minors to consult with their parents or legal guardian before submitting any content or information to us, our commercial partners or other third parties. Users of the Site, or certain services on it, who indicate they are a minor may be asked to provide a valid email address for their parent or guardian so that we may verify parental consent, where required;
+We may share your information with business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
-II.not to make a minor's participation in our activity contingent on the child disclosing any more personal information than is reasonably necessary in order to do so. Anyone known to be a minor may be allowed to participate in certain competitions and promotions, but notification of a win or prize will be sent directly to the parent or legal guardian identified in the initial registration process. Publication of a winning minor's personal details will require parental or legal guardian consent;
+**We may disclose your personal information to third parties in the following circumstances:**
 
-III.not to actively market to minors; and
+\- In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.  
+\- If LCFC or substantially all of their assets are acquired by a third party, in which case personal information held by them about their customers will be one of the transferred assets.  
+\- If we are under a duty to disclose or share your personal information in order: to comply with any legal obligation, court or police request, or in order to enforce or apply our terms of use or terms and conditions of sale and other agreements; or to protect the rights, property, or safety of LCFC, our customers, or others.  
 
-IV.not use (or pass to any third party) personal information on persons known to be minors for any commercial purposes.
+This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-Some of the facilities or functions accessible through the Site (including betting facilities advertised or accessed through it) are not intended to be accessible by, nor are they actively advertised to, minors.
+**We may share your information with selected third parties including:**
 
-Parents or legal guardians should supervise minors when online and we recommend parental control tools be put in place. Any minor using the Site and services offered is confirming that they have received the consent of their parent or a guardian to do so.
+\- Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.  
+\- Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  
+\- Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
- **Storing and retaining your personal data**
+**Security of information**
 
-We are committed to protecting the security of your personal data, which is held in secure data centres in the United Kingdom in accordance with current legislative requirements, industry standards and technology. We will keep the personal data you have provided for as long as we have a relationship with you; once that relationship has ended we will retain it in accordance with this Policy only for as long as we reasonably require and it will then be deleted and destroyed.
+We take the security of your personal information seriously and take steps to ensure your personal information is treated securely and in accordance with this privacy policy.
 
-Some of the organisations to which we may disclose your personal information (including, but not limited to, our commercial partners) may be situated outside of the European Economic Area, in countries which may not have laws that protect privacy rights as extensively as in the United Kingdom, though we will take all reasonable steps to ensure that your information is still properly protected.
+When you submit your credit card details on our [Shop](https://shop.lcfc.com/) or [Ticketing](https://tickets.lcfc.com/) sites, we use industry standard secure sockets layer (ssl) encryption technology to guard your information. We do not store your credit card details at all. However, we cannot guarantee that any data transmission over the internet is completely secure. 
 
-Security
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Once your personal data is received we store it as set out in this Policy. Financial information you provide through the Club PlayerHD service is also encrypted for additional security.
+Our websites contain links to other websites.  We are only responsible for the privacy practices on our websites. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
 
-We cannot guarantee the complete security of our databases, nor that information you supply will not be intercepted while being transmitted to us over the Internet.
+**Your rights to access your personal information**
 
-If we have given you a password to access certain parts of the Site, you are solely responsible for keeping the password safe and make sure you use a secure browser.
+You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. If you would like to make such a request please contact  **[lcfchelp@lcfc.co.uk](mailto:lcfchelp@lcfc.co.uk)**.
 
- **Disclosure (sharing) of your information**
+**Children’s privacy policy**
 
-We have already described in the ' _Marketing Information_ ' section of this Policy under what circumstances your personal information may be shared with our commercial and official partners, if you have agreed.
+If you are under 16, please read this section of the privacy policy and speak to your parent or guardian if you have any questions before using any of our websites and providing us with any of your personal information. If you continue to use our websites, we will assume that you have your parent and/or guardian's consent to do so.
 
-In addition, there are some other reasons why we may disclose your personal information to third parties and these are as follows:
+You can use our websites without providing us with any of your personal information. If you do provide us with your personal information we will use it as set out on the website. For example, if you sign up to get the newsletter, we will use your email address to send you the newsletter and news, updates and promotions we think you might like.
 
-·to other companies within our corporate group including (in the case of EFL Digital, EFL and/or the EFL Trust);
+If you are under 12, we will not send you any emails or SMS until after your 12th birthday. After your 12th birthday we will email to let you know how we are going to get in contact with you about LCFC and our exciting news, features and activities.
 
-·to appoint other organisations to carry out some data processing activities on our behalf. For example, mailing services, payment processing, hosting service providers, and to check your details against the Telephone Preference Service;
+We encourage you to talk with your parent/guardian about the information we send to you, and check that they are happy for you to continue to receive this information. If you do not tell us you do not want to receive this information any more, we will assume you have your parent and/or guardian's consent to continue to receive this information.
 
-·If we or substantially all of our assets are acquired by a third party, in which case personal data held by us about customers will be one of the transferred assets;
+You can ask us to stop sending you any emails, SMS or other communications at any time. In each message we send you there will be an 'unsubscribe' option, if you follow these instructions we will stop sending the messages.
 
-·If we are under a duty to disclose or share your personal data to comply with any legal obligation, or to enforce or apply our terms of use or terms and conditions of supply of any of the services provided by us (for example our ground regulations) and other agreements; and/or
+You can also send us a message to  **[lcfchelp@lcfc.co.uk](mailto:lcfchelp@lcfc.co.uk)**. If you have any questions, want us to stop sending you messages or want to change any of the information you have given to us.
 
-·to protect the rights, property, or safety of us, our commercial partners, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If you are a parent or guardian of a child who is using www.lcfc.com or otherwise in contact with us, we recommend that you supervise your child while they are online and check what personal information your child is providing to us.
 
-Where we share your personal information with third parties we will take reasonable steps to ensure that it is properly protected and processed in accordance with this Policy.
+We make sure that any information or marketing that we send to under 18's is always age appropriate. If you have any concerns about the information your child is receiving, please contact us at  **[lcfchelp@lcfc.co.uk](mailto:lcfchelp@lcfc.co.uk)**.
 
- **Your rights to:**
+**Changes to this privacy policy**
 
-All requests set out in this section or other queries relating to this Policy should be addressed to Data Protection Compliance Officer at EFL House, 10-12 West Cliff, Preston, PR1 8HU or [privacy@efl.com](mailto:privacy@efl.com). Please include your name, address, and/or email address when you contact us.
+We may change our privacy policy at any time, so we recommend that you visit this page occasionally to check what has changed. 
 
- **Access Your Personal Information:**
-
-You have the right to see a copy of the information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is £10.00.
-
- **Update and Amend Your Personal Information:**
-
-You have the right to ask that the information we hold about you is corrected by updating/changing your profile preferences or by contacting us as above. We encourage you to update your personal information promptly if it changes.
-
- **Opt-out of Being Contacted:**
-
-You have the right to ask that we and/or our commercial partners stop contacting you by clicking the relevant boxes on the screen upon which you provide information or by contacting us.
-
- **Close Your Account/Delete Your Personal Information:**
-
-You (and any parent/guardian of a minor) have the right to request that we close your account and/or delete your personal information from our database. We will make all reasonable efforts to comply with this request. However, it may not be possible to delete an entry without some delay and without retaining some residual personal information because of backups and records of deletions (including to ensure we no-longer communicate with you) or because we are required to retain personal information for other lawful requirements.
-
-If you are dissatisfied with our response to any of your data privacy concerns you have the right to raise this with the Office of the Information Commissioner at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF ([https://ico.org.uk](https://ico.org.uk/)).
-
-This Cookies Policy applies to www.lcfc.co.uk (" **Site** ") (operated by EFL Digital on behalf of Leicester City Football Club Limited) and should be read alongside our Privacy Policy which explains who we are, the type of information we may hold about you and how we use it.
-
-The Site uses cookies. A cookie is a small file containing an identity code. With your consent, your computer accepts the cookie and stores it. When you next visit the Site, the code is retrieved, allowing an individual visitor or computer to be recognised.
-
-Cookies are used for a variety of purposes, including providing personalised web pages and recognising your choice of language. Cookies do not cause harm to your computer, but, if you wish to stop your computer accepting cookies, go to the help section of your internet browser (for example, Internet Explorer or Firefox) where you will find information on how to do this.
-
-Google Analytics uses traffic log cookies to gain information about the use that is made of pages on the Site. We use the information from these cookies to generate reports on the usage of the Site which are used for evaluation and analysis. The purpose is to improve the Site by tailoring it to the needs of users.
-
-In addition to standard analytics parameters, we receive data via Google Analytics Advertising Features including information about 'Demographics and Interest Reporting' which gives us greater insight into the _types_ of visitors we receive.
-
-In all cases, no data which is itself specific to any identifiable user is retained.
-
-As a user you can opt out of this process of collecting traffic log data. To do so please visit the following site which provides a browser add-on that enables a user to opt out -
-
-All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. To understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
-
-We do not recommend turning cookies off when visiting the Site, as this will prevent you from using many of the services on the Site.
+_Last updated June 2017_
