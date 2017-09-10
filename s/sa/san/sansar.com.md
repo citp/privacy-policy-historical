@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sansar.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000836id_/http%3A//www.lindenlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sansar.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910220538id_/http%3A//www.lindenlab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Linden Lab
 
