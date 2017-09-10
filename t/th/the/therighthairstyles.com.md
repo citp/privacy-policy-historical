@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therighthairstyles.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506100953id_/http%3A//therighthairstyles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therighthairstyles.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910145502id_/https%3A//therighthairstyles.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
