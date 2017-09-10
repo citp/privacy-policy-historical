@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makestar.co privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530172709id_/https%3A//www.makestar.co/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makestar.co privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910105510id_/https%3A//www.makestar.co/about/privacy) for the most accurate reproduction.*
 
 # Makestar : Privacy Policy
 
@@ -15,8 +15,8 @@ The reason of collecting personal information and the use purpose of personal in
   1. Collecting range
     * The company collects the personal information that has been agreed on by the members and it is through legal and fair procedure. For this, we included a step when member can press “Agree” button, so when the “Agree” button is pressed, it is assumed that the member has agreed on the collecting of personal information.
     * Personal information that is collected by the company
-      * Information received at time of member registration : User’s name, email address, password, nickname
-      * Information received at the time of funding participation : Address, phone number
+      * Information received at time of member registration : User’s name, email address, password, nickname, birthdate, gender, country of residence
+      * Information received at the time of funding participation : Address, name, email, phone number
   2. Collecting method : Member registration and information change through website, inquiry mail, phone call, etc.
 
 
