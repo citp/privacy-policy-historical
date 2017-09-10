@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veronicca.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022205019id_/https%3A//www.veronicca.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veronicca.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910090430id_/https%3A//www.veronicca.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Veronicca.com
 
