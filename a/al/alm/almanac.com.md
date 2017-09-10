@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608023422id_/http%3A//www.almanac.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910101659id_/https%3A//www.almanac.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy The Old Farmer's Almanac | The Old Farmer's Almanac
 
