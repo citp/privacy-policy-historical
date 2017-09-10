@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519070516id_/https%3A//www.imgix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910045047id_/https%3A//www.imgix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • imgix • Real-time image processing and image CDN
-
-## Last Revised: May 20, 2014
 
 Thank you for using Imgix! Imgix processes images at scale in real time, caches them, and delivers them to your users.
 
@@ -80,7 +78,7 @@ Imgix takes reasonable measures to help protect information about you from loss,
 
 ### Your Choices
 
-**Account Information** You may update, correct or delete information about you at any time by logging into your member account or emailing us with your request at support@imgix.com. If you wish to deactivate your account, you may do so at any time by using the tools in your member account or by contacting us at support@imgix.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+**Account Information** You may update, correct or delete information about you at any time by logging into your member account or emailing us with your request at [support@imgix.com](mailto:support@imgix.com). If you wish to deactivate your account, you may do so at any time by using the tools in your member account or by contacting us at [support@imgix.com](mailto:support@imgix.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
 **Cookies** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Services.
 
@@ -90,4 +88,4 @@ Imgix takes reasonable measures to help protect information about you from loss,
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at privacy@imgix.com.
+If you have any questions about this Privacy Policy, please contact us at [privacy@imgix.com](mailto:privacy@imgix.com).
