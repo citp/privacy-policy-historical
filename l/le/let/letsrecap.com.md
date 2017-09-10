@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsrecap.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203224549id_/https%3A//letsrecap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsrecap.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910074221id_/https%3A//letsrecap.com/privacy) for the most accurate reproduction.*
 
-# Recap
+# - Recap
 
 **Updated August 8th, 2016.**
 
