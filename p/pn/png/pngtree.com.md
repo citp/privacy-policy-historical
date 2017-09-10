@@ -1,73 +1,23 @@
-> *The following text is extracted and transformed from the pngtree.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193428id_/http%3A//pngtree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngtree.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910232044id_/https%3A//pngtree.com/privacy-policy) for the most accurate reproduction.*
 
-# millions PNG images for free download | pngtree
+# Millions of PNG Images, Backgrounds and Vectors for Free Download | Pngtree
 
 Welcome to Pngtree's Privacy Policy
 
-On http://pngtree.com (from now on, will be referred as pngtree.com), visitor privacy is of our serious concern. This privacy policy page 
-
-describes what kind of personal information may be received and collected by pngtree.com and how the information will be used. 
+On http://pngtree.com (from now on, will be referred as pngtree.com), visitor privacy is of our serious concern. This privacy policy page describes what kind of personal information may be received and collected by pngtree.com and how the information will be used. 
 
 How Pngtree users personal information 
 
-Generally, the User may browse the Website without providing any personal information.
-
-If the User registers on the Website, the data gathered will be incorporated to a file in Pngtree in order to manage the Website, provide 
-
-its Services, offer certain functionalities associated to the status of User (the list of downloads, for instance), and send information to the 
-
-User about the Services of Pngtree or its sponsors through newsletters (the subscription of which can be cancelled by Users at any 
-
-moment from their account).
-
-Pngtree doesn't gather information about the age or date of birth of their Users when they register. Consequently, there isn't a particular 
-
-treatment aimed to underage Users. Pngtree is only aimed to full age Users.
-
-Any information received by Pngtree through Contact forms, Broken Link? forms, satisfaction surveys available on the Website, or 
-
-through the email addresses info@Pngtree.com, will be incorporated to a Pngtree file and will only be used with the intention of answer- 
-
-ing the questions, suggestions or complaints sent by the Users of the Website.
-
-Any information received by Pngtree through the Work With Us form available on the Website will be incorporated to a Pngtree file and 
-
-will only be used with the purpose of managing the selection process of Pngtree personnel.
-
-The Website includes plugins that allow to perform some actions in social networks belonging to third parties such as Facebook, Twitter,
-
-Pinterest or Google+ like sending a publication or show support to the Website, for instance. These plugins are displayed with the logo 
-
-of their associated social network. If those plugins are accepted, the corresponding content will be sent to the adequate social network. 
-
-The User may find information about how those plugins work and in what way the personal data is used in the privacy policies of these 
-
-social networks. If the User doesn't wish these social networks to collect these personal data, the plugin shouldn't be accepted and the 
-
-account should be abandoned before browsing the Website.
+Generally, the User may browse the Website without providing any personal information. If the User registers on the Website, the data gathered will be incorporated to a file in Pngtree in order to manage the Website, provide its Services, offer certain functionalities associated to the status of User (the list of downloads, for instance), and send information to the User about the Services of Pngtree or its sponsors through newsletters (the subscription of which can be cancelled by Users at any moment from their account). Pngtree doesn't gather information about the age or date of birth of their Users when they register. Consequently, there isn't a particular treatment aimed to underage Users. Pngtree is only aimed to full age Users. Any information received by Pngtree through Contact forms, Broken Link? forms, satisfaction surveys available on the Website, or through the email addresses info@Pngtree.com, will be incorporated to a Pngtree file and will only be used with the intention of answer- ing the questions, suggestions or complaints sent by the Users of the Website. Any information received by Pngtree through the Work With Us form available on the Website will be incorporated to a Pngtree file and will only be used with the purpose of managing the selection process of Pngtree personnel. The Website includes plugins that allow to perform some actions in social networks belonging to third parties such as Facebook, Twitter, Pinterest or Google+ like sending a publication or show support to the Website, for instance. These plugins are displayed with the logo of their associated social network. If those plugins are accepted, the corresponding content will be sent to the adequate social network. The User may find information about how those plugins work and in what way the personal data is used in the privacy policies of these social networks. If the User doesn't wish these social networks to collect these personal data, the plugin shouldn't be accepted and the account should be abandoned before browsing the Website.
 
 Search Engine Ads
 
-As many other professional sites, pngtree.com invest on the internet advertisement. Our advertise partners include Bing Ads (Google 
-
-Ads). In order to maximize online advertising ROI and to find target clients, pngtree.com applied some tracking codes generated by 
-
-those search engines to record user IPs and page viewing flows.
+As many other professional sites, pngtree.com invest on the internet advertisement. Our advertise partners include Bing Ads (Google Ads). In order to maximize online advertising ROI and to find target clients, pngtree.com applied some tracking codes generated by those search engines to record user IPs and page viewing flows. 
 
 Business Contact Data
 
-We collect all the business contact data sent through emails or web forms on pngtree.com from visitors. The visitor identification and 
-
-contact related data entered will be kept strictly for pngtree.com’s internal use. pngtree.com will ensure the safety and proper usage of 
-
-those data. 
+We collect all the business contact data sent through emails or web forms on pngtree.com from visitors. The visitor identification and contact related data entered will be kept strictly for pngtree.com’s internal use. pngtree.com will ensure the safety and proper usage of those data. 
 
 Opt out/Corrections
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) 
-
-disable your account to prevent any future purchases through that account. You can make these requests at the customer information 
-
-section, or by telephoning, or emailing your request to pngtree.com’s Customer Support department at info@pngtree.com. Please do not 
-
-email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to pngtree.com’s Customer Support department at info@pngtree.com. Please do not email your credit card number or other sensitive information.
