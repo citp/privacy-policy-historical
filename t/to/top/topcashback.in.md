@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106104157id_/https%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910081741id_/https%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
 
 # TopCashback - Privacy
 
@@ -8,9 +8,9 @@ To register as a member, we only require an email address and a password. Prior 
 
 We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page.
 
-Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashback has a balance under the referral threshold amount (currently ₹ 500.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance. 
+Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashback has a balance under the referral threshold amount (currently ₹ 300.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance. 
 
-Where selected (the default), account balances are only displayed until you reach the referral threshold (currently ₹ 500.00). 
+Where selected (the default), account balances are only displayed until you reach the referral threshold (currently ₹ 300.00). 
 
 Once this is reached your account balance will no longer be visible.
 
