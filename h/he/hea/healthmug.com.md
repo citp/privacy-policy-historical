@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthmug.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720211255id_/http%3A//www.healthmug.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthmug.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910072709id_/https%3A//www.healthmug.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthmug
 
@@ -87,7 +87,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
 Anubhav Bansal  
-mail@healthmug.com
+customer-care@healthmug.com
 
 ## Query in mind?
 
