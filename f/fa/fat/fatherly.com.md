@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128105547id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910164024id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fatherly
 
