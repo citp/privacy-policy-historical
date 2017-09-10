@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grosvenorcasinos.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508235834id_/https%3A//www.grosvenorcasinos.com/static/termsandconditions%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grosvenorcasinos.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911011208id_/https%3A//www.grosvenorcasinos.com/static/termsandconditions%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -149,7 +149,7 @@ If any of your personal account details or financial information relevant to you
   * 9.5.1 the wagering requirements for the Bonus will be set out in the promotion or competition rules;
   * 9.5.2 you can only use the Bonus for placing wagers on our website;
   * 9.5.3 you can only spend the Bonus after you have spent the cash in your account;
-  * 9.5.4 whilst there is a general Bonus on your account all winnings (whether from cash or Bonus wagers) will be credited to your Bonus balance; if however the Bonus is specific to a game or category of games then only winnings from those wagers will be credited to your Bonus balance;
+  * 9.5.4 any winnings from wagers made using bonus funds (either wholly, or in part) will be credited to your active Bonus balance;
   * 9.5.5 if you do not satisfy the minimum wagering requirements within the timescale specified (or if no period is specified, 30 days after the Bonus was added to your account) or seek to withdraw any funds prior to doing so, then the Bonus balance (including winnings) will be forfeited; and
   * 9.5.6 if you have more than one active Bonus then the wagering requirements may be combined (as to wagering target and/or expiry). If in any doubt please contact customer services for confirmation.
 
@@ -301,7 +301,7 @@ Last updated on: 27th Mar 2017
 
 **2\. INFORMATION COLLECTION AND USE**
 
-2.1 Personal information is collected primarily during the registration process, but is also monitored and collected when there is activity on your account and when you use our site [http://www.meccabingo.com](http://www.meccabingo.com/) including versions of our website viewed on mobile phones, tablets or other electronic devices (in all cases referred to as the “ **website** ”).  Personal information (as used in this Policy) refers to such types of information that can be used to personally identify you and which are described in more detail below.
+2.1 Personal information is collected primarily during the registration process, but is also monitored and collected when there is activity on your account and when you use our site [https://www.grosvenorcasinos.com](https://www.grosvenorcasinos.com/) including versions of our website viewed on mobile phones, tablets or other electronic devices (in all cases referred to as the “ **website** ”).  Personal information (as used in this Policy) refers to such types of information that can be used to personally identify you and which are described in more detail below.
 
 _Types of information_
 
@@ -423,7 +423,7 @@ Tracking | Collect site use information. Can [opt-out](http://www.grosvenorcasin
 
 4.1 If you do not wish to receive promotional or other marketing information from us or third parties then please tick the appropriate opt-out box during the registration process.
 
-4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@meccabingo.com](mailto:support@meccabingo.com) and we will change your contact status as soon as reasonably possible.
+4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@grosvenorcasinos.com](mailto:support@grosvenorcasinos.com) and we will change your contact status as soon as reasonably possible.
 
 **5\. DISCLOSURE OF YOUR PERSONAL DATA**
 
@@ -462,4 +462,4 @@ Telephone number: [0800 083 1990](tel:0800 083 1990)
 
 E-mail: [support@grosvenorcasinos.com](mailto:support@grosvenorcasinos.com)
 
-Last updated on: 31st Jan 2017
+Last updated on: 5th Sept 2017
