@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4club.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012814id_/http%3A//www.4club.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4club.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910174706id_/https%3A//www.4club.com/privacy) for the most accurate reproduction.*
 
 # 4Club
 
@@ -51,7 +51,7 @@ Article 1.3 Purpose of handling the data
 
 Article 1.4 Person in charge of handling personal information 
 
-The person in charge of the Processing sensitive information is the company Tekka Digital SA, the owner of 4club service, headquartered in Via Balestra 12, 6900 Lugano, Switzerland. The data and the www.4club.com site are protected at the headquarters of the Person in charge of processing the information.  
+The person in charge of the Processing sensitive information is the company Tekka Digital SA, the owner of 4club service, headquartered in Via Balestra 12, 6900 Lugano, Switzerland. The data and the 4club site are protected at the headquarters of the Person in charge of processing the information.  
 The Member can contact at any time, by sending an email to [www.help-tkd.com](http://www.help-tkd.com/en_GB/contact/index/pid/30), the person in charge of processing the information in order to obtain confirmation whether his/her personal data exists or not, even if they haven't signed up yet and have them communicated in an intelligible way.  
 Furthermore, the Member has the right to request the Person in charge of processing personal information to delete his/her personal information (by that, it is meant to destroy such information without any possibility to restore it), transform it into anonymous form (changing the data into anonymous format) or to freeze the processing of their personal data (conserving the data by temporarily suspending any kind of processing).  
 The Member has the right to object to the handling of any personal data that concern him/her, in whole or partly, on legitimate grounds, even if they are relevant to the purpose of the collection or are used for sending advertisement, direct sales, market research purposes or commercial communication.
