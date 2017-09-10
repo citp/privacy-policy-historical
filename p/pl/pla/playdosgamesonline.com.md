@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playdosgamesonline.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204040724id_/https%3A//playdosgamesonline.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdosgamesonline.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910152732id_/https%3A//classicreload.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Play DOS games online
+# Privacy Policy | ClassicReload.com
 
 What information do we collect?
 
@@ -32,7 +32,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://PlayDOSGamesOnline.com/disclaimer.html](http://playdosgamesonline.com/disclaimer.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://ClassicReload.com/disclaimer.html](http://classicreload.com/disclaimer.html)
 
 Your Consent
 
