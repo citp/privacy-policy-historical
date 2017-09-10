@@ -1,26 +1,14 @@
-> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501190522id_/https%3A//www.demandbase.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911014934id_/https%3A//www.demandbase.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Account-Based Marketing – Demandbase
-
-#### DEMANDBASE WEBSITES
-
-## Section 1: How Demandbase Collects Your Information on Demandbase Websites
+# Account-Based Marketing – Demandbase | Privacy Policy
 
 ### Collection of Information
 
-When you visit our Sites, we gather non-personally identifiable information such as your browser version, your operating system version, your IP address, cookie information, time stamps (time page accessed as well as time spent per web page), and clickstream information (for example, which pages you viewed and for how long). Demandbase automatically receives and records such information on our server logs from your browser.
-
-In certain sections of our Sites, Demandbase may invite you to contact us to pose questions, request information, or complete a registration form. We may ask you to supply Personally Identifiable Information in order to register before allowing you to access certain parts of our Sites. We may also collect Personally Identifiable Information when you use certain Demandbase services, through the use of our Sites, or when you enter promotions or contests offered by Demandbase.
-
-“Personally Identifiable Information” means any information that identifies you personally, including your name, e-mail address, password, login ID, and other contact information that you voluntarily submit to us.
+When you visit our Sites, we gather non-personally identifiable information such as your browser version, your operating system version, your IP address, cookie information, time stamps (time page accessed as well as time spent per web page), and clickstream information (for example, which pages you viewed and for how long). Demandbase automatically receives and records such information on our server logs from your browser. In certain sections of our Sites, Demandbase may invite you to contact us to pose questions, request information, or complete a registration form. We may ask you to supply Personally Identifiable Information in order to register before allowing you to access certain parts of our Sites. We may also collect Personally Identifiable Information when you use certain Demandbase services, through the use of our Sites, or when you enter promotions or contests offered by Demandbase. “Personally Identifiable Information” means any information that identifies you personally, including your name, e-mail address, password, login ID, and other contact information that you voluntarily submit to us.
 
 ### Cookies and Web Beacons
 
-We employ cookies on our Sites in order for our server to recognize a return visitor as a unique user. Cookies are small text files that your browser stores on your hard disk that allow us to remember you; cookies cannot access, read, or modify any other data on a computer. The cookies we place are readable only by us. All Web browsers offer the option to refuse any cookie. If you refuse Demandbase cookies, you may need to re-enter certain information each time you visit our Sites and we may not be able to customize our Sites’ features according to your preferences. You may also delete cookies manually from your hard drive.
-
-The cookies we place do not contain any personal information; however, they do contain identifiers that may be linked to certain non-personally identifiable information described in this privacy policy, as well as certain non-personally identifiable advertising IDs from third parties.
-
-We also use the Demandbase Platform on our Sites, which utilizes cookies and web beacons, such as invisible tracking pixels, to help us better serve you and to provide targeted advertising we place on third party websites. More information regarding our collection and use of information through the Demandbase Platform is provided separately, below.
+We employ cookies on our Sites in order for our server to recognize a return visitor as a unique user. Cookies are small text files that your browser stores on your hard disk that allow us to remember you; cookies cannot access, read, or modify any other data on a computer. The cookies we place are readable only by us. All Web browsers offer the option to refuse any cookie. If you refuse Demandbase cookies, you may need to re-enter certain information each time you visit our Sites and we may not be able to customize our Sites’ features according to your preferences. You may also delete cookies manually from your hard drive. The cookies we place do not contain any personal information; however, they do contain identifiers that may be linked to certain non-personally identifiable information described in this privacy policy, as well as certain non-personally identifiable advertising IDs from third parties. We also use the Demandbase Platform on our Sites, which utilizes cookies and web beacons, such as invisible tracking pixels, to help us better serve you and to provide targeted advertising we place on third party websites. More information regarding our collection and use of information through the Demandbase Platform is provided separately, below.
 
 ### Marketing
 
