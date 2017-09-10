@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623141407id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910130635id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside Retail
 
