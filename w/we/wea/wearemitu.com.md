@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wearemitu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130957id_/https%3A//www.wearemitu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearemitu.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911111039id_/https%3A//wearemitu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – we are mitú
+# Privacy Policy - we are mitú
 
 **MITÚ PRIVACY POLICY**
 
 **EFFECTIVE DATE: February 21, 2015**
 
-The wearemitu.com website (“Website”) is owned and operated by Mitú, Inc. and publishes lifestyle, news and entertainment content for a Latino millennial audience. The mitú services include: (i) those offered on any mitú-branded URL, including [www.wearemitu.com](http://www.wearemitu.com/); (ii) the mitú mobile services (“Mobile Services”) and (iii) any other features, content, or applications offered or operated from time to time by mitú in connection with the Website, Mobile Services and/or mitú’s business, including, without limitation, when mitú is accessed via the internet, a mobile device, an application, or any other device (“Additional Services”)(the Website, Mobile Services and Additional Services are collectively referred to as “the Services”). This privacy policy (“Privacy Policy”) explains the ways in which your information is collected and used on the Website and via the Services.
+The wearemitu.com website (“Website”) is owned and operated by Mitú, Inc. and publishes lifestyle, news and entertainment content for a Latino millennial audience. The mitú services include: (i) those offered on any mitú-branded URL, including [www.wearemitu.com](https://www.wearemitu.com/); (ii) the mitú mobile services (“Mobile Services”) and (iii) any other features, content, or applications offered or operated from time to time by mitú in connection with the Website, Mobile Services and/or mitú’s business, including, without limitation, when mitú is accessed via the internet, a mobile device, an application, or any other device (“Additional Services”)(the Website, Mobile Services and Additional Services are collectively referred to as “the Services”). This privacy policy (“Privacy Policy”) explains the ways in which your information is collected and used on the Website and via the Services.
 
 By accessing and/or using the Services (whether such use is intended or not), you are accepting the terms and conditions of this Privacy Policy and mitú will have the right to use your personal and other information as described in this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, you must immediately discontinue your access to and use of the Services.
 
