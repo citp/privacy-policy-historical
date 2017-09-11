@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the phonebooks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074319id_/http%3A//www.phonebooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonebooks.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911054829id_/http%3A//www.phonebooks.com/privacy.html) for the most accurate reproduction.*
 
 # PhoneBooks.com Privacy Policy
 
+| 
+
+## Lookup SOMEONE  
+  
+---|---  
+  
 ## **Privacy Policy**
 
 At PhoneBooks.com, we recognize that privacy of your personal information is important. We do not currently sell information to third parties nor do we have plans to do so. At your request we will remove your personal information from this site ([click here](http://www.phonebooks.com/contact.html) for instructions on how to do this).
