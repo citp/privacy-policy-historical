@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heateor.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527192542id_/http%3A//www.heateor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heateor.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911184345id_/https%3A//www.heateor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Heateor
 
