@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131017id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912014645id_/https%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
 # ConeXware, Inc. Privacy Policy | PowerArchiver – ZIP, RAR, ISO for Windows
 
@@ -100,7 +100,7 @@ For any complaints that cannot be resolved with ConeXware directly, ConeXware ha
 
 ## PowerArchiver End-User Licensing Agreement (EULA)
 
-For full PowerArchiver End-User Licensing Agreement (EULA), please visit [our Wiki page](http://www.powerarchiver.com/wiki/en:help:additional_information:license). If you have any questions or need more information about our end-user licensing agreement, please [contact us](https://web.archive.org/contact/).
+For full PowerArchiver End-User Licensing Agreement (EULA), please visit [our Wiki page](https://www.powerarchiver.com/wiki/en:help:additional_information:license). If you have any questions or need more information about our end-user licensing agreement, please [contact us](https://web.archive.org/contact/).
 
 ## Changes to This Policy
 
