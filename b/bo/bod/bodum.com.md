@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodum.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607084245id_/http%3A//www.bodum.com/gb/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodum.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911150951id_/http%3A//www.bodum.com/gb/en/privacy) for the most accurate reproduction.*
 
 # BODUM® - Privacy Policy
 
