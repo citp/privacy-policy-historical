@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zando.co.za privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118023806id_/https%3A//www.zando.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zando.co.za privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911184141id_/https%3A//www.zando.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
