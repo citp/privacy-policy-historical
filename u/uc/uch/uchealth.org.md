@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uchealth.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629223523id_/https%3A//www.uchealth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchealth.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911145915id_/https%3A//www.uchealth.org/privacy-policy) for the most accurate reproduction.*
 
 # UCHealth's Privacy Policy | Colorado | UCHealth
 
