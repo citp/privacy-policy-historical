@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperoptic.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215141034id_/https%3A//www.hyperoptic.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperoptic.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911050458id_/https%3A//hyperoptic.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Hyperoptic | Legal
 
@@ -6,15 +6,15 @@ You are reading Hyperoptic’s Privacy and Cookie Policy (the “Privacy Policy�
 
 **INFORMATION ABOUT US**
 
-Hyperoptic Ltd- (“Hyperoptic”) is a full fibre Internet Service Provider (“ISP”). We are a limited company registered in England and Wales under company number 07222543 and our registered office and main trading address is at Hythe House 200 Shepherds Bush Road London W6 7NL. Our VAT number is 997 6990 21.
+Hyperoptic Ltd (“Hyperoptic”) is a full fibre Internet Service Provider (“ISP”). We are a limited company registered in England and Wales under company number 07222543 and our registered office and main trading address is at Hythe House, 200 Shepherds Bush Road, London W6 7NL. Our VAT number is 997 6990 21.
 
-We are regulated in the UK by OfCom. We are also a member of the UK Internet Service Providers Association (“ISPA”) and CISAS (the provider of an independent alternative dispute resolution scheme) about both of which you may find further details in our Code of Practice and/or our Fair and Acceptable Usage Policy.
+We are regulated in the UK by OfCom. We are also a member of the UK Internet Service Providers Association (“ISPA”) and the Ombudsman Service ( a free independent alternative dispute resolution service) about both of which you may find further details in our Complaints Code of Practice.
 
 **ABOUT THIS PRIVACY POLICY**
 
 Hyperoptic is committed to protecting and respecting your privacy. This Privacy Policy (together with our terms of use and all other applicable standard terms and conditions sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. When we refer to “personal data” in this Privacy Policy, we mean data, which identifies you as an individual, or is capable of doing so. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-Hyperoptic has notified the Information Commissioner’s Office of its activities in accordance with the Data Protection Act 1998 (Registration No. Z262022X). This notification can be viewed at www.ico.gov.uk.For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Hyperoptic Ltd. of Hythe House 200 Shepherds Bush Road London W6 7NL
+Hyperoptic has notified the Information Commissioner’s Office of its activities in accordance with the Data Protection Act 1998 (Registration No. Z262022X). This notification can be viewed at [“www.ico.org.uk”](https://ico.org.uk/). For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Hyperoptic Ltd. of Hythe House 200 Shepherds Bush Road London W6 7NL
 
 Our nominated representative for the purpose of the Act is Stephen Fine.
 
@@ -23,7 +23,7 @@ Our nominated representative for the purpose of the Act is Stephen Fine.
 We may collect and process the following data about you:
 
   
-• Information that you provide by filling in forms on our website at www.hyperoptic.com (“our website”) or by communicating with our Customer Service agents by telephone or on paper forms signed and submitted to us by you. This includes information provided at the time of registering to use our website, subscribing to our services, posting material, communicating with our customer support team, or requesting further services and may be provided to us via our website, written correspondence, electronic communication (such as email) or by telephone. We may also ask you for information when you enter a competition or promotion sponsored by Hyperoptic Ltd, and/or when you report a problem with our website or services.  
+• Information that you provide by filling in forms on our website at [www.hyperoptic.com](http://www.hyperoptic.com/) (“our website”) or by communicating with our Customer Service agents by telephone or on paper forms signed and submitted to us by you. This includes information provided at the time of registering to use our website, subscribing to our services, posting material, communicating with our customer support team, or requesting further services and may be provided to us via our website, written correspondence, electronic communication (such as email) or by telephone. We may also ask you for information when you enter a competition or promotion sponsored by Hyperoptic Ltd, and/or when you report a problem with our website or services.  
 • The types of personal data we will collect may include details of your title, name, address, telephone numbers, email address, bank details and perhaps debit or credit card number, and date of birth.
 
 • When you (or someone using your telephone line) make a telephone call or send a fax that uses our telephone network or connect to the Internet, we keep a record of that call (including the number called) to enable Hyperoptic to charge for it. We also receive information from other operators about calls made over our network, where we need that information for connecting and billing purposes.  
@@ -38,7 +38,7 @@ We may collect and process the following data about you:
 
 • When you order services from Hyperoptic, we may make enquiries about you for credit reference purposes. These enquires include searching your records held by Experian/Equifax or any other credit reference agency or any fraud prevention scheme. At all times, where your information is disclosed to us, we will protect it in accordance with this Privacy Policy and keep it secure.
 
-You can contact us at any time either to obtain details of any personal information we are holding about you or to make changes to this information. If you need to access or change your personal information, simply contact data@hyperoptic.com, quoting your name and address and, if you are an existing customer, your customer ID or you may write to us at our address set out under “Information about Us” at the beginning of this Privacy Policy. Please note that we will need to confirm your identity before providing you with details of any personal information we may hold about you.
+You can contact us at any time either to obtain details of any personal information we are holding about you or to make changes to this information. If you need to access or change your personal information, simply contact [data@hyperoptic.com](mailto:data@hyperoptic.com), quoting your name and address and, if you are an existing customer, your customer ID or you may write to us at our address set out under “Information about Us” at the beginning of this Privacy Policy. Please note that we will need to confirm your identity before providing you with details of any personal information we may hold about you.
 
 **IP ADDRESSES**
 
@@ -72,7 +72,7 @@ You can block cookies by activating the setting on your browser which allows you
 
 If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.
 
-You can learn about and opt out of a number of commercial third party cookies (including some used by Hyperoptic) at www.networkadvertising.org/choices. Some of the opt-outs [used by our commercial service providers] require a cookie to be placed on your computer which is only used to tell the relevant cookie servers not to send you any further cookies. This can be quite handy, but note that if you routinely delete cookies from your temporary internet files, it may be necessary for you to repeat the opt-out process, the next time you visit our website.
+You can learn about and opt out of a number of commercial third party cookies (including some used by Hyperoptic) at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Some of the opt-outs used by our commercial service providers require a cookie to be placed on your computer which is only used to tell the relevant cookie servers not to send you any further cookies. This can be quite handy, but note that if you routinely delete cookies from your temporary internet files, it may be necessary for you to repeat the opt-out process, the next time you visit our website.
 
 For more information about deleting and controlling cookies visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) or [www.aboutcookies.org.](http://www.aboutcookies.org/)
 
@@ -101,7 +101,7 @@ We use information held about you in the following ways:
 
 **YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at data@hyperoptic.com or you may write to us at our address set out under “Information about Us” at the beginning of this Privacy Policy.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [data@hyperoptic.com](mailto:data@hyperoptic.com) or you may write to us at our address set out under “Information about Us” at the beginning of this Privacy Policy.
 
 Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -115,8 +115,8 @@ Any changes we may make to this Policy in the future will be posted on this page
 
 **CONTACT**
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to data@hyperoptic.com or you may write to us at our address set out under “Information about Us” at the beginning of this Privacy Policy.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [data@hyperoptic.com](mailto:data@hyperoptic.com) or you may write to us at our address set out under “Information about Us” at the beginning of this Privacy Policy.
 
 **DATE**
 
-This Privacy Policy is effective from 12 September 2011.
+This Privacy Policy is effective from 25 May 2017.
