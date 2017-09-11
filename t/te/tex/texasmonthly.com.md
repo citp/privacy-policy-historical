@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611211422id_/http%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911195504id_/https%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Texas Monthly
+# Privacy Policy – Texas Monthly
 
 This privacy policy (“Privacy Policy”) describes TEXAS MONTHLY’s privacy practices for our Web site located at www.texasmonthly.com (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
