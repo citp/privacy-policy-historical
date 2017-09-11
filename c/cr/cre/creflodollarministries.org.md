@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creflodollarministries.org privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123090243id_/https%3A//www.creflodollarministries.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creflodollarministries.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911120310id_/http%3A//creflodollarministries.org/Privacy-Policy) for the most accurate reproduction.*
 
 # CDM - Privacy Policy | CDM International
 
