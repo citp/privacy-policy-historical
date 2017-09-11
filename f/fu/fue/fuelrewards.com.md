@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuelrewards.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003155638id_/https%3A//www.fuelrewards.com/fuelrewards/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuelrewards.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911085954id_/https%3A//www.fuelrewards.com/fuelrewards/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fuel Rewards program
 
@@ -155,345 +155,206 @@ back to top ^ 
 
 * * *
 
-Effective as of May 12, 2014
+Effective as of May 5, 2017
 
-## **FRN™ Dining (Rewards Network) Privacy Policy**
+## **Fuel Rewards ® Dining Privacy Disclosure**
 
-**Our pledge to you, our Member**
+PLEASE READ THIS PRIVACY DISCLOSURE CAREFULLY BEFORE USING THIS SITE
 
-We respect your privacy and want you to know how we collect and share personally identifiable information about you. We have prepared this privacy policy to describe to you how we collect and share your personally identifiable information.
+Rewards Network Establishment Services Inc. and its affiliates (“we”, “us” and “our”), which collaborates with Excentus Corporation (“Rewards Issuer”) to provide Fuel Rewards® Dining (the “Program”) through this website or mobile application (collectively, the “Site”), values your privacy. We have prepared this Privacy Disclosure to describe how we collect and share information about you via our Site and the Program. By visiting the Site, enrolling in the Program and participating in the Program, you are accepting the practices described in this Privacy Disclosure.
 
-We need to collect information from you in order for you to participate in FRN™ Dining or use our services. We also collect information about you as a result of your participation in FRN™ Dining and use of our services. We refer to personally identifiable information that we collect as Personal Information. The type of Personal
+#### International Visitors
 
-Information we collect about you is described in the section below on "What Personal Information We Collect".  
-Please read this privacy policy so that you can make informed decisions about participating in FRN™ Dining or using our services. By participating in FRN™ Dining or using our services, you agree to the provisions of this privacy policy. This privacy policy applies to current and former members of FRN™ Dining and anyone who uses our services.
+#### What We Collect and How We Use It
 
-Our Web site and mobile applications are hosted on servers located in the United States of America and are intended for use by United States residents. You may not use FRN™ Dining or any other service that we provide if you are not a United States resident.
-
-Rewards Network Inc. and its affiliates operate FRN™ Dining and provide services to you. In this privacy policy, words like "we", "us" and "our" refer to Rewards Network Inc. and our affiliates, collectively. Our affiliates at the time this privacy policy was last updated are listed for you at the end of the privacy policy.
-
-We offer Fuel Rewards Network™ (FRN) Dining ("FRN™ Dining") in connection with Excentus Corporation ("Excentus"), the owner and operator of the Fuel Rewards Network™.
-
-#### **Your Privacy Protections**
-
-We take several steps to protect your Personal Information. Among other things:
-
-  * We will not disclose your Personal Information to any non-affiliated third party for use in marketing that party's goods or services without your consent, except that we disclose Personal Information to Excentus for use by Excentus in the operation of the Fuel Rewards Network™program, including the administration of Fuel Rewards® savings, and for marketing the Fuel Rewards Network™program, as permitted under its [Privacy Policy](https://www.fuelrewards.com/fuelrewards/privacy-policy) and you consent to our disclosure to Excentus of this Personal Information and Excentus' use of this Personal Information;
-  * We will give you access to information that you have provided to us, including your name, how to contact you, credit, debit and other payment cards (which we refer to collectively as "payment cards") you have registered with FRN™ Dining and/or the Fuel Rewards Network™ program, and certain other preferences you have registered with us (we refer to this information as Registration Information), and we will allow you to correct any inaccuracies; and
-  * We take data security seriously. While no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure, we take reasonable steps to protect the security of your Personal Information. See Section below called "Data Security" for more information on the steps we take to protect your Personal Information.
+  * Identifiable Information
+  * Information We Collect
+  * Registered Card Information and Transaction Information
+  * Survey Information
+  * Personal Information We Utilize for Contests, Giveaways, Sweepstakes, and Other Promotions
+  * Registered Card Updates
+  * IP Addresses
+  * Non-Personally Identifiable Information
+  * Geo-Location
+  * Cookies
 
 
 
-#### **What Personal Information We Collect**
+#### Disclosure of Personal Information
 
-We gather the following types of Personal Information in connection with your participation in FRN™ Dining and the provision of our services to you.
+#### Disclosure of Anonymized Information
 
-  * _Information you voluntarily provide to us._  When you register to participate in FRN™ Dining, you may provide us with Personal Information. We will also obtain Personal Information from Excentus when you are enrolled in FRN™ Dining by Excentus in connection with the Fuel Rewards Network™ program. This may include information such as your name, email and mailing address, other addresses (e.g. work, school), telephone number(s), payment card number(s) and expiration dates, loyalty program account numbers, username and password, the answer to a security question (in case you forget your password), special dates (e.g. birthday, anniversary), and dining preferences. You may also provide us with information regarding your personal accounts and/or profiles on third-party social networking sites such as Facebook and Twitter. You may provide us with Personal Information in connection with participating in contests, giveaways, sweepstakes, and other promotions, or in connection with completing surveys for us.
-  * _Information we collect from your participation in FRN™ Dining or using our services._  We collect Personal Information from the payment network of your registered payment card, payment card processors and other entities that have access to payment card transaction information with respect to transactions that you pay for using your registered payment card at merchants that participate in the rewards programs that we operate. The merchants that participate in the rewards program we operate include merchants at which you may earn a benefit from FRN™ Dining and also merchants who are not available to you for earning a benefit but participate in other rewards programs that we operate. Benefits may not be available because (1) benefits are not offered on that day of the week or time of day, (2) benefits are not offered to members of FRN™ Dining, (3) benefits are not offered to you based on your member status or participation level in FRN™ Dining or (4) you otherwise do not qualify to receive a benefit at that merchant. This means that we may receive information about transactions that you make at merchants even though you are not aware that the merchant participates in a rewards program that we operate and even though you do not receive a benefit with respect to that transaction. The information that we receive regarding registered payment card transactions at merchants who participate in the rewards programs that we operate include the merchant you visited, the date of your visit, the amount of your bill and the payment card used to pay. In addition to transaction information, we also collect other information from your participation in FRN™ Dining or using our services, including information regarding visits to the websites that we operate, email confirmations when you open an email from us if your computer supports such capabilities, information about your location if you use the "current location" feature of our mobile smartphone application or mobile website and general usage information for our mobile smartphone application. We also collect information from your use of our customer services, such as information when you send us an inquiry, comment or request including any email or mailing address or telephone number you provide so that we may respond.
-  * _Information obtained about you from others._  We may also collect Personal Information from merchants or other parties who do not participate in FRN™ Dining. For example, we may work with firms that provide us demographic information in order to evaluate or improve our services to you. We may collect transaction information from merchants who are considering joining our rewards programs in order to determine activity by members of the rewards programs that we operate at that merchant. We may also collect information with your consent or as required by law.
+#### Transfer of Personal Information
+
+#### Social Network Plugins
+
+#### Third Party Sites
+
+#### Choices for Email and Marketing Communications
+
+#### Do Not Track
+
+#### Retention and Disposal of Information
+
+#### Data Security
+
+#### Reviewing or Changing Your Information
+
+#### Our IT Security & Privacy Office
+
+#### Cancellation and Terminating your Account
+
+#### **International Visitors**
+
+The Site is hosted on servers located in the United States of America and is intended for use by individuals and entities who are United States residents. All data collected from the Site is stored on servers within the United States that are owned and controlled by our third-party vendors or us. YOU EXPRESSLY ACKNOWLEDGE AND CONSENT THAT YOUR DATA MAY BE TRANSFERRED TO VARIOUS LOCATIONS AND THIRD-PARTY PROVIDERS, AND MAY BE MAINTAINED AND PROCESSED ON COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY, OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION.
+
+#### **What We Collect and How We Use It**
+
+**Identifiable Information**
+
+You may visit our Site without expressly submitting any personally identifiable information about you. However, if you wish to register as a participant in the Program, you will be required to submit information that specifically identifies you as further set forth below.
+
+**Information We Collect**
+
+If you register in the Program, we will collect your Personal Information (defined in the next sentence) and your primary account number for the eligible credit or debit card(s) that you use to enroll in the Program (“Registered Card”). “Personal Information” may include your name, email, mailing address, phone number, Registered Card and any other information that you voluntarily provide us. We may also collect this information about you from Rewards Issuer or a bank issuing a credit card on Rewards Issuer’s behalf that automatically enrolls you in the Program as a benefit. If you enrolled with Rewards Network by Rewards Issuer, Rewards Network will only maintain the information Rewards Network needs to operate the Program.
+
+You may need to create a user name and password for your Program account with us. We may assign you a unique identification number so that we may more easily identify you and your transactions.
+
+We collect the credit or debit card account number for your eligible Registered Card. We do not collect your credit or debit card expiration date or card security code. We do this to protect you as a participant in the Program. You must agree to allow us to collect this information to participate in the Program. Your transactions with your Registered Card will be monitored and you are authorizing us to obtain and receive information about those transactions from a payment card network (“Payment Card Network”) such as American Express®, MasterCard®, Visa® or Discover®, or a payment card processor.
+
+You have the option to also provide us with the month and day of special dates (e.g., birthday, anniversary), dining preferences, and information regarding your personal accounts and/or profiles on third-party social networking sites such as Facebook® and Twitter®, as further described below.
+
+We or Rewards Issuer (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) may collect Personal Information when you send us an inquiry, comment, or request, including any email or mailing address or telephone number you provide, and will use the information you have provided to respond. We will also add this information to your Program profile and use such information as contemplated in this Privacy Disclosure.
+
+We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) use your Personal Information to operate the Program: to send you emails, mailings or other forms of communications (that may be real-time) that relate to the Program, participating merchants (“Participating Merchants”) or other products or services that may be of interest to you. We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) will send email confirmations when you open an email from us if your computer supports such capabilities.
+
+**Registered Card Information and Transaction Information**
+
+You agree that we may use your Registered Card in connection with our operation of the Program, including to determine your eligibility for rewards and applying rewards, requesting that you receive rewards, and compliance with this Privacy Disclosure and any other applicable terms and conditions. We may disclose the Registered Card to Rewards Issuer, Payment Card Networks, payment card processors, and payment card issuers, as well as non-affiliated third-party suppliers, vendors, or contractors that we have engaged to help us operate the Program.
+
+We will know when you conduct a transaction with a Participating Merchant. We will collect information about that transaction, including a unique Program identification number, the date and time of your transaction, the amount of your transaction, the name and location of the Participating Merchant, and the Registered Card used for that transaction. We receive this information from Payment Card Networks. We may provide all or a portion of the information collected to a Rewards Issuer or a Rewards Issuer’s non-affiliated third-party suppliers, vendors, or contractors so that we and/or Rewards Issuer can facilitate and administer the Program. You may receive real-time notification about the sharing of your transaction data. We may also use your transaction information to generate internal financial reporting and analysis regarding our business and for external reporting of anonymized data to market our business and the Program to third parties, including potential Participating Merchants and potential rewards Issuers.
+
+We use the transaction data that we receive to match your transactions at Participating Merchants with available rewards and otherwise for Program rewards administration. We reserve the right to require that you provide a receipt from the Participating Merchant or documents reasonably required by us to evidence an eligible transaction in order to receive your reward.
+
+By enrolling in and participating in the Program, you are authorizing us and Participating Merchants, Payment Card Networks, and payment card processors to obtain, provide and use transaction information related to your purchases (such as date, time and amount) at Participating Merchants in order to calculate rewards, redeem rewards and facilitate and make the Program available.
+
+**Survey Information**
+
+Following your matched transaction and the processing of any reward, we may send you an email to complete a survey regarding your transaction. When you activate the survey link, you will be taken to a web page operated by us. We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) may collect on an anonymized basis your computer’s IP address or use cookies to collect aggregated, anonymized data related to your survey responses. We may share the anonymized survey information with the applicable Participating Merchant. We may also aggregate your survey response with other survey responses for the applicable Participating Merchant and make those results available to other participants in our rewards programs.
+
+For certain qualifying purchases, you may be required to complete the survey in order to earn rewards.
+
+All reviews, surveys, comments, feedback, and other information about your dining experiences, Participating Merchants, or participation in the Program that you choose to disclose, submit, or convey via the Site (which we refer to collectively as “Comments”) may be reprinted, used, displayed, redistributed, shared, transmitted, excerpted, modified, and/or disseminated (in whole or in part) by us. Your Comments must comply with our [Content Guidelines for Dining Reviews](https://dining.fuelrewards.com/guidelines.htm). We reserve the right to remove any Comments that are inappropriate.
+
+Your provision of Comments to us constitutes a nonexclusive, royalty–free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Comments throughout the world in any media.
+
+You warrant that: (i) any use of Comments by us will not violate any right of any third party; and (ii) any Comments are not libelous, unlawful, or obscene.
+
+**Personal Information We Utilize for Contests, Giveaways, Sweepstakes, and Other Promotions**
+
+You also may have the option to voluntarily provide us or Rewards Issuer, as well as non-affiliated third-party suppliers, vendors, or contractors working on our behalf, with Personal Information in connection with participating in contests, giveaways, sweepstakes, and other promotions, or in connection with completing surveys for us. This information may be added to your member profile and may use such information as contemplated by this Privacy Disclosure. Any other use of information provided in connection with such opportunities may also be used in the manner described at the time of collection. Please review the terms and conditions for such opportunities carefully.
+
+**Registered Card Updates**
+
+If your card number changes, you are responsible for updating your Registered Card. In some cases, we may receive updated credit or debit card numbers associated with your Registered Card from payment card processors or Payment Card Networks. If we receive this information, we will update the Registered Card with the new credit or debit card number that we receive, and we will use it to operate the Program as described in this Privacy Disclosure.
+
+**IP Addresses**
+
+We collect IP address information from any visitor to the Site. We log IP addresses for system administrative purposes only. IP addresses are not used for identification. This information helps us determine how often different areas of the Site are visited. We do not link IP addresses to any information that is personally identifiable.
+
+**Non-Personally Identifiable Information**
+
+When you visit the Site, we may collect usage information (“Session Data”) that is anonymous and is not linked to you as an individual. Session Data may include browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform. We may use Session Data for a variety of reasons, including to better understand things like how the Site is navigated, how many visitors arrive at specific pages, and the length and frequency of stays at our Site.
+
+**Geo-Location**
+
+We may have the ability to collect location data and provide you with push notifications based on your location. We utilize location information to provide you with more relevant location-based restaurant choices, track your general dining patterns and stores that you visit, and also aggregate this data to help understand general Program member patterns and trends, which we may share with third parties with our discretion. You are agreeing that we can collect and use your location data and can continue to do so until you turn off your location settings. Your device may allow you to disable the collection of location data and push notifications by accessing your device’s application or notification settings. If you do not want us to have access to your location, you may change your location settings. We have no responsibility or liability for the functions of location settings within any device.
+
+**Cookies**
+
+Like most sites, we use cookies on the Site to collect session data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences, track and analyze non-personally identifiable usage statistical information in order to constantly improve the quality of the Site, and for other administrative purposes. We use two different types of cookies on our Site:
+
+  * “Session cookies” track the user's progression through the Site and session data for a single visit. These cookies enable us to follow the user as they progress from one page to another. Your session cookies expire at the end of your browser session. In addition, if you leave your browser open for a prolonged period, they are set to automatically expire.
+  * “Persistent cookies” are stored on your device between browser sessions, allowing us to remember you and your preferences on the Site. We may use a persistent cookie to remember such information as your user name, name, preferred dining area, and favorite restaurants.
 
 
-
-#### **Use of Personal Information**
-
-We use Personal Information to operate our business and provide products and services to you.
-
-#### **Retention and Disposal of Information**
-
-We retain Personal Information as long as we determine is required for operation of our business and to meet legal, regulatory and other requirements. We take reasonable steps to ensure that Personal Information is disposed of securely when we no longer require such data.
-
-Personal Information is stored for the most part electronically in our computer systems or the computer systems of non-affiliated third parties that we work with in connection with operating our business, operating FRN™ Dining or providing services to you. We may have Personal Information on electronic and non-electronic media. The measures we take to protect Personal Information are described in the section below on "Data Security".
-
-#### **Access to Information**
-
-We restrict access to Personal Information to those individuals or entities that require access to that information in order for us to operate our business, operate, manage, and expand our products and services and provide products and services to you.
-
-#### **What Personal Information We Disclose**
-
-We may disclose Personal Information to non-affiliated third parties, such as suppliers, vendors or contractors, as necessary for the non-affiliated third party to provide services to us (such as printing or mailing services or otherwise) in connection with operating our business, operating, managing, and expanding our products and services, and providing products and services to you, such as our mobile smartphone application.
-
-We also may disclose any Personal Information we collect with our affiliates, including for purposes such as for internal audit, management, billing or administrative purposes including protecting FRN™ Dining and its members from losses, and to protect our rights. We may also disclose Personal Information as necessary for defending and bringing legal actions.
-
-We may disclose Personal Information if required by a government authority or legal process, which may include location data from your use of our mobile smartphone application.
-
-We will not disclose your Personal Information (such as your email address) to non-affiliated third parties for such parties' use in marketing their goods or services without your consent.
-
-We may obtain your consent to share information with non-affiliated third parties in various ways. For example, we may invite you to participate in a survey or special promotional program offered by a non-affiliated third party and your choice to participate in such a survey or promotional program will indicate your consent for us to share your Personal Information with non-affiliated third parties in connection with the survey or promotional program. If you consent to such disclosure, any information that you provide to the third parties will be controlled by that party's privacy policy, not our privacy policy.
-
-You may also give us permission to use and post information about your restaurant visits, restaurant reviews, and other FRN™ Dining activities on FRN™ Dining's social networking accounts such as Facebook or Twitter or on your own social networking accounts. The posting and display of this information on third party networking site is subject to, and governed by, the privacy policy and privacy settings of the various social networking sites and services. Before providing consent to post any information to such third party social networking sites, users should understand the privacy policies and practices of the third party responsible for that website. We neither own nor control the third-party social networking sites accessible through links on our Web site and mobile applications.
-
-#### **Disclosure of Anonymous Information**
-
-We may share information that is not personally identifiable to you, including aggregated demographic and statistical information, with our affiliates, partners, merchants, and others. Such information could be used, for example, to provide us with statistical or other analysis. None of this type of information can be linked by the recipient to any Personal Information that can identify you.
-
-We may also disclose or share information that is not personally identifiable to you with our affiliates, partners, merchants and others in connection with restaurant reviews or surveys that you submit to us to post on our Web site or other Web sites or on third-party social networking sites such as Facebook and Twitter.
-
-#### **Your Use of Third Party Sites**
-
-When you voluntarily post or otherwise comment on any portion of a social networking site (such as Facebook or Twitter) registered by us or by any of our affiliates, partners, merchants or others, your usage of that site is governed by and subject to the privacy policy of that third party networking sites and any privacy settings that are available on that third party site. We do not control the privacy policies of such third parties and we assume no responsibility or liability for the actions of such third parties.
-
-#### **Communicating With You**
-
-We may from time to time send special offers to you on behalf of selected companies that we think may be of interest to you. However, because we or our third party vendors (and not the selected company) would send such offers to you, it is not necessary to disclose Personal Information to the company in order to send these offers to you. You may choose to opt out of certain of our marketing communications while still receiving other types of our marketing communications. We also may send you offers for goods or services sold by us or our affiliates, including in our email newsletters, by email or ordinary mail, or by telephone.
-
-We will allow you to choose not to receive FRN™ Dining promotional communications from FRN™ Dining. For example, if you do not want to receive FRN™ Dining promotional communications, you may unsubscribe or opt out from such FRN™ Dining promotional communications by clicking the link included at the bottom of each FRN™ Dining email message we send to you or by changing your communication preferences via the Fuel Rewards Network™ program website at [fuelrewards.com](https://www.fuelrewards.com/) (the “FRN™ Website”).  You also can choose to not receive special offers we send on behalf of other companies. Please read the section entitled "Reviewing, Changing Your Registration Information or Unsubscribing" for details on how to request not to receive these FRN™ Dining promotional communications.
-
-If you use our mobile smartphone application and allow the mobile smartphone application to access your location data, we may send to you marketing messages and other information based on your location when you are using the application. You may change the settings on the mobile smartphone application at any time to stop allowing the mobile smartphone application access to your location data.
-
-#### **"E-mail a Friend" Information**
-
-You may use our Email a Friend service to send restaurant review to family and friends via email. We will automatically send a one-time email inviting your family and friends to visit the specific restaurant page on [frndining.com](http://www.frndining.com/).
-
-#### **Operating Our Web Site (Including How We Use Cookies) and Mobile Smartphone Application**
-
-_Not all rewards programs have mobile applications available. Please note that this privacy policy also applies to your use of our Web site and is not limited to use of a mobile application._
-
-When you visit our Web site or use our mobile smartphone application without logging in, we may collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We may use session data for a variety of reasons, including to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the types of browsers and computer operating systems used by our visitors, and the Internet Protocol addresses from which our visitors connect to our site.
-
-When you visit our site or use our mobile smartphone application and login, we may collect usage information ("persistent data") that will be linked to your user name. We may use the persistent data for a variety of reasons, including to monitor your use of our site and mobile smartphone application in conjunction with your participation in FRN™ Dining.
-
-We use cookies on our Web site to collect session data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences on our site. Cookies placed on your computer by [frndining.com](http://www.frndining.com/) can only be read by the [frndining.com](http://www.frndining.com/) web server. We use two different types of cookies in our
-
-Web site:  
-• "Session cookies" track the user's progression through our sites and session data in a single visit. These cookies enable us to remember things as the user progresses from one page to another. Your session cookies are deleted as soon as you close your browser. In addition, if you leave your browser open for a prolonged period, they are set to automatically erase themselves after a short period.  
-• "Persistent cookies" remember a user and the user's persistent data at the user's next visit to our Web site. Your persistent cookies are not automatically erased, and they remain on your computer until you erase them. (If you do not want these cookies to remain on your computer, you can erase them by following the steps for your specific browser.) For members, we may use a persistent cookie to remember such things as your user name, name, preferred dining area, selected cuisine type and other promotional links that you clicked on while on the site.
 
 Most Internet browsers automatically accept cookies. However, you can instruct your browser to stop accepting cookies or prompt you before accepting a cookie from the sites you visit.
 
-We may also use a third party to place cookies on your computer to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site in order to constantly improve the Web site quality.
+We use Google Analytics in order to analyze traffic and performance related to the Site. To learn how Google uses data when you use our Site, visit [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/).
 
-Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to users' personally identifiable information.
+#### **Disclosure of Personal Information**
 
-We may use similar technologies to track usage of our mobile smartphone applications in order to understand how our mobile smartphone applications are used in order to improve the user experience.  
-Our Web site may have links to other sites on the Internet that are owned by third parties, including the FRN™ Website, fuelrewards.com, owned by Excentus ("External Sites"), or you may come to our Web site from a link on an External Site. These other Web sites will have their own rules on privacy that you should review. We are not responsible for the privacy policies of other Web sites.
+We use your Personal Information and share it with Rewards Issuer, Payment Card Networks, and payment card processors to solely operate the Program. We do not sell Personal Information to any third party and we will not without your prior express consent disclose your Personal Information to any third party for them to market to you directly. For example, we may invite you to participate in a survey or special promotional program offered by a non-affiliated third party. Your choice to participate in such a survey or promotional program will indicate your consent for us to share your Personal Information with non-affiliated third parties in connection with the survey or promotional program. If you consent to such disclosure, any information that you provide to the third parties will be controlled by that party's privacy policy, not this Privacy Disclosure.
 
-#### **Data Security**
+We may disclose information that we may have, identifiable or not, as necessary for defending and bringing legal actions, or if required by a government authority or legal process.
 
-We take reasonable steps to maintain physical, electronic, and procedural safeguards to guard your Personal Information. These safeguards may include encryption of data and limiting access to data as described above in the section "Access to Information". Non-affiliated third parties that provide services to us and who may receive your Personal Information from us are subject to contractual obligations with respect to data security and limitations on use of data in accordance with this privacy policy.
+We have full rights to any information collected on the Site, and we may freely collect, use, and disclose such information unless prohibited by this Privacy Disclosure, applicable law or an applicable agreement.
 
-With respect to use of our Web site and mobile smartphone application, we use industry-standard encryption technologies when transferring and receiving Personal Information through our site and mobile smartphone application. We use technologies that encrypt information and keep the data private and confidential between your device and frndining.com or the computer systems of non-affiliated third parties that we work with in operating our business, operating FRN™ Dining or providing services to you. This technology makes it safer to transmit your credit card number over the Internet.
+#### **Disclosure of Anonymized Information**
 
-#### **Reviewing, Changing Your Registration Information or Unsubscribing**
-
-At any time, you can correct, update or cancel your Registration Information or modify your preferences pertaining to our newsletter and other marketing communications (whether made by email, telephone, or ordinary mail). To review, change, update or cancel your Registration Information, or unsubscribe or opt out from our marketing communications, you have several options:
-
-  * Online: On the FRNTM Website, log in to your account and click on the "Account Profile" link at the top of the page. Then click on the appropriate link to change your Personal Information, modify your FRN™ Dining promotional communication preferences, or unlink your credit cards.
-  * By phone: Call FRN Member Services toll-free at 1.866.603.0473.
-  * Link to unsubscribe: Links to unsubscribe or opt out from future marketing communications are included at the bottom of each email.
-
-
-
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access to your Personal Information or making corrections.
-
-Opting out of receiving FRN™ Dining promotional communications may impact the rewards that you are eligible to receive from FRN™ Dining. If you opt out of receiving FRN™ Dining promotional communications, we may still continue to send to you FRN™ Dining administrative communications through email, telephone or ordinary mail. Requests to be unsubscribed or to opt out of promotional communications will be processed promptly, however you may be included in the selection for additional FRN™ Dining promotional communications for a short period of time after you make your request. If the information you provide us does not match the information in our database, we may not be able to process your election or the processing may be delayed.
-
-#### **No Use by Children**
-
-FRN™ Dining, including the FRN™ Dining Web site and mobile application, may be used only by adults who have a credit card. In no event may FRN™ Dining, our Web site and mobile application, or our other services be used by a child, including any child under the age of 13.
+We may share anonymized information about you that is not reasonably identifiable to you with our affiliates, rewards Issuers, merchants, and other third parties in our discretion. Such information could be used, for example, to provide us with statistical or other analysis and to market our business, the Program or both. This information is de-identified and cannot reasonably be used to identify you personally. This information is most often aggregated demographic and statistical information (such as information derived from your participation in any Program) and information submitted in connection with restaurant reviews or surveys that you submit to us.
 
 #### **Transfer of Personal Information**
 
-We reserve the right to transfer all Personal Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of its assets. Subject to legal requirements, the use and disclosure of all Personal Information will be subject to this Privacy Policy, or to a new privacy policy, so long as you are given notice of the new policy and provided with the opportunity to opt-out of it.
+We reserve the right to transfer all information and data in our possession, custody, or control to a successor organization in the event of a merger, acquisition, reorganization, bankruptcy, or other sale of all or a portion of our assets. Any acquirer will remain subject to the terms of this Privacy Disclosure.
 
-#### **Our Privacy Office**
+The Site utilizes plugins from various social networking sites (such as Facebook and Twitter®) to allow you to share and post materials between your Program account with us and your social network accounts. Social networks may use cookies to collect data regarding your browsing activity.
 
-We have established a Privacy Office, consisting of three of our employees: (1) Director, IT Infrastructure and Security, (2) Director, Internal Audit and (3) Chief Legal Officer. The Privacy Office is responsible for ensuring that the protection of your Personal Information is carried out in accordance with our Privacy Policy. The Privacy Office monitors and enforces compliance with our Privacy Policy.
+If you give us permission to use and post information about your restaurant visits, restaurant reviews, and other activities on our social networking accounts or your social networking accounts, usage of that social network site is governed by and subject to the privacy policy of that third-party social network site and any privacy settings that are available on that third-party site.
+
+#### **Third Party Sites**
+
+We neither own nor control any third-party sites that may be accessible through the Site, and do not control the privacy policies of such third parties. As a result, we assume no responsibility or liability for the actions of such third parties. We suggest that you review the privacy policy of any third-party site before submitting information to them.
+
+#### **Choices for Email and Marketing Communications**
+
+You may opt-out of receiving Program emails from us. However, doing so will affect your eligibility for all or some Program benefits. You may not opt-out of receiving administrative emails related to your account except by terminating your Program participation.
+
+If you do not wish to receive email communications from us, you can unsubscribe from the link in the email you received, change your selections within the Account Information section, or indicate your preferences within a direct communication to us. You may also email us if you wish to unsubscribe, but for your security, please do not send credit or debit card information via email.
+
+#### **Do Not Track**
+
+We will automatically collect cookies and other non-personally identifying information when you visit the Site and, therefore, do not respond to Do Not Track (DNT) signals.
+
+#### **Retention and Disposal of Information**
+
+We retain your information as long as we determine it is required for the operation of our business and Program and to meet legal, regulatory, and other requirements.
+
+We take reasonable steps to ensure that information is disposed of securely when we no longer require such data.
+
+#### **Data Security**
+
+We take commercially reasonable steps to maintain physical, electronic, and procedural safeguards to protect your information. These safeguards may include data encryption, access authorization, firewalls, and physical access control to our data centers. We use industry-standard encryption technologies when transferring and receiving identifiable information. We maintain PCI DSS compliance. You can find our [listing](http://www.visa.com/splisting/viewSPDetail.do?coName=Rewards%20Network&HeadCountryList=U.S.A.&pageInfo=1%253B30%253BASC%253BcoName) on the Visa Global Registry of Service Providers.
+
+We maintain a Service Organization Control (SOC) 3 report. This assessment of our security practices enables you and your stakeholders to validate that we have obtained independent auditor assurance, which attests to our alignment with the American Institute of Certified Public Accountants (AICPA) Security Trust Principles. We may elect in the future to assess our security practices through a standard other than SOC, and we will in any case maintain and routinely test our controls related to the security, integrity, confidentiality and privacy of the information we collect, store and process.
+
+#### **Reviewing or Changing Your Information**
+
+You can contact us to access and/or modify any information that we have for you, or otherwise modify your preferences pertaining to our marketing communications (whether made by email, telephone, or postal mail). To review, change, or update your information:
+
+  * **Online:** When the Program Site is available, log in to your account and click on the “My Account” link at the top of the homepage. Then click on the appropriate link to change your Personal Information or modify your communication preferences.
+  * **By postal mail:** Please include your email address and mail your request to us at Rewards Network Establishment Services Inc., 300 South Park Road, Suite 300, Hollywood, FL 33021, Attn: Member Services.
+  * **By phone:** Members may contact Member Services toll-free at (855) 694-3463.
+
+
+
+To protect your privacy and security, we will take reasonable steps to verify your identity before making corrections or granting access to your information.
+
+#### **Our IT Security & Privacy Office**
+
+We have appointed an IT Security & Privacy Steering Committee, which is responsible for ensuring that the protection of your Personal Information, Registered Card, or other information collected is carried out in accordance with this Privacy Disclosure.
 
 The following person serves as the contact person for the Privacy Office:  
 Alice L. Geene  
-Chief Legal Officer  
-Two North Riverside Plaza, Suite 200  
-Chicago, Illinois 60606  
-Phone: (312) 521-6767  
-Fax: (312) 521-6768  
-Email: [ageene@rewardsnetwork.com](mailto:ageene@rewardsnetwork.com)
-
-#### **Notice of Changes**
-
-This Privacy Policy was last revised on May 13, 2014. We reserve the right to change, modify or add to this policy (a "Change") at any time, and to apply any Change to Personal Information that we have already collected. We may provide you with notice of a Change by posting a notice or a revised privacy policy on our Web site. You agree to visit our Web site from time to time to review the current policy and any Changes.
-
-_AFFILIATES_   
-Rewards Network Establishment Services Inc.  
-Rewards Network Services LLC  
-Rewards Network International, Inc.  
-Rewards Network Canada GP Corp.  
-Rewards Network Canada LP  
-RTR Funding LLC
-
-Back to top
-
-## Dining Program Privacy Policy
-
-#### **Our pledge to you, our Member**
-
-We respect your privacy and want you to know how we collect and share personally identifiable information about you. We have prepared this privacy policy to describe to you how we collect and share your personally identifiable information.
-
-We need to collect information from you in order for you to participate in FRN™ Dining or use our services. We also collect information about you as a result of your participation in FRN™ Dining and use of our services. We refer to personally identifiable information that we collect as Personal Information. The type of Personal Information we collect about you is described in the section below on "What Personal Information We Collect".
-
-Please read this privacy policy so that you can make informed decisions about participating in FRN™ Dining or using our services. By participating in FRN™ Dining or using our services, you agree to the provisions of this privacy policy. This privacy policy applies to current and former members of FRN™ Dining and anyone who uses our services.
-
-Our Web site and mobile applications are hosted on servers located in the United States of America and are intended for use by United States residents. You may not use FRN™ Dining or any other service that we provide if you are not a United States resident.
-
-Rewards Network Inc. and its affiliates operate FRN™ Dining and provide services to you. In this privacy policy, words like "we", "us" and "our" refer to Rewards Network Inc. and our affiliates, collectively. Our affiliates at the time this privacy policy was last updated are listed for you at the end of the privacy policy.
-
-We offer Fuel Rewards Network™ (FRN) Dining ("FRN™ Dining") in connection with Excentus Corporation ("Excentus"), the owner and operator of the Fuel Rewards Network™.
-
-#### **Your Privacy Protections**
-
-We take several steps to protect your Personal Information. Among other things:
-
-·     We will not disclose your Personal Information to any non-affiliated third party for use in marketing that party's goods or services without your consent, except that we disclose Personal Information to Excentus for use by Excentus in the operation of the Fuel Rewards Network™program, including the administration of Fuel Rewards® savings, and for marketing the Fuel Rewards Network™program, as permitted under its [Privacy Policy](https://www.fuelrewards.com/fuelrewards/privacy-policy) and you consent to our disclosure to Excentus of this Personal Information and Excentus' use of this Personal Information;
-
-·     We will give you access to information that you have provided to us, including your name, how to contact you, credit, debit and other payment cards (which we refer to collectively as "payment cards") you have registered with FRN™ Dining and/or the Fuel Rewards Network™ program, and certain other preferences you have registered with us (we refer to this information as Registration Information), and we will allow you to correct any inaccuracies; and
-
-·       We take data security seriously. While no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure, we take reasonable steps to protect the security of your Personal Information. See Section below called "Data Security" for more information on the steps we take to protect your Personal Information.
-
-#### **What Personal Information We Collect**
-
-We gather the following types of Personal Information in connection with your participation in FRN™ Dining and the provision of our services to you.
-
-·       __ _Information you voluntarily provide to us._  When you register to participate in FRN™ Dining, you may provide us with Personal Information. We will also obtain Personal Information from Excentus when you are enrolled in FRN™ Dining by Excentus in connection with the Fuel Rewards Network™ program. This may include information such as your name, email and mailing address, other addresses (e.g. work, school), telephone number(s), payment card number(s) and expiration dates, loyalty program account numbers, username and password, the answer to a security question (in case you forget your password), special dates (e.g. birthday, anniversary), and dining preferences. You may also provide us with information regarding your personal accounts and/or profiles on third-party social networking sites such as Facebook and Twitter. You may provide us with Personal Information in connection with participating in contests, giveaways, sweepstakes, and other promotions, or in connection with completing surveys for us.
-
-·       __ _Information we collect from your participation in FRN™ Dining or using our services._  We collect Personal Information from the payment network of your registered payment card, payment card processors and other entities that have access to payment card transaction information with respect to transactions that you pay for using your registered payment card at merchants that participate in the rewards programs that we operate. The merchants that participate in the rewards program we operate include merchants at which you may earn a benefit from FRN™ Dining and also merchants who are not available to you for earning a benefit but participate in other rewards programs that we operate. Benefits may not be available because (1) benefits are not offered on that day of the week or time of day, (2) benefits are not offered to members of FRN™ Dining, (3) benefits are not offered to you based on your member status or participation level in FRN™ Dining or (4) you otherwise do not qualify to receive a benefit at that merchant. This means that we may receive information about transactions that you make at merchants even though you are not aware that the merchant participates in a rewards program that we operate and even though you do not receive a benefit with respect to that transaction. The information that we receive regarding registered payment card transactions at merchants who participate in the rewards programs that we operate include the merchant you visited, the date of your visit, the amount of your bill and the payment card used to pay. In addition to transaction information, we also collect other information from your participation in FRN™ Dining or using our services, including information regarding visits to the websites that we operate, email confirmations when you open an email from us if your computer supports such capabilities, information about your location if you use the "current location" feature of our mobile smartphone application or mobile website and general usage information for our mobile smartphone application. We also collect information from your use of our customer services, such as information when you send us an inquiry, comment or request including any email or mailing address or telephone number you provide so that we may respond.
-
-·       __ _Information obtained about you from others._  We may also collect Personal Information from merchants or other parties who do not participate in FRN™ Dining. For example, we may work with firms that provide us demographic information in order to evaluate or improve our services to you. We may collect transaction information from merchants who are considering joining our rewards programs in order to determine activity by members of the rewards programs that we operate at that merchant. We may also collect information with your consent or as required by law.
-
-#### **Use of Personal Information**
-
-We use Personal Information to operate our business and provide products and services to you.
-
-#### **Retention and Disposal of Information**
-
-We retain Personal Information as long as we determine is required for operation of our business and to meet legal, regulatory and other requirements. We take reasonable steps to ensure that Personal Information is disposed of securely when we no longer require such data.
-
-Personal Information is stored for the most part electronically in our computer systems or the computer systems of non-affiliated third parties that we work with in connection with operating our business, operating FRN™ Dining or providing services to you. We may have Personal Information on electronic and non-electronic media. The measures we take to protect Personal Information are described in the section below on "Data Security".
-
-#### **Access to Information**
-
-We restrict access to Personal Information to those individuals or entities that require access to that information in order for us to operate our business, operate, manage, and expand our products and services and provide products and services to you.
-
-#### **What Personal Information We Disclose**
-
-We may disclose Personal Information to non-affiliated third parties, such as suppliers, vendors or contractors, as necessary for the non-affiliated third party to provide services to us (such as printing or mailing services or otherwise) in connection with operating our business, operating, managing, and expanding our products and services, and providing products and services to you, such as our mobile smartphone application.
-
-We also may disclose any Personal Information we collect with our affiliates, including for purposes such as for internal audit, management, billing or administrative purposes including protecting FRN™ Dining and its members from losses, and to protect our rights. We may also disclose Personal Information as necessary for defending and bringing legal actions.
-
-We may disclose Personal Information if required by a government authority or legal process, which may include location data from your use of our mobile smartphone application.
-
-We will not disclose your Personal Information (such as your email address) to non-affiliated third parties for such parties' use in marketing their goods or services without your consent.
-
-We may obtain your consent to share information with non-affiliated third parties in various ways. For example, we may invite you to participate in a survey or special promotional program offered by a non-affiliated third party and your choice to participate in such a survey or promotional program will indicate your consent for us to share your Personal Information with non-affiliated third parties in connection with the survey or promotional program. If you consent to such disclosure, any information that you provide to the third parties will be controlled by that party's privacy policy, not our privacy policy.
-
-You may also give us permission to use and post information about your restaurant visits, restaurant reviews, and other FRN™ Dining activities on FRN™ Dining's social networking accounts such as Facebook or Twitter or on your own social networking accounts. The posting and display of this information on third party networking site is subject to, and governed by, the privacy policy and privacy settings of the various social networking sites and services. Before providing consent to post any information to such third party social networking sites, users should understand the privacy policies and practices of the third party responsible for that website. We neither own nor control the third-party social networking sites accessible through links on our Web site and mobile applications.
-
-#### **Disclosure of Anonymous Information**
-
-We may share information that is not personally identifiable to you, including aggregated demographic and statistical information, with our affiliates, partners, merchants, and others. Such information could be used, for example, to provide us with statistical or other analysis. None of this type of information can be linked by the recipient to any Personal Information that can identify you.
-
-We may also disclose or share information that is not personally identifiable to you with our affiliates, partners, merchants and others in connection with restaurant reviews or surveys that you submit to us to post on our Web site or other Web sites or on third-party social networking sites such as Facebook and Twitter.
-
-#### **Your Use of Third Party Sites**
-
-When you voluntarily post or otherwise comment on any portion of a social networking site (such as Facebook or Twitter) registered by us or by any of our affiliates, partners, merchants or others, your usage of that site is governed by and subject to the privacy policy of that third party networking sites and any privacy settings that are available on that third party site. We do not control the privacy policies of such third parties and we assume no responsibility or liability for the actions of such third parties.
-
-#### **Communicating With You**
-
-We may from time to time send special offers to you on behalf of selected companies that we think may be of interest to you. However, because we or our third party vendors (and not the selected company) would send such offers to you, it is not necessary to disclose Personal Information to the company in order to send these offers to you. You may choose to opt out of certain of our marketing communications while still receiving other types of our marketing communications. We also may send you offers for goods or services sold by us or our affiliates, including in our email newsletters, by email or ordinary mail, or by telephone.
-
-We will allow you to choose not to receive FRN™ Dining promotional communications from FRN™ Dining. For example, if you do not want to receive FRN™ Dining promotional communications, you may unsubscribe or opt out from such FRN™ Dining promotional communications by clicking the link included at the bottom of each FRN™ Dining email message we send to you or by changing your communication preferences via the Fuel Rewards Network™ program website at [fuelrewards.com](http://www.fuelrewards.com/) (the “FRN™ Website”).  You also can choose to not receive special offers we send on behalf of other companies. Please read the section entitled "Reviewing, Changing Your Registration Information or Unsubscribing" for details on how to request not to receive these FRN™ Dining promotional communications.
-
-If you use our mobile smartphone application and allow the mobile smartphone application to access your location data, we may send to you marketing messages and other information based on your location when you are using the application. You may change the settings on the mobile smartphone application at any time to stop allowing the mobile smartphone application access to your location data.
-
-#### **"E-mail a Friend" Information**
-
-You may use our Email a Friend service to send restaurant review to family and friends via email. We will automatically send a one-time email inviting your family and friends to visit the specific restaurant page on [frndining.com](http://www.frndining.com/). 
-
-#### **Operating Our Web Site (Including How We Use Cookies) and Mobile Smartphone Application** **1**
-
-_1_ _Not all rewards programs have mobile applications available. Please note that this privacy policy also applies to your use of our Web site and is not limited to use of a mobile application._
-
-When you visit our Web site or use our mobile smartphone application without logging in, we may collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We may use session data for a variety of reasons, including to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the types of browsers and computer operating systems used by our visitors, and the Internet Protocol addresses from which our visitors connect to our site.
-
-When you visit our site or use our mobile smartphone application and login, we may collect usage information ("persistent data") that will be linked to your user name. We may use the persistent data for a variety of reasons, including to monitor your use of our site and mobile smartphone application in conjunction with your participation in FRN™ Dining.
-
-We use cookies on our Web site to collect session data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences on our site. Cookies placed on your computer by [frndining.com](http://www.frndining.com/) can only be read by the [frndining.com](http://www.frndining.com/) web server. We use two different types of cookies in our Web site:
-
-• "Session cookies" track the user's progression through our sites and session data in a single visit. These cookies enable us to remember things as the user progresses from one page to another. Your session cookies are deleted as soon as you close your browser. In addition, if you leave your browser open for a prolonged period, they are set to automatically erase themselves after a short period.
-
-• "Persistent cookies" remember a user and the user's persistent data at the user's next visit to our Web site. Your persistent cookies are not automatically erased, and they remain on your computer until you erase them. (If you do not want these cookies to remain on your computer, you can erase them by following the steps for your specific browser.) For members, we may use a persistent cookie to remember such things as your user name, name, preferred dining area, selected cuisine type and other promotional links that you clicked on while on the site.
-
-Most Internet browsers automatically accept cookies. However, you can instruct your browser to stop accepting cookies or prompt you before accepting a cookie from the sites you visit.
-
-We may also use a third party to place cookies on your computer to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site in order to constantly improve the Web site quality.
-
-Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to users' personally identifiable information.
-
-We may use similar technologies to track usage of our mobile smartphone applications in order to understand how our mobile smartphone applications are used in order to improve the user experience.
-
-Our Web site may have links to other sites on the Internet that are owned by third parties, including the FRN™ Website, fuelrewards.com, owned by Excentus ("External Sites"), or you may come to our Web site from a link on an External Site. These other Web sites will have their own rules on privacy that you should review. We are not responsible for the privacy policies of other Web sites.
-
-#### **Data Security**
-
-We take reasonable steps to maintain physical, electronic, and procedural safeguards to guard your Personal Information. These safeguards may include encryption of data and limiting access to data as described above in the section "Access to Information". Non-affiliated third parties that provide services to us and who may receive your Personal Information from us are subject to contractual obligations with respect to data security and limitations on use of data in accordance with this privacy policy.
-
-With respect to use of our Web site and mobile smartphone application, we use industry-standard encryption technologies when transferring and receiving Personal Information through our site and mobile smartphone application. We use technologies that encrypt information and keep the data private and confidential between your device and frndining.com or the computer systems of non-affiliated third parties that we work with in operating our business, operating FRN™ Dining or providing services to you. This technology makes it safer to transmit your credit card number over the Internet.
-
-#### **Reviewing, Changing Your Registration Information or Unsubscribing**
-
-At any time, you can correct, update or cancel your Registration Information or modify your preferences pertaining to our newsletter and other marketing communications (whether made by email, telephone, or ordinary mail). To review, change, update or cancel your Registration Information, or unsubscribe or opt out from our marketing communications, you have several options:
-
-·       Online: On the FRNTM Website, log in to your account and click on the "Account Profile" link at the top of the page. Then click on the appropriate link to change your Personal Information, modify your FRN™ Dining promotional communication preferences, or unlink your credit cards.
-
-·       By phone: Call FRN Member Services toll-free at 1.866.603.0473.
-
-·       Link to unsubscribe: Links to unsubscribe or opt out from future marketing communications are included at the bottom of each email.
-
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access to your Personal Information or making corrections.
-
-Opting out of receiving FRN™ Dining promotional communications may impact the rewards that you are eligible to receive from FRN™ Dining. If you opt out of receiving FRN™ Dining promotional communications, we may still continue to send to you FRN™ Dining administrative communications through email, telephone or ordinary mail. Requests to be unsubscribed or to opt out of promotional communications will be processed promptly, however you may be included in the selection for additional FRN™ Dining promotional communications for a short period of time after you make your request. If the information you provide us does not match the information in our database, we may not be able to process your election or the processing may be delayed.
-
-#### **No Use by Children**
-
-FRN™ Dining, including the FRN™ Dining Web site and mobile application, may be used only by adults who have a credit card. In no event may FRN™ Dining, our Web site and mobile application, or our other services be used by a child, including any child under the age of 13.
-
-#### **Transfer of Personal Information**
-
-We reserve the right to transfer all Personal Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of its assets. Subject to legal requirements, the use and disclosure of all Personal Information will be subject to this Privacy Policy, or to a new privacy policy, so long as you are given notice of the new policy and provided with the opportunity to opt-out of it.
-
-#### **Our Privacy Office**
-
-We have established a Privacy Office, consisting of three of our employees: (1) Director, IT Infrastructure and Security, (2) Director, Internal Audit and (3) Chief Legal Officer. The Privacy Office is responsible for ensuring that the protection of your Personal Information is carried out in accordance with our Privacy Policy. The Privacy Office monitors and enforces compliance with our Privacy Policy.
-
-The following person serves as the contact person for the Privacy Office:
-
-Alice L. Geene
-
-Chief Legal Officer
-
-Two North Riverside Plaza, Suite 200
-
-Chicago, Illinois 60606
-
-Phone: (312) 521-6767
-
-Fax: (312) 521-6768
-
-Email: ageene@rewardsnetwork.com
-
-#### **Notice of Changes**
-
-This Privacy Policy for the Fuel Rewards Network Dining Program was last revised on May 13, 2014. We reserve the right to change, modify or add to this policy (a "Change") at any time, and to apply any Change to Personal Information that we have already collected. We may provide you with notice of a Change by posting a notice or a revised privacy policy on our Web site. You agree to visit our Web site from time to time to review the current policy and any Changes.
-
-_AFFILIATES_
-
-Rewards Network Establishment Services Inc.
-
-Rewards Network Services LLC
-
-Rewards Network International, Inc.
-
-Rewards Network Canada GP Corp.
-
-Rewards Network Canada LP
-
-RTR Funding LLC
+General Counsel  
+Rewards Network  
+2 N. Riverside Plaza  
+Suite 200  
+Chicago, IL 60606  
+(312) 521-6767  
+[legal@RewardsNetwork.com](mailto:legal@RewardsNetwork.com)
+
+#### **Cancellation and Terminating your Account**
+
+If you do not agree to have your information collected, shared and used as described in this Privacy Disclosure, you may terminate your Program account at any time by contacting us at (855) 694-3463 or visiting the “My Account” portion of the Program Site while logged in and clicking on the “Cancel Your Membership” link. If you no longer consent to this Privacy Disclosure and our collection and maintenance of this information, you must un-enroll from the Program. If you elect to un-enroll or are otherwise deactivated from the Program, we will also need to disclose that information to Rewards Issuer, non-affiliated third-party suppliers, vendors, contractors, payment card issuers, payment card processors, Payment Card Networks as necessary to allow them to remove you from the Program.
