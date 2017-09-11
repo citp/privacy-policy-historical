@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99hdfilms.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409033153id_/https%3A//www.99hdfilms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99hdfilms.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912004445id_/https%3A//www.99hdfilms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99 Hd Films
 
