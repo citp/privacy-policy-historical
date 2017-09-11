@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128142125id_/https%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911163734id_/https%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Institute of Physics
 
 The American Institute of Physics (AIP) is committed to protecting your privacy and values your trust. This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it.
 
-## What information is collected
+## What information is collected and how it is used
 
-**Personal Information.** We collect Personal Information that you provide to us, such as your name, mailing address, phone number, email address, and society membership.
+**Personal Information.**  We collect Personal Information that you voluntarily provide to us, such as your name and email address, to receive services such as email alerts and newsletters. We may use your email address to contact you from time to time about new offers or product enhancements. We may also use page tags (a.k.a. “web beacons”) in html-based emails which allow us to see whether specific users have opened, forwarded, or clicked on a link in an email. Information about what users are interested in helps us to improve our offerings. We will not share or sell your personally identifiable information to any company or organization.
 
-**Non-Personal Information.** We also collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet Protocol (IP) address. This enables us to know how many users visited our website, which pages were accessed, and other information about site usage that will help us to improve our offerings. Non-Personal Information cannot be easily used to personally identify you.
-
-The information we ask for is voluntary, although some services are only accessible by registering user details.
+**Non-Personal Information.**  We use cookies to track user activity on the site and also to collect non-personal information, such as your browser type, operating system, and the URL of the previous website you visited. We anonymize Internet Protocol (IP) addresses. Knowing more about who uses our site and how they use it helps us to make improvements. This information is maintained and used in aggregate form only and does not contain personally identifiable information.
 
 _Notice to EU Users:_ The server for [www.aip.org](http://www.aip.org/) is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy.
 
@@ -45,7 +43,7 @@ In accordance with EU and other guidelines, you may decline to provide the infor
 
 AIP uses session cookies which are not permanent or persistent. The session cookie is designed so that, once you close your browser, the cookie will simply terminate.
 
-If you configure your browser to reject cookies, you may still use some, but not all, portions of our site. For example, accessing our online journals requires that your browser accept cookies. We recommend closing browsers on publicly available machines (such as those in libraries) after use.
+If you configure your browser to reject cookies, you may still use some, but not all, portions of our site. We recommend closing browsers on publicly available machines (such as those in libraries) after use.
 
 ## Links
 
@@ -63,4 +61,5 @@ AIP sites are general audience sites and do not knowingly collect any personal i
 
 If we make material changes to our privacy policy, these changes will be posted to this page. You should review this page regularly for updates.
 
-_Last updated: January 2012_
+_Last updated: January 2017  
+_
