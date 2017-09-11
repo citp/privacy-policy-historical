@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebitcoinnews.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621055958id_/https%3A//thebitcoinnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitcoinnews.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911101351id_/https%3A//thebitcoinnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Bitcoin News - Decentralised Bitcoin and Crypto News
+# Privacy Policy - The Bitcoin News - Leading Bitcoin and Crypto News since 2012
 
 **PRIVACY POLICY**
 
@@ -72,11 +72,10 @@ By email:  privacy@TheBitcoinNews.com
 
 By mail:
 
-**The Bitcoin News**
+TheBitcoinNews.com is operated by:  
+BridgeWard AG  
+Feffetstrasse 14  
+CH-9464 Rüthi  
+Switzerland
 
-Calle Mar Mediterráneo  
-Bahia del Segura ( Centro Comercial )  
-03177 San Fulgencio ( La Marina )  
-Spain
-
-**2.10.2014**
+**22.8.2017**
