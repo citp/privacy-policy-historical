@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delias.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629075857id_/http%3A//www.defymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delias.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911202811id_/http%3A//www.defymedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DEFY Media
 
