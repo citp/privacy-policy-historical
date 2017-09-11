@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowcarbyum.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328144559id_/https%3A//lowcarbyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcarbyum.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911083402id_/https%3A//lowcarbyum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Low Carb Yum
 
@@ -80,4 +80,4 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](http://lowcarbyum.com/contact/ "Contact").
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://lowcarbyum.com/contact/ "Contact").
