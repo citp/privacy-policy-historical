@@ -1,28 +1,54 @@
-> *The following text is extracted and transformed from the catholicnewsagency.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020445id_/http%3A//www.catholicnewsagency.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicnewsagency.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911105528id_/https%3A//www.catholicnewsagency.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Documento sin título
+# Privacy Policy
 
-This notice discloses the privacy practices of Catholic News Agency (CNA) at www.catholicnewsagency.com. CNA does not collect any information about its visitors other than what is submitted to the site by the individual user in the form of subscriptions/unsubscriptions and comments. 
+This web site is owned and operated by Eternal Word Television Network, Inc. (EWTN). We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns and our commitment to protecting your privacy on this web site. The information we collect from you is used to improve the content of our web site and to provide you with information, products or other services available to you through EWTN. This Privacy Policy may be changed or updated from time to time and we recommend that you review these terms periodically.
 
-Information Collection, Use, and Sharing
+**Our Policy  
+**  
+EWTN respects and protects the privacy of our online visitors and donors. EWTN does not disclose, give, sell or transfer to third parties any personal information about our visitors without their permission, unless required by law.
 
-We are the sole owners of the information submitted to this site. We only have access to/collect information that you voluntarily give us via email, subscriptions, the submission of comments or other direct contact from you. We will not sell or rent this information to anyone.
+Throughout its history, EWTN has never shared its donor mailing lists or personal information with third parties. It remains EWTN's policy that mailing lists, both postal and electronic, are never sold or exchanged with third parties.
 
-We will use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party outside of our organization. 
+**Credit Card and Other Personal Information  
+**  
+EWTN uses industry standard efforts such as firewalls and Secure Socket Layers (SSL) to safeguard the confidentiality of your personally identifiable information. We make every reasonable effort to prevent the loss, misuse or theft of the information under our control.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. Our normal sphere of operations uses email only in the sending of the daily news service and in replying to requests or inquiries. 
+We care about the safety and security of online transactions. We use the industry standard high grade encryption and security protocol to communicate with your browser software. This method makes it extremely difficult for anyone else to intercept the credit card information you send to us. Third parties with which we work process credit card transactions using high grade encryption and security protocols.
 
-Your Access to and Control Over Information
+**Our Commitment to Accuracy  
+**  
+In addition to maintaining privacy and security controls for information you share with us, EWTN uses error checking procedures to accurately and completely process your transaction information. Our staff is available Monday through Friday from 9am to 6pm (US Eastern Time) to answer questions by phone at 1-205-271-2989 or by email at viewer@ewtn.com.
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or the phone number given on our website:
+Changes are made to our error checking procedures as necessary to improve our system and independent external audits are periodically conducted to ensure the appropriate processing of your information from our web site.
 
-    * See what data we have about you, if any.  
-    * Change/correct any data we have about you.  
-    * Have us delete any data we have about you.  
-    * Express any concern you have about our use of your data. 
+**Use of "Cookies"  
+**  
+Visitors to the EWTN web site should be aware that non-personal information and data is automatically collected by the EWTN web site through the use of "cookies." "Cookies" are small text files which a web site can use to recognize repeat visitors, facilitate a visitor's ongoing access to, and use of, the site, and allow a web site to track usage behavior and compile data that will allow content improvements. Cookies are not programs that come onto a visitor's system and damage files. Generally, cookies work by assigning a unique identifier to the visitor that has no meaning outside the assigning web site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. EWTN uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitors' online experience and facilitate their visit of EWTN's web site.
 
-Security
+**Links  
+**  
+This web site may contain links to other web sites. Please be aware that EWTN is not responsible for the privacy practices of such other web sites. We encourage you to be aware when you leave our web site and to read the privacy statements of each and every web site that collects personally identifiable information from you. This privacy statement applies solely to information collected by the EWTN web site.
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Other than contract information, CNA does not collect personal information. All financial transactions (donations) are handled by a secure, third party SSL at the user’s discretion.
+**Message Boards and Public Forums  
+**  
+Please keep in mind that whenever you voluntarily disclose personal information on our web site (for example, on message boards such as the Catholic Q&A and Bulletin Board or through email) that information may be collected and used by others. By posting personal information on our web site that is publicly accessible by others, you may receive unsolicited messages from other parties in return.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at **303-997-8563** or [catholicna@catholicna.com](mailto:catholicna@catholicna.com).
+**Note to Parents on Our Privacy Policy  
+**  
+EWTN encourages children to learn more about the Catholic Faith through the use of our web site and in particular through our EWTNKids web site. However, we ask that this be done only with their parent's knowledge and supervision. For this reason, EWTN has established a separate EWTNKids Children's Privacy Policy which adheres to the Children's Online Privacy Protection Act, enacted by the U.S. Congress, and its rules on collecting personal information from minors.
+
+**Opt-out  
+**  
+If you no longer wish to receive electronic mailings from us, you may opt-out of receiving these communications by following the "unsubscribe" information contained at the bottom of the message or by contacting us as indicated below.
+
+**Contact our Web Site  
+**  
+Thank you for visiting our web site. We are available to answer your questions and hear your concerns. For inquiries concerning our information practices and Privacy Policy, you may contact us at:
+
+ **Catholic News Agency  
+**Attention: JD Flynn  
+3392 S. Broadway  
+Englewood, CO 80113   
+Or email us: catholicna@catholicna.com   
+
