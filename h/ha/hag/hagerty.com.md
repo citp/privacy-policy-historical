@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527131301id_/https%3A//www.hagerty.com/corporate/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911063741id_/https%3A//www.hagerty.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Hagerty.com Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy applies to any Hagerty business transaction. This Privacy Po
 
 ##  Insurance Products and Services 
 
-If you are a Hagerty insurance client or a potential insurance client, please refer to our [Insurance Privacy policy](https://web.archive.org/corporate/Insurance-Client-Privacy-Policy) for specific privacy rights and information. The Insurance Privacy Policy is intended to be read in conjunction with this policy, but it is specifically designed to address privacy issues surrounding Hagerty’s insurance products. 
+If you are a Hagerty insurance client or a potential insurance client, please refer to our [Insurance Privacy policy](https://web.archive.org/corporate/insurance-client-privacy-policy) for specific privacy rights and information. The Insurance Privacy Policy is intended to be read in conjunction with this policy, but it is specifically designed to address privacy issues surrounding Hagerty’s insurance products. 
 
 ##  The Information We Collect and How We Use It 
 
@@ -26,7 +26,7 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
 
 ###  Cookies: 
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies are used on our site to enhance and simplify the user’s visit. We use cookies to gather information on your preferences to provide you with a more custom experience. For instance, we send a cookie whenever an application has been started and can help us re-market to you through banner advertisements. This allows the user to access his or her application upon future visits. If a user rejects the cookie, he or she may still use our website but will not have access to these enhancements. For more information on Hagerty’s use of cookies, please see our [International Cookie Statement](https://web.archive.org/corporate/Privacy-Policy/Cookies). 
+A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies are used on our site to enhance and simplify the user’s visit. We use cookies to gather information on your preferences to provide you with a more custom experience. For instance, we send a cookie whenever an application has been started and can help us re-market to you through banner advertisements. This allows the user to access his or her application upon future visits. If a user rejects the cookie, he or she may still use our website but will not have access to these enhancements. For more information on Hagerty’s use of cookies, please see our [International Cookie Statement](https://web.archive.org/corporate/privacy-policy/cookies). 
 
 ###  Google Analytics: 
 
