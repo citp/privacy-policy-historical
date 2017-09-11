@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirationgreen.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421113344id_/https%3A//www.niftyhomestead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationgreen.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911193758id_/https%3A//www.niftyhomestead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Terms & Conditions • Nifty Homestead
 
