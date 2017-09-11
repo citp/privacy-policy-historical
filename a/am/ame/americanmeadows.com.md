@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607002814id_/http%3A//www.americanmeadows.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911150353id_/https%3A//www.americanmeadows.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security
 
-At American Meadows, we have been selling only the finest gardening products for almost 30 years. We are veteran retailers and have the utmost respect for customer service, privacy and security, whether a sale is made in person, on the phone, via the mail or on the Internet. This privacy and security policy applies to the American Meadows website (http://www.americanmeadows.com) and all products and services offered by American Meadows.
+At American Meadows, we have been selling only the finest gardening products for almost 30 years. We are veteran retailers and have the utmost respect for customer service, privacy and security, whether a sale is made in person, on the phone, via the mail or on the Internet. This privacy and security policy applies to the American Meadows website (https://www.americanmeadows.com) and all products and services offered by American Meadows.
 
 ## Security for your online order:
 
