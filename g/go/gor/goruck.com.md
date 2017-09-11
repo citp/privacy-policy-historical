@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105103005id_/http%3A//www.goruck.com/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911111039id_/https%3A//www.goruck.com/privacy-policy) for the most accurate reproduction.*
 
-# GORUCK | Gear Built in the USA. Events that Build Better Americans.
+# Privacy Policy
+
+We guard your privacy and will never sell your private information.
+
+This is the website of GORUCK LLC.
+
+Our postal address is:
+
+GORUCK  
+415 Pablo Ave N.  
+Suite 140  
+Jacksonville Beach, FL 32250
 
 ### Information Collection
 
@@ -20,15 +31,9 @@ Personal information will be used for the purpose of communicating with customer
 
 ### Data Security
 
-Any and all payments are made through a secure server.
-
-You may contact us the following ways:
-
-Web: [Contact Us](https://web.archive.org/contactus "Contact GORUCK")
-
-In Writing:
+Any and all payments are made through a secure server. You may contact us online here or in writing at the address below:
 
 GORUCK  
 415 Pablo Ave N.  
 Suite 140  
-Jacksonville Beach, FL 32250 
+Jacksonville Beach, FL 32250
