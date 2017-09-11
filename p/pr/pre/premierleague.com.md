@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126114019id_/https%3A//www.premierleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911183501id_/https%3A//www.premierleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,10 @@ Your child's privacy is important to us. We are committed to safeguarding childr
 If you are aged 12 or under, we will require permission from your parent or guardian in order for you to register on our website.  If you are aged 12 or under you will be asked to supply the name and email address of a parent or guardian to whom a confirmation email will be sent.  Your Premier League account will only become active once your parent or guardian has clicked on the link within the confirmation email to provide their consent.
 
 If you are a parent or guardian and would like to review any personal information that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child’s personal information or if you have any questions about our Privacy Policy or practices, you may contact us at [info@premierleague.com](mailto:info@premierleague.com).
+
+**PLAYER PRIVACY POLICY**
+
+For information on how we collect, use and store player data please refer to our [Player Privacy Policy](http://www.premierleague.com/player-privacy-policy).
 
 **COOKIES**
 
