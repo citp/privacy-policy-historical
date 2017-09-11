@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the payback.in privacy policy that was archived on 2017-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170503203904id_/https%3A//www.payback.in/home/privacy-policy.html%3Ficid%3Dfooter%7Cpolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payback.in privacy policy that was archived on 2017-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170911140142id_/https%3A//www.payback.in/home/privacy-policy.html%3Ficid%3Dfooter%7Cpolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-Frame-Options" content="deny">
-    <meta name="keywords" content="PAYBACK Privacy Policy">
+    <meta name="keywords" content="">
     <meta name="description" content="Read out PAYBACK privacy policy and commitments to its members and partners.">
     <meta name="msvalidate.01" content="2624BE075D5A44CAFFE036205FB2A1CD">
     <link rel="icon" type="img/png" href="/etc/designs/paybackdesktop/clientlibs/img/favicon.png">
@@ -143,6 +143,7 @@
 
     var removeSignUpPopup = "true";
     var removeLoginPopup = "";
+    var headerLoginType = "strong";
 
 	var popUpSuccessColor="";
     var popUpFailureColor="";
@@ -179,7 +180,7 @@
     var cardEnabledPopupMsg = "Your card is enabled";
     var smsOtpPopMsg = "Your One-Time Password (OTP) has been generated. Please do not share this password with anyone.";
     var mobileNumberLinkedPopupMsg = "Your mobile number is now your PAYBACK Number. Stay updated with the latest offers and benefits.";
-    var pinSentToRegMobPopupMsg = "Your PIN has been sent to Registered Mobile Number.";
+    var pinSentToRegMobPopupMsg = "Your PIN has been sent to Registered Mobile Number & Registered Email id.";
     var mobileNumberRegisteredPopupMsg = "Your mobile number is now your PAYBACK Number. Stay updated with the latest offers and benefits.";
     var pointsDisputeFgPopupMsg = "Points might have got refunded back, please check the transaction history before proceeding";
     var redemptionOnlinePopupMsg = "You must have equal or higher points balance for points redemption. Continue shopping with PAYBACK and stack up points faster!";
@@ -214,7 +215,7 @@
 	var tNcHeaderPagePath = "";
 	var promoCodePagePath = "";
 
-	var loginPopupRightImage = "/content/dam/payback/portal/7thAugust15/2016/April/MainCarousel/sgnup-bg.jpg";
+	var loginPopupRightImage = "/content/dam/payback/portal/7thAugust15/2017/Aug17/maincarousal/PB-general_redirect-login-popup_1.jpg";
     var loginRedirectImage = "";
     var loginRedirectButtonText = "";
     var loginRedirectButtonTextColor = "";
@@ -686,59 +687,63 @@
       <ul class="list-unstyled text-right">
         <li>
         		<a href="javascript:void(0);" onclick="navigateToLinkTarget('https://itunes.apple.com/in/app/payback-india/id961049647?mt=8&amp;ign-mpt=uo%3D4',
-		        		'_blank')" title="Download iOS APP">
-		        			<img src="/content/dam/payback/portal/icons/ios.png" title="Download iOS APP" alt="Download iOS APP" width="15" height="20">
-		                    </a>
-        	    <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&amp;hl=en',
-		        		'_blank')" title="Download Android APP">
-		        			<img src="/content/dam/payback/portal/icons/android.png" title="Download Android APP" alt="Download Android APP" width="15" height="20">
-		                    </a>
-        	    <span>Download App</span>
+                            '_blank')" title="">
+                                </a>
+                    <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&amp;hl=en',
+                            '_blank')" title="">
+                                </a>
+                    <span></span>
         </li>
-        <li><a href="/content/payback/home/contactcenter.contactus.html" target="_self" title="Customer Care">
-        			<span>Customer Care</span>
-        			</a>
-       	</li>
+        <li>
+        <a href="/home/contactcenter.contactus.html" target="_self" title="Customer Care">
+                        <span>Customer Care</span>
+                        </a>
+        </li>
 
                     <li id="noLoginLiTag" style="display:none;">
-                        <a href="javascript:void(0);" class="loging" title="Login" onclick="redirectToLogin('/home/login.html','/home/privacy-policy.html','weak')">
+                        <a href="javascript:void(0);" class="loging" title="Login" onclick="redirectToLogin('/home/login.html','/home/privacy-policy.html','strong')">
                                 <i class="fa fa-sign-in" aria-hidden="true"></i>&nbsp;Login
                             </a>
                         </li>
                     <li id="loginLiTag" style="display:none;">
                         <div class="btn-group buttonDropdownClass">
                               <button type="button" id="weakLoginbutton" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display:none;">Welcome</button>
-                              <button type="button" id="strongLoginbutton" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display:none;">HI <span id="userName"></span></button>
+                              <button type="button" id="strongLoginbutton" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display:none;">Hi <span id="userName"></span></button>
                               <button type="button" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 
                                 <span class="caret"></span>
                               </button>
                               <ul class="dropdown-menu">
                                 <li>
-                                        <a href="javascript:void(0);" title="My Profile" onclick="redirectToLogin('/home/login.html','/home/my-profile.html','strong', 'true');">
-                                                    <img src="/content/dam/payback/portal/icons/my_profile_icon.png" title="My Profile" alt="My Profile">
-                                                    My Profile</a>
-                                            </li>
+
+                                            <a class="xyz" href="javascript:void(0);" title="My Profile" onclick="redirectToLogin('/home/login.html','/home/my-profile.html?icid=myprofile','strong', 'true');">
+                                                        <img src="/content/dam/payback/portal/icons/my_profile_icon.png" title="My Profile" alt="My Profile">
+                                                        My Profile</a>
+                                                </li>
                                 <li>
-                                        <a href="javascript:void(0);" title="My Transactions" onclick="redirectToLogin('/home/login.html','/home/my-transactions.html','strong', 'true');">
-                                                    <img src="/content/dam/payback/portal/icons/my_transaction_icon.png" title="My Transactions" alt="My Transactions">
-                                                    My Transactions</a>
-                                            </li>
+
+                                            <a class="xyz" href="javascript:void(0);" title="My Transactions" onclick="redirectToLogin('/home/login.html','/home/my-transactions.html?icid=mytransactions','strong', 'true');">
+                                                        <img src="/content/dam/payback/portal/icons/my_transaction_icon.png" title="My Transactions" alt="My Transactions">
+                                                        My Transactions</a>
+                                                </li>
                                 <li>
-                                        <a href="javascript:void(0);" title="Change Pin" onclick="redirectToLogin('/home/login.html','/home/change-pin.html','strong', 'true');">
-                                                    <img src="/content/dam/payback/portal/icons/change_pin_icon.png" title="Change Pin" alt="Change Pin">
-                                                    Change Pin</a>
-                                            </li>
+
+                                            <a class="xyz" href="javascript:void(0);" title="Change Pin" onclick="redirectToLogin('/home/login.html','/home/change-pin.html?icid=changepin','strong', 'true');">
+                                                        <img src="/content/dam/payback/portal/icons/change_pin_icon.png" title="Change Pin" alt="Change Pin">
+                                                        Change Pin</a>
+                                                </li>
                                 <li>
-                                        <a href="javascript:void(0);" title="Order Tracking" onclick="redirectToLogin('/home/login.html','/home/order-tracking.html','strong', 'true');">
-                                                    <img src="/content/dam/payback/portal/icons/order_tracking_icon.png" title="Order Tracking" alt="Order Tracking">
-                                                    Order Tracking</a>
-                                            </li>
+
+                                            <a class="done" href="javascript:void(0);" rel="nofollow" title="Order Tracking" onclick="redirectToLogin('/home/login.html','/home/order-tracking.html?icid=ordertracking','strong', 'true');">
+                                                        <img src="/content/dam/payback/portal/icons/order_tracking_icon.png" title="Order Tracking" alt="Order Tracking">
+                                                        Order Tracking</a>
+                                                </li>
                                 <li>
-                                        <a href="javascript:void(0)" title="Logout" onclick="logOut('/home.html')">
-                                                      <img title="Logout" alt="Logout" src="/content/dam/payback/portal/icons/log_out_icon.png">
-                                                      Logout</a>
-                                            </li>
+
+                                            <a class="abc" href="javascript:void(0)" title="Logout" onclick="logOut('/home.html')">
+                                                          <img title="Logout" alt="Logout" src="/content/dam/payback/portal/icons/log_out_icon.png">
+                                                          Logout</a>
+                                                  </li>
                                 </ul>
                         </div>
                     </li>
@@ -762,43 +767,43 @@
           	<span class="pre-nav">
                <ul class="list-unstyled resonsiveViewLoginTag">
                     <li id="noLoginLiTag" style="">
-                        <a href="javascript:void(0);" class="loging" title="Login" onclick="redirectToLogin('/home/login.html','/home/privacy-policy.html','weak')">
+                        <a href="javascript:void(0);" class="loging" title="Login" onclick="redirectToLogin('/home/login.html','/home/privacy-policy.html','strong')">
                               <i class="fa fa-sign-in" aria-hidden="true"></i>&nbsp;Login
                             </a>
                         </li>
                     <li id="loginLiTag" style="display:none;">
                     <div class="btn-group buttonDropdownClass">
                           <button type="button" id="weakLoginbutton" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display:none;">Welcome</button>
-                          <button type="button" id="strongLoginbutton" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display:none;">HI <span id="userName"></span></button>
+                          <button type="button" id="strongLoginbutton" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display:none;">Hi <span id="userName"></span></button>
                           <button type="button" class="btn btn-pb-transparent dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 
                             <span class="caret"></span>
                           </button>
                           <ul class="dropdown-menu">
                             <li>
-                                    <a href="javascript:void(0);" title="My Profile" onclick="redirectToLogin('/home/login.html','/home/my-profile.html','strong', 'true');">
+                                    <a href="javascript:void(0);" title="My Profile" onclick="redirectToLogin('/home/login.html','/home/my-profile.html?icid=myprofile','strong', 'true');">
                                                 <img src="/content/dam/payback/portal/icons/my_profile_icon.png" title="My Profile" alt="My Profile">
                                                 My Profile</a>
                                         </li>
                             <li>
-                                    <a href="javascript:void(0);" title="My Transactions" onclick="redirectToLogin('/home/login.html','/home/my-transactions.html','strong', 'true');">
+                                    <a href="javascript:void(0);" title="My Transactions" onclick="redirectToLogin('/home/login.html','/home/my-transactions.html?icid=mytransactions','strong', 'true');">
                                                 <img src="/content/dam/payback/portal/icons/my_transaction_icon.png" title="My Transactions" alt="My Transactions">
                                                 My Transactions</a>
                                         </li>
                             <li>
-                                    <a href="javascript:void(0);" title="Change Pin" onclick="redirectToLogin('/home/login.html','/home/change-pin.html','strong', 'true');">
+                                    <a href="javascript:void(0);" title="Change Pin" onclick="redirectToLogin('/home/login.html','/home/change-pin.html?icid=changepin','strong', 'true');">
                                                 <img src="/content/dam/payback/portal/icons/change_pin_icon.png" title="Change Pin" alt="Change Pin">
                                                 Change Pin</a>
                                         </li>
                             <li>
-                                    <a href="javascript:void(0);" title="Order Tracking" onclick="redirectToLogin('/home/login.html','/home/order-tracking.html','strong', 'true');">
+                                    <a href="javascript:void(0);" title="Order Tracking" onclick="redirectToLogin('/home/login.html','/home/order-tracking.html?icid=ordertracking','strong', 'true');">
                                                 <img src="/content/dam/payback/portal/icons/order_tracking_icon.png" title="Order Tracking" alt="Order Tracking">
                                                 Order Tracking</a>
                                         </li>
                             <li>
-                                    <a href="javascript:void(0)" title="Logout" onclick="logOut('/home.html')">
-                                                  <img title="Logout" alt="Logout" src="/content/dam/payback/portal/icons/log_out_icon.png">
-                                                  Logout</a>
+                                    <a href="javascript:void(0);" title="Logout" onclick="redirectToLogin('/home/login.html','/home.html','strong', 'true');">
+                                                <img src="/content/dam/payback/portal/icons/log_out_icon.png" title="Logout" alt="Logout">
+                                                Logout</a>
                                         </li>
                             </ul>
                     </div>
@@ -811,84 +816,94 @@
         <div class="collapse navbar-collapse pb-smart-navbar" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
 			<li>
-	            	 <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" onclick="navigateToLinkTarget('','_self');">
-                                        <span class="bdr" title="EARN POINTS">EARN POINTS</span>
-                                        <span class="caret"></span>
-                                        </a>
-                                    <ul class="dropdown-menu">
+	            	 <a href="" target="_self">
+                                             <span class="bdr" title="EARN POINTS">EARN POINTS</span>
+                                             <span class="caret"></span>
+                                             </a>
+                                     <ul class="dropdown-menu">
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('http://shoponline.payback.in?icid=header|bingo', '_self')">
-                                                                          <span title="EARN POINTS">SHOP ONLINE VIA BINGO</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="EARN POINTS">ONLINE SHOPPING</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.payback.in/home/partner-brands.html?icid=header|bingopartner', '_self')">
-                                                                          <span title="EARN POINTS">SHOP AT PARTNERS</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="EARN POINTS">SHOP AT PARTNERS</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.payback.in/home/storelocator.html?icid=header|storelocator', '_self')">
-                                                                          <span title="EARN POINTS">SHOP AT NEARBY STORES</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="EARN POINTS">SHOP AT NEARBY STORES</span>
+                                                                       </a>
+                                                                     </li>
+                                                <li role="separator" class="divider"></li>
+                                            <li>
+                                                    <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.gyftr.com/voucherworld?icid=header|earnvouchers', '_blank')">
+                                                                           <span title="EARN POINTS">INSTANT VOUCHERS</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             </ul>
                                     </li>
 
 			<li>
-	            	 <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" onclick="navigateToLinkTarget('','_self');">
-                                        <span class="bdr" title="REDEEM POINTS">REDEEM POINTS</span>
-                                        <span class="caret"></span>
-                                        </a>
-                                    <ul class="dropdown-menu">
+	            	 <a href="" target="_self">
+                                             <span class="bdr" title="REDEEM POINTS">REDEEM POINTS</span>
+                                             <span class="caret"></span>
+                                             </a>
+                                     <ul class="dropdown-menu">
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://rewards.payback.in?icid=header|infinity', '_self')">
-                                                                          <span title="REDEEM POINTS">INFINITY REWARDS CATALOGUE</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="REDEEM POINTS">REWARDS CATALOGUE</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.payback.in/home/redeem-partners.html?icid=header|infinitypartner', '_self')">
-                                                                          <span title="REDEEM POINTS">REDEEM AT PARTNERS</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="REDEEM POINTS">REDEEM AT PARTNERS</span>
+                                                                       </a>
+                                                                     </li>
+                                                <li role="separator" class="divider"></li>
+                                            <li>
+                                                    <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.gyftr.com/voucherworld?icid=header|redeemvouchers', '_blank')">
+                                                                           <span title="REDEEM POINTS">INSTANT VOUCHERS</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             </ul>
                                     </li>
 
 			<li>
-	            	 <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" onclick="navigateToLinkTarget('','_self');">
-                                        <span class="bdr" title="OFFER ZONE">OFFER ZONE</span>
-                                        <span class="caret"></span>
-                                        </a>
-                                    <ul class="dropdown-menu">
+	            	 <a href="" target="_self">
+                                             <span class="bdr" title="OFFER ZONE">OFFER ZONE</span>
+                                             <span class="caret"></span>
+                                             </a>
+                                     <ul class="dropdown-menu">
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.payback.in/home/offers.html?icid=header|offers', '_blank')">
-                                                                          <span title="OFFER ZONE">OFFERS</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="OFFER ZONE">OFFERS</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.payback.in/home/recharge-offers.html?icid=header|recharge', '_blank')">
-                                                                          <span title="OFFER ZONE">RECHARGE</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="OFFER ZONE">RECHARGE</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             <li>
                                                     <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.payback.in/home/coupons.html?icid=header|coupon', '_blank')">
-                                                                          <span title="OFFER ZONE">COUPONS</span>
-                                                                     </a>
-
-                                                                  </li>
+                                                                           <span title="OFFER ZONE">COUPONS</span>
+                                                                       </a>
+                                                                     </li>
+                                                <li role="separator" class="divider"></li>
+                                            <li>
+                                                    <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://www.gyftr.com/voucherworld/offers?utm_source=voucherworld%2F29-08-2017?icid=header|offervouchers', '_blank')">
+                                                                           <span title="OFFER ZONE">VOUCHERS</span>
+                                                                       </a>
+                                                                     </li>
                                                 <li role="separator" class="divider"></li>
                                             </ul>
                                     </li>
@@ -896,16 +911,14 @@
 			<li class="last-row">
                <div class="col-xs-6">
                  <div class="row text-center">
-                  Download App<div>
-                       <img src="/content/dam/payback/portal/icons/ios.png" title="Download iOS APP" alt="Download iOS APP" width="15" height="20">
-                            <img src="/content/dam/payback/portal/icons/android.png" title="Download Android APP" alt="Download Android APP" width="15" height="20">
-                            </div>
+                  <div>
+                       </div>
                  </div>
                </div>
                <div class="col-xs-6">
                  <div class="row text-center">
-                   <a href="/content/payback/home/contactcenter.contactus.html" target="_self" title="Customer Care">Customer Care</a>
-                    </div>
+                   <a href="/home/contactcenter.contactus.html" target="_self" title="Customer Care">Customer Care</a>
+                   </div>
                </div>
                <div class="clearfix"></div>
              </li>
@@ -933,13 +946,13 @@
                 </h5>
             </div>
             <div class="modal-body mb-pop">
-                 <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://itunes.apple.com/in/app/payback-india/id961049647?mt=8&amp;ign-mpt=uo%3D4','_blank')" title="Download iOS APP">
-                        <img src="/content/dam/payback/portal/icons/apple-popup.png" title="Download iOS APP" alt="Download iOS APP" width="25" height="30">
-                    </a>
-                <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&amp;hl=en','_blank')" title="Download Android APP">
-                        <img src="/content/dam/payback/portal/icons/android-popup.png" title="Download Android APP" alt="Download Android APP" width="25" height="30">
-                    </a>
-                </div>
+                 <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://itunes.apple.com/in/app/payback-india/id961049647?mt=8&amp;ign-mpt=uo%3D4','_blank')" title="">
+                            <img src="/content/dam/payback/portal/icons/ios.png" title="" alt="" width="25" height="30">
+                        </a>
+                    <a href="javascript:void(0);" onclick="navigateToLinkTarget('https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&amp;hl=en','_blank')" title="">
+                            <img src="/content/dam/payback/portal/icons/android.png" title="" alt="" width="25" height="30">
+                        </a>
+                    </div>
         </div>
     </div>
 </div>
@@ -949,17 +962,26 @@
 
 <div class="container pr">
         <div id="content" class="row">
-            <div class="parsys mainParsys"><div class="brandshop section"><section class="brand-shop">
-    <div class="home-row">
-        <div class="brand-shop-strip text-center" style="background-color:#ffffff">
+            <div class="breadcrumb"><section class="breadcrumb-links">
+    		  <div class="center">
+      		  <ul class="list-inline"><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/content/payback"><span itemprop="title">Home </span></a><i class="fa fa-angle-right rt-arrow" aria-hidden="true"></i><i class="fa fa-angle-right rt-arrow" aria-hidden="true"></i></li>Privacy Policy</ul>
+    </div>
+
+  </section>
+
+</div>
+<div class="parsys mainParsys"><div class="brandshop section"><section class="brand-shop">
+
+    <div class="home-row" data-display-elements="5">
+    <div class="brand-shop-strip text-center" style="background-color:#ffffff">
                 <h2 style="color:#0046aa !important;font-family:PB-Regular;font-size:20px">Privacy Policy</h2>
                 </div>
         <div class="owl-carousel-outer-wrap">
-            <div class="owl-carousel owl-theme owl-demo-three">
-                </div>
-        </div>
+        <div class="owl-carousel owl-theme owl-demo-three-brand">
+            </div>
     </div>
-</section></div>
+</div>
+    </section></div>
 <div class="staticblock section">
 
 
@@ -1109,210 +1131,200 @@ In the event you have any queries or issues in relation to collection or usage o
 	var cardType="5";
 </script>
 <div class="container pr">
-	<footer>
-		<div class="row">
-			<div class="pb-footer-wrap clearfix" style="background-color:#FFFFFF;">
-				<div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
-						<p><strong style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">PAYBACK<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
-						<ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 16px; color: rgb(128, 128, 128) !important; display: none;">
-							<a href="/home/contact-us.html?icid=footer|contactus" title="Contact Us" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Contact Us</li>
-								</a>
-							<a href="/home/about-payback.html?icid=footer|aboutus" title="About Us" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">About Us</li>
-								</a>
-							<a href="/home/careers.html?icid=footer|careers" title="Careers" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Careers</li>
-								</a>
-							<a href="/home/faq.html?icid=footer|faq" title="FAQs" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">FAQs</li>
-								</a>
-							</ul>
-					</div>
-				<div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
-						<p><strong style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">DO MORE<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
-						<ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 16px; color: rgb(128, 128, 128) !important; display: none;">
-							<a href="javascript:void(0);" title="Bingo" onclick="navigateToLinkTarget('http://shoponline.payback.in','_blank')">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Bingo</li>
-								</a>
-							<a href="javascript:void(0);" title="Infinity Rewards" onclick="navigateToLinkTarget('http://rewards.payback.in','_blank')">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Infinity Rewards</li>
-								</a>
-							<a href="/home/insurance.html?icid=footer|insurance" title="Insurance" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Insurance</li>
-								</a>
-							<a href="/home/partner-brands.html?icid=footer|partners" title="Partners" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Partners</li>
-								</a>
-							<a href="/home/storelocator.html?icid=footer|storelocator" title="Store Locator" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Store Locator</li>
-								</a>
-							</ul>
-					</div>
-				<div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
-						<p><strong style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">OFFERS &amp; PROMOTIONS<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
-						<ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 16px; color: rgb(128, 128, 128) !important; display: none;">
-							<a href="/home/recharge-offers.html?icid=footer|recharge" title="Recharge Offers" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Recharge Offers</li>
-								</a>
-							<a href="/home/offers.html?icid=footer|oz" title="Offer Zone" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Offer Zone</li>
-								</a>
-							<a href="/home/coupons.html?icid=footer|coupons" title="Discount Coupons" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Discount Coupons</li>
-								</a>
-							</ul>
-					</div>
-				<div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
-						<p><strong style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">POLICIES<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
-						<ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 16px; color: rgb(128, 128, 128) !important; display: none;">
-							<a href="/home/privacy-policy.html?icid=footer|policy" title="Privacy Policy" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Privacy Policy</li>
-								</a>
-							<a href="/home/my-profile.html?icid=footer|myprofile" title="User Account" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">User Account</li>
-								</a>
-							<a href="/home/order-tracking.html?icid=footer|shipment" title="Shipment" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Shipment</li>
-								</a>
-							<a href="/home/terms-and-conditions.html" title="Terms and Conditions" target="_blank">
-									<li style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">Terms and Conditions</li>
-								</a>
-							</ul>
-					</div>
-				<div class="col-lg-15 col-md-12 pb-footer text-center" style="background-color:#FFFFFF;">
-					<ul class="list-unstyled footer-social-icons">
-						<a href="https://www.facebook.com/PaybackIndia" title="Follow us on Facebook" target="_blank">
-								<li>
-							<img alt="Follow us on Facebook" src="/content/dam/payback/portal/icons/facebook.png" height="45" width="45">
-							</li>
-							</a>
-						<a href="https://twitter.com/PAYBACKIndia?lang=en" title="Follow us on Twitter" target="_blank">
-								<li>
-							<img alt="Follow us on Twitter" src="/content/dam/payback/portal/icons/twitter.png" height="45" width="45">
-							</li>
-							</a>
-						<a href="https://www.instagram.com/payback_india/" title="Follow us on Instagram" target="_blank">
-								<li>
-							<img alt="Follow us on Instagram" src="/content/dam/payback/portal/icons/insta.png" height="45" width="45">
-							</li>
-							</a>
-						</ul>
-					<div class="store-wrap">
-						<a href="https://itunes.apple.com/in/app/payback-india/id961049647?mt=8&amp;ign-mpt=uo%3D4" title="Download PAYBACK App from iOS" target="_blank">
-								<img alt="" src="/content/dam/payback/portal/icons/app_store.png" width="150" height="50">
-							</a>
-						<a href="https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&amp;hl=en" title="Download PAYBACK App from Play Store" target="_blank">
-								<img alt="" src="/content/dam/payback/portal/icons/play_store.png" width="150" height="50">
-							</a>
-						</div>
-				</div>
-			</div>
-			<div class="col-lg-12 text-center cr-strip" style="background-color:#FFFFFF;">
-				<p style="font-family:PB-Regular;font-size:16px;color:#808080 !important;">© Copyright 2016, Loyalty Solutions &amp; Research Pvt Ltd. All rights reserved</p>
-			</div>
-			</div>
-	</footer>
-	<div id="top">
-		<span class="glyphicon glyphicon-chevron-up"></span>
-	</div>
-	<!--Signup Modal -->
-	<div class="modal lgin-sgup-mdl signup-modal fade" id="signup-modal" tabindex="-1" role="dialog" aria-labelledby="LoginModal">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content container-fluid">
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-				<!-- Modal Content -->
-				<div class="row">
-					<div class="col-sm-12 signup-new">
-						<div class="modal-header su-title">
-							<!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
-							<h4 class="modal-title text-center">
-								<span>Sign Up</span>
-								<hr class="bg-line">
-							</h4>
-						</div>
-						<form form-horizontal="" text-center="" id="signEnrollmentCheckForm" autocomplete="off" onsubmit="return false;">
-						<div class="modal-body">
-							<div class="col-sm-6 pd5">
-								<input type="text" maxlength="10" id="mobileNumber" name="mobileNumber" class="form-control" placeholder="Mobile Number" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" onfocusout="validateFieldSignupPop('mobileNumber',this,'MNOnfocusout')">
-								<span id="phoneNumErr" class="signupError">Invalid Phone Number</span>
-							</div>
-							<div class="col-sm-6 pd5">
-								<input type="text" id="emailId" name="emailId" oncontextmenu="return false" oncopy="return false" onpaste="return false" oncut="return false" class="form-control" placeholder="E-mail" onfocusout="validateFieldSignupPopEmail('emailId',this,'EmailOnfocusout')">
-								<span id="emailIdErr" class="signupError">Invalid Email Id</span>
-							</div>
-							<div class="clearfix"></div>
-							<div class="col-sm-2 pd5">
-								<select id="salutation" class="form-control mr-field pd5">
-									<option name="inlineSelectOptions" id="mr" value="Mr" selected="">Mr</option>
-									<option name="inlineSelectOptions" id="mrs" value="Mrs">Mrs</option>
-									<option name="inlineSelectOptions" id="ms" value="Ms">Ms</option>
-								</select>
-							</div>
-							<div class="col-sm-5 pd5">
-								<input type="text" id="firstName" name="firstName" class="form-control name-field" placeholder="First Name">
-							</div>
-							<div class="col-sm-5 pd5">
-								<input type="text" id="lastName" name="lastName" class="form-control name-field" placeholder="Last Name">
-							</div>
-							<div class="clearfix"></div>
-							<div class="col-sm-6 pd5">
-								<div class="required clearfix">
-									<div class="cal-holder" id="fromDateDobi">
-										<input type="text" class="myDatePicker form-control pb-card-no pb-date-enrolment hasDatepicker" id="fromDateDob" name="fromDate" placeholder="Date of Birth">
-											<input type="hidden" id="fromDateHidden">
-											<i class="fa fa-calendar" aria-hidden="true"></i>
-									</div>
-								</div>
-							</div>
-							<div class="col-sm-6 pd5">
-								<input type="text" id="pincode" name="pincode" class="form-control" placeholder="Pin Code" maxlength="6" onkeyup="keyCodeCheck(event,this);">
-							</div>
-							<!--
-								<div class="col-sm-12 pd5">
-								    <input type="text" class="form-control" placeholder="Promo Code (Optional)">
-								</div>
-								-->
-							<div class="clearfix"></div>
-							<div class="col-sm-6 w48 pd5">
-								<div class="clearfix">
-									<label class="mt10">PIN</label>
-								</div>
-								<div class="col-xs-3 pd5 ml-5">
-									<input type="password" id="pinOnePop" name="pinOne" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
-								<div class="col-xs-3 pd5">
-									<input type="password" id="pinTwoPop" name="pinTwo" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
-								<div class="col-xs-3 pd5">
-									<input type="password" id="pinThreePop" name="pinThree" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
-								<div class="col-xs-3 pd5">
-									<input type="password" id="pinFourPop" name="pinFour" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
 
-							<div class="clearfix"></div>
-							</div>
-							<div class="col-sm-6 pd5 pull-right mr-10">
-								<div class="clearfix">
-									<label class="mt10">Confirm PIN</label>
-								</div>
-								<div class="col-xs-3 pd5 ml-5">
-									<input type="password" id="pinFivePop" name="pinFive" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
-								<div class="col-xs-3 pd5">
-									<input type="password" id="pinSixPop" name="pinSix" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
-								<div class="col-xs-3 pd5">
-									<input type="password" id="pinSevenPop" name="pinSeven" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
-								<div class="col-xs-3 pd5">
-									<input type="password" id="pinEightPop" name="pinEight" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
-								</div>
+<footer>
+<div class="row">
+    <div class="pb-footer-wrap clearfix" style="background-color:#FFFFFF;">
+        <div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
+                <p><strong style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">PAYBACK<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
+                <ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 14px; color: rgb(128, 128, 128) !important; display: none;">
+                    <a href="/home/contact-us.html?icid=footer|contactus" title="Contact Us" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Contact Us</li>
+                        </a>
+                    <a href="/home/about-payback.html?icid=footer|aboutus" title="About Us" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">About Us</li>
+                        </a>
+                    <a href="/home/careers.html?icid=footer|careers" title="Careers" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Careers</li>
+                        </a>
+                    <a href="/home/faq.html?icid=footer|faq" title="FAQs" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">FAQs</li>
+                        </a>
+                    </ul>
+            </div>
+        <div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
+                <p><strong style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">DO MORE<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
+                <ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 14px; color: rgb(128, 128, 128) !important; display: none;">
+                    <a href="javascript:void(0);" title="Online Shopping" onclick="navigateToLinkTarget('http://shoponline.payback.in','_blank')">
+                                       <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Online Shopping</li>
+                        </a>
+                    <a href="javascript:void(0);" title="Rewards Catalogue" onclick="navigateToLinkTarget('http://rewards.payback.in','_blank')">
+                                       <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Rewards Catalogue</li>
+                        </a>
+                    <a href="/home/insurance.html?icid=footer|insurance" title="Insurance" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Insurance</li>
+                        </a>
+                    <a href="/home/partner-brands.html?icid=footer|partners" title="Partners" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Partners</li>
+                        </a>
+                    <a href="/home/storelocator.html?icid=footer|storelocator" title="Store Locator" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Store Locator</li>
+                        </a>
+                    </ul>
+            </div>
+        <div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
+                <p><strong style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">OFFERS &amp; PROMOTIONS<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
+                <ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 14px; color: rgb(128, 128, 128) !important; display: none;">
+                    <a href="/home/recharge-offers.html?icid=footer|recharge" title="Recharge Offers" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Recharge Offers</li>
+                        </a>
+                    <a href="/home/offers.html?icid=footer|oz" title="Offer Zone" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Offer Zone</li>
+                        </a>
+                    <a href="/home/coupons.html?icid=footer|coupons" title="Discount Coupons" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Discount Coupons</li>
+                        </a>
+                    </ul>
+            </div>
+        <div class="col-lg-15 col-md-12 pb-footer" style="background-color:#FFFFFF;">
+                <p><strong style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">POLICIES<span class="glyphicon collapse-icon glyphicon-chevron-right"></span></strong></p>
+                <ul class="list-unstyled pb-collapse" style="font-family: PB-Regular; font-size: 14px; color: rgb(128, 128, 128) !important; display: none;">
+                    <a href="/home/privacy-policy.html?icid=footer|policy" title="Privacy Policy" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Privacy Policy</li>
+                        </a>
+                    <a href="javascript:void(0);" title="User Account" onclick="loginRedirection('/home/my-profile.html?icid=footer|myprofile','strong', '_blank')">
+                                <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">User Account</li>
+                        </a>
+                    <a href="javascript:void(0);" title="Shipment" onclick="loginRedirection('/home/order-tracking.html?icid=footer|shipment','strong', '_blank')">
+                                <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Shipment</li>
+                        </a>
+                    <a href="/home/terms-and-conditions.html" title="Terms and Conditions" target="_blank">
+                                        <li style="font-family:PB-Regular;font-size:14px;color:#808080 !important;">Terms and Conditions</li>
+                        </a>
+                    </ul>
+            </div>
+        <div class="col-lg-15 col-md-12 pb-footer text-center" style="background-color:#FFFFFF;">
+            <ul class="list-unstyled footer-social-icons">
+                <a href="https://www.facebook.com/PaybackIndia" title="Follow us on Facebook" target="_blank">
+                        <li>
+                            <img alt="Follow us on Facebook" src="/content/dam/payback/portal/icons/facebook.png" height="45" width="45">
+                        </li>
+                    </a>
+                <a href="https://twitter.com/PAYBACKIndia?lang=en" title="Follow us on Twitter" target="_blank">
+                        <li>
+                            <img alt="Follow us on Twitter" src="/content/dam/payback/portal/icons/twitter.png" height="45" width="45">
+                        </li>
+                    </a>
+                <a href="https://www.instagram.com/payback_india/" title="Follow us on Instagram" target="_blank">
+                        <li>
+                            <img alt="Follow us on Instagram" src="/content/dam/payback/portal/icons/insta.png" height="45" width="45">
+                        </li>
+                    </a>
+                </ul>
+            <div class="store-wrap">
+                <a href="https://itunes.apple.com/in/app/payback-india/id961049647?mt=8&amp;ign-mpt=uo%3D4" title="Download PAYBACK App from iOS" target="_blank">
+                        <img alt="" src="/content/dam/payback/portal/icons/app_store.png" width="150" height="50">
+                    </a>
+                <a href="https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&amp;hl=en" title="Download PAYBACK App from Play Store" target="_blank">
+                        <img alt="" src="/content/dam/payback/portal/icons/play_store.png" width="150" height="50">
+                    </a>
+                </div>
+        </div>
+    </div>
+    <div class="col-lg-12 text-center cr-strip" style="background-color:#FFFFFF;">
+        <p style="font-family:PB-Regular;font-size:10px;color:#808080 !important;">© 2017. Loyalty Solutions &amp; Research Pvt Ltd. All rights reserved</p>
+    </div>
+    </div>
+</footer>
 
+
+<div id="top">
+<span class="glyphicon glyphicon-chevron-up"></span>
+</div>
+
+
+<!--Signup Modal -->
+<div class="modal lgin-sgup-mdl signup-modal fade" id="signup-modal" tabindex="-1" role="dialog" aria-labelledby="LoginModal">
+<div class="modal-dialog" role="document">
+    <div class="modal-content container-fluid">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <!-- Modal Content -->
+        <div class="row">
+            <div class="col-sm-12 signup-new">
+
+                <div class="modal-header">
+                    <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
+                    <h4 class="modal-title text-center">
+                        <span>Sign Up</span>
+                        <hr class="bg-line">
+                    </h4>
+                </div>
+
+                <form form-horizontal="" text-center="" id="signEnrollmentCheckForm" autocomplete="off" onsubmit="return false;">
+                    <div class="modal-body">
+
+                        <div class="col-sm-6 pd5">
+                            <input type="text" maxlength="10" id="mobileNumber" name="mobileNumber" class="form-control" placeholder="Mobile Number" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" onfocusout="validateFieldSignupPop('mobileNumber',this,'MNOnfocusout')">
+                            <span id="phoneNumErr" class="signupError">Invalid Phone Number</span>
+                        </div>
+
+                        <div class="col-sm-6 pd5">
+                            <input type="text" id="emailId" name="emailId" oncontextmenu="return false" oncopy="return false" onpaste="return false" oncut="return false" class="form-control" placeholder="E-mail Address" onfocusout="validateFieldSignupPopEmail('emailId',this,'EmailOnfocusout')">
+                            <span id="emailIdErr" class="signupError">Invalid Email Id</span>
+                        </div>
+
+                        <div class="col-sm-2 pd5">
+                            <select id="salutation" class="form-control mr-field">
+                              <option name="inlineSelectOptions" id="mr" value="Mr" selected="">Mr</option>
+                              <option name="inlineSelectOptions" id="mrs" value="Mrs">Mrs</option>
+                              <option name="inlineSelectOptions" id="ms" value="Ms">Ms</option>
+                            </select>
+                        </div>
+
+                        <div class="col-sm-5 pd5">
+                            <input type="text" id="firstName" name="firstName" class="form-control name-field" placeholder="First Name">
+                        </div>
+
+                        <div class="col-sm-5 pd5">
+                            <input type="text" id="lastName" name="lastName" class="form-control name-field" placeholder="Last Name">
+                        </div>
+
+                        <div class="col-sm-6 pd5">
+                           <div class="required clearfix">
+                               <div>
+                                   <input type="text" class="myDatePicker form-control pb-card-no pb-date-enrolment hasDatepicker" id="fromDateDob" name="fromDate" placeholder="Date of Birth" readonly=""> <input type="hidden" id="fromDateHidden">
+                               </div>
+                           </div>
+                        </div>
+
+                        <div class="col-sm-6 pd5">
+                            <input type="text" id="pincode" name="pincode" class="form-control" placeholder="Pin Code" maxlength="6" onkeyup="keyCodeCheck(event,this);">
+                        </div>
+
+                        <!--
+                        <div class="col-sm-12 pd5">
+                            <input type="text" class="form-control" placeholder="Promo Code (Optional)">
+                        </div>
+                        -->
+
+                        <div class="clearfix">
+                            <label class="mt10">Password</label>
+                        </div>
+                            <div class="col-xs-3 pd5">
+                                <input type="password" id="pinOnePop" name="pinOne" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
+                            </div>
+                            <div class="col-xs-3 pd5">
+                                <input type="password" id="pinTwoPop" name="pinTwo" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
+                            </div>
+                            <div class="col-xs-3 pd5">
+                                <input type="password" id="pinThreePop" name="pinThree" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
+                            </div>
+                            <div class="col-xs-3 pd5">
+                                <input type="password" id="pinFourPop" name="pinFour" class="form-control text-center box-pin1" onkeyup="this.value = this.value.replace(/[^0-9]/g,'')" maxlength="1" placeholder="">
+                            </div>
 							<div class="clearfix"></div>
 							</div>
-						</div>
+						</form></div>
 						<div class="modal-footer">
 							<div class="captcha">
 								<div>
@@ -1332,7 +1344,7 @@ In the event you have any queries or issues in relation to collection or usage o
 							<hr>
 							<div class="prom-info mt10">Already have a PAYBACK Account? <a href="">Click here</a> to login</div>
 						</div>
-					</form></div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -1363,14 +1375,9 @@ In the event you have any queries or issues in relation to collection or usage o
 						<img src="/content/dam/payback/portal/icons/insta.png" title="Follow us on Instagram" alt="Follow us on Instagram" height="30" width="30">
 					</li>
 				</a>
-			<a href="javascript:void(0);" class="clearfix" onclick="takeTourUserGuide()" id="takeTourBtn">
-					<li class="tour-wrap">
-						<img src="/content/dam/payback/portal/HelpScreen/take_a_tour2.png" class="tour">
-					</li>
-				</a>
 			</ul>
 	</div>
-	</div></div>
+	</div>
 
 <div class="add-overlay"></div>
 
@@ -1439,7 +1446,7 @@ var profileRedirectionPath = "/home/my-profile.html";
             <div class="form-group clearfix" id="phoneNumberWrap">
                 <label for="exampleInputEmail1" class="col-sm-4 control-label">PAYBACK Card Number / Mobile Number:</label>
                 <div class="col-sm-8">
-                    <input type="text" class="form-control pb-card-no login-text" id="phonenumber" name="phonenumber" placeholder="Please enter your 16 digit PAYBACK card number or 10 digit mobile number to login" maxlength="16" onkeyup="this.value = this.value.replace(/[^0-9]/g,'');checkCardLength()">
+                    <input type="text" class="form-control pb-card-no login-text" id="phonenumber" name="phonenumber" placeholder="Please enter your 16 digit PAYBACK card number or 10 digit mobile number to login" maxlength="16" onkeyup="keyCodeCheck(event,this);">
                     <div id="forgotPinError" class="error" style="display: none">Please enter a valid PAYBACK Card number or mobile number!</div>
                 </div>
             </div>
@@ -1707,7 +1714,7 @@ var profileRedirectionPath = "/home/my-profile.html";
                     <div class="col-sm-6 signup">
                         <div class="process-img">
                             <div class="row">
-                                <img src="/content/dam/payback/portal/7thAugust15/2016/April/MainCarousel/sgnup-bg.jpg" class="img-responsive" alt="">
+                                <img src="/content/dam/payback/portal/7thAugust15/2017/Aug17/maincarousal/PB-general_redirect-login-popup_1.jpg" class="img-responsive" alt="">
                             </div>
                         </div>
                         <div class="modal-footer">
@@ -1821,7 +1828,7 @@ var profileRedirectionPath = "/home/my-profile.html";
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1593815217582796&ev=PageView&noscript=1"/></noscript>
     <!-- End Facebook Pixel Code -->
 
-  <!-- Google Tag Manager -->
+    <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -1844,6 +1851,7 @@ var profileRedirectionPath = "/home/my-profile.html";
     <!-- End Twitter universal website tag code -->
 
     <div id="pixelData"></div>
+
 
 
 <script src="/etc/designs/paybackcorporate/clientlibs/js/notie.js"></script><div id="notie-alert-outer" style="position: fixed; top: 0px; left: 0px; z-index: 999999999; height: auto; width: 100%; display: none; text-align: center; cursor: pointer;"><div id="notie-alert-inner" style="padding: 7px; display: table-cell; vertical-align: middle;"><span id="notie-alert-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div></div><div id="notie-confirm-outer" style="position: fixed; top: 0px; left: 0px; z-index: 999999998; height: auto; width: 100%; display: none; text-align: center;"><div id="notie-confirm-inner" style="box-sizing: border-box; width: 100%; padding: 20px; display: block; cursor: default; background-color: rgb(77, 130, 214);"><span id="notie-confirm-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div><div id="notie-confirm-yes" style="float: left; height: 50px; line-height: 50px; width: 50%; cursor: pointer; background-color: rgb(87, 191, 87);"><span id="notie-confirm-yes-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div><div id="notie-confirm-no" style="float: right; height: 50px; line-height: 50px; width: 50%; cursor: pointer; background-color: rgb(225, 113, 91);"><span id="notie-confirm-no-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div></div><div id="notie-confirm-background" style="position: fixed; top: 0px; left: 0px; z-index: 999999997; height: 100%; width: 100%; display: none; background-color: white; transition: all 0.3s ease 0s; opacity: 0;"></div><div id="notie-input-outer" style="position: fixed; top: 0px; left: 0px; z-index: 999999998; height: auto; width: 100%; display: none; text-align: center;"><div id="notie-input-inner" style="box-sizing: border-box; width: 100%; padding: 20px; display: block; cursor: default; background-color: rgb(77, 130, 214);"><span id="notie-input-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div><div id="notie-input-div" style="box-sizing: border-box; height: 55px; width: 100%; display: block; cursor: default; background-color: rgb(255, 255, 255);"><input id="notie-input-field" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" style="box-sizing: border-box; height: 55px; width: 100%; text-align: center; text-indent: 10px; padding-right: 10px; outline: 0px; border: 0px; font-family: inherit; font-size: 24px;"></div><div id="notie-input-yes" style="float: left; height: 50px; line-height: 50px; width: 50%; cursor: pointer; background-color: rgb(87, 191, 87);"><span id="notie-input-yes-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div><div id="notie-input-no" style="float: right; height: 50px; line-height: 50px; width: 50%; cursor: pointer; background-color: rgb(225, 113, 91);"><span id="notie-input-no-text" style="color: rgb(255, 255, 255); font-size: 24px;"></span></div></div><div id="notie-input-background" style="position: fixed; top: 0px; left: 0px; z-index: 999999997; height: 100%; width: 100%; display: none; background-color: white; transition: all 0.3s ease 0s; opacity: 0;"></div>
