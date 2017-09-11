@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acornonline.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606060240id_/http%3A//www.acornonline.com/info/privacy.hzml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acornonline.com privacy policy that was archived on 2017-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170911071050id_/http%3A//www.acornonline.com/info/privacy.hzml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -44,57 +44,145 @@
 	<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 	<![endif]-->
 	
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://d1n00d49gkbray.cloudfront.net/js/acornonline.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/2zLeDoGoJZddmvCkTOi4Vm1JRRTWkzwclO6HSdsP/widget.js"></script><script type="text/javascript"> (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=!0, e.src="//staticw2.yotpo.com/2zLeDoGoJZddmvCkTOi4Vm1JRRTWkzwclO6HSdsP/widget.js";var t=document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e,t)})(); </script>	
-<script src="https://origin.extole.io/acorn-online/core.js" async=""></script>
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=36978779"></script></head>
+
+	
+
+	
+	
+
+
+<!-- **** GTM **** -->
+<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/194708717163009452/bc.vms4/vms.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TVBQWVC"></script><script>
+
+window.dataLayer = window.dataLayer || []; 
+window.pageItemsObject = window.pageItemsObject || {}; // collects product impressions (see footer)
+window.cartItemsObject = window.cartItemsObject || {};  // collects items in cart (see below)
+window.cartItemsArray = window.cartItemsArray || []; // array of cart items generated from cartItemsObject
+window.cartItemsDelimited = window.cartItemsDelimited || { skuids: [], quantities: [], prices: [] };
+window.itemsAdded = []; 
+window.itemsRemoved = [];
+
+
+	
+
+
+
+function productClick(e, productObj) {
+    
+    e.preventDefault();
+    
+    var newUrl = productObj.url;
+        
+    var requestTimer = setTimeout(function(){
+        document.location = newUrl;
+    }, 1500);   
+
+    if (window.google_tag_manager) {
+	    window.dataLayer.push({
+	        'event': 'productClick',
+	        'ecommerce': {
+	            'click': {
+	                'actionField': {
+	                    'list': productObj.list
+	                },
+	                'products': [{
+	                    'name': productObj.name,
+	                    'id': productObj.id,
+	                    'price': productObj.price,
+	                    'category': productObj.category,
+	                    'position': productObj.position
+	                }]
+	            }
+	        },
+	        'eventCallback': function() {
+	            clearTimeout(requestTimer);
+	            document.location = newUrl;
+	        }
+	    });
+    } else {
+        clearTimeout(requestTimer);
+        document.location = newUrl;        
+    }
+}
+function checkoutClick(e, page) {
+    
+    e.preventDefault();
+    
+    if (!page) {
+        page = 'CHECKOUT'
+    }
+    
+    var requestTimer = setTimeout(function(){
+        document.location = 'https://www.acornonline.com/cgi-bin/hazel.cgi?action=' + page;
+    }, 1500);   
+
+    if (window.google_tag_manager) {
+	    window.dataLayer.push({
+	        'event': 'checkout',
+	        'ecommerce': {
+	            'checkout': {
+	                'actionField': { 'step': 1 },
+	                'products': window.cartItemsArray
+	            }
+	        },
+	        'eventCallback': function() {
+	            clearTimeout(requestTimer);
+	            document.location = 'https://www.acornonline.com/cgi-bin/hazel.cgi?action=' + page;
+	        }
+	    });
+    } else {
+        clearTimeout(requestTimer);
+        document.location = 'https://www.acornonline.com/cgi-bin/hazel.cgi?action=' + page;        
+    }	    
+}
+
+
+window.dataLayer.push({
+	pagePath: '',
+	pageType: 'PRIVACY',
+	deviceType: 'DESKTOP',
+						
+	cIdent: '',
+		
+				
+	
+	sessionPhase: 'Shopping'
+
+});
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TVBQWVC');
+
+ 
+
+
+
+
+
+
+
+
+</script>
+
+<!-- END **** GTM **** -->	
+
+	</head>
 
 <body id="body">
-<script>
-var versaTag = {};
-versaTag.id = "6377";
-versaTag.sync = 0;
-versaTag.dispType = "js";
-versaTag.ptcl = "HTTPS";
-versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
-versaTag.activityParams = {
-"Session":""
-};
-versaTag.retargetParams = {};
-versaTag.dynamicRetargetParams = {};
-versaTag.conditionalParams = {};
-</script>
-<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
-<noscript>
-<iframe src="https://bs.serving-sys.com/BurstingPipe?
-cn=ot&amp;
-onetagid=6377&amp;
-ns=1&amp;
-activityValues=$$Session=[Session]$$&amp;
-retargetingValues=$$$$&amp;
-dynamicRetargetingValues=$$$$&amp;
-acp=$$$$&amp;"
-style="display:none;width:0px;height:0px"></iframe>
-</noscript>
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVBQWVC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	
+	
 	<div class="top__navigation--holder text-right">
 		<div class="container">
 						<a class="top__navigation--email" id="optin" href="http://www.acornonline.com/tools/email_capture.html">Email Sign-up</a>
 			<a class="top__navigation--account" href="https://www.acornonline.com/members/index.hzml" id="link_myaccount">My Account</a>
 			<a class="top__navigation--support" href="https://www.acornonline.com/info/customerservice.hzml" id="link_orderstatus">Customer Service</a>
-			<span id="extole-zone-global_header"></span>
-			<script type="text/javascript">
-			    (function(c,b,f,k,a){c[b]=c[b]||{};for(c[b].q=c[b].q||[];a<k.length;)f(k[a++],c[b])})(window,"extole",function (c,b){b[c]=b[c]||function (){b.q.push([c,arguments])}},["createZone"],0);
-			    extole.createZone({
-			        name: "global_header",
-			        element_id: "extole-zone-global_header",
-			        parameters: {
-						"email": "",
-						"first_name": "",
-						"last_name": "",
-						"partner_user_id": ""
-			        }
-			    });
-			</script>			
+			<span id="extole-zone-global_header"></span>		
 		</div>
 	</div>
 	<div class="container">
@@ -103,10 +191,33 @@ style="display:none;width:0px;height:0px"></iframe>
 				<div class="logo__holder">
 					<a href="http://www.acornonline.com" title="Acorn" id="link_logo"><img src="assets/images/smalllogo9.jpg" alt="Acorn logo"></a>
 				</div>
-				<div class="toll__free--phone">
-										<div class="top__order--label">Order toll free <a href="tel:1-844-734-8468" class="telephone" id="link_storephone">1-844-734-8468</a></div>
-										<div class="live__chat--header" id="link_livechatheader"><div id="LP_DIV_1438104674115" style="width:189px;height:24px;display: inline;"></div></div>
-					
+				<div class="center-header-container">
+					<div class="center-header-left">
+						 <a href="tel:1-844-734-8468" id="link_tel"><img src="/assets/images/new_order_toll_free.png"></a>
+					</div>
+					<div class="center-header-right">
+<!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=ACO Header Button,Website=Acornonline.com -->
+<div style="text-align: center; white-space: nowrap;">
+<script type="text/javascript">
+  var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+  window._bcvma = window._bcvma || [];
+  _bcvma.push(["setAccountID", "194708717163009452"]);
+  _bcvma.push(["setParameter", "WebsiteID", "3815541605478846017"]);
+  _bcvma.push(["addStatic", {type: "chat", bdid: "2204439429942974306", id: bccbId}]);
+  var bcLoad = function(){
+    if(window.bcLoaded) return; window.bcLoaded = true;
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/194708717163009452/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  };
+  if(window.pageViewer && pageViewer.load) pageViewer.load();
+  else if(document.readyState=="complete") bcLoad();
+  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+  else window.attachEvent('onload', bcLoad);
+</script><div id="0.0727749705969869"></div>
+</div>
+<!-- /BoldChat Live Chat Button HTML v5.00 -->			
+											</div>
 				</div>
 				<div class="search__holder">
 					<form class="form-inline" role="form" id="sspring" action="http://www.acornonline.com/cgi-bin/hazel.cgi" method="GET">
@@ -124,19 +235,42 @@ style="display:none;width:0px;height:0px"></iframe>
 			<div class="checkout">
 				<span class="secure__shopping">100% Secure Shopping Cart</span>
 				<a href="http://www.acornonline.com/cgi-bin/hazel.cgi?action=VIEW" class="view__cart" id="link_viewcart"><span id="cartquantity">0 Items</span> <span id="carttotal"></span></a>
-								<a id="link_checkout" class="btn btn-default btn-checkout" href="https://www.acornonline.com/cgi-bin/hazel.cgi?ACTION=CHECKOUT">Checkout Now</a>
+								<a id="link_checkout" class="btn btn-default btn-checkout" onclick="checkoutClick(event)" href="https://www.acornonline.com/cgi-bin/hazel.cgi?ACTION=CHECKOUT">Checkout Now</a>
 			</div>
 		</header>
 		<header class="mobile">
 			<div class="top__order--label">Order toll free <a href="tel:1-844-734-8469" id="link_mobile_tel" class="telephone">1-844-734-8469</a></div>
-			<div class="settings"><a href="javascript:void(0);" id="mob-shopping"><i class="glyphicon glyphicon-user"></i></a></div>
-			<div class="top__login-msg"></div>
-			
+			<div class="boldchat-mobile">
+				<!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=acornonline.com,Department=- None -,Website=Acornonline.com -->
+				<div style="text-align: center; white-space: nowrap;" class="boldchat-mobile-content">
+				<script type="text/javascript">
+				  var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+				  window._bcvma = window._bcvma || [];
+				  _bcvma.push(["setAccountID", "194708717163009452"]);
+				  _bcvma.push(["setParameter", "WebsiteID", "3815541605478846017"]);
+				  _bcvma.push(["setParameter", "CustomUrl", ""]);
+				  _bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="]);
+				  _bcvma.push(["addText", {type: "chat", window: "5265725752813305445", available: "Click Here to chat", unavailable: "Leave a message", id: bccbId}]);
+				  var bcLoad = function(){
+				    if(window.bcLoaded) return; window.bcLoaded = true;
+				    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+				    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/194708717163009452/bc.vms4/vms.js";
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+				  };
+				  if(window.pageViewer && pageViewer.load) pageViewer.load();
+				  else if(document.readyState=="complete") bcLoad();
+				  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+				  else window.attachEvent('onload', bcLoad);
+				</script><div id="0.112599652373923"></div>
+				</div>
+				<!-- /BoldChat Live Chat Button HTML v5.00 -->		
+			</div>			
 			<nav>
 				<ul class="main__menu--mobile">
 					<li><a href="http://www.acornonline.com" id="link_mobile_logo" title="Acorn" class="mobile-logo"><img src="assets/images/smalllogo9.jpg" alt="Acorn logo"></a></li>
 					<li><a href="javascript:void(0);" title="Acorn" class="menu" id="mob-menu"><img src="assets/images/mob-menu.svg"></a></li>
-										<li><a href="http://www.acornonline.com/cgi-bin/hazel.cgi?action=VIEW" id="link_mobile_cart" title="Acorn" class="shopping"><span class="mobile-quantity"></span><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
+					<li style="padding-right: 0px;"><div class="settings"><a href="javascript:void(0);" class="menu" id="mob-shopping"><i class="glyphicon glyphicon-user"></i></a></div></li>
+					<li><a href="http://www.acornonline.com/cgi-bin/hazel.cgi?action=VIEW" id="link_mobile_cart" title="Acorn" class="shopping"><span class="mobile-quantity"></span><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
 				</ul>		
 				<ul class="mob-menu">
 															<li><a id="link_mobile_DVD" href="javascript:void(0);">DVD</a>
@@ -281,7 +415,7 @@ style="display:none;width:0px;height:0px"></iframe>
 			</form>
 			<ul class="mob-shopping">
 				<li><a id="link_mobile_shoppingmenu_cart" href="http://www.acornonline.com/cgi-bin/hazel.cgi?action=VIEW">VIEW CART</a></li>
-				<li><a id="link_mobile_shoppingmenu_checkout" href="http://www.acornonline.com/cgi-bin/hazel.cgi?action=CHECKOUT">CHECKOUT</a></li>			
+				<li><a id="link_mobile_shoppingmenu_checkout" onclick="checkoutClick(event)" href="http://www.acornonline.com/cgi-bin/hazel.cgi?action=CHECKOUT">CHECKOUT</a></li>			
 				<li><a id="optin" href="https://www.acornonline.com/tools/email_capture.html">E-MAIL SIGNUP</a></li>
 				<li><a id="link_mobile_shoppingmenu_account" href="https://www.acornonline.com/members/">MY ACCOUNT / ORDER STATUS</a></li>
 				<li><a id="link_mobile_shoppingmenu_customerservice" href="http://www.acornonline.com/info/customerservice.hzml">CUSTOMER SERVICE</a></li>
@@ -684,6 +818,7 @@ style="display:none;width:0px;height:0px"></iframe>
 			</ul>
 			<ul>
 				<li><a id="link_footer_shoppinghelp" href="http://www.acornonline.com/info/customerservice.hzml"><strong>Shopping With Us</strong></a></li>
+				<li><a id="link_footer_guarantee" href="http://www.acornonline.com/info/reviews.hzml">Reviews</a></li>
 				<li><a id="link_footer_guarantee" href="http://www.acornonline.com/info/about.hzml">Our Guarantee</a></li>
 				<li><a id="link_footer_faq" href="http://www.acornonline.com/info/faq.hzml">Shipping Information</a></li>
 				<li><a id="link_footer_returns" href="http://www.acornonline.com/info/customerservice.hzml#returns">Returns</a></li>
@@ -813,101 +948,77 @@ $(document).ready(function () {
 
 
 
+<span id="extole-zone-overlay"></span>
 
 
-<link rel="stylesheet" type="text/css" href="//cdn.searchspring.net/autocomplete/autocomplete-v2.css">
-<script type="text/javascript" src="//cdn.searchspring.net/autocomplete/searchspring-autocomplete.min.js"></script><script>
-    SearchSpring.Autocomplete.init({
-        siteId: 'rp255j',
-        queryClass: 'searchspring-query'
-    });
+
+<script>
+
+
+//send clicks from searchspring results.  data needs to be scraped off the data-* attrs
+//that live inside the opening div of the thumbnail container.
+		
+	
+
+// $('.ss_product_link').on('click', function(e) {
+// 	var dataElement = $(this).closest('.product--container');
+	
+// 	var ssClickObject = {
+// 		'name': dataElement.data('name'),
+// 		'id': dataElement.data('id'),
+// 		'price': dataElement.data('price'),
+// 		'category': ssBreadcrumb,
+// 		'list': '',
+// 		'position': dataElement.data('position'),
+// 		'url': dataElement.data('url')
+// 	};		
+// 	console.log("ssClickObject", ssClickObject);
+// 	productClick(e, ssClickObject);
+// 	alert("ss_click");
+// });
+
+// collect pageitemsobject impressions
+if (typeof window.pageItemsObject !== 'undefined' && Object.keys(window.pageItemsObject).length) {
+    var impressions = [];  
+	Object.keys(window.pageItemsObject).forEach(function(key) {
+    	impressions.push(window.pageItemsObject[key]);
+	});
+	window.dataLayer.push({
+		'event': 'productImpressions',	    
+	    'ecommerce': {
+	      'impressions': impressions
+	    }
+	}); 	
+}
 </script>
 
 	
 
 
-<!-- BEGIN LivePerson Monitor. -->
+	
+
+
+
+
+	
+	
+
 <script type="text/javascript">
-window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'36978779',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-901883-1', 'auto');
+   
+     
+      
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures'); 
+  ga('send', 'pageview');
+
+			
 </script>
-<!-- END LivePerson Monitor. -->
-
-
-
-	
-	<span id="extole-zone-overlay"></span>
-	<script type="text/javascript">
-	    (function(c,b,f,k,a){c[b]=c[b]||{};for(c[b].q=c[b].q||[];a<k.length;)f(k[a++],c[b])})(window,"extole",function (c,b){b[c]=b[c]||function (){b.q.push([c,arguments])}},["createZone"],0);
-	    extole.createZone({
-	        name: "overlay",
-	        element_id: "extole-zone-overlay",
-	        parameters: {
-				"email": "",
-				"first_name": "",
-				"last_name": "",
-				"partner_user_id": ""
-	        }
-	    });
-	</script>
-
-		<script type="text/javascript">
-	(function(w,d,s,sr,c){w[sr]=w[sr]||[]; var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src= d.location.protocol+'//d1n00d49gkbray.cloudfront.net/js/'+c+'.js';f.parentNode.insertBefore(j,f); })(window,document,'script','_smtr','acornonline')
-	</script>
-
-			<script type="text/javascript" src="//cdn.searchspring.net/intellisuggest/is.min.js"></script>
-		
-					
-		
-								
-				
-					
-		<script type="text/javascript">
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	  ga('create', 'UA-901883-1', 'auto');
-	   
-	  	   
-	  	    
-	  ga('require', 'linkid', 'linkid.js');
-	  ga('require', 'displayfeatures'); 
-	  ga('send', 'pageview');
-	  
-				
-	</script>
-		
-		
-				
-				
-			<script type="text/javascript">
-	try{
-	    IntelliSuggest.init({siteId:"rp255j"});
-	    IntelliSuggest.viewPage();
-	} catch (e) {}
-	</script>
-		
-	
-		<script> 
-	var $buoop = {
-		vs:{i:8,f:5,o:12,s:6,c:21},c:2,
-		reminder: 24,
-		onshow: function(infos){
-			ga('send', 'event', 'oldbrowser', 'view', 'oldbrowser_msg_seen', undefined, {'nonInteraction': 1});
-			var newText = "We're sorry, but you will be unable to complete your order using this browser. To assure your security and best shopping experience, we would suggest that you <a href=\"http://browser-update.org/update-browser.html\">update your browser</a>. If you would prefer to place your order over the phone, agents are available 24 hours a day. 1-844-734-8468.";
-			$(".buorg").children("div").html(newText);
-		}
-	}; 
-	function $buo_f(){ 
-	 var e = document.createElement("script"); 
-	 e.src = "/common/js/update.min.js"; 
-	 document.body.appendChild(e);
-	};
-	try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
-	catch(e){window.attachEvent("onload", $buo_f)}
-	</script> 	
-	
 
 
 
@@ -949,10 +1060,13 @@ function execEOsubmit(expressdiv) {
 
 
 <div id="cart-url" data-cart-url="" style="display: none;"></div>
+
+
   
+
 
     
 
 
 
-<script src="/common/js/update.min.js"></script></body></html>
+</body></html>
