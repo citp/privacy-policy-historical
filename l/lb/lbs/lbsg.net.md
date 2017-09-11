@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbsg.net privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405175356id_/https%3A//lbsg.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbsg.net privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911105511id_/https%3A//lbsg.net/privacy-policy) for the most accurate reproduction.*
 
 # Lifeboat Privacy Policy - Lifeboat Network
 
