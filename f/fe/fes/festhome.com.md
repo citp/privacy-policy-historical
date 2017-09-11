@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205644id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911065004id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -120,7 +120,7 @@ Please let us know if the personal information that we hold about you is in need
 
 * ### Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info@festhome.com or by post to 1-3 Floor, 124 Baker Street, W1U 6TY, London, United Kingdom.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@festhome.com or by post to 1-3 Floor, 124 Baker Street, W1U 6TY, London, United Kingdom.
 
 * ### Data controller
 
