@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the freebies4mom.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107170908id_/http%3A//freebies4mom.com/2007/10/07/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebies4mom.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911111415id_/https%3A//freebies4mom.com/2007/10/07/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-by on October 7, 2007 2:52 pm
 
 _This Privacy Policy for Freebies4Mom.com, a personal blog, was last updated on  March 19, 2015.  
 _
 
-This blog, _Freebies 4 Mom_ , is a personal blog written and edited by Heather Hernandez of Freebies 4 Mom, LLC and found at http://Freebies4Mom.com. For questions about this blog, please [**contact Heather**](http://freebies4mom.com/contact/).
+This blog, _Freebies 4 Mom_ , is a personal blog written and edited by Heather Hernandez of Freebies 4 Mom, LLC and found at http://Freebies4Mom.com. For questions about this blog, please [**contact Heather**](https://freebies4mom.com/contact/).
 
 **Privacy Policy**
 
@@ -20,5 +18,4 @@ Cookies are collected by third party vendors, including Google, to serve ads bas
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  **[http://www.networkadvertising. org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
 
-Please **[contact Heather Hernandez](http://freebies4mom.com/contact/) **if you have any questions about this Privacy Policy. You may also be interested in reading my [**Disclosure Policy**](http://wp.me/p1vcSC-7Z9 "Disclosure Policy") and my [**Disclaimer Policy**](http://wp.me/p1vcSC-7Z8 "Disclaimer Policy").
-  *[October 7, 2007 2:52 pm]: 2007-10-07
+Please **[contact Heather Hernandez](https://freebies4mom.com/contact/) **if you have any questions about this Privacy Policy. You may also be interested in reading my [**Disclosure Policy**](http://wp.me/p1vcSC-7Z9 "Disclosure Policy") and my [**Disclaimer Policy**](http://wp.me/p1vcSC-7Z8 "Disclaimer Policy").
