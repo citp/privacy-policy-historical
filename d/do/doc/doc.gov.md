@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521140658id_/https%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911062605id_/https%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Commerce
 
