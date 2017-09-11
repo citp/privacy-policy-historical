@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622145010id_/https%3A//iccwbo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911134420id_/https%3A//iccwbo.org/privacy) for the most accurate reproduction.*
 
 # Privacy - ICC - International Chamber of Commerce
 
