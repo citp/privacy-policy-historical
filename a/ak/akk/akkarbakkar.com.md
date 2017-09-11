@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the akkarbakkar.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126122359id_/https%3A//www.akkarbakkar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akkarbakkar.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911075654id_/https%3A//www.akkarbakkar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AkkarBakkar
 
-AkkarBakkar.com is owned and operated by AkkarBakkar. (“AkkarBakkar,” “we,” or “us”). AkkarBakkar is a storytelling platform. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. 
+AkkarBakkar.com is owned by AkkarBakkar and being operated by Keep Kaam LLP. (“AkkarBakkar,” “we,” or “us”). AkkarBakkar is a storytelling platform. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. 
 
-  1. [How We Collect and Use Information](http://www.akkarbakkar.com/privacy/#collection)
-  2. [Sharing of Your Information](http://www.akkarbakkar.com/privacy/#sharing)
-  3. [How We Store and Protect Your Information](http://www.akkarbakkar.com/privacy/#storage)
-  4. [Your Choices About Your Information](http://www.akkarbakkar.com/privacy/#your-choices)
-  5. [Links to Other Websites and Services](http://www.akkarbakkar.com/privacy/#external)
-  6. [How to Contact Us](http://www.akkarbakkar.com/privacy/#contact)
-  7. [Changes to Our Privacy Policy](http://www.akkarbakkar.com/privacy/#changes)
+  1. [How We Collect and Use Information](https://www.akkarbakkar.com/privacy/#collection)
+  2. [Sharing of Your Information](https://www.akkarbakkar.com/privacy/#sharing)
+  3. [How We Store and Protect Your Information](https://www.akkarbakkar.com/privacy/#storage)
+  4. [Your Choices About Your Information](https://www.akkarbakkar.com/privacy/#your-choices)
+  5. [Links to Other Websites and Services](https://www.akkarbakkar.com/privacy/#external)
+  6. [How to Contact Us](https://www.akkarbakkar.com/privacy/#contact)
+  7. [Changes to Our Privacy Policy](https://www.akkarbakkar.com/privacy/#changes)
 
 
 
@@ -85,4 +85,4 @@ AkkarBakkar may modify or update this Privacy Policy from time to time to refle
 
 * * *
 
-_This policy was last modified on 23rd January, 2017._
+_This policy was last modified on 2nd February, 2017._
