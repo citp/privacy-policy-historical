@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtggoldfish.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312132715id_/https%3A//www.mtggoldfish.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtggoldfish.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911042920id_/https%3A//www.mtggoldfish.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy &amp; Terms of Use
+# Privacy Policy & Terms of Use
 
 **Browse >** [Home](https://web.archive.org/) / Company / Privacy Policy 
 
@@ -8,7 +8,7 @@
 
 Updated Mar. 17, 2016
 
-Welcome to the MTGGoldfish Website. MTGGoldfish, Inc. is a Delaware Company, based in California. (MTGGoldfish). This Privacy Policy governs the use of the MTGGoldfish Website. When using or accessing the MTGGoldfish Website, you are agreeing to be bound to the terms within this Privacy Policy and the [Terms of Use](https://web.archive.org/policies/terms-of-use) policy. This policy may refer to users as “you” or “user” and may refer to MTGGoldfish as “us,” “we,” or “our.” If you do not agree to the terms within this Privacy Policy and the corresponding [Terms of Use](https://web.archive.org/policies/terms-of-use), do not access or use the MTGGoldfish Website.
+Welcome to the MTGGoldfish Website. The MTGGoldfish Website is owned and operated by MTGGoldfish Inc., a Delaware Company, based in California. (MTGGoldfish). This Privacy Policy governs the use of the MTGGoldfish Website. When using or accessing the MTGGoldfish Website, you are agreeing to be bound to the terms within this Privacy Policy and the [Terms of Use](https://web.archive.org/policies/terms-of-use) policy. This policy may refer to users as “you” or “user” and may refer to MTGGoldfish as “us,” “we,” or “our.” If you do not agree to the terms within this Privacy Policy and the corresponding [Terms of Use](https://web.archive.org/policies/terms-of-use), do not access or use the MTGGoldfish Website.
 
 ### PERSONAL INFORMATION STORED BY MTGGOLDFISH
 
@@ -58,7 +58,7 @@ The MTGGoldfish Website is directed to adults, over the age of 18. MTGGoldfish d
 
 MTGGoldfish welcomes residents of the State of California to use its Website, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Please send a written request to MTGGoldfish, Inc., 210 S Ellsworth Ave #96, San Mateo, CA 94401.
 
-Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. If you have any questions contact MTGGoldfish, contact@mtggoldfish.com
+Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. If you have any questions contact MTGGoldfish, contact@mtggoldfish.com.
 
 ### USER ACCESS AND CONTROL
 
