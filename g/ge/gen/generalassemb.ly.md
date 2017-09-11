@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182617id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911092444id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
 
 # General Assembly
 
 **Effective Date: December 15, 2013**   
-**Last Updated: September 29, 2016**
+**Last Updated: June 21, 2017**
 
 ### TABLE OF CONTENTS
 
@@ -19,6 +19,7 @@
   * CHILDREN'S PRIVACY
   * EXTERNAL LINKS
   * EU AND INTERNATIONAL USERS
+  * TRANSERS OF PERSONAL INFORMATION TO THE UNITED STATES: OUR COMMITMENT TO THE PRIVACY SHIELD
   * UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
   * CHANGES TO OUR PRIVACY POLICY AND PRACTICES
   * CONTACT INFORMATION
@@ -27,7 +28,7 @@
 
 ### INTRODUCTION
 
-This privacy policy ( **"Privacy Policy"** ) is incorporated by reference into the General Assembly [Terms of Use](https://generalassemb.ly/terms_of_service). The terms **"General Assembly," "we," and "us"** include General Assembly Space, Inc., a Delaware corporation, General Assembly Space, Limited, a United Kingdom limited company, General Assembly Limited, a Hong Kong limited company, General Assembly Australia Pty Ltd., an Australian proprietary limited company, and General Assembly Space Academy Pte. Ltd., a Singapore private limited company. 
+This privacy policy ( **"Privacy Policy"** ) is incorporated by reference into the General Assembly [Terms of Use](https://generalassemb.ly/terms_of_service). The terms **"General Assembly," "we," and "us"** include General Assembly Space, Inc., a Delaware corporation, General Assembly Space, Limited, a United Kingdom limited company, General Assembly Limited, a Hong Kong limited company, General Assembly Australia Pty Ltd., an Australian proprietary limited company, and General Assembly Space Academy Pte. Ltd., a Singapore private limited company, and Bitmaker Labs Inc., an Ontario corporation. 
 
 This Privacy Policy explains how General Assembly may collect, use, disclose and secure the personally identifiable information ( **"Personal Information"** ) that we obtain through the General Assembly website (the **“Site”** ) and the General Assembly Service, which includes all General Assembly online and offline products and services (the **"Service"** ). By using the Site or the Service you are authorizing us to gather and retain data related to the provision of the Site and Service in accordance with this Privacy Policy, and (for non-EU residents) you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with General Assembly or the Site or Service will be in accordance with the [Terms of Use](https://generalassemb.ly/terms_of_service). 
 
@@ -145,9 +146,23 @@ The Site or Service may, from time to time, contain links to external websites. 
 
 The Site and the Service are operated in the United States. If you are located outside of the United States, please be aware that the information we collect about you, including Personal Information, will be transferred to the United States. By using the Site or Service, you consent to the transfer, processing and storage of your information, including Personal Information, in the United States in accordance with this Privacy Policy.
 
-If you are located in the United Kingdom, for purposes of the Data Protection Act 1998, General Assembly Space, Limited is the data controller with respect to any information collected by it in the United Kingdom and then transferred to General Assembly Space, Inc. in the United States. 
+### TRANSFERS OF PERSONAL INFORMATION TO THE UNITED STATES: OUR COMMITMENT TO THE PRIVACY SHIELD
 
-General Assembly and its affiliated entities and subsidiaries adhere to the US-EU Privacy Shield Principles, which can be found here: https://www.privacyshield.gov. GA is committed to following Privacy Shield principles, including those regarding collection, use, retention, notice, choice, onward transfer, and security, for all personal data received from individuals in the EU and Switzerland in reliance on the Privacy Shield. As part of our participation in the Privacy Shield certification program, we agree to resolve disputes you have with us in connection with our policies and practices through cooperation with the EU data protection authorities (DPA) and compliance with advice as presented by EU DPA panels, in accordance with Privacy Shield principles. For more information on the dispute resolution process, please contact us at privacy@ga.co. As explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. General Assembly is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Please see elsewhere in this Policy for more information on: types of personal data collected, purposes for data collection, types of third parties receiving personal data and purposes of disclosure to such parties, GA’s liability for onward transfer of personal data, rights of individuals to access data, choices for individuals regarding limitation and disclosure of data, and GA’s obligation to disclose data in response to valid national security and law enforcement requests. 
+If you are located in the United Kingdom, for purposes of the Data Protection Act 1998, General Assembly Space, Limited is the data controller with respect to any information collected by it in the United Kingdom and then transferred to General Assembly Space, Inc. in the United States.
+
+General Assembly Space, Inc. adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles, which can be found here: https://www.privacyshield.gov. General Assembly Space, Inc. is committed to complying with the Privacy Shield principles, including those regarding collection, use, retention, notice, choice, onward transfer, and security, for all Personal Information received from individuals in the European Union and Switzerland in reliance on the Privacy Shield. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern. To learn more about the Privacy Shield Framework, and to view our certification, please visit https://www.privacyshield.gov/. 
+
+As part of our participation in the EU-U.S. and Swiss-U.S. Privacy Shield certification programs, we have further committed to refer unresolved Privacy Shield complaints to JAMS. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit https://www.jamsadr.com/eu-us-privacy-shield or to file a complaint visit https://www.jamsadr.com/eu-us-privacy-shield. The services of JAMS are provided at no cost to you. 
+
+EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield practices should first contact us at privacy@ga.co. All emails received will be handled by a representative of our Legal Department. For more information on the dispute resolution process, please contact us at privacy@ga.co. As explained in the Privacy Shield principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. 
+
+General Assembly is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). In certain situations, General Assembly Space, Inc. may be required to disclose Personal Information in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. 
+
+General Assembly Space, Inc. is responsible and remains liable for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. General Assembly Space, Inc. complies with the Privacy Shield principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of the Privacy Shield principles. 
+
+Please see elsewhere in this Privacy Policy for more information on: types of personal data collected, purposes for data collection, types of third parties receiving personal data and purposes of disclosure to such parties. 
 
 ### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
@@ -165,4 +180,4 @@ General Assembly
 902 Broadway, 4th Floor  
 New York, New York, 10010
 
-[privacy@ga.co](https://web.archive.org/web/20170606182617id_/https%3A//generalassemb.ly/privacy@ga.co)
+[privacy@ga.co](https://web.archive.org/web/20170911092444id_/https%3A//generalassemb.ly/privacy@ga.co)
