@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unice.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016215123id_/http%3A//www.unice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unice.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911212755id_/https%3A//www.unice.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | UNice
 
@@ -6,13 +6,13 @@ Thank you for visiting the UNice Hair Individual Malll.
 
 Your privacy is important to us and we want to protect your personal information. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information as well as the steps we have taken to secure your personal information. In addition, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
 
-**This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.**
+ **This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.**
 
-**We are not responsible for the content or privacy practices on any web site not operated by Beauty and Hair to which the Site links or that links to the Site.**
+ **We are not responsible for the content or privacy practices on any web site not operated by Beauty and Hair to which the Site links or that links to the Site.**
 
-**COLLECTION AND USE OF INFORMATION**
+ **COLLECTION AND USE OF INFORMATION**
 
-**1\. Information Collection.**
+ **1\. Information Collection.**
 
 We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
@@ -30,12 +30,12 @@ We collect information from you in several different ways on this Site. One goal
 
 (c) Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
 
-**2\. Information Use and Disclosure.**
+ **2\. Information Use and Disclosure.**
 
 (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites' content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under Beauty and Hair's control.
 
 (b) Communications with You: We will use your personal information to communicate with you about the Site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to register for a contest or sweepstakes; to request us to notify you of new brands, new product styles, or product sizes; or to sign up for email newsletters and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt-out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
 
-**UPDATES TO THIS POLICY**
+ **UPDATES TO THIS POLICY**
 
 If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 0086 15837472067 or unicehairmall@unice.com
