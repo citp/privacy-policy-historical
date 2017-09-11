@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322074653id_/https%3A//www.transunion.ca/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911083250id_/https%3A//transunion.ca/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TransUnion Canada
 
