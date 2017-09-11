@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualspirits.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621020808id_/http%3A//www.virtualspirits.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualspirits.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911020616id_/https%3A//www.virtualspirits.com/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
