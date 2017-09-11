@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the phonebooks.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606074319id_/http%3A//www.phonebooks.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phonebooks.com privacy policy that was archived on 2017-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170911054829id_/http%3A//www.phonebooks.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>PhoneBooks.com Privacy Policy</title>
 <meta name="description" content="Phonebooks.com Privacy Policy.">
@@ -20,7 +21,7 @@ function clearText(field){
 <!--
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 -->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body>
 <div id="container">
 <div id="header">
@@ -54,12 +55,14 @@ function clearText(field){
 <div style="clear:both;"></div>
 </div>
 </div><div id="content">
-<div id="widesearchbox">
-<form action="http://www.phonebooks.com/search.php" method="get">
+<div id="homewidesearchbox">
+<table cellpadding="5">
+<tbody><tr><td><img src="http://www.phonebooks.com/images/person.png" alt="Lookup Someone"></td><td><h2>Lookup SOMEONE</h2></td></tr>
+</tbody></table>
+<form action="http://www.phonebooks.com/search.php" method="get" style="margin:0;padding:0;">
 <input name="type" value="name" type="hidden">
 <table width="100%" cellpadding="1">
-<tbody><tr><td>First Name</td><td>Last Name</td><td>City, State or Zip Code</td><td></td></tr>
-<tr><td><input name="firstname" type="text" size="15"></td><td><input type="text" name="lastname"></td><td><input type="text" name="location"></td><td><input type="submit" value="Search"></td></tr>
+<tbody><tr><td><input name="firstname" type="text" value="First Name" size="12" onfocus="clearText(this)" onblur="clearText(this)"></td><td><input name="lastname" type="text" value="Last Name" size="12" onfocus="clearText(this)" onblur="clearText(this)"></td><td><input name="location" id="location" type="text" value="City, State or Zip" size="15" onfocus="clearText(this)" onblur="clearText(this)"></td><td><input type="image" name="submit" src="http://www.phonebooks.com/images/main-search.png" value="Search"></td></tr>
 </tbody></table>
 </form>
 </div>
@@ -160,23 +163,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a
 <div align="center">Copyright © 2017 Phonebooks.com</div>
 </div>
 </div>
-<script type="text/javascript">
-adroll_adv_id = "UPOVUDI3ZBHRTO2UDQKW4C";
-adroll_pix_id = "ODJVXIKGLRHPZA6QNBLXGX";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
 
 
 </body></html>
