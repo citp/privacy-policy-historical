@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperxgaming.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035010id_/http%3A//www.hyperxgaming.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperxgaming.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911060530id_/http%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Kingston
 
@@ -48,7 +48,7 @@ Kingston may collect information about you when you interact with us in the foll
 
 Information we collect is generally of two types – personally identifiable information and non-personally identifiable information.
 
-Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number.
+Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number. Personally identifiable information does not include publicly available information that is lawfully made available to the general public from federal, state or local government records.
 
 Non-personally identifiable information comprises information that does not by itself identify an individual. This information generally includes anonymous information about an individual’s use of the Website that includes, among other things, information concerning date and time of visit, the pages of the Website visited, path through the Website, IP address, the type of browser and operating system used.
 
@@ -72,7 +72,7 @@ We use your contact information to complete and support your purchases from us, 
 
 ######  Credit Card Information 
 
-When you order any product and/or request an RMA (Returned Merchandise Authorization) on our Website, you may be redirected to a third-party payment gateway service to provide your credit card information including the credit card number, card security code (also called CVV2, CVC2, CIDcode), the expiration date and the billing address. The third-party payment gateway service is fully compliant with Payment Card Industry Data Security Standard (PCI DSS) for payment processing.
+When you order any product through our Website or at a Tradeshow or request an RMA (Returned Merchandise Authorization) on our Website, you may be redirected to a third-party payment gateway service to provide your credit card information including the credit card number, card security code (also called CVV2, CVC2, CID code), the expiration date and the billing address. The third-party payment gateway service is fully compliant with Payment Card Industry Data Security Standard (PCI DSS) for payment processing.
 
 ######  Online Surveys 
 
@@ -94,7 +94,7 @@ We automatically collect certain non-personally identifiable information each ti
 
 ######  Cookies 
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit our Website. For information on the cookies we use and the purposes for which we use them, please read our [**Cookie Policy**](https://web.archive.org/web/20161119035010id_/http%3A//www.hyperxgaming.com/us/company/company/cookie_policy).
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit our Website. For information on the cookies we use and the purposes for which we use them, please read our [Cookie Policy](http://www.kingston.com/us/company/cookie_policy).
 
 ######  Log Files 
 
@@ -120,7 +120,7 @@ We may share your personally identifiable information with legal entities that a
 
 ######  Our Service Providers and Strategic Partners 
 
-We may disclose your personally identifiable information to our service providers and strategic partners. For instance (without limitation) we will disclose your credit card information to our financial service providers and banks for processing and your name and address to the delivery service we use to deliver products you purchase on the Website. These third party service providers and partners will have access to personal information needed to perform their functions but may not use it for other purposes. We may also disclose your personally identifiable information to our strategic partners so that they can provide you with information about products and services that may be of interest to you. They will contact you by electronic means only if you have consented to this. If you do not want us to pass your information on to these strategic partners, please check the relevant box situated on the form on which we collect your information.
+We may disclose your personally identifiable information to our service providers and strategic partners. For instance (without limitation) we will disclose your credit card information to our financial service providers and banks for processing and your name and address to the delivery service we use to deliver products you purchase on the Website. These third party service providers and partners will have access to personal information needed to perform their functions but may not use it for other purposes.
 
 ######  Enforcement 
 
@@ -142,9 +142,9 @@ Therefore, except as may be required by law, the Website does not knowingly coll
 
 ##### INFORMATION FOR PARENTS/GUARDIANS
 
-As a parent or guardian you can request Kingston to remove personal information pertaining toyour child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database.
+As a parent or guardian you can request Kingston to remove personal information pertaining to your child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database.
 
-All such requests should include the same user name, password and e-mail address that your child submitted and should be sent to **[sales@kingston.com](mailto:sales@kingston.com)**.
+All such requests should include the same user name, password and e-mail address that your child submitted and should be sent to [sales@kingston.com](https://web.archive.org/web/20170911060530id_/http%3A//www.kingston.com/us/company/sales@kingston.com).
 
 ##### WHERE WE STORE YOUR PERSONAL INFORMATION
 
@@ -166,13 +166,33 @@ You may also request that we remove your account information from our databases.
 
 ##### YOUR RIGHTS
 
-You have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your information) if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your information. You can also exercise the right at any time by contacting us at [**sales@kingston.com**](mailto:sales@kingston.com). Our site may, from time to time, contain links to and from the websites of third parties.
+You have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your information) if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your information. You can also exercise the right at any time by contacting us at [sales@kingston.com](mailto:sales@kingston.com). Our site may, from time to time, contain links to and from the websites of third parties.
 
-If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites. If you wish to access or update personal information held about you, or to make any enquiries about the processing of personal information, please contact us at [**sales@kingston.com**](mailto:sales@kingston.com). Any access request may be subject to an administration fee to meet our costs in providing you with details of the information we hold about you.
+If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.  If you wish to access or update personal information held about you, or to make any enquiries about the processing of personal information, please contact us at [sales@kingston.com](mailto:sales@kingston.com). Any access request may be subject to an administration fee to meet our costs in providing you with details of the information we hold about you.
 
-##### U.S.-EU SAFE HARBOR
+##### EU-U.S. Privacy Shield
 
-Kingston complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Kingston has certified that it adheres to the Safe Harbor Privacy Principles of note, choice, onward transfer, security, data integrity, access, and enforcement.
+Kingston complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Kingston has certified that it adheres to the EU-US Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability, and dispute resolution. To learn more about the Privacy Shield, please visit <http://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, Kingston commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union (EU) with inquiries or complaints regarding our Private Shield policy should first contact Kingston at:   
+Kingston Technology Company, Inc.   
+Attention: Operational Compliance  
+17600 Newhope Street  
+Fountain Valley, CA. 92708 USA
+
+Kingston has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you. To learn more about the Kingston Privacy Shield policy, please visit <http://www.kingston.com/us/company/privacyshield>.
+
+Any questions or concerns regarding the use or disclosure of Personal Data should be directed to Kingston at the address given above. Kingston will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of Personal Data in accordance with the principles contained in this Policy within 45 days of receiving a complaint.
+
+Kingston is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to Kingston’s compliance with the Privacy Shield.
+
+Kingston will obtain assurances from its Agents that they will safeguard Personal Data consistent with this policy. If Kingston has knowledge that an Agent is using or disclosing Personal Data in a manner contrary to this policy, Kingston will take reasonable steps to prevent or stop the use or disclosure.
+
+Under certain circumstances, Kingston may remain liable for the acts of its third-party agents or service providers who perform services on its behalf for their handling of personal data that Kingston transfers to them.
+
+Under certain circumstances, Kingston may be required to disclose your personal data in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
+
+Under certain circumstances, you may have the option to select binding arbitration for the resolution of your complaint.
 
 ##### CHANGES TO PRIVACY POLICY
 
