@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219041828id_/https%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911145116id_/https%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
 
 # Privacy Security
 
@@ -46,7 +46,7 @@ This allows us to report on demographics for understanding our site’s audience
 
 If you would like to opt-out of customised Google Display Network ads and Google Analytics for Display Advertising you can use [Ad Settings](https://www.google.com/settings/).
 
-Persistent cookies may be used to identify the sites you visit on the ZUJI Network and to personalise the advertising that you see when you make future visits to that site or other sites.
+Persistent cookies may be used to identify you when using ZUJI websites or make use of our services, to personalise the advertising that you see when you make future visits to that site or other sites.
 
 This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
 
