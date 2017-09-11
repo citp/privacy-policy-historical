@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617101457id_/http%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911060530id_/https%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Kingston
 
@@ -144,7 +144,7 @@ Therefore, except as may be required by law, the Website does not knowingly coll
 
 As a parent or guardian you can request Kingston to remove personal information pertaining to your child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database.
 
-All such requests should include the same user name, password and e-mail address that your child submitted and should be sent to [sales@kingston.com](https://web.archive.org/web/20170617101457id_/http%3A//www.kingston.com/us/company/sales@kingston.com).
+All such requests should include the same user name, password and e-mail address that your child submitted and should be sent to [sales@kingston.com](https://web.archive.org/web/20170911060530id_/https%3A//www.kingston.com/us/company/sales@kingston.com).
 
 ##### WHERE WE STORE YOUR PERSONAL INFORMATION
 
