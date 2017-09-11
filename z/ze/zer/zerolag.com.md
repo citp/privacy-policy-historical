@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zerolag.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507211626id_/http%3A//www.zerolag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerolag.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911055337id_/http%3A//www.zerolag.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ZeroLag Hosting
+# Privacy Policy, Managed Hosting Services - ZeroLag Hosting
 
 ### ZeroLag Communications Privacy Policy
 
