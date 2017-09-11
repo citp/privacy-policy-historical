@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edulastic.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304131228id_/https%3A//www.edulastic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edulastic.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911051643id_/https%3A//www.edulastic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
