@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504082114id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912103115id_/https%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - The Awesomer
 
