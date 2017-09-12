@@ -1,179 +1,65 @@
-> *The following text is extracted and transformed from the shoptimized.net privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028183548id_/http%3A//www.shoptimized.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptimized.net privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912221931id_/http%3A//www.shoptimized.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Shoptimized
+# Shoptimized - The Ultimate Shopify Theme
 
-Privacy Policy was updated on 2015-04-23 3:03:18
+This privacy policy sets out how shoptimized.net uses and protects any information that you give shoptimized.net when you use this website.  Shoptimized.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-Effective: December 09, 2014
+## What we collect
 
-The following describes the Privacy Policy for _http://www.shoptimized.net_
+We may collect the following information:
 
-www.shoptimized.net ("the Site") is owned and operated by Sales Funnel Conversion Ltd. is committed to protecting your personal information, being transparent about what information we collect, and giving you control over how we use it.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-For purposes of this Privacy Policy, "personal information" means information that identifies and can be used to contact a particular individual, and "non-personal information" means data in a form that does not permit direct association with any specific individual.
 
-The purpose of this privacy policy is to give you a clear explanation about how Sales Funnel Conversion Ltd. collects, uses and protects personal and non-personal information when you use our website and/or purchase our products or services, collectively called our "Services". It is important for you to read this policy in full to understand what information we hold about you, how we may use it and how you can access, update and delete your personal information. However, if you don't have time to read the whole policy now, here are the main reasons we collect different information about our users:
 
-To help us monitor, analyze and improve our Services;
+## What we do with the information we gather
 
-To obtain payment for product or service orders;
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-To fulfill product or service orders;
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-To provide you with a more personalized and valuable experience;
 
-To send you details about our Services and other information we feel is of value to you, where you have signed up to receive such marketing communications;
 
-To help sell online advertising space.
+## Security
 
-To be able to do these things, it's important we collect and analyze data including who our users are and how they use our Services.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-What Information Does Sales Funnel Conversion Ltd. Collect About Me?
+## How we use cookies
 
-We may collect information about you from a variety of sources, including information we collect from you directly; information we collect about you when you visit our sites, use our services, or view our online advertisements; and information we collect about you from other sources (where permitted by law).
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Information you provide directly:
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We collect information directly from you when you choose to participate in our offers and programs or otherwise provide information directly to us. The following are examples of information we may collect directly from you:
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Information we collect when you visit our sites, use our services, or view our online advertisements:
+## Links to other websites
 
-We may use cookies, web beacons, personalized retargeting and other technologies to collect non-personal information about you when you visit our site, use our services, or view online advertisements. We use these technologies to provide you a more personalized and richer consumer experience at www.shoptimized.net. We do not store any of your personal information in cookies, web beacons or other technologies on your computer.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Third party vendors, use cookies to serve ads based on a user's prior visits to a website. This lets companies provide you with targeted advertisements which are more relevant to you and your interests. Often called **"interest based advertising"** it is done by grouping together shared interests based upon previous web browsing activity.
+## Controlling your personal information
 
-The Site may use other tracking tools, including web beacons. Web beacons are images on the Site (or in emails that the Site sends to you) that help us determine what parts of the Site you have visited, whether you have opened an email that we have sent to you, or otherwise to measure the effectiveness of the Site. These technical methods may involve the transmission of information directly to us or to a service provider authorized by us to collect information on our behalf.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Personalized retargeting is another form of internet based advertising that enables our advertiser partners to show you ads based on your online browsing away from www.shoptimized.net. For example, if you visited the website of an online book store you may start seeing adverts from the same book store displaying special offers or showing you the products that you were browsing when you come to www.shoptimized.net. This allows companies to advertise to people who previously visited their website.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@shoptimized.net
 
-Although these internet based advertising technologies can track your visits around the web they do not identify who you are personally. Even if you sign in to www.shoptimized.net, the internet based advertising data is still not linked to your personal information.
 
-The following are examples of information we may collect with these technologies:
 
-Your browser type and operating system.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Web pages you view.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to
 
-Links you click.
+Wizard of Web Ltd.
 
-IP address.
+UNIT 3, BUILDING 2  
+THE COLONY WILMSLOW  
+WILMSLOW  
+SK9 4LY
 
-Site you visited before coming to our site.
-
-Sales Funnel Conversion Ltd. emails you open and/or forward
-
-Sales Funnel Conversion Ltd. offers or links you connect to via emails.
-
-Information we collect from other sources:
-
-We may obtain information about you from other sources, including social media sharing sites and commercially available sources, such as data aggregators and public databases. The following are examples of information we may collect from other sources.
-
-Name, postal address.
-
-Age or date of birth.
-
-Income level.
-
-Marital status and number of children.
-
-Your interests such as hobbies and pets.
-
-Consumer and market research data.
-
-Purchase behavior.
-
-Publicly observed data or activities, such as blogs, videos, internet postings, user generated content, and in-store shopping behavior.
-
-The data these sources hold about you has been collected from publicly available records, such as voter registration data, or via a range of sources with your permission (such as where you have agreed, through opt-in, for your information to be shared with third parties).
-
-How Can Sales Funnel Conversion Ltd. Use My Information?
-
-_Sales Funnel Conversion Ltd._ may use the information we collect about you in the following ways:
-
-How May Sales Funnel Conversion Ltd. Share My Information?
-
-We take very seriously our responsibility to maintain your privacy with respect to your information. Accordingly, we will only share that information under these circumstances:
-
-with entities that provide services on our behalf, including website development, maintenance and support, payment processing, email distribution, and promotions management, only to the extent that these entities need the information to perform their services or as required by law, unless any additional use or sharing of the information is separately permitted under another provision of this Privacy Policy;
-
-with identified entities whose products or services you specifically use or request to receive while you use the Site;
-
-when we believe that doing so is required by law, may be necessary to protect any person's property, rights, or safety, or to investigate a potential violation of law
-
-when to do so will help to enforce any terms of use or other legal agreement, or will help resolve disputes that arise in the ordinary course of business
-
-in the event of a corporate transaction, such as a divestiture, merger,
-
-consolidation, or asset sale;
-
-in aggregated or other non-personally identifiable form; or
-
-in accordance with your consent.
-
-How Does Sales Funnel Conversion Ltd. Protect My Information?
-
-We will take reasonable and appropriate technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
-
-However, you acknowledge that the transmission of information over the internet is inherently insecure, and no method of data transmission or storage can be guaranteed 100% secure. Accordingly, we cannot guarantee the security of any data you transmit to us via the internet or archive at this site.
-
-Your Choice And Control Of Your Information
-
-1\. You have the choice to opt out of having your information used or disclosed for certain purposes.
-
-**Opting out of collection of Personal Information:** You may, of course, decline to submit any Personal Information through www.shoptimized.net, in which case www.shoptimized.net may not be able to provide certain services to you.
-
-**Opting out of collection of Non-Personal Information:** You have the choice to delete and disable cookies, and other tracking/recording tools that collect non-personal information described above in this Privacy Policy. Note that disabling cookies on your mobile device or browser prevents www.shoptimized.net or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted online advertising. However, doing so may also disable many of the features available through www.shoptimized.net and therefore limit the full experience of engaging with our Service.
-
-Instructions for blocking and deleting cookies are available at <http://www.allaboutcookies.org/manage-cookies/>.
-
-You can opt out of the use of cookies by some third-party vendors by going to the Network Advertising Initiative's opt -out page located at [http:// www.networkadvertising.org/managing/opt_out.asp](http://%20www.networkadvertising.org/managing/opt_out.asp) and/or at the Digital Advertising Alliance (DAA) Consumer Choice Page: <http://www.aboutads.info/choices/>
-
-You can opt-out of the Teracent cookie at the Teracent opt-out page located at <http://www.teracent.com/about-us/opt-out>.
-
-You can also change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Please consult the "Help" section of your browser for more information. These options are sometimes referred to as "Do Not Track" choices.
-
-Because Do Not Track protocol is not yet finalized, this site's information collection and disclosure practices, and the choices that it provides to consumers, will continue to operate as described in this policy, whether or not a Do Not Track signal is received.
-
-Using this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
-
-2\. You have the choice to access, update and correct your personal information.
-
-3\. You control the communications you receive from us.
-
-We only send you promotional mobile or email messages if you explicitly ask to receive these. (You opt in). You can stop receiving promotional mobile and email messages from www.shoptimized.net by following the instructions provided in any such message you receive from www.shoptimized.net.
-
-4\. You have the choice to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.
-
-To request this information, please send a letter with your first name, last name, mailing address, and email address used to access our Service to:
-
-Sales Funnel Conversion Ltd.  
-_Suite 7_  
-_21a High Street_  
-_Bognor Regis_  
-_West Sussex_  
-_PO21 1RS  
-UK_
-
-If you are a parent or guardian who determines that your child under the age of 18 has submitted his or her personal information without your consent or knowledge, we will remove the personal information from public display, at your request. Certain postings by minors who registered to the site without parental permission may also be removed upon request, subject to applicable laws. To request the removal of information, contact the site administrator per the "Contact Us" terms, including in your request the same login or registration information that the child submitted.
-
-Changes in this Privacy Policy
-
-_Sales Funnel Conversion Ltd._ may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy in a material manner we will update the 'last modified' date at the top of this page.
-
-This Policy Is Part Of Our Terms And Conditions Of Use
-
-Our website privacy policy is a part of, and subject to, our website's terms conditions of use. You may view these terms and conditions on our website.
-
-Contact Us
-
-If you have any questions or concerns about the online Privacy Policy for this site or its implementation you may contact us at
-
-_Sales Funnel Conversion Ltd_  
-_Suite 7_  
-_21a High Street_  
-_Bognor Regis_  
-_West Sussex_  
-_PO21 1RS_  
-_UK_
-
-This document is Copyright © 2015, and licensed for use by the owner of this website at www.shoptimized.net. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
