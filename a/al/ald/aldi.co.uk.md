@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216073236id_/https%3A//www.aldi.co.uk/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912140804id_/https%3A//www.aldi.co.uk/customer-services/privacy-policy) for the most accurate reproduction.*
 
 # Customer Services - Privacy Policy - ALDI UK
 
