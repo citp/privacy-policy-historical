@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tested.website privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613224224id_/https%3A//tested.website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tested.website privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912065029id_/https%3A//tested.website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
