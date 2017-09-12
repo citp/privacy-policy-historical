@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608094408id_/http%3A//www.formistry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912112331id_/http%3A//www.formistry.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -249,7 +249,7 @@ Greenclouds Education Solutions Pvt. Ltd
 
 Gurgaon Haryana 122002 India 
 
-Email: [privacyquestions@formistry.com](https://web.archive.org/web/20170608094408id_/http://www.formistry.com/privacy-policy/privacyquestions@formistry.com)
+Email: [privacyquestions@formistry.com](https://web.archive.org/web/20170912112331id_/http%3A//www.formistry.com/privacyquestions@formistry.com)
 
 ## Emails that you send to  us
 
