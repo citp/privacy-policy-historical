@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owlting.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806081441id_/http%3A//www.owlting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlting.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912123735id_/https%3A//www.owlting.com/privacy) for the most accurate reproduction.*
 
 # OwlTing Privacy Policy
 
@@ -27,7 +27,7 @@ We collect personal data (such as account names, E-mail and password) from our v
 
 Friend Information
 
-We offer contact importer tools to help you upload your friends’ addresses so that you can find your friends on OWLTING, and invite your contacts who do not have OWLTING accounts to join. We will only use uploaded contacts to match friends on OwlTing and will Not store this information on our server. If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts’ information.
+We offer contact importer tools to help you upload your friends’ phone and email addresses so that you can find your friends on OWLTING, All data are encrypted and only used to match friends on OwlTing. If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts’ information.
 
 Facebook Connect
 
