@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630022159id_/http%3A//about.jstor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912092712id_/http%3A//about.jstor.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About JSTOR
 
@@ -6,7 +6,7 @@ This privacy statement describes how ITHAKA collects and uses the personal infor
 
 If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=2c6554b4-4b1d-4e5a-9be4-9a2ccb6ae68c "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=37a382ab-a098-4e15-b413-92dfc671e747)
 
 ## The Information ITHAKA Collects
 
@@ -28,9 +28,7 @@ In addition, ITHAKA and/or third party service providers may use technologies su
 
 As is true of most web sites, ITHAKA gathers certain information automatically and stores it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We link this automatically collected data to other information we collect about you.
 
-Technologies such as: web beacons, tags and scripts are used by ITHAKA and our affiliates, or analytics or service providers [e.g. technology providers]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole for the purposes of gathering analytics and improving site performance. We may receive data on the use of these technologies by these partners on an individual as well as aggregated basis.
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site based upon your browsing activity on the site use Local Stored Objects (“LSOs”) such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+ITHAKA and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.  You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ## Widgets
 
@@ -44,9 +42,9 @@ ITHAKA may also transfer personally identifiable information to third parties, s
 
 ITHAKA does not sell or share personal information about or the purchasing history of individual users, except as set forth above and in the following circumstances:
 
-if required to do so by law or if we believe in good faith that such action is necessary to comply with the law or a legal proceeding such as to comply to a subpoena, bankruptcy proceedings or similar legal process ;  to protect against violations of our Terms and Conditions of Use; or to protect and defend our rights and property or the rights and property of rights holders whose content is made available through ITHAKA Websites;with service providers with whom we have entered into agreements to assist us with our business operations;
+In certain situations, ITHAKA may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.  If required to do so by law or if we believe in good faith that such action is necessary to comply with the law or a legal proceeding such as to comply to a subpoena, bankruptcy proceedings or similar legal process ;  to protect against violations of our Terms and Conditions of Use; or to protect and defend our rights and property or the rights and property of rights holders whose content is made available through ITHAKA Websites;with service providers with whom we have entered into agreements to assist us with our business operations;
 
-if ITHAKA is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
+If ITHAKA is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
 
 If Ithaka S+R is contracted to provide services to third parties that involve collecting your personally identifiable information, the privacy policy governing the collection of your personally identifiable information shall be as set forth in such third parties’ privacy policies; and if you are accessing JSTOR through a token provided by your institution, on request from the institution solely for user verification purposes by the institution that provided the token; and other third parties, such as an institution with which you are affiliated, where you explicitly consent to our sharing your information.
 
@@ -66,7 +64,7 @@ In the event that we discover or are notified of a security breach where persona
 
 ## Access and Correction
 
-If you would like to review, delete or update your information, you may contact us using the contact information below. We will take reasonable steps to permit you to correct, amend, or delete information that is demonstrated to be inaccurate. We will respond to your request within a reasonable timeframe. Please note, because of the way we maintain certain services, after you delete or amend your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+Upon request ITHAKA will provide you with information about whether we hold any of your personal information.  If you would like to review, delete or update your information, you may contact us using the contact information below. We will take reasonable steps to permit you to correct, amend, or delete information that is demonstrated to be inaccurate. We will respond to your request within a reasonable timeframe. Please note, because of the way we maintain certain services, after you delete or amend your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
 You will need to provide sufficient identifying information, such as your name and email address and possible additional identifying information as a security precaution. We may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive under the circumstances, or as otherwise permitted by the Safe Harbor Principles.
 
@@ -99,4 +97,4 @@ ITHAKA
 New York, New York  
 10006
 
-_Last updated on  August 31, 2016_
+_Last updated on  August 14, 2017_
