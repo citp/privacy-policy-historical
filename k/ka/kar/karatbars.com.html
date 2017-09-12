@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the karatbars.com privacy policy that was archived on 2017-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129222255id_/https%3A//www.karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the karatbars.com privacy policy that was archived on 2017-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170913003438id_/https%3A//www.karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -23,7 +23,7 @@
     <meta name="pragma" content="no-cache">
     <meta name="title" content="Karatbars International GmbH">
 
-    <link href="favicon.ico" rel="shortcut icon">
+    <link href="https://www.karatbars.com/favicon.ico" rel="shortcut icon">
 
     <!-- JS FILES -->
     <script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/bd8be609-1af6-4d3a-b23e-909be820804c.js"></script><script src="https://www.karatbars.com/assets/js/jquery-1.20.2.min.js"></script>
@@ -79,11 +79,13 @@
             var Uhrzeit = Vorstd + Stunden + Vormin + Minuten + Vorsek + Sekunden;
             var Gesamt = Wochentagname[WoTag] + ", " + Datum + ", " + Uhrzeit;
             UhrFeld = document.getElementById("UhrFeld");
-            if (document.all) {
-                document.all.UhrFeld.innerHTML = Gesamt;
-            }
-            else {
-                UhrFeld.innerHTML = Gesamt;
+            if (UhrFeld) {
+                if (document.all) {
+                    document.all.UhrFeld.innerHTML = Gesamt;
+                }
+                else {
+                    UhrFeld.innerHTML = Gesamt;
+                }
             }
             setTimeout("ZeitAnzeigen()", 1000);
         }
@@ -93,9 +95,7 @@
     </script>
 
 </head>
-
-<body>
-
+<body class="main-body-bg">
 
 
 
@@ -104,15 +104,18 @@
     <input type="hidden" value="" name="sp" id="sp">
 </form>
 
-<div class="top-bar">
-    <div>
-        <div class="row top-menu-title">
-            <div class="cell-5 time-box" style="padding-left:5%">
-                <div id="UhrFeld">Monday, 24.02.2020, 10:23:49</div>
-            </div>
-            <div class="cell-7 right-bar top-box-menu" style="padding-right:5%">
-                <ul class="right-top top-right-menu">
-                                            <li> 
+<!-- for fixing js library bugs this segment of code are needed -->
+
+
+    <div class="top-bar">
+        <div>
+            <div class="row top-menu-title">
+                <div class="cell-5 time-box" style="padding-left:5%">
+                    <div id="UhrFeld">Monday, 24.02.2020, 10:23:53</div>
+                </div>
+                <div class="cell-7 right-bar top-box-menu" style="padding-right:5%">
+                    <ul class="right-top top-right-menu">
+                                                    <li> 
 <form name="frmchange" id="frmchange" method="POST">
     <ul id="navbar_new" class="language-menu">
         <li class="header-main-language-area" onmouseout="hidelang()" onmouseover="showlangsub()">
@@ -202,16 +205,18 @@
     }
 
 </script></li>
-                        <li><a href="index.php?page=login_1"><i class="fa fa-unlock-alt"></i>Login</a></li>
-                        <li><a href="index.php?page=signup"><i class="fa fa-user"></i>Registration</a></li>
-                        <li id="contactForm">
-                            <a onclick="loadcontactpopup();" style="cursor:pointer;"><i class="fa fa-envelope"></i>Contact</a>
-                        </li>
-                                    </ul>
+                            <li><a href="https://www.karatbars.com/index.php?page=login"><i class="fa fa-unlock-alt"></i>Login</a>
+                            </li>
+                            <li><a href="https://www.karatbars.com/index.php?page=signup"><i class="fa fa-user"></i>Registration</a></li>
+                            <li id="contactForm">
+                                <a onclick="loadcontactpopup();" style="cursor:pointer;"><i class="fa fa-envelope"></i>Contact</a>
+                            </li>
+                                            </ul>
+                </div>
             </div>
         </div>
     </div>
-</div>
+
 
 
 <div id="wrapper" class="get-root-path" getrootpath="https://www.karatbars.com">
@@ -220,113 +225,115 @@
         <div class="container1">
             <div class="header-wrapper">
                 <div class="pull-left" style="padding-left:5%">
-                    <a href="index.php"><span class="img-responsive logo" alt=""></span></a>
+                    <a href="https://www.karatbars.com/index.php"><span class="img-responsive logo" alt=""></span></a>
                 </div>
                 <div class="pull-right menu" style="padding-right:5%">
                     <nav id="responsive-menu">
                         <ul class="super-menu" id="superfish">
                             <li>
-                                <a href="index.php?page=home" class="">Home</a>
+                                <a href="https://www.karatbars.com/index.php?page=home" class="">Home</a>
                             </li>
                             <li>
-                                <a href="index.php?page=company_profile" class="arrow_menu">Business</a>
+                                <a href="https://www.karatbars.com/index.php?page=company_profile" class="arrow_menu">Business</a>
                                 <ul>
                                     <li>
-                                        <a href="index.php?page=company_profile">Company Profile</a>
+                                        <a href="https://www.karatbars.com/index.php?page=company_profile">Company Profile</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=our_philosophy">Our Philosophy</a>
+                                        <a href="https://www.karatbars.com/index.php?page=our_philosophy">Our Philosophy</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=karatbars_team">Karatbars Team</a>
+                                        <a href="https://www.karatbars.com/index.php?page=karatbars_team">Karatbars Team</a>
+                                    </li>
+                                    <!--
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=delivery_karatbars">Delivery Karatbars</a>
+                                    </li>
+                                    -->
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=world_of_charity">World of Charity</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=delivery_karatbars">Delivery Karatbars</a>
+                                        <a href="https://www.karatbars.com/index.php?page=how_charity_works">How Charity Works</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=personal_note">Personal Note</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://karatbarsmagazin.com/en/" target="_blank">Magazine</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=press" class="">Press</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.php?page=gold_history" class="arrow_menu">Gold</a>
+                                <a href="https://www.karatbars.com/index.php?page=why_buy_gold" class="arrow_menu">Gold</a>
                                 <ul>
+                                    <!--
                                     <li>
-                                        <a href="index.php?page=gold_history"><p>
-	Gold History</p></a>
+                                        <a href="https://www.karatbars.com/index.php?page=gold_history">Gold History</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=global_gold_holdings">Global Gold Holdings</a>
+                                        <a href="https://www.karatbars.com/index.php?page=global_gold_holdings">Global Gold Holdings</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=why_buy_gold"><p>
-	Why Buy Gold</p></a>
+                                        <a href="https://www.karatbars.com/index.php?page=why_buy_gold">Why Buy Gold</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=experts">Experts</a>
+                                        <a href="https://www.karatbars.com/index.php?page=experts">Experts</a>
+                                    </li>
+                                    -->
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=small_gold_bars">Small Gold Bars</a>
+                                    </li>
+                                    <!--
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=how_it_works">How It Works</a>
+                                    </li>
+                                    -->
+
+                                    <li>
+                                        <a href="https://www.karatbars.com/index.php?page=karatbars_gold">Classic Karatbar</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=small_gold_bars">Small Gold Bars</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="index.php?page=how_it_works" class="arrow_menu">Products</a>
-                                <ul>
-                                    <li>
-                                        <a href="index.php?page=how_it_works">How It Works</a>
+                                        <a href="https://www.karatbars.com/index.php?page=country_maps">Country Karatbar</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=karatbars_gold">Karatbars Gold</a>
+                                        <a href="https://www.karatbars.com/index.php?page=trading_cards">Collector Karatbar</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=country_maps">Country Cards</a>
+                                        <a href="https://www.karatbars.com/index.php?page=special_cards">Special Karatbar</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=trading_cards">Collector Cards</a>
+                                        <a href="https://www.karatbars.com/index.php?page=branding_cards">Create Your Own Card</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=special_cards">Special Cards</a>
-                                    </li>
-                                    <li>
-                                        <a href="index.php?page=branding_cards">Branding Cards</a>
+                                        <a target="_blank" href="https://www.karatbars.com/uploads/download_documents/170328_Produktbroschüre2017_EN_DE_ES_DP.pdf">Product Brochure</a>
                                     </li>
                                 </ul>
                             </li>
 
                             <li>
-                                <a href="index.php?page=world_of_charity" class="arrow_menu">World of Charity</a>
+                                <a href="https://www.karatbars.com/shop">Shop</a>
+                            </li>
+                            <li>
+                                <a href="https://www.karatbars.com/k-exchange">K-Exchange</a>
+                            </li>
+                            <li>
+                                <a href="https://www.karatbars.com/index.php?page=imprint" class="arrow_menu active">Support                                    / Imprint</a>
                                 <ul>
                                     <li>
-                                        <a href="index.php?page=world_of_charity">World of Charity</a>
+                                        <a href="https://www.karatbars.com/index.php?page=imprint">Imprint</a>
                                     </li>
                                     <li>
-                                        <a href="index.php?page=how_charity_works">How Charity Works</a>
+                                        <a href="https://www.karatbars.com/index.php?page=privacy_policy">Privacy Policy</a>
                                     </li>
+                                    <!--
                                     <li>
-                                        <a href="index.php?page=personal_note">Personal Note</a>
+                                        <a href="https://www.karatbars.com/index.php?page=faq">FAQ's</a>
                                     </li>
-                                </ul>
-                            </li>
-
-                            <li>
-                                <a href="shop">Shop</a>
-                            </li>
-                            <li>
-                                <a href="k-exchange">K-Exchange</a>
-                            </li>
-                            <li>
-                                <a href="http://www.blog-karatbars.de" target="_blank">Blog</a>
-                            </li>
-                            <li>
-                                <a href="index.php?page=imprint" class="arrow_menu active">Support                                    / FAQ</a>
-                                <ul>
-                                    <li>
-                                        <a href="index.php?page=imprint">Imprint</a>
-                                    </li>
-                                    <li>
-                                        <a href="index.php?page=privacy_policy">Privacy Policy</a>
-                                    </li>
-                                    <li>
-                                        <a href="index.php?page=faq">FAQ's</a>
-                                    </li>
+                                    -->
                                 </ul>
                             </li>
                         </ul>
@@ -335,53 +342,41 @@
             </div>
         </div>
     </div>
-</header><div class="page-in">
-    <div class="page_in">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-
-
+</header>    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="welcome">
+                    <div class="wel_cen marg50">
+                        <h2>Privacy Policy</h2>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="welcome">
-                <div class="wel_cen marg50">
-                    <h2>Privacy Policy</h2>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
+    
 <div class="container marg50">
     <div class="row">
-                            <div class="col-lg-3">
-                        <ul class="sub-menu-short short_left">
-                            <li>
-                                <a href="index.php?page=imprint">Imprint</a>
-                            </li>
-                            <li class="actives">
-                                <a href="index.php?page=privacy_policy">Privacy Policy</a>
-                            </li>
-                            <li>
-                                <a href="index.php?page=faq">FAQ's</a>
-                            </li>
-                        </ul>
-                    </div>
+            <div class="col-lg-3">
+                <ul class="sub-menu-short short_left">
+                    <li>
+                        <a href="index.php?page=imprint">Imprint</a>
+                    </li>
+                    <li class="actives">
+                        <a href="index.php?page=privacy_policy">Privacy Policy</a>
+                    </li>
+                    <!--
+                    <li >
+                        <a href="index.php?page=faq">FAQ's</a>
+                    </li>
+                    -->
+                </ul>
+            </div>
 
-                    
-        
-        <div class="col-lg-9">
-            <div class="main-content">
+            
+
+    <div class="col-lg-9">
+<div class="main-content">
 	<strong>Privacy Policy:</strong><br>
 <br>
 We collect and use your personal data only under the
@@ -444,7 +439,6 @@ destruction, unauthorized access. <br>
 <br>
 They receive at any time without giving reasons for free information about your
 stored data. You can always place your lock us in correcting the data collected, or deleted. You can always granted us permission for data collection and use without giving any reason revoked. Apply this to support@karatbars.com</div>
-
 </div>
 </div>
 
@@ -499,6 +493,27 @@ stored data. You can always place your lock us in correcting the data collected,
 
     $(document).ready(function () {
 
+        $(".super-menu ul li").on('mouseenter mouseleave', function (e) {
+
+            var elm = $('.sfHover ul').offset();
+
+            var l = elm.left;
+            var w = $('.sfHover ul').width();
+            var ww = w + 180;
+            var docH = $("body").height();
+            var docW = $("body").width();
+
+            var isEntirelyVisible = (l + ww <= docW);
+          //  $('.super-menu ul li').removeClass('product-menu-format');
+
+            if (!isEntirelyVisible) {
+                $(this).addClass('product-menu-format');
+            } else {
+                $(this).removeClass('product-menu-format');
+            }
+        });
+
+
         setTimeout(function () {
             $(".skip-intro").show();
         }, 5000);
@@ -552,6 +567,9 @@ stored data. You can always place your lock us in correcting the data collected,
 
 </script>
 
+
+
+<!-- show welcome popup for unread message -->
 
 
 </body></html>
