@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colourpop.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111163531id_/https%3A//colourpop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourpop.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912171012id_/https%3A//colourpop.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ColourPop
 
@@ -80,4 +80,4 @@ If you would like to: access, correct, amend or delete any personal information 
 ColourPop  
 [Re: Privacy Compliance Officer]  
 1400 Stellar Drive Oxnard California US 93033  
-\----
+\---- 
