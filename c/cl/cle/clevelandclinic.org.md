@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404092533id_/http%3A//my.clevelandclinic.org/about/website/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912234159id_/https%3A//my.clevelandclinic.org/about/website/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy & Security | Cleveland Clinic
 
 ## Privacy Policy
 
 Cleveland Clinic’s mission is, and always will be, “Patients First”. We understand, acknowledge and respect any individual’s right to privacy and the concerns one may have in regard to privacy and security. We recognize the importance of protecting the privacy of information provided by our patients, as well as, general users of our website.
 
-_IMPORTANT NOTE!_ The Cleveland Clinic [Notice of Privacy Practices](https://web.archive.org/about/website//about/website/privacy-practices) is a separate document that governs how medical information about you may be used and disclosed by Cleveland Clinic.
+_IMPORTANT NOTE!_ The Cleveland Clinic [Notice of Privacy Practices](https://web.archive.org/about/website/privacy-practices) is a separate document that governs how medical information about you may be used and disclosed by Cleveland Clinic.
 
 **MEDICAL DISCLAIMER.** IF THIS IS A MEDICAL EMERGENCY, PLEASE IMMEDIATELY CALL EMERGENCY PERSONNEL (911) TO GET PROMPT MEDICAL ATTENTION. DO NOT RELY ON ELECTRONIC COMMUNICATIONS FOR ASSISTANCE IN REGARD TO YOUR IMMEDIATE, URGENT MEDICAL NEEDS. THIS E-MAIL IS NOT DESIGNED TO FACILITATE MEDICAL EMERGENCIES. CLEVELAND CLINIC CANNOT GUARANTEE RESPONSE TIMES IF YOU CHOOSE TO USE THIS E-MAIL IN THE EVENT OF A MEDICAL EMERGENCY.
 
