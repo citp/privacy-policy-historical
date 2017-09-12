@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateprograms.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507191348id_/http%3A//www.affiliateprograms.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateprograms.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912102622id_/http%3A//www.affiliateprograms.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # AffiliatePrograms.com
 
