@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garrysmods.org privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318193410id_/https%3A//garrysmods.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garrysmods.org privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913013113id_/https%3A//garrysmods.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | garrysmods.org
 
