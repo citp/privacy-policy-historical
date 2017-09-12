@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganzworld.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133204id_/http%3A//www.ganzworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganzworld.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912173524id_/http%3A//www.ganzworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ganz World
 
