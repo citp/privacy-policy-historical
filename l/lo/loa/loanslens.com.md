@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loanslens.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210114417id_/http%3A//loanslens.com/privacy-policy-affiliate-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanslens.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912025118id_/http%3A//loanslens.com/privacy-policy-affiliate-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Affiliate Disclosure
 
