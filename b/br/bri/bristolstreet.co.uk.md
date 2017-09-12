@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristolstreet.co.uk privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811164710id_/https%3A//www.bristolstreet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristolstreet.co.uk privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912025318id_/https%3A//www.bristolstreet.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bristol Street Motors
 
@@ -109,7 +109,7 @@ You can also choose to change your marketing preferences by writing to us using 
 
 ### Access to your personal information
 
-The DPA gives you the right to access your personal information. Your right of access can be exercised in accordance with the DPA. Any access request may be subject to a fee (currently not exceeding Ł10) to meet our costs in providing you with details of the personal information we hold about you. To request access to your personal information, please contact us using the details below.
+The DPA gives you the right to access your personal information. Your right of access can be exercised in accordance with the DPA. Any access request may be subject to a fee (currently not exceeding £10) to meet our costs in providing you with details of the personal information we hold about you. To request access to your personal information, please contact us using the details below.
 
 ### How to contact us
 
