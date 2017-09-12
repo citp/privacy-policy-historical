@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepurplepumpkinblog.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607073438id_/http%3A//www.thepurplepumpkinblog.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepurplepumpkinblog.co.uk privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912041027id_/https%3A//www.thepurplepumpkinblog.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » The Purple Pumpkin Blog
 
