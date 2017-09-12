@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehallyu.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316215822id_/https%3A//onehallyu.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehallyu.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912023529id_/https%3A//onehallyu.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - OneHallyu
 
