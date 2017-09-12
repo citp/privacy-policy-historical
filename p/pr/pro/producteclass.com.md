@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producteclass.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020230217id_/http%3A//producteclass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producteclass.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912161500id_/http%3A//producteclass.com/privacy.php) for the most accurate reproduction.*
 
 # ProducteClass.com Privacy Policy
 
