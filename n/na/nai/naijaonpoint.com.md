@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the naijaonpoint.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618065855id_/http%3A//www.naijaonpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaonpoint.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912085938id_/https%3A//naijaonpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Naijaonpoint.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers Naijaonpoint.com treatment of personal information that Naijaonpoint.com gathers when you are on the Naijaonpoint.com website and when you use Naijaonpoint.com services. This policy does not apply to the practices of third parties that Naijaonpoint.com does not own or control, or to individuals that Naijaonpoint.com does not employ or manage.
+This Privacy Policy covers Naijaonpoint.com  treatment of personal information that Naijaonpoint.com gathers when you are on the Naijaonpoint.com website and when you use Naijaonpoint.com services. This policy does not apply to the practices of third parties that Naijaonpoint.com does not own or control, or to individuals that Naijaonpoint.com does not employ or manage.
 
-Information Collected by Naijaonpoint.com
+Information Collected by Naijaonpoint.com
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Naijaonpoint.com users:
 
@@ -57,5 +57,3 @@ Naijaonpoint.com may amend this Privacy Policy from time to time, at its sole d
 Conditions of Use
 
 If you decide to visit Naijaonpoint.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Republic of Ghanaís Laws.
-
-Kindly Click Next To Continue...
