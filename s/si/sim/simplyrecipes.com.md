@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080356id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912130127id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SimplyRecipes.com
 
