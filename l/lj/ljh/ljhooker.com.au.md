@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502092533id_/https%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912120751id_/https%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
 
 # LJ Hooker Real Estate - Privacy Policy
 
