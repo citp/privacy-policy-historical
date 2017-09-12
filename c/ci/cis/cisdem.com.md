@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cisdem.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313234820id_/https%3A//www.cisdem.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisdem.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912121158id_/https%3A//www.cisdem.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # [OFFICIAL] Cisdem Privacy Policy
-
-## Privacy Policy
-
-### Cisdem respects privacy
 
 Cisdem respects your individual privacy and we will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you.
 
