@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marinecorpstimes.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623135805id_/https%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinecorpstimes.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913014701id_/http%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.*
 
-# Marine Corps Times - Privacy Policy
+# Marine Corps - Independent News About Marines | Marine Corps Times
 
 **Last Updated: June 12, 2017**
 
