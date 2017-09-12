@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301082418id_/https%3A//modcloth.zendesk.com/hc/en-us/articles/217207546-Terms-of-Use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912152612id_/https%3A//modcloth.zendesk.com/hc/en-us/articles/217207546-Terms-of-Use) for the most accurate reproduction.*
 
 # Terms of Use – Welcome To Our Customer Info Center!
 
@@ -10,15 +10,13 @@
 
 This website, located at www.ModCloth.com or any of our affiliated sites including mobile and/or Internet applications or “apps” (collectively, the “Site”), is provided by ModCloth, Inc. (ModCloth, “we,” “our,” or “us”) to the person accessing this Site (“you,” “your”).
 
-  1. #### You Agree to These Terms by Using This Site
-
+  * **You Agree to These Terms by Using This Site**
 
 
 
 Your access to, and use of, this Site is subject to the following Terms of Use and all applicable laws and regulations. By accessing and using the Site, you accept, without limitation or qualification, these Terms of Use. ModCloth may, at any time and without notice, modify these Terms of Use by revising them on the Site. Your continued use of the Site constitutes your acceptance of any such revisions. You should therefore periodically visit this page to review the current Terms of Use. You cannot modify these Terms of Use. These Terms of Use only can be modified in a writing signed by ModCloth. If you do not agree and accept, without limitation or qualification, these Terms of Use, you must stop your use and exit the site immediately.
 
-  1. #### Permitted Use of the Site; Termination
-
+  * **Permitted Use of the Site; Termination**
 
 
 
@@ -32,8 +30,7 @@ Termination of your ModCloth membership includes (a) removal of access to all of
 
 You may terminate your membership, this Agreement, and your right to use your membership at any time and for any reason or no reason, by contacting us at: [support@modcloth.com](mailto:support@modcloth.com)
 
-  1. #### User-Submitted Content
-
+  * **User-Submitted Content**
 
 
 
@@ -45,14 +42,14 @@ By submitting any user-generated content, you hereby grant ModCloth (1) a perpet
 
 Harassment in any manner or form on the Site, including via email, chat, or by use of obscene or abusive language, is strictly forbidden. Impersonation of others, including a ModCloth employee, host, or representative, as well as other members or visitors on the Site is prohibited. You may not upload to, distribute, or otherwise publish through the Site any content which is false, misleading, inaccurate, libelous, defamatory, obscene, threatening, invasive of privacy or publicity rights, abusive, illegal, or otherwise objectionable in a manner in which may constitute or encourage a criminal offense, violate the rights (including intellectual property rights or rights of publicity or privacy) of any party, or which may otherwise give rise to liability or violate any law.
 
-  1. #### Interaction with other Users
+  * #### Interaction with other Users
 
 
 
 
 You alone are responsible for your involvement with other users. If you have a dispute with one or more users, you irrevocably and forever release ModCloth (and ModCloth’s officers, directors, agents, subsidiaries, joint ventures, and employees) from claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS, A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.
 
-  1. #### Notice; Electronic Communications
+  * #### Notice; Electronic Communications
 
 
 
@@ -63,14 +60,14 @@ We may also use your email address to send you other messages, such as changes t
 
 Please keep us informed of any changes in your email address so you may continue to receive our communications without interruption.
 
-  1. #### Privacy
+  * #### Privacy
 
 
 
 
 ModCloth’s Privacy Policy is incorporated and made part of these Terms of Use. You hereby agree to such Privacy Policy. Any personal data (for example, your name, address, telephone number or email address) you transmit to the Site by electronic mail or otherwise will be used by ModCloth in accordance with the Privacy Policy. Any other communication or material you transmit to the Site, such as questions, comments, suggestions, or the like, will be treated as non-confidential and non-proprietary. We encourage you to read our[Privacy Policy](http://www.modcloth.com/help/privacy) for more details.
 
-  1. #### Practices; Typographical Errors; Colors
+  * #### Practices; Typographical Errors; Colors
 
 
 
@@ -81,7 +78,7 @@ In the event that a product is mistakenly listed at an incorrect price or with i
 
 The colors shown on the Site may be influenced by the settings of your computer or your monitor. Accordingly, ModCloth makes no guarantees that any actual colors of products or features will be true or accurate.
 
-  1. #### Third-Party Links
+  * #### Third-Party Links
 
 
 
@@ -90,7 +87,7 @@ In an attempt to provide increased value to our visitors, ModCloth may link to s
 
 ModCloth does not endorse the content, or any products or services available, on such sites. Nonetheless, ModCloth seeks to protect the integrity of its website and the links placed upon it and therefore requests any feedback on not only its own Site, but for sites it links to as well (including if a specific link does not work). Any feedback you provide shall be non-confidential and non-proprietary.
 
-  1. #### Intellectual Property
+  * #### Intellectual Property
 
 
 
@@ -101,7 +98,7 @@ Copyright 2002-16, ModCloth, Inc. ALL RIGHTS RESERVED.
 
 All software used on this Site is the property of ModCloth or its software suppliers and protected by copyright laws and may not be used for any purpose by you. You agree not to change or delete any proprietary notices from materials printed or downloaded from the Site.
 
-  1. #### Copyright Complaints
+  * #### Copyright Complaints
 
 
 
@@ -120,7 +117,7 @@ If you believe that your copyright or other rights have been infringed, please p
 
 (vi) a statement by you that the information in the notification is accurate, and under penalty of perjury, that you are the copyright owner or are authorized to act on the copyright owner’s behalf.
 
-  1. #### Export Control
+  * #### Export Control
 
 
 
@@ -129,21 +126,21 @@ Software and other materials from this Site may be subject to United States Expo
 
 ModCloth does not authorize the downloading or exportation of any software or technical data from this Site to any jurisdiction prohibited by the United States Export Control Laws.
 
-  1. #### Law and Jurisdiction
+  * #### Law and Jurisdiction
 
 
 
 
 These Terms of Use and your use of the Site are governed by the laws of the Commonwealth of Delaware, USA, without regard to its choice of law provisions. The courts of general jurisdiction located within New Castle County, Delaware, USA, will have exclusive jurisdiction over any and all disputes arising out of, relating to, or concerning these Terms of Use and/or the Site or in which these Terms of Use and/or the Site are a material fact.
 
-  1. #### Assignment
+  * #### Assignment
 
 
 
 
 ModCloth may assign its rights and duties under these Terms of Use to any party at any time without notice to you.
 
-  1. #### Referral Program
+  * #### Referral Program
 
 
 
@@ -152,21 +149,15 @@ ModCloth may offer you the opportunity to earn referral rewards by referring fri
 
 Referral rewards are granted at ModCloth’s sole discretion. We reserve the right to amend these guidelines and the methods through which referral rewards are earned at any time without notice to you. For more information about the referral program, please review the full Terms and Conditions at <http://www.modcloth.com/help/terms-of-use/modcloth-referral-program-terms>.
 
-  1. #### ModCloth Privacy Policy
+ModCloth Privacy Policy
 
-
-
-  1. #### Information We Collect & How We Use It
-
-
-
+**Information We Collect & How We Use It**
 
 ModCloth.com requests and collects personal information from our customers at various site locations and instances, including, but not limited to, when you create a ModCloth.com membership, make a purchase, communicate with us via social media, write a product review, create a wishlist, participate in events, contests, or promotions, contact our customer care team, or post other customer-generated content to this Site. These are currently the primary ways in which we gather information, however, we may also collect data through other channels in the future.
 
 The types of personal information we may collect from you can vary according to the method through which it was attained. It may include, but is not limited to, the following:
 
-  1. #### Information You Provide to Us
-
+  * Information You Provide to Us
 
 
 
@@ -185,8 +176,7 @@ We receive and store any information you knowingly provide to us, such as:
       * You may also provide personal information about other people, such as their name and email address. When you select to email a friend your wishlist, tell a friend about ModCloth.com, or purchase a Gift Certificate for a friend, we will use their name and email address to send them a one-time email. This information is only used for the sole purpose of completing your request. We do not share your friend’s email information for any other purposes unless that friend creates a membership to ModCloth.com. ModCloth.com stores this information for the sole purpose of sending this one-time email and tracking the success these programs. Your friend may contact us at [support@modcloth.com](mailto:support@modcloth.com) to request that we remove this information from our database.
 
 
-  1. #### Information Collected Automatically
-
+  * Information Collected Automatically
 
 
 
@@ -196,8 +186,7 @@ We may combine this automatically collected log information with other informati
 
 ModCloth does not currently actively respond to “Do Not Track” browser signals or mechanisms, but we’re always open to hearing from customers for whom this issue is really important.
 
-  1. #### Tracking Technologies
-
+  * Tracking Technologies
 
 
 
@@ -205,8 +194,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by ModCloth.co
 
 We use cookies for many different functions on ModCloth.com, including user authentication, our shopping cart, and to customize the user experience. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still browse our site, but your ability to use most features or areas of our site may be limited.
 
-  1. #### Local Storage Objects (HTML5)
-
+  * Local Storage Objects (HTML5)
 
 
 
@@ -214,15 +202,13 @@ We use Local Storage Objects (LSOs) such as HTML5 to store content information a
 
 Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-  1. #### Behavioral Targeting / Re-Targeting
-
+  * Behavioral Targeting / Re-Targeting
 
 
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-  1. #### Email & Other Communications
-
+  * Email & Other Communications
 
 
 
@@ -230,10 +216,10 @@ We may contact you via email to send you necessary order-related messages, such 
 
 We may also send you newsletters and additional email messages about our products, services, contests, and promotions that we feel may be of interest to you. If you no longer wish to receive these and other promotional communications from us, you may select the unsubscribe link which is present in each email. You may also customize your communication preferences by accessing the email preference center in your [ModCloth membership page](https://www.modcloth.com/customers/dashboard) and adjusting your settings accordingly.
 
-  1. #### How We Use Your Information
+#### 2\. How We Use Your Information
 
-    1. All of the personal information we collect from our customers is for the purpose of the reasoning described above (see sections b & c), as well as:
-    2. processing, verifying, validating, and completing your transaction
+  1. All of the personal information we collect from our customers is for the purpose of the reasoning described above (see sections b & c), as well as:
+  2. processing, verifying, validating, and completing your transaction
 
 
   * creating, managing, and maintaining your membership to this Site
@@ -248,66 +234,40 @@ We may also send you newsletters and additional email messages about our product
   * sending email as appropriate (See Section c: Email ∓ Other Communications)
 
 
-  1. #### Under 13?
 
-
-
+**Under 13?**
 
 ModCloth.com is intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any personal information to ModCloth.com. We will promptly delete any personal information from a person under the age of 13 should we discover that we have collected such information from a person under the age of 13 without verification of parental consent. If you believe we may have collected information from a person under the age of 13, please promptly contact [support@modcloth.com](mailto:support@modcloth.com) so we can correct.
 
-  1. #### Information Sharing
-
-
-
+**Information Sharing**
 
 ModCloth does not share or sell the personal information of its users with any unaffiliated third parties for their promotional purposes. We share your personal information with third parties in the ways that are described in this privacy policy:
 
-  1. #### Payment, Shipping, Referral, & Other Programs
-
-
-
+**Payment, Shipping, Referral, & Other Programs**
 
 We use a third party payment processor and a third party shipping agent to ensure the payment and delivery of your purchased products. We also use a third party to administer our referral program. We may use other third parties for other services from time to time. These third parties have no authority to use your personal information for their own promotional purposes.
 
-  1. #### Legal Disclosure
-
-
-
+**Legal Disclosure**
 
 We reserve the right to disclose personal information to our service providers, the government, law enforcement agencies, or other third parties under certain circumstances where a formal request has been made (such as in responding to a court order, subpoena, or judicial proceeding) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, as ModCloth.com, in our sole and absolute discretion, deems necessary and appropriate. Moreover, in the event of a sale, merger, or transfer of some or all of ModCloth.com’s assets, or dissolution or bankruptcy, your personal information may be transferred to an unaffiliated third party as part of or apart from other transferred assets or assets. Any transfer will then be governed by and be the responsibility of any purchaser of or successor to the transferred assets or assets. We shall notify you by a notice on the home page of any change in the information practices governing your personal information as a result of any transfer of assets or any asset change in ownership, and your choices in how your information is used.
 
-  1. #### Links to Third Party Websites
-
-
-
+**Links to Third Party Websites**
 
 This Site contains links to other websites. ModCloth.com takes no responsibility for the privacy practices or the content of these other websites. We encourage you to read the privacy policies of each website you visit prior to disclosing your personal information.
 
-  1. #### User-Generated Content & Information Disclosure
-
-
-
+**User-Generated Content & Information Disclosure**
 
 Any personal information or image content you voluntarily disclose online in a manner that other users can view (including, but not limited to: product reviews, Be the Buyer comments, on social media pages, in connection with contests and promotions, and on the ModCloth blog) becomes publicly available, and can be read, collected, and used by other members of this forum to send you unsolicited messages. Your membership name, email, or other information may also be displayed when you post comments or upload images throughout the Site. ModCloth.com is not responsible for the personal information users select to disclose in these forums. To request removal of your personal information from our blog or community forum, contact us at  [support@modcloth.com](mailto:support@modcloth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-  1. #### Social Media Features and Widgets
-
-
-
+**Social Media Features and Widgets**
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-  1. #### Single Sign-On
-
-
-
+**Single Sign-On**
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-  1. #### How We Protect Your Information
-
-
-
+**How We Protect Your Information**
 
 ModCloth.com utilizes some of the most advanced technology available today for Internet security purposes. When you access our checkout and enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using industry standard Secure Socket Layer (SSL) technology, your information is protected with both server authentication and data encryption, ensuring that your data is safe, secure, and available only to ModCloth.
 
@@ -315,12 +275,9 @@ Our site is verified by Fastly and uses Braintree for all of our secure credit c
 
 In addition, ModCloth.com is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or outside access to keep us all safe!
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at[support@modcloth.com](mailto:support@modcloth.com).
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at s[upport@modcloth.com](mailto:support@modcloth.com).
 
-  1. #### Accessing Your Personal Information & Preferences
-
-
-
+**Accessing Your Personal Information & Preferences**
 
 You can access, update, or change your personal information and communication preferences by signing into your [ModCloth membership page](https://www.modcloth.com/customers/dashboard) and modifying your preferences at your discretion. If you wish to cancel your account, or request that we no longer use your information to provide services to you, contact us at [support@modcloth.com](mailto:support@modcloth.com).
 
@@ -330,29 +287,20 @@ We will retain your information for as long as your account is active or as need
 
 You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to create a membership with us or to take advantage of some or all of our features.
 
-  1. #### Your California Privacy Rights
-
-
-
+**Your California Privacy Rights**
 
 Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
 
 To obtain this information from ModCloth please send an email message to [support@modcloth.com](mailto:support@modcloth.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in our response.
 
-  1. #### Privacy Policy Updates
-
-
-
+**Privacy Policy Updates**
 
 ModCloth may, at any time and without notice, modify and update this Privacy Policy by revising it on the Site. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. Your continued use of the Site constitutes your acceptance of any such revisions. You should therefore periodically visit this page to review the current Privacy Policy.
 
 _Privacy Policy Last Updated: December 23, 2014_
 
-  1. #### Questions and feedback
+**Questions and feedback**
 
-
-
-
-We welcome your questions, comments, and concerns about this Site. Please send us any and all feedback pertaining to this Site to[support@modcloth.com](mailto:support@modcloth.com).
+We welcome your questions, comments, and concerns about this Site. Please send us any and all feedback pertaining to this Site to [support@modcloth.com](mailto:support@modcloth.com).
 
 _Terms of Use Last Updated: June 17, 2016_
