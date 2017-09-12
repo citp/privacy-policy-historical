@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hfm.global privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191206id_/https%3A//hfm.global/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hfm.global privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912134849id_/https%3A//hfm.global/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | HFM Global | An information and networking resource
 
