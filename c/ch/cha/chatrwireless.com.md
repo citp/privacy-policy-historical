@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatrwireless.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073341id_/https%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrwireless.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912233710id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.*
 
 # Privacy Policy | chatr mobile
 
@@ -12,7 +12,7 @@ chatr's privacy practices are in accordance with all federal and provincial laws
 
 3.
 
-chatr mobile has in place privacy and security practices to safeguard our customers' personal information. These practices are reviewed, and if necessary revised, on a regular basis. Additionally, chatr's employees receive privacy training and must comply with chatr's privacy practices as a condition of employment.
+The [Rogers Transparency Report](https://about.rogers.com/responsibility/customer-experience/#transparency-privacy) (chatr is operated by Rogers Communications) includes requests from government and law enforcement agencies for information about chatr customers.
 
 4.
 
