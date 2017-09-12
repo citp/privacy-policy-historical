@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta5-mods.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308075015id_/https%3A//www.gta5-mods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta5-mods.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912192427id_/https%3A//www.gta5-mods.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GTA5-Mods.com
 
@@ -8,7 +8,7 @@ This Privacy Policy governs the manner in which GTA5-Mods.com collects, uses, ma
 
 ### Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 ### Non-personal identification information
 
@@ -41,7 +41,11 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+Except as described in this Privacy Policy, we will not share, sell, or rent individual personal information with anyone without your permission or unless ordered by a court of law. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+
+### Information disclosed pursuant to business transfers
+
+Information about our users, including personal information, may be disclosed and otherwise transferred to an acquirer, successor, or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this Privacy Policy.
 
 ### Third party websites
 
@@ -65,10 +69,10 @@ GTA5-Mods.com has the discretion to update this Privacy Policy at any time. When
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy Policy created by [GeneratePrivacyPolicy.com](http://www.generateprivacypolicy.com/)
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy Policy created by [PrivacyPolicies.com](http://privacypolicies.com/)
 
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
-This document was last updated on June 10, 2015
+This document was last updated on May 4, 2017
