@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michellepescosolido.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115040id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michellepescosolido.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912140425id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Online Wealth Partner - The Blog of Michelle and Bill Pescosolido
 
