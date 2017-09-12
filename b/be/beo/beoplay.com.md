@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beoplay.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427172009id_/https%3A//www.beoplay.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beoplay.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912223957id_/https%3A//www.beoplay.com/Privacy-Policy) for the most accurate reproduction.*
 
 # B&O PLAY Privacy Policy - Read our Introduction & principles here
 
