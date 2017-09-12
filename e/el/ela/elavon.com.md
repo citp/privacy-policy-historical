@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elavon.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024230932id_/https%3A//www.elavon.com/privacy-pledge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elavon.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913012323id_/https%3A//www.elavon.com/privacy-pledge.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ At Elavon, trust is the foundation of our relationship with customers.  We unde
 
 Elavon, Inc. (“Elavon”, “we”, “us, or “our”) has established this privacy policy (“Privacy Policy”) to let you know the kinds of information we may gather on Elavon websites and any applications where this Privacy Policy is posted (“Site” or “Sites”), how and why we gather the information, what we use the information for, and when we might disclose the information. 
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered by the Sites and any personal information we may also receive about you from other online and offline sources, such as public databases, in connection with an application you submit for Services.   However, if you or the entity you are authorized to represent (collectively, “you” or “your”) have previously entered into a services agreement with Elavon that governs the provision of transaction processing services (“Services Agreement”), the Services Agreement not this Privacy Policy governs each party’s rights and obligations with respect to Cardholder Data, Transaction-related information (as those terms are defined in the Services Agreement) and other information gathered or submitted in connection with the transaction processing services provided under the Services Agreement are set forth in the Services Agreement.  If the same information is both gathered by the Site and gathered or submitted in connection with the transaction processing services provided under the Services Agreement, the terms of the Services Agreement will govern each party’s rights and obligations with respect to such information.  To the extent permitted by law, in the event this Privacy Policy conflicts with the terms of any Services Agreement or other agreement with us, the terms of such Services Agreement or other agreement shall control. This site is operated from the United States. Your use of this site constitutes your agreement to have your information processed in the United States in accordance with this policy U.S. law. ****
+Please be advised that the practices described in this Privacy Policy apply only to information gathered by the Sites and any personal information we may also receive about you from other online and offline sources, such as public databases, in connection with an application you submit for Services.   However, if you or the entity you are authorized to represent (collectively, “you” or “your”) have previously entered into a services agreement with Elavon that governs the provision of transaction processing services (“Services Agreement”), the Services Agreement not this Privacy Policy governs each party’s rights and obligations with respect to Cardholder Data, Transaction-related information (as those terms are defined in the Services Agreement) and other information gathered or submitted in connection with the transaction processing services provided under the Services Agreement are set forth in the Services Agreement.  If the same information is both gathered by the Site and gathered or submitted in connection with the transaction processing services provided under the Services Agreement, the terms of the Services Agreement will govern each party’s rights and obligations with respect to such information.  To the extent permitted by law, in the event this Privacy Policy conflicts with the terms of any Services Agreement or other agreement with us, the terms of such Services Agreement or other agreement shall control. This site is operated from the United States. Your use of this site constitutes your agreement to have your information processed in the United States in accordance with this policy U.S. law.
 
-**By using the Site, you are accepting the practices described in this Privacy Policy.   If you do not agree to the terms of this Privacy Policy, please do not use the Site.  **
+**By using the Site, you are accepting the practices described in this Privacy Policy.   If you do not agree to the terms of this Privacy Policy, please do not use the Site. **
 
 **We reserve the right to modify or amend the terms of our Privacy Policy from time to time.   We will post any Privacy Policy changes on this page, and if the changes are material, we will provide a more prominent notice. Your continued use of the Sites following the posting of changes to these terms will mean you accept those changes.  If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to personal information already in our possession, we will provide you with notice of the modifications or amendments and if required by law, obtain your consent.**
 
@@ -38,7 +38,7 @@ We may also receive information about you from other online and offline sources,
 
 We and certain trusted service providers operating on our behalf collect information about your activity on the Sites using tracking technologies, including:
 
-  * Cookies: 
+  * _Cookies_ :
 
 
 
@@ -46,7 +46,7 @@ Cookies are pieces of information that are stored directly on the device that yo
 
 You can choose to have your device refuse to accept any cookies, and the majority of devices and browsers offer additional privacy settings for cookies. You do this through your browser settings. Each device and each browser is a little different, so look at your device Settings or your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to many features that make your user experience more efficient and some of the Sites will not function properly. Please note that you will need to manage your cookie settings for each device and browser that you use.
 
-  * Flash cookies. 
+  * _Flash cookies_.
 
 
 
@@ -54,14 +54,14 @@ We may use local shared objects, sometimes known as Flash cookies, to store your
 
 Cookie management tools provided by your device or browser will not remove Flash cookies. If you disable Flash cookies, you will not have access to many features that make your user experience more efficient and some of the Sites are unlikely to function properly.
 
-  * Pixel tags, web beacons, clear GIFs and other similar technologies. These are typically small pieces of data that are embedded in images on the Website, our Applications or certain e-mail communications. They may involve the transmission of information directly to us, to another party on our behalf or to another party in accordance with its privacy policy. We may use these technologies to bring together information we collect about you. 
-  * Location tracking on mobile devices. Certain applications on mobile devices may transmit information to us about your location when you request information from them.  We may use that information to improve the products and services we provide to you as well as improving our services generally in your area.
+  * _Pixel tags, web beacons, clear GIFs and other similar technologies_. These are typically small pieces of data that are embedded in images on the Website, our Applications or certain e-mail communications. They may involve the transmission of information directly to us, to another party on our behalf or to another party in accordance with its privacy policy. We may use these technologies to bring together information we collect about you.
+  * _Location tracking on mobile devices._ Certain applications on mobile devices may transmit information to us about your location when you request information from them.  We may use that information to improve the products and services we provide to you as well as improving our services generally in your area.
 
 
 
 Information collected through this technology helps us serve you better each time you visit the Sites.  Cookies are pieces of information that are stored directly on the device you are using.  They allow us to collect information such as the type of browser you are using, the amount of time you spend using the Sites, the Sites you visit and the preferences you have set up for your accounts. 
 
-We use service providers such as Google Analytics and Mixpanel, which use cookies and other similar technologies, to collect information about use of the Sites anonymously and report website trends, without identifying individual visitors. 
+We use service providers such as Google Analytics and Mixpanel, which use cookies and other similar technologies, to collect information about use of the Sites anonymously and report website trends, without identifying individual visitors.
 
 • Enable cookies.  This provides the best site experience. To turn them on, please click [Enable Cookies](https://www.elavon.com/privacy-pledge?cp=enable)
 
@@ -118,7 +118,7 @@ If you are located outside the United States of America, you should be aware tha
 
 **RETENTION PERIOD**
 
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. 
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
 **ASSIGNMENT**
 
@@ -128,9 +128,9 @@ We may change our ownership or corporate organization while providing the Site a
 
 If you have any questions or comments about this Policy or our privacy practices generally, we encourage you to contact us by regular mail or email:
 
-**Elavon**   
-Attn:  Compliance/Privacy Policy   
-Two Concourse Pkwy   
-Suite 800   
-Atlanta, Georgia 30328   
+**Elavon**  
+Attn:  Compliance/Privacy Policy  
+Two Concourse Pkwy  
+Suite 800  
+Atlanta, Georgia 30328  
 privacypolicyinfo@elavon.com
