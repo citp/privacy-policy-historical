@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211015444id_/https%3A//www.reliant.com/en/about/legal/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912173313id_/https%3A//www.reliant.com/en/about/legal/privacy-statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | Reliant
 
@@ -147,7 +147,7 @@ Be sure to include your complete name, address and telephone number and sign the
 
 The PUC has established two do-not-call lists. You can indicate to the PUC that you do not wish to receive telephone solicitations from providers of electric service regarding your choice of service provider by placing your name, address, and telephone number on the electric do-not-call list. You can indicate that you prefer not to receive any telephone solicitations by placing your name, address, and telephone number on the statewide do-not-call list. The PUC charges a fee for this service. For more information or to register your name, address, and telephone number on the do-not-call lists you may use one of three different methods.
 
-Online - www.texasnocall.com
+Online - [texasnocall.com](http://texasnocall.com/ "Texas No Call List")
 
 By phone – call toll-free 512-936-7120   
 
@@ -162,7 +162,7 @@ East Walpole, MA 02032
 
 **To the National Do Not Call Registry**
 
-The National Do Not Call Registry gives you a choice about whether to receive telemarketing calls at home. For more information, go to www.donotcall.gov.
+The National Do Not Call Registry gives you a choice about whether to receive telemarketing calls at home. For more information, go to [donotcall.gov](https://donotcall.gov/ "Do Not Call").
 
 Back to Top
 
