@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the simkl.com privacy policy that was archived on 2017-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170518162516id_/https%3A//simkl.com/about/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simkl.com privacy policy that was archived on 2017-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170912212701id_/https%3A//simkl.com/about/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" async-hide"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -35,7 +35,7 @@ Watch and Track Movies, Anime, TV Shows</title>
 <meta name="msapplication-config" content="//us.simkl.in/img_favicon/browserconfig.xml">
 <meta name="msapplication-TileImage" content="//us.simkl.in/img_favicon/ms-icon-144x144.png">
     
-<script type="text/javascript" async="" src="//widget.uservoice.com/47z3ZkPJF1TztEhYYic7w.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js" type="text/javascript"></script>
+<script async="" src="//cdn.oribi.io/XzU1MjE1MTU2Ng/oribi.js" id="ORIBIscript"></script><script type="text/javascript" async="" src="//widget.uservoice.com/47z3ZkPJF1TztEhYYic7w.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js" type="text/javascript"></script>
     <script src="//us.simkl.in/js/tv/all.min.js?v34" type="text/javascript"></script>
 
 <style>.async-hide { opacity: 0 !important} </style>
@@ -44,7 +44,7 @@ s.className=s.className.replace(RegExp(' ?'+y),'')};(a[n]=a[n]||[]).hide=h;
 setTimeout(function(){i();h.end=null},c);})(window,document.documentElement,
 'async-hide','dataLayer',2000,{'GTM-WZL5428':true,});</script>
 
-<link href="//us.simkl.in/css/tv/style_tv.min.css?v51" rel="stylesheet" type="text/css">
+<link href="//us.simkl.in/css/tv/style_tv.min.css?v53" rel="stylesheet" type="text/css">
 <link href="//us.simkl.in/css/tv/style.css?v86" rel="stylesheet" type="text/css">
 <link href="//us.simkl.in/css/tv/style_profile.css?v14" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
@@ -1165,7 +1165,10 @@ function showMenu()
 
     function signSocial(el) {
         var $e = $('a', el);
-                window.location = $e.attr('href') + $('input[name="ref"]').val() + ($e.attr('id') == 'googBaseUrl' ? '?tmz=' + jstz.determine().name() : '');
+                var isGoogle = $e.attr('id') == 'googBaseUrl';
+        var rf = $('input[name="ref"]').val();
+        var target = '_self';
+                window.open($e.attr('href') + rf + (isGoogle ? '?tmz=' + jstz.determine().name() : ''), target);
             }
     $(preDOM_AuthLoad);
 </script>
@@ -1335,7 +1338,7 @@ function showMenu()
             <form name="loginForm" method="POST" action="//simkl.com/log.php">
                 <input type="hidden" name="l" value="">
                 <input type="hidden" name="p" value="">
-                <input type="hidden" name="ref" value="aHR0cHM6Ly93d3cucHJvZHVjdGh1bnQuY29tL3IvMTNjYWQyZDhjNmQ1ODYvMzcyMzg=">
+                <input type="hidden" name="ref" value="aHR0cHM6Ly9zaW1rbC5jb20vdHYvMzUyNjMvc2Vuc2U4L3NlYXNvbi0yL2VwaXNvZGUtOC8=">
             </form>
             <div>
                 <input type="email" placeholder="Email" id="SimklLoginPopup-input_login">
@@ -2586,14 +2589,19 @@ font-size: 13px; color: #444444;"><p>Last modified: December 31, 2012 </p>
                         <td><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="60" height="15"></td>
                       </tr>
                       <tr>
-                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:120%; color:rgb(255,255,255); text-align:left; text-transform:uppercase;">OUR PRODUCTS</td>
+                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:120%; color:rgb(255,255,255); text-align:left; text-transform:uppercase;">Simkl Apps</td>
                       </tr>
                       <tr>
                         <td><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" width="60" height="20"></td>
                       </tr>
                       <tr>
                         <td style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:170%; color:rgb(102,102,102);  text-align:left;"><ul class="SimklFooterUL">
+                            <li class="SimklFooterLI ajFooterLinkInside" onclick="doScroll();"> <a href="/apps/">Automatic Trackers</a> </li>
+                            <li class="SimklFooterLI ajFooterLinkInside" onclick="doScroll();"> <a href="/apps/chrome/">Chrome Extension</a> </li>
+                            <li class="SimklFooterLI ajFooterLinkInside" onclick="doScroll();"> <a href="/apps/mobile/">Mobile Apps</a> </li>
                             <li class="SimklFooterLI"> <a href="//simkl.com">TV Tracker</a> </li>
+                            <li class="SimklFooterLI"> <br></li>
+                            <li class="SimklFooterLI"> <a href="https://whatismynumber.io" target="_blank">What is My Phone Number</a> </li>
                             <br>
                             <li class="SimklFooterLI ajFooterLinkInside"> <a href="/about/policies/terms/">Terms of Service</a> </li>
                             <li class="SimklFooterLI ajFooterLinkInside"> <a href="/about/policies/privacy/">Privacy Policy</a> </li>
@@ -2609,7 +2617,7 @@ font-size: 13px; color: #444444;"><p>Last modified: December 31, 2012 </p>
                         <td><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="60" height="15"></td>
                       </tr>
                       <tr>
-                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:120%; color:rgb(255,255,255); text-align:left; text-transform:uppercase;">COMPANY</td>
+                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:120%; color:rgb(255,255,255); text-align:left; text-transform:uppercase;">About</td>
                       </tr>
                       <tr>
                         <td><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" width="60" height="20"></td>
@@ -2617,7 +2625,9 @@ font-size: 13px; color: #444444;"><p>Last modified: December 31, 2012 </p>
                       <tr>
                         <td style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:170%; color:rgb(102,102,102); text-align:left;"><ul class="SimklFooterUL">
                             <li class="SimklFooterLI"> <a href="https://medium.com/simkl-tv-tracker/simkl-tv-tracker-is-open-for-beta-users-c6d0f4c7beee">About Simkl</a> </li>
-                            <li class="SimklFooterLI"> <a href="http://bit.ly/SimklMediaKit" target="_blank">Media Kit</a> </li>
+                            <li class="SimklFooterLI"> <a href="https://drive.google.com/open?id=0B-54ieAFggpUMmY5a195alFxSVE" target="_blank">Media Kit</a> </li>
+                          <li class="SimklFooterLI"> <br></li>
+                            <li class="SimklFooterLI"> <a href="http://bit.ly/DonateToHelpSimklGrow" target="_blank">Donate</a> </li>
                           <li class="SimklFooterLI"> <br></li>
                           <li class="SimklFooterLI"> <a href="http://support.simkl.com/" target="_blank" rel="nofollow">Contact Us</a></li>
                           </ul></td>
@@ -2659,7 +2669,7 @@ font-size: 13px; color: #444444;"><p>Last modified: December 31, 2012 </p>
                       <tr>
                         <td style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:170%; color:rgb(102,102,102); text-align:left;"><ul class="SimklFooterUL">
                           <li class="SimklFooterLI"> <a href="https://api.simkl.com" target="_blank" rel="nofollow">API Documentation</a></li>
-                          <li class="SimklFooterLI"> <a href="https://plus.google.com/u/0/communities/106081147921797342801" target="_blank" rel="nofollow">API Community</a></li>
+                          <li class="SimklFooterLI"> <a href="https://gitter.im/Simkl/" target="_blank" rel="nofollow">Discuss API on Gitter</a></li>
                           <li class="SimklFooterLI"> <br></li>
                           <li class="SimklFooterLI openLogin"> <a href="/settings/developer/new/" rel="nofollow">Create an App</a></li>
                           <li class="SimklFooterLI openLogin"> <a href="/settings/developer/" rel="nofollow">Your Apps</a></li>
@@ -2704,14 +2714,14 @@ font-size: 13px; color: #444444;"><p>Last modified: December 31, 2012 </p>
               <tbody><tr>
                 <td>MADE WITH ♥ IN NYC </td>
                 <td width="1"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" width="30" height="25"></td>
-                <td width="1"><a href="//simkl.com"><img src="//us.simkl.in/img_blog_2012/logo.png" alt="SIMKL" width="170" height="33" border="0"></a></td>
+                <td width="1"><a href="/"><img src="//us.simkl.in/img_blog_2012/logo.png" alt="SIMKL" width="170" height="33" border="0"></a></td>
                 <td width="1"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" width="30" height="25"></td>
                 <td>©
                   2017. All rights reserved.</td>
                 <td width="5" style="font-size:14px; line-height:120%; color:#999999;
 "><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" width="29" height="20"></td>
                 <td width="5"><a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
-                  </td>
+                </td>
               </tr>
             </tbody></table></td>
         </tr>
@@ -2725,6 +2735,9 @@ var addthis_config = addthis_config||{};
     addthis_config.data_track_clickback = false;
 </script>
 
+<script type="application/javascript">
+  (function(b, o, n, g, s, r, c) { if (b[s]) return; b[s] = {}; b[s].scriptToken = "XzU1MjE1MTU2Ng"; r = o.createElement(n); c = o.getElementsByTagName(n)[0]; r.async = 1; r.src = g; r.id = s + n; c.parentNode.insertBefore(r, c); })(window, document, "script", "//cdn.oribi.io/XzU1MjE1MTU2Ng/oribi.js", "ORIBI");
+</script>
 
 <!-- START Chrome Extension -->
 <style>
