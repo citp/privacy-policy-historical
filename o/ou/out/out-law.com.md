@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225092158id_/https%3A//www.out-law.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912180722id_/https%3A//www.out-law.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -44,7 +44,7 @@ We also use Google Analytics, a popular web analytics service provided by Google
 
 **Transferring information overseas**
 
-Outside the UK, Pinsent Masons has offices in Dubai, Doha, Singapore, Hong Kong, Beijing, Shanghai, Paris, Munich, and Istanbul. It is possible therefore that your details or information collected may be available to these offices.  However, we have taken all steps necessary to ensure that your information is adequately protected where it is transferred to a jurisdiction whose data protection laws are not as strict as the UK.
+Outside the UK, Pinsent Masons has offices in Dubai, Doha, Singapore, Hong Kong, Beijing, Shanghai, Düsseldorf, Paris, Madrid and Munich. It is possible therefore that your details or information collected may be available to these offices.  However, we have taken all steps necessary to ensure that your information is adequately protected where it is transferred to a jurisdiction whose data protection laws are not as strict as the UK.
 
 **Information requests**
 
