@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steinberg.help privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105041559id_/http%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinberg.help privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913072816id_/https%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : | http://www.steinberg.net/
+# Privacy Policy | Steinberg
 
 ## Personal information
 
@@ -57,6 +57,6 @@ The data protection commissioner will only answer questions regarding our privac
 Note:   
 By means of his public key you can send the data protection commissioner your concerns encrypted per email. If you include the public key in your encryption program (e.g. openPGP) and encrypt your data with the key, the encrypted data can only be opened by our commissioner for data protection. 
 
-[Download Public Key](http://www.steinberg.net/fileadmin/redaktion/Misc/PGP/Lindner_ics.asc "Initiates file download")
+[Download Public Key](https://www.steinberg.net/fileadmin/redaktion/Misc/PGP/Lindner_ics.asc "Initiates file download")
 
 Last updated: July 2008 
