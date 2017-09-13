@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021145413id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913114939id_/https%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Statement - Writing.Com
 
 > **Privacy Statement for Writing.Com**
 > 
-> **Writing.Com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Writing.Com](http://www.writing.com/)
+> **Writing.Com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Writing.Com](https://www.writing.com/)
 > 
 > Information Automatically Logged 
 > 
