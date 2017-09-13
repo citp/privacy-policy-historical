@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210013120id_/https%3A//www.psychologies.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913143150id_/https%3A//www.psychologies.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Psychologies
 
-We will collect different information depending on whether you are using our websites, e-mail communications, or mobile apps and this Privacy Policy explains how we use that information and specifically:
+Last updated 21 October 2015.
 
-  * TYPES OF INFORMATION THAT WE MAY COLLECT ABOUT YOU
-  * HOW WE LOOK AFTER YOUR PERSONAL INFORMATION
-  * HOW WE USE YOUR PERSONAL INFORMATION
-  * SHARING OF YOUR INFORMATION WITH OTHERS
-  * YOUR RIGHTS
+KELSEY MEDIA ('Kelsey' or 'we') is commited to protecting your personal information when you are using our website and applications (our 'services'). We strive to make our services safe and enjoyable environments for you to use. 
+
+Whenever you provide personal information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998.
+
+We will collect different information depending on whether you are using our websites, e-mail communications, or mobile apps and this Provacy Policy explains how we use that information and specifically:
+
+  * Types of information that we may collect about you
+  * How we look after your personal information
+  * How we use your personal information
+  * Sharing of your information with others
+  * Your rights
 
 
 
