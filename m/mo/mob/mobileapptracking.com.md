@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511123032id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913074750id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
 
 # Our privacy policy and your privacy rights | TUNE
 
@@ -102,7 +102,7 @@ We may update this privacy policy to reflect changes to our information practice
 In the process of providing services to you, we may transfer information that we collect to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. By using the Websites or signing up for an account with TUNE, you consent to the transfer of your information to the United States.
 
 **Contact Information**  
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: legal@tune.com.
+If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [legal@tune.com](mailto:legal@tune.com).
 
 TUNE, Inc.  
 2200 Western Ave., Suite 200  
