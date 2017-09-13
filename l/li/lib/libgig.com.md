@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515133147id_/https%3A//www.libgig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913094837id_/https%3A//www.libgig.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LIBGIG
 
