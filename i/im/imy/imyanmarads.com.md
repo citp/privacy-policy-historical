@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imyanmarads.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074916id_/http%3A//www.imyanmarads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imyanmarads.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913164433id_/http%3A//www.imyanmarads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ::: iMyanmarAds.com - Brought to You by iMyanmar
 
