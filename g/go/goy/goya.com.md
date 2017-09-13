@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207020557id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913095130id_/https%3A//www.goya.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Goya Foods: Privacy Policy
+# Privacy Policy | Goya Foods
 
 The largest Hispanic-owned food company in the United States, Goya employs more than 2,000 people worldwide. As evidence of the success of Goya Foods, Inc., today it operates more than 13 facilities throughout the U.S., Caribbean and Europe. Goya is dedicated to providing high-quality food and beverage products that meet and exceed the needs of its customers and their privacy on the Goya Foods website.
 
@@ -39,4 +39,4 @@ Any questions or complaints about [www.goya.com](http://www.goya.com/) or this p
 You may call us at 201-348-4900.  
 Please address all mail to:  
 350 County Road  
-Jersey City, NJ 07307 
+Jersey City, NJ 07307
