@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modworkshop.net privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119064919id_/http%3A//pd2stats.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modworkshop.net privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913142328id_/http%3A//pd2stats.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-This Privacy Policy governs the manner in which Last Bullet collects, uses, maintains and discloses information collected from users (each, a "User") of the [lastbullet.net](http://lastbullet.net/), [pd2stash.com](http://pd2stash.com/) and [pd2stats.com](http://pd2stats.com/) websites ("sites"). This privacy policy applies to the sites and all products and services offered by Last Bullet. 
+This Privacy Policy governs the manner in which modworkshop collects, uses, maintains and discloses information collected from users (each, a "User") of the [modworkshop.net](http://modworkshop.net/), [pd2stash.com](http://pd2stash.com/) and [pd2stats.com](http://pd2stats.com/) websites ("sites"). This privacy policy applies to the sites and all products and services offered by modworkshop. 
 
 Personal identification information
 
@@ -20,7 +20,7 @@ Our sites may use "cookies" to enhance User experience. User's web browser place
 
 How we use collected information
 
-Last Bullet may collect and use Users personal information for the following purposes:
+modworkshop may collect and use Users personal information for the following purposes:
 
   * _\- To improve our sites_  
 We may use feedback you provide to improve our products and services.
@@ -45,7 +45,7 @@ Users may find advertising or other content on our sites that link to the sites 
 
 Third party apps
 
-pd2stats.com and lastbullet.net provides a service that allows developers to create Applications (each, an "App") that can access data that we have collected about you and your uploads. Once authorized those Apps will be able to request the information from our API. Last Bullet does not control the use and storage of your data by those Apps. These sites and services may have their own privacy policies which state the use of your data. 
+pd2stats.com and modworkshop.net provides a service that allows developers to create Applications (each, an "App") that can access data that we have collected about you and your uploads. Once authorized those Apps will be able to request the information from our API. modworkshop does not control the use and storage of your data by those Apps. These sites and services may have their own privacy policies which state the use of your data. 
 
 Advertising
 
@@ -57,7 +57,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 Google Analytics
 
-pd2stats.com and lastbullet.net uses Google Analytics to track user behaviour on our websites. This data is anonymous and will only be used to further improve our webservices. 
+pd2stats.com and modworkshop.net uses Google Analytics to track user behaviour on our websites. This data is anonymous and will only be used to further improve our webservices. 
 
 Third party websites
 
@@ -65,7 +65,7 @@ Users may find advertising or other content on our sites that link to the sites 
 
 Changes to this privacy policy
 
-Last Bullet has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+modworkshop has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 Your acceptance of these terms
 
@@ -73,9 +73,9 @@ By using this sites, you signify your acceptance of this policy and [terms of se
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this sites, or your dealings with this sites, please contact us at: [administration@lastbullet.net](mailto:administration@lastbullet.net?Subject=TermsOfService)  
+If you have any questions about this Privacy Policy, the practices of this sites, or your dealings with this sites, please contact us at: [mail@modworkshop.net](mailto:mail@modworkshop.net?Subject=TermsOfService)  
 
 
 Latest Changes
 
-This document was last updated on October 9th, 2016 
+This document was last updated on April 24th, 2017 
