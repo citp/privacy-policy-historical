@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullsail.edu privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524051440id_/https%3A//www.fullsail.edu/policies-and-guidelines/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullsail.edu privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913074022id_/https%3A//www.fullsail.edu/policies-and-guidelines/your-privacy-rights) for the most accurate reproduction.*
 
 # Full Sail University
 
