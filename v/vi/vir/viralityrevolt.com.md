@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralityrevolt.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512054110id_/http%3A//www.viralityrevolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralityrevolt.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913221333id_/http%3A//www.viralityrevolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ViralityRevolt
 
@@ -93,3 +93,9 @@ The Data Controller reserves the right to make changes to this privacy policy at
 ### INFORMATION ABOUT THIS PRIVACY POLICY
 
 Latest update: January 12, 2014
+
+**Contact:**
+
+**ViralityRevolt.com**
+
+**707 G St., #207, San Diego, CA 92101**
