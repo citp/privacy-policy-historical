@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designmoo.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617010651id_/http%3A//clipart.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmoo.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914002029id_/http%3A//clipart.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clipart.me
 
