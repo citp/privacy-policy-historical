@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onads.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109211333id_/http%3A//onads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onads.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913113421id_/http%3A//www.onads.com/privacy.html) for the most accurate reproduction.*
 
-# OnAds.com - Game Advertising Network
+# OnAds.com Game Advertising Network
 
 Effective Jan 11th, 2003
 
