@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justbats.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095058id_/http%3A//www.justbats.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justbats.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913231923id_/http%3A//www.justbats.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,6 +80,6 @@ If we ever make alterations to this privacy policy, we will do our best to infor
 
 Contact Us
 
-If you have any questions regarding this privacy policy, please contact us at 1-866-321-BATS (2287), or email us at [support@justbats.com](mailto:support@JustBats.com), and we will make our best efforts to respond within 24 hours.
+If you have any questions regarding this privacy policy, contact us by  **email** : [support@justbats.com](mailto:support@justbats.com),  **[Live Chat](http://chat.justbats.com/webchat/main.aspx?QueueName=CHAT-JUSTBATS "JustBats.com Live Chat")** , or our **  toll-free phone number**: [1-866-321-BATS (2287)](tel:18663212287) and we will make our best efforts to respond within 24 hours.
 
 Effective Date: January 18, 2013
