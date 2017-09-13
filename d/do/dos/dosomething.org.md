@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320214711id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913052151id_/https%3A//www.dosomething.org/us/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DoSomething.org | Volunteer for Social Change
 
