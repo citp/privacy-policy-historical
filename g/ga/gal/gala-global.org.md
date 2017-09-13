@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gala-global.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329035027id_/https%3A//www.gala-global.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gala-global.org privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913075213id_/https%3A//www.gala-global.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GALA Global
 
@@ -8,7 +8,7 @@ This policy is effective as of 01 October 2015.
 
 This Privacy Policy is designed to help you understand how Globalization and Localization Association (“GALA”) collects and uses User information from the GALA websites (each a “Site” and collectively the “Sites”) as well as all other services, features, content, or applications offered through any of the Sites (collectively, the "Services"). Please read this Privacy Policy carefully before using a Site or the Services offered.
 
-By using or accessing a Site or the Services, you are accepting the practices described in this Privacy Policy as well as accepting [GALA’s Terms of Use](https://web.archive.org/web/20160329035027id_/https%3A//www.gala-global.org/terms-use) (“TOU”).
+By using or accessing a Site or the Services, you are accepting the practices described in this Privacy Policy as well as accepting [GALA’s Terms of Use](https://web.archive.org/web/20170913075213id_/https%3A//www.gala-global.org/terms-use) (“TOU”).
 
 #### 1\. WHO WE ARE:
 
