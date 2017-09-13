@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubed.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511195918id_/http%3A//lubed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubed.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913173443id_/https%3A//lubed.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
