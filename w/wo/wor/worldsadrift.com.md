@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsadrift.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607213408id_/http%3A//www.bossastudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsadrift.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913074248id_/http%3A//www.bossastudios.com/privacy) for the most accurate reproduction.*
 
 # Bossa Privacy and Cookie Policy | Bossa Studios
 
