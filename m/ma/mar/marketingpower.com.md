@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingpower.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128232307id_/https%3A//www.ama.org/Pages/privacypolicy.aspx%3Fclicksrc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingpower.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914004914id_/https%3A//www.ama.org/Pages/privacypolicy.aspx%3Fclicksrc%3Dfooter) for the most accurate reproduction.*
 
 # American Marketing Association's Privacy Policy
 
@@ -222,8 +222,8 @@ A copy of this Privacy Policy (and any significant changes) can be obtained from
 You may exercise your right to withdraw your consent to applicable uses or disclosures of your Personal Information (which may limit or terminate the products and services that AMA provides to you) either a) making changes to your profile via our on-line portal, or b) by writing or sending an email to us at the following address:
 
 The American Marketing Association  
-311 S. Wacker Drive, Suite 5800  
-Chicago, IL 60606  
+130 E. Randolph Street, 22nd Floor  
+Chicago, IL 60601  
 Tel: (800) AMA-1150 or (312) 542-9000  
 Fax: (312) 542-9001
 
