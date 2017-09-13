@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalvillagespace.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612032708id_/http%3A//www.globalvillagespace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalvillagespace.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913032527id_/https%3A//www.globalvillagespace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Village Space
 
