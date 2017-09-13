@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonerwolf.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207000756id_/https%3A//lonerwolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonerwolf.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913063631id_/https%3A//lonerwolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ LonerWolf
 
