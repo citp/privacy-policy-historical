@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dispensaries.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417030128id_/https%3A//www.dispensaries.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispensaries.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913154458id_/https%3A//www.dispensaries.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dispensaries
 
