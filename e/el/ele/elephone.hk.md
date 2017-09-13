@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephone.hk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609202831id_/http%3A//www.elephone.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephone.hk privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913101856id_/http%3A//www.elephone.hk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Keep Expecting and Be Surprised-Elephone Official
 
@@ -35,4 +35,4 @@ We do not sell, exchange or leak your personal information to outside, but not i
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-[ ](https://web.archive.org/ "ELEPhone Store") Copyright © 2016 ELEPhone. All Rights Reserved. 
+[ ](https://web.archive.org/ "ELEPhone Store") Copyright © 2016 ELEPHONE. All Rights Reserved. 
