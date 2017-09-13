@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfuel.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122231045id_/http%3A//gfuel.com/pages/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfuel.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913174237id_/https%3A//gfuel.com/pages/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy – G FUEL
 
@@ -11,6 +11,10 @@ Thank you for visiting this website, a digital marketplace for our products and 
 We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the "Information".
 
 _**Lucky Orange Web Analytics Service.**_ This site also uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on the website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://luckyorange.com/disable.php>. Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
+
+_**Google Firebase**_. This site also utilizes Google Firebase when accessed through our mobile app. Google Firebase stores and syncs data between users and devices, aids in diagnosing problems, bugs and crashes of the mobile app and manages users. Google Firebase usage is subject to Google's Privacy Policy which can be found at <https://www.google.com/policies/privacy/>.
+
+**Google Analytics.** Our site utilizes Google Analytics. To opt-out of Google’s use of cookies, please visit Google Ads Settings at <https://adssettings.google.com/u/0/authenticated>. To opt-out of all other third party use of cookies, please visit the Network Advertising Initiative page <http://optout.networkadvertising.org/#!/>.
 
 _**1\. Information You Provide To Us.** _At some Services, you can register, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online social media communities. In the course of these various offerings, we often seek to collect from you various forms of information, such as: name, address, e-mail address, telephone number, fax number and credit card information. **  
 **
