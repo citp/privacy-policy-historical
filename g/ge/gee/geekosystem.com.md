@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekosystem.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623215859id_/https%3A//www.themarysue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekosystem.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913184958id_/https%3A//www.themarysue.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Mary Sue
 
@@ -61,6 +61,10 @@ This type of information is collected anonymously by approved third-party partne
   * Research information (data collected from partners)
 
 
+
+**YOUR RIGHTS AS A CALIFORNIA RESIDENT**
+
+Residents of California have the right to request from us certain information with respect to the types of personal information we share with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at office@themarysue.com. Your request should specify your full name and the email address you used when submitting personal information to us.
 
 **Children Under 13**
 
