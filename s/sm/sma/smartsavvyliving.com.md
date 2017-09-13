@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsavvyliving.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005735id_/http%3A//www.smartsavvyliving.com/disclosure-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsavvyliving.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913221559id_/https%3A//www.smartsavvyliving.com/disclosure-and-privacy-policies) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policies
 
@@ -29,7 +29,7 @@ Smart Savvy Living is a participant in the Amazon Services LLC Associates Progra
 **Privacy Policy:**  
 Smart Savvy Living will not put your email on spam lists or sell your information to other companies. This includes email addresses submitted via newsletter requests and giveaways. If there happens to be a special exception, you will be thoroughly alerted prior to submitting your email. Any submitted addresses or other personal information due to giveaway and contest wins will only be used to give to the sponsors so that they may send you your prize. However, we cannot be held responsible or know what the sponsor may do with your information after receiving it.  Smart Savvy Living is not responsible for the privacy practices of advertisers or blog commenters. Any information contributors to Smart Savvy Living collect will only be used for private contact such as in the event of needing to confirm a giveaway win.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/opt_out.asp)
 
 _www.smartsavvyliving.com uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s  [Ad Settings](https://www.google.com/settings/ads%E2%80%8E%3Cbr%20/%3E%3Cbr%20/%3E%3Cbr%20/%3E%3Cbr%20/%3E%3Cbr%20/%3E%3Cbr%20/%3E%3Cbr%20/%3E) page. Users can completely block Google Analytics tracking using[Google’s Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout)._
 
@@ -40,8 +40,8 @@ when you visit our Web site.  These companies may use non-personally identifia
 or scrolled over) during your visits to this and other Web sites in order to provide  
 advertisements about goods and services likely to be of greater interest to you.  These  
 companies typically use a cookie or third party web beacon to collect this information.  To learn  
-more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/www.networkadvertising.org).  To  
-opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](http://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/choices).
+more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](https://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/www.networkadvertising.org).  To  
+opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](https://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/choices).
 
 **What information do we collect?**
 
@@ -112,4 +112,4 @@ This policy was last modified on 4/8/13
 
 If you have any questions, please email us at [smartsavvyliving@gmail.com](mailto:smartsavvyliving@gmail.com).
 
-This policy is powered by Trust Guard, your [PCI compliance](http://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/65.htm) authority.
+This policy is powered by Trust Guard, your [PCI compliance](https://d26p2d0kn5n3d9.cloudfront.net/wp-content/uploads/2013/04/65.htm) authority.
