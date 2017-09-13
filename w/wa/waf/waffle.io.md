@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waffle.io privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304054244id_/https%3A//waffle.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waffle.io privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913112726id_/https%3A//waffle.io/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - CA Technologies
 
@@ -60,9 +60,13 @@ Data Processor
   
 **Binding Corporate Rules (controller)**
 
-|   | x | Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see listing on EU Commission website.  
+|   | x | 
+
+Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see listing on EU Commission website.
+
+Click [here](https://web.archive.org/content/dam/ca/us/files/supportingpieces/binding-corporate-rules-for-website-ro-and-jk-8-16-17.pdf) to see more about our BCRs.  
   
-**Privacy Shield***
+**Privacy Shield**
 
 | x |   | Click [here](http://www.privacyshield.gov/) for details.  
   
@@ -72,17 +76,17 @@ Data Processor
   
 **Standard Contractual Clauses (customer/CA)**
 
-| x |   | Click [here](https://web.archive.org/content/cacom/en_us/legal/privacy/data-transfers.html) to download CA’s Data Processing Agreement.  
+| x |   | Click [here](https://web.archive.org/us/legal/privacy/data-transfers.html) to download CA’s Data Processing Agreement.  
   
 **_Binding Corporate Rules (CA as a Controller)_**
 
 CA has developed a set of Binding Corporate Rules (BCRs) to ensure uniform, comprehensive data protection and privacy standards for the handling of personal data. CA relies on these BCRs for the transfer of data globally among CA entities in those cases where CA acts as the data controller.
 
-Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see CA’s listing on the European Commission’s BCR website and the categories of data it covers.
+Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see CA’s listing on the European Commission’s BCR website and the categories of data it covers. Click [here](https://web.archive.org/content/dam/ca/us/files/supportingpieces/binding-corporate-rules-for-website-ro-and-jk-8-16-17.pdf) to see more about our BCRs.
 
 **_Privacy Shield (CA as Processor)_**
 
-Where CA acts as a data processor, CA, Inc. and its U.S. subsidiaries comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from EEA member countries. CA, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, and to view CA’s certification page, please visit <https://www.privacyshield.gov/>.
+Where CA acts as a data processor, CA, Inc. and its U.S. subsidiaries, and all entities using the brand name CA Technologies, comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. CA, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. . If there is any conflict between the policies in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view CA’s certification page, please visit <https://www.privacyshield.gov/>.
 
 Personal data covered by the Privacy Shield Framework may be provided to a third party as described in Q4 below. CA is accountable for personal data that it receives under the Privacy Shield Framework and transfers to a third party as set forth in the Privacy Shield Principles. CA remains liable under the Privacy Shield Principles if third-parties engaged to process personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless CA proves that it is not responsible for the event(s) giving rise to the damage.
 
@@ -90,17 +94,15 @@ Note that compliance by CA with the Privacy Shield Principles will be administer
 
 If you have a complaint about CA’s use of your data under the Privacy Shield Framework, see Q11 “ _What should you do if you have a question or a complaint regarding how CA is handling your personal data?”_  for information on what to do.
 
-CA’s participation in the Privacy Shield Framework applies to all personal data that it receives from the EEA which is processed by CA as a data processor. It excludes HR data.
-
-CA, Inc. abides by the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. CA, Inc. has certified that it adheres to the Safe Harbor Principles. For more information on the U.S.-Swiss Safe Harbor Framework, including the Safe Harbor Principles, and to view the scope of CA’s certification, please visit <http://www.export.gov/safeharbor/>.
+CA’s participation in the Privacy Shield Framework applies to all personal data that it receives from the European Union and Switzerland which is processed by CA as a data processor. It excludes HR data.
 
 **_Standard Contractual Clause (CA as Processor)_**
 
 (i) For the transfer of personal data between CA entities in the performance of its customer contracts CA has executed an intercompany data processing agreement with attached Standard Contractual Clauses. Contact [CA](mailto:datatransfers@ca.com?subject=Intercompany%20Model%20Clauses) for details.
 
-(ii) CA offers customers the right to enter into a customer specific data processing agreement with attached Standard Contractual Clauses. Click [here](https://web.archive.org/content/cacom/en_us/legal/privacy/data-transfers.html) to download CA’s Data Processing Agreement.
+(ii) CA offers customers the right to enter into a customer specific data processing agreement with attached Standard Contractual Clauses. Click [here](https://web.archive.org/us/legal/privacy/data-transfers.html) to download CA’s Data Processing Agreement.
 
-For information on CA’s data transfer mechanisms, click [here](https://web.archive.org/content/cacom/en_us/legal/privacy/data-transfers.html).
+For information on CA’s data transfer mechanisms, click [here](https://web.archive.org/us/legal/privacy/data-transfers.html).
 
 ### **Q4: How does CA share your information?**
 
@@ -132,7 +134,8 @@ CA may disclose information it has collected about you if required or advisable 
 
 ### **Q5: What are CA’s security levels for your data?**
 
-CA’s intent is to strictly protect the security of your personal information; honor your choice for its intended use; and carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. CA has taken appropriate steps to safeguard and secure information we collect, including the use of encryption when collecting or transferring sensitive data such as credit card information. However, you should always take into consideration that the internet is an open forum and that data may flow across networks with little or no security measures, and therefore such information may be accessed by people other than those you intended to access it.
+CA’s intent is to strictly protect the security of your personal information; honor your choice for its intended use; and carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. CA has taken appropriate steps to safeguard and secure information we collect, including the use of encryption when collecting or transferring sensitive data such as credit card information. However, you should always take into consideration that the internet is an open forum and that data may flow across networks with little or no security measures, and therefore such information may be accessed by people other than those you intended to access it. Click [here](https://web.archive.org/content/dam/ca/us/files/supportingpieces/ca-information-security-practices.pdf) to learn more about how CA secures information.  
+
 
 ### **Q6: Can you update the information you provide to CA?**
 
@@ -211,7 +214,7 @@ CA uses Web beacons alone or in conjunction with cookies to compile information 
 
 **_IP Addresses_**
 
-When you visit CA’s websites, CA collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, CA uses IP addresses to monitor the regions from which Customers and Visitors navigate CA’s websites. CA also collects IP addresses from Customers when they log into the Services as part of CA’s “Identity Confirmation” and “IP Range Restrictions” security features.
+When you visit CA’s websites, CA collects your Internet Protocol (“IP”) addresses to track and aggregate information. For example, CA uses IP addresses to monitor the regions from which Customers and Visitors navigate CA’s websites. CA also collects IP addresses from Customers when they log into the Services as part of CA’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
 **_Do Not Track_**
 
@@ -221,7 +224,7 @@ Certain browsers like Internet Explorer, Firefox and Safari offer a “do not tr
 
 Portions of this website make chat rooms, forums, blogs, message boards, and/or news groups available to Visitors. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information.
 
-Use of these portions of our website may be subject to additional terms. Additional information about community and support sites can be found at our [Terms for User Sites](https://web.archive.org/content/cacom/en_us/legal/terms-for-user-sites.html) on ca.com.
+Use of these portions of our website may be subject to additional terms. Additional information about community and support sites can be found at our [Terms for User Sites](https://web.archive.org/us/legal/terms-for-user-sites.html) on ca.com.
 
 In addition, CA’s websites may use social media functionality like the Facebook “like” button which may collect your IP address and which page you are visiting on CA’s website, and may set a cookie to enable the feature to function properly. You may be given the option by that social media site to post information about your activities on CA’s websites to your profile page on that social media site. Your interactions with these features are governed by the privacy policy of the company that is providing them.
 
@@ -229,31 +232,21 @@ In addition, CA’s websites may use social media functionality like the Faceboo
 
 If you have any questions, concerns, or comments about our privacy statement or practices, please contact CA via email at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “PRIVACY POLICY” in the subject line. All emails will be read promptly and we endeavor to provide an initial response to the sender within 5-7 business days indicating the complaint will be investigated.
 
-To the extent you have a question, request, inquiry or complaint regarding personal data for which CA acts as a data processor (which may include information provided to CA by your company or other third party), CA may have to reach out to our corporate customers in order to comply with requests relating to the handling of such personal data. For these reasons, we ask that if you wish to request access, to limit use, or to limit disclosure to such personal data, please provide the name of the CA customer who provided your data to CA. CA will then work with that customer to help ensure that your request is addressed.
-
-### **Privacy Shield Complaints**
-
-CA will provide an initial response to any Privacy Shield complaint within 45 days from the complaint. If we fail to respond within that time, or if our response does not address your concern, CA has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to [BBB EU PRIVACY SHIELD](http://www.bbb.org/EU-privacy-shield/about-program/), a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
-
-If neither CA nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
-
-All of the above recourses are free of charge for the individual raising the complaint.
-
-All issues raised will be investigated until completion, and all matters will be handled in compliance with the Principles of the [EU-U.S. Privacy Shield](http://www.privacyshield.gov/).
-
-### US-Swiss Safe Harbor Complaints
-
-CA complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. CA has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. If there is any conflict between the policies in this Privacy Statement and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page please visit <http://www.export.gov/safeharbor/swiss>.
-
-In compliance with the US-Swiss Harbor Principles, CA commits to resolve complaints about your privacy and our collection or use of your personal data. Swiss citizens with inquiries or complaints regarding this policy should first contact CA at:
+You may also reach out by regular mail to:
 
 CA Technologies  
 520 Madison Avenue  
 New York, NY 10022  
 Attention: Bonnie Yeomans, Assistant General Counsel and Privacy Officer
 
-[privacyhelpline@ca.com](mailto:privacyhelpline@ca.com)
+To the extent you have a question, request, inquiry or complaint regarding personal data for which CA acts as a data processor (which may include information provided to CA by your company or other third party), CA may have to reach out to our corporate customers in order to comply with requests relating to the handling of such personal data. For these reasons, we ask that if you wish to request access, to limit use, or to limit disclosure to such personal data, please provide the name of the CA customer who provided your data to CA. CA will then work with that customer to help ensure that your request is addressed.
 
-CA has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+### **Privacy Shield Complaints**
 
-Visit the [Canadian Privacy Policy page](https://web.archive.org/content/cacom/en_us/legal/privacy/canada-privacy.html) for additional information about CA Canada.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, CA commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Statement should first contact CA as set forth in the answer to Question 11 above. CA will provide an initial response to any Privacy Shield complaint within 45 days from the complaint. CA has further committed to refer unresolved Privacy Shield complaints under the EU-US and Swiss-US Privacy Shield Principles to the [BBB EU PRIVACY SHIELD](http://www.bbb.org/EU-privacy-shield/), operated by the Council of Better Business Bureaus, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint. The services of the BBB EU PRIVACY SHIELD are provided at no cost to you.
+
+If neither CA nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
+
+All issues raised will be investigated until completion, and all matters will be handled in compliance with the Principles of [Privacy Shield](http://www.privacyshield.gov/).
+
+Visit the [Canadian Privacy Policy page](https://web.archive.org/us/legal/privacy/canada-privacy.html) for additional information about CA Canada.
