@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicket.co.za privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327102721id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicket.co.za privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913052432id_/https%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Quicket
 
@@ -8,7 +8,7 @@ This Privacy Policy sets forth Quicket's policy with respect to information, inc
 
 Quicket takes the privacy of your Personal Data and other information seriously. Because of that, Quicket has created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information. 
 
-If you have any questions or concerns, please do not hesitate to contact us by using the following link: http://www.quicket.co.za/contactus.aspx. 
+If you have any questions or concerns, please do not hesitate to contact us by using the following link: https://www.quicket.co.za/contactus.aspx. 
 
 ## Consent:
 
@@ -34,7 +34,8 @@ Non-Identifiable Data: When you interact with the Site, we collect certain perso
 
 Cookies: In operating the Site, we use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyse Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. These cookies may be used to tailor content you see on the Site as well as other sites that you may visit in the future. Through your web browser's option settings you may be able (i) to receive notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser's help section for information on how to do this. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site's features. 
 
-Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading. 
+Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading.   
+If you are logged in to the Site, we attach a non personally identifiable cookie to your device which contains no information about you. This is done in to improve our understanding of how users interact across devices with our website. If you would prefer this cookie not be set when you are logged in please contact us so we can disable this for you. 
 
 DoubleClick: We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future when you visit other websites which display Google Ads. 
 
@@ -85,7 +86,7 @@ Limit the Personal Data You Provide: You can use the Site without providing any 
 
 Opt Out: You can "opt out" of receiving Quicket newsletter emails by clicking on the "unsubscribe" link in newsletter emails. It may take up to 24 hours for us to process 
 
-an unsubscribe request. Note that you cannot unsubscribe from Quicket Service communications via the Site. You can stop receiving Quicket Service communications only by contacting us at http://www.Quicket.co.za/contactus.aspx and closing your account. Even after you opt out of all communications, Quicket will retain your Personal Data and Non- Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. Organizers who have received your Personal Data in accordance with this Privacy Policy may continue to use that Personal Data to contact you in accordance with their own privacy policies, but they may not use Quicket's system to do so. 
+an unsubscribe request. Note that you cannot unsubscribe from Quicket Service communications via the Site. You can stop receiving Quicket Service communications only by contacting us at https://www.Quicket.co.za/contactus.aspx and closing your account. Even after you opt out of all communications, Quicket will retain your Personal Data and Non- Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. Organizers who have received your Personal Data in accordance with this Privacy Policy may continue to use that Personal Data to contact you in accordance with their own privacy policies, but they may not use Quicket's system to do so. 
 
 ## Exclusions:
 
@@ -117,4 +118,4 @@ The Site and our business may change from time to time. As a result, at times it
 
 ## Access to Information; Contacting Company:
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site. Please also feel free to contact us if you have any questions about Quicket's Privacy Policy or the information practices of the Site. You may contact us at the following address: http://www.Quicket.co.za/contactus.aspx. 
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site. Please also feel free to contact us if you have any questions about Quicket's Privacy Policy or the information practices of the Site. You may contact us at the following address: https://www.Quicket.co.za/contactus.aspx. 
