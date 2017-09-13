@@ -1,73 +1,41 @@
-> *The following text is extracted and transformed from the bobswatches.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325042306id_/https%3A//www.bobswatches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobswatches.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913111011id_/https%3A//www.bobswatches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Designer Rolex Luxury Timepieces at Bob's Watches
 
-Privacy Notice
+This privacy policy discloses the privacy practices for Bob’s Watches. This privacy policy applies solely to information collected by the Bob’s Watches Services (as defined in the Terms and Conditions). It will notify you of the following:
 
-This privacy notice discloses the privacy practices for Bob’s Watches. This privacy notice applies solely to information collected by this Web site. It will notify you of the following:
+What personally identifiable information is collected from you through the Services, how it is used and with whom it may be shared. What choices are available to you regarding the collection, use and distribution of your data. The security procedures in place to protect the loss, misuse or alteration of information under Bob’s Watches control. How you can update or correct any inaccuracies in your information.
 
-  1. What personally identifiable information is collected from you through this Web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the collection, use and distribution of your data.
-  3. The security procedures in place to protect the loss, misuse or alteration of information under Bob’s Watches control.
-  4. How you can update or correct any inaccuracies in your information.
+**Information Collection, Use and Sharing**
 
-
-
-Information Collection, Use and Sharing  
 We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
 
-The personal information you provide us may be shared with third parties. This information may be combined with other personally identifiable information, such as demographics, available from our records. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. If you prefer that we do not share your name and address with our marketing partners, please contact us via email.
+The personal information you provide us may be shared with third parties. This information may be combined with other personally identifiable information, such as demographics, available from our records. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. 
 
-Your Access to and Control Over Information  
+We respect our user's privacy and do not tolerate spam and will never sell, rent, lease or give away information (name, address, email, etc.). Nor will we send unsolicited emails.
+
+Your Access to and Control Over Information
+
 If you subscribe to our mailing list, you may opt out of any future contacts from us at any time by contacting us via email. You can also do the following:
 
-  1. See what data we have about you, if any.
-  2. Change/correct any data we have about you.
-  3. Have us delete any data we have about you.
-  4. Express any concern you have about our use of your data.
+Change/correct any data we have about you. Have us delete any data we have about you. Express any concern you have about our use of your data.
 
+**Security**
 
+We take precautions to protect your information. When you submit sensitive information via the Services, your information is protected both online and offline.
 
-Security  
-We take precautions to protect your information. When you submit sensitive information via the Web site, your information is protected both online and offline.
-
-Wherever we collect sensitive information, such as credit card data, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your Web browser, or looking for "https" at the beginning of the address of the Web page.
+Wherever we collect sensitive information, such as credit card data, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your Web browser, or looking for "https" at the beginning of the address of the website.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
 
-## Web analysis services
+**Web analysis services**
 
-**a.** **General information**
+**a. General information**
 
 To shape our website according to needs and to continually optimize our service, we use web analysis services (“Google Universal Analytics” by Google Inc. and “MobileAppTracking”). Within this context, pseudonymized usage profiles are created and small text files that are saved on your computer (“cookies”) are used. The information collected by the cookie on your use of this website such as
 
-  * browser type/version,
-  * operating system used,
-  * referrer URL (the page visited previously),
-  * host name of the accessing computer (IP address),
-  * time of server access,
-
-
-
-is transmitted to a server in the US and stored there. The information is used to evaluate use of the website, to compile reports on website activity and to provide further services associated with website and Internet use for the purposes of market research and needs-based design of these web pages. This information may also be forwarded to third parties as appropriate, insofar as this is prescribed by law or insofar as these parties process the data on behalf of the commissioning party. On no account will your IP address be linked with other data of the service providers. IP addresses are anonymized to exclude all possibility of such association (IP masking).
+browser type/version, operating system used, referrer URL (the page visited previously),host name of the accessing computer (IP address),time of server access, is transmitted to a server in the US and stored there. The information is used to evaluate use of the website, to compile reports on website activity and to provide further services associated with website and Internet use for the purposes of market research and needs-based design of these web pages. This information may also be forwarded to third parties as appropriate, insofar as this is prescribed by law or insofar as these parties process the data on behalf of the commissioning party. On no account will your IP address be linked with other data of the service providers. IP addresses are anonymized to exclude all possibility of such association (IP masking).
 
 The user can prevent the installation of cookies by adjusting his/her browser accordingly; however, we must point out that in this case not all functions of the web site may be available to the user to their full extent.
 
 Alternatively, the providers of the web analysis services offer various options to prevent the information generated by the cookie from being collected and further processed. You can find more information on the various options in Section 9.d).
-
-**b.** **Hotjar**
-
-We also use Hotjar, a web analysis service by Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St. Julians STJ 1000, Malta. In this context, cookies are placed. The cookies are automatically deleted after 365 days. You can find an overview of the cookies used [here](http://docs.hotjar.com/docs/cookies-stored-by-hotjar).
-
-The information recorded by the cookies is transferred to servers in the Europe and stored there. The information is used to record anonymously the behavior of visitors to our website. Mouse movements and clicks, for example, are recorded. This does not apply to recording key strokes when entering passwords or payment data. The evaluation of the information is used to provide a more user-friendly website design.
-
-Recording and evaluating the information does not allow us to identify you personally. The information is anonymized through the use of the so-called UUID (Universally Unique Identifier). This allows us to identify repeat visitors to our website without being able to personally identify the person.
-
-Your data is not passed on to third parties except where there is a statutory obligation to pass on the details or if the data is processed for us by a third party (e.g. in a computer center).
-
-If you do not want Hotjar to record your behavior on our website, in addition to changing the corresponding cookie settings in your browser, you can disable JavaScript in your browser.
-
-More detailed information on data privacy when using Hotjar can also be found in the [Hotjar Privacy Policy](https://www.hotjar.com/privacy).
-
-
-
