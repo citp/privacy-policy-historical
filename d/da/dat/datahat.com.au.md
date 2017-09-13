@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datahat.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080411id_/https%3A//datahat.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datahat.com.au privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913211600id_/https%3A//datahat.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Data Hat
 
