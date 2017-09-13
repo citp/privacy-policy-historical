@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223141323id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913133528id_/https%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
 
 # Translation Service - Confidentiality - Translated
 
@@ -23,7 +23,7 @@ These guarantees shall not be applicable in the event that Translated is require
 
 Translated has written this privacy statement to demonstrate its complete respect of your privacy. The text below describes the practices for collecting and distributing information in Translated's possession. This document refers to the following domains: 
 
-  * [Translated.net](http://www.translated.net/)
+  * [Translated.net](https://www.translated.net/)
 
 
 
@@ -34,7 +34,7 @@ Translated uses a form to acquire information related to an order. In addition t
 
 ## Newsletter & emails
 
-We send you emails for a variety of reasons. These may include confirmations of orders or registrations. Our communication may also include information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at [http://www.translated.net](http://www.translated.net/) or by writing to [info@translated.net](mailto:info@translated.net). 
+We send you emails for a variety of reasons. These may include confirmations of orders or registrations. Our communication may also include information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at [www.translated.net](https://www.translated.net/) or by writing to [info@translated.net](mailto:info@translated.net). 
 
 Any emails we send are saved by us and any emails that may be regarded as business letters will not be deleted during the statutory retention period. Furthermore, in the case of our newsletter emails, we record (e.g. by means of a so-called “tracking pixel”) whether an email is opened and which links in the email are clicked on; we do so to optimize our offers and tailor their design to meet your needs. We use this data to enable us to send newsletter contents that matches your profile. 
 
