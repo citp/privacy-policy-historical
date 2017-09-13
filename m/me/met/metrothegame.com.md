@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrothegame.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627222818id_/http%3A//www.deepsilver.com/en/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrothegame.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913145216id_/http%3A//www.deepsilver.com/en/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions | Deep Silver
 
