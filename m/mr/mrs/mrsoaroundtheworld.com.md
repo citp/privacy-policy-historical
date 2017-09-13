@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsoaroundtheworld.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210115525id_/http%3A//mrsoaroundtheworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsoaroundtheworld.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913202104id_/https%3A//mrsoaroundtheworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,9 +74,7 @@ This policy was last modified on July, 2015
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-> [Mrs. O Around the World – a luxury travel blog by Ana Silva O’Reilly](http://mrsoaroundtheworld.com/)
-
-  
+https://mrsoaroundtheworld.com  
 ana (at) mrsoaroundtheworld.com
 
   
