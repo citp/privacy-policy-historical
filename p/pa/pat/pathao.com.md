@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pathao.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018191103id_/http%3A//pathao.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathao.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913084220id_/https%3A//pathao.com/privacy) for the most accurate reproduction.*
 
-# Pathao.com - Advanced Logistics in Dhaka
+# Pathao - Privacy
 
 This privacy policy describes how the Pathao.com website and related application (the "Site", "we" or "us") collects, uses, shares and protects the personal information that we collect through this Site. Pathao has established this Site to link up users who need something shipped or delivered ("Customers") with individuals who will provide the shipping and delivery services ("Couriers") or teams of affiliated Couriers ("Teams"). This policy also applies to any mobile applications that we develop for use with our services and Team specific pages on the Site, and references to this "Site", "we" or "us" is intended to also include these mobile applications. Please read below to learn more about our information practices. By using this Site, you agree to these practices.
 
