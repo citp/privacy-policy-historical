@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spot.ph privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031213id_/http%3A//www.spot.ph/privacy-policy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spot.ph privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913080918id_/https%3A//www.spot.ph/privacy-policy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
 
 # Privacy Policy | SPOT.ph
 
