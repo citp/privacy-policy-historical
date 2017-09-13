@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicemudra.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410050700id_/http%3A//www.spicemudra.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicemudra.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913170331id_/https%3A//spicemudra.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Money Transfer Business | Become Money Transfer Agent- Spice Mudra
+# Money Transfer Business | Become Money Transfer Agent- Spice Money
 
 This Privacy Policy (“Policy”) governs the manner in which Spice Digital Limited (the “Company” or “We”) collects, gains access to, uses, maintains and discloses information including personal information of the users (each, a “User”) of various services (“Services”) provided by the Company, either through website of the Company or through mobile applications or network telecom operators. Please note that the scope of this Policy is limited to the aforesaid information collected or received by the Company through your use of the Services. By using the Service, you are expressing your agreement to this Policy and the processing of your information, including your personal information, in the manner provided in this Policy. If you do not agree to these terms, please do not use the Service and do not provide the permissions when specifically asked by the Company. 
 
