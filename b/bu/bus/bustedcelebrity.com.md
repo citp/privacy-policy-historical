@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bustedcelebrity.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126141138id_/https%3A//www.showbizspy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedcelebrity.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913213227id_/https%3A//www.showbizspy.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY - SHOWBIZ SPY
+# PRIVACY ⋆ SHOWBIZ SPY
 
 This privacy statement covers Showbiz Spy:
 
