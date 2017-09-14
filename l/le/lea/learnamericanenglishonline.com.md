@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082418id_/http%3A//www.learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914194737id_/https%3A//learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
