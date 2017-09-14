@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223055107id_/https%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914150948id_/https%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Canstar Pty Limited – Privacy Policy
 
-Version: 21 February 2017
+**Version: 4  September 2017**
 
 **CANSTAR Pty Limited AR 443019 recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.**
 
@@ -14,17 +14,18 @@ When we refer to our ‘website’, we are referring to the CANSTAR website on a
 
 **What information do we collect?**
 
-Because we strive to provide our website users with personalized services showing the information most relevant to them, from time to time we request and store some private information about you.  We will only use that information in accordance with this policy.
+Because we strive to provide our website users with personalised services showing the information most relevant to them, from time to time we request and store some private information about you.  We will only use that information in accordance with this policy.
 
 We collect and hold information about you when you access and use our services through our website.  The types of information we keep on record will depend on the type of product or service requested by you.
 
 Generally, we keep a record of the following types of information about you:
 
   * Personal information that you give us when you use the website, such as your name, address, and postcode;
-  * Pages of the website that you have visited,
+  * Pages of the website that you have visited;
+  * The Facebook profile information identified in the ‘Log in’ form, if you choose to log in to our website using Facebook;
   * Other information voluntarily provided by you
   * Any other information we need to enable us to deliver services to you;
-  * Your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet.
+  * Your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet; and
   * Personal information that you give us when you visit the Canstar office, such as photographs we take of you with your permission, and physical or digital signatures.
 
 
@@ -35,7 +36,11 @@ During our dealings with you, we may gather information about you relating to al
 
 We also collect some statistical information about visitors to our website by use of cookies, local storage, data caches and tracking tags (for example, the number of visitors, pages viewed, types of transactions conducted, time online and information accessed).  Other than for statistical information and user behaviour on our website, we do not collect any information about you through our website unless you voluntarily provide the information to us.
 
-Your web browser may automatically accept cookies and local storage on your computer.  You can usually modify your settings to decline cookies and/or local storage if you wish. Note that if you do that, this might stop you from being able to use all the services on our website.  It is usually possible to stop your browser accepting cookies, disable local storage or to stop it accepting cookies from a particular website. Each browser is different, so check the ‘Help’ menu of your browser to learn how to change your preferences. You need not give us any of the personal information that we may request. However, without that information, we may not be able to fulfil your request or provide you with the services you want.
+Your web browser may automatically accept cookies and local storage on your computer.
+
+Canstar also works with selected third parties in providing you services that we think may be of interest to you. Canstar may attach a cookie to your browser during your visit to our websites. These cookies may be used to provide relevant advertising to you by us or third parties, or to determine what marketing or advertising is delivered to you on our website and on other sites.
+
+You can usually modify your settings to decline cookies and/or local storage if you wish. Note that if you do that, this might stop you from being able to use all the services on our website.  It is usually possible to stop your browser accepting cookies, disable local storage or to stop it accepting cookies from a particular website. Each browser is different, so check the ‘Help’ menu of your browser to learn how to change your preferences. You need not give us any of the personal information that we may request. However, without that information, we may not be able to fulfil your request or provide you with the services you want.
 
 If you use a link on our website that takes you to a third party website, this policy will no longer operate.  Third party websites are not operated by or endorsed by Canstar, and the privacy policy of that website will apply to any information you give while visiting it.
 
@@ -56,9 +61,9 @@ We use your personal information to:
   * update you about what we’re doing that you may find of interest;
   * deal with complaints or issues you may have in relation to our services;
   * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
-  * maintain our internal records, such as billing
-  * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing,
-  * help preserve the personal safety and security of our customers, website users, staff and the public,
+  * maintain our internal records, such as billing;
+  * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing;
+  * help preserve the personal safety and security of our customers, website users, staff and the public;
   * provide you with relevant and timely advertising
 
 
@@ -73,15 +78,15 @@ By using our services you are deemed to have consented to our use, disclosure an
 
 We may share your personal information:
 
-  * to any organisation which you request us to, including a financial institution, financial adviser, service provider, product specialist, broker, solicitor, or accountant,
-  * to the cloud, as part of our normal business operations (e.g. backing up our systems, operating a third party app on our website),
-  * to our external service providers such as IT service providers (e.g. a provider of web hosting services). Some of these may be located overseas. Canstar may store your personal information on servers in overseas web hosting facilities,
-  * to our related companies and other organisations where reasonable to do so in relation to the operation of our business,
-  * to protect and defend our rights or property,
-  * if we consider it necessary to do so in order to enforce or apply the terms of any of our agreements with you,
-  * to contractors providing licensed collections services, credit card payment processing and CRM services, who comply with our privacy and security policies,
-  * if we sell our business or part of it,
-  * in extreme circumstances, to protect the personal safety of our customers, website users, staff or the public,
+  * to any organisation which you request us to, including a financial institution, financial adviser, service provider, product specialist, broker, solicitor, or accountant;
+  * to the cloud, as part of our normal business operations (e.g. backing up our systems, operating a third party app on our website);
+  * to our external service providers such as IT service providers (e.g. a provider of web hosting services). Some of these may be located overseas. Canstar may store your personal information on servers in overseas web hosting facilities;
+  * to our related companies and other organisations where reasonable to do so in relation to the operation of our business;
+  * to protect and defend our rights or property;
+  * if we consider it necessary to do so in order to enforce or apply the terms of any of our agreements with you;
+  * to contractors providing licensed collections services, credit card payment processing and CRM services, who comply with our privacy and security policies;
+  * if we sell our business or part of it;
+  * in extreme circumstances, to protect the personal safety of our customers, website users, staff or the public;
   * to law enforcement, regulatory and government bodies, government agencies and courts, if we are required to by law to do so.
 
 
@@ -127,4 +132,4 @@ By email:  enquiries@canstar.com.au
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Office of the Australian Privacy Commissioner, Tel: 1300 363 992 or email:privacy@privacy.gov.au
 
-You acknowledge and accept that your use of the CANSTAR website indicates your acceptance of the CANSTAR website [Terms of Use](http://www.canstar.com.au/terms-of-use/) and this Privacy Policy.
+You acknowledge and accept that your use of the CANSTAR website indicates your acceptance of the CANSTAR website [Terms of Use](https://web.archive.org/terms-of-use/) and this Privacy Policy.
