@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105514id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914211449id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
@@ -9,15 +9,14 @@ Toll Free
   * [Home](http://www.bookvip.com/)
   * [Hot Weekly Deals](http://www.bookvip.com/weeklydeals)
   * [All Vacation Deals](http://www.bookvip.com/vacationspecials)
-  * [Cruise Deals](http://www.bookvip.com/cruise_deals)
   * [About Us](http://www.bookvip.com/home/aboutus)
   * [Customer Video Reviews](http://www.bookvip.com/sitereviews)
 
 
 
-Over 3.5 Million Likes 
+Over 3.7 Million Likes 
 
-3,595,024 Facebook Likes and counting.  
+3,710,563 Facebook Likes and counting.  
 People love our offers, you will too!
 
 ×
