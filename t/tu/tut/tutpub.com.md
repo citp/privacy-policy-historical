@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutpub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021655id_/http%3A//tutpub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutpub.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915011644id_/https%3A//tutpub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tuts Publication Network
 
