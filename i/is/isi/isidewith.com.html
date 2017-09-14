@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the isidewith.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606130228id_/http%3A//www.isidewith.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the isidewith.com privacy policy that was archived on 2017-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170914091006id_/https%3A//www.isidewith.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -89,6 +89,7 @@
 	<script>
 	function getUserCount(){$.get('https://secure.isidewith.com/_scripts/1/userCount.js?r='+Math.round(Math.random()*999999999),function(cnt){if(cnt>$('.userCount').text()){$('.userCount').text(cnt).css({'text-shadow':'none'}).animate({'color':'#0095ff'},100,function(){$('.userCount').animate({'color':'#334866'},1000,function(){$('.userCount').css({'text-shadow':'1px 1px 0px #fff'});});});}setTimeout('getUserCount()',3000);});}if($('.userCount').length!=0){setTimeout('getUserCount()',3000);}
 	</script>
+
 
 
 
@@ -284,7 +285,7 @@
 		<p class="disclaimer disc_note">iSideWith is not affiliated with any political party, candidate, or interest group.</p>
 	</div>
 
-	<!-- created Jun 6, 2017 at 6:02AM and expires Jun 6, 2017 at 7:02AM rendered in 0.01 seconds -->
+	<!-- created Sep 14, 2017 at 2:10AM and expires Sep 14, 2017 at 3:10AM rendered in 0.011 seconds -->
 </div>
 	<script type="text/javascript">
 	function getUserInfo(){
@@ -310,7 +311,7 @@
 						_gaq.push(['_trackEvent','Site Actions','Account','signed_in_pageview=true']);
 						// Show unaswered question count
 						if (getCookie2('questions_notice')==null) {
-							document.cookie='questions_notice=unanswered; path=/; domain=.isidewith.com';
+							document.cookie='questions_notice=new; path=/; domain=.isidewith.com';
 						}
 						if (getCookie2('questions_notice') == 'new' && 0 < user_info['new'] && user_info['new'] == parseInt(user_info['new'])) {
 							_gaq.push(['_trackEvent','AB Tests','Notifications','questions_notice='+getCookie2('questions_notice')]);
@@ -365,7 +366,7 @@
 						_gaq.push(['_trackEvent','Site Actions','Account','signed_in_pageview=true']);
 						// Show unaswered question count
 						if (getCookie2('questions_notice')==null) {
-							document.cookie='questions_notice=new; path=/; domain=.isidewith.com';
+							document.cookie='questions_notice=unanswered; path=/; domain=.isidewith.com';
 						}
 						if (getCookie2('questions_notice') == 'new' && 0 < user_info['new'] && user_info['new'] == parseInt(user_info['new'])) {
 							_gaq.push(['_trackEvent','AB Tests','Notifications','questions_notice='+getCookie2('questions_notice')]);
@@ -480,6 +481,7 @@ $(window).scroll(function() {
 #help_translate_notice label { padding-left: 1em; }
 #help_translate_notice a { color: #663c00; text-decoration: none; border-radius: 3px; border: 1px solid rgba(102,60,0,.35); box-shadow: 1px 1px 0px rgba(255,255,255,.5); padding: 0px 5px; text-transform: lowercase; }
 </style>
+
 
 
 </body></html>
