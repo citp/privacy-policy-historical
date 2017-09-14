@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnerclick.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153828id_/http%3A//runnerclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerclick.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914052055id_/https%3A//runnerclick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,10 +37,12 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Win The Brand New Glycerin 15
+361 Spinject
 
-[](https://www.amazon.com/Brooks-Glycerin-Black-Electric-Athletic/dp/B01N8PO6C6?tag=runnerclick02-20)
+[](http://www.amazon.com/s/?field-keywords=361%20running%20shoes&tag=runnerclickgive-20)
 
-WIN RUNNING GEAR 
+2 pairs giveaway
+
+WIN RUNNING GEAR
 
 ## Subscribe to our newsletters
