@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612085512id_/http%3A//www.merchantcircle.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914180111id_/https%3A//www.merchantcircle.com/pages/privacy.html) for the most accurate reproduction.*
 
 # MerchantCircle
 
