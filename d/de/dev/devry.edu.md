@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307035446id_/https%3A//www.devry.edu/devry-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914211758id_/https%3A//www.devry.edu/devry-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
 
@@ -58,7 +58,7 @@ If you have any questions regarding this privacy policy or would like to have yo
 
 Should you have other questions or concerns about this privacy policy, contact us at:
 
-DeVry Education Group  
+Adtalem Global Education  
 3005 Highland Parkway  
 Downers Grove, IL 60515-5683  
 1-866-338-7934
@@ -69,4 +69,4 @@ contact our International office:
 
 If we are required to provide you with notice of a particular event or incident, we will send you that notice by email, telephone, or mail.
 
-Last revised on November 15, 2016.
+Last revised on May 31, 2017.
