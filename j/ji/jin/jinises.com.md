@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinises.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507214852id_/http%3A//www.jinises.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinises.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914170245id_/http%3A//www.jinises.com/privacy) for the most accurate reproduction.*
 
 # Jinises Privacy Policy
 
