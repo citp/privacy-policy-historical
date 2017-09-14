@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084627id_/https%3A//usablenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914020755id_/http%3A//usablenet.com/privacy) for the most accurate reproduction.*
 
 # Usablenet - Privacy Policy
 
