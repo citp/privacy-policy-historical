@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thementalclub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064945id_/http%3A//thementalclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thementalclub.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914074308id_/http%3A//thementalclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Policy - The Mental Club
 
@@ -10,44 +10,44 @@ When you will register on our site, as appropriate, it may be allowed to enter y
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**How do we use your informations?**
+ **How do we use your informations?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-**To personalize your experience**  
+ **To personalize your experience**  
 (your informations help us to better respond to your individual needs)
 
-**To improve our website**  
+ **To improve our website**  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**To collect informations**
+ **To collect informations**
 
 Your information, whether public or private, will not be sold, exchanged, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**To send periodic emails**  
+ **To send periodic emails**  
 The email address you provide for order processing, will only be used to send you information and updates of the latest posts.
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service provider’s systems to recognize your browser and capture and remember certain information.
 
-**Do we disclose any information to the outside parties?**
+ **Do we disclose any information to the outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Online Privacy Policy Only**
+ **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
+ **Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.thementalclub/terms](http://www.thementalclub.com/terms "Terms & Conditions")
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy**
+ **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
