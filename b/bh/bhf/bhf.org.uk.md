@@ -1,147 +1,139 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201212818id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914095128id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Our privacy and cookies policy
 
-## What this privacy and cookie policy covers
+The British Heart Foundation is committed to protecting your personal information and being transparent about what information we hold, whether you are a donor, volunteer, shopper or campaigner.
 
-The British Heart Foundation is committed to protecting your personal information, whether you are a donor, volunteer, shopper or campaigner. This policy explains how the BHF and all of its subsidiaries collects and uses the personal information you provide to us and that we collect, whether online, via phone, email, in letters or in any other correspondence.  
+Developing a better understanding of our supporters through their personal data allows us to fundraise more efficiently, which ultimately helps in the fight for every heartbeat. We have made improvements to this policy so that transparency is at the core of what we do, especially around our policy on profiling and wealth screening (see 'Fundraising' section below).
 
-We ensure that we use your information in accordance with all applicable laws concerning data protection of personal information. This policy explains:
+The purpose of this policy is to give you a clear explanation about how the BHF and all of its subsidiaries collects and uses the personal information you provide to us and that we collect, whether online, via phone, email, in letters or in any other correspondence or from third parties.
 
-  * What information the BHF may collect about you;
-  * How we will use that information;
-  * Whether we disclose your details to anyone else;
-  * Your choices regarding the information you provide to us; and
-  * How we use cookies to provide services to you or to improve your use of our websites.
+We ensure that we use your information in accordance with all applicable laws concerning the protection of personal information. This policy explains:
 
+If you have any queries about this privacy and cookies policy please contact the Data Protection Officer at the Legal and Corporate Governance Department, British Heart Foundation, 180 Great Hampstead Road, London or email: [dataprotection@bhf.org.uk](mailto:dataprotection@bhf.org.uk).
 
+### Select to read more
 
-If you have any queries about this privacy and cookies policy please contact the Data Protection Officer at the Legal and Corporate Governance Department, British Heart Foundation, 180 Great Hampstead Road, London or email: [dataprotection@bhf.org.uk](mailto:dataprotection@bhf.org.uk). 
-
-By using our website or any of our services, or providing us with any personal data, you agree to your personal data being used and disclosed in the manner set out in this policy. 
-
-## Who we are
+#### Who we are
 
 We are the leading heart charity in the UK and our registered charity numbers are 225971 in England and Wales, and SC039426 in Scotland. We are also registered as a company in England and Wales under registration number 00699547.
 
-British Heart Foundation Ventures Limited a registered company in England and Wales: number 02767880, British Heart Foundation Sales Limited, registered company in England and Wales: number 00877530 and London to Brighton Bike Ride Limited, registered company in England and Wales: number 02672643 are wholly owned subsidiaries of BHF which trade on its behalf. Within the context of this policy ‘we’ means both the charity and its subsidiaries. 
+British Heart Foundation Ventures Limited a registered company in England and Wales: number 02767880, British Heart Foundation Sales Limited, registered company in England and Wales: number 00877530 and London to Brighton Bike Ride Limited, registered company in England and Wales: number 02672643 are wholly owned subsidiaries of BHF which trade on its behalf. Within the context of this policy ‘we’ means both the charity and its subsidiaries. Each of these organisations are data controllers under the data protection rules.
 
-## Information collection
+#### Information collection
 
 We collect information in the following ways:
 
-  * **Information you give us.** For example, when you engage with our social media or message boards, make a donation to us, register for an event or otherwise provide us with personal information. When you register, we’ll ask for personal information, like your name, email address and telephone number to store with your account. 
+  * **Information you give us.** For example, when you engage with our social media or message boards, make a donation to us, register for an event or otherwise provide us with personal information. When you register, we’ll ask for personal information, like your name, email address and telephone number to store with your account.
   * **Information we get from your use of our website and services.** We collect information about the services you use and how you use them, like when you watch a video on YouTube, visit our websites or view and interact with our ads and content.
+  * **Information from third parties.** We may also receive information about you from third parties. This can include information such as your name, postal address, email address, phone number, your geographic location (for mobile devices), credit/debit card details and whether you are a tax payer so that we can claim Gift Aid.  We, like all companies, are able to confirm what browser you are using, IP address and computer operating systems that are being used and this information may be used to improve the services we offer
 
 
 
-We may also receive information about you from third parties. This can include information such as your name, postal address, email address, phone number, your geographic location (for mobile devices), credit/debit card details and whether you are a tax payer so that we can claim Gift Aid.  We, like all companies, are able to confirm what browser you are using, IP address and computer operating systems that are being used and this information may be used to improve the services we offer.
+Wherever possible we use aggregated or anonymous information which does not identify individual visitors to our websites. See below, under  **Marketing materials**  – to understand our purposes for processing your personal information.
 
-Wherever possible we use aggregated or anonymous information which does not identify individual visitors to our websites. By submitting your details you enable us (and where applicable any suppliers we may use) to raise funds and to provide you with the goods, services, information, activities or online content you select and any other related services BHF may provide. 
+Data Protection law recognises that certain categories of personal information are more sensitive. This is known as sensitive personal data and covers health information, race, religious beliefs and political opinions. We do not usually collect ‘sensitive personal data’ about our supporters unless there is a clear reason for doing so, such as participation in a marathon or similar fundraising event or where we need this information to ensure that we provide appropriate facilities or support to enable you to participate in an event. 
 
-We do not usually collect ‘sensitive personal data’ about our supporters unless there is a clear reason for doing so, such as participation in a marathon or similar fundraising event or where we need this information to ensure that we provide appropriate facilities or support to enable you to participate in an event. We may collect health information if you tell us about your experiences relating to heart disease (for example, if you call our helpline, act as a case study for us or volunteer to be a ‘Heart Voice’); however we will make it clear to you when collecting this information as to what we are collecting and why. 
+We may also collect sensitive personal data if you make the information public or if you tell us about your experiences relating to heart disease (for example, if you call our helpline, act as a case study for us or volunteer to be a ‘Heart Voice’); however we will always make it clear to you when we collect this information from you, what sensitive personal data we are collecting and why.   
 
-## Website users
 
-All BHF websites use cookies to help our websites work well and to track information about how people are using them. More information on cookies can be found further down the page. 
+#### Website users
 
-In addition, if you register on our website then the following will also apply:
+All BHF websites use cookies to help our websites work well and to track information about how people are using them. More information on cookies can be found further down the page under 'Cookies'.
+
+In addition, if you register on our websites then the following will also apply:
 
   * All BHF websites collect personal information when you register with us.
   * The website you sign up to will collect information such as your name, email address and post code. Once you register with that website you will not be anonymous to us when you subsequently sign in.
-  * As part of the registration process and continued use of BHF services, you agree that any registration information you give to BHF will always be accurate, correct and up to date.
-  * We collect and retain information about your transactions with us so that we can process your transactions and deal with future queries.
+  * As part of the registration process and continued use of BHF services, you agree that any registration information you give to BHF will always be accurate, correct and up to date. Please do get in touch should you need to amend any of your personal information. 
+  * We collect and retain information about your interactions with us so that we can process your interactions and deal with future queries.
   * We use cookies to allow us to store limited information on an individual’s computer to either track them through tracking cookies or to allow people to have automatic logons as an example. We use this information to provide you with a good experience when browsing our website and to improve the functionality of our site.
 
 
 
-## Your debit and credit card information
+#### Your debit and credit card information
 
-If you use your credit or debit card to donate to us, buy something or pay for a registration online or over the phone, we will ensure that this is done securely and in accordance with the Payment Card Industry Data Security Standard. Find out more information about [PCI DSS standards](https://www.pcisecuritystandards.org/security_standards/index.php).
+If you use your credit or debit card to donate to us, buy something or pay for a registration online or over the phone, we will ensure that this is done securely and in accordance with the Payment Card Industry Data Security Standard. You can find our more information about PCI DSS here - [https://www.pcisecuritystandards.org/security_standards/index.php](https://www.pcisecuritystandards.org/security_standards/index.php)
 
-We do not store your credit or debit card details at all, following the completion of your transaction. All card details and validation codes are securely destroyed once the payment or donation has been processed. Only staff authorised and trained to process payments will be able to see your card details. 
+We do not store your credit or debit card details at all, following the completion of your transaction. All card details and validation codes are securely destroyed once the payment or donation has been processed. Only staff authorised and trained to process payments will be able to see your card details. 
 
-If we receive an email containing any credit or debit card details, it will be immediately deleted, no payment will be taken and you will be notified about this. All purchases or donations should be completed through the donation page or online shop [on our website](https://web.archive.org/) or via our customer support centre by calling 0300 330 3322.
+If we receive an email containing any credit or debit card details, it will be immediately deleted, no payment will be taken and you will be notified about this. All purchases or donations should be completed through the donation page or online shop on our website ([www.bhf.org.uk](http://www.bhf.org.uk/)) or via our customer support centre by calling 0300 330 3322.
 
-## Job applicants
+#### Legal basis
 
-If you apply to work at the BHF, we will only use the information you give us to process your application and to monitor recruitment statistics. If we want to disclose information to someone outside the BHF, for example, if we need a reference, we will make sure we tell you beforehand, unless we are required to disclose this information by law. 
+In certain instances, we collect and use your personal information by relying on the legitimate interest legal basis. This is because when you, for example, request to receive services or products from the BHF, we have a legitimate organisational interest to use your personal information to respond to you and there is no overriding prejudice to you by using your personal information for this purpose. This is also the case where we process your donations in support of BHF's objectives, for our internal administrative purposes, and where we need to take steps to protect our network security or risk of fraud.
 
-If you are unsuccessful in your job application, we may hold your personal information after we’ve finished recruiting for the post you applied for. We keep de-personalised statistical information about applicants to develop our recruitment processes however no individual applicant would be identifiable from this information. If you commence employment with the BHF, your data will be processed in accordance with your employment contract and other applicable policies. 
+In most instances, however, we will rely on obtaining your consent to our use of your personal information. This is the case, for example, where we seek to obtain your consent to receive email marketing about the BHF. 
 
-## How we may use your information
+#### Marketing Materials
 
-We may use your information for a number of purposes including the following:
+We want to ensure you receive the level of information about the BHF that is right for you. 
 
-  * To provide you with the services, products or information you have requested or which we feel may interest you where you have consented to being contacted;
-  * To process donations we may receive from you;
-  * To fundraise in accordance with our internal policies and procedures;
-  * To create an account for you if you register with us;
-  * To provide you with information about our work or our activities that you have agreed to receive;
-  * To fulfil sales contracts you have entered into with us as part of our shops;
-  * To invite you to participate in interactive features on our website when you choose to do so;
-  * For administration purposes (for example we may contact you regarding a donation you have made or the event you have registered for);
-  * For internal record keeping, including the management of any feedback or complaints;
-  * To invite you to participate in surveys or research (although this is voluntary);
-  * To use IP addresses to identify your approximate location, to block disruptive use, to record website traffic or to personalise the way our information is presented to you;
-  * To analyse and improve the services offered on our sites to make it as user-friendly as possible; 
-  * We may analyse the personal information we collect about you and add publicly available information to create a profile of your interests, preferences and level of potential donations so that we can contact you in the most appropriate way and with the most relevant information;
-  * Where it is required or authorised by law; and
-  * We may assess your personal information for the purposes of credit risk reduction or fraud prevention.
+**Email/text marketing:**
+
+If you actively provide your consent to us along with your email address and/or mobile phone number, we may contact you for marketing purposes by email or text message. By subscribing to BHF emails or opting in to email communication from BHF, you grant us the right to use the email for both email marketing purposes and advertisement targeting
+
+**Post/telephone marketing:**
+
+If you have provided us with your postal address or telephone number we may send you direct mail or telephone you about our work unless you have told us that you would prefer not to receive such information. We also actively check telephone numbers against the Telephone Preference Service and will only make telephone calls to you where your telephone number is listed on the TPS if you have specifically told us that you do not object to such calls and have consented to receive them. 
+
+**Your choice:**
+
+It is always your choice as to whether you want to receive information about our work, how we raise funds and the ways you can get involved. If you do not want us to use your personal information in these ways please indicate your preferences on the form on which we collect your data. 
+
+You may opt-out of our marketing communications at any time by clicking the ‘unsubscribe’ link in at the end of our marketing emails sending us an "opt-out" text message, following the instructions we provide you in our initial text. 
+
+You can also change any of your contact preferences at any time (including telling us that you don’t want us to contact you for marketing purposes by telephone, or by post) by contacting our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](mailto:supporterservices@bhf.org.uk). 
+
+We will not use your personal information for marketing purposes if you have indicated that you do not wish to be contacted by us for such purposes. However, we will retain your details on a suppression list to help ensure that we do not continue to contact you.
+
+#### Fundraising
+
+We carry out targeted fundraising activity to ensure that we are contacting you with the most appropriate communication, which is relevant and timely and will ultimately provide an improved experience for you. In doing so, we may use profiling techniques or use third party wealth screening companies and insight companies to provide us with general information about you. Such information is compiled using publicly available data about you or information that you have already provided to us. 
+
+This activity assists us in understanding the background of the people who support us and helps us to make appropriate requests to supporters who may have the means and the want to give more. You can opt out of your data being used for profiling and wealth screening techniques by contacting [supporterservices@bhf.org.uk](mailto:supporterservices@bhf.org.uk)
+
+#### Recipients - Information and disclosure
+
+The BHF may disclose your personal information in the following circumstances: 
+
+  * To other BHF entities, trading subsidiaries, suppliers or service providers only to provide the products or services you've requested from our site(s) where, for example, we use a separate company to deliver goods to you.
+  * To third parties who provide a service to us and are data processors.This would include our trusted partners that work with us in connection with our charitable purposes, and other entities that act as fundraisers for BHF, sell BHF products or provide BHF information and marketing (subject to your communication preferences and our internal policies and procedures). We require these third parties to comply strictly with our instructions and data protection laws and we will make sure that appropriate controls are in place. We enter into contracts with all of our data processors and regularly monitor their activities to ensure they are complying with BHF policies and procedures. 
+  * Where we are under a duty to disclose your personal information in order to comply with any legal obligation (for example to government bodies and law enforcement agencies), or in order to enforce or apply our rights (including in relation to our website or other applicable terms and conditions) or to protect the BHF, for example in cases of suspected fraud or defamation.
 
 
-
-If you enter your contact details into one of our online forms, we may use this information to contact you, even if you don’t click ‘submit’ on the form. We will do this to see if we can help with any problems you might be experiencing with the form or with our websites, or to see if you would like to continue the action you were taking on the form.
-
-## Marketing materials
-
-We may contact you for marketing purposes by email or text message if you have agreed to be contacted in this manner. By subscribing to BHF emails or opting in to email communication from BHF, you grant us the right to use the email for both email marketing purposes and advertisement targeting. We may also send you service communications via email or text, for example where you place an order for goods or services on our website, or you have made a donation by text. 
-
-If you have provided us with your postal address or telephone number we may send you direct mail or telephone you about our work unless you have told us that you would prefer not to receive such information. 
-
-It is your choice as to whether you want to receive information about our work, how we raise funds and the ways you can get involved. If you do not want us to use your personal information in these ways please tick the relevant box situated on the form on which we collect your data. 
-
-You may opt-out of our marketing emails at any time by clicking the ‘unsubscribe’ link in at the end of our marketing emails, and can opt-out of receiving marketing texts by sending us an "opt-out" text message, following the instructions we provide you in our initial text. 
-
-You can also change any of your contact preferences at any time (including telling us that you don’t want us to contact you for marketing purposes by telephone, or by post) by contacting our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](mailto:supporterservices@bhf.org.uk). 
-
-We will not use your information for marketing purposes if you have indicated that you do not wish to be contacted for such purposes. However, we will retain your details on a suppression list to help ensure that we do not continue to contact you. 
-
-## Information sharing and disclosure
-
-The BHF may share your personal information with other BHF entities, trading subsidiaries, suppliers or service providers only to provide the products or services you've requested from our site(s) where, for example, we use a separate company to deliver goods to you.
-
-BHF may share your information with our data processors. This would include our trusted partners that work with us in connection with our charitable purposes, and other entities that act as fundraisers for BHF, sell BHF products or provide BHF information and marketing (subject to your communication preferences and our internal policies and procedures). We require these third parties to comply strictly with our instructions and data protection laws and we will make sure that appropriate controls are in place. We enter into contracts with all of our data processors and regularly monitor their activities to ensure they are complying with BHF policies and procedures.
 
 Rest assured, we will never share, sell or swap your details with any third parties for the purposes of their own marketing or the monetising of your data. 
 
-We may disclose your personal information to third parties if we are under a duty to disclose your personal data in order to comply with any legal obligation (for example to government bodies and law enforcement agencies), or in order to enforce or apply our rights (including in relation to our website or other applicable terms and conditions) or to protect the BHF, for example in cases of suspected fraud or defamation. 
+#### Heart helpline
 
-## Heart Helpline
+If you contact our nurses, dieticians or advisors on our Heart Helpline, you may choose to provide details of a personal nature in particular about you or someone else’s health. Only the Heart Helpline nurses, dieticians or advisors will use this personal information and only for the purposes of responding to your enquiry. They will not pass the personal information on to  anyone else without express permission except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Your personal information and details of your enquiry will be recorded for quality and monitoring purposes and stored on a secure database. Your details will not be used for marketing purposes. If for any reason you want your details removed from these records, please contact the Heart Helpline on 0300 330 3311. 
 
-If you contact our nurses, dieticians or advisors on our Heart Helpline, you may choose to provide details of a personal nature. Only the Heart Helpline nurses will use your personal information and only for the purposes of responding to your enquiry. They will not pass your details on to anyone else without your express permission except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Your personal information and details of your enquiry will be recorded for quality and monitoring purposes and stored on a secure database. Your details will not be used for marketing purposes. If for any reason you want your details removed from these records, please contact the Heart Helpline on 0300 330 3311. 
+#### Under 18s
 
-## Under 18s
+We are committed to protecting the privacy of the young people that engage with us through our prevention, survival and support services for young people on our website, at events and at schools. 
 
-We are committed to protecting the privacy of the young people that engage with us through our prevention, survival and support services for young people on our website, at events and at schools. 
+Our fundraising events also request specific information about the age of participants. If you are under 18 and would like to get involved, please ensure that you have consent from a parent or guardian before giving us your personal information. When we collect information about a child or young person aged under 18 we will make it very clear as to the reasons for collecting this information and how it will be used.
 
-Our fundraising events also request specific information about the age of participants. If you are under 18 and would like to get involved, please ensure that you have consent from a parent or guardian before giving us your personal information. When we collect data about a child or young person aged under 18 we will make it very clear as to the reasons for collecting this data and how it will be used.
+#### Vulnerable supporters policy
 
-## Vulnerable Supporters Policy
+We are committed to protecting vulnerable supporters. Please refer to our Vulnerable Supporters Policy on our website under the ‘We are respectful’ section of our Supporter Promise page. 
 
-We are committed to protecting vulnerable supporters. Please refer to our Vulnerable Supporters Policy on our website under the ‘We are respectful’ section of our [Supporter Promise](https://web.archive.org/about-us/supporter-promise) page. 
+[https://www.bhf.org.uk/about-us/supporter-promise](https://www.bhf.org.uk/about-us/supporter-promise)
 
-## Inappropriate website content
+#### Inappropriate website content
 
 If you post or send any content that we believe to be inappropriate, offensive or in breach of any laws, such as defamatory content on our forums or social media pages, we may use your personal information to inform relevant third parties such as your internet provider or law enforcement agencies. 
 
-## Where we may store your information
+#### International transfers of personal information
 
-For financial and technical reasons we may, on occasion need to use the services of a supplier outside the European Economic Area (EEA), however we will ensure that your information is held in compliance with the European data protection regulations. By submitting your personal information you agree to this transfer, storing or processing at a location outside the EEA. We will take all steps reasonably necessary to ensure that your data us kept secure and in accordance with this privacy policy.
+For financial and technical reasons we may, on occasion decideto use the services of a supplier outside the European Economic Area (EEA), which means that your personal information is transferred, processed and stored outside the EEA. This includes countries that the European Union authorities do not consider provides and adequate level of protection for personal data. However we take steps to put in place suitable safeguards to protect your personal information when processed by the supplier such as entering into the European Commission approved standard contractual clauses. If you would like to receive further information about our safeguards, please contact the Data Protection Office, Legal and Corporate Governance Department, British Heart Foundation, 180 Hampstead Road, London or email: [ dataprotection@bhf.org.uk](https://web.archive.org/web/20170914095128id_/https%3A//www.bhf.org.uk/utilities/dataprotection@bhf.org.uk)
 
-## Keeping your records
+#### Keeping your personal information
 
-We keep records for as long as required to operate the service in accordance with legal requirements and tax and accounting rules. Where your information is no longer required, we will ensure it is disposed of in a secure manner. 
+We keep your personal information only  for as long as required to operate the service in accordance with legal requirements and tax and accounting rules. Where your information is no longer required, we will ensure it is disposed of in a secure manner. 
+
+#### Cookies
 
 ## Cookies
 
@@ -342,29 +334,51 @@ Find out more about [cookies and how to manage them](http://www.aboutcookies.or
 
 By continuing to use our website you will have been deemed to have agreed to our use of cookies subject to any preferences you may have indicated to us or any overriding browser settings you may have. 
 
-## Tracking 
+#### Tracking
 
-We use multiple first and third party technologies such as pixel tags and web beacons to track and improve the user experience on our sites, quality of service and to monitor the effectiveness of campaigns and digital marketing activity. 
+We use multiple first and third party technologies such as pixel tags and web beacons to track and improve the user experience on our sites, quality of service and to monitor the effectiveness of campaigns and digital marketing activity. 
 
 We may use them to:
 
-  * see what website content is popular and how people are using the site as they allow us to track users movement through our websites.  This type of information is amalgamated so that we can build up a picture of how the site is performing.
+  * see what website content is popular and how people are using the site as they allow us to track users movement through our websites.  This type of information is amalgamated so that we can build up a picture of how the site is performing.
   * make sure we offer you a consistent service. For example, if we are testing new website content or we want to run a survey, we use tracking to remember what content you have seen or if you have already been asked to join the survey.
 
 
 
 In addition, when we email you, we may place a tag (also known as ‘tracking pixel’) on the email we send out. These let us monitor performance of our emails marketing activity. 
 
-## Your ability to edit and delete your account information and preferences
+**Your ability to edit and delete your account information and preferences**
 
-The accuracy of your information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or send an email to supporterservices@bhf.org.uk or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
+The accuracy of your personal information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](mailto:supporterservices@bhf.org.uk) or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
 
-Under the Data Protection Act 1998 you have a right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. We require you to prove your identity with two pieces of approved identification. Please address requests to the Data Protection Officer, Legal Team, British Heart Foundation, 180 Hampstead Road, London, NW1 7AW and we will respond within 40 days, of receipt of your written request and confirmed ID. Please provide as much information as possible about the nature of your contact with us to help us locate your records. We reserve the right to charge a fee of £10 for this process.
+**Your rights to your personal information**
 
-## Changes to this privacy policy
+Under the Data Protection Act 1998 you have a right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. You also have the right to request us to erase your personal information, request us to restrict our processing of your personal information or to object to our processing of your personal information. 
+
+Should you wish to exercise these rights we require you to prove your identity with two pieces of approved identification. Please address requests to the Data Protection Officer, Legal Team, British Heart Foundation, 180 Hampstead Road, London, NW1 7AW and we will respond within 40 days, of receipt of your written request and confirmed ID. Please provide as much information as possible about the nature of your contact with us to help us locate your records. We reserve the right to charge a fee of £10 for this process.
+
+Where you have provided your consent for our use of your personal information, you always have a right to withdraw your consent at any time. 
+
+#### Your ability to edit and delete your account information preferences
+
+The accuracy of your personal information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](https://web.archive.org/web/20170914095128id_/https%3A//www.bhf.org.uk/utilities/supporterservices@bhf.org.uk) or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
+
+#### Your rights to your personal information
+
+Under the Data Protection Act 1998 you have a right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. You also have the right to request us to erase your personal information, request us to restrict our processing of your personal information or to object to our processing of your personal information.
+
+Should you wish to exercise these rights weWe require you to prove your identity with two pieces of approved identification. Please address requests to the Data Protection Officer, Legal Team, British Heart Foundation, 180 Hampstead Road, London, NW1 7AW and we will respond within 40 days, of receipt of your written request and confirmed ID. Please provide as much information as possible about the nature of your contact with us to help us locate your records. We reserve the right to charge a fee of £10 for this process.
+
+Where you have provided your consent for our use of your personal information, you always have a right to withdraw your consent at any time. 
+
+#### Changes to this privacy policy
 
 We may update the terms of this policy at any time, so please do check it from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address you have provided to us or by placing a prominent notice on our website(s). By continuing to use our website you will be deemed to have accepted such changes.
 
-## Complaints, compliments or comments
+#### Complaints compliments or comments
 
-If you are unhappy with our work or something that we have done or failed to do, we want to know about it. We also welcome your views on what we do well. Your comments enable us as an organisation to learn and continuously improve our services. Please find further information about giving us feedback, or lodging a complaint on the following page of our website. https://www.bhf.org.uk/about-us/feedback-and-complaints-policy
+If you are unhappy with our work or something that we have done or failed to do, we want to know about it. We also welcome your views on what we do well. Your comments enable us as an organisation to learn and continuously improve our services.
+
+Please find further information about giving us feedback, or lodging a complaint on the following page of our website:
+
+[ Lodge a request](https://www.bhf.org.uk/about-us/feedback-and-complaints-policy) on our feedback form
