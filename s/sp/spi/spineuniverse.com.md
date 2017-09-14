@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212916id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914155701id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Vertical Health Privacy Policy | Vertical Health
 
 ***The use of this Privacy policy is for the following website properties:**
 
-SpineUniverse.com  
-EndocrineWeb.com  
-PracticalPainManagement.com  
-DiabeticLifestyle.com  
+spineuniverse.com  
+endocrineweb.com  
+practicalpainmanagement.com  
 psychcentral.com  
+psycom.net  
+ontrackdiabetes.com  
 verticalhealth.com
 
 All Vertical Health websites were founded by doctors and are now operated by Vertical Health, LLC. Patient privacy has a longstanding tradition in medicine. In fact, the Hippocratic Oath (which is sworn to by physicians around the world), is over 2000 years old, and contains very specific requirements about patient privacy.
 
-Vertical Health LLC ("VH," "we" or "us") provides a variety of online services and products, including without limitation, subscription, newsletter, and update services ("Services"), to users and subscribers via e-mail and on numerous Web sites throughout the World Wide Web, including the site you are currently on (the "Sites"). The VH network of Sites includes [spineuniverse.com](http://www.spineuniverse.com/ "www.spineuniverse.com"), [endocrineweb.com](http://www.endocrineweb.com/ "www.endocrineweb.com"), [practicalpainmanagement.com](http://www.practicalpainmanagement.com/ "www.practicalpainmanagement.com"), [ppmjournal.com](http://www.ppmjournal.com/ "www.ppmjournal.com"), [diabeticlifestyle.com](http://www.diabeticlifestyle.com/ "www.diabeticlifestyle.com"), [psychcentral.com](http://www.psychcentral.com/ "www.psychcentral.com"), and [verticalhealth.com](http://www.verticalhealth.com/ "www.verticalhealth.com"). VH is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for its users and subscribers.
+Vertical Health LLC ("VH," "we" or "us") provides a variety of online services and products, including without limitation, subscription, newsletter, and update services ("Services"), to users and subscribers via e-mail and on numerous Web sites throughout the World Wide Web, including the site you are currently on (the "Sites"). The VH network of Sites includes [spineuniverse.com](https://www.spineuniverse.com/ "www.spineuniverse.com"), [endocrineweb.com](https://www.endocrineweb.com/ "www.endocrineweb.com"), [practicalpainmanagement.com](https://www.practicalpainmanagement.com/ "www.practicalpainmanagement.com"), [psychcentral.com](https://www.psychcentral.com/ "www.psychcentral.com"), [psycom.net](https://www.psycom.net/), [ontrackdiabetes.com](https://www.ontrackdiabetes.com/), and [verticalhealth.com](https://www.verticalhealth.com/ "www.verticalhealth.com"). VH is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for its users and subscribers.
 
 THE PURPOSE OF THIS VH PRIVACY POLICY (THE "POLICY") IS TO HELP YOU UNDERSTAND THE KINDS OF INFORMATION WE MAY GATHER ABOUT YOU WHEN YOU VISIT THE SITES OR USE ANY OF OUR SERVICES, HOW WE MAY USE THAT INFORMATION, IN WHICH MANNER WE WILL DISCLOSE IT, AND HOW YOU CAN CORRECT AND/OR UPDATE THE INFORMATION. PLEASE NOTE THAT BY USING THE SERVICES OR VISITING THE SITES, YOU SIGNIFY YOUR AGREEMENT WITH THIS POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE DO NOT USE THE SERVICES OR REFRAIN FROM VISITING THE SITES.
 
@@ -99,4 +100,4 @@ Please relay any questions you may have pertaining to our above stated policies 
 
 If VH makes changes to any of the terms or conditions of the Policy, this document will be revised so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. We reserve the right to change, modify, add or remove portions of this Policy at any time and without notice, and any changes will become effective immediately upon being posted unless VH advises you otherwise. Your continued use of the Services and/or the Sites after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
-_Last updated: 08/01/2016_
+_Last updated: 08/02/2017_
