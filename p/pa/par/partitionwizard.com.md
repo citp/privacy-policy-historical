@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506092353id_/https%3A//www.partitionwizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914032531id_/https%3A//www.partitionwizard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Solution Ltd.
 
