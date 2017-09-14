@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openideo.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622124941id_/https%3A//challenges.openideo.com/content/openideo-privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openideo.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914075010id_/https%3A//challenges.openideo.com/content/openideo-privacy-cookie-policy) for the most accurate reproduction.*
 
 # OpenIDEO - OpenIDEO Privacy & Cookie Policy
 
@@ -163,19 +163,19 @@ Back to the top 
 
 **12.  Contact Information**
 
-Please direct any questions or concerns you may have about our Privacy Policy to hello@openideo.com, or:
+Please direct any questions or concerns you may have about our Privacy Policy to [hello@openideo.com](mailto:hello@openideo.com), or:
 
 IDEO LP  
 Attn: OpenIDEO General Privacy Policy Inquiries  
 Pier 28 Annex, 501 The Embarcadero  
 San Francisco, CA 94105  
-Lastly, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx,> or:
+Lastly, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx> or:
 
 ESRB  
 Attn: Privacy Certified Program  
 420 Lexington Ave, Suite 2024  
 New York, NY 10170  
-privacy@esrb.org  
+[privacy@esrb.org](mailto:privacy@esrb.org)  
 Back to the top
 
 **13\. Cookies Policy**
