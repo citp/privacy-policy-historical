@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shellypalmermedia.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423001902id_/https%3A//www.shellypalmer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shellypalmermedia.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914080237id_/https%3A//www.shellypalmer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shelly Palmer
 
-* * *
-
-If you would like to unsubscribe from our mailing list, please fill in the form below:
+## To unsubscribe from our email list, please [click here](http://shellypalmer.us3.list-manage.com/unsubscribe?u=c45bf0ae5539b15b901766ddd&id=03a4a88021).
 
 * * *
 
