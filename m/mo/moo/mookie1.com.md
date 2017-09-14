@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mookie1.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512224054id_/http%3A//www.mookie1.com/en-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mookie1.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914104141id_/http%3A//www.mookie1.com/en-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Media Innovation Group
 
