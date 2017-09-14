@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinternetpatrol.com privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413063826id_/https%3A//www.theinternetpatrol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternetpatrol.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914195311id_/https%3A//www.theinternetpatrol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Internet Patrol - The Internet Patrol
 
