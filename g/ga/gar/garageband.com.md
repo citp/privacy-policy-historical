@@ -1,102 +1,139 @@
-> *The following text is extracted and transformed from the garageband.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911093752id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garageband.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914181235id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
-# iLike - Privacy Policy
+# Privacy - Our Privacy Policy - Apple
 
-### Privacy Policy
+Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/legal/privacy/en-ww/contact/) if you have any questions.
 
-Privacy Policy as of August 2, 2007.
+[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
 
-**iLike, Inc.’s Privacy Policy**  
-This Privacy Policy applies to iLike, Inc.’s websites, including iLike.com, GarageBand.com, GCast.com and i-cast.com websites (“Websites”). iLike, Inc. believes in the responsible use of personal information. We understand that without the trust and respect of the musicians and fans that make up our community we’d have nothing. So we’ll strive to honor the privacy of anyone who signs up as a member.
+##### Collection and Use of Personal Information
 
-**Your Personal Information at iLike, Inc.’s Websites**  
-iLike, Inc. is the sole owner of the personal information collected on its Websites and we collect personal information from our users at several different points on these Websites. We will not sell, share, or rent this information to others in ways different from what is disclosed in this Privacy Policy.
+Personal information is data that can be used to identify or contact a single person.
 
-iLike, Inc.’s Websites ask for personal information only when it’s necessary in order to deliver value-add service to you. We require certain pieces of information so we can provide you a personalized experience. For example, on iLike.com, the iLike Sidebar software collects your listening preferences in order to provide you personalized music recommendations, and to allow you to share musical tastes and find other users who have compatible tastes. We collect your zip-code or other location information in order to provide locally-targeted notifications of nearby concerts. Similarly, we need names of uploading users and musicians who may go on to become Evolved CD Artists and only require a mailing address when you earn a prize (so we know where to mail your prize to). At any point you can view and edit this personal information under the “MyHome” section of iLike.com, and the “My Garage” section of GarageBand.com. And while we may use this information for research and to improve the site and services we offer you, except as stated herein or as you specifically give us permission, we promise not to pass on personally identifiable information to third parties.
+You may be asked to provide your personal information anytime you are in contact with Apple or an Apple affiliated company. Apple and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.
 
-Here’s the information that we require for basic registration at iLike.com, GarageBand.com, Gcast.com and i-cast.com: 
+Here are some examples of the types of personal information Apple may collect and how we may use it:
 
-  1. A Screenname is collected and made public on the site. (Your Screenname becomes your public display-name at our Websites. It need bear no relation to your actual name). The following information is collected at registration: 
-  2. Your email address. 
-  3. A password for your account. (We remind you not to reveal your password to anyone). 
-  4. In addition, you are invited to "opt in" to receive a regular newsletter or occasional email from our Websites, and you are free to opt out from either of these services at any point in the future. 
-  
-_You have the option of providing more private information to personalize your experience:_
-  5. Your gender and date of birth. (For our own demographic reports - so we can build a better site for our audience). 
-  6. Your zip code (US residents only) so we can tailor content to your local area. 
-  7. Your music preferences. The iLike.com service includes a software component known as the “iLike Sidebar” which enables you to share your musical tastes as you listen to music on your computer, in real-time, through your Public Profile on our Websites. This includes providing your music category preferences or other music preferences. Sharing this information enables us to tailor music content to your taste and enables us to match you with other users who have compatible tastes. If you choose to share this information, it may be made publicly available through your Public Profile or other portions of our Websites. In particular, if you choose to install the iLike Sidebar, please understand that it operates as follows: 
-  8. The iLike Sidebar will be sending your music listening data (including a list of all songs and playlists in your music library on your computer) to the iLike.com servers. Select clips of songs from your library will be examined by iLike servers, and matched with music discography metadata collected from friends and other iLike users. This is designed to make sure the sample-clips of music that display on your profile are appropriately representing the music you listen to in your library, and to ensure broad availability of audio clips to enhance music discovery for all our users. You may choose to opt of this "clip-matching" process at any time by changing your iLike account settings.
-  9. This data will be saved by iLike, Inc. in our databases. 
-  10. However, by choosing to install the iLike Sidebar, your music listening data, songs, and playlists in your music library are reported publicly in a personally identifiable way, but within your control. Specifically, part of the functionality of the iLike.com website is that you may create a personal profile that publicly reflects your music listening habits as determined by the iLike Sidebar. Your music listening data is also used to generate music recommendations, as well as to calculate music-compatibility scores with other users on iLike. 
-  11. The iLike Sidebar is designed to automatically self-update itself (without asking permission from you). 
-  12. Additional privacy controls that (a) allow you to choose who may see your music preferences and (b) allow you to hide particular music or playlist data that you prefer not to share with anybody can be found at http://www.ilike.com/account/settings. 
-  13. Your full name (optional), which can be used to personalize the email messages that are sent on your behalf when you invite friends to the service, and may also be used (at your option) by friends who are searching for your profile. However, your full name is not displayed within the website except to yourself when you are logged in. 
+###### What personal information we collect
+
+  * When you create an Apple ID, apply for commercial credit, purchase a product, download a software update, register for a class at an Apple Retail Store, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
+  * When you share your content with family and friends using Apple products, send gift certificates and products, or invite others to participate in Apple services or forums, Apple may collect the information you provide about those people such as name, mailing address, email address, and phone number. Apple will use such information to fulfill your requests, provide the relevant product or service, or for anti-fraud purposes.
+  * In certain jurisdictions, we may ask for a government issued ID in limited circumstances including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law.
 
 
 
-Lastly, in general on the Websites, you may provide information for your Public Profile to introduce yourself to other members of our Websites, including the information listed above, or other information, but are under no obligation to do so.
+###### How we use your personal information
 
-If you register your Band with the Websites, you may be required to provide us with your first and last names, plus the first and last names and gender of all band members. In addition you will need to provide a “biography” of your band. These names and bio will be made public on your band’s profile page, gender will remain private. In addition you may provide additional information about your band for public display on your Band Profile, but are under no obligation to do so.
-
-The information that you provide for your Public Profile or for your Band Profile will be publicly displayed without restriction on our Websites. By providing such information for public display on iLike.com, GarageBand.com or Gcast.com you recognize that it may be considered public domain and as such may be viewed, copied, or re-distributed by anybody who visits our Website. This public information includes without limitation your music preferences and any other information you choose to make available such as your own name, others’ names, images, song names and biographical information. Nevertheless, you retain any trademark rights of your band/song names and any copyright of your music and lyrics. 
-
-**Cookies**  
-Be aware that our Websites use “cookies”. Cookies are small packets of information we place on your hard drive for tracking purposes - essentially a code number that we use to recognize you when you come back to the site. Only the information you volunteer, however, or the choices you make while visiting the site, can be stored in a cookie. A cookie cannot determine your email address, for example, unless you type it in. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer, and only the site that created the cookie can read it.
-
-Our Websites also use permanent cookies that store an encrypted session id code. This means we are able to “recognize” you when you come to the site, without the need for you to log in. In particular, if you download and install the iLike Sidebar software, this software will utilize a permanent cookie so that your computer (and music listening habits) are recognized whenever you browse the iLike.com website.
-
-If your browser is set to reject cookies, you will not be able to log in to the site and hold an account. This means you will not be able to review music, register a band, and so on. You will, however, be able to browse most of the site freely and listen to tracks.
-
-Some of our business partners may use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for processing your order.
-
-**Log Files**  
-We log IP addresses to track which users have made what page requests, what browser that person was using, what their cookie was, and at what time the request was made. We use this information to analyze trends, administer the site, and gather broad demographic information for aggregate use. This logging process does not store any personally identifiable information.
-
-**BBS & Chat Rooms**  
-As a service to our users, we offer bulletin board service (BBS) and chat room service (for example, GarageBand.com offers a BBS and chat rooms in the “Backstage” area). Only your screen name will be made available to other users of these services. However, you should be aware that any comments you contribute may become public immediately - credited to your screen name. Please think twice and use your discretion before you reveal personal information to other users.
-
-**Emails**  
-Except for administrative emails (like important changes to this privacy policy, for example) all other emails we send are under your control. You may register your wishes at the Account Settings section of iLike.com, the My Garage section of GarageBand.com or the subscription settings section of i-cast.com. We issue many types of email communication. The following is a non-comprehensive list: (1) we send a registration email when you first become a member (2) we send a regular opt-in newsletter (3) we provide an opt-in subscription to occasional emails for the announcement of new site features, special events, etc (4) we send invitations or “add friend requests” at the request of your friends who are users of our service; we may send one follow up email to such invitations if they do not generate a response the first time (5) we notify you of updates that have happened to your account, your profile page, or your band page (6) if you are in a band, we notify you of changes in your status within a contest, or reviews of your music (7) we may notify you when you receive messages from other members of the service (8) the i-cast.com service is explicitly an email-notification service that will send you email to notify you of updates to a podcast, blog, or other RSS feed that you are subscribed to. In addition to the controls described above, the i-cast.com service enables you to choose delivery options for email, such as daily-digest, or weekly-digest. In order to make it easier for you to invite friends to use our services, we enable an easy ”address book import” from other online services (such as Hotmail, etc) – this address-book import will only function if you provide a username/password for the other online service, and we use this information to import your address book, but we do not save it. Furthermore, any user who receives unwanted invitations from our iLike.com service is able to block future unsolicited invitations.
-
-**Security Systems**  
-This website takes reasonable precautions to protect our users’ information. When users submit sensitive information via the website, your information is protected. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices and are regularly reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
-
-**Sharing**  
-We will share user profile and demographic information with our partners and advertisers, for purposes including, but not limited to, the delivery of targeted advertising. This information will not be linked to any personal information that can identify any individual person.
-
-We partner with third-party service providers such as CD Baby http://www.garageband.com/go/cdbaby which provides CD Store services. When the user signs up for these services, we will share names, or other contact information that is necessary for CD Baby or other such service provider to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. We may implement certain promotion(s) or feature(s) from time to time which require us to share your personally identifiable data with third parties. In these cases we will only share your personally identifiable data if you elect to use such promotion(s) or feature(s) and we will enter into agreements with such third parties which restrict their use of such personally identifiable data to purposes related to the delivery of such promotion(s) or feature(s). Though we make reasonable efforts to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us or one of our Websites. 
-
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In particular, Google, as a third party vendor, uses cookies when serving ads on iLike websites. This cookie enables Google to serve ads based on what sites you visit across the Internet, whether it's to show targeted ads when you visit iLike, or to show music-related ads when you visit other Web sites. You may opt out of the use of Google's "DART" cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-**Links**  
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
-
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, telephone number and shipping address). Contact information (including telephone number and address) will be used to notify the winners and award prizes and by giving us your phone number you acknowledge and agree that we may contact you by telephone in connection with such survey or contest . Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. We sometimes partner with third parties to implement our surveys and contests. Personally identifiable information may be initially received by and passed on to iLike, Inc. by such third parties.
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email invitation to visit the site, and may send one follow-up invitation to friends that did not respond. We store this information for the sole purpose of sending these emails. The friend may contact us at [privacy@iLike-inc.com](mailto:privacy@iLike-inc.com) to request the removal of this information from our database.
-
-**Partner Sites**  
-We have partnered with third parties to enable bands to sell their CDs at GarageBand.com and with other partners to provide our community with editorial content (pro advice, celebrity interviews, and so on). At times, while purchasing CDs or reading articles, you may be viewing pages hosted by one of these or other partners - although it may look as if you are still at one of our Websites. To tell where you are, simply check the address of the page in your browser’s address window.
-
-**BETA Disclaimer**  
-The iLike Sidebar and iLike.com are (currently) “Beta” software. While iLike, Inc. strives to maintain all of the above privacy precautions, the iLike Sidebar and iLike.com are not devoid of risk of “bugs” and software faultiness that is common with Beta software. As is made clear in the Terms of Service regarding, iLike, Inc. disclaims and limits its liability with respect to such “Beta” software, including limitation of its any liability regarding privacy issues set forth in this policy.
-
-**Conflicts**  
-In the event of an inconsistency between these, this Privacy Policy and iLike, Inc.’s “Terms of Use,” the Terms of Use shall control.
-
-**Merger**  
-iLike, Inc. may assign any or all of its rights hereunder and may transfer data collected or acquired hereunder in the event of a merger or acquisition of all or substantially all of the assets of iLike, Inc.
-
-**More information...**  
-If you wish to learn more about our privacy policies please contact [privacy@iLike-inc.com](mailto:privacy@iLike-inc.com) or write us at:
-
-**Privacy Policies**  
-iLike, Inc.  
-5715 Will Clayton #2845  
-Humble, TX 77338  
-USA  
+  * The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences](https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry).
+  * We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
+  * We may use your personal information, including date of birth, to verify identity, assist with identification of users, and to determine appropriate services. For example, we may use date of birth to determine the age of Apple ID account holders.
+  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
+  * If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
 
-If we decide to materially change our privacy policy, we may notify users by way of an email. In the event that iLike, Inc., or a portion of its business is acquired, the acquiring party will only acquire your personally identifiable information subject to the terms of this privacy policy.
+
+##### Collection and Use of Non-Personal Information
+
+We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
+
+  * We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where an Apple product is used so that we can better understand customer behavior and improve our products, services, and advertising.
+  * We may collect information regarding customer activities on our website, iCloud services, our iTunes Store, App Store, MAC App Store, App Store for Apple TV and iBooks Stores and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non‑personal information for the purposes of this Privacy Policy.
+  * We may collect and store details of how you use our services, including search queries. This information may be used to improve the relevancy of results provided by our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address.
+  * With your explicit consent, we may collect data about how you use your device and applications in order to help app developers improve their apps.
+
+
+
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
+
+##### Cookies and Other Technologies
+
+Apple’s websites, online services, interactive applications, email messages, and advertisements may use [“cookies” and other technologies](https://web.archive.org/legal/privacy/en-ww/cookies/) such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+Ads that are delivered by Apple’s advertising platform may appear in Apple News and in the App Store. If you do not wish to receive ads targeted to your interests from Apple’s advertising platform, you can choose to enable Limit Ad Tracking, which will opt your Apple ID out of receiving such ads regardless of what device you are using. If you enable Limit Ad Tracking on your mobile device, third-party apps cannot use the Advertising Identifier, a non-personal device identifier, to serve you targeted ads. You may still see ads in the App Store or News based on context like your search query or the channel you are reading. In third-party apps, you may see ads based on other information.
+
+Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
+
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to manage your preferences. On your Apple mobile device, go to Settings, then Safari, scroll down to the Privacy & Security section, and tap on "Block Cookies" to manage your preferences. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
+
+As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
+
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, to improve our product and services, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
+
+In some of our email messages, we use a “click-through URL” linked to content on the Apple website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+
+Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
+
+##### Disclosure to Third Parties
+
+At times Apple may make certain personal information available to strategic partners that work with Apple to provide products and services, or that help Apple market to customers. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies. Personal information will only be shared by Apple to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+
+###### Service Providers
+
+Apple shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Apple operates.
+
+###### Others
+
+It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Apple to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+
+##### Protection of Personal Information
+
+Apple takes the security of your personal information very seriously. Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS). When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures. iCloud data is stored in encrypted form including when we utilize third-party storage.
+
+When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
+
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third-party device thereby disclosing any such shared information. [See [About Family Sharing](https://web.archive.org/icloud/family-sharing/) for more information.]
+
+##### Integrity and Retention of Personal Information
+
+Apple makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+##### Access to Personal Information
+
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+##### Children & Education
+
+We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided verifiable consent or as part of the child account creation process in Family Sharing or they have obtained a Managed Apple ID account (where available) through their school. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes), before they can begin the Apple ID account creation process for their child. In addition, schools that participate in Apple School Manager and have reviewed and consented to the Managed Apple IDs for Students Disclosure may create Managed Apple IDs for students. The [Managed Apple IDs for Students Disclosure](https://web.archive.org/legal/education/apple-school-manager) describes how Apple handles student information and supplements Apple’s Privacy Policy. Learn more about [Family Sharing](https://web.archive.org/icloud/family-sharing), the [Managed Apple IDs](https://web.archive.org/education/it) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
+
+If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, outside the above circumstances we will take steps to delete the information as soon as possible.
+
+If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+Or by using the contact information [here](https://www.apple.com/legal/privacy/en-ww/?#questions).
+
+##### Location-Based Services
+
+To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices’ approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
+
+Some location-based services offered by Apple, such as the “Find My iPhone” feature, require your personal information for the feature to work.
+
+##### Third‑Party Sites and Services
+
+Apple websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties − for example, a third‑party iPhone app.
+
+Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+
+If you purchase a subscription in a third party app or within News, we create a Subscriber ID that is unique to you and the developer or publisher which we use to provide reports to the developer or publisher that include information about the subscription you purchased, and your country of residence. If you cancel all of your subscriptions with a particular developer or publisher, the Subscriber ID will reset after 180 days if you do not resubscribe. This information is provided to developers so that they can understand the performance of their subscriptions.
+
+##### International Users
+
+All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple uses approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland. Apple, as a global company, has a number of legal entities in different jurisdictions which are responsible for the personal information which they collect and which is processed on their behalf by Apple Inc. For example, point of sale information in our Retail entities outside the U.S. is controlled by our individual Retail entities in each country. Apple, Online Store and iTunes related personal information may also be controlled by legal entities outside the U.S. as reflected in the terms of each service.
+
+Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. To learn more about the APEC Certification and Dispute Resolution, please click on the TRUSTe seal.
+
+##### Our Companywide Commitment to Your Privacy
+
+To make sure your personal information is secure, we communicate our privacy and security guidelines to Apple employees and strictly enforce privacy safeguards within the company.
+
+##### Privacy Questions
+
+If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us](https://web.archive.org/legal/privacy/en-ww/contact/). You can always contact us by phone at the relevant [Apple Support](http://support.apple.com/kb/HE57) number for your country.
+
+All such communications are examined and replies issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
+
+Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
