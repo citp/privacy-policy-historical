@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mothership.sg privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608173458id_/http%3A//mothership.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothership.sg privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914152748id_/https%3A//mothership.sg/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mothership.SG
+# Privacy Policy – Mothership.SG
 
 ## Information gathered from visitors
 
