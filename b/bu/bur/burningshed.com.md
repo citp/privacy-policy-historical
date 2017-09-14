@@ -1,34 +1,35 @@
-> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430194109id_/https%3A//burningshed.com/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914092459id_/https%3A//burningshed.com/privacy_policy) for the most accurate reproduction.*
 
-# Burning Shed: Specialist online music label and shop
+# Privacy Policy
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
-We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service. 
+We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service.
 
-We will not e-mail you in the future unless you have given us your consent. 
+We will not e-mail you in the future unless you have given us your consent.
 
-We will give you the chance to refuse any marketing email from us. 
+We will give you the chance to refuse any marketing email from us.
 
-The type of information we will collect about you includes: 
+The type of information we will collect about you includes:
 
-  * your name
-  * address
-  * phone number
-  * email address
+your name
 
+address
 
+phone number
 
-Please note that we do not personally hold credit and card details, as payments are securely processed by established online payment providers [Worldpay](http://www.worldpay.com/) and [Paypal](http://www.paypal.com/). 
+email address
 
-We will never collect sensitive information about you without your explicit consent. 
+Please note that we do not personally hold credit and card details, as payments are securely processed by established online payment providers Worldpay and Paypal.
 
-The information we hold will be accurate and up to date, based on the information you give us when you place an order. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
+We will never collect sensitive information about you without your explicit consent.
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. 
+The information we hold will be accurate and up to date, based on the information you give us when you place an order. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
 
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. 
+The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
+If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
+
+We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
 Please contact us if you have any questions/comments about privacy.
