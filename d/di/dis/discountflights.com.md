@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115556id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915010335id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
 
-# Discount Flights - Official Site
+# Discount Flights - Search, Compare & Book Cheap Airfares.
 
 ## Privacy policy
 
