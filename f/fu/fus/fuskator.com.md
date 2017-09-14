@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuskator.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627045729id_/http%3A//fuskator.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuskator.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914151543id_/https%3A//fuskator.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
