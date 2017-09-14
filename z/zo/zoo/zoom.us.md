@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512071143id_/https%3A//zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914132342id_/https%3A//www.zoom.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoom
 
-Updated: 09-27-2016
+Updated: 05-12-2017
 
-Zoom Video Communications, Inc. ("Zoom") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Zoom website zoom.us and is applicable worldwide. This policy outlines our handling practices, how we collect and use the personal information you provide through online and offline. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy" link at the footer on our website.
+Zoom Video Communications, Inc. ("Zoom") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Zoom website zoom.us, mobile applications, and desktop clients and is applicable worldwide. This policy outlines our handling practices, how we collect and use the personal information you provide through online and offline. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy" link at the footer on our website.
 
 Collection of your personal information
 
