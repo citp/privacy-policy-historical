@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123083500id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914212056id_/http%3A//www.createandcraft.com/gb/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Create and Craft
 
@@ -126,6 +126,6 @@ Back to Top
 
 To change any of your registered details on createandcraft.tv or idealworld.tv, click on 'your account' and enter your login name and PIN. Once logged in change any of the details shown and click 'change details'.
 
-For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/gb/terms_and_conditions) and [Home Delivery.](https://web.archive.org/gb/HomeDelivery)
+For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/gb/terms-and-conditions) and [Home Delivery.](https://web.archive.org/gb/HomeDelivery)
 
 Back to Top
