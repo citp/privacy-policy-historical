@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifewire.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426210713id_/https%3A//www.lifewire.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewire.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915014725id_/https%3A//www.lifewire.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
