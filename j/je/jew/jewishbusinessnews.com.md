@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishbusinessnews.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620201053id_/http%3A//jewishbusinessnews.com/hidden/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishbusinessnews.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914063311id_/http%3A//jewishbusinessnews.com/hidden/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jewish Business NewsJewish Business News
 
