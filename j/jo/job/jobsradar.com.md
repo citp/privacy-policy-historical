@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611132741id_/http%3A//www.jobsradar.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914201124id_/https%3A//www.jobsradar.com/privacy_policy) for the most accurate reproduction.*
 
-# Woodbridge Jobs - Job Listings | JobsRadar
+# Search Jobs - Job Listings | JobsRadar
 
 #### JobsRadar.com PRIVACY POLICY Effective Date: April 16, 2010
 
