@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216180128id_/https%3A//www.rcog.org.uk/en/legal/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914120535id_/https%3A//www.rcog.org.uk/en/legal/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy policy & cookies
 
@@ -128,7 +128,7 @@ For more information about turning off cookies on your browser, click the releva
 
   * [Safari iOS](http://support.apple.com/kb/HT1677)
   * [Android](https://support.google.com/chrome/answer/2392971?hl=en-GB)
-  * Blackberry (further information [here](http://btsc.webapps.blackberry.com/btsc/KB03865) and [here](http://docs.blackberry.com/en/))
+  * Blackberry (further information [here](http://support.blackberry.com/kb/articleDetail?ArticleNumber=000003865) and [here](http://docs.blackberry.com/en/))
   * [Windows Phone](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
 
 
