@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifecoachcode.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320043633id_/http%3A//www.lifecoachcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecoachcode.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914022952id_/https%3A//www.lifecoachcode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life Coach Code
 
@@ -14,7 +14,7 @@ Dejan also collects potentially personally-identifying information like Internet
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Davcevski websites choose to interact with Dejan in ways that require Dejan to gather personally-identifying information. The amount and type of information that Dejan gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Life Coach Code](http://lifecoachcode.com/) to provide a username and email address. Those who engage in transactions with Dejan are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Dejan collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Dejan. Dejan does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Davcevski websites choose to interact with Dejan in ways that require Dejan to gather personally-identifying information. The amount and type of information that Dejan gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Life Coach Code](https://lifecoachcode.com/) to provide a username and email address. Those who engage in transactions with Dejan are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Dejan collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Dejan. Dejan does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
