@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olderiswiser.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229175038id_/http%3A//www.olderiswiser.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olderiswiser.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914202504id_/http%3A//www.olderiswiser.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Older Is Wiser
 
@@ -78,7 +78,7 @@ Where you contribute to olderiswiser.com, Olderiswiser Media Limited will genera
 ##  10\. Can I find out what personal information Olderiswiser Media Limited holds about me?
 
 Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Media Limited holds about you and to have any inaccuracies corrected.  We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.  
-Please address requests to the Data Protection Officer, olderiswiser.com, Olderiswiser Media Limited, 2nd Floor, 25 Nutford Place, London W1H 5YQ  
+Please address requests to the Data Protection Officer, olderiswiser.com, Olderiswiser Media Limited, 16 Leigham Court Road, Streatham, London, SW16 2PJ.  
  
 
 ##  11\. Changes to Olderiswiser Media Limited's Privacy Policy
@@ -103,8 +103,8 @@ If you have any questions or comments about this Privacy Policy please contact;
 
 Olderiswiser.com  
 Olderiswiser Media Limited  
-2nd Floor  
-25 Nutford Place  
-London W1H 5YQ
+16 Leigham Court Road  
+Streatham  
+London SW16 2PJ
 
 Tel: (020) 7034 1900
