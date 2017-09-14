@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concisenews.global privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603084411id_/http%3A//concisenews.global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concisenews.global privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915014147id_/https%3A//www.concisenews.global/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Concise News
 
@@ -6,14 +6,17 @@ Your privacy is very important to us. So we have developed this privacy policy t
 
 Before or at the time of collecting personal information, Concise News will identify the purposes for which the information is being collected.
 
-  1. Concise News will collect and use personal information collected solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  2. Concise News will only retain personal information as long as necessary for the fulfilment of those purposes earlier stated. Concise News will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  3. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  4. Concise News will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  5. Concise News will make readily available to customers information about our policies and practices relating to the management of personal information.
-  6. Concise News is committed to conducting its business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+1\. Concise News will collect and use personal information collected solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
 
+2\. Concise News will only retain personal information as long as necessary for the fulfilment of those purposes earlier stated. Concise News will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
 
+3\. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+
+4\. Concise News will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+5\. Concise News will make readily available to customers information about our policies and practices relating to the management of personal information.
+
+6\. Concise News is committed to conducting its business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
 **HOW DOES CONCISE NEWS COLLECT YOUR INFORMATION?**
 
