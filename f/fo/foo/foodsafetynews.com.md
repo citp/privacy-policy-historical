@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsafetynews.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126081701id_/http%3A//www.foodsafetynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsafetynews.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914040945id_/http%3A//www.foodsafetynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food Safety News
 
