@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132028id_/http%3A//www.flstudiomusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914212030id_/http%3A//www.flstudiomusic.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
+
+privacy policy  2016-11-07T13:46:18+00:00 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email (use contact tab).At FLStudioMusic, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FLStudioMusic and how it is used.
 
