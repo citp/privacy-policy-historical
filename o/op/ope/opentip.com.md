@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121139id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914042036id_/https%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
-# Opentip.com: Online shopping for promotional items, sporting goods, office products, home and garden, and apparel.
+# opentip.com privacy
 
-**Opentip.com PRIVACY COMMITMENT TO THE PROTECTION OF CUSTOMER INFORMATION**  
+**Opentip.com PRIVACY COMMITMENT TO THE PROTECTION OF CUSTOMER INFORMATION**
+
 This notice describes our privacy policy. By visiting Opentip.com, you are accepting the practices described in this Privacy Notice. 
 
 **What Personal Information About Customers Does Opentip.com Gather?**
@@ -66,3 +67,7 @@ Examples of the information we collect and analyze include the Internet protocol
  **Information from Other Sources**
 
 Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search results and links, including paid listings (such as Sponsored Links from Google); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+
+Was this information helpful?
+
+[NO](http://www.opentip.com/contact_us.php)
