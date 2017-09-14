@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212204id_/https%3A//quttera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914172734id_/https%3A//quttera.com/privacy) for the most accurate reproduction.*
 
 # FREE Online Website Malware Scanner | Website Security Monitoring & Malware Removal | Quttera
 
