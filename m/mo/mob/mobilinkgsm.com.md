@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilinkgsm.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313084432id_/https%3A//www.jazz.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilinkgsm.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914224400id_/https%3A//www.jazz.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jazz
 
