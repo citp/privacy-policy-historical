@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icloud-content.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626175927id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icloud-content.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914181235id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Our Privacy Policy - Apple
 
