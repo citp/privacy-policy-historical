@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326152417id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914181610id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - TMP Worldwide
 
-Effective Date: September 13, 2016
+Effective Date: July 10, 2017
 
 TMP Worldwide Advertising & Communications, LLC (“ **TMP Worldwide** ”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, [www.tmp.com](https://www.tmp.com/), and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.
 
-## Safe Harbor Certification
-
-TMP Worldwide and its affiliates comply with the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. TMP Worldwide has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMP Worldwide’s certification, please visit <http://www.export.gov/safeharbor/>.
-
 ## Privacy Shield Certification
 
-TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
 TMP Worldwide is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. TMP Worldwide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
