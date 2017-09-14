@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229140240id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914181235id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Our Privacy Policy - Apple
 
@@ -102,7 +102,7 @@ If we learn that we have collected the personal information of a child under 13,
 
 If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
 
-Or by using the contact information [here](http://www.apple.com/legal/privacy/en-ww/?#questions).
+Or by using the contact information [here](https://www.apple.com/legal/privacy/en-ww/?#questions).
 
 ##### Location-Based Services
 
