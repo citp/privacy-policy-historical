@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialleadfreak.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516081611id_/http%3A//www.socialleadfreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialleadfreak.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914174817id_/http%3A//www.socialleadfreak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Lead Freak
 
