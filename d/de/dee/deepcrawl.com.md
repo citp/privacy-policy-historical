@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deepcrawl.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213172909id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepcrawl.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914021840id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeepCrawl
 
-This privacy policy governs the collection, storage and use of personal information collected by us, Written Byte Ltd (trading as DeepCrawl), via our website at www.deepcrawl.com. 
+This privacy policy governs the collection, storage and use of personal information collected by us, Written Byte Ltd (trading as DeepCrawl), via our website at deepcrawl.com. 
 
 It provides you with details about the personal information we collect from you, how we use your personal information and your rights to control personal information we hold about you. 
 
