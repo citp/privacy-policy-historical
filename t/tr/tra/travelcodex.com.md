@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelcodex.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128231945id_/https%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelcodex.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914074855id_/https%3A//travelcodex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Codex
 
@@ -36,7 +36,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ### Affiliate Marketing
 
-**Disclaimer: This content is not provided or commissioned by the credit card issuer. Opinions expressed here are author’s alone, not those of the credit card issuer, and have not been reviewed, approved or otherwise endorsed by the credit card issuer. This site may be compensated through the credit card issuer Affiliate Program.**
+ **Disclaimer: This content is not provided or commissioned by the credit card issuer. Opinions expressed here are author’s alone, not those of the credit card issuer, and have not been reviewed, approved or otherwise endorsed by the credit card issuer. This site may be compensated through the credit card issuer Affiliate Program.**
 
 ### Changes to this Privacy Policy
 
