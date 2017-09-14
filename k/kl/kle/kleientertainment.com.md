@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleientertainment.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520091826id_/https%3A//www.kleientertainment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleientertainment.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914210544id_/https%3A//www.kleientertainment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Klei Entertainment
 
