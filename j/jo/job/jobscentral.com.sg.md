@@ -1,53 +1,49 @@
-> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013340id_/http%3A//jobscentral.com.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914042639id_/https%3A//jobscentral.com.sg/privacy) for the most accurate reproduction.*
 
-# Protect Your Privacy and Safety
-
-****
-
-**Protect Your Privacy and Safety**
+# JobsCentral Singapore
 
 **Effective Date: 16 September 2014**
 
-**Overview**
+## Overview
 
-CareerBuilder, LLC and its subsidiaries (including CareerBuilder (Singapore) Pte Ltd) and divisions (collectively, "CareerBuilder", "We" or "Our") has drafted its Privacy Policy to ensure that you can clearly understand our data and security practices and policies as you use websites and Apps owned by CareerBuilder (collectively, the "Sites"). This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase "Personal Information" refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to protect the security of your Personal Information and how you can contact us about our privacy practices. This Privacy Policy incorporates by reference the [Terms and Conditions](http://jobscentral.com.sg/terms.php) for the Sites, which apply to this Privacy Policy. To the extent permitted by applicable law, when you visit the Sites or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy. 
+CareerBuilder, LLC and its subsidiaries (including CareerBuilder (Singapore) Pte Ltd) and divisions (collectively, "CareerBuilder", "We" or "Our") has drafted its Privacy Policy to ensure that you can clearly understand our data and security practices and policies as you use websites and Apps owned by CareerBuilder (collectively, the "Sites"). This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase "Personal Information" refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to protect the security of your Personal Information and how you can contact us about our privacy practices. This Privacy Policy incorporates by reference the [Terms and Conditions](https://web.archive.org/privacy/terms) for the Sites, which apply to this Privacy Policy. To the extent permitted by applicable law, when you visit the Sites or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy. 
 
 Please review this Privacy Policy periodically as we may update it from time to time without prior notice to reflect changes in our data practices. We will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Policy and indicate at the bottom of the notice when it was most recently updated. If we make material changes to the policy that will affect previously collected Personal Information, you will be notified and asked to consent to the updated Privacy Policy. Notwithstanding any of the foregoing, you will be notified and asked to affirmatively consent to any updated Privacy Policy if required by applicable law. 
 
 Click on one of the links below to jump directly to the listed section: 
 
-  * Information We Collect
-  * How We Use the Information We Collect
-  * Information We Share
-  * CV Privacy Options
-  * Cookies and Third-party Advertisers
-  * Update Your Account Information
-  * Links to Other Websites
-  * International Data Transfers
-  * How We Protect Personal Information
-  * Some Important Tips To Use When Dealing With Prospective Employers
-  * California Residents
-  * Children's Privacy
-  * How to Contact Us
+  * [Information We Collect](https://web.archive.org/privacy#2)
+  * [How We Use the Information We Collect](https://web.archive.org/privacy#3)
+  * [Information We Share](https://web.archive.org/privacy#4)
+  * [CV Privacy Options](https://web.archive.org/privacy#5)
+  * [Cookies and Third-party Advertisers](https://web.archive.org/privacy#6)
+  * [Update Your Account Information](https://web.archive.org/privacy#7)
+  * [Links to Other Websites](https://web.archive.org/privacy#8)
+  * [International Data Transfers](https://web.archive.org/privacy#9)
+  * [How We Protect Personal Information](https://web.archive.org/privacy#10)
+  * [Some Important Tips To Use When Dealing With Prospective Employers](https://web.archive.org/privacy#11)
+  * [California Residents](https://web.archive.org/privacy#12)
+  * [Children's Privacy](https://web.archive.org/privacy#13)
+  * [How to Contact Us](https://web.archive.org/privacy#14)
 
 
 
-**Information We Collect**
+## Information We Collect
 
 We may obtain information about you from various sources, including our Sites, when you call or email us or communicate with us through social media, or when you participate in events, contests or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties and, to the extent permitted by applicable law, publicly available information. 
 
 The types of information we may obtain include: 
 
-  * Your Personal Information, if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information in order to perform job searches or to read the content portions of the Sites.
+  * Your Personal Information, if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information in order to perform job searches or to read the content portions of the Sites. 
   * Username and password for the account you may establish on our Sites.
   * Payment details (including payment card number, security code, expiration date, cardholder name and billing address) if you buy products on our Sites.
-  * Your demographic information (such as zip or postal code, occupation, education and experience, and if you choose to provide it, age, gender, nationality, race or ethnicity and other information deemed "sensitive" under applicable law). We collect this information either through the registration process, from your CV or in the manner described above.
+  * Your demographic information (such as zip or postal code, occupation, education and experience, and if you choose to provide it, age, gender, nationality, race or ethnicity and other information deemed "sensitive" under applicable law). We collect this information either through the registration process, from your CV or in the manner described above. 
   * Job search behavior and preferences, and a record of the searches that you make on our Sites. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches.
   * Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
 
 
-We collect information stored in your social media profile that you authorize us to access when you use your social media profile to enact features on the Sites, such as the ability to pre-populate our registration form or a job application, or the ability to see which of your friends have contacts with employers that interest you. CareerBuilder provides software applications ("Apps") available to the public, as well as Apps that may be purchased by companies for their employee's internal use in talent management. Through the use of these Apps, we may collect your social network data, but will never use or share non-public social network data that you have restricted through your social network's privacy settings.
+We collect information stored in your social media profile that you authorize us to access when you use your social media profile to enact features on the Sites, such as the ability to pre-populate our registration form or a job application, or the ability to see which of your friends have contacts with employers that interest you. CareerBuilder provides software applications ("Apps") available to the public, as well as Apps that may be purchased by companies for their employee's internal use in talent management. Through the use of these Apps, we may collect your social network data, but will never use or share non-public social network data that you have restricted through your social network's privacy settings. 
 
   * If you decide to download one of our Apps, such as Work@, we will collect your profile information, including your social network site user ID, work email address, name, city, state, social network site profile image URL, and employment history, including job titles and company names.
   * If you decide to download one of our apps, such as Work@, we will also collect information about your friends and their connections. This includes, depending on your friend's privacy settings, names, locations, and employment histories. 
@@ -59,26 +55,27 @@ We collect information stored in your social media profile that you authorize us
 
 
 
-In addition, when you visit our Sites or use our mobile applications, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail below. The information we may collect by automated means includes:
+In addition, when you visit our Sites or use our mobile applications, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/privacy#6). The information we may collect by automated means includes: 
 
   * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type).
   * Pages and URLs that refer visitors to our Sites, also pages and URLs that visitors exit to once they leave our Sites.
   * Dates and times of visits to our Sites.
-  * Information on actions taken on our Sites (such as page views, site navigation patterns and job view or application activity).
+  * Information on actions taken on our Sites (such as page views, site navigation patterns and job view or application activity). 
   * A general geographic location (such as country and city) from which a visitor accesses our Sites.
   * Search terms that visitors use to reach our Sites.
 
 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
+## How We Use the Information We Collect
 
+We may use the information we obtain about you to: 
 
   * Register, manage and maintain your account on the Sites.
   * Provide products or services you request.
   * Process, validate and deliver your purchases (including by processing payment card transactions and contacting you about your orders, including by telephone).
-  * Maintain a record of the jobs you view or apply to on our Sites. 
+  * Maintain a record of the jobs you view or apply to on our Sites.
   * Inform you of relevant job postings that may be of interest to you.
   * Provide administrative notices or communications applicable to your use of the Sites.
   * Respond to your questions and comments and provide customer support.
@@ -86,23 +83,20 @@ _(Return to Top)_
   * Manage your participation in our events and other promotions, where you have signed up for such events and promotions.
   * Operate, evaluate and improve our business and the products and services we offer.
   * Analyze and enhance our marketing communications and strategies (including by identifying when emails we have sent to you have been received and read).
-  * Analyze trends and statistics regarding visitors' use of our Sites, mobile applications and social media assets, and the jobs viewed or applied to on our Sites. 
+  * Analyze trends and statistics regarding visitors' use of our Sites, mobile applications and social media assets, and the jobs viewed or applied to on our Sites.
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users.
-  * Enforce our Sites' [Terms and Conditions](http://jobscentral.com.sg/terms.php).
+  * Enforce our Sites' [Terms and Conditions](https://web.archive.org/privacy/terms). 
   * Comply with applicable legal requirements and industry standards and our policies.
 
 
 
-We also use non-personally identifiable information and certain technical information about your computer and your access of the Sites (including your internet protocol address) in order to operate, maintain and manage the Sites. We collect this information by automated means, such as cookies and web beacons, as described in more detail below. 
+We also use non-personally identifiable information and certain technical information about your computer and your access of the Sites (including your internet protocol address) in order to operate, maintain and manage the Sites. We collect this information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/privacy#6). 
 
 If we seek to use the information we obtain about you in other ways, we will provide specific notice and request your consent at the time of collection. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**Information We Share**
+## Information We Share
 
 We may share and combine your information internally across different Sites and with our parent, affiliate or subsidiary companies for the uses described above under the heading"How We Use the Information We Collect." 
 
@@ -122,12 +116,9 @@ CareerBuilder also may disclose specific user information when we determine, in 
 
 In addition, Personal Information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy or other corporate reorganization of CareerBuilder. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**CV Privacy Options**
+## CV Privacy Options
 
 Posting your CV on the Sites puts you in front of thousands of employers with open positions each day. When you post your CV, we automatically create a registration for you using the email address and password that you supply. When you return to the Sites in the future you will use that same email address and password to access and edit your existing CV. 
 
@@ -135,7 +126,7 @@ We know that our job seekers have varying levels of comfort when it comes to pos
 
   1. **Standard Posting**
 
-This option gives you the most visibility to the broadest employer audience possible by making your CV searchable in our CV database. If you select this option, any registered employer user who purchases access to the database can view your CV and contact details (to the extent you include them in your CV).
+This option gives you the most visibility to the broadest employer audience possible by making your CV searchable in our CV database. If you select this option, any registered employer user who purchases access to the database can view your CV and contact details (to the extent you include them in your CV). 
 
   2. **Private Posting For Apply Online Only**
 
@@ -148,16 +139,13 @@ We attempt to limit access to our searchable CV database to legitimate users suc
 
 With respect to posting a CV or other information on the Sites, if you, your data, or the Sites you are using are subject to Directive 95/46/EC of the European Parliament and of the European Council, the local laws adopted by member states of the European Union pursuant thereto or other law that prohibits or limits the collection or processing of "sensitive" data or information such as age or gender as it relates to employment opportunities, you agree to refrain from providing such information to us and you accept that CareerBuilder will not be in any way liable for unlawful collection or processing of such information. Furthermore, you agree to hold CareerBuilder harmless and indemnify CareerBuilder for any damage arising from the collection or processing of such information. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**About Cookies, Tracking Choices, and Third Party Advertisers**
+## About Cookies, Tracking Choices, and Third Party Advertisers
 
 A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," is also called a Web bug or a pixel tag or a clear GIF. Used in combination with cookies, a Web beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a Web site or in an e-mail that is used to monitor the behavior of the user visiting the Web site or sending the e-mail. 
 
-CareerBuilder uses cookies and other similar technologies for the convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. CareerBuilder also uses cookies to store non-personally identifying information about you such as past jobs viewed and job searches conducted by your computer in a cookie that it places on your computer. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches. Lastly, CareerBuilder uses cookies to ensure the proper functioning and efficiency of our Sites. For more details about the cookies CareerBuilder uses, click here. Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please be aware, however, that some CareerBuilder features or services may not function properly without cookies. 
+CareerBuilder uses cookies and other similar technologies for the convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. CareerBuilder also uses cookies to store non-personally identifying information about you such as past jobs viewed and job searches conducted by your computer in a cookie that it places on your computer. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches. Lastly, CareerBuilder uses cookies to ensure the proper functioning and efficiency of our Sites. For more details about the cookies CareerBuilder uses, [click here](https://web.archive.org/privacy#15). Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please be aware, however, that some CareerBuilder features or services may not function properly without cookies. 
 
 CareerBuilder permits third party cookies on its Sites. For example, third party tools located on the Sites, including those that allow for social media sharing, may use cookies to remember user preference settings. CareerBuilder also uses web analytics services provided by third parties, which use cookies to collect non-personal information about details of our users' visits to the Sites (including IP addresses) and the resources they access on the Sites. These third party web analytics services provide us with reports based on this information in order to help us understand how visitors engage with the Sites. 
 
@@ -169,32 +157,23 @@ Our Site does not respond to web browser do-not-track signals. However, to help 
 
 In addition, some of the employers that use our Sites may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants. To obtain guidance regarding deleting or disabling cookies, please [click here](http://www.careerbuilder.com/Jobseeker/Page.aspx?pagever=remove-cookies). 
 
-For additional information on third party cookies that may be used on the Sites, click here. 
+For additional information on third party cookies that may be used on the Sites, [click here](https://web.archive.org/privacy#15). 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**Access Your Information**
+## Access Your Information
 
 You may access Personal Information we maintain about you at any time by logging into your account. From there you may update and amend such information by making the necessary changes. You may also delete your account at any time by logging in to your account and making an account deletion request. Deleting your account will remove your Personal Information and CVs from our databases. However, if you have applied to a job in the past, that particular employer will still be able to access your application, including your CV and any other information you provided with such application. Further, you will not be able to delete data held by employers and other third parties that already have accessed and downloaded your information or CV. In addition, we will retain anonymous Aggregate Data for uses described above. Please allow up to thirty days to process your account deletion request. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**Links to Other Websites**
+## Links to Other Websites
 
 Our Sites may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by CareerBuilder. In addition, if you are using our App through a social networking site, remember that our Apps may be served by or hosted by other sites. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by CareerBuilder, any use of those sites, or those sites' privacy practices. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**International Data Transfers**
+## International Data Transfers
 
 When we obtain Personal Information about you, we (or our service providers) may process and store the information outside of the country in which you are located, including in the United States. The countries in which we (or our service providers) process the information may not have the same data protection laws as the country in which you are located. Further, third parties who access your information, such as potential employers, also may be located in a different country than you and different laws may apply to their use of your information. 
 
@@ -204,12 +183,9 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, CareerBuilder 
 
 CareerBuilder has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by CareerBuilder, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**How We Protect Personal Information**
+## How We Protect Personal Information
 
 CareerBuilder maintains administrative, technical and physical safeguards designed to assist us in protecting the Personal Information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. 
 
@@ -217,48 +193,37 @@ Please note that no electronic transmission of information can be entirely secur
 
 To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our Sites. Please note that we will never ask for your CareerBuilder account user name or password via email. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
+## Some Important Tips To Use When Dealing With Prospective Employers
 
   * You should use your own careful judgment about whether and what information to provide prospective employers.
-  * DO NOT PUT SENSITIVE PERSONAL INFORMATION SUCH AS YOUR SOCIAL SECURITY NUMBER OR NATIONAL IDENTIFICATION NUMBER ON YOUR CV. 
-  * CareerBuilder's Sites are open to the public, and we cannot guarantee that all users of our services have a legitimate need to the information they seek. 
+  * DO NOT PUT SENSITIVE PERSONAL INFORMATION SUCH AS YOUR SOCIAL SECURITY NUMBER OR NATIONAL IDENTIFICATION NUMBER ON YOUR CV.
+  * CareerBuilder's Sites are open to the public, and we cannot guarantee that all users of our services have a legitimate need to the information they seek.
   * Identity thieves may attempt to trick you into providing sensitive personal information. Confirm the identity of the recipient before you provide your social security number, national identification number or any state, provincial or other local identification number to a prospective employer via online application or over the phone. Do not provide any non-work related personal information (e.g., eye color, marital status, etc.) over the phone or online.
-  * Job seekers should never provide credit card or bank numbers or engage in a monetary transaction of any sort. 
-  * Be cautious when dealing with contacts outside of your own country. 
+  * Job seekers should never provide credit card or bank numbers or engage in a monetary transaction of any sort.
+  * Be cautious when dealing with contacts outside of your own country.
+
+
 
 For additional details regarding How To Spot Fraud Online, please [click here](http://www.careerbuilder.com/JobSeeker/Info/privacy.aspx?version=fraud). We use secure socket layer (or "SSL") technology to protect credit card transactions. The SSL technology encrypts credit card numbers while in transit so that they are not intercepted by unintended third parties. We use BluePay Processing LLC to process credit card purchases and their privacy policy may be viewed [here](http://www.bluepay.com/privacy-policy). 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**California, USA Residents**
+## California, USA Residents
 
 California law permits its residents to request and receive information about a business' disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to [customer.service@careerbuilder.com](mailto:customer.service@careerbuilder.com) or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**Children's Privacy**
+## Children's Privacy
 
 We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use the Sites. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible. 
 
-_(Return to Top)_
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
 
-  
-
-
-**How to Contact Us**
+## How to Contact Us
 
 You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at [customer.service@careerbuilder.com](mailto:customer.service@careerbuilder.com) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
 
-_(Return to Top)_
-
-**This career portal is owned by CareerBuilder (Singapore) Pte Ltd**   
-78 Shenton Way, #09-01, Singapore 079120 | Tel: 6778-5288 | Fax: 6578-7400 
+[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
