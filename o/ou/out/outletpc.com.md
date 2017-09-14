@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outletpc.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122161410id_/http%3A//www.outletpc.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outletpc.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915005754id_/https%3A//www.outletpc.com/privacypolicy.html) for the most accurate reproduction.*
 
 # OutletPC.com: Privacy Policy
 
