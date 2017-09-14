@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125140815id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914090923id_/https%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Queensland Government
 
-The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_ (PDF, 836 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
+The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_ (PDF, 836KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
 We collect and manage your personal information as described on this page, unless stated otherwise. 'Personal information' may include your name, address, phone number, email address, age, gender, your employer, and your position title.
 
@@ -31,7 +31,7 @@ Our internet service provider or information technology staff may monitor email 
 We use cookies to collect anonymous statistical information, including:
 
   * your browser, computer platform and screen resolution
-  * your traffic patterns through our site, such as: 
+  * your traffic patterns through our site, such as:
     * the date and time of your visit
     * the pages and documents accessed
     * the website you visited before ours
@@ -49,7 +49,7 @@ We use Google Analytics (including display advertising features) on our website 
 
 We use this data to analyse the pages that are visited, to improve your experience and make sure our website is useful.
 
-You can read more about [how Google uses data](http://www.google.com/policies/privacy/partners/). You can choose not to allow Google to collect your information by [opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout) or specifically opt out of [Google Analytics display advertiser features](http://www.google.com.au/policies/technologies/ads).
+You can read more about [how Google uses data](http://www.google.com/policies/privacy/partners). You can choose not to allow Google to collect your information by [opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout) or specifically opt out of [Google Analytics display advertiser features](http://www.google.com.au/policies/technologies/ads).
 
 ## Security
 
@@ -61,4 +61,4 @@ Where this site contains links to non-Queensland Government websites, the Queens
 
 ## More information
 
-[Email us](mailto:Government.Gateway@qld.gov.au) if you would like to know more about information privacy.
+[Contact us](https://www.qld.gov.au/contact-us) if you would like to know more about information privacy.
