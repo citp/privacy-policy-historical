@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teeturtle.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119014347id_/https%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeturtle.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914221228id_/https%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – TeeTurtle
 
