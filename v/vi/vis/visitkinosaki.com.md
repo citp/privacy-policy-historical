@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitkinosaki.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622122248id_/http%3A//visitkinosaki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitkinosaki.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914042233id_/http%3A//visitkinosaki.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy｜Visit Kinosaki
 
@@ -41,6 +41,9 @@ This website may contain links to third party websites. We are not responsible i
 _**Online Security**_  
 We will do our best to ensure the security of your personal information submitted to our site.  
 However, you must be aware of the inherent risks associated with the transmission of information via the Internet. We cannot and do not in any way guarantee or warrant the security of any personal information you submit to our site.
+
+_**Governing Law**_  
+Regarding the handling and management of personal information on this site not mentioned above, we shall comply with the laws, regulations, and government ordinaces imposed by Japan.
 
 _**Copyright**_  
 This website is comprised of original components made through a process of intellectual and/or creative effort. The components include written texts, pictures, photographs, images, videos, etc. This site prohibits any duplication, distribution, or alteration of any of the components without the expressed written consent of Visit Kinosaki as well as by any other party possessing relevant rights.
