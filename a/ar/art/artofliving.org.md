@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191832id_/https%3A//www.artofliving.org/us-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916005446id_/https%3A//www.artofliving.org/us-en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Art of Living
 
