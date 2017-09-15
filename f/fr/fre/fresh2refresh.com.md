@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresh2refresh.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628192937id_/http%3A//fresh2refresh.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresh2refresh.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915123646id_/http%3A//fresh2refresh.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | fresh2refresh.com
 
@@ -14,9 +14,13 @@ Your privacy is very important to us. Accordingly, we have developed our Policy 
 
 
 
-Ask your questions or clarify your/others doubts from, 
-
-### [✅ Online Discussion Forums by Fresh2Refresh.com](http://fresh2refresh.com/discussion-forums/)
+> 1\. Online Compilers - Compile & Run your C/C++ programs: 
+> 
+> ##### [✅ Online Compilers](http://compilers.fresh2refresh.com/)
+> 
+> 2\. Ask your questions or clarify your/others doubts from, 
+> 
+> ##### [✅ Online Discussion Forums by Fresh2Refresh.com](http://fresh2refresh.com/discussion-forums/)
 
 * * *
 
