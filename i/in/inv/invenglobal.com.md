@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invenglobal.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210155246id_/https%3A//www.invenglobal.com/companyinfo%3Fidx%3D165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invenglobal.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915035203id_/https%3A//www.invenglobal.com/companyinfo%3Fidx%3D165) for the most accurate reproduction.*
 
 # InvenGlobal - The Gamer's World
 
