@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nylonmag.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628222329id_/http%3A//www.nylon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylonmag.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915122816id_/https%3A//www.nylon.com/privacy) for the most accurate reproduction.*
 
 # NYLON · NYLON Media Privacy Policy
 
