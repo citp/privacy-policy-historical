@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129031800id_/https%3A//about.workopolis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915133517id_/https%3A//about.workopolis.com/privacy) for the most accurate reproduction.*
 
 # Workopolis Privacy Policy - About
 
 _Last Updated on September 10, 2015_
 
-At the Workopolis Partnership (‘ **Workopolis** ‘), protecting your privacy is very important to us. Workopolis treats your personal information with the utmost respect and in accordance with this Privacy Policy. This Privacy Policy explains how personal information, about you, may be collected, used, or disclosed as a consequence of your activities on the Workopolis website. We urge you to read it carefully. By registering on this site, by submitting your resume or any information through the use of this site, or by otherwise accessing this site or using any of our services, you agree to the terms of this Privacy Policy and consent to the policies and practices described for the collection, use or disclosure of personal information.
+At Workopolis Inc. (‘ **Workopolis** ‘), protecting your privacy is very important to us. Workopolis treats your personal information with the utmost respect and in accordance with this Privacy Policy. This Privacy Policy explains how personal information, about you, may be collected, used, or disclosed as a consequence of your activities on the Workopolis website. We urge you to read it carefully. By registering on this site, by submitting your resume or any information through the use of this site, or by otherwise accessing this site or using any of our services, you agree to the terms of this Privacy Policy and consent to the policies and practices described for the collection, use or disclosure of personal information.
 
   * Protection of Personal Information
   * What Information Do We Collect
@@ -170,6 +170,6 @@ Any **Resumé** or other information of any kind that you provide, including as 
 #### Contact Us
 
   1. Workopolis will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about our privacy policies and procedures, any requests for access to our records of your personal information and any other privacy related concerns or complaints using this [contact form](http://www.workopolis.com/shared/en/contactus/seeker), selecting ‘ **Privacy Policy** ‘ from the ‘ **I have a question regarding** ‘ drop-down menu, and filling in your request in the ‘ **Details** ‘ section of the contact form. All privacy related complaints will be acknowledged, recorded, investigated and responded to in accordance with applicable law.
-  2. You can contact us by using this [contact form](http://www.workopolis.com/shared/en/contactus/seeker), selecting ‘ **Privacy Policy** ‘ from the ‘ **I have a question regarding** ‘ drop-down menu, and filling in your request in the ‘ **Details** ‘ section of the form, through our toll-free line at **1-888-641-4047** , or by postal mail to: **Workopolis Privacy Officer, 720 King Street West, 10th Floor, Toronto, ON M5V 2T3**
+  2. You can contact us by using this [contact form](http://www.workopolis.com/shared/en/contactus/seeker), selecting ‘ **Privacy Policy** ‘ from the ‘ **I have a question regarding** ‘ drop-down menu, and filling in your request in the ‘ **Details** ‘ section of the form, through our toll-free line at **1-888-641-4047** , or by postal mail to: **Workopolis Privacy Officer, 1 Yonge Street, Suite 402, Toronto, ON M5E 1E6.**
 
 
