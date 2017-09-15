@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514035329id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915152346id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FilterGrade
 
