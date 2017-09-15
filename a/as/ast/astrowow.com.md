@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the astrowow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172630id_/https%3A//www.astrowow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrowow.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915192337id_/https%3A//www.astrowow.com/privacy-policy) for the most accurate reproduction.*
 
 # Astrowow.com - Privacy policy, astrology software, astrology report, free horoscopes
 
-Thank you for visiting the Astrowow.com Web portal (the “Web portal”). Please read the Privacy Policy of Astrowow.com, Inc (“Privacy Policy”) before using the Web portal. In addition to reviewing the Privacy Policy, you are required to read and agree to the Terms of Service and Accepted Use of Astrowow.com, Inc., which is located at [terms of use](https://web.archive.org/web/20170606172630id_/terms-of-use). By using the Web portal or by using any of the services provided on the Web portal, you are agreeing to the terms of the Privacy Policy and Terms of Use.
+Thank you for visiting the Astrowow.com Web portal (the “Web portal”). Please read the Privacy Policy of Astrowow.com, Inc (“Privacy Policy”) before using the Web portal. In addition to reviewing the Privacy Policy, you are required to read and agree to the Terms of Service and Accepted Use of Astrowow.com, Inc., which is located at [terms of use](https://web.archive.org/web/20170915192337id_/terms-of-use). By using the Web portal or by using any of the services provided on the Web portal, you are agreeing to the terms of the Privacy Policy and Terms of Use.
 
 ### 1\. Acceptance of Amendments to Astrowow.com Privacy Policy
 
@@ -36,11 +36,11 @@ THE ASTROWOW.COM PRIVACY POLICY DOES NOT GOVERN OR APPLY TO INFORMATION COLLECTE
 
 Under the USA Patriot Act of 2001 (the “Patriot Act”), Astrowow.com may be required to disclose certain information concerning your use of the Astrowow.com services without advance notice to you. If Astrowow.com receives a subpoena, Astrowow.com may be required to disclose the following records:
 
-  * (a) your name and address:
-  * (b) your telephone number(s):
-  * (c) any internet or network address:
-  * (d) records of your internet sessions (including session times and duration):
-  * (e) how long you have subscribed the Astrowow.com services (including start date):
+  * your name and address:
+  * your telephone number(s):
+  * any internet or network address:
+  * records of your internet sessions (including session times and duration):
+  * how long you have subscribed the Astrowow.com services (including start date):
 
 
 
@@ -73,8 +73,8 @@ Astrowow.com may occasionally conduct user surveys to better target its content 
 
 **Astrowow.com give users options wherever necessary and practical. Such options include:**
 
-  * (a) Opting not to register to receive our electronic newsletters
-  * (b) Opting not to participate in certain interactive areas.
-  * (c) Opting not to receive different types of emails, including but not limited to daily sun sign, daily personal horoscope, weekly and monthly sun signs, etc
+  * Opting not to register to receive our electronic newsletters
+  * Opting not to participate in certain interactive areas.
+  * Opting not to receive different types of emails, including but not limited to daily sun sign, daily personal horoscope, weekly and monthly sun signs, etc
 
 
