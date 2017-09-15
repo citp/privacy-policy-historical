@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipgames.me privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510085213id_/http%3A//vipgames.me/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipgames.me privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915040549id_/http%3A//vipgames.me/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – VIPGames
 
