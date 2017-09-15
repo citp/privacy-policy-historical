@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baby-markt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085708id_/http%3A//www.baby-markt.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby-markt.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915222100id_/http%3A//www.baby-markt.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
