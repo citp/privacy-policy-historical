@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloringhome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072139id_/http%3A//coloringhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloringhome.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915231459id_/http%3A//coloringhome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Coloring Home - Coloring Home
 
