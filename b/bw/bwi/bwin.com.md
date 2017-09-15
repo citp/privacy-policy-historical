@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202001536id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915182111id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy%23cookies) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
@@ -12,7 +12,7 @@
 
 We are committed to protecting Your personal information. We have created this Privacy Policy to let You know what information We collect when You use Our Services, why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between You and the Group being bwin.party digital entertainment plc together with its Group companies as defined in the [Terms and Conditions of Use](https://web.archive.org/en/general-information/legal-matters/general-terms-and-conditions) (' **bwin.party** ',' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Policy will be agreed between You and the Group being GVC Holdings plc together with its Group companies as defined in the [Terms and Conditions of Use](https://web.archive.org/en/general-information/legal-matters/general-terms-and-conditions) (' **bwin.party** ',' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
 We may periodically make changes to this Privacy Policy and will notify You of these changes by posting the modified terms on Our Platforms. We recommend that You revisit this Privacy Policy regularly.
 
