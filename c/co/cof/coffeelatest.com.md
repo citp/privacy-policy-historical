@@ -1,39 +1,53 @@
-> *The following text is extracted and transformed from the coffeelatest.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217161711id_/http%3A//coffeelatest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeelatest.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915040041id_/http%3A//www.coffeelatest.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - coffeetest
 
-## Privacy Policy
+Coffeelatest understands how important privacy is for our readers. We encourage you to take the time to read the entire privacy policy.
 
-[Back to homepage __](http://coffeelatest.com/)
+## Information that we collect
 
-This privacy policy explains you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.  
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you.
+We collect information from you when you fill out a contact form or email subscription form.
 
-##### Information Collected
+We use third-party tools, such as Google Analytics, to better understand our site visitors. We also use social media widgets that may collect information about your use of the site.
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of cookies enables it to serve ads to users based on their visits to this site and other sites on the Internet.
 
-##### Information Use
+Users may opt out of the use of these cookies by visiting the Google ad and content network [privacy policy](https://www.google.com/policies/technologies/ads/).
 
-We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorized access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.
+## What we use your information for
 
-##### Cookies and Web Beacons
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-Your Internet browser has the in-built facility for storing small files- â€œcookiesâ€ â€“ that hold information which allows a website to recognize your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information.  
-We also use third party advertising companies to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information which includes only your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Your name, address, email address, or telephone number is NOT included.
+At the bottom of each and every email sent to you, there is an unsubscribe link. If you click that link, you will never hear from us again.
 
-##### DoubleCLick Dart Cookie.
+We will never share your email address with anyone.
 
-Google as our main third party ad vendor uses the DoubleCLick Dart Cookie technology to best serve you the most relevant ads about goods and services that may suit your interest and enhance your surfing experience. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. You may also opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+## We do use cookies
 
-##### Disclosing Information
+Cookies are small files that a site or its service provider transfer to your hard drive through your browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We do not share your personally identifiable information to any third party for marketing purposes. However, we may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.
+We use cookies to compile data about site traffic and interaction so that we can offer better experiences and tools in the future.
 
-##### Changes to this Policy
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+## Terms and Conditions
 
-##### Contact Us
+Please also visit our  **Terms of Use  page** establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us via our Contact Page. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+## Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+## Contact Us
+
+If there are any questions regarding this privacy policy, use the  **[contact form](http://www.coffeelatest.com/p/blog-page.html)**  to contact the site admin.
+
+You can also contact us by mail via this address: Haitham Morsy. Italy Ancona AN 60033
+
+This page was last updated on December 02th, 2016.
+
+© 2016-2015 Coffeelatest. All rights reserved.
