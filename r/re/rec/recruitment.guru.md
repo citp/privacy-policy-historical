@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the recruitment.guru privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213112432id_/http%3A//www.recruitment.guru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitment.guru privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915145929id_/https%3A//www.recruitment.guru/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Recruitment.Guru
+# Recruitment.Guru - Privacy Policy
 
-At _Recruitment.Guru_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Recruitment.Guru_ and how it is used.
+**Recruitment Guru** aims at providing a safe and secure experience to users by guarding their privacy. We commit to maintaining privacy of your provided information using commercially reasonable efforts. Our privacy policy is governed by our terms and conditions of use that represents the user and Recruitment Guru Agreement. If in any case there is a conflict between the terms and the statements, terms and conditions in the privacy policy, the Terms shall control.
 
- **Log Files**
+**Information about users who visit the website of Recruitment Guru**
 
-Like many other Web sites, _Recruitment.Guru_ makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+A few things, like what are the most sought services by all the users, is the kind of information we collect in aggregate. Using this information, it becomes easier for us to figure out what could be most beneficial for the users. It helps us make our services better and be all that our users need. Even if this information can be shared with our partners, we do it in aggregate and not individually. All in all our aim is to provide better services.
 
- **Cookies and Web Beacons**
+**Information about registered users**
 
- _Recruitment.Guru_ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+When you sign up, we have an access to some information specifically such as your name, address, contact details etc. This information helps us to reach out to you and make you aware of our products and services that you might be interested in. we might even try to find out your likes, dislikes, and job preferences to help you better at finding what you want.
 
- **DoubleClick DART Cookie**
+**General information disclosure**
 
-  * Google, as a third party vendor, uses cookies to serve ads on _Recruitment.Guru_.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to _Recruitment.Guru_ and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+Any information relating to your individual visits, and the details you provide about yourself are kept confidential and not disclosed to any outside party, expect when it is inevitable under applicable law. However, if you provide your information on a co-branded registration page, the information is also accessible by the other site. In this case, Recruitment Guru is not responsible for the information received by that partner. Also, the aggregated information may be shared with our partners to enhance services.
 
+**Profiles**
 
+Recruitment Guru is an employment related site. So, you are required to make a profile that is visible to various recruiters and employers. But you can choose to keep certain information in your profile confidential. When a recruiter shows interest in your profile, we contact you to let you know. When you decide to display your confidential information to that recruiter, we let the recruiter have an access to your full profile. Recruitment Guru makes all the commercially reasonable efforts to make sure your profile is not accessible for unauthorized persons. However, Recruitment Guru is not responsible for any such unauthorized access.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on _Recruitment.Guru_ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+You can remove your profile whenever you feel like. But the employers who you have shared your full-profile with may have kept a copy of your profile with them. We are not responsible for the information that is with any other person.
 
- _Recruitment.Guru_ has no access to or control over these cookies that are used by third-party advertisers.
+**Feedbacks**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. _Recruitment.Guru_ 's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+The feedbacks that you give to our website on Recruitment Guru become the property of Recruitment Guru. We can use your feedback in the form of success stories, or for promotional and marketing purpose.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser's respective websites.
+**What is your information used for?**
+
+We use the collected information about you to enhance our services and personalize your experience. You email id and contact number lets us send you mails and texts related to our services to keep you informed and updated. Your feedback help us to improve our website and make a perfect fit with your expectations.
+
+The following privacy policies are subject to change. If they change, we will provide the updated policies here itself. If you have any queries regarding our privacy policies, please e-mail us @  **www.recruitment.guru@gmail.com**
