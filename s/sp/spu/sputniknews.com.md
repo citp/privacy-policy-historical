@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sputniknews.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320015432id_/https%3A//sputniknews.com/docs/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputniknews.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915182903id_/https%3A//sputniknews.com/docs/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Sputnik International
+# Privacy Policy - Sputnik International
 
 When you use Sputnik websites and applications, various types of personally identifiable and non-personally identifiable information about you may become available or be purposefully collected by Sputnik and third parties that provide site usage statistics services to us.
 
