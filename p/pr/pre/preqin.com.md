@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015143332id_/https%3A//www.preqin.com/item/privacy-policy/103/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915140912id_/https%3A//www.preqin.com/item/privacy-policy/103/1592) for the most accurate reproduction.*
 
 # Policies - Privacy Policy - Preqin
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+We collect information from you when you register on our site, use our site, download our mobile application, use our mobile application, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -48,7 +48,7 @@ From time to time, we make the email addresses of those who access our site avai
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online privacy policy applies only to information collected through our website and mobile application and not to information collected offline.
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.preqin.com/item/terms-conditions/100/304](https://web.archive.org/item/terms-conditions/100/304)
 
