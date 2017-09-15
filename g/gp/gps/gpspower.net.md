@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gpspower.net privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119021018id_/https%3A//www.gpspower.net/forum-rules/334017-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpspower.net privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915202412id_/https%3A//www.gpspower.net/forum-rules/334017-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+14th May 2015, 10:05 AM [#1](https://www.gpspower.net/forum-rules/334017-privacy-policy-post1016238.html?s=0ad88fca09794470068b6f27baedc8cf#post1016238)
+
+##  Privacy Policy 
 
 > GPSPower is committed to providing a safe and secure web site. We are dedicated to safeguarding all personal information collected online and to helping our users learn how to exercise control over personal information while exploring the Internet. To help ensure a rewarding online experience for all users, we provide this summary of our information practices. This privacy notice governs the collection and use of information at GPSPower.net .
 > 
@@ -43,3 +47,5 @@
 > **SECURITY**
 > 
 > GPS Power has security measures in place to protect the loss, misuse and alteration of the information under its control. We operate secure data networks protected by industry standard firewall and password protection systems. Our server has strict security in place to prevent an intruder from retrieving personal information about its users. 
+
+* * *
