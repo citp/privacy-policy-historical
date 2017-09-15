@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109180458id_/https%3A//www.gymshark.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915034404id_/https%3A//www.gymshark.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gymshark
 
@@ -42,9 +42,14 @@ Alternatively, you can post your request to the address in (3) below.
 
 3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address:
 
-Gymshark  
-Unit F2-4 Sapphire Court,   
-George Road,   
-Bromsgrove,   
-Worcestershire,   
-B60 3ET
+Gymshark, 
+
+Unit 1,
+
+Brooklands, 
+
+Redditch, 
+
+B98 9DW, 
+
+United Kingdom.
