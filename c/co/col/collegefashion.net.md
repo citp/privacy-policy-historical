@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefashion.net privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514155743id_/http%3A//www.collegefashion.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefashion.net privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915223719id_/https%3A//www.collegefashion.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - College Fashion
 
