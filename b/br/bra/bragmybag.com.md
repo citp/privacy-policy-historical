@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bragmybag.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626181519id_/https%3A//www.bragmybag.com/301-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragmybag.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915070648id_/https%3A//www.bragmybag.com/301-2) for the most accurate reproduction.*
 
 # Bragmybag
 
