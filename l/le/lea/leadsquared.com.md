@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224302id_/https%3A//www.leadsquared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915165650id_/https%3A//www.leadsquared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LeadSquared
 
@@ -43,7 +43,7 @@ LeadSquared Websites | [ https://www.leadsquared.com](https://www.leadsquared.co
 “LeadSquared”, “we”, “us” or “our”|  LeadSquared – owned and operated by MarketXpander Services Private Limited, #33, Sector 6, HSR Layout, Bangalore – 560102.  
 “LeadSquared Application”, “Service”, “Software”, or “Platform”|  The suite of applications available at [https://leadsquared.com](https://leadsquared.com/) or any of its sub-domain or any other URL/location (including location on mobile apps) made available by us  
   
-Subscription Service |  All of our web and mobile based marketing and sales applications, tools and platforms that you have subscribed to by an Order Form or that we otherwise make available to you, and are developed, operated, and maintained by us, accessible via [http://LeadSquared.com](http://leadsquared.com/) or another designated URL, and any ancillary products and services that we provide to you.  
+Subscription Service |  All of our web and mobile based marketing and sales applications, tools and platforms that you have subscribed to by an Order Form or that we otherwise make available to you, and are developed, operated, and maintained by us, accessible via [https://leadsquared.com](https://leadsquared.com/) or another designated URL, and any ancillary products and services that we provide to you.  
 Visitor(s)|  Individual people or accounts that are designated and authorized by Customer to access Subscription Service  
 User(s)|  Individual people or accounts that are designated and authorized by Customer to access Subscription Service   
 Contact Information |  The name, email address, phone number, online user name(s), telephone number, and similar information submitted by visitors to our website or landing pages.  
