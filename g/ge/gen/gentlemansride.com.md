@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gentlemansride.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211195007id_/http%3A//www.gentlemansride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentlemansride.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915052242id_/https%3A//www.gentlemansride.com/privacy-policy) for the most accurate reproduction.*
 
-# The 2016 Distinguished Gentlemans Ride : Privacy Policy
+# The Distinguished Gentleman's Ride : Privacy Policy
 
 The Distinguished Gentleman's Ride is an event organised by Café Racer Aficionado Pty Ltd, ABN 44 159 438 392 (CRA).
 
@@ -10,7 +10,7 @@ CRA will ensure that each individual about whom personal information is collecte
 
 **Security and Storage of Personal Information**
 
-All transactions made through this website use the Braintree Payment Network, a subsidiary of PayPal for our online credit card transactions. All transaction data is encrypted using a 256-bit encryption key as well as tokenization of each transaction meeting PCI Compliance. The standard level of encryption used by Braintree is considered realistically unbreakable.
+All transactions made through this website use either Braintree Payments, Adyen or Paypal for our online transactions. All transaction data is encrypted using a 256-bit encryption key as well as tokenization of each transaction meeting PCI Compliance. The standard level of encryption used by Braintree is considered realistically unbreakable.
 
 Credit card numbers or personal details supplied by customers are not stored anywhere on our servers and cannot be used other than for its specific intended purpose. Personal information may be stored on cloud-based servers in Australia. 
 
@@ -46,4 +46,4 @@ CRA agrees that each individual has a right to access to and seek correction of 
 
 If an individual would like to access or correct their personal information, or if an individual has a concern or complaint in relation to the CRA’s handling of their personal information or they believe that CRA has breached the Australian Privacy Principles or any other applicable privacy laws or codes, they should contact CRA via email at [info@gentlemansride.com](mailto:info@gentlemansride.com). CRA will investigate their concerns and will respond to them in writing (usually within 14 working days).
 
-This policy was last updated: 31st July, 2016
+This policy was last updated: 25th July, 2017
