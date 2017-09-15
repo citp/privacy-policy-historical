@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getrenttoown.com privacy policy that was archived on 2017-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170516072118id_/http%3A//www.getrenttoown.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getrenttoown.com privacy policy that was archived on 2017-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170915153852id_/http%3A//www.getrenttoown.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -15,17 +15,17 @@
     
 
     
-    <link href="/resources/t/css/style.css?version=1.67.0" rel="stylesheet" type="text/css">
+    <link href="/resources/t/css/style.css?version=1.75.0" rel="stylesheet" type="text/css">
     
     
     
-    <link href="/resources/t/css/themes/modern.min.css?version=1.67.0" rel="stylesheet" type="text/css">
+    <link href="/resources/t/css/themes/modern.min.css?version=1.75.0" rel="stylesheet" type="text/css">
     
     
-    <link href="/resources/t/css/colors/blue-red.min.css?version=1.67.0" rel="stylesheet" type="text/css">
+    <link href="/resources/t/css/colors/blue-red.min.css?version=1.75.0" rel="stylesheet" type="text/css">
 
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/resources/t/js/responsive-pageload.js?version=1.67.0"></script>
-    <script src="/resources/t/js/responsive-async.js?version=1.67.0"></script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/resources/t/js/responsive-pageload.js?version=1.75.0"></script>
+    <script src="/resources/t/js/responsive-async.js?version=1.75.0"></script>
 
     <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -69,17 +69,19 @@ var analytics = new UniversalAnalytics();
             <a class="navbar-brand brand-logo" href="/?from=banner" style="background-image: url(/resources/site/images/logos/logo.png)"></a>
 
 
+
          </div>
          <div class="navbar-collapse collapse">
     
     <div class="navbar-right">
-        <a class="text-muted" href="/Membersite/?from=banner&amp;adid=GRTO1003"><i class="fa fa-user"></i>&nbsp;<span class="text-pretty">Member Sign-in</span></a>
+        <a class="text-muted" href="/Membersite/?from=banner"><i class="fa fa-user"></i>&nbsp;<span class="text-pretty">Member Sign-in</span></a>
     </div>
     
 </div>
 <div class="visible-xs">
    
 </div>
+
       </div>
    </div>
    <div class="visible-xs back-button"><button class="btn btn-default" onclick="history.go(-1)"><i class="fa fa-reply"></i> Back</button></div>
@@ -229,6 +231,7 @@ to respond. </p>
                             click_adid: geturlparam("adid"),
                             brandId: "24",
                             afid: geturlparam("afid") == "" ? $.cookie("PID") : geturlparam("afid"),
+                            xid: geturlparam("XID"),
                             utm_source: geturlparam("utm_source"),
                             utm_medium: geturlparam("utm_medium"),
                             utm_term: geturlparam("utm_term"),
@@ -242,7 +245,17 @@ to respond. </p>
                 });
             </script>
 
-            
+            <script>
+                
+                function trackUsage(type) {
+                    trackSalesUsage(type,
+                    'GRTO1003',
+                    2405,
+                    '',
+                    '',
+                    'GRTO1003');
+                }
+            </script>
 
             
             
@@ -258,8 +271,16 @@ to respond. </p>
             </script>
         
     
+            
+        
+        
 
             
+            
+    
+    
+    
+
 
             
 
