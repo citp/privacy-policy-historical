@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherearthnews.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613133022id_/https%3A//www.motherearthnews.com/store/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthnews.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915200212id_/https%3A//www.motherearthnews.com/store/help/privacy-policy) for the most accurate reproduction.*
 
 # Mother Earth News - Privacy Policy
 
