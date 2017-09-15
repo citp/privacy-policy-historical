@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129173756id_/https%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915064808id_/https%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
 
 # SnapApp Privacy Policy | SnapApp
 
