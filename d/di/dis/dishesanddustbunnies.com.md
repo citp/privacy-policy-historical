@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610190545id_/http%3A//dishesanddustbunnies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915031326id_/https%3A//dishesanddustbunnies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dishes and Dust Bunnies
 
