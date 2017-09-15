@@ -1,84 +1,62 @@
-> *The following text is extracted and transformed from the mycharitywater.org privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517180640id_/http%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycharitywater.org privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915235700id_/https%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
 
 # privacy policy | charity: water
 
 ## Our commitment to privacy
 
-charity: water knows that you care how information about you is used and shared, and we appreciate you trusting that we will do so carefully and sensibly. To better protect your privacy, we provide this Privacy Policy explaining our practices and the choices you can make about the way your information is collected and used by charity: water. The information below explains our policy regarding your privacy, both online and offline. By visiting [www.charitywater.org](https://www.charitywater.org/) or sharing personal information with charity: water you are accepting the practices described in this Privacy Notice.
+charity: water knows that you care how information about you is used and shared, and we appreciate you trusting that we will do so carefully and sensibly. This Privacy Policy explains our practices and the choices you can make about the way your information is collected and used by charity: water. It applies to donor information that we collect both online and offline.
 
-Our www.charitywater.org website is maintained by charity: water, with headquarters at 40 Worth Street, Suite 330, New York, NY 10013, U.S., telephone (646) 688-2323 and fax (888) 707-6466.
+## What information is collected by charity: water?
 
-## What personally identifiable information is collected by charity: water?
+We collect personal information when you voluntarily submit it to us.
 
-When you visit our website or make a donation online or offline, you may provide us with personal information (such as name, address, email address, telephone numbers and/or credit/debit card information) that you knowingly choose to disclose, which is collected on an individual basis for various purposes. These purposes include registering to receive email newsletters or other materials, requesting further information from us about projects and services, donating to us, ordering merchandise, making requests, submitting a form on our website, or simply asking a question. We receive and store any information you enter on our website or give us in any other way, whether it is online or offline. We ask for personal information so that we can fulfill your request and return your message. This information is retained and used in accordance with existing laws, rules, regulations, and other policies. charity: water does not collect personal information from you unless you provide it to us. If you choose not to provide any of that information, we may not be able to fulfill your request or complete your order, but you will still be free to browse the other sections of the websites owned and administered by charity: water. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.
+For example, donors may provide us with personal information (such as name, address, email address, telephone numbers and/or credit/debit card information). If a donor, or a website visitor, contacts us by email they may provide us with their email address, and name. Providing data is required in these contexts in order for us to process your donations, requests, or respond to inquiries.
 
-## The way we use information
+In addition to the personal information that you submit to us, we may collect personal information about you from reputable third parties, or automatically collect information using the following technologies:
 
-When you supply information about yourself for a specific purpose, we use the information for only that purpose (such as to provide the service or information you have requested). For example, you may be asked to give us individual information to receive information, to make a donation, to purchase merchandise, or to apply for a job. Similarly, we use information you provide about yourself or someone else when placing a merchandise order only to ship the merchandise and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+Web Server Logs. Our web servers may collect certain information such as IP address, pages visited, time of visits, and referring website.
 
-You can register with our website if you would like to receive updates on our new projects and services or on our merchandise. Information you submit on our website or over the phone will not be used for this purpose unless a registration form is filled out.
+Cookies. Cookies are simple text files stored by your web browser that provide a method of distinguishing among donors and visitors to the website. charity: water uses cookies to identify your browser as you visit pages on the charity: water website or sites in the charity: water media network. Cookies also allow charity: water to provide more relevant, targeted content as you travel through sites in the charity: water media network as appropriate and are used on our ordering website to keep track of the items in your shopping cart.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+## Where do we transfer and store information?
 
-charity: water does not sell, rent, give-away or share its email addresses or other personal contact information with outside sources. charity: water also does not send mailings on behalf of other organizations.
+charity: water is based in the United States, and any information transmitted to us may be stored, accessed, or processed in the United States. Residents of some other countries, including residents of the European Union, should be aware that the laws of the United States do not offer the same protections as the laws of your home country.
 
-Should any material changes be made to the ways in which we use personally identifiable information, charity: water will take commercially reasonable measures to obtain written or email consent from you. We will also post the changes to our use of personally identifiable information on our website at least 30 days prior to a change.
+## How do we use information?
+
+We collect information primarily to accept donations, complete our charitable projects, and provide you with information concerning our programs, projects, and activities. We also use information for analytical purposes, to improve our website, our donor base, our outreach, or to respond to requests for information or merchandise. We may inform you of other purposes at the time that we collect some forms of information. For example, if you apply for a job we may collect information in order to process your job application.
+
+## With whom do we share information?
+
+We do not trade, share, or sell information that you provide to us with other organizations who intend to use it only to market their products or services to you.
+
+There may be instances in which we share your information with others. We may share your information, for example, in conjunction with your sponsorship of a certain project, as required by law, with law enforcement, to comply with legal process, to protect our legal rights, to protect the safety or security of a person, or to protect against fraud, criminal acts, or misconduct. We may also share your information with companies that provide us with services, or with a successor legal entity.
 
 ## Our commitment to data security
 
-Personally identifiable information is stored on our server and is not publicly accessible. Further, personally identifiable information is only accessed by charity: water personnel on a "need to know" basis. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Additionally, sensitive data such as credit card numbers are encrypted using SSL and other industry standard measures, to provide an additional level of security.
+To help prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.
 
-## Choice/opt-out
+## Your access to data, and your choices
 
-If you have registered to receive communications from us and later change your mind, you may contact us to have your name and contact information removed from our distribution lists. You have the following options to do this:
+If you would like to access the data that we received from you, or make corrections to it, you may contact us at the email or mailing addresses provided at the end of this policy.
 
-You can send an email to: [support@charitywater.org](mailto:support@charitywater.org)  
-You can send mail to the following address:
+If you registered to receive communications from us and later change your mind, you may ask that your name and contact information be removed from our distribution list. You can send such a request to the email or mailing addresses at the end of this policy.
 
-_charity: water  
-40 Worth Street, Suite 330  
-New York, NY 10013_
+Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast.
 
-## Correct/update
+## Additional information
 
-If you would like to verify the data we have received from you or to make corrections to it, you may contact us directly at the email and mail addresses provided above.
+Behavioral Advertising. We may participate in behavioral-based advertising. This means that a third party may use technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites.
 
-## What anonymous information is collected by charity: water?
+Links. Our website may contain links to other Web sites. Please note that when you click on one of these links, you are entering another site that is governed by that site’s privacy policy.
 
-Anonymous information is collected for every donor and visitor to this site. This includes pages viewed, date and time, and browser type. IP numbers are not stored, but are temporarily used to determine domain type and in some cases, geographic region. We do not make any association between this information and a donor or visitor's identity.
+Changes to this privacy statement. We may modify this privacy policy from time to time. Any changes will be reflected on this website. If we make a material change to this policy, and need to apply it to personal information that you provided to us before the change was made, we will attempt to contact you and obtain your consent to the change.
 
-## Automatic information
+Communicating with us. If we need, or are required to, contact you about the privacy or security of your information we may do so by telephone, email, or mail. If you have any questions, concerns, requests, or comments about privacy, you can contact us by email, telephone, or mail at:
 
-When you visit our website, our servers make a log of basic information corresponding to the sites and pages you have visited. This information is stored primarily to track the effectiveness of our website and individual sections and pages within them.
+_[info@charitywater.org](mailto:info@charitywater.org)  
+(646) 688-2323.  
+40 Worth Street, Suite 330,  
+New York, NY 10013, U.S., _
 
-## How does this site use cookies?
-
-Cookies are simple text files stored by your web browser that provide a method of distinguishing among donors and visitors to the website. charity: water uses cookies to identify your browser as you visit pages on the charity: water website or sites in the charity: water media network. Cookies created on your computer by using our website do not contain personally identifiable information and do not compromise your privacy or security. Cookies allow charity: water to gather anonymous information. Cookies also allow charity: water to provide more relevant, targeted content as you travel through sites in the charity: water media network as appropriate and are used on our ordering website to keep track of the items in your shopping cart.
-
-## Online or offline registration information
-
-You will provide us with information about yourself and your organization when you register for fundraising, donations, and listservs or to buy products. This information is not used for any other purpose than to fulfill your request and is not shared with outside parties. However, donors and visitors should be aware that information collected online or offline may be subject to examination and inspection if such information is a public record or not otherwise protected from disclosure.
-
-## Links
-
-This website may contain links to other Web sites. Please note that when you click on one of these links, you are entering another site. We encourage you to read the privacy statements of these linked websites as their privacy policy may differ from ours.
-
-## Email Links
-
-We use email links located on this site to allow you to contact us directly via email. We use the information provided in your email to respond to your questions or comments. We may also store your comments for future reference.
-
-## Email communications
-
-We publish an e-newsletter that is sent periodically to persons on a listserv. The e-newsletter is distributed by email, although back issues may also be viewed on our website. You may subscribe to or unsubscribe from the email listserv at any time. Occasionally we may send announcements about charity: water events or merchandise to the mailing listserv. This email address is being protected from spambots. You need JavaScript enabled to view it.
-
-## Changes to this privacy statement
-
-Changing business practices and circumstances may require that we make changes to this privacy policy from time to time. Any changes will be reflected on this website. charity: water reserves the right to modify its website and/or this Privacy Policy at any time and donors and visitors are deemed to be apprised of and bound by any such modifications. Our goal is to provide all services to donors or visitors in an accessible, efficient and friendly manner while maintaining their privacy. If you have comments or questions regarding privacy, please contact us.
-
-## Legal disclaimer
-
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on charity: water.
-
-## For more information
-
-If you have any questions, concerns or comments about your privacy, please send us a description of your concern via email to [support@charitywater.org](mailto:support@charitywater.org) or call the main telephone number at (646) 688-2323.
+Effective: June 1, 2017
