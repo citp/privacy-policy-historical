@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152644id_/http%3A//www.buildabear.com/guest-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916012631id_/http%3A//www.buildabear.com/guest-services/privacy-policy) for the most accurate reproduction.*
 
 # Build-A-Bear | Privacy Policy
 
