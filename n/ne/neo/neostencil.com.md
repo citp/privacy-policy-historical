@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the neostencil.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320023420id_/http%3A//neostencil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neostencil.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915075704id_/https%3A//neostencil.com/privacy) for the most accurate reproduction.*
 
 # Privacy • NeoStencil
+
+Click the above bar to see the promotion again
+
+* Preparing for UPSC 2018? We've got you covered. General Studies Foundation course + Test Series
+
+Foundation Courses for IAS 2018 Starting Soon
+
+[Join Now](https://neostencil.com/course/general-studies-foundation-course-test-series-lukmaan-ias-upsc-pre-cum-mains-2018/)
 
 ## **PRIVACY STATEMENT**
 
