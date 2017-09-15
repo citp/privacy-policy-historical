@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog-search.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610043745id_/http%3A//blog-search.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog-search.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915151847id_/https%3A//www.blog-search.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Blog-Search.com
 
