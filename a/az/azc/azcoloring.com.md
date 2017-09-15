@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the azcoloring.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118060448id_/http%3A//azcoloring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcoloring.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915231459id_/http%3A//coloringhome.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AZ Coloring - AZ Coloring Pages
+# Privacy Policy - Coloring Home - Coloring Home
 
-The owners and operators of AZ Coloring take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
+The owners and operators of Coloring Home take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
 ## User Accounts
 
-Membership is an optional part of the AZ Coloring web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limited to) the ability to submit content.
+Membership is an optional part of the Coloring Home web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limited to) the ability to submit content.
 
 By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Your user profile information is public and may appear on our web site, with the exception of your email address and password.
 
 Our commenting feature allows non-registered users to post comments. In these cases we display the provided name associated with the comment. It is up to you to ensure that your username /email address is anonymous.
+
+## Children
+
+Children under the age of 13 shall only use our website under the supervision of a parent, guardian, or other responsible adult.
 
 ## Personally Identified Data
 
@@ -20,21 +24,23 @@ We make a reasonable attempt to monitor for cases where users post personally id
 
 ## Server Logs
 
-Like most web sites, AZ Coloring logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
+Like most web sites, Coloring Home logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
 ## Cookies
 
-While browsing AZ Coloring, a small number of text files referred to as "cookies" are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of AZ Coloring will function as expected without cookies enabled.
+While browsing Coloring Home, a small number of text files referred to as "cookies" are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of Coloring Home will function as expected without cookies enabled.
 
 ## Third-Party Advertisers
 
-AZ Coloring serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by AZ Coloring's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+Coloring Home serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by Coloring Home's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
 [Google AdSense](http://www.google.com/intl/en/policies/privacy/)
 
+Coloring Home is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
 ## Sharing/Selling of Data
 
-AZ Coloring does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
+Coloring Home does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
 
 ## Data Retention
 
