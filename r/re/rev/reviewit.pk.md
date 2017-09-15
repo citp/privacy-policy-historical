@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewit.pk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621125454id_/http%3A//reviewit.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewit.pk privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915051918id_/http%3A//reviewit.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reviewit.pk
+# Privacy Policy | Pakistani Drama Reviews | Ratings | Celebrities | Entertainment news Portal
 
 **Privacy Policy for www.reviewit.pk**  
 
