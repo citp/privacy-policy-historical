@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalsportek.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620162036id_/http%3A//www.totalsportek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalsportek.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915172123id_/http%3A//www.totalsportek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
