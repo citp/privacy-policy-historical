@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripbox.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604153656id_/http%3A//scripbox.com/pages/privacy-policy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripbox.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915163729id_/https%3A//scripbox.com/pages/privacy-policy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Scripbox
 
