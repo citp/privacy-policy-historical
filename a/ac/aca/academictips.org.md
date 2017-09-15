@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629234457id_/http%3A//academictips.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915162502id_/http%3A//academictips.org/privacy.html) for the most accurate reproduction.*
 
 # College Study Tips, Study Skills, Guides and Strategies
 
