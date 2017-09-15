@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addapinch.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405023928id_/https%3A//addapinch.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addapinch.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915132414id_/https%3A//addapinch.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy - Add a Pinch
 
