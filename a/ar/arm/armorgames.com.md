@@ -1,62 +1,80 @@
-> *The following text is extracted and transformed from the armorgames.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229065056id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorgames.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915224856id_/https%3A//armorgamesstudios.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**ArmorGames.com**  is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
+This privacy policy will explain what information we collect online, why we collect it, and the choices we offer to you.
 
-**What information does ArmorGames.com collect?**  
-Armor Games may request and/or collect information from you on a voluntary basis when you: register with us, post comments or when you send questions via e-mail to ArmorGames.com customer support. The requested information may include personal information such as your name and e-mail address. If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us for purposes of registration and other online activities.
+This privacy policy (“Policy”) describes the data practices of Armor Games Inc. (“Armor Games”) and its subsidiaries (collectively, the “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on **April 17, 2017**.
 
-**Sign up to our Free Newsletter**  
-If you wish to sign up to our free newsletter, you will be asked to supply personal information such as your e-mail address. With your permission, Armorgames.com uses such information to periodically contact you with product information news, special offers and new games that are released.
+## Information we collect
 
-**E-mail**  
-By allowing you to send e-mail to us, we are not attempting to collect any personal information about you. We will only use personal information (such as name and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments.
+We may collect information about the Services you use and how you use them, such as the selections you make on our Services. We collect PII, DII, and log information about your interactions as described below.
 
-Whatever the activity may be, we will only collect information to the extent deemed reasonably necessary to fulfill your requests and our legitimate business objectives.
+Personally identifiable information (PII) is information that can be used to identify or contact you online or offline, such as your name, address, email, phone number, photos or audio data, and payment information. The Service may collect PII when it is provided to us, such as when you use our Services, attempt to contact us, submit a resume or job application, or connect with us on social media or one of our partners. For example, you may see a “Log in with…” button, which means we request PII from a partner to streamline the login the process. You will likely be presented with a “request for permission” screen by a third party asking to share your ID, profile picture, and other listed information with us.
 
-**Opt out**  
-If you are receiving e-mails or regular mail and at a later date you choose to opt out and have your name removed from the e-mailing list, you can do so by using the link included with a ArmorGames.com e-mail.
+We may also create or collect device-identifiable information (DII), such as cookies, unique device and advertising identifiers, statistical identifiers, usernames, and similar identifiers that are linkable to a browser or device. From these platforms, we may also receive other information, such as your IP address, user agent, timestamps, precise and imprecise geolocation, sensor data, apps, fonts, battery life information, and screen size.
 
-**When We Might Disclose Information**  
-As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services. In the event that there is a change of corporate ownership, the new owners will of course be provided with our files, including information you have submitted. We will also share information with government officials, including law enforcement officials or court authorities, in order to cooperate with a legitimate investigation.
+Our Services also collect information about your interactions, including navigation paths, search queries, crashes, timestamps, purchases, clicks and shares, and referral URLs. We may combine this data with PII and DII. For efficiency’s sake, information about your interactions may be transmitted to our servers while you are not using the app. We may also partner with third parties that collect additional information – please see their privacy policies for more details and see below for your choices regarding these parties.
 
-Unless we tell you first (such as at the time we collect information), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.
+## How we use information we collect
 
-**Links and Third Parties**  
-From time to time we may include links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
+We use the information we collect from our Services to provide, maintain, protect and improve our Services, to develop new Services and offerings, and to protect us and our users.
 
-We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third parties use of data.
+PII is primarily used for business purposes, such as for sending you occasional newsletters and updates, hiring, responding to inquiries, logins, and providing Services. When you contact us, we may keep a record of your communication as well as the other information to help solve any issues you might be facing. We may use your email address to inform you about our Services, such as letting you know about changes or improvements. Please keep in mind that comments sections, forums, and other similar areas of our Services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
-To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook/Twitter. When you link your account, Facebook/Twitter may share data about you with us, and we may share information about you with Facebook. In addition, Armor Games players who are your friends on Facebook/Twitter may be shown your Armor Games username if you have both linked your Facebook accounts.
+We share PII with companies, outside organizations, and individuals for limited reasons, outlined below:
 
-**Cookies**  
-ArmorGames.com may use cookies to improve the use of our websites.
+  1. With your consent - We will share PII with companies, outside organizations or individuals if we have your consent to do so.
+  2. For external processing - We provide PII to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+  3. For legal reasons - We will share PII with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law.
+  4. In case of a sale or asset transfer - If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including PII collected from you through your use of our Services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Services.
+  5. In aggregated form for business purposes - We may share aggregated information and DII with our partners such as businesses we have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our services.
 
-A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, ArmorGames.com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
-**IP Addresses**  
-ArmorGames.com may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-**Log Files**  
-Other non-personal information collected by ArmorGames.com is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a., "click-through data"). For example, log file entries are generated every time a visitor clicks the "Home" icon on our site. These entries enable ArmorGames.com to assess overall site activity, track interest in advertised sales, track interest in purchase behavior, and troubleshoot technical concerns.
+We use DII to operate our Services and manage user sessions, including analyzing usage of our Services, preventing malicious behavioral and fraud, improving the content, to link your identity across devices and browsers in order to provide you with a more seamless experience online, and helping third parties provide relevant advertising and related metrics. We share DII with third parties primarily for advertising and analytics purposes, for external processing, and for security purposes.
 
-Through the use of log files, we may also collect certain demographic information such as the type of browser you are using (e.g., Chrome, FireFox, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), and the domain name of your Internet service provider (e.g., Comcast, AT&T).
+## Third Parties
 
-**Linking to third party sites**  
-To provide relevant information not found on our websites, ArmorGames.com may provide links from our websites to third party websites and we encourage our users to read third party sites' privacy policies before submitting personal information. All the downloads and EXE files provided on this site are from a 3rd party and Armor Games is not responsible for any files or adware that gets installed by their games and screensavers. They are likely to contain several adware products, so download and install at your own risk. Armor Games assumes NO responsibility. ArmorGames.com is not responsible for the privacy practices of the content of third party sites' and hereby disclaims any representations or warranties expressed on any other site.
+While we strive to work with reputable companies with good privacy practices, this Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on the Services. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. We may use third parties to help offer you more tailored ads and better Services, such as obtaining analytics about the users of our site and to help tailor advertising to your preferences. For further information, please see the relevant privacy policies for each third party and industry codes of conduct.
 
-**Who is collecting my personal information?**  
-Any personal information that you disclose while visiting any of our websites is collected by ArmorGames.com, and is used in the manner specified above.
+## Choice
 
-**Questions and Complaints**  
-If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us at Webmaster@ArmorGames.com
+If you wish to cancel your account, you can do so by accessing our platform or contacting us for assistance with the process. Our email is included at the end of this privacy policy.
 
-By using this site, you signify your assent to the ArmorGames.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+If you are under 18 years of age, reside in California, and have a registered account with us, you have the right to request removal of unwanted information that you post onto our Services (e.g., comments or a forum) by contacting us at the email at the end of this privacy policy, stating you reside in California. This does not ensure complete or comprehensive removal of the posted content.
 
-_Additional Information_  
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Like many other companies, we do not honor DNT flags but instead offer other choices with respect to third parties. Many third parties participate in self-regulation to offer you a choice regarding receiving targeted ads. Please note that you’ll still see generic ads after opting out, but they won’t be based on your activities online. On the web, you can opt out of participating companies by visiting the following sites:
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+  * <http://optout.networkadvertising.org/>
+  * <http://optout.aboutads.info/>
+
+
+
+If you wish to similarly opt out of cross-app advertising on mobile devices, you can enable the Limit Ad Tracking flag on the device. Enabling Limit Ad Tracking sends a flag to third parties that you wish to opt out of targeted advertising on that device, and major mobile platforms require companies to honor this flag. Screenshots on how to find these options on various devices are available here: <http://www.networkadvertising.org/mobile-choices>. To learn how to opt out on other devices such as video game consoles, please visit the platform’s privacy policies for more information.
+
+## Accessing and updating your information
+
+We aim to provide you with reasonable opportunity to access, update, and delete to your PII. In some cases, we may have to keep that information for legitimate business or legal purposes. When updating your information, we may ask you to verify your identity before we can act on your request.
+
+## Information security
+
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold and undertake reasonable security measures with appropriate confidentiality, integrity, and availability protections. However, since no software or storage system is 100% secure, we cannot guarantee for the security of your information associated with the Services, or any other service for that matter. You can help protect your account information by using unique and hard-to-guess passwords.
+
+## Children Under 13
+
+We do not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our Services, please contact us at the email provided at the end of this Policy.
+
+## Our Services are Located in the United States
+
+Our Services are directed to United States citizens. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such transfer, processing, and storage under the laws of the United States.
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will post any Policy changes on this page, including material changes. Please check back periodically to view changes to our privacy policy.
+
+## Questions?
+
+If you have questions or requests regarding our privacy practices, please contact us at [privacy@armorgames.com](mailto:privacy@armorgames.com)
+
+* * *
