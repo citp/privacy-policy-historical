@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronaldo7.net privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106111722id_/http%3A//www.ronaldo7.net/partners/partners.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronaldo7.net privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916011035id_/http%3A//www.ronaldo7.net/partners/partners.html) for the most accurate reproduction.*
 
 # Privacy Policy/Terms & Conditions
 
