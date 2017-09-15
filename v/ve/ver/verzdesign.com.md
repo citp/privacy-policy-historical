@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the verzdesign.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227081902id_/https%3A//www.verzdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verzdesign.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915173559id_/https%3A//www.verzdesign.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Verz Design
+
+## Privacy
 
 This privacy policy sets out how Verz Design uses and protects any information that you give Verz Design when you use this website.
 
