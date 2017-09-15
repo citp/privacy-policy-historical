@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutritionandhealing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054734id_/http%3A//wrightnewsletter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionandhealing.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915234710id_/https%3A//nutritionandhealing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Anti-Spam Statement
+# Privacy Policy and Anti-Spam Statement - Nutrition and Healing
 
 We at **Nutrition & Healing** take your privacy very seriously!
 
@@ -27,9 +27,9 @@ Cookies are small files placed on your computer by a web page when you visit it.
 
 **We have a strict anti-spam policy!** We know how important your privacy is to you so we guarantee that we will NEVER sell your e-mail address. Please also note…you can remove yourself from our list at any time. We supply a link at the bottom of each e-mail to manage your subscription to the Health e-Tips e-letter. We also provide you with a mailing address, phone number and e-mail address to contact us if you have any problems.
 
-We have implemented Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests. 
+We have implemented Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests.
 
 **Policy against advertising our website using unsolicited email messages**  
-We require that all e-mails promoting wrightnewsletter.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination. If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (abuse@wrightnewsletter.com). We will immediately investigate all allegations made related to unsolicited messages.
+We require that all e-mails promoting nutritionandhealing.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination. If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (abuse@nutritionandhealing.com). We will immediately investigate all allegations made related to unsolicited messages.
 
-For any other questions or concerns, please call us at 800-494-5726 (outside of the US, call 443-353-4162), or email us at customerservice@wrightnewsletter.com.
+For any other questions or concerns, please call us at 800-494-5726 (outside of the US, call 443-353-4162), or [contact us using this form](http://www.newmarkethealth.com/nahcontact/nah_contact_form.htm).
