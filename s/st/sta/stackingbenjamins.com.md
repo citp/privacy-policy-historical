@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stackingbenjamins.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126081652id_/https%3A//www.stackingbenjamins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackingbenjamins.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915105210id_/https%3A//www.stackingbenjamins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Stacking Benjamins
+# Privacy Policy » The Stacking Benjamins Network
 
 This Privacy Policy was last modified on November 19, 2015.
 
