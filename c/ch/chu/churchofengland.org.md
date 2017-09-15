@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012111941id_/https%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916001431id_/https%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,7 +33,7 @@ The following data is automatically logged for each request:
 
 ## Access to user data.
 
-For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of any data collected by this site is the National Institutions of the Church of England ( _t_ he NCIs - refer to website [Terms and Condition](https://web.archive.org/website-terms-and-conditions.aspx "Website Terms and Conditions")s for more details), and the point of contact for subject access requests is the [Webmaster](mailto:webmaster@churchofengland.org). The NCIs are also Data Controller in respect of any personal data served as content by this site.
+For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of any data collected by this site is the National Institutions of the Church of England ( _t_ he NCIs - refer to website [Terms and Condition](https://web.archive.org/website-terms-and-conditions.aspx "Website Terms and Conditions")s for more details), and the point of contact for subject access requests is the [Webmaster](mailto:enquiry@churchofengland.org). The NCIs are also Data Controller in respect of any personal data served as content by this site.
 
 ## Miscellaneous
 
