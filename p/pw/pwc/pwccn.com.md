@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628161900id_/https%3A//www.pwccn.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916185543id_/https%3A//www.pwccn.com/en/privacy.html) for the most accurate reproduction.*
 
 # PwC CN: PricewaterhouseCoopers Privacy Commitment
 
