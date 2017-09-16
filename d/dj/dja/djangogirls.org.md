@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djangogirls.org privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216045032id_/https%3A//djangogirls.org/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djangogirls.org privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916054643id_/https%3A//djangogirls.org/privacy-cookies) for the most accurate reproduction.*
 
 # Cookie and Privacy Policies of Django Girls Website
 
