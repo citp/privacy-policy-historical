@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628040538id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916165251id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy & Security
 
@@ -6,7 +6,7 @@
 
 ## General
 
-This privacy policy sets out how Fisher Investments collects, uses and shares information concerning users of this website(individually “user” or “you”, collectively “users”).  Any changes to this privacy policy will be posted at <http://www.fisherinvestments.com/privacy-security/usa>.  Users can also access this privacy policy via our homepage and from the bottom of every page by clicking on the appropriate link in the footer.
+This privacy policy sets out how Fisher Investments collects, uses and shares information concerning users of this website(individually “user” or “you”, collectively “users”).  Any changes to this privacy policy will be posted at <https://www.fisherinvestments.com/privacy-security>.  Users can also access this privacy policy via our homepage and from the bottom of every page by clicking on the appropriate link in the footer.
 
 Fisher Investments and its associated companies are committed to respecting users’ privacy.  We have structured our website so that, in general, users can visit Fisher Investments on the web without identifying themselves or revealing any personal information.  Once users choose to provide Fisher Investments with any information by which users can be identified, users can be assured that it will only be collected, used and shared in accordance with this privacy policy. We encourage you to periodically review this privacy policy and any revisions thereto to ensure that you are familiar with the most current version.
 
