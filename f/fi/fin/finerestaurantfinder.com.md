@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finerestaurantfinder.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615214534id_/http%3A//www.finerestaurantfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finerestaurantfinder.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916202344id_/http%3A//www.finerestaurantfinder.com/privacy) for the most accurate reproduction.*
 
 # finerestaurantfinder.com | Privacy Policy
 
