@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velvetescape.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114131id_/http%3A//velvetescape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velvetescape.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916143043id_/http%3A//velvetescape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Velvet Escape
 
@@ -55,7 +55,7 @@ All users and/or visitors to our website have the option to discontinue receivin
 
 **Links to Other Web Sites**
 
-Our website does contain links to affiliate and other websites, such as this one where this document has been generated. Velvet Escape does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
+Our website does contain links to affiliate and other websites, such as this one where this document has been generated. Velvet Escape may earn a small commission for any bookings/purchases made via these links (at no extra cost to users). Velvet Escape does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
 
 **Security**
 
