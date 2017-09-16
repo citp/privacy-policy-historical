@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the pwccn.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628161900id_/https%3A//www.pwccn.com/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pwccn.com privacy policy that was archived on 2017-09-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170916185543id_/https%3A//www.pwccn.com/en/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <link rel="icon" href="/etc/designs/pwc/css_common/image/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/etc/designs/pwc/css_common/image/favicon.ico" type="image/x-icon">
     
+
 
 
 
@@ -38,9 +39,10 @@
 <meta name="pwcLocale" content="en_cn">
 <meta name="pwcCountry" content="cn">
 
+
 <meta name="pwcGeo.default" content="CN">
 <meta name="pwcLang" content="en">
-<meta name="pwcTag" content="">
+<meta name="pwcTag" content="">   
 <meta name="pwcHideLevel" content="0,2">
 <meta name="target" content="">
 <meta name="pwcReleaseDate" content="2017-01-30T19:17:22.904-05:00">
@@ -68,7 +70,7 @@
     
 
 
-<script type="text/javascript" src="/etc/clientlibs/foundation/form.js"></script>
+<script type="text/javascript" src="/etc/designs/pwc/component-longform/form.min.js"></script>
 
 <link href="/etc/designs/pwc.css" rel="stylesheet" type="text/css">
 
@@ -79,17 +81,17 @@
 
 
 
-    <link rel="stylesheet" href="/etc/designs/pwc/css_common.css" type="text/css">
+    <link rel="stylesheet" href="/etc/designs/pwc/css_common.min.css" type="text/css">
 
-    <script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
-<script type="text/javascript" src="/etc/designs/pwc/clientlib_behaviour.js"></script>
+    <script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.min.js"></script>
+<script type="text/javascript" src="/etc/designs/pwc/clientlib_behaviour.min.js"></script>
 
-    <link rel="stylesheet" href="/etc/clientlibs/pwc/components.css" type="text/css">
-<script type="text/javascript" src="/etc/clientlibs/pwc/components.js"></script>
+    <link rel="stylesheet" href="/etc/clientlibs/pwc/components.min.css" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/pwc/components.min.js"></script>
 
 
 
@@ -786,8 +788,8 @@
 
 
 
-<link rel="stylesheet" href="/etc/designs/pwc/component/rightrailcontact/clientlibs.css" type="text/css">
-<script type="text/javascript" src="/etc/designs/pwc/component/rightrailcontact/clientlibs.js"></script>
+<link rel="stylesheet" href="/etc/designs/pwc/component/rightrailcontact/clientlibs.min.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/pwc/component/rightrailcontact/clientlibs.min.js"></script>
 
 
 
@@ -1185,6 +1187,13 @@
 
 
 
+
+
+
+
+
+
+
 <div id="footer-wrapper">
     <div id="footer">
         <ul id="footernav">
@@ -1251,7 +1260,6 @@
                 </a>
             </li>
             
-
         </ul>
     </div>
 </div>
@@ -1284,8 +1292,7 @@
         var path = '/';
         removeCookie(pwc_id_name, path);
         removeCookie('firsttime-login', path);
-        var redirectUrl = '/';
-        redirectUrl = getParameterByName("redirectUrl");
+        var redirectUrl = window.location.href.replace("/content/pwc/userReg/changePassword", "/content/pwc/userReg/login").replace("/content/pwc/userReg/updateProfile", "/content/pwc/userReg/login").replace("/content/pwc/userReg/privacy-policy","/content/pwc/userReg/login");
         window.location.replace(redirectUrl);
     }
     function redirect(redirectToURL) {
@@ -1303,27 +1310,60 @@
     function getParameterByName(name) {
         name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
         var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-                results = regex.exec(location.search);
+            results = regex.exec(location.search);
         return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+
+    function getUrlParam() {
+        var vars = [], hash;
+        var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+        for (var i = 0; i < hashes.length; i++) {
+            hash = hashes[i].split('=');
+            vars.push(hash[0]);
+            vars[hash[0]] = hash[1];
+        }
+        return vars;
     }
     $(document).ready(function () {
         var parentPagePath = getParameterByName("parentPagePath");
         var cookie = getCookie("pwc-id");
-        var firstime = getCookie('firsttime-login');
 
-        if (firstime == '') {
+        if (cookie != null && cookie.length > 0) {
+            var obj = new Object();
+            if (window.location.toString().indexOf("/content/pwc/userReg")>0) {
 
-            var redirectUrl = location.protocol + '//' + location.host + location.pathname;
-            if (redirectUrl.indexOf("/content/pwc/userReg") >= 0) {
-                redirectUrl = '';
+                obj.redirectUrl = getUrlParam()['redirectUrl'];
+                obj.referrer = getUrlParam()['referrer'];
+                obj.encrypted = false;
+                var originPath = location.protocol + '//' + location.host + location.pathname;
+                var path2 = originPath.substring(0, originPath.lastIndexOf('.'));
+                var frontPart = path2.substring(0, path2.lastIndexOf('.'));
+                var selector_locale = path2.substring(frontPart.length);
+                obj.locale = selector_locale.replace(".","");
+            } else {
+                obj.redirectUrl = window.location.href;
+                obj.referrer= window.location.href;
+                obj.encrypted = true;
+                obj.locale ='en_cn';
             }
-            
-            if (cookie.length > 0) {
-                $('#footerlinks ul').append('<li class="nav90"><a href="/content/pwc/userReg/updateProfile.en_cn.html?redirectUrl=' + redirectUrl + '&parentPagePath=/content/pwc/cn/en" target="_parent">Update Profile</a></li>');
-                $('#footerlinks ul').append('<li class="nav91"><a href="/content/pwc/userReg/changePassword.en_cn.html?redirectUrl=' + redirectUrl + '&parentPagePath=/content/pwc/cn/en">Change Password</a></li>');
-                $('#footerlinks ul').append('<li class="nav92"><a id="logOff" href="#" onclick="logOffUser()">Log Off</a></li>');
-            }
-            
+            obj.parentPagePath = '/content/pwc/cn/en';
+            $.ajax('/bin/encryptText', {
+                data: JSON.stringify(obj),
+                type: "POST",
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                mimeType: 'application/json; charset=utf-8',
+                success: function (rawData, status, xhr) {
+                    var updateProfileUrl = rawData[0];
+                    var changePwdUrl = rawData[1];
+                    $('#footerlinks ul').append('<li class="nav90"><a href="' + updateProfileUrl + '">Update Profile</a></li>');
+                    $('#footerlinks ul').append('<li class="nav91"><a href="' + changePwdUrl + '">Change Password</a></li>');
+                    $('#footerlinks ul').append('<li class="nav92"><a id="logOff" href="#" onclick="logOffUser()">Log off</a></li>');
+                },
+                error: function (xhr, status, err) {
+                    console.log(err);
+                }
+            });
         }
     });
 </script>
@@ -1334,7 +1374,6 @@
 
 <script type="text/javascript">if(_satellite!=null){_satellite.pageBottom();}</script>
 </div>
-
 
 
 </tag></body></html>
