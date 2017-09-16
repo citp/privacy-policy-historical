@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonticketbox.co.uk privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901081946id_/http%3A//www.londonticketbox.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonticketbox.co.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916124532id_/http%3A//londonticketbox.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# London Ticket Box - Event, Concert, Party Tickets - Privacy Policy
+# London Ticket Box - Event tickets and online box office - Privacy Policy
 
 #### **This Privacy Policy applies to the sites and apps where it appears.**
 
