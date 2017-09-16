@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleinworthco.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607073105id_/http%3A//www.kleinworthco.com/work-with-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleinworthco.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916085009id_/https%3A//www.kleinworthco.com/work-with-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kleinworth & Co
 
