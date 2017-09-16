@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysafesearch.net privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517111927id_/http%3A//www.mysafesearch.net/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysafesearch.net privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916035109id_/http%3A//mysafesearch.net/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
