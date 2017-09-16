@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322055819id_/https%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916070814id_/https%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
 
 # Runkeeper | Privacy Policy - Runkeeper
 
@@ -55,7 +55,7 @@ To learn more about how we use and share location data, please see "Our Use of Y
   * **_User-Generated Content_** _:_ We collect information when you submit comments, photos, reviews, messages, or otherwise post content to the Services. __
 
 
-  * **_Information from Affiliates_** _:_ We may receive information about you from our corporate affiliates, including ASICS Corporation and related ASICS companies. Such information may include online and offline purchase information, information associated with your MYASICS or other online accounts, and information collected through the websites, apps, and online services operated by our affiliates. We may use and combine this information with additional information that we collect for the purposes described in this privacy policy. ** __**
+  * **_Information from Affiliates_** _:_ We may receive information about you from our corporate affiliates, including Such information may include online and offline purchase information, information associated with your MYASICS or other online accounts, and information collected through the websites, apps, and online services operated by our affiliates. We may use and combine this information with additional information that we collect for the purposes described in this privacy policy. ** __**
 
 
 
@@ -103,7 +103,7 @@ We use the Personal Data and Other Information we collect for various purposes, 
 
 We may share your Personal Data and Other Information with third parties in the following circumstances: 
 
-  * **_Affiliates_** _:_ We may share information with our corporate affiliates, including ASICS Corporation and related ASICS companies, for the purposes described in this Privacy Policy. 
+  * **_Affiliates_** _:_ We may share information with our corporate affiliates, including , for the purposes described in this Privacy Policy. 
   * **_Service Providers, Agents, and Related Third Parties_ ** _:_ We sometimes hire other companies to perform certain business-related functions. Examples include mailing information, email marketing, maintaining databases, and processing payments. When we use another company to perform a function of this nature, we may need to provide them with access to certain Personal Data or Other Information. We also partner with third parties to engage in analytics and interest-based advertising services, as described below in the "Third-Party Analytics and Interest-Based Advertising" section. 
 
 
