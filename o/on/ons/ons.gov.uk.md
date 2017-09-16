@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402072644id_/https%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916073043id_/https%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.*
 
-# Cookies and Privacy - Office for National Statistics
+# Cookies and privacy - Office for National Statistics
 
-ONS has created this privacy statement in order to demonstrate our firm commitment to privacy.
+The Office for National Statistics (ONS) has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
 The following is a description of what data is collected when you use this website and what it is used for.
 
 ## User information
 
-This website uses cookies and JavaScript tracking code to gather anonymous information about visitors' usage patterns, in order to improve the navigation of the site, the presentation of its content, and the quality of its services.
+This website uses cookies and JavaScript tracking code to gather anonymous information about visitors' usage patterns, in order to improve the navigation of the site, the presentation of its content and the quality of its services.
 
 The information collected does not include personal details such as your name, age, telephone number, postal address or email address, nor does it allow personal identification of a user.
 
@@ -28,11 +28,11 @@ These pieces of information are used to improve services for you through, for ex
 
 
 
-You can manage these small files yourself and learn more about them through Internet browser cookies - what they are and how to manage them
+You can manage these small files yourself and learn more about them through [internet browser cookies – what they are and how to manage them](https://www.aboutcookies.org/).
 
 ## Our use of cookies
 
-Important information about this list of cookies
+Important information about this list of cookies:
 
 incap_ses_*_*   
 visid_incap_*_*  
@@ -40,12 +40,12 @@ session_*_*
 
 This list may not always be complete. It will be regularly updated as further information is gathered from other companies and organisations that we work with.
 
-Cookies for measuring use of services
+Cookies for measuring use of services:
 
 _ga   
 _gat
 
-By understanding how people use our website, we can improve the information provided. We gather this data using Google Analytics
+By understanding how people use our website, we can improve the information provided. We gather this data using [Google Analytics](https://www.google.com/intl/en_uk/analytics/features/index.html).
 
 ## External links
 
@@ -59,4 +59,4 @@ This website has security measures in place to protect the loss, misuse, and alt
 
 ## Contacting the website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](mailto:info@ons.gsi.gov.uk).
