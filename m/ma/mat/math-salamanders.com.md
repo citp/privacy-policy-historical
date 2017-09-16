@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045307id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916040255id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Salamanders Privacy Policy
 
