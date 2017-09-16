@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023203157id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916060137id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Capitalised terms in this document shall have the same meaning as those used in 
 
 We may change the content or services found on our website at any time without notice, and consequently our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to, or use of, our website and your Crunch Account will mean that you agree to the changes.
 
-We confirm that we will comply with the provisions of the Data Protection Act 1998 when processing personal data about you and your business. For the purpose of the Data Protection Act 1998 ('the Act') that data controller is E-Crunch Ltd of Unit 11, Hove Business Centre, Fonthill Road, Hove, East Sussex, BN3 6HA.
+We confirm that we will comply with the provisions of the Data Protection Act 1998 when processing personal data about you and your business. For the purpose of the Data Protection Act 1998 ('the Act') that data controller is E-Crunch Ltd of First Floor, Telecom House, 125-135 Preston Road, Brighton, East Sussex, BN1 6AF.
 
 If you have any questions or concerns regarding this policy, please contact us.
 
@@ -74,7 +74,7 @@ Where requested to do so, you must assist Crunch with any requests by the indivi
 
 **All your data is held either within your Crunch Account, our CRM system, or on secure servers.**
 
-If you sign up to the Snap Service your data may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff, operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+If you sign up to the Snap Service your data may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Otherwise, the personal data we collect from you will not be transferred to and/or stored at any location outside of the EEA. However, it may be processed by staff operating outside the EEA, who work for our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, firewalls, server authentication, user profiles and passwords to protect the security of your data.
 
@@ -203,6 +203,6 @@ Any changes we may make to our Policy in the future will be posted on this page 
 
 ####  **Please read our Terms of Service**
 
-Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20161023203157id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
+Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20170916060137id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
 
 If you have a question, comment or complaint about the Crunch Privacy Policy please send it to [dp@crunch.co.uk](mailto:dp@crunch.co.uk).
