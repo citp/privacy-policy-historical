@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judicialwatch.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121417id_/http%3A//www.judicialwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judicialwatch.org privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916133918id_/http%3A//www.judicialwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Judicial Watch
 
