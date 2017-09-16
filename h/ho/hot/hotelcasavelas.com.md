@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619162426id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916041912id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
