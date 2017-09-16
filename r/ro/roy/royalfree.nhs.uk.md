@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519115341id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916145826id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | For patients, carers and visitors | The Royal Free
 
