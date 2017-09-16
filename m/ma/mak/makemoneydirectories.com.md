@@ -1,27 +1,45 @@
-> *The following text is extracted and transformed from the makemoneydirectories.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719071519id_/http%3A//makemoneydirectories.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneydirectories.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916114557id_/https%3A//www.makemoneydirectories.com/privacy-policy) for the most accurate reproduction.*
 
-# Make Money Directories | Privacy Policy
+# Privacy Policy - Make Money Directories - The Magazine News Portal
 
-Make Money Directories takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+## **Privacy Policy:**
 
-Routine Information Collection
+ **Make Money Directories (" **Make Money Directories** ") operates MakeMoneyDirectories.Com and may operate other websites. It is Make Money Directories policy to respect your privacy regarding any information we may collect while operating our websites.**
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, time stamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+ **
 
-Cookies and Web Beacons
+### Website Visitors
 
-Where necessary, Health Facts Care uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Like most website operators, Make Money Directories collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Make Money Directories purpose in collecting non-personally identifying information is to better understand how Make Money Directories visitors use its website. From time to time, Make Money Directories may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+Make Money Directories also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on MakeMoneyDirectories.Com blogs/sites. Make Money Directories only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-Controlling Your Privacy
+### Gathering of Personally-Identifying Information
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+Certain visitors to Make Money Directories websites choose to interact with Make Money Directories in ways that require Make Money Directories to gather personally-identifying information. The amount and type of information that Make Money Directories gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [MakeMoneyDirectories.Com](https://www.makemoneydirectories.com/) to provide a username and email address. Those who engage in transactions with Make Money Directories are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Make Money Directories collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Make Money Directories. Make Money Directories does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Special Note About Google Advertising
+### Aggregated Statistics
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Make Money Directories may collect statistics about the behavior of visitors to its websites. Make Money Directories may display this information publicly or provide it to others. However, Make Money Directories does not disclose personally-identifying information other than as described below.
 
-Contact Information
+### Protection of Certain Personally-Identifying Information
 
-Concerns or questions about this privacy policy can be directed to admin@makemoneydirectories.com for further clarification.
+Make Money Directories discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Make Money Directories behalf or to provide services available at Make Money Directories websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Make Money Directories websites, you consent to the transfer of such information to them. Make Money Directories will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Make Money Directories discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Make Money Directories believes in good faith that disclosure is reasonably necessary to protect the property or rights of Make Money Directories, third parties or the public at large. If you are a registered user of an Make Money Directories website and have supplied your email address, Make Money Directories may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Make Money Directories and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Make Money Directories takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Make Money Directories uses cookies to help Make Money Directories identify and track visitors, their usage of Make Money Directories website, and their website access preferences. Make Money Directories visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Make Money Directories websites, with the drawback that certain features of Make Money Directories websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If Make Money Directories, or substantially all of its assets, were acquired, or in the unlikely event that Make Money Directories goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Make Money Directories may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Make Money Directories and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Make Money Directories may change its Privacy Policy from time to time, and in Make Money Directories sole discretion. Make Money Directories encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a MakeMoneyDirectories.Com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**
