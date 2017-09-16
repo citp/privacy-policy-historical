@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rehabs.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517112315id_/http%3A//rehabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehabs.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916165258id_/http%3A//www.rehabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rehabs and Drug Rehab Options
 
@@ -66,12 +66,12 @@ The Site may contain links to third-party websites which may have privacy polici
 
 If you have questions or concerns about this Privacy Policy, you can contact us by emailing [contact@recoverybrands.com](mailto:contact@recoverybrands.com). If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
 
-##  How Our Help Line Works 
+##  How Our Helpline Works 
 
-For those seeking addiction treatment for themselves or a loved one, the Rehabs.com help line is a private and convenient solution. Caring advisors are standing by 24/7 to discuss your treatment options. 
+For those seeking addiction treatment for themselves or a loved one, the Rehabs.com helpline is a private and convenient solution. Caring advisors are standing by 24/7 to discuss your treatment options. 
 
-**Calls to any general helpline (non-facility specific 1-8XX numbers) for your visit will be answered by American Addiction Centers (AAC).**
+**Calls to any general helpline (non-facility specific 1-8XX numbers) for your visit will be answered by American Addiction Centers (AAC) or a [paid sponsor](https://web.archive.org/paid-sponsors). **
 
 If you wish to connect with a specific rehab center, you can browse [top-rated listings](https://web.archive.org/top-rated-treatment-centers/), visit our [homepage](https://web.archive.org/) and browse by state, or visit [SAMHSA](http://www.samhsa.gov/treatment/index.aspx). 
 
-To find out more about how Rehabs.com works, [visit our FAQ](http://www.rehabs.com/faq/). 
+To find out more about how Rehabs.com works, [visit our FAQ](https://web.archive.org/faq/). 
