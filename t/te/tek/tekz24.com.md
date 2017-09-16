@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tekz24.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230132410id_/http%3A//www.tekz24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekz24.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916061504id_/https%3A//www.tekz24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
 We collect information from you when you or enter information on our site.
 
 **How do we use your information?**  
-We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We do not use any of your personal information.
 
 **How do we protect your information?**  
 We do not use Malware Scanning.
@@ -61,7 +61,11 @@ When it comes to the collection of personal information from children under the 
 
 We do not specifically market to children under the age of 13 years old.
 
-**CAN SPAM Act**  
+**Sponsored**
+
+** ** We can prefer some sponsored articles and stuff on the site. The maximum limit of any sponsored article or advertisement on our site is b/w 6 months to 1 year. After 6 months, we can modify the material or can change it totally.
+
+**CAN-SPAM Act**  
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 We collect your email address in order to:
