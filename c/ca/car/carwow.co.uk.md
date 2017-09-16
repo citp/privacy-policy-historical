@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205235id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916142739id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | carwow
 
@@ -11,6 +11,7 @@ The following carwow privacy policy sets out how we use information relating to 
   * We process data in accordance with the Data Protection Act 1998. 
   * We will only send you marketing communications with your consent. 
   * We use information about you, including information derived from cookies, to help us operate our website and for marketing purposes. 
+  * We may aggregate non personal data and share it with third parties including for new products. 
   * We may disclose information about you in certain circumstances. 
   * This privacy policy may change from time to time. 
 
@@ -28,12 +29,12 @@ For the purpose of the Data Protection Act 1998, the data controller is carwow L
       2. Your username and password 
       3. Your e-mail address 
       4. Your phone number 
-      5. Any content you submit to the Website ("Your Content”), such as comments, messages to dealers, reviews and marketing preferences. 
+      5. Any content you submit to the Website ("Your Content”), such as comments, messages to dealers/users searching for cars, reviews and marketing preferences. 
     2. We / Agents on our behalf may use this data for the following purposes: 
       1. Name, address, username and password: to register and administer your user account 
       2. E-mail address: to contact you about your use of the Website, to provide you with news about us, to offer you additional services 
       3. Phone number: to contact you about matters requiring your urgent attention, to verify your identity, to confirm a purchase or to provide other carwow services with your consent (such as text message notifications); and 
-      4. Your Content: to process and make available Your Content to the Website and to market to you in accordance with your instructions. 
+      4. Your Content(This is any content uploaded by users and dealers to the website): to process and make available on the website and to market to you in accordance with your instructions and where Your Content is non-personal content it may be aggregated and shared with third parties including for new products. 
     3. Information submitted to the Website may also be used to: 
       1. Enable our compliance with applicable laws and regulations 
       2. Enable your use of the Website and associated services 
@@ -67,6 +68,7 @@ For the purpose of the Data Protection Act 1998, the data controller is carwow L
       1. If we buy or sell, or are seeking to buy or sell, any businesses or assets 
       2. With a view to preventing fraud or reducing credit risk; and 
       3. If we are obliged to do so to comply with law, regulations or a court order; if it is necessary to enforce any of our terms and conditions or any other agreements to which we are a party; if it is necessary to protect our rights, property or the safety of our customers or Website users. 
+    3. Non-personal data may be aggregated and shared with third parties including for new products. 
   5. ##### Management of data
 
     1. We will use information collected about you in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications Regulations 2009. 
