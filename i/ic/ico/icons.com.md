@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icons.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013434id_/http%3A//www.icons.com/about/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icons.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916102130id_/http%3A//www.icons.com/about/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help - About
 
