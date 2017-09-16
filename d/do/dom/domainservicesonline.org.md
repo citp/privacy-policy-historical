@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainservicesonline.org privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324233107id_/http%3A//www.domainservicesonline.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainservicesonline.org privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916162225id_/https%3A//www.domainservicesonline.org/static/privacy.html) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy
 
@@ -16,10 +16,6 @@ We collect your personal information and demographic information you choose to p
 
 Information you provide us upon registration for services and products listed on our site, post in public areas of the site, or placed in a searchable database will be accessed, used, and stored by others around the world. We use commercially reasonable practices to provide a safe, secure environment by limiting access to our database to authorized persons with whom we are in a contractual relationship, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized persons store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to our site. We use the information we collect about you to deliver the products and services we offer, and to operate and improve our site. Our services may include the display of personalized content and advertising. We may use your information to contact you about site updates, conduct surveys, or informational and service-related communications, including important security updates.
 
-**Disclosure of Information to Others**
-
-We share your information with third parties who deliver the products and services you have requested. These third parties may not use your information for any purpose other than assisting us in providing those products and services. We may also use your information to contact you about other products or services available from third parties. We may also share your information with third parties who may contact you about their products or services. We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and therefore subject to U.S. law. Finally, we may disclose and transfer information if our business is sold or acquired.
-
 **Your Choices About Your Information**
 
 You may delete the personal information you submit to us at any time by notifying us at [info@domainservices.org](mailto:info@domainservices.org) When you request us to delete your personal information, it will be deleted, but we will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymous form. If your personal information was previously accessed by others or transferred to others using our Site, we are unable to delete the information from their systems. We have no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their websites and review and read the privacy policies and opt-out practices that govern their usage. If you change your mind about receiving communications from us, you may notify us of your preferences by [info@domainservices.org](mailto:info@domainservices.org) . You may also turn off cookies through your web browser. However, this may affect your use of our site as well as other's sites.
@@ -30,13 +26,12 @@ You may delete the personal information you submit to us at any time by notifyin
 
 **Changes to Privacy Statement**
 
-We reserve the right to make material changes to the substance of this Privacy Statement. We will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it
+We reserve the right to make material changes to the substance of this Privacy Statement. We will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
 **How to Contact Us**
 
 You may contact us for questions or concerns about our privacy practices by writing to us at:  
 DomainServicesOnline.org  
-1717 Pennsylvania Ave NW, Suite 1025  
-Washington DC, 20006  
-Or by Email:  
+P.O. Box 981  
+Twinsburg OH. 44087 Or by Email:  
 [info@domainservices.org](mailto:info@domainservices.org)
