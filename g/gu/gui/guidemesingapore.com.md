@@ -1,84 +1,71 @@
-> *The following text is extracted and transformed from the guidemesingapore.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316062452id_/https%3A//www.guidemesingapore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidemesingapore.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916153726id_/https%3A//www.guidemesingapore.com/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GuideMeSingapore.com
+# Privacy Statement & Cookie Policy| GuideMeSingapore – GuideMeSingapore by Hawksford
 
-This Privacy Policy describes how we, Hawksford Singapore Pte. Ltd. (formerly known as Janus Corporate Solutions Pte. Ltd.), and our related entities and affiliates, as well as any of our respective representatives and/or agents (collectively referred to herein as “HPSL”, “us”, “we” or “our”) manage Personal Data in compliance with the Singapore Personal Data Protection Act 2012 (“Act”).  We encourage you to read this Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.
+Hawksford is committed to protecting and respecting your privacy. 
 
-“Personal Data” refers to data, whether true or not, about an individual who can be identified from that data, or from that data in combination with other information to which the organisation may have access, as defined in the Act which may be amended from time to time.
+This policy (together with our [Terms of Use](https://hawksford.com/terms-of-use), applicable Terms of Business and/or Service Agreement and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  **By visiting[www.hawksford.com](http://www.hawksford.com/), [www.guidemesingapore.com](http://www.guidemesingapore.com/) or [www.guidemehongkong.com](http://www.guidemehongkong.com/) you are accepting and consenting to the practices described in this policy. **
 
-By signing up for or using any services offered by HSPL, or submitting information to or otherwise communicating with HSPL, you agree and consent to HSPL for collecting, using and disclosing your Personal Data in accordance with this Privacy Policy. “You” or “your” means the existing or prospective corporate entity that will be engaging HSPL for its incorporation, corporate secretarial, accounting, immigration and other administrative services on behalf of that entity.
+To contact the Data Controller for the purpose of the Data Protection (Jersey) Law 2005, or any other applicable law (the “Law”), please email [info@hawksford.com](mailto:info@hawksford.com).
 
-This Privacy Policy does not supersede or replace any other consents you may have previously or separately provided to us in respect of your Personal Data, and your consent to this Privacy Policy is in addition to other rights which HSPL may have at law to collect, use or disclose your Personal Data.
+Any information or material sent to Hawksford through this website will be handled in a manner consistent with legal and regulatory requirements. 
 
-We may update this Privacy Policy from time to time, to ensure that this Privacy Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. You agree to be bound by the prevailing terms of the Privacy Policy as updated from time to time. We encourage you to check the latest version regularly. This Privacy Policy is effective from 2 July 2014 and shall be governed in all respects by the laws of Singapore.
+## Information we collect from you
 
-### Role as Data Intermediaries
+We will collect and process the following data about you:
 
-Under the Personal Data Protection Act, HSPL is a Data Intermediary providing you with relevant services and therefore will not be subjected to the main obligations except for the Protection and Retention of Personal Data. HSPL will take reasonable measures to comply with the above obligations as required by the Act as a Data Intermediary. You are advised to ensure your own compliance with the Act.
-
-Irrespective of our position as data intermediary, we wish to assure all our clients of our openness, as we are committed to explaining our policies and procedures and approach to data protection.
-
-  1. ### Collection & Consent
-
-
-
-
-1.1   Personal Data may be collected from you when you engage any of our services, request that we contact you, visit our websites, post feedback or interact with our officers or employees, take part in any survey or promotion conducted by us and/or our business partners, submit your Personal Data to us for any other reasons, and/or when we collect your Personal Data by other lawful means. Unless permitted by applicable laws, we will not collect Personal Data without your consent.
-
-1.2   You warrant and represent to us that (a) all information and Personal Data which you disclose to us is accurate, complete and valid; and (b) where you volunteer Personal Data of another person to us, that you are authorized by such other person to disclose such Personal Data to us, and that such Personal Data is accurate and complete. You shall consult your parent or guardian before giving us your Personal Data if you are under the age of eighteen.
-
-  2. ### Purposes for which we collect, use and disclose your Personal Data
+  * **Information you give us.**   This is information about you that you give us by filling in forms on [www.hawksford.com](http://www.hawksford.com/), [www.guidemesingapore.com](http://www.guidemesingapore.com/) or [www.guidemehongkong.com](http://www.guidemehongkong.com/) (our websites) or by corresponding with us by phone, email or otherwise.
+  * **Information we collect about you.  ** With regard to each of your visits to our website we may automatically collect the following information: 
+    * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions and operating system and platform; 
+    * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our website (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+  * **Information we receive from other sources.**   This is information we receive about you if you use any of the other websites we operate or the other services we provide.
 
 
 
+## Cookies
 
-2.1   We use and disclose your Personal Data, as necessary, to provide our services to you (including communicating with you, responding to your queries and for our internal administrative purposes), as well as for any purpose that is ancillary or related to our services (including due-diligence background checks, payment and debt-recovery matters, to enforce our legal rights and obligations, and to comply with legal and regulatory requirements). We may also use your personal data to send you newsletters, survey forms, invitations to events and updates or information we think you may be interested in (“ancillary marketing purposes”). By providing us with your Personal Data, you consent to our use of your Personal Data for these purposes.
+Our website uses cookies to distinguish you from other users of our website.  This helps us to provide you with a good experience when you browse our website and also allows us to improve our website.
 
-2.2   Your Personal Data may be disclosed for the above purposes to our officers and employees, third parties, affiliates, service providers, advisors, which includes without limitation: banks, credit card companies, payment vendors, debt collection agencies, credit information companies, logistics and courier services companies, relevant government regulators or authorities or law enforcement agencies, our insurers and advisors (including consultants, auditors and lawyers), other data intermediaries; and  any other party to whom you authorise us to disclose your Personal Data to.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree.  Cookies contain information that is transferred to your computer's hard drive.
 
-2.3   Save for relevant government regulators and authorities or law enforcement agencies, we will ensure that such parties receiving your Personal Data (i) are under duty of confidentiality to us with respect to the use, holding, processing, retention and/or transfer of your Personal Data; and (ii) have the need to know or handle such Personal Data.
+We use the following cookies: 
 
-2.4   If you have provided us with your Singapore telephone number(s) and have indicated that you consent to receiving marketing or promotional information via your telephone number(s), then from time to time, we may contact you using such telephone number(s) with information about our services.
-
-2.5   Your Personal Data may be transferred, stored and/or processed in a country outside Singapore and you consent to any such transfer, storage and/or processing of your Personal Data outside Singapore.
-
-  3. ### Protection, Policies and Procedures
-
+  * **Analytical/performance cookies.**   They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it.  This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
+  * **Functionality cookies.**   These are used to recognise you when you return to our website. This enables us to personalise our content for you and remember your preferences and interests (for example, your choice of language or region).
+  * **Targeting cookies.**   These cookies record your visit to our website, the pages you have visited and the links you have followed.  We will use this information to make our website and any marketing displayed on it more relevant to your interests.  We may also share this information with third parties for this purpose.
 
 
 
-3.1   We will endeavour to protect your Personal Data in our possession or control against risks of unauthorised access, collection, use, disclosure, copying, modification, disposal or destruction, through reasonable and appropriate security measures. We strive to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Personal Data we collect.
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. 
 
-3.2   Notwithstanding our security measures for protecting your Personal Data, you acknowledge that no data transmission over the Internet is completely secure and by providing your Personal Data, you are transmitting information at your own risk.
+Our website uses Google Analytics, a web analytics service provided by Google Inc.  Google Analytics uses cookies to help website operators analyse how users use the website.  The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.  Google will use this information for the purpose of evaluation your use of our website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf.  Google will not associate your IP address with any other data held by Google.  By using our website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  To prevent Google Analytics cookies being set, you may install the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout).
 
-  4. ### Retention of Personal Data
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our website. 
 
+All cookies persist until deleted but session cookies expire when you close your browser.
 
+## Disclosure of your information
 
+You agree that we have the right to share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
 
-4.1   We will retain your Personal Data for as long as you use our services and it is necessarily required or relevant for business or legal purposes.
+## Where we store your personal data
 
-  5. ### Cookies
+The data that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area (EEA).  It will also be processed by staff operating outside the EEA.
 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
+## Your rights
 
+You have the right to ask us not to process your personal data for marketing purposes.  We will usually inform you (before collecting your data) if we intend to use your data for such purposes.  You can exercise your right to unsubscribe from any marketing by clicking ‘unsubscribe’ in the links we provide.  You can also exercise the right at any time by contacting us at [info@hawksford.com](mailto:info@hawksford.com).
 
-5.1   We gather information on our website activity, such as data on the number of visitors, the pages they visit, the duration of their stay, etc. Such information is collected on an aggregate, anonymous basis, which means no Personal Data is associated with this data and gathered through the use of web server logs and cookies. We do not at our website automatically collect Personal Data unless you provide such information.
+## Access to information
 
-5.2   By accessing and using our website and services, you consent to the storage of cookies, other local storage technologies, beacons and other information on your devices. You also consent to the access of such cookies, local storage technologies, beacons and information by us or our representatives or agents.
+The Law gives you the right to access information held about you.  Your right of access can be exercised in accordance with the Law.
 
-  6. ### Third-Party Links and Products on our Services
+## Changes to our privacy policy
 
+Any changes we make to our privacy policy in the future will be posted on this page.  Please check back frequently to see any updates or changes to our privacy policy.
 
+## Contact
 
-
-Our website and/or services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use. To the fullest extent permitted under laws, we cannot be responsible for a third-party’s acts, omissions, data policies or their use of cookies nor the content or security of any third party websites, even if linked to our website. Any such liability is expressly disclaimed and excluded.
-
-  7. ### Contact Us
-
-
-
-
-While we do our utmost to comply with the provisions of the Act, we cannot be held liable for any offences that are not committed by us directly or indirectly as a Data Intermediary. By providing information or documents, you also confirm the accuracy and validity of such information or documents.
-
-We have appointed Data Protection Officer(s) (“DPO”) to oversee our compliance with the Act. Should you have any query, request or feedback relating to your Personal Data, please contact our DPO at [privacy@guidemesingapore.com](mailto:privacy@guidemesingapore.com). We endeavour to respond and provide feedback and/or resolve appropriate requests within 30 days. Please note that if your Personal Data was provided to us by a third party, you should contact that organisation or individual to make such queries, complaints, and access and correction requests to us on your behalf.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@hawksford.com](mailto:info@hawksford.com).
