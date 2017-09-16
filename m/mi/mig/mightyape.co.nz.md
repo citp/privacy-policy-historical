@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416055409id_/https%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916095002id_/https%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy Policy at Mighty Ape NZ
 
@@ -71,7 +71,7 @@ Last updated: 30 March 2017
   10. ### CHANGES TO OUR PRIVACY POLICY
 
     1. Our Privacy Policy (and other Terms and Conditions) will change from time to time. Any changes we may make to our Privacy Policy in the future will be posted on this page. You should check back frequently to see any updates or changes to our Privacy Policy as they will take effect from the date posted on our Website. We stand by our promises regarding your information however, and will not materially change our policies and practices to make them less protective of your information which we have already collected in the past without your consent. 
-  11. ### HOW WE RESPOND TO ‘DO NOT TRACK’ SIGNALS
+  11. ### HOW WE RESPOND TO ‘DO NOT TRACK' SIGNALS
 
     1. As noted in our Cookies Policy, you can change settings on your device or browser to disable the use of Cookies and the other similar technologies we use. 
     2. If we receive a “Do not Track” Signal from you, we will cease to use all cookies other than “strictly necessary cookies” which apply to any features of our website or Services we offer. You will then be advised whether any feature of our website which you attempt to use or access will not correctly operate without additional tracking or cookies being enabled for any reason. 
