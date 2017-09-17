@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godork.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118192859id_/http%3A//www.godork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godork.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917183528id_/http%3A//www.godork.com/privacy-policy) for the most accurate reproduction.*
 
 # GoDork.Com: Privacy Policy
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 GoDork may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+  * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _– To improve our Site_ We may use feedback you provide to improve our products and services.
+  * _– To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _– To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
 
