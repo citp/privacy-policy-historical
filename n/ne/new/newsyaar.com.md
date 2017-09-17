@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsyaar.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611122503id_/http%3A//newsyaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsyaar.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917073844id_/http%3A//newsyaar.com/privacy-policy) for the most accurate reproduction.*
 
 # NewsYaar.com Home of News, Reviews. Bollywood TV News & Much More
 
