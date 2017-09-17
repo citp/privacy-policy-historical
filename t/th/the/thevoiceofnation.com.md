@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevoiceofnation.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093051id_/http%3A//www.thevoiceofnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevoiceofnation.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917052546id_/http%3A//www.thevoiceofnation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Voice of Nation - The Voice Of Nation
 
@@ -14,3 +14,5 @@ Personal data should be relevant to the purposes for which it is to be used, and
 We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.  
 We will make readily available to customers information about our policies and practices relating to the management of personal information.  
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+Pageviews:  0
