@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the successborn.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629213650id_/http%3A//www.bjmin101.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successborn.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917182446id_/http%3A//www.bjmin101.com/privacy) for the most accurate reproduction.*
 
-# Privacy | BJMin101.com
+# Privacy | BJ Min's Internet Marketing Blog
 
 This Privacy Policy governs the manner in which BJMin101.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.BJMin101.com website (“Site”). This privacy policy applies to the Site and all products and services offered by BJMin101.com.
 
