@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135828id_/https%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917121747id_/https%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
 
 # Founder Institute: World's premier idea-stage accelerator and startup launch program.
 
