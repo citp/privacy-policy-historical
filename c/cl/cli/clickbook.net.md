@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbook.net privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112185242id_/https%3A//www.clickbook.net/Confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbook.net privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917165833id_/https%3A//www.clickbook.net/Confidentiality) for the most accurate reproduction.*
 
 # ClickBook.net - Privacy Policy
 
