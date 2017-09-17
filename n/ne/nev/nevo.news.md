@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nevo.news privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105640id_/http%3A//nevo.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevo.news privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917115533id_/http%3A//nevo.news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Nevo News
 
