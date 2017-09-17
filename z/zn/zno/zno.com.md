@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zno.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519155155id_/http%3A//www.zno.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zno.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917193535id_/http%3A//www.zno.com/privacy.html) for the most accurate reproduction.*
 
 # Zno - Privacy policy
 
