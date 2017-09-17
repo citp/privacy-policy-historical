@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184305id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917165748id_/https%3A//www.protectamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Protect America
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=a32fda55-5b8a-4a07-b143-f23589641269)
-
-**Effective:** May 17, 2005
-
-**Last Updated:** July 25, 2016
 
 [Protect America](https://web.archive.org/ "Protect America Home Security | www.protectamerica.com"), Inc. ("PAI") is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. http://www.protectamerica.com
 
@@ -74,11 +68,5 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Contacting Us
 
-If you have any questions about this privacy policy, please [email us](mailto:info@protectamerica.com "Email Protect America Information Inbox"). We welcome your questions and suggestions about our privacy policy.
-
-### Visit Us At:
-
-Protect America, Inc.  
-3800 Quick Hill Road, Building 1-100  
-Austin, TX 78728 
+If you have any questions about this privacy policy, please [email us](mailto:info@protectamerica.com "Email Protect America Information Inbox"). We welcome your questions and suggestions about our privacy policy. 
   *[PAI]: Protect America, Inc.
