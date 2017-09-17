@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andromint.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085150id_/http%3A//www.andromint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andromint.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918013611id_/http%3A//andromint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroMint
 
