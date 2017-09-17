@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the demandware.com privacy policy that was archived on 2017-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629150145id_/https%3A//www.demandware.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the demandware.com privacy policy that was archived on 2017-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170917134615id_/https%3A//www.demandware.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PFDXLH"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PFDXLH"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 
 	
-	<link rel="alternate" hreflang="en" href="http://www.demandware.com/privacy-policy">
-	<link rel="alternate" hreflang="fr" href="http://www.demandware.fr/politique-de-confidentialite">
-	<link rel="alternate" hreflang="de" href="http://www.demandware.de/datenschutz">
-	<link rel="alternate" hreflang="it" href="http://www.demandware.it/privacy-policy">
+	<link rel="alternate" hreflang="en" href="https://www.demandware.com/privacy-policy">
+	<link rel="alternate" hreflang="fr" href="https://www.demandware.com/fr/politique-de-confidentialite">
+	<link rel="alternate" hreflang="de" href="https://www.demandware.com/de/datenschutz">
+	<link rel="alternate" hreflang="it" href="https://www.demandware.com/it/privacy">
 
 	
 	
@@ -21,6 +21,9 @@
 	
 	<meta name="author" content="Demandware, Inc.">
 	
+
+	
+	<meta name="google-site-verification" content="3SXbsT3ismPy9A3cFU84Y04eYkIbhY4Y9-dIDv3Mk0Y">
 
 	
 	
@@ -47,7 +50,7 @@
 	
 	<meta name="twitter:image" content="http://www.demandware.com/dwre-share-twitter.jpg">
 
-	<link rel="canonical" href="http://www.demandware.com/privacy-policy">
+	<link rel="canonical" href="https://www.demandware.com/privacy-policy">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
@@ -68,7 +71,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="/dist/css/main.1295541488.css">
+    <link rel="stylesheet" href="/dist/css/main.1920125639.css">
 
     <script>
         window['optimizely'] = window['optimizely'] || [];
@@ -80,6 +83,35 @@
     <script async="" src="//cdn.optimizely.com/js/1196641406.js"></script>
     
 
+    <script>
+    var oldieCheck = Boolean(document.getElementsByTagName('html')[0].className.match(/\soldie\s/g));
+    if(!oldieCheck) {
+        document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"><\/script>');
+    } else {
+        document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"><\/script>');
+    }
+    </script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    
+    <script>
+        if(!window.jQuery) {
+            if(!oldieCheck) {
+                document.write('<script src="/bower_components/jquery/dist/jquery.min.js"><\/script>');
+            } else {
+                document.write('<script src="/bower_components/jquery-oldie/index.js"><\/script>');
+            }
+        }
+    </script><script src="/bower_components/jquery/dist/jquery.min.js"></script>
+
+    
+		<script src="//demandware.com/dist/js/lead-source-v2.js"></script>
+
+	
+    
+	
+		<script src="//assets.adobedtm.com/7089d7be7dacc457a8233ff9a3a1a83c5d80ff74/satelliteLib-66c63bdef30c9cc2b1e7ad8c76930a7a7816b878.js"></script>
+	
+
+
     <!--[if lte IE 9]>
 		<link rel="stylesheet" href="/dist/css/ie.738398922.css">
         <script src="/dist/js/polyfill.3462655360.js"></script>
@@ -90,19 +122,32 @@
     <script>var WRInitTime=(new Date()).getTime();</script>
     
 		<header class="primary-header" data-header="">
-			
-				<div class="primary-header-nav-meta">
+
+				<div class="primary-header-nav-meta" data-header-nav="">
 					<div class="primary-header-nav-meta-bg"></div>
 					<ul>
-						<li>
+						<li class="large-only menu-item">
+		                    <a href="#" class="arrow-link-right-down capitalize">Worldwide <span class="globe"></span></a>
+		                    <ul>
+		                        
+		                            <li><a href="http://www.demandware.com/de/datenschutz/" data-track="Language Switcher|Switch|Deutsch">Deutsch</a></li><li><a href="http://www.demandware.com/fr/politique-de-confidentialite/" data-track="Language Switcher|Switch|Français">Français</a></li><li><a href="http://www.demandware.com/it/privacy/" data-track="Language Switcher|Switch|Italiano">Italiano</a></li>
+		                        
+		                        <li><a href="http://www.demandware.jp">日本</a></li>
+		                        <li><a href="http://www.demandware.cn">中国 - 简体中文</a></li>
+		                    </ul>
+		                </li>
+
+					
+
+						<li class="menu-item">
 							<a href="http://blog.demandware.com/">Blog</a>
 						</li>
-						<li>
+						<li class="menu-item">
 							<a href="/careers">Careers</a>
 						</li>
 					</ul>
 				</div>
-			
+
 			<div class="primary-header-logo">
 				<a href="/">
 					<img src="/img/logos/img-demandware-logo.svg">
@@ -121,9 +166,12 @@
 										<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
 									</ul>
 								</li>
+
 								
 								<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
 								
+
+
 								
 								<li><a href="/products/ecommerce-services">Services</a></li>
 								
@@ -143,10 +191,10 @@
 						<ul>
 							<li><a href="/partners">Partners Overview</a></li>
 						
-							<li><a href="/partner-awards">Partner Awards</a></li>
+						<li><a href="/partner-awards">Partner Awards</a></li>
 						
-							<li><a href="/link-marketplace">LINK Marketplace</a></li>
-							<li><a href="/partners/become-a-partner">Become a Partner</a></li>
+						<li><a href="/link-marketplace">LINK Marketplace</a></li>
+						<li><a href="/partners/become-a-partner">Become a Partner</a></li>
 						</ul>
 					</li>
 					<li class="large-only">
@@ -155,13 +203,11 @@
 							<li><a href="http://blog.demandware.com/">Blog</a></li>
 							<li><a href="/resource-center">Resource Center</a></li>
 							<li><a href="https://www.salesforce.com/events/xchange-amer/">XChange Conference</a></li>
+							
 							<li><a href="/pacesetter-awards">Pacesetter Awards</a></li>
 							
-							<li><a href="/shoppers-index">Shopping Index</a></li>
-							
-							
-							
-							
+
+							<li><a href="/shopping-index">Shopping Index</a></li>
 						</ul>
 					</li>
 					<li class="large-only">
@@ -169,29 +215,16 @@
 						<ul>
 							<li><a href="/our-story">Our Story</a></li>
 							<li><a href="/careers">Careers</a></li>
-							
 							<li><a href="/events">Events</a></li>
 						</ul>
 					</li>
 					<li class="medium-only nav-cta">
-						<a href="/contact" class="btn-light-blue-fill pill" data-track="Get in Touch Button|Click|Global Header - Desktop">Contact Us</a>
+						<a href="/contact?d=GN-Button--Cont-core--" class="btn-light-blue-fill pill" data-track="Get in Touch Button|Click|Global Header - Desktop">Contact Us</a>
 
 						
 
-                    
                 </li>
-                <li class="large-only">
-                    <a href="#" class="arrow-link-right-down capitalize">en</a>
-                    <ul>
-                        
-                            <li><a href="http://www.demandware.com/index.php?ACT=18&amp;lang=de" data-track="Language Switcher|Switch|Deutsch">Deutsch</a></li><li><a href="http://www.demandware.com/index.php?ACT=18&amp;lang=fr" data-track="Language Switcher|Switch|Français">Français</a></li><li><a href="http://www.demandware.com/index.php?ACT=18&amp;lang=it" data-track="Language Switcher|Switch|Italiano">Italiano</a></li>
-                        
-                        <li><a href="http://www.demandware.jp">日本</a></li>
-                        <li><a href="http://www.demandware.cn">中国 - 简体中文</a></li>
-                        <li><a href="http://www.demandware.hk">台灣 - 繁體中文</a></li>
-                    </ul>
-                </li>
-                <!-- <li class="always"><a href="#" class="icon-search" data-global-search-trigger></a></li> -->
+				<li class="always"><a href="#" class="icon-search" data-global-search-trigger=""></a></li>
                 <li class="primary-header-toggle">
                     <a href="#" class="icon-list" data-header-nav-toggle=""></a>
                 </li>
@@ -203,7 +236,7 @@
     <nav class="offcanvas-nav" data-off-canvas="">
         <ul>
             <li class="small-only">
-                <a href="/contact" class="btn-light-blue-fill" data-track="Get in Touch Button|Click|Global Header - Mobile">Contact Us</a>
+				<a href="/contact?d=GN-Button--Cont-core--" class="btn-light-blue-fill" data-track="Get in Touch Button|Click|Global Header - Mobile">Contact Us</a>
                 
 
                 
@@ -215,17 +248,17 @@
 					
 					<ul>
                             <li>
-                                <a href="/products">Overview</a>
+								<a href="/products">Overview</a>
                                 <ul>
-                                    <li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
-                                    <li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
+									<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
+									<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
                                 </ul>
                             </li>
                             
-                            <li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
+							<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
                             
                             
-                            <li><a href="/products/ecommerce-services">Services</a></li>
+							<li><a href="/products/ecommerce-services">Services</a></li>
                             
                         </ul>
                     <!-- <ul>
@@ -237,51 +270,45 @@
                     </ul> -->
 			</li>
 
-            <li><a href="/clients">Clients</a></li>
+			<li><a href="/clients">Clients</a></li>
             <li>
                 <a class="arrow-link-down" href="#">Partners</a>
                 <ul>
-                    <li><a href="/partners">Partners Overview</a></li>
+					<li><a href="/partners">Partners Overview</a></li>
                 
-                    <li><a href="/partner-awards">Partner Awards</a></li>
+				<li><a href="/partner-awards">Partner Awards</a></li>
                 
-                    <li><a href="/link-marketplace">LINK Marketplace</a></li>
-                    <li><a href="/partners/become-a-partner">Become a Partner</a></li>
+				<li><a href="/link-marketplace">LINK Marketplace</a></li>
+				<li><a href="/partners/become-a-partner">Become a Partner</a></li>
                 </ul>
             </li>
             <li>
                 <a class="arrow-link-down" href="#">Resources</a>
                 <ul>
                     <li><a href="http://blog.demandware.com/">Blog</a></li>
-                    <li><a href="/resource-center">Resource Center</a></li>
-                    <li><a href="https://www.salesforce.com/events/xchange-amer/" target="_blank">XChange Conference</a></li>
+					<li><a href="/resource-center">Resource Center</a></li>
+					<li><a href="https://www.salesforce.com/events/xchange-amer/" target="_blank">XChange Conference</a></li>
                     <li><a href="http://www.demandware.com/pacesetter-awards">Pacesetter Awards</a></li>
-                    
-                    <li><a href="/shoppers-index">Shopping Index</a></li>
-                    
-                    
-                    
-                    
+
+                    <li><a href="/shopping-index">Shopping Index</a></li>
                 </ul>
             </li>
             <li>
                 <a class="arrow-link-down" href="#">Company</a>
                 <ul>
-                    <li><a href="/our-story">Our Story</a></li>
-                    <li><a href="/careers">Careers</a></li>
-                        
-                    <li><a href="/events">Events</a></li>
+					<li><a href="/our-story">Our Story</a></li>
+					<li><a href="/careers">Careers</a></li>
+						<li><a href="/events">Events</a></li>
                 </ul>
             </li>
             <li>
                 <a href="#" class="arrow-link-down capitalize">en</a>
                 <ul>
                     
-                        <li><a href="http://www.demandware.com/index.php?ACT=18&amp;lang=de" data-track="Language Switcher|Switch|Deutsch">Deutsch</a></li><li><a href="http://www.demandware.com/index.php?ACT=18&amp;lang=fr" data-track="Language Switcher|Switch|Français">Français</a></li><li><a href="http://www.demandware.com/index.php?ACT=18&amp;lang=it" data-track="Language Switcher|Switch|Italiano">Italiano</a></li>
+                        <li><a href="http://www.demandware.com/de/datenschutz/" data-track="Language Switcher|Switch|Deutsch">Deutsch</a></li><li><a href="http://www.demandware.com/fr/politique-de-confidentialite/" data-track="Language Switcher|Switch|Français">Français</a></li><li><a href="http://www.demandware.com/it/privacy/" data-track="Language Switcher|Switch|Italiano">Italiano</a></li>
                     
                     <li><a href="http://www.demandware.jp">日本</a></li>
                     <li><a href="http://www.demandware.cn">中国 - 简体中文</a></li>
-                    <li><a href="http://www.demandware.hk">台灣 - 繁體中文</a></li>
                 </ul>
             </li>
 			
@@ -292,7 +319,7 @@
                             <a href="http://blog.demandware.com/">Blog</a>
                         </li>
                         <li>
-                            <a href="/careers">Careers</a>
+							<a href="/careers">Careers</a>
                         </li>
                     </ul>
                 </li>
@@ -342,7 +369,7 @@
 
 <p>The Commerce Cloud Services comply with the EU–U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Salesforce has certified to the Department of Commerce that the Commerce Cloud Services adhere to the Privacy Shield Principles.&nbsp;You can view a description of how we comply with the Privacy Shield Principles in our&nbsp;<a href="http://www.demandware.com/uploads/about/privacy-shield-notice.pdf">Privacy Shield Notice</a>. To learn more about the Privacy Shield program and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website&nbsp;<a href="https://www.privacyshield.gov/welcome">here</a>.</p>
 
-<p>If you have questions or complaints regarding Salesforce’s Privacy Statement or associated practices, please contact us&nbsp;<span data-eeencemail_fwhbgsewuv="1"><a href="mailto:https://feedback-form.truste.com/watchdog/request?subject=Watchdog%20request">https://feedback-form.truste.com/watchdog/request</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104','>','\"',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 48',' 50',' 37',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_fwHbgSewUV'))el[j].innerHTML = out;/*]]>*/</script>.</p>
+<p>If you have questions or complaints regarding Salesforce’s Privacy Statement or associated practices, please contact us&nbsp;<span data-eeencemail_dytybzbwbo="1"><a href="mailto:https://feedback-form.truste.com/watchdog/request?subject=Watchdog%20request">https://feedback-form.truste.com/watchdog/request</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104','>','\"',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 48',' 50',' 37',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_dYTYBZBWBO'))el[j].innerHTML = out;/*]]>*/</script>.</p>
 
 <p>Any questions, comments or complaints about the data practices (including compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity or enforcement) of our Commerce Cloud Services customers or partners for which Salesforce processes data should be addressed to that customer or partner.</p>
 
@@ -413,7 +440,7 @@ Written questions may also be submitted to:</p>
 The Landmark @ One Market Street, Suite 300<br>
 San Francisco, CA 94105</p>
 
-<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <span data-eeencemail_knhrfmqpoq="1"><a href="mailto:https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104','>','\"',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_KNHRfmqpoq'))el[j].innerHTML = out;/*]]>*/</script>.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <span data-eeencemail_etmhlodsvr="1"><a href="mailto:https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104','>','\"',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_eTmHloDSVr'))el[j].innerHTML = out;/*]]>*/</script>.</p>
 
 <p><strong>Changes to This Privacy Policy</strong><br>
 The practices described in this Privacy Policy are the current Personal Information protection policies as of the date specified above. Salesforce reserves the right to modify or amend this Privacy Policy at any time. If we make any material changes to this Privacy Policy regarding our collection, use or disclosure of Personal Information, we will notify you by email or by means of a prominent notice on our Corporate Sites at least thirty (30) days prior to our implementation of such material changes.</p>
@@ -478,7 +505,7 @@ We retain your information for as long as instructed by our customers. We and ou
 					<nav class="row">
 						<div class="primary-footer-list-large">
 							<p>
-								<a class="why-btn btn-white-fill fixed" href="/contact" data-track="Get in Touch Button|Click|Global Footer">
+								<a class="why-btn btn-white-fill fixed" href="/contact?d=F-Button--Cont-core--" data-track="Get in Touch Button|Click|Global Footer">
 									Contact Us
 								</a>
 							</p>
@@ -491,7 +518,7 @@ We retain your information for as long as instructed by our customers. We and ou
 										</a>
 									</li>
 									<li>
-										<span data-eeencemail_hvzffxxbzf="1"><a href="mailto:commercecloud@salesforce.com">commercecloud@salesforce.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99','>','\"',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_hvZFfxxbZf'))el[j].innerHTML = out;/*]]>*/</script>
+										<span data-eeencemail_kdlltmxnaa="1"><a href="mailto:commercecloud@salesforce.com">commercecloud@salesforce.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99','>','\"',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_kdlltmXnAa'))el[j].innerHTML = out;/*]]>*/</script>
 									</li>
 									<li>
 										<address>
@@ -514,22 +541,22 @@ MA 01803 USA
 							<ul>
 								<li><a href="/our-story">Our Story</a></li>
 								<li><a href="/careers">Careers</a></li>
-								
 								<li><a href="/events">Events</a></li>
-								<li><a href="/contact">Contact Us</a></li>
+								<li><a href="/contact?d=F-Button--Cont-core--">Contact Us</a></li>
 							</ul>
 						</div>
 						<div class="primary-footer-list">
 							<p class="list-heading">Products</p>
 							<ul>
-								
 								<li><a href="/products">Overview</a></li>
-								
 								<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
 								<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
+
+
 								
-								<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
+									<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
 								
+
 								<li><a href="/products/ecommerce-services">Services</a></li>
 							</ul>
 
@@ -547,13 +574,11 @@ MA 01803 USA
 								<li><a href="http://blog.demandware.com/">Blog</a></li>
 								<li><a href="/resource-center">Resource Center</a></li>
 								<li><a href="https://www.salesforce.com/events/xchange-amer/" target="_blank">XChange Conference</a></li>
+								
 								<li><a href="/pacesetter-awards">Pacesetter Awards</a></li>
 								
-								<li><a href="/shoppers-index">Shopping Index</a></li>
-								
-								
-								
-								
+
+								<li><a href="/shopping-index">Shopping Index</a></li>
 							</ul>
 						</div>
 						<div class="primary-footer-list">
@@ -629,14 +654,16 @@ MA 01803 USA
     </main>
 
     <div class="search-overlay">
+    	<a class="search-overlay__exit" data-switch-off=".search-overlay, body" data-switch-class="search-overlay--visible"></a>
         <div class="search__container">
             <div class="search-overlay__field">
                 <div class="form-field" data-form-field="9">
                     <input class="form-field__input" id="global_search" type="search" name="search" placeholder="Enter search terms">
                     <i class="icon-search"></i>
-                    <a class="search-overlay__exit" data-switch-off=".search-overlay, body" data-switch-class="search-overlay--visible"></a>
                 </div>
+                <div data-search-url="https://www.demandware.com"></div>
             </div>
+            <div class="character-limit" data-modify="hidden">Search terms must be at least 3 characters long</div>
             <section class="search-results" data-modify="hidden">
 				<aside class="search-results__sidebar--mobile">
 					<section class="search-results__sidebar-sect">
@@ -710,25 +737,6 @@ MA 01803 USA
         </div>
     </div>
 
-    <script>
-    var oldieCheck = Boolean(document.getElementsByTagName('html')[0].className.match(/\soldie\s/g));
-    if(!oldieCheck) {
-        document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"><\/script>');
-    } else {
-        document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"><\/script>');
-    }
-    </script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-    
-    <script>
-        if(!window.jQuery) {
-            if(!oldieCheck) {
-                document.write('<script src="/bower_components/jquery/dist/jquery.min.js"><\/script>');
-            } else {
-                document.write('<script src="/bower_components/jquery-oldie/index.js"><\/script>');
-            }
-        }
-    </script><script src="/bower_components/jquery/dist/jquery.min.js"></script>
-
     
 	
 
@@ -738,9 +746,7 @@ MA 01803 USA
 
 	
 
-	<script src="/dist/js/common.1873679067.js"></script>
-
-	
+	<script src="/dist/js/common.1195471524.js"></script>
 
 	
 
@@ -757,5 +763,9 @@ MA 01803 USA
 
 	
 	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1901cd30ae","applicationID":"6201900","transactionName":"MwFSYxRVDEUAUxdRWgpLc0IVQA1bTho=","queueTime":0,"applicationTime":1495,"atts":"H0ZRFVxPH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+	
+	<script type="text/javascript">typeof _satellite == "object" && _satellite.pageBottom();</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1901cd30ae","applicationID":"6201900","transactionName":"MwFSYxRVDEUAUxdRWgpLc0IVQA1bTho=","queueTime":0,"applicationTime":3417,"atts":"H0ZRFVxPH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
