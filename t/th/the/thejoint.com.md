@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejoint.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122021842id_/https%3A//www.thejoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejoint.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917070826id_/https%3A//www.thejoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Joint Chiropractic
 
@@ -6,7 +6,7 @@ Last Updated: July 5, 2016
 
 #### **Please Read Carefully**
 
-This Online Privacy Policy describes the information The Joint Corp. collects about you though our websites, mobile applications, and all other services we provide (collectively, the “Services”), how we use and share that information, and the privacy choices we offer. This policy applies to information we collect when you access or use our websites or mobile applications (collectively, the “Site”), when you use our Services or when you otherwise interact with us.
+This Online Privacy Policy describes the information The Joint Corp. collects about you through our websites, mobile applications, and all other services we provide (collectively, the “Services”), how we use and share that information, and the privacy choices we offer. This policy applies to information we collect when you access or use our websites or mobile applications (collectively, the “Site”), when you use our Services or when you otherwise interact with us.
 
 #### **Changes to this Online Privacy Policy**
 
@@ -92,8 +92,7 @@ We may share personal information about you as follows:
   * With our affiliates and partners so that they may use such information for the purposes described in this Online Privacy Policy;
   * With our affiliates, partners or other third parties to allow them to contact you regarding products, programs, services, and promotions that we and/or they believe may be of interest to you (See the “Opt-In Policy” below);
   * In connection with, or during the negotiation of, any merger, sale of company stock or assets, financing, acquisition, divestiture or dissolution of all or a portion of our business (but only under non-disclosure and confidentiality agreements and protections);
-  * If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request; to enforce applicable user agreements or policies; to protect the security or integrity of our Services; and to protect us, our users or the public from harm or illegal activities; and
-  * With your consent.
+  * If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request; to enforce applicable user agreements or policies; to protect the security or integrity of our Services; and to protect us, our users or the public from harm or illegal activities; and with your consent.
 
 
 
