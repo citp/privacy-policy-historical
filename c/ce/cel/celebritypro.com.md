@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritypro.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613233341id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritypro.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917121449id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contact Any Celebrity ::
 
