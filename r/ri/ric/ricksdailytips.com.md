@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ricksdailytips.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608125937id_/http%3A//www.ricksdailytips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricksdailytips.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917125244id_/http%3A//www.ricksdailytips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
