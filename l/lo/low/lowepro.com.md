@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowepro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155004id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowepro.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917201615id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Lowepro | Privacy Policy
 
@@ -22,9 +22,9 @@ DayMen Canada Acquisition ULC, it's related companies and entities and its third
 
 #### How is Information Used?
 
-Emails: If you provide the lowepro.com web site with your e–mail address, you may receive e–mails from the lowepro.com web site. If you do not want to receive marketing or promotional e–mails from our web site, please click [here](http://www.lowepro.com/support/contact-us).
+Emails: If you provide the lowepro.com web site with your e–mail address, you may receive e–mails from the lowepro.com web site. If you do not want to receive marketing or promotional e–mails from our web site, please click [here](https://web.archive.org/web/20170917201615id_/http%3A//www.lowepro.com/support/contact-us).
 
-Catalog Mailing List: If you consent and provide your name and address, we will add you to our mailing list and we may send you our Lowepro brochures as a result of visiting our web site. If you prefer not to receive any of these brochures from us, please click [here](http://www.lowepro.com/support/contact-us).
+Catalog Mailing List: If you consent and provide your name and address, we will add you to our mailing list and we may send you our Lowepro brochures as a result of visiting our web site. If you prefer not to receive any of these brochures from us, please click [here](https://web.archive.org/web/20170917201615id_/http%3A//www.lowepro.com/support/contact-us).
 
 If you provide feedback on any of our products and services to us, or comment in a forum or provide and review, we may use such feedback and comments for any purpose, provided we will not associate such feedback with your personal information.
 
