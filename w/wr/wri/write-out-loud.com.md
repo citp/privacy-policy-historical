@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the write-out-loud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125717id_/http%3A//www.write-out-loud.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the write-out-loud.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917141337id_/http%3A//www.write-out-loud.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - write-out-loud.com
 
