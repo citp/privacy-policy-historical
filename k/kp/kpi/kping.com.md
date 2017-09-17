@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kping.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115053416id_/http%3A//www.kping.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kping.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917123530id_/http%3A//www.kping.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - King Ping Your Blog
 
