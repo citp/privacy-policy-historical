@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycbseguide.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630174935id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycbseguide.com privacy policy that was archived on 2017-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170917054523id_/https%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="st-layout" lang="en"><head>
     <meta charset="utf-8">
@@ -16,9 +16,9 @@ commitment to privacy. The following discloses our information gathering and usa
 
     
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
-    <link href="//media.mycbseguide.com/v1.8.0/learning/learning.vendor.1.0.1.css" rel="stylesheet">
-    <link href="//media.mycbseguide.com/v1.8.0/learning/learning.app.1.0.1.css" rel="stylesheet">
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.7&amp;appId=429663383778405"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <link href="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/learning.vendor.1.0.2.css" rel="stylesheet">
+    <link href="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/learning.app.1.0.2.css" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://d2r1yp2w7bby2u.cloudfront.net/js/a.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.7&amp;appId=429663383778405"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
 
     <script>
@@ -40,6 +40,8 @@ commitment to privacy. The following discloses our information gathering and usa
         //user
         window.globalVariable.WEB_API_REPORT_PRACTICE = globalVariable.WEB_API_BASE_URL + "user/report/practice/";
         window.globalVariable.WEB_API_USER_ME = globalVariable.WEB_API_BASE_URL + "user/me/";
+        window.globalVariable.WEB_API_USER_ADD_MOBILE = globalVariable.WEB_API_BASE_URL + "user/add_mobile/";
+        window.globalVariable.WEB_API_USER_VERIFY_MOBILE = globalVariable.WEB_API_BASE_URL + "user/verify_mobile/";
 
         //category
         window.globalVariable.WEB_API_CATEGORY_DROPDOWN = globalVariable.WEB_API_BASE_URL + "category/dropdown/";
@@ -63,6 +65,18 @@ commitment to privacy. The following discloses our information gathering and usa
         window.globalVariable.WEB_API_REVIEW_ASSIGNED_C_BACKLOG = window.globalVariable.WEB_API_REVIEW + "content-backlog/filtered/";
         window.globalVariable.WEB_API_REVIEW_ASSIGNED_C_RAW = window.globalVariable.WEB_API_REVIEW + "content-raw/filtered/";
 
+        //messages
+        window.globalVariable.WEB_API_MESSAGES = globalVariable.WEB_API_BASE_URL + "contact_us/message/";
+
+        window.globalVariable.WEB_API_MESSAGE_BASE = globalVariable.WEB_API_BASE_URL + "contact_us/messages/";
+        window.globalVariable.WEB_API_MESSAGES_LIST = window.globalVariable.WEB_API_MESSAGE_BASE + "list/";
+        window.globalVariable.WEB_API_MESSAGES_COUNT = window.globalVariable.WEB_API_MESSAGE_BASE + "unread_count/";
+
+
+        //notification
+        window.globalVariable.WEB_API_NOTIFICATION = globalVariable.WEB_API_BASE_URL + "notification/";
+        window.globalVariable.WEB_API_NOTIFICATION_LIST = window.globalVariable.WEB_API_NOTIFICATION + "list/?max=20&mark_as_read=true";
+        window.globalVariable.WEB_API_NOTIFICATION_UNREAD_COUNT = window.globalVariable.WEB_API_NOTIFICATION + "unread_count/";
     </script>
 
     <script>
@@ -152,7 +166,7 @@ commitment to privacy. The following discloses our information gathering and usa
 
             <div class="navbar-brand navbar-brand-logo">
                 <a class="" href="/">
-                    <img class="img-responsive" src="//media.mycbseguide.com/v1.8.0/learning/images/mycbseguide_logo3.png" alt="myCBSEguide">
+                    <img class="img-responsive" src="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/images/mycbseguide_logo3.png" alt="myCBSEguide">
                 </a>
             </div>
         </div>
@@ -469,9 +483,9 @@ commitment to privacy. The following discloses our information gathering and usa
 $(document).ready(function(){
 
 var array = [
-'<center><a href="http://elpiscart.com/" rel="nofollow"  onclick="trackOutboundLink(\'http://elpiscart.com\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/eb_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
-'<center><a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&referrer=utm_source%3Dmycbse_sidebar%26utm_medium%3Dbanner%26utm_campaign%3Dmycbseads"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/mobile_app.png" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
-'<center><a href="http://www.dronstudy.com/online-test/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide" rel="nofollow"  onclick="trackOutboundLink(\'http://www.dronstudy.com/online-test/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/ds/DS_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>'
+'<center><a href="http://elpiscart.com/" rel="nofollow"  onclick="trackOutboundLink(\'http://elpiscart.com\'); return false;"><img class="img-responsive" src="https://media-mycbseguide.s3.amazonaws.com/images/mcg/eb_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
+'<center><a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&referrer=utm_source%3Dmycbse_sidebar%26utm_medium%3Dbanner%26utm_campaign%3Dmycbseads"><img class="img-responsive" src="https://media-mycbseguide.s3.amazonaws.com/images/mcg/mobile_app.png" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
+'<center><a href="http://www.dronstudy.com/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide" rel="nofollow"  onclick="trackOutboundLink(\'http://www.dronstudy.com/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide\'); return false;"><img class="img-responsive" src="https://media-mycbseguide.s3.amazonaws.com/images/direct/DS_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>'
 ];
 var str = ['0', '1', '2'];
 for(var j, x, i = str.length; i; j = parseInt(Math.random() * i), x = str[--i], str[i] = str[j], str[j] = x);
@@ -486,7 +500,7 @@ for(var i=0;i<=2;i++){
 
 </p><div id="advt_random_div"></div>
 
-<center><a href="https://docs.google.com/forms/d/1ra4eViZmN-zabO9b57foRZK6ZTwlcwSlpewbZMyXisg/viewform?c=0&amp;w=1" rel="nofollow" target="_blank"><img class="img-responsive" src="http://media.mycbseguide.com/images/mcg/join-us.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
+<center><a href="https://docs.google.com/forms/d/1ra4eViZmN-zabO9b57foRZK6ZTwlcwSlpewbZMyXisg/viewform?c=0&amp;w=1" rel="nofollow" target="_blank"><img class="img-responsive" src="https://media-mycbseguide.s3.amazonaws.com/images/mcg/join-us.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
                           <p></p>
                         </div>
                       </div>
@@ -534,7 +548,7 @@ for(var i=0;i<=2;i++){
                         
                         <div class="panel-body">
                           <p>
-                                </p><center><a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&amp;referrer=utm_source%3Dmycbse_sidebar%26utm_medium%3Dbanner%26utm_campaign%3Dmycbseads" rel="nofollow" target="_blank"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/mobile_app.png" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
+                                </p><center><a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&amp;referrer=utm_source%3Dmycbse_sidebar%26utm_medium%3Dbanner%26utm_campaign%3Dmycbseads" rel="nofollow" target="_blank"><img class="img-responsive" src="https://media-mycbseguide.s3.amazonaws.com/images/mcg/mobile_app.png" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
                           <p></p>
                         </div>
                       </div>
@@ -555,7 +569,7 @@ for(var i=0;i<=2;i++){
                         
                         <div class="panel-body">
                           <p>
-                                </p><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mycbseguide', 'popupwindow', 
+                                </p><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mycbseguide', 'popupwindow', 
 
 'scrollbars=yes,width=550,height=520');return true"><p>
 	<strong><span style="color: rgb(178, 34, 34);">For Latest News and Updates from</span> <span style="color: rgb(0, 100, 0);"><span style="background-color: rgb(255, 255, 255);">myCBSEguide.com</span></span>
@@ -563,9 +577,7 @@ for(var i=0;i<=2;i++){
 	<span style="color: rgb(0, 128, 128);"><span style="background-color: rgb(255, 255, 255);">Enter your email address:
 	</span></span><br><input type="text" style="width:140px" name="email"><input type="hidden" value="mycbseguide" name="uri"><input type="hidden" name="loc" value="en_US">
 <br>
-</p><table><tbody><tr><td><a href="http://feeds.feedburner.com/mycbseguide"><img src="http://feeds.feedburner.com/~fc/mycbseguide?&#10;&#10;bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></td><td><input type="submit" value="Go"></td></tr></tbody></table><p></p></form>
-
-
+</p><table><tbody><tr><td><a href="http://feeds.feedburner.com/mycbseguide"><img src="https://feeds.feedburner.com/~fc/mycbseguide?&#10;&#10;bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></td><td><input type="submit" value="Go"></td></tr></tbody></table><p></p></form>
                           <p></p>
                         </div>
                       </div>
@@ -587,10 +599,8 @@ for(var i=0;i<=2;i++){
                         <div class="panel-body">
                           <p>
                                 </p><center>
-<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/MyCBSEguide/149944368375498" width="175" show_faces="true" stream="false" header="true"></fb:like-box>
+<div id="fb-root"></div><script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="https://www.facebook.com/pages/MyCBSEguide/149944368375498" width="175" show_faces="true" stream="false" header="true"></fb:like-box>
 </center>
-
-
                           <p></p>
                         </div>
                       </div>
@@ -663,7 +673,7 @@ for(var i=0;i<=2;i++){
                     <span class="text-headline text-light">Mobile App</span>
                     <div class="form-group">
                         <a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&amp;referrer=utm_source%3Dmycbse_bottom%26utm_medium%3Dtext%26utm_campaign%3Dmycbseads">
-                            <img style="width: 210px;margin-left: -5px;" src="//media.mycbseguide.com/v1.8.0/learning/images/google-play-logo.png" alt="myCBSEguide App">
+                            <img style="width: 210px;margin-left: -5px;" src="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/images/google-play-logo.png" alt="myCBSEguide App">
                         </a>
                     </div>
                 </div>
@@ -729,8 +739,24 @@ for(var i=0;i<=2;i++){
     </script>
 
 
-    <script src="//media.mycbseguide.com/v1.8.0/learning/learning.vendor.1.0.1.js"></script>
-    <script src="//media.mycbseguide.com/v1.8.0/learning/learning.app.1.0.1.js"></script>
+    <script src="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/learning.vendor.1.0.2.js"></script>
+    <script src="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/learning.app.1.0.2.js"></script>
+
+    <script type="text/javascript">
+     var clevertap = {event:[], profile:[], account:[], onUserLogin:[], notifications:[]};
+     clevertap.account.push({"id": "8WR-857-994Z"});
+     (function () {
+             var wzrk = document.createElement('script');
+             wzrk.type = 'text/javascript';
+             wzrk.async = true;
+             wzrk.src = ('https:' == document.location.protocol ? 'https://d2r1yp2w7bby2u.cloudfront.net' : 'http://static.clevertap.com') + '/js/a.js';
+             var s = document.getElementsByTagName('script')[0];
+             s.parentNode.insertBefore(wzrk, s);
+      })();
+    </script>
+
+    <script src="//media-mycbseguide.s3.amazonaws.com/v1.8.4/learning/learning.clevertap.1.0.2.js"></script>
+
     
 
     
@@ -766,7 +792,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
         </div>
     </div>
 </div>
-<!-- mycbseguide-deployed-version='9.3.1' -->
+<!-- mycbseguide-deployed-version='9.8.5' -->
 
 
 
