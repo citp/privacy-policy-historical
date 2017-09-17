@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153030id_/http%3A//ozfreeonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917110923id_/http%3A//ozfreeonline.com/privacy.php) for the most accurate reproduction.*
 
 # OZFreeOnline.com - Get Traffic from Posting Ads On Our AdBoard
 
@@ -17,7 +17,7 @@ How does the Site use Personally Identifiable Information? We use Personally Ide
 
 How is Personally Identifiable Information stored? Personally Identifiable Information collected by Oz Free Online is securely stored and is not accessible to third parties. 
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at info@ozfreeonline.com 
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at info@ozfreeonline.com
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
