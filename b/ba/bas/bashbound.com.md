@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bashbound.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626113705id_/http%3A//survey.dealeez.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bashbound.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917205115id_/http%3A//survey.dealeez.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -91,7 +91,7 @@ Customer Service Department
 [Email us](mailto:contact@mywebrewardsurvey.com)
 
 Opt Out Link  
-[Unsubscribe](https://web.archive.org/web/20170626113705id_/http%3A//survey.dealeez.com/unsubscribe.php)
+[Unsubscribe](https://web.archive.org/web/20170917205115id_/http%3A//survey.dealeez.com/unsubscribe.php)
 
 Please note that we do not directly conduct email campaigns. Entry of your email in the unsubscribe link above will not stop email delivery from the publisher from which you received the original offer (i.e. you may still receive emails from this publisher, with offers other than our services). To opt out of receiving any email offers from the publisher, please follow the publisher's opt out instructions provided in the email. 
 
