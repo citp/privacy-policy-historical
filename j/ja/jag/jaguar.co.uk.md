@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610111208id_/http%3A//www.jaguar.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917154441id_/https%3A//www.jaguar.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy | Jaguar UK
 
@@ -115,6 +115,7 @@ TestSess3 | Holds the dealer name if the user visits Dealer.jaguar.com
 gs_u_GSN-065099-V,   
 gs_u_GSN-657216-Q | Go Squared Analytics cookie, used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing gs_u_GSN cookie exists. The cookie is updated every time data is sent to GoSquared.  
 psyma_participation | Stores users preference in participation of the Psyma research survey  
+Media Innovation Group Appnexus | These various online ad tracking cookies help us show you online adverts relevant to you. They track the adverts you have seen, those you have clicked on, and the pages you have visited on our site afterwards.  
   
 **Third Party Cookies**
 
