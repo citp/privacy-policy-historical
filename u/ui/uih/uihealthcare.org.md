@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317143358id_/https%3A//www.uihealthcare.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917143344id_/https%3A//www.uihealthcare.org/privacy.html) for the most accurate reproduction.*
 
 # Initiatives - University of Iowa Healthcare
 
