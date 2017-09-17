@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zno.com privacy policy that was archived on 2017-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170519155155id_/http%3A//www.zno.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zno.com privacy policy that was archived on 2017-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170917193535id_/http%3A//www.zno.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,13 +22,13 @@
 
 <link rel="stylesheet" href="/template-resources/stylesheet/sign.css?v=2016081201.css" type="text/css">
 <link rel="stylesheet" href="/template-resources/stylesheet/sign-new.css?v=20170504.css" type="text/css">
-<link rel="stylesheet" href="/template-resources/stylesheet/as-common.css?20160825.css" type="text/css">
-<link rel="stylesheet" href="/template-resources/stylesheet/as-common-new.css?v=20170105.css" type="text/css">
+<link rel="stylesheet" href="/template-resources/stylesheet/as-common.css?20160826.css" type="text/css">
+<link rel="stylesheet" href="/template-resources/stylesheet/as-common-new.css?v=20170907.css" type="text/css">
 
 
 <link rel="icon" href="https://dg02zjfodh5pi.cloudfront.net/template-resources/images/store.ico" mce_href="https://dg02zjfodh5pi.cloudfront.net/template-resources/images/store.ico" type="image/x-icon">
 <link rel="shortcut icon" href="https://dg02zjfodh5pi.cloudfront.net/template-resources/images/store.ico" mce_href="https://dg02zjfodh5pi.cloudfront.net/template-resources/images/store.ico" type="image/x-icon">
-<script type="text/javascript" async="" src=" https://js.ptengine.cn/54db9ab2.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//web.archive.org/web/20161129141018/http://connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src=" https://js.ptengine.cn/54db9ab2.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//web.archive.org/web/20161129141018/http://connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">
 	var baseUrl = "";
 	var fs = "https://dg02zjfodh5pi.cloudfront.net";
 	var pieceNumber=0;
@@ -78,11 +78,39 @@
             border-left: 1px solid transparent;
             border-bottom: 1px solid transparent;
         }
-        </style>
+        
+    .saleNew{
+        position:absolute;top:74px;font-size:10px;color:#de3418;content:"Sale";
+    }
+     .m_saleNew{
+         position:absolute;top:113px;left: 242px;font-size:2.6vm;font-size: 2.6vmin;color:#de3418;content:"Sale";
+     }
+
+    .arrows {
+        position: absolute;
+        top:68px;
+        right:56px;
+        background: #FFF;
+        border-right: 1px solid #CCCCCC;
+        border-top: 1px solid #CCCCCC;
+        height: 30px;
+        width: 30px;
+        margin:50px auto 0;
+        transform: rotate(deg);
+        -webkit-transform: rotate(315deg);
+        border-left: 1px solid transparent;
+        border-bottom: 1px solid transparent;
+        z-index:999;
+    }
+</style>
 
 <script type="text/javascript">
     function isPageOf(pageName) {
-        if (window.location.href.indexOf(pageName) > 0) {
+        var url = window.location.href;
+        if(url.indexOf('?') != -1){
+            url = url.substr(0,url.indexOf('?'));
+        }
+        if (url.indexOf(pageName) > 0) {
             return true;
         }
         return false;
@@ -147,25 +175,27 @@
     </div>
 
     <div class="box-subheader">
-    <span style="display: inline-block; margin-right: 60px; width: 115px; text-align: center;">
+    <span style="display: inline-block; margin-right: 80px; width:115px;text-align: center;">
       <div id="productsDiv">
-          <a href="/product-index.html" style="text-decoration: none;"><span class="as-subheader" id="subheader-products">Products</span></a>
+          <a href="/product-index.html" style="text-decoration: none;"><span class="as-subheader" id="subheader-products">Products</span>
+              <span class="saleNew" style="display: none;" id="saleNew">Sale</span>
+          </a>
       </div>
     </span>
-     <span id="label-trial" style="display: inline-block; margin-right: 40px; width: 160px; text-align: center;">
-      <a href="/ten-dollars-premium.html" style="text-decoration: none;"><span class="as-subheader" id="subheader-trial">$10 Premium</span></a>
+     <span id="label-trial" style="display: inline-block; margin-right: 80px;  text-align: center;">
+      <a href="/user-video-reviews.html" style="text-decoration: none;"><span class="as-subheader" id="subheader-trial">Videos</span></a>
      </span>
-        <span id="label-trial" style="display: inline-block; margin-right: 60px; width: 115px; text-align: center;">
+        <span id="label-trial" style="display: inline-block; margin-right: 80px;  text-align: center;">
       <a href="/pro-plan.html" style="text-decoration: none;"><span class="as-subheader" id="subheader-proPlan">Pro Plan</span></a>
      </span>
     
-    <span style="display: inline-block; width: 86px; text-align: center;">
+    <span style="display: inline-block; text-align: center;">
       <a href="/create.html" style="text-decoration: none;"><span class="as-subheader" id="subheader-create">Create</span></a>
     </span>
     </div>
 
     <!-- Products Overlay -->
-    <div class="box-dropdown" id="productsOverlay" onmouseover="layer_show('productsOverlay', 'show');document.getElementById('subheader-products').className = 'as-subheader-selected';" onmouseout="layer_show('productsOverlay','hide');document.getElementById('subheader-products').className = 'as-subheader';" style="visibility: hidden;border-top:1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC;width:1000px;height:506px;background:#FFF;margin-top:0px;">
+    <div class="box-dropdown" id="productsOverlay" onmouseover="layer_show('productsOverlay', 'show');document.getElementById('subheader-products').className = 'as-subheader-selected';" onmouseout="layer_show('productsOverlay','hide');document.getElementById('subheader-products').className = 'as-subheader';" style="visibility: hidden;border-top:1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC;width:1000px;height:550px;background:#FFF;margin-top:0px;">
         <div class="arrow" onmouseover="document.getElementById('subheader-products').className = 'as-subheader-selected';" onmouseout="document.getElementById('subheader-products').className = 'as-subheader';"></div>
         <div style="background-color: rgba(255, 255, 255, 1);">
                 
@@ -221,7 +251,7 @@
     .layout-div{
         padding-left:40px;
         width:215px;
-        height: 750px;
+        height: 790px;
         float: left;
     }
     .sub{
@@ -240,14 +270,17 @@
         <div class="layout-content-item"><a href="/photo-book/layflat-photo-book.html" target="_self" class="layout-menu-item">Layflat Photo Book</a></div>
         <div class="layout-content-item"><a href="/photo-book/press-photo-book.html" target="_self" class="layout-menu-item">Press Photo Book</a></div>
         <div class="layout-content-item"><a href="/little-black-book.html" target="_self" class="layout-menu-item">Little Black Book
-             <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">New!
+             <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">
         </span></a></div>
         <div class="layout-content-item">
             <a href="/little-timeline-book.html" target="_self" class="layout-menu-item">Little Timeline Book
-                <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">New!
-            </span></a>
+                <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic "></span>
+            </a>
         </div>
-        <div class="layout-content-title"><span class="layout-menu-title">Wall Arts</span></div>
+        <div class="layout-content-title"><span class="layout-menu-title">Wall Art</span></div>
+        <div class="layout-content-item"><a href="/little-round-block.html" target="_self" class="layout-menu-item">Little Round Block</a>
+        <span style="position: absolute;margin-top:-5px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic "></span>
+        </div>
         <div class="layout-content-item"><a href="/canvas/canvas-print.html" target="_self" class="layout-menu-item">Canvas</a></div>
         <div class="layout-content-item"><a href="/frames.html" target="_self" class="layout-menu-item">Frame</a></div>
         <div class="layout-content-item">
@@ -266,13 +299,18 @@
         </div>
         <div class="layout-content-title"><span class="layout-menu-title">Prints &amp; Posters</span></div>
         <div class="layout-content-item">
+            <a href="/little-prints-pack.html" target="_self" class="layout-menu-item">Little Prints Pack
+                <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic "></span>
+            </a>
+        </div>
+        <div class="layout-content-item">
             <a href="/prints/standard-photo-print.html" target="_self" class="layout-menu-item">Standard Photo Print
             </a>
         </div>
         <div class="layout-content-item">
             <a href="/prints/flush-mount-print.html" target="_self" class="layout-menu-item">Flush Mount Print
-                <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">New!
-            </span></a>
+                <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic "></span>
+            </a>
         </div>
         <div class="layout-content-item">
             <a href="/prints/large-photo-print.html" target="_self" class="layout-menu-item">Large Photo Print</a>
@@ -290,6 +328,9 @@
     <div class="layout-div">
         <div class="layout-content-title"><span class="layout-menu-title">Cards</span></div>
         <div class="layout-content-item"><a href="/card-list.html" target="_self" class="layout-menu-item">Holiday Cards</a></div>
+        <div class="layout-content-item"><a href="/little-scribble-card.html" target="_self" class="layout-menu-item">Little Scribble Card</a>
+            <span style="position: absolute;margin-top:-5px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic "></span>
+        </div>
     
         <div class="layout-content-title"><span class="layout-menu-title">Calendars</span></div>
         <div class="layout-content-item"><a href="/calendars/calendar.html#wall-calendars" target="_self" class="layout-menu-item">Wall Calendar</a></div>
@@ -304,7 +345,7 @@
         <div class="layout-content-item"><a href="/table-tops.html" target="_self" class="layout-menu-item">Crystal Plaque</a></div>
         <div class="layout-content-item">
             <a href="/table-tops.html#metalplaque" target="_self" class="layout-menu-item">Metal Plaque</a>
-            <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">New!
+            <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">
         </span></div>
         <div class="layout-content-item"><a href="/table-tops.html#woodplaque" target="_self" class="layout-menu-item">Wood Plaque </a></div>
         <div class="layout-content-item"><a href="/table-tops.html#metalcube" target="_self" class="layout-menu-item">Metal Cube</a></div>
@@ -328,10 +369,10 @@
         <div class="layout-content-item"><a href="/boxes.html#ib" target="_self" class="layout-menu-item">Image Box</a></div>
         <div class="layout-content-item"><a href="/boxes.html#gb" target="_self" class="layout-menu-item">Gift Box</a></div>
         <div class="layout-content-item"><a href="/wood-box.html" target="_self" class="layout-menu-item">Wood Box</a>
-            <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">New!
+            <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">
         </span></div>
         <div class="layout-content-item"><a href="/usb-case.html" target="_self" class="layout-menu-item">USB Case</a>
-            <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">New!
+            <span style="position: absolute;margin-top:0px;margin-left:10px;font-size:12px;color:#de3418;font-style:italic ">
         </span></div>
         <div class="layout-content-item"><a href="/dvd-case.html" target="_self" class="layout-menu-item">DVD Case</a></div>
         <div class="layout-content-title"><span class="layout-menu-title">Studio Samples</span></div>
@@ -374,191 +415,15 @@
 
 
 </div>
-        
-    
-    <script src="http://www.google-analytics.com/cx/api.js?experiment=3lSHZUdmREyfCnweiJMkUQ"> </script>
+            <script type="text/javascript" src="/template-resources/js/tracker/abtest_tracker.js?v=20170511"></script>
     <script type="text/javascript" src="/template-resources/js/tracker/tracker.js?v=20170418"></script>
-    <script type="text/javascript" src="/template-resources/js/tracker/abtest_tracker.js?v=20170511"></script>
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-34392654-2', 'auto');
-        ga('send', 'pageview');
-    </script>
-    <script>
-        var selectedVariation = cxApi.chooseVariation();
-        jQuery(document).ready(function(){
-            if(selectedVariation == 1){
-               //BI数据分析，关联CustomerID和experimentID
-                var list = ['8e4b3186-b2fe-452f-a1cc-7d4165b4eed5','3lSHZUdmREyfCnweiJMkUQ'];
-                console.log(list);
-                abtest_tracker.relateUserIdAndExpId(list);
-                jQuery('#productsDiv').mouseover(function(){
-                    layer_show('productsOverlay','show');
-                    document.getElementById('subheader-products').className = 'as-subheader-selected';
-                    //打点记录Products Overlay 鼠标mouseover事件
-                    abtest_tracker.overlayPopEvent();
-                });
-                jQuery('#productsDiv').mouseout(function () {
-                    layer_show('productsOverlay','hide');
-                    document.getElementById('subheader-products').className = 'as-subheader-selected';
-                });
-            }
-        });
-    </script>
+    
+    
 
 
 
-
-
-
+    
     <script type="text/javascript">
-//        var bannerValue = "no";
-//        var bannerkey = "topBannerkey";
-//        var bannerUrl='';
-//        var bannerContent='';
-//
-//        function addTopBanner(isPc){
-//            jQuery.ajax({
-//                url: "/frontPages/getTopBanner.ep",
-//                type: "POST",
-//                data: '',
-//                dataType: 'json',
-//                success: function (returnObject){
-//                    if(!returnObject||returnObject==''){
-//                        return;
-//                    }
-//                    var topBanner = returnObject;
-//                    bannerValue = topBanner.enable;
-//                    bannerkey = topBanner.key;
-//                    bannerContent=decodeURI(topBanner.content);
-//                    bannerUrl=decodeURI(topBanner.href);
-//                    if(bannerValue=='no'){
-//                        return;
-//                    }
-//                    var divObj=document.createElement("div");
-//                    var html = buildTopBanner(isPc);
-//                    divObj.innerHTML = html;
-//                    var first=document.body.firstChild;//得到页面的第一个元素
-//                    document.body.insertBefore(divObj,first);
-//                    ifShowZno();
-//                }
-//            });
-//        }
-//
-//        function buildTopBanner(isPc){
-//            var html="";
-//            if(isPc){
-//                var html = "<div id = 'znoId' style='display:none;width: 1000px;height: 36px;background-color: #f3e7d7;'>";
-//                 html += "<span class='zno-click'>"+bannerContent+" <a href='"+bannerUrl+"' >Learn More ></a></span>";
-//                 html +="<span class='zno-close' onclick='closeZno();'>Close</span></div>";
-//            }else{
-//                var html = " <div id = 'znoId' style='display:none;width: 100vm;height: 13vm;height:13vmin;background-color: #f3e7d7;text-align: left;'>";
-//                 html +="<span class='zno-click' style='width: 80%;margin-top:2.67vm;margin-top:2.67vmin;'>"+bannerContent+" <a href='"+bannerUrl+"' >Learn More ></a></span>";
-//                 html +="<span class='zno-close' onclick='closeZno();'><img src='/template-resources/images/mobile-close.svg'/> </span> </div>";
-//            }
-//
-//            return html;
-//        }
-//
-//        function isPageNeedTopBanner(){
-//            switch (getRoute(window.location.href)) {
-//                case '/product-index.html':
-//                    return true;
-//                    break;
-//                case '/photo-book/layflat.html':
-//                    return true;
-//                    break;
-//                case '/flush-mount-album.html':
-//                    return true;
-//                    break;
-//                case '/photo-book/little-black-book.html':
-//                    return true;
-//                    break;
-//                case '/presentation-box.html':
-//                    return true;
-//                    break;
-//                case '/dvd-case.html':
-//                    return true;
-//                    break;
-//                case '/samples.html':
-//                    return true;
-//                    break;
-//                case '/frames/modern-frame.html':
-//                    return true;
-//                    break;
-//                case '/frames/table-top-frame.html':
-//                    return true;
-//                    break;
-//                case '/frames/classic-frame.html':
-//                    return true;
-//                    break;
-//                case '/frames/rustic-frame.html':
-//                    return true;
-//                    break;
-//                case '/frames/slide-in-frame.html':
-//                    return true;
-//                    break;
-//                case '/frames/collage.html':
-//                    return true;
-//                    break;
-//                case '/frames/metal-frame.html':
-//                    return true;
-//                    break;
-//                case '/canvas/canvas-print.html':
-//                    return true;
-//                    break;
-//                case '/canvas/framed-canvas.html':
-//                    return true;
-//                    break;
-//                case '/canvas/flush-mount-canvas.html':
-//                    return true;
-//                    break;
-//                case '/prints/print.html':
-//                    return true;
-//                    break;
-//                case '/cards/card.html':
-//                    return true;
-//                    break;
-//                case '/calendars/calendar.html':
-//                    return true;
-//                    break;
-//                case '/':
-//                    return true;
-//                    break;
-//                case '/index.html':    // home
-//                    return true;
-//                    break;
-//                case '/timeline-book.html':
-//                        return true;
-//                        break;
-//                case '/my-projects.html':
-//                case '/sales.htm':
-//                case '/sale.htm':
-//                case '':
-//                default:
-//                    return false;
-//            }
-//            ;
-//        }
-//
-//        function closeZno(){
-//            jQuery('#znoId').hide();
-//            localStorage.setItem(bannerkey, "no");
-//        }
-//        function ifShowZno(){
-//            var znoTemp = localStorage.getItem(bannerkey);
-//            if(znoTemp == "no"){
-//                jQuery('#znoId').hide();
-//            }else{
-//                if(bannerValue=="no"){
-//                    return;
-//                }
-//                jQuery('#znoId').show();
-//            }
-//        }
             //                if(isPageNeedTopBanner()){
 //                    addTopBanner(true);
 //                }
@@ -571,58 +436,27 @@
                     url: "/frontPages/account/getuserinfo.ep",
                     type: "GET",
                     data: '',
+                    cache:false,
                     dataType: 'json',
                     success: function (returnObject) {
                         // when user login
                         if (returnObject.isSignedIn == "yes") {
-                            //console.log(returnObject.isSale);
-                            //var ss = returnObject.split(",");
-
                             var divHtml = '';
                             if (returnObject.isSale == "yes") {
-                                /*divHtml += '<a id="special" href="/sale.htm" style="text-decoration: none;">' +
-                                        '<img src="/template-resources/images/sales/sale20161104/tree_pc.png" style="position: absolute;margin-top:10px;margin-left: 10px;"/>' +
-                                        '<span class="as-header-sale">Sale</span>' +
-
-                                        '</a>'*/
-
-                                divHtml += '<a id="special" href="/sale.htm" style="text-decoration: none;">' ;
-                                if(returnObject.salePic!=''){
-                                   divHtml+= '<img  src="/template-resources/images/header/'+returnObject.salePic+'" height="30"style="position:relative;top:10px;"/>' ;
-
-                                }
-                                divHtml+= '<span class="as-header-sale" style="margin-left:6px;">Sale</span>' +
-
-                                '</a>'
-
+                                jQuery("#saleNew").show();
                             }
-
-                            /* '<a id="special" href="/sales.htm" style="text-decoration: none;">' +
-                                    '<span class="as-header-item">Sales</span>' +
-                                  '</a>' +*/
-//                            divHtml += '<a id="proplan" href="/pro-plan.html" style="text-decoration: none;">' +
-//                                    '<span class="as-header-item">Pro Plan</span>' +
-//                                    '</a>';
-                            // $5 trial control
-//                            if(Number(ss[3]) > 0) {
-                            //  divHtml +=  '<a id="low" href="/low-cost.html" style="text-decoration: none;">' +
-                            //                  '<span class="as-header-item">$5 TRIAL</span>' +
-                            //              '</a>';
                             document.getElementById('label-trial').style.display = 'inline-block';
-                            divHtml += '<a id="userVideo" href="/user-video-reviews.html" style="text-decoration: none;">' +
+                           /* divHtml += '<a id="userVideo" href="/user-video-reviews.html" style="text-decoration: none;">' +
                                     '<span class="as-header-item">Video Reviews</span>' +
-                                    '</a>';
-                            //   };
+                                    '</a>';*/
                             divHtml += '<a id="support" href="/support.html" style="text-decoration: none;">' +
                                     '<span class="as-header-item">Support</span>' +
                                     '</a>';
                             // cart
                             var cartCont = '';
-                            //if(Number(ss[2]) > 0) {
                             if (returnObject.totalNmuber > 0) {
                                 cartCont = '(' + returnObject.totalNmuber + ')';
                             }
-                            ;
                             divHtml += '<a id="my-cart" href="/shopping-cart.html" style="text-decoration: none;">' +
                                     '<span class="as-header-item">Cart' + cartCont + '</span>' +
                                     '</a>';
@@ -633,8 +467,6 @@
                                     '<img id="dropdown-img" src="/template-resources/images/header/dropdown_arrow.png" width="6" height="6" alt="down" style="margin-left: 4px; margin-bottom: 1px;" />' +
                                     '</span>' +
                                     '</span>';
-
-
                             document.getElementById("userdiv").innerHTML = divHtml;
 
                             // flying layer
@@ -664,14 +496,6 @@
                                     'My Photos' +
                                     '</div>' +
                                     '</a>';
-
-                            /*if (returnObject.isMarketplace) {
-                                divHtml += '<a id="my-marketplace" href="/my-marketplace.html" style="text-decoration: none;">' +
-                                        '<div class="as-dropdown-item">' +
-                                        'My Marketplace' +
-                                        '</div>' +
-                                        '</a>';
-                            }*/
                             if (returnObject.isMembership) {
                                 divHtml += '<a id="my-membership" href="/my-membership.html" style="text-decoration: none;">' +
                                         '<div class="as-dropdown-item">' +
@@ -684,6 +508,11 @@
                                     'My Pro Plan' +
                                     '</div>' +
                                     '</a>';
+                            divHtml += '<a  href="/prod-assets/app/timelinebook/index.html" style="text-decoration: none;">' +
+                                    '<div class="as-dropdown-item">' +
+                                    'My Little Timeline Book' +
+                                    '</div>' +
+                                    '</a>';
                             divHtml += '<a id="sign-out" href="/sign-out.html" style="text-decoration: none;">' +
                                     '<div class="as-dropdown-item">' +
                                     'Sign Out' +
@@ -692,41 +521,17 @@
                                     '<div style="height: 15px;"></div>' +
                                     '</div>';
                             document.getElementById("dropdown").innerHTML = divHtml;
-
                         } else {
-
                             //未登录
                             var divHtml = '';
-                           if (returnObject.isSale == "yes") {
-                                /*divHtml += '<a id="special" href="/sale.htm" style="text-decoration: none;">' +
-                                        '<img src="/template-resources/images/sales/sale20161104/tree_pc.png" style="position: absolute;margin-top:10px;margin-left: 10px;"/>' +
-                                        '<span class="as-header-sale">Sale</span>' +
-
-                                        '</a>'*/
-
-                               divHtml += '<a id="special" href="/sale.htm" style="text-decoration: none;">' ;
-                               if(returnObject.salePic!=''){
-                                   divHtml+= '<img  src="/template-resources/images/header/'+returnObject.salePic+'" height="30"style="position:relative;top:10px;"/>' ;
-
-                               }
-                               divHtml+= '<span class="as-header-sale" style="margin-left:6px;">Sale</span>' +
-
-                                       '</a>'
+                            if (returnObject.isSale == "yes") {
+                                jQuery("#saleNew").show();
                             }
-                            /*'<a id="special" href="/sales.htm" style="text-decoration: none;">' +
-                                    '<span class="as-header-item">Sales</span>' +
-                                  '</a>' +*/
-//                            divHtml += '<a id="proplan" href="/pro-plan.html" style="text-decoration: none;">' +
-//                                    '<span class="as-header-item">Pro Plan</span>' +
-//                                    '</a>';
-                            // $5 trial
-                            // divHtml +=  '<a id="low" href="/low-cost.html" style="text-decoration: none;">' +
-                            //                 '<span class="as-header-item">$5 TRIAL</span>' +
-                            //             '</a>';
+
                             document.getElementById('label-trial').style.display = 'inline-block';
-                            divHtml += '<a id="userVideo" href="/user-video-reviews.html" style="text-decoration: none;">' +
+                            /*divHtml += '<a id="userVideo" href="/user-video-reviews.html" style="text-decoration: none;">' +
                                     '<span class="as-header-item">Video Reviews</span>' +
-                                    '</a>';
+                                    '</a>';*/
                             divHtml += '<a id="support" href="/support.html" style="text-decoration: none;">' +
                                     '<span class="as-header-item">Support</span>' +
                                     '</a>';
@@ -742,7 +547,6 @@
                             document.getElementById("userdiv").innerHTML = divHtml;
                             tryLogoutFacebook();
                         }
-                        setStyle();
                     },
                     error: function () {
                         count = Number(count) + 1;
@@ -754,6 +558,7 @@
                 });
             }
             function setStyle() {
+                document.getElementById("subheader-create").className = "as-subheader";
                 switch (getRoute(window.location.href)) {
                     case '/product-index.html':
                     case '/photo-book/layflat-photo-book.html':
@@ -778,7 +583,7 @@
                         // mark products subheader
                         document.getElementById("subheader-products").className = "as-subheader-selected";
                         break;
-                    case '/ten-dollars-premium.html':
+                    case '/user-video-reviews.html':
                         // mark trial subheader
                         document.getElementById("subheader-trial").className = "as-subheader-selected";
                         break;
@@ -808,7 +613,7 @@
                     case '/forgotten-password.html':
                     case '/order-confirm.html':
                     case '/membership.html':
-                    case '/sales.htm':
+                    case '/sales.html':
                     case '/sale.htm':
                     case '/card-list.html':
                     case '':
@@ -820,13 +625,10 @@
                         else if (isPageOf('/create.html') || isPageOf('/create-trial.html') || isPageOf('/create-photo-frame.html') || isPageOf('/create-canvas.html') || isPageOf('/create-calendar.html') || isPageOf('/create-prints.html') || isPageOf('/order-dvd-case.html') || isPageOf('/order-box.html')) {
                             document.getElementById("subheader-create").className = "as-subheader-selected";
                         }
-                        ;
                 }
-                ;
-
             }
-                    getUserInfo(0);
-        
+                    setStyle();
+        getUserInfo(0);
     </script>
     <script type="text/javascript" src="/template-resources/js/facebook/facebookUtils.js?v=2016083001.js"></script>
 <!--  -->
@@ -977,7 +779,7 @@
     }
     // run script
     jQuery.ajax({
-        url: '/template-resources/stylesheet/static/bread_routes.json?v=20170505',
+        url: '/template-resources/stylesheet/static/bread_routes.json?v=20170824',
         type: 'get',
         dataType: 'json',
         // data
@@ -1364,4 +1166,4 @@ var _protocol = (("https:" == document.location.protocol) ? " https://" : " http
 })();
 </script>
 
-</div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/fTmIQU3LxvB.js?version=42#channel=f1f9f8ec0726364&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
+</div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/fTmIQU3LxvB.js?version=42#channel=f1a598e517fed5c&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
