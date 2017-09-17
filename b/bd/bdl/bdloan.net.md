@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdloan.net privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608142249id_/http%3A//bdloan24.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdloan.net privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917141028id_/http%3A//bdloan24.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Bdloan24.net
 
