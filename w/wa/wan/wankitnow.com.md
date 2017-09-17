@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wankitnow.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607182326id_/http%3A//www.wankitnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wankitnow.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917182457id_/http%3A//www.wankitnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wank it Now
 
