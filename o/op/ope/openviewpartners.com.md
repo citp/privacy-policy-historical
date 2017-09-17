@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openviewpartners.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020531id_/http%3A//openviewpartners.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openviewpartners.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917104938id_/http%3A//openviewpartners.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenView
 
 ## 1\. Scope
 
-OpenView Venture Partners takes your privacy seriously. This privacy policy explains how OpenView Investments, LLC, DBA OpenView Venture Partners and its affiliate websites collect, use and protect Information submitted and collected as part of its online through its website (together, the **Website** ).
+OpenView Venture Partners takes your privacy seriously. This privacy policy explains how OpenView Advisors, LLC, OpenView Venture Partners and its affiliate websites collect, use and protect Information submitted and collected as part of its online through its website (together, the **Website** ).
 
   *  **Information** _means_ information that determines the identity of an individual or business.
 
