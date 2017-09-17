@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jplay.eu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021525id_/http%3A//jplay.eu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jplay.eu privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917193250id_/http%3A//jplay.eu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JPLAY
 
