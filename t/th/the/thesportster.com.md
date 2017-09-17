@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportster.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624211623id_/http%3A//www.thesportster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportster.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917213254id_/http%3A//www.thesportster.com/privacy-policy) for the most accurate reproduction.*
 
 # TheSportster Search Results
 
@@ -32,4 +32,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us. 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact/). 
