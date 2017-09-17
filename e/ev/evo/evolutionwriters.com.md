@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the evolutionwriters.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606191729id_/http%3A//evolutionwriters.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionwriters.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917202725id_/https%3A//evolutionwriters.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Writing Service's Privacy Policy - EvolutionWriters.com
-
-[Main](https://web.archive.org/) > Privacy Policy
 
 This Privacy Policy is a legal tool intended to regulate our and your behaviour as far as the usage of this website and associated services are concerned.
 
@@ -104,7 +102,7 @@ We apply cookies for the purpose of making your experience smoother. You can lea
 
 We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this issue very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
 
-We are happy to provide any additional information or explanation needed. Any requests for this should be sent to [support@evolutionwriters.com](mailto:support@evolutionwriters.com) .
+We are happy to provide any additional information or explanation needed. Any requests for this should be sent to  .
 
 We try to be as open as we can in terms of giving people access to their personal information. Individuals can find out if we hold any personal information by making a "subject access request" under the Data Protection Act 1998. If we do hold information about you, we will:
 
@@ -115,7 +113,7 @@ We try to be as open as we can in terms of giving people access to their persona
 
 
 
-To make a request to us for any personal information, we may need you to put it in writing, addressing the request to our Customer Support Representatives to [support@evolutionwriters.com](mailto:support@evolutionwriters.com) .
+To make a request to us for any personal information, we may need you to put it in writing, addressing the request to our Customer Support Representatives to  .
 
 If you would like to opt out of emails and SMS notifications from us, please let us know by contacting us (our contact information is displayed in the website sidebar). After we receive your request, we will stop sending you messages immediately.
 
@@ -148,5 +146,3 @@ This document may be altered, modified or amended at our sole and absolute discr
 This Privacy Policy agreement is concluded in the electronic form, which has the same legal force as if it were signed in ink.
 
 This Privacy Policy was last updated on July 23, 2015.
-
-We have taken appropriate security measures to protect you against loss, misuse or alteration of the information collected from you. Please read our [Privacy Policy](https://web.archive.org/privacy_policy.html) to learn more.
