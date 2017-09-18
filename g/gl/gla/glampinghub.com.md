@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331131529id_/https%3A//glampinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918174721id_/https%3A//glampinghub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | glampinghub.com
 
