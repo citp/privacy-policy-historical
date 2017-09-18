@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moleskine.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602141433id_/http%3A//www.moleskine.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleskine.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918081155id_/http%3A//www.moleskine.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Moleskine® privacy policy - Moleskine ®
 
