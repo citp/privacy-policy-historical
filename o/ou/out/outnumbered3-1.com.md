@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outnumbered3-1.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516091802id_/http%3A//outnumbered3-1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outnumbered3-1.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918130823id_/http%3A//outnumbered3-1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outnumbered 3 to 1
 
