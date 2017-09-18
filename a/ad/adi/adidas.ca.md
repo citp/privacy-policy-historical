@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.ca privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626192734id_/http%3A//www.adidas.ca/en/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.ca privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918070807id_/http%3A//www.adidas.ca/en/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
