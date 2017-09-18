@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630192751id_/http%3A//healthequity.com/legal%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918202030id_/http%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
 
 # Legal notices | HealthEquity
 
@@ -149,10 +149,6 @@ HealthEquity works with a number of other companies to ensure that we are provid
 ### Links from employers or health plans
 
 If your account was established by your employer or your health plan, they may have requested that we set up a communication channel whereby you can log into HealthEquity’s portal (known as Single Sign on) or access your account information through their site without entering your user name and password again. Your employer or health plan also may have contracted with another vendor that provides additional services, such as personal health care costs management, that allows you to log into HealthEquity’s portal or access your HealthEquity’s account information through that vendor’s website, also without entering your HealthEquity user name and password. When you use those websites to sign into HealthEquity’s portal or access your account information, you are authorizing HealthEquity’s system to pass on certain personal information, such as your account balances, to those systems.
-
-### Opt out instructions
-
-If you wish to be excluded from HealthEquity’s marketing efforts, or terminate the sharing of information where permitted by your health plan or employer service agreement with HealthEquity , simply call HealthEquity toll-free at 866.346.5800.
 
 ### California and Vermont privacy notice
 
