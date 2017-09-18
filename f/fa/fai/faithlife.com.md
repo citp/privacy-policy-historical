@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301185935id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918184402id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Faithlife
 
@@ -71,6 +71,8 @@ At times Faithlife may make certain personal information available to strategic 
 All of our email subscriptions include clear instructions for unsubscribing. You may choose to unsubscribe from emails sent for marketing purposes or to tell you about new products.
 
 Even if you unsubscribe, we may send you occasional one-time emails about your account. Emails are sent after you make a purchase (as receipts, and with instructions on downloading, etc.), to provide important technical/support information about our products, etc. 
+
+Faithlife may use or disclose your personal information, when required by law, to comply with regulatory and anti-money laundering guidelines and in response to other lawful requests for information. Faithlife will not use your personal information for the purposes of targeted email marketing, phone solicitation, or invitations to participate in marketing research if you request your account be opted-out of such activity at [help@faithlife.com](mailto:help@faithlife.com) or by mail at our physical address.
 
 ### Agency
 
