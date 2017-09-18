@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teachprimary.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519041619id_/http%3A//www.aceville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachprimary.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918231638id_/http%3A//www.aceville.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aceville Publications
 
-This privacy policy sets out how Aceville Publications Ltd and sister companies uses and protects any information that you give Aceville Publications Ltd when you use this [website] change as applicable.
+This privacy policy sets out how Aceville Publications Ltd and sister companies uses and protects any information that you give Aceville Publications Ltd when you use aceville.com.
 
 Aceville Publications Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website; you can be assured that it will only be used in accordance with this privacy statement.
 
