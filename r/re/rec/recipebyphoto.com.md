@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipebyphoto.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627133302id_/http%3A//www.recipebyphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipebyphoto.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918230645id_/http%3A//www.recipebyphoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Recipe By Photo
 
