@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223095802id_/http%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918062159id_/https%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aha!
 
-EFFECTIVE: May 1, 2013
+EFFECTIVE: May 1, 2013  
+UPDATED: August 1, 2016 - Added Privacy Shield notice
 
 We'll try to make this as painless as possible, but the reality is that all Privacy Policies contain legalese.
 
@@ -80,13 +81,15 @@ From time to time, we post customer testimonials on the Aha! Labs Inc. Websites 
 
 Aha! Labs Inc. is committed to ensuring the security of your personal information. We utilize precautions to protect the confidentiality and security of the personal information within the Service, by employing technological, physical and administrative security safeguards, such as firewalls and other security procedures. For example, when you enter sensitive information (such as login credentials and all your activity on our Service platform) we encrypt the transmission of that information using secure socket layer technology (SSL). These technologies, procedures and other measures are used in an effort to ensure that your data is safe, secure, and only available to you and to those you authorized to access your data. However, no internet, e-mail or other electronic transmission is ever fully secure or error free, so you should take care in deciding what information you send to us in this way.
 
-## Safe Harbor Data Privacy Notice 
+## Privacy Shield Notice for Users in the European Union
 
-Aha! Labs Inc. complies with the US & EU and US & Swiss Safe Harbor Frameworks for protecting the privacy of data flowing from the EU and Switzerland to the United States, as set forth by the US Department of Commerce.
+Aha! Labs Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Aha! Labs Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Aha! Labs Inc. is potentially liable. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
-We frequently enter agreements with our EU customers to provide them access to our Service, which includes the processing of information relating their customers. In providing our Service, we do not own, control or direct the use of the information stored or processed on our platform at the direction of our customers, and in fact we are largely unaware of what information is being stored on our platform and only access such information as authorized by our customers or as required by law. Only you or your customers are entitled to access, retrieve and direct the use of such information. As such, we are only the "data processors" and not the "data controllers" of the information on our platform for purposes of the EU Directive on Data Protection (Directive 95/46/EC) and the Swiss Federal Act on Data Protection. Our EU or Swiss customers, who control their customer data and send it to Aha! Labs Inc. for processing, are the "controllers: of that data and are responsible for compliance with the Directive. In particular, Aha! Labs Inc.'s customers are responsible for complying with the Directive and relevant data protection legislation in the relevant EU member state before sending personal information to Aha! Labs Inc. for processing. We work with our customers to help them provide notice to their customers concerning the purpose for which personal information is collected.
+In compliance with the EU-US Privacy Shield Principles, Aha! Labs Inc. commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Privacy Shield policy should first contact Aha! Labs Inc. at [support@aha.io](mailto:support@aha.io).
 
-As the processors of personal information on behalf of our customers, we follow their instructions with respect to the information they control. In doing so, we implement appropriate technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information.
+Aha! Labs Inc. has further committed to refer unresolved Privacy Shield complaints to the EU Data Protection Authorities. Contact details for the EU data protection authorities can be found at [ http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). Aha! Labs Inc will cooperate with the appropriate EU Data Protection Authorities during investigation and resolution of complaints brought under Privacy Shield. These recourse mechanisms are available at no cost to you. 
+
+The Federal Trade Commission has jurisdiction over Aha! Labs Inc.'s compliance with this Policy and the EU-US Privacy Shield Framework. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission. 
 
 ## Choice
 
