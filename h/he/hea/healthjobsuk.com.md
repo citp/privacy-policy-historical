@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023009id_/http%3A//healthjobsuk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918231556id_/http%3A//healthjobsuk.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
