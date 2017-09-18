@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frontierstore.net privacy policy that was archived on 2017-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170507041138id_/https%3A//www.frontierstore.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frontierstore.net privacy policy that was archived on 2017-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170918193751id_/https%3A//www.frontierstore.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,7 +17,7 @@
 //]]>
 </script>
 <![endif]-->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WQ94WL"></script><script type="text/javascript" src="https://t.trackedlink.net/_dmpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script>jQuery.noConflict();</script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WQ94WL"></script><script async="" src="//FRONT11152.pcapredict.com/js/sensor.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script>jQuery.noConflict();</script>
 <link rel="stylesheet" type="text/css" href="https://www.frontierstore.net/skin/frontend/frontier/base/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.frontierstore.net/skin/frontend/frontier/default/css/widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.frontierstore.net/skin/frontend/frontier/default/css/print.css" media="print">
@@ -37,8 +37,6 @@
 <script type="text/javascript" src="https://www.frontierstore.net/skin/frontend/frontier/base/js/scripts.js"></script>
 <script type="text/javascript" src="https://www.frontierstore.net/skin/frontend/frontier/base/js/jq_scripts.js"></script>
 <script type="text/javascript" src="https://www.frontierstore.net/skin/frontend/frontier/base/js/checker.js"></script>
-<script type="text/javascript" src="https://www.frontierstore.net/skin/frontend/frontier/base/js/enterprise/catalogevent.js"></script>
-<script type="text/javascript" src="https://www.frontierstore.net/skin/frontend/frontier/base/js/enterprise/wishlist.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="https://www.frontierstore.net/skin/frontend/frontier/default/css/styles-ie.css" media="all" />
 <![endif]-->
@@ -59,94 +57,21 @@ Mage.Cookies.domain   = '.www.frontierstore.net';
 optionalZipCountries = ["HR","HK","IE","MO","PA"];
 //]]>
 </script>
-    <script type="text/javascript">
-        (function(){
-            var connector = document.createElement('script');
-            connector.type = 'text/javascript';
-            connector.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't.trackedlink.net/_dmpt.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(connector, s);
-        })();
-    </script>
-
 
 <script type="text/javascript">
-    //Email Capture For Quote
 
-    var emailCapture = Class.create();
-    emailCapture.prototype = {
-        initialize: function(options) {
-            this.options = Object.extend({
-                elements: "input[name='billing[email]']"
-            }, options || {} );
+   
 
-            // Observe blur on email field
-            $$(this.options.elements).each(function(email) {
-                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
-            }.bind(this));
-        },
+    (function (a, c, b, e) {
+        a[b] = a[b] || {}; a[b].initial = { accountCode: "FRONT11152", host: "FRONT11152.pcapredict.com" };
+        a[b].on = a[b].on || function () { (a[b].onq = a[b].onq || []).push(arguments) }; var d = c.createElement("script");
+        d.async = !0; d.src = e; c = c.getElementsByTagName("script")[0]; c.parentNode.insertBefore(d, c)
+    })(window, document, "pca", "//FRONT11152.pcapredict.com/js/sensor.js");
 
-        //capture email
-        captureEmail: function(event) {
-            var el = $(Event.element(event));
-            //validate email
-            if(el.value && this.validateEmail(el.value)){
-                //ajax call
-                new Ajax.Request('https://www.frontierstore.net/' + 'connector/ajax/emailcapture', {
-                    method: 'post',
-                    parameters:{
-                        email:el.value
-                    }
-                });
-            }
-        },
-
-        //email validation
-        validateEmail: function (email) {
-            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-            return re.test(email);
-        }
-    };
-
-    //Email Capture For Newsletter
-
-    var newsletterEmailCapture = Class.create();
-    newsletterEmailCapture.prototype = {
-        initialize: function(options) {
-            this.options = Object.extend({
-                elements: "input[name='email']"
-            }, options || {} );
-
-            // Observe blur on email field
-            $$(this.options.elements).each(function(email) {
-                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
-            }.bind(this));
-        },
-
-        //capture email
-        captureEmail: function(event) {
-            var el = $(Event.element(event));
-            //validate email
-            if(el.value && this.validateEmail(el.value)){
-                //ajax call
-                new Ajax.Request('https://www.frontierstore.net/' + 'connector/ajax/emailcapture', {
-                    method: 'post',
-                    parameters:{
-                        email:el.value
-                    }
-                });
-            }
-        },
-
-        //email validation
-        validateEmail: function (email) {
-            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-            return re.test(email);
-        }
-    };
-</script><!-- Easy Email Capture For Checkout -->
-
-<!-- Easy Email Capture For Newsletter Field -->
+   
+        
+    
+</script>
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate({"Add to Cart":"Buy Now"});
         //]]></script><script>
@@ -205,9 +130,17 @@ library_tolerance=2500,
 use_existing_jquery=false,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=135251&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170507041138id_%2Fhttps%3A%2F%2Fwww.frontierstore.net%2Fprivacy-policy%2F&amp;r=0.8015158747498783" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=135251&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170918193751id_%2Fhttps%3A%2F%2Fwww.frontierstore.net%2Fprivacy-policy%2F&amp;r=0.6800193084309201" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
-<meta name="viewport" content="width=device-width, initial-scale=1"></head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQ94WL');</script>
+<!-- End Google Tag Manager --></head>
 <body class=" cms-page-view cms-privacy-policy">
 <script>
     window.dataLayer = window.dataLayer || [];
@@ -227,15 +160,6 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         return "";
     }
 </script>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQ94WL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WQ94WL');</script>
-<!-- End Google Tag Manager -->
 
 <div class="content">
         <noscript>
@@ -293,13 +217,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <span>English</span>
             </li> -->
                                                                             <li class="language-gbp_fr">
-                        <a href="https://www.frontierstore.net/privacy-policy/?___store=gbp_fr&amp;___from_store=gbp_en">Français</a>
+                        <a href="https://www.frontierstore.net/?___store=gbp_fr&amp;___from_store=gbp_en">Français</a>
                     </li>
                                                                 <li class="language-gbp_de">
-                        <a href="https://www.frontierstore.net/privacy-policy/?___store=gbp_de&amp;___from_store=gbp_en">Deutsch</a>
+                        <a href="https://www.frontierstore.net/?___store=gbp_de&amp;___from_store=gbp_en">Deutsch</a>
                     </li>
                                                                 <li class="language-gbp_ru">
-                        <a href="https://www.frontierstore.net/privacy-policy/?___store=gbp_ru&amp;___from_store=gbp_en">Русский</a>
+                        <a href="https://www.frontierstore.net/?___store=gbp_ru&amp;___from_store=gbp_en">Русский</a>
                     </li>
                                     </ul>
     </div>
@@ -318,7 +242,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
 </div>
 </form>
-        <!--{CART_SIDEBAR_3952dea207a061d7d9d87ae7afaa5ace}-->
+        
 <div class="top-cart">
         <div class="block-title no-items">
         <strong id="cartHeader"><i class="fa fa-shopping-cart"></i>My Cart (<span>0</span>)</strong>
@@ -337,18 +261,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     // Enterprise.TopCart.showCart(7);
 </script>
 </div>
-<!--/{CART_SIDEBAR_3952dea207a061d7d9d87ae7afaa5ace}-->                <!--{ACCLINKS_f3143951a25c74adfe7d6422aef7d42e}-->
+                
         <a class="user-links" href="https://www.frontierstore.net/customer/account/login/referer/aHR0cHM6Ly93d3cuZnJvbnRpZXJzdG9yZS5uZXQvcHJpdmFjeS1wb2xpY3k,/">Login</a>
     <a class="user-links register-link" href="https://www.frontierstore.net/customer/account/create/">Register</a>
-    <!--/{ACCLINKS_f3143951a25c74adfe7d6422aef7d42e}-->
+    
     </div>
-    <!--{TOPMENU_ab868352daa3cc2c45c930fe21578815}--><div class="nav-container">
+    <div class="nav-container">
     <ul id="nav" class="clearfix-after">
         <li class="mobilemenu">
             <a href="https://www.frontierstore.net/" title="Frontier Developments" class="logo"><img src="https://www.frontierstore.net/skin/frontend/frontier/base/images/logo_large.png" alt="Frontier Developments"></a>
             <a id="hamburger" href="#"><span><i class="fa fa-bars"></i></span></a>
         </li>
-        <li class="level0 nav-1 first level-top parent"><a href="https://www.frontierstore.net/games.html" class="level-top"><span>Games</span></a><ul class="level0"><li class="level1 nav-1-1 first"><a href="https://www.frontierstore.net/games/elite-dangerous-cat.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-1-2 last"><a href="https://www.frontierstore.net/games/planet-coaster-cat.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-2 level-top parent"><a href="https://www.frontierstore.net/game-extras.html" class="level-top"><span>Game Extras</span></a><ul class="level0"><li class="level1 nav-2-1 first last"><a href="https://www.frontierstore.net/game-extras/elite-dangerous-game-extras.html"><span>Elite Dangerous</span></a></li></ul></li><li class="level0 nav-3 level-top parent"><a href="https://www.frontierstore.net/merchandise.html" class="level-top"><span>Merchandise</span></a><ul class="level0"><li class="level1 nav-3-1 first"><a href="https://www.frontierstore.net/merchandise/elite-dangerous-merchandise.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-3-2 last"><a href="https://www.frontierstore.net/merchandise/planet-coaster-merchandise.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="https://www.frontierstore.net/designer.html" class="level-top"><span>Merchandise Designer</span></a><ul class="level0"><li class="level1 nav-4-1 first"><a href="https://www.frontierstore.net/designer/elite-dangerous.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-4-2 last"><a href="https://www.frontierstore.net/designer/planet-coaster.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-5 last level-top"><a href="https://www.frontierstore.net/books.html" class="level-top"><span>Books</span></a></li>    </ul>
+        <li class="level0 nav-1 first level-top parent"><a href="https://www.frontierstore.net/games.html" class="level-top"><span>Games</span></a><ul class="level0"><li class="level1 nav-1-1 first"><a href="https://www.frontierstore.net/games/elite-dangerous-cat.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-1-2 last"><a href="https://www.frontierstore.net/games/planet-coaster-cat.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-2 level-top parent"><a href="https://www.frontierstore.net/game-extras.html" class="level-top"><span>Game Extras</span></a><ul class="level0"><li class="level1 nav-2-1 first"><a href="https://www.frontierstore.net/game-extras/elite-dangerous-game-extras.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-2-2 last"><a href="https://www.frontierstore.net/game-extras/planet-coaster-game-extras.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-3 level-top parent"><a href="https://www.frontierstore.net/merchandise.html" class="level-top"><span>Merchandise</span></a><ul class="level0"><li class="level1 nav-3-1 first"><a href="https://www.frontierstore.net/merchandise/elite-dangerous-merchandise.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-3-2 last"><a href="https://www.frontierstore.net/merchandise/planet-coaster-merchandise.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="https://www.frontierstore.net/designer.html" class="level-top"><span>Merchandise Designer</span></a><ul class="level0"><li class="level1 nav-4-1 first"><a href="https://www.frontierstore.net/designer/elite-dangerous.html"><span>Elite Dangerous</span></a></li><li class="level1 nav-4-2 last"><a href="https://www.frontierstore.net/designer/planet-coaster.html"><span>Planet Coaster</span></a></li></ul></li><li class="level0 nav-5 last level-top"><a href="https://www.frontierstore.net/books.html" class="level-top"><span>Books</span></a></li>    </ul>
     <div class="clear-floats"></div>
 </div>
 <script>
@@ -365,7 +289,7 @@ jQuery("#hamburger").click(function(){
 })
 
 </script>
-<!--/{TOPMENU_ab868352daa3cc2c45c930fe21578815}--></div>
+</div>
 
         <div class="breadcrumbs clearfix grid-row pad">
     <div class="grid-12">
@@ -374,7 +298,7 @@ jQuery("#hamburger").click(function(){
                             <a href="https://www.frontierstore.net/" title="Go to Home Page">Home</a>
                                         <span>/ </span>
                         </li>
-                    <li class="current_page">
+                    <li class="cms_page">
                                             <span>Privacy Policy</span>
                                     </li>
             </ul>
@@ -382,7 +306,7 @@ jQuery("#hamburger").click(function(){
 </div>
                 <div class="main col1-layout grid-row ">
             <div class="grid-12 col-main pad">
-                <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                                    <!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}-->                                    <div class="page-title">
+                                                                                        <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
 <div class="std"><div class="page">
@@ -513,8 +437,6 @@ jQuery("#hamburger").click(function(){
 <li><a title="Trademarks &amp; Copyright Notices" href="https://www.frontierstore.net/trademarks-and-notices/">Trademarks &amp; Copyright</a></li>
 <li><a title="Terms and Conditions" href="https://www.frontierstore.net/terms-and-conditions/">Terms and Conditions</a></li>
 <li><a title="Become an Affiliate" href="https://www.frontierstore.net/become-an-affiliate/">Become an Affiliate</a></li>
-<li><a title="Become an Elite Dangerous Licensee" href="https://www.frontierstore.net/become-a-licensee-of-elite-dangerous/">Elite Dangerous Licensee</a></li>
-<li><a title="Become a Planet Coaster Licensee" href="https://www.frontierstore.net/become-a-licensee-of-planet-coaster/">Planet Coaster Licensee</a></li>
 <li><a title="Planco Speakers Registration" href="https://www.frontierstore.net/planco-speakers-registration/">Planco Speakers Registration</a></li>
 </ul>
 </div>
@@ -561,8 +483,7 @@ jQuery("#hamburger").click(function(){
 </div>
                 
 
-
-<!--{WISHLISTS_4b452f6331ea17ca1453e6735c160380}--><!--/{WISHLISTS_4b452f6331ea17ca1453e6735c160380}-->    </div>
+    </div>
 </div>
 
 
