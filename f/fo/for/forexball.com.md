@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexball.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629173112id_/http%3A//www.forexball.com/index/page/content/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexball.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918201542id_/http%3A//www.forexball.com/index/page/content/policy) for the most accurate reproduction.*
 
 # Privacy Policy - ForexBall
 
