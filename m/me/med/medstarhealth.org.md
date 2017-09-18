@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the medstarhealth.org privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010074830id_/http%3A//www.medstarhealth.org/mhs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medstarhealth.org privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918035750id_/http%3A//www.medstarhealth.org/mhs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MedStar Health
+
+_Effective date: October 1, 2009  
+Date Amended: September 23, 2013 _
+
+This notice describes how medical information about you may be used and disclosed and how you can get access to this information.
+
+Please review it carefully.
+
+**Who Will Follow This Notice  
+Our Obligation to You  
+How We May Use and Disclose Health Information  
+Your Privacy Rights Regarding Your Health Information  
+Contact Person  
+Changes to This Notice of Privacy Practices**
 
 Our Notice of Privacy Practices is available in the following languages:
 
@@ -15,13 +29,6 @@ Our Notice of Privacy Practices is available in the following languages:
 
 
 Download [Adobe Reader](http://get.adobe.com/reader/)
-
-_Effective date: October 1, 2009  
-Date Amended: September 23, 2013 _
-
-This notice describes how medical information about you may be used and disclosed and how you can get access to this information.
-
-Please review it carefully.
 
 #### Who Will Follow This Notice
 
@@ -164,14 +171,14 @@ top of page
 If you believe your privacy rights have been violated, you may call or file a complaint in writing with the MedStar Health Privacy Office or the Department of Health and Human Services (please reference the contact information below). We will take no retaliatory action against you if you file a complaint about our privacy practices.
 
 Privacy Officer MedStar Health, Inc.  
-5565 Sterrett Place Columbia, MD 21044  
+10980 Grantchester Way, Columbia, MD 21044  
 1- 877- 811- 3411 (toll free)  
 [PrivacyOfficer@MedStar.net](mailto:PrivacyOfficer@MedStar.net)
 
 U.S. Department of Health and Human Services Office for Civil Rights   
 200 Independence Avenue, S.W., Washington, D.C. 20201,   
 1-877-696-6775 (toll free)  
- **[www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/)**
+**[www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/)**
 
 If you have questions about this Notice, or would like to exercise your Privacy Rights, please contact the facility where you received treatment, or the MedStar Privacy Office.
 
@@ -182,5 +189,7 @@ top of page
 We reserve the right to change this Notice. We reserve the right to make the revised Notice effective for medical information we already have about you as well as any information we receive in the future. We will post a copy of the current Notice in each MedStar facility and on our website. In addition, each time you register at, or are admitted to, the hospital for treatment or healthcare services as an inpatient or outpatient, we will offer you a copy of our current Notice in effect.
 
 **El Aviso sobre Prácticas de Privacidad está disponible en español.**
+
+**Footnote** : _MedStar Health, Inc. located in Columbia, Maryland, is a non-profit community-based health care organization serving the greater Baltimore/Washington region. The health system is made up of a number of distinguished health care providers and other diversified health care entities. While these entities operate independently of one another and as separate employers, they also work toward common missions and values. The mission of MedStar Health is to serve our patients, those who care for them, and our communities and our vision is to be the trusted leader in caring for people and advancing health. In working to achieve this goal, it is the responsibility of each MedStar entity to enforce its privacy policies and to take appropriate disciplinary or other actions for employee violations. Please note that for purposes of this Notice of Privacy Practices, the MedStar Health parent company and all of its subsidiaries will be referred to collectively as "MedStar Health." For privacy purposes only, MedStar Health is organized as an Affiliated Covered Entity, as described in 45 CFR §164.504(d)(1); legally separate entities that are affiliated may designate themselves as a single covered entity._.
 
 top of page
