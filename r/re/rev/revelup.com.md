@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the revelup.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527193034id_/http%3A//revelsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelup.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918062329id_/http%3A//revelsystems.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Revel Systems iPad POS
+
+Move your business forward with a _**FREE**_ demo of Revel's Point of Sale platform.
+
+[Get Demo](https://web.archive.org/get-demo/?utm_location=en&utm_medium=slide-up-bar&utm_content=get-demo-page&utm_source=web&utm_region=NA)
 
 ## Privacy Policy
 
@@ -79,7 +83,7 @@ If Revel, or substantially all of its assets, were acquired, or in the unlikely 
 We may change this Privacy Policy from time to time, and in our sole discretion. If we make changes, we will notify you by posting the updated policy on this page and revising the “Last Updated” date above. We encourage visitors to frequently check this page for any changes to this Privacy Policy. Your continued use of any Services after any change in this Privacy Policy will constitute your acceptance of such change. This Privacy Policy covers our practices, and does not cover the practices of unaffiliated third parties.
 
 Any questions regarding this Privacy Policy should be directed to the following:  
-Revel Systems, Inc., 170 Columbus Ave., 4th Floor, San Francisco, CA 94133
+Revel Systems, Inc. 303 Second street, North Tower, Suite 550 San Francisco, CA 94107.
 
 ### Every tool you need to run the business you want.
 
