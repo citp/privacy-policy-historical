@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ynn.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518134901id_/http%3A//www.twcnews.com/stories/2015/01/21/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynn.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918211046id_/http%3A//www.twcnews.com/stories/2015/01/21/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
