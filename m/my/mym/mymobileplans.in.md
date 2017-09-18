@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymobileplans.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215115id_/http%3A//mymobileplans.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymobileplans.in privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918220140id_/http%3A//mymobileplans.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
