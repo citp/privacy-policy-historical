@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130123455id_/http%3A//www.virtualhosting.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918165120id_/http%3A//html.com/privacy) for the most accurate reproduction.*
 
-# The StudyWeb.com Privacy Policy at StudyWeb.com
+# The HTML.com Privacy Policy »
 
-Thank you for visiting StudyWeb.com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
+## Privacy Policy
+
+Thank you for visiting [HTML](http://html.com/).com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
 
 This policy may be changed at any time. Any changes will be posted. You are encouraged to review the privacy policy each and every time you visit the site.
 
@@ -20,7 +22,7 @@ We reserve the right to share any information collected with government agencies
 
 We also reserve the right to share any information collected with third parties for marketing purposes or any other business purpose.
 
-### Privacy Policies of Web Sites that Virtual Hosting.com Hyperlinks To
+### Privacy Policies of Web Sites that HTML.com Hyperlinks To
 
 We are not responsible for the policies of Web sites that we hyperlink to. If you visit other Web sites hyperlinked to from this site, please review the privacy policies posted at those sites.
 
