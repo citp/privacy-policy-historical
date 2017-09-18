@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604185251id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918140506id_/https%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies - BrandAlley
 
