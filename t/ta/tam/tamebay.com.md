@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104163108id_/http%3A//tamebay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918054949id_/https%3A//tamebay.com/privacy-policy) for the most accurate reproduction.*
 
-# Tamebay : Privacy Policy
+# Privacy Policy - Tamebay
 
 **1\. Introduction**  
 1.1 We are committed to respecting and protecting your privacy. This policy sets out our approach. “We” in this context are SJP Business Media Ltd. We are the Publishers of Tamebay and act as the administrators of the policy. In the policy we’re referred to as “The Administrator”.  
