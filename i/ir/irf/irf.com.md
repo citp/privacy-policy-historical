@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615042934id_/http%3A//www.infineon.com/cms/en/about-infineon/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918154727id_/https%3A//www.infineon.com/cms/en/about-infineon/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infineon Technologies
 
