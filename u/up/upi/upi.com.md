@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221240id_/http%3A//about.upi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918201335id_/https%3A//about.upi.com/privacy-policy) for the most accurate reproduction.*
 
 # About United Press International | About UPI
 
