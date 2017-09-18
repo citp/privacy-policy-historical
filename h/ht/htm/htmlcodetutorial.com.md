@@ -1,22 +1,31 @@
-> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317200747id_/http%3A//www.htmlcodetutorial.com/acustom/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918165120id_/http%3A//html.com/privacy) for the most accurate reproduction.*
 
-# HTML Code Tutorial - Privacy Policy
+# The HTML.com Privacy Policy »
 
-We are committed to protecting your privacy at HTML Code Tutorial. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others.
+## Privacy Policy
 
-**Third Party Advertising**
+Thank you for visiting [HTML](http://html.com/).com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
 
-We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [NAI's opt out form](http://www.networkadvertising.org/managing/opt_out.asp).
+This policy may be changed at any time. Any changes will be posted. You are encouraged to review the privacy policy each and every time you visit the site.
 
-**Public Forums**
+### Cookies
 
-This site makes forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+This Web site may use cookies to help us collect information about our users. We and our partners can also set and access partner cookies.
 
-**Security**
+### Information Collection
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+We collect certain information about users who visit this site, including user actions and click paths, domain names/IP addresses, browser types, as well as other information. We use this information to track referring URLs and analyze user behavior, and for other general business purposes. We reserve the right to use information we collect for any purpose.
 
-**Obtaining your consent**
+### Distribution of Information
 
-By using our Website, you give HTML Code Tutorial permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at HTML Code Tutorial, you authorize HTML Code Tutorial to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. HTML Code Tutorial may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time. Questions? If you wish to change any information you have given us, please contact us at [learn2@htmlcodetutorial.com](mailto:learn2@htmlcodetutorial.com).    
+We reserve the right to share any information collected with government agencies or other companies helping us to investigate or prevent fraud. We may do so when: (1) permitted or required to do so by law; or, (2) preventing or attempting to prevent actual or potential unauthorized actions or fraud; or, (3) investigating past fraud.
 
+We also reserve the right to share any information collected with third parties for marketing purposes or any other business purpose.
+
+### Privacy Policies of Web Sites that HTML.com Hyperlinks To
+
+We are not responsible for the policies of Web sites that we hyperlink to. If you visit other Web sites hyperlinked to from this site, please review the privacy policies posted at those sites.
+
+### Privacy Contact Information
+
+If you have any questions, comments, or concerns about this privacy policy, please e-mail us.
