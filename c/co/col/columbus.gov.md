@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610093244id_/https%3A//www.columbus.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919100951id_/https%3A//www.columbus.gov/Privacy) for the most accurate reproduction.*
 
 # 
 
