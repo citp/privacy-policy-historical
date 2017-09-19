@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpgamesaves.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608181628id_/http%3A//www.xpgamesaves.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpgamesaves.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919132420id_/http%3A//www.xpgamesaves.com/pages/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | XPG Gaming Community
 
