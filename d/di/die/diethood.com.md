@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diethood.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185638id_/http%3A//diethood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diethood.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920011001id_/https%3A//diethood.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Diethood
 
