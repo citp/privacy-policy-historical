@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629204444id_/https%3A//plays.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919051846id_/https%3A//plays.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Plays.tv
 
