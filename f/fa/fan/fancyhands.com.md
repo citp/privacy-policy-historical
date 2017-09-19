@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancyhands.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319094433id_/https%3A//www.fancyhands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancyhands.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919110613id_/https%3A//www.fancyhands.com/privacy-policy) for the most accurate reproduction.*
 
 # Fancy Hands - Privacy Policy
 
