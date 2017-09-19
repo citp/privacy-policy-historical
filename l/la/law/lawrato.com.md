@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022210id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919142935id_/https%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LawRato – Advocates Directory Online | LawRato.com
 
