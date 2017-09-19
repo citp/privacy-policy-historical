@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otherbuzz.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520233022id_/http%3A//otherbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherbuzz.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919094443id_/http%3A//otherbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
