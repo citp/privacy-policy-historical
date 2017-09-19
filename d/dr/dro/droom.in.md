@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droom.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608031217id_/http%3A//droom.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droom.in privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919150157id_/http%3A//droom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -82,10 +82,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below: 
 
-**Grievance Office:** **Sunita Khandelwal**  
+**Grievance Office:** **Arun Kumar**  
 **Droom Technology (P) Limited**  
-90/31B, First Floor, Malviya Nagar  
-New Delhi 100017  
+40A/5, Chandan Nagar, Sector-15, Part-2  
+Gurugram, Haryana-122001  
 Time: Mon to Sat (9:00 to 18:00) 
 
 ## 10\. Questions?
