@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gruveo.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224122759id_/https%3A//about.gruveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gruveo.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919114152id_/https%3A//about.gruveo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gruveo
 
@@ -12,7 +12,7 @@ This information is provided to explain our online information practices and the
 
 ## Personally Identifiable Information
 
-You do not have to create an account and/or log in to Gruveo to establish calls on anonymous codes as well as call direct ones. We do not collect any personally identifiable information from you if you use Gruveo without creating an account.
+You do not have to create an account and/or log in to Gruveo to join anonymous call rooms as well as call Gruveo handles. We do not collect any personally identifiable information from you if you use Gruveo without creating an account.
 
 If you choose to create a Gruveo account, we will ask you to provide your email address to prove account ownership. Your email address will never be shared with any third parties.
 
@@ -37,6 +37,12 @@ We implement Google Analytics Advertisement Features including Remarketing with
 We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show Gruveo ads on sites across the Internet.
 
 We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to the Gruveo Websites. We and third-party vendors, including Google, also use the above mentioned cookies together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Gruveo Websites.
+
+We use the data provided by Google Analytics Demographics and Interest Reporting to better understand our users and their interests.
+
+### Google Advertising Cookie
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to the Gruveo Websites or other websites. Google’s use of advertising cookies enables it and its partners to serve ads to our users based on their visit to the Gruveo Websites and/or other sites on the Internet.
 
 ### Facebook Pixel
 
@@ -69,7 +75,7 @@ We collect server logs to monitor the performance and security of Gruveo as w
 
   * Kept for a maximum of 31 days
   * All user IP addresses are anonymized by masking the last octet of the IP address
-  * Direct codes (i.e. usernames) are not logged to lower the possibility of tracing calls made by logged in users to their username.
+  * Gruveo handles (i.e. usernames) are not logged to lower the possibility of tracing calls made by logged in users to their username.
 
 
 
@@ -83,7 +89,9 @@ We collect server logs to monitor the performance and security of Gruveo as w
 
 ### General
 
-All calls on Gruveo are encrypted and, wherever possible, are established directly between the users’ devices using the decentralized peer-to-peer technology. A call may get relayed via one of our TURN servers due to restrictive firewalls, but even in that case the TURN server would not be capable of decrypting the call content. All text messages on Gruveo are relayed in encrypted form via our secure servers.
+All Gruveo calls are encrypted, with one-on-one calls being encrypted end-to-end as per the WebRTC standard. Wherever the users’ firewall configurations permit, one-on-one calls are established directly between the users’ devices. A one-on-one call may get relayed via one of our TURN servers due to restrictive firewalls, but even in that case the TURN server would not be capable of decrypting the call content.
+
+All text messages on Gruveo are relayed in encrypted form via our secure servers.
 
 Unless call recording has been explicitly initiated by a call participant (see below), we do not store any parts of the call content such as audio/video, screenshots, text messages and the like on our servers.
 
@@ -95,9 +103,13 @@ If a recording has been started during a call, the call is re-routed through one
 
 We do not share recorded call content with any third parties, nor do we provide them with access to any call content otherwise.
 
-### Connecting to the Intended User
+### Group Calls
 
-By nature of how Gruveo works, it is not impossible that you may get connected to a user different from the person you originally intended to connect to. This may happen if the third party connects to Gruveo using your agreed upon anonymous code before your counterpart does. All Gruveo users are thus encouraged to choose longer, non-trivial codes for establishing their calls such as a word followed by a short random number.
+Once the number of participants in a call changes from two to three, the call is re-routed through one of Gruveo’s SFU servers to make a group call possible. Just like in the case of call recording, the call content is then encrypted in transit to and from the SFU server.
+
+### Connecting to the Intended Users
+
+By nature of how Gruveo works, it is not impossible that you may get connected to a user different from the person(s) you originally intended to connect to. This may happen if the third party connects to Gruveo using your agreed upon room name before your counterpart(s) do. All Gruveo users are thus encouraged to choose longer, non-trivial room names for establishing their calls, as well as to lock the room once all of the expected participants have joined.
 
 ## Gruveo Connect Newsletter
 
@@ -114,4 +126,4 @@ Slovakia
 
 or via our [contact form](https://about.gruveo.com/contact/).
 
-_Last updated: February  23, 2017_
+_Last updated: June  16, 2017_
