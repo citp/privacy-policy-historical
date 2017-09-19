@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-games.biz privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628001406id_/http%3A//www.funny-games.biz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-games.biz privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919183420id_/https%3A//www.funny-games.biz/privacy-policy.html) for the most accurate reproduction.*
 
 # Funny-Games.biz Privacy Policy
 
@@ -14,7 +14,7 @@ COOKIES
 Funny-games.biz DO NOT use cookies to store information about your visits. However, during the course of serving advertisements to this site, Google advertisers may place or recognize a unique "cookie" on your browser.
 
 THIRD PARTY ADVERTISING  
-Funny-games.biz works with Google AdSense that serve ads to this site. Google AdWords may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information please see the [Google Privacy Policy Statement](http://www.google.com/privacy.html)
+Funny-games.biz works with Google AdSense that serve ads to this site. Google AdWords may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information please see the [Google Privacy Policy Statement](https://www.google.com/privacy.html)
 
 EXTERNAL LINKS  
 Funny-games.biz contains links to other sites. I am not responsible for the privacy practices or the content of such Web sites.
