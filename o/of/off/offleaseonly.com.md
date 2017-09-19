@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offleaseonly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140059id_/http%3A//www.offleaseonly.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offleaseonly.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919063936id_/http%3A//www.offleaseonly.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Offleaseonly.com
 
