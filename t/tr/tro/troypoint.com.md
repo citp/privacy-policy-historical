@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troypoint.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520214001id_/http%3A//troypoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troypoint.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919114552id_/http%3A//troypoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Do It Yourself Tech Projects for Home & Small Business
 
