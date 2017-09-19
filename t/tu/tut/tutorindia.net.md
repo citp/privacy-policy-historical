@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorindia.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144805id_/http%3A//tutorindia.net/info-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorindia.net privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919064131id_/http%3A//tutorindia.net/info-privacy_policy) for the most accurate reproduction.*
 
 # Tutorindia Privacy Policy
 
