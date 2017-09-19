@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082903id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919114427id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Pharmatutor | PharmaTutor
 
-[ ](http://www.pharmatutor.org/exam-alert/gpat/prepare-for-gpat-online)
+[ ](http://www.cliniindia.com/best-clinical-research-institute-in-india/)
+
+[ ](http://www.pharmatutor.org/articles/inevitable-certification-skills-upgradation-programs-for-performance-and-selection-regular-interactive)
+
+[ ](http://www.pharmatutor.org/articles/inevitable-certification-skills-upgradation-programs-for-performance-and-selection-regular-interactive)
 
 This is the web site of **PharmaTutor** **.org** **,   India**  
 
@@ -26,5 +30,3 @@ We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmat
 
   
 
-
-[ ](http://www.pharmatutor.org/magazines/subscribe)
