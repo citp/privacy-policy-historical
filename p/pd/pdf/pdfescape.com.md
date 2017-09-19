@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171620id_/http%3A//www.pdfescape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919115317id_/https%3A//www.pdfescape.com/privacy) for the most accurate reproduction.*
 
 # PDFescape Privacy Policy
 
