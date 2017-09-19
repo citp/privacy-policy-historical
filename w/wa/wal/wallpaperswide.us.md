@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperswide.us privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014523id_/http%3A//www.wallpaperswide.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperswide.us privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919074124id_/http%3A//www.wallpaperswide.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HD Wallpapers & 4K Wallpaper Download For Desktop & Mobile
 
