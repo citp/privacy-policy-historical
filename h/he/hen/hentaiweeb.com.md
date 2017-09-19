@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaiweeb.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045500id_/http%3A//hentaiweeb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaiweeb.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919125151id_/http%3A//hentaiweeb.com/privacy-policy) for the most accurate reproduction.*
 
 # Hentai Weeb Privacy Policy
 
