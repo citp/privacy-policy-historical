@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616014835id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919132530id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
 
 # Earnings Disclaimer and Privacy Policy | James Clear
 
@@ -25,6 +25,8 @@ Aggregated Information (information that does not personally identify you) may b
 We may use Personally Identifiable Information collected on JamesClear.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by JamesClear.com and other topics we think you might find of interest.
 
 Personally Identifiable Information collected by JamesClear.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e–commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+
+We post customer testimonials on our website. These testimonials may contain personally identifiable information, such as the customer's name. We obtain the customer's consent prior to posting the testimonial. The customer can ask for their testimonial to be updated or revised at any time by contacting [james@jamesclear.com](mailto:james@jamesclear.com).
 
 **Affiliated sites, linked sites and advertisements**
 
