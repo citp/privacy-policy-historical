@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxnewsradio.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225921id_/http%3A//www.foxnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnewsradio.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919125658id_/http%3A//www.foxnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fox News
 
