@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secrant.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611101802id_/http%3A//www.secrant.com/site-matters/privacy-policy/33499413) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secrant.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919063445id_/http%3A//www.secrant.com/site-matters/privacy-policy/33499413) for the most accurate reproduction.*
 
 # Privacy Policy - 5/15/12 | SECRant.com
 
