@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131053id_/http%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919100212id_/http%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinch of Yum
 
