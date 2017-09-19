@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpwidgets.net privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415195502id_/http%3A//wpwidgets.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwidgets.net privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919233931id_/http%3A//wpwidgets.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All about WordPress
 
