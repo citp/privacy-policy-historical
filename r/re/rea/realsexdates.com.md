@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229132629id_/http%3A//realsexdates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919094514id_/http%3A//www.realsexdates.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Real Sex Dates, find other adults seeking dates in your AREA for free.
 
