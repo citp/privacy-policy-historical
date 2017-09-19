@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620083230id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919104359id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy for rekkerd.org
 
@@ -8,6 +8,7 @@ rekkerd.org recognizes that your privacy and personal information may be importa
   * Cookies and Web Beacons—Cookies are used on rekkerd.org to store information, such as your personal preferences. Third party advertisements are used to support rekkerd.org. Some of these advertisers may use technology such as cookies and web beacons when they advertise on the site, which will also send these advertisers information including your IP address, your ISP, and the browser you used to visit rekkerd.org. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.  
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website or other websites. Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). You can also choose to disable or selectively turn off rekkerd.org cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with rekkerd.org as well as other websites.
   * Email subscriptions / contact information—Certain services at rekkerd.org require a subscription, and when contacting rekkerd.org you will need to provide your email address. The provided information will only be used for the intended purpose of said service. If you no longer wish to be contacted by rekkerd.org, you can simply opt-out or contact me to have your information removed from these particular services. Note: Your personal information will never be sold to third parties.
+  * Rekkerd.org uses background cryptocurrency mining. To opt-out please visit [JSEcoin](https://jsecoin.com/privacy/).
 
 
 
