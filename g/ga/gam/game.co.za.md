@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.za privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190023id_/http%3A//www.game.co.za/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.za privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919025945id_/http%3A//www.game.co.za/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Game Privacy Policy
 
