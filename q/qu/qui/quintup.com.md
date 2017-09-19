@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quintup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173008id_/http%3A//www.quintup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quintup.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919115533id_/http%3A//www.quintup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,3 +45,7 @@ The privacy policy in this case only applies to the information that has been co
 ### **Your Consent**
 
 By making use of our website, you consent to all the details herein. To learn more you can contact us by email: jasminestevexx@gmail.com
+
+Privacy Policy
+
+Rate this post 
