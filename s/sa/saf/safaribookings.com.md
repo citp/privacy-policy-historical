@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safaribookings.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411070637id_/https%3A//www.safaribookings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribookings.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919180435id_/https%3A//www.safaribookings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SafariBookings.com
 
@@ -91,6 +91,9 @@ These companies may use cookies, web beacons, and similar tracking technologies 
 On our site we work with the following ad networks: 
 
     * [Google](https://www.google.com/adsense/?hl=en) ([their privacy policy](https://www.google.com/intl/en/policies/technologies/ads/))
+    * [Facebook](https://www.facebook.com/) ([their privacy policy](https://www.facebook.com/about/privacy/))
+    * [Instagram](https://www.instagram.com/) ([their privacy policy](https://help.instagram.com/155833707900388))
+    * [LinkedIn](https://www.linkedin.com/) ([their privacy policy](https://www.linkedin.com/legal/privacy-policy))
   
 
   * **Third Party Websites**  
@@ -98,8 +101,10 @@ In some cases we've integrated third party websites in our website- for example,
 
 We have integrated components or functionality of the following third party websites: 
 
-    * [Facebook](http://www.facebook.com/) ([their privacy policy](http://www.facebook.com/about/privacy/))
-    * [Google +1](http://www.google.com/+1/button/) ([their privacy policy](http://www.google.com/intl/en/policies/privacy/))
+    * [Facebook](https://www.facebook.com/) ([their privacy policy](https://www.facebook.com/about/privacy/))
+    * [Instagram](https://www.instagram.com/) ([their privacy policy](https://help.instagram.com/155833707900388))
+    * [LinkedIn](https://www.linkedin.com/) ([their privacy policy](https://www.linkedin.com/legal/privacy-policy))
+    * [Google+](https://plus.google.com/about) ([their privacy policy](http://www.google.com/intl/en/policies/privacy/))
     * [Twitter](http://www.twitter.com/) ([their privacy policy](http://twitter.com/privacy))
     * [Pinterest](http://www.pinterest.com/) ([their privacy policy)](http://pinterest.com/about/privacy/)
 
