@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090250id_/http%3A//www.century21.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919052153id_/http%3A//www.century21.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CENTURY 21
 
