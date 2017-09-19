@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tellapart.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505172221id_/https%3A//www.tellapart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellapart.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920005213id_/https%3A//www.tellapart.com/privacy) for the most accurate reproduction.*
 
 # TellApart Privacy Policy
 
-#### This Privacy Policy was last updated on February 24, 2016.
+#### **This Privacy Policy was last updated on August 15, 2016.**
 
 TellApart Inc. (“TellApart”) provides businesses (“Business Partners”), including e-commerce sites and advertisers, access to a set of technologies and processes designed to display advertisements to consumers (the “TellApart Ads”).
 
@@ -30,13 +30,13 @@ The Site may contain links to other websites. Such websites may use cookies and/
 
 **Overview of TellApart’s Technology and Data Collection**
 
-Our Technology collects information about the website(s) that you visit and the advertisements that you see while online. We may collect data about you using our Technology in the following contexts: when TellApart or one of our Business Partners purchase online advertisements on a website that you visit (“Advertising Data”); and/or when one of our Business Partners or advertising technology partners uses our Technology on a website, which you visit (“Business Partner Data”). The type of Advertising Data we collect includes the number of advertisement requests received, the number of advertisements you are shown, the identity of the website you are visiting and the number of clicks you may make on a particular advertisement, but in all cases Advertising Data is Non-PII. The type of Business Partner Data we collect includes information regarding the pages and products you have viewed, the identity of products purchased, the time you spend on particular web pages and product price. Business Partner Data may in some cases include PII. However, we do not associate this information with the information that is separately gathered off the Business Partners’ websites through our online advertising activities.
+Our Technology collects information about the website(s) and mobile application(s) that you visit and the advertisements that you see while online. Using our technology, we may collect data about you in the following contexts: when TellApart or one of our Business Partners purchase online advertisements on a website or mobile application that you visit (“Advertising Data”); and/or when one of our Business Partners or advertising technology partners uses our Technology on a website or mobile application that you visit (“Business Partner Data”). The type of Advertising Data we collect includes the number of advertisement requests received, the number of advertisements you are shown, the identity of the website or mobile application you are visiting and the number of clicks you may make on a particular advertisement, but in all cases Advertising Data is Non-PII. The type of Business Partner Data we collect includes information regarding the pages and products you have viewed, the identity of products purchased, the time you spend on particular parts of the site or app and product price. Business Partner Data may in some cases include PII. However, we do not associate this information with the information that is separately gathered off the Business Partners’ websites and mobile applications through our online advertising activities.
 
-We use the information collected by our Technology in order to help make the TellApart Ads you see more relevant to you, to improve our Technology, and for ad delivery and measurement purposes. We also may disclose Non-PII to our Business Partners in connection with the provision of TellApart Technology services.
+We use the information collected by our Technology in order to help make the TellApart Ads you see on this browser or device, and other browsers or devices that we think are associated with this browser or device, more relevant to you, to improve our Technology, and for ad delivery and measurement purposes. We also may disclose Non-PII to our Business Partners in connection with the provision of TellApart Technology services.
 
-**Cookies, JavaScript and Web Beacons**
+**Cookies, JavaScript and Web Beacons, and Other Technologies**
 
-TellApart uses cookies and other technologies in connection with our Technology and our collection of both Advertising Data and Business Partner Data. These types of technologies help TellApart better understand the effectiveness of a TellApart Ad (for example, by tracking the way in which you may respond to, select and interact with a TellApart Ad or any content provided therein, or the location and context in which you view a TellApart Ad). TellApart’s cookies also help control the number of times you view a TellApart Ad. Although most web browsers automatically accept cookies, some browsers’ settings can be modified to decline cookies or alert you when a website is attempting to place a cookie on your computer. Consult the help manual for your browser for detailed information. If you do not accept cookies, however, you may not be able to enjoy the full functionality of many of the websites you visit.
+TellApart uses cookies and other technologies in connection with our Technology and our collection of both Advertising Data and Business Partner Data. These types of technologies help TellApart better understand the effectiveness of a TellApart Ad (for example, by tracking the way in which you may respond to, select and interact with a TellApart Ad or any content provided therein, or the location and context in which you view a TellApart Ad). TellApart’s technology also helps control the number of times you view a TellApart Ad. Although most web browsers automatically accept cookies, some browsers’ settings can be modified to decline cookies or alert you when a website is attempting to place a cookie on your computer. Consult the help manual for your browser for detailed information. If you do not accept cookies, however, you may not be able to enjoy the full functionality of many of the websites you visit.
 
 TellApart also uses JavaScript and web beacons, in combination with cookies, to analyze usage patterns. The use of these technologies allows TellApart to record that someone has visited a particular webpage, along with additional Non-PII that the website may choose to include with the beacon.
 
@@ -74,7 +74,7 @@ If you have any questions about our security practices, please send an email to 
 
 **On the web:**
 
-You may opt out of TellApart’s interest-based advertising on this browser by clicking on the link below:
+You may opt out of receiving TellApart’s interest-based advertising on this browser by clicking on the link below:
 
 Kindly note that when you opt out, TellApart records that choice in your browser cookies. If after opting out, you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, then your browser will no longer have a record of your opt­-out status and you will need to renew your opt-out choice for that browser.
 
