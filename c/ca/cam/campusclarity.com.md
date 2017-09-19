@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusclarity.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407235130id_/https%3A//home.campusclarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusclarity.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919164017id_/https%3A//home.campusclarity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CampusClarity
 
@@ -61,7 +61,7 @@ CampusClarity respects the privacy of children. Our website and courses are not 
 
 **Contact Us**
 
-If you have questions about this privacy policy, or if you want to make changes to data provided during the user registration process, contact us by email at admin@campusclarity.com.  
+If you have questions about this privacy policy, or if you want to make changes to data provided during the user registration process, contact us by email at privacy@everfi.com.  
 Changes to this Policy
 
 CampusClarity has the right to change this privacy policy at any time if we so choose. If we make a significant change to our privacy policy, we will update this webpage and post a notice on our homepage so users can review the change.
