@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twotwentyone.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124731id_/http%3A//www.twotwentyone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twotwentyone.net privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920110620id_/https%3A//www.twotwentyone.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.twotwentyone.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.twotwentyone.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Privacy Policy for twotwentyone.net
 
@@ -16,4 +16,4 @@ Cookies and Web Beacons– We use third party advertisements on twotwentyone.ne
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.twotwentyone.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.twotwentyone.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
