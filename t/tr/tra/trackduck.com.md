@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the trackduck.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129050554id_/https%3A//trackduck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackduck.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920161736id_/https%3A//trackduck.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - TrackDuck
+
+Hello! TrackDuck is now brought to you by InVision. As part of the transition process, we are updating our Privacy Policy and want to give you plenty of notice.
+
+Users signing up after June 12, 2017 should note that they are agreeing to the updated InVision [Privacy Policy](https://www.invisionapp.com/privacy) and not Privacy Policy listed below.
+
+For users who signed up prior to that date, please note that the Privacy Policy applicable to this website and service set forth below shall be updated effective as of July 12, 2017, to the InVision [Privacy Policy](https://www.invisionapp.com/privacy).
 
 We take personal privacy seriously and we would like to ask You to read the following Terms of Service carefully.  
 By using our website You consent to our Privacy Policy if You do not consent You should stop using it  and/or our Service immediately.  
@@ -68,4 +74,10 @@ Date created: _August 26, 2014_
 
 _April 6_ – [Cookie Policy](https://trackduck.com/privacy-policy#cookies) added
 
-Last revised: _April 6, 2016_
+_June 12, 2017_ – Hello! TrackDuck is now brought to you by InVision. As part of the transition process, we are updating our Privacy Policy and want to give you plenty of notice.
+
+Users signing up after June 12, 2017 should note that they are agreeing to the updated InVision [Privacy Policy](https://www.invisionapp.com/privacy) and not Privacy Policy listed below.
+
+For users who signed up prior to that date, please note that the Privacy Policy applicable to this website and service set forth below shall be updated effective as of July 12, 2017, to the InVision [Privacy Policy](https://www.invisionapp.com/privacy).
+
+Last revised: _June 12, 2017_
