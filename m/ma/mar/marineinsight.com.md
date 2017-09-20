@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051041id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920183108id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ Any personal information received will only be used to fill your order. We will 
 
 ## **Refund Policy – Product and Services**
 
-If you are not 100% satisfied with your purchase, just let us know and we will give you a full refund up to 60 days from the purchase date.
+If you are not 100% satisfied with your purchase, just let us know and we will give you a full refund up to 30 days from the purchase date.
 
 It is to be noted that, this policy may be updated at anytime, and may be found within the site. We encourage your feedback, opinions, and suggestions; these may be forwarded to info@marineinsight.com
 
@@ -136,6 +136,13 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 ## Your Consent
 
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the India. If you reside outside the India your information will be transferred, processed and stored there under India privacy standards.
+
+## **This website uses Google AdWords**
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the MarineInsight(www.marineinsight.com) website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising](http://www.google.com/settings/ads/onweb/) entirely by cookie settings or permanently using a browser plugin.
 
 ## **Contact us**
 
