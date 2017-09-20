@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214220id_/https%3A//www.safecharge.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920185448id_/https%3A//www.safecharge.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - SafeCharge
 
 This Privacy and Cookies Policy is intended for those browsing/using Safecharge.com and other Safecharge group informative websites (jointly: “Site”) owned and operated by the Safecharge International Group Limited and its affiliates and subsidiaries (“we” or “us”) and describes and explains how we treat information that is received and/or collected, when received or collected, through your use of the Site.
 
-### YOUR CONSENT
+### Your consent
 
 IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY AND COOKIES POLICY, PLEASE DO NOT ACCESS/USE THE SITE.
 
 By using the Site you agree and accept the terms of this Privacy and Cookies Policy and consent to the collection and use of information in the manner set out in this Privacy and Cookies Policy. We encourage you to review this Privacy and Cookies Policy carefully and to periodically refer to it so that you understand it and subsequent changes if any. We reserve the right to change this Privacy and Cookies Policy with immediate effect and we will post an appropriate notification.
 
-### THE INFORMATION WE COLLECT
+### The information we collect
 
 We respect your right to privacy. You do not have to provide us with any personally identifying information.
 
@@ -20,7 +20,7 @@ Where you wish to take advantage of special services that we may offer from time
 
 We may offer you the opportunity to subscribe to receive certain updates or marketing materials. You may choose to ‘unsubscribe’ from receiving these at any time. When you sign up, subscribe, fill out a form, comment, send us an e-mail or ask us to respond to you or when you communicate with us in any other way (“Communication”), we retain the information that you have included in the respective Communication as well as our responses to such Communication. We may associate such information with information received from other channels such as your Site usage information.
 
-## COOKIES
+### Cookies
 
 We may set cookies and related standard technologies (jointly: “cookies”) as you visit the Site, use our online products and services or view our products and offers. We may also use third party cookies or allow third parties to set cookies. A cookie is a small amount of data which is stored on your computer or device for the purpose of identifying the browser or product during interactions. We also use cookies to track the interest and usage patterns of our users so we can achieve our goals as set forth in the “HOW WE USE THE INFORMATION” chapter below.
 
@@ -42,12 +42,16 @@ Below you will find the list of cookies used by us and a description of what eac
 PHPSESSID | Stores a unique identifier for browser session. This is an analytical session cookie.  
 sc_referer | Stores the specific URL from which the user originated. This is an analytical persistent cookie.  
 viewed_cookie_policy | Stores user’s preference with respect to this policy. This is a functional persistent cookie.  
+wfvt | Wordfence cookies prevent fraud and improve the security of the website  
+wordfence | Wordfence cookies prevent fraud and improve the security of the website  
+incap_ses | Incapsula cookie improves performance and security on the website  
+visid_incap | Incapsula visitor id cookie is needed to improve performance and security on the website  
   
-## Google Analytics
+### Google Analytics
 
 We use the following Google Analytics cookies to help us as an analytics tool to measure how users interact with the Site: _utma, _utmb, _utmc and _utmz (_utmc is a session cookies and the others are persistent with an expiry date). For more information on the Google Analytics cookies please visit <http://www.google.com/analytics/>
 
-## Investis cookies
+### Investis cookies
 
 Certain information under the “INVESTORS” tab is displayed through the use of services provided by SafeCharge’s vendor Investis. Below you will find the names of the cookies set by Investis in order to deliver their respective services and a description of what each cookie is designed to accomplish.
 
@@ -59,7 +63,7 @@ _parentURL | Used for RNS tool and is used for iFrame resizer. This is a perform
   
 Google Analytics cookies are also used in the ‘INVESTORS’ tab. For more information please see above under ‘Google Analytics”.
 
-## HOW WE USE THE INFORMATION
+### How we use the information
 
 We may use the information collected to optimize performance, improve usability, provide additional or customized offerings, track status indicator, make sure things are working properly, enhance the experience on the Site and for use in aggregate for commercial purposes such as marketing and promotions.
 
@@ -69,11 +73,11 @@ We may share and/or transfer information including personally identifying inform
 
 In relation to the information we gain as part of a Communication we may use it to acknowledge your comments and/or reply to your questions and we may store it in case we need to correspond at a later date. We will not use the contact details you provide us for marketing messages without your consent.
 
-## INTERNET-BASED TRANSFERS
+### Internet based-transfers
 
 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore by browsing the Site and communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
 
-## THIRD PARTY PRODUCTS AND SERVICES
+### Third party products and services
 
 The Site may contain third party offers, products and services and links to other websites. By choosing these, you will be leaving our Site and receiving/using products and services from third parties or transferred to online merchants or other third party sites, all of which are not under our control and are not monitored or reviewed by us.
 
@@ -85,16 +89,16 @@ Before using third party sites, you should read and understand those sites’/pr
 
 You are knowingly and voluntarily assuming all risks of using third party products, services and sites and that we shall have no liability whatsoever with respect to such third party sites, products and services and your usage of them.
 
-## SECURITY
+### Security
 
 We have security measures in place to prevent unauthorized access to and protect the loss, misuse and alteration of the information under our control. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-## CONTROLLING YOUR INFORMATION
+### Controlling your information
 
 Where we hold personal information about you, you may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Safecharge International Group Limited at the address as it appears under the ‘About Us’ tab on our Site.
 
-## QUESTIONS?
+### Questions?
 
 Should you have other questions or concerns about this Privacy and Cookies Policy please see the ‘Contact Us’ tab on our Site.
 
-Date of last update to this document: July 2014
+Date of last update to this document: June 2017
