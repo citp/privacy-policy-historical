@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124942id_/http%3A//www.hatland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920190335id_/http%3A//www.hatland.com/privacy-policy.html) for the most accurate reproduction.*
 
 # hatland.com - PRIVACY POLICY
 
 [](https://web.archive.org/big-size-fitted-hats/)
 
 Sports Hats
-
-  
-
 
   
 
