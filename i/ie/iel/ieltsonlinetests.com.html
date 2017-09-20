@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ieltsonlinetests.com privacy policy that was archived on 2017-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618021822id_/http%3A//ieltsonlinetests.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ieltsonlinetests.com privacy policy that was archived on 2017-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170920080747id_/http%3A//ieltsonlinetests.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <script type="text/javascript" id="zb-embed-code" async="" src="//static.zotabox.com/1/4/146b44a300a2a0af527a982cb3a8dc39/widgets.js"></script><script src="https://script.crazyegg.com/pages/scripts/0064/3511.js?439001" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
@@ -19,14 +19,14 @@
 <meta property="og:title" content="Privacy">
 <meta property="og:url" content="http://ieltsonlinetests.com/privacy-policy">
 <meta property="og:type" content="article">
-<meta property="og:image" content="http://ieltsonlinetests.com/images/logo_share.jpg">
-<meta property="og:description" content="Free IELTS online pratice tests based on Cambridge IELTS 1-12 series">
+<meta property="og:image" content="http://ieltsonlinetests.com/images/IOTlogo.png">
+<meta property="og:description" content="Free IELTS online pratice tests">
 <meta name="copyright" content="Copyright (c) 2016 by IeltsOnlineTests.com">
-<meta name="description" content="Free IELTS online pratice tests based on Cambridge IELTS 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,12 series, Recent Actual Test series, IELTS Plus Series and more">
+<meta name="description" content="Free IELTS online pratice tests based on Recent Actual Test series, IELTS Plus Series and more">
 <meta name="keywords" content="">
 <meta name="propeller" content="cb0c7121e66fed6150846d5e44517ee2">
 <meta name="robots" content="noindex,nofollow">
-<link href="/Content/css?v=vX7LYeSMDyzeVpRKLNopPFasQM5i8KHg_gJHZAgFRnI1" rel="stylesheet">
+<link href="/Content/css?v=BhoQKtjdw-hoKV4IuZS1_0bI2juhk45OMpcEfpukXzA1" rel="stylesheet">
 <script src="/bundles/modernizr?v=w9fZKPSiHtN4N4FRqV7jn-3kGoQY5hHpkwFv5TfMrus1"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -64,6 +64,34 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     </script>
 </head>
 <body style="height: 100vh">
+<div id="blind" style="width: 100%; height: 100%; position: absolute; z-index: 999999999; background-color: white; display: block"></div>
+<script type="text/javascript">
+        $(document).ready(function () {
+            var rawdata = localStorage.getItem("gcl");
+            if (!rawdata || typeof rawdata === 'undefined' || rawdata === "") {
+        jQuery.ajax({
+            url: 'http://freegeoip.net/json/',
+            type: 'POST',
+            dataType: 'jsonp',
+            success: function (location) {
+                localStorage.setItem("gcl", location.country_code);
+                if (location.country_code == 'GB') {
+                    window.top.location.href = '/Error/NotFound';
+                } else {
+                    $('#blind').hide();
+                }
+            }
+        });
+    } else {
+                if (rawdata === "GB") {
+            window.top.location.href = '/Error/NotFound';
+        }
+        else {
+            $('#blind').hide();
+        }
+    }
+});
+    </script>
 <div id="fb-root"></div>
 <script>
     window.fbAsyncInit = function() {
@@ -108,7 +136,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <a href="/catalogue"><i class="fa fa-book fa-fw" aria-hidden="true"></i> Exam Library</a>
 </li>
 <li class="divider-vertical"></li>
-<li><a href="http://mini-ielts.com/?utm_source=iot&amp;utm_medium=menu"><i class="fa fa-maxcdn" aria-hidden="true"></i> Mini Exams <sup><span class="label label-danger">new</span></sup></a></li>
+<li><a href="/ielts-tips-and-lessons"><i class="fa fa-university" aria-hidden="true"></i> IELTS Tips and Lessons</a></li>
+<li class="divider-vertical"></li>
 <li><a href="http://ez-dictation.com">Ez Dictation</a></li>
 <li class="divider-vertical"></li>
 <li><a href="/ielts-academic-word-list"><span class="glyphicon glyphicon-education"></span> Academic Word List</a></li>
@@ -131,11 +160,11 @@ Privacy Policy
 <div class="col-lg-12 ads">
 <div class="adsTitle">Advertisement</div>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
- 
+
 <ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-9722355699844013" data-ad-slot="8546806886" data-ad-format="auto"></ins>
 <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
 </div>
 </div>
 <div class="body-content">
@@ -210,8 +239,8 @@ Privacy Policy
 </div>
 </footer>
 <div class="ads-float-bottom">
-<span class="ads-dismiss ads-close" title="Close"><i class="fa fa-2x fa-times-circle" aria-hidden="true"></i></span>
-<a href="http://mini-ielts.com/?utm_source=iot&amp;utm_medium=banner" target="_blank" class="ads-close"><img class="img-responsive" src="/images/ads/MT/MT_leaderboard.jpg" alt="mini-ielts.com banner"></a>
+<span class="ads-dismiss ads-close" title="Close" style="background-color: deepskyblue; padding: 2px; border-radius: 3px"><i class="fa fa-lg fa-times-circle" aria-hidden="true"></i> Close</span>
+<a href="https://play.google.com/store/apps/details?id=quangle.com.bubbledictionary" target="_blank" class="ads-close"><img class="img-responsive" src="/images/ads/bubble_dict.png" alt="bubble dictionary banner" style="max-width: 728px"></a>
 </div>
 <script type="text/javascript">
     (function(d, s, id) {
