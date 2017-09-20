@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607052224id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920194133id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
