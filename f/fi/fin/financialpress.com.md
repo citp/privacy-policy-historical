@@ -1,65 +1,118 @@
-> *The following text is extracted and transformed from the financialpress.com privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310075250id_/http%3A//financialpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpress.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920070559id_/http%3A//financialpress.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Financial Press - Privacy Policy
+# Privacy and Cookie Policy - The Financial Press
 
-Thank you for visiting http://financialpress (together with all other websites and services operated by or on behalf of Financial Press, Ltd., the “Site”). Your privacy is important to us. To better protect your privacy, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
+**PRIVACY AND COOKIE POLICY**
 
-**1\. Introduction**  
-We are committed to respecting your online privacy, and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.  
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, personal profile, a home or other physical address and an email address or other contact information, whether at work or at home. Currently, we do not require you to provide Personal Information in order to have access to the free commentary, analysis and news available on our Site. However, in order to provide you with some of the Site’s services, you must create a profile, register and provide your email address, username, password and other specified information. At a later time, you may add additional
+Financial Press Media T/as http://financialpress.com the “Data controller” takes your privacy extremely seriously. We request that you carefully read this privacy policy as it gives important information about what to expect when the Data Controller collects your personal information and how the Data Controller uses your personal data.
 
-**Personal Information to your profile.**  
-If you are a registered user, you will have your own Financial Press email account (“Financial Press Email Account”). By using your Financial Press Email Account, you may send messages to and receive messages from other registered users and contributors. You are strictly prohibited from sending unsolicited or unauthorized advertisements, spam, chain letters, etc. Any information that you send within such a message is visible only to the message recipients. Please note that some actions you take, such as replying to a topic, posting comments, etc. may subscribe you automatically to getting notifications to your Financial Press email account. Please further note that some notifications, such as a notification for receiving a private message to your Financial Press email account, may be enabled by default.
+The privacy and cookie policy is applicable to information we collect about:
 
-We may use your email address and Financial Press email account to send updates, a newsletter or news regarding our services, and those of our advertisers who may have relevant offers.
+  * visitors to our website;
+  * people who register for our service, and/or do business with us.
 
-You may choose not to receive email from a particular sender by rolling your mouse over the text of an email in your Financial Press email account and blocking that sender. If you receive the email from Financial Press in an email account other than your Financial Press email account and wish to block that sender, simply go into your Seeking Alpha email account and block that sender in the same way. Furthermore, if you do not wish to receive email from one of our advertisers, you may unsubscribe from receiving further email from that advertiser.
 
-If you choose to provide us with your Personal Information on the Site, we may transfer that Personal Information within Financial Press or to Financial Press’s third-party service providers, but only to provide services on the Site, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. The services provided by our third-party service providers may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, surveys and other features offered through our Site. If any transactions are conducted, such as your subscribing to Seeking Alp Financial Press ha Pro, we may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions, and will process it in accordance with their privacy policies. Our current credit card service provider is “Braintree”; we recommend reading their privacy policy. The above provisions do not apply to personal information you provide us as a contributor such as date of birth or address. However, contributor details may be shared with our secure third party identification partners for the purpose of verifying contributor identities. Our current identity verification partner is “Idology”; we recommend reading their privacy policy.
+  1. **Information we may collect about you**
 
-Financial Press strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Financial Press intends to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. Finally, we may disclose your Personal Information or any information you submitted via the Site and its services (including via your email account) if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to i) comply with any applicable law, regulation, legal process or governmental request, ii) enforce our Terms of Service including investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud or security issues, or iv) protect against harm to the rights, property or safety of Financial Press, its users, yourself or the public.
 
-**2\. Cookies and Other Tracking Technologies**
 
-**Web Cookies**  
-A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. We use Web Cookies to track the pages that users visit during each Site session, both to help us improve users’ experiences and to help us understand how the Site is being used. As with other non-Personal Information gathered from users of the Site, we analyze and disclose in aggregated form information gathered using Web Cookies, so as to help us, our partners and others better understand how the Site is being used. We do not attempt to link information gathered using Web Cookies to Personal Information. USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+When you register for our service or do business with us we may collect the following personal information from you:
 
-**Web Beacons**  
-A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. We may use Web Beacons on the Site and in emails to count users who have visited particular pages, viewed emails, and to deliver co-branded services. Web Beacons are not used to access users’ Personal Information; they are a technique we may use to compile aggregated statistics about Site usage. Web Beacons collect only a limited set of information including a Web Cookie number, time and date of a page or email view, and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered and permit you to accept or decline Web Cookies on an individual basis.
+  * name;
+  * postal address, email address, telephone number.
+  * Details on credit/debit card
 
-**Third Party Advertisers**  
-We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personal Information) about your visits to this and other websites that are contained in Web Cookies and Web Beacons in order to provide advertisements about goods and services of interest to you. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: http://networkadvertising.org/managing/opt_out.asp. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.  
-We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-Personal Information attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser.
 
-**3\. Privacy Principles**
+  2. **How this information about you is used**
 
-To protect your privacy, we have adopted the following principles:  
-Notice  
-Choice  
-Security  
-Access/Accuracy
 
-3-1. Notice  
-We do not currently provide your Personal Information to third parties.  
-Nevertheless, we may at a later time choose to make certain offers or services available to our users from third parties. If we do, during the registration process and at certain points thereafter in connection with specific offers we may ask you whether your Personal Information may be sent to third parties who have products, services and opportunities which may be useful to you. If you give your permission to allow third parties to contact you, your Personal Information (such as your contact information and other information collected during your visit to our Site) may be shared with data aggregators, marketers (possibly in the form of list rental), and other organizations. Financial Press does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Seeking Alpha’s behalf unless such transfer is legally required. Regardless of your decision regarding the sharing of your Personal Information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any Personal Information that can identify an individual user.
 
-3-2. Choice  
-You may choose whether or not to provide Personal Information to Financial Pressv. The notices we will provide where Financial Press collects Personal Information on the Site should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of the Site, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+This information is gathered to enable us to process your registration, and to help provide our content and services. Then the relevant information is used by us, our agents and sub-contractors for communication purposes with you on any matter relating to the conduct of your subscription and the provision of our website and subscription service.
 
-3-3. Security  
-We have implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and are associated with the processing of your Personal Information, are obliged to respect the confidentiality of your information.
+We also reserve the right to use statistics and other aggregate information for the purposes of monitoring usage of the website in order to help us to improve, alter, and develop our website and our services. We may also provide such aggregate information to third parties. However, these statistics will never include information that can be used to identify you.
 
-3-4. Access/Accuracy  
-To the extent that you do provide us with Personal Information, Financial Press wishes to maintain accurate Personal Information. You may check your profile and add information, delete information or correct any incorrect information.
+Periodically we may analyze your information through trusted customer service agencies for research and analysis purposes, in order to monitor and improve the services we provide. We (or our agents and other sub-contractors) may contact you by mail, email or telephone to ask you for your feedback and comments on our services.
 
-**4\. Links to Other Sites**  
-Our Site may contain links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites.
+  3. **Marketing**
 
-**5\. Childrens’ Privacy**  
-The Site is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
 
-**6\. Commitment**  
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Financial Press Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at privacy@financialpresscom. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
-**7\. Your Consent**  
-By using this Site, you consent to the terms of our Privacy Policy and to Seeking Alpha’s processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
+We may at times provide you with additional information about special features of our website or any other products or services we believe may be of interest to you. If you would rather not receive this information, please send a blank email message to [newsroom@financialpress.com](mailto:newsroom@financialpress.com). If you agree to us providing you with marketing information, you can always opt out at a later date.
+
+We may also want to provide you with related information from third parties we think may be of interest to you. If you would rather not receive this information, please send an email to [newsroom@financialpress.com](mailto:newsroom@financialpress.com). If you agree to us providing you with third party marketing information, you can always opt out at a later date.
+
+We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please send an email to [newsroom@financialpress.com](mailto:newsroom@financialpress.com).
+
+  4. **Our use of cookies and other information-gathering technologies**
+
+
+
+Cookies are text files placed on your computer to collect standard Internet log information and visitor behaviour information. The information is used to track visitor use of the website and to compile statistical reports on website activity. For further information about cookies visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases some of our website features may not function if you remove cookies from your browser.
+
+**Our use of cookies**
+
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+
+We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by our website, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how.
+
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+
+Please be aware that restricting cookies may impact on the functionality of our website. If you wish to view your cookie code, just click on a cookie to open it. You’ll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information.
+
+  5. **How we protect your information**
+
+
+
+We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+
+  6. **Overseas transfers**
+
+
+
+The information you provide may be transferred to countries outside the European Economic Area (‘EEA’) that do not have similar protections in place regarding your data and restrictions on its use as set out in this policy. However, we will take steps to ensure adequate protections are in place to ensure the security of your information. The EEA comprises the EU member states plus Norway, Iceland and Liechtenstein. By submitting your information you consent to these transfers for the purposes specified above.
+
+  7. **Access to your information and updating and correcting your information**
+
+
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to [newsroom@financialpress.com](mailto:newsroom@financialpress.com). We may make a small charge for this service.
+
+We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to the Data Controller changes, for example if you change your email address, name or payment details, or if you wish to cancel your registration, please let us know the correct details by sending an email to [newsroom@financialpress.com](mailto:newsroom@financialpress.com). You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
+
+  8. **Sale of business**
+
+
+
+If the Data Controller’s business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
+
+  9. **Your consent**
+
+
+
+By submitting your personal information you consent to the use of that information as set out in this policy.
+
+  10. **Changes to privacy policy**
+
+
+
+We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. This privacy policy was last updated on 14th September, 2017.
+
+  11. **How to contact the Data Controller**
+
+
+
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email to [newsroom@financialpress.com](mailto:newsroom@financialpress.com).
+
+  12. **Links to other websites**
+
+
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+
+  13. **Payment**
+
+
+
+We currently use the PayPal checkout system for all payments. For details of how PayPal protects your financial information please visit <https://www.paypal.com/>.
