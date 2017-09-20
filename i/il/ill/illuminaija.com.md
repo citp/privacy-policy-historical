@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illuminaija.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204608id_/http%3A//illuminaija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illuminaija.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920054222id_/http%3A//illuminaija.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - illuminaija
 
@@ -72,6 +72,6 @@ This policy was last modified on June 2015
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://illuminaija.com  
-E-MAIL support@illuminaija.com
+E-MAIL illuminaija@yahoo.com
 
 This policy is powered by Free Privacy Policy and Rhino Support help desk software.
