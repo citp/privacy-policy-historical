@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607174645id_/http%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920050411id_/https%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
 
 # EFINANCIALCAREERS PRIVACY POLICY - eFinancialCareers
 
