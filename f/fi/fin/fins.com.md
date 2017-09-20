@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171243id_/http%3A//news.efinancialcareers.com/uk-en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920050411id_/https%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
 
-# Privacy policy - eFinancialCareers
+# EFINANCIALCAREERS PRIVACY POLICY - eFinancialCareers
 
-**Last Updated:  01.2017**
+**Last Updated: 01.2017**
 
 | [](https://privacy.truste.com/privacy-seal/validation?rid=e0619609-2aa7-413a-88b2-20553e8fbc6b)  
 ---|---  
@@ -170,6 +170,6 @@ We may update this privacy policy to reflect changes to our information practice
 
 Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the Services, please e-mail us at [support@efinancialcareers.com](mailto:support@efc.com)
 
-## Questions?
+## K. Questions?
 
-Questions regarding this Privacy Policy should be directed to [support@efinancialcareers.com](mailto:support@efc.com). You may also contact us at eFinancialCareers Limited. Telephone House 69-77 Paul Street London EC2 4NW.
+Questions regarding this Privacy Policy should be directed to [support@efinancialcareers.com](mailto:support@efinancialcareers.com). You may also contact us at eFinancialCareers, Inc., 1040 Avenue of the Americas, Floor 8, New York, NY 10018, (tel) 212-725-6550.
