@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the draytek.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622101627id_/https%3A//www.draytek.com/en/%23myModal2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draytek.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920043617id_/https%3A//www.draytek.com/en/%23myModal2) for the most accurate reproduction.*
 
-# Home - DrayTek Corp.
+# DrayTek Corp. - Home
 
 You are welcome to visit DrayTek website (hereinafter referred to as "Site"). In order to make you feel comfortable using the services and information of this website, we would like to inform you of our privacy policy to protect you. Please read the following:
 
