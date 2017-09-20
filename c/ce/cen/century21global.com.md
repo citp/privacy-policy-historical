@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century21global.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629183301id_/http%3A//century21global.com/resource/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21global.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920190001id_/https%3A//www.century21global.com/resource/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
