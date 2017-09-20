@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieltsonlinetests.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618021822id_/http%3A//ieltsonlinetests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsonlinetests.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920080747id_/http%3A//ieltsonlinetests.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
