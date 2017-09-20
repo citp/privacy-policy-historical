@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 144hzmonitors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074422id_/http%3A//www.144hzmonitors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 144hzmonitors.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920185816id_/http%3A//www.144hzmonitors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ In addition to the Google Analytics tracking cookies,  _144hzmonitors.com  _pr
 
 All links that start with http://geni.us/ will redirect you to Amazon.com (or .co.uk, .ca, .de, .es, .it, .fr depending on where you live).
 
-You can read more about Amazon’s cookies on their [website](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
+You can read more about Amazon’s cookies on their [website](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
 
 Our current affiliations are as follows:  
 **144hzmonitors.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com**
