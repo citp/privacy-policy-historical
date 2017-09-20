@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wired.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620000150id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired.co.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920213013id_/http%3A//www.condenast.co.uk/privacy/%3Futm_source%3DWIRED%2520UK%26utm_campaign%3Dcookiewarning%26utm_medium%3Dreferral) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Statement - The Condé Nast Publications Ltd.
 
