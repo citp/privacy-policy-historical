@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torchystacos.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614214928id_/http%3A//torchystacos.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torchystacos.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920163604id_/https%3A//torchystacos.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms | Torchy's Tacos
 
