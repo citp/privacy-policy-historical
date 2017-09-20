@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611042014id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920224029id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Terms of use - Privacy policy : Southern
 
