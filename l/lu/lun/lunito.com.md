@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lunito.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518132115id_/http%3A//www.lunito.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lunito.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921003850id_/http%3A//www.lunito.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
