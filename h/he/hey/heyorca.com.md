@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heyorca.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308040046id_/https%3A//www.heyorca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyorca.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920230914id_/https%3A//www.heyorca.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HeyOrca
+# Privacy Policy | HeyOrca
 
 This Privacy Policy governs the manner in which HeyOrca collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.HeyOrca.com website (“Site”). This privacy policy applies to the Site and all products and services offered by HeyOrca.
 
