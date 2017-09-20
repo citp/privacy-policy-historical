@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow-coupons.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107120716id_/http%3A//www.wow-coupons.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-coupons.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920132740id_/http%3A//www.wow-coupons.com/privacy.php) for the most accurate reproduction.*
 
 # Wow-Coupons - #1 Deals source of Free Online, Printable retail, Grocery store and Restaurant Coupon Codes.
 
