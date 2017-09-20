@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slh.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623161232id_/http%3A//www.slh.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slh.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920135843id_/http%3A//www.slh.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Small Luxury Hotels of the World | slh.com
 
@@ -14,7 +14,7 @@ Our privacy policy applies to our web-site (www.slh.com or any other web page or
 We may collect, store and use the following kinds of personal information: • your first and last name, telephone number, postal and e-mail address, fax number; • information about your computer and about your visits to and use of our web-site including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and web-site navigation; • if you make a reservation or purchase any items using a credit or debit card then we need the card number, cardholder name, expiry date and CVV number; • your hotel preferences and travel experiences.
 
   
-We may ask you for personal information in a variety of circumstances, for instance: • when you make a hotel reservation or purchase something from our web-site or on the telephone or by e-mail, letter or fax; • when you register with us, subscribe to our newsletter, enter competitions or register for promotions; or • when you join the Club of SLH; or • when you take part in surveys or provide us with feedback.
+We may ask you for personal information in a variety of circumstances, for instance: • when you make a hotel reservation or purchase something from our web-site or on the telephone or by e-mail, letter or fax; • when you register with us, subscribe to our newsletter, enter competitions or register for promotions; or • when you join the SLH loyalty programme, INVITED; or • when you take part in surveys or provide us with feedback.
 
   
 Telephone calls to and from our office or reservation service may be recorded or monitored for the purpose of quality control and for staff training. Call recordings will be maintained as long as reasonably necessary and will then be deleted. Any personal information obtained from you during the call will be treated in accordance with the provisions of this privacy policy.
@@ -85,7 +85,7 @@ SLH will store all the personal information you provide on its secure (password 
 
   
 You accept that data transmission over the Internet is inherently insecure and SLH cannot guarantee the security of data sent over the Internet.  
-If you are a member of The Club of SLH, you are responsible for keeping your password and user details confidential. SLH will not ask you for your password (except when you log in to the web-site).
+If you are a member of INVITED, you are responsible for keeping your password and user details confidential. SLH will not ask you for your password (except when you log in to the web-site).
 
   
 **Policy amendments**
@@ -111,7 +111,7 @@ The web-site contains links to other web-sites. SLH is not responsible for the p
 **Updating information**
 
   
-If you are a member of The Club of SLH, please let SLH know if the personal information which we hold about you needs to be corrected or updated. Please e-mail [club@slh.com.](mailto:club@slh.com "email us")
+If you are a member of INVITED, please let SLH know if the personal information which we hold about you needs to be corrected or updated. Please e-mail [invited@slh.com](mailto:invited@slh.com "email us").
 
   
 **Contact**
