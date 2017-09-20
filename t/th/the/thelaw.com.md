@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122172112id_/http%3A//www.thelaw.com/faq/privacy-policy.2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920165131id_/http%3A//www.thelaw.com/faq/privacy-policy.2) for the most accurate reproduction.*
 
-# FAQ #2: Privacy Policy | TheLaw.com
+# FAQ #2: Privacy Policy · TheLaw.com
 
 ## Privacy Policy
 
@@ -48,8 +48,8 @@ We may make changes to this Policy from time to time. Please make sure that you 
 If you have any questions about this Policy or our web site, please feel free to contact us using[ our Support Center](http://www.thelaw.com/support/).
 
 Category:
-    [Legal Terms](http://www.thelaw.com/faq/legal-terms.2/category)
+    [Legal Terms](https://www.thelaw.com/faq/legal-terms.2/category)
 Published:
     Jul 29, 2015
 Page Views:
-    9778
+    14011
