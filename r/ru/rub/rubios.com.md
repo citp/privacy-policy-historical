@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180319id_/https%3A//www.rubios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920195759id_/https%3A//www.rubios.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rubio's
 
@@ -71,8 +71,8 @@ By using our website, you agree to the collection and use of this information in
 
 To update, correct or delete your personal information, you can contact us at:
 
-Rubio's Fresh Mexican Grill.  
-1902 Wright Place, Suite #300  
+Rubio's Restaurants, Inc.  
+220 Faraday Ave, Suite 250  
 Carlsbad, CA 92008
 
 We may also be reached via e-mail.  
