@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021637id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920205040id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
-This Privacy Policy explains how we use information you provide us with or that we collect about you. We take your privacy extremely seriously, and will store all your personal information securely and in line with applicable data protection laws. 
+This Privacy Policy explains how we use information you provide us with or that we collect about you. We take your privacy extremely seriously, and will store all your personal information securely and in line with applicable data protection laws.
 
-**LAST UPDATED: January 26, 2015 (company name change)  **
+**LAST UPDATED: September 18, 2017  **
 
 This Privacy Policy is part of the [Terms & Conditions of using this website](http://www.britishnewspaperarchive.co.uk/content/terms_and_conditions "Terms and Conditions"), so please read it carefully. If you’d like to know more about data protection generally, [read this guide from the UK Information Commissioner](http://www.ico.gov.uk/for_the_public.aspx).
 
@@ -34,11 +34,13 @@ You give us permission to use your information for these purposes and also to pr
 
 **We use high quality security technology and processes:**  We keep your details safe when you sign in or pay by using encryption. We always use up-to-date technology security standards and make every effort to keep our systems as secure as they can reasonably be. Please be aware that although our systems are secure, your information might be intercepted on its way to us via the internet, although it is extremely uncommon for this to happen. 
 
-**Who we share information with and disclose it to:  **We will not, sell, rent, trade or otherwise disclose your personal information to any other third party other than as set out in this policy.  If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first. 
+**Sharing your information with third parties**
 
-Group companies: We may disclose your personal information to any member of our group which includes our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+We will not, sell, rent, trade or otherwise disclose your personal information to any other third party other than as set out in this policy.  If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first. 
 
-Companies working on our behalf to provide a service: we work with companies who will need to store and use your personal information on our behalf, for example payment providers who process your payments to us. We have contracts in place with them to control their use of your data and make sure they only use your information for the purposes allowed.
+We may from time to time provide your personal information to third parties for the purposes of providing you with our services. These third-party providers include payment processors, providers of card validation services, credit referencing providers and service providers who assist us with hosting our marketing campaigns. They do not decide what is done with your data and only process it on our behalf. These third parties may be located outside the European Economic Area; however, we only use providers that provide adequate protection for your information at all times. We do not keep a record of your credit or debit card details in our systems.
+
+We will not provide your data to other third parties for marketing purposes unless you have specifically consented to this when you first provided your data to us. You are entitled to decline receiving such 3rd party communications by selecting the appropriate box on the web form that collects your details or at any subsequent time by logging into your account and adjusting your preferences, by contacting us by email at [support@britishnewspaperarchive.co.uk](mailto:support@britishnewspaperarchive.co.uk) or by post to Customer Support, British Newspaper Archive, Gateway House, Luna Place, Dundee Technology Park, Dundee, DD2 1TP
 
 If we sell Findmypast Newspaper Archive Ltd, or a substantial part of our assets, your personal information will be transferred to the new owner.
 
