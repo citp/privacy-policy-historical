@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoolapp.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603175532id_/http%3A//www.hoolapp.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoolapp.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920211114id_/http%3A//www.hoolapp.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hoolapp – Desktop to Android
 
