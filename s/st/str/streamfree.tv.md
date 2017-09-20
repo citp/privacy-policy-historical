@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615013326id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920115450id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stream FREE TV
+# Privacy Policy – Stream FREE TV
 
 ## **Privacy Policy for www.streamfree.tv**
 
@@ -10,7 +10,7 @@ At www.streamfree.tv, the privacy of our visitors is of extreme importance to us
 
  **Amazon Affiliate Disclosure Statement**
 
-StreamFREE.TV is a participant in the Amazon Services LLC Associates Program,   
+StreamFREE.TV is a participant in the Amazon Services LLC Associates Program,  
 an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
  **Log Files**  
