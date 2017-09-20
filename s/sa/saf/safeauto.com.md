@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeauto.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031132929id_/http%3A//www.safeauto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeauto.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920210114id_/https%3A//www.safeauto.com/privacy-policy) for the most accurate reproduction.*
 
 # SafeAuto Insurance Company - Privacy Policy
 
