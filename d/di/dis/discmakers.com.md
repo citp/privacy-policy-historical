@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discmakers.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220034629id_/http%3A//www.discmakers.com/community/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discmakers.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920122008id_/http%3A//www.discmakers.com/community/about/privacy.asp) for the most accurate reproduction.*
 
 # Disc Makers Privacy Policy
 
