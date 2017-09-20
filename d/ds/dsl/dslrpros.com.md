@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dslrpros.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629010118id_/http%3A//www.dslrpros.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslrpros.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920221943id_/http%3A//www.dslrpros.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-By purchasing products or services provided by Neat Brands, Inc., You, the Customer, agree to the following policies:
+By purchasing products or services provided by Neat Brands, LLC., You, the Customer, agree to the following policies:
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
-Neat Brands, Inc. (DSLRpros), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with DSLRpros of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+Neat Brands, LLC. (DSLRpros), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with DSLRpros of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
 THEREFORE, this Privacy Policy Agreement shall apply to DSLRpros, and thus it shall govern any and all data collection and usage thereof. Through the use of http://dslrpros.com you are herein consenting to the following data procedures expressed within this agreement.
 
