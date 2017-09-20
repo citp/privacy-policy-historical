@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061459id_/http%3A//www.trust.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920105030id_/https%3A//www.trust.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Trust.com - Legal - Privacy Statement
 
