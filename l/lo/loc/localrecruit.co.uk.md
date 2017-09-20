@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localrecruit.co.uk privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518004256id_/http%3A//www.localrecruit.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localrecruit.co.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920115920id_/http%3A//www.localrecruit.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Local Recruit: Privacy Policy
 
