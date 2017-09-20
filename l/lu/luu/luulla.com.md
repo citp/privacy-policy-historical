@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luulla.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619100710id_/http%3A//www.luulla.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luulla.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920180059id_/http%3A//www.luulla.com/static/privacy) for the most accurate reproduction.*
 
 # Luulla Privacy Policy - Luulla Help
 
@@ -6,7 +6,7 @@ protecting personal information
 
 -
 
-At Luulla, our priority is to protect the personal information that you have provided to us in a safe and efficient way. We only collect information from you whenever it's necessary and there is certain information that you can choose not to provide or may hde its access from others through the privacy settings at your account.
+At Luulla, our priority is to protect the personal information that you have provided to us in a safe and efficient way. We only collect information from you whenever it's necessary and there is certain information that you can choose not to provide or may hide its access from others through the privacy settings at your account.
 
 disclosure of information
 
