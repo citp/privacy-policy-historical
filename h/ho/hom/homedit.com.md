@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedit.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630175427id_/http%3A//www.homedit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedit.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920173753id_/https%3A//www.homedit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Decorating Trends - Homedit
 
