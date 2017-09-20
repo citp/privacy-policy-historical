@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617101850id_/https%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920180227id_/https%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
 
 # Better: The Feel Good Place. Join us now.
 
