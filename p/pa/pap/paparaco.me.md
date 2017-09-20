@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paparaco.me privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625105902id_/http%3A//paparaco.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paparaco.me privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920163949id_/http%3A//paparaco.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Hot Nude Celebrities Sexy Naked Pics
 
 Paparaco (“Paparaco”) operates [Paparaco.me](http://paparaco.me/) and may operate other websites. It is Paparaco’s policy to respect your privacy regarding any information we may collect while operating our websites.  
 Website Visitors
