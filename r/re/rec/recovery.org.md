@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recovery.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608194026id_/http%3A//recovery.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovery.org privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921003124id_/http%3A//www.recovery.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ We may combine the non-personal information we collect, such as through cookies 
 
 We may use the information we collect from and about you for any of the following purposes: (1) to improve the quality of the content available on our sites, administer the sites, and enable certain functionality such as your participation in interactive areas of the sites (2) to provide you with names of treatment centers; (3) to respond to your inquiries; (4) to review Website usage and operations; (5) to address problems with the Website, our business or our services; (6) to protect the security or integrity of the Site and our business; (7) to monitor the Site for compliance with our Terms of Use and the law; and (8) to contact you with Website updates, newsletters and other informational and promotional materials from us and third party marketing offers from our trusted partners, as well as from other companies.
 
-If you do not wish to receive communications from us about special offers and promotions, you can opt-out of receiving these communications by emailing us at removal@recoverybrands.com, or by following the instructions contained in the messages you receive.
+If you do not wish to receive communications from us about special offers and promotions, you can opt-out of receiving these communications by emailing us at [removal@recoverybrands.com](mailto:removal@recoverybrands.com), or by following the instructions contained in the messages you receive.
 
 ## Disclosure of Information
 
@@ -56,7 +56,7 @@ We do not direct the Website to, nor do we knowingly collect any personal inform
 
 ## Your California Privacy Rights
 
-California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by emailing privacy@recoverybrands.com.
+California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by emailing [privacy@recoverybrands.com](mailto:privacy@recoverybrands.com).
 
 ## Third Party Websites
 
@@ -64,4 +64,10 @@ The Site may contain links to third-party websites which may have privacy polici
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, you can contact us by emailing contact@recoverybrands.com. If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
+If you have questions or concerns about this Privacy Policy, you can contact us by emailing [contact@recoverybrands.com](mailto:contact@recoverybrands.com). If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
+
+##  How Our Help Line Works 
+
+For those seeking addiction treatment for themselves or a loved one, the Recovery.org help line is a private and convenient solution. Caring advisors are standing by 24/7 to discuss your treatment options. 
+
+**Calls to any general helpline (non-facility specific 1-8XX numbers) for your visit will be answered by American Addiction Centers (AAC) or a paid sponsor.**
