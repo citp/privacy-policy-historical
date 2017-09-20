@@ -1,45 +1,27 @@
-> *The following text is extracted and transformed from the zapinspace.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517153133id_/http%3A//www.zapcomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapinspace.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920144219id_/http%3A//www.zapinspace.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Zap! Online Comic
+# Privacy Policy - ZAP Pediatric Dental Care Clinic
 
-## [PRIVACY POLICY](http://www.zapcomic.com/privacy-policy/)
+Privacy Policy for http://zapinspace.com 
 
-### We won’t sell your information. No, really.
+Privacy Policy for http://zapinspace.com
 
-## Information that is gathered from visitors
+The privacy of our visitors to http://zapinspace.com is important to us.
 
-In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+At http://zapinspace.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://zapinspace.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Log Files
 
-Where registration is required, the visitor’s email and a username will be stored on the server.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-## How the Information is used
+Cookies and Web Beacons
 
-The information is used to enhance the vistor’s experience when using the website to display personalised content and possibly advertising.
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+DoubleClick DART cookies
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+We also may use DART cookies for ad serving through Googles DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (interest based targeting). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses non personally identifiable information. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting
 
-## Visitor Options
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
-
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
-
-## Cookies
-
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
-
-3rd party advertising companies may also use cookies for tracking purposes.
-
-## Google Ads
-
-Google, as a third party vendor, uses cookies to serve ads.
-
-Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-### We value you as a reader. We’ll keep your information private.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
