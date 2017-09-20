@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfjobsrequire.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520201715id_/http%3A//gulfjobsrequire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfjobsrequire.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920190121id_/http%3A//gulfjobsrequire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gulf Jobs Require
 
