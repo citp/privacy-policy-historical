@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashlearners.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626205413id_/https%3A//flashlearners.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashlearners.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920041512id_/https%3A//flashlearners.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy And Official Guidlines -Flashlearners
 
