@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614201101id_/http%3A//www.nafex.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920213304id_/http%3A//www.nafex.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Foreign Exchange Rates | Nafex.com
 
