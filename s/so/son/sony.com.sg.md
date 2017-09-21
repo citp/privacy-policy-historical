@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.com.sg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141622id_/http%3A//www.sony.com.sg/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com.sg privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921070140id_/http%3A//www.sony.com.sg/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
 
 # : Privacy Policy : Sony Singapore
 
