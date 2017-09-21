@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621180434id_/http%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921185956id_/https%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
 
 # 2paragraphs Privacy Policy
 
