@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112350id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921193505id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Motability Scheme
 
@@ -157,4 +157,4 @@ Any changes we may make to our privacy and cookies policy in the future will be 
 
 ## How to contact us about privacy policy
 
-Questions, comments and requests regarding this privacy and cookies policy are welcomed and should be addressed to the [feedback form](https://www.motability.co.uk/contact-and-support/contact-information/feedback-form) . You have the legal right to a copy of all the personal information about you held by us. You also have the right to correct any errors in that information.
+Questions, comments and requests regarding this privacy and cookies policy are welcomed and should be addressed to the [feedback form](https://web.archive.org/contact-and-support/contact-information/MO_030756) . You have the legal right to a copy of all the personal information about you held by us. You also have the right to correct any errors in that information.
