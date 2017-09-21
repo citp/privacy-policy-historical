@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011526id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922011727id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
 
 # I HEART CHAOS — Privacy Policy
+
+## Privacy Policy
 
 I Heart Chaos takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from the Tumblr privacy policy) describes how we treat the information we collect when you visit and use the website available at iheartchaos.com (the “Website” or “IHC”) and is made available under the Creative Commons Sharealikelicense. Please read this notice very carefully.
 
