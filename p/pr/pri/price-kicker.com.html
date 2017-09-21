@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the price-kicker.com privacy policy that was archived on 2016-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515170715id_/https%3A//www.price-kicker.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the price-kicker.com privacy policy that was archived on 2017-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170922004844id_/https%3A//www.price-kicker.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Price-Kicker.com</title>
@@ -23,7 +23,7 @@
 <link href="//mgmt.wusoma.com/deployments/price-kicker.com/prod/style/centered" rel="stylesheet" type="text/css">
 <link href="//mgmt.wusoma.com/deployments/price-kicker.com/prod/style/seo" rel="stylesheet" type="text/css">
 <link href="//mgmt.wusoma.com/deployments/price-kicker.com/prod/style/filter_right" type="text/css" rel="stylesheet">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZB3H"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.js"></script>
+<script async="" src="//www.google.com/adsense/search/async-ads.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZB3H"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 
 <!-- Google Ad Scripts -->
@@ -98,8 +98,8 @@ $(document).ready(function() {
 });
 </script>
 
-<script type="text/javascript" src="/v20160405/js/json.js"></script>
-<script type="text/javascript" src="/v20160405/js/wusoma.utils.js"></script>
+<script type="text/javascript" src="/v20170210/js/json.js"></script>
+<script type="text/javascript" src="/v20170210/js/wusoma.utils.js"></script>
 </head>
 <body class="content ver1">
 <div class="header clearfix">
@@ -513,6 +513,351 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-ZB3H');</script>
 <!-- End Google Tag Manager -->
 <!-- Criteo Post-Load-->
+<script type="text/javascript">
+        // START RELATED TERMS
+    
+    window.getRelatedTerms = function () {
+
+        var oneParts = new Array();
+        var twoParts = new Array();
+        var threeParts = new Array();
+    
+        jQuery("a.slp_name").each(function(){
+
+	        var title = jQuery(this).attr("title");
+	        title = title.toLowerCase();
+	        title = title.replace(/[^\w\säöüßÄÖÜ]/gi, '');
+	
+	        oneParts.push(title.split(" ", 1).join(" "));
+            twoParts.push(title.split(" ", 2).join(" "));
+            threeParts.push(title.split(" ", 3).join(" "));
+
+        });
+
+        oneParts = window.getTop(oneParts, pk.request.searchstring.toLowerCase());
+        twoParts = window.getTop(twoParts, pk.request.searchstring.toLowerCase());
+        threeParts = window.getTop(threeParts, pk.request.searchstring.toLowerCase());
+
+        var titles = oneParts.concat(twoParts, threeParts);
+        titles.sort(function(a, b) {return b[1] - a[1];});
+
+        if (typeof pk.request.mkt != "undefined" && pk.request.mkt != "undefined" && pk.request.searchstring != pk.request.mkt)
+        {
+	        var mkt = new Array();
+	        mkt[0] = pk.request.mkt;
+	        titles.unshift(mkt);
+
+        }
+
+
+        return titles;
+    };
+
+        window.getTop = function(array_elements, exclusion) {
+            var result = new Object();
+            var sortable = [];
+            array_elements.sort();
+
+            var current = null;
+            var cnt = 0;
+            for (var i = 0; i < array_elements.length; i++) {
+                if (array_elements[i] != current) {
+                    if (cnt > 0) {
+                        result[current] = cnt;
+                        if (exclusion.indexOf(current) == -1)
+                            sortable.push([current, cnt]);
+                    }
+                    current = array_elements[i];
+                    cnt = 1;
+                } else {
+                    cnt++;
+                }
+            }
+            if (cnt > 0) {
+                result[current] = cnt;
+                if (exclusion.indexOf(current) == -1)
+                    sortable.push([current, cnt]);
+            }
+    
+
+            sortable.sort(function(a, b) {return b[1] - a[1];}) ;  
+
+            sortable = sortable.slice(0,3);
+
+            return sortable;
+        };
+        
+        window.showRelatedTerms = function () {
+            if (typeof pk == 'undefined' || typeof pk.request == 'undefined') {
+              return;
+            }
+
+            var titles = window.getRelatedTerms();
+
+            var container = jQuery("div#relatedTerms");
+            container.empty();
+
+            for (var n in titles )
+            {
+                var title = titles[n][0];
+                var link = jQuery("<a>");
+                var gclid = (/gclid=([^&#]+)/.exec(location.href) || [])[1];
+                var linkUrl = "/search.html?searchstring=" + encodeURIComponent(title) + "&_utmm=" + encodeURIComponent(pk.request._utmm) + "&related_to=" + encodeURIComponent(pk.request.searchstring);
+                if (gclid !== undefined)
+                {
+                    linkUrl += "&gclid=" + gclid;
+                }
+  
+                link.css("margin", "10px 20px 10px 0px");
+                link.css("color", "white");
+                link.css("background-color", "#F5398B");
+                link.css("padding", "3px");
+                link.attr("target", "_blank");
+                link.attr("href", linkUrl);
+                link.html( title + " ►");
+                link.click(function(){
+                    window['optimizely'] = window['optimizely'] || [];
+                    window.optimizely.push(["trackEvent", "relatedTermClick"]); 
+                });
+    
+                container.append(link);
+            }
+
+        };
+
+        jQuery(document).ready(function(){
+	        window.showRelatedTerms();
+        });
+
+        jQuery(document).ajaxComplete(function(){
+	        window.showRelatedTerms();
+        });
+
+
+    
+    // END RELATED TERMS
+</script>
+
+
+
+<script type="text/javascript">
+(function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+(function (global, document, $) {
+    var _mccId = "pk-en_US-lab";
+    var _channelId;
+    
+    switch(_mccId) {
+        case 'pk-de_DE-lab':
+            _channelId = '9057456089';
+            break;
+        case 'pk-de_DE-2015':
+            _channelId = '7580722885';
+            break;
+        default:
+            _channelId = '8941960886';
+    }     
+    
+    window.channelId = _channelId;
+    
+  var ROW_POSITION = 5;
+  var _results = undefined; 
+  var _loaded = false;
+  var _show = false;
+  var _banner_script = '';
+  var _query = "";
+  try {
+    _query = global.pk.request.searchstring;
+  } catch (e) {
+  }
+  global.pageOptions = {
+    'adPage': 1,
+    'channel': _channelId,
+    'gl' : 'de',
+    'hl' : 'de',
+    'pubId' : 'pub-6380646341150113',
+    'query' : _query,
+    'siteLinks': false,
+    'detailedAttribution': false,
+    'colorDomainLink': '30528f'
+  };
+  global.adBlock1 = {
+   'container':'afs_ads1',      
+   'lines': 1,
+   'fontSizeTitle': 14,
+   'fontSizeDescription': 13,
+   'colorTitleLink': '#4e4e4e',
+   'longerHeadlines': false,
+   'siteLinks': false,
+   'detailedAttribution': false,
+   'linkTarget':'_blank'
+  };
+  global.adBlock2 = $.extend(true, {}, adBlock1, {
+    'container':'afs_ads2',  
+    'adtest': 'on',
+    'location': true,
+    'sellerRatings': true,
+    'number': 3,
+    'fontSizeTitle': 14,
+    'fontSizeDescription': 13,
+    'colorTitleLink': '#4e4e4e',
+    'longerHeadlines': true,
+    'siteLinks': true,
+    'detailedAttribution': true,
+    'linkTarget':'_blank'
+  });
+  global.adBlock3 = $.extend(true, {}, adBlock1, {
+    'container':'afs_ads3',  
+    'adtest': 'on',
+    'location': true,
+    'sellerRatings': true,
+    'number': 3,
+    'fontSizeTitle': 14,
+    'fontSizeDescription': 13,
+    'colorTitleLink': '#4e4e4e',
+    'longerHeadlines': true,
+    'siteLinks': true,
+    'detailedAttribution': true,
+    'linkTarget':'_blank'
+  });      
+
+  // Set cookie on submit
+  $('#search-form').on('submit', function (e) {
+    _show = true;
+		_loaded = false;
+		global.pageOptions.query = $('input[name=searchstring]').val();	
+    document.cookie = "_ua=1; domain=" + _domain + "; path=/";
+    return true;
+  });
+  // Get the domain without subdomain
+  var _getDomain = function() {
+        var hostName = window.location.hostname;
+        var domain = hostName;
+        
+        if (hostName != null) {
+            var parts = hostName.split('.').reverse();
+            
+            if (parts != null && parts.length > 1) {
+                domain = parts[1] + '.' + parts[0];
+                    
+                if (hostName.toLowerCase().indexOf('.co.uk') != -1 && parts.length > 2) {
+                  domain = parts[2] + '.' + domain;
+                }
+            }
+        }
+        return domain;
+  }
+  
+  var _domain = _getDomain();
+  
+  // Check action
+  var _show = _show || (/_ua=1/g.exec(document.cookie) !== null);
+  var _get_row_length = function () {
+    var max_offset_left = undefined, max_index = undefined;
+
+    $('> li', this).each(function (index, elem) {
+      if ((typeof max_offset_left == 'undefined') || max_offset_left < $(elem).position().left) {
+        // As long as element offset is larger than that of the previous
+        max_offset_left = $(elem).position().left;
+        max_index = index;
+      } else if (max_offset_left > $(elem).position().left) {
+        // Offset less than previous element, must be new line (exit loop)
+        return false;
+      }
+    });
+  
+    return max_index + 1;
+  };
+  var _prepareAdsenseBoxes = function (adBlock) {
+      var element = document.getElementById(adBlock.container);
+      if (!element) {
+        $('body').prepend('<div class="adsense_outer" style="display:none;"><div id="' + adBlock.container + '" class="adsense_inner" style="width:100%; float:left; clear:both; margin-bottom:5px;"></div></div>');
+      };
+      return document.getElementById(adBlock.container);
+  };
+  var _init_adsense = function (c) {
+    if (!c.is_erotic && _show && !_loaded) {
+      var rowLength = _get_row_length.call(this.results);    
+      var element1 = document.getElementById(adBlock1.container);
+      
+      if (!element1) {
+        $('.content_wrapper_inner').prepend('<div class="adsense_box adsense_head"><div id="' + adBlock1.container + '" class="adsense_inner"></div></div>');
+      };
+    
+      var element2 = _prepareAdsenseBoxes(adBlock2);
+      var element3 = _prepareAdsenseBoxes(adBlock3);
+      
+      if (!$(element2).parent().hasClass('done') && $('ul.products > li') !== undefined && $('ul.products > li').length > rowLength * ROW_POSITION) {
+        $('> li:nth-child(' + (_get_row_length.call(this.results) * ROW_POSITION) + ')', this.results).each(function (i, e) {
+          $(e).after($(element2).parent().detach());
+		  _adjust_inline_block();
+		  $(element2).parent().css({'display':'block'});
+		  $(element2).parent().addClass('done');
+        });
+      }
+   
+      if (!$(element3).parent().hasClass('done') && $('ul.products > li') !== undefined && $('ul.products > li').length > rowLength * ROW_POSITION *2) {
+        $('> li:nth-child(' + (_get_row_length.call(this.results) * ROW_POSITION * 2 + 1) + ')', this.results).each(function (i, e) {
+          $(e).after($(element3).parent().detach());
+		  _adjust_inline_block();
+		  $(element3).parent().css({'display':'block'});
+		  $(element2).parent().addClass('done');
+		  _loaded = true;
+        });
+      }
+      try {      
+        _googCsa('ads', pageOptions, adBlock1, adBlock2, adBlock3);
+      } catch(e) {
+        
+      }
+	  document.cookie = '_ua=0; domain=' + _domain + '; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+  };
+  var _adjust = function(adBlock) {
+    var b = $('#' + adBlock.container).parent(), p, n, pos, i = 0;
+    if (b) {  
+      p = $(b).prev('li'), n = null, pos = _get_row_length.call(_results);
+      while ($(p).index() % pos && (i++ < pos)) {   
+        p.before($(b).detach());
+        p = p.prev('li');
+      }
+    }  
+  };
+  var _adjust_inline_block = function() {
+    _adjust(adBlock2);
+    _adjust(adBlock3);
+  };
+  if (typeof global.adsense != 'undefined') {
+    global.adsense.detachContainer = function(id) {};
+    global.adsense.init = _adjust_inline_block;
+  } else {
+    $(global).resize(function () {
+      _adjust_inline_block();
+    });
+  }
+  // In a scroll context we register a callout
+  if (pk.search.results) {
+    pk.search.registerCallout('completed', function (c) {
+			_init_adsense.call(this, c);  
+    });
+  } else {
+    $(document).ready(function () {
+      _results = $('ul.products', document.body)[0];
+      _init_adsense.call({
+        'results' : _results
+      }, {
+        'is_erotic' : 0,
+      }); 
+    }); 
+  }
+})(window, document, jQuery);
+</script>
+
+
+
+
 
 
 </body></html>
