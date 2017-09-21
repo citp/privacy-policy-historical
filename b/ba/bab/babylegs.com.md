@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421175155id_/http%3A//www.babylegs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921150653id_/http%3A//www.babylegs.com/privacy-policy) for the most accurate reproduction.*
 
 # Leg warmers for babies & toddlers at BabyLegs - Privacy policy
 
@@ -8,7 +8,7 @@
 
 The information we obtain from you is primarily for communication purposes and to assist us in serving you. Additionally it helps us to personalize and continually improve your user experience with BABYLEGS® products and services.
 
-**Scope of Privacy Policy:** This Privacy Policy applies only to the personal information you provide and we collect through our Services. By "personal information," we mean information that identifies you personally. This Privacy Policy is incorporated into and hereby made a part of the BABYLEGS® Terms of Use. You can view the Terms of Use at: http://www.babylegs.com/terms-of-use
+**Scope of Privacy Policy:** This Privacy Policy applies only to the personal information you provide and we collect through our Services. By "personal information," we mean information that identifies you personally. This Privacy Policy is incorporated into and hereby made a part of the BABYLEGS® Terms of Use. You can view the Terms of Use at: [www.babylegs.com/terms-of-use](http://www.babylegs.com/terms-of-use/)
 
 **Types of Information Gathered:** Through your use of our Services, we gather the following types of information:
 
