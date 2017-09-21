@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tecademics.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530083720id_/http%3A//www.tecademics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecademics.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921233306id_/http%3A//tecademics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tecademics - The School for Internet Marketers
+# - Tecademics - The School for Internet Marketers
 
 Tecademics (referred to herein as “Tecademics,” “our,” “us” or “we”) is committed to respecting the privacy rights of those visiting our websites, including our independent contractors’ Replicated Websites (hereafter collectively referred to as the “Website” or “Websites”). Tecademics created this Privacy Policy to give you confidence as you visit and use the Websites, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
@@ -148,7 +148,7 @@ Tecademics reserves the right to amend or change this Privacy Policy at any time
 
 **MAKING CHANGES TO YOUR PERSONAL INFORMATION**
 
-Independent contractors and registered Customers may update their personal information as necessary by logging into their Tecademics online Back Offices, which allows them to access and edit their registration account information. In addition, Independent Contractors and Registered Customers may contact us at [askmeanything@tecademics.com.](https://web.archive.org/web/20170530083720id_/http://www.tecademics.com/privacy-policy/askmeanything@tecademics.com)
+Independent contractors and registered Customers may update their personal information as necessary by logging into their Tecademics online Back Offices, which allows them to access and edit their registration account information. In addition, Independent Contractors and Registered Customers may contact us at [askmeanything@tecademics.com.](https://web.archive.org/web/20170921233306id_/http://www.tecademics.com/privacy-policy/askmeanything@tecademics.com)
 
 **SOCIAL SECURITY NUMBER PROTECTION POLICY**
 
@@ -174,4 +174,4 @@ We reserve the right to respond to any post or user content and may occasionally
 
 **QUESTIONS**
 
-Questions regarding this Privacy Policy should be directed to [askmeanything@tecademics.com.](https://web.archive.org/web/20170530083720id_/http://www.tecademics.com/privacy-policy/askmeanything@tecademics.com)
+Questions regarding this Privacy Policy should be directed to [askmeanything@tecademics.com.](https://web.archive.org/web/20170921233306id_/http://www.tecademics.com/privacy-policy/askmeanything@tecademics.com)
