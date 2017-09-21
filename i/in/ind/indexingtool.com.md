@@ -1,23 +1,15 @@
-> *The following text is extracted and transformed from the indexingtool.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112054032id_/http%3A//indexingtool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexingtool.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921183339id_/http%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+###  What’s in a Domain Name? 
 
-**Routine Information Collection**
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+### DomainMarket.com Privacy Policy
 
-**Cookies and Web Beacons**
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-Where necessary, This site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
-
-**Controlling Your Privacy**
-
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
-
-**Special Note About Google Advertising**
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
