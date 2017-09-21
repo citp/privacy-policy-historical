@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cryptoninjas.net privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312081225id_/https%3A//www.cryptoninjas.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptoninjas.net privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921082329id_/https%3A//www.cryptoninjas.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CryptoNinjas
+# Privacy Policy » CryptoNinjas
 
 **What personal information do we collect from the people that visit our blog, website or app?  
 **When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
@@ -62,7 +62,7 @@ We, along with third-party vendors such as Google use first-party cookies (such 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.**
 
 **California Online Privacy Protection Act  
-**CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+**CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 **According to CalOPPA, we agree to the following:  
 **Users can visit our site anonymously.
