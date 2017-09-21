@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619191703id_/https%3A//www.pepperdine.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921203952id_/https%3A//www.pepperdine.edu/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pepperdine University | Seaver College
+# Privacy Policy | Pepperdine University
 
 Pepperdine University (“Pepperdine” or “the university”) provides this Web site (“site”) as a service to students, faculty, alumni, and prospective students.  Use of the site is subject to the terms and conditions set forth below in Pepperdine’s Privacy Policy (“policy”). 
 
