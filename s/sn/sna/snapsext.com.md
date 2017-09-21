@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsext.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131930id_/http%3A//www.snapsext.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsext.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921092116id_/http%3A//www.snapsext.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
