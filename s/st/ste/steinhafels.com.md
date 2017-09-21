@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steinhafels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051052id_/http%3A//www.steinhafels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinhafels.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921082118id_/http%3A//www.steinhafels.com/privacy-policy) for the most accurate reproduction.*
 
 # Steinhafels - Privacy Policy
 
@@ -24,6 +24,6 @@ YOU CONSENT TO THE TRANSFER OF DATA, INCLUDING THE PERSONAL INFORMATION YOU PROV
 
 This Site and service are not targeted towards, nor intended for use by, persons under the age of 13. If you are not at least 13 years of age, do not access, use, or register on the website. We do not want to or knowingly collect personal information from persons under age 13 (in which case we will terminate and delete your account and all information contained therein) without prior parental consent. Unless we have knowledge to the contrary, we will presume that all personally identifiable information collected by the website or service is from persons age 13 and over. By using the website or service, you represent and warrant that you are 13 years of age or older. 
 
-If you have any questions about this Privacy Policy or concerns about the way we process personal data, please contact us at itdept@steinhafels.com. 
+If you have any questions about this Privacy Policy or concerns about the way we process personal data, please contact us at itdept@steinhafels.com.
 
 This Privacy Policy was posted on March 31, 2017. We may occasionally modify this Privacy Policy. 
