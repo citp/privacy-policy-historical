@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611225920id_/http%3A//www.syntelinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921064411id_/https%3A//www.syntelinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Syntel
 
@@ -71,6 +71,8 @@ California law permits users who are California residents to request and obtain 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Syntel remains liable for the protection of your personal data that we transfer to our service providers, except to the extent that we are not responsible for the event giving rise to any unauthorized or improper processing.
 
 **Tracking Technologies / Cookies**
 
