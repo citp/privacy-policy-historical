@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-english.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614145316id_/http%3A//global-english.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-english.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921181058id_/https%3A//www.global-english.com/privacy) for the most accurate reproduction.*
 
 # Disclaimer
 
