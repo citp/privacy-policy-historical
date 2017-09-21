@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128024456id_/https%3A//www.autismspeaks.org/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921052351id_/https%3A//www.autismspeaks.org/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | | Autism Speaks
 
@@ -110,7 +110,7 @@ You can access or modify your information and modify your preferences by contact
 
 **8\. CONTACT US**
 
-If you have any further questions regarding this privacy policy or the use of your Personal and Other Information under this privacy policy, you can contact us at [info@autismspeaks.org](mailto:info@autismspeaks.org) or at the address below.
+If you have any further questions regarding this privacy policy or the use of your Personal and Other Information under this privacy policy, you can contact us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org) or at the address below.
 
 Privacy Director  
 Autism Speaks  
@@ -119,8 +119,8 @@ New York, NY 10016
 
 **Opting-out**
 
-You may request to stop receiving electronic or postal notifications from Autism Speaks at any time by contacting us at [unsubscribe@autismspeaks.org](mailto:unsubscribe@autismspeaks.org). In the subject field, type "Opt Out" and provide us your name and the e-mail, phone or postal address you wish to be removed.
+You may request to stop receiving electronic or postal notifications from Autism Speaks at any time by contacting us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org?subject=Opt%20Out). In the subject field, type "Opt Out" and provide us your name and the e-mail, phone or postal address you wish to be removed.
 
-**California Residents:** If you would like to request that we withhold your information from any third-party, please e-mail us at [info@autismspeaks.org](mailto:info@autismspeaks.org). In the subject field, type "Third-Party Opt Out" and provide us your name and the e-mail, phone or postal address you wish you have removed.
+If you would like to request that we withhold your information from any third-party, please e-mail us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org?subject=Third-Party%20Opt%20Out). In the subject field, type "Third-Party Opt Out" and provide us your name and the e-mail, phone or postal address you wish you have removed.
 
-**__This policy was updated: June 2012__**
+**__This policy was updated: August 2017__**
