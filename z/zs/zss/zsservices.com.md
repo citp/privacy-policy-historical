@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsservices.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511033216id_/http%3A//zsservices.com/Privacy-Policy-Highlights.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsservices.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921220842id_/http%3A//zsservices.com/Privacy-Policy-Highlights.aspx) for the most accurate reproduction.*
 
 # 
 
