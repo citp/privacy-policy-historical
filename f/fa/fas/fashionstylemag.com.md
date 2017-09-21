@@ -1,86 +1,184 @@
-> *The following text is extracted and transformed from the fashionstylemag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072850id_/http%3A//www.fashionstylemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionstylemag.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921063513id_/http%3A//www.fashionstylemag.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Fashion Style Mag
+# Privacy Policy - Fashion Style Mag
 
-**Purpose and Scope of this Privacy Policy.**  
-This privacy policy describes how EngageGen, Inc. and its Affiliates (collectively, “ **EGEN** “) treat the Personally Identifiable Information that is collected about you when you visit the web sites, mobile-optimized versions of the web sites, and digital applications to which this policy is linked (collectively, “ **Covered Sites** “). For the purposes of this policy, an entity controlling, controlled by, or under common control with another entity shall be deemed to be an “Affiliate”, where control means ownership of 15% or more of the voting stock or other ownership interests. For the purposes of this policy, “ **Personally Identifiable Information** ” is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this privacy policy.
+Fair Information Practices
 
-  1. This privacy policy does not apply to information collected about you by anyone except EGEN and only applies to the Covered Sites (defined above). This privacy policy does not apply to EGEN websites which are not linked to this policy and does not apply to non-EGEN websites, including those linked to or advertised on a Covered Site. Any information you provide when you visit websites other than those covered by this policy will be subject to the privacy policies posted on those sites.
-  2. We may offer our Magazines through certain third party websites via a subscription page on such third party websites that is linked to this policy. For the avoidance of doubt, such subscription page is a “Covered Site” and this policy applies to information collected through the subscription page, but does not apply to information collected through the third party website.
-  3. Except as specified herein, this policy also does not apply to information you may provide to us offline; however please do be aware that if you subscribe offline to one of the magazines published by EGEN (“ **Magazines** “), from time to time we make your postal addresses available to companies for marketing purposes.
-  4. Certain features of the Covered Sites may be subject to additional or different privacy provisions, which will be posted on the Covered Site in connection with such features. All such additional or different privacy provisions are incorporated by reference into this privacy policy.
-  5. **Collection of Information**
-  6. **Information You Provide.** EGEN generally collects Personally Identifiable Information that you voluntarily provide. For instance, when you enter a sweepstakes or contest, complete a survey, participate in a reader panel, register for those portions of our Covered Sites that may require registration, make a purchase, participate in our social networking features, request back issues of our Magazines, subscribe to our Magazines, subscribe to receive newsletters, promotional correspondence, or other electronic services, or send us an email or feedback, you may be asked to provide information such as your e-mail address, name, phone number, shipping address, and billing information, and we will collect such information as well as any other content you provide us in engaging in any of the above activities. Information such as your age, gender, hobbies or interests may also be requested. If you elect to post material to any blogs, forums, participate in our social networking features or other community boards that may be offered on our Covered Sites, then such materials will be collected and may be publicly available for others to view.
-  7. **Cookies.**
+Fair information  
+Practices
 
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-(i) EGEN (or third party service providers on our behalf) may set and access cookies and similar technologies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Some of our cookies may be local shared objects, also known as Flash cookies. Cookies may be session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). EGEN uses cookies to understand site usage and to improve the content and offerings on our Covered Sites and in other media. We may use cookies to control the display of ads, to track usage patterns on the sites, to deliver editorial content, to record requests for subscriptions and to personalize information. Our cookies may contain Personally Identifiable Information and such cookies may be shared with others to the same extent indicated in Section 4. EGEN (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis(“Anonymous Information”). We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+ **When do we collect information?**
 
-(ii) Some of our third party partners (including advertisers and marketing services companies) may set and access cookies and similar technologies on your computer as well, or we may do so on their behalf. We do not have control over how these third parties use such cookies and similar technologies or the information derived therefrom.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form, Use Live Chat, Open a Support Ticket or enter information on our site.
 
-(iii) If you don’t want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Covered Sites may not function efficiently. Flash cookies may regenerate HTTP cookies that you have affirmatively deleted. Deleting, rejecting, disabling or turning off HTTP cookies as described above will not remove flash cookies. We use flash cookies as an alternative method to HTTP cookies for storing information about your web browsing history across unaffiliated domains, unrelated to the delivery of content through the FlashPlayer or the performance of the Flash Player in delivering such content. You can manage and delete flash cookies by visiting <http://kb2.adobe.com/cps/526/52697ee8.html>.
+Provide us with feedback on our products or services 
 
-  1. **Gifs.** We may use “ **clear GIFs** ” (aka “ **webbeacons** ” or “ **pixel tags** “) or similar technologies, in the sites and in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel,transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear gif may enable us to relate your viewing or receipt of a webpage or message to other information about you, including your Personally Identifiable Information.
-  2. **IP Address.** Your Internet Protocol (“ **IP** “) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. Our server may also record the referring page that linked you to us(e.g., another Web site or a search engine); the pages you visit on our Covered Sites, the web sites you visit after this web site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this web site or a referral site; and other web usage activity and data logged by our web servers. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our Covered Sites. We may also link this information with your Personally Identifiable Information when we feel that it is necessary to enforce compliance with our rules and policies or terms of service or to protect our Covered Sites, customers or others.
-  3. **Location Information.** We may, and may enable our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services (“ **WAP Services** “)or mobile phone service (“ **Mobile Services** “). We, or the service provider, will inform you of such collection at the time you use the service. **By using such service, you hereby consent to our collection, use and disclosure of your location information as described.**
-  4. **Third Parties.** We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines. Those third parties have privacy policies that differ from this Privacy Policy.
-  5. **Tracking Requests.** EGEN does not act on Do Not Track requests from your browser. For more information [click here](http://www.roadandtrack.com/about/privacy-policy#tracking_requests)
-  6. **h**. **Effect of Tracking Requests**. EGEN does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.
-  7. **Use of Information.**
-  8. EGEN uses information we collect from you in part to provide you with the service you have requested. If you subscribe to any of our online Magazines, we may also use your e-mail address to send you a confirmation notice and your mailing address to send you your Magazine. Similarly, if you enter online sweepstakes, we will also use this information to notify you if you area winner. We also use your information to register you, identify you as a user, improve our Covered Sites and services, send you administrative notifications, and respond to your inquiries. We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements from our Covered Sites, our partners and/or our advertisers. We also use information in connection with advertising and to serve other content, as described in section 4(d) below.
-  9. We may combine and use any and all information we collect on you either online or otherwise, including from third parties, for marketing purposes.
-  10. When you provide us your email address (e.g., to subscribe to our Magazines) but are not already a registered user of one of our Covered Sites, some of our Covered Sites may assign you a user name and password so that we can enhance your user experience by facilitating easy entry into other features and offers on the Covered Sites and saving your preferences. Certain areas on our Covered Sites require registration, and in those areas, you will be asked to establish your own user name and password oryou can elect to use the one we’ve assigned. Your user name and password (“ **User Registration** “) will function across many of our Covered Sites, regardless of brand. Your User Registration will also be recognized at some of our Affiliate sites and sites which we partner with so that you may easily access features on those sites using your User Registration (“ **Shared Registration Sites** “); however the information we provide and your actions on those Shared Registration Sites will be governed by the separate privacy policies of those Shared Registration Sites. A list of those Shared Registration Sites is set forth below, and may be updated from time to time. Current Shared Registration Sites are: The National Magazine Company Limited. You may elect to change your User Registration at any time by logging in and editing your User Registration (each of our Covered Sites will contain log-in information). You may also log-in to cancel any User Registration that you may have selected or that we may have assigned. If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for the purpose of assuring you are not automatically registered again, against your wishes. You may request deletion of your Personally Identifiable Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.
-  11. In addition, we may use information you provide us through emails, Q&A, blogs, forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published online and in our Magazines. If you provide us with personal anecdotes, they may be attributed to you. EGEN can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the Magazines, and in trade media, and advertising.
-  12. We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion.
-  13. **Disclosure of Your Information**
-  14. In addition to the other disclosures described in this policy, EGEN may (and you authorize us to) share or disclose Personally Identifiable Information about you to other companies or individuals in the following situations:
+**How do we use your information?**
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
+ **•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-(i) We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your Personally Identifiable Information and not to use your Personally Identifiable Information for any reason except to carry out the purpose(s) for which we hired them. (“ **Service Provider Exception** “).
+ **•** To improve our website in order to better serve you.
 
-(ii) You have entered a contest or sweepstakes sponsored by a third party, in which case the information you provide via the contest or sweepstakes may be shared by us with that third party for their use in their discretion, including direct marketing. Some of our contests and sweepstakes will ask you at the time of entry whether you would like to have your personal information shared with the sponsor, in which case we will honor your selection. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest. The privacy policies of such third party companies apply to their use and disclosure of your information that we collect and disclose to such third party companies.
+ **•** To allow us to better service you in responding to your customer service requests.
 
-(iii) The entity to whom the information is disclosed is a Shared Registration Site (as defined in Section 3(c)above).
+ **•** To administer a contest, promotion, survey or other site feature.
 
-(iv) The entity to whom the information is disclosed is an Affiliate of EGEN.
+ **•** To quickly process your transactions.
 
-(v) In accordance with your indicated preferences (e.g., you indicated you wanted to receive promotional materials directly from a third party partner).
+ **•** To ask for ratings and reviews of services or products
 
-(vi) The entity is a third party who wants to promote goods and services we think would be of interest to you.
+ **•** To follow up with them after correspondence (live chat, email or phone inquiries)
 
-(vii) You have furnished us Personally Identifiable Information with the intent that it be forwarded to a third party for use in connection with a specified service you are electing to participate in (examples include, without limitation, e-commerce partners, services to help old friends locate you online, etc.).
+ **How do we protect your information?**
 
-(viii) We need to protect our legal rights (for example, if we are trying to collect money you owe us); we must comply with applicable laws, regulations, or legal or regulatory process, or comply with subpoenas or warrants served on us, or in connection with a legal investigation; or we have reason to believe that someone may be causing injury to someone or interfering with our rights or the rights of our users, or general public, or using our services in violation of a legal or personal right, including our Terms of Use(collectively, the “ **Legal Exceptions** “).
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-(ix) In connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise, including via bankruptcy) of all or a portion of the business conducted by the Covered Site to which this policy applies, in which case the company will possess the Personally Identifiable Information collected by us and will assume the rights and obligations regarding your Personally Identifiable Information as described in this privacy policy (“ **Acquisition Exception** “).
+We use regular Malware Scanning.
 
-  1. **Social Networks.** If you use your login credentials from a social networking site (e.g., Facebook or Twitter) (“ **SNS** “) on a Covered Site, we may receive information from such SNS in accordance with the terms and conditions (e.g.,terms of use and privacy policy) of the SNS (“ **SNS Terms** “). If you elect to share your information with these SNS, we will share information with them in accordance with your election. The SNS Terms of these SNS will apply to the information we disclose to them.
-  2. **Third Party Partners.** Some of our Covered Sites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place on a Covered Site, or the site of the third party. In either case, Personally Identifiable Information you provide in connection with the transaction may be collected directly by, or shared by EGEN with, the third party, as well as with any participating sponsors or advertisers of such opportunities and features. Some of our Covered Sites may offer you the ability to access a third-party site with whom we have a relationship to access both sites through a co-branded registration or password; in that event, your applicable registration information may be collected directly by, or shared by EGEN with, the third-party partner. We will notify you at the applicable point of sign up if any such co-branded registration or password practices will be in effect. These third parties will use your information in accordance with their own privacy policy.
-  3. **Delivery of Advertising and Other Content.**
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-(i) In addition to ads and content that we serve you directly, we use third-party advertising companies and marketing services companies to serve ads and other content when you visit our Covered Sites and elsewhere on the internet and in other media. Both we and these companies may use information about your visits to this Covered Site and elsewhere to serve ads and other content to you. In the course of doing so, a unique third-party cookie may be placed or recognized on your browser by such companies. In addition, we and these companies may use Web beacons to help manage our online advertising and content. These Web beacons enable us and the third-party companies to recognize a browser’s cookie when a browser visits this site and to learn which banner ads bring users to our website and to serve you ads that you may find of interest elsewhere on the internet and in other media. Both EGEN and these companies may use information obtained from your visits to the Covered Sites (including your status as a customer of EGEN), other websites, and information received from you offline in order to provide advertisements about goods and services and other content of interest to you across the internet and in other media. If you would like more information about this practice and to know your choices about not having this information used in this manner by our third party advertising companies please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You may also visit alc-opt-out.com to find out how our marketing services companies operate.
+ **Do we use ‘cookies’?**
 
-(ii) In addition, we may provide Personally Identifiable Information and Anonymous Information to marketing services companies. This may include information we received from you offline or online. These companies may combine information we provide (including Personally Identifiable Information and Anonymous Information) with personal and anonymous information they may have about you, using cookies they place or that we place on their behalf, as described in Section 2(b). We require these companies to delete the Personally Identifiable Information we provide them. These companies may use the resulting non-personal information and such cookies for their own marketing purposes, and they may provide the same to their customers for their customer’s marketing purposes. If you would like to know your choices about not having this information used by such companies, please visit: alc-opt-out.com.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**(e) Subscription Video Services.** We may offer the right for you to access video content as a paid subscription service (“Paid Video Subscription Services”). As a condition of becoming a subscriber, you must grant your consent to allow us to share information about the content you have viewed to third parties in order to provide you with the service, for our and others’ marketing purposes and to help you inform others about your experiences on social media services such as Facebook and Twitter. If you no longer wish us to share information about what you have watched on our service, you can cancel your subscription at any time. A list of those Paid Video Subscription Services, together with information on how to contact customer service about your account, will appear here. Current Paid Video Subscription Services are: BRAV.TV – hello@brav.tv
+ **We use cookies to:**
 
-  1. **Right to Opt-out**
-  2. **California & Canadian Users: Your California Privacy Rights.** California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. Sections 4(d)and 5(d) explain our practices and how you can opt-out of having your information shared with third parties for the third parties’ direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing Sections 4(d) and5(d), if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Mail Preference Service,P.O. Box 9225 Jane Street, Vaughan ON L6A 0J7 or contacting us at hello@engagegen.com. In the case of marketing via Paid Video Subscription Services, please refer to the customer service contact set forth at section4(e) above. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.
-  3. **Mobile Opt-out.** We may provide you messages, including marketing, via your wireless email address orby short message service (“ **SMS Service** “),WAP or Mobile Services as described in Section 6. You may opt-out of these messages from us by replying “STOP” or following the instructions provided in the message.
-  4. **Marketing provided by EGEN.** From time to time we may send you promotional materials on behalf of EGEN and/or third parties. If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at <http://engagegen.com/contact/>. If you want us to stop sending you promotional materials to your postal mailing address, you may notify us in writing by sending a notice to Mail Preference Service, 9225 Jane Street, Vaughan ON L6A 0J7 or contacting us at [hello@engagegen.com](mailto:hello@brav.email). Certain Covered Sites may include a customer service link at the bottom of such site. If so, you may also manage your email preferences through that link.
-  5. **Marketing provided by Third Parties.** From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes. This may be information we received from you offline and online. If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at http://engagegen.com/contact/.If you want us to stop further sharing your postal mailing contact information with third parties (if we have your postal address), you may notify us in writing by sending a notice to Mail Preference Service, 9225 Jane Street, Vaughan ON L6A 0J7 or contacting us at [hello@engagegen.com](mailto:hello@brav.email). If you wish to opt out of having your information shared with marketing services companies, please see section 4(d) above. In the case of marketing via Paid Video Subscription Services, please refer to the customer service contact set forth at section 4(e) above. Please follow the instructions provided to you by third parties to unsubscribe from their messages.
-  6. **Exceptions.** If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g.,you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
-  7. **Device Settings.** Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
-  8. **Wireless Email Address, Short Message Services and WAP.** If the email address you provide to us isa wireless email address, you agree to receive messages at such address from EGEN or from third parties. Similarly, we may make available services through which you can receive messages on your phone or wireless device SMS Service or WAP Services. We may also make available content and versions of our Covered Sites available via WAP and Mobile Services. If you subscribe to one of our SMS, WAP or Mobile Services, you thereby agree to receive services and messages at the address you provide for such purposes. Such messages may come from EGEN, or from third parties. To use the wireless email address, SMS, WAP, or Mobile Service, you must reside in the United States. We may also obtain the date, time and content of your messages. We will use the information we obtain in connection with these services in accordance with this Privacy Policy. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. **By providing us your wireless email address or by signing up for any SMS, WAP, or Mobile Service, you consent to receiving messages as described above. You understand that your wireless carrier’s standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.**
-  9. **Security of Your Personally Identifiable Information.** We use a variety of industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your registration information. Please do not disclose your registration password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is100% secure, however. Therefore, while EGEN uses reasonable efforts to protect your Personally Identifiable Information, EGEN cannot guarantee its absolute security.
-  10. **Kids And Parents.** The Covered Sites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limits your children’s exposure to material online. **Minors’ Right to Request Deletion of User-Posted Comments:** If you are a California resident and registered user on FashionStyleMag.com and posted comments on that site when you were under 18 years old, you may request deletion of those comments by contacting us at info@fashionstylemag.com. and indicate in the subject line “California take-down request”. You must provide us with the live url where the content resides, a copy of the content (cut and pasted into your email), the date of publication and, if applicable, the user name associated with it. We will act as promptly as possible to remove the posting (except in certain circumstances mandated by law). Note that our deletion does not ensure complete or comprehensive removal of your content from the internet and comments that may have been posted by others about you or your posting will remain accessible online.
-  11. **Non-U.S. Users.** If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts of, and in accordance with the laws of, the state of New York.
-  12. **Changes to This privacy policy.** This privacy policy is subject to occasional revision, and if we make any material changes in the way we use your Personally Identifiable Information, we will prominently post notice of the changes on our Covered Sites. Any changes to this privacy policy will be effective upon thirty (30) calendar days following our posting of notice of the changes on our Covered Sites. These changes will be effective immediately for new users of our Covered Sites. Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+ **•** Help remember and process the items in the shopping cart.
 
+ **•** Understand and save user’s preferences for future visits.
 
+ **•** Keep track of advertisements.
+
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+ **If users disable cookies in their browser:**
+
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
+
+ **Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+ **We have implemented the following:**
+
+ **•** Remarketing with Google AdSense
+
+ **•** Google Display Network Impression Reporting
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+ **Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+ **According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+ **•** On our Privacy Policy Page
+
+Can change your personal information:
+
+ **•** By emailing us
+
+ **How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+ **Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
+
+ **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+ **•** Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Send information, respond to inquiries, and/or other requests or questions
+
+ **•** Process orders and to send information and updates pertaining to orders.
+
+ **•** Send you additional information related to your product and/or service
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+ **To be in accordance with CANSPAM, we agree to the following:**
+
+ **•** Not use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+ **•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
