@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingcentswithsense.net privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423002727id_/http%3A//www.savingcentswithsense.net/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingcentswithsense.net privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921070422id_/http%3A//www.savingcentswithsense.net/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saving Cents With Sense
 
