@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wawarewards.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004412id_/http%3A//www.wawa.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wawarewards.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921232248id_/https%3A//www.wawa.com/privacy) for the most accurate reproduction.*
 
-# Wawa - Privacy Policy
+# Wawa Official Privacy Policy | Wawa
 
-Effective Date: June 7, 2016
+Effective Date: July 18, 2017
 
-Protecting your privacy is important to Wawa. This Wawa Privacy Policy (“Policy”) describes how Wawa and its subsidiaries and affiliated companies collect, use, and safeguard the personal information you provide on our websites, [www.wawa.com](https://www.wawa.com/) and [www.wawarewards.com](https://www.wawarewards.com/), and through or in connection with our mobile apps or other software- and Internet-enabled programs and services sponsored by Wawa (the “Sites”) as well as information collected when you visit our stores or otherwise communicate or interact with Wawa.
+Protecting your privacy is important to Wawa. This Wawa Privacy Policy (’Policy’) describes how Wawa and its subsidiaries and affiliated companies collect, use, disclose and safeguard the personal information you provide on Wawa’s websites, [www.wawa.com](https://www.wawa.com/) and [www.wawarewards.com](https://www.wawarewards.com/), and through or in connection with our mobile apps or other software- and Internet-enabled programs and services sponsored by Wawa (the “Sites”) as well as information collected when you visit our stores or otherwise communicate or interact with Wawa.
 
 ## Information Collection
 
@@ -15,7 +15,8 @@ Each time you visit the Sites, we may automatically collect certain types of inf
   * We may record your internet service provider's address, your internet protocol or IP address, the web page from which you came, your web browser software, the type of handheld or mobile device used to link to the web page, and the language settings on your web browser;
   * We may collect a record of your activity or your "clickstream" while visiting the Sites;
   * We may use "cookies" of different types to recognize your computer. A cookie is a small text file that a website, online application, or e-mail may save to your internet browser and/or your computer's hard drive for use in subsequent visits to the Sites or other sites;
-  * We may use web beacons, match scripts, pixel tags or similar technologies that allow us to know if a particular web page was visited, an e-mail opened, links in the email utilized or if the advertisements on the Sites or other sites were effective. In some instances, these technologies may allow us to match activities with particular users; and
+  * We may use web beacons, match scripts, pixel tags or similar technologies that allow us to know if a particular web page was visited, an e-mail opened, links in the email utilized or if the advertisements on the Sites or other sites were effective. In some instances, these technologies may allow us to match activities with particular users; 
+  * Our mobile applications also may collect geo-location information, including from the GPS function on your mobile device. We may use this information in a variety of ways, including to determine which of our stores may be closest to you, whether you are within the allowed geographical ordering range of one of our stores, and to offer products and services to you. You can opt-out of sharing your geo-location information by changing the settings on your mobile device. If you choose to opt-out, it may disable certain features of our mobile applications; and
   * We may collect any information you enter, share or that can be obtained from your use of our apps, games, contests, or promotions.
 
 
@@ -55,9 +56,9 @@ We may use information about you for purposes described in this Policy or disclo
 
 
 
-We participate in interest-based advertising and we or others may use information about you to deliver to you or allow you to see certain advertising based on your interests, searches you perform, information you provide, or your activity on the Sites or other websites. 
+We participate in interest-based advertising and we or others may use information about you to deliver to you or allow you to see certain advertising based on your interests, searches you perform, information you provide, or your activity on the Sites or other websites.
 
-Wawa may also use this information to analyze and manage its businesses. Aggregate or combined data is collected from online and offline facilities and may be used to enhance the ability of Wawa to communicate with you and to support business functions such as internal business processes, marketing, authentication, customer service, fraud prevention, and public safety and legal functions. 
+Wawa may also use this information to analyze and manage its businesses. Aggregate or combined data is collected from online and offline facilities and may be used to enhance the ability of Wawa to communicate with you and to support business functions such as internal business processes, marketing, authentication, customer service, fraud prevention, and public safety and legal functions.
 
 Any sweepstakes, raffles, surveys, games, or similar promotions offered by Wawa may be governed by specific rules and terms and conditions that are separate from and in addition to this Privacy Policy. By participating in any such sweepstakes, contest, raffle, survey, game, or similar promotion, you will become subject to those rules, including but not limited to receiving emails containing promotional communications and/or Wawa Rewards information.
 
@@ -85,8 +86,8 @@ Wawa may share your personal information with companies that provide support ser
 
   * Authorization of credit card and check transactions, order fulfillment, sweepstakes and contests, our rewards program, and cobranded or joint product and service promotions.
   * Developing, hosting or maintaining the Sites on behalf of Wawa.
-  * Warehousing product, personalizing product and performing order fulfillment and shipping services on behalf of Wawa or on your behalf and at your request. 
-  * Aggregating customer information and/or improving customer service. We may then share such aggregated information with prospective marketing partners and advertisers. 
+  * Warehousing product, personalizing product and performing order fulfillment and shipping services on behalf of Wawa or on your behalf and at your request.
+  * Aggregating customer information and/or improving customer service. We may then share such aggregated information with prospective marketing partners and advertisers.
   * Marketing our products and services (such as email vendors).
 
 
@@ -119,11 +120,11 @@ We may also enter into agreements with third parties that possess technology tha
 
 ## Updates or Changes to Your Information
 
-You may update or change your personal information by calling us at 1-800-444-9292 and a representative will instruct you on how to update or change your personal information. You can also use the [contact form on Wawa.com](https://web.archive.org/Contact.aspx). To change your shipping or billing information for Wawa.com orders, log on, select "My Account" and make the appropriate changes.
+You may update or change your personal information by calling us at 1-800-444-9292 and a representative will instruct you on how to update or change your personal information. You can also use the [contact form on Wawa.com](https://web.archive.org/contact). To change your shipping or billing information for Wawa.com orders, log on, select "My Account" and make the appropriate changes.
 
 ## Children’s Privacy
 
-The Sites do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If Wawa learns that a child under the age of 13 has submitted personally identifiable information online without parental consent, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please call us at 1-800-444-9292 or use the contact form on [Wawa.com](https://web.archive.org/Contact.aspx). 
+The Sites do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If Wawa learns that a child under the age of 13 has submitted personally identifiable information online without parental consent, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please call us at 1-800-444-9292 or use the contact form on [Wawa.com](https://web.archive.org/contact).
 
 ## Company Commitment to Privacy
 
@@ -131,8 +132,10 @@ Wawa's privacy policy is subject to change at any time and without notice. For u
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, please feel free to call us at 1-800-444-9292 or use the [contact form on Wawa.com](https://web.archive.org/Contact.aspx). 
+If you have questions or concerns about this Privacy Policy, please feel free to call us at 1-800-444-9292 or use the [contact form on Wawa.com](https://web.archive.org/contact).
 
 ## Your California Privacy Rights
 
 This privacy policy describes how we may share your information for marketing purposes, as described above. California residents are entitled to request and obtain from us once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information and for any other questions about our privacy practices and compliance with California law, please contact us as explained above: Contact Us.
+
+Last updated: 18th July 2017
