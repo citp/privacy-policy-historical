@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thankyourbody.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620092447id_/http%3A//www.thankyourbody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyourbody.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921230913id_/http%3A//www.thankyourbody.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thank Your Body
 
