@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetykart.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227190006id_/https%3A//www.safetykart.com/content/5-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetykart.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921033411id_/https%3A//www.safetykart.com/content/5-privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security - SafetyKart
 
