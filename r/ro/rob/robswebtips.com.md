@@ -1,26 +1,15 @@
-> *The following text is extracted and transformed from the robswebtips.com privacy policy that was archived on 2011-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110807200200id_/http%3A//www.undergroundimsecrets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robswebtips.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921183339id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-| **Undergroundimsecrets Privacy Policy**  
----  
-What information does Undergroundimsecrets collect from our users and how do we collect it?  
-Undergroundimsecrets only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. Undergroundimsecrets collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.  
-How do we use this information?  
-This information is used for internal marketing purposes only. Undergroundimsecrets does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.  
-What are cookies/clear GIFs and how do we use them?  
-Cookies: Like many other commercial sites, our Site utilizes standard technologies called "cookies" and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer's hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a website recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the Personally Identifiable Information that resides on your computer.
+###  What’s in a Domain Name? 
 
-Clear GIFs: At times, we work with third-party service partners that employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit to help us measure advertising effectiveness. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information and only track the visitor traffic and behavior to and on our Site.
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-Clear GIFs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear GIF, the website would match the clear GIFs identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We do, at times, provide such information to our third-party advertising service partners, but that information can only be used by our partner for our benefit and never includes personally identifiable information.  
-  
-How do we store your information?  
-Your information is stored at the list server that delivers Undergroundimsecrets. newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Undergroundimsecrets newsletters. 
+### DomainMarket.com Privacy Policy
 
-All of the newsletters that are sent to you by Undergroundimsecrets include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at **askrobrammuny (at) simplewealth.com** to change your information at any time.  
-  
-Disclaimer  
-This policy may be changed at any time at Undergroundimsecrets discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised October 1st, 2010. 
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-If you have any questions or concerns regarding our privacy policy please direct them to **askrobrammuny (at) gmail.com**. 
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
+
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
