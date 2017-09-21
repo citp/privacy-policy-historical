@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarehistoricalphotos.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627085523id_/http%3A//rarehistoricalphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarehistoricalphotos.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921044526id_/https%3A//rarehistoricalphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rare Historical Photos
 
@@ -17,7 +17,7 @@ Our site may use “cookies” to enhance user experience. User’s web browser 
 RareHistoricalPhotos.com may collect and use users personal information for the following purposes:
 
   * To improve customer service (information you provide helps us respond to your customer service requests and support needs more efficiently).
-  * To improve our Sit (we may use feedback you provide to improve our products and services).
+  * To improve our Site (we may use feedback you provide to improve our products and services).
 
 
 
