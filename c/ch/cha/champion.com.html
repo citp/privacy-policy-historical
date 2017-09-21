@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the champion.com privacy policy that was archived on 2017-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170603003229id_/http%3A//www.champion.com/shop/champion/PrivacySecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the champion.com privacy policy that was archived on 2017-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170922013830id_/http%3A//www.champion.com/shop/champion/PrivacySecurity) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head>
+<!DOCTYPE html><html lang="en" xml:lang="en"><head>
 	
 	<!-- BEGIN HanesCommonCSSToInclude.jspf -->
 
@@ -32,7 +32,7 @@
 	
 		<link rel="stylesheet" href="/haneswebassets/css/prod-aurora-champion.css" type="text/css" media="screen">
 	<!-- BEGIN BorderFree CSS -->
-<script async="" src="https://bfx-objects.borderfree.com/v1/dist/bfx.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">
+<script async="" src="https://bfx-objects.borderfree.com/v1/dist/bfx.js"></script><script src="https://analytics.ssbbartgroup.com/api/access.js?o=AA-5951370442a6f&amp;v=2"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">
 
     var bfxIntCookie = '';
 	var allCookies = document.cookie.split(';');
@@ -47,7 +47,8 @@
 	    var tempCookieValue = tempCookie[1].replace(/^\s+|\s+$/g, '');
 	    
 	    if(tempCookieName.indexOf("bfx.country") != -1){
-	      bfxIntCookie=tempCookieValue;
+	      // remove all single and double quotes
+	      bfxIntCookie=tempCookieValue.replace(/['"]+/g, '');
 	      break;
 	    }
 	}
@@ -287,7 +288,12 @@
 
 	
 		<script type="text/javascript" src="/haneswebassets/js/prod-aurora-champion.js"></script>
-	<!-- END Standard JS --><!-- END HanesCommonJSToInclude.jspf -->
+	<!-- END Standard JS --><!-- BEGIN Access Assistant change (Level Access Vendor) -->
+
+<script type="text/javascript">var access_analytics={base_url:"https://analytics.ssbbartgroup.com/api/",instance_id:"AA-5951370442a6f"};
+(function(a,b,c){var d=a.createElement(b);a=a.getElementsByTagName(b)[0];d.src=c.base_url+"access.js?o="+c.instance_id+"&v=2";a.parentNode.insertBefore(d,a)})(document,"script",access_analytics);
+</script> 
+<!-- END Access Assistant change. --><!-- END HanesCommonJSToInclude.jspf -->
 
 <script type="text/javascript">
 	function createCookie(name,value,days) {
@@ -336,7 +342,13 @@
 -->
 
 <!-- BEGIN ProgressBar.jspf -->
-
+<div id="progress_bar_dialog" dojotype="dijit.Dialog" style="display: none;">
+	<div id="progress_bar">
+		<div id="loading_popup">
+		<img src="/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/loading_rwd.gif" width="44" height="44" border="0" alt="Your request is being processed.">
+		</div>
+	</div>
+</div>
 <!-- END ProgressBar.jspf --><!-- BEGIN MessageDisplay.jspf -->
 
 <span class="spanacce" style="display:none" id="MessageArea_ACCE_Title">Message Dialog</span>
@@ -368,16 +380,169 @@
 <span class="spanacce" role="region" aria-labelledby="ariaMessage_ACCE_Label" id="ariaMessage" aria-live="assertive" aria-atomic="true" aria-relevant="additions"></span>
 <!-- END MessageDisplay.jspf -->
 
-	
+	<div id="widget_product_comparison_popup" dojotype="dijit.Dialog" closeontimeout="false" title="Product Comparison" style="display:none">
+		<div class="widget_product_comparison_popup widget_site_popup">													
+			<!-- Top Border Styling -->
+			<div class="top">
+				<div class="left_border"></div>
+				<div class="middle"></div>
+				<div class="right_border"></div>
+			</div>
+			<div class="clear_float"></div>
+			<!-- Main Content Area -->
+			<div class="middle">
+				<div class="content_left_border">
+					<div class="content_right_border">
+						<div class="content">
+							<div class="header">
+								<span>Product Comparison</span>
+								<a id="ComparePopupClose" class="close" href="javascript:void(0);" onclick="dijit.byId('widget_product_comparison_popup').hide();" title="CLOSE"></a>
+								<div class="clear_float"></div>
+							</div>
+							<div class="body">
+								The maximum number of products that can be compared is 4. Please refine your selection.
+							</div>
+							
+							<div class="footer">
+								<div class="button_container ">
+									<a id="ComparePopupOK" class="button_primary" tabindex="0" href="javascript:void(0);" onclick="dijit.byId('widget_product_comparison_popup').hide();" title="OK">
+										<div class="left_border"></div>
+										<div class="button_text">OK</div>
+										<div class="right_border"></div>
+									</a>
+									<div class="clear_float"></div>
+								</div>
+								
+							</div>
+							<div class="clear_float"></div>
+						<!-- End content Section -->
+						</div>
+					<!-- End content_right_border -->
+					</div>
+				<!-- End content_left_border -->
+				</div>
+			</div>
+			<div class="clear_float"></div>
+			<!-- Bottom Border Styling -->
+			<div class="bottom">
+				<div class="left_border"></div>
+				<div class="middle"></div>
+				<div class="right_border"></div>
+			</div>
+			<div class="clear_float"></div>
+		</div>
+	</div>
 
 
-<!-- END CommonJSPFToInclude.jspf --><!-- BEGIN LayoutPreviewSetup.jspf--><!-- layoutPreviewLayoutId/Name/Default needs to be set before calling widgetImport  --><!-- END LayoutPreviewSetup.jspf-->
+<div class="modal-base modal-base--normal" id="inactivityWarningPopup" dojotype="dijit.Dialog" title="Inactivity Warning Dialog" style="display:none;">
+	<div class="widget_site_popup">
+		<div class="top">
+			<div class="left_border"></div>
+			<div class="middle"></div>
+			<div class="right_border"></div>
+		</div>
+		<div class="clear_float"></div>
+		<div class="middle">
+			<div class="modal-confirmation content">
+				<!-- <a role="button" id="inactivityWarningPopup_close" class="close_acce" title="CLOSE" href="javascript:void(0);" onclick="dijit.byId('inactivityWarningPopup').hide(); if (dialogTimeoutTracker != null) {clearTimeout(dialogTimeoutTracker);}"><img role="button" onmouseover="this.src='/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/close_hover.png'" onmouseout="this.src='/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/close_normal.png'" src="/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/close_normal.png" class="closeImg" alt="CLOSE"/></a>-->
+				<div class="clear_float"></div>
+				<div id="inactivityWarningPopup_body" class="body">
+					<!--<div class="message_icon left">
+						<img class="error_icon" src="/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/warning_icon.png" alt="Warning">
+					</div>-->
+					
+					
+					
+					<div class="message_text left">
+						<p>
+							Your session is about to timeout due to inactivity.  Click OK to extend your time for an additional 120 minutes.
+						</p>
+					</div>
+				</div>
+				<div class="footer">
+					<div class="button_container">
+						<a role="button" aria-labelledby="inactivityWarningPopupOK_Label" id="inactivityWarningPopupOK" href="javascript:void(0);" onclick="dijit.byId('inactivityWarningPopup').hide(); if (dialogTimeoutTracker != null) {clearTimeout(dialogTimeoutTracker);} resetServerInactivity();" class="primary-btn">
+							<span id="inactivityWarningPopupOK_Label">OK</span>
+						</a>
+						<div class="clear_float"></div>
+					</div>
+					<div class="clear_float"></div>
+				</div>
+				<div class="clear_float"></div>
+			</div>
+		</div>
+		<div class="clear_float"></div>
+		<div class="bottom">
+			<div class="left_border"></div>
+			<div class="middle"></div>
+			<div class="right_border"></div>
+		</div>
+		<div class="clear_float"></div>
+	</div>
+</div><!-- END CommonJSPFToInclude.jspf --><!-- BEGIN LayoutPreviewSetup.jspf--><!-- layoutPreviewLayoutId/Name/Default needs to be set before calling widgetImport  --><!-- END LayoutPreviewSetup.jspf-->
 		
 		<div id="page">
 			<div id="headerWrapper">
 				<!-- BEGIN Header.jsp -->
 
-	
+	<div id="shoppingListItemAddedPopup" dojotype="dijit.Dialog" style="display:none;" title="This item has been successfully added to your list.">
+		<div class="widget_site_popup">
+													
+			<!-- Top Border Styling -->
+			<div class="top">
+				<div class="left_border"></div>
+				<div class="middle"></div>
+				<div class="right_border"></div>
+			</div>
+			<div class="clear_float"></div>
+			<!-- Main Content Area -->
+			<div class="middle">
+				<div class="content_left_border">
+					<div class="content_right_border">
+						<div class="content">
+							<div class="header">
+								<span>This item has been successfully added to your list.</span>
+								<a role="button" id="shoppingListItemAddedClose" href="javascript:ShoppingListDialogJS.close();" class="close tlignore" title="Close" aria-label="Close"></a>
+								<div class="clear_float"></div>
+							</div>
+							
+								<div class="product">
+									<div class="product_image">
+										<img id="shoppingListItemAddedImg" alt="">
+									</div>
+									<div id="shoppingListItemAddedName" class="product_name"></div>
+									<div class="clear_float"></div>
+								</div>
+							
+							<div class="footer">
+								<div class="button_container ">
+									<a id="shoppingListItemAddedContinue" href="javascript:ShoppingListDialogJS.close();" class="button_primary tlignore" title="Continue Shopping">
+										<div class="left_border"></div>
+										<div class="button_text">Continue Shopping</div>
+										<div class="right_border"></div>
+									</a>
+									<div class="clear_float"></div>
+								</div>
+								
+							</div>
+							<div class="clear_float"></div>
+						<!-- End content Section -->
+						</div>
+					<!-- End content_right_border -->
+					</div>
+				<!-- End content_left_border -->
+				</div>
+			</div>
+			<div class="clear_float"></div>
+			<!-- Bottom Border Styling -->
+			<div class="bottom">
+				<div class="left_border"></div>
+				<div class="middle"></div>
+				<div class="right_border"></div>
+			</div>
+			<div class="clear_float"></div>
+		</div>
+	</div>
 
 	<!-- BEGIN HanesBorderFree.jspf --><!-- 
 Border Free debug info
@@ -394,7 +559,7 @@ hanes.borderfree.mode =
 		
     
 	    var windowLocationHref = window.location.href;
-		//var logonUserCookie = getCookie("WC_LogonUserId_"+WCParamJS.storeId);
+		//var logonUserCookie = getCookie("WC_LogonUserId");
         //alert('logonUserCookie = '+logonUserCookie);
         
         var storeUserType = "G";
@@ -440,12 +605,16 @@ hanes.borderfree.mode =
 	});
 	</script>
 
-<script>var isGuest = true;</script>
+<script>var isGuest = true;
+        var storeId = 10704;
+        var firstName = getValueFromCookie("WC_LogonUserId");
+        if (firstName == "" || firstName == "undefined" || firstName == null) {
+            var tealiumLoginState = "guest";
+        } else {
+            var tealiumLoginState = "registered";
+        }
+</script>
 
-		<script type="text/javascript">
-			var tealiumLoginState = "guest";
-		</script>
-	
 
 <script src="/wcsstore/HanesBrandsSAS_B2C/javascript/Widgets/header.js"></script>
 
@@ -527,11 +696,11 @@ hanes.borderfree.mode =
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 63152 --><!-- Content Name: No Top Header Rollover --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Header_onehanesplace_Rollover" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style>
+                        <style>
 .mini_flyout, #headerRow1 .header_esite_nav li:hover::after {
 display : none !important}
 </style>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -597,7 +766,7 @@ display : none !important}
 					<!-- Activity UniqueID: 75087 --><!-- Activity Name: Header Promotion 20170214 --><!-- Content UniqueID: 66213 --><!-- Content Name: Header_Promotion_20170214 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Header_Promotion" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<!-- 20160706 JK -->
+                        <!-- 20160706 JK -->
 <!-- BEGIN 201607061555 JK - Temp style(s) -->
 <style type="text/css">
   #dijit_DialogUnderlay_0{z-index:0 !important}
@@ -710,7 +879,14 @@ display : none !important}
 
 
 
-
+<div id="shippinginfo" dojotype="dijit.Dialog" style="display:none">
+	<div class="modal-container">
+		<div class="modal-content">			
+			<img src="//www.hanes.com/images/oneworld/static/Flat-7.99-Ship_FreeShip60Detail_021317.jpg" alt="Shipping Details">
+		</div>
+		<div class="modal-close-btn" onclick="dijit.byId('shippinginfo').hide();"></div>
+	</div>
+</div>
 </span>
 <span id="bfx-promo-span"></span>
 <script type="text/javascript">
@@ -718,7 +894,7 @@ display : none !important}
         parseWidget("shippinginfo");
     });
 </script>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -769,52 +945,101 @@ display : none !important}
 	});
 </script>
 
-<!-- BEGIN GlobalLoginSignIn_UI.jspf -->
+<!-- BEGIN GlobalLoginSignIn_SignOut_UI_OW.jspf     --><!-- This file combines GlobalLoginSignIn_UI_OW.jspf and GlobalLoginSighOut_UI_OW.jspf to facilitate full page caching     -->
+
+
 <script type="text/javascript">
-	dojo.addOnLoad(function(){		
-			
-		
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2000", "You must enter an email.");
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2010", "Either your email address or password is incorrect. Please try again.");	
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2020", "Either your email address or password is incorrect. Please try again.");
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2030", "Either your email address or password is incorrect. Please try again.");	
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2110", "Due to 6 unsuccessful password attempts, you will be unable to sign in.  Contact a store representative to enable your user account.");
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2300", "Please wait a few seconds before attempting to log in again.");	
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2400", "Your organization is locked. You cannot sign in at this time. ");
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2410", "You do not have the proper authority to sign in. Contact the store for further information.");	
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2420", "You have not activated your account. Respond to the activation email you received.");
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2430", "Your password has been reset. Retrieve the temporary password from your email and try signing in again.");	
-		MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2570", "Your account is not activated. If you have already responded to the activation email your received, contact our store for assistance.");		
-	});
+    dojo.addOnLoad(function(){      
+         
+        
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2000", "You must enter an email.");
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2010", "Either your email address or password is incorrect. Please try again.");   
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2020", "Either your email address or password is incorrect. Please try again.");
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2030", "Either your email address or password is incorrect. Please try again.");   
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2110", "Due to 6 unsuccessful password attempts, you will be unable to sign in.  Contact a store representative to enable your user account.");
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2300", "Please wait a few seconds before attempting to log in again.");   
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2400", "Your organization is locked. You cannot sign in at this time. ");
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2410", "You do not have the proper authority to sign in. Contact the store for further information.");   
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2420", "You have not activated your account. Respond to the activation email you received.");
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2430", "Your password has been reset. Retrieve the temporary password from your email and try signing in again.");   
+        MessageHelper.setMessage("GLOBALLOGIN_SIGN_IN_ERROR_2570", "Your account is not activated. If you have already responded to the activation email your received, contact our store for assistance.");       
+    });
 </script>
 
-</li><li class="first signin_container border-right">
-	<a class="arrow-left visible-desktop" href="javascript:GlobalLoginJS.InitHTTPSecure('Header_GlobalLogin');" id="Header_GlobalLogin_signInQuickLink" tabindex="0" aria-label="Sign In">Sign In</a>
-		
-	<a class="visible-mobile" href="https://www.champion.com/shop/AjaxLogonForm?catalogId=11053&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10704" id="Header_GlobalLogin_signInQuickLink" tabindex="0" aria-label="Sign In"></a>
+
+</li><li class="first signin_container border-right" id="Header_GlobalLogin_signInQuickLink" style="display:none">
+    <a class="arrow-left visible-desktop" href="javascript:GlobalLoginJS.InitHTTPSecure('Header_GlobalLogin');" id="Header_GlobalLogin_signInQuickLink" tabindex="0" aria-label="Sign In">
+       Sign In
+     </a>
+     
+    <a class="visible-mobile" href="https://www.champion.com/shop/AjaxLogonForm?catalogId=11053&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10704" id="Header_GlobalLogin_signInQuickLink" tabindex="0" aria-label="Sign In"></a>
 </li>
 
-<li class="visible-desktop border-right create-account">
-	<a href="https://www.champion.com/shop/UserRegistrationForm?new=Y&amp;catalogId=11053&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10704" id="Header_GlobalLogin_registerQuickLink" tabindex="0" class="panelLinkSelected" aria-label="Create Account">Create Account</a>
+<li class="visible-desktop border-right create-account" id="Header_GlobalLogin_registerQuickLinkContainer" style="display:none">
+    <a href="https://www.champion.com/shop/UserRegistrationForm?new=Y&amp;catalogId=11053&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10704" id="Header_GlobalLogin_registerQuickLink" tabindex="0" class="panelLinkSelected" aria-label="Create Account">Create Account</a>
 </li>
 
-<li class="visible-desktop order-status">
-	<a href="https://www.champion.com/shop/TrackOrderStatus?catalogId=11053&amp;langId=-1&amp;storeId=10704">Order Status</a>
+<li class="visible-desktop order-status border-right" id="Header_GlobalLogin_signInOrderStatus" style="display:none">
+    <a href="https://www.champion.com/shop/TrackOrderStatus?catalogId=11053&amp;langId=-1&amp;storeId=10704">Order Status</a>
 </li>
 
 
-		
-<li dojotype="wc.widget.RefreshArea" class="dijitContentPane GlobalLoginWidgetAlt" widgetid="Header_GlobalLogin" id="Header_GlobalLogin" controllerid="GlobalLogin_SignIn_controller" role="region" aria-label="Sign In Drop Down Panel" ariamessage="Global Login Display Updated" data-toggle-control="Header_GlobalLogin_signInQuickLink" lang="en">
+        
+<li dojotype="wc.widget.RefreshArea" class="GlobalLoginWidgetAlt border-right" widgetid="Header_GlobalLogin" id="Header_GlobalLogin" controllerid="GlobalLogin_SignIn_controller" role="region" aria-label="Sign In Drop Down Panel" ariamessage="Global Login Display Updated" data-toggle-control="Header_GlobalLogin_signInQuickLink">
 </li>
 
-<!-- END GlobalLoginSignIn_UI.jspf --><!-- END GlobalLogin.jsp -->					
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="first visible-desktop border-right" id="Header_GlobalLogin_signOutQuickLinkWelcome" style="display:none">
+    <span>Welcome</span>
+    <span id="Header_GlobalLogin_signOutQuickLinkUser"></span><span>!</span>
+</li>
+
+<li class="no-divider visible-desktop border-right" id="Header_GlobalLogin_signOutMyAccount" style="display:none">
+    <a class="panelLinkSelected" id="Header_GlobalLogin_signOutQuickLink" aria-haspopup="true" aria-label="Sign Out Drop Down Panel" href="https://www.champion.com/shop/AjaxLogonForm?catalogId=11053&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10704">
+        <span id="myAccountQuickLink">My Account</span>
+    </a>
+</li>
+
+<li class="visible-mobile mobile_signin_container border-right">
+    <a class="visible-mobile" href="https://www.champion.com/shop/AjaxLogonForm?catalogId=11053&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10704"></a>
+</li>
+
+<li class="migration_only visible-desktop border-right" id="Header_GlobalLogin_signOutOrderStatus" style="display:none">
+    <a href="https://www.champion.com/shop/TrackOrderStatus?catalogId=11053&amp;langId=-1&amp;storeId=10704">Order Status</a>
+</li>
+
+<li>
+    <div style="display:none" dojotype="wc.widget.RefreshArea" class="GlobalLoginWidgetAlt1" widgetid="Header_GlobalLogin_out" id="Header_GlobalLogin_out" controllerid="GlobalLogin_controller" role="region" aria-label="Sign Out Drop Down Panel" ariamessage="Global Login Display Updated" data-toggle-control="Header_GlobalLogin_signOutQuickLink">
+    </div>
+</li>
+
+<script>
+dojo.addOnLoad(
+  function(){
+    GlobalLoginJS.displayPanel('Header_GlobalLogin_out');
+  }
+);
+</script>
+
+<!-- END GlobalLoginSignIn_SignOut_UI_OW.jspf --><!-- END GlobalLogin.jsp -->					
 				
 			
 		</ul>
 		
-<span id="MiniShoppingCart_Label" class="spanacce" aria-hidden="true">Shopping Cart</span>
-<div id="MiniShoppingCart" class="dijitContentPane quick-links__cart bfx-price-container" dojotype="wc.widget.RefreshArea" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" ariamessage="Shopping Cart Display Updated" arialiveid="ariaMessage" role="region" aria-labelledby="MiniShoppingCart_Label" lang="en">
-	<!-- BEGIN customEnvironmentSetup.jsp -->
+<span id="MiniShoppingCart_Label" class="spanacce" aria-hidden="true" style="display:none">Shopping Cart</span>
+<div id="MiniShoppingCart" class="quick-links__cart bfx-price-container" dojotype="wc.widget.RefreshArea" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" ariamessage="Shopping Cart Display Updated" arialiveid="ariaMessage" role="region" aria-labelledby="MiniShoppingCart_Label">
+    <!-- BEGIN customEnvironmentSetup.jsp -->
 
 <script type="text/javascript">
 
@@ -836,87 +1061,46 @@ display : none !important}
 </script>
 <!-- END customEnvironmentSetup.jsp -->
 <script type="text/javascript" src="/wcsstore/HanesBrandsSAS_B2C/javascript/ServicesDeclaration.js"></script>
-
-
-<script type="text/javascript">
-    dojo.addOnLoad(function() {
-        
-        MessageHelper.setMessage("SHOPCART_REMOVEITEM", "The item was removed from the Shopping Cart.");
-    });
-</script>
-<!-- BEGIN ShopCartOnBehalfOfLock_Data.jspf --><!-- END ShopCartOnBehalfOfLock_Data.jspf -->
-	
-
-		
-	
-	
-
-<input type="hidden" id="ShoppingCartURL" value="https://www.champion.com/shop/RESTOrderCalculate?langId=-1&amp;storeId=10701&amp;catalogId=11053&amp;URL=https%3a%2f%2fwww.champion.com%2fshop%2fAjaxOrderItemDisplayView&amp;errorViewName=AjaxOrderItemDisplayView&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=.&amp;doConfigurationValidation=Y&amp;checkoutDoorId=3" autocomplete="off">
 <a id="widget_minishopcart" class="btn-minicart" href="#" role="button" onclick="javascript:toggleMiniShopCartDropDown('widget_minishopcart','quick_cart_container','orderItemsList');" onkeypress="javascript:toggleMiniShopCartDropDownEvent(event,'widget_minishopcart','quick_cart_container','orderItemsList');" aria-label="Shopping Cart"><i></i>
-			Shopping Cart
-	    	<span id="minishopcart_total1">
-	    		(0)
-	    	</span>
+            Shopping Cart
+            <span id="minishopcart_total1"></span>
 </a>
-
-<div id="placeHolder"></div>
-<div id="MiniShopCartProductAdded" class="bfx-price-container">
-	<div id="MiniShopCartProductAddedWrapper" style="display:none;" aria-labelledby="cartDropdownMessage">
-		<div id="widget_minishopcart_popup_1">
-			<div id="cartDropdown">
-				<h3 id="cartDropdownMessage">This item has been successfully added:</h3>
-				<a id="MiniShopCartCloseButton_2" href="javascript:dijit.byId('MiniShopCartProductAdded').hide();hidePopup('second_level_category_popup');" class="closeButton">Close</a>
-				<div class="content">
-					<div class="products added">
-						
-					</div>
-					<div class="cart_totals">
-						<span class="cart_quantity">0 items in cart</span>
-						<span class="cart_value">Cart<span class="bfx-price" style="visibility: visible;"> $0.00</span></span>
-					</div>	
-				</div>
-				<div class="footer">
-					<a href="javascript:dijit.byId('MiniShopCartProductAdded').hide();hidePopup('second_level_category_popup');" class="bu_secondary">Continue Shopping</a>
-					<a id="GotoCartButton2" href="https://www.champion.com/shop/RESTOrderCalculate?langId=-1&amp;storeId=10701&amp;catalogId=11053&amp;URL=https%3a%2f%2fwww.champion.com%2fshop%2fAjaxOrderItemDisplayView&amp;errorViewName=AjaxOrderItemDisplayView&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=.&amp;doConfigurationValidation=Y&amp;checkoutDoorId=3" class="bu_primary">View Shopping Cart</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<input type="hidden" id="currentOrderQuantity" value="0" autocomplete="off">
-<input type="hidden" id="currentOrderAmount" value="0.00" autocomplete="off">
-<input type="hidden" id="currentOrderCurrency" value="USD" autocomplete="off">
-<input type="hidden" id="currentOrderLanguage" value="-1" autocomplete="off">
-<input type="hidden" id="currentOrderId" value="" autocomplete="off">
-<input type="hidden" id="currentOrderLocked" value="false" autocomplete="off">
-
-
-<input type="hidden" id="currentUserID" value="-1002" autocomplete="off">
-<script>
-dojo.addOnLoad(function() {
-	var qtyInCart = dojo.cookie('QtyInCart');
-	if(typeof qtyInCart == 'undefined') {
-		if('' != '0' && '0' != '0') {
-			qtyInCart = '0';
-			updateHanesCartCookie(qtyInCart);
-		} else {
-			qtyInCart = '0';
-		}
-	} else {
-		if('' != '0') {
-			qtyInCart = '0';
-			updateHanesCartCookie(qtyInCart);
-		}
-	}
-	document.getElementById("minishopcart_total").innerHTML = qtyInCart;
-});
+<script>    
+     dojo.addOnLoad(function(){
+         require(["dojo/dom", "dojo/request"],
+            function(dom, request){
+                var userId = getValueFromCookie("WC_USERACTIVITY_")  ; 
+                var resultDiv = dom.byId("minishopcart_total1");   
+                if (resultDiv) { 
+//                    if(typeof userId == 'undefined' || userId == '-1002') {
+//                       resultDiv.innerHTML = "(0)"; 
+//                    } else {              
+	                    tstamp = new Date().getTime();    
+	                    request.get("/shop/MiniShopCartDisplayQuantityInCartView?t="+tstamp).then(
+	                        function(response){                         
+	                             resultDiv.innerHTML = response;
+	                        },
+	                        function(error){
+	                            console.log(error);
+	                        });
+//                    }
+                }
+            }
+       );
+    }); 
 </script>
 
+
+
+
+
+
+
+
 </div>
 
 
-<div id="MiniShopCartContents" class="dijitContentPane bfx-price-container" dojotype="wc.widget.RefreshArea" widgetid="MiniShopCartContents" controllerid="MiniShopCartContentsController" aria-labelledby="MiniShoppingCart_Label" lang="en">
+<div id="MiniShopCartContents" class="bfx-price-container" dojotype="wc.widget.RefreshArea" widgetid="MiniShopCartContents" controllerid="MiniShopCartContentsController" aria-labelledby="MiniShoppingCart_Label">
 </div>
 
 <script type="text/javascript">
@@ -984,7 +1168,7 @@ dojo.addOnLoad(function() {
 			</section>
 			
 			
-			<div dojotype="wc.widget.RefreshArea" widgetid="wc_widget_RefreshArea_0" controllerid="departmentSubMenu_Controller" aria-labelledby="departmentsButton" class="dijitContentPane" id="wc_widget_RefreshArea_0" lang="en">
+			<div dojotype="wc.widget.RefreshArea" widgetid="drop_down_" controllerid="departmentSubMenu_Controller" aria-labelledby="departmentsButton">
 			<p id="header2_espot_1" class="inactive_espot">
 				<!-- BEGIN ContentRecommendation.jsp -->
 		</p><div id="ES_champion_Brands" class="espot-global-helper">
@@ -993,7 +1177,7 @@ dojo.addOnLoad(function() {
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 68183 --><!-- Content Name: ChampionLife_Header_20170302 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Brands" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<!-- Temp CSS content -->
+                        <!-- Temp CSS content -->
 <style type="text/css">
   #dijit_DialogUnderlay_0{z-index:0 !important;}
 </style>
@@ -1039,7 +1223,7 @@ dojo.addOnLoad(function() {
 @media (max-width: 43.875em){#subnav_item_71058 #departmentButton_71058,#subnav_item_57102 #departmentButton_57102{min-width:170px;margin-top:-1px}}
 </style>
 
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -1047,6 +1231,71 @@ dojo.addOnLoad(function() {
 			<p></p>
 			<div class="subnav_border"></div>
 			<ul id="departmentsMenu" class="subnav_flyout_champion javascript-unapplied" role="menu" data-parent="header" aria-labelledby="departmentsButton">
+				<li class="subnav_item" id="subnav_item_21634">
+				<a id="departmentButton_21634" href="http://www.champion.com/shop/champion/hidden" class="departmentButton" role="menuitem" aria-haspopup="true">
+					<span>HIDDEN</span>
+					<div class="subnav_arrow"></div>	
+				</a>
+				
+				<div id="departmentMenu_21634" class="departmentMenu" role="menu" data-parent="departmentsMenu" data-id="21634" aria-label="HIDDEN">
+					<div class="header">
+						<a id="departmentLink_21634" href="http://www.champion.com/shop/champion/hidden" class="link menuLink" role="menuitem" tabindex="-1">HIDDEN</a>
+						<a id="departmentToggle_21634" href="#" class="toggle" role="button" data-toggle="departmentMenu_21634" aria-labelledby="departmentLink_21634"><span role="presentation"></span></a>
+					</div>
+					
+						<div class="imagePanel dept_flydown_left">
+							<!-- BEGIN ContentRecommendation.jsp -->
+		<div id="ES_champion_Dept_C_Hidden_id_Flydown_A" class="espot-global-helper">
+			
+					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Hidden_id_Flydown_A]</div>
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 68183 --><!-- Content Name: ChampionLife_Header_20170302 -->	
+		</div>
+	<!-- END ContentRecommendation.jsp -->
+						</div>
+						<ul class="categoryList">
+							<li id="category_21705">
+							
+							<a id="categoryLink_21634_21705" href="http://www.champion.com/shop/champion/hidden/hidden-category" tabindex="-1">Hidden</a>
+							
+								<ul class="subcategoryList">
+								<li class="subcategory_90054">
+									
+									<script type="text/javascript">												
+										var tealiumContent_90054 = {				            
+								            dept_selection : "HIDDEN", 
+											event_type : "top_facet", 
+											facet_category : "Hidden", 
+											facet_selection : "BV Sampling", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_21634_21705_90054" href="http://www.champion.com/shop/champion/hidden/hidden-category/bv-sampling" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_90054);">BV Sampling</a>
+								</li></ul>
+							
+						</li>
+						</ul>
+						<div class="imagePanel dept_flydown_right">
+							<!-- BEGIN ContentRecommendation.jsp -->
+		<div id="ES_champion_Dept_C_Hidden_id_Flydown_B" class="espot-global-helper">
+			
+					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Hidden_id_Flydown_B]</div>
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 68183 --><!-- Content Name: ChampionLife_Header_20170302 -->	
+		</div>
+	<!-- END ContentRecommendation.jsp -->
+						</div>
+						<div class="imagePanel dept_flydown_bottom">
+							<!-- BEGIN ContentRecommendation.jsp -->
+		<div id="ES_champion_Dept_C_Hidden_id_Flydown_C" class="espot-global-helper">
+			
+					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Hidden_id_Flydown_C]</div>
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 68183 --><!-- Content Name: ChampionLife_Header_20170302 -->	
+		</div>
+	<!-- END ContentRecommendation.jsp -->
+						</div>
+
+					
+				</div>
+			</li>
 				<li class="subnav_item" id="subnav_item_71058">
 				<a id="departmentButton_71058" href="http://www.champion.com/shop/champion/champion-life" class="departmentButton" role="menuitem" aria-haspopup="true">
 					<span>CHAMPION LIFE</span>
@@ -1069,16 +1318,6 @@ dojo.addOnLoad(function() {
 	<!-- END ContentRecommendation.jsp -->
 						</div>
 						<ul class="categoryList">
-							<li id="category_86553">
-							
-							<a id="categoryLink_71058_86553" href="http://www.champion.com/shop/champion/champion-life/c-logo" tabindex="-1">C Logo</a>
-							
-						</li>
-							<li id="category_86555">
-							
-							<a id="categoryLink_71058_86555" href="http://www.champion.com/shop/champion/champion-life/champion-logo--1" tabindex="-1">Champion Logo</a>
-							
-						</li>
 							<li id="category_71062">
 							
 							<a id="categoryLink_71058_71062" href="http://www.champion.com/shop/champion/champion-life/shop-all-71062--1" tabindex="-1">Shop All</a>
@@ -1090,25 +1329,22 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_CLife_id_Flydown_B" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_CLife_id_Flydown_B]</div>
-					<!-- Activity UniqueID: 80079 --><!-- Activity Name: Flydown_CLife_20170428 --><!-- Content UniqueID: 71198 --><!-- Content Name: Flydown_CLife_20170428 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+					<!-- Activity UniqueID: 195022 --><!-- Activity Name: CLife Flydown 20170913 --><!-- Content UniqueID: 185671 --><!-- Content Name: CLife Flydown 20170913 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Dept_C_CLife_id_Flydown_B" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<div class="rdiv clife">
+                        <div class="rdiv clife">
 <style type="text/css">
-#departmentMenu_71058{width:824px!important;}
+#departmentMenu_71058{width:897px!important;}
 #departmentMenu_71058 ul.categoryList{display:none!important}
-/*mobile nav clife menu fix*/
-#mobile-nav #subnav_item_71058 a.mm-next{display:none}
 </style>
-<img src="http://www.championusa.com/images/static/landing/clife2017/CLife_Flydown_4-28.jpg" alt="Shop C Life">
-<a title="Shop Reverse Weave" style="width:25%" href="/shop/champion/champion-life/shop-all-71062--1#facet:-700000000000000701082101118101114115101328710197118101&amp;productBeginIndex:0&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:20&amp;"><span class="vis-hidden">Shop Reverse Weave</span></a>
-<a title="Shop USA" style="width:25%;left:25%" href="/shop/champion/champion-life/shop-all-71062--1#facet:-7000000000000007010858365&amp;productBeginIndex:0&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:20&amp;"><span class="vis-hidden">Shop USA</span></a>
-<a title="Shop Europe" style="width:25%;left:50%" href="/shop/champion/champion-life/shop-all-71062--1#facet:-700000000000000701069117114111112101&amp;productBeginIndex:0&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:20&amp;"><span class="vis-hidden">Shop Europe</span></a>
-<a title="Shop All" style="width:25%;left:75%" href="/shop/champion/champion-life/shop-all-71062--1"><span class="vis-hidden">Shop All</span></a>
+<img src="http://www.championusa.com/images/20170901/TopNav_Life_9-6.jpg" alt="Shop C Life">
+    <a title="Explore C-Life" href="/shop/champion/champion-life" style="width:22%" class="hidden-mobile"><span class="vis-hidden">Explore C-Life</span></a>
+    <a title="Shop The Logo" href="/shop/champion/mens-workout/featured/men-sales" style="width:19%;left:22%" class="hidden-mobile"><span class="vis-hidden">Shop The Logo</span></a>
+    <a title="Shop Reverse Weave" href="/shop/champion/mens-workout/collections/champion-reverse-weave-sweats" style="width: 18%; left: 41%;" class="hidden-mobile"><span class="vis-hidden">Shop Reverse Weave</span></a>
+    <a title="Shop Super Fleece" href="/shop/champion/mens-workout/collections/super-fleece" style="width: 19%; left: 59%;" class="hidden-mobile"><span class="vis-hidden">Shop Super Fleece</span></a>
+    <a title="Shop Limited Edition" href="/shop/champion/mens-workout/featured/mens-feature3" style="width: 22%; left: 78%;" class="hidden-mobile"><span class="vis-hidden">Shop Limited Edition</span></a>
 </div>
-
-
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -1119,7 +1355,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_CLife_id_Flydown_C" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_CLife_id_Flydown_C]</div>
-					<!-- Activity UniqueID: 80079 --><!-- Activity Name: Flydown_CLife_20170428 --><!-- Content UniqueID: 71198 --><!-- Content Name: Flydown_CLife_20170428 -->	
+					<!-- Activity UniqueID: 195022 --><!-- Activity Name: CLife Flydown 20170913 --><!-- Content UniqueID: 185671 --><!-- Content Name: CLife Flydown 20170913 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -1144,7 +1380,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Men_id_Flydown_A" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Men_id_Flydown_A]</div>
-					<!-- Activity UniqueID: 80079 --><!-- Activity Name: Flydown_CLife_20170428 --><!-- Content UniqueID: 71198 --><!-- Content Name: Flydown_CLife_20170428 -->	
+					<!-- Activity UniqueID: 195022 --><!-- Activity Name: CLife Flydown 20170913 --><!-- Content UniqueID: 185671 --><!-- Content Name: CLife Flydown 20170913 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -1154,19 +1390,6 @@ dojo.addOnLoad(function() {
 							<a id="categoryLink_21208_21635" href="http://www.champion.com/shop/champion/mens-workout/featured" tabindex="-1">FEATURED</a>
 							
 								<ul class="subcategoryList">
-								<li class="subcategory_27552">
-									
-									<script type="text/javascript">												
-										var tealiumContent_27552 = {				            
-								            dept_selection : "MEN", 
-											event_type : "top_facet", 
-											facet_category : "FEATURED", 
-											facet_selection : "Gifts for Every Dad", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21208_21635_27552" href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_27552);">Gifts for Every Dad</a>
-								</li>
 								<li class="subcategory_21639">
 									
 									<script type="text/javascript">												
@@ -1206,19 +1429,6 @@ dojo.addOnLoad(function() {
 									</script>
 									<a id="subcategoryLink_21208_21635_39560" href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature4" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_39560);">Sweats Headqtrs</a>
 								</li>
-								<li class="subcategory_71052">
-									
-									<script type="text/javascript">												
-										var tealiumContent_71052 = {				            
-								            dept_selection : "MEN", 
-											event_type : "top_facet", 
-											facet_category : "FEATURED", 
-											facet_selection : "Sweats 2/$45", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21208_21635_71052" href="http://www.champion.com/shop/champion/mens-workout/featured/men-feature5" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_71052);">Sweats 2/$45</a>
-								</li>
 								<li class="subcategory_71051">
 									
 									<script type="text/javascript">												
@@ -1231,6 +1441,32 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_21208_21635_71051" href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature6" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_71051);">Tees &amp; Shorts Stock Up</a>
+								</li>
+								<li class="subcategory_36057">
+									
+									<script type="text/javascript">												
+										var tealiumContent_36057 = {				            
+								            dept_selection : "MEN", 
+											event_type : "top_facet", 
+											facet_category : "FEATURED", 
+											facet_selection : "LTD EDITION", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_21208_21635_36057" href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature3" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_36057);">LTD EDITION</a>
+								</li>
+								<li class="subcategory_21641">
+									
+									<script type="text/javascript">												
+										var tealiumContent_21641 = {				            
+								            dept_selection : "MEN", 
+											event_type : "top_facet", 
+											facet_category : "FEATURED", 
+											facet_selection : "Logo", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_21208_21635_21641" href="http://www.champion.com/shop/champion/mens-workout/featured/men-sales" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21641);">Logo</a>
 								</li></ul>
 							
 						</li>
@@ -1239,6 +1475,19 @@ dojo.addOnLoad(function() {
 							<a id="categoryLink_21208_21211" href="http://www.champion.com/shop/champion/mens-workout/tops" tabindex="-1">TOPS</a>
 							
 								<ul class="subcategoryList">
+								<li class="subcategory_95052">
+									
+									<script type="text/javascript">												
+										var tealiumContent_95052 = {				            
+								            dept_selection : "MEN", 
+											event_type : "top_facet", 
+											facet_category : "TOPS", 
+											facet_selection : "Graphic Tees", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_21208_21211_95052" href="http://www.champion.com/shop/champion/mens-workout/tops/graphic-tees" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_95052);">Graphic Tees</a>
+								</li>
 								<li class="subcategory_21215">
 									
 									<script type="text/javascript">												
@@ -1285,11 +1534,11 @@ dojo.addOnLoad(function() {
 								            dept_selection : "MEN", 
 											event_type : "top_facet", 
 											facet_category : "TOPS", 
-											facet_selection : "Hoodies/Sweatshirts", 
+											facet_selection : "Hoodies & Sweatshirts", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21208_21211_21218" href="http://www.champion.com/shop/champion/mens-workout/tops/hoodies-and-sweatshirts" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21218);">Hoodies/Sweatshirts</a>
+									<a id="subcategoryLink_21208_21211_21218" href="http://www.champion.com/shop/champion/mens-workout/tops/hoodies-and-sweatshirts" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21218);">Hoodies &amp; Sweatshirts</a>
 								</li>
 								<li class="subcategory_21321">
 									
@@ -1298,11 +1547,11 @@ dojo.addOnLoad(function() {
 								            dept_selection : "MEN", 
 											event_type : "top_facet", 
 											facet_category : "TOPS", 
-											facet_selection : "Jackets/Outerwear", 
+											facet_selection : "Jackets & Outerwear", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21208_21211_21321" href="http://www.champion.com/shop/champion/mens-workout/tops/jackets" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21321);">Jackets/Outerwear</a>
+									<a id="subcategoryLink_21208_21211_21321" href="http://www.champion.com/shop/champion/mens-workout/tops/jackets" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21321);">Jackets &amp; Outerwear</a>
 								</li>
 								<li class="subcategory_53554">
 									
@@ -1488,31 +1737,31 @@ dojo.addOnLoad(function() {
 							<a id="categoryLink_21208_21636" href="http://www.champion.com/shop/champion/mens-workout/collections" tabindex="-1">COLLECTIONS</a>
 							
 								<ul class="subcategoryList">
-								<li class="subcategory_58051">
+								<li class="subcategory_95051">
 									
 									<script type="text/javascript">												
-										var tealiumContent_58051 = {				            
+										var tealiumContent_95051 = {				            
 								            dept_selection : "MEN", 
 											event_type : "top_facet", 
 											facet_category : "COLLECTIONS", 
-											facet_selection : "Real Champions John's Style", 
+											facet_selection : "Heritage", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21208_21636_58051" href="http://www.champion.com/shop/champion/mens-workout/collections/real-champions-john-look" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_58051);">Real Champions John's Style</a>
+									<a id="subcategoryLink_21208_21636_95051" href="http://www.champion.com/shop/champion/mens-workout/collections/heritage" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_95051);">Heritage</a>
 								</li>
-								<li class="subcategory_58053">
+								<li class="subcategory_109551">
 									
 									<script type="text/javascript">												
-										var tealiumContent_58053 = {				            
+										var tealiumContent_109551 = {				            
 								            dept_selection : "MEN", 
 											event_type : "top_facet", 
 											facet_category : "COLLECTIONS", 
-											facet_selection : "Real Champions Julian's Style", 
+											facet_selection : "Super Fleece", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21208_21636_58053" href="http://www.champion.com/shop/champion/mens-workout/collections/real-champions-julian-look" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_58053);">Real Champions Julian's Style</a>
+									<a id="subcategoryLink_21208_21636_109551" href="http://www.champion.com/shop/champion/mens-workout/collections/super-fleece" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_109551);">Super Fleece</a>
 								</li>
 								<li class="subcategory_43557">
 									
@@ -1591,19 +1840,6 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_21208_21636_83051" href="http://www.champion.com/shop/champion/mens-workout/collections/c9-by-champion-men" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_83051);">Champion C9</a>
-								</li>
-								<li class="subcategory_53551">
-									
-									<script type="text/javascript">												
-										var tealiumContent_53551 = {				            
-								            dept_selection : "MEN", 
-											event_type : "top_facet", 
-											facet_category : "COLLECTIONS", 
-											facet_selection : "Compression", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21208_21636_53551" href="http://www.champion.com/shop/champion/mens-workout/collections/compression" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_53551);">Compression</a>
 								</li>
 								<li class="subcategory_21650">
 									
@@ -1698,10 +1934,10 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Men_id_Flydown_B" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Men_id_Flydown_B]</div>
-					<!-- Activity UniqueID: 83017 --><!-- Activity Name: Flydown_Men_20170531 --><!-- Content UniqueID: 73662 --><!-- Content Name: Flydown_Men_20170531 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+					<!-- Activity UniqueID: 193002 --><!-- Activity Name: Flydown_Men_20170829 --><!-- Content UniqueID: 183654 --><!-- Content Name: Flydown_Men_20170829 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Dept_C_Men_id_Flydown_B" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style>
+                        <style>
 .esite_header_3 #departmentsMenu.subnav_flyout_champion > li {
   padding: 0 4%;
   width: auto;
@@ -1725,11 +1961,11 @@ dojo.addOnLoad(function() {
   width: 1046px !important;
 }
 </style>
-<div class="rdiv"><!-- 20170530 SV -->
-  <img alt="Father's Day Gift Picks" src="//www.championusa.com/images/20170501/nav_men_Espot_5-31.jpg">
-   <a href="/shop/champion/mens-workout/featured/mens-feature" title="Shop Father's Day Gift Picks"><span class="vis-hidden">Shop Father's Day Gift Picks</span></a>
+<div class="rdiv"><!-- 20170828 DK -->
+  <img alt="Shop Graphic Tees" src="//www.champion.com/images/20170801/TopNav_mens_MOD_8-28.gif">
+   <a href="http://www.hanesink.com/shop/hanesink/marketplace/graphic-apparel" title="Shop Graphic Tees"><span class="vis-hidden">Shop Graphic Tees</span></a>
 </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -1740,7 +1976,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Men_id_Flydown_C" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Men_id_Flydown_C]</div>
-					<!-- Activity UniqueID: 83017 --><!-- Activity Name: Flydown_Men_20170531 --><!-- Content UniqueID: 73662 --><!-- Content Name: Flydown_Men_20170531 -->	
+					<!-- Activity UniqueID: 193002 --><!-- Activity Name: Flydown_Men_20170829 --><!-- Content UniqueID: 183654 --><!-- Content Name: Flydown_Men_20170829 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -1765,7 +2001,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Women_id_Flydown_A" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Women_id_Flydown_A]</div>
-					<!-- Activity UniqueID: 83017 --><!-- Activity Name: Flydown_Men_20170531 --><!-- Content UniqueID: 73662 --><!-- Content Name: Flydown_Men_20170531 -->	
+					<!-- Activity UniqueID: 193002 --><!-- Activity Name: Flydown_Men_20170829 --><!-- Content UniqueID: 183654 --><!-- Content Name: Flydown_Men_20170829 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -1826,19 +2062,6 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_21209_21657_71055" href="http://www.champion.com/shop/champion/womens-workout/by-feature/sports-bras-sale" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_71055);">Sports Bras</a>
-								</li>
-								<li class="subcategory_39561">
-									
-									<script type="text/javascript">												
-										var tealiumContent_39561 = {				            
-								            dept_selection : "WOMEN", 
-											event_type : "top_facet", 
-											facet_category : "FEATURED", 
-											facet_selection : "40% off 2+", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21209_21657_39561" href="http://www.champion.com/shop/champion/womens-workout/by-feature/women-sales4" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_39561);">40% off 2+</a>
 								</li></ul>
 							
 						</li>
@@ -1939,11 +2162,11 @@ dojo.addOnLoad(function() {
 								            dept_selection : "WOMEN", 
 											event_type : "top_facet", 
 											facet_category : "TOPS", 
-											facet_selection : "Hoodies/Sweatshirts", 
+											facet_selection : "Hoodies & Sweatshirts", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21209_21230_21243" href="http://www.champion.com/shop/champion/womens-workout/women-tops/sweatshirts-and-hoodies" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21243);">Hoodies/Sweatshirts</a>
+									<a id="subcategoryLink_21209_21230_21243" href="http://www.champion.com/shop/champion/womens-workout/women-tops/sweatshirts-and-hoodies" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21243);">Hoodies &amp; Sweatshirts</a>
 								</li>
 								<li class="subcategory_21334">
 									
@@ -1952,11 +2175,11 @@ dojo.addOnLoad(function() {
 								            dept_selection : "WOMEN", 
 											event_type : "top_facet", 
 											facet_category : "TOPS", 
-											facet_selection : "Jackets/Outerwear", 
+											facet_selection : "Jackets & Outerwear", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21209_21230_21334" href="http://www.champion.com/shop/champion/womens-workout/women-tops/womens-jackets" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21334);">Jackets/Outerwear</a>
+									<a id="subcategoryLink_21209_21230_21334" href="http://www.champion.com/shop/champion/womens-workout/women-tops/womens-jackets" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21334);">Jackets &amp; Outerwear</a>
 								</li>
 								<li class="subcategory_21335">
 									
@@ -1998,11 +2221,11 @@ dojo.addOnLoad(function() {
 								            dept_selection : "WOMEN", 
 											event_type : "top_facet", 
 											facet_category : "BOTTOMS", 
-											facet_selection : "Capris", 
+											facet_selection : "Crops & Capris", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21209_21229_21237" href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/workout-capris" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21237);">Capris</a>
+									<a id="subcategoryLink_21209_21229_21237" href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/workout-capris" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21237);">Crops &amp; Capris</a>
 								</li>
 								<li class="subcategory_21332">
 									
@@ -2029,6 +2252,19 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_21209_21229_21238" href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/leggings---tights" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21238);">Leggings &amp; Tights</a>
+								</li>
+								<li class="subcategory_53555">
+									
+									<script type="text/javascript">												
+										var tealiumContent_53555 = {				            
+								            dept_selection : "WOMEN", 
+											event_type : "top_facet", 
+											facet_category : "BOTTOMS", 
+											facet_selection : "Compression", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_21209_21229_53555" href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/bottoms-compression" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_53555);">Compression</a>
 								</li>
 								<li class="subcategory_21333">
 									
@@ -2142,32 +2378,6 @@ dojo.addOnLoad(function() {
 							<a id="categoryLink_21209_21659" href="http://www.champion.com/shop/champion/womens-workout/collection" tabindex="-1">COLLECTIONS</a>
 							
 								<ul class="subcategoryList">
-								<li class="subcategory_58055">
-									
-									<script type="text/javascript">												
-										var tealiumContent_58055 = {				            
-								            dept_selection : "WOMEN", 
-											event_type : "top_facet", 
-											facet_category : "COLLECTIONS", 
-											facet_selection : "Real Champions Karla's Style", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21209_21659_58055" href="http://www.champion.com/shop/champion/womens-workout/collection/real-champions-karlas-look" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_58055);">Real Champions Karla's Style</a>
-								</li>
-								<li class="subcategory_58056">
-									
-									<script type="text/javascript">												
-										var tealiumContent_58056 = {				            
-								            dept_selection : "WOMEN", 
-											event_type : "top_facet", 
-											facet_category : "COLLECTIONS", 
-											facet_selection : "Real Champions Clair's Style", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21209_21659_58056" href="http://www.champion.com/shop/champion/womens-workout/collection/real-champions-clairs-look" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_58056);">Real Champions Clair's Style</a>
-								</li>
 								<li class="subcategory_68595">
 									
 									<script type="text/javascript">												
@@ -2232,19 +2442,6 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_21209_21659_83052" href="http://www.champion.com/shop/champion/womens-workout/collection/c9-by-champion-women" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_83052);">Champion C9</a>
-								</li>
-								<li class="subcategory_53552">
-									
-									<script type="text/javascript">												
-										var tealiumContent_53552 = {				            
-								            dept_selection : "WOMEN", 
-											event_type : "top_facet", 
-											facet_category : "COLLECTIONS", 
-											facet_selection : "Compression", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_21209_21659_53552" href="http://www.champion.com/shop/champion/womens-workout/collection/womens-compression" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_53552);">Compression</a>
 								</li>
 								<li class="subcategory_21680">
 									
@@ -2313,10 +2510,10 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Women_id_Flydown_B" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Women_id_Flydown_B]</div>
-					<!-- Activity UniqueID: 80077 --><!-- Activity Name: Flydown_Women_20170428 --><!-- Content UniqueID: 71196 --><!-- Content Name: Flydown_Women_20170428 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+					<!-- Activity UniqueID: 194503 --><!-- Activity Name: Flydown_Women_20170906 --><!-- Content UniqueID: 185151 --><!-- Content Name: Flydown_Women_20170906 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Dept_C_Women_id_Flydown_B" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style>
+                        <style>
 .branded_header #departmentsMenu #subnav_item_21209 .departmentMenu.active .categoryList > li {
   width: 18%;
 }
@@ -2343,15 +2540,16 @@ dojo.addOnLoad(function() {
   margin-left: -569px !important;
   overflow: hidden;
   width: 1133px !important;
-  height:395px;
+  height:450px;
 }
 </style>
 <div class="rdiv">
-  <img alt="Champion Life" src="//www.championusa.com/images/20170401/nav_women_Espot_4-28.jpg">
-  <a href="/shop/champion/champion-life" title="Explore Champion Life™" style="width:50%"><span class="vis-hidden">Explore Champion Life™</span></a>
-   <a href="/shop/champion/champion-life/shop-all-71062--1" title="Shop Champion Life™" style="left:50%;width:50%"><span class="vis-hidden">Shop Champion Life™</span></a>
-</div>
-			<!-- END Content_UI.jspf -->
+  <img alt="Up to 40% off of Womens Items" src="http://www.champion.com/images/20170901/nav_women_Espot_8-3.jpg">
+  <a href="/shop/champion/womens-workout/workout-bottoms" title="Shop All Bottoms" style="height:8%;top:92%"><span class="vis-hidden">Shop All Bottoms</span></a>
+   
+<a href="/shop/champion/womens-workout/women-tops" title="Shop All Tops" style="height:6%;top:86%" class="hidden-mobile"><span class="vis-hidden">Shop All Tops </span></a>
+        <a href="/shop/champion/womens-workout/sports-bras" title="Shop Sportbras" style="height:86%" class="hidden-mobile"><span class="vis-hidden">Shop Sportbras</span></a></div>
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -2362,7 +2560,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Women_id_Flydown_C" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Women_id_Flydown_C]</div>
-					<!-- Activity UniqueID: 80077 --><!-- Activity Name: Flydown_Women_20170428 --><!-- Content UniqueID: 71196 --><!-- Content Name: Flydown_Women_20170428 -->	
+					<!-- Activity UniqueID: 194503 --><!-- Activity Name: Flydown_Women_20170906 --><!-- Content UniqueID: 185151 --><!-- Content Name: Flydown_Women_20170906 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -2387,7 +2585,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Kids_id_Flydown_A" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Kids_id_Flydown_A]</div>
-					<!-- Activity UniqueID: 80077 --><!-- Activity Name: Flydown_Women_20170428 --><!-- Content UniqueID: 71196 --><!-- Content Name: Flydown_Women_20170428 -->	
+					<!-- Activity UniqueID: 194503 --><!-- Activity Name: Flydown_Women_20170906 --><!-- Content UniqueID: 185151 --><!-- Content Name: Flydown_Women_20170906 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -2448,6 +2646,19 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_21210_21247_21700" href="http://www.champion.com/shop/champion/kids/boys/accessories-boys" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_21700);">Accessories</a>
+								</li>
+								<li class="subcategory_90552">
+									
+									<script type="text/javascript">												
+										var tealiumContent_90552 = {				            
+								            dept_selection : "KIDS", 
+											event_type : "top_facet", 
+											facet_category : "BOYS", 
+											facet_selection : "Socks", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_21210_21247_90552" href="http://www.champion.com/shop/champion/kids/boys/boys-socks" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_90552);">Socks</a>
 								</li></ul>
 							
 						</li>
@@ -2512,7 +2723,7 @@ dojo.addOnLoad(function() {
 						</li>
 							<li id="category_83557">
 							
-							<a id="categoryLink_21210_83557" href="http://www.champion.com/shop/champion/kids/kids-collections" tabindex="-1">Collections</a>
+							<a id="categoryLink_21210_83557" href="http://www.champion.com/shop/champion/kids/kids-collections" tabindex="-1">COLLECTIONS</a>
 							
 								<ul class="subcategoryList">
 								<li class="subcategory_83558">
@@ -2521,12 +2732,12 @@ dojo.addOnLoad(function() {
 										var tealiumContent_83558 = {				            
 								            dept_selection : "KIDS", 
 											event_type : "top_facet", 
-											facet_category : "Collections", 
-											facet_selection : "C9", 
+											facet_category : "COLLECTIONS", 
+											facet_selection : "Champion C9", 
 											page_name : "Home"
 								         };
 									</script>
-									<a id="subcategoryLink_21210_83557_83558" href="http://www.champion.com/shop/champion/kids/kids-collections/c9-by-champion" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_83558);">C9</a>
+									<a id="subcategoryLink_21210_83557_83558" href="http://www.champion.com/shop/champion/kids/kids-collections/c9-by-champion" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_83558);">Champion C9</a>
 								</li></ul>
 							
 						</li>
@@ -2539,7 +2750,7 @@ dojo.addOnLoad(function() {
 					<!-- Activity UniqueID: 73501 --><!-- Activity Name: Flydown_Kids_20170131 --><!-- Content UniqueID: 64652 --><!-- Content Name: Flydown_Kids_20170131 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Dept_C_Kids_id_Flydown_B" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style>
+                        <style>
 #departmentMenu_21210{width:635px !important;height:420px !important;}
 #subnav_item_21210 #category_21247,#subnav_item_21210 #category_21248{width:30% !important;}
 .branded_header #departmentsMenu #subnav_item_21210 .departmentMenu.active .categoryList{width: 69% !important;height: 400px !important;}
@@ -2552,7 +2763,7 @@ dojo.addOnLoad(function() {
   <a href="/shop/champion/kids/boys" title="Shop Boys' Tees &amp; Shorts"><span class="vis-hidden">Shop Boys' Tees &amp; Shorts</span></a>
 </div>
 
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -2588,29 +2799,53 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Collegefanwear_id_Flydown_A" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Collegefanwear_id_Flydown_A]</div>
-					<!-- Activity UniqueID: 82526 --><!-- Activity Name: Flydown_CollegeA_20170526 --><!-- Content UniqueID: 73162 --><!-- Content Name: Flydown_College_20170526 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+					<!-- Activity UniqueID: 195023 --><!-- Activity Name: Flydown_CollegeA_20170915 --><!-- Content UniqueID: 185670 --><!-- Content Name: Flydown_College_20170915 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Dept_C_Collegefanwear_id_Flydown_A" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<div class="rdiv FanWear"><!-- 20170525 SV -->
-<style type="text/css">
-#departmentMenu_63552{width:415px!important;height:404px!important}
-#departmentMenu_63552 ul.categoryList{display:none!important}
-</style>
-  <img src="http://www.championusa.com/images/20170501/Champion_Nav_FANWEAR_05_29.jpg" alt="Shop College Apparel">
-  <a title="Shop Arizona State College Apparel" href="http://www.hanesink.com/shop/hanesink/college/9127" style="height:11.5%;top:14%;width:53.5%;z-index:3"><span class="vis-hidden">Shop Arizona State College Apparel</span></a>
-  <a title="Shop Clemson University Apparel" href="http://www.hanesink.com/shop/hanesink/college/5758" style="height:7%;top:25.5%;width:53.5%;z-index:3"><span class="vis-hidden">Shop Clemson University Apparel</span></a>
-  <a title="Shop University of Florida Apparel" href="http://www.hanesink.com/shop/hanesink/college/9188" style="height:7%;top:32.5%;width:53.5%;z-index:3"><span class="vis-hidden">Shop University of Florida Apparel</span></a>
-  <a title="Shop University of Kentucky Apparel" href="http://www.hanesink.com/shop/hanesink/college/9224" style="width:53.5%;top:39.5%;height:7%;z-index:3"><span class="vis-hidden">Shop University of Kentucky Apparel</span></a>
-  <a title="Shop University of Michigan Apparel" href="http://www.hanesink.com/shop/hanesink/college/9263" style="width:53.5%;top:46.5%;height:6%;z-index:3"><span class="vis-hidden">Shop University of Michigan Apparel</span></a>
-  <a title="Shop University of North Carolina Apparel" href="http://www.hanesink.com/shop/hanesink/college/9313" style="width:53.5%;top:52.5%;height:6%;z-index:3"><span class="vis-hidden">Shop University of North Carolina Apparel</span></a>
-  <a title="Shop Notre Dame Apparel" href="http://www.hanesink.com/shop/hanesink/college/9324" style="height:7.5%;top:58.5%;width:53.5%;z-index:3"><span class="vis-hidden">Shop Notre Dame Apparel</span></a>
-  <a title="Shop Penn State" href="http://www.hanesink.com/shop/hanesink/college/8107" style="height:7%;top:66%;width:53.5%;z-index:3"><span class="vis-hidden">Shop Penn State Apparel</span></a>
-  <a title="Shop University of South Carolina" href="http://www.hanesink.com/shop/hanesink/college/9382" style="height:7%;top:73%;width:53.5%;z-index:3"><span class="vis-hidden">Shop University of South Carolina</span></a>
-  <a title="Shop Virginia Tech Apparel" href="http://www.hanesink.com/shop/hanesink/college/9544" style="height:6%;top:80%;width:53.5%;z-index:3"><span class="vis-hidden">Shop Virginia Tech Apparel</span></a>
-  <a title="Shop High School Apparel" href="http://www.hanesink.com/shop/hanesink/highschool?y1=BESTDAD" style="height:24.5%;left:53.5%;top:75.5%;width:46.5%;z-index:3"><span class="vis-hidden">Shop High School Apparel</span></a>
-  <a title="Shop College Apparel" href="http://www.hanesink.com/shop/hanesink/college?y1=BESTDAD"><span class="vis-hidden">Shop College Apparel</span></a>
+                        <div class="rdiv FanWear">
+    <!-- 20170914 LF -->
+    <style type="text/css">
+        #departmentMenu_63552 {
+            width: 520px !important;
+            height: 300px !important;
+        }
+        
+        #departmentMenu_63552 ul.categoryList {
+            display: none !important;
+        }
+    </style>
+    <img src="http://www.hanesink.com/images/20170901/Champion_Nav_9_15.jpg" alt="Shop College Apparel">
+    <a title="Shop University of Alabama College Apparel" href="http://www.hanesink.com/shop/hanesink/college/9105/college-13559--1" style="height:7%;top:19%;width:23%;z-index:3"><span class="vis-hidden">Shop University of Alabama Apparel</span></a>
+    <a title="Shop Auburn University College Apparel" href="http://www.hanesink.com/shop/hanesink/college/5220/college-13559--1" style="height:7%;top:26%;width:23%;z-index:3"><span class="vis-hidden">Shop Auburn University Apparel</span></a>
+    <a title="Shop Boise State University College Apparel" href="http://www.hanesink.com/shop/hanesink/college/5400" style="height:7%;top:33%;width:23%;z-index:3"><span class="vis-hidden">Shop Boise State University Apparel</span></a>
+    <a title="Shop Clemson University Apparel" href="http://www.hanesink.com/shop/hanesink/college/5758/college-13559--1" style="width:23%;top:40%;height:7%;z-index:3"><span class="vis-hidden">Shop Clemson University Apparel</span></a>
+    <a title="Shop University of Florida Apparel" href="http://www.hanesink.com/shop/hanesink/college/9188/college-13559--1" style="width:23%;top:47%;height:7%;z-index:3"><span class="vis-hidden">Shop University of Florida Apparel</span></a>
+    <a title="Shop Florida State University Apparel" href="http://www.hanesink.com/shop/hanesink/college/6354/college-13559--1" style="width:23%;top:54%;height:8%;z-index:3"><span class="vis-hidden">Shop Florida State University Apparel</span></a>
+    <a title="Shop University of Georgia Apparel" href="http://www.hanesink.com/shop/hanesink/college/9189/college-13559--1" style="height:7%;top:62%;width:23%;z-index:3"><span class="vis-hidden">Shop University of Georgia Apparel</span></a>
+    <a title="Shop Kansas State University Apparel" href="http://www.hanesink.com/shop/hanesink/college/6985/college-13559--1" style="height:7%;top:69%;width:23%;z-index:3"><span class="vis-hidden">Shop Kansas State University Apparel</span></a>
+
+    <a title="Shop University of Louisville Apparel" href="http://www.hanesink.com/shop/hanesink/college/9233/college-13559--1" style="left:23%;height:7%;top:19%;width:23%;z-index:3"><span class="vis-hidden">Shop University of Louisville Apparel</span></a>
+    <a title="Shop Lousiana State University Apparel" href="http://www.hanesink.com/shop/hanesink/college/7230/college-13559--1" style="left:23%;width:23%;top:26%;height:7%;z-index:3"><span class="vis-hidden">Shop Louisana State University Apparel</span></a>
+    <a title="Shop University of Miami Apparel" href="http://www.hanesink.com/shop/hanesink/college/9262/college-13559--1" style="left:23%;width:23%;top:33%;height:7%;z-index:3"><span class="vis-hidden">Shop University of Miami Apparel</span></a>
+    <a title="Shop University of Michigan Apparel" href="http://www.hanesink.com/shop/hanesink/college/9263/college-13559--1" style="left:23%;height:7%;top:40%;width:23%;z-index:3"><span class="vis-hidden">Shop University of Michigan Apparel</span></a>
+    <a title="Shop Notre Dame Apparel" href="http://www.hanesink.com/shop/hanesink/college/9324/college-13559--1" style="left:23%;height:7%;top:47%;width:23%;z-index:3"><span class="vis-hidden">Shop Notre Dame Apparel</span></a>
+    <a title="Shop University of Oklahoma Apparel" href="http://www.hanesink.com/shop/hanesink/college/9325/college-13559--1" style="left:23%;height:8%;top:54%;width:23%;z-index:3"><span class="vis-hidden">Shop University of Oklahoma Apparel</span></a>
+    <a title="Shop Oklahoma State University Apparel" href="http://www.hanesink.com/shop/hanesink/college/7966/college-13559--1" style="left:23%;width:23%;top:62%;height:7%;z-index:3"><span class="vis-hidden">Shop Oklahoma State University Apparel</span></a>
+    <a title="Shop Penn State University Apparel" href="http://www.hanesink.com/shop/hanesink/college/8107/college-13559--1" style="left:23%;width:23%;top:69%;height:7%;z-index:3"><span class="vis-hidden">Shop Penn State University Apparel</span></a>
+
+    <a title="Shop University of South Florida Apparel" href="http://www.hanesink.com/shop/hanesink/college/9398/college-13559--1" style="left:46%;width:25%;top:19%;height:7%;z-index:3"><span class="vis-hidden">Shop University of South Florida Apparel</span></a>
+    <a title="Shop Stanford Apparel" href="http://www.hanesink.com/shop/hanesink/college/8805/college-13559--1" style="left:46%;width:25%;top:26%;height:7%;z-index:3"><span class="vis-hidden">Shop Stanford Apparel</span></a>
+    <a title="Shop University of South Carolina" href="https://www.hanesink.com/shop/hanesink/college/9382/college-13559--1" style="left:46%;height:7%;top:33%;width:25%;z-index:3"><span class="vis-hidden">Shop University of South Carolina</span></a>
+    <a title="Shop Virginia Tech Apparel" href="http://www.hanesink.com/shop/hanesink/college/9544/college-13559--1" style="left:46%;height:7%;top:40%;width:25%;z-index:3"><span class="vis-hidden">Shop Virginia Tech Apparel</span></a>
+    <a title="Shop University of Washington Apparel" href="http://www.hanesink.com/shop/hanesink/college/9445/college-13559--1" style="left:46%;height:7%;top:47%;width:25%;z-index:3"><span class="vis-hidden">Shop University of Washington Apparel</span></a>
+    <a title="Shop Washington State University Apparel" href="https://www.hanesink.com/shop/hanesink/college/9585/college-13559--1" style="left:46%;height:8%;top:54%;width:25%;z-index:3"><span class="vis-hidden">Shop Washington State University Apparel</span></a>
+    <a title="Shop West Virginia University Apparel" href="https://www.hanesink.com/shop/hanesink/college/9696/college-13559--1" style="left:46%;height:7%;top:62%;width:25%;z-index:3"><span class="vis-hidden">Shop West Virginia University Apparel</span></a>
+    <a title="Shop University of Wisconsin Apparel" href="https://www.hanesink.com/shop/hanesink/college/9472/college-13559--1" style="left:46%;height:7%;top:69%;width:25%;z-index:3"><span class="vis-hidden">Shop University of Wisconsin Apparel</span></a>
+
+    <a title="Shop College Apparel" href="http://www.hanesink.com/shop/hanesink/college"><span class="vis-hidden">Shop College Apparel</span></a>
+    <a title="Shop High School Apparel" href="http://www.hanesink.com/shop/hanesink/highschool" style="height: 24%; left: 71%; top: 76%; width: 29%; z-index: 3;"><span class="vis-hidden">Shop High School Apparel</span></a>
 </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -2760,7 +2995,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Collegefanwear_id_Flydown_B" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Collegefanwear_id_Flydown_B]</div>
-					<!-- Activity UniqueID: 82526 --><!-- Activity Name: Flydown_CollegeA_20170526 --><!-- Content UniqueID: 73162 --><!-- Content Name: Flydown_College_20170526 -->	
+					<!-- Activity UniqueID: 195023 --><!-- Activity Name: Flydown_CollegeA_20170915 --><!-- Content UniqueID: 185670 --><!-- Content Name: Flydown_College_20170915 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -2769,7 +3004,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Collegefanwear_id_Flydown_C" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Collegefanwear_id_Flydown_C]</div>
-					<!-- Activity UniqueID: 82526 --><!-- Activity Name: Flydown_CollegeA_20170526 --><!-- Content UniqueID: 73162 --><!-- Content Name: Flydown_College_20170526 -->	
+					<!-- Activity UniqueID: 195023 --><!-- Activity Name: Flydown_CollegeA_20170915 --><!-- Content UniqueID: 185670 --><!-- Content Name: Flydown_College_20170915 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -2794,7 +3029,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Clearance_id_Flydown_A" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Clearance_id_Flydown_A]</div>
-					<!-- Activity UniqueID: 82526 --><!-- Activity Name: Flydown_CollegeA_20170526 --><!-- Content UniqueID: 73162 --><!-- Content Name: Flydown_College_20170526 -->	
+					<!-- Activity UniqueID: 195023 --><!-- Activity Name: Flydown_CollegeA_20170915 --><!-- Content UniqueID: 185670 --><!-- Content Name: Flydown_College_20170915 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -2804,6 +3039,19 @@ dojo.addOnLoad(function() {
 							<a id="categoryLink_57102_57109" href="http://www.champion.com/shop/champion/clearance--1/up-to-off" tabindex="-1">SHOP OUTLET</a>
 							
 								<ul class="subcategoryList">
+								<li class="subcategory_91054">
+									
+									<script type="text/javascript">												
+										var tealiumContent_91054 = {				            
+								            dept_selection : "OUTLET", 
+											event_type : "top_facet", 
+											facet_category : "SHOP OUTLET", 
+											facet_selection : "New Markdowns", 
+											page_name : "Home"
+								         };
+									</script>
+									<a id="subcategoryLink_57102_57109_91054" href="http://www.champion.com/shop/champion/clearance--1/up-to-off/new-markdowns" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_91054);">New Markdowns</a>
+								</li>
 								<li class="subcategory_57111">
 									
 									<script type="text/javascript">												
@@ -2868,45 +3116,6 @@ dojo.addOnLoad(function() {
 								         };
 									</script>
 									<a id="subcategoryLink_57102_57109_69551" href="http://www.champion.com/shop/champion/clearance--1/up-to-off/accessories-" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_69551);">Accessories</a>
-								</li>
-								<li class="subcategory_71073">
-									
-									<script type="text/javascript">												
-										var tealiumContent_71073 = {				            
-								            dept_selection : "OUTLET", 
-											event_type : "top_facet", 
-											facet_category : "SHOP OUTLET", 
-											facet_selection : "2/$12", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_57102_57109_71073" href="http://www.champion.com/shop/champion/clearance--1/up-to-off/clearance-priced" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_71073);">2/$12</a>
-								</li>
-								<li class="subcategory_78055">
-									
-									<script type="text/javascript">												
-										var tealiumContent_78055 = {				            
-								            dept_selection : "OUTLET", 
-											event_type : "top_facet", 
-											facet_category : "SHOP OUTLET", 
-											facet_selection : "2/$20", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_57102_57109_78055" href="http://www.champion.com/shop/champion/clearance--1/up-to-off/clearance-prices" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_78055);">2/$20</a>
-								</li>
-								<li class="subcategory_86551">
-									
-									<script type="text/javascript">												
-										var tealiumContent_86551 = {				            
-								            dept_selection : "OUTLET", 
-											event_type : "top_facet", 
-											facet_category : "SHOP OUTLET", 
-											facet_selection : "$12 Doorbusters", 
-											page_name : "Home"
-								         };
-									</script>
-									<a id="subcategoryLink_57102_57109_86551" href="http://www.champion.com/shop/champion/clearance--1/up-to-off/doorbusters" class="menuLink" role="menuitem" tabindex="-1" onclick="javascript:addInPageActivityTag(tealiumContent_86551);">$12 Doorbusters</a>
 								</li></ul>
 							
 						</li>
@@ -2916,21 +3125,21 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Clearance_id_Flydown_B" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Clearance_id_Flydown_B]</div>
-					<!-- Activity UniqueID: 73020 --><!-- Activity Name: Flydown Clearance 20170131 --><!-- Content UniqueID: 64169 --><!-- Content Name: Flydown_Clearance_20170131 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 54262 --><!-- Content Name: Flydown_Clearance_B --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Dept_C_Clearance_id_Flydown_B" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style>
-#departmentMenu_57102{width:450px !important;height:350px !important;left:auto!important;right:0}
+                        <style>
+#departmentMenu_57102{width:450px !important;height:350px !important;}
 #subnav_item_57102 #category_57102,#subnav_item_57102 #category_57102{width:52% !important;}
 .branded_header #departmentsMenu #subnav_item_57102 .departmentMenu.active .categoryList{width: 50% !important;height: 333px !important;}
 #subnav_item_57102 .imagePanel{right:13px}
 </style>
-<div class="rdiv"><!--20170301 SV  -->
-  <img alt="Shop Clearance" src="//www.championusa.com/images/20170101/nav_clearance_Espot_1-31.jpg">
-  <a href="/shop/champion/clearance--1/up-to-off" title="Shop Clearance"><span class="vis-hidden">Shop Clearance</span></a>
+<div class="rdiv"><!--20160906  359391-16 LF  -->
+  <img alt="Shop Clearance" src="//www.championusa.com/images/static/nav_clearance_Espot.jpg">
+  <a href="/shop/champion/clearance--1/up-to-75-off/shop-all--1" title="Shop Clearance"><span class="vis-hidden">Shop Clearance</span></a>
 </div>
 
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -2941,7 +3150,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_Dept_C_Clearance_id_Flydown_C" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Dept_C_Clearance_id_Flydown_C]</div>
-					<!-- Activity UniqueID: 73020 --><!-- Activity Name: Flydown Clearance 20170131 --><!-- Content UniqueID: 64169 --><!-- Content Name: Flydown_Clearance_20170131 -->	
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 54262 --><!-- Content Name: Flydown_Clearance_B -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 						</div>
@@ -2957,7 +3166,7 @@ dojo.addOnLoad(function() {
 		<div id="ES_champion_DepartmentEnd" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_DepartmentEnd]</div>
-					<!-- Activity UniqueID: 73020 --><!-- Activity Name: Flydown Clearance 20170131 --><!-- Content UniqueID: 64169 --><!-- Content Name: Flydown_Clearance_20170131 -->	
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 54262 --><!-- Content Name: Flydown_Clearance_B -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 			</li>
@@ -2969,8 +3178,8 @@ dojo.addOnLoad(function() {
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 61155 --><!-- Content Name: Hide_DeptEnd_RtBorder --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Global_DepartmentEnd" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style type="text/css">li.subnav_right_border.subnav_item{display:none!important}#sinfo_blk{padding-top:22px}#departmentsMenu .subnav_item_global{display:none}</style>
-			<!-- END Content_UI.jspf -->
+                        <style type="text/css">li.subnav_right_border.subnav_item{display:none!important}#sinfo_blk{padding-top:22px}#departmentsMenu .subnav_item_global{display:none}</style>
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -2986,7 +3195,7 @@ dojo.addOnLoad(function() {
 require(["dojo/domReady!"], function() {
 	SearchJS.init();
 	SearchJS.setCachedSuggestionsURL("SearchComponentCachedSuggestionsView?langId=-1&storeId=10704&catalogId=11053");
-	SearchJS.setAutoSuggestURL("SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&serverURL=http%3a%2f%2fhanes-aws-wcs-search%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&langId=-1&storeId=10704&catalogId=11053&doorId=3");
+	SearchJS.setAutoSuggestURL("SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&serverURL=http%3a%2f%2fhanes-sap-wcs-search%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&langId=-1&storeId=10704&catalogId=11053&doorId=3");
 	document.forms["searchBox"].action = "http://www.champion.com/shop/SearchDisplay?catalogId=11053&langId=-1&storeId=10704";
 });
 var staticContent = [];
@@ -2999,18 +3208,18 @@ var staticContentHeaders = [];
 <div id="searchBar" data-parent="header" role="search" class="active">
 	
 	<form id="searchBox" name="CatalogSearchForm" method="get" action="http://www.champion.com/shop/SearchDisplay?catalogId=11053&amp;langId=-1&amp;storeId=10704">
-		<input id="categoryId" name="categoryId" type="hidden" value="71058" autocomplete="off">
-		<input name="doorId" value="3" type="hidden" autocomplete="off">
-		<input name="storeId" value="10704" type="hidden" autocomplete="off">
-		<input name="catalogId" value="11053" type="hidden" autocomplete="off">
-		<input name="langId" value="-1" type="hidden" autocomplete="off">
-		<input name="sType" value="SimpleSearch" type="hidden" autocomplete="off">
-		<input name="resultCatEntryType" value="2" type="hidden" autocomplete="off">
-		<input name="showResultsPage" value="true" type="hidden" autocomplete="off">
-		<input name="searchSource" value="Q" type="hidden" autocomplete="off">
-		<input name="pageView" value="" type="hidden" autocomplete="off">
-		<input name="beginIndex" value="0" type="hidden" autocomplete="off">
-		<input name="pageSize" value="20" type="hidden" autocomplete="off">
+		<input id="categoryId" name="categoryId" type="hidden" value="21634">
+		<input name="doorId" value="3" type="hidden">
+		<input name="storeId" value="10704" type="hidden">
+		<input name="catalogId" value="11053" type="hidden">
+		<input name="langId" value="-1" type="hidden">
+		<input name="sType" value="SimpleSearch" type="hidden">
+		<input name="resultCatEntryType" value="2" type="hidden">
+		<input name="showResultsPage" value="true" type="hidden">
+		<input name="searchSource" value="Q" type="hidden">
+		<input name="pageView" value="" type="hidden">
+		<input name="beginIndex" value="0" type="hidden">
+		<input name="pageSize" value="20" type="hidden">
 
 		<div id="searchTermWrapper"><label id="searchFormLabel" for="SimpleSearchForm_SearchTerm">Search</label><input id="SimpleSearchForm_SearchTerm" type="text" name="searchTerm" placeholder="Enter Keyword or item #" autocomplete="off"></div>
 		<!-- Start SearchDropdownWidget -->
@@ -3020,7 +3229,7 @@ var staticContentHeaders = [];
 					<!-- Main Content Area -->
 					<div id="AutoSuggestDiv" role="list" aria-required="true" onmouseover="SearchJS.autoSuggestHover = true;" onmouseout="SearchJS.autoSuggestHover = false; document.getElementById('SimpleSearchForm_SearchTerm').focus();">
 						<ul><li><span id="autoSuggestDynamic_Result_div_ACCE_Label" class="spanacce">Suggested keywords menu</span>
-						<div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDynamic_Result_div" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="list" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestDynamic_Result_div_ACCE_Label" class="dijitContentPane" lang="en">
+						<div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDisplay_Widget" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="list" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestDynamic_Result_div_ACCE_Label">
 						
 						</div></li></ul>
 						<ul><li><div id="autoSuggestStatic_1" role="listitem"></div></li></ul>
@@ -3035,12 +3244,12 @@ var staticContentHeaders = [];
 		</div>
 		<!-- End SearchDropdownWidget --><!-- Refresh area to retrieve cached suggestions -->
 		<span id="autoSuggestCachedSuggestions_div_ACCE_Label" class="spanacce">Suggested site content and search history menu</span>
-		<div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestCachedSuggestions_div" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestCachedSuggestions_div_ACCE_Label" class="dijitContentPane" lang="en"></div>
+		<div dojotype="wc.widget.RefreshArea" widgetid="AutoSuggestCachedSuggestions" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestCachedSuggestions_div_ACCE_Label"></div>
 		
 		<a href="#" class="submitButton" role="button" aria-label="Search" title="Search"><span id="submitButton_ACCE_Label" class="spanacce">Search</span></a>
 	</form>
 </div>
-<!-- Search_TimeStamp = Fri Jun 02 19:20:00 EDT 2017 --><!-- End Search Widget --><!-- END Search.jsp -->
+<!-- Search_TimeStamp = Thu Sep 21 06:06:30 EDT 2017 --><!-- End Search Widget --><!-- END Search.jsp -->
 			<div id="mobile-nav-wrapper" class="javascript-unapplied">
 				<a class="open-nav" href="#mobile-nav">☰</a>
 		
@@ -3050,7 +3259,32 @@ var staticContentHeaders = [];
 						<ul role="menu" aria-labelledby="">
 							<div class="mm-divider"></div>
 							
-									<li class="subnav_item " id="subnav_item_71058">
+									<li class="subnav_item mm-dept-hot" id="subnav_item_21634">
+									    <a href="http://www.champion.com/shop/champion/hidden" role="menuitem" tabindex="-1">
+									        <span class="mm-item-link">HIDDEN</span>
+									    </a>
+									    
+									    
+									    	<ul>
+									    		
+									    			<li>
+														<span role="menuitem" tabindex="-1">Hidden</span>
+														
+															<ul>
+																
+																	<li>
+																		<a href="http://www.champion.com/shop/champion/hidden/hidden-category/bv-sampling" role="menuitem" tabindex="-1">BV Sampling</a>
+																	</li>
+																
+															</ul>	
+														
+									    			</li>
+								    			
+							    			</ul>
+									    
+									</li>
+								
+									<li class="subnav_item mm-dept-hot" id="subnav_item_71058">
 									    <a href="http://www.champion.com/shop/champion/champion-life" role="menuitem" tabindex="-1">
 									        <span class="mm-item-link">CHAMPION LIFE</span>
 									    </a>
@@ -3058,16 +3292,6 @@ var staticContentHeaders = [];
 									    
 									    	<ul>
 									    		
-									    			<li>
-														<span role="menuitem" tabindex="-1">C Logo</span>
-														
-									    			</li>
-								    			
-									    			<li>
-														<span role="menuitem" tabindex="-1">Champion Logo</span>
-														
-									    			</li>
-								    			
 									    			<li>
 														<span role="menuitem" tabindex="-1">Shop All</span>
 														
@@ -3091,10 +3315,6 @@ var staticContentHeaders = [];
 															<ul>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature" role="menuitem" tabindex="-1">Gifts for Every Dad</a>
-																	</li>
-																
-																	<li>
 																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/new-arrivals" role="menuitem" tabindex="-1">New Arrivals</a>
 																	</li>
 																
@@ -3107,11 +3327,15 @@ var staticContentHeaders = [];
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/men-feature5" role="menuitem" tabindex="-1">Sweats 2/$45</a>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature6" role="menuitem" tabindex="-1">Tees &amp; Shorts Stock Up</a>
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature6" role="menuitem" tabindex="-1">Tees &amp; Shorts Stock Up</a>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/mens-feature3" role="menuitem" tabindex="-1">LTD EDITION</a>
+																	</li>
+																
+																	<li>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/featured/men-sales" role="menuitem" tabindex="-1">Logo</a>
 																	</li>
 																
 															</ul>	
@@ -3122,6 +3346,10 @@ var staticContentHeaders = [];
 														<span role="menuitem" tabindex="-1">TOPS</span>
 														
 															<ul>
+																
+																	<li>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/tops/graphic-tees" role="menuitem" tabindex="-1">Graphic Tees</a>
+																	</li>
 																
 																	<li>
 																		<a href="http://www.champion.com/shop/champion/mens-workout/tops/tank-top---muscle-tee" role="menuitem" tabindex="-1">Tanks &amp; Sleeveless</a>
@@ -3136,11 +3364,11 @@ var staticContentHeaders = [];
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/tops/hoodies-and-sweatshirts" role="menuitem" tabindex="-1">Hoodies/Sweatshirts</a>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/tops/hoodies-and-sweatshirts" role="menuitem" tabindex="-1">Hoodies &amp; Sweatshirts</a>
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/tops/jackets" role="menuitem" tabindex="-1">Jackets/Outerwear</a>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/tops/jackets" role="menuitem" tabindex="-1">Jackets &amp; Outerwear</a>
 																	</li>
 																
 																	<li>
@@ -3228,11 +3456,11 @@ var staticContentHeaders = [];
 															<ul>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/collections/real-champions-john-look" role="menuitem" tabindex="-1">Real Champions John's Style</a>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/collections/heritage" role="menuitem" tabindex="-1">Heritage</a>
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/collections/real-champions-julian-look" role="menuitem" tabindex="-1">Real Champions Julian's Style</a>
+																		<a href="http://www.champion.com/shop/champion/mens-workout/collections/super-fleece" role="menuitem" tabindex="-1">Super Fleece</a>
 																	</li>
 																
 																	<li>
@@ -3257,10 +3485,6 @@ var staticContentHeaders = [];
 																
 																	<li>
 																		<a href="http://www.champion.com/shop/champion/mens-workout/collections/c9-by-champion-men" role="menuitem" tabindex="-1">Champion C9</a>
-																	</li>
-																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/mens-workout/collections/compression" role="menuitem" tabindex="-1">Compression</a>
 																	</li>
 																
 																	<li>
@@ -3333,10 +3557,6 @@ var staticContentHeaders = [];
 																		<a href="http://www.champion.com/shop/champion/womens-workout/by-feature/sports-bras-sale" role="menuitem" tabindex="-1">Sports Bras</a>
 																	</li>
 																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/by-feature/women-sales4" role="menuitem" tabindex="-1">40% off 2+</a>
-																	</li>
-																
 															</ul>	
 														
 									    			</li>
@@ -3380,11 +3600,11 @@ var staticContentHeaders = [];
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/women-tops/sweatshirts-and-hoodies" role="menuitem" tabindex="-1">Hoodies/Sweatshirts</a>
+																		<a href="http://www.champion.com/shop/champion/womens-workout/women-tops/sweatshirts-and-hoodies" role="menuitem" tabindex="-1">Hoodies &amp; Sweatshirts</a>
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/women-tops/womens-jackets" role="menuitem" tabindex="-1">Jackets/Outerwear</a>
+																		<a href="http://www.champion.com/shop/champion/womens-workout/women-tops/womens-jackets" role="menuitem" tabindex="-1">Jackets &amp; Outerwear</a>
 																	</li>
 																
 																	<li>
@@ -3405,7 +3625,7 @@ var staticContentHeaders = [];
 																	</li>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/workout-capris" role="menuitem" tabindex="-1">Capris</a>
+																		<a href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/workout-capris" role="menuitem" tabindex="-1">Crops &amp; Capris</a>
 																	</li>
 																
 																	<li>
@@ -3414,6 +3634,10 @@ var staticContentHeaders = [];
 																
 																	<li>
 																		<a href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/leggings---tights" role="menuitem" tabindex="-1">Leggings &amp; Tights</a>
+																	</li>
+																
+																	<li>
+																		<a href="http://www.champion.com/shop/champion/womens-workout/workout-bottoms/bottoms-compression" role="menuitem" tabindex="-1">Compression</a>
 																	</li>
 																
 																	<li>
@@ -3472,14 +3696,6 @@ var staticContentHeaders = [];
 															<ul>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/collection/real-champions-karlas-look" role="menuitem" tabindex="-1">Real Champions Karla's Style</a>
-																	</li>
-																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/collection/real-champions-clairs-look" role="menuitem" tabindex="-1">Real Champions Clair's Style</a>
-																	</li>
-																
-																	<li>
 																		<a href="http://www.champion.com/shop/champion/womens-workout/collection/absolute" role="menuitem" tabindex="-1">Absolute</a>
 																	</li>
 																
@@ -3497,10 +3713,6 @@ var staticContentHeaders = [];
 																
 																	<li>
 																		<a href="http://www.champion.com/shop/champion/womens-workout/collection/c9-by-champion-women" role="menuitem" tabindex="-1">Champion C9</a>
-																	</li>
-																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/womens-workout/collection/womens-compression" role="menuitem" tabindex="-1">Compression</a>
 																	</li>
 																
 																	<li>
@@ -3565,6 +3777,10 @@ var staticContentHeaders = [];
 																		<a href="http://www.champion.com/shop/champion/kids/boys/accessories-boys" role="menuitem" tabindex="-1">Accessories</a>
 																	</li>
 																
+																	<li>
+																		<a href="http://www.champion.com/shop/champion/kids/boys/boys-socks" role="menuitem" tabindex="-1">Socks</a>
+																	</li>
+																
 															</ul>	
 														
 									    			</li>
@@ -3595,12 +3811,12 @@ var staticContentHeaders = [];
 									    			</li>
 								    			
 									    			<li>
-														<span role="menuitem" tabindex="-1">Collections</span>
+														<span role="menuitem" tabindex="-1">COLLECTIONS</span>
 														
 															<ul>
 																
 																	<li>
-																		<a href="http://www.champion.com/shop/champion/kids/kids-collections/c9-by-champion" role="menuitem" tabindex="-1">C9</a>
+																		<a href="http://www.champion.com/shop/champion/kids/kids-collections/c9-by-champion" role="menuitem" tabindex="-1">Champion C9</a>
 																	</li>
 																
 															</ul>	
@@ -3686,6 +3902,10 @@ var staticContentHeaders = [];
 															<ul>
 																
 																	<li>
+																		<a href="http://www.champion.com/shop/champion/clearance--1/up-to-off/new-markdowns" role="menuitem" tabindex="-1">New Markdowns</a>
+																	</li>
+																
+																	<li>
 																		<a href="http://www.champion.com/shop/champion/clearance--1/up-to-off/mens" role="menuitem" tabindex="-1">Men's</a>
 																	</li>
 																
@@ -3703,18 +3923,6 @@ var staticContentHeaders = [];
 																
 																	<li>
 																		<a href="http://www.champion.com/shop/champion/clearance--1/up-to-off/accessories-" role="menuitem" tabindex="-1">Accessories</a>
-																	</li>
-																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/clearance--1/up-to-off/clearance-priced" role="menuitem" tabindex="-1">2/$12</a>
-																	</li>
-																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/clearance--1/up-to-off/clearance-prices" role="menuitem" tabindex="-1">2/$20</a>
-																	</li>
-																
-																	<li>
-																		<a href="http://www.champion.com/shop/champion/clearance--1/up-to-off/doorbusters" role="menuitem" tabindex="-1">$12 Doorbusters</a>
 																	</li>
 																
 															</ul>	
@@ -3765,7 +3973,7 @@ var staticContentHeaders = [];
 					<!-- Activity UniqueID: 81186 --><!-- Activity Name: Global_Header2_ACCStyling2 --><!-- Content UniqueID: 72345 --><!-- Content Name: Global_Header2_ACCStyling2 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Global_Header_2" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style type="text/css">
+                        <style type="text/css">
 /* 
 Temporary styling for all B2C store responsive images and links 
 */
@@ -3801,7 +4009,7 @@ Temporary styling for all B2C store responsive images and links
 }
 
 </style>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -3823,7 +4031,56 @@ Temporary styling for all B2C store responsive images and links
 		<div id="ES_champion_Header_1" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Header_1]</div>
-					<!-- Activity UniqueID: 81186 --><!-- Activity Name: Global_Header2_ACCStyling2 --><!-- Content UniqueID: 72345 --><!-- Content Name: Global_Header2_ACCStyling2 -->	
+					<!-- Activity UniqueID: 194019 --><!-- Activity Name: Global FreeShipBra 20170906 --><!-- Content UniqueID: 184669 --><!-- Content Name: FreeShip_20170906 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_ES_champion_Header_1" class="contentRecommendationWidget">
+				<!-- BEGIN Content_UI.jspf -->
+                        <style type="text/css">
+    #clifedetails {
+        line-height: 0
+    }
+    
+    @media (max-width:39.99em) {
+        #details {
+            position: fixed!important;
+            width: 90%!important;
+            height: auto!important;
+            left: 5%!important;
+            top: 20%!important
+        }
+        #details img {
+            width: 100%;
+            max-width: 100%
+        }
+    }
+</style>
+<div class="rdiv" style="line-height:0;margin-bottom:-1px;float:left">
+    <!-- 20170905 RC -->
+    <img src="http://www.champion.com/images/20170801/Homepage_8-3_A.jpg" alt="Free Shipping On Sportsbras with Promo Code SHIPBRAS" class="hidden-mobile">
+    <img src="http://www.champion.com/images/20170801/Homepage_MB_8-3_A.jpg" alt="Free Shipping On Sportsbras with Promo Code SHIPBRAS" class="hidden-desktop">
+    <a href="#" onclick="dijit.byId('details').show()" data-behavior="modal"><span class="vis-hidden">See Details</span></a>
+    <div id="setdetails" dojotype="dijit.Dialog" style="display:none">
+        <div class="modal-container">
+            <div class="modal-content">
+                <img src="http://www.champion.com/images/20170701/Homepage_7-5_A_ShippingSlideModal.jpg" alt="Free Standard U.S. delivery only.">
+            </div>
+            <div class="modal-close-btn" onclick="dijit.byId('setdetails').hide();"></div>
+        </div>
+    </div>
+
+    <div id="details" dojotype="dijit.Dialog" style="display:none">
+        <div class="modal-container">
+            <div class="modal-content rdiv">
+                <img src="//www.champion.com/images/20170801/Homepage_8-3_FS_40OFF_modal.gif" alt="Shipping Promotion Details">
+                <a href="#" title="Close" onclick="dijit.byId('details').hide();return false"><span class="vis-hidden">Close</span></a>
+            </div>
+            <div class="modal-close-btn" onclick="dijit.byId('details').hide();" style="z-index:5"></div>
+        </div>
+    </div>
+</div>
+<div class="rdiv" style="width:100%;height:1px;clear:both"></div>
+                    <!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 		    </div>
@@ -3833,7 +4090,7 @@ Temporary styling for all B2C store responsive images and links
 		<div id="ES_champion_Header_2" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_champion_Header_2]</div>
-					<!-- Activity UniqueID: 81186 --><!-- Activity Name: Global_Header2_ACCStyling2 --><!-- Content UniqueID: 72345 --><!-- Content Name: Global_Header2_ACCStyling2 -->	
+					<!-- Activity UniqueID: 194019 --><!-- Activity Name: Global FreeShipBra 20170906 --><!-- Content UniqueID: 184669 --><!-- Content Name: FreeShip_20170906 -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->
 		    </div>
@@ -3852,7 +4109,7 @@ dojo.addOnLoad(function() {
 	//IntelligentOfferJS.declareRefreshController('WC_IntelligentOfferESpot_controller_ID_MCZ1',  'WC_IntelligentOfferESpot_context_ID_MCZ1', 'false');
 });
 </script>
-<!-- Header_TimeStamp = Fri Jun 02 19:20:00 EDT 2017 --><!-- END Header.jsp -->
+<!-- Header_TimeStamp = Thu Sep 21 06:06:30 EDT 2017 --><!-- END Header.jsp -->
 			</div>
 			
 			<div class="wrapper">
@@ -3869,7 +4126,7 @@ dojo.addOnLoad(function() {
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 24665 --><!-- Content Name: NavLeft_Content --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_1_-2012_3074457345618273522" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				
+                        
 <div id="nav_left" class="nav_left sidebar-nav">
 	<div class="navbar navbar-default" role="navigation">
         <div class="navbar-header">
@@ -3968,7 +4225,7 @@ $(".sidebar-nav .navbar-toggle").click(function(){
 });
 
 </script>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -3980,8 +4237,8 @@ $(".sidebar-nav .navbar-toggle").click(function(){
 					<!-- Activity UniqueID: 52012 --><!-- Activity Name: Privacy_Policy_20160701 --><!-- Content UniqueID: 44165 --><!-- Content Name: PrivacySecurity_20160701 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_2_-2012_3074457345618273523" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				
-<div id="content_main" class="PrivacySecurity_Page"><!-- 20160629 316600-16 LF -->
+                        
+<div class="PrivacySecurity_Page"><!-- 20160629 316600-16 LF -->
 <style type="text/css">
 .champion .wrapper {
    background-color: #fff;
@@ -4206,7 +4463,7 @@ $(".sidebar-nav .navbar-toggle").click(function(){
    </ol>
    <p class="hanes_paragraph">Last updated: June 1, 2016</p>
 </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4233,7 +4490,7 @@ $(".sidebar-nav .navbar-toggle").click(function(){
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 30656 --><!-- Content Name: ES_Champion_Footer Content 2 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Footer" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style type="text/css">
+                        <style type="text/css">
 .footer-global-links ul li a {    
     line-height: 0.6em;
 }
@@ -4281,7 +4538,7 @@ $(".sidebar-nav .navbar-toggle").click(function(){
         margin-left: 2.5rem;
     }
 </style>
-<div id="ES_Champion_Footer" class="footer__affiliate-col bfx-remove-element">
+<div class="footer__affiliate-col bfx-remove-element">
     <div>
 <div class="mb_gb_footer">
     <h3>International</h3>
@@ -4314,7 +4571,7 @@ $(".sidebar-nav .navbar-toggle").click(function(){
 
 
 
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4328,71 +4585,7 @@ $(".sidebar-nav .navbar-toggle").click(function(){
 					<!-- Activity UniqueID: 72177 --><!-- Activity Name: ES_Footer_Full_20170124 --><!-- Content UniqueID: 63257 --><!-- Content Name: ES_Footer_Full_20170403 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Footer_Full" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<div id="ES_Footer_Full"><!-- 20170403 DK -->
-<script type="text/javascript">
-$('.backordered-dt').each(function () {
-  var date = $(this).html();
-  var dateFields = date.split('-');
-  if (dateFields.length == 3) {
-    var month = trim(dateFields[0]);
-    var day = trim(dateFields[1]);
-    var year = trim(dateFields[2]);
-    var dateFormatted = new Date(year + '-' + month + '-' + day + 'T12:00:00');
-    dateFormatted.setDate(dateFormatted.getDate() + 1);
-    var newMonth = dateFormatted.getMonth() + 1;
-    var newDate = dateFormatted.getDate();
-    newMonth = newMonth < 10 ? '0' + newMonth : newMonth;
-    newDate = newDate < 10 ? '0' + newDate : newDate;
-    $(this).html(newMonth + '/' + newDate);
-  }
-});
-$(function () {
-var qsStoreId2 = getCommonParametersQueryString().split('&') [0].split('=') [1];
-var beStoreName2 = 'hanes';
-switch (qsStoreId2) {
-  case '10705':
-    beStoreName2 = 'onehanesplace';
-    break;
-  case '10703':
-    beStoreName2 = 'justmysize';
-    break;
-  case '10704':
-    beStoreName2 = 'champion';
-    break;
-  case '10702':
-    beStoreName2 = 'hanes';
-    break;
-  case '10201':
-    beStoreName2 = 'hanesink';
-    break;
-  case '10701':/*checkout*/
-    var storeDomain = window.location.hostname;
-    storeDomain = storeDomain.split('.');
-    if(storeDomain.length>2)
-      {beStoreName2 = storeDomain[1];}
-    else
-      {beStoreName2 = storeDomain.split('.')[0];}
-    break;
-  default:
-    beStoreName2 = 'hanes';
-}
-  $('a.be-store-specific2').each(function () {
-    var currentHref2 = $(this).attr('href');
-    if (currentHref2.indexOf('/shop/hanes/') >= 0) {
-      var newHref = currentHref2.replace("/shop/hanes/", "/shop/"+beStoreName2+"/");
-      $(this).attr('href', newHref);
-    }
-  });
-});
-</script>
-  <div class="footer__affiliate-share">
-    <strong>We'd love your feedback!</strong> To help us improve, please <div id="survey"><a href="javascript:var w=window.open('https://c6.crm.xpon.us/hydra?id=49','openwindow', 'directories=0,width=810,height=530,toolbar=no,location=yes,scrollbars=yes,resizable=no,maximize=no,screenX=20,screenY=20,left=20,top=20');" data-behavior="open(810, 530)">share your opinion</a> 
-</div>
-  </div>
-  <div class="footer__privacy-callout" id="content_main">
-    <span class="bold">PRIVACY POLICY &amp; TERMS OF USE</span><a class="be-store-specific2" href="/shop/hanes/PrivacySecurity">&nbsp;&nbsp;Details<span class="arrow-right"></span></a>
-  </div>
-</div>
+                        <div id="ES_Footer_Full"><!-- 20170403 DK -->
 <style>
 	.footer-global .footer_top .footer__affiliate-col div{
 		float : left;
@@ -4425,7 +4618,72 @@ background-image: url("//www.hanes.com/images/oneworld/theme/bg-footer-notificat
   
   }
 </style>
-			<!-- END Content_UI.jspf -->
+<script type="text/javascript">
+    $('.backordered-dt').each(function () {
+        var date = $(this).html();
+        var dateFields = date.split('-');
+        if (dateFields.length == 3) {
+            var month = trim(dateFields[0]);
+            var day = trim(dateFields[1]);
+            var year = trim(dateFields[2]);
+            var dateFormatted = new Date(year + '-' + month + '-' + day + 'T12:00:00');
+            dateFormatted.setDate(dateFormatted.getDate() + 1);
+            var newMonth = dateFormatted.getMonth() + 1;
+            var newDate = dateFormatted.getDate();
+            newMonth = newMonth < 10 ? '0' + newMonth : newMonth;
+            newDate = newDate < 10 ? '0' + newDate : newDate;
+            $(this).html(newMonth + '/' + newDate);
+        }
+    });
+    $(function () {
+        var qsStoreId2 = getCommonParametersQueryString().split('&')[0].split('=')[1];
+        var beStoreName2 = 'hanes';
+        switch (qsStoreId2) {
+            case '10705':
+                beStoreName2 = 'onehanesplace';
+                break;
+            case '10703':
+                beStoreName2 = 'justmysize';
+                break;
+            case '10704':
+                beStoreName2 = 'champion';
+                break;
+            case '10702':
+                beStoreName2 = 'hanes';
+                break;
+            case '10201':
+                beStoreName2 = 'hanesink';
+                break;
+            case '10701': /*checkout*/
+                var storeDomain = window.location.hostname;
+                storeDomain = storeDomain.split('.');
+                if (storeDomain.length > 2)
+                { beStoreName2 = storeDomain[1]; }
+                else
+                { beStoreName2 = storeDomain.split('.')[0]; }
+                break;
+            default:
+                beStoreName2 = 'hanes';
+        }
+        $('a.be-store-specific2').each(function () {
+            var currentHref2 = $(this).attr('href');
+            if (currentHref2.indexOf('/shop/hanes/') >= 0) {
+                var newHref = currentHref2.replace("/shop/hanes/", "/shop/" + beStoreName2 + "/");
+                $(this).attr('href', newHref);
+            }
+        });
+    });
+</script>
+  <div class="footer__affiliate-share">
+    <strong>We'd love your feedback!</strong> To help us improve, please <div id="survey"><a href="javascript:var w=window.open('https://c6.crm.xpon.us/hydra?id=49','openwindow', 'directories=0,width=810,height=530,toolbar=no,location=yes,scrollbars=yes,resizable=no,maximize=no,screenX=20,screenY=20,left=20,top=20');" data-behavior="open(810, 530)">share your opinion</a> 
+</div>
+  </div>
+  <div class="footer__privacy-callout bold" id="content_main">
+    <a class="be-store-specific2" href="/shop/hanes/PrivacySecurity"> PRIVACY POLICY &amp; TERMS OF USE</a>
+  </div>
+</div>
+
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4446,7 +4704,7 @@ background-image: url("//www.hanes.com/images/oneworld/theme/bg-footer-notificat
 					<!-- Activity UniqueID: 77554 --><!-- Activity Name: ES_Footer_A_20170315 --><!-- Content UniqueID: 68694 --><!-- Content Name: ES_Footer_A_content_20170315 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Footer_A" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<span class="bfx-remove-element">
+                        <span class="bfx-remove-element">
 <h3>Customer Assistance</h3>
 <ul>
 <li><a class="be-store-specific2" href="/shop/hanes/CustomerService">Customer Service</a></li>
@@ -4457,7 +4715,7 @@ background-image: url("//www.hanes.com/images/oneworld/theme/bg-footer-notificat
 </ul>
 </span>
 <span id="bfx-footer-a"></span>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4469,21 +4727,33 @@ background-image: url("//www.hanes.com/images/oneworld/theme/bg-footer-notificat
 		<div id="ES_Footer_B" class="espot-global-helper">
 			
 					<div class="caption" style="display:none" id="">[ES_Footer_B]</div>
-					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 62726 --><!-- Content Name: ES_Footer_B_Content_20161214 --><!-- BEGIN ContentRecommendation_UI.jspf -->
+					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 181155 --><!-- Content Name: ES_Footer_B_Content_20170821 --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Footer_B" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<span class="bfx-remove-element">
-<h3>Shop With Confidence</h3><!-- 20161214 SV -->
-<style type="text/css">@media (max-width: 39.99em){#securityinfo{left:5%!important;position:fixed!important;top:5%!important;width:90%!important}
-#securityinfo img{width:100%;max-width:379px}}</style>
+                        <style type="text/css">
+
+@media (max-width: 39.99em){#securityinfo{left:5%!important;position:fixed!important;top:5%!important;width:90%!important}
+#securityinfo img{width:100%;max-width:379px}}
+</style>
+<span class="bfx-remove-element">
+<h3>Shop With Confidence</h3><!-- 20170821 DK -->
 <ul>
 <li><a class="be-store-specific2" href="/shop/hanes/OurGuarantee">Our Guarantee</a></li>
-<li><a onclick="dijit.byId('securityinfo').show();return false" href="http://www.hanes.com/images/oneworld/static/TLS_SecurityModal.png">Security</a></li>
+<li><a onclick="dijit.byId('securityinfo').show();return false" href="#">Security</a></li>
 <li><a href="javascript:var w=window.open('http://hanesforgood.com/social-responsibility/california-transparency-in-supply-chains-act/','openwindow', 'directories=0,width=805,height=550,toolbar=yes,location=yes,scrollbars=yes,resizable=yes,maximize=yes,screenX=195,screenY=870,left=195,top=5');">CA Transparency Act</a></li>
 </ul>
 </span>
-
-			<!-- END Content_UI.jspf -->
+<div id="securityinfo" dojotype="dijit.Dialog" style="display:none">
+	<div class="modal-container">
+		<div class="modal-content">			
+			<img src="//www.hanes.com/images/oneworld/static/TLS_SecurityModal.png" alt="Transport Layer Security- TLS technology is used to encrypt your credit or debit card information, including the account number, while it is transmitted over the internet from your computer.  TLS is the current industry standard technology for secure online transactions.">
+		</div>
+		<button class="modal-close-btn" type="button" onclick="dijit.byId('securityinfo').hide();">
+            <span class="vis-hidden">close</span> 
+            </button>
+	</div>
+</div>
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4500,7 +4770,7 @@ background-image: url("//www.hanes.com/images/oneworld/theme/bg-footer-notificat
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 26663 --><!-- Content Name: ES_Footer_C_Content --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Footer_C" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<span class="bfx-remove-element">
+                        <span class="bfx-remove-element">
 <h3>Shopping Tools</h3>
 <ul>
 <script type="text/javascript">
@@ -4514,7 +4784,7 @@ document.write("'>Store Locator</a></li>");
 
 </ul>
 </span>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4529,13 +4799,13 @@ document.write("'>Store Locator</a></li>");
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 24797 --><!-- Content Name: ES_Footer_D_Content --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Footer_D" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<style type="text/css">
+                        <style type="text/css">
 .espot-footer-holder ul li a:hover {    
     text-decoration:underline;
 }
 
 </style>
-<div id="ES_Footer_D" class="footer_links_col bfx-remove-element">
+<div class="footer_links_col bfx-remove-element">
   <h3>OUR COMPANY</h3>
   <ul>
     <li>
@@ -4545,7 +4815,7 @@ document.write("'>Store Locator</a></li>");
       <a href="http://info.hanesbrandsb2b.com/">HanesBrands B2B</a>
     </li>
 </ul></div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4576,10 +4846,10 @@ document.write("'>Store Locator</a></li>");
 		</script>
 		<script type="text/javascript" src="/wcsstore/Widgets-Hanes/com.hanes.commerce.store.widgets.EmailRegistrationWidget/javascript/EmailRegistrationWidget.js"></script>
 		<!-- END EmailRegistrationWidget_Data.jspf --><!-- BEGIN EmailRegistrationWidget_UI.jspf -->
-<input type="hidden" id="userCity" value="" autocomplete="off">
-<input type="hidden" id="userState" value="" autocomplete="off">
-<input type="hidden" id="userCountry" value="" autocomplete="off">
-<input type="hidden" id="userZip" value="" autocomplete="off">
+<input type="hidden" id="userCity" value="">
+<input type="hidden" id="userState" value="">
+<input type="hidden" id="userCountry" value="">
+<input type="hidden" id="userZip" value="">
 
 		<div id="email-reg-footer-container" class="email-reg-container">
 			
@@ -4593,7 +4863,7 @@ document.write("'>Store Locator</a></li>");
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 28663 --><!-- Content Name: ES_Email Footer Text --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Email_Reg_footer_Txt" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				   <style type="text/css">
+                           <style type="text/css">
     .emailfoot ul li {
  
     line-height: 1.5em;
@@ -4613,17 +4883,17 @@ document.write("'>Store Locator</a></li>");
      <li> sales, new styles, and special offers. </li>
 </ul>
   </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
 	<!-- END ContentRecommendation.jsp -->		
 					</div>
 				    
-			    	<input type="hidden" name="doorContext" value="champion" autocomplete="off">
-				    <input type="hidden" name="orientation" value="footer" autocomplete="off">
-			        <input type="hidden" name="email" value="" autocomplete="off">
-			        <input type="hidden" name="source" value="" autocomplete="off">
+			    	<input type="hidden" name="doorContext" value="champion">
+				    <input type="hidden" name="orientation" value="footer">
+			        <input type="hidden" name="email" value="">
+			        <input type="hidden" name="source" value="">
 			        
 			        <input type="text" name="enter-email" maxlength="64" value="" class="enter-email text-input" autocomplete="off" placeholder="Email Address" id="enter-email">
 			        <label class="enter-email-error error" for="enter-email"></label>
@@ -4643,10 +4913,10 @@ document.write("'>Store Locator</a></li>");
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 68679 --><!-- Content Name: Email Confirmation --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Email_Reg_footer_Confirmation" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<div>
+                        <div>
 <p> Thank you for submitting your email.  Look for us in your in-box soon! </p>
 </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4664,10 +4934,10 @@ document.write("'>Store Locator</a></li>");
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 68680 --><!-- Content Name: Email Error --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_Email_Reg_footer_Error" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<div>
+                        <div>
 <p>This service is temporarily unavailable. Please try again later. We apologize for the inconvenience.</p>
 </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4697,7 +4967,7 @@ document.write("'>Store Locator</a></li>");
 					<!-- Activity UniqueID: 0 --><!-- Activity Name:  --><!-- Content UniqueID: 36652 --><!-- Content Name: Copyright Footer --><!-- BEGIN ContentRecommendation_UI.jspf -->
 			<div id="contentRecommendationWidget_ES_champion_Footer_Legal_Links" class="contentRecommendationWidget">
 				<!-- BEGIN Content_UI.jspf -->
-				<div>
+                        <div>
 <span class="copyright">©
     <script language="JavaScript" type="text/javascript">
                              document.write((new Date()).getFullYear());
@@ -4732,7 +5002,7 @@ $('#content_main a.be-store-specific').each(function () {
 			Inc. All rights reserved. Playtex is a registered trademark Used under license. &nbsp; &nbsp;<a href="/shop/champion/PrivacySecurity"> Your Privacy Rights </a>  &nbsp; &nbsp;|  &nbsp; &nbsp;<a href="/shop/champion/TermsOfUse"> Terms of Use <span class="hidden-mobile">&nbsp; &nbsp; | </span></a>
 		</span> 
     </div>
-			<!-- END Content_UI.jspf -->
+                    <!-- END Content_UI.jspf -->
 			</div>
 		<!-- END ContentRecommendation_UI.jspf -->	
 		</div>
@@ -4783,7 +5053,7 @@ $('#content_main a.be-store-specific').each(function () {
 		parseAllWidgets();
 	}); 	
 </script>
-
+<div id="modalAjax" dojotype="dojox.widget.DialogSimple" class="modal-base"></div>
 
 <!-- END Footer.jsp -->
 			</div>
@@ -4793,233 +5063,4 @@ $('#content_main a.be-store-specific').each(function () {
 	
 
 
-</div></div><div class="dijitDialog" role="dialog" aria-labelledby="progress_bar_dialog_title" lang="en" id="progress_bar_dialog" style="display: none; position: absolute;" widgetid="progress_bar_dialog">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="progress_bar_dialog_title" role="heading" level="1"></span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent">
-	<div id="progress_bar" style="display: none;">
-		<div id="loading_popup">
-		<img src="/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/loading_rwd.gif" width="44" height="44" border="0" alt="Your request is being processed.">
-		</div>
-	</div>
-</div>
-</div><div class="dijitDialog" role="dialog" aria-labelledby="widget_product_comparison_popup_title" lang="en" id="widget_product_comparison_popup" style="display: none; position: absolute;" widgetid="widget_product_comparison_popup">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar" title="Product Comparison">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="widget_product_comparison_popup_title" role="heading" level="1">Product Comparison</span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent">
-		<div class="widget_product_comparison_popup widget_site_popup">													
-			<!-- Top Border Styling -->
-			<div class="top">
-				<div class="left_border"></div>
-				<div class="middle"></div>
-				<div class="right_border"></div>
-			</div>
-			<div class="clear_float"></div>
-			<!-- Main Content Area -->
-			<div class="middle">
-				<div class="content_left_border">
-					<div class="content_right_border">
-						<div class="content">
-							<div class="header">
-								<span>Product Comparison</span>
-								<a id="ComparePopupClose" class="close" href="javascript:void(0);" onclick="dijit.byId('widget_product_comparison_popup').hide();" title="CLOSE"></a>
-								<div class="clear_float"></div>
-							</div>
-							<div class="body">
-								The maximum number of products that can be compared is 4. Please refine your selection.
-							</div>
-							
-							<div class="footer">
-								<div class="button_container ">
-									<a id="ComparePopupOK" class="button_primary" tabindex="0" href="javascript:void(0);" onclick="dijit.byId('widget_product_comparison_popup').hide();" title="OK">
-										<div class="left_border"></div>
-										<div class="button_text">OK</div>
-										<div class="right_border"></div>
-									</a>
-									<div class="clear_float"></div>
-								</div>
-								
-							</div>
-							<div class="clear_float"></div>
-						<!-- End content Section -->
-						</div>
-					<!-- End content_right_border -->
-					</div>
-				<!-- End content_left_border -->
-				</div>
-			</div>
-			<div class="clear_float"></div>
-			<!-- Bottom Border Styling -->
-			<div class="bottom">
-				<div class="left_border"></div>
-				<div class="middle"></div>
-				<div class="right_border"></div>
-			</div>
-			<div class="clear_float"></div>
-		</div>
-	</div>
-</div><div class="dijitDialog modal-base modal-base--normal" role="dialog" aria-labelledby="inactivityWarningPopup_title" lang="en" id="inactivityWarningPopup" style="display: none; position: absolute;" widgetid="inactivityWarningPopup">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar" title="Inactivity Warning Dialog">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="inactivityWarningPopup_title" role="heading" level="1">Inactivity Warning Dialog</span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent">
-	<div class="widget_site_popup">
-		<div class="top">
-			<div class="left_border"></div>
-			<div class="middle"></div>
-			<div class="right_border"></div>
-		</div>
-		<div class="clear_float"></div>
-		<div class="middle">
-			<div class="modal-confirmation content">
-				<!-- <a role="button" id="inactivityWarningPopup_close" class="close_acce" title="CLOSE" href="javascript:void(0);" onclick="dijit.byId('inactivityWarningPopup').hide(); if (dialogTimeoutTracker != null) {clearTimeout(dialogTimeoutTracker);}"><img role="button" onmouseover="this.src='/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/close_hover.png'" onmouseout="this.src='/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/close_normal.png'" src="/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/close_normal.png" class="closeImg" alt="CLOSE"/></a>-->
-				<div class="clear_float"></div>
-				<div id="inactivityWarningPopup_body" class="body">
-					<!--<div class="message_icon left">
-						<img class="error_icon" src="/wcsstore/HanesBrandsSAS_B2C/images/colors/color1/warning_icon.png" alt="Warning">
-					</div>-->
-					
-					
-					
-					<div class="message_text left">
-						<p>
-							Your session is about to timeout due to inactivity.  Click OK to extend your time for an additional 120 minutes.
-						</p>
-					</div>
-				</div>
-				<div class="footer">
-					<div class="button_container">
-						<a role="button" aria-labelledby="inactivityWarningPopupOK_Label" id="inactivityWarningPopupOK" href="javascript:void(0);" onclick="dijit.byId('inactivityWarningPopup').hide(); if (dialogTimeoutTracker != null) {clearTimeout(dialogTimeoutTracker);} resetServerInactivity();" class="primary-btn">
-							<span id="inactivityWarningPopupOK_Label">OK</span>
-						</a>
-						<div class="clear_float"></div>
-					</div>
-					<div class="clear_float"></div>
-				</div>
-				<div class="clear_float"></div>
-			</div>
-		</div>
-		<div class="clear_float"></div>
-		<div class="bottom">
-			<div class="left_border"></div>
-			<div class="middle"></div>
-			<div class="right_border"></div>
-		</div>
-		<div class="clear_float"></div>
-	</div>
-</div>
-</div><div class="dijitDialog" role="dialog" aria-labelledby="shoppingListItemAddedPopup_title" lang="en" id="shoppingListItemAddedPopup" widgetid="shoppingListItemAddedPopup" style="display: none; position: absolute;">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar" title="This item has been successfully added to your list.">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="shoppingListItemAddedPopup_title" role="heading" level="1">This item has been successfully added to your list.</span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent">
-		<div class="widget_site_popup">
-													
-			<!-- Top Border Styling -->
-			<div class="top">
-				<div class="left_border"></div>
-				<div class="middle"></div>
-				<div class="right_border"></div>
-			</div>
-			<div class="clear_float"></div>
-			<!-- Main Content Area -->
-			<div class="middle">
-				<div class="content_left_border">
-					<div class="content_right_border">
-						<div class="content">
-							<div class="header">
-								<span>This item has been successfully added to your list.</span>
-								<a role="button" id="shoppingListItemAddedClose" href="javascript:ShoppingListDialogJS.close();" class="close tlignore" title="Close" aria-label="Close"></a>
-								<div class="clear_float"></div>
-							</div>
-							
-								<div class="product">
-									<div class="product_image">
-										<img id="shoppingListItemAddedImg" alt="">
-									</div>
-									<div id="shoppingListItemAddedName" class="product_name"></div>
-									<div class="clear_float"></div>
-								</div>
-							
-							<div class="footer">
-								<div class="button_container ">
-									<a id="shoppingListItemAddedContinue" href="javascript:ShoppingListDialogJS.close();" class="button_primary tlignore" title="Continue Shopping">
-										<div class="left_border"></div>
-										<div class="button_text">Continue Shopping</div>
-										<div class="right_border"></div>
-									</a>
-									<div class="clear_float"></div>
-								</div>
-								
-							</div>
-							<div class="clear_float"></div>
-						<!-- End content Section -->
-						</div>
-					<!-- End content_right_border -->
-					</div>
-				<!-- End content_left_border -->
-				</div>
-			</div>
-			<div class="clear_float"></div>
-			<!-- Bottom Border Styling -->
-			<div class="bottom">
-				<div class="left_border"></div>
-				<div class="middle"></div>
-				<div class="right_border"></div>
-			</div>
-			<div class="clear_float"></div>
-		</div>
-	</div>
-</div><div class="dijitDialog" role="dialog" aria-labelledby="shippinginfo_title" lang="en" id="shippinginfo" widgetid="shippinginfo" style="display: none; position: absolute;">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="shippinginfo_title" role="heading" level="1"></span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent">
-	<div class="modal-container">
-		<div class="modal-content">			
-			<img src="//www.hanes.com/images/oneworld/static/Flat-7.99-Ship_FreeShip60Detail_021317.jpg" alt="Shipping Details">
-		</div>
-		<div class="modal-close-btn" onclick="dijit.byId('shippinginfo').hide();"></div>
-	</div>
-</div>
-</div><div class="dijitDialog" role="dialog" aria-labelledby="securityinfo_title" lang="en" id="securityinfo" widgetid="securityinfo" style="display: none; position: absolute;">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="securityinfo_title" role="heading" level="1"></span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent">
-	<div class="modal-container">
-		<div class="modal-content">			
-			<img src="//www.hanes.com/images/oneworld/static/TLS_SecurityModal.png" alt="Security">
-		</div>
-		<div class="modal-close-btn" onclick="dijit.byId('securityinfo').hide();"></div>
-	</div>
-</div>
-</div><div class="dijitDialog modal-base" role="dialog" aria-labelledby="modalAjax_title" lang="en" id="modalAjax" widgetid="modalAjax" style="display: none; position: absolute;">
-	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar">
-		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="modalAjax_title" role="heading" level="1"></span>
-		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
-			<span data-dojo-attach-point="closeText" class="closeText" title="Cancel">x</span>
-		</span>
-	</div>
-	<div data-dojo-attach-point="containerNode" class="dijitDialogPaneContent"></div>
-</div></body></html>
+</div></div></body></html>
