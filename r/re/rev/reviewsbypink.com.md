@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewsbypink.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520214500id_/http%3A//by-pink.com/disclosuredisclaimerprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsbypink.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921232318id_/http%3A//by-pink.com/disclosuredisclaimerprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ by Pink
 
