@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breederretriever.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403220738id_/http%3A//www.breederretriever.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breederretriever.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921030716id_/https%3A//dogpack.com/privacypolicy) for the most accurate reproduction.*
 
-# Breeder Retriever - A Fun Website About Dogs and Puppies
+# Dog Pack - A Fun Website About Dogs and Puppies
 
 Effective 05/04/2007
 
@@ -16,7 +16,7 @@ To quickly process your transactions.
 
 **Collection of Personally Identifiable Information**
 
-BreederRetriever.com does collect some personally identifiable information to permit advanced and interactive functionality. This information is collected via web forms filled out by our visitors and may include (but is not limited to) name, e-mail, username, business name, breeds (for breeders), address, phone number, fax, website address, BreederRetriever.com passwords, breeder related services offered, a business description, etc. 
+DogPack.com does collect some personally identifiable information to permit advanced and interactive functionality. This information is collected via web forms filled out by our visitors and may include (but is not limited to) name, e-mail, username, business name, breeds (for breeders), address, phone number, fax, website address, DogPack.com passwords, breeder related services offered, a business description, etc. 
 
 To administer a contest, promotion, survey or other site feature. 
 
@@ -28,19 +28,19 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We do link the information we store in cookies to some personally identifiable information you submit while on our site. Specifically, cookies our used for management of user account logins and sessions. The personally identifiable information that may be linked to a cookie includes (but is not limited to) name, e-mail, username, business name, breeds (for breeders), address, phone number, fax, website address, BreederRetriever.com passwords, breeder related services offered, a business description, etc.
+We do link the information we store in cookies to some personally identifiable information you submit while on our site. Specifically, cookies our used for management of user account logins and sessions. The personally identifiable information that may be linked to a cookie includes (but is not limited to) name, e-mail, username, business name, breeds (for breeders), address, phone number, fax, website address, DogPack.com passwords, breeder related services offered, a business description, etc.
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate such as usage and volume statistics (e.g. identification of our web traffic sources, our content usage and performance, etc.) to help us improve our site and understand where our web traffic is coming from. 
 
 Some of our business partners (e.g. advertisers) may use cookies on our site. We have no access to or control over these cookies. 
 
-This privacy statement covers the use of cookies by BreederRetriever.com only and does not cover the user of cookies by any advertisers. 
+This privacy statement covers the use of cookies by DogPack.com only and does not cover the user of cookies by any advertisers. 
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. 
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete, or deactivate it by making the change on our member information page (click log in on the navigation menu and clicking view / update / edit or by e-mailing our Customer Support at kkibak@breederretriever.com or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete, or deactivate it by making the change on our member information page (click log in on the navigation menu and clicking view / update / edit or by e-mailing our Customer Support at kkibak@dogpack.com or by contacting us by telephone or postal mail at the contact information listed below. 
 
 **Do we disclose the information we collect to outside parties?**
 
@@ -58,7 +58,7 @@ If you use a bulletin board, blog, chat room, or breeder registration on this we
 
 **_Special Offers and Updates_**
 
-We may occasionally send you information on special offers, promotions, site updates, newsletters, etc. Users can sign up for these e-mails by registering with BreederRetriever.com either as a breeder, a normal user, a forum member, or simply as a newsletter subscriber. 
+We may occasionally send you information on special offers, promotions, site updates, newsletters, etc. Users can sign up for these e-mails by registering with DogPack.com either as a breeder, a normal user, a forum member, or simply as a newsletter subscriber. 
 
 Out of respect for your privacy, we present the option not to receive these types of communications. Please see "Choice and Opt-out."
 
@@ -76,7 +76,7 @@ Based upon the personally identifiable information you provide us, we will send 
 
 We provide you with the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions in each newsletter or communication or by e-mailing us using our contact form or directly at kkibak@breederretriever.com. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions in each newsletter or communication or by e-mailing us using our contact form or directly at kkibak@dogpack.com. 
 
 How can you opt-out, remove or modify information you have provided to us?
 
@@ -96,7 +96,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **Questions and feedback**
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue. You can e-mail us at kkibak@breederretriever.com. Our physical mailing address is listed below. 
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue. You can e-mail us at kkibak@dogpack.com. Our physical mailing address is listed below. 
 
 **Mailing Address**
 
@@ -106,9 +106,9 @@ San Francisco, CA 94130
 
 **Please Note:**
 
-BreederRetriever.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the web site BreederRetriever.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its informational practices and have its privacy practices reviewed for compliance by TRUSTe. 
+DogPack.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the web site DogPack.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its informational practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Kris Kibak at kkibak@breederretriever.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php 
+If you have questions or concerns regarding this statement, you should first contact Kris Kibak at kkibak@dogpack.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php 
 
 TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
