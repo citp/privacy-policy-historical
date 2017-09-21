@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgo-skins.pl privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523033623id_/http%3A//www.csgo-skins.pl/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgo-skins.pl privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921203146id_/http%3A//www.csgo-skins.pl/privacypolicy.php) for the most accurate reproduction.*
 
 # CSGO-Skins.com – Skins in 5 seconds paid via SMS
 
