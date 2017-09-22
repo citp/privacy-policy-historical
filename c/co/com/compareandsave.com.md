@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074243id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922051725id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | compareandsave.com
 
@@ -10,7 +10,7 @@ By using compareandsave.com and our price comparison services you are hereby giv
 
 compareandsave.com is a trading name of Freedom Marketing Limited, registered in England (Registration number 05349340) at Colchester Centre, Hawkins Road, Colchester, Essex, CO2 8JX. In this Privacy Policy any use of the words “we”, “us” and “our” means Freedom Marketing Limited. Freedom Marketing Limited complies with and is registered under the data protection laws in the UK.
 
-As required by the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of your information. Further details can be found at [informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
+As required by the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of your information. Further details can be found at <https://ico.org.uk/>
 
 For the purposes of the act the data controller is:
 
@@ -41,8 +41,7 @@ In some instances compareandsave.com uses cookie-based technology. A cookie is a
   * Track purchases made for products using links via compareandsave.com
   * Validating competition entries
   * Allow us to identify individual users whilst they are logged in
-  * Help us determine products we feel might be of interest to you
-
+<li> Help us determine products we feel might be of interest to you 
 
 
 Using compareandsave.com will also result in cookies being sent to your browser by third parties.
