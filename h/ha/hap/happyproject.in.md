@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyproject.in privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614195043id_/http%3A//happyproject.in/happy-project/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyproject.in privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922234219id_/http%3A//happyproject.in/happy-project/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
