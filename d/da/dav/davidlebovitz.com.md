@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidlebovitz.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608072601id_/http%3A//www.davidlebovitz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlebovitz.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922095509id_/https%3A//www.davidlebovitz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - David Lebovitz
 
@@ -62,7 +62,7 @@ Limited access to our database is also given to third parties that provide us wi
 
 When you leave a comment, your IP (internet protocol) address is recorded. For more information about IP addresses visit [IP Address](http://en.wikipedia.org/wiki/IP_address) (Wikipedia). This information can be used to block or ban users from the Website. When you leave a comment on the Website, you do so with the knowledge that it can be edited or deleted at the discretion of the owner of the Website. Malicious or comments with false information are removed as soon as possible. Please use appropriate caution when divulging personal information in the comments as that information is visible and available to the public at large.
 
-For further guidelines, please read the [Comment Policy](http://www.davidlebovitz.com/comment-policy/).
+For further guidelines, please read the [Comment Policy](https://www.davidlebovitz.com/comment-policy/).
 
 This Website is intended for use of people over the age of 13 years old.
 
@@ -70,4 +70,4 @@ This Website is intended for use of people over the age of 13 years old.
 
 This Privacy Policy may be modified from time to time: the most recent revisions will appear on this page, so check back here frequently to be appraised of any changes. Any such update or modification will be effective immediately. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms. Continued access and use of this Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. If you do not agree with these policies, please discontinue use of this Website.
 
-For questions regarding this privacy policy contact, you may use this [Contact Form](http://www.davidlebovitz.com/contact/).
+For questions regarding this privacy policy contact, you may use this [Contact Form](https://www.davidlebovitz.com/contact/).
