@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172130id_/https%3A//pubmatic.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922212005id_/https%3A//pubmatic.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PubMatic
+# Privacy Policy
 
-Last Updated: September 29, 2016; Effective: October 31, 2016.
+**Last Updated: August 17, 2017; Effective: September 18, 2017.**
 
 We are concerned about privacy issues and want you to be familiar with how we collect, use and share information we receive about our clients and users and the options available to you. If you have any questions, you may contact us (see the “Contacting Us” section below.)
 
-PubMatic, Inc. and its subsidiaries, including, as of the date of this Privacy Policy, PubMatic Limited, PubMatic GmbH, PubMatic India Private Limited, パブマティック株式会社 (PubMatic KK), PubMatic Pte. Ltd., PUBM Serviços de Publicidade Digital Ltda and 据翼软件科技有限公司 (PubMatic Sofware (Shanghai) Limited) (“we,” “our,” “PubMatic”), offer marketing automation for publishers via a strategic selling platform, which enables publishers to optimize their digital assets while protecting their brands. Our platform is designed to help our publisher clients increase the amount of revenue they make from advertising sales by increasing the overall competition among media buyers for each advertising impression displayed through the PubMatic platform. We are a publisher-focused company, but at the same time we maintain client relationships with media buyers. As a user you may encounter an ad from one of our media buyer clients by viewing the content on a website or application owned or operated by one of our publisher clients.
+PubMatic, Inc. and its subsidiaries, including, as of the date of this Privacy Policy, PubMatic Limited, PubMatic GmbH, PubMatic India Private Limited, パブマティック株式会社 (PubMatic KK), PubMatic Pte. Ltd. and 据翼软件科技有限公司 (PubMatic Software (Shanghai) Limited) (“we,” “our,” “PubMatic”), offer marketing automation for publishers via a strategic selling platform, which enables publishers to optimize their digital assets while protecting their brands. Our platform is designed to help our publisher clients increase the amount of revenue they make from advertising sales by increasing the overall competition among media buyers for each advertising impression displayed through the PubMatic platform. We are a publisher-focused company, but at the same time we maintain client relationships with media buyers. As a user you may encounter an ad from one of our media buyer clients by viewing the content on a website or application owned or operated by one of our publisher clients.
 
 #### **SCOPE OF THIS PRIVACY POLICY**
 
 This Privacy Policy covers the information that we may collect or receive across the Internet and other digital formats:
 
-  1. from users who (i) visit www.pubmatic.com and other websites operated by us, including PubMatic’s client interfaces (the “Websites”), (ii) use our software applications (the “Apps”), (iii) use our social media pages (our “Social Media Pages”), and (iv) receive email messages that we send to you (collectively, including the Websites, Apps and Social Media Pages, the “PubMatic Pages”); and
+  1. from users who (i) visit www.pubmatic.com/ and other websites operated by us, including PubMatic’s client interfaces (the “Websites”), (ii) use our software applications (the “Apps”), (iii) use our social media pages (our “Social Media Pages”), and (iv) receive email messages that we send to you (collectively, including the Websites, Apps and Social Media Pages, the “PubMatic Pages”); and
   2. through our technologies used by our publisher clients, media buyer clients and third parties that we use to gather and process information on their behalf (collectively, including the Websites, the Apps and our Social Media Pages, the “Services”). In this second context, we act as processors for the clients who serve as the data controllers for the information that we obtain from them.
 
 
 
-This Privacy Policy does not cover our privacy practices related to information submitted to the Careers section of the Websites. If you submit information to PubMatic’s Careers section of the Websites, please refer to PubMatic’s [Careers Privacy Policy](http://pubmatic.com/legal/careers-privacy-policy/).
+This Privacy Policy does not cover our privacy practices related to information submitted to the Careers section of the Websites. If you submit information to PubMatic’s Careers section of the Websites, please refer to PubMatic’s [Careers Privacy Policy](https://pubmatic.com/legal/careers-privacy-policy/).
 
 We may change this policy from time to time. Please consult the Privacy Policy regularly for updates. See “Updates to This Privacy Policy,” below, for more information.
 
-**Opt Out:  **to go directly to the opt-outs for interest-based advertising and cross-device targeting, click here: [http://www.pubmatic.com/opt-out/](http://pubmatic.com/legal/pubmatic-opt-out/)
+**Opt Out:  **to go directly to the opt-outs for interest-based advertising and cross-device targeting, click here: [https://pubmatic.com/opt-out/](https://pubmatic.com/legal/pubmatic-opt-out/)
 
-**Choice and Access:  **to go directly to our section on Choices and Access regarding your Personally Identifiable Information, click [here](http://pubmatic.com/legal/privacy-policy/).
+**Choice and Access:  **to go directly to our section on Choices and Access regarding your Personally Identifiable Information, click [here](https://pubmatic.com/legal/privacy-policy/).
 
 #### **PERSONALLY IDENTIFIABLE INFORMATION**
 
 #### **Collection of Personally Identifiable Information from the PubMatic Pages**
 
-“Personally Identifiable Information” is information that identifies you as an individual, including: name, postal address, telephone number and email address. We and our third party service providers may collect Personally Identifiable Information from you from the PubMatic Pages. For example, we collect your Personally Identifiable Information when you request information about the Services through our client user interfaces or the “Contact Us” section of our Websites or the “Featured Content” section of our Websites where you can download reports and white papers.
+“Personally Identifiable Information” is information that identifies you as an individual, including: name, postal address, telephone number and email address. We and our third-party service providers may collect Personally Identifiable Information from you from the PubMatic Pages. For example, we collect your Personally Identifiable Information when you request information about the Services through our client user interfaces or the “Contact Us” section of our Websites or the “Featured Content” section of our Websites where you can download reports and white papers.
 
 #### **Use of Personally Identifiable Information**
 
@@ -38,7 +38,7 @@ We and our third-party service providers may use Personally Identifiable Informa
   * to respond to your inquiries and fulfill your requests;
   * to send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies;
   * to send you marketing communications that we believe may be of interest to you;
-  * for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities;, and
+  * for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities; and
   * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 
@@ -63,9 +63,9 @@ We will retain your Personally Identifiable Information for the period necessary
 
 #### **Collection of Other Information**
 
-“Other Information” is any information that is linked or reasonably linkable to a particular computer or device, but does not reveal your specific identity or directly identify an individual, such as: browser and device information; IP address; time spent on the Services, pages visited, language preferences, date and time an ad was served, clicks on ads, and other anonymous traffic data; your precise location; general location inferred from IP address; unique identifier, including mobile advertising identifier such as Apple IDFA or Google Advertising ID or statistical identifier; obfuscated user identifiers such as hashed email addresses; operating system type and version; information about mobile apps used; information about applications installed on a device; demographic information; and aggregated information.
+“Other Information” is any information that is linked or reasonably linkable to a particular computer or device, but does not reveal your specific identity or directly identify an individual, such as: browser and device information, including device make and model, operating system type and version, and browser (user agent); IP address; time spent on the Services, pages visited, language preferences, date and time an ad was served, clicks on ads, and other anonymous traffic data; your precise location; general location inferred from IP address; unique identifiers, including mobile advertising identifiers such as Apple IDFA or Google Advertising ID, UDID, or a unique identifier stored in a cookie, ETag, or browser or web cache; obfuscated user identifiers such as hashed email addresses; information about mobile apps used; information about applications installed on a device; demographic information; and aggregated information.
 
-We and our third-party service providers may collect Other Information in a variety of ways, including through: your browser or device; your mobile advertising identifier, such as Apple IDFA and Google Advertising ID; the use of statistical identifiers (which collect and use certain characteristics of your device to help us identify it over time); your use of the Apps; the use of pixel tags and other similar technologies; your IP address; the aggregation of information; ETags and web cache; and cookies (cookies are pieces of information stored directly on the computer that you are using).
+We and our third-party service providers may collect Other Information in a variety of ways, including through: your browser or device; your mobile advertising identifier, such as Apple IDFA and Google Advertising ID; your use of the Apps; the use of pixel tags and other similar technologies; your IP address; the aggregation of information; ETags and browser or web cache; UDID; and cookies (cookies are pieces of information stored directly on the computer that you are using).
 
 Our publisher clients may also collect information about you that they choose to pass to us either directly through our Services or through application programming interfaces or APIs, when our services connect to their systems. APIs are a particular set of rules and specifications that allow one software program to access and make use of another software program. The information our publisher clients may share includes network type of a user’s device, age, ethnicity (where permitted by law), gender, and precise geolocation (where permitted by law). Some publisher clients may provide precise geolocation information collected on certain platforms. We will not use precise geolocation information for interest-based advertising without your opt-in consent.
 
@@ -76,8 +76,7 @@ We may use Other Information from the Services:
   * to operate, improve, analyze and manage the Services;
   * to ensure the Services function properly;
   * for advertising purposes, such as using an identifier for interest-based advertising and ad delivery and reporting across websites, online services, and apps over time, including optimization of location of ad placement, ad performance, reach and frequency metrics, fraud prevention, billing, logging the number and type of ads served on a particular day on a device;
-  * to track the actions of users of the Services, measure and report on the success of marketing campaigns via pixel tags (also known as web beacons and clear GIFs);
-  * to identify and probabilistically recognize the same device at a later point in time for purposes of sending advertising or content to that device in mobile apps (using statistical identifiers);
+  * to track the actions of users of the Services, measure and report on the success of marketing campaigns via pixel tags (also known as web beacons and clear GIFs), ETags, UDID, browser or web cache, or other similar technologies;
   * to calculate usage levels of the Services, helping diagnose server problems and administer the Services via your IP Address (a number automatically assigned to the computer or device that you are using by your Internet Service Provider);
   * to provide you with personalized location-based advertising, services, and content through the use of your device’s physical location (where permitted by law);
   * to track delivery of an ad impression;
@@ -88,7 +87,7 @@ We may use Other Information from the Services:
 
 
 
-We may partner with certain third parties to collect Other Information on the PubMatic Pages to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on our website and other websites over time. These third parties may set and access cookies on your computer or other device and may also use web logs or web beacons. For more information about these practices and how to opt out, please see PubMatic’s  [Website Cookie Policy](http://pubmatic.com/legal/website-cookie-policy/).
+We may partner with certain third parties to collect Other Information on the PubMatic Pages to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on our website and other websites over time. These third parties may set and access cookies on your computer or other device and may also use pixel tags, web logs, web beacons, or other similar technologies. For more information about these practices and how to opt out, please see PubMatic’s [Website Cookie Policy](https://pubmatic.com/legal/website-cookie-policy/).
 
 At this time, we do not honor “Do Not Track” headers and similar mechanisms.
 
@@ -111,7 +110,8 @@ We may disclose Other Information:
   * among our affiliates (identified in the second paragraph of this Privacy Policy) for the purposes described in this Privacy Policy;
   * to our client publishers to allow them to analyze the effectiveness and performance of our services and to offer targeted ad inventory to our media buyer clients;
   * to our media buyer clients to allow them to make decisions regarding buying advertising inventory on our publisher clients’ websites, other websites, and applications, and to analyze the effectiveness and performance of their advertising campaigns via our services, including sharing your device’s physical location to enable our media buyer clients to provide you with more personalized content and to study the effectiveness of advertising campaigns;
-  * to our third-party service providers who provide services that enhance our services; and
+  * to our third-party service providers who provide services that enhance our services;
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings); and
   * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 
@@ -143,23 +143,21 @@ Please also note that if you do opt-out of receiving marketing-related emails fr
 
 #### **Opting Out of Interest-Based Advertising from Cookies**
 
-To opt out of receiving interest-based advertising (including retargeting) from PubMatic’s services through the use of cookies in your current browser and for more information on what it means to opt-out, please go to [http://www.pubmatic.com/opt-out/](http://pubmatic.com/legal/pubmatic-opt-out/).
+To opt out of receiving interest-based advertising (including retargeting) from PubMatic’s services through the use of cookies in your current browser and for more information on what it means to opt-out, please go to [https://pubmatic.com/opt-out/](https://pubmatic.com/legal/pubmatic-opt-out/).
 
-See PubMatic’s [Platform Cookie Policy](http://pubmatic.com/legal/platform-cookie-policy/) and [Website Cookie Policy](http://pubmatic.com/legal/website-cookie-policy/) for more information on how PubMatic uses cookies and other similar technologies.
+See PubMatic’s [Platform Cookie Policy](https://pubmatic.com/legal/platform-cookie-policy/) and [Website Cookie Policy](https://pubmatic.com/legal/website-cookie-policy/) for more information on how PubMatic uses cookies and other similar technologies.
 
-For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit www.allaboutcookies.org and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-We are a member of the Network Advertising Initiative (NAI) and adhere to the 2015 Updates to the NAI Code of Conduct and NAI Mobile Application Code. We also adhere to the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles for Online Behavioral Advertising and Multi-Site Data, the Application of Self-Regulatory Principles to the Mobile Environment, and the Application of the DAA Principles of Transparency and Control to Data Used Across Devices. If you go to <http://www.networkadvertising.org/managing/opt_out.asp>, <http://www.aboutads.info/choices/>, or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/), you can learn how to exercise choice regarding the collection of information about your online activities over time and across multiple third-party websites, online services, devices, or applications.
+For more information about how to clear your browser cache, see your browser’s instructions for doing so.  Please note that deleting or resetting cookies and clearing your browser cache will not opt you out of receiving interest-based advertising (including retargeting) from PubMatic’s Services.
+
+We are a member of the Network Advertising Initiative (NAI) and adhere to the 2015 Updates to the NAI Code of Conduct and NAI Mobile Application Code. We also adhere to the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles for Online Behavioral Advertising and Multi-Site Data, the Application of Self-Regulatory Principles to the Mobile Environment, and the Application of the DAA Principles of Transparency and Control to Data Used Across Devices. If you go to [optout.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp), or [optout.aboutads.info](http://www.aboutads.info/choices/), you can learn how to exercise choice regarding the collection of information about your online activities over time and across multiple third-party websites, online services, devices, or applications for interest-based advertising purposes.
 
 Some of our publisher clients have their own opt-out mechanisms that are linked from their sites or their online-posted privacy policies. You should review the privacy policies of those companies for these opt-out links if you no longer wish to receive targeted advertising from a particular company, or multiple companies.
 
 #### **Opting Out of Interest-Based Advertising in Mobile Applications**
 
-Our clients and partners may display interest-based advertising to you in mobile applications, based on your use of mobile applications over time and across non-affiliated apps. To learn more about these practices and how to opt out, please visit <http://www.aboutads.info/appchoices>.
-
-#### **Opting Out of Statistical Identification in Mobile Apps and on Mobile Web Pages**
-
-We offer mobile, in-app and mobile web page statistical identification opt-outs. Please go to [http://www.pubmatic.com/opt-out/](http://pubmatic.com/legal/pubmatic-opt-out/)to opt out from such statistical identification and for more information on what it means to opt-out.
+Our clients and partners may display interest-based advertising to you in mobile applications, based on your use of mobile applications over time and across non-affiliated apps. To learn more about these practices and how to opt out, please visit <http://www.aboutads.info/appchoices>, download the DAA’s AppChoices mobile app, and follow the instructions provided in the AppChoices mobile app.
 
 #### **Opting Out of Cross-Device Targeting**
 
@@ -167,11 +165,9 @@ Our clients and partners may combine and use information from websites or applic
 
   * Opting Out of Interest-Based Advertising from Cookies
   * Opting Out of Interest-Based Advertising for Mobile Advertising Identifiers 
-  * Opting Out of Statistical Identification in Mobile Apps and on Mobile Web Pages 
+  * **Please note that you will need to opt out separately on each of your browsers and on each of your mobile devices to ensure that information collected on a particular browser or device is not used on another browser or device.**
 
 
-
-**Please note that you will need to opt out separately on each of your browsers and on each of your mobile devices to ensure that information collected on a particular browser or device is not used on another browser or device.**
 
 #### **SENSITIVE INFORMATION**
 
@@ -210,15 +206,9 @@ If you have an unresolved privacy or data use concern under the Privacy Shield F
 
 Under certain conditions, more fully described [here](http://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-#### **U.S.-Swiss Safe Harbor Status**
-
-PubMatic adheres to the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding information received from affiliates and corporate customers in Switzerland. PubMatic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PubMatic’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-If you have an unresolved privacy or data use concern under the U.S.-Swiss Safe Harbor Framework that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
-
 #### **CROSS-BORDER TRANSFER**
 
-The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personally Identifiable Information may be stored and processed in any country where we have facilities and/or employees, or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country of residence.
+The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personally Identifiable Information or Other Information may be stored and processed in any country where we have facilities and/or employees, or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country of residence.
 
 #### **UPDATES TO THIS PRIVACY POLICY**
 
