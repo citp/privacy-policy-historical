@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615190843id_/http%3A//web.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922074521id_/https%3A//web.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policies | SUNY Plattsburgh
 
@@ -16,16 +16,16 @@ SUNY Plattsburgh does not collect any personal information about you unless you 
 
 ### Learn About
 
-  * [Information Collected Automatically](http://web.plattsburgh.edu/policies/privacy/collectinginfo.php)
-  * [Use of Cookies on our Website](http://web.plattsburgh.edu/policies/privacy/cookies.php)
+  * [Information Collected Automatically](https://web.plattsburgh.edu/policies/privacy/collectinginfo.php)
+  * [Use of Cookies on our Website](https://web.plattsburgh.edu/policies/privacy/cookies.php)
   * [Online Behavioral Advertising](https://web.archive.org/policies/privacy/behavioraladvertising.php)
-  * [Email and Transaction Information](http://web.plattsburgh.edu/policies/privacy/emailtransaction.php)
-  * [Family Education Rights and Privacy Act (FERPA)](http://web.plattsburgh.edu/policies/privacy/ferpa/)
-  * [Information and Choice](http://web.plattsburgh.edu/policies/privacy/choice.php)
-  * [Disclosure of Information](http://web.plattsburgh.edu/policies/privacy/disclosure.php)
-  * [Retention of Information](http://web.plattsburgh.edu/policies/privacy/retention.php)
-  * [Access to or Correction of Personal Information](http://web.plattsburgh.edu/policies/privacy/personalinfo.php)
-  * [Confidentiality and Integrity of Information](http://web.plattsburgh.edu/policies/privacy/confidentiality.php)
+  * [Email and Transaction Information](https://web.plattsburgh.edu/policies/privacy/emailtransaction.php)
+  * [Family Education Rights and Privacy Act (FERPA)](https://web.plattsburgh.edu/policies/privacy/ferpa/)
+  * [Information and Choice](https://web.plattsburgh.edu/policies/privacy/choice.php)
+  * [Disclosure of Information](https://web.plattsburgh.edu/policies/privacy/disclosure.php)
+  * [Retention of Information](https://web.plattsburgh.edu/policies/privacy/retention.php)
+  * [Access to or Correction of Personal Information](https://web.plattsburgh.edu/policies/privacy/personalinfo.php)
+  * [Confidentiality and Integrity of Information](https://web.plattsburgh.edu/policies/privacy/confidentiality.php)
 
 
 
