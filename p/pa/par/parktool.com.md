@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parktool.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604142205id_/http%3A//www.parktool.com/legal-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parktool.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922140607id_/https%3A//www.parktool.com/legal-and-privacy-policies) for the most accurate reproduction.*
 
 # Legal and Privacy Policies | Park Tool
 
