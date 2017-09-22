@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenpromocodes.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319003224id_/http%3A//www.greenpromocodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpromocodes.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922183822id_/http%3A//greenpromocode.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GreenPromoCodes.com
+# Privacy Policy - GreenPromoCode.com
 
 The privacy policy was last modified and effective on 9th July 2014. 
 
