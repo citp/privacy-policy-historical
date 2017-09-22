@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twtmob.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218004811id_/http%3A//speakr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtmob.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922111018id_/http%3A//speakr.com/privacypolicy) for the most accurate reproduction.*
 
 # Speakr: The Marketing Platform for Social Influencers on Twitter, Instagram, Vine and Snapchat
 
@@ -72,7 +72,7 @@ If you are a copyright owner or an agent thereof and believe that any submission
 
 (vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-Speakr’s designated copyright agent to receive notifications of claimed infringement is: Copyright Agent, 8721 W. Sunset Blvd., Los Angeles, CA 90069 or info@speakr.com. Only DMCA notices should go to the designated copyright agent; any other comments, requests, or other communications should be directed to info@speakr.com. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
+Speakr’s designated copyright agent to receive notifications of claimed infringement is: Copyright Agent, 1680 N Vine St. Suite 1112, Hollywood, CA 90028 or info@speakr.com. Only DMCA notices should go to the designated copyright agent; any other comments, requests, or other communications should be directed to info@speakr.com. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
 
 Children and Privacy
 
@@ -92,8 +92,8 @@ Please note that we may change this Privacy Policy at any time and without prior
 
 Corrections/Information Removal/Opt-Out
 
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at Speakr Customer Service, 8721 W. Sunset Blvd., P-10, Los Angeles, CA 90069 or by visiting our site and clicking Contact Support. If you prefer not to receive newsletters or other marketing e-mails from Speakr, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to: Speakr Marketing, 8721 W. Sunset Blvd., P-10, Los Angeles, CA 90069. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
+If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at Speakr Customer Service, 1680 N Vine St., Suite 1112, Hollywood, CA 90028 or by visiting our site and clicking Contact Support. If you prefer not to receive newsletters or other marketing e-mails from Speakr, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to: Speakr Marketing, 1680 N Vine St., Suite 1112, Hollywood, CA 90028. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
 
 Contact Us
 
-If you have any questions or concerns about this Policy, please feel free to contact us any time through the Site or at Legal Dept., c/o Speakr Inc., 8721 W. Sunset Blvd., P-10, Los Angeles, CA 90069. 
+If you have any questions or concerns about this Policy, please feel free to contact us any time through the Site or at Legal Dept., c/o Speakr Inc., 1680 N Vine St., Suite 1112, Hollywood, CA 90028. 
