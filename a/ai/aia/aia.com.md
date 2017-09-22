@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aia.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214080748id_/http%3A//www.aia.com/en/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aia.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922231058id_/http%3A//www.aia.com/en/index/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | AIA Group Limited
+# Privacy Statement - AIA Group Limited
 
 Among the most important assets of AIA Group Limited and/or its subsidiaries (individually and collectively referred to herein as “ **AIA** ”) is the trust and confidence placed to properly handle information. Customers and potential customers expect us to maintain their information accurately, protected against manipulation and errors, secure from theft and free from unwarranted disclosure. We protect the data security of our customers and potential customers by complying with the Personal Data (Privacy) Ordinance, and all relevant local laws, and ensure compliance by our staff with strict standards of security and confidentiality.
 
@@ -55,7 +55,7 @@ In relation to any personal data collected by us whilst providing any services i
 
 From time to time, we may purchase a business or sell one or more of our businesses (or portions thereof) and where permitted by law your personal data may be transferred or disclosed as a part of the purchase or sale or a proposed purchase or sale. In the event that we purchase a business, the personal data received with that business would be treated in accordance with this privacy statement, if it is practicable and permissible to do so.
 
-**Where permitted by law, your personal data may be provided to any of the above parties who may be located in Hong Kong or outside of Hong Kong.** Your information may be transferred to, stored, and processed in Hong Kong or any other jurisdictions where any AIA company is located, or jurisdictions where a third party contractor is located or from which the third party contractor provides us services. By providing us with your personal information or using our services or our website or applications, you consent to the transfer of such information outside your jurisdiction to our facilities or to those third parties with whom we share it as described above.
+**Where permitted by law, your personal data may be provided to any of the above parties who may be located in Hong Kong or outside of Hong Kong.  **Your information may be transferred to, stored, and processed in Hong Kong or any other jurisdictions where any AIA company is located, or jurisdictions where a third party contractor is located or from which the third party contractor provides us services. By providing us with your personal information or using our services or our website or applications, you consent to the transfer of such information outside your jurisdiction to our facilities or to those third parties with whom we share it as described above.
 
 **Access Rights to Personal Data**
 
@@ -90,7 +90,7 @@ The types of personal data that AIA would use and provide for direct marketing p
 
 If your consent is required, and you provide such consent, you may thereafter withdraw your consent to the use and provision to a third party by AIA of your personal data for direct marketing purposes and thereafter AIA shall cease to use or provide such data for direct marketing purposes.
 
-If you have provided consent and wish to withdraw it, please inform us by writing to the address in the section on “Access Rights to Personal Data” or sending us an email to [privacy.compliance@aia.com](mailto:privacy.compliance@aia.com).  Any such request should clearly state details of the personal data in respect of which the request is being made.
+If you have provided consent and wish to withdraw it, please inform us by writing to the address in the section on “Access Rights to Personal Data” or sending us an email to [privacy.compliance@aia.com](mailto:privacy.compliance@aia.com).  Any such request should clearly state details of the personal data in respect of which the request is being made.
 
 **Use of Cookies**
 
