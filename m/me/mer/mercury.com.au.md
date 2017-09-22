@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercury.com.au privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521172354id_/http%3A//www.mercury.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercury.com.au privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922025312id_/http%3A//mercury.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercury
 
@@ -47,7 +47,7 @@ Personal and sensitive information will be collected from you when:
 
 
 
-From time to time, with your consent, we may also collect personal information from third parties including CrimTrac, Dun & Bradstreet (Australia) Pty Ltd, Accurate Information Systems LLC, Australian Securities & Investments Commission and Australian Health Practitioner Regulation Agency.
+From time to time, with your consent, we may also collect personal information from third parties including ACIC (Australian Criminal Intelligence Commission, formally known as CrimTrac), Australian Federal Police, General Information Services Inc., RISQ Group, Dun & Bradstreet (Australia) Pty Ltd, Accurate Information Systems LLC, Australian Securities & Investments Commission and Australian Health Practitioner Regulation Agency.
 
 Mercury has established appropriate physical, electronic and managerial procedures to safeguard any information we collect. This helps prevent unauthorised access, maintains data accuracy and ensures that the information is used correctly. All data transferred to and from the Mercury servers are encrypted via a 1024bit SSL certificate and a hardware and software firewall is in place to prevent intrusion. All data stored within the Mercury’s systems can only be accessed by authorised staff members and the hosting facility.
 
