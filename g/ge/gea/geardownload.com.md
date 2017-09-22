@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geardownload.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516074006id_/http%3A//www.geardownload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geardownload.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922150921id_/http%3A//www.geardownload.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GearDownload
 
