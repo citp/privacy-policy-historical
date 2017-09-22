@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430214618id_/http%3A//www.unic.ac.cy/node/11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922033005id_/https%3A//www.unic.ac.cy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | University of Nicosia - Official Website
+# Privacy Policy - University of Nicosia - Official Website
 
-##  We respect your right to on-line privacy. We only gather personal information with your consent and only use the information gathered for the purposes described when we gather it.
+## We respect your right to on-line privacy. We only gather personal information with your consent and only use the information gathered for the purposes described when we gather it.
 
-These terms were last updated on July 27, 2012
+These terms were last updated on April 19, 2017
 
-###  Information Gathering and Use of Information
+### Information Gathering and Use of Information
 
 You can browse our web-site without revealing any personally identifiable information. We do, however, track the IP addresses, domain names and browsing patterns (on our site) of the users of our website for purposes such as helping us administer our web-site, tracking problems and better tailoring our web-site to the needs of our users. We use a first-party cookie to help us in this effort. We (and our cookies) do not track your browsing history outside of our website, with the exception of recording the site that referred you to our website. If you choose to remove or not accept our cookie, you can continue to use our website without any adverse effect.
 
@@ -14,15 +14,15 @@ If you e-mail us with a question or complete an online request for information, 
 
 If you provide any information on an on-line application form, we will use the information you provide to process and evaluate your application to the online University of Nicosia programme to which you are applying. We may also use the information from your application to provide you with ongoing updates about our programmes by e-mail or phone. You can end communication with us at any time, by requesting to not be contacted again.
 
-###  Security
+### Security
 
 We have taken appropriate security measures to protect the data we have gathered from loss, use, alteration or misappropriation.
 
-###  Third-Party Sites
+### Third-Party Sites
 
 Our web-site contains links to third-party sites, including our affiliated partner institutions. These websites may have different privacy policies than University of Nicosia online.
 
-###  Contact Us:
+### Contact Us:
 
 If you have any questions about our privacy policy or your information, please feel to contact us using the information below:
 
