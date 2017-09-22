@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080022id_/http%3A//savoo.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923013546id_/http%3A//www.savoo.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
