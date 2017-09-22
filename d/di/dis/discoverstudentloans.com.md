@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225062731id_/https%3A//www.discover.com/privacy-statement/student-loans-privacy-policy.html%3FICMPGN%3DDSL_FTR_ABTDSL_PRVCY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922153832id_/https%3A//www.discover.com/privacy-statement/student-loans-privacy-policy.html%3FICMPGN%3DDSL_FTR_ABTDSL_PRVCY) for the most accurate reproduction.*
 
 # Privacy Statements for Discover.com, mobile, and individual accounts
 
-[](https://web.archive.org/web/20161225062731id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf) [Print](https://web.archive.org/web/20161225062731id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf "click for printable PDF")
+[](https://web.archive.org/web/20170922153832id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf) [Print](https://web.archive.org/web/20170922153832id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf "click for printable PDF")
 
 ## Your consumer privacy
 
@@ -24,7 +24,7 @@ Consumer Privacy Statement
 ### WHAT DOES DISCOVER BANK  
 DO WITH YOUR PERSONAL INFORMATION?
 
-Rev. 10/16
+Rev. 10/17
 
 Why?
 
@@ -259,10 +259,12 @@ Other important information
   
 ---  
   
-**Vermont Residents** – Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates.
+**Vermont Residents** – We will not disclose information about your creditworthiness to our affiliates and will not disclose your personal information, financial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authorize us to make those disclosures. Additional information concerning our privacy policies can be found at [www.discover.com/privacy-statement](https://www.discover.com/privacy-statement/) or call 1-800-STUDENT.
 
 **California Residents** – Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.
 
 **Nevada Residents** – To be placed on our Do Not Call list you may call 1-800-STUDENT or mail a request to Discover Student Loans, PO Box 30948, Salt Lake City, UT 84130-0948. For additional information, please visit DiscoverStudentLoans.com. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101, call 1-702-486-3132 or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us "click to e-mail the Bureau of Consumer Protection, Office of the Nevada Attorney General"). This notice is provided pursuant to state law.  
   
-SL.PRV.LIN.1016
+SL.PRV.LIN.1017
+
+©2017 Discover Bank, Member FDIC
