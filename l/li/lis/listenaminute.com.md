@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the listenaminute.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524192550id_/http%3A//www.listenaminute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listenaminute.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922175916id_/http%3A//www.listenaminute.com/privacy.html) for the most accurate reproduction.*
 
-# Listen A Minute.com: Privacy
+# Listen A Minute: Lesson Plans for ESL / EFL - Links
+
+### Privacy Policy
 
 Listen A Minute.com uses the Google advertising programme to deliver advertisements to its pages when you visit. Google may use information about your visits to Listen A Minute.com in order to provide advertisements about goods and services that might be of interest to you.
 
