@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivearabia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043800id_/http%3A//www.drivearabia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivearabia.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922024053id_/https%3A//www.drivearabia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Drive Arabia : Dubai Live >> UAE, Saudi, Oman, Qatar, Bahrain, Kuwait & GCC
+# None
 
 DriveArabia.com collects minimal inconsequential information from the users of this site. No personal information is stored on our systems. The statistics reporting system used by our web hosting company records server requests. This system stores the user IP & the date of access, just like every other web server on the internet.
 
