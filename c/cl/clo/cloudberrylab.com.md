@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudberrylab.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101817id_/http%3A//www.cloudberrylab.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudberrylab.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922152141id_/https%3A//www.cloudberrylab.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | CloudBerry Lab
 
@@ -32,7 +32,7 @@ CloudBerry Lab Ltd. may share non-personal, summary information regarding its cu
 
 ### Links to Other Sites
 
-The [www.amazon.com](http://www.amazon.com/) site contains links to other sites. Be aware that CloudBerry Lab Ltd. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.CloudBerryLab.com](http://www.cloudberrylab.com/). 
+The [www.amazon.com](http://www.amazon.com/) site contains links to other sites. Be aware that CloudBerry Lab Ltd. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.CloudBerryLab.com](https://www.cloudberrylab.com/). 
 
   
 
