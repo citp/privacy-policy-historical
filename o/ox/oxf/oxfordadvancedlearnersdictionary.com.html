@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oxfordadvancedlearnersdictionary.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606171804id_/http%3A//www.oxfordlearnersdictionaries.com/us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oxfordadvancedlearnersdictionary.com privacy policy that was archived on 2017-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170922184113id_/http%3A//www.oxfordlearnersdictionaries.com/us/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy Policy | Oxford Learner's Dictionaries</title>
@@ -16,12 +16,12 @@
                             <link rel="alternate" hreflang="en-CO" href="http://www.oxfordlearnersdictionaries.com/us/privacy">
                             <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/interface.css?version=1.6.6" rel="stylesheet" type="text/css">
-    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/responsive.css?version=1.6.6" rel="stylesheet" type="text/css">
-    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/oxford.css?version=1.6.6" rel="stylesheet" type="text/css">
-    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/jquery.lightbox-0.5.css?version=1.6.6" rel="stylesheet" type="text/css">
-    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/print.css?version=1.6.6" rel="stylesheet" type="text/css" media="print">
-    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/autocomplete.css?version=1.6.6" rel="stylesheet" type="text/css">
+        <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/interface.css?version=1.6.11" rel="stylesheet" type="text/css">
+    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/responsive.css?version=1.6.11" rel="stylesheet" type="text/css">
+    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/oxford.css?version=1.6.11" rel="stylesheet" type="text/css">
+    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/jquery.lightbox-0.5.css?version=1.6.11" rel="stylesheet" type="text/css">
+    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/print.css?version=1.6.11" rel="stylesheet" type="text/css" media="print">
+    <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/autocomplete.css?version=1.6.11" rel="stylesheet" type="text/css">
             <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
             var googletag = googletag || {};
             googletag.cmd = googletag.cmd || [];
@@ -128,11 +128,11 @@
             };
         </script>
     <!--[if gte IE 7 ]>
-        <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/oxford-ie.css?version=1.6.6" rel="stylesheet" type="text/css" />
+        <link href="http://www.oxfordlearnersdictionaries.com/us/external/styles/oxford-ie.css?version=1.6.11" rel="stylesheet" type="text/css" />
     <![endif]-->
-    <!--[if IE 9]><script type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/external/scripts/matchMedia.js?version=1.6.6"></script><![endif]-->
+    <!--[if IE 9]><script type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/external/scripts/matchMedia.js?version=1.6.11"></script><![endif]-->
                     <link href="https://fonts.googleapis.com/css?family=Open+Sans:700i" rel="stylesheet" type="text/css"> 
-    <link rel="icon" type="image/x-icon" href="http://www.oxfordlearnersdictionaries.com/us/external/images/favicon.ico?version=1.6.6">
+    <link rel="icon" type="image/x-icon" href="http://www.oxfordlearnersdictionaries.com/us/external/images/favicon.ico?version=1.6.11">
         <script type="text/javascript">
         var arrayFn = [];
         var dictCodesArr = new Array();
@@ -155,6 +155,26 @@
                 name : 'American English',
                 description : 'Search OAAD',
                                     free: true
+                            };
+                /*academic
+         * OLDAE
+         * free
+         * false || false*/
+            dictCodesArr["academic"] = {
+                url : 'academic',
+                name : 'Academic English',
+                description : 'Search OLDAE',
+                                    free: false
+                            };
+                /*collocations
+         * OCOLL
+         * free
+         * false || false*/
+            dictCodesArr["collocations"] = {
+                url : 'collocations',
+                name : 'Collocations',
+                description : 'Search Oxford Collocations Dictionary',
+                                    free: false
                             };
                 /*practical-english-usage
          * PEU
@@ -270,6 +290,8 @@
     </span>
     <select id="dictionary-selector">                                        <option value="english">English</option>
                                                             <option value="american_english">American English</option>
+                                                            <option value="academic">Academic English</option>
+                                                            <option value="collocations">Collocations</option>
                                                             <option value="practical-english-usage">Practical English Usage</option>
                                                             <option value="schulwoerterbuch_German-English">German-English</option>
                                                             <option value="schulwoerterbuch_English-German">English-German</option>
@@ -277,6 +299,8 @@
     <div class="csm">
                                                 <a data-value="english">English</a>
                                                             <a data-value="american_english">American English</a>
+                                                            <a data-value="academic" )="" locked="true">Academic English</a>
+                                                            <a data-value="collocations" )="" locked="true">Collocations</a>
                                                             <a data-value="practical-english-usage" )="" locked="true">Practical English Usage</a>
                                                             <a data-value="schulwoerterbuch_German-English" )="" locked="true">German-English</a>
                                                             <a data-value="schulwoerterbuch_English-German" )="" locked="true">English-German</a>
@@ -517,8 +541,8 @@
 
 
 
-    <script language="JavaScript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/common.js?version=1.6.6"></script>
-    <script language="javascript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/external/scripts/doubleclick.js?version=1.6.6"></script>
+    <script language="JavaScript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/common.js?version=1.6.11"></script>
+    <script language="javascript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/external/scripts/doubleclick.js?version=1.6.11"></script>
 
         <script language="javascript" type="text/javascript">
 
@@ -536,7 +560,7 @@
     </script>
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
-    <script language="javascript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/external/scripts/responsive.js?version=1.6.6"></script>
+    <script language="javascript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/us/external/scripts/responsive.js?version=1.6.11"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             for(var i = 0; i<arrayFn.length;i++){
