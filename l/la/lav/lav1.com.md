@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lav1.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620015831id_/http%3A//www.lav1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lav1.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922113322id_/http%3A//www.lav1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO expert - Best search engine optimization services
 
