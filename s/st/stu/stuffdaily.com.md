@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffdaily.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523105028id_/http%3A//stuffdaily.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffdaily.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922193445id_/http%3A//stuffdaily.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
