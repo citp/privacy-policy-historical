@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kubota.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122163330id_/http%3A//m.kubota.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kubota.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922120017id_/http%3A//m.kubota.com/Home/Privacy) for the most accurate reproduction.*
 
 # Kubota Tractor Privacy Policy
 
