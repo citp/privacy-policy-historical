@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expandrive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123321id_/http%3A//www.expandrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expandrive.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922225559id_/http%3A//www.expandrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExpanDrive for Mac & Windows
 
