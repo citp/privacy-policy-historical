@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rascalrides.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524050641id_/http%3A//rascalrides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rascalrides.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922191945id_/http%3A//rascalrides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rascal Rides
 
