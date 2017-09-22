@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227230111id_/http%3A//www.architecturaldesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922165804id_/https%3A//www.architecturaldesigns.com/privacy-policy) for the most accurate reproduction.*
 
-# Architectural Designs
+# Privacy Policy - Architectural Designs
 
 This privacy policy discloses the privacy practices for [www.architecturaldesigns.com](https://www.architecturaldesigns.com/). This privacy policy applies solely to information collected by this website. 
 
