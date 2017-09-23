@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062553id_/http%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923055436id_/https%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
 
 # The Green Head - Privacy Policy
 
@@ -19,7 +19,7 @@ The Green Head is affiliated with several brand name online retailers, this is d
 
 The Green Head is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
+[ ](https://www.viglink.com/legal/disclosures/users?vgtag=badge)
 
 #### INFORMATION & COOKIES
 
