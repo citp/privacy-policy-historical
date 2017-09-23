@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommerce.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202062453id_/https%3A//www.ecommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerce.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923035151id_/https%3A//www.ecommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # .:Ecommerce > The Home of Growing Business:.
 
