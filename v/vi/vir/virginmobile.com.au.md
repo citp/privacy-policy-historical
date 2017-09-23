@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204716id_/http%3A//www.virginmobile.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923133318id_/http%3A//www.virginmobile.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 This is important information we need to share with you, so we recommend taking the time to read through the details so you can get up to speed. It's actually pretty interesting stuff!
 
-Our Privacy Policy is all about personal information - all the things we know about you. Because your information is so important to us, we'll always be honest and transparent about how we handle it.
+Our Privacy Policy is all about personal information – all the things we know about you. Because your information is so important to us, we'll always be honest and transparent about how we handle it.
 
 If you are an Australian customer, the Policy explains how we collect your personal information, what we do with it, and, most importantly, how it's protected.
 
@@ -22,8 +22,9 @@ Other reasons we collect personal information are to:
   * Develop or evaluate products
   * Make ads more relevant to you, whether they're about our products or those of other companies
   * Manage our business
-  * Comply with our legal obligations and
-  * Provide listings in third party directories.
+  * Comply with our legal obligations
+  * Provide listings in third party directories
+  * To analyse usage and statistical information.
 
 
 
@@ -41,12 +42,12 @@ Of course, you can choose not to provide your personal information or may just w
 
 **What we collect while you are with us**
 
-We also collect personal information during our relationship with you. For example, we may collect personal information:
+We also collect personal information and de-identified information during our relationship with you. For example, we may collect personal information:
 
   * When you pay your bill or purchase products
   * When you use our products, apps, self-service channels
   * When you join or use our rewards programs and
-  * When you use our networks and services.
+  * When and where you use our networks and services.
 
 
 
@@ -58,13 +59,17 @@ All telecommunications providers, including Optus, now have an obligation to ret
 
 Our websites and apps use cookies and other digital identifiers. These include:
 
-  * Site performance identifiers: these give us information about how our websites or apps are used
+  * Site performance identifiers: these give us information about how our websites or apps are used. If you access Virgin Mobile services from a mobile or other device, this may include your device ID, device and software characteristics (such as type and configuration), geolocation data, and connection information.
   * Analytics cookies: we use these to gather statistics about our site and apps. For example, they help us monitor how many users are on the site or app, and what sections are most popular
-  * Advertising cookies: we use these cookies to improve our understanding of the kind of advertising that may be relevant to you.
+  * Advertising cookies: we use these cookies to improve our understanding of the kind of advertising that may be relevant to your aggregated segment.
 
 
 
-We use cookies or digital identifiers for a number of purposes, including enabling targeted advertising. It's important to know you can clear cookies or digital identifiers from your device and also disable future use of them by changing the security settings on your web browser. However, doing this might mean that parts of our websites and apps may not work as they should.
+We use cookies or digital identifiers for a number of purposes, including enabling targeted advertising.
+
+It's important to know you can clear cookies or digital identifiers from your device and also disable future use of them by changing the security settings on your web browser or in apps. However, doing this might mean that parts of our websites and apps may not work as they should.
+
+We also use system information arising from your use of our services for de-identified statistical analysis.
 
 **What we collect from others**
 
@@ -78,9 +83,13 @@ We will take reasonable steps to make sure you know we have your personal inform
 
 We collect some types of personal information to assess your credit situation when you apply for certain services. For more details, see the section on 'Credit-related information' further below.
 
-**Insights from statistics and research**
+**Insights from analytics and research**
 
-We aggregate and process personal information to generate new insights about our network, products and customers, so we can provide you with the best possible service.
+We may aggregate and process personal information and de-identified system information to generate new insights about the Optus network, products and customers. An example of such an insight is that a particular type of phone plan is popular in a specific region of Queensland.
+
+These insights are about overall patterns, and by applying privacy protection and aggregation techniques, the Optus Group ensures that these insights will not identify you.
+
+We use these insights to make better business decisions, and to provide you with better products and services.
 
 **Sensitive personal information**
 
@@ -106,13 +115,13 @@ We sometimes team up with other companies to offer products. If you purchase a p
 
 **Virgin Family**
 
-We also team up with other Virgin branded companies ("Virgin Family") such as Virgin Australia Airlines Pty Ltd, Velocity Frequent Flyer Pty Limited and their subsidiaries. For example, if you are also a Velocity member and have provided your member number to us, we may share your personal information with Velocity so we can enrich any profile that we have about you, gain further insights about you, and ensure that our products remain relevant to you.
+We also team up with other Virgin branded companies ("Virgin Family") such as Virgin Australia Airlines Pty Ltd, Velocity Frequent Flyer Pty Limited and their subsidiaries. For example, if you are also a Velocity Frequent Flyer member and have provided your member number to us, we may share your personal information with Velocity so we can enrich any profile that we have about you, gain further insights about you, and ensure that our products remain relevant to you.
 
 **Outsourcing and third parties**
 
 Virgin Mobile Australia and the Optus Group work with third parties to provide some types of sales, business and customer support. They may have access to systems that include your personal information. These companies are subject to strict controls that protect your information from unauthorised use or disclosure, and limit their access to your personal information to the extent necessary to do their job.
 
-In order to provide device assessment, repair or replacement services, we may sometimes need to send your device to a repair centre or the device manufacturer. You should always ensure that you do a factory reset before you provide us with your device for any reason, so that it no longer contains your personal information.
+In order to provide device assessment, repair or replacement services, we may sometimes need to send your device to a repair centre or the device manufacturer. You should always ensure that you back up your device and do a factory reset before you provide us with your device for any reason, so that it no longer contains your personal information.
 
 If you are unable to do a factory reset, you should make sure that you review the privacy policy of your device manufacturer, as the terms of that policy will apply to any personal information contained on the device sent to the manufacturer.
 
@@ -132,7 +141,7 @@ We may also update credit reporting agencies about some types of payment default
 
 We give access to personal information where we are permitted or obliged to do so by Australian law. For example, in some circumstances we will use or disclose personal information to react to unlawful activity, serious misconduct, or to reduce or prevent a serious threat to life, health or safety. We are obliged to cooperate with law enforcement bodies in some circumstances. We may disclose personal information, including information about phone calls and service use, when we receive an access request or warrant that is authorised under Australian law.
 
-We also give information about some of our telephone products to the Integrated Public Number Database, where it's used to do things like assist with the dispatch of emergency services.
+We also give information about some of our telephone products to the Integrated Public Number Database, where it's used to do things like assist with the dispatch of emergency services. We may also provide your geolocation information directly to emergency services (i.e. 'triple 0') when you call them on your mobile.
 
 **Others**
 
@@ -141,6 +150,18 @@ We will only disclose personal information to others if you've given us permissi
 ### Advertising
 
 Everyone hates being bombarded with ads for things they don't need or have any interest in. We may use your personal information, or engage third parties who collect information about you from publicly available sources, to deliver advertising that is customised or more relevant to your interests, characteristics or general location. This doesn't necessarily mean you'll get more advertising. It just means that the advertising that you see will hopefully be more relevant to you.
+
+In order to carry out targeted advertising to your aggregated segment, we may build a user and/or device profile by:
+
+  * Using personal information and de-identified system information that we hold.
+  * Collecting information through cookies or digital identifiers. This includes publically available advertising identifiers provided by mobile operating systems like iOS and Android, which you can reset by using the setting on your device. 
+  * Engaging third parties who provide Virgin Mobile with information about you collected from publicly available sources or from their own databases.
+
+
+
+We may enhance our user and/or device profiles by working with third parties, and using device matching technologies. This technology uses your mobile device advertising identifier, as well as cookies, to try and match you with devices that you may be using. 
+
+We may also work with third parties and use technologies that rely on cookies, to recognise visitors to our website, and better deliver targeted advertising.
 
 **Advertising our products**
 
@@ -152,9 +173,11 @@ We may also work with other companies to advertise their products online. We don
 
 **Opting out**
 
+You can always control our use of cookies and other similar technologies by clearing your cookies, or by using the do not track function on your browser. You can also reset your mobile device advertising identifier by using the settings in your device.
+
 We'll make sure that any marketing emails, texts and letters we send you clearly tell you how to opt out, or you can tell our phone staff.
 
-You can opt out of receiving online relevant advertising material at any time, for example by clicking on the  symbol displayed on an online ad. You can also do so by calling us on [1300 555 100](tel:1300555100 "1300 555 100").
+You can opt out of receiving online relevant advertising material at any time, usually by clicking on the  symbol displayed on an online ad. You can also do so by calling us on [1300 555 100](tel:1300555100 "1300 555 100").
 
 If you opt out, you can choose to opt out of particular direct marketing, or all direct marketing. Of course, there are some types of marketing we can't control on an individual basis, like general letterbox drops or online ads that are not targeted specifically to you.
 
@@ -243,5 +266,15 @@ Here's the date, section and description for each change to the policy above sin
   * Included information on Virgin Mobile and the Optus Group's arrangements when providing device assessment, repair or replacement service
   * Amended language to describe targeted advertising arrangements and
   * Included information on how Virgin Mobile works with other companies in the Virgin Family.
+
+
+
+21 July 2017 - THE TYPE OF INFORMATION WE COLLECT and ADVERTISING:
+
+  * General update to clarify the type of information that we collect, and how it is used
+  * Advising about the sort of information we may disclose to emergency services, and when this will occur
+  * Included information about how the we may use aggregated insights from analytics and research
+  * Updated 'Advertising' section to clarify the information that we use to carry out targeted advertising
+  * Updated 'Advertising' section to provide individuals with more information on how to control the our use of cookies and other similar technologies.
 
 
