@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112133626id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923231819id_/https%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Guardian Health & Beauty | Guardian
 
