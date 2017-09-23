@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serenaandlily.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620183421id_/http%3A//www.serenaandlily.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serenaandlily.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923195828id_/http%3A//www.serenaandlily.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Serena & Lily Privacy Policy
 
