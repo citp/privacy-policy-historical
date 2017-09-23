@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentransfer.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520230629id_/http%3A//www.ecommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentransfer.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923035151id_/http%3A//www.ecommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # .:Ecommerce > The Home of Growing Business:.
 
