@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113230id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923134811id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Simply Business UK
 
