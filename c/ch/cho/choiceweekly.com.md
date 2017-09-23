@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceweekly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055420id_/http%3A//www.choiceweekly.com/%3Fp%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceweekly.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923030401id_/http%3A//www.choiceweekly.com/%3Fp%3D20) for the most accurate reproduction.*
 
 # Privacy – Choice Weekly
 
