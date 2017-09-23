@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190341id_/http%3A//www.authenteak.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923165352id_/http%3A//authenteak.com/privacypolicy.html) for the most accurate reproduction.*
 
 # AuthenTEAK is secure and never shares customer info | Privacy Policy
 
