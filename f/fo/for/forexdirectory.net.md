@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexdirectory.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003623id_/http%3A//www.forexdirectory.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexdirectory.net privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923060752id_/http%3A//www.forexdirectory.net/privacy.html) for the most accurate reproduction.*
 
 # Forex Directory
 
