@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162349id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923110832id_/https%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
 # CasinoToplists Privacy Policy - Secure Online Gambling
 
