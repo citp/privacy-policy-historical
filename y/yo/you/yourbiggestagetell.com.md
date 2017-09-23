@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbiggestagetell.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401065708id_/http%3A//yourbiggestagetell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbiggestagetell.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923190316id_/http%3A//yourbiggestagetell.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
