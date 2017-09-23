@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-tech-tips.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617030249id_/http%3A//www.online-tech-tips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-tech-tips.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923163350id_/https%3A//www.online-tech-tips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on Online-Tech-Tips.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing ads based on location or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-You can chose to disable or selectively t[urn off our cookies or third-party cookies in your browser settings](http://www.online-tech-tips.com/computer-tips/delete-cookies/), or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+You can chose to disable or selectively t[urn off our cookies or third-party cookies in your browser settings](https://www.online-tech-tips.com/computer-tips/delete-cookies/), or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 **Email Addresses**
 
@@ -32,4 +32,4 @@ Spam in any form will not be accepted.
 
 **Copyrights**
 
-Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact m](http://www.online-tech-tips.com/contact-me/)e immediately.
+Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact m](https://www.online-tech-tips.com/contact-me/)e immediately.
