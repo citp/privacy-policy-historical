@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623030657id_/http%3A//welchs.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923145119id_/https%3A//www.welchs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Welch's
 
 ## Our Commitment to Privacy
 
@@ -164,4 +164,4 @@ Welch Foods Inc., A Cooperative
 Westfield, NY 14787-1492  
 Phone: (800) 340-6870
 
-email: [askwelchs@welchs.com](mailto:askwelchs@welchs.com)
+email: [askwelchs@welchs.com](mailto:askwelchs@welchs.com)
