@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612171057id_/http%3A//backpack.tf/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923030246id_/https%3A//backpack.tf/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - backpack.tf
 
