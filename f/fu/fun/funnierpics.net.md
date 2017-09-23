@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnierpics.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202040250id_/http%3A//www.funnierpics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnierpics.net privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923085445id_/http%3A//www.funnierpics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FunnierPics
 
