@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photojoiner.net privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512010940id_/http%3A//www.photojoiner.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photojoiner.net privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923200252id_/https%3A//www.photojoiner.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
