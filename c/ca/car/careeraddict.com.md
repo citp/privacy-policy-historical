@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careeraddict.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093630id_/http%3A//careeraddict.com/info/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeraddict.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923235734id_/http%3A//www.careeraddict.com/info/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement | Career Addict
+# Privacy Statement
 
 This Privacy Statement incorporates by reference the Terms of Use for the CareerAddict Websites, which apply to this Privacy Statement. Please review this Privacy Statement periodically as we may update it from time to time.
 
