@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anallievent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071649id_/http%3A//www.anallievent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anallievent.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924233237id_/https%3A//www.anallievent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy - An Alli Event
 
@@ -54,7 +54,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 05/27/2014
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
 
 **Disclosure**
 
