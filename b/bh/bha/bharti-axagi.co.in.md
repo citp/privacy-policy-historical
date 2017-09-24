@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharti-axagi.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020757id_/https%3A//www.bharti-axagi.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharti-axagi.co.in privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924175642id_/https%3A//www.bharti-axagi.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Protection | Bharti AXA GI
 
@@ -48,7 +48,7 @@ However, any information that is freely available or accessible in public domain
 
 (e) "Use" means accessing the Website for any purpose including for enquiring on our products or services, log in to the Website, making any transaction on the Website etc. or entering into a transaction with Us in any other manner.
 
-(f) "Website" means [www.bharti-axagi.co.in](http://www.bharti-axagi.co.in/) or any other website which Bharti AXA General Insurance Company Limited may launch or operate¬ for its business purposes or otherwise.
+(f) "Website" means [www.bharti-axagi.co.in](https://www.bharti-axagi.co.in/) or any other website which Bharti AXA General Insurance Company Limited may launch or operate¬ for its business purposes or otherwise.
 
 The word "Data" and "Information" are used interchangeably in this document.
 
