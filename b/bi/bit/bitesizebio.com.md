@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitesizebio.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630042948id_/http%3A//bitesizebio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitesizebio.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924130225id_/http%3A//bitesizebio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitesize Bio
 
