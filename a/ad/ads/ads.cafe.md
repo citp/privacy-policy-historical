@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads.cafe privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115539id_/http%3A//ads.cafe/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads.cafe privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924060038id_/http%3A//ads.cafe/privacy.html) for the most accurate reproduction.*
 
 # Ads.cafe - Your Website Marketplace
 
