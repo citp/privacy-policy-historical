@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermediatabsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144800id_/http%3A//supermediatabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermediatabsearch.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924060455id_/http%3A//supermediatabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # SuperMediaTab | Privacy Policy
 
