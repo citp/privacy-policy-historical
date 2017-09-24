@@ -1,42 +1,127 @@
-> *The following text is extracted and transformed from the doctorshealthpress.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613074021id_/http%3A//www.doctorshealthpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorshealthpress.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924100202id_/http%3A//www.doctorshealthpress.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy & Terms of Use
 
-## PRIVACY POLICY & TERMS OF USE
+**Privacy Policy**
 
-Doctors Health Press Inc. is the publisher of the free editorial content health e-newsletter The Doctors Health Press e-Bulletin and its respective web sites DoctorsHealthPress.com and Foods4BetterHealth.com (herein collectively as the “Doctors Health Press e-Bulletin”). 
+We at Doctors Health Press have a strict anti-spam, anti-spyware and anti-adware policy. Your privacy is important to us! We realize how important your privacy is to you, that is why we will never sell, rent or share your e-mail address to anyone.
 
-The personal information you provide us is used for delivery of the Doctors Health Press e-Bulletin you have opted-in to receive (e.g. your name, address, and/or email address). To help fund the cost of publishing the Doctors Health Press e-Bulletin, aside from the editorial content you will receive in the Doctors Health Press e-Bulletin, you will also receive advertisements for Doctors Health Press, advertisements from our approved partners, paid content via e-mail and via ad blurbs in our Doctors Health Press e-Bulletin. If you want to opt-out from receiving these advertisements, or from receiving our Doctors Health Press e-Bulletin, you can do so by (1) using the opt-out link that is at the bottom of our editorial and advertisements e-mails, or (2) by contacting us at the mailing address below, or (3) by sending us an e-mail to the e-mail address below.
+Some sections of this website may require you to submit information in order for you to benefit from the specified features (such as the Free Doctors Health Press e-Bulletin subscriptions, health tips, order processing, etc) or to participate in a particular activity (such as a contest or other sales promotions). Your email address may be added to our Doctors Health Press e-Bulletin subscription.
 
-**TRACKING:** Any time you visit Doctors Health Press e-Bulletin, our computer servers, and third party analytical tools we use, record information gathered from your browser such as your IP address, your browser type, Internet service provider, referring pages, exit pages, time spent on each page, number of clicks and other tracking information. In the future we may implement newer tracking technologies. This Privacy Policy & Terms of Use will be updated to reflect any changes pertaining to how visitor activity is tracked.
+When you subscribe to the Doctors Health Press e-Bulletin, we will send you a welcome email introducing you to the Doctors Health Press e-Bulletin. Subscribers will occasionally receive information on health topics, products, services, special deals. We may enter into marketing relationships or joint ventures with third party advertisers or other companies that provide products or services that we believe may be of interest to Doctors Health Press e-Bulletin subscribers. They may periodically send information to newsletter subscribers but will never obtain your specific contact information unless you choose to do so.
 
-**BROWSER INFORMATION:** Browser information is used by us to analyze user trends, administer our web sites, help prevent fraudulent activity, and to help collect demographic information. This tracking information may be shared with our affiliated companies, but only as collective information. Individual activity will not be shared externally unless we are required to by law, or to protect Doctors Health Press e-Bulletin, our other customers, or anyone else who may be at risk.
+**Information Collection:**
 
-**COOKIES & PIXELS:** Cookies are text files that store information about an Internet user’s browsing behavior/history and which permits ad networks to identify a user and provide him/her with targeted ads based on the user’s Internet browsing behavior/history. A pixel is the code that is placed on a web site in order to trigger a cookie. We often use cookies and pixels to recall user preferences and to track visits to Doctors Health Press e-Bulletin so that we can better understand user behavior on our web sites and to enable us to provide our visitors with advertisements for our paid content after and during their visits to our web sites. 
+We may gather general information about our website users and their usage of the website. This information includes IP address, pages viewed, number of visitors, purchases made, etc. Cookies are used to help to provide us wit this information regarding the user interaction with the website.
 
-**MOBILE ANALYTICS:** As part of our analytics, the Doctors Health Press e-Bulletin uses software which enables us to get a better understanding of how our sites look and work on mobile devices. Mobile analytics software tracks information on how you interact with our sites on your mobile device. The mobile tracking information we collect may be shared with our affiliated companies, but only collectively. Information on your individual visits will not be shared externally unless we are required to by law, or to protect the Doctors Health Press e-Bulletin, our other customers, or anyone else who may be at risk.
+**1) Types of Information We Collect:**
 
-**DISCLOSING VISITOR INFORMATION WHEN REQUIRED TO BY LAW:** When required to do so by law, we reserve the right to disclose users’ profile information, including both personally identifiable and non-personally identifiable information. You consent to us disclosing any information you provide or we collect, if in our sole discretion, we believe that this disclosure is (1) in compliance with federal, state, municipal, and/or any other legal regulations, including requests from law enforcement agencies, or any other legal process; (2) defend and safeguard the Doctors Health Press e-Bulletin, or a third party’s, property or legal rights; or (3) protect the health and safety of you or another person.
+1.1. We collect general types of information about you when you visit and use our website; examples include personal information, demographic information, behavioral information, and indirect information. Sometimes we collect combinations of these types of information.
 
-**NOTICE:** BY USING THE DOCTORS HEALTH PRESS E-BULLETIN YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY & TERMS OF USE AND OF OUR PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY & TERMS OF USE. The Doctors Health Press e-Bulletin requires consideration from the user for and as a condition of your access. By reading and accepting our Privacy Policy & Terms of Use you are granting us consideration for the right to view the Doctors Health Press e-Bulletin. You are denied access to the Doctors Health Press e-Bulletin unless you read our Privacy Policy & Terms of Use. 
+1.2. “Personal information” is information that can be used to identify you or any other individual to whom the information may relate. This is information which you are prompted to provide to us. Such information may include your name, address, telephone number(s), mobile numbers and email address, credit card number(s), bank account(s), or other unique information about you which you provide to us during the registration process, or though the course of communicating with us about the products and services provided on our website. We may collect this same information about all other persons when you provide it to us.
 
-**USE & COPYRIGHTS:** You are prohibited from copying, saving, printing, selling, hyperlinking, using our URL, or reproducing, in any manner whatsoever, any of the information in the Doctors Health Press e-Bulletin. You may not use the Doctors Health Press e-Bulletin for any illegal use. All of our content is copyrighted.
+1.3. “Demographic information” is information that may or may not be unique to you in the sense that it refers to selected population characteristics. Such information may include, but is not limited to, zip code, mobile phone carrier, age, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests.
 
-**THIRD PARTY LINKS & CONTENT:** Content in the Doctors Health Press e-Bulletin may contain links to other websites maintained by third parties (“Other Sites”), either as a hyperlink or through a direct data feed accessed by you. The Doctors Health Press e-Bulletin does not endorse, and is not responsible for, the privacy practices or the content of these websites. You should review the applicable privacy policies in connection with your use of such third party websites.
+1.4. “Behavioral information” is information which is automatically collected pertaining to how you use our website, the areas of our website that you visit, what services you access, and information about your computer hardware and software, including your IP address, geographic location, browser preference, operating system type, domain names, times that you access the internet, and other websites you have visited.
 
-We may, from time to time in emails, alerts or other communications you have agreed to accept from us, include advertisements, sponsorships, other offers from or information about third parties. This does not and will not mean that Doctors Health Press e-Bulletin endorses any specific products or services available from such third parties. Such materials from those third parties, regardless of their relationship with us, are provided merely for information purposes and users should make their own judgments and evaluation of any services or products available on any other websites. 
+1.5. “Third party information” is information about you that we acquire from a third party which may include personal, demographic, behavioral and indirect information. This collection may include, but not limited to, first party cookies, third party cookies, anonymous cookies, persistent identifiers, email opt in, and search engine keywords. We have no access or control over these cookies and other tracking devices used by third party advertisers and networks. We have no responsibility or liability for the policies and practices of these parties.
 
-**SECURITY:** Doctors Health Press e-Bulletin takes reasonable steps to ensure that your information is treated securely and in accordance with this Privacy Policy & Terms of Use. While we do our best to protect your personal information, Doctors Health Press e-Bulletin cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+1.6. “Web technology information” is information we automatically collect from you when you visit our website. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. This information is collected from the use of cookies, Web beacons or JavaScript.
 
-**DISCLOSURE OF INFORMATION:** We may disclose necessary personal information to third parties or service providers that help us provide services to you or deliver paid products to you. For example, we will disclose your billing information to payment processors for the purpose of processing and transactions you execute with us. Also, we will disclose your shipping address to fulfilment and shipping contractors to deliver product your order from us to you.  
-**ACCESS YOUR INFORMATION:** Upon written request, Doctors Health Press e-Bulletin may provide you access to, or allow you to modify your personal information we hold about you. If your access request is denied, we will give you the reasons for denying your request. All requests for access should be directed to the e-mail address below.
+1.7. No Information Collected from Children. We will never knowingly collect any Personal Information from children under the age of 13. If we obtain actual knowledge that we have collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, we have no such information to use or to disclose to third parties.
 
-**OTHER:** Persons under the age of 18 are denied access. By viewing our content you waive all rights to claims of damages arising from the use of the Doctors Health Press e-Bulletin. By viewing our content you indemnify and hold us harmless from and against and all claims. We reserve the right to deny access to the Doctors Health Press e-Bulletin by any person for any reason. Our Privacy Policy was last updated and posted April 7, 2017. As part of your consideration to access the Doctors Health Press e-Bulletin, and since our Privacy Policy & Terms of Use may change based on new laws and regulations, you promise to regularly review our Privacy Policy & Terms of Use for updates and changes.
+1.8. No sensitive health information is collected. We do not collect information about past, present or potential future medical conditions or treatments.
 
-To contact us, or to opt out from receiving our information:
+1.9. Credit Card Information and Bank Account Information. We may, in certain instances, collect credit card number(s), bank account information and related information, when you place an order on our website. When the credit card or bank account information is submitted to us, such information is encrypted and is protected with SSL encryption software. We will use the credit card information or bank account information for purposes of processing and completing the transaction you requested. Such information will be disclosed to third parties as necessary to complete the requested purchase transaction.
 
-**Doctors Health Press** ,  
-60 State Street, Suite 700, Boston,  
-MA 02109-1894  
-or Email: [info@doctorshealthpress.com](mailto:info@doctorshealthpress.com)[](mailto:doctorshealthpress@lombardipublishing.com)  
-or Call Us at: [1-844-744-3579](tel:1-844-744-3579)
+**2) Collection of Information Through Web Beacons**
+
+2.1. Generally, we as well as third party vendors and supporting advertisers use technologies such as cookies, web beacons, and java scripts. These technologies collect internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. This information is used to analyze trends, administer our Website, track users’ movements through our Website and gather demographic information about our user base as a whole. We may receive reports based on these technologies on an individual or aggregated basis.
+
+2.2. Third Party Cookies. We allow third party vendors and advertisers to set their own cookies on and through our Website. We have no control over the practices of those third parties and are not responsible for their technology or tracking. We encourage you to review the policies of such persons or entities on their websites. We use AdWords Remarketing through Google which is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity on our Website with the AdWords advertising network and the DoubleClick cookie. That Cookie collects information regarding certain patterns in your browsing history. To opt-out of this tracking, please see <https://support.google.com/ads/answer/2662922?hl=en>. We also participate in all of Google Analytics Advertising . This includes (i) Remarketing with Google Analytics; (ii) Google Display Network Impression Reporting; (iii) DoubleClick Campaign Manager integration; and (iv) Google Analytics Demographics and Interest Reporting. Google uses cookies to track activity performed by Google Analytics and its AdWords or DoubleClick cookie. To opt-out please see <https://tools.google.com/dlpage/gaoptout/>. We also use Google Analytics which is an analysis service also provided by Google Inc. Google utilizes the data collected through its cookies to track and examine the use of this site, to prepare reports on its activities, and to share them with other Google services. You may opt-out of the Google Analytics service using Google’s Browser Add-available at <https://tools.google.com/dlpage/gaoptout/>.
+
+2.3. Web Beacons. We use electronic images known as Web Beacons (sometimes called single-pixel gifs, clear gifs or action tags) which allow us to collect information about your visit to our website, measure and improve the effectiveness of advertisements and track delivery of advertising. Web Beacons collect only a limited set of information including a cookie number, time and date of page view, as well as a description of the page on which the Web Beacon resides. We may also use Web beacons in email messages sent to you. This allows us to determine if you opened or acted upon the email messages. Because Web beacons are the same as any other content request, you cannot opt out or refuse them. However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
+
+**3) Security**
+
+We endeavor to safeguard and protect your information. When you submit information on our website, such information is protected both online and offline. We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control. The servers in which we store your information are kept in a secure physical environment. The servers have industry standard firewalls. Access to such servers is password protected and access by our employees is limited. Currently, we use Secure Socket Layer software (“SSL”) to protect data and to secure any transactions. SSL encrypts information including credit card number(s), and names and addresses, as they are transmitted over the Internet. Please be advised that, although we take commercially reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure; therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk. However, access to your information is strictly limited and not accessible to the public.
+
+**4) How We Use Information Collected**
+
+4.1. Providing Services and Products. We use the information we gather on our website to provide you with the services and or products you have requested. This may include passing your information on to a third party to provide such services or products. Although our contractual arrangement limits how this party can use your information, we do not control the privacy practices of third parties. If you have any questions or wish to remove your information from the third party databases, you will need to contact that party directly.
+
+4.2. Improving Our Website. We use the information we gather to respond to any inquires you make, operate and improve the functionality of our website, and deliver the products and services advertised on our website. Our services include the display of personalized products, content, and advertising, relating to your experience and interests.
+
+**5) Disclosure of Information to Others**
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy.
+
+**5.1. Mail Solicitation:**
+
+We may also provide your name, customer history and mailing address to third parties, such as service providers, contractors and third-party publishers and advertisers for a variety of purposes unless you chose to opt-out by e-mailing [customerservice@doctorshealthpress.com](mailto:customerservice@doctorshealthpress.com) stating you wish to be removed from third-party direct mailing offers, along with your name and mailing address.
+
+**5.2. CASL Disclosure:**
+
+To assist in compliance with Canadian Anti-Spam Legislation (CASL) select information and data relating to the opt-in process to the online newsletter is recorded. This may include, but not limited to, the point of sign-up, time, date, IP address and email address. This information is linked to the associated email account for the purpose of demonstrating express consent.
+
+(i) Product and Service Delivery. We share your information with third parties who help us in the delivery of the products and services you have requested.
+
+(ii) Website Functionality. We share your information with companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance, process credit card payments, and provide customer service.
+
+(iii) Anonymous information. We share aggregated anonymous information about you, combined with other persons using our website with third parties, so that they can understand the kinds of visitors that come to our website, and how those visitors use our website. This includes demographic information and behavioral information.
+
+(iv) Legal Process. We disclose your information if legally required to do so, or at our discretion, pursuant to a request from a governmental entity, or if we believe in good faith that such action is necessary to (a) conform to legal requirements or comply with legal process; (b) protect our rights or property, or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
+
+(v) Acquisition or Merger. We may disclose and transfer your information to a third party who acquires any or all of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In the event we become the subject of an insolvency proceeding, whether voluntary or involuntary, we or our liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of, such information in a transaction approved by the court.
+
+**6) Changes to Privacy Policy**
+
+We reserve the right to make material changes to the substance of this Privacy Policy. We will post those changes through a prominent notice on the website, so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
+
+**7) Your California Rights**
+
+7.1. California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. In addition California residents have the right to know if we respond to do not track signals or cookies. We do not respond to such signals or cookies.
+
+7.2. As stated in this Policy, you have agreed to allow us to share information with third parties for their direct marketing purposes until you remove your information; and thus, you have agreed to this disclosure. California customers may request further information about our compliance with this law by sending us an email at [privacy@doctorshealthpress.com](mailto:privacy@doctorshealthpress.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
+
+**Purchase Information:**
+
+If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
+
+Please note you can remove yourself from our e-mail list at any time. We supply a link at the bottom of each e-mail to manage your subscription to the Doctors Health Press e-Bulletin. Additionally, to unsubscribe, simply visit [www.doctorshealthpress.com/remove](http://www.doctorshealthpress.com/remove) or send an email to [customerservice@doctorshealthpress.com](mailto:customerservice@doctorshealthpress.com) with the word “unsubscribe” in the subject line.
+
+**Surveys and Contests:**
+
+Periodically, we will send out requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and appreciated. The user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip/postal code, gender and age information). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site and additional Doctors Health Press educational, editorial and marketing materials.
+
+**Third Party Links/Ads:**
+
+Occasion we will feature links or ads to third parties on this website. Though we provide links, it does not mean that we endorse or approve that site’s content or policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
+
+**Disclosure of Information:**
+
+We may disclose necessary personal information to third parties or service providers that help us provide services to you or deliver products to you. For example, we will disclose your billing information to payment processors for the purpose of processing the transaction. Also, we will disclose your shipping address to fulfilment and shipping contractors to deliver a product to you.
+
+**Electronic Consent**
+
+These terms and conditions apply to all transactions made on or through this Website. This Agreement is intended to be governed by the Electronic Signatures in Global and National Commerce Act. You manifest your agreement to the terms and conditions in this document by any act demonstrating your assent thereto, including clicking the submit button for the order, or by merely accessing the Website, whether you have read these terms or not. This includes your authorization to charge your credit card or debit your bank account. Please print these terms and conditions for your personal records. 
+
+In addition, you consent to receiving electronic communications from Doctors Health Press Inc. relating to your account. You agree that any notices, agreements, disclosures or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing. You should maintain copies of electronic communications by printing a paper copy or saving an electronic copy. You also consent to receiving certain other communications from us, such as newsletters special offers, promotional announcements and customer surveys via email or other methods. 
+
+By placing an order with us, you will be deemed to have read, understood, and agreed to these Terms and Conditions of Use (collectively, “Terms”). If you do not agree to be bound by these Terms, you may not access or use the Website, or purchase any products through the Website. By accessing, using or ordering products through the Website, you affirm that you have read this Agreement and understand, agree and consent to all Terms contained herein.
+
+**Contacting Us:**
+
+If you have any questions about this Privacy Policy, please contact the Doctors Health Press Privacy Officer by email or postal mail as follows:
+
+**email:** [privacy@doctorshealthpress.com](mailto:privacy@doctorshealthpress.com)  
+**mail:** Doctors Health Press – Privacy Officer  
+[60 State Street, Suite 700, Boston, MA 02109-1894](https://goo.gl/maps/BPtKH6o2ubT2)
+
+The Privacy Officer should be contacted with complaints or inquiries regarding the Privacy Policy or information management procedures.
+
+Simply send a message via mail or email, identifying yourself, your concern or question and appropriate contact information to respond to your inquiry. Additional information may be requested to assist us in identifying you and/or authenticating you on our systems.
+
+Personal information collected is used to fulfill orders and provide services to users and customers. Disclosures to third parties includes the information required to process or fulfill orders, provide information and mailings regarding products or services you may be interested in, or complete a transaction, unless otherwise required by law. If a customer or individual wishes to view the personal information collected in their profile, requests should also be made to the Privacy Officer. All reasonable attempts will be made to respond within 30 days.
+
+Please note that we update this Privacy Policy from time to time. Please review this policy regularly.
