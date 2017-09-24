@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the new-startups.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526102037id_/http%3A//www.new-startups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the new-startups.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924223334id_/http%3A//www.new-startups.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | New Startups
 
 Privacy Policy for www.new-startups.com
 
