@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expo.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215415id_/https%3A//expo.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo.io privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924180549id_/https%3A//expo.io/privacy) for the most accurate reproduction.*
 
 # Expo — Privacy policy
 
