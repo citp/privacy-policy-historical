@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fav4.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628040125id_/http%3A//www.fav4.org/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fav4.org privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924143537id_/http%3A//fav4.org/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
