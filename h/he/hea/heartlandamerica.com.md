@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartlandamerica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072628id_/http%3A//www.heartlandamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartlandamerica.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924145050id_/http%3A//www.heartlandamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Heartland America: Privacy Policy
 
