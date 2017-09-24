@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorportal.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610180530id_/http%3A//www.vectorportal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorportal.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924161937id_/http%3A//www.vectorportal.com/privacy) for the most accurate reproduction.*
 
 # Vector Portal
 
