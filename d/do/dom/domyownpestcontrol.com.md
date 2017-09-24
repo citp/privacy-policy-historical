@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025040id_/http%3A//www.domyownpestcontrol.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925004024id_/http%3A//www.domyownpestcontrol.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
