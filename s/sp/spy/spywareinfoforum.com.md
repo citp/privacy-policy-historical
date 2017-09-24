@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareinfoforum.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112183630id_/http%3A//www.spywareinfoforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareinfoforum.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924122750id_/http%3A//www.spywareinfoforum.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SpywareInfo Forum
 
@@ -16,3 +16,9 @@ This website does not store any information that would, on its own, allow us to 
   2. [Privacy Policy](http://www.spywareinfoforum.com/privacypolicy/)
 
 
+
+Member of [](http://www.uniteagainstmalware.com/)
+
+Support SpywareInfo Forum - click the button 
+
+PayPal - The safer, easier way to pay online! 
