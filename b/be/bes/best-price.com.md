@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101900id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924221009id_/https%3A//www.best-price.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Preisvergleich und Test bei PREISVERGLEICH.de
 
