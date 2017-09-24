@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103621id_/http%3A//www.50connect.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924180300id_/http%3A//www.50connect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | 50 Connect
 
 ##  1\. Introduction and General Terms
 
-50connect.co.uk is part of the Olderiswiser Media Limited business assets.  
-Olderiswiser Media Limited is committed to protecting you and your family's personal information when you are using Olderiswiser Media Limited services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through Olderiswiser Media Limited websites.
+50connect.co.uk is part of the Olderiswiser Media Limited business assets.   
+Olderiswiser Media Limited is committed to protecting you and your family's personal information when you are using Olderiswiser Media Limited services. We want our services to be safe and enjoyable environments for our hearing. Olderiswiser Media Limited websites.
 
 In order to provide you with the full range of Olderiswiser Media Limited services, we are sometimes required to collect information about you.
 
@@ -13,7 +13,7 @@ This privacy policy explains the following:
 
   * What information Olderiswiser Media Limited may collect about you;
   * How Olderiswiser Media Limited will use information we collect about you; 
-  * When Olderiswiser Media Limited may use your details to contact you; 
+  * When Olderiswiser Media Limited can use your details to contact you; 
   * Whether Olderiswiser Media Limited will disclose your details to anyone else; 
   * Your choices regarding the personal information you have provided to us; 
   * The use of cookies on Olderiswiser Media Limited website and how you can reject these cookies.
@@ -92,7 +92,7 @@ Where you contribute to 50connect.co.uk, Olderiswiser Media Limited will general
 
 Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Media Limited holds about you and to have any inaccuracies corrected.  We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.
 
-Please address requests to the Data Protection Officer, 50connect.co.uk, Olderiswiser Media Limited, 2nd Floor, 25 Nutford Place, London W1H 5YQ
+Please address requests to the Data Protection Officer, 50connect.co.uk, Olderiswiser Media Limited, 16 Leigham Court Road, Streatham, London, SW16 2PJ
 
 ##  11\. Changes to Olderiswiser Media Limited's Privacy Policy
 
@@ -129,12 +129,12 @@ If you have any questions or comments about this Privacy Policy please contact;
 
 Olderiswiser Media Limited
 
-2nd Floor,
+16 Leigham Court Road
 
-25 Nutford Place
+Streatham 
 
 London
 
-W1H 5YQ
+SW16 2PJ
 
-This page was last amended 7 December 2015.
+This page was last amended 3 August 2017
