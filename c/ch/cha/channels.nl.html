@@ -1,7 +1,1359 @@
-<!--The following is the downloaded HTML source of the channels.nl privacy policy that was archived on 2017-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625083915id_/http%3A//www.channels.nl/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the channels.nl privacy policy that was archived on 2017-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170924115107id_/http%3A//channels.nl/privacy.php) for the most accurate reproduction.-->
 
-<html><head></head><body bgcolor="ffffff" text="black">
+<!DOCTYPE html><html><head><title>Channels FAQ</title>
+
+<meta name="keywords" content="Channels">
+<meta name="description" content="About Channels World of Hotels">
+<base href="http://channels.nl/">
+
+<style>
+
+.minmin {
+	 min-width: 140px;
+}
+
+.bigheader {
+	position:relative;
+	font-family: 'Raleway', sans-serif; 
+	font-size: 36px;
+  color: #000000;
+}
+
+.myfont {
+ text-align: left;
+ font-family: 'Raleway', sans-serif;
+ font-size: 14px;
+}
+
+#destext {
+text-align: left;
+margin-left: auto;
+margin-right: auto;
+ font-family: 'Raleway', sans-serif;
+ font-size: 16px;
+}
+
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+   width:60%;
+}
+
+.cato	{ 
+    margin-left: 20px;
+    margin-right: 20px;
+
+font-size : 18px; color : #ffffff; background-color : #363F52; font-family :font-family: 'Raleway', sans-serif;
+
+}
+.faqQ	{ 
+
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+
+ }
+.faqA	{ 
+
+    margin-right: 20px;
+    margin-left: 20px;
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+  
+}
+
+
+.cities	{ 
+
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+
+}
+
+
+
+.cities:hover
+{
+	color: #FF0000;
+	text-decoration: none;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+#destext {
+font-size: 16px;
+ }
+
+.style-one {
+ margin-left: 20px;
+ margin-right: 20px;
+}
+	
+}	
+
+</style>
+
+<link rel="stylesheet" type="text/css" href="http://channels.nl/css/style_hotelpage.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0">	
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<meta charset="UTF-8">
+<link href="http://fonts.googleapis.com/css?family=Raleway&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon_trans.ico">
+	<link rel="icon" type="image/png" sizes="196x196" href="/ill/favicon-192.png">
+	<link rel="icon" type="image/png" sizes="160x160" href="/ill/favicon-160.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/ill/favicon-96.png">
+	<link rel="icon" type="image/png" sizes="64x64" href="/ill/favicon-64.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/ill/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/ill/favicon-16.png">
+	<link rel="apple-touch-icon" href="/ill/favicon-57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/ill/favicon-114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/ill/favicon-72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/ill/favicon-144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/ill/favicon-60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/ill/favicon-120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/ill/favicon-76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/ill/favicon-152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/ill/favicon-180.png">
+
+<link rel="stylesheet" type="text/css" href="http://channels.nl/css/style2016_v1b.css">	
+
+
+<script type="text/javascript">
+    var is_touch_device = 'ontouchstart' in document.documentElement;
+	
+ function GetScreenCordinates(obj) { //depending on screenwidth, push citylinks to the right
+            var lwidth=55;
+            var lheight=85;
+            var swidth = window.innerWidth;
+            if (swidth < 780){lwidth=55;lheight=100;}
+            if (swidth < 480){lwidth=85;lheight=127;}
+            var p = {};
+            p.x = obj.offsetLeft+lwidth;
+            p.y = obj.offsetTop-lheight;
+            while (obj.offsetParent) {
+                p.x = p.x + obj.offsetParent.offsetLeft;
+                p.y = p.y + obj.offsetParent.offsetTop;
+                if (obj == document.getElementsByTagName("body")[0]) {
+                    break;
+                }
+                else {
+                    obj = obj.offsetParent;
+                }
+            }
+            return p;
+        }
+        function MouseOver(num,obj,text) {
+         var p = GetScreenCordinates(obj);
+         document.getElementById(num).style.display = 'inline-block';
+         document.getElementById(num).style.zIndex = "500";
+         document.getElementById(num).style.top = p.y + 'px';
+         document.getElementById(num).style.left = p.x + 'px';
+         document.getElementById(num).innerHTML = '<div id=citylinkcolor>' + text + '</div>';
+         
+}
+
+
+  var exclude=0;
+  var clickdirect=0;
+  var ua = navigator.userAgent.toLowerCase();
+  var isAndroid = ua.indexOf("android") > -1;
+   
+function popout(exclude) {
+  if (exclude==1){clickdirect=1;} else {clickdirect=0;}
+  if (!is_touch_device){document.getElementById("inputbox").style.display = 'none';	}  // Hide searchbox when hovering over mainbar problems with iphone
+  document.getElementById("p1").style.display = 'none'; // P1 t/m P7 Clears city MouseOver
+  document.getElementById("p2").style.display = 'none';
+  document.getElementById("p3").style.display = 'none';
+  document.getElementById("p4").style.display = 'none';
+  document.getElementById("p5").style.display = 'none';
+  document.getElementById("p6").style.display = 'none';
+  document.getElementById("p7").style.display = 'none';
+  
+  document.getElementById("b1").style.display = 'inline';// all x-button hides undone
+  document.getElementById("b2").style.display = 'inline'; 
+  document.getElementById("b3").style.display = 'inline'; 
+  document.getElementById("b4").style.display = 'inline'; 
+  document.getElementById("b5").style.display = 'inline'; 
+  document.getElementById("b6").style.display = 'inline'; 
+  document.getElementById("b7").style.display = 'inline';   
+  document.getElementById("b8").style.display = 'inline';   
+  document.getElementById("b9").style.display = 'inline';  
+  document.getElementById("b10").style.display = 'inline';  
+
+
+if (isAndroid) { //fixing the android HOVER issue
+//$( "a" ).click(function( event ) {
+$(".buttonlinkcolor").click(function(event){
+  event.preventDefault();
+});
+
+$(".landnaam").click(function(event){
+  event.preventDefault();
+});
+
+};
+}
+
+function popin() {
+  document.getElementById("inputbox").style.display = 'inline'; 	// show searchbox again
+}
+
+ function hideall(blocknumber) { // x-button 
+  document.getElementById(blocknumber).style.display = 'none'; 
+ }
+
+function searchboxtoggle(onoff) {
+if (onoff==0){
+    document.getElementById("sub2").style.display = "none";
+  } else {
+  document.getElementById("sub2").style.display = "inline";  
+  }  
+}
+
+$(document).ready(function() {
+if (is_touch_device){
+		document.getElementById("inputbox").style.right = "30px"; // Searchbox bit to the left on touch devices
+}
+var swidth = window.innerWidth;
+if (is_touch_device && clickdirect==1){ // click through touchdevice, USA cities
+$('a').on('click touchend', function(e) {
+
+var el = $(this);
+var link = el.attr('href');
+window.location = link;
+});
+}
+});
+
+</script>
+
+</head>
+
+<body>
+<nav><div id="navbarbuttons">
+							
+					
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_africa.html" onmouseover="popout(0)" onmouseout="popin()">Africa</a>
+     	   <div id="b1" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b1');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p1" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_dz.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_dz_oran.html>Oran</a></nobr><br><nobr><a href=http://channels.nl/cities_dz.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Algeria</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ao.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ao_luanda.html>Luanda</a></nobr><br><nobr><a href=http://channels.nl/cities_ao.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Angola</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bj.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_bj_cotonou.html>Cotonou</a></nobr><br><nobr><a href=http://channels.nl/cities_bj.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Benin</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bt.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_bt_paro.html>Paro</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bt_thimphu.html>Thimphu</a></nobr><br><nobr><a href=http://channels.nl/cities_bt.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Bhutan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bw.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_bw_gaborone.html>Gaborone</a></nobr><br><nobr><a href=http://channels.nl/cities_bw.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Botswana</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bf.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_bf_ouagadougou.html>Ouagadougou</a></nobr><br><nobr><a href=http://channels.nl/cities_bf.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Burkina Faso</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bi.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_bi_bujumbura.html>Bujumbura</a></nobr><br><nobr><a href=http://channels.nl/cities_bi.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Burundi</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cm.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_cm_douala.html>Douala</a></nobr><br><nobr><a href=http://channels.nl/cities_cm.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Cameroon</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cv.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_cv_mindelo.html>Mindelo</a></nobr><br><nobr><a href=http://channels.nl/cities_cv.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Cape Verde</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cf.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_cf_bangui.html>Bangui</a></nobr><br><nobr><a href=http://channels.nl/cities_cf.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Central African Republic</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_td.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_td_djamena.html>Djamena</a></nobr><br><nobr><a href=http://channels.nl/cities_td.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Chad</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cd.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_cd_kinshasa.html>Kinshasa</a></nobr><br><nobr><a href=http://channels.nl/cities_cd.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Congo</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cg.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_cg_brazzaville.html>Brazzaville</a></nobr><br><nobr><a href=http://channels.nl/cities_cg.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Congo Democratic Republic</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_dj.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_dj_djibouti.html>Djibouti</a></nobr><br><nobr><a href=http://channels.nl/cities_dj.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Djibouti</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gq.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_gq_ciudad_de_malabo.html>Ciudad de Malabo</a></nobr><br><nobr><a href=http://channels.nl/cities_gq.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Equatorial Guinea</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_er.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_er_asmara.html>Asmara</a></nobr><br><nobr><a href=http://channels.nl/cities_er.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Eritrea</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_et.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_et_addis_ababa.html>Addis Ababa</a></nobr><br><nobr><a href=http://channels.nl/cities_et.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Ethiopia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ga.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ga_libreville.html>Libreville</a></nobr><br><nobr><a href=http://channels.nl/cities_ga.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Gabon</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gm.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_gm_banjul.html>Banjul</a></nobr><br><nobr><a href=http://channels.nl/cities_gm.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Gambia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gh.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_gh_accra.html>Accra</a></nobr><br><nobr><a href=http://channels.nl/cities_gh.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Ghana</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gn.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_gn_conakry.html>Conakry</a></nobr><br><nobr><a href=http://channels.nl/cities_gn.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Guinea</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gw.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_gw_bissau.html>Bissau</a></nobr><br><nobr><a href=http://channels.nl/cities_gw.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Guinea Bissau</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ci.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ci_abidjan.html>Abidjan</a></nobr><br><nobr><a href=http://channels.nl/cities_ci.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Ivory cost</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ke.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ke_nairobi.html>Nairobi</a></nobr><br><nobr><a href=http://channels.nl/cities_ke.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Kenya</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ls.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ls_maseru.html>Maseru</a></nobr><br><nobr><a href=http://channels.nl/cities_ls.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Lesotho</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ly.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ly_tripoli.html>Tripoli</a></nobr><br><nobr><a href=http://channels.nl/cities_ly.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Libya</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_mg.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mg_antananarivo.html>Antananarivo</a></nobr><br><nobr><a href=http://channels.nl/cities_mg.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Madagascar</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mw.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mw_blantyre.html>Blantyre</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mw_lilongwe.html>Lilongwe</a></nobr><br><nobr><a href=http://channels.nl/cities_mw.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Malawi</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mv.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mv_alifu_atoll.html>Alifu Atoll</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mv_male.html>Male</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mv_kaafu_atoll.html>Kaafu Atoll</a></nobr><br><nobr><a href=http://channels.nl/cities_mv.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Maldives</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ml.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ml_bamako.html>Bamako</a></nobr><br><nobr><a href=http://channels.nl/cities_ml.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Mali</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mr.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mr_nouakchott.html>Nouakchott</a></nobr><br><nobr><a href=http://channels.nl/cities_mr.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Mauritania</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mu.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mu_bel_ombre.html>Bel Ombre</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mu_grand_baie.html>Grand Baie</a></nobr><br><nobr><a href=http://channels.nl/cities_mu.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Mauritius</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ma.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ma_agadir.html>Agadir</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ma_casablanca.html>Casablanca</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ma_marrakech.html>Marrakech</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ma_rabat.html>Rabat</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ma_tanger.html>Tanger</a></nobr><br><nobr><a href=http://channels.nl/cities_ma.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Morocco</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mz.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mz_maputo.html>Maputo</a></nobr><br><nobr><a href=http://channels.nl/cities_mz.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Mozambique</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_na.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_na_windhoek.html>Windhoek</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_na_swakopmund.html>Swakopmund</a></nobr><br><nobr><a href=http://channels.nl/cities_na.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Namibia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ng.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ng_lagos.html>Lagos</a></nobr><br><nobr><a href=http://channels.nl/cities_ng.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Nigeria</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mp.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_mp_saipan.html>Saipan</a></nobr><br><nobr><a href=http://channels.nl/cities_mp.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Northern Marianas</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_re.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_re_saint_denis.html>Saint Denis</a></nobr><br><nobr><a href=http://channels.nl/cities_re.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Reunion</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_sn.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_sn_dakar.html>Dakar</a></nobr><br><nobr><a href=http://channels.nl/cities_sn.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Senegal</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_sc.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_sc_mahe.html>Mahe</a></nobr><br><nobr><a href=http://channels.nl/cities_sc.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Seychelles</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_za.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_za_cape_town.html>Cape Town</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_za_durban.html>Durban</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_za_johannesburg.html>Johannesburg</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_za_port_elizabeth.html>Port Elizabeth</a></nobr><br><nobr><a href=http://channels.nl/cities_za.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		South Africa</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_tz.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_tz_dar_es_salaam.html>Dar es Salaam</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tz_zanzibar_city.html>Zanzibar City</a></nobr><br><nobr><a href=http://channels.nl/cities_tz.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Tanzania</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_tg.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_tg_lome.html>Lome</a></nobr><br><nobr><a href=http://channels.nl/cities_tg.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Togo</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_to.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_to_nukualofa.html>Nukualofa</a></nobr><br><nobr><a href=http://channels.nl/cities_to.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Tonga</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_tn.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_tn_hammamet.html>Hammamet</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tn_monastir.html>Monastir</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tn_tunis.html>Tunis</a></nobr><br><nobr><a href=http://channels.nl/cities_tn.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Tunisia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ug.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_ug_kampala.html>Kampala</a></nobr><br><nobr><a href=http://channels.nl/cities_ug.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Uganda</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_zm.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_zm_livingstone.html>Livingstone</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_zm_lusaka.html>Lusaka</a></nobr><br><nobr><a href=http://channels.nl/cities_zm.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Zambia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_zw.html" onmouseover="MouseOver('p1',this,' <nobr><a href=http://channels.nl/hotel_index_zw_harare.html>Harare</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_zw_victoria_falls.html>Victoria Falls</a></nobr><br><nobr><a href=http://channels.nl/cities_zw.html><b>All Cities</b></a></nobr><br>');">
+				         	   	
+				         	   			
+				         	   		Zimbabwe</a></div>
+
+																						</div>
+					           </div>
+					         </div>
+					        </div>
+				     	 	<br>
+				     	 	</div></div>
+				    </div>
+ 	  
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_americas.html" onmouseover="popout(0)" onmouseout="popin()">Americas</a>
+     	   <div id="b2" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b2');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p2" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_ai.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ai_the_valley.html>The Valley</a></nobr><br><nobr><a href=http://channels.nl/cities_ai.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Anguilla</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ar.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ar_buenos_aires.html>Buenos Aires</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ar_mendoza.html>Mendoza</a></nobr><br><nobr><a href=http://channels.nl/cities_ar.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Argentina</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bs.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_bs_harbour_island.html>Harbour Island</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bs_nassau.html>Nassau</a></nobr><br><nobr><a href=http://channels.nl/cities_bs.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bahamas</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bz.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_bz_san_pedro.html>San Pedro</a></nobr><br><nobr><a href=http://channels.nl/cities_bz.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Belize</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bm.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_bm_hamilton.html>Hamilton</a></nobr><br><nobr><a href=http://channels.nl/cities_bm.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bermuda</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bo.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_bo_la_paz.html>La Paz</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bo_santa_cruz.html>Santa Cruz</a></nobr><br><nobr><a href=http://channels.nl/cities_bo.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bolivia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_br.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_br_fortaleza.html>Fortaleza</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_br_rio_de_janeiro.html>Rio de Janeiro</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_br_salvador.html>Salvador</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_br_sao_paulo.html>Sao Paulo</a></nobr><br><nobr><a href=http://channels.nl/cities_br.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Brazil</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ca.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ca_calgary.html>Calgary</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ca_montreal.html>Montréal</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ca_quebec.html>Quebec</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ca_niagara_falls.html>Niagara Falls</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ca_toronto.html>Toronto</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ca_vancouver.html>Vancouver</a></nobr><br><nobr><a href=http://channels.nl/cities_ca.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Canada</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_cl.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_cl_santiago.html>Santiago</a></nobr><br><nobr><a href=http://channels.nl/cities_cl.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Chile</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_co.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_co_barranquilla.html>Barranquilla</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_co_bogota.html>Bogotá</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_co_cali.html>Cali</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_co_cartagena_de_indias.html>Cartagena de Indias</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_co_medellin.html>Medellín</a></nobr><br><nobr><a href=http://channels.nl/cities_co.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Colombia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cr.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_cr_alajuela.html>Alajuela</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cr_san_jose.html>San José</a></nobr><br><nobr><a href=http://channels.nl/cities_cr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Costa Rica</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ec.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ec_guayaquil.html>Guayaquil</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ec_quito.html>Quito</a></nobr><br><nobr><a href=http://channels.nl/cities_ec.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Ecuador</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_sv.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_sv_san_salvador.html>San Salvador</a></nobr><br><nobr><a href=http://channels.nl/cities_sv.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		El Salvador</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_fk.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_fk_stanley.html>Stanley</a></nobr><br><nobr><a href=http://channels.nl/cities_fk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Falkland Islands</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gf.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_gf_cayenne.html>Cayenne</a></nobr><br><nobr><a href=http://channels.nl/cities_gf.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		French Guyana</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gt.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_gt_guatemala_city.html>Guatemala City</a></nobr><br><nobr><a href=http://channels.nl/cities_gt.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Guatemala</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_gy.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_gy_georgetown.html>Georgetown</a></nobr><br><nobr><a href=http://channels.nl/cities_gy.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Guyana</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ht.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ht_port_au_prince.html>Port au Prince</a></nobr><br><nobr><a href=http://channels.nl/cities_ht.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Haiti</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_hn.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_hn_san_pedro_sula.html>San Pedro Sula</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_hn_tegucigalpa.html>Tegucigalpa</a></nobr><br><nobr><a href=http://channels.nl/cities_hn.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Honduras</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mx.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_mx_acapulco.html>Acapulco</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mx_cancun.html>Cancún</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mx_mexico_city.html>Mexico City</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mx_monterrey.html>Monterrey</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mx_puerto_vallarta.html>Puerto Vallarta</a></nobr><br><nobr><a href=http://channels.nl/cities_mx.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Mexico</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ms.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ms_woodlands.html>Woodlands</a></nobr><br><nobr><a href=http://channels.nl/cities_ms.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Montserrat</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ni.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ni_managua.html>Managua</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ni_granada.html>Granada</a></nobr><br><nobr><a href=http://channels.nl/cities_ni.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Nicaragua</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_pa.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_pa_panama_city.html>Panama City</a></nobr><br><nobr><a href=http://channels.nl/cities_pa.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Panama</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_py.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_py_asuncion.html>Asunción</a></nobr><br><nobr><a href=http://channels.nl/cities_py.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Paraguay</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_pe.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_pe_arequipa.html>Arequipa</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pe_cusco.html>Cusco</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pe_lima.html>Lima</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pe_puno.html>Puno</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pe_urubamba.html>Urubamba</a></nobr><br><nobr><a href=http://channels.nl/cities_pe.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Peru</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_kn.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_kn_charlestown.html>Charlestown</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kn_frigate_bay.html>Frigate Bay</a></nobr><br><nobr><a href=http://channels.nl/cities_kn.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		St. Kitts &amp; Nevis</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_sr.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_sr_paramaribo.html>Paramaribo</a></nobr><br><nobr><a href=http://channels.nl/cities_sr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Suriname</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_uy.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_uy_montevideo.html>Montevideo</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_uy_punta_del_este.html>Punta del Este</a></nobr><br><nobr><a href=http://channels.nl/cities_uy.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Uruguay</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_us.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_us_chicago.html>Chicago</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_us_las_vegas.html>Las Vegas</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_us_los_angeles.html>Los Angeles</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_us_new_york.html>New York</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_us_miami.html>Miami</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_us_san_francisco.html>San Francisco</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_us_washington.html>Washington</a></nobr><br><nobr><a href=http://channels.nl/cities_us.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		USA</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ve.html" onmouseover="MouseOver('p2',this,' <nobr><a href=http://channels.nl/hotel_index_ve_caracas.html>Caracas</a></nobr><br><nobr><a href=http://channels.nl/cities_ve.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Venezuela</a></div>
+
+																						</div>
+					         </div>
+					       </div>
+					     </div>
+				     		 <br>
+				     	 	</div></div>
+				    </div>
+
+
+ 	  
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_asia.html" onmouseover="popout(0)" onmouseout="popin()">Asia</a>
+     	   <div id="b3" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b3');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p3" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_am.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_am_yerevan.html>Yerevan</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_am_tsaghkadzor.html>Tsaghkadzor</a></nobr><br><nobr><a href=http://channels.nl/cities_am.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Armenia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_az.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_az_baku.html>Baku</a></nobr><br><nobr><a href=http://channels.nl/cities_az.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Azerbaijan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bd.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_bd_dhaka.html>Dhaka</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bd_chittagong.html>Chittagong</a></nobr><br><nobr><a href=http://channels.nl/cities_bd.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bangladesh</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mm.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_mm_myanmar.html>Myanmar</a></nobr><br><nobr><a href=http://channels.nl/cities_mm.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Birma</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bn.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_bn_bandar.html>Bandar</a></nobr><br><nobr><a href=http://channels.nl/cities_bn.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Brunei</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_kh.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_kh_phnom_penh.html>Phnom Penh</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kh_siem_reap.html>Siem Reap</a></nobr><br><nobr><a href=http://channels.nl/cities_kh.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Cambodia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cn.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_cn_beijing.html>Beijing</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cn_guangzhou.html>Guangzhou</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cn_shenzhen.html>Shenzhen</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cn_shanghai.html>Shanghai</a></nobr><br><nobr><a href=http://channels.nl/cities_cn.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		China</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_ge.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_ge_tbilisi.html>Tbilisi</a></nobr><br><nobr><a href=http://channels.nl/cities_ge.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Georgia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_hk.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_hk_hong_kong.html>Hong Kong</a></nobr><br><nobr><a href=http://channels.nl/cities_hk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Hong Kong</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_in.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_in_new_delhi.html>New Delhi</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_in_mumbai.html>Mumbai</a></nobr><br><nobr><a href=http://channels.nl/cities_in.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		India</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_id.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_id_jakarta.html>Jakarta</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_id_yogyakarta.html>Yogyakarta</a></nobr><br><nobr><a href=http://channels.nl/cities_id.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Indonesia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_jp.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_jp_kanazawa.html>Kanazawa</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jp_kyoto.html>Kyoto</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jp_osaka.html>Ōsaka</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jp_tokyo.html>Tokyo</a></nobr><br><nobr><a href=http://channels.nl/cities_jp.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Japan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_kz.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_kz_almaty.html>Almaty</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kz_astana.html>Astana</a></nobr><br><nobr><a href=http://channels.nl/cities_kz.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Kazakhstan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_kg.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_kg_bishkek.html>Bishkek</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kg_karakol.html>Karakol</a></nobr><br><nobr><a href=http://channels.nl/cities_kg.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Kyrgyzstan</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_la.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_la_vientiane.html>Vientiane</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_la_vang_vieng.html>Vang Vieng</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_la_luang_prabang.html>Luang Prabang</a></nobr><br><nobr><a href=http://channels.nl/cities_la.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Laos</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mo.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_mo_macau.html>Macau</a></nobr><br><nobr><a href=http://channels.nl/cities_mo.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Macau</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_my.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_my_kuala_lumpur.html>Kuala Lumpur</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_my_melaka.html>Melaka</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_my_kuching.html>Kuching</a></nobr><br><nobr><a href=http://channels.nl/cities_my.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Malaysia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mn.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_mn_ulaanbaatar.html>Ulaanbaatar</a></nobr><br><nobr><a href=http://channels.nl/cities_mn.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Mongolia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_np.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_np_kathmandu.html>Kathmandu</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_np_pokhara.html>Pokhara</a></nobr><br><nobr><a href=http://channels.nl/cities_np.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Nepal</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ph.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_ph_boracay.html>Boracay</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ph_cebu.html>Cebu</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ph_makati.html>Makati</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ph_manila.html>Manila</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ph_quezon_city.html>Quezon City</a></nobr><br><nobr><a href=http://channels.nl/cities_ph.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Philippines</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_sg.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_sg_singapore.html>Singapore</a></nobr><br><nobr><a href=http://channels.nl/cities_sg.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Singapore</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_kr.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_kr_busan.html>Busan</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kr_gyeongju.html>Gyeongju</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kr_incheon.html>Incheon</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_kr_seoul.html>Seoul</a></nobr><br><nobr><a href=http://channels.nl/cities_kr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		South Korea</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_lk.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_lk_colombo.html>Colombo</a></nobr><br><nobr><a href=http://channels.nl/cities_lk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Sri Lanka</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_tw.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_tw_taipei.html>Taipei</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tw_kaohsiung.html>Kaohsiung</a></nobr><br><nobr><a href=http://channels.nl/cities_tw.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Taiwan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_th.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_th_bangkok.html>Bangkok</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_th_phuket.html>Phuket</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_th_chiang_mai.html>Chiang Mai</a></nobr><br><nobr><a href=http://channels.nl/cities_th.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Thailand</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_uz.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_uz_tashkent.html>Tashkent</a></nobr><br><nobr><a href=http://channels.nl/cities_uz.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Uzbekistan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_vn.html" onmouseover="MouseOver('p3',this,' <nobr><a href=http://channels.nl/hotel_index_vn_ho_chi_minh_city.html>Ho Chi Minh City (saigon)</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_vn_hanoi.html>Hanoi</a></nobr><br><nobr><a href=http://channels.nl/cities_vn.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Vietnam</a></div>
+
+											 			         			</div>
+					         </div>
+					       </div>
+					     </div>
+                <br>	
+				     	 	</div></div>
+				    </div>
+
+ 	  
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_europe.html" onmouseover="popout(0)" onmouseout="popin()">Europe</a>
+     	   <div id="b4" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b4');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p4" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_al.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_al_tirana.html>Tirana</a></nobr><br><nobr><a href=http://channels.nl/cities_al.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Albania</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ad.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ad_andorra_la_vella.html>Andorra la Vella</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ad_arinsal.html>Arinsal</a></nobr><br><nobr><a href=http://channels.nl/cities_ad.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Andorra</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_at.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_at_graz.html>Graz</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_at_innsbruck.html>Innsbruck</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_at_linz.html>Linz</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_at_salzburg.html>Salzburg</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_at_vienna.html>Vienna</a></nobr><br><nobr><a href=http://channels.nl/cities_at.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Austria</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_by.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_by_minsk.html>Minsk</a></nobr><br><nobr><a href=http://channels.nl/cities_by.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Belarus</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_be.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_be_antwerp.html>Antwerp</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_be_brussels.html>Brussels</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_be_bruges.html>Bruges</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_be_gent.html>Gent</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_be_oostende.html>Oostende</a></nobr><br><nobr><a href=http://channels.nl/cities_be.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Belgium</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ba.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ba_mostar.html>Mostar</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ba_sarajevo.html>Sarajevo</a></nobr><br><nobr><a href=http://channels.nl/cities_ba.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bosnia and Herzegovina</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bg.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_bg_bansko.html>Bansko</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bg_sofia.html>Sofia</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bg_varna.html>Varna</a></nobr><br><nobr><a href=http://channels.nl/cities_bg.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bulgaria</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_hr.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_hr_dubrovnik.html>Dubrovnik</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_hr_split.html>Split</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_hr_zagreb.html>Zagreb</a></nobr><br><nobr><a href=http://channels.nl/cities_hr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Croatia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cy.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_cy_ayia_napa.html>Ayia Napa</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cy_paphos.html>Paphos</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cy_larnaca.html>Larnaca</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cy_limassol.html>Limassol</a></nobr><br><nobr><a href=http://channels.nl/cities_cy.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Cyprus</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cz.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_cz_brno.html>Brno</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_cz_prague.html>Prague</a></nobr><br><nobr><a href=http://channels.nl/cities_cz.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Czech Republic</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_dk.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_dk_copenhagen.html>Copenhagen</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_dk_odense.html>Odense</a></nobr><br><nobr><a href=http://channels.nl/cities_dk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Denmark</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_ee.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ee_tallinn.html>Tallinn</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ee_tartu.html>Tartu</a></nobr><br><nobr><a href=http://channels.nl/cities_ee.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Estonia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_fi.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_fi_espoo.html>Espoo</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fi_helsinki.html>Helsinki</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fi_turku.html>Turku</a></nobr><br><nobr><a href=http://channels.nl/cities_fi.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Finland</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_fr.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_fr_cannes.html>Cannes</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fr_lyon.html>Lyon</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fr_marseille.html>Marseille</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fr_nice.html>Nice</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fr_paris.html>Paris</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fr_strasbourg.html>Strasbourg</a></nobr><br><nobr><a href=http://channels.nl/cities_fr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		France</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_de.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_de_berlin.html>Berlin</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_de_cologne.html>Cologne</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_de_dusseldorf.html>Düsseldorf</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_de_hamburg.html>Hamburg</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_de_hannover.html>Hannover</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_de_frankfurt.html>Frankfurt</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_de_munich.html>Munich</a></nobr><br><nobr><a href=http://channels.nl/cities_de.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Germany</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gr.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_gr_athens.html>Athens</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gr_corfu.html>Corfu</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gr_rhodes.html>Rhodes</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gr_thessaloniki.html>Thessaloníki</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gr_zakynthos.html>Zákynthos</a></nobr><br><nobr><a href=http://channels.nl/cities_gr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Greece</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_hu.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_hu_budapest.html>Budapest</a></nobr><br><nobr><a href=http://channels.nl/cities_hu.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Hungary</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_is.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_is_keflavik.html>Keflavík</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_is_reykjavik.html>Reykjavík</a></nobr><br><nobr><a href=http://channels.nl/cities_is.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Iceland</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ie.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ie_cork.html>Cork</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ie_dublin.html>Dublin</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ie_galway.html>Galway</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ie_limerick.html>Limerick</a></nobr><br><nobr><a href=http://channels.nl/cities_ie.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Ireland</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_it.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_it_milan.html>Milan</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_it_florence.html>Florence</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_it_napoli.html>Napoli</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_it_rome.html>Rome</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_it_venice.html>Venice</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_it_sorrento.html>Sorrento</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_it_turin.html>Turin</a></nobr><br><nobr><a href=http://channels.nl/cities_it.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Italy</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_lv.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_lv_riga.html>Rīga</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_lv_liepaja.html>Liepāja</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_lv_sigulda.html>Sigulda</a></nobr><br><nobr><a href=http://channels.nl/cities_lv.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Latvia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_lt.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_lt_kaunas.html>Kaunas</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_lt_vilnius.html>Vilnius</a></nobr><br><nobr><a href=http://channels.nl/cities_lt.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Lithuania</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_lu.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_lu_luxembourg.html>Luxembourg</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_lu_vianden.html>Vianden</a></nobr><br><nobr><a href=http://channels.nl/cities_lu.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Luxembourg</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mk.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_mk_skopje.html>Skopje</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mk_ohrid.html>Ohrid</a></nobr><br><nobr><a href=http://channels.nl/cities_mk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Macedonia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mt.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_mt_sliema.html>Sliema</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_mt_saint_julians.html>Saint Julians</a></nobr><br><nobr><a href=http://channels.nl/cities_mt.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Malta</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_md.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_md_chisinau.html>Chişinău</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_md_tiraspol.html>Tiraspol</a></nobr><br><nobr><a href=http://channels.nl/cities_md.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Moldava</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mc.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_mc_monte_carlo.html>Monte Carlo</a></nobr><br><nobr><a href=http://channels.nl/cities_mc.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Monaco</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_me.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_me_bar.html>Bar</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_me_kotor.html>Kotor</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_me_podgorica.html>Podgorica</a></nobr><br><nobr><a href=http://channels.nl/cities_me.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Montenegro</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_nl.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_nl_amsterdam.html>Amsterdam</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nl_maastricht.html>Maastricht</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nl_rotterdam.html>Rotterdam</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nl_utrecht.html>Utrecht</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nl_scheveningen.html>Scheveningen</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nl_the_hague.html>The Hague</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nl_valkenburg.html>Valkenburg</a></nobr><br><nobr><a href=http://channels.nl/cities_nl.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Netherlands</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_no.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_no_bergen.html>Bergen</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_no_lillehammer.html>Lillehammer</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_no_oslo.html>Oslo</a></nobr><br><nobr><a href=http://channels.nl/cities_no.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Norway</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_pl.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_pl_krakow.html>Kraków</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pl_gdansk.html>Gdańsk</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pl_poznan.html>Poznań</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pl_warsaw.html>Warsaw</a></nobr><br><nobr><a href=http://channels.nl/cities_pl.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Poland</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_pt.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_pt_albufeira.html>Albufeira</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pt_faro.html>Faro</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pt_funchal.html>Funchal</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pt_lisbon.html>Lisbon</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pt_porto.html>Porto</a></nobr><br><nobr><a href=http://channels.nl/cities_pt.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Portugal</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ro.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ro_bucharest.html>Bucharest</a></nobr><br><nobr><a href=http://channels.nl/cities_ro.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Romania</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_ru.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ru_kazan.html>Kazan</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_moscow.html>Moscow</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_nizny_novgorod.html>Nizny Novgorod</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_novosibirsk.html>Novosibirsk</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_omsk.html>Omsk</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_saint_petersburg.html>Saint Petersburg</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_vladivostok.html>Vladivostok</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ru_yekaterinburg.html>Yekaterinburg</a></nobr><br><nobr><a href=http://channels.nl/cities_ru.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Russia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_rs.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_rs_belgrade.html>Belgrade</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_rs_novi_sad.html>Novi Sad</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_rs_zlatibor.html>Zlatibor</a></nobr><br><nobr><a href=http://channels.nl/cities_rs.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Serbia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_sk.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_sk_bratislava.html>Bratislava</a></nobr><br><nobr><a href=http://channels.nl/cities_sk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Slovakia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_si.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_si_ljubljana.html>Ljubljana</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_si_portoroz.html>Portorož</a></nobr><br><nobr><a href=http://channels.nl/cities_si.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Slovenia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_es.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_es_alicante.html>Alicante</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_es_barcelona.html>Barcelona</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_es_granada.html>Granada</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_es_madrid.html>Madrid</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_es_seville.html>Seville</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_es_valencia.html>Valencia</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_es_zaragoza.html>Zaragoza</a></nobr><br><nobr><a href=http://channels.nl/cities_es.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Spain</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_se.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_se_stockholm.html>Stockholm</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_se_goteborg.html>Göteborg</a></nobr><br><nobr><a href=http://channels.nl/cities_se.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Sweden</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ch.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ch_basel.html>Basel</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ch_bern.html>Bern</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ch_geneva.html>Geneva</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ch_lausanne.html>Lausanne</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ch_lugano.html>Lugano</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ch_zurich.html>Zürich</a></nobr><br><nobr><a href=http://channels.nl/cities_ch.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Switzerland</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_tr.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_tr_ankara.html>Ankara</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tr_alanya.html>Alanya</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tr_bodrum.html>Bodrum</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tr_istanbul.html>Istanbul</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tr_izmir.html>Izmir</a></nobr><br><nobr><a href=http://channels.nl/cities_tr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Turkey</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ua.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_ua_kiev.html>Kiev</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ua_odessa.html>Odessa</a></nobr><br><nobr><a href=http://channels.nl/cities_ua.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Ukraine</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gb.html" onmouseover="MouseOver('p4',this,' <nobr><a href=http://channels.nl/hotel_index_gb_edinburgh.html>Edinburgh</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gb_glasgow.html>Glasgow</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gb_london.html>London</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gb_liverpool.html>Liverpool</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gb_manchester.html>Manchester</a></nobr><br><nobr><a href=http://channels.nl/cities_gb.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		United Kingdom</a></div>
+
+															         			</div>
+					         </div>
+					       </div>
+					     </div>
+                <br>
+				     	 	</div></div>
+				    </div>
+
+
+
+ 	  
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_caribbean.html" onmouseover="popout(0)" onmouseout="popin()">Caribbean</a>
+     	   <div id="b5" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b5');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p5" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_ag.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_ag_antigua.html>Antigua</a></nobr><br><nobr><a href=http://channels.nl/cities_ag.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Antigua &amp; Barbuda</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_aw.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_aw_oranjestad.html>Oranjestad</a></nobr><br><nobr><a href=http://channels.nl/cities_aw.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Aruba</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bb.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_bb_bridgetown.html>Bridgetown</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bb_christ_church.html>Christ Church</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bb_saint_james.html>Saint James</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bb_saint_peter.html>Saint Peter</a></nobr><br><nobr><a href=http://channels.nl/cities_bb.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Barbados</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_bq.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_bq_kralendijk.html>Kralendijk</a></nobr><br><nobr><a href=http://channels.nl/cities_bq.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bonaire</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_vg.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_vg_tortola.html>Tortola</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_vg_virgin_gorda.html>Virgin Gorda</a></nobr><br><nobr><a href=http://channels.nl/cities_vg.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		British Virgin Islands</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_ky.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_ky_grand_cayman.html>Grand Cayman</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ky_george_town.html>George Town</a></nobr><br><nobr><a href=http://channels.nl/cities_ky.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Cayman Islands</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_cw.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_cw_willemstad.html>Willemstad</a></nobr><br><nobr><a href=http://channels.nl/cities_cw.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Curacao</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_dm.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_dm_roseau.html>Roseau</a></nobr><br><nobr><a href=http://channels.nl/cities_dm.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Dominica</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_do.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_do_bavaro.html>Bávaro</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_do_punta_cana.html>Punta Cana</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_do_santo_domingo.html>Santo Domingo</a></nobr><br><nobr><a href=http://channels.nl/cities_do.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Dominican Republic</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_gd.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_gd_saint_george.html>Saint George</a></nobr><br><nobr><a href=http://channels.nl/cities_gd.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Grenada</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_gp.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_gp_saint_francois.html>Saint Francois</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_gp_le_gosier.html>Le Gosier</a></nobr><br><nobr><a href=http://channels.nl/cities_gp.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Guadeloupe</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_jm.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_jm_kingston.html>Kingston </a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jm_montego_bay.html>Montego Bay</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jm_negril.html>Negril</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jm_ocho_rios.html>Ocho Rios</a></nobr><br><nobr><a href=http://channels.nl/cities_jm.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Jamaica</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_mq.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_mq_le_diamant.html>Le Diamant</a></nobr><br><nobr><a href=http://channels.nl/cities_mq.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Martinique</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_pr.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_pr_san_juan.html>San Juan</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pr_rincon.html>Rincon</a></nobr><br><nobr><a href=http://channels.nl/cities_pr.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Puerto Rico</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_lc.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_lc_castries.html>Castries</a></nobr><br><nobr><a href=http://channels.nl/cities_lc.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		St. Lucia</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_tt.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_tt_port_of_spain.html>Port of Spain</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_tt_scarborough.html>Scarborough</a></nobr><br><nobr><a href=http://channels.nl/cities_tt.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Trinidad &amp; Tobago</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_tc.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_tc_providenciales.html>Providenciales</a></nobr><br><nobr><a href=http://channels.nl/cities_tc.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Turks and Caicos Islands</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_vi.html" onmouseover="MouseOver('p5',this,' <nobr><a href=http://channels.nl/hotel_index_vi_saint_croix.html>Saint Croix</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_vi_saint_john.html>Saint John</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_vi_saint_thomas.html>Saint Thomas</a></nobr><br><nobr><a href=http://channels.nl/cities_vi.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Virgin Islands</a></div>
+
+											 			         			</div>
+					         </div>
+					       </div>
+					     </div>
+	              <br>
+	              </div></div>
+				    </div>
+
+
+
+
+
+ 	  
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_middle_east.html" onmouseover="popout(0)" onmouseout="popin()">Middle east</a>
+     	   <div id="b6" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b6');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p6" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_bh.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_bh_juffair.html>Juffair</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_bh_manama.html>Manama</a></nobr><br><nobr><a href=http://channels.nl/cities_bh.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Bahrain</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_eg.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_eg_alexandria.html>Alexandria</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_eg_cairo.html>Cairo</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_eg_sharm_el_sheikh.html>Sharm El Sheikh</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_eg_luxor.html>Luxor</a></nobr><br><nobr><a href=http://channels.nl/cities_eg.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Egypt</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ir.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_ir_tehran.html>Tehran</a></nobr><br><nobr><a href=http://channels.nl/cities_ir.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Iran</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_iq.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_iq_baghdad.html>Baghdād</a></nobr><br><nobr><a href=http://channels.nl/cities_iq.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Iraq</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_il.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_il_eilat.html>Eilat</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_il_haifa.html>Haifa</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_il_jerusalem.html>Jerusalem</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_il_tel_aviv.html>Tel Aviv</a></nobr><br><nobr><a href=http://channels.nl/cities_il.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Israel</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_jo.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_jo_amman.html>Amman</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_jo_petra.html>Pétra</a></nobr><br><nobr><a href=http://channels.nl/cities_jo.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Jordan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_kw.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_kw_kuwait.html>Kuwait</a></nobr><br><nobr><a href=http://channels.nl/cities_kw.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Kuwait</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_lb.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_lb_beirut.html>Beirut</a></nobr><br><nobr><a href=http://channels.nl/cities_lb.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Lebanon</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_om.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_om_muscat.html>Muscat</a></nobr><br><nobr><a href=http://channels.nl/cities_om.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Oman</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_pk.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_pk_islamabad.html>Islamabad</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pk_karachi.html>Karāchi</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pk_lahore.html>Lahore</a></nobr><br><nobr><a href=http://channels.nl/cities_pk.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Pakistan</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ps.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_ps_bethlehem.html>Bethlehem</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ps_jericho.html>Jericho</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ps_ramallah.html>Ramallah</a></nobr><br><nobr><a href=http://channels.nl/cities_ps.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Palestine</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_qa.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_qa_doha.html>Doha</a></nobr><br><nobr><a href=http://channels.nl/cities_qa.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Qatar</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_sa.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_sa_jeddah.html>Jeddah</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_sa_mecca.html>Mecca</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_sa_riyadh.html>Riyadh</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_sa_medina.html>Medina</a></nobr><br><nobr><a href=http://channels.nl/cities_sa.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Saudi Arabia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ae.html" onmouseover="MouseOver('p6',this,' <nobr><a href=http://channels.nl/hotel_index_ae_abu_dhabi.html>Abu Dhabi</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ae_dubai.html>Dubai</a></nobr><br><nobr><a href=http://channels.nl/cities_ae.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		United Arab Emirates</a></div>
+
+											 			         			</div>
+					         </div>
+					       </div>
+					     </div>
+	             <br>
+				       	</div></div>
+				    </div>
+
+
+ 	  
+<div class="countryview"><div class="navbarpadding">
+				    <a class="buttonlinkcolor" href="http://channels.nl/index_pacific.html" onmouseover="popout(0)" onmouseout="popin()">Pacific</a>
+				    	<div id="b7" class="countryviewtext">
+				        <a href="#" class="xknop" onmouseover="hideall('b7');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+									<div class="row">
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p7" class="cities">country cities</div>
+				         	   
+				         	   <div class="landnaam"><a href="http://channels.nl/cities_au.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_au_adelaide.html>Adelaide</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_au_brisbane.html>Brisbane</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_au_melbourne.html>Melbourne</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_au_perth.html>Perth</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_au_sydney.html>Sydney</a></nobr><br><nobr><a href=http://channels.nl/cities_au.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Australia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ck.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_ck_arutunga.html>Arutunga</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_ck_rarotonga.html>Rarotonga</a></nobr><br><nobr><a href=http://channels.nl/cities_ck.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Cook Islands</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_fj.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_fj_nadi.html>Nadi</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fj_suva.html>Suva</a></nobr><br><nobr><a href=http://channels.nl/cities_fj.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Fiji</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_pf.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_pf_bora_bora.html>Bora Bora</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_pf_papeete.html>Papeete</a></nobr><br><nobr><a href=http://channels.nl/cities_pf.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		French Polynesia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_fm.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_fm_colonia.html>Colonia</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_fm_yepan.html>Yepan</a></nobr><br><nobr><a href=http://channels.nl/cities_fm.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Micronesia</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_nc.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_nc_noumea.html>Nouméa</a></nobr><br><nobr><a href=http://channels.nl/cities_nc.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		New Caledonia</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_nz.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_nz_auckland.html>Auckland</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nz_christchurch.html>Christchurch</a></nobr><br><nobr><a href=http://channels.nl/hotel_index_nz_wellington.html>Wellington</a></nobr><br><nobr><a href=http://channels.nl/cities_nz.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		New Zealand</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_pg.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_pg_port_moresby.html>Port Moresby</a></nobr><br><nobr><a href=http://channels.nl/cities_pg.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Papua new Guinea</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_ws.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_ws_apia.html>Apia</a></nobr><br><nobr><a href=http://channels.nl/cities_ws.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Samoa</a></div>
+
+											</div><div class="col-sm-3"><div class="landnaam"><a href="http://channels.nl/cities_sb.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_sb_honiara.html>Honiara</a></nobr><br><nobr><a href=http://channels.nl/cities_sb.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Solomon Islands</a></div>
+
+											<div class="landnaam"><a href="http://channels.nl/cities_vu.html" onmouseover="MouseOver('p7',this,' <nobr><a href=http://channels.nl/hotel_index_vu_port_vila.html>Port Vila</a></nobr><br><nobr><a href=http://channels.nl/cities_vu.html><b>All Cities</b></a></nobr><br> </div>');">
+				         	   			
+				         	   		Vanatu</a></div>
+
+															         			</div>
+					         </div>
+					       </div>
+					     </div>
+                <br>
+				     	 	</div></div>
+				    </div>
+
+
+
+     <div class="countryview"><div class="navbarpadding">
+     	<a class="buttonlinkcolor" href="http://channels.nl/cities_us.html" onmouseover="popout(1)" onmouseout="popin()">USA</a>
+     	   <div id="b8" class="countryviewtext">
+           <a href="#" class="xknop" onmouseover="hideall('b8');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+				        <div class="container-fluid"><br>
+
+									<div class="row">
+
+									 <div class="countrylinkcolor">
+  									<div class="col-sm-3">
+				         	        <div id="p8" class="cities">country cities</div>
+<a href="http://channels.nl/hotel_index_us_atlanta.html">Atlanta</a><br><a href="http://channels.nl/hotel_index_us_austin.html">Austin</a><br><a href="http://channels.nl/hotel_index_us_baltimore.html">Baltimore</a><br><a href="http://channels.nl/hotel_index_us_boston.html">Boston</a><br><a href="http://channels.nl/hotel_index_us_chicago.html">Chicago</a><br><a href="http://channels.nl/hotel_index_us_cleveland.html">Cleveland</a><br><a href="http://channels.nl/hotel_index_us_dallas.html">Dallas</a><br><a href="http://channels.nl/hotel_index_us_denver.html">Denver</a><br></div><div class="col-sm-3"><a href="http://channels.nl/hotel_index_us_detroit.html">Detroit</a><br><a href="http://channels.nl/hotel_index_us_hartford.html">Hartford</a><br><a href="http://channels.nl/hotel_index_us_houston.html">Houston</a><br><a href="http://channels.nl/hotel_index_us_kansas_city.html">Kansas City</a><br><a href="http://channels.nl/hotel_index_us_las_vegas.html">Las Vegas</a><br><a href="http://channels.nl/hotel_index_us_los_angeles.html">Los Angeles</a><br><a href="http://channels.nl/hotel_index_us_miami.html">Miami</a><br><a href="http://channels.nl/hotel_index_us_milwaukee.html">Milwaukee</a><br></div><div class="col-sm-3"><a href="http://channels.nl/hotel_index_us_minneapolis.html">Minneapolis</a><br><a href="http://channels.nl/hotel_index_us_new_york.html">New York</a><br><a href="http://channels.nl/hotel_index_us_philadelphia.html">Philadelphia</a><br><a href="http://channels.nl/hotel_index_us_phoenix.html">Phoenix</a><br><a href="http://channels.nl/hotel_index_us_pittsburgh.html">Pittsburgh</a><br><a href="http://channels.nl/hotel_index_us_portland.html">Portland</a><br><a href="http://channels.nl/hotel_index_us_sacramento.html">Sacramento</a><br><a href="http://channels.nl/hotel_index_us_salt_lake_city.html">Salt Lake City</a><br></div><div class="col-sm-3"><a href="http://channels.nl/hotel_index_us_san_antonio.html">San Antonio</a><br><a href="http://channels.nl/hotel_index_us_san_diego.html">San Diego</a><br><a href="http://channels.nl/hotel_index_us_san_francisco.html">San Francisco</a><br><a href="http://channels.nl/hotel_index_us_seattle.html">Seattle</a><br><a href="http://channels.nl/hotel_index_us_saint_louis.html">Saint Louis</a><br><a href="http://channels.nl/hotel_index_us_washington.html">Washington</a><br><br><b><a href="http://channels.nl/cities_us.html">All Cities</a></b><br>											
+
+				         			</div>
+					         </div>
+					       </div>
+					     </div>
+		            <br>
+				     	 	</div></div>
+				    </div>
+
+  
+
+
+<div class="countryview"><div class="navbarpadding">
+	<a class="buttonlinkcolor" href="http://channels.nl/airports_countries.html" onmouseover="popout(1)" onmouseout="popin()">Airports</a>
+	<div id="b9" class="countryviewtext">
+  <a href="#" class="xknop" onmouseover="hideall('b9');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+
+	<div id="airportcode">
+<div style="font-size:24px;text-align: center;"><br>
+Hotels nearby Airports
+<br><br><br><div style="font-size:15px;">Select the first letter of the country</div>
+<div id="airportlinkcolor">
+<a href="airports_countries_a.html">A</a>
+<a href="airports_countries_b.html">B</a>
+<a href="airports_countries_c.html">C</a>
+<a href="airports_countries_d.html">D</a>
+<a href="airports_countries_e.html">E</a>
+<a href="airports_countries_f.html">F</a>
+<a href="airports_countries_g.html">G</a>
+<a href="airports_countries_h.html">H</a>
+<a href="airports_countries_i.html">I</a>
+<a href="airports_countries_j.html">J</a>
+<a href="airports_countries_k.html">K</a>
+<a href="airports_countries_l.html">L</a>
+<a href="airports_countries_m.html">M</a>
+<a href="airports_countries_n.html">N</a>
+<a href="airports_countries_o.html">O</a>
+<a href="airports_countries_p.html">P</a>
+<a href="airports_countries_q.html">Q</a>
+<a href="airports_countries_r.html">R</a>
+<a href="airports_countries_s.html">S</a>
+<a href="airports_countries_t.html">T</a>
+<a href="airports_countries_u.html">U</a>
+<a href="airports_countries_v.html">V</a>
+<a href="airports_countries_w.html">W</a>
+<a href="airports_countries_x.html">X</a>
+<a href="airports_countries_y.html">Y</a>
+<a href="airports_countries_z.html">Z</a>
+</div>
+
+</div>
+
+<br>
+<script>
+
+function maakUrl()
+	{
+//Waarde uit de invulvelden halen
+
+		var x=document.airportCodeForm.airportcode.value.toLowerCase();
+		var y=document.airportCodeForm.taal.value.toLowerCase();
+
+//Kijk of er wel iets ingevuld is
+
+
+if (!x.match(/[A-Za-z]{3}/)) {
+				alert ('3 characters are required');
+				exit;
+							
+				}
+
+
+//Kijk of er een landencode is en maak de url
+
+		if (y.length>1)
+			{
+				deUrl=("http://channels.nl/airports_"+x+"-"+y+".html");
+			}else{
+				deUrl=("http://channels.nl/airports_"+x+".html");
+			}
+//ga naar de url
+
+	location=deUrl;
+}
+
+
+
+</script>
+
+<div style="text-align: center;">
+Or select the 3 letter airportcode<br>
+<form name="airportCodeForm" method="POST" action="nearby_hotels_airports.php" onsubmit="return false" ;="">
+
+<input name="airportcode" class="iinput2" style="color: #000000;width: 150px;padding: 2px 2px 2px 55px;" type="text" size="8" maxlength="3">
+<input type="hidden" name="taal" value="en">
+
+<input type="button" class="subbutton3" style="padding: 2px 5px;" value="Search" onclick="maakUrl()">
+</form>
+
+<br><br><br><br>
+ </div></div>
+
+	</div></div></div>
+
+
+<div class="countryview"><div class="navbarpadding">
+	<a class="buttonlinkcolor" href="http://channels.nl/more.php?taal=en" onmouseover="popout(1)" onmouseout="popin()">More..</a>
+	
+	<div id="b10" class="countryviewtext">
+		<a href="#" class="xknop" onmouseover="hideall('b10');"><img src="/ill/cancel.png" class="resize" alt="close"></a>
+	  <br><p class="centerme">
+	 	<a href="http://channels.nl/station_countries.html" class="myhotelsbutton">Stations</a>
+	  <a href="http://channels.nl/districtlist.php?taal=en" class="myhotelsbutton">Districts</a>
+	  <a href="http://channels.nl/top100.php?taal=en" class="myhotelsbutton">Top 100 Accomodations</a>
+    <a href="http://channels.nl/new.php?taal=en" class="myhotelsbutton">New Accomodations</a>
+    <a href="http://channels.nl/crazy.php?taal=en" class="myhotelsbutton">crazy Hotels</a>  
+    <a href="http://channels.nl/myhotels.php?taal=en" class="myhotelsbutton">My hotels</a><br>   	
+	  </p>
+	<br>
+
+</div></div></div>
+
+
+</div></nav>
+
+			
+<div id="datacontainer">
+
+
+
+<div id="inputbox">
+<form method="post" name="formulier" accept-charset="UTF-8" action="http://channels.nl/search.php">
+<input type="hidden" name="taal" value="en">
+<nobr><input type="text" name="searchcity" class="iinput" value="Type a city or name" onfocus="if (this.className=='iinput') { this.className = 'iinput2'; this.value = ''; searchboxtoggle(1);}" onblur="if (this.value == '') { this.className = 'iinput'; this.value = 'Type a city or name'; searchboxtoggle(0);}"> 
+<div id="sub2"><input type="submit" value="Search" class="subbutton"></div>
+<input type="hidden" name="searchnowcity" value="1">
+</nobr></form>
+</div>
+
+
+<div id="logosmall"></div>
+
+<div id="logo">
+<a href="http://channels.nl/index.html"><img src="http://channels.nl/ill/woh_logo2.gif" alt="logo" class="mmainlogo"></a></div>
+
 <center>
 <br>
 <h2>Channels privacy statement</h2>
@@ -54,4 +1406,84 @@ with this Web site, you can contact webmaster@channels.nl
 <br>
 </p></font></td>
 </tr></tbody></table>
-<br><br></center></body></html>
+<br><br>
+</center></div><br><br><br><br><br><br><br><br>
+<center>
+<div id="footer"><footer>
+<div class="container">
+<div class="row">          
+<div class="col-sm-4"><p class="white">
+		</p><table><tbody><tr><td align="left" width="150" cellpadding="0" cellspacing="0">
+		<a href="http://channels.nl/about.php" class="white">About Channels</a><br>
+		<a href="http://channels.nl/faq.php" class="white">FAQ</a><br>
+		<a href="http://channels.nl/privacy.php" class="white">Privacy</a><br><br>
+		
+		<p class="blue_text">Partner sites :<br>
+	  <a href="http://www.booking.com?aid=200006" target="_blank" class="white">Booking.com</a><br>
+	  <a href="http://stad.com" target="_blank" class="white">Stad.com</a><br>
+     <a href="http://worldofhotels.com" target="_blank" class="white">Worldofhotels.com</a>
+		
+		<!-- <a href=http://www.channels.nl/contact.html>Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+	  <a href=http://channels.nl/top100.php?taal=>Top 100 Hotels</a><br>
+    <a href=http://channels.nl/newhotels.php?taal=>New hotels</a> -->
+	  </p></td></tr></tbody></table>
+		</div>
+   
+    <div class="col-sm-4"><p class="white">
+	  </p><table><tbody><tr><td align="left" width="150">
+
+<script>
+	$(document).ready(function() {
+  $("#bookmarkme").click(function() {
+    if (window.sidebar) { // Mozilla Firefox Bookmark
+      window.sidebar.addPanel(location.href,document.title,"");
+    } 
+    else if(window.opera && window.print) { // Opera Hotlist
+      this.title=document.title;
+      return true;
+    }else {alert('To bookmark this page:\n\nWindows : Press Ctrl-D.\nApple : Click the Share button in the toolbar.\nIphone/Ipad press the arrow out of the square.');}
+  });
+});
+</script>
+
+   <a id="bookmarkme" class="white" href="#" rel="sidebar" title="Channels FAQ">Bookmark this Page</a><br><br>
+	 <a href="http://facebook.com/worldofhotels" target="_blank"><img src="http://www.channels.nl/ill/fblogo.png" width="29" height="29"></a>
+	 <!--<a href=http://twitter.com/worldofhotels  target=_blank><img src='http://www.channels.nl/ill/twitter.png' width=29 height=29></a>--><br><br>
+
+
+
+
+
+	  </td></tr></tbody></table>
+	</div>
+
+<div class="col-sm-4 naarbeneden">
+	<p class="white">
+	</p><div class="styled-select">
+  <form>
+	<select name="lang" onchange="location.href='http://channels.nl/privacy.php?' + this.options[this.selectedIndex].value;">
+	<option value=".html" selected="">Other languages</option>
+	<option value="">English</option>	
+  <option value="taal=da">Dansk</option>	
+	<option value="taal=de">Deutch</option>	
+	<option value="taal=el">Ελλάδα</option>	
+	<option value="taal=es">Español</option>	
+	<option value="taal=fr">Francais</option>	
+	<option value="taal=it">Italiano</option>	
+	<option value="taal=nl">Nederlands</option>	
+	<option value="taal=no">Norsk</option>	
+	<option value="taal=pl">Polski</option>	
+	<option value="taal=pt">Portugués</option>		
+  <option value="taal=ru">Русский</option>	
+  <option value="taal=fi">Suomi</option>	
+	<option value="taal=sv">Svenska</option>	
+	<option value="taal=ja">日本語</option>	
+	<option value="taal=zh">中文(简体)</option>		
+  <option value=""></option>	
+</select>		
+</form>
+</div>
+<nobr><a href="http://channels.nl/privacy.php?"><img src="http://channels.nl/ill/en_small_light.gif" width="14" height="11" alt="english"></a> <a href="http://channels.nl/privacy.php?taal=de"><img src="http://channels.nl/ill/de_small_light.gif" width="14" height="11" alt="Deutch"></a> <a href="http://channels.nl/privacy.php?taal=es"><img src="http://channels.nl/ill/es_small_light.gif" width="14" height="11" alt="Español"></a> <a href="http://channels.nl/privacy.php?taal=fr"><img src="http://channels.nl/ill/fr_small_light.gif" width="14" height="11" alt="Francais"></a> <a href="http://channels.nl/privacy.php?taal=nl"><img src="http://channels.nl/ill/nl_small_light.gif" width="14" height="11" alt="Nederlands"></a> <a href="http://channels.nl/privacy.php?taal=it"><img src="http://channels.nl/ill/it_small_light.gif" width="14" height="11" alt="Italiano"></a> <a href="http://channels.nl/privacy.php?taal=pt"><img src="http://channels.nl/ill/pt_small_light.gif" width="14" height="11" alt="Portugués"></a> <a href="http://channels.nl/privacy.php?taal=el"><img src="http://channels.nl/ill/el_small_light.png" width="14" height="11" alt="Ελλάδα"></a></nobr><br> <nobr><a href="http://channels.nl/privacy.php?taal=ru"><img src="http://channels.nl/ill/ru_small_light.gif" width="14" height="11" alt="Русский"></a> <a href="http://channels.nl/privacy.php?taal=sv"><img src="http://channels.nl/ill/sv_small_light.gif" width="14" height="11" alt="Svenska"></a> <a href="http://channels.nl/privacy.php?taal=fi"><img src="http://channels.nl/ill/fi_small_light.gif" width="14" height="11" alt="Suomi"></a> <a href="http://channels.nl/privacy.php?taal=pl"><img src="http://channels.nl/ill/pl_small_light.gif" width="14" height="11" alt="Polski"></a> <a href="http://channels.nl/privacy.php?taal=da"><img src="http://channels.nl/ill/da_small_light.png" width="14" height="11" alt="Dansk"></a> <a href="http://channels.nl/privacy.php?taal=no"><img src="http://channels.nl/ill/no_small_light.gif" width="14" height="11" alt="Norsk"></a> <a href="http://channels.nl/privacy.php?taal=ja"><img src="http://channels.nl/ill/jp_small_light.gif" width="14" height="11" alt="日本語"></a> <a href="http://channels.nl/privacy.php?taal=zh"><img src="http://channels.nl/ill/zh_small_light.gif" width="14" height="11" alt="中文(简体"></a></nobr><p></p></div></div></div>
+<div id="copyright">© Channels World of Hotels 1995 - 2017</div>
+</footer></div>
+</center></body></html>
