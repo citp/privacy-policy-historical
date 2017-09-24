@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationsforabetterworld.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520085945id_/http%3A//www.conversationsforabetterworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationsforabetterworld.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924091330id_/http%3A//www.conversationsforabetterworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy - Conversations For A Better World
 
