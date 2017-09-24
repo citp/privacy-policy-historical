@@ -1,74 +1,67 @@
-> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055036id_/http%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924154925id_/https%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Extreme Lead Program
 
-This is the web site of  **Extreme Lead Program .com / M &A Computer Services**.  We have a STRONG committment to your privacy and to protecting your information.
+## Privacy Policy
 
-Our postal address is:  
-**654 Sheep Rd., Ste 100  
-New Lebanon, OH, 45345**
+Welcome to https://www.extremeleadprogram.com (the ”Site”).We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Extreme Lead Program (collectively, ”Services”) (”Authorized Customers”).
 
-We can be reached via e-mail at support @ extremeleadprogram.com  
-or you can reach us by telephone at 937-687-8618
+”Personally Identifiable Information” 
 
-##  Who do we contact?
+Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-ExtremeLeadProgram.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products.
+What Personally Identifiable Information is collected? 
 
-##  What information do we collect?
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. We may use that information to contact you via email, phone or text and you can opt-out 0f that at any time.
 
-ExtremeLeadProgram.com collects information in two categories:
+What organizations are collecting the information? 
 
-**1\. Personally Identifiable Information (PII)**
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-* name and e-mail address - provided by you for registration to receive our free newsletters.
+How does the Site use Personally Identifiable Information?
 
-* name, postal address, phone and credit card information - provided by you when purchasing our products.
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-All such information is strictly protected and used only for delivering the content and products the user has signed up for or purchased. This information is NEVER used for other purposes and is NEVER shared with 3rd parties.
+With whom may the information may be shared?
 
-There is a single exception to this. Say you were subscribed to some newsletter such as "Inc. Magazine" and the editors ran a promotion of our site within it, and you followed over to our site, then subscribed to our newsletter, then at a later date you unsubscribed.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to ”opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-In that case, we have to provide back to "Inc. Magazine" your email address, so they can exclude you from our future mailings. No other information other than email address is provided and that email address is used ONLY to suppress our future emails to you. This scenario accounts for less than 1% of our newsletter subscribers.
+How is Personally Identifiable Information stored?
 
-**2\. Anonymous Usage History (non PII)**
+Personally Identifiable Information collected by Extreme Lead Program is securely stored and is not accessible to third parties or employees of Extreme Lead Program except for use as indicated above.
 
-This information is strictly limited to the history of activities that the user engaged in while on our site. it does NOT include any personally identifiable information (PII).
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
-We may set a cookie that will identify which only limited information such as date/time of visit, source of referring URL, etc.  We do not track any personal informatoin via cookie. We do utilize a Live Help Support System and google analytics, which may utilize cookies as well.  These also do not track any personal information.
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 654 Sheep Rd., Ste 100, New Lebanon, OH 45345
 
-There is a small subset of this history that we use with 3rd parties, such as Google, for the purpose of measuring and improving the efficacy of advertising campaigns.
+Are Cookies Used on the Site?
 
-Some of these third parties, aggregate such information across many websites. This allows them to identify users who are more likely to be interested in specific offerings like fashion, sports, education and so on.
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-You can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads) (Opens in new window). 
+How does Extreme Lead Program use login information? 
 
-As an Internet user, you may experience the results of such aggregation by noticing how the ads displayed on Yahoo, for example, better match your interests (the optimistic scenario), or at least more closely match a website that you recently visited.
+Extreme Lead Program uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-Whether you find this annoying and spooky or helpful and relevant, or perhaps both, you are in good company. This area of Internet advertising is new and controversial. The tradeoff between privacy vs. commercial efficiency has a long history, for example the "Do not call" list.
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-In any event, it is likely that either the government or the industry will adopt some form of "opt out" capability in the future to address these concerns.
+Extreme Lead Program has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-##  What are cookies/clear GIFs and how do we use them?
+How does the Site keep Personally Identifiable Information secure?
 
-**Cookies:** Like many other commercial sites, our site utilizes standard technologies called "cookies" and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer's hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a website recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the Personally Identifiable information.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-**Clear GIFs:** At times, we work with third-party service partners that employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit to help us measure advertising effectiveness. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information and only track the visitor traffic and behavior to and on our Site.
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Clear GIFs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear GIF, the website would match the clear GIFs identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We do, at times, provide such information to our third-party advertising service partners, but that information never includes personally identifiable information.
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@extremeleadprogram.com
 
-##  How do we store your email information?
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-Your email information (email address, first name) is stored at the list server that delivers ExtremeLeadProgram.com's newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive ExtremeLeadProgram.com's newsletters.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting us. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-All of the newsletters that are sent to you by ExtremeLeadProgram.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also unsubscribe yourself at any time by contacting us via the information at the top of this page.
+What happens if the Privacy Policy Changes?
 
-##  **With respect to security:**
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.  We do utilize a SSL Secured Order Form.
+Links:
 
-##  Disclaimer
-
-This policy may be changed at any time at ExtremeLeadProgram.com's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 22, 2011.
-
-If you have any questions or concerns regarding our privacy policy please contact us via the information at the top of this page.
+https://www.extremeleadprogram.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
