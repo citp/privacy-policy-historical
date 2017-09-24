@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewebdir.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627001352id_/http%3A//ewebdir.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebdir.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924082418id_/http%3A//www.ewebdir.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
