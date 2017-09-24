@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apvideohub.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524220407id_/http%3A//www.apvideohub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apvideohub.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924183723id_/http%3A//www.apvideohub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AP Video Hub
 
