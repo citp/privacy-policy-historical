@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imnicamail.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627131119id_/http%3A//www.imnicamail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnicamail.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924145348id_/http%3A//www.imnicamail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Imnica Mail
 
