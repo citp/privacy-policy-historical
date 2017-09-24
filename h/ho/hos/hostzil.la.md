@@ -1,61 +1,66 @@
-> *The following text is extracted and transformed from the hostzil.la privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701120551id_/http%3A//www.hostzilla.com/v1/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostzil.la privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924083259id_/http%3A//hostzil.la/support/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | HostZilla.com
+# HostZilla: Cloud Web Hosting Service Provider
 
-This Privacy Policy describes the information we collect from you, what we do with the  
-information, and our information security practices. If you have any questions about our  
-Privacy Policy, please contact  support@hostzilla.com
+At Big Promoter we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
-When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone number(s), e-mail address(es), and payment information such as credit card number and expiration date. We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to, however, we may be limited in our ability to provide services or to help you if you choose not to provide said information. If you contact us for customer support, we may also ask you for information about your operating system, software, and other technical matters.
+#### Collection of Information
 
-When you visit our web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our web site that you view. We may tie this information to the personally identifiable information we have about you. We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our web site. See “What is a Cookie” below for more information. We may tie this cookie to the personally identifiable information we have about you. If we send you an e-mail, we may include a marker that will allow us to identify e-mail that is opened and viewed.
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-## Use of Personally Identifiable Information
+When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-We will use your personally identifiable information only as follows:
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-  * For payment purposes and to provide customer support.
-  * To announce special offers or provide other information from time to time via email.
-  * We may also send e-mail announcing special offers by third parties.
-  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our web site and customize your visit.
+#### Use of Information
 
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-
-We reserve the right to provide third parties with your e-mail address or other personally identifiable information in order to present offers and services relevant to your needs. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
-
-We will not provide any personally identifiable information about you to any other person other than:
-
-  * a law enforcement or regulatory agency at their request;
-  * a person or company who acquires our business;
-  * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
-  * our partners who are providing or offering relevant services;
-  * as otherwise needed to protect or enforce our rights or the rights of others.
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the Big Promoter Customer Master Agreement
 
 
 
-## Use of Non-Personally Identifiable Information
+#### No-Spam Policy
 
-We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
 
-**What Is a Cookie**  
-A “cookie” is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your  
-visit.
+#### Choices for Personal Information
 
-**Security of Your Information**  
-We store your personally identifiable information and payment information [describe secure method of storage].
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-**Children’s Privacy**  
-Our service is not available to children under the age of 18, and we will not intentionally maintain information about anyone under the age of 18.  If you are under the age of 18, you must cease using our service.
+#### Information Sharing
 
-**Changes to this Policy**  
-HostZilla reserves the right to make changes to this policy without notification to the user.  Any changes will be posted here at this webpage or you will be notified via email or notified via a prominent announcement on our main website.
+We only share personal information with other companies or individuals in the following limited circumstances:
 
-**Outbound links**  
-Sometimes there will be outbound links to third party websites originating from HostZilla. We suggest you take care to review the content on these links and their own privacy policy. HostZilla will not be responsible for the content on these sites.
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the Big Promoter Customer Master Agreement
 
-**Security Standards**  
-HostZilla uses state of the art security systems in order to protect and safeguard your data.  While we make all efforts to provide a 100% secure data environment, in the event of unforeseen events, we cannot guarantee 100% that we will be responsible for loss or theft of data. Any such incursion will be reported to law enforcement personnel.
 
-This privacy policy was last updated on 6/24/2012.
 
-==============================
+#### Information Security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+#### Accessing and Updating Personal Information
+
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
+
+#### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time.
