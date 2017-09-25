@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the okta-emea.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513125813id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okta-emea.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925125629id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Okta
 
-### Effective Date: April 4, 2017
+### Effective Date: June 13, 2017
 
 Okta, Inc. ("Us," "We," "Our," "Okta," or the "Company") is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitor(s),” “You,” and derived adjective “Your”), individuals who register to use the Service as defined below (“Customers”), and individuals who register who attend the Company’s corporate events (“Attendees”). This Privacy Statement describes Okta's privacy practices with regards to its Web sites and the related services and applications offered by Okta (collectively, the “Service”).
 
 If You have questions or complaints regarding Okta’s Privacy Statement or practices, please contact Us at [info@okta.com](mailto:info@okta.com).
 
-Okta complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland.
+Okta complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. 
 
 Okta has established this Privacy Statement to help You to understand how Okta collects and uses personally identifiable information. This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including, but not limited to [http://www.okta.com](http://www.okta.com/), [http://www.identityis.com](http://www.identityis.com/), and [http://www.oauth.com](http://www.oauth.com/).
 
@@ -372,7 +372,7 @@ Chrome: [Opt Out](https://support.google.com/chrome/answer/95647?hl=en&ref_topic
 
 Explorer: [Opt Out](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11)
 
-Firefox: [Opt Out](https://support.mozilla.org/t5/Mozilla-Support-English/ct-p/Mozilla-EN?redirectlocale=en-us&redirectslug=remove-recent-browsing-search-and-download-history)
+Firefox: [Opt Out](https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox?redirectlocale=en-us&redirectslug=remove-recent-browsing-search-and-download-history)
 
 Safari: [Opt Out](https://support.apple.com/kb/index?page=search&q=cookies%20safari)
 
@@ -397,8 +397,8 @@ Customers may update their Personal Information by editing their users’ inform
 We will respond to your request within 30 days.
 
   * You can always opt not to disclose information, even though it may be needed to take advantage of or register for certain features of the Service or other content made available via the Web sites.
-  * You may request deletion of Your Okta account by sending an e-mail to [accounts@okta.com](https://web.archive.org/web/20170513125813id_/https://www.okta.com/privacy-policy/accounts@okta.com).
-  * If You do not wish to receive email or other mail from Us, please indicate this preference during the registration process, by changing Your account settings, following the unsubscribe mechanism within the message or by notifying Us at [accounts@okta.com](https://web.archive.org/web/20170513125813id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if You do not want to receive legal notices from Us, such as this Privacy Statement, those legal notices will still govern Your use of the Web sites, and You are responsible for reviewing such legal notices for changes.
+  * You may request deletion of Your Okta account by sending an e-mail to [accounts@okta.com](https://web.archive.org/web/20170925125629id_/https://www.okta.com/privacy-policy/accounts@okta.com).
+  * If You do not wish to receive email or other mail from Us, please indicate this preference during the registration process, by changing Your account settings, following the unsubscribe mechanism within the message or by notifying Us at [accounts@okta.com](https://web.archive.org/web/20170925125629id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if You do not want to receive legal notices from Us, such as this Privacy Statement, those legal notices will still govern Your use of the Web sites, and You are responsible for reviewing such legal notices for changes.
 
 
 
@@ -414,7 +414,31 @@ Okta has no direct relationship with the individuals whose Personal Information 
 
 Okta will retain Personal Information that We process on behalf of our Customers for as long as needed to provide the Service to our Customer. Okta will retain and use this Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Okta may amend or update this Privacy Statement from time to time. You can review the most current version of this Privacy Statement at any time at <http://www.okta.com/privacy>. Use of information We collect is subject to the Privacy Statement in effect at the time such information is used. If we make material changes in the way we use Personal Information, We will notify you by posting an announcement on the Web sites or sending You an email prior to the change becoming effective. Your continued use of the Service following any such change constitutes Your agreement to be bound by such changes to the Privacy Statement. Your only remedy, if you do not accept the terms of this Privacy Statement, is to discontinue use of the Service.
+If You install and use the Okta Mobile application (either the Android or iOS version) and are enrolled in the Okta Mobility Management program, You will grant Your company’s administrator the ability to manage Your user devices.  By using the Okta Mobile app, You understand and agree that You grant permission to Your company’s administrator, so that s/he may perform some or all of the following actions, as may be required: 
+
+1\.     Set passcode policies for the device in order to secure company data, including:
+
+  * Passcode required;
+  * Minimum passcode length;
+  * Require letter in passcode;
+  * Require symbol in passcode;
+  * Passcode expiration and history;
+  * Failed attempts before device/work profile is wiped;
+  * Lock device after X minutes of user inactivity;
+
+
+
+2\.     Clear the device passcode in cases when You have forgotten the passcode;
+
+3\.     Reset the device passcode in cases when You have forgotten the passcode;
+
+4\.     Lock the device when You have lost the device;
+
+5\.     Wipe all device data from a lost or stolen device;
+
+6\.     Wipe company data from a device, if You have left the company. 
+
+Okta may amend or update this Privacy Statement from time to time. You can review the most current version of this Privacy Statement at any time at <http://www.okta.com/privacy/>. Use of information We collect is subject to the Privacy Statement in effect at the time such information is used. If we make material changes in the way we use Personal Information, We will notify you by posting an announcement on the Web sites or sending You an email prior to the change becoming effective. Your continued use of the Service following any such change constitutes Your agreement to be bound by such changes to the Privacy Statement. Your only remedy, if you do not accept the terms of this Privacy Statement, is to discontinue use of the Service.
 
 If you have any questions about this Privacy Statement or Okta’s Web sites, please contact us directly at: [info@okta.com](mailto:info@okta.com). Written inquiries may be addressed to:
 
