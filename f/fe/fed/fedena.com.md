@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322084007id_/https%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925071758id_/https%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
 
 # School Management Information System Privacy Policy - Fedena
 
