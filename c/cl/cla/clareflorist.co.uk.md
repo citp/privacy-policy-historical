@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clareflorist.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143145id_/http%3A//www.clareflorist.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clareflorist.co.uk privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925100731id_/http%3A//www.clareflorist.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Terms | Clare Florist
+# Privacy Policy Terms | Clare Florist Privacy Information
 
 At Clare Florist honesty is important to us and we are committed to protecting your privacy while shopping online. We will use the information that you provide us lawfully in accordance with the Data Protection Act 1998. 
 
