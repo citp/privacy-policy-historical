@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512211250id_/http%3A//www.niagararents.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925034243id_/http%3A//www.niagararents.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Niagara Rents
 
