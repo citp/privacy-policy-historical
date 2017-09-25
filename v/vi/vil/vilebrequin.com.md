@@ -1,50 +1,93 @@
-> *The following text is extracted and transformed from the vilebrequin.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527030706id_/http%3A//www.vilebrequin.com/us/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vilebrequin.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925113847id_/http%3A//www.vilebrequin.com/us/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Vilebrequin Privacy Policy
 
-##  Privacy Policy 
+##  INTRODUCTION
 
-Vilebrequin reserves the right to change this Privacy Policy from time to time at its sole discretion and without sending notice to you, so you should review this Privacy Policy periodically. The effective date of this notice and any revised or changed notice may be found on this page, on the bottom left hand corner of the notice.
+Vilebrequin respects User privacy. This Privacy Policy explains (i) what information and Personal Data Vilebrequin collects through the operation of the Website and its online shop; (ii) the use Vilebrequin makes of such information and Personal Data; and (iii) the security level Vilebrequin provides for protecting such information and Personal Data.  
+By accessing and/or using the Website, each User agrees to the Terms, including this Privacy Policy, and acknowledges that Vilebrequin may change its policies in the future to adapt to future practices, technology or modification in the law.   
 
-WHAT PERSONAL INFORMATION WE COLLECT
 
-As set forth in more detail below, Vilebrequin collects personal information that you provide when using the Vilebrequin.com web site ("Site"). This information includes your first and last name, email address and a password when you create your vilebrequin.com account. You can browse and purchase on this Site without creating an account.But you will need to create an account in order to take advantage of certain features, such as checking your orders history and the other vilebrequin.com services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to help protect your confidentiality by verifying your identity.
+##  PERSONAL DATA WE COLLECT
 
-Vilebrequin.com does not intentionally collect personal information about children under the age of 13. If you are under the age of 18 but at least 13 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by the Vilebrequin.comTerms of Use. Children under the age of 13 may not use this Site and parents or legal guardians may not agree to the Vilebrequin.com Terms of Use on their behalf. If you do not agree to (or cannot comply with) any of the Vilebrequin.com Terms of Use, do not use this Site.  
-When you have created an account, the password that you create will soon be activated to enable you to access the Site. Passwords may not be shared or used by more than one individual. It is each individual user’s responsibility to remember and protect such password and not to disclose it to any other person. 
+When Users access and use the Website, Vilebrequin may collect certain Personal Data concerning such Users, including names, addresses, e-mail addresses, passwords, payment information and any other information such Users actively provide in the process of creating a Customer Account and/or placing an Order.   
+Vilebrequin may further track the Users’ interaction with the Website and monitor its performance, and collect other information which may be considered as Personal Data, such as the date and time of the access, the Users’ IP addresses and information on the equipment, operating systems and browsers used to access the Website as well as the URL of the websites referring Users to the Website.
 
-Remember to choose a strong password, including numbers, capital letters, special characters, etc., and is not typically found in a dictionary. In the event your password is lost or stolen it is your responsibility to notify Vilebrequin at the address listed in the “Contact Us” section.You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time [in our sole discretion for any or no reason, including] if, in our opinion, you have violated any provision of this Agreement.
+##  HOW WE USE PERSONAL DATA
 
-##  COOKIES 
+Vilebrequin uses the Personal Data provided to it by its Customers to process their Orders and to allow them to view their past and pending Orders in their Customer Accounts, if applicable, as well as to contact Customers and provide them with newsletters and/or other information.   
+Vilebrequin may further use other information and Personal Data collected in connection with the Users’ interaction with the Website to improve the Website.
 
-A cookie is a piece of information that a web site sends to your computer, which is stored in a file on your computer’s hard drive. 
+##  COMMUNICATION TO THIRD PARTIES
 
-A cookie does not tell us your individual identity unless you have chosen to provide it to us. Most cookies expire after a defined period of time.
+Vilebrequin may communicate its Users’ Personal Data to third parties, to the extent that this is necessary to facilitate the processing of Orders, including to its e-commerce partner Borderfree, Ltd. and the relevant payment service providers, such as PayPal. To the extent such third parties process Personal Data received from Vilebrequin, processing shall occur strictly on behalf of Vilebrequin and in accordance with its instructions. In no event, such third parties shall process Personal Data received from Vilebrequin other than for the purposes for which such Personal Data has been provided to or collected by Vilebrequin.  
+In some cases, the use of the Website may imply that Users provide their Personal Data directly to Vilebrequin’s international e-commerce partner Borderfree, Ltd. Users acknowledge that Borderfree, Ltd. is not processing Personal Data that is being provided to it directly by the Users as a subcontractor on behalf of Vilebrequin, but on its own and subject to its own privacy policy.  
+Vilebrequin uses Google Analytics, a web service by Google, Inc. for the purpose of tracking the Users’ interaction with the Website and its performance. For this purpose, Google Analytics collects such information using Cookies and provides automatically generated reports to Vilebrequin. Users may opt out by disabling Cookies (cf. further information under the section “Cookies” below).  
+Vilebrequin will further disclose Personal Data as required by law and/or by a competent authority or court, or if in its judgment disclosure is necessary to protect Vilebrequin and its partners or any Users from any damage, loss or liability.  
 
-##  COMPUTER INFORMATION 
 
-Vilebrequin logs your current Internet address (this is usually a temporary address assigned by your Internet service provider when you log in), the type of operating system you are using, and the type of browser software used. In addition, Vilebrequin may keep track of what portions of this Site you are visiting. Vilebrequin aggregates this information to help Vilebrequin improve or create a better experience for users of the Site. For example: Vilebrequin may upgrade those parts of the Site that are heavily visited.  
-Our website automatically records website usage information that we analyze statistically to track operational problems, to prevent fraud and to improve the effectiveness, security and integrity of the site. We do not use this information to track or record information about individuals. We will disclose this information to third parties only in aggregate form or as may be required by law. For each page that you visit, we collect and store the following technical information in what is called a web server log file:  
-• Date and time of access   
-• URL address of the Vilebrequin webpage visited   
-• Internet domain and IP address from which our website was accessed   
-• Type of browser and operating system used to access our site (if provided by the browser)   
-• URL address of the referring page (if provided by the browser)   
-• Completion or success status of the request for a web page or other on-line item  
-• File size of the webpage visited 
+##  THIRD PARTY WEBSITES
 
-For the purpose of enabling better website design and a better user experience, we employ Google Analytics (a web service by Google, Inc.) to track site traffic and provide aggregate reports of how the public interacts with our website. Session cookies are employed by Google Analytics in the form of client-side JavaScript code. In utilizing this analytics service, Vilebrequin maintains its existing standards in regards to the sharing and disclosure of information, security and privacy safeguards for the data, and the data retention policy, each described below. Google Analytics analyzes website usage information automatically upon visits to the Vilebrequin website(s). Users who do not wish to have their visit information collected by Google Analytics may opt-out by downloading a browser extension or by disabling cookies in their browser settings. Opting-out of web measurements will still permit users to access the full Vilebrequin website, with all included information and functionality. 
+The Website may contain links to other websites such as Facebook, Instagram, Twitter, YouTube, Pinterest, LinkedIn and others. Please note that neither the Terms nor this Privacy Policy do apply to the practices of any company or individual that Vilebrequin does not control, nor to any websites that may be linked from the Website.   
+Users are advised to carefully review the privacy policies of any websites they visit from the Website to learn more about their information and privacy practices. The collection and use of Users’ personal data shall be governed by such other party or websites’ privacy policy and Vilebrequin cannot be held responsible for their privacy practices.  
+Vilebrequin may however collect certain Personal Data via third party websites, in particular, social media platforms, combine it with Personal Data collected through the operation of the Website and use such Personal Data to communicate with the relevant Internet users, in accordance with this Privacy Policy.  
 
-##  PURCHASE INFORMATION 
 
-When you make a purchase from Vilebrequin.com, we collect your name, address, phone number, email and payment method information, such as credit card information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s).
+##  TRANSFER OF PERSONAL DATA ABROAD
 
-When you create an account at Vilebrequin.com, you can choose to save your billing information in "Your Account." You can also save one or more shipping addresses in your Vilebrequin.com Address Book. You may change or delete this saved information anytime. Simply go to Your Account. Log in with your email address and password, then click "Address Book" or "Change Name, Email & Password" and edit or delete whatever personal information you wish.
+USERS’ PERSONAL DATA MAY BE TRANSFERRED TO AND STORED ON COMPUTERS LOCATED OUTSIDE OF THEIR COUNTRY UNDER DIFFERENT JURISDICTIONS WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN THE USERS’ OWN JURISDICTION.  
+BY ACCEPTING THIS PRIVACY POLICY, USERS SPECIFICALLY AGREE THAT THEIR PERSONAL DATA MAY BE TRANSFERRED ABROAD.  
 
-Vilebrequin may disclose personally identifiable information you provide to third parties if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete the sales transaction, such as providing your shipping information to our carrier; (b) comply with legal process; (c) enforce the Agreement; (d) respond to claims that any information you provide violates the rights of third parties; (e) protect the rights, property, or personal safety of Vilebrequin, its users and/or the public; or (f) in the event that all or substantially all of Vilebrequin’s assets are acquired by a third party. Except as provided in the preceding sentence, we never sell or rent your personal information to any third parties, unless we have your expressed permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
 
-##  HOW YOU CAN CONTROL THE USE OF YOUR PERSONAL INFORMATION 
+##  COOKIES
 
-You can modify or delete your personal information anytime. Simply go to Your Account. Log in with your email address and password, then click "Checking Account Information", "Address Book" or "Change Name, Email & Password" and edit or delete whatever information you wish, including email subscription preferences.
+Vilebrequin uses Cookies to collect information, including information which may be considered as Personal Data. Cookies are small data files that the Website stores on the devices Users use to access the Website.
 
-Do not share your Vilebrequin.com password with anyone. Other than on this Site, Vilebrequin.com will never ask you for your password.
+Vilebrequin uses Cookies for the following purposes:  
+\- to enhance and enable certain functionalities of the Website;  
+\- to collect usage data which is then used on an anonymous basis to help improve the Website;  
+\- to remember the Users’ preferences and simplify the use of the Website;  
+\- to enable third party services of which Vilebrequin makes use to enhance the Website (third-party cookies).
+
+Cookies are placed on Users’ electronic device either by Vilebrequin or by the relevant third parties.  
+Some Cookies expire at the end of the Users’ session on the Website, while others persist for a longer specified or unspecified period.  
+Vilebrequin uses the following types of Cookies:
+
+**STRICTLY NECESSARY COOKIES**  
+Some Cookies ensure that the Website delivers information and/or services securely and optimally. They are strictly necessary and must be accepted by Users who want to use the Website.
+
+**FUNCTIONALITY COOKIES**  
+Some Cookies enable the Website to remember choices Users make, for example, user name, and language. These Cookies are known as "functionality cookies" and help to improve the Users’ experience of the Website by providing a more personalized service.
+
+**PERFORMANCE COOKIES**  
+Vilebrequin uses tools that monitor the Users’ use of the Website to help improve and customize the Website. In particular, the Website uses the Cookie Google Analytics which collects information and reports Website usage statistics without personally identifying individual visitors to Google. Users can opt out of providing this information, with no impact on your experience of the Website. To opt out of being tracked by Google Analytics when using the Website [Tools.google.com](https://tools.google.com/dlpage/gaoptout/)
+
+**THIRD PARTY COOKIES**  
+The Website uses third party services or software. These services may set Cookies on Users’ electronic device. Users can block or remove such Cookies by altering the settings of their electronic device or browser, which may however adversely affect certain functionalities of the Website.
+
+Users can restrict or block Cookies by changing their electronic devices’ or browsers’ settings. For more detailed information, see 
+
+[Allaboutcookies.org](http://www.allaboutcookies.org/)
+
+Parts of the Website may not work if Users completely disable Cookies, but others can be safely blocked with no adverse effect. Users are advised to check information in browsers’ help section for specific instructions on how to manage Cookies.
+
+##  PRIVACY POLICY AMENDMENTS
+
+Vilebrequin may amend this Privacy Policy from time to time, and at its sole discretion. If so, Vilebrequin will post online the amended Privacy Policy on the Website. By accessing and using the Website after any amendments, Users agree to the amended Privacy Policy.   
+Amendments will, however, not affect the processing of Personal Data collected prior to such amendments, which shall continue to be processed in accordance with the Privacy Policy in effect at the time such Personal Data was collected.  
+
+
+##  ACCESS RIGHT
+
+Upon request, Vilebrequin will provide Users with a summary of the Personal Data related to them. Unless otherwise required by mandatory applicable law, Users will have the opportunity to correct, update, modify or delete their Personal Data by sending an e-mail to contact.us@vilebrequin.com.  
+
+
+##  APPLICABLE LAW AND JURISDICTION
+
+This Privacy Policy and all matters arising out of or relating to this Privacy Policy shall be governed by the substantive laws of Switzerland, without regards to principles of conflicts of laws thereof.  
+Subject to mandatory provisions of law, any controversy, claim or dispute arising out of or in relation with this Privacy Policy shall be subject to the exclusive jurisdiction of the competent courts at Geneva.  
+
+
+##  QUESTIONS
+
+If you have any question about this Privacy Policy, please contact us at contact.us@vilebrequin.com.
