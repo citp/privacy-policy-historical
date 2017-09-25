@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyhearing.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625005328id_/http%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyhearing.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925123217id_/http%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.*
 
 # Healthy Hearing Privacy policy
 
