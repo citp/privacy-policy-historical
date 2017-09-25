@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171229id_/https%3A//www.iperceptions.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925040116id_/https%3A//www.iperceptions.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPerceptions
 
