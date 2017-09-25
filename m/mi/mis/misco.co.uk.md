@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033707id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925034556id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Statement - Misco.co.uk
 
