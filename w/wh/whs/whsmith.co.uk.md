@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111071925id_/https%3A//www.whsmith.co.uk/fcp/content/Help-OnlinePolicies-PrivacyPolicyandCookies/content%23privacycookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926000726id_/https%3A//www.whsmith.co.uk/fcp/content/Help-OnlinePolicies-PrivacyPolicyandCookies/content%23privacycookies) for the most accurate reproduction.*
 
 # Privacy policy & cookies | WHSmith
 
@@ -119,6 +119,21 @@ N/A | IDE | These cookies are used to remember user preferences and display rele
 N/A | id | These cookies are used to remember user preferences and display relevant advertising to users around the web | 2 years  
 N/A | DSID | These cookies are used to remember user preferences and display relevant advertising to users around the web | 1 hour  
 N/A | GED_PLAYLIST_ACTIVITY | These cookies are used to remember user preferences and display relevant advertising to users around the web | Deleted on close of browser window  
+SLIBeacon | SLIBeacon | Unique id for the user | 2 years  
+SLI1_xxxxxxx | SLI1_xxxxxxx | Purpose | 30 minutes  
+SLI2_xxxxxxx | SLI2_xxxxxxx | The user id and page and search load counts | End of session  
+SLI4_xxxxxxx | SLI4_xxxxxxx | Timestamp of last search | 6 months  
+uid | uid | Tracking search activity for learning | 1 year  
+_mvt | _mvt | Stores the user designation | 2 years  
+sli-rr | sli-rr | Array of refinement topic/value pairs along with a timestamp representing when the refinement value was selected  | 1 year  
+sli-rv | sli-rv | Array of skus/timestamp pairs, where the sku represents the product that was viewed and the timestamp represents when the product was viewed  | 1 year  
+Google Universal Analytics | _ga | This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. | 2 years  
+Google Universal Analytics | _gat | Used to throttle the request rate - limiting the collection of data on high traffic sites | 10 minutes  
+Devatics Session  | _dec | Unique user session identifier to handle things such as the identification of the interactions done on the site.  | Retention  
+Devatics User  | _dez | Unique user identifier used to anonymously identify a visitor across the different visits of the site.  | Expires within 365 days   
+Devatics Data  | _ded  | Used to store information during the visit: page viewed, Devatics message displayed, products added to the cart | Expires at the end of the session   
+sli_uuid | sli_uuid | A unique id for the user Persistent | 10 years  
+DoubleClick | doubleclick.net | DoubleClick uses cookies to improve advertising. Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen. | 18 months  
   
 Back to top
 
