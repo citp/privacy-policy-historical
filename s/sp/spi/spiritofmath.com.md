@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritofmath.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512215805id_/http%3A//spiritofmath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofmath.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925115910id_/https%3A//www.spiritofmath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spirit of Math Schools
 
