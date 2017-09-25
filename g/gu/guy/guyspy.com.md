@@ -1,160 +1,101 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120439id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925050743id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
-GuySpy (“GuySpy,” “we” or “us”) is committed to protecting your privacy.  This Privacy Policy explains how information about you or associated with you (“personal information”) is collected, used and disclosed by GuySpy and its affiliates, which own and operate GuySpy services  (“GuySpy,” “we” or “us”).  This Policy applies to the online services offered by GuySpy, including any GuySpy branded URL (“the GuySpy Website”), GuySpy mobile app for iPhone, Android or Windows mobile devices (collectively, the “GuySpy Services” or our “Service”).  This Privacy Policy does not apply to the GuySpy Voice Chatline service, which is governed by [ a separate policy available here](http://www.guyspy.com/voice/privacy.php). This Privacy Policy applies only to the practices of companies we own, control, or are united with under common control.
+**THIS PRIVACY POLICY WAS LAST UPDATED ON: April 10, 2017.**
 
-Information We Collect  
-Sharing Personal Information with Third Parties  
-Your Choices Regarding Your Information  
-Monitoring  
-Security and Storing of Information  
-Persons Under the Age of 18  
-Links to Third-Party Websites  
-Updates to This Policy  
-Your California Privacy Rights  
-Contacting Us  
-Last Revision Date
+Guy Spy® (the “Service”) and our parent company Pink Triangle Press (collectively “we”, “our” or “us”) are committed to protecting the privacy of the users (collectively “you” or “your”) of the Service. We value our own privacy and the privacy of our users. We know that cruising and meeting other guys for sex may be fun, but it can also be dangerous; if we are to feel safe and be safe, then privacy is a central concern for all of us. This Privacy Policy discloses our practices in significant detail in relation to privacy issues. **BY USING THE SERVICE, YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ AND UNDERSTOOD THIS PRIVACY POLICY, AND AGREE TO BE BOUND BY ALL OF ITS TERMS AND CONDITIONS.**
 
-  * **INFORMATION WE COLLECT**
+**_Collection of Personal Information_**
 
+**Membership Registration.** Most areas of the Service require membership registration and personal information, such as your email address, is collected through the registration process. We may occasionally use statistical data (including demographic information about our users) collected through the registration process to help us improve our services; this information will only be used in aggregated and anonymous form.
 
+**Membership Upgrade and Billing.** Personal information is collected during the membership upgrade and billing process and YOU HEREBY FOREVER RELEASE US from any claims related to our storage of this information. Note, when using a third party’s billing information, you warrant and represent that you are duly authorized to use and disclose this information for purchases. Billing information (such as credit card information) is collected and retained by our third party billing partners, which may be located outside of Canada (including the United States) on secure servers owned by them. Our transmission of your information to these third party billing partners is encrypted and safeguarded in accordance with Payment Card Industry Data Security Standards (PCI DSS).
 
-The categories of information we collect can include:  
-  
-**Information We Collect From You Directly** **.**
+**Messages and User Content.** We collect information when you post content to the Service and when you message other users of the Service. We may also retain any messages you send when you communicate with us.
 
-  * **Registration and Profile Information.**   You can browse our site without providing personal information, but you must register in order to access most of the features of our site or Services. When you register for our Services, we may collect personal information, such as your email address, user name and password, address, phone number, mobile phone number, and date of birth.   We may collect billing information if you sign up for premium services.   If you take part in any interactive features of the Services (such as any contests, games, promotions, quizzes, surveys, research or other services or features), we may collect additional types of personal information.   We collect this information online through our Services and your actions across the website and mobile app may be linked.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages and push notifications, and permit you to locate and communicate with other users of the Service and for other users of the Service to locate and communicate with you. As a user of the Service, you consent to any and all such communications. 
 
+After you set up your account, you may also choose to provide additional personal information which may be shared through public profiles such as: your user name, pictures, videos, interests, hobbies, lifestyles, bulletins, personal statements and comments, and groups, communities or organizations with whom you associate (collectively, “Profile Information”). **YOU CONTROL HOW MUCH PERSONALLY IDENTIFYING PROFILE INFORMATION YOU DISCLOSE IN YOUR PUBLIC PROFILE AND YOU HEREBY RELEASE US FROM ANY CLAIMS RELATED TO YOUR PROVISION OF PERSONAL INFORMATION IN YOUR PUBLIC PROFILE.**
 
-  * **Data collected through the use of the Service.  ** After you set up your account, GuySpy members may also chose to provide additional information which may be shared through public  profiles, such as your  user name, pictures and/or videos, interests, hobbies, lifestyles, groups or communities with whom you associate (schools, companies, politics, organizations), bulletins or personal statements (collectively, “Profile Information”).  You control how much personally identifying information you wish to provide in your public profile.
+**Geolocation.** We collect location data when you visit Guy Spy or use our Service. When you visit our website, we determine your location based on your IP address. When you use our mobile app or browser-based mobile service or website we collect your unique user identifier and location through GPS, Wi-Fi, wireless network triangulation or we approximate your location based on your IP address. This location data is collected for the purposes of providing the Service, so that we may show your public profile to other users on the Service, to let you know which users are located near you, and to personalize content and advertising displayed to you. We maintain location data only as long as is necessary and reasonable to provide the Service and then we destroy or depersonalize this information.
 
+**_What We Do With Your Information_**
 
-  * **Geolocation.   **We collect location data when you view our site or use our Service.  **** When you visit our website, we determine location based on your IP address.  When you use our mobile app or browser-based mobile service or website, we collect your unique user identifier and your location through GPS, WiFi, or wireless network triangulation, or through an approximation of your location based on your IP address in order to obtain your location for the purposes of providing our Service, such as to personalize advertising and content and to determine your location in relation to other users of the Service so that we may show your profile to other members on the Service who are located near you and to show your profile to others. We maintain location information only so long as is reasonable to provide the Service and then destroy or depersonalize the location data.
+**Remember – Guy Spy allows you to connect with others and share information about yourself with other individuals. Your Profile Information which may include your name, photo, location and other personal information will be available publicly to other Guy Spy users by default and may be searchable by search engines which may display certain aspects of your Profile Information publicly.**
 
+By using the Service, you consent to have your Profile Information displayed to other users of Guy Spy. Consider your own privacy and personal safety when using the Service and sharing your information with anyone. Also, when sharing information about others you meet through the Service, please consider their privacy and safety and get their consent to share their information.
 
-  * **Messages and User Content.** We collect information when you message other members of the Service.  We may also retain any messages you send when you communicate with us.
+We use your email address for Guy Spy purposes only, such as to clarify information you may have listed on the site. Users may receive the following type of email communications or other electronic messaging to their personal email inbox:
 
+  * Communications about promotions, offers and information related to their membership. Users can subscribe to or unsubscribe from these types of email or electronic messaging at any time. To stop receiving these types of messages, please update your account settings or click on the “unsubscribe” link found at the bottom of each email. 
+  * We may also send our users transactional, operational or technical support messages regarding their accounts or the Service. 
 
 
-We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages and push notifications, and permit you to locate and communicate with other users of the Service and for other members of the Service to locate and communicate with you.  For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
 
-**Information About How You Use the Services** **.  **
+**We may share your personal information with:**
 
-We may collect information about your participation and actions on the Services.  This may include information such as the web pages you view, how you use and engage with our Services,    how you connect, communicate and share information with other users of our Services, and your free trial membership usage, your purchased membership packages and remaining balance.
+  1. Third party vendors, consultants and service providers that perform services on our behalf, in order to carry out their work for us, such as third party billing partners. Your information will be treated as private and confidential by such service providers and not used for any other purpose than that which we authorize. You will never be never be contacted by these third parties, except in the context of providing the Service to you.
+  2. Third parties at your request. For example, you may have the option to share your activities on the Service with your friends through social media.
+  3. Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party, or in the event of bankruptcy or related or similar proceeding.
+  4. Third parties required to: (i) satisfy any applicable law, regulation, subpoena, summons, court order, legal process or other permitted government request, (ii) enforce our User Agreement terms and conditions, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Guy Spy, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud, stalking or trolling), security or technical issues.
 
-**Information We Collect From Social Networking Sites** **.**
 
-When you interact with our site through various social media, such as when you Like us on Facebook or share through another social media site, we may receive information from the social network such as your profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our website or Service.
 
-**Information Automatically Collected** **.**
+**Aside from the above, Guy Spy will never disclose your email address or any other personal information about you to any third party without your express permission, except where we are required to do so by law.**
 
-We automatically collect certain types of usage information when you visit our website or use our Service.  When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site.  A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service.  Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.  The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service.  These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service.
+**_Marketing, Statistics and Demographics_**
 
-When you access our Services by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device (“Device ID”), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.    Location data may convey to us information about how you browse and use the Service, and to personalize advertising and content.
+We may collect statistics and demographics about your website usage and information about your computer, internet connection, your computer’s IP address and geographic location (see “Geolocation” above), the type and version of browser and operating system you use, your internet domain and, if you arrived at Guy Spy via a link from another website, the URL of the linking page and the keyword(s) that you used. This information is used for assessing usage patterns and demographics of users of the Service; popularity and usage of features on the Service, etc.; compatibility of Guy Spy with popular browsers and operating systems; and to assist us with our strategic planning and development and advertiser relations. We reserve the right to share all marketing information, including Guy Spy usage and personal demographic information so gathered with other employees of Pink Triangle Press to develop marketing and sales strategies. All data and findings collected for these purposes are presented as anonymous or aggregated information. No identifiable personal information about individual users will be released to outside third parties.
 
-We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) help you locate other users of the Service who are located near you; (c) provide custom, personalized content and information, including behaviorally targeted advertising and geographically targeted advertising; (d) provide and monitor the effectiveness of our Service; (e) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (f) diagnose or fix technology problems; and (g) otherwise to plan for and enhance our service. We may associate information we automatically collect with your other information.
+**_How We Store Personal Information_**
 
-  * **SHARING PERSONAL INFORMATION WITH THIRD PARTIES** <
+Personal information collected during the membership registration process is housed in a secure database owned by Pink Triangle Press and access to this database is restricted to our employees. Information collected during the membership upgrade and billing process is stored on secure servers owned by our third party billing partners, which may be located outside of Canada (including the United States). We do not retain any personal information related to billing in databases housed on Pink Triangle Press servers.
 
+**_Information Retention and Expiration_**
 
+Registration information for basic free memberships is retained for one year after the last login of the user, and then purged from our servers. Registration information for upgraded paid memberships is retained for one year after the last login of the user, or for one year after their paid membership lapses, whichever comes later. Information collected through the membership upgrade and billing process by our third party billing partners is stored only as long as is necessary and reasonable on secure servers owned by them.
 
-We may share your personal information in the instances described below.  For further information on your choices regarding your information, see the “Your Choices Regarding Your Information” section below.
+**_Cookies_**
 
-**Remember, our Services allow you to connect with others and share information about yourself with other individuals. Your profile information, including your name, photo, location and other personal information, will be available publicly to other members of the Service by default and may be searchable by search engines which may display certain of your information publicly.**   By using the Service, you consent to have your profile information and your location displayed to other members of the Service.  Consider your own privacy and personal safety when logging in to our Service and sharing your information with anyone.  Also, when sharing information about others you meet through the Service, please consider their safety and privacy and get their consent for that sharing.
+In order for the Service to function properly, we occasionally place small data files called “cookies” on your computer or mobile device.
 
-We may also share your personal information with:
+**What Are Cookies?** A cookie is a small text file that is saved on your computer or mobile device when you visit Guy Spy. It enables Guy Spy to remember your actions and preferences (such as login, language, font size and other display preferences), so you don’t have to keep re-entering them whenever you come back to the Service or browse from one section to another.
 
-  * Other companies owned by or under common ownership, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns.  These companies will use your personal information in the same way as we can under this Policy;
-  * Third party vendors, consultants and other service providers that perform services on our behalf, in order to carry out their work for us, which may include identifying and serving targeted advertisements, content or service fulfillment, billing, or providing analytics services;
-  * Our business partners who offer a service to you jointly with us, for example, when running a co-sponsored contest or promotion;
-  * Third parties who we think may offer you products or services you may enjoy;
-  * Third parties at your request.  For example, you may have the option to share your activities on our Services with your friends through social media. .
-  * Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
-  * Third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of GuySpy, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
+**How Do We Use Cookies?** When you create an account with us, we use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out; however, in some cases they may remain afterward to remember your preferences on the Service when you are logged out. 
 
+We also use cookies while you are logged in to prevent you from having to log in again every time you visit a new page; these cookies are typically cleared when you log out to ensure you can only access restricted features and areas of the Service while you are logged in. 
 
+In order to provide you with a great experience on Guy Spy, we provide you with the ability to set your own preferences for how the Service functions when you use it. We need to set cookies on your device to remember your preferences, so this information can be retrieved whenever you use a function of the Service that is affected by your personal settings.
 
-We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual.  
+**Third Party Cookies.** In some special cases, we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through Guy Spy.
 
+Guy Spy uses Google Analytics which is one of the most widespread and trusted analytic solutions on the Internet, to help us understand how you use the Service and to develop ways to improve your experience. These cookies may track things such as how long you spend on the Service and the areas you visit most frequently, so we can continue to produce engaging content for our users. For more information on Google Analytics cookies, please visit the official Google Analytics site.
 
-  * **YOUR CHOICES REGARDING YOUR INFORMATION**
+**How To Control Cookies.** You can control and delete cookies as you wish – for more information, please see aboutcookies.org . You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. However, if you do this, you may have to manually adjust or set some preferences every time you visit Guy Spy and other websites and some services and functionalities may not work. Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
+**_Advertisers and Linked Websites_**
 
+**Links to advertisers on Guy Spy, third-party services and other websites that are accessible via Guy Spy may have different privacy policies and we do not accept any responsibility or liability for their policies or practices and they are not subject to Guy Spy’s Privacy Policy. It is the responsibility of users to review the privacy policies of such advertisers and linked websites before submitting any personal information to them.**
 
-**Online Advertising.**   We may share certain information with online advertising networks so that they may play or display ads that may be relevant to your interests on our Services as well as on other websites or apps.  Typically, the information we share is provided through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit http://www.allaboutcookies.org  and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org).  Depending on your mobile device, you may not be able to control tracking technologies through settings.  Even if you disable cookies, you may still receive targeted advertisements based on your location.
+**_Social Networking Sites_**
 
-**Location Information.   **Our Service automatically collects location information from your browser or mobile device and uses your location to send you targeted advertisements, to show you profiles of other members on the Service who are located near you and to show your profile to other users.  You can prohibit this collection of location data by adjusting your settings on your browser or mobile device.  Additionally, you can choose to not display your location on the Service by adjusting your exact location switch in the settings page of the mobile app or by adjusting your location sharing settings on your device.
+When you interact with Guy Spy through various social media, such as when you “Like” us on Facebook or “Share” through another social media site, we may receive information from the social network such as your profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. **You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to Guy Spy or the Service.**
 
-**Data Retention:**   We will retain your information for as long as your account is active or as needed to provide you services.  If your account becomes inactive, we will maintain your personal information in the event you wish to re-engage in our Service.  
+**_Changes To This Privacy Policy_**
 
+We reserve the right to update or modify this Privacy Policy at any time, without notice to users. 
 
-  * **MONITORING**
+**By continuing to use the Service, you are acknowledging your acceptance of these updates or modifications.**
 
+**_Questions and Feedback_**
 
+If you have any questions about Guy Spy’s privacy practices or this Privacy Policy, please contact:
 
-When you communicate with other users of the Service through our mobile app and/or website, or utilize any interactive features on the Service, such as messaging, forums or chat rooms, such communications and postings are transmitted through our servers, and we may, but are not obligated to, monitor all such communications and postings, including those that are designated as “private,” to the degree that laws and regulations enable us to do this. You acknowledge that you have no expectation of privacy with respect to any such communications or postings, and you expressly consent to such monitoring.
+Privacy Officer  
+Pink Triangle Press  
+2 Carlton Street, Suite 1600  
+Toronto, Ontario Canada M5B 1J3
 
-  * **SECURITY AND STORAGE OF INFORMATION**
-
-
-
-GuySpy cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers.  However, no security system is impenetrable and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.  
-
-
-  * ****PERSONS UNDER THE AGE OF 18****
-
-
-
-Persons under the age of 18 are not eligible to use our Services. The Services are not directed to persons under 18 and we do not intentionally collect or maintain information from persons under 18.  If you become aware that personal information about a person under 18 has been provided to us, please immediately contact us using the details below.
-
-  * **LINKS TO THIRD PARTY WEBSITES**
-
-
-
-The Services may, from time to time, contain links to and from third party websites of our partner networks, advertisers, partner merchants, retailers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.  Please check the individual policies before you submit any information to those websites.  
-
-
-  * **UPDATES TO THIS POLICY**
-
-
-
-We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the “Last Revision” date below and will post the updated Policy on this page.  
-
-
-  * **YOUR CALIFORNIA PRIVACY RIGHTS**
-
-
-
-GuySpy collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, GuySpy customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
-
-In the United States:
-
-Attn: Privacy Officer  
-GuySpy  
-1685 H Street, Suite 1071  
-Blaine, WA 98230  
-Email: [Privacy Officer](mailto:privacy@guyspy.com)
-
-Alternatively, you may send us an email at [privacy@guyspy.com](mailto:privacy@guyspy.com) with the words “California Privacy Rights” in the subject line.  
-
-
-  * **CONTACTING US**
-
-
-
-Guyspy is owned and operated by Pink Triangle Press.
-
-If you have questions about this Policy, please contact us at [privacy@guyspy.com](mailto:privacy@guyspy.com) or by writing to us at:
-
-Attn: Privacy Officer  
-GuySpy  
-1685 H Street, Suite 1071  
-Blaine, WA 98230  
-Email: [Privacy Officer](mailto:privacy@guyspy.com)
-
-  * **LAST REVISION DATE**
-
-
-
-This Policy was last revised on, and effective as of, May 13, 2015.
+Email: privacy@guyspy.com   
+Fax: 1-416-640-2580
