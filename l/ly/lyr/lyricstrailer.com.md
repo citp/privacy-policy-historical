@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricstrailer.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111033150id_/http%3A//www.lyricstrailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstrailer.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925073311id_/http%3A//www.lyricstrailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LyricsTrailer
 
