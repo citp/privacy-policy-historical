@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microcapprofiler.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214225135id_/http%3A//microcapprofiler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcapprofiler.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925215134id_/http%3A//microcapprofiler.com/privacy.html) for the most accurate reproduction.*
 
 # Free Informative Penny Stock Review Newsletter, Trade Hot Penny Stocks
 
