@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healcon.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525014419id_/http%3A//healcon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healcon.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925083532id_/http%3A//healcon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Healcon.com
 
