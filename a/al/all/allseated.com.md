@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allseated.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120048id_/http%3A//www.allseated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allseated.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925095202id_/http%3A//www.allseated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AllSeated: Seating charts, floor plans, and guest lists for your event
 
@@ -8,7 +8,11 @@
 
 Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Use (“ **TOU** ”). So, please make sure that you have read and understand our TOU.
 
+## **Revisions to this Privacy Policy**
+
 Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.
+
+## **Collection and Use of Information**
 
 **Information Collected or Received from You**
 
@@ -27,6 +31,8 @@ _Information Related to Use of the Services_. Our servers automatically record c
 _Information Sent by Your Device_. We collect certain information that your device sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.
 
 _Location Information_. When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. We may use location information to improve and personalize our Services for you. If you do not want us to collect location information from your mobile device, you may disable that feature on your mobile device.
+
+### **Information that We Share with Third Parties**
 
 We will not share any PII that we have collected from or regarding you except as described below:
 
@@ -51,6 +57,8 @@ _Information Shared with Web Analytics Services Providers_.
 _Information Disclosed in Connection with Business Transactions_. Information that we collect from our Visitors, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
 _Information Disclosed for Our Protection and the Protection of Others_. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
+
+### **Your Choices**
 
 We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.
 
