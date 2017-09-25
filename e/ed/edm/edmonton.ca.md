@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmonton.ca privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325202313id_/https%3A//www.edmonton.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmonton.ca privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925202059id_/https%3A//www.edmonton.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Web Privacy Code :: City of Edmonton
 
