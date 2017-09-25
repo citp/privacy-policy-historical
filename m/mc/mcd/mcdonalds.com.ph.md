@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163721id_/https%3A//www.mcdonalds.com.ph/content/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925203207id_/https%3A//mcdonalds.com.ph/content/page/privacy_policy) for the most accurate reproduction.*
 
 # McDonalds : Privacy & Policy
 
