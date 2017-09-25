@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614051220id_/http%3A//www.thomsonlocal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925035149id_/http%3A//www.thomsonlocal.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - thomsonlocal.com
+# Privacy Policy | Thomson Local
 
 Thomson Directories Limited (“We”) are committed to protecting and respecting your privacy.
 
