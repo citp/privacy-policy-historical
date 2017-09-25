@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amcal.com.au privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331022329id_/https%3A//www.amcal.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcal.com.au privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925132447id_/https%3A//www.amcal.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy for Amcal
 
@@ -10,7 +10,7 @@ Sigma Privacy Policy
 
 Sigma Pharmaceuticals Limited (Sigma) is a leading full line wholesale and distribution business to pharmacy. It is also the owner of Australia’s best known pharmacy retail brands in Amcal Max, Amcal and Guardian.
 
-Sigma is committed to supporting the 'Australian Privacy Principles for the Fair Handling of Personal Information' contained in the Privacy Act 1988. These principles are used as the basis of the standards we adhere to surrounding the collection, access, storage and use of personal information which we may obtain during the course of operating our business. 
+Sigma is committed to supporting the ' Australian Privacy Principles for the Fair Handling of Personal Information' contained in the Privacy Act 1988. These principles are used as the basis of the standards we adhere to surrounding the collection, access, storage and use of personal information which we may obtain during the course of operating our business. 
 
 This Privacy Policy is designed to inform you regarding the sort of information that we may collect about you. Sigma’s policies on the management of personal information, and an overview of what sort of information we hold, why we might do so, how we might collect, store, use and disclose that information.
 
@@ -22,7 +22,7 @@ General Counsel and Company Secretary
 3 Myer Place   
 Rowville  
 Victoria 3178  
-telephone 03 9215 9596  
+telephone 03 9215 9215  
 facsimile 03 9215 9799
 
 If you have any issues regarding privacy with Sigma you should contact your usual Sigma representative or the Privacy Officer.
@@ -95,7 +95,7 @@ General Counsel and Company Secretary
 3 Myer Place   
 Rowville  
 Victoria 3178  
-telephone 03 9215 9596  
+telephone 03 9215 9215  
 facsimile 03 9215 9799
 
 8\. Transfer of your Personal Information Overseas
