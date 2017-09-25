@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superaffiliate.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101015911id_/http%3A//match.biz/your-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superaffiliate.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925052106id_/http%3A//match.biz/your-privacy-policy) for the most accurate reproduction.*
 
 # Your Privacy Policy - Match.biz - The Online Business Blueprint!
 
