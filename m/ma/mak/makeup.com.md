@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125145257id_/https%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925095313id_/https%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Makeup.com
+# Privacy Policy
 
 **Privacy and Cookie Notice**
 
@@ -138,18 +138,3 @@ Telephone: 877-296-0075
 Or send us an e-mail with your request [here](http://www.makeup.com/contact-us/).
 
 UPDATED AS OF: October, 2013
-
-## 
-
-SIGN IN
-
-TO Get more from
-
-Get more than ever out of your MAKEUP.com. Save your favorite articles for quick access to the expert tips and tricks that speak to you – and the products you need to get the looks!
-
-## Select your favorite social network to get started.
-
-  * Email-ID
-
-  *   * 
-
