@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622141015id_/http%3A//www.vcu.edu/vcu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925143723id_/http%3A//www.vcu.edu/vcu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement – Virginia Commonwealth University
 
-##  Effective Jan. 1, 2001
+## Commitment to privacy
 
-The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University Web pages (defined as institutional Web pages in the [VCU Web Standards and Guidelines](http://www.webstandards.vcu.edu/)) and is in accordance with the following statement.   
+Virginia Commonwealth University is strongly committed to maintaining the privacy of those individuals who share confidential personal information and other highly sensitive information with us. Further, VCU collects confidential personal information only to the extent necessary.
 
+## Privacy notice
 
-It is the policy of the commonwealth of Virginia that personal information about citizens will be collected only to the extent necessary to provide the service or benefit desired; that only appropriate information will be collected; that the citizen shall understand the reason the information is collected and be able to examine their personal record which is maintained by a public body.
+The following information explains the internet privacy policy and practices the university has adopted for its official websites. However, in legal terms, it shall not be construed as a contractual promise, and the university reserves the right to amend it at any time without notice. Privacy and public records obligations of the university are governed by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act and by any applicable U.S. federal laws.
 
-The VCU website does not require that any personal information be supplied in order to download publicly available files or reports.
+### Site definitions
 
-In addition to the VCU Web Privacy Statement, the university encourages its colleges, schools, departments, centers, institutes and other units contributing to its official Web pages to provide specific notices about the collection and use of any personal information associated with those pages.   
+_Official university sites_ : Except as noted, the information in this privacy notice applies to all official VCU websites, which are defined as the Web pages of university colleges, schools, departments, divisions or other units hosted by the university. 
 
+_Unofficial websites_ : Linked to official VCU sites, you may find websites over which the university has no editorial responsibility or control over privacy practices. Such sites are considered unofficial and include, but are not limited to, the Web pages of individual faculty members or students and the Web pages of student organizations and other entities not formally a part of the university. 
 
-## What is collected and how is it used
+### What is collected and how it is used
 
-When you visit the VCU website we collect the following nonpersonal information:
+This VCU website does not require users to supply any personal information in order to view the website or download publicly available files. When you access VCU websites, the following nonpersonal information is automatically collected. No other information is collected through our official websites except &ldqou;optional information” sent to us by email or online forms.   
+Automatically collected access information:
 
   * Your IP address
   * Date and time
@@ -26,38 +29,45 @@ When you visit the VCU website we collect the following nonpersonal information:
 
 
 
-None of this information is associated with you as an individual and is used strictly for statistical reporting purposes in order to assess demands and usage for planning purposes.   
+Optional information: 
+
+  * _Personal data_ : When you send us an email we may collect your email address, your name and the content of your email.
+  * _Form data_ : When you complete online forms, we collect all the data you choose to fill in or confirm, including user account information if you are setting up or using an account, credit or debit card information if you are ordering a product or making a payment, as well as information about other people if you are ordering a gift and want it sent directly to the recipient's address.
 
 
-Some VCU websites require you to provide personal information in order to provide services requested by you. If you choose to share personal information with us by sending us an email message or by filling out an electronic form with personal information, we will use the information only for the purposes you authorized or in support of university-sponsored programs. Should you not desire to provide this personal information, we will be unable to provide you some of the services that we offer online. Each VCU website that collects personal information will include a statement as to the purpose for collecting such personal information and how that information will be used.   
 
+### Use of cookies 
 
-## Cookies
-
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your desktop computer. The cookie is then sent back to the server each time the browser requests a page from the server. The primary purpose of cookies is to identify users in order to prepare customized Web pages for them.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on the device you used to access the website. The cookie is then sent back to the server each time the browser requests a page from the server. The primary purpose of cookies is to identify users in order to prepare customized Web pages for them.
 
 The VCU website uses two kinds of cookies: nonpersistent and persistent. Some VCU Web pages use nonpersistent cookies for the purposes of fulfilling form requests. These cookies are discarded as soon as you close your Web browser. A small number of VCU Web pages use persistent cookies in order to provide improved service. Any VCU Web page that uses persistent cookies will include a statement as to the purpose for using persistent cookies, exactly what is being retained and how that information is being used.
 
-## Security
+### The way we use information 
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online, consistent with VCU policies and the laws and regulations of the commonwealth of Virginia.
+We may use non-identifying and aggregate information to better design our website. For example, we may report the number of individuals who visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.
 
-## Information disclosure
+We may keep client information from our systems indefinitely after the Web page is transmitted, but we do not try to obtain any information to link it to the individuals who browse our website. However, on rare occasions when a “hacker” attempts to breach computer security, logs of access information are retained to permit a security investigation and in such cases may be forwarded together with any other relevant information in our possession to law enforcement agencies.
 
-Any personal information that one chooses to supply will be maintained exclusively within VCU and will not be supplied to any other non-VCU entity or organization except as provided by law. Information you provide is only used to provide requested services and for internal statistics.
+We use the information you provide about yourself when placing an order or request only to complete that order or request. We do not share this information with outside parties except to the extent necessary to complete that order or request. Similarly, we use the information you provide about someone else when placing an order or request only to complete that order or request. Again, we do not share this information with outside parties except to the extent necessary to complete that order or request.
 
-## Disclaimer
+We generally use return email addresses only to answer the email we receive. Such addresses are generally not used for any other purpose and by university and state policy are not shared with outside parties.
 
-This site contains links to external (non-VCU) websites. VCU is not responsible for the privacy practices or content of such websites.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without clear notice and the opportunity to opt-out or otherwise prohibit such uses.
 
-## Third-party tracking technology
+### Links to external websites
 
-This site uses a tracking technology called Google Analytics and Google Tag Manager to obtain site usage information such as users’ Internet Protocol (IP) addresses, Internet domain and host names, browser software, and the date and time that the site is visited. Data obtained through Google Analytics does not include and is not linked to any personal information. Data from Google Analytics allows us to monitor the use of this site, understand how users find the site and improve the site’s function and content.
+### 
 
-Site usage data collected through Google Analytics and Google Tag Manager is not shared with other Google products and tools. Our use of Google Analytics and Google Tag Manager is in compliance with Google’s Terms of Service. Google provides more information about [Google’s privacy practices and information on how to opt-out](https://support.google.com/analytics/answer/6004245) of Google Analytics and Google Tag Manager tracking of your web browsing.
+This site may contain links to external (non-VCU) websites. VCU is not responsible for the privacy practices or content of such websites.
 
-This site also uses a tracking technology called Hotjar to obtain site usage information to measure how visitors are using this website, time spent on each page and user interface elements clicked on, as well as to collect feedback via polls and or surveys. Our use of Hotjar is in compliance with Hotjar’s Terms of Use.
+### Providing information is your choice 
 
-## Contacting us
+There is no legal requirement for you to provide any information at our website. However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website but may prevent certain features from working. For any optional information that is requested at the website, failure to provide the requested information will mean that the particular feature or service associated with that part of the Web page may not be available to you.
 
-If you have additional questions or concerns about our privacy policies, please email the VCU Webmaster at [homepage@vcu.edu](mailto:homepage@vcu.edu). If you wish to review or change information gathered about you via an official VCU website, you may contact the VCU Webmaster, who will assist you in locating the person responsible for that site so that you may make your request for the review or change directly with that person.
+### Our commitment to information security 
+
+To prevent unauthorized access, maintain information accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online, consistent with the policies of the university and with the laws and regulations of the commonwealth of Virginia.\
+
+### Contacting us
+
+If you have additional questions or concerns about our privacy policies, please email the VCU Webmaster at [**webmaster** @vcu.edu](mailto:webmaster@vcu.edu). If you wish to review or change information gathered about you via an official VCU website, you may contact the VCU Webmaster, who will assist you in locating the person responsible for that site so that you may make your request for the review or change directly with that person.
