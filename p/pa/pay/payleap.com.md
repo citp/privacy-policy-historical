@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payleap.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091004id_/http%3A//www.payleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payleap.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925180310id_/http%3A//www.payleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PayLeap PayLeap
 
