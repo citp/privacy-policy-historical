@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the maldita.us privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513010855id_/http%3A//www.maldita.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maldita.us privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925053056id_/http%3A//www.maldita.us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Maldita™
+# Privacy Policy - Maldita™
+
+Privacy Policy
 
 **Your Privacy**
 
@@ -27,6 +29,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of [MALDITA](http://www.maldita.us/) then you may contact us [here](http://www.maldita.us/contact).
-
-  
-
