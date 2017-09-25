@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freefonts.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061457id_/http%3A//www.freefonts.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefonts.io privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925195459id_/https%3A//www.freefonts.io/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Free Fonts
 
 Last updated: August 08, 2015
 
