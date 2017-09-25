@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancytuning.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702060949id_/http%3A//fancytuning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancytuning.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925074603id_/http%3A//fancytuning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Car Tuning
 
