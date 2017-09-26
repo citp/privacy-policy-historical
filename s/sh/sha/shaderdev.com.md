@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaderdev.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527120814id_/http%3A//shaderdev.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaderdev.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926182012id_/http%3A//shaderdev.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CVG
 
