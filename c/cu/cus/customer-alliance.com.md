@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customer-alliance.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080106id_/http%3A//www.customer-alliance.com/en/data-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customer-alliance.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926231446id_/http%3A//www.customer-alliance.com/en/data-privacy) for the most accurate reproduction.*
 
 # Data Privacy - Customer Alliance | Customer Alliance
 
