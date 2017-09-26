@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysearchs.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319005757id_/http%3A//www.mysearchs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearchs.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926185510id_/http%3A//www.mysearchs.com/privacy) for the most accurate reproduction.*
 
 # MySearchs Toolbar
 
