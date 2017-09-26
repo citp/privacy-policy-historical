@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613115734id_/http%3A//jobhat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926190622id_/https%3A//www.jobhat.com/privacy_policy) for the most accurate reproduction.*
 
-# Search Jobs - Job Listings | JobHat
+# Woodbridge Jobs - Job Listings | JobHat
 
 #### JobHat.com PRIVACY POLICY Effective Date: April 16, 2010
 
