@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrepointstores.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527025922id_/http%3A//www.centrepointstores.com/ae/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrepointstores.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926153712id_/http%3A//www.centrepointstores.com/ae/en/privacypolicy) for the most accurate reproduction.*
 
 # Online Shopping at Centrepoint
 
@@ -81,8 +81,6 @@ __Email entered is registered already
 __Your recaptcha challenge answer is invalid. Please check and try again.
 
 Or via email
-
-Go ahead and use your LandmarkShops account if you have one.
 
 __Your Username or Password is incorrect
 
