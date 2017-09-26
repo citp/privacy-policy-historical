@@ -1,41 +1,54 @@
-> *The following text is extracted and transformed from the konicaminolta.eu privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319152247id_/http%3A//www.konicaminolta.eu/en/business-solutions/meta/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konicaminolta.eu privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926145807id_/https%3A//www.konicaminolta.eu/en/business-solutions/meta/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - KONICA MINOLTA | Europe
+# Privacy Policy - KONICA MINOLTA Europe
 
-Konica Minolta is committed to safeguarding the privacy of our website´s visitors. Please take the time to read the following policy carefully in order to understand how your personal data will be treated. Konica Minolta reserves the right to vary or amend this policy from time to time without notice, so please be sure to check it on a regular basis. 
+of Konica Minolta Business Solutions Europe GmbH (Last revised: June 1st, 2017) 
 
-**1\. Collection of information**
+The protection and security of personal data is important to us and is a central component of our Corporate Compliance process. Naturally, this also applies to data protection associated with the use of our website, which we would like to inform you about below. 
 
-The website can be visited and used without the User entering any personal information. 
+**I. Collection and processing of data**
 
-Some parts of the website offering the download of information or services may require that Users input personal data to receive the services or access special areas, or register as a User with password protection. In these cases, Konica Minolta points out for which purpose the data is raised as well as information on whether the data input is voluntary or mandatory for the usage of the services concerned. 
+We do not collect any personal data without your consent when you are using our website. In order to improve our website, we only collect certain communications and usage data, which cannot be traced back to a specific individual. 
 
-**2\. Use of this information**
+**I.1 Collection and processing of personal data**
 
-Konica Minolta saves and uses your personal data only for the specific purpose for which you intended i.e. agreed. The use of the personal data for any other purpose can only be effected when it is legal to do so. All of your personal data will be kept confidential and may be passed on to Konica Minolta employees or their agents only when it is necessary for the explicit purpose intended by the User. Please note that it may be necessary for Konica Minolta to forward such information between offices, affiliates or third party service providers, both inside and outside the European Economic Area. However, Konica Minolta uses its best endeavours to ensure that all involved entities protect your data adequately. Apart from said offices, affiliates and service providers, your data will not be given to any other third parties unless
+Some of the services offered on our website can only be provided if we are able to contact you (e.g. product or service requests). In this respect, the option to use these services is dependent on you providing us with specific personal data (contact details). We collect, use and process this data only to the extent necessary to provide you with the relevant service. We do not use or process the data in any other way unless this is permitted in accordance with legal provisions or you have expressly consented to this. You can revoke your consent at any time. To do this, please contact the contact person specified under Section V. 
 
-  * you have expressed your consent in writing;
-  * the information is necessary for the purpose of, or in connection with legal proceedings or in order to exercise or defend legal rights; or
-  * Konica Minolta is under legal obligation to do so.
+You can download applications under the sub-domain "evolution.konicaminolta.eu". However, to do so, you must first register with the bizhub evolution portal. The following data will be collected as part of the registration process and will be processed in order to prepare the application: Company address, customer status, title, first name and last name, telephone and fax number, e-mail address. If you have explicitly consented to this, your e-mail address will also be used to send you a regular newsletter. 
 
+We collect personalised data at [ecm.konicaminolta.eu](http://ecm.konicaminolta.eu/) in order to optimise our communication with you. We are committed to provide you always the most interesting marketing content about Konica Minolta’s solutions according your needs and your profile.Therefore, we store information as follows: Name, (First- and –Surname), email-address, company name, company addressc phone number, company size, industry, job title, job role, IT-Seats and user behaviour based on sent emails and user journey at [ecm.konicaminolta.eu](http://ecm.konicaminolta.eu/)
 
+Please be ensured that, these information will be used only for creating user profiles and will not be shared with external parties and will not be commercialised. 
 
-Upon request, Konica Minolta will provide you with information on the personal data collected and stored. Konica Minolta will correct any inaccurate data upon your request. You may, at any time, revoke the agreement to the use and storage of personal data and Konica Minolta will immediately delete the information upon receiving the revocation. In those cases where Konica Minolta is obliged to store the data for a certain period of time, the data will be made inaccessible. 
+**I.2 Collection and processing of communications and usage data**
 
-**3\. Cookies**
+Use of Piwik 
 
-We use cookies on our website. For further details, see our [Cookie Statement](https://web.archive.org/en/business-solutions/meta/cookies-statement.html). 
+This website uses Piwik, which is open-source software for the statistical analysis of visitor access information. Piwik uses cookies, which are text files that are stored on your computer and that enable your use of the website to be analyzed. The information generated by a cookie about your use of this website is stored on the provider's server in Germany. The IP address is anonymized immediately after processing and before storing. You can prevent cookies from being installed via the relevant setting in your browser software; however, we would like to point out that in this case you may not be able to fully use all the functions of this website. You can do this on[ this page](http://piwik.konicaminolta.eu/index.php?module=CoreAdminHome&action=optOut "Opens external link in new window"). 
 
-**4\. IP addresses**
+Use of Adobe Analytics (Omniture) 
 
-Upon visiting our website our server will record your IP address in combination with the date, time and duration of your visit. This information helps us to compile statistical data on the use of our website and to analyse how Users navigate through our website in order to evaluate and improve it to our visitors´ benefit. 
+In order to customize the design of our website to suit your needs, we create usage profiles under a pseudonym using Adobe Analytics (Omniture). Adobe Analytics uses cookies and tracking pixels, which are generally transferred to an Adobe server and stored there. Since we have activated the anonymization of IP addresses on the server, the geolocation detection and reach measurement processes only take place using IP addresses whereby the last octet has been dropped. You can revoke your consent to the creation of pseudonymized usage profiles at any time by deactivating usage analysis by Adobe via the link below: 
 
-**5\. Contact Information**
+<http://www.adobe.com/de/privacy/opt-out.html>
 
-If you have any questions in relation to this policy please contact us at: 
+**II. Use of cookies**
 
+To make our website attractive to visitors and enable the use of certain functions, we use cookies on various pages. These are small text files that are stored on your end device. Most of the cookies we use are deleted at the end of each browser session (referred to as session cookies). Other cookies remain on your end device and enable us to detect your browser the next time you visit (persistent cookies). You can set up your browser to inform you when cookies are saved, to enable you to decide whether to accept cookies on a case-by-case basis or to never accept cookies. If you choose not to accept cookies, the functionality of our website may be restricted. 
+
+**III. Right to information**
+
+You have the right to request information at any time about the data we hold that relates to you, about its origin and recipients and about the purpose for which it is being stored. To do this, please contact the contact person specified under Section IV. 
+
+**IV. Contact**
+
+You are welcome to contact our company data privacy officer at any time if you have any questions relating to the topic of data privacy. 
+
+This person is 
+
+Dr. Frederike Rehker  
 Konica Minolta Business Solutions Europe GmbH  
 Europaallee 17  
 30855 Langenhagen  
-Tel.: 0-800-64-66-582  
-eMail: info(at)konicaminolta.eu 
+Germany Telefon: +49 (0)511 7404-0  
+E-Mail: dataprotection(at)konicaminolta.eu
