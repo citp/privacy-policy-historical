@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gas2.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133028id_/http%3A//gas2.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gas2.org privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926032731id_/https%3A//gas2.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gas 2
-
-[](http://gas2.org/)   
-  
-
 
 **Gas2 Privacy Policy**  
 Date Last Revised: December 15 2016
@@ -122,7 +118,3 @@ This Site is intended for general audiences and is not directed to Children unde
 We post updates on our website whenever there is a change to our Privacy Policy We update this Privacy Policy periodically. The date last revised appears on the Policy. Changes take effect immediately upon posting.
 
 **[Contact us](mailto:accounts@importantmedia.org) if you have any questions or concerns.**
-
-  
-  
-
