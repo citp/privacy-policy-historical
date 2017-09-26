@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624221107id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926203835id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - cleverbridge Global Subscription Billing Solutions
+# Privacy Policy | cleverbridge
 
 cleverbridge AG and cleverbridge, Inc. (“ **cleverbridge** “) take the privacy and protection of personal information (“Personal Information”) very seriously. By visiting and using the cleverbridge website located at www.cleverbridge.com (“Site”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy (“Privacy Policy”).
 
