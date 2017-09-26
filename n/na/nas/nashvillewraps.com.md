@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashvillewraps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154211id_/http%3A//www.nashvillewraps.com/ShowPage.ww%3FPage%3DPOLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillewraps.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927005827id_/http%3A//www.nashvillewraps.com/ShowPage.ww%3FPage%3DPOLICY) for the most accurate reproduction.*
 
 # Nashville Wraps Privacy Policy
 
