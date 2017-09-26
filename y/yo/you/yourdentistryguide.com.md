@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616015343id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926155111id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Consumer Guide to Dentistry
 
