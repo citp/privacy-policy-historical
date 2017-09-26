@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614212535id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926164307id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We are totally committed to ensuring that your online shopping experience is com
   * What information we collect 
   * Credit Card Fraud Prevention 
   * Phishing 
-  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20170614212535id_/http%3A//www.ryman.co.uk/cookie-policy)
+  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20170926164307id_/http://www.ryman.co.uk/privacy-policy/cookie-policy)
 
 
 
