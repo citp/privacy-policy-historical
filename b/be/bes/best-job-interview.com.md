@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082608id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926163720id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ www.best-job-interview.com contains links to other sites but we are not responsi
 
  **Web Searching from this Site**
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.co.uk/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
+The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at [http://www.google.co.uk/privacy.html](https://www.google.co.uk/privacy.html)) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
 **Use of Cookies**
 
@@ -42,7 +42,7 @@ No personally identifiable information you give us is provided to them for cooki
 Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to other sites on the Web.   
 
 
-You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
+You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/). 
 
 Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose.
 
