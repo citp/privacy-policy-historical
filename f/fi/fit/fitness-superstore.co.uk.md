@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitness-superstore.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153001id_/http%3A//www.fitness-superstore.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness-superstore.co.uk privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927011057id_/http%3A//www.fitness-superstore.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Fitness Superstore | Privacy Policy
 
