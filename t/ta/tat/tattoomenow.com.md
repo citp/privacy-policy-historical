@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoomenow.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509195110id_/http%3A//www.tattoomenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoomenow.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926183244id_/http%3A//www.tattoomenow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy —
 
