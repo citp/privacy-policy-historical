@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haphost.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212174017id_/http%3A//haphost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haphost.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927011606id_/http%3A//haphost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Haphost
 
