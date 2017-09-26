@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic-speedway.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604050531id_/http%3A//traffic-speedway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-speedway.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926182720id_/http%3A//traffic-speedway.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Speedway Privacy Policy
 
@@ -31,4 +31,4 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-Copyright © 2009 Traffic Speedway All Rights Reserved.
+Copyright � 2009 Traffic Speedway All Rights Reserved.
