@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposure.so privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326100357id_/https%3A//exposure.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposure.so privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926155623id_/https%3A//exposure.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Exposure
 
