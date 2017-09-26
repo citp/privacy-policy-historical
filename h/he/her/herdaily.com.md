@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herdaily.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627223234id_/http%3A//herdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdaily.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926070208id_/http%3A//herdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Her Daily
 
