@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155918id_/http%3A//www.startupdonut.co.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926031857id_/http%3A//www.startupdonut.co.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Startup Donut
 
