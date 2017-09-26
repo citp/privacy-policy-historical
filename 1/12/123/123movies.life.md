@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123movies.life privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609122219id_/http%3A//123movies.life/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123movies.life privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926152604id_/http%3A//123movies.life/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 123 Movies
 
