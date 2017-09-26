@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperpma.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110110643id_/http%3A//hyperpma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperpma.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926203158id_/http%3A//hyperpma.com/privacy) for the most accurate reproduction.*
 
 # HyperPMA.com | Intelligent Project Planning & Management
 
