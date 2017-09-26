@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000bulbs.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225232501id_/https%3A//www.1000bulbs.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000bulbs.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926032954id_/https%3A//www.1000bulbs.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 1000Bulbs.com
 
@@ -38,9 +38,9 @@ If your personal information changes or you would like to review the personal in
 
 ### Computer Tracking and Cookies
 
-Our web site is not set up to track, collect or distribute personal information not entered by its visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our site. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
+Our web site is not set up to track, collect or distribute personal information not entered by its visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our site. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. Cookies are also used to single out users and send personalized advertising based on their browsing experience. To learn more or opt out of shared cookie pool emails, visit [www.criteo.com/privacy](https://www.criteo.com/privacy).
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. 1000BULBS.COM uses non-identifying cookies to provide easier site navigation and access to forms. You can still use 1000BULBS.COM site if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. 1000BULBS.COM uses non-identifying cookies to provide easier site navigation and access to forms. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you.
 
 ### Problems
 
