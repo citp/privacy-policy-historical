@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmediatabsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104805id_/http%3A//bestmediatabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmediatabsearch.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927193447id_/http%3A//www.bestmediatabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # BestMediaTab | Privacy Policy
 
