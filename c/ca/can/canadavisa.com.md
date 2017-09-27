@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618012936id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927140408id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Campbell Cohen Law Firm & CanadaVisa
 
