@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaymu.com.ng privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222135009id_/https%3A//market.jumia.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaymu.com.ng privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927122525id_/https%3A//market.jumia.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Confidentiality | Jumia Market (Kaymu) Nigeria
 
