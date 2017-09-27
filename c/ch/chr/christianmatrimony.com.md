@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianmatrimony.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119190719id_/http%3A//www.christianmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianmatrimony.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927105627id_/https%3A//www.christianmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Christian Matrimony, Matrimony, Indian Matrimony
 
