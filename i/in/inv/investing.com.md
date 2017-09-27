@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investing.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218034235id_/https%3A//www.investing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investing.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927154440id_/https%3A//www.investing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Investing.com
 
