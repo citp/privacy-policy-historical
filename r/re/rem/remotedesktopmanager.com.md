@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230433id_/https%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927121929id_/https%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Devolutions
 
