@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palazzo.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026155038id_/https%3A//www.palazzo.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palazzo.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927220610id_/https%3A//www.palazzo.com/policy.html) for the most accurate reproduction.*
 
-# The Palazzo® Las Vegas: Privacy Policy
+# Privacy Policy
 
 **Online Privacy Policy**
 
