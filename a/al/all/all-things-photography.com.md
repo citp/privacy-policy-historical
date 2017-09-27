@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-things-photography.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143618id_/http%3A//www.all-things-photography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-things-photography.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927023419id_/http%3A//www.all-things-photography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.all-things-photography.com | ATP
 
@@ -42,7 +42,7 @@ If All Things Photography is sold, the information we have obtained from you thr
 
 **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](http://www.all-things-photography.com/contact-us/ "Contact ATP") page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](https://www.all-things-photography.com/contact-us/ "Contact ATP") page.
 
 **Updates and Effective Date**
 
