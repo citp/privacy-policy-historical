@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520065010id_/https%3A//picsart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927122621id_/https%3A//picsart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PicsArt
 
@@ -77,7 +77,7 @@ The PicsArt Services do not currently observe Do Not Track settings.
 
 ##  A NOTE TO CALIFORNIA RESIDENTS 
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information (if any) by PicsArt to third parties for the third parties' direct marketing purposes. To make this request, please email [privacy@picsart.com](mailto:privacy@picsart.com) or write to us using this address: PicsArt, Inc., Attn: Legal, 351 California Street, Mezzanine, San Francisco CA 94104. 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information (if any) by PicsArt to third parties for the third parties' direct marketing purposes. To make this request, please email [privacy@picsart.com](mailto:privacy@picsart.com) or contact us using this address: PicsArt, Inc., Attn: Legal, 351 California Street, Mezzanine, San Francisco CA 94104. 
 
 If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an email with a detailed description of the specific content or information to privacy@picsart.com. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested. 
 
@@ -87,4 +87,5 @@ We may change this Privacy Policy from time to time. If we make any changes to t
 
 ##  QUESTIONS 
 
-If you have any questions about this Privacy Policy, please visit our query page at [PicsArt troubleshooting.](https://web.archive.org/troubleshooting)
+If you have any questions about this Privacy Policy, please visit our query page at [PicsArt troubleshooting.](https://web.archive.org/troubleshooting)   
+
