@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consoloservices.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109133658id_/http%3A//www.consoloservices.com/www.consoloservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consoloservices.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927092431id_/http%3A//www.consoloservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consolo Services Group
 
