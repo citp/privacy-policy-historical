@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsjam.in privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529031752id_/http%3A//www.sportsjam.in/pages/Privacy-Policy/pgid-68451.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsjam.in privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927164307id_/https%3A//www.sportsjam.in/pages/Privacy-Policy/pgid-68451.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
