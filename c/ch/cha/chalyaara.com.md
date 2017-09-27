@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chalyaara.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507191733id_/http%3A//www.chalyaara.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalyaara.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927185154id_/http%3A//chalyaara.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Chalyaara
 
-This Privacy Policy governs the manner in which “Chalyaara Holidays“ collects, uses, maintains and discloses information collected from users (each, a “User“) of the www.chalyaara.com website (“Site“). This privacy policy applies to the site and all products and services offered by us. 
+This Privacy Policy governs the manner in which “ChalYaara Travel Solutions LLP“ collects, uses, maintains and discloses information collected from users (each, a “User“) of the www.chalyaara.com website (“Site“). This privacy policy applies to the site and all products and services offered by us. 
 
 **DISCLAIMER**
 
-The material displayed on this website, from time to time, (the “Material”) is provided “as is“ without warranties or conditions of any kind either expressed or implied. To the fullest extent possible under applicable law, www.chalyaara.com disclaims all warranties and conditions respecting the Material, expressed or implied, including but not limited to, implied warranties or conditions of merchantability and fitness for a particular purpose, non-infringement or other violation of rights. “Chalyaara Holidays“ does not warrant or make any other representations regarding the use, accuracy, timelines, applicability, performance, security, availability or reliability of this website or any sites linked to this site, or the results from the use of this website or any sites linked to this website, or otherwise respecting the materials on this website or any sites linked to this website.
+The material displayed on this website, from time to time, (the “Material”) is provided “as is“ without warranties or conditions of any kind either expressed or implied. To the fullest extent possible under applicable law, www.chalyaara.com disclaims all warranties and conditions respecting the Material, expressed or implied, including but not limited to, implied warranties or conditions of merchantability and fitness for a particular purpose, non-infringement or other violation of rights. “ChalYaara Travel Solutions LLP“ does not warrant or make any other representations regarding the use, accuracy, timelines, applicability, performance, security, availability or reliability of this website or any sites linked to this site, or the results from the use of this website or any sites linked to this website, or otherwise respecting the materials on this website or any sites linked to this website.
 
-All information on this website, www.chalyaara.com is subject to change without notice. “Chalyaara Holidays“ does not endorse any of the organizations referred to on this website. Any links to other websites are provided for convenience only; “Chalyaara Holidays“ does not review or monitor the content of those sites and disclaims any responsibility for their content and accuracy. “Chalyaara Holidays“ does not make any representations or warranties as to the reliability, financial condition or suitability for any particular purpose of any organization referred to on this website. You are advised to make your own inquiries of any organization presented on this site to determine if they are satisfactory for your purposes. “Chalyaara Holidays“ disclaims any liability in negligence or otherwise for any loss or damage which may occur as a result of reliance on any of this material
+All information on this website, www.chalyaara.com is subject to change without notice. “ChalYaara Travel Solutions LLP“ does not endorse any of the organizations referred to on this website. Any links to other websites are provided for convenience only; “ChalYaara Travel Solutions LLP“ does not review or monitor the content of those sites and disclaims any responsibility for their content and accuracy. “ChalYaara Travel Solutions LLP“ does not make any representations or warranties as to the reliability, financial condition or suitability for any particular purpose of any organization referred to on this website. You are advised to make your own inquiries of any organization presented on this site to determine if they are satisfactory for your purposes. “ChalYaara Travel Solutions LLP“ disclaims any liability in negligence or otherwise for any loss or damage which may occur as a result of reliance on any of this material
 
 **Personal identification information**
 
@@ -95,10 +95,10 @@ By using this site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us Registered Office
 
-### Chalyaara Holidays
+### ChalYaara Travel Solutions LLP
 
-1404, Tower-4, Panchsheel Wellington,   
-Crossing Republik, NH-24Ghaziabad, Uttar Pradesh  
-INDIA - 201016  
-Phone No : 8447497538  
+C- 266, LGF, Sector-63,  
+Noida, Uttar Pradesh  
+INDIA - 201301  
+Phone No : 7042507538  
 Email ID : info@chalyaara.com
