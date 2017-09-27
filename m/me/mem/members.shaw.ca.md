@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members.shaw.ca privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216234607id_/http%3A//www.shaw.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members.shaw.ca privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927210031id_/http%3A//www.shaw.ca/privacy-policy) for the most accurate reproduction.*
 
 # Shaw Privacy Policy | Online Policies - Shaw - Shaw.ca
 
@@ -59,7 +59,7 @@ The use of cookies is an industry standard and many major browsers are initially
 
 You can opt-out of several third party ad servers' and networks' cookies simultaneously using a tool created by the Network Advertising Initiative located at <http://www.networkadvertising.org/managing/opt_out.asp>. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. 
 
-**Collection and Use of Television Set-Top Box Data:** Certain digital set-top boxes used by Customers who subscribe for cable television services, and the FREERANGE TV mobile app, automatically collect raw household tuning data (the "Tuning Data"). Tuning Data is used for billing purposes, diagnostic purposes, for the tuning of recommendation engines and to measure television viewership. Shaw creates a database of anonymized and aggregated viewing behaviour by pairing Tuning Data with non-sensitive information in Customer files. This helps Shaw understand Customer reactions to television content and advertising. The collection of Tuning Data is critical to operating our cable television services and cannot be disabled. However, you can choose to opt-out of Shaw's use of Tuning Data in an anonymized and aggregated database by using the process described in Subsection 3.3 below. You can also disable the delivery of recommendations via your set-top-box settings. 
+**Collection and Use of Television Set-Top Box Data:** Certain digital set-top boxes used by Customers who subscribe for cable television services, and the FREERANGE TV mobile app, automatically collect raw household tuning data (the "Tuning Data"). Tuning Data is used for billing purposes, diagnostic purposes, for the tuning of recommendation engines and to measure television viewership. Shaw creates a database of anonymized and/or aggregated viewing behaviour by pairing Tuning Data with non-sensitive information in Customer files. This helps Shaw understand Customer reactions to television content and advertising. The collection of Tuning Data is critical to operating our cable television services and cannot be disabled. However, you can choose to opt-out of Shaw's use of Tuning Data in an anonymized and aggregated database by using the process described in Subsection 3.3 below. You can also disable the delivery of recommendations via your set-top-box settings. 
 
 **Shaw Go WiFi:** In order to access Shaw Go WiFi, you will be requested to provide your Shaw userid, password and certain other information that may be requested from time to time. Shaw will also automatically collect certain information such as device location, device type, and general usage information associated to the Media Access Control (“MAC”) address associated with your device (the “Device Information”). The Device Information is used to deliver the Shaw Go Wifi service, monitor and improve network traffic, improve your Shaw Go WiFi experience and for research and statistical purposes. Shaw may from time to time use the Device Information to deliver advertising to the browser you are using to access the Internet as outlined is our Terms of Use for Shaw Go WiFi. In certain instances, Shaw will rely on a third party to deliver Shaw Go WiFi services at a specified location (for example, certain airports, universities or other public buildings). The relationship with the third party is governed by strict privacy provisions, in compliance with PIPEDA. As part of the delivery of the Shaw Go WiFi services, the third party may have access to the Device Information, which can only be used for limited network monitoring and improvement purposes. 
 
@@ -96,7 +96,6 @@ Internally, only Shaw Employees with a business need to know, or whose duties re
   5. an agent used by Shaw to evaluate the Customer's credit worthiness or to collect the Customer's account; 
   6. a credit reporting agency; and 
   7. a third party, where the Customer has given Shaw consent to such disclosure or if disclosure is permitted or required by law, in accordance with PIPEDA. 
-  
 
 
 
@@ -120,7 +119,8 @@ _Disclosure of Personal Information to government organizations, including law e
 
 Shaw routinely receives requests from government organizations, including law enforcement agencies. These requests are individually and carefully vetted internally by a team of experts. Shaw will only disclose Personal Information in response to these requests when permitted by law, in accordance with PIPEDA. 
 
-For more details and to view Shaw’s Transparency Report, please click on the following link: [Transparency: Our Commitment and Approach](https://web.archive.org/uploadedFiles/Privacy_Policy/Shaw_Transparency_Report_2015-_FINAL.pdf).
+For more details and to view Shaw’s Transparency Report, please click on the following link:  
+[Transparency: Our Commitment and Approach](https://web.archive.org/uploadedFiles/Privacy_Policy/Shaw_Transparency_Report_2015-_FINAL.pdf).
 
 * **3.5 Who does Shaw share Personal Information with?**
 
