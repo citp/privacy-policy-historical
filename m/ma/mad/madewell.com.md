@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321144416id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928105648id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Madewell Private Policy - Madewell
 
@@ -26,7 +26,7 @@ SIZE CHARTS
   
 ## **OUR PRIVACY POLICY**
 
-**Last Updated: April 30, 2015**
+**Last Updated: April 4, 2017**
 
 This Privacy Policy describes how J.Crew Group, Inc. and our brands and subsidiaries (including but not limited to J.Crew, crewcuts, Factory and Madewell) (collectively, "J.Crew," "we" or "us") collect, use and share information about you. This policy applies to information we collect when you use our websites, shop in our stores or otherwise interact with us as described below.
 
@@ -48,7 +48,7 @@ We automatically collect certain information about you when you access or use ou
 
   * **Log Information:** We collect information about your use of our websites, such as the type of browser you use, access times, pages viewed, your IP address and the referring link through which you accessed our websites.
   * **Transaction Information:** When you purchase or return a product, we collect information about the transaction, such as product details and the date and location of the purchase/return.
-  * **Information Collected by Cookies and Other Tracking Technologies:** We may use cookies, web beacons (also known as "tracking pixels") and other tracking technologies to collect information about you when you interact with our websites or emails, including information about your browsing and purchasing behavior. We may combine this information with other information we collect about you and use it for various purposes, such as improving our websites and your online experience, understanding which areas and features of our sites are popular, counting visits, understanding campaign effectiveness, tailoring our communications with you, determining whether an email has been opened and links within the email have been clicked and for other internal business purposes. For more information about cookies and how to disable them, please see [Your Choices.](https://web.archive.org/help/privacy_policy.jsp#yourchoices)
+  * **Information Collected by Cookies and Other Tracking Technologies:** We may use cookies, web beacons (also known as "tracking pixels") and other tracking technologies to collect information about you when you interact with our websites or emails, including information about your browsing and purchasing behavior. We may combine this information with other information we collect about you and use it for various purposes, such as improving our websites and your online experience, understanding which areas and features of our sites are popular, counting visits, understanding campaign effectiveness, tailoring our communications with you, determining whether an email has been opened and links within the email have been clicked and for other internal business purposes. For more information about cookies and how to disable them, please see [cookies.](https://web.archive.org/help/privacy_policy.jsp#yourchoices)
 
 
 
@@ -130,9 +130,11 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. J.Crew permits California residents to opt out of having their information shared with third parties for direct marketing purposes. To opt out, please log into your online account and change your settings under the "Catalog Preferences" page or [contact us ](https://web.archive.org/help/privacy_policy.jsp#contactus).
 
-### safe harbor statement 
+### for customers in the EU and Switzerland
 
-J.Crew recognizes that the European Union (“EU”) and Switzerland have implemented omnibus data protection regimes established pursuant to the European Data Protection Directive (95/46/EC) and the Swiss Federal Act on Data Protection, respectively. Among other things, these laws require “adequate protection” for the transfer of certain individually identifiable data about individuals in EU member countries and Switzerland to J.Crew’s operations in the United States of America (“U.S.”). J.Crew complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from EU member countries and Switzerland. J.Crew has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view J.Crew’s certification, please visit [www.export.gov/safeharbor/](http://export.gov/safeharbor/). 
+In connection with J.Crew's processing of personal data it receives from Switzerland and the EU ("EU Data"), we adhere to the U.S.-Swiss Safe Harbor Framework and the EU-U.S. Privacy Shield Framework Principles of notice; choice; onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement and liability designed by the U.S. Department of Commerce and the European Commission (the "Principles"). For more information about J.Crew's certification and the Principles, please visit [the Department of Commerce's Privacy Shield website](https://www.privacyshield.gov/welcome).
+
+Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the "Contact Us" section below. If we do not resolve your complaint, you may submit your complaint free of charge to [JAMS](https://www.jamsadr.com/), our designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint. J.Crew is subject to the investigatory and enforcement powers of the FTC. If J.Crew shares EU Data with a third-party service provider that processes the data solely on our behalf, then we will be liable for that third party's processing of EU Data in violation of the Principles, unless we can prove that we are not responsible for the event giving rise to the damage.
 
 ### contact us 
 
