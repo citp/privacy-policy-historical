@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cmuse.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611100805id_/http%3A//www.cmuse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmuse.org privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928161948id_/http%3A//www.cmuse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CMUSE
-
-[Home](http://www.cmuse.org/) Privacy Policy
 
 This privacy policy sets out how CMUSE uses and protects any information that you give us when you use this website.  
 CMUSE is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
