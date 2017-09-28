@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeklens.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415174059id_/https%3A//sleeklens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeklens.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928211936id_/https%3A//sleeklens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sleeklens - Handmade professional Lightroom presets
 
