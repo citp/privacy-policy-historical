@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328212438id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928162532id_/https%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security - ePromos Education Center
 
-  * [Privacy Policy](http://www.epromos.com/support/privacy-security/#privacy)
-  * [Security](http://www.epromos.com/support/privacy-security/#security)
+  * [Privacy Policy](https://www.epromos.com/support/privacy-security/#privacy)
+  * [Security](https://www.epromos.com/support/privacy-security/#security)
 
 
 
@@ -13,8 +13,8 @@
 
 This is the web site of **ePromos.com, Inc.**  
 Our postal address is:  
-**120 Broadway, Ste 1360  
-New York, NY 10271-0079**
+**113 5th Avenue South  
+St. Cloud, MN 56301**
 
 We can be reached via e-mail at [customerservice@epromos.com](mailto:customerservice@epromos.com) or you can reach us by telephone at 212-286-8008.
 
