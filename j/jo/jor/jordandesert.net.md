@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordandesert.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022213311id_/http%3A//jordandesert.net/english/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordandesert.net privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928190315id_/http%3A//jordandesert.net/english/privacypolicy.html) for the most accurate reproduction.*
 
 # Jordan Desert Trips & Tours
 
