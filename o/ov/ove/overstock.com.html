@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the overstock.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317070907id_/https%3A//help.overstock.com/cgi-bin/overstock.cfg/php/enduser/std_adp.php%3Fp_faqid%3D65%26TID%3DFoot%3APrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the overstock.com privacy policy that was archived on 2017-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170929014138id_/https%3A//help.overstock.com/cgi-bin/overstock.cfg/php/enduser/std_adp.php%3Fp_faqid%3D65) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document"><head>
 				<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -15,8 +15,8 @@
 .rn_ScreenReaderOnly{position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;}
 .rn_Hidden{display:none;}
 </style>
-<base href="https://help.overstock.com/euf/rightnow/optimized/1421440427/themes/standard/">
-<link href="/euf/rightnow/optimized/1421440427/templates/ostk_standard_new.themes.standard.SITE.css" rel="stylesheet" type="text/css" media="all">
+<base href="https://help.overstock.com/euf/rightnow/optimized/1506269347/themes/standard/">
+<link href="/euf/rightnow/optimized/1506269347/templates/ostk_standard_new.themes.standard.SITE.css" rel="stylesheet" type="text/css" media="all">
 <style type="text/css">.rn_SearchButton2{display:inline;bottom: 0px;}
 .rn_SearchButton2 input{border:none;vertical-align:top;}
 .rn_SearchButton2 .rn_SubmitButton{background-color:#0E53A7;color:#FFF;cursor:pointer;font-weight:bold;}
@@ -30,7 +30,7 @@
 .rn_AnswerFeedback2 .rn_ThanksLabel{margin-left:3em;overflow:hidden;}
 .yui-panel.rn_Dialog.rn_FeedbackDialog{width:375px;}
 .rn_AnswerFeedback2 .rn_Title{border-bottom:1px solid #BBB;margin-bottom:10px;padding-bottom:2px;font-size:1.333em;font-weight:bold;line-height:1.4em;}
-.rn_AnswerFeedback2 .rn_RatingMeter a.rn_RatingCell{background:url(/euf/rightnow/optimized/1421440427/themes/standard/images/RatingStars.png) 0 0 no-repeat;display: -moz-inline-box;display: inline-block;height:18px;margin:4px 0;text-decoration:none;width:20px;}
+.rn_AnswerFeedback2 .rn_RatingMeter a.rn_RatingCell{background:url(/euf/rightnow/optimized/1506269347/themes/standard/images/RatingStars.png) 0 0 no-repeat;display: -moz-inline-box;display: inline-block;height:18px;margin:4px 0;text-decoration:none;width:20px;}
 .rn_AnswerFeedback2 .rn_RatingMeter a.rn_RatingCellOver{background-position:0px -18px;cursor:pointer;}
 .rn_AnswerFeedback2Form .rn_DialogSubtitle{margin-bottom:6px;text-align:left;}
 .rn_AnswerFeedback2Form label{clear:left;display:block;}
@@ -81,9 +81,13 @@
 @media print{.rn_PreviousAnswers2{display:none;}
 }
 </style>
-   
-		<link href="/euf/assets/themes/standard/upgrades.css" type="text/css" rel="stylesheet"> 
+
+		<link href="/euf/assets/themes/standard/upgrades.css" type="text/css" rel="stylesheet">
 		<link rel="shortcut icon" href="https://www.overstock.com/favicon.ico">
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+		<script src="/euf/assets/javascript/ostk_ekb_main.js"></script>
+        <link rel="stylesheet" href="/euf/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/euf/assets/css/font-awesome.min.css">
 		<!-- <link rel="stylesheet" type="text/css" href="https://www.overstock.com/css/os-master.1.2.2.min.css"> -->
 		<link href="/euf/assets/css/customer_care.css" rel="stylesheet" type="text/css">
 		<!--[if IE]><![endif]-->
@@ -96,7 +100,7 @@
 		<link href="/euf/assets/css/rn_ie6.css" rel="stylesheet" type="text/css" media="all" />
 		<![endif]-->
 		<link href="/euf/assets/themes/standard/upgrades.css" rel="stylesheet" type="text/css">
-		<script async="" defer="" type="text/javascript" src="//www.rnengage.com/api/1/javascript/acs.js"></script><script async="" defer="" type="text/javascript" src="https://www.rnengage.com/api/e/ca22249/e.js"></script><script language="JavaScript">
+		<script language="JavaScript">
 			window.onload=function() {
 				var colname = document.querySelectorAll('.column');
 				var colsize;
@@ -132,38 +136,55 @@
 				}, true);
 			}
 			else {
-				//The browser does not support Javascript event binding
+			//The browser does not support Javascript event binding
 			}
-		</script>
+			window.parseTLSinfo = function(data) {
+			  var version = data.tls_version.split(' ');
+			  if(version[0] != 'TLS' || version[1] < 1.1) {
+			  	alert("It looks like your browser is still using an older version of Transport Layer Security (TLS v1.0). Overstock's Help Center will soon start blocking browsers that are still using TLS v.1.0, so we recommend you upgrade your browser to the most recent version as quickly as possible.");
+			  }
+			};
+	</script>
+	<script src="https://www.howsmyssl.com/a/check?callback=parseTLSinfo"></script>
 	</head>
 	
-<body id="rn_secondarystyle" class="yui-skin-sam">
+<body id="rn_secondarystyle" class="yui-skin-sam" ng-app="OstkEkbMain">
 <form class="rn_Hidden"><input id="rn_History_Field" type="hidden"></form>
-		<div id="support-home-page" class="page-wrapper">		
+		<div id="support-home-page" class="page-wrapper" ng-controller="OstkEkbMainController">
 			<div id="hd">
 				<div class="os-logo help-center-logo" style="float:left">
 					<a title="Go to Homepage" href="http://www.overstock.com">Overstock.com</a>
 				</div>
 				<style type="text/css">
 					.header_right {
-						float:left;
-						padding: 20px;							
-					}				
+					float:left;
+					padding: 20px;
+					}
 				</style>
 				<div class="header_right">
 											<form method="post" onsubmit="return false">
 							<input type="text" style="display:none" name="oDiscard">
+
 <div id="rn_KeywordText2_1" class="rn_KeywordText2">
+
     <label for="rn_KeywordText2_1_Text"></label>
-            <input id="rn_KeywordText2_1_Text" name="rn_KeywordText2_1_Text" type="text" maxlength="255" value="" size="30">
+
+        
+    <input id="rn_KeywordText2_1_Text" name="rn_KeywordText2_1_Text" type="text" maxlength="255" value="" size="30">
+
 </div>
 							<div id="rn_SearchButton2_2" class="rn_SearchButton2">
+
+
         <input type="submit" class="search_btn" value="">
-        </div>
+
+    
+    
+</div>
 						</form>
 									</div>
 			</div><!-- /#hd -->
-			<div id="bd">			
+			<div id="bd">
 				<div id="content-nav-a">
 					<div class="content-block">
 						<h2>Help Topics</h2>
@@ -172,67 +193,97 @@
 								<div id="LeftNav_new">
 <script language="javascript" type="text/javascript">
 
+
 function show_more(cat_id, count) {
+
 
     var more_link = document.getElementById('more_link_' + cat_id);
 
+
 		more_link.style.display = 'none';
+
 
     var i;
 
+
 //alert(count);
+
 
     for (i=3; i<=count; i=i+1) { 
 
+
         var show_link = document.getElementById('more_link_' + cat_id + i);
+
 
 		    show_link.style.display = 'block';
 
+
     }
+
 
 }
 
+
 </script>
+
 
 <div id="LeftNavMenu">
 
+
   <div id="LeftNav_Menu_Text">
 
-    <ul class="help-topic-nav"><ul class="help_home"><li><a class="noIntercept" href="/app"><b>Back to Help Home</b></a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/3"><b>Orders</b></a></li><input type="hidden" id="cat_link_0_cat" name="cat_link_0_cat" value="3"><ul class="topics_answers"><li id="more_link_30" style="display:none"><a href="/app/answers/detail/a_id/1505/c/3">International Help Home</a></li><li id="more_link_31" style="display:none"><a href="/app/answers/detail/a_id/15/c/3">Can I Cancel My Order?</a></li><li id="more_link_32" style="display:none"><a href="/app/answers/detail/a_id/950/c/3">Order Status</a></li><li id="more_link_33" style="display:none"><a href="/app/answers/detail/a_id/1055/c/3">Live Chat</a></li><li id="more_link_34" style="display:none"><a href="/app/answers/detail/a_id/1651/c/3">International Order Process</a></li><li id="more_link_35" style="display:none"><a href="/app/answers/detail/a_id/1193/c/3">Can I Change My Order?</a></li><li id="more_link_36" style="display:none"><a href="/app/answers/detail/a_id/2805/c/3">O.biz Help Home</a></li><li id="more_link_37" style="display:none"><a href="/app/answers/detail/a_id/14/c/3">How to Place an Order</a></li><li id="more_link_38" style="display:none"><a href="/app/answers/detail/a_id/13/c/3">Adding or Modifying Items in Your Shopping Cart</a></li><li id="more_link_39" style="display:none"><a href="/app/answers/detail/a_id/646/c/3">How to Enable Cookies</a></li><li id="more_link_310" style="display:none"><a href="/app/answers/detail/a_id/1010/c/3">Missing Parts</a></li><li id="more_link_311" style="display:none"><a href="/app/answers/detail/a_id/5728/c/3">Club O Rewards MasterCard</a></li><li id="more_link_312" style="display:none"><a href="/app/answers/detail/a_id/16/c/3">Coupon and Promotional Code Help</a></li><li id="more_link_313" style="display:none"><a href="/app/answers/detail/a_id/48/c/3">Price Changes</a></li><li id="more_link_314" style="display:none"><a href="/app/answers/detail/a_id/29/c/3">Print a Receipt</a></li><li id="more_link_315" style="display:none"><a href="/app/answers/detail/a_id/893/c/3">Special Shipping Offers &amp; Promotions</a></li><li id="more_link_316" style="display:none"><a href="/app/answers/detail/a_id/96/c/3">Pre-order Information</a></li><li id="more_link_317" style="display:none"><a href="/app/answers/detail/a_id/11/c/3">Finding a Specific Item</a></li><li id="more_link_318" style="display:none"><a href="/app/answers/detail/a_id/5574/c/3">在O.co 购物，轻松、放心。</a></li><li id="more_link_319" style="display:none"><a href="/app/answers/detail/a_id/94/c/3">How to Contact Customer Service</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/2"><b>Shipping</b></a></li><input type="hidden" id="cat_link_19_cat" name="cat_link_19_cat" value="2"><ul class="topics_answers"><li id="more_link_20" style="display:none"><a href="/app/answers/detail/a_id/7/c/2">Shipping &amp; Delivery</a></li><li id="more_link_21" style="display:none"><a href="/app/answers/detail/a_id/5739/c/2">Europe Shipping Timeframes</a></li><li id="more_link_22" style="display:none"><a href="/app/answers/detail/a_id/5737/c/2">Asia-Pacific Shipping Timeframes</a></li><li id="more_link_23" style="display:none"><a href="/app/answers/detail/a_id/5740/c/2">North and South America Shipping Timeframes</a></li><li id="more_link_24" style="display:none"><a href="/app/answers/detail/a_id/5733/c/2">Shipping &amp; Delivery Exceptions</a></li><li id="more_link_25" style="display:none"><a href="/app/answers/detail/a_id/5738/c/2">Middle East Shipping Timeframes</a></li><li id="more_link_26" style="display:none"><a href="/app/answers/detail/a_id/2894/c/2">O.biz Non-Returnable Items</a></li><li id="more_link_27" style="display:none"><a href="/app/answers/detail/a_id/5736/c/2">Africa Shipping Timeframes</a></li><li id="more_link_28" style="display:none"><a href="/app/answers/detail/a_id/5732/c/2">Shipment Damage in Transit</a></li><li id="more_link_29" style="display:none"><a href="/app/answers/detail/a_id/5534/c/2">Carbon Neutral Shipping</a></li><li id="more_link_210" style="display:none"><a href="/app/answers/detail/a_id/1387/c/2">Holiday Return Policy</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/1"><b>Returns</b></a></li><input type="hidden" id="cat_link_10_cat" name="cat_link_10_cat" value="1"><ul class="topics_answers"><li id="more_link_10" style="display:none"><a href="/app/answers/detail/a_id/1/c/1">Standard Return Policy</a></li><li id="more_link_11" style="display:none"><a href="/app/answers/detail/a_id/3/c/1">How to Return an Item</a></li><li id="more_link_12" style="display:none"><a href="/app/answers/detail/a_id/191/c/1">Non-Returnable Items</a></li><li id="more_link_13" style="display:none"><a href="/app/answers/detail/a_id/2/c/1">Oversized Item Return Policy</a></li><li id="more_link_14" style="display:none"><a href="/app/answers/detail/a_id/6/c/1">Refund Policy</a></li><li id="more_link_15" style="display:none"><a href="/app/answers/detail/a_id/977/c/1">How to Print a Return Shipping Label</a></li><li id="more_link_16" style="display:none"><a href="/app/answers/detail/a_id/2894/c/1">O.biz Non-Returnable Items</a></li><li id="more_link_17" style="display:none"><a href="/app/answers/detail/a_id/5845/c/1">Gift Returns</a></li><li id="more_link_18" style="display:none"><a href="/app/answers/detail/a_id/1010/c/1">Missing Parts</a></li><li id="more_link_19" style="display:none"><a href="/app/answers/detail/a_id/193/c/1">Products Returned After 30 days</a></li><li id="more_link_110" style="display:none"><a href="/app/answers/detail/a_id/913/c/1">How to Return a Gift</a></li><li id="more_link_111" style="display:none"><a href="/app/answers/detail/a_id/1387/c/1">Holiday Return Policy</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/4"><b>Payment Options</b></a></li><input type="hidden" id="cat_link_11_cat" name="cat_link_11_cat" value="4"><ul class="topics_answers"><li id="more_link_40" style="display:none"><a href="/app/answers/detail/a_id/5829/c/4">Overstock Store Credit Card</a></li><li id="more_link_41" style="display:none"><a href="/app/answers/detail/a_id/18/c/4">Payment Information</a></li><li id="more_link_42" style="display:none"><a href="/app/answers/detail/a_id/5835/c/4">Bitcoin for International Orders</a></li><li id="more_link_43" style="display:none"><a href="/app/answers/detail/a_id/22/c/4">PayPal Information</a></li><li id="more_link_44" style="display:none"><a href="/app/answers/detail/a_id/5794/c/4">Bitcoin</a></li><li id="more_link_45" style="display:none"><a href="/app/answers/detail/a_id/20/c/4">Bill Me Later Information</a></li><li id="more_link_46" style="display:none"><a href="/app/answers/detail/a_id/5728/c/4">Club O Rewards MasterCard</a></li><li id="more_link_47" style="display:none"><a href="/app/answers/detail/a_id/5744/c/4">V.me by Visa</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/5"><b>Using Your Account</b></a></li><input type="hidden" id="cat_link_7_cat" name="cat_link_7_cat" value="5"><ul class="topics_answers"><li id="more_link_50" style="display:none"><a href="/app/answers/detail/a_id/26/c/5">Updating Your Personal Account Information</a></li><li id="more_link_51" style="display:none"><a href="/app/answers/detail/a_id/25/c/5">Unsubscribe from Email and Change Communication Preferences</a></li><li id="more_link_52" style="display:none"><a href="/app/answers/detail/a_id/28/c/5">View Your Order History</a></li><li id="more_link_53" style="display:none"><a href="/app/answers/detail/a_id/646/c/5">How to Enable Cookies</a></li><li id="more_link_54" style="display:none"><a href="/app/answers/detail/a_id/23/c/5">How Do I Login and Out of My Account?</a></li><li id="more_link_55" style="display:none"><a href="/app/answers/detail/a_id/24/c/5">Creating an Account</a></li><li id="more_link_56" style="display:none"><a href="/app/answers/detail/a_id/29/c/5">Print a Receipt</a></li><li id="more_link_57" style="display:none"><a href="/app/answers/detail/a_id/27/c/5">Forgot Your Password?</a></li><li id="more_link_58" style="display:none"><a href="/app/answers/detail/a_id/888/c/5">Help Center Tips for Finding Answers</a></li><li id="more_link_59" style="display:none"><a href="/app/answers/detail/a_id/5538/c/5">Gmail Spam Filters</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/6"><b>Product Information</b></a></li><input type="hidden" id="cat_link_9_cat" name="cat_link_9_cat" value="6"><ul class="topics_answers"><li id="more_link_60" style="display:none"><a href="/app/answers/detail/a_id/97/c/6">Buying Guides from Overstock.com</a></li><li id="more_link_61" style="display:none"><a href="/app/answers/detail/a_id/99/c/6">Are You Searching For a Product?</a></li><li id="more_link_62" style="display:none"><a href="/app/answers/detail/a_id/34/c/6">Submit a Product Review and Review Guidelines</a></li><li id="more_link_63" style="display:none"><a href="/app/answers/detail/a_id/1261/c/6">Manufacturer Support Information</a></li><li id="more_link_64" style="display:none"><a href="/app/answers/detail/a_id/1077/c/6">Slipcover Product Information</a></li><li id="more_link_65" style="display:none"><a href="/app/answers/detail/a_id/3057/c/6">Product Safety and Recalls</a></li><li id="more_link_66" style="display:none"><a href="/app/answers/detail/a_id/1069/c/6">Product Information for Watches</a></li><li id="more_link_67" style="display:none"><a href="/app/answers/detail/a_id/3101/c/6">Not In Retail Packaging Products</a></li><li id="more_link_68" style="display:none"><a href="/app/answers/detail/a_id/30/c/6">Apparel Size Guides</a></li><li id="more_link_69" style="display:none"><a href="/app/answers/detail/a_id/98/c/6">Cell Phone Information and Assistance</a></li><li id="more_link_610" style="display:none"><a href="/app/answers/detail/a_id/5415/c/6">Product Packaging for Perfumes and Fragrances</a></li><li id="more_link_611" style="display:none"><a href="/app/answers/detail/a_id/1066/c/6">Sheet Buying Guide</a></li><li id="more_link_612" style="display:none"><a href="/app/answers/detail/a_id/32/c/6">Product Availability</a></li><li id="more_link_613" style="display:none"><a href="/app/answers/detail/a_id/31/c/6">Factory Reconditioned or Refurbished Products</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/743"><b>Membership Programs</b></a></li><input type="hidden" id="cat_link_13_cat" name="cat_link_13_cat" value="743"><ul class="topics_answers"><li id="more_link_7430" style="display:none"><a href="/app/answers/detail/a_id/50/c/743">Club O Rewards Program Terms and Conditions</a></li><li id="more_link_7431" style="display:none"><a href="/app/answers/detail/a_id/49/c/743">Club O Rewards Membership</a></li><li id="more_link_7432" style="display:none"><a href="/app/answers/detail/a_id/5729/c/743">Club O Dining Rewards Program</a></li><li id="more_link_7433" style="display:none"><a href="/app/answers/detail/a_id/5787/c/743">Coastal Terms and Conditions</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/12"><b>Overstock.com Services</b></a></li><input type="hidden" id="cat_link_3_cat" name="cat_link_3_cat" value="12"><ul class="topics_answers"><li id="more_link_120" style="display:none"><a href="/app/answers/detail/a_id/5728/c/12">Club O Rewards MasterCard</a></li><li id="more_link_121" style="display:none"><a href="/app/answers/detail/a_id/21/c/12">Overstock.com Gift Card Information</a></li><li id="more_link_122" style="display:none"><a href="/app/answers/detail/a_id/5831/c/12">Farmers Market Home Deliveries</a></li><li id="more_link_123" style="display:none"><a href="/app/answers/detail/a_id/2332/c/12">Platinum Protection Plan before November 19, 2008</a></li><li id="more_link_124" style="display:none"><a href="/app/answers/detail/a_id/64/c/12">Affiliate Program</a></li><li id="more_link_125" style="display:none"><a href="/app/answers/detail/a_id/887/c/12">What is Overstock.com Cars?</a></li><li id="more_link_126" style="display:none"><a href="/app/answers/detail/a_id/60/c/12">O.co Travel</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/10"><b>Company Information</b></a></li><input type="hidden" id="cat_link_6_cat" name="cat_link_6_cat" value="10"><ul class="topics_answers"><li id="more_link_100" style="display:none"><a href="/app/answers/detail/a_id/63/c/10">Terms and Conditions</a></li><li id="more_link_101" style="display:none"><a href="/app/answers/detail/a_id/62/c/10">About Overstock.com</a></li><li id="more_link_102" style="display:none"><a href="/app/answers/detail/a_id/2889/c/10">O.biz Terms and Conditions</a></li><li id="more_link_103" style="display:none"><a href="/app/answers/detail/a_id/95/c/10">Jobs and Employment Opportunities</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/11"><b>Privacy and Security</b></a></li><input type="hidden" id="cat_link_3_cat" name="cat_link_3_cat" value="11"><ul class="topics_answers"><li id="more_link_110" style="display:none"><a href="/app/answers/detail/a_id/65/c/11"><u>PRIVACY AND SECURITY POLICY</u></a></li><li id="more_link_111" style="display:none"><a href="/app/answers/detail/a_id/1067/c/11">Top 10 Online Security Tips</a></li><li id="more_link_112" style="display:none"><a href="/app/answers/detail/a_id/870/c/11">Identifying Spoofed, Phishing, and Fraudulent Emails</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/358"><b>International Help</b></a></li><input type="hidden" id="cat_link_2_cat" name="cat_link_2_cat" value="358"><ul class="topics_answers"><li id="more_link_3580" style="display:none"><a href="/app/answers/detail/a_id/1505/c/358">International Help Home</a></li><li id="more_link_3581" style="display:none"><a href="/app/answers/detail/a_id/5752/c/358">International Order &amp; Shipping Information</a></li><li id="more_link_3582" style="display:none"><a href="/app/answers/detail/a_id/5751/c/358">International Customer Care</a></li><li id="more_link_3583" style="display:none"><a href="/app/answers/detail/a_id/5739/c/358">Europe Shipping Timeframes</a></li><li id="more_link_3584" style="display:none"><a href="/app/answers/detail/a_id/5737/c/358">Asia-Pacific Shipping Timeframes</a></li><li id="more_link_3585" style="display:none"><a href="/app/answers/detail/a_id/1651/c/358">International Order Process</a></li><li id="more_link_3586" style="display:none"><a href="/app/answers/detail/a_id/5740/c/358">North and South America Shipping Timeframes</a></li><li id="more_link_3587" style="display:none"><a href="/app/answers/detail/a_id/5755/c/358">International Returns</a></li><li id="more_link_3588" style="display:none"><a href="/app/answers/detail/a_id/5753/c/358">International Payment Options</a></li><li id="more_link_3589" style="display:none"><a href="/app/answers/detail/a_id/5738/c/358">Middle East Shipping Timeframes</a></li><li id="more_link_35810" style="display:none"><a href="/app/answers/detail/a_id/5736/c/358">Africa Shipping Timeframes</a></li><li id="more_link_35811" style="display:none"><a href="/app/answers/detail/a_id/5754/c/358">International Refund Policy</a></li><li id="more_link_35812" style="display:none"><a href="/app/answers/detail/a_id/5756/c/358">Order Status and Tracking</a></li><li id="more_link_35813" style="display:none"><a href="/app/answers/detail/a_id/5574/c/358">在O.co 购物，轻松、放心。</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/744"><b>Protection Plans and Warranties</b></a></li><input type="hidden" id="cat_link_13_cat" name="cat_link_13_cat" value="744"><ul class="topics_answers"><li id="more_link_7440" style="display:none"><a href="/app/answers/detail/a_id/41/c/744">Platinum Protection Plan Information</a></li><li id="more_link_7441" style="display:none"><a href="/app/answers/detail/a_id/1634/c/744">Mattress Protection Plan</a></li><li id="more_link_7442" style="display:none"><a href="/app/answers/detail/a_id/1595/c/744">5 Year Accidental Damage Service Plan</a></li><li id="more_link_7443" style="display:none"><a href="/app/answers/detail/a_id/5302/c/744">2 and 4 Year Structural/Stain Service Plan</a></li><li id="more_link_7444" style="display:none"><a href="/app/answers/detail/a_id/2332/c/744">Platinum Protection Plan before November 19, 2008</a></li><li id="more_link_7445" style="display:none"><a href="/app/answers/detail/a_id/101/c/744">Spring Air Mattress Warranty Information</a></li><li id="more_link_7446" style="display:none"><a href="/app/answers/detail/a_id/3154/c/744">Platinum Protection Plan purchased before July 15, 2010</a></li></ul><input type="hidden" id="cat_link_count" name="cat_link_count" value="6"></ul><span class="left_nav_view_browse"><a class="simple" href="/app/browse_by_topics">Click here</a> to view all Help Center answers.</span>
+
+    <ul class="help-topic-nav"><ul class="help_home"><li><a class="noIntercept" href="/app"><b>Back to Help Home</b></a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/3"><b>Orders</b></a></li><input type="hidden" id="cat_link_0_cat" name="cat_link_0_cat" value="3"><ul class="topics_answers"><li id="more_link_30" style="display:none"><a href="/app/answers/detail/a_id/1505/c/3">International Help Home</a></li><li id="more_link_31" style="display:none"><a href="/app/answers/detail/a_id/11/c/3">Finding a Specific Item</a></li><li id="more_link_32" style="display:none"><a href="/app/answers/detail/a_id/9/c/3">Track Your Order</a></li><li id="more_link_33" style="display:none"><a href="/app/answers/detail/a_id/950/c/3">Order Status</a></li><li id="more_link_34" style="display:none"><a href="/app/answers/detail/a_id/15/c/3">Can I Cancel My Order?</a></li><li id="more_link_35" style="display:none"><a href="/app/answers/detail/a_id/1055/c/3">Live Chat</a></li><li id="more_link_36" style="display:none"><a href="/app/answers/detail/a_id/10/c/3">I Never Received My Order</a></li><li id="more_link_37" style="display:none"><a href="/app/answers/detail/a_id/1651/c/3">International Order Process</a></li><li id="more_link_38" style="display:none"><a href="/app/answers/detail/a_id/5728/c/3">Club O Rewards MasterCard</a></li><li id="more_link_39" style="display:none"><a href="/app/answers/detail/a_id/16/c/3">Coupon and Promotional Code Help</a></li><li id="more_link_310" style="display:none"><a href="/app/answers/detail/a_id/1193/c/3">Can I Change My Order?</a></li><li id="more_link_311" style="display:none"><a href="/app/answers/detail/a_id/14/c/3">How to Place an Order</a></li><li id="more_link_312" style="display:none"><a href="/app/answers/detail/a_id/1010/c/3">Missing Parts</a></li><li id="more_link_313" style="display:none"><a href="/app/answers/detail/a_id/13/c/3">Adding or Modifying Items in Your Shopping Cart</a></li><li id="more_link_314" style="display:none"><a href="/app/answers/detail/a_id/646/c/3">How to Enable Cookies</a></li><li id="more_link_315" style="display:none"><a href="/app/answers/detail/a_id/29/c/3">Print a Receipt</a></li><li id="more_link_316" style="display:none"><a href="/app/answers/detail/a_id/2805/c/3">O.biz Help Home</a></li><li id="more_link_317" style="display:none"><a href="/app/answers/detail/a_id/48/c/3">Price Changes</a></li><li id="more_link_318" style="display:none"><a href="/app/answers/detail/a_id/893/c/3">Special Shipping Offers &amp; Promotions</a></li><li id="more_link_319" style="display:none"><a href="/app/answers/detail/a_id/96/c/3">Pre-order Information</a></li><li id="more_link_320" style="display:none"><a href="/app/answers/detail/a_id/5574/c/3">在O.co 购物，轻松、放心。</a></li><li id="more_link_321" style="display:none"><a href="/app/answers/detail/a_id/94/c/3">How to Contact Customer Service</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/2"><b>Shipping</b></a></li><input type="hidden" id="cat_link_21_cat" name="cat_link_21_cat" value="2"><ul class="topics_answers"><li id="more_link_20" style="display:none"><a href="/app/answers/detail/a_id/1387/c/2">Holiday Return Policy</a></li><li id="more_link_21" style="display:none"><a href="/app/answers/detail/a_id/5739/c/2">Europe Shipping Timeframes</a></li><li id="more_link_22" style="display:none"><a href="/app/answers/detail/a_id/727/c/2">Expedited Shipping</a></li><li id="more_link_23" style="display:none"><a href="/app/answers/detail/a_id/5740/c/2">North and South America Shipping Timeframes</a></li><li id="more_link_24" style="display:none"><a href="/app/answers/detail/a_id/5737/c/2">Asia-Pacific Shipping Timeframes</a></li><li id="more_link_25" style="display:none"><a href="/app/answers/detail/a_id/5733/c/2">Shipping &amp; Delivery Exceptions</a></li><li id="more_link_26" style="display:none"><a href="/app/answers/detail/a_id/5738/c/2">Middle East Shipping Timeframes</a></li><li id="more_link_27" style="display:none"><a href="/app/answers/detail/a_id/5732/c/2">Shipment Damage in Transit</a></li><li id="more_link_28" style="display:none"><a href="/app/answers/detail/a_id/2894/c/2">O.biz Non-Returnable Items</a></li><li id="more_link_29" style="display:none"><a href="/app/answers/detail/a_id/5736/c/2">Africa Shipping Timeframes</a></li><li id="more_link_210" style="display:none"><a href="/app/answers/detail/a_id/5534/c/2">Carbon Neutral Shipping</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/1"><b>Returns</b></a></li><input type="hidden" id="cat_link_10_cat" name="cat_link_10_cat" value="1"><ul class="topics_answers"><li id="more_link_10" style="display:none"><a href="/app/answers/detail/a_id/1387/c/1">Holiday Return Policy</a></li><li id="more_link_11" style="display:none"><a href="/app/answers/detail/a_id/3/c/1">How to Return an Item</a></li><li id="more_link_12" style="display:none"><a href="/app/answers/detail/a_id/6/c/1">Refund Policy</a></li><li id="more_link_13" style="display:none"><a href="/app/answers/detail/a_id/191/c/1">Non-Returnable Items</a></li><li id="more_link_14" style="display:none"><a href="/app/answers/detail/a_id/2/c/1">Oversized Item Return Policy</a></li><li id="more_link_15" style="display:none"><a href="/app/answers/detail/a_id/977/c/1">How to Print a Return Shipping Label</a></li><li id="more_link_16" style="display:none"><a href="/app/answers/detail/a_id/1010/c/1">Missing Parts</a></li><li id="more_link_17" style="display:none"><a href="/app/answers/detail/a_id/5845/c/1">Gift Returns</a></li><li id="more_link_18" style="display:none"><a href="/app/answers/detail/a_id/2894/c/1">O.biz Non-Returnable Items</a></li><li id="more_link_19" style="display:none"><a href="/app/answers/detail/a_id/193/c/1">Products Returned After 30 days</a></li><li id="more_link_110" style="display:none"><a href="/app/answers/detail/a_id/913/c/1">How to Return a Gift</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/4"><b>Payment Options</b></a></li><input type="hidden" id="cat_link_10_cat" name="cat_link_10_cat" value="4"><ul class="topics_answers"><li id="more_link_40" style="display:none"><a href="/app/answers/detail/a_id/5829/c/4">Overstock Store Credit Card</a></li><li id="more_link_41" style="display:none"><a href="/app/answers/detail/a_id/18/c/4">Payment Information</a></li><li id="more_link_42" style="display:none"><a href="/app/answers/detail/a_id/5794/c/4">Bitcoin</a></li><li id="more_link_43" style="display:none"><a href="/app/answers/detail/a_id/5728/c/4">Club O Rewards MasterCard</a></li><li id="more_link_44" style="display:none"><a href="/app/answers/detail/a_id/5949/c/4">Klarna Payment Solutions</a></li><li id="more_link_45" style="display:none"><a href="/app/answers/detail/a_id/5835/c/4">Bitcoin for International Orders</a></li><li id="more_link_46" style="display:none"><a href="/app/answers/detail/a_id/21/c/4">Overstock.com Gift Card Information</a></li><li id="more_link_47" style="display:none"><a href="/app/answers/detail/a_id/22/c/4">PayPal Information</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/5"><b>Using Your Account</b></a></li><input type="hidden" id="cat_link_7_cat" name="cat_link_7_cat" value="5"><ul class="topics_answers"><li id="more_link_50" style="display:none"><a href="/app/answers/detail/a_id/26/c/5">Updating Your Personal Account Information</a></li><li id="more_link_51" style="display:none"><a href="/app/answers/detail/a_id/28/c/5">View Your Order History</a></li><li id="more_link_52" style="display:none"><a href="/app/answers/detail/a_id/25/c/5">Unsubscribe from Email and Change Communication Preferences</a></li><li id="more_link_53" style="display:none"><a href="/app/answers/detail/a_id/23/c/5">How Do I Login and Out of My Account?</a></li><li id="more_link_54" style="display:none"><a href="/app/answers/detail/a_id/646/c/5">How to Enable Cookies</a></li><li id="more_link_55" style="display:none"><a href="/app/answers/detail/a_id/29/c/5">Print a Receipt</a></li><li id="more_link_56" style="display:none"><a href="/app/answers/detail/a_id/24/c/5">Creating an Account</a></li><li id="more_link_57" style="display:none"><a href="/app/answers/detail/a_id/27/c/5">Forgot Your Password?</a></li><li id="more_link_58" style="display:none"><a href="/app/answers/detail/a_id/888/c/5">Help Center Tips for Finding Answers</a></li><li id="more_link_59" style="display:none"><a href="/app/answers/detail/a_id/5538/c/5">Gmail Spam Filters</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/6"><b>Product Information</b></a></li><input type="hidden" id="cat_link_9_cat" name="cat_link_9_cat" value="6"><ul class="topics_answers"><li id="more_link_60" style="display:none"><a href="/app/answers/detail/a_id/97/c/6">Buying Guides from Overstock.com</a></li><li id="more_link_61" style="display:none"><a href="/app/answers/detail/a_id/99/c/6">Are You Searching For a Product?</a></li><li id="more_link_62" style="display:none"><a href="/app/answers/detail/a_id/1261/c/6">Manufacturer Support Information</a></li><li id="more_link_63" style="display:none"><a href="/app/answers/detail/a_id/98/c/6">Cell Phone Information and Assistance</a></li><li id="more_link_64" style="display:none"><a href="/app/answers/detail/a_id/3057/c/6">Product Safety and Recalls</a></li><li id="more_link_65" style="display:none"><a href="/app/answers/detail/a_id/34/c/6">Submit a Product Review and Review Guidelines</a></li><li id="more_link_66" style="display:none"><a href="/app/answers/detail/a_id/32/c/6">Product Availability</a></li><li id="more_link_67" style="display:none"><a href="/app/answers/detail/a_id/3101/c/6">Not In Retail Packaging Products</a></li><li id="more_link_68" style="display:none"><a href="/app/answers/detail/a_id/1066/c/6">Sheet Buying Guide</a></li><li id="more_link_69" style="display:none"><a href="/app/answers/detail/a_id/1077/c/6">Slipcover Product Information</a></li><li id="more_link_610" style="display:none"><a href="/app/answers/detail/a_id/1069/c/6">Product Information for Watches</a></li><li id="more_link_611" style="display:none"><a href="/app/answers/detail/a_id/5415/c/6">Product Packaging for Perfumes and Fragrances</a></li><li id="more_link_612" style="display:none"><a href="/app/answers/detail/a_id/30/c/6">Apparel Size Guides</a></li><li id="more_link_613" style="display:none"><a href="/app/answers/detail/a_id/31/c/6">Factory Reconditioned or Refurbished Products</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/743"><b>Membership Programs</b></a></li><input type="hidden" id="cat_link_13_cat" name="cat_link_13_cat" value="743"><ul class="topics_answers"><li id="more_link_7430" style="display:none"><a href="/app/answers/detail/a_id/5728/c/743">Club O Rewards MasterCard</a></li><li id="more_link_7431" style="display:none"><a href="/app/answers/detail/a_id/49/c/743">Club O Rewards Membership</a></li><li id="more_link_7432" style="display:none"><a href="/app/answers/detail/a_id/50/c/743">Club O Rewards Program Terms and Conditions</a></li><li id="more_link_7433" style="display:none"><a href="/app/answers/detail/a_id/5729/c/743">Club O Dining Rewards Program</a></li><li id="more_link_7434" style="display:none"><a href="/app/answers/detail/a_id/5787/c/743">Coastal Terms and Conditions</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/12"><b>Overstock.com Services</b></a></li><input type="hidden" id="cat_link_4_cat" name="cat_link_4_cat" value="12"><ul class="topics_answers"><li id="more_link_120" style="display:none"><a href="/app/answers/detail/a_id/5728/c/12">Club O Rewards MasterCard</a></li><li id="more_link_121" style="display:none"><a href="/app/answers/detail/a_id/21/c/12">Overstock.com Gift Card Information</a></li><li id="more_link_122" style="display:none"><a href="/app/answers/detail/a_id/5942/c/12">Overstock Marketplace</a></li><li id="more_link_123" style="display:none"><a href="/app/answers/detail/a_id/887/c/12">What is Overstock.com Cars?</a></li><li id="more_link_124" style="display:none"><a href="/app/answers/detail/a_id/2332/c/12">Platinum Protection Plan before November 19, 2008</a></li><li id="more_link_125" style="display:none"><a href="/app/answers/detail/a_id/5876/c/12">Overstock.com Subscription Service</a></li><li id="more_link_126" style="display:none"><a href="/app/answers/detail/a_id/64/c/12">Affiliate Program</a></li><li id="more_link_127" style="display:none"><a href="/app/answers/detail/a_id/60/c/12">O.co Travel</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/10"><b>Company Information</b></a></li><input type="hidden" id="cat_link_7_cat" name="cat_link_7_cat" value="10"><ul class="topics_answers"><li id="more_link_100" style="display:none"><a href="/app/answers/detail/a_id/63/c/10">TERMS AND CONDITIONS</a></li><li id="more_link_101" style="display:none"><a href="/app/answers/detail/a_id/62/c/10">About Overstock.com</a></li><li id="more_link_102" style="display:none"><a href="/app/answers/detail/a_id/95/c/10">Jobs and Employment Opportunities</a></li><li id="more_link_103" style="display:none"><a href="/app/answers/detail/a_id/3057/c/10">Product Safety and Recalls</a></li><li id="more_link_104" style="display:none"><a href="/app/answers/detail/a_id/2889/c/10">O.biz Terms and Conditions</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/11"><b>Privacy and Security</b></a></li><input type="hidden" id="cat_link_4_cat" name="cat_link_4_cat" value="11"><ul class="topics_answers"><li id="more_link_110" style="display:none"><a href="/app/answers/detail/a_id/3057/c/11">Product Safety and Recalls</a></li><li id="more_link_111" style="display:none"><a href="/app/answers/detail/a_id/870/c/11">Identifying Spoofed, Phishing, and Fraudulent Emails</a></li><li id="more_link_112" style="display:none"><a href="/app/answers/detail/a_id/1067/c/11">Top 10 Online Security Tips</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/358"><b>International Help</b></a></li><input type="hidden" id="cat_link_2_cat" name="cat_link_2_cat" value="358"><ul class="topics_answers"><li id="more_link_3580" style="display:none"><a href="/app/answers/detail/a_id/5752/c/358">International Order &amp; Shipping Information</a></li><li id="more_link_3581" style="display:none"><a href="/app/answers/detail/a_id/1505/c/358">International Help Home</a></li><li id="more_link_3582" style="display:none"><a href="/app/answers/detail/a_id/5751/c/358">International Customer Care</a></li><li id="more_link_3583" style="display:none"><a href="/app/answers/detail/a_id/5739/c/358">Europe Shipping Timeframes</a></li><li id="more_link_3584" style="display:none"><a href="/app/answers/detail/a_id/5740/c/358">North and South America Shipping Timeframes</a></li><li id="more_link_3585" style="display:none"><a href="/app/answers/detail/a_id/5737/c/358">Asia-Pacific Shipping Timeframes</a></li><li id="more_link_3586" style="display:none"><a href="/app/answers/detail/a_id/5755/c/358">International Returns</a></li><li id="more_link_3587" style="display:none"><a href="/app/answers/detail/a_id/1651/c/358">International Order Process</a></li><li id="more_link_3588" style="display:none"><a href="/app/answers/detail/a_id/5738/c/358">Middle East Shipping Timeframes</a></li><li id="more_link_3589" style="display:none"><a href="/app/answers/detail/a_id/5753/c/358">International Payment Options</a></li><li id="more_link_35810" style="display:none"><a href="/app/answers/detail/a_id/5756/c/358">Order Status and Tracking</a></li><li id="more_link_35811" style="display:none"><a href="/app/answers/detail/a_id/5736/c/358">Africa Shipping Timeframes</a></li><li id="more_link_35812" style="display:none"><a href="/app/answers/detail/a_id/5754/c/358">International Refund Policy</a></li><li id="more_link_35813" style="display:none"><a href="/app/answers/detail/a_id/5574/c/358">在O.co 购物，轻松、放心。</a></li></ul><li><a class="noIntercept" href="/app/answers/list/c/744"><b>Protection Plans and Warranties</b></a></li><input type="hidden" id="cat_link_13_cat" name="cat_link_13_cat" value="744"><ul class="topics_answers"><li id="more_link_7440" style="display:none"><a href="/app/answers/detail/a_id/41/c/744">Platinum Protection Plan Information</a></li><li id="more_link_7441" style="display:none"><a href="/app/answers/detail/a_id/1595/c/744">5 Year Accidental Damage Service Plan</a></li><li id="more_link_7442" style="display:none"><a href="/app/answers/detail/a_id/1634/c/744">Mattress Protection Plan</a></li><li id="more_link_7443" style="display:none"><a href="/app/answers/detail/a_id/5302/c/744">2 and 4 Year Structural/Stain Service Plan</a></li><li id="more_link_7444" style="display:none"><a href="/app/answers/detail/a_id/2332/c/744">Platinum Protection Plan before November 19, 2008</a></li><li id="more_link_7445" style="display:none"><a href="/app/answers/detail/a_id/101/c/744">Spring Air Mattress Warranty Information</a></li><li id="more_link_7446" style="display:none"><a href="/app/answers/detail/a_id/3154/c/744">Platinum Protection Plan purchased before July 15, 2010</a></li></ul><input type="hidden" id="cat_link_count" name="cat_link_count" value="6"></ul><span class="left_nav_view_browse"><a class="simple" href="/app/browse_by_topics">Click here</a> to view all Help Center answers.</span>
+
   </div>
+
 
 </div>
 </div>
 							</div>
 						</div>
-					</div>					
-				</div><!-- /#content-nav-a -->	
-				<div id="content-main">	
-								
-						<div xmlns:v="http://rdf.data-vocabulary.org/#" id="bread-crumbs">
-							<ul class="horizontal-list bread-crumbs crumb-5-bg">
-        	<!-- <td nowrap="nowrap" align="right" class="textcell2"><label>You are here:</label> </td> -->
-	    	<li class="crumb-1" typeof="v:Breadcrumb">
-			<a href="http://www.overstock.com/" title="Online Shopping" rel="v:url" property="v:title">Online Shopping</a>
-		</li>
-                <li class="crumb-2" typeof="v:Breadcrumb">
-			<i class="crumb-2-arrow"> </i>
-			 <a href="/app/home" title="Help Center" rel="v:url" property="v:title">Help Center</a>
-		</li>
-                <li> </li><li class="crumb-3 last-child" typeof="v:Breadcrumb">
-			<i class="crumb-3-arrow"> </i>&nbsp;&nbsp;&nbsp;&nbsp;<strong>PRIVACY AND SECURITY POLICY</strong>        </li>
-  </ul>
-						</div>  
-					   
-					<div style="float:left; width:80%;">
-						
+					</div>
+				</div><!-- /#content-nav-a -->
+				<div id="content-main">
+											<div xmlns:v="http://rdf.data-vocabulary.org/#" id="bread-crumbs">
+						<ul class="horizontal-list bread-crumbs crumb-5-bg">
 
+    
+    	<!-- <td nowrap="nowrap" align="right" class="textcell2"><label>You are here:</label> </td> -->
+
+	
+    	<li class="crumb-1" typeof="v:Breadcrumb">
+
+			<a href="http://www.overstock.com/" title="Online Shopping" rel="v:url" property="v:title">Online Shopping</a>
+
+		</li>
+
+        
+        <li class="crumb-2" typeof="v:Breadcrumb">
+
+			<i class="crumb-2-arrow"> </i>
+
+			 <a href="/app/home" title="Help Center" rel="v:url" property="v:title">Help Center</a>
+
+		</li>
+
+        
+        <li> </li><li class="crumb-3 last-child" typeof="v:Breadcrumb">
+			<i class="crumb-3-arrow"> </i>&nbsp;&nbsp;&nbsp;&nbsp;<strong rel="v:url" property="v:title" href="/app/answers/detail/a_id/65">PRIVACY AND SECURITY POLICY</strong>
+        </li>
+
+  </ul>
+					</div>
+										<div style="float:left; width:80%;">
+						
+<div id="rn_AnnouncementText2_6" class="rn_AnnouncementText2">
+    </div>
 <div class="inner_content">
-<div id="page-content">
-              <div class="answer_heading"><br><h2 class="answer-title">PRIVACY AND SECURITY POLICY</h2></div>
-<div id="rn_PageContent" class="rn_AnswerDetail">     
-    <div id="rn_AnswerText">
-        			<style type="text/css">
+    <div id="page-content">
+        <div class="answer_heading"><br><h2 class="answer-title">PRIVACY AND SECURITY POLICY</h2></div>
+        <div id="rn_PageContent" class="rn_AnswerDetail">     
+            <div id="rn_AnswerText">
+                                    <style type="text/css">
 <!--
 h3 {
 	color:#c7202d;
@@ -241,7 +292,8 @@ h3 {
 -->
 </style>
 <p>Overstock.com, Inc. (“Overstock,” “we” or “us,”) has created the following Privacy and Security Policy (“Privacy Policy”) to inform you of the following: what information we collect, when we collect it, how and why we collect it, how we use it, how we protect it, how we share it and what choices you have regarding our collection and use of this information.</p>
-<p>This Privacy Policy applies to the following sites: <a href="http://www.overstock.com">http://www.overstock.com</a>, <a href="http://www.o.info">http://www.o.info</a>, and <a href="http://www.o.biz">http://www.o.biz</a> (collectively and individually, the “Sites”).  Entering the Sites constitutes your acceptance and agreement to the terms contained in this Privacy Policy.  If you do not agree with the terms set forth in this Privacy Policy, please do not enter the Sites.</p>
+<p>This Privacy Policy applies to the following sites: <a href="http://www.overstock.com">http://www.overstock.com</a>, <a href="http://www.o.info">http://www.o.info</a>, and <a href="http://www.o.biz">http://www.o.biz</a> (collectively and individually, the “Sites”). Entering the Sites constitutes your acceptance and agreement to the terms contained in this Privacy Policy. If you do not agree with the terms set forth in this Privacy Policy, please do not enter the Sites.</p>
+
 <br>
 <h3>WHAT INFORMATION WE COLLECT</h3>
 <ul>
@@ -262,7 +314,7 @@ h3 {
 	<li><b>We Collect Information When</b>
 		<ul>
 			<li>You purchase, order, return, exchange or request information about our products and services from the Sites or mobile applications.</li>
-			<li>You create an Overstock.com account</li>
+			<li>You create an Overstock.com account.</li>
 			<li>You connect with us regarding customer service via our customer service center, or on social media platforms.</li>
 			<li>You visit the Sites or participate in interactive features of the Sites or mobile applications.</li>
 			<li>You use a social media service, for example, our Facebook page or YouTube channel.</li>
@@ -278,13 +330,17 @@ h3 {
 <ul>
 	<li>
 		<b>Technologies Used</b><br>
-		We may use tracking pixels/web beacons, cookies and or other technologies to receive and store certain types of information.  This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data.  This information helps us customize your website experience and make our marketing messages more relevant.  It also allows us to provide features such as storage of items in your cart between visits.  This includes our content presented on other websites or mobile applications.  In order to provide the best customer experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
+		We may use tracking pixels/web beacons, cookies and or other technologies to receive and store certain types of information. This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data. This information helps us customize your website experience and make our marketing messages more relevant. It also allows us to provide features such as storage of items in your cart between visits. This includes our content presented on other websites or mobile applications. In order to provide the best customer experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
 	</li>
 	<li>
 		<b>Third Party Cookies</b><br>
 		<ul>
-			<li>We allow third-party companies to collect anonymous information when you visit the Sites and to use that information to serve ads for our products or services or for products or services of other companies when you visit the Sites or other websites.  These companies may use anonymous information (e.g., navigational, non-personally identifiable information, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to the Sites and other websites in order to provide advertisements about our goods and services likely to be of interest to you.  These parties may use a cookie or a third party web beacon, or other technologies, to collect this information.</li>
-			<li>To opt out of third-party vendors' cookies, see the “<a href="#1">What Choices Do You Have?</a>” section of this privacy policy for instruction how to do so.</li>
+			<li>
+				We allow third-party companies to collect non-personally identifiable information when you visit the Sites and to use that information to serve ads for our products or services or for products or services of other companies when you visit the Sites or other websites. These companies may use non-personally identifiable information (e.g., navigational, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to the Sites and other websites in order to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third party web beacon, or other technologies, to collect this information.
+			</li>
+			<li>
+				To opt out of third-party vendors' cookies, see the "<a href="#1">What Choices Do You Have?</a>" section of this Privacy Policy for instruction how to do so.
+			</li>
 		</ul>
 	</li>
 	<li>
@@ -293,17 +349,21 @@ h3 {
 	</li>
 	<li>
 		<b>Information from Other Sources</b><br>
-		We may also obtain information from companies that can enhance our existing customer information to improve the accuracy and add to the information we have about our customers (e.g., adding address information).  This may improve our ability to contact you and improve the relevancy of our marketing by providing better product recommendations or special offers that we think will interest you.
+		We may also obtain information from companies that can enhance our existing customer information to improve the accuracy and add to the information we have about our customers (e.g., adding address information). This may improve our ability to contact you and improve the relevancy of our marketing by providing better product recommendations or special offers that we think will interest you.
 	</li>
 	<li>
 		<b>Public Forums</b><br>
-		Any information you submit in a public forum (e.g., a blog, chat room, or social network) can be read, collected, or used by us and other participants, and could be used to personalize your experience.  You are responsible for the information you choose to submit in these instances.
+		Any information you submit in a public forum (e.g., a blog, chat room, or social network) can be read, collected, or used by us and other participants, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.
 	</li>
 	<li>
 		<b>Mobile Privacy</b><br>
 		<ul>
-			<li>We offer mobile applications (commonly known as “apps”) that allow you to shop online, check product availability, learn about sales events, or receive other information from us.  <b>All information collected by us via our mobile application is protected by this Privacy Policy</b>.</li>
-			<li>Although you do not have to provide your location information to us to use our mobile applications, our services require a zip code to function.  If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.</li>
+			<li>
+				We offer mobile applications (commonly known as “apps”) that allow you to shop online, check product availability, learn about sales events, or receive other information from us. <b>All information collected by us via our mobile application is protected by this Privacy Policy.</b>
+			</li>
+			<li>
+				Although you do not have to provide your location information to us to use our mobile applications, our services require a zip code to function. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+			</li>
 		</ul>
 	</li>
 </ul>
@@ -353,35 +413,41 @@ h3 {
 	<li>
 		<b>Security Methods</b>
 		<ul>
-			<li>We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us.  To guard this information, the Sites use Secure Sockets Layer (SSL).  SSL encrypts your credit card number, name and address so only we are able to decode the information.</li>
+			<li>
+				We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard this information, the Sites use Transport Layer Security (TLS) where we collect personal and sensitive information. SSL encrypts your credit card number, name and address so only we are able to decode the information.
+			</li>
 		</ul>
 	</li>
 	<li>
 		<b>E-mail Security</b>
 		<ul>
-			<li>Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.  “Phishing” is a scam designed to steal your information.  If you receive an e-mail that looks like it is from us asking you for certain information, do not respond.  Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.</li>
+			<li>
+				Please note that e-mail may not be encrypted and is not considered to be a secure means of transmitting credit card information. “Phishing” is a scam designed to steal your information. If you receive an e-mail that looks like it is from us asking you for certain information, do not respond. Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.
+			</li>
 		</ul>
 	</li>
 	<li>
 		<b>Information About Children</b>
 		<ul>
-			<li>We recognize the particular importance of protecting privacy where children are involved.  We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA).  We will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent.  If we become aware that an individual is under the age of 13 and has submitted any information to us, for any purpose without prior verifiable parental consent, we will delete his or her information from our files.</li>
+			<li>
+				We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to us, for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+			</li>
 		</ul>
 	</li>
 	<li>
 		<b>Additional Security</b>
 		<ul>
 			<li>
-				We also ask customers to carefully review their accounts and immediately report any unexpected activity to us and their issuing bank or credit card company.  We ask all our customers to take measures to help protect information in their online accounts, including the following:
+				We also ask customers to carefully review their accounts and immediately report any unexpected activity to us and their issuing bank or credit card company. We ask all our customers to take measures to help protect information in their online accounts, including the following:
 				<ul>
 					<li>Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses.</li>
 					<li>Reset your e-mail account passwords frequently.</li>
-					<li>Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters).</li>
+					<li>Use complex passwords or passphrases</li>
 					<li>Do not use the same password on more than one website.</li>
 					<li>Do not share your password with others.</li>
 				</ul>
 			</li>
-			<li>Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal</li>
+			<li>Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal.</li>
 		</ul>
 	</li>
 </ul>
@@ -391,37 +457,47 @@ h3 {
 	<li>
 		<b>General Policy</b>
 		<ul>
-			<li>We do not sell or rent customer information to third parties; except, under limited circumstances outlined below, we may share information with third parties.</li>
-		
-	
-	<li>
-		<b>The Overstock Family</b>
-		<ul>
-			<li>We share information we collect with the Overstock family, which includes all of our subsidiaries and affiliates.  The Overstock family may use this information to offer you products and services that may be of interest to you.</li>
-		</ul>
-	</li>
-	<li>
-		<b>Service Providers</b>
-		<ul>
-			<li>We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, or data enhancement provider) or that help us market our products and services.  These companies may need information about you in order to perform their functions.  These companies are not authorized to use the information we share with them for any other purpose.</li>
-		</ul>
-	</li>
-	<li>
-		<b>Legal Requirements</b>
-		<ul>
-			<li>We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our customers or others.</li>
-		</ul>
-	</li>
-	<li>
-		<b>When You Direct Us</b>
-		<ul>
-			<li>At your direction or request, we may share your information.</li>
-		</ul>
-	</li>
-	<li>
-		<b>Business Transfers</b>
-		<ul>
-			<li>If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers.  We also may retain a copy of that customer information.</li>
+			<li>
+				We do not sell or rent personally identifiable customer information to third parties; except, under limited circumstances outlined below, we may share information with third parties.
+			</li>
+			<li>
+				<b>The Overstock Family</b>
+				<ul>
+					<li>We share information we collect with the Overstock family, which includes all of our subsidiaries and affiliates. The Overstock family may use this information to offer you products and services that may be of interest to you.</li>
+				</ul>
+			</li>
+			<li>
+				<b>Service Providers</b>
+				<ul>
+					<li>
+						We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, logistics, or data enhancement providers) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+					</li>
+				</ul>
+			</li>
+			<li>
+				<b>Legal Requirements</b>
+				<ul>
+					<li>
+						We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law, including to meet national security or law enforcement requirements; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our customers or others.
+					</li>
+				</ul>
+			</li>
+			<li>
+				<b>When You Direct Us</b>
+				<ul>
+					<li>
+						At your direction or request, we may share your information.
+					</li>
+				</ul>
+			</li>
+			<li>
+				<b>Business Transfers</b>
+				<ul>
+					<li>
+						If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers. We also may retain a copy of that customer information.
+					</li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 </ul>
@@ -438,8 +514,12 @@ h3 {
 			<li>
 				<b>Important Notices and Transactional E-mail</b><br>
 				<ul>
-					<li>From time to time, we may send non-commercial electronic email messages with important information about us or the Sites to your email address.</li>
-					<li>We regularly send email order confirmations, email order updates and “leave a review” emails to you after you have submitted an order.</li>
+					<li>
+						From time to time, we may send non-commercial electronic email messages with important information about us or the Sites to your email address.
+					</li>
+					<li>
+						We regularly send email order confirmations, email order updates and “leave a review” emails to you after you have submitted an order.
+					</li>
 				</ul>
 			</li>
 		</ul>
@@ -447,25 +527,33 @@ h3 {
 	<li>
 		<b>Mobile</b>
 		<ul>
-			<li>We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt-in request.  Customers will be able to opt out of a specific mobile messaging campaign.</li>
+			<li>
+				We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt-in request. Customers will be able to opt out of a specific mobile messaging campaign.
+			</li>
 		</ul>
 	</li>
 	<li>
 		<b>Overstock.com Cookies</b>
 		<ul>
-			<li>The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time.  If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Site features.</li>
+			<li>
+				The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Site features.
+			</li>
 		</ul>
 	</li>
 	<li>
 		<b>Third Party Cookies</b>
 		<ul>
-			<li>To opt-out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website, click here <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>.</li>
+			<li>
+				To opt-out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website, <a href="http://www.networkadvertising.org/choices/">click here</a>.
+			</li>
 		</ul>
 	</li>
 	<li>
 		<b>Telephone</b>
 		<ul>
-			<li>If you do not wish to receive promotional communication from us, call us at (800) 843-2446 to opt out.  This opt out does not apply to operational communication, for example, confirmation of delivery address.</li>
+			<li>
+				If you do not wish to receive promotional communication from us, call us at (800) 843-2446 to opt out. This opt out does not apply to operational communication, for example, confirmation of delivery address.
+			</li>
 		</ul>
 	</li>
 </ul>
@@ -476,7 +564,7 @@ h3 {
 		In order to keep your information accurate and complete, you can access or update some of your information in the following ways:
 		<ul>
 			<li>If you have created an account, you can log in and update your account information, including contact, billing, and shipping information.</li>
-			<li>Contact us with your current contact information and the information you would like to access.  We will provide you the information requested if reasonably available, or will describe more fully the types of information we typically collect.</li>
+			<li>Contact us with your current contact information and the information you would like to access. We will provide you the information requested if reasonably available, or will describe more fully the types of information we typically collect.</li>
 		</ul>
 	</li>
 </ul>
@@ -484,40 +572,45 @@ h3 {
 <h3>PRIVACY POLICY SCOPE</h3>
 <ul>
 	<li>This Privacy Policy applies to all current or former customer information collected by or provided to us.</li>
-	<li>The Sites may offer links to other sites.  If you visit one of these sites, you may want to review the privacy policy on that site.  In addition, you may have visited our website through a link or a banner advertisement on another site.  In such cases, the site you linked from may collect information from people who click on the banner or link.  You may want to refer to the privacy policies on those sites to see how they collect and use this information.</li>
+	<li>The Sites may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have visited our website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.</li>
 </ul>
 <br>
 <h3>INTERNATIONAL CUSTOMER PRIVACY</h3>
 <ul>
-	<li>For most non-US transactions, we have partnered with third party companies (“Vendors”) that we have selected to help us facilitate international transactions.  We work closely with these Vendors to ensure that your transaction is handled with care and all the information you provide is secure.</li>
-	<li>As an international customer, when you click on the checkout button, you will be redirected to a checkout page hosted by a Vendor to complete your order.  On the checkout page, you will be required to select a method of payment and submit credit card and other information to such Vendor to complete your order. On the checkout page, you will be presented with the Vendor’s terms and conditions which you must agree to in order to complete your order.</li>
-	<li>Upon completion and approval of your order by such Vendor, the Vendor will notify us of the approval and we will process your order and cause it to be shipped directly to the Vendor. In this process, the Vendor will purchase those items in your order from us, thereby taking title to the items, bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the delivery of your order. In this process, the Vendor makes the sale to you as the merchant of record, but we are legally obligated to deliver your order as set forth in our Terms and Conditions.</li>
+	<li>Overstock is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).</li>
+	<li>For most non-US transactions, we have partnered with third party companies (“Vendors”) that we have selected to help us facilitate international transactions. We work closely with these Vendors to ensure that your transaction is handled with care and all the information you provide is secure.</li>
+	<li>In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US Privacy Shield or the Swiss-US Privacy Shield, Overstock is potentially liable.</li>
+	<li>As an international customer, when you click on the checkout button, you will be redirected to a checkout page hosted by a Vendor to complete your order. On the checkout page, you will be required to select a method of payment and submit credit card and other information to such Vendor to complete your order. On the checkout page, you will be presented with the Vendor’s terms and conditions which you must agree to in order to complete your order.</li>
+	<li>Upon completion and approval of your order by such Vendor, the Vendor will notify us of the approval and we will process your order and cause it to be shipped directly to the Vendor. In this process, the Vendor will purchase those items in your order from us, thereby taking title to the items, bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority (if applicable), and arrange for the delivery of your order. In this process, the Vendor makes the sale to you as the merchant of record, but we are legally obligated to deliver your order as set forth in our Terms and Conditions.</li>
+	<li>Such Vendors must agree, via contract, to provide adequate protections for the Personal Data that are no less protective than those set out in this Policy.</li>
 	<li>If you have questions about your order, you should direct them to us and not to the Vendor.</li>
 	<li>The Vendors may give you the opportunity to receive marketing messages from them, in which case you should refer to their terms and conditions for details about how they use your information.</li>
-	<li>The Vendors have assured us that they will process information received from you with at least the same level of privacy protection as set forth in the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries and Switzerland.  If you choose to provide us and/or the Vendors with information, you consent to the transfer and storage of that information on servers located in the United States.</li>
-	<li>Any information you provide us is controlled and processed by Overstock.com, Inc., 6350 South 3000 East, Salt Lake City, Utah 84121, USA or its suppliers (where indicated herein).  As mentioned herein, your information provided at checkout will be controlled and processed by a Vendor.</li>
-	<li>We comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as established by the U.S. Department of Commerce and approved by the European Commission and the Swiss Federal Data Protection Authority.  We conduct an annual self-assessment to verify that we are in compliance with the Safe Harbor Privacy Principles in addition to our own privacy program assessments.  We have certified to the U.S. Department of Commerce and the European Union that our processing of personal data is in compliance with the Safe Harbor Privacy Principles.  For more information about the Safe Harbor program, and to view our certification page, visit the Department of Commerce's Safe Harbor website.  While the Safe Harbor Principles are designed to protect information originating in the European Economic area and Switzerland, our policy is to protect all international customer information in accordance with the Safe Harbor Principles.</li>
-	<li>Customers shipping internationally who wish to inquire about or update information or change marketing preferences or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods:
+	<li>Any information you provide us is controlled and processed by Overstock.com, Inc.,799 W. Coliseum Way, Midvale, Utah 84047, USA or its suppliers (where indicated herein). As mentioned herein, your information provided at checkout will be controlled and processed by a Vendor.</li>
+	<li>We comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland to the United States, respectively.  We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a></li>
+	<li>Pursuant to the EU-US Privacy Shield and the US-Swiss Privacy Shield, Overstock.com acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should contact us directly using one of the following methods:
 		<ul>
 			<li>Send an e-mail to <a href="mailto:customercare@overstock.com">customercare@overstock.com</a></li>
 			<li>Call our Customer Care line at 00-1-801-559-3816</li>
-			<li>Write us at Overstock.com, 6350 South 3000 East, Salt Lake City, UT 84121, USA</li>
+			<li>Write us at Overstock.com, Inc., 799 W. Coliseum Way, Midvale, Utah 84047, USA</li>
 		</ul>
 	</li>
-	<li>In compliance with the US-EU and US-Swiss Safe Harbor Principles, Overstock.com commits to resolve complaints about your privacy and our collection or use of your information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us using one of the following methods:
+	<li>We will provide an individual opt-out choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.  To limit the use and disclosure of your personal information, you may submit a written request to <a href="mailto:customercare@overstock.com">customercare@overstock.com</a>.</li>
+	<li>In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, Overstock.com commits to resolve complaints about your privacy and our collection or use of your information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us using one of the following methods:
 		<ul>
 			<li>Send an e-mail to <a href="mailto:customercare@overstock.com">customercare@overstock.com</a></li>
 			<li>Call our Customer Care line at 00-1-801-559-3816</li>
-			<li>Write us at Overstock.com, 6350 South 3000 East, Salt Lake City, UT 84121, USA</li>
+			<li>Write us at Overstock.com, Inc., 799 W. Coliseum Way, Midvale, Utah 84047, USA</li>
 		</ul>
 	</li>
-	<li>We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_new">http://www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</li>
+	<li>We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers/">http://www.bbb.org/EU-privacy-shield/for-eu-consumers/</a> for more information and to file a complaint.</li>
+	<li>Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.</li>
+	<li>We have further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. If you do not receive timely acknowledgment of your complaint, or if your compliant is not satisfactorily addressed, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.</li>
 </ul>
 <br>
 <h3>PRIVACY POLICY REVISIONS</h3>
-<p>By accessing the Site or interacting with us, you consent to our use of information that is collected or submitted as described in this Privacy Policy.  We may change or add to this privacy policy, so we encourage you to review it periodically.</p>
-<p>This Privacy Policy was last updated on September 3, 2014.</p>
-<p>5.2.20140903</p>
+<p>By accessing the Site or interacting with us, you consent to our use of information that is collected or submitted as described in this Privacy Policy. We may change or add to this Privacy Policy, so we encourage you to review it periodically.</p>
+<p>This Privacy Policy was last updated on June 20, 2017.</p>
+<p>5.6.20170620</p>
 
 <!-- SiteCatalyst code version: H.7.
 Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
@@ -548,23 +641,24 @@ s.purchaseID=""
 var s_code=s.t();if(s_code)document.write(s_code)//-->
 //]]>
 </script> <!-- End SiteCatalyst code version: H.7. --> 
-            </li></ul></div>
-    <div id="ostk_rate">
-        <div id="middle_wrapperheaderfeedback">&nbsp;<b>Please leave us some feedback:</b></div>
-        &nbsp;&nbsp;<div id="rn_AnswerFeedback2_6" class="rn_AnswerFeedback2" style="padding: 0 0 12px 12px">
-    <div id="rn_AnswerFeedback2_6_AnswerFeedback2Control" class="rn_AnswerFeedback2Control">
+                            </div>
+            <div id="ostk_rate">
+                <div id="middle_wrapperheaderfeedback">&nbsp;<b>Please leave us some feedback:</b></div>
+                &nbsp;&nbsp;<div id="rn_AnswerFeedback2_7" class="rn_AnswerFeedback2" style="padding: 0 0 12px 12px">
+    <div id="rn_AnswerFeedback2_7_AnswerFeedback2Control" class="rn_AnswerFeedback2Control">
                     <span class="ostk_h3">Was this answer helpful?</span>
-                        <div id="rn_AnswerFeedback2_6_RatingButtons">
-            <span id="rn_AnswerFeedback2_6_JustButtons">
-                <button id="rn_AnswerFeedback2_6_RatingYesButton" class="radioButton">&nbsp;</button>Yes&nbsp;&nbsp;&nbsp;
-                <button id="rn_AnswerFeedback2_6_RatingNoButton" class="radioButton">&nbsp;</button>No            </span>
-            <span id="rn_AnswerFeedback2_6_ThanksLabel" class="rn_ThanksLabel">&nbsp;</span>
+                        <div id="rn_AnswerFeedback2_7_RatingButtons">
+            <span id="rn_AnswerFeedback2_7_JustButtons">
+                <button id="rn_AnswerFeedback2_7_RatingYesButton" class="radioButton">&nbsp;</button>Yes&nbsp;&nbsp;&nbsp;
+                <button id="rn_AnswerFeedback2_7_RatingNoButton" class="radioButton">&nbsp;</button>No            </span>
+            <span id="rn_AnswerFeedback2_7_ThanksLabel" class="rn_ThanksLabel">&nbsp;</span>
         </div>
             </div>
-        <div id="rn_AnswerFeedback2_6_AnswerFeedback2Form" class="rn_AnswerFeedback2Form rn_Hidden">
-        <div id="rn_AnswerFeedback2_6_ErrorMessage"></div>
-        <label for="rn_AnswerFeedback2_6_FeedbackTextarea">How can we improve this answer?<span class="rn_ScreenReaderOnly">You are experiencing connection issues, attempting to reconnect...</span></label>
-        <textarea id="rn_AnswerFeedback2_6_FeedbackTextarea" class="rn_Textarea" rows="4" cols="60"></textarea>
+        <div id="rn_AnswerFeedback2_7_AnswerFeedback2Form" class="rn_AnswerFeedback2Form rn_Hidden">
+        <div id="rn_AnswerFeedback2_7_ErrorMessage"></div>
+		<div id="rn_AnswerFeedback2_7_chatlink class=" answer_chat_link"=""><br>We're sorry to hear that. <a href="https://overstock--ostkdev1.custhelp.com/app/chat/chat_launch/c_referrer/%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F65" target="chatnew" onclick="javascript:window.open('/app/chat/chat_launch/c_referrer/%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F65','chatnew','width=496,height=460');return false;">Please click here if you'd rather chat with an Overstock Customer Care agent.</a><br><br></div>
+        <label for="rn_AnswerFeedback2_7_FeedbackTextarea">How can we improve this answer?<span class="rn_ScreenReaderOnly">You are experiencing connection issues, attempting to reconnect...</span></label>
+        <textarea id="rn_AnswerFeedback2_7_FeedbackTextarea" class="rn_Textarea" rows="4" cols="60"></textarea>
                 <div class="rn_DialogSubtitle">If you need additional assistance, please leave us your email address.</div>
 <style type="text/css">
   input {
@@ -575,54 +669,54 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
     color: #000;
 }
 </style>
-            <input id="rn_AnswerFeedback2_6_EmailInput" class="rn_EmailField" type="text" value="Enter Your Email Address Here" onfocus="this.value=''">
-                <button value="Submit" onclick="if (document.getElementById('rn_AnswerFeedback2_6_EmailInput').value=='Enter Your Email Address Here'){ document.getElementById('rn_AnswerFeedback2_6_EmailInput').value=''} else {document.getElementById('rn_AnswerFeedback2_6_EmailInput').value=='this.value=\'\''};return false" id="rn_AnswerFeedback2_6_AnswerFeedback2SubmitButton" class="feedbackbackbutton" type="submit"></button>
+            <input id="rn_AnswerFeedback2_7_EmailInput" class="rn_EmailField" type="text" value="Enter Your Email Address Here" onfocus="this.value=''">
+                <button value="Submit" onclick="if (document.getElementById('rn_AnswerFeedback2_7_EmailInput').value=='Enter Your Email Address Here'){ document.getElementById('rn_AnswerFeedback2_7_EmailInput').value=''} else {document.getElementById('rn_AnswerFeedback2_7_EmailInput').value=='this.value=\'\''};return false" id="rn_AnswerFeedback2_7_AnswerFeedback2SubmitButton" class="feedbackbackbutton" type="submit"></button>
     </div>
     </div>
-    </div> 
-    <div id="rn_FileAttach">
-        
-    </div>
-            <div id="rn_DetailTools">            
-            <span id="rn_PrintPageLink_9" class="rn_PrintPageLink">
+            </div> 
+            <div id="rn_FileAttach">
+                
+            </div>
+                            <div id="rn_DetailTools">            
+                    <span id="rn_PrintPageLink_10" class="rn_PrintPageLink">
     <a onclick="window.print(); return false;" href="javascript:void(0);" title="Print this page">
                     <img src="images/Print.png" alt="">
                 <span>Print</span>
     </a>
 </span>
-            <div id="rn_EmailAnswerLink_10" class="rn_EmailAnswerLink">
-    <a id="rn_EmailAnswerLink_10_Link" href="javascript:void(0);" title="Email a link to this answer">
+                    <div id="rn_EmailAnswerLink_11" class="rn_EmailAnswerLink">
+    <a id="rn_EmailAnswerLink_11_Link" href="javascript:void(0);" title="Email a link to this answer">
                     <img src="images/Email.png" alt="">
                 <span>Email this page</span>
     </a>
-        <div id="rn_EmailAnswerLink_10_EmailAnswerLinkForm" class="rn_EmailAnswerLinkForm rn_Hidden">
+        <div id="rn_EmailAnswerLink_11_EmailAnswerLinkForm" class="rn_EmailAnswerLinkForm rn_Hidden">
         <form onsubmit="return false;">
-        <div id="rn_EmailAnswerLink_10_ErrorMessage"></div>
-        <label id="rn_EmailAnswerLink_10_LabelRecipientEmail" for="rn_EmailAnswerLink_10_InputRecipientEmail">
+        <div id="rn_EmailAnswerLink_11_ErrorMessage"></div>
+        <label id="rn_EmailAnswerLink_11_LabelRecipientEmail" for="rn_EmailAnswerLink_11_InputRecipientEmail">
             Recipient Email            <span class="rn_Required"> *</span><span class="rn_ScreenReaderOnly">Required</span>
         </label>
-        <input id="rn_EmailAnswerLink_10_InputRecipientEmail" type="text" value="">
-            <label id="rn_EmailAnswerLink_10_LabelSenderEmail" for="rn_EmailAnswerLink_10_InputSenderEmail">
+        <input id="rn_EmailAnswerLink_11_InputRecipientEmail" type="text" value="">
+            <label id="rn_EmailAnswerLink_11_LabelSenderEmail" for="rn_EmailAnswerLink_11_InputSenderEmail">
             Your Email            <span class="rn_Required"> *</span><span class="rn_ScreenReaderOnly">Required</span>
         </label>
-        <input id="rn_EmailAnswerLink_10_InputSenderEmail" type="text" value="">
-                <label id="rn_EmailAnswerLink_10_LabelSenderName" for="rn_EmailAnswerLink_10_InputSenderName">
+        <input id="rn_EmailAnswerLink_11_InputSenderEmail" type="text" value="">
+                <label id="rn_EmailAnswerLink_11_LabelSenderName" for="rn_EmailAnswerLink_11_InputSenderName">
              Your Name             <span class="rn_Required"> *</span><span class="rn_ScreenReaderOnly">Required</span>
         </label>
-        <input id="rn_EmailAnswerLink_10_InputSenderName" type="text" maxlength="70" value="">
+        <input id="rn_EmailAnswerLink_11_InputSenderName" type="text" maxlength="70" value="">
             </form>
     </div>
 </div>
+                </div>
+                        <!-- <rn:widget path="knowledgebase/RelatedAnswers2" /> -->
+                        <div>
+                <p class="rn_back"> <a href="/app/answers/list">« Go Back to Search Results</a> </p>
+            </div>
         </div>
-         <!-- <rn:widget path="knowledgebase/RelatedAnswers2" /> -->
-        <div>
-        <p class="rn_back"> <a href="/app/answers/list">« Go Back to Search Results</a> </p>
     </div>
 </div>
-</div>
-</div>
-					</div> 
-					<style type="text/css">		
+					</div>
+					<style type="text/css">
 						.testmodule {
 							font-size: 0.9em;
 							margin: 0 0 1em;
@@ -642,91 +736,282 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
 					</style>
 					<!--<div class="testmodule" style="float:right; clear:right;">-->
 					<div class="content-nav-b">
-						<div style="width:19%; float:right; border:1px solid #CCC">
-							<h2>Contact Us</h2>
+<!-- 						<div style="width:19%; float:right; border:1px solid #CCC; margin-bottom: 20px;">
+							<h2>Self-Help Tools</h2>
 							<div class="widgetpadding">
-								<div id="rn_AnnouncementText2_12" class="rn_AnnouncementText2">
-    <p><strong>Need assistance?</strong> Please <a href="/app/contact_page" class="noIntercept">click here</a> to contact customer care.</p></div>
-<br>
+								<rn:widget path="custom/Self_Help_Tools" />
+							</div>
+						</div> -->
+						<div style="width:19%; float:right; border:1px solid #CCC">
+							<h2>Quick Links</h2>
+							<div class="widgetpadding">
 								<div id="rn_AnnouncementText2_13" class="rn_AnnouncementText2">
+    <style>
+
+	.quick-link {
+
+		display: flex;
+
+	    margin-bottom: 15px;
+
+	}
+
+	.link-logo-wrapper {
+
+		margin-right: 10px;
+
+	}
+
+	.link-logo {
+
+		display: flex;
+
+		width: 60px;
+
+		height: 60px;
+
+	}
+
+	.link-text {
+
+		width: 100%;
+
+		font-weight: normal;
+
+	}
+
+	.link-title {
+
+		display: block;
+
+	}
+
+	.link-body {
+
+		display: block;
+
+	}
+
+</style>
+
+<div class="quick-link">
+
+	<div class="link-logo-wrapper">
+
+		<img src="/euf/assets/images/help.png" class="link-logo">
+
+	</div>
+
+	<div class="link-text">
+
+		<b>Contact Us</b>
+
+		<br>
+
+		Need assistance?  Please <a title="Chat" onclick="javascript:window.open('/app/chat/chat_launch/c_referrer/quick_links','chatnew','width=520,height=700,scrollbars=1');return false;" href="/app/chat/chat_launch/c_referrer/quick_links" target="chatnew">click here</a> to chat with a Customer Care agent.
+
+	</div>
+
+</div>
+
+<div class="quick-link">
+
+	<div class="link-logo-wrapper">
+
+		<img src="/euf/assets/images/orders.png" class="link-logo">
+
+	</div>
+
+	<div class="link-text">
+
+		<br>
+
+		<b>My Orders</b>
+
+		<br>
+
+		Please <a href="https://www.overstock.com/myaccount#/orders" class="noIntercept">click here</a>.
+
+	</div>
+
+</div>
+
+<div class="quick-link">
+
+	<div class="link-logo-wrapper">
+
+		<img src="/euf/assets/images/returns.png" class="link-logo">
+
+	</div>
+
+	<div class="link-text">
+
+		<br>
+
+		<b>My Returns</b>
+
+		<br>
+
+		Please <a href="https://www.overstock.com/myaccount#/returns" class="noIntercept">click here</a>.
+
+	</div>
+
+</div>
+
+<div class="quick-link">
+
+	<div class="link-logo-wrapper">
+
+		<img src="/euf/assets/images/clubo.png" class="link-logo">
+
+	</div>
+
+	<div class="link-text">
+
+		<br>
+
+		<b>My Club O Rewards</b>
+
+		<br>
+
+		Please <a href="https://www.overstock.com/myaccount#/clubo" class="noIntercept">click here</a>.
+
+	</div>
+
+</div>
+
+<div class="quick-link">
+
+	<div class="link-logo-wrapper">
+
+		<img src="/euf/assets/images/ideas_tips.png" class="link-logo">
+
+	</div>
+
+	<div class="link-text">
+
+		<br>
+
+		<b>Tips &amp; Ideas for Living in Style</b>
+
+		<br>
+
+		Please <a href="https://www.overstock.com/guides/?TID=CS%3AHELP" class="noIntercept">click here</a>.
+
+	</div>
+
+</div>
+</div>
+<br>
+								<div id="rn_AnnouncementText2_14" class="rn_AnnouncementText2">
     </div>
 							</div>
-															<div id="rn_RelatedAnswers2_14" class="rn_RelatedAnswers2">
+															<div id="rn_RelatedAnswers2_15" class="rn_RelatedAnswers2">
+
+
     <h2>Answers others found helpful</h2>
+
+
 <div class="widgetpadding">
+
     <ul>
-            <li><a href="/app/answers/detail/a_id/63/related/1" target="_self"> Terms and Conditions</a></li>
-            <li><a href="/app/answers/detail/a_id/25/related/1" target="_self"> Unsubscribe from Email and Change Communication Preferences</a></li>
-            <li><a href="/app/answers/detail/a_id/1/related/1" target="_self"> Standard Return Policy</a></li>
-            <li><a href="/app/answers/detail/a_id/7/related/1" target="_self"> Shipping &amp; Delivery</a></li>
-            <li><a href="/app/answers/detail/a_id/1505/related/1" target="_self"> International Help Home</a></li>
-        </ul>
+
+    
+        <li><a href="/app/answers/detail/a_id/63/related/1" target="_self"> TERMS AND CONDITIONS</a></li>
+
+    
+        <li><a href="/app/answers/detail/a_id/25/related/1" target="_self"> Unsubscribe from Email and Change Communication Preferences</a></li>
+
+    
+        <li><a href="/app/answers/detail/a_id/1/related/1" target="_self"> Standard Return Policy</a></li>
+
+    
+        <li><a href="/app/answers/detail/a_id/7/related/1" target="_self"> Shipping &amp; Delivery</a></li>
+
+    
+        <li><a href="/app/answers/detail/a_id/1505/related/1" target="_self"> International Help Home</a></li>
+
+    
+    </ul>
+
 </div>
+
 </div>
 													</div>
-					</div>			   	
-					</div><!-- /#content-main -->
-				</div><!-- /#hd -->	
-			</div><!-- /page-wrapper -->        
-			<div style="clear:both"></div>
-			<div class="footer-nav">
+					</div>
+				</div><!-- /#content-main -->
+			</div><!-- /#bd -->
+		</div><!-- /page-wrapper -->
+		<div style="clear:both"></div>
+		<div class="footer-nav">
+			<p>
+				<a href="http://www.overstock.com">Overstock.com</a>
+				-
+				<a href="/app">Help Home</a>
+				-
+				<a href="/app/contact_page">Contact Customer Care</a>
+				-
+			</p>
+			<div>
 				<p>
-					<a href="http://www.overstock.com">Overstock.com</a>
-					-
-					<a href="/app">Help Home</a>
-					-
-					<a href="/app/contact_page">Contact Customer Care</a>
-					-
+					<span>
+						-
+						<a href="/app/answers/detail/a_id/65">Privacy Policy</a>
+					</span>
+					<span>
+						-
+						<a href="/app/answers/detail/a_id/63">Site User Terms and Conditions</a>
+					</span>
+					<span>
+						-
+						<a href="http://www.overstock.com/about">About Overstock.com</a>
+					</span>
+					<span>
+						-
+						<a href="http://www.overstock.com/careers">We are Hiring</a>
+					</span>
+					<span class="footer-copyright">
+						©2017 Overstock.com
+					</span>
 				</p>
-				<div>
-					<p>
-						<span>
-							-
-							<a href="/app/answers/detail/a_id/65">Privacy Policy</a>
-						</span>
-						<span>
-							-
-							<a href="/app/answers/detail/a_id/63">Site User Terms and Conditions</a>
-						</span>
-						<span>
-							-
-							<a href="http://www.overstock.com/about">About Overstock.com</a>
-						</span>
-						<span>
-							-
-							<a href="http://www.overstock.com/careers">We are Hiring</a>
-						</span>
-						<span class="footer-copyright">
-							©2015 Overstock.com
-						</span>
-					</p>
-				</div>
 			</div>
+		</div>
 		
 				<!--Add Proactive Chat-->
-		<div id="rn_ProactiveWrapper_15" class="rn_ChatStatus2">
-	<div id="rn_ProactiveChat2_16" class="rn_ProactiveChat2 rn_Hidden">
-    <div id="rn_ProactiveChat2_16_ProactiveChatBox" class="rn_ProactiveChatBox">
-        <div id="rn_ProactiveChat2_16_ProactiveChatBoxContent" class="rn_ProactiveChatBoxContent">
+		<div id="rn_ProactiveWrapper_16" class="rn_ChatStatus2">
+
+
+	<div id="rn_ProactiveChat2_17" class="rn_ProactiveChat2 rn_Hidden">
+
+    <div id="rn_ProactiveChat2_17_ProactiveChatBox" class="rn_ProactiveChatBox">
+
+        <div id="rn_ProactiveChat2_17_ProactiveChatBoxContent" class="rn_ProactiveChatBoxContent">
+
         </div>
+
     </div>
+
 </div>
+
+
 </div>
+
+
 
 <!-- Add HTML/PHP view code here -->
 	
-<script type="text/javascript" src="/euf/rightnow/js/12.11.0.1.8.120/min/RightNow.js"></script>
-<script type="text/javascript" src="/euf/rightnow/optimized/1421440427/templates/ostk_standard_new.js"></script>
-<script type="text/javascript" src="/euf/rightnow/optimized/1421440427/pages/answers/detail.js"></script>
-<script type="text/javascript" src="/euf/rightnow/optimized/1421440427/custom/autoload.js"></script>
+<script type="text/javascript" src="/euf/rightnow/js/16.5.0.1.6.254/min/RightNow.js"></script>
+<script type="text/javascript" src="/euf/rightnow/optimized/1506269347/templates/ostk_standard_new.js"></script>
+<script type="text/javascript" src="/euf/rightnow/optimized/1506269347/pages/answers/detail.js"></script>
+<script type="text/javascript" src="/euf/rightnow/optimized/1506269347/custom/autoload.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 RightNow.Url.setParameterSegment(5);
 RightNow.Event.setNoSessionCookies(true);
 RightNow.Interface.Constants = 
-{"ACTION_ADD":1,"ANY_FILTER_VALUE":"~any~","EUF_DT_CHECK":12,"EUF_DT_DATE":1,"EUF_DT_DATETIME":2,"EUF_DT_FATTACH":11,"EUF_DT_HIERMENU":9,"EUF_DT_INT":5,"EUF_DT_MEMO":6,"EUF_DT_PASSWORD":7,"EUF_DT_RADIO":3,"EUF_DT_SELECT":4,"EUF_DT_THREAD":10,"EUF_DT_VARCHAR":8,"INT_NULL":-2147483647,"CAN_USE_ARIA":false,"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+(\\.[.]?[-_!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
+{"ACTION_ADD":1,"ANY_FILTER_VALUE":"~any~","EUF_DT_CHECK":12,"EUF_DT_DATE":1,"EUF_DT_DATETIME":2,"EUF_DT_FATTACH":11,"EUF_DT_HIERMENU":9,"EUF_DT_INT":5,"EUF_DT_MEMO":6,"EUF_DT_PASSWORD":7,"EUF_DT_RADIO":3,"EUF_DT_SELECT":4,"EUF_DT_THREAD":10,"EUF_DT_VARCHAR":8,"INT_NULL":-2147483647,"CAN_USE_ARIA":false,"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+([.][-_!#$%&'*+\/=?^~`{|}\\w]*)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
 RightNow.Interface.setMessagebase(function(){return {"WARNING_LBL":"Warning","INFORMATION_LBL":" ","HELP_LBL":"Help","ERROR_REQUEST_ACTION_COMPLETED_MSG":"There was an error with the request and the action could not be completed.","OK_LBL":"OK","DIALOG_LBL":"dialog","DIALOG_PLEASE_READ_TEXT_DIALOG_MSG_MSG":"dialog, please read above text for dialog message","BEG_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Beginning of dialog, please dismiss dialog before continuing","END_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"End of dialog, please dismiss dialog before continuing","ERR_SUBMITTING_FORM_DUE_INV_INPUT_LBL":"There was an error submitting the form due to invalid input","ERR_SUBMITTING_SEARCH_MSG":"There was a problem with your request.  Please change your search terms and try again.","CLOSE_CMD":"Close","BACK_LBL":"Back","ANSWERFEEDBACK2_DIALOG_MISSING_REQD_MSG":"AnswerFeedback2 dialog is missing required element %s.","PCT_D_OF_PCT_D_SELECTED_LBL":"%d of %d selected","PCT_S_IS_REQUIRED_MSG":"%s is required","FIELD_IS_NOT_A_VALID_EMAIL_ADDRESS_MSG":"field is not a valid email address.","PCT_S_CONTAIN_THAN_MSG":"%s must not contain either '<' or '>'","PCT_S_MUST_NOT_CONTAIN_QUOTES_MSG":"%s must not contain quotes","PCT_S_MUST_NOT_CONTAIN_MSG":"%s must not contain '&'","PLEASE_ENTER_SINGLE_EMAIL_ADDRESS_MSG":"Please enter a single email address.","PCT_S_IS_INVALID_MSG":"%s is invalid","PCT_S_IS_TOO_LONG_MSG":"%s is too long","YES_LBL":"Yes","NO_LBL":"No"};});
-RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^(([-!#$%&'*+\/=?^~`{|}\\w]+(\\.[-!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+(-[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+(-[0-9A-Za-z]+)*)+$","CP_HOME_URL":"home","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"help.overstock.com"};});
+RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^(([-!#$%&'*+\/=?^~`{|}\\w\\x80-\\xFF]+(\\.[-!#$%&'*+\/=?^~`{|}\\w\\x80-\\xFF]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+(-[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+(-[0-9A-Za-z]+)*)+$","CP_HOME_URL":"home","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"help.overstock.com"};});
 YAHOO.util.Event.onDOMReady(function(){this.Dialog.setRenderDiv(); this.prepareVirtualBufferUpdateTrigger(); this.ariaHideFrames();}, null, RightNow.UI);
 YAHOO.util.Event.onDOMReady(function(){
 var W = RightNow.Widget,
@@ -735,26 +1020,16 @@ W[c]({"i":{"c":"KeywordText2","n":"KeywordText2_1","w":1},"a":{"report_id":11011
 W[c]({"i":{"c":"SearchButton2","n":"SearchButton2_2","w":2},"a":{"report_id":110119,"label_button":"Search","report_page_url":"\/app\/answers\/list","icon_path":"","icon_alt_text":"Search","target":"_self","popup_window":false,"popup_window_width_percent":"30","popup_window_height_percent":"42","label":"Search All Answers"},"j":[]},'SearchButton2_2','custom/SearchButton2','SearchButton2','2');
 W[c]({"i":{"c":"LeftNav","n":"LeftNav_3","w":3},"a":{"attribute":"Attribute Default Value","default_num_ans":0},"j":[]},'LeftNav_3','custom/LeftNav','LeftNav','3');
 W[c]({"i":{"c":"LeftNavMenu","n":"LeftNavMenu_4","w":4},"a":{"attribute":"Attribute Default Value","default_num_ans":0,"leftnav_cat_seq":"3,2,1,4,5,6,743,12,10,11,358,744","ostk_ans_spl_lbl":0},"j":[]},'LeftNavMenu_4','custom/LeftNavMenu','LeftNavMenu','4');
-W[c]({"i":{"c":"AnswerFeedback2","n":"AnswerFeedback2_6","w":6},"a":{"label_title":"Was this answer helpful?","label_accessible_option_description":"Rate answer %d of %d","label_dialog_title":"Rating submitted","label_dialog_description":"Please tell us how we can make this answer more useful.","dialog_width":"auto","options_count":2,"options_descending":false,"label_yes_button":"Yes","label_no_button":"No","feedback_page_url":"","dialog_threshold":1,"label_feedback_submit":"Thank you for your feedback","label_email_address":"Email","label_comment_box":"How can we improve this answer?","label_send_button":"Submit","label_cancel_button":"Cancel","use_rank_labels":false,"threshold":"1","num_options":"2","opts_desc":"true","label_helpful":"Yes","label_not_helpful":"No"},"j":{"buttonView":true,"summary":"PRIVACY AND SECURITY POLICY","answerID":"65","isProfile":false,"email":""}},'AnswerFeedback2_6','custom/AnswerFeedback2','AnswerFeedback2','6');
-W[c]({"i":{"c":"EmailAnswerLink","n":"EmailAnswerLink_10","w":10},"a":{"label_link":"Email this page","label_dialog_title":"Email Answer","label_tooltip":"Email a link to this answer","icon_path":"images\/Email.png","label_icon_alt":"","label_to":"Recipient Email","label_sender_name":"Your Name","label_sender_email":"Your Email","label_send_button":"Send Email","label_cancel_button":"Cancel","label_email_sent":"Email has been sent."},"j":{"answerID":"65","emailAnswerToken":"ap3_k2iZZpl2mXqZcJlwmU6ZRJlCmVyZUAfoB~AT2BshFyk5nwefBw!!","isProfile":false,"senderEmail":""}},'EmailAnswerLink_10','standard/utils/EmailAnswerLink','EmailAnswerLink','10');
-W[c]({"i":{"c":"ProactiveChat2","n":"ProactiveChat2_16","w":16},"a":{"label_chat_question":"A Chat Assistant is available to help. Would you like to start the session?","seconds":120,"searches":3,"profile_item":null,"profile_operator":null,"profile_value":null,"wait_threshold":40,"min_agents_avail":1,"guess_prod_val":false,"guess_cat_val":false,"chat_login_page":"\/app\/chat\/chat_launch\/c_referrer\/%21app%21answers%21detail%21a_id%2165","answer_list":"1010,94,10"},"j":{"chatWindowName":"chatnew","answer_list":"1010,94,10","pac":4,"prod":[],"a_id":"65","cat":[{"label":"Privacy and Security","level":0,"id":11,"hier_list":"11"},{"label":"Add Authorized User","level":1,"id":147,"hier_list":"11,147"}],"seconds_to_do":true,"searches":0,"searches_to_do":true,"interface_id":1,"dqaWidgetType":1,"dqaInsertType":9}},'ProactiveChat2_16','custom/CustomerCare/ProactiveChat2','ProactiveChat2','16');
+W[c]({"i":{"c":"AnswerFeedback2","n":"AnswerFeedback2_7","w":7},"a":{"label_title":"Was this answer helpful?","label_accessible_option_description":"Rate answer %d of %d","label_dialog_title":"Rating submitted","label_dialog_description":"Please tell us how we can make this answer more useful.","dialog_width":"auto","options_count":2,"options_descending":false,"label_yes_button":"Yes","label_no_button":"No","feedback_page_url":"","dialog_threshold":1,"label_feedback_submit":"Thank you for your feedback","label_email_address":"Email","label_comment_box":"How can we improve this answer?","label_send_button":"Submit","label_cancel_button":"Cancel","use_rank_labels":false,"threshold":"1","num_options":"2","opts_desc":"true","label_helpful":"Yes","label_not_helpful":"No"},"j":{"buttonView":true,"summary":"PRIVACY AND SECURITY POLICY","answerID":"65","isProfile":false,"email":""}},'AnswerFeedback2_7','custom/AnswerFeedback2','AnswerFeedback2','7');
+W[c]({"i":{"c":"EmailAnswerLink","n":"EmailAnswerLink_11","w":11},"a":{"label_link":"Email this page","label_dialog_title":"Email Answer","label_tooltip":"Email a link to this answer","icon_path":"images\/Email.png","label_icon_alt":"","label_to":"Recipient Email","label_sender_name":"Your Name","label_sender_email":"Your Email","label_send_button":"Send Email","label_cancel_button":"Cancel","label_email_sent":"Email has been sent."},"j":{"answerID":"65","emailAnswerToken":"ap3_k2iZZJlymXqZdpl2mVCZQJlKmU6ZUAfoB~AT2BshFyk5nwefBw!!","isProfile":false,"senderEmail":""}},'EmailAnswerLink_11','standard/utils/EmailAnswerLink','EmailAnswerLink','11');
+W[c]({"i":{"c":"ProactiveChat2","n":"ProactiveChat2_17","w":17},"a":{"label_chat_question":"A Chat Assistant is available to help. Would you like to start the session?","seconds":30,"searches":3,"profile_item":null,"profile_operator":null,"profile_value":null,"wait_threshold":40,"min_agents_avail":1,"guess_prod_val":false,"guess_cat_val":false,"chat_login_page":"\/app\/chat\/chat_launch\/c_referrer\/%21app%21answers%21detail%21a_id%2165","answer_list":"1010,94,10,1,9,950,3"},"j":{"chatWindowName":"chatnew","answer_delay":90,"seconds":90,"answer_list":"","pac":4,"prod":[{"label":"Non Product Related Issue","level":0,"id":38,"hier_list":"38"}],"a_id":"65","cat":[{"label":"Privacy and Security","level":0,"id":11,"hier_list":"11"},{"label":"Add Authorized User","level":1,"id":147,"hier_list":"11,147"}],"seconds_to_do":true,"searches":0,"searches_to_do":true,"interface_id":1,"dqaWidgetType":1,"dqaInsertType":9}},'ProactiveChat2_17','custom/CustomerCare/ProactiveChat2','ProactiveChat2','17');
 RightNow.Url.transformLinks();});
 /* ]]> */
 </script>
-<script type="text/javascript">
-var _rnq=_rnq||[];
-_rnq.push({"s":"7i26kwhm","uh":"631d14f6","uc":"help.overstock.com\/app\/answers\/detail\/a_id\/65","b":"ca22249","i":"overstock:overstock","f":"rnw","p":"Customer Portal","v":"12.11.0.1-b120-sp8","th":"www.rnengage.com"});
-(function(){
-function l(h,u){
-var d=document,p=d.getElementsByTagName('script')[0],s=d.createElement('script');
-s.defer=s.async=!0;
-s.type='text/javascript';
-s.src=h+'www.rnengage.com'+u;
-p.parentNode.insertBefore(s, p);
-}
-l('https://','/api/e/ca22249/e.js');
-l('//','/api/1/javascript/acs.js');
-})();
+<iframe src="javascript:false" title="" style="position: absolute; width: 0px; height: 0px; border: 0px;"></iframe><script type="text/javascript">
+var _rnq=_rnq||[];_rnq.push({"s":"ivcSBTtn","uh":"631d14f6","uc":"help.overstock.com\/app\/answers\/detail\/a_id\/65","b":"ca22249","i":"overstock:overstock","f":"rnw","p":"Customer Portal","v":"16.5.0.1-b254-sp6","th":"www.rnengage.com"});
+(function(f){var b,d,a=document.createElement("iframe"),c=document.getElementsByTagName("script");a.src="javascript:false";a.title="";a.role="presentation";(a.frameElement||a).style.cssText="position:absolute;width:0;height:0;border:0";c=c[c.length-1];c.parentNode.insertBefore(a,c);try{b=a.contentWindow.document}catch(g){d=document.domain,a.src="javascript:var d=document.open();d.domain='"+d+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){for(var a;f.length;)a=this.createElement("script"),d&&(this.domain=
+d),a.src=f.pop(),this.body.appendChild(a)};b.write('<body onload="document._l();">');b.close()})(["https://www.rnengage.com/api/e/ca22249/e.js","//www.rnengage.com/api/1/javascript/acs.js"]);
 </script>
 <script type="text/javascript" src="/rnt/rnw/yui_2.7/cookie/cookie-min.js"></script>
 
