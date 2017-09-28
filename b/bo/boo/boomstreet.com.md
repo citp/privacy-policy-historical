@@ -1,83 +1,79 @@
-> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114214834id_/http%3A//www.boomstreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928051208id_/https%3A//boomstreet.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - BoomStreet.com
+# Privacy Policy | boomstreet.com
 
-**Last Updated:** _October 1, 2015_
+### Privacy Policy Scope
 
-This Privacy Policy discloses the privacy practices of Clayco Capital Ventures, LLC, a Delaware corporation with respect to the http://boomstreet.com website and any other website pages on which services are provided by us (collectively, the "Website"). Our Terms and Conditions govern your use of the website and our online services. 
+This Privacy Policy identifies and describes the way Boomstreet uses and protects the information we collect about users. All use of Boomstreet’s products and services, as well as visits to our websites, are subject to this Privacy Policy. 
 
-The BoomStreet Privacy Policy was developed as an extension to our commitment to combine quality products and services with integrity in dealing with our users. We designed our Privacy Policy to assist you (the "User" or the "End User") in understanding how we collect, use and store personal information you provide to us.
+### The Information We Collect, How We Collect It, And How We Use It.
 
-Please read our Terms and Conditions and this Privacy Policy carefully. By accessing or using our website you acknowledge that you have read, understand, and agree to be bound to all the terms of this Privacy Policy and our Terms and Conditions.
+We may collect different types of personal and other information based on your use of our products and services. Some examples include:
 
-#### 1\. Changes to Privacy Policy
+  * Contact Information that allows us to communicate with you -- including your name, address, and e-mail address; 
+  * Equipment, Performance, Boomstreet Websites Usage, Viewing and other Technical Information about your use of our network, services, products or websites. 
 
-Our Privacy Policy may be modified by us from time to time. Any modifications that we make will be effective immediately upon posting to the website. It is your responsibility to review the Privacy Policy frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
 
-#### 2\. Types of Information Collected and Uses of Collected Information
 
-**_We collect two types of information about our Website Users:_** Personally Identifiable Information and Non-Personally Identifiable Information.
+We collect information in two primary ways: 
 
-**_Personally Identifiable Information:_** Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, "Identification Activities"), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.
+  * You give it to us when you login with your Facebook credential;
+  * We collect it automatically when you visit our websites or use our products and services.
 
-We use Personally Identifiable Information to provide products and services to you, administer contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. In the event that your comments contain personal information such as your name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you (including our Website Terms and Conditions and this Privacy Policy), comply with applicable law, and cooperate with law enforcement activities.
 
-**_Non-Personally Identifiable Information:_** Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator ("URL") of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol ("IP") address. We, and/or our authorized Third Party Service Providers may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web Beacons or Pixel Tags in this Privacy Policy.
 
-We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
+We may use the information we collect in a variety of ways, including: 
 
-#### 3\. Release of Personally Identifiable Information
+  * Providing you with the best user experience possible;
+  * Providing the services you use, and to respond to your questions;
+  * Communicating with you regarding service updates, offers, and promotions;
+  * Delivering customized content that may be of interest to you;
+  * Addressing network integrity and security issues;
+  * Investigating, preventing or taking action regarding illegal activities, violations of our Terms of Service or Acceptable Use Policies. 
 
-**_We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below:_**
 
-We may share your information with BoomStreet Merchants. From time to time, we provide offers from particular merchants (referred to as "BoomStreet Merchants") who, as part of the offer, request information on BoomStreet consumers who purchased an offer in order to aid redemption. In those cases, we share some of your Personally Identifiable Information with BoomStreet Merchants. Sharing this Information may allow an BoomStreet Merchant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with an BoomStreet Merchant if you engage in an Identification Activity, and then only to the BoomStreet Merchant involved in that Identification Activity. We specifically disclaim any responsibility or liability for the actions of such BoomStreet Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with BoomStreet, we do not have any responsibility for the actions of the BoomStreet Merchant, and the actions of the BoomStreet Merchant are not in our control.
 
-We may share your information with Authorized Third Party Service Providers. We provide services and products through third parties. These "Third Party Service Providers" perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal mail or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies ("Affiliates") with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate's information to our bank to send out a payment. We encourage BoomStreet Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
+### Online Activity Tracking
 
-We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with the BoomStreet website. Third-party marketing vendors may be hired by BoomStreet to perform remarketing services. As a result, third-party vendors may show BoomStreet ads on sites on the Internet. Third-party vendors use Cookies to serve ads based on a user's prior visits to BoomStreet's website. This information is used only for remarketing purposes and will not be used by them for any other purpose.
+  * We collect information about your activity on Boomstreet website for a number of purposes using technologies such as cookies, user behavior, and server log files. 
+  * We use that information to help tailor the content you see on our site.
 
-We may share your information in a Business Transfer. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.
 
-We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms and Conditions or other agreements; or protect the rights, property or safety of the Website, its Users or others.
 
-#### 4\. Release of Non-Personally Identifiable Information
+### Information Sharing
 
-We may disclose or share Non-Personally Identifiable Information with Affiliates and Partners. 
+With Boomstreet Products: Subject to applicable legal restrictions, Boomstreet products may share your Personal Information with each other to make sure your experience: 
 
-We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative consumer audience. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
+  * Is as seamless as possible; 
+  * Benefits fully from what Boomstreet has to offer. In Other Circumstances: We may provide Personal Information to non- Boomstreet companies or other third parties for purposes such as: 
+  * Responding to 911 calls and other emergencies; 
+  * Complying with court orders and other legal process; 
+  * To assist with identity verification, and to prevent fraud and identity theft; 
+  * Enforcing our agreements and property rights. Additionally, when you complete a purchase with Boomstreet, we share your submitted shipping address and phone number for shipping purposes only. This information is shared with the entities fulfilling and shipping your order, such as the merchant and the shipping provider. 
 
-#### 5\. Updating and Correcting Information
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the site or by sending us an email at [help@boomstreet.com](mailto:help@boomstreet.com). Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
-We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, it may be impossible for us to completely delete all of your information because we periodically backup information. If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by going to the "my account" section of your profile.
+### Anonymous & Aggregate Information
 
-#### 6\. User Choices on Collection and Use of Information
+  * We collect some information on an anonymous basis. We also may anonymize the personal information we collect about you. 
+  * We obtain aggregate data by combining anonymous data that meet certain criteria into groups.
+  * We may share aggregate or anonymous information in various formats with trusted non- Boomstreet entities, and may work with those entities to do research and provide products and services. 
 
-As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of BoomStreet Merchants. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [help@boomstreet.com](mailto:help@boomstreet.com) or by clicking the "unsubscribe" button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
-#### 7\. Security of Information
+### Safeguarding Your Information: Our Policy on Data Protection and Security
 
-We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
+  * We do not sell your Personal Information to anyone for any purpose. Period.
+  * We maintain information about you in our business records while you are a user, or until it is no longer needed for business, tax, or legal purposes. 
+  * We have implemented encryption or other appropriate security controls to protect Personal Information when stored or transmitted by Boomstreet. 
+  * We require non- Boomstreet companies acting on our behalf to protect any Personal Information they may receive in a manner consistent with this Policy. We do not allow them to use such information for any other purpose. 
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies that do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.
 
-#### 8\. Data Tracking
 
-**_Cookies:_** To facilitate and customize your experience with the Website, we store Cookies on your computer. A Cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use Cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visit and what links you click on. Use of this information helps us to create a more user-friendly experience for all visitors. Most browsers automatically accept Cookies, but you may be able to modify your browser settings to decline Cookies. Please note that if you decline or delete these Cookies some parts of the Website may not work properly.
+### Links to/from Other Web Sites
 
-**_Other Tracking Devices:_** We may use other industry standard technologies like Pixel Tags and Web Beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and Web Beacons are tiny graphic images placed on certain pages on our Website or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, Pixel Tags and Web Beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize Pixel Tags and Web Beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
+Boomstreet is not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding 
 
-#### 9\. Privacy Policies of Third Party Websites
+### Changes to Our Privacy Policy
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on the BoomStreet Website. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website's privacy policy. We are not responsible for the policies or practices of third parties.
-
-#### 10\. Miscellaneous Privacy Issues
-
-**_Children:_** Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. BoomStreet does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults.
-
-**_Public Areas:_** We may provide areas on our Website, such as discussion boards and blogs, where you can publicly post information about yourself, communicate with others, review products and services, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. We have no control over who reads your postings or what other users may do with the information you voluntarily post, therefore please use caution when posting any personal information. We will obtain consent from our users to post their name along with their reviews. 
-
-**_Notice of Privacy Rights to California Residents:_** California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the "Act") and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled "California Customer Choice Notice." Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
