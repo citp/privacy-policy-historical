@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184432id_/http%3A//www.parts-express.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928154708id_/https%3A//www.parts-express.com/security) for the most accurate reproduction.*
 
 # Parts Express.com - Security / Privacy Policy
 
