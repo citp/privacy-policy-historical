@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barenecessities.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523004631id_/http%3A//www.barenecessities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barenecessities.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928051525id_/https%3A//www.barenecessities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement at Bare Necessities
 
@@ -158,7 +158,7 @@ Certain areas on our Services may be provided to you in association with third p
 
 When you access the Services on a mobile Device, we may use the information collected for any purpose set forth in this Privacy Policy. For example, we may use the information internally or in conjunction with our third party service providers to provide you with location-based Services, such as advertising, search results, and other personalized content that may be relevant to you. 
 
-### Direct Mail Promotional Offers. .
+### Direct Mail Promotional Offers.
 
 We may send you our catalog and/or offers through direct mail that we feel might be of interest to you. Names and postal mailing addresses may be shared with our marketing partners. If you do not want us to send you our catalog or any promotional offers or offers from third parties through direct mail or sell, rent or share your information with other companies so that they can send you direct mail offers about their products and services, please send an email to info@barenecessities.com with "Direct Mail Opt-Out" in the subject line or write to BareWeb, Inc., 90 Northfield Avenue, Edison, NJ 08837 and include your mailing address to be removed. Please note that even if you opt-out of receiving promotional direct mail offers, we may continue to send you service/transactional notifications that are related to your accounts and other products and services you have requested. Note that California residents have additional rights with regard to direct marketing as described in the Section below titled, Your California Privacy Rights.
 
@@ -238,10 +238,6 @@ You may not opt-out of transactional or administrative e-mails, for example e-ma
 We will endeavor to comply with your request for changes as soon as reasonably possible; please note that changes requested may not be effective immediately. Unless required by law, we are not responsible for informing third parties with whom we have already shared your information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities. 
 
 ## 7\. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION.
-
-### Links to Other Sites. 
-
-Our Services may utilize hyperlinks to access external or third party sites, which are not controlled by us and, therefore, are not subject to this Privacy Policy. We recommend that you check the privacy policies of those third party sites to determine how the proprietors of those sites will utilize your information. 
 
 ### Links to Other Sites. 
 
