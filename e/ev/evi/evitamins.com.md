@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607152256id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928044338id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # eVitamins - Privacy Policy
 
