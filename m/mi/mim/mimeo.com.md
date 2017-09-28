@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621200118id_/https%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928022859id_/https%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mimeo.com
 
