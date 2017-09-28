@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baremineralscoupons.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095249id_/http%3A//www.bareminerals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baremineralscoupons.net privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928062106id_/http%3A//www.bareminerals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -17,7 +17,7 @@ We may combine information collected via one method (e.g., a BE website) with in
 
 Bare Escentuals’ websites and applications
 
-We may collect information from you through one of our U.S. or international websites or applications. This could include (a) any site that we own and control under our own domain (such as [bareescentuals.com](http://bareescentuals.com/), [bareescentuals.co.uk](http://bareescentuals.co.uk/), or some other domain name that redirects you to one of these sites), or (b) any site or web application that we may develop and run on a third party social network such as Facebook. This could also include any site or application that we specifically design for use on a cell phone or other mobile device, such as a mobile-enabled site (i.e., WAP site) or mobile application (e.g., iPad/iPhone app). This Policy will only apply if it is posted or linked to on the website or application which you are using.  
+We may collect information from you through one of our U.S. or international websites or applications. This could include (a) any site that we own and control under our own domain (such as [bareescentuals.com](https://bareescentuals.com/), [bareescentuals.co.uk](https://bareescentuals.co.uk/), or some other domain name that redirects you to one of these sites), or (b) any site or web application that we may develop and run on a third party social network such as Facebook. This could also include any site or application that we specifically design for use on a cell phone or other mobile device, such as a mobile-enabled site (i.e., WAP site) or mobile application (e.g., iPad/iPhone app). This Policy will only apply if it is posted or linked to on the website or application which you are using.  
 
 
 Bare Escentuals’ store boutiques
@@ -136,7 +136,7 @@ We may collect and use your information when you interact with third party socia
 
 Third party online advertising
 
-We may allow third party ad networks to collect and use your information to show you targeted ads (including Bare Escentuals’ ads) on our sites or on other sites. Some of these ads may entice you to come back and revisit our site for new offers and promotions. This type of advertising typically involves an ad network collecting and tracking certain technical information (such as your IP address) and website usage information (such as your browsing history) on our sites and across many other sites on the Internet. This does not involve the collection, use, or sharing of your personal contact information, such as your name or email address. You can opt-out from this type of third party tracking at any time by going to: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+We may allow third party ad networks to collect and use your information to show you targeted ads (including Bare Escentuals’ ads) on our sites or on other sites. Some of these ads may entice you to come back and revisit our site for new offers and promotions. This type of advertising typically involves an ad network collecting and tracking certain technical information (such as your IP address) and website usage information (such as your browsing history) on our sites and across many other sites on the Internet. This does not involve the collection, use, or sharing of your personal contact information, such as your name or email address. You can opt-out from this type of third party tracking at any time by going to: [https://www.networkadvertising.org/managing/opt_out.asp.](https://www.networkadvertising.org/managing/opt_out.asp)
 
 Other general purposes (e.g., website security, internal research)
 
@@ -144,15 +144,15 @@ We may collect and use your information for other general business purposes, suc
 
 We use cookies on some of our websites. A cookie is a small file of letters and numbers that we put on your device when you visit our website and which allows us to recognize your computer when you come back to our site at a later time. Cookies allow us to enhance your website experience in several ways. For example, we use cookies to remember the items that you place in your shopping cart and to assess how visitors are using our site. We may also use cookies to personalize certain website features and to show you content and ads more relevant to your interests. By accessing and using our website(s), you consent to our use of cookies.
 
-You can learn more about cookies and how they work at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).You can always disable cookies through your browser settings. Doing so, however, may disable certain features on our websites, such as online ordering.
+You can learn more about cookies and how they work at [www.allaboutcookies.org](https://www.allaboutcookies.org/) or [www.youronlinechoices.eu](https://www.youronlinechoices.eu/).You can always disable cookies through your browser settings. Doing so, however, may disable certain features on our websites, such as online ordering.
 
-To opt-out from third party cookies that are used for advertising purposes, you can do so on the NAI website at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+To opt-out from third party cookies that are used for advertising purposes, you can do so on the NAI website at <https://www.networkadvertising.org/managing/opt_out.asp>. 
 
 We may use third party web analytics services on our websites or applications, such as those of Qubit, Coremetrics and/or Google Analytics. The service providers that administer those services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to analyze use of our websites and applications. You may deactivate the ability of these analytics services to analyze your browsing activities on our websites and applications. To learn more about web analytics services, and exercise your choice with respect to their collection of information on our websites or applications:
 
 \- For Coremetrics, please [click here](https://www-01.ibm.com/software/marketing-solutions/privacy/visitor-opt-out.html).  
-\- For Qubit, please [click here](http://www.qubit.com/legal/privacy-and-cookie-policy).  
-\- To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at <http://tools.google.com/dlpage/gaoptout?hl=en>, To learn more about privacy and Google Analytics, please consult the Google Analytics overview provided by Google. 
+\- For Qubit, please [click here](https://www.qubit.com/legal/privacy-and-cookie-policy).  
+\- To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at <https://tools.google.com/dlpage/gaoptout?hl=en>, To learn more about privacy and Google Analytics, please consult the Google Analytics overview provided by Google. 
 
 We may share your information with the types of companies or in the situations described below. We do not rent or sell your information to third party companies for their own marketing use.
 
@@ -170,7 +170,7 @@ We may share (or receive) information about you, including personal contact info
 
 Affiliated Companies
 
-We may share (or receive) information about you, including personal information, with our corporate affiliates, including our parent company, Shiseido. For additional information regarding our corporate affiliates, please see [http://www.shiseidogroup.com](http://www.shiseidogroup.com/).
+We may share (or receive) information about you, including personal information, with our corporate affiliates, including our parent company, Shiseido. For additional information regarding our corporate affiliates, please see [https://www.shiseidogroup.com](https://www.shiseidogroup.com/).
 
 We use a variety of standard methods (described below) to keep customer information confidential and secure. Please note, however, that these protections do not apply to any information you choose to share in public areas such as our website community features or other social areas.
 
@@ -196,7 +196,7 @@ Your information may be transferred outside your home country
 
 Because Bare Escentuals is headquartered in the United States, we may have a need to transfer information collected from our non-U.S. customers to the U.S. We may also have a need to transfer our customer information (regardless of where you live) to other countries or places in which we or our agents/contractors maintain offices or facilities. By using a BE website or application or by otherwise doing business with Bare Escentuals, you are agreeing to allow us to transfer your information outside your home country and to process it inside the United States or elsewhere for the purposes stated in this Privacy Policy.
 
-Bare Escentuals complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of your information transferred from the European Union to the United States. To read our Privacy Shield Policy [click here](http://www.bareminerals.com/privacy-shield.html). To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
+Bare Escentuals complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of your information transferred from the European Union to the United States. To read our Privacy Shield Policy [click here](https://www.bareminerals.com/privacy-shield.html). To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
 
 We do not collect information from children
 
@@ -213,7 +213,7 @@ New York, NY 10022
 (888) 795-4747  
 [customerservice@bareminerals.com ](mailto:customerservice@bareminerals.com)
 
-Bare Escentuals does not currently recognize and process “do not track” signals from different web browsers. You may manage your preferences for tracking across sites in the Third Party Web Analytics section above. For more information on “do not track” please visit [http://www.allaboutdnt.org](http://www.allaboutdnt.org/).
+Bare Escentuals does not currently recognize and process “do not track” signals from different web browsers. You may manage your preferences for tracking across sites in the Third Party Web Analytics section above. For more information on “do not track” please visit [https://www.allaboutdnt.org](https://www.allaboutdnt.org/).
 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident and want a copy of this notice, please submit an email request to [customerservice@bareminerals.com](mailto:customerservice@bareminerals.com). In your request, please specify that you want a “Your Bare Escentuals California Privacy Rights Notice.” Please allow 30 days for a response. 
 
