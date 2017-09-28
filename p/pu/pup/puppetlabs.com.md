@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puppetlabs.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331054015id_/https%3A//puppet.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppetlabs.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928212446id_/https%3A//puppet.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Puppet
 
