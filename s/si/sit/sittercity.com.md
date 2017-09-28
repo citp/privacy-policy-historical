@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sittercity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164858id_/https%3A//www.sittercity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sittercity.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928134935id_/http%3A//sittercity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sittercity.com
 
