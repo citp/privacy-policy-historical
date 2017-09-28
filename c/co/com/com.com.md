@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the com.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220214459id_/https%3A//com.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928135553id_/http%3A//com.com/privacy) for the most accurate reproduction.*
 
-# com.com
+# Privacy Policy | com.com
 
 Last modified: December 7, 2016
 
-**Introduction**
+## Introduction
 
 Com.com ( **"Company"** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
@@ -28,11 +28,11 @@ It does not apply to information collected by:
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-**Children Under the Age of 13**
+## Children Under the Age of 13
 
 Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
 
-**Information We Collect About You and How We Collect It**
+## Information We Collect About You and How We Collect It
 
 We collect several types of information from and about users of our Website, including information:
 
@@ -89,7 +89,7 @@ The technologies we use for this automatic data collection may include:
 
 We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-**Third-Party Use of Cookies and Other Tracking Technologies.**
+## Third-Party Use of Cookies and Other Tracking Technologies.
 
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
 
@@ -99,7 +99,7 @@ We use Google Analytics’ 3rd-party audience data such as age, gender and inter
 
 You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at http://www.google.com/ads/preferences/. For further information regarding the privacy practices of our advertisement provider, please visit http://www.google.com/privacypolicy.html
 
-**How We Use Your Information**
+## How We Use Your Information
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
@@ -117,7 +117,7 @@ We may also use your information to contact you about our own and third-parties'
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.]
 
-**Disclosure of Your Information**
+## Disclosure of Your Information
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
@@ -141,7 +141,7 @@ We may also disclose your personal information:
 
 
 
-**Choices About How We Use and Disclose Your Information**
+## Choices About How We Use and Disclose Your Information
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
@@ -149,10 +149,10 @@ We strive to provide you with choices regarding the personal information you pro
 
 
 
-**Your California Privacy Rights**
+## Your California Privacy Rights
 
 California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@com.com
 
-**Changes to Our Privacy Policy**
+## Changes to Our Privacy Policy
 
 It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
