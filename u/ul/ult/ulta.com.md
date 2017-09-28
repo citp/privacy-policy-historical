@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044413id_/https%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928184207id_/https%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Ulta Beauty
 
