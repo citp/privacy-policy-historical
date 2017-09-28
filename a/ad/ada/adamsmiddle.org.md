@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the adamsmiddle.org privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509050029id_/http%3A//www.adamsmiddle.org/portal/privacy%3Fd%3Dx%26return_url%3D1494169891293) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamsmiddle.org privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928042531id_/http%3A//www.adamsmiddle.org/portal/privacy%3Fd%3Dx%26return_url%3D1506463674319) for the most accurate reproduction.*
 
 # Privacy Notice
 
 ## School Loop Privacy Notice 
 
-(last updated July 2014)
+(Updated August 2017)
 
 ### Welcome!
 
-School Loop, Inc. ("School Loop" or "us" or "we") welcomes you to our website at [www.schoolloop.com](http://www.schoolloop.com/) (the "School Loop Site"). 
+School Loop, Inc. ("School Loop" or "us" or "we") welcomes you to our [website](http://www.schoolloop.com/) (the "School Loop Site"). 
 
 We provide several services. Our website system is used to create publicly accessible web pages. School Loop Plus is a school-to-home communication and collaboration service that helps teachers, students, school staff, and parents share information about student home assignments, grades, and other school-related information. We refer to our online applications and our website together as the "Service," and all the different types of people who have accounts on the service as "Users."
 
@@ -24,7 +24,7 @@ School Loop recognizes that School Loop Users value their privacy. School Loop u
 
 School Loop Plus is the only service that includes parents and students as Users. One-to-one communication between adults and children is limited to school staff, and all communication is accessible by administrators. In addition, any adult who wishes to view a student's homework information must register with a valid ID number and have his or her membership reviewed by the affected student, who may challenge the registration.
 
-School Loop Standard is designed for staff members and other adults that the School District gives web publishing rights. OnTrackEDU is designed for education professionals who have rights to student information as defined by FERPA (the Family Education Right Protection Act).
+School Loop Standard is designed for staff members and other adults that the School District gives web publishing rights.
 
 ### Who Sets the Information Access Rules for the Service?
 
@@ -44,7 +44,7 @@ School Loop staff has full access to all of the above information in order to pr
 
 _The following personal information is stored in the Service with respect to_ **Students:**
 
-  * From the school district: first, middle, and last name, id number, student id number(s), student schedules (course title, course id, section id, term, start dates), and performance data for OnTrackEDU (GPA, credits earned, behavior information such as referral and suspension counts, assessment scores such as CST or CAHSEE). Personal information may also include first, middle, and last name, permanent id number, state ID, local id number, birth date, enrollment date, email address, address, gender, grade level, ethnicity, disability, disadvantaged, ELL status, language, GATE, migrant education, cohort year, homeroom.
+  * From the school district: first, middle, and last name, id number, student id number(s), and student schedules (course title, course id, section id, term, start dates). Personal information may also include first, middle, and last name, permanent id number, state ID, local id number, email address, grade level, homeroom.
   * From the individual student: login, password, email address (if applicable)
 
 
