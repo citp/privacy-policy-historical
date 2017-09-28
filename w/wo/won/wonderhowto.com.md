@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wonderhowto.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610230415id_/http%3A//www.wonderhowto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderhowto.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928172457id_/https%3A//www.wonderhowto.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Wonder How To
+# Privacy Policy « WonderHowTo
 
 ## WonderHowTo Privacy Policy
 
