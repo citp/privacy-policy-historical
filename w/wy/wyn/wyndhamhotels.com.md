@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614160940id_/https%3A//www.wyndhamhotels.com/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928054527id_/https%3A//www.wyndhamhotels.com/hawthorn-extended-stay/about-us/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy
 
