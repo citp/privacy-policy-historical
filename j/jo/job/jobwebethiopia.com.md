@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobwebethiopia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133954id_/http%3A//jobwebethiopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobwebethiopia.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928112933id_/http%3A//jobwebethiopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JobWeb Ethiopia
 
