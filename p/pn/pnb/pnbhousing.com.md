@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pnbhousing.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321035809id_/http%3A//www.pnbhousing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnbhousing.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929012726id_/https%3A//www.pnbhousing.com/privacy) for the most accurate reproduction.*
 
 # PNB Housing Finance Limited : Privacy
 
-This Privacy Policy governs the manner in which PNBHFL collects, uses, maintains and discloses information collected from users (each, a “User”) of the instantloan.pnbhousing.com website (“Site”). This privacy policy applies to the Site and all products and services offered by PNBHFL.
+This Privacy Policy governs the manner in which PNB Housing collects, uses, maintains and discloses information collected from users (each, a “User”) of the instantloan.pnbhousing.com website (“Site”). This privacy policy applies to the Site and all products and services offered by PNB Housing.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-PNBHFL may collect and use Users personal information for the following purposes:
+PNB Housing may collect and use Users personal information for the following purposes:
 
   * To improve customer service  
 Information you provide helps us respond to your service requests and support your needs more efficiently.
@@ -38,7 +38,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Changes to this privacy policy**
 
-PNBHFL has the sole discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+PNB Housing has the sole discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
