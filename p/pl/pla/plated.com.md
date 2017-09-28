@@ -1,122 +1,158 @@
-> *The following text is extracted and transformed from the plated.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129235152id_/https%3A//www.plated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plated.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928022355id_/https%3A//www.plated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Plated
 
-## Plated Privacy Policy
+## Plated Online Privacy Policy
 
- **(Last Updated: June 11, 2015)**
+ **(Last Updated: July 17, 2017)**
 
-Please also visit the Plated Terms and Conditions (“Terms and Conditions”) that explain other terms governing the use of our Site and associated Plated Offerings. Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Terms and Conditions.
+Thank you for accessing the Plated Online Privacy Policy (“Privacy Policy”). This Privacy Policy describes the types of personal information DineInFresh, Inc. d/b/a Plated (“Plated,” “we,” “our,” or “us”) may collect, how we may use this information, and when (under certain circumstances) we may disclose this information. This Privacy Policy also details the steps we take to secure your personal information.
 
-Thank you for accessing the Plated.com website (the "Site"). The Site is an Internet property of DineInFresh, Inc. d/b/a Plated ("Plated," "we," “our” or "us"). At Plated, we are committed to protecting the privacy and security of your personal information.
+You agree to the terms and conditions of this Privacy Policy in their entirety when you:
 
-This Plated Privacy Policy (“Privacy Policy”) describes the types of personal information we may collect, how we may use this information and when (under certain circumstances) we may disclose this information. This Privacy Policy also details the steps we have taken to secure your personal information. You agree to the terms and conditions of this Privacy Policy in their entirety when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site (collectively, “Content”); (c) sign up to receive the Plated™ food delivery service, which includes processing and delivery of orders (the "Plated Service"); (d) access links to Plated’s social media pages/accounts on third party social media websites, such as Facebook®, Instagram®, Pinterest®, Twitter® and YouTube® (collectively, “Social Media Pages”); (e) enter one of the sweepstakes, contests and/or promotions offered by Plated™ from time to time (“Promotions”); and/or (f) utilize the Site’s many interactive features designed to facilitate interaction between the end-user, Plated™ and other Site users including, but not limited to, blogs and associated comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content, Plated Service, Social Media Pages and Promotions, the “Plated Offerings”).
+  * access or use the Plated.com Website or Plated Mobile Applications (collectively, the “Site”);
+  * sign up to receive the Plated® food delivery service, which includes processing and delivery of orders (the “Plated Service”);
+  * access links to Plated’s social media pages/accounts on third party social media websites, such as Facebook®, Instagram®, Pinterest®, Twitter®, Snapchat®, and YouTube® (collectively, “Social Media Pages”);
+  * enter one of the sweepstakes, contests, and/or promotions offered by Plated® from time to time (“Promotions”); and/or
+  * utilize the Site’s many interactive features designed to facilitate interaction between the end-user, Plated® and other Site users including, but not limited to, blogs and associated comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Plated Service, Social Media Pages and Promotions, the “Plated Offerings”).
 
- **IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE PLATED OFFERINGS.**
 
-Facebook® is a registered trademark of Facebook, Inc. (“Facebook”). LinkedIn® is a registered trademark of LinkedIn Corporation (“LinkedIn”). Pinterest® is a registered trademark of Pinterest, Inc. (“Pinterest”). Twitter® is a registered trademark of Twitter, Inc. (“Twitter”). YouTube® is a registered trademark of Google, Inc. (“Google”). Please be advised that Plated™ is not in any way affiliated with Facebook, Google, LinkedIn, Pinterest or Twitter, and the Plated Offerings are not endorsed, administered or sponsored by any of those parties.
 
-We are not responsible for the content on, or privacy practices of, any non-Plated.com web site to which this Site links or that links to this Site.
+### IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE PLATED OFFERINGS.
 
-### INFORMATION COLLECTION
+Facebook® is a registered trademark of Facebook, Inc. (“Facebook”). LinkedIn® is a registered trademark of LinkedIn Corporation (“LinkedIn”). Pinterest® is a registered trademark of Pinterest, Inc. (“Pinterest”). Twitter® is a registered trademark of Twitter, Inc. (“Twitter”). YouTube® is a registered trademark of Google, Inc. (“Google”).
 
-Plated, and any third parties acting under Plated’s authorization, will not collect any personal information about you except when specifically and knowingly provided by you. Examples of such information are name, shipping and billing addresses, phone number, email address, credit card information and customer preferences data. Examples of ways in which we may collect such information from you include the following:
+also visit the Plated Terms and Conditions (“Terms and Conditions”) that explain other terms governing the use of our Site and associated Plated Offerings. Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Terms and Conditions.
 
-#### A. Personally Identifying Information
+### CHANGES TO PRIVACY POLICY
 
- **Registration and Ordering.** Before using certain parts of this Site, registering to enter one of the Promotions and/or ordering products, you must complete a registration form. When registering, you will be prompted to provide certain personal information, depending on the applicable registration form, including, but not limited to, your name, shipping and billing addresses, phone number, email address and credit card number (including security code and expiration date). In addition, you may also be asked to provide your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to verify entry into a Promotion, to ship any prizes won in connection with the applicable Promotion, to communicate with you about your order and this Site, and for internal data modeling and marketing purposes. If we encounter a problem when processing your order, we will use the personal information to contact you.
+We may change our Privacy Policy from time to time. We will notify you of any changes by posting an updated Privacy Policy at the Site. The date the Privacy Policy was last revised is identified at the top of the page. You should refer to this Privacy Policy on an ongoing basis so you understand our current Privacy Policy. Your continued use of Plated Offerings constitutes your: (a) acknowledgement of the Privacy Policy currently in effect; and (b) agreement to abide and be bound by the Privacy Policy.
 
- **Email Addresses.** Some areas of the Site allow you to enter your email address for purposes including, but not limited to: registering for a particular service or activity, registering to enter a Promotion or opening a Plated account. If you choose not to provide your email address when prompted, you may not be able to engage in some or all of those activities.
+### THIRD PARTY SITES
 
- **Information from Social Media.** If you access or log-in to a Plated service through a social media website or other non-Plated service, or connect a Plated service to a social media website or other non-Plated service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Plated services through social media services or when you connect a Plated service to social media services, you are authorizing Plated to collect, store, and use such information and content in accordance with this Privacy Policy.
+We are not responsible for the content on, or privacy practices of, any websites or services not owned or affiliated with Plated to which this Site links to or that links to this Site. Please be advised that Plated® is not in any way affiliated with Facebook, Google, LinkedIn, Pinterest or Twitter, and the Plated Offerings are not endorsed, administered or sponsored by any of those parties.
 
- **Retargeting/Remarketing.** Plated may work with third parties to allow such third parties to show Plated’s ads on sites other than Plated.com, and to permit third parties to use cookies to serve ads to you based on your past visits to the Plated.com website. If you do not wish to permit these activities, you may opt out by visiting the Network Advertising Initiative opt-out page here:
+### INFORMATION COLLECTION AND USE
 
-http://www.networkadvertising.org/choices/
+ **We may collect several types of information from you directly and as described elsewhere in this policy, including information:**
 
- **Data-Append Services.** Plated may work with one or more data-modeling and/or data–append services, such as Experian, which allow Plated to learn more about you from other websites, based on the information you have permitted Plated to gather directly (including your email address).
+  * by which you may be personally identified, such as name, username and password, shipping and billing information, e-mail address, telephone number, and/or credit card number (including security code and expiration date) (collectively, “Personally Identifying Information” or “PII”);
+  * that is about you but individually does not identify you, such as your hobbies, personal interests, household income range, number of children, gender, demographic information, and product and service preferences; and/or
+  * about others, such as the names and e-mail addresses of gift recipients or family and friends whom you have referred to the Site.
 
-#### B. Non-Personally Identifying Information
 
- **Log information.** When you access the Plated Site our servers automatically record information that your browser sends whenever you visit a website. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Site, track users’ movement in the aggregate, and gather broad demographic information for aggregate use. This log information is not linked to personal information unless you are an active customer, or have otherwise provided such information to us. Third parties may also use tracking technologies such as web beacons, images, scripts and cookies to track information in the aggregate on our Site for analytics purposes. Plated does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info/consumers, and to opt-out of such ad networks’ and services’ advertising practices, go to www.aboutads.info/choices.
 
- **Cookies.** Like most other websites, Plated uses cookie technology throughout this Site. A cookie is a small removable data file that is stored by your web browser on your computer which often includes an anonymous unique identifier. Cookies are used to provide customers with tighter security, customized content, tracking of orders and shopping cart items. Plated uses both session and persistent cookies on this Site; session cookies expire at the end of a particular visit to our Site, while persistent cookies (also called stored cookies) remain active until you disable them through your browser settings, or until a pre-set expiration date. Unfortunately, customers who turn off cookies in their browser settings will not be able to shop from this Site. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs.
+ **We may use the information we collect from you or receive about you, individually or combined:**
 
-### INFORMATION USE
+  * For registration and billing purposes;
+  * To provide, maintain, and improve the Site and our products and services;
+  * To respond to your questions and fulfill your orders and requests;
+  * To verify entry into a Promotion and ship any prizes won in connection an applicable Promotion;
+  * To personalize our services and offerings to you;
+  * To communicate with you about your orders, our products, and the Site;
+  * To manage your account and send you account related information;
+  * To send you promotional messages and for targeted advertising purposes; and
+  * For internal data modeling and marketing purposes.
 
-We do not sell or rent information about our customers and all information provided to Plated remains absolutely confidential, except that:
 
-#### A.
 
-We may share aggregate or summary information regarding our customers with partners, advertisers or other third parties. This data will never identify you personally.
+ **We may collect information about you from other sources, as follows:**
 
-#### B.
+  * If you access or log in to a Plated Offering through a social media website or other non-Plated service, or connect to a social media website or other non-Plated service through a Plated Offering, we may collect your user ID and/or user name associated with a third party social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you engage in such activity, you are authorizing Plated to collect, store, and use such information and content in accordance with this Privacy Policy.
+  * Plated may work with one or more data-modeling and/or data–append services which allow Plated to learn more about you from other sources, based on the information you have permitted Plated to gather directly (including your email address).
+  * We may collect information about you from other third parties, such as our business partners.
+  * We may combine the information we obtain from other sources with information we collect from you directly and use it for various purposes, such as to tailor advertising and content to you and send you offers that may be of interest.
 
-We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company, delivery company or web host) or that help us market our products and services. This information may also be shared with marketers whose products or services we feel may be of interest to you. These companies may need information about you in order to perform their functions. These companies are not authorized to use any personal information we share with them about you for any other purpose.
 
-#### C.
 
-We (including, for all purposes hereof, any third parties that provide support services to Plated in connection with the Plated Offerings, such as printers, mailing houses, fulfillment companies, delivery services or web hosts) will use your personal information, such as the telephone number and email address that you provide to Plated, to communicate with you about your subscription, orders and deliveries of the Plated Offerings. We may contact you following your initial order and from time to time thereafter by telephone regarding your subscription, orders and deliveries of the Plated Offerings. We may contact you from time to time by text message regarding delivery times and order status or other important information regarding your subscription, orders and deliveries of the Plated Offerings. If you submit your email address to open a Plated account, we use it to deliver the information to you. In addition, if you submit your email address or telephone number in connection with registering for a Promotion, we may use your email address or telephone number to communicate with you regarding your participation in the applicable Promotion.
+ **We, our service providers (including advertising and analytics providers), and third parties may automatically collect several types of information about you including information:**
 
-#### D.
+  * as you navigate through the Site. Information collected automatically may include usage details, IP addresses, operating system, browser type, referring URLs, access times, pages viewed, and information collected through cookies, web beacons, and other tracking technologies, such as information about your browsing and purchasing behavior.
+  * about your mobile device.
 
-We may publicly disclose the name, city, and state of the winner of any online sweepstakes.
 
-#### E.
 
-We may share your personal information with other members of an information co-op, whereby data from each member is shared with all other members of the co-op.
+This information is used to analyze trends, administer the Site and Plated Offerings, associated browsers and devices together, and deliver advertising and content targeted to your interests.
 
-#### F.
+ **The technologies we, our service providers, and third parties may use for this automatic data collection may include:**
 
-We may share your email address, or other information you voluntarily provide to us, such as your hobbies, personal interests, household income range, number of children, gender, demographic information, and product and service preferences, with third-party partners (including Facebook®) for purposes of their provision to us of services, and/or our collection of information from such sources, based on such information solely for use in connection with our internal data-modeling and/or marketing or similar activities. Such third-party partners are not authorized to use your email address for any other purpose.
+  *  **Cookies.** A cookie is a small removable data file that is stored by your web browser on your computer which often includes a unique identifier. Cookies are used to provide customers with tighter security, customized content, and tracking of orders and shopping cart items. Session cookies expire at the end of a particular visit to our Site, while persistent cookies (also called stored cookies) remain active until you disable them through your browser settings, or until a pre-set expiration date
+  *  **Web Beacons.** Pages of our Site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-#### G.
+
+
+You may disable or refuse to accept cookies through the appropriate browser settings, however if you select this setting you may not be able to use all features of our Site. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs.
+
+### INTEREST-BASED ADVERTISING
+
+Plated may work with third parties who use cookies, tags, and other technologies to collect information about your use of the Site and other websites and apps on this browser or device and other browsers or devices associated with it to serve online ads likely to be of interest to you on your various devices and browsers, including ads for Plated products and services. This type of advertising is called interest-based advertising.
+
+To learn more about interest-based advertising or to opt-out of having your web browsing information used for interest based advertising by companies that participate in the Network Advertising (“NAI:) or Digital Advertising Alliance (“DAA”), visit the websites operated by the NAI[<http://www.networkadvertising.org/choices>] and the DAA[<http://www.aboutads.info/choices/>]. Note, however, that not all service providers participate in the NAI and DAA. In addition, if you opt-out, you may still see online advertising from us and third parties, but the ads may be less relevant to you. If you delete or block cookies, buy or use a different device, access the Site from a different device, login under a different name, or change web browsers, you will need to opt-out again. Some web browsers may transmit “do not track” signals. At this time we do not take steps to respond to such signals.
+
+### CUSTOMIZED AD CAMPAIGNS
+
+Plated may work with third party service providers who use cookies and other technologies to (i) collect information about you automatically (such as your e-mail address) when you provide such information through the Site or when you access your Plated account, and (ii) collect additional information about your use of the Site and other websites. These service providers may combine the information collected with information they obtain from other sources and use the combined information to provide you with more relevant direct mail advertising on our behalf.
+
+We may also work with third party social media sites, such as Facebook, to serve Plated ads to you as part of a customized social media campaign.
+
+#### SHARING OF YOUR INFORMATION
+
+### A.
+
+We may share aggregated or de-identified information regarding our customers with partners, advertisers, or other third parties. This data will not identify you personally.
+
+### B.
+
+We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company, delivery company, or web host) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use any personal information we share with them for any other purpose.
+
+### C.
+
+We (including, for all purposes hereof, any third parties that provide support services to Plated in connection with the Plated Offerings) will use the PII you provided to us to process, validate, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone and/or the email address that you provide to Plated to communicate with).
+
+### D.
 
 As we develop our business, we might sell or buy businesses or assets. In the event of a company sale, merger, reorganization, dissolution, or similar event, the personal information and other information you provide to us or that we have gathered about you may be part of the transferred assets.
 
-#### H.
+### E.
 
-We may publish your testimonials about Plated, including on our websites and blogs, and on social networks (if we choose to publish your testimonial, we will include only your first name, last initial, city and state).
+We may be required to disclose such information in response to subpoenas, court orders, requests from law-enforcement officials, or if we are otherwise required to disclose such information by law. If we believe disclosure is necessary or appropriate to protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure of Plated, our customers or others, we may disclose your information as required. This includes identifying potential hackers and other unauthorized users to your account.
 
-#### I.
+### F.
 
-We may be required to disclose such information in response to subpoenas, court orders, requests from law-enforcement officials, or if we are otherwise required to disclose such information by law. If we believe disclosure is necessary or appropriate to protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure of Plated, our customers or others, we may disclose your information as required. This includes identifying potential hackers and other unauthorized users to your account. We use this information to process, validate, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone).
+We may share your email address, other information you voluntarily provide to us, such as your hobbies, personal interests, household income range, number of children, gender, demographic information, and product and service preferences, and other information we may collect, including PII, with third-party partners for our, theirs and their customers’ marketing, analytics, content personalization, and other activities. We and our partners may combine such data with other data for these purposes.
 
 ### PROTECTING YOUR INFORMATION
 
-Shopping on the Site is easy, secure and worry-free. We have taken several measures to guarantee that your order and your credit card information are safe and secure. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology.
+We make commercially reasonable efforts to help keep your information secure and help protect your information from loss, theft, misuse, alternation, and unauthorized access or disclosure.
 
-SSL is considered the industry standard and is among the leading software available to encrypt online transactions. Your personal information including your name, credit card number and address is encrypted so that it cannot be read as it is transmitted over the Internet. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, any information you transmit to us is sent at your own risk.
+To further protect yourself, you should safeguard your Plated account username and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our Site. Please note that we will never ask for your Plated account username or password via email.
 
-To further protect yourself, you should safeguard your Plated account username and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our sites. Please note that we will never ask for your Plated account username or password via email.
+### OPT OUT POLICY AND PROCEDURES
 
-### NON-US INFORMATION
+ **You may opt out of the following:**
 
-You agree that your information will be held by Plated in the United States and may also be held and accessed by Plated staff and third parties working for Plated inside and outside the United States. If your information is gathered outside the United States, you agree that it may be transferred to Plated’s United States offices to be used for these purposes, and it may be transferred to and shared with any of Plated’s worldwide locations.
+  *  **Receipt of marketing, promotional, and non-transactional email communications from Plated.** Click the “unsubscribe” link located at the bottom of any Plated account.
+    *  **Please note: You cannot opt-out of transactional email communications related to your account.** We may continue to contact you for the purposes of communicating information relating to your request for Plated Offerings, your participation in a Promotion and to respond to inquiries made by you, as applicable, even if you have elected to opt-out of certain communications as provided above.
+
+
+
+To opt-out of all communications from Plated you must cease utilizing the Plated Offerings, and other services related to the Plated Offerings.
+
+### DATA TRANSFERS
+
+You agree that your information will be transferred to and processed by Plated in the United States.
 
 ### CHILDREN’S PRIVACY
 
 We do not intentionally collect personally identifiable information from children under the age of thirteen. If we become aware that we have collected personally identifiable information from a user of the Site who is under the age of thirteen, we will remove that child’s personal information from our files.
 
-### OPT OUT POLICY AND PROCEDURES
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
-If you do not wish to have your telephone number used by Plated for telephone communications, you may opt out of such telephone communications by emailing our Customer Support department at help@plated.com using the email address associated with your Plated account. Please clearly label the subject line of the opt-out email “Opt-Out Telephone Communications,” and do not include any personal, credit card or other billing information in your opt-out email. Please indicate in the body of your opt-out email that you would like to opt out of telephone communications. To opt out of text message communications from Plated regarding the Plated Offerings, you may respond to any text from Plated with the word “STOP” to unsubscribe from such text message communications. After unsubscribing from text communications, you may receive one additional text confirming your unsubscription. Please do not reply to such confirmation text. If you do reply to such confirmation text, you will have effectively re-subscribed to text message communications from Plated.
+If you are a California resident, you have a right to request, once per year, that we provide to you (i) a list of the categories of personal information about you that Plated has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Plated, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email help@plated.com, with the subject line “California Privacy” and your request in the body of your email.
 
-You may manage your receipt of marketing, promotional and non-transactional email communications from Plated by clicking the “unsubscribe” link located at the bottom of any Plated account.
+### ACCESSING AND MODIFYING INFORMATION
 
-Notwithstanding the foregoing, you cannot opt-out of email or transactional communications related to your account, and we may continue to contact you for the purposes of communicating information relating to your request for Plated Offerings, your participation in a Promotion and to respond to inquiries made by you, as applicable, even if you have elected to opt-out of certain communications as provided above.
-
-To opt-out of all communications from Plated you must cease utilizing the Plated Offerings, and other services related to the Plated Offerings.
-
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Plated has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Plated, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email help@plated.com, with the subject line "California Privacy" and your request in the body of your email.
-
-### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
-
-The majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information, as well as the collection of personal information at one of our food trucks. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Protecting Your Information section above for more information).
-
-### POLICY CHANGES
-
-We may change our Privacy Policy from time to time without notice to you. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. Your continued use of the Site or Services available through the Site constitute your: (a) acknowledgement of the modified Privacy Policy; and (b) your agreement to abide and be bound by the Privacy Policy.
+You may update, modify, and/or correct your information by logging into your Plated account or by email. Note, however, that Plated will continue to retain information as required by law or for legitimate business purposes.
 
 ### QUESTIONS AND FEEDBACK
 
@@ -124,10 +160,6 @@ We welcome your questions, comments and concerns about privacy. Please send us a
 
 Plated  
 Attn: Legal Department  
-22 W19th Street, 5th Floor  
+111 W19th Street, 3rd Floor  
 New York, New York 10011  
 
-
-### TERMS AND CONDITIONS
-
-Please [click here](https://web.archive.org/terms) to view the Plated Website Terms and Conditions, which explain other terms and conditions governing our Site and associated Plated Offerings.
