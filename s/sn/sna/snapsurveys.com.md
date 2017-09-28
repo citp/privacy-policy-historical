@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124114711id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928113734id_/https%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
 
-# Privacy Policy » Snap Surveys
+# Privacy Policy | Snap Surveys
 
 Snap Surveys Limited and Snap Surveys NH, Inc. are committed to protecting and respecting your privacy.
 
@@ -26,7 +26,7 @@ When you use our website and our services, we may collect and process the follow
 
 #### Information that you give us
 
-You may give us information about you by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. This includes information that you provide when you register to use our website, subscribe to our services (including participating in or setting up a survey or signing up for free web polls or our newsletter), place an order on our website, participate in forums on our website and when you report a problem with our website. The information you give us may include your name, organization, address, e-mail address, phone number, username, financial and credit card information (including billing address) and personal description.
+You may give us information about you by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. This includes information that you provide when you register to use our website, subscribe to our services (including participating in or setting up a survey or signing up for free web polls or our newsletter), place an order on our website, engage in online chat with us or participate in forums on our website and when you report a problem with our website. The information you give us may include your name, organization, address, e-mail address, phone number, username, financial and credit card information (including billing address) and personal description.
 
 Our services enable our clients to create and administer their surveys. We may host our clients’ surveys on our servers and collect the responses to those surveys. We may also carry out an analysis of this data to produce reports for you. As a result, if you create a survey using our services:
 
@@ -77,7 +77,7 @@ We will not sell your information to third parties or otherwise disclose your in
 
 We will only disclose your personal information in the circumstances described below.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, assessing your credit score, hosting your survey or offering customer service. These companies are authorised to use your personal information only as necessary to provide these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, assessing your credit score, hosting your survey or offering customer service or online chat services. These companies are authorised to use your personal information only as necessary to provide these services to us.
 
 We may disclose aggregated survey data to third parties for benchmarking purposes and to publish overall statistics. Any such information will not be correlated with data about individuals and it will not be possible to identify any individual from the aggregated results.
 
@@ -141,4 +141,4 @@ We follow generally accepted industry standards to protect the personal informat
 
 Any changes we may make to this policy in the future will be posted on this page and, where the changes are material, notified to you by email or by means of a notice on our home page, prior to the changes becoming effective. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have expressly consented to any change if you continue to use our website and services after the date on which the change becomes effective.
 
-Last Updated 24 February 2016
+Last Updated 27 March 2017
