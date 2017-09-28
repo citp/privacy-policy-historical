@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128232430id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928192003id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How Newsflare works | Newsflare
 
@@ -7,8 +7,9 @@
 This Newsflare website ("Website") is operated by Newsflare Limited whose registered address is: 
 
 Newsflare Limited   
-Fourth Floor, 30-31 Furnival Street   
-London EC4A 1JQ   
+Scriptor Court   
+157 Farringdon Road   
+London EC1R 3AD   
 United Kingdom 
 
 The terms "Newsflare", "we", "us", "our" and "ours" when used in this Privacy Policy mean Newsflare Ltd which includes all entities under the control of Newsflare Ltd. 
@@ -101,7 +102,7 @@ Upon receipt of your written request and enough information to permit us to iden
 
 ### Inaccurate Data
 
-We encourage you to ensure that your Personal Data is accurate and kept up to date, so please regularly update any information you have given to us by sending an email to [info@newsflare.com](mailto:info@newsflare.com), or by writing to us. We will correct, amend or delete any Personal Data that you notify to us as inaccurate, and where possible notify any third party recipients of necessary changes. 
+We encourage you to ensure that your Personal Data is accurate and kept up to date, so please regularly update any information you have given to us by sending an email to [info@newsflare.com](mailto:info@newsflare.com), or by writing to us. 
 
 ### Links to other websites
 
@@ -135,12 +136,12 @@ We welcome comments about this Privacy Policy. If you have any questions about t
 
 Our postal address is: 
 
-Newsflare Limited   
-Fanshaw House   
-Fanshaw Street   
-London, N1 6HX   
+Newsflare   
+Scriptor Court   
+157 Farringdon Road   
+London, EC1R 3AD   
 United Kingdom 
 
 * * *
 
-Privacy Policy last updated October 2016 
+Privacy Policy last updated March 2017. 
