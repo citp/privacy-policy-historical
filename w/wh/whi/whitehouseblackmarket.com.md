@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619064436id_/https%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928032847id_/https%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
 
-# Privacy Policy - White House Black Market
+# Privacy Policy - WHBM
 
 Revision Date: February 26, 2016
 
@@ -36,9 +36,13 @@ We may use the personal information we collect to:
 
   * process, track and fulfill your order and contact you about the status of your order;
   * if you consent to join our mailing list, to
-    * tell you about and administer our contests, sweepstakes and promotions;
-    * send you emails, catalogs or other marketing materials about our merchandise or services; and
-    * send you surveys about our merchandise or services;
+
+
+  * tell you about and administer our contests, sweepstakes and promotions;
+  * send you emails, catalogs or other marketing materials about our merchandise or services; and
+  * send you surveys about our merchandise or services;
+
+
   * offer you geolocation services (e.g., to provide you with information about new store openings near you and inform you of new products and promotions that may be of interest to you.);
   * respond to your inquiries regarding our merchandise or services;
   * learn about your shopping preferences and improve your shopping experience;
@@ -51,13 +55,13 @@ We may use the personal information we collect to:
 
 We may share your personal information for the purposes described above in the following ways: 
 
-  * In the event of the sale or a merger of White House | Black Market, information we have collected may be among the assets transferred. 
-  * With our affiliated brands. Visit [www.chicosfas.com](http://www.chicosfas.com/) for a list of our brands, which currently includes Chico’s, White House | Black Market, Soma, and Boston Proper.
-  * We may share certain personal information with companies who provide certain services to us such as shipping, name and address verification, email distribution, and promotions management. We share only that information necessary for these companies to perform their requested services. Additionally, these companies are contractually obligated to protect this information and to use it for no other purpose. With co-sponsors of contests, sweepstakes or promotions. 
+  * In the event of the sale or a merger of White House Black Market, information we have collected may be among the assets transferred. With our affiliated brands. Visit [www.chicosfas.com](http://www.chicosfas.com/) for a list of our brands, which currently includes Chico’s, White House Black Market and Soma.
+  * We may share certain personal information with companies who provide certain services to us such as shipping, name and address verification, email distribution, and promotions management. We share only that information necessary for these companies to perform their requested services. Additionally, these companies are contractually obligated to protect this information and to use it for no other purpose. With co-sponsors of contests, sweepstakes or promotions.
   * With reputable companies whose products we believe may be of interest to you. We share only first and last names and mailing addresses but not email addresses.
-  * With law enforcement upon request, as required by applicable law (such as by court order or subpoena), if necessary in connection with a fraud investigation, or to protect and defend our customers’ and our interests. 
 
 
+
+With law enforcement upon request, as required by applicable law (such as by court order or subpoena), if necessary in connection with a fraud investigation, or to protect and defend our customers’ and our interests.
 
 ## Retention and storage of your personal information
 
@@ -103,11 +107,11 @@ If our Privacy Policy changes, we will post the changes to our site with the dat
 
 If you wish to update, delete or modify your personal information or do not wish to be contacted via email, direct mail and/or telephone, please make changes to “My Account” online or contact Customer Service. Provide your exact name and postal or email address so that we may identify you accurately. You may also “unsubscribe” from our email by using the link provided at the bottom of each email. If you ask us to remove you from marketing lists, we will maintain you on a “do not contact” list to ensure that we continue to honor your request. It may take up to 10 days to process your “do not email” request. It may take up to 8 weeks to process your “do not mail” request because mailings are planned long in advance. If you purchase online, we will continue to confirm your order and shipment status via email, postal address or telephone. If you change your mind about choices you’ve previously made, make changes to “My Account” online or contact Customer Service. (Contact Us) 
 
-White House | Black Market  
+White House Black Market  
 11215 Metro Parkway  
 Fort Myers, FL 33966 
 
-877.948.2525   
+877.948.2525  
 888.550.5559 (TDD hearing impaired) 
 
 [customerservice@whitehouseblackmarket.com](mailto:customerservice@whitehouseblackmarket.com)
