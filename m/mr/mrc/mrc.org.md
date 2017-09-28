@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071404id_/http%3A//www.mrc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrc.org privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928114305id_/http%3A//www.mrc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Media Research Center
 
