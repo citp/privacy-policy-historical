@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eziba.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317070907id_/https%3A//help.overstock.com/cgi-bin/overstock.cfg/php/enduser/std_adp.php%3Fp_faqid%3D65%26TID%3DFoot%3APrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eziba.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929014138id_/https%3A//help.overstock.com/cgi-bin/overstock.cfg/php/enduser/std_adp.php%3Fp_faqid%3D65) for the most accurate reproduction.*
 
 # PRIVACY AND SECURITY POLICY
 
@@ -25,7 +25,7 @@ This Privacy Policy applies to the following sites: [http://www.overstock.com](h
 
   * **We Collect Information When**
     * You purchase, order, return, exchange or request information about our products and services from the Sites or mobile applications.
-    * You create an Overstock.com account
+    * You create an Overstock.com account.
     * You connect with us regarding customer service via our customer service center, or on social media platforms.
     * You visit the Sites or participate in interactive features of the Sites or mobile applications.
     * You use a social media service, for example, our Facebook page or YouTube channel.
@@ -43,8 +43,8 @@ This Privacy Policy applies to the following sites: [http://www.overstock.com](h
 We may use tracking pixels/web beacons, cookies and or other technologies to receive and store certain types of information. This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data. This information helps us customize your website experience and make our marketing messages more relevant. It also allows us to provide features such as storage of items in your cart between visits. This includes our content presented on other websites or mobile applications. In order to provide the best customer experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts. 
   * **Third Party Cookies**  
 
-    * We allow third-party companies to collect anonymous information when you visit the Sites and to use that information to serve ads for our products or services or for products or services of other companies when you visit the Sites or other websites. These companies may use anonymous information (e.g., navigational, non-personally identifiable information, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to the Sites and other websites in order to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third party web beacon, or other technologies, to collect this information.
-    * To opt out of third-party vendors' cookies, see the “[What Choices Do You Have?](https://help.overstock.com/euf/rightnow/optimized/1421440427/themes/standard/#1)” section of this privacy policy for instruction how to do so.
+    * We allow third-party companies to collect non-personally identifiable information when you visit the Sites and to use that information to serve ads for our products or services or for products or services of other companies when you visit the Sites or other websites. These companies may use non-personally identifiable information (e.g., navigational, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to the Sites and other websites in order to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third party web beacon, or other technologies, to collect this information. 
+    * To opt out of third-party vendors' cookies, see the "[What Choices Do You Have?](https://help.overstock.com/euf/rightnow/optimized/1506269347/themes/standard/#1)" section of this Privacy Policy for instruction how to do so. 
   * **User Experience Information**  
 In order to improve customer online shopping experience, help with fraud identification, and to assist our customer care representatives in resolving issues customers may experience in completing online purchases, we use tools to monitor certain user experience information, including, but not limited to, login information, IP address, data regarding pages visited, specific actions taken on pages visited (e.g., information entered during checkout process), and browser information. 
   * **Information from Other Sources**  
@@ -53,8 +53,8 @@ We may also obtain information from companies that can enhance our existing cust
 Any information you submit in a public forum (e.g., a blog, chat room, or social network) can be read, collected, or used by us and other participants, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. 
   * **Mobile Privacy**  
 
-    * We offer mobile applications (commonly known as “apps”) that allow you to shop online, check product availability, learn about sales events, or receive other information from us. **All information collected by us via our mobile application is protected by this Privacy Policy**.
-    * Although you do not have to provide your location information to us to use our mobile applications, our services require a zip code to function. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+    * We offer mobile applications (commonly known as “apps”) that allow you to shop online, check product availability, learn about sales events, or receive other information from us. **All information collected by us via our mobile application is protected by this Privacy Policy.**
+    * Although you do not have to provide your location information to us to use our mobile applications, our services require a zip code to function. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
 
   
 
@@ -84,19 +84,19 @@ Any information you submit in a public forum (e.g., a blog, chat room, or social
 ### HOW WE PROTECT THE INFORMATION WE COLLECT
 
   * **Security Methods**
-    * We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard this information, the Sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode the information.
+    * We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard this information, the Sites use Transport Layer Security (TLS) where we collect personal and sensitive information. SSL encrypts your credit card number, name and address so only we are able to decode the information. 
   * **E-mail Security**
-    * Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. “Phishing” is a scam designed to steal your information. If you receive an e-mail that looks like it is from us asking you for certain information, do not respond. Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.
+    * Please note that e-mail may not be encrypted and is not considered to be a secure means of transmitting credit card information. “Phishing” is a scam designed to steal your information. If you receive an e-mail that looks like it is from us asking you for certain information, do not respond. Though we might ask you your name, we will never request your password, credit card information or other information through e-mail. 
   * **Information About Children**
-    * We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to us, for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+    * We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to us, for any purpose without prior verifiable parental consent, we will delete his or her information from our files. 
   * **Additional Security**
     * We also ask customers to carefully review their accounts and immediately report any unexpected activity to us and their issuing bank or credit card company. We ask all our customers to take measures to help protect information in their online accounts, including the following: 
       * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses.
       * Reset your e-mail account passwords frequently.
-      * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters).
+      * Use complex passwords or passphrases
       * Do not use the same password on more than one website.
       * Do not share your password with others.
-    * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal
+    * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal.
 
   
 
@@ -104,84 +104,91 @@ Any information you submit in a public forum (e.g., a blog, chat room, or social
 ### HOW WE SHARE THE INFORMATION WE COLLECT
 
   * **General Policy**
-    * We do not sell or rent customer information to third parties; except, under limited circumstances outlined below, we may share information with third parties.
+    * We do not sell or rent personally identifiable customer information to third parties; except, under limited circumstances outlined below, we may share information with third parties. 
     * **The Overstock Family**
       * We share information we collect with the Overstock family, which includes all of our subsidiaries and affiliates. The Overstock family may use this information to offer you products and services that may be of interest to you.
     * **Service Providers**
-      * We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+      * We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, logistics, or data enhancement providers) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. 
     * **Legal Requirements**
-      * We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our customers or others.
+      * We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law, including to meet national security or law enforcement requirements; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our customers or others. 
     * **When You Direct Us**
-      * At your direction or request, we may share your information.
+      * At your direction or request, we may share your information. 
     * **Business Transfers**
-      * If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers. We also may retain a copy of that customer information.
+      * If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers. We also may retain a copy of that customer information. 
+
   
 
 
 ### WHAT CHOICES DO YOU HAVE
 
-    * **E-mail**
-      * **Promotional E-mail**  
+  * **E-mail**
+    * **Promotional E-mail**  
 If you do not wish to receive promotional e-mails from us, [click here](http://www.overstock.com/5522/static.html). You also have the ability to unsubscribe to promotional e-mails via the opt-out link included in each e-mail. It may take up to 10 business days before you stop receiving promotional e-mails. 
-      * **Important Notices and Transactional E-mail**  
+    * **Important Notices and Transactional E-mail**  
 
-        * From time to time, we may send non-commercial electronic email messages with important information about us or the Sites to your email address.
-        * We regularly send email order confirmations, email order updates and “leave a review” emails to you after you have submitted an order.
-    * **Mobile**
-      * We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt-in request. Customers will be able to opt out of a specific mobile messaging campaign.
-    * **Overstock.com Cookies**
-      * The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Site features.
-    * **Third Party Cookies**
-      * To opt-out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website, click here <http://www.networkadvertising.org/choices/>.
-    * **Telephone**
-      * If you do not wish to receive promotional communication from us, call us at (800) 843-2446 to opt out. This opt out does not apply to operational communication, for example, confirmation of delivery address.
+      * From time to time, we may send non-commercial electronic email messages with important information about us or the Sites to your email address. 
+      * We regularly send email order confirmations, email order updates and “leave a review” emails to you after you have submitted an order. 
+  * **Mobile**
+    * We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt-in request. Customers will be able to opt out of a specific mobile messaging campaign. 
+  * **Overstock.com Cookies**
+    * The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Site features. 
+  * **Third Party Cookies**
+    * To opt-out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website, [click here](http://www.networkadvertising.org/choices/). 
+  * **Telephone**
+    * If you do not wish to receive promotional communication from us, call us at (800) 843-2446 to opt out. This opt out does not apply to operational communication, for example, confirmation of delivery address. 
+
   
 
 
 ### HOW DO YOU ACCESS AND UPDATE THE INFORMATION
 
-    * In order to keep your information accurate and complete, you can access or update some of your information in the following ways: 
-      * If you have created an account, you can log in and update your account information, including contact, billing, and shipping information.
-      * Contact us with your current contact information and the information you would like to access. We will provide you the information requested if reasonably available, or will describe more fully the types of information we typically collect.
+  * In order to keep your information accurate and complete, you can access or update some of your information in the following ways: 
+    * If you have created an account, you can log in and update your account information, including contact, billing, and shipping information.
+    * Contact us with your current contact information and the information you would like to access. We will provide you the information requested if reasonably available, or will describe more fully the types of information we typically collect.
+
   
 
 
 ### PRIVACY POLICY SCOPE
 
-    * This Privacy Policy applies to all current or former customer information collected by or provided to us.
-    * The Sites may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have visited our website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+  * This Privacy Policy applies to all current or former customer information collected by or provided to us.
+  * The Sites may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have visited our website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+
   
 
 
 ### INTERNATIONAL CUSTOMER PRIVACY
 
-    * For most non-US transactions, we have partnered with third party companies (“Vendors”) that we have selected to help us facilitate international transactions. We work closely with these Vendors to ensure that your transaction is handled with care and all the information you provide is secure.
-    * As an international customer, when you click on the checkout button, you will be redirected to a checkout page hosted by a Vendor to complete your order. On the checkout page, you will be required to select a method of payment and submit credit card and other information to such Vendor to complete your order. On the checkout page, you will be presented with the Vendor’s terms and conditions which you must agree to in order to complete your order.
-    * Upon completion and approval of your order by such Vendor, the Vendor will notify us of the approval and we will process your order and cause it to be shipped directly to the Vendor. In this process, the Vendor will purchase those items in your order from us, thereby taking title to the items, bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the delivery of your order. In this process, the Vendor makes the sale to you as the merchant of record, but we are legally obligated to deliver your order as set forth in our Terms and Conditions.
-    * If you have questions about your order, you should direct them to us and not to the Vendor.
-    * The Vendors may give you the opportunity to receive marketing messages from them, in which case you should refer to their terms and conditions for details about how they use your information.
-    * The Vendors have assured us that they will process information received from you with at least the same level of privacy protection as set forth in the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries and Switzerland. If you choose to provide us and/or the Vendors with information, you consent to the transfer and storage of that information on servers located in the United States.
-    * Any information you provide us is controlled and processed by Overstock.com, Inc., 6350 South 3000 East, Salt Lake City, Utah 84121, USA or its suppliers (where indicated herein). As mentioned herein, your information provided at checkout will be controlled and processed by a Vendor.
-    * We comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as established by the U.S. Department of Commerce and approved by the European Commission and the Swiss Federal Data Protection Authority. We conduct an annual self-assessment to verify that we are in compliance with the Safe Harbor Privacy Principles in addition to our own privacy program assessments. We have certified to the U.S. Department of Commerce and the European Union that our processing of personal data is in compliance with the Safe Harbor Privacy Principles. For more information about the Safe Harbor program, and to view our certification page, visit the Department of Commerce's Safe Harbor website. While the Safe Harbor Principles are designed to protect information originating in the European Economic area and Switzerland, our policy is to protect all international customer information in accordance with the Safe Harbor Principles.
-    * Customers shipping internationally who wish to inquire about or update information or change marketing preferences or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods: 
-      * Send an e-mail to [customercare@overstock.com](mailto:customercare@overstock.com)
-      * Call our Customer Care line at 00-1-801-559-3816
-      * Write us at Overstock.com, 6350 South 3000 East, Salt Lake City, UT 84121, USA
-    * In compliance with the US-EU and US-Swiss Safe Harbor Principles, Overstock.com commits to resolve complaints about your privacy and our collection or use of your information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us using one of the following methods: 
-      * Send an e-mail to [customercare@overstock.com](mailto:customercare@overstock.com)
-      * Call our Customer Care line at 00-1-801-559-3816
-      * Write us at Overstock.com, 6350 South 3000 East, Salt Lake City, UT 84121, USA
-    * We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+  * Overstock is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+  * For most non-US transactions, we have partnered with third party companies (“Vendors”) that we have selected to help us facilitate international transactions. We work closely with these Vendors to ensure that your transaction is handled with care and all the information you provide is secure.
+  * In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US Privacy Shield or the Swiss-US Privacy Shield, Overstock is potentially liable.
+  * As an international customer, when you click on the checkout button, you will be redirected to a checkout page hosted by a Vendor to complete your order. On the checkout page, you will be required to select a method of payment and submit credit card and other information to such Vendor to complete your order. On the checkout page, you will be presented with the Vendor’s terms and conditions which you must agree to in order to complete your order.
+  * Upon completion and approval of your order by such Vendor, the Vendor will notify us of the approval and we will process your order and cause it to be shipped directly to the Vendor. In this process, the Vendor will purchase those items in your order from us, thereby taking title to the items, bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority (if applicable), and arrange for the delivery of your order. In this process, the Vendor makes the sale to you as the merchant of record, but we are legally obligated to deliver your order as set forth in our Terms and Conditions.
+  * Such Vendors must agree, via contract, to provide adequate protections for the Personal Data that are no less protective than those set out in this Policy.
+  * If you have questions about your order, you should direct them to us and not to the Vendor.
+  * The Vendors may give you the opportunity to receive marketing messages from them, in which case you should refer to their terms and conditions for details about how they use your information.
+  * Any information you provide us is controlled and processed by Overstock.com, Inc.,799 W. Coliseum Way, Midvale, Utah 84047, USA or its suppliers (where indicated herein). As mentioned herein, your information provided at checkout will be controlled and processed by a Vendor.
+  * We comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+  * Pursuant to the EU-US Privacy Shield and the US-Swiss Privacy Shield, Overstock.com acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should contact us directly using one of the following methods: 
+    * Send an e-mail to [customercare@overstock.com](mailto:customercare@overstock.com)
+    * Call our Customer Care line at 00-1-801-559-3816
+    * Write us at Overstock.com, Inc., 799 W. Coliseum Way, Midvale, Utah 84047, USA
+  * We will provide an individual opt-out choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, you may submit a written request to [customercare@overstock.com](mailto:customercare@overstock.com).
+  * In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, Overstock.com commits to resolve complaints about your privacy and our collection or use of your information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us using one of the following methods: 
+    * Send an e-mail to [customercare@overstock.com](mailto:customercare@overstock.com)
+    * Call our Customer Care line at 00-1-801-559-3816
+    * Write us at Overstock.com, Inc., 799 W. Coliseum Way, Midvale, Utah 84047, USA
+  * We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
+  * Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+  * We have further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. If you do not receive timely acknowledgment of your complaint, or if your compliant is not satisfactorily addressed, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
+
   
 
 
 ### PRIVACY POLICY REVISIONS
 
-By accessing the Site or interacting with us, you consent to our use of information that is collected or submitted as described in this Privacy Policy. We may change or add to this privacy policy, so we encourage you to review it periodically.
+By accessing the Site or interacting with us, you consent to our use of information that is collected or submitted as described in this Privacy Policy. We may change or add to this Privacy Policy, so we encourage you to review it periodically.
 
-This Privacy Policy was last updated on September 3, 2014.
+This Privacy Policy was last updated on June 20, 2017.
 
-5.2.20140903
-
-
-
+5.6.20170620
