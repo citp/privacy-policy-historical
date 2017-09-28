@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lblrobot.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409155409id_/http%3A//www.lblrobot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lblrobot.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928072124id_/http%3A//www.lblrobot.com/privacy.php) for the most accurate reproduction.*
 
 # Local Business Listing Robot
 
