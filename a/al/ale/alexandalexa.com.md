@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224090901id_/https%3A//www.alexandalexa.com/content/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928163903id_/https%3A//www.alexandalexa.com/content/view/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AlexandAlexa
 
@@ -46,7 +46,7 @@ We will only collect personally identifiable information to the extent deemed re
 
 ## Where And How To Ask Questions Or File Complaints
 
-If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered, if you require more information please go to the Contact Us section of the web site and send us an email If you wish to talk to a ALEXANDALEXA.COM customer care representative please call UK 0845 838 1331, US Toll Free on 1855 321 2222 or International +44 (0) 207 232 4200.
+If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered, if you require more information please go to the Contact Us section of the web site and send us an email If you wish to talk to a ALEXANDALEXA.COM customer care representative please call INTERNATIONAL: + 1 (646) 8108646; UK: + 44 (870) 0688659
 
 ## Your Consent
 
