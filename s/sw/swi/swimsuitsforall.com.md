@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523072918id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928095628id_/https%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
 
-# swimsuitsforall - Privacy Policy
+# Swimsuits For All | Privacy Policy
 
-Privacy Policy Last updated on: November 17, 2016
+Privacy Policy Last updated on: July 25, 2017
 
-[swimsuitsforall.com](https://web.archive.org/) is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as [Terms of Use](http://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use") that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy. 
+[swimsuitsforall.com](https://web.archive.org/) is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as [Terms of Use](https://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use") that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy. 
 
 We are not responsible for the content or privacy practices on any web site not operated by FULLBEAUTY Brands to which the Site links or that links to the Site. 
 
@@ -33,7 +33,7 @@ Our Privacy Policy addresses the following:
   * Are Telephone Calls Recorded?
   * Whom Do I Contact If I Have Additional Questions or Concerns About This Policy?
   * Policy Changes
-  * [Terms of Use](http://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use")
+  * [Terms of Use](https://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use")
 
 
 
@@ -177,7 +177,7 @@ El Paso, TX 79912  |  (800) 677-0216
 
 | (800) 456-9838  
 swimsuitsforall |  Please visit My Account on  
-[www.swimsuitsforall.com](http://www.swimsuitsforall.com/) |  swimsuitsforall  
+[www.swimsuitsforall.com](https://www.swimsuitsforall.com/) |  swimsuitsforall  
 500 S Mesa Hills Dr  
 El Paso, TX 79912  | (888) 241-SWIM | NA  
   
@@ -191,7 +191,7 @@ We will make every effort to implement any choice you make as soon as possible, 
 
 ##### How to Unsubscribe from an Email Marketing List
 
-To stop receiving promotional emails from our Brands or to request that non-email information be shared with third parties for marketing purposes, please [Click Here](http://link.e.swimsuitsforall.com/s/link/usp?rc=cp&rti=08609&email= "swimsuitsforall Unsubscribe from an Email Marketing List").
+To stop receiving promotional emails from our Brands or to request that non-email information be shared with third parties for marketing purposes, please [Click Here](https://web.archive.org/unsubscribe "swimsuitsforall Unsubscribe from an Email Marketing List").
 
 Please know that it may take up to 30 days to remove you from our emailing solicitation lists. If you choose to be removed from our emailing solicitation lists you will still continue to receive order and confirmation emails as well as emails relating to your other transactions.
 
@@ -280,7 +280,7 @@ Yes. We may provide certain services that are available to you via your mobile p
 
 #### Are Telephone Calls Recorded?
 
-Yes. Telephone calls to or from our FULLBEAUTY Brands family of companies, including our customer service center, may be monitored and recorded for record-keeping, training and quality assurance purposes.
+Yes. Since approximately September 2003, telephone calls to or from our FULLBEAUTY Brands family of companies, including our customer service center, have been monitored and recorded for record-keeping, training, and quality assurance purposes. Since November 2014, the companies’ interactive voice response system has included a message regarding this practice.
 
 #### Whom Do I Contact If I Have Additional Questions or Concerns About This Policy?
 
