@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxed.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326040223id_/https%3A//www.boxed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxed.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928204606id_/https%3A//www.boxed.com/privacy-policy) for the most accurate reproduction.*
 
-# Boxed: Bulk shopping online with fast delivery. Buy wholesale groceries online, snacks, beverages, office and cleaning products.
+# Bulk Shopping Online | Buying Wholesale | Grocery Delivery Service | Boxed
 
-## PRIVACY POLICY
+## Privacy Policy
 
 Effective as of December 8, 2016.
 
