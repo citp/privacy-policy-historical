@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617030902id_/http%3A//www.kiehls.com/customservice-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928050923id_/https%3A//www.kiehls.com/customservice-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kiehl's
 
