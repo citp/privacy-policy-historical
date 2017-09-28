@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdynamics.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603021506id_/https%3A//www.appdynamics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdynamics.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929000947id_/https%3A//www.appdynamics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppDynamics
 
@@ -8,7 +8,7 @@
 
 ### 1\. About AppDynamics
 
-AppDynamics, Inc. (“AppDynamics”) is a Delaware corporation located at 303 Second Street, 8th Floor, North Tower, San Francisco, CA 94107. Full company details of AppDynamics and AppDynamics affiliates that may process your personal information can be found [here](https://www.appdynamics.com/company/contact-us/)
+AppDynamics LLC. (“AppDynamics”) is a Delaware corporation located at 303 Second Street, 8th Floor, North Tower, San Francisco, CA 94107. Full company details of AppDynamics and AppDynamics affiliates that may process your personal information can be found [here](https://www.appdynamics.com/company/contact-us/)
 
 ### 2\. About this Privacy Policy
 
