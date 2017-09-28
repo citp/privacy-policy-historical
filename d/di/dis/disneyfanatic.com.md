@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyfanatic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144653id_/http%3A//www.disneyfanatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyfanatic.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928111827id_/http%3A//www.disneyfanatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
