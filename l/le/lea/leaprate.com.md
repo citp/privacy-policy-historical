@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328025557id_/https%3A//www.leaprate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928075320id_/https%3A//www.leaprate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LeapRate
+# Privacy Policy - LeapRate
 
 LeapRate is committed to protecting your privacy. This Privacy Policy describes how we collect, store and use information on individuals that use this website. We strive to ensure that our personnel and those acting on our behalf obtain, use and disclose personal information lawfully and correctly.
 
