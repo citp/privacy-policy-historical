@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507083008id_/http%3A//www.costumesupercenter.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928202503id_/https%3A//www.costumesupercenter.com/pages/privacy-security) for the most accurate reproduction.*
 
-# Halloween Costumes for Kids & Adults Buy From Costume SuperCenter.com
+# Privacy & Security
 
 **At CostumeSuperCenter.com** we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy & Security Policy. This will give you a summary of how information is collected from you and how it is used.
 
@@ -31,4 +31,4 @@ You have the opportunity to subscribe to our email when you make your first purc
 Costume SuperCenter  
 45 Fernwood Ave.  
 Edison, NJ 08837  
-[customerservice@costumesupercenter.com](mailto:customerservice@costumesupercenter.com)
+[custhelp@costumesupercenter.com](mailto:custhelp@costumesupercenter.com)
