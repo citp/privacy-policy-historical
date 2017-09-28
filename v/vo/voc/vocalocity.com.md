@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410150802id_/https%3A//www.vonage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928071918id_/https%3A//www.vonage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
