@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kauaiworld.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065506id_/http%3A//thegardenisland.com/app/our_newspaper/user/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kauaiworld.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928180848id_/http%3A//thegardenisland.com/app/our_newspaper/user/privacy.php) for the most accurate reproduction.*
 
 # thegardenisland.com | Terms of Use
 
