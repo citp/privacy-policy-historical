@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frenchtoast.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326093542id_/https%3A//www.frenchtoast.com/category/about%2Bus/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoast.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928061437id_/https%3A//www.frenchtoast.com/category/about%2Bus/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - French Toast
+# Privacy Policy & Security | French Toast School Uniforms | French Toast
 
 #### Privacy and Security
 
