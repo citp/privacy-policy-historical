@@ -1,121 +1,275 @@
-> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117181950id_/http%3A//www.spafinder.com/pages/spafinder-wellness-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928044512id_/https%3A//www.spafinder.com/blog/landing/blackhawk-privacy-policy) for the most accurate reproduction.*
 
-# Spafinder Wellness Privacy Policy
+# Blackhawk Privacy Policy - Spafinder
 
-At Spafinder Wellness ("Spafinder") your privacy is important to us. Before submitting any personal information to our website, please read this Privacy Policy carefully to learn about our privacy practices. By visiting SpaFinder's website, [www.spafinder.com](https://www.spafinder.com/), you are accepting the practices described herein. We may change our Privacy Policy from time to time. If we do make changes, we will make a notice on our website and post those changes here so that you will always know what information we gather and how we might use it.
+Last updated: 10/2016
 
-## Table of Contents
+[Blackhawk Short Form Privacy Notice](https://www.spafinder.com/blog/landing/blackhawk-privacy-policy#short)  
+[Blackhawk Consumer Privacy Policy  
+](https://www.spafinder.com/blog/landing/blackhawk-privacy-policy#consumer)
 
-  1. [Information we collect from you](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#information)
-  2. [How we use your information](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#use)
-  3. [Who we share your information with](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#share)
-  4. [How you can access your information](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#access)
-  5. [Security](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#security)
-  6. [Children's privacy](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#childrensPrivacy)
-  7. [External links](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#links)
-  8. [Visiting our website from outside the United States](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#outsideUS)
-  9. [California privacy rights](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#caliPrivacy)
-  10. [How to unsubscribe from Spafinder email communications.](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#unsubscribe)
-  11. [Changes to this Privacy Policy](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#changes)
-  12. [Contact us](https://www.spafinder.com/pages/spafinder-wellness-privacy-policy/#contactus)
+ 
 
+###  FACTS
 
+| 
 
-**1. _Information we collect from you._  
-**We receive and store any information you enter on our website or give us in any other way. Some information is gathered when you register or create an account with us. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name and password. You can choose not to provide information to us, but in general some information about you is required in order for you to enjoy certain benefits of having an account with Spafinder. For example, only registered members are able to view their purchase history, track packages, and earn loyalty points and badges. The more information you provide us (and the more accurate it is) the better we are able to customize your experience on our website.
+###  WHAT DOES BLACKHAWK DO
 
-In addition, we may ask you for information at other times, for example, in connection with a sweepstakes, or a survey. Your choose whether to participate in such events. If you do participate, we may share your information with sponsoring business partners.
+###  WITH YOUR PERSONAL INFORMATION?  
+  
+---|---  
+  
+#### **  Why?**
 
-We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to other information about you. For example, if you visit Spafinder.com from a site operated by one of our business partners, and you have registered with that partner, then information about you that you have provided to that partner may be shared with us.
+| Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing.   Federal law also requires us to tell you how we collect, share, and protect your personal information.   Please read this notice carefully to understand what we do.  
+  
+#### **  What?**
 
-We also automatically collect some information about your computer when you visit Spafinder.com. For example, we will collect session data, including your IP address, Web browser software, and referring website. We also may collect information about your online activity, such as content viewed and pages visited.
+| The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-**  
-Cookies and Other Web Technologies.  **Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). Spafinder.com uses cookies for the following general purposes:
-
-  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes.
-  * To help us customize the content, website experience, and advertisements provided to you on our websites and on other websites across the Internet. For example, when you access a web page, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See Display of Advertising/Your Choices for more information about our online advertising practices and your choices.
-  * To help measure and research the effectiveness of website features and offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon).
+  * Social Security number and payment history
+  * account balances and account transactions
+  * transaction history and purchase history
 
 
 
-The "help" portion of the toolbar on most browsers should tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable most types of cookies. Please note that if you refuse to accept cookies, you may not be able to access many of the tools offered on our sites.
+When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+  
+#### **How?**
 
-Our website may also use web beacons (also known as clear gifs, pixel tags or web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a webpage. We use web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We may also allow our service providers to use web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and other actions on our site.
+| All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Blackhawk chooses to share; and whether you can limit this sharing.  
+**Reasons we can share your personal information** | **Does Blackhawk share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes –** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+**For our marketing purposes –** to offer our products and services to you | Yes | No  
+**For joint marketing with other financial institutions** | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your transactions and experiences | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness | No | We don’t share  
+**For our affiliates to market to you** | No | We don’t share  
+**For non-affiliates to market to you** | No | We don’t share  
+**Questions?** | Call 888-633-9432  
+---|---  
+**Who we are**  
+---  
+**Who is providing this notice?** | Blackhawk Network, Inc. (“Blackhawk”)  
+**What we do**  
+**How does Blackhawk protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does Blackhawk collect my personal information?** | We collect your personal information, for example, when you:
 
-**Third Party Advertising.  
-**Spafinder is committed to providing you with relevant content and information across our sites. To do this, we may collect information about your searches and other site activity like the pages you have visited and content you have seen, and use this information to serve you with ads on our sites or elsewhere online that match your apparent interests.
-
-We do not share your personal information (such as email addresses) with unaffiliated third parties so they can serve you with advertisements. You can choose not to receive relevant online advertising on other websites by clicking [here](http://www.networkadvertising.org/).
-
-We may also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites, and (2) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click [here](http://www.networkadvertising.org/managing/opt_out.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
-
-**Information About Your Location.  
-**When you use a Spafinder website, we will collect and use information about your location based upon your IP address. When you use a Spafinder application (the "Application") on a mobile phone or tablet device ("Device"), we will collect and use information about you in broadly the same way and for substantially similar purposes as when you use a Spafinder website. In addition, we may collect information about your location, via your privacy settings. We will use the location information collected to enhance your user experience. For example, we may use your location to show you special deals available at merchants near you. You can change your privacy settings at any time, in order to turn off the functionality to share location information.
-
-**2. _How we use your information._  
-**Spafinder uses the information we collect about you for the following general purposes: for registration and to manage your account, including to facilitate your access to and use of our site; to communicate with you in general, including to provide information about Spafinder; to enable us to publish your reviews and other content to the Spafinder community; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services available from us or our partners that may be of interest to you; to otherwise customize your experience with Spafinder; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
-
-**3. _Who we share your information with_  
-**Spafinder may share your information with the following entities:
-
-  * _Third-party vendors_ who provide services or functions on our behalf, including business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
-  * _Business partners_ with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
-  * _Referring websites_. If you were referred to Spafinder from another website, we may share your registration information, such as your name, email address, mailing address, telephone number and travel preferences, about you with that referring website. We have not placed limitations on the referring websites' use of personal information and we encourage you to review the privacy policies of any website that referred you to Spafinder.
-  * _Social Media Services_. You can choose to access certain third party social media websites and services through our site (such as Facebook). When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You may also be able to modify your privacy settings with these third party social media websites.
-
-
-
-We also may share your information:
-
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
-  * When we believe it is necessary to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Spafinder, our customers, or others; and in connection with our Terms of Service and other agreements.
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * open an account or provide account information
+  * give us your contract information or show us your government‑issued ID
+  * use your credit or debit card
 
 
 
-**4. _How you can access, update, or delete your information  
-_**We take reasonable steps to ensure that your information is relevant to its intended use, accurate, and complete. You can access and update your contact information by logging in to your account on the Spafinder website. You can close your Spafinder account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account in our archives, including for analytical purposes as well as for recordkeeping integrity.
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+  
+**Why can’t I limit all sharing?** | Federal law gives you the right to limit only:
 
-**5. _Security  
-_**We are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+  * sharing for affiliates’ everyday business purposes – information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
 
-**6. _Children's privacy  
-_**The Spafinder website is intended for general audiences site and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at [spafinder@webmaster.com](mailto:spafinder@webmaster.com?subject=Children%27s%20Privacy) If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
-**7. _External links  
-_**If any part of the Spafinder website links you to other websites, those external websites do not operate under this Privacy Policy. We recommend that you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information.
 
-**8. _Visiting our websites from outside the United States  
-_**If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that Spafinder does take steps pursuant to laws in the United States to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.  
+  
+**Definitions**  
+**Affiliates** | Companies related by common ownership or control.   They can be financial and nonfinancial companies.
 
-9\. **_California privacy rights  
-_**California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at [spafinder@webmaster.com](mailto:spafinder@webmaster.com?subject=California%20Privacy%20Rights).
+  * _Blackhawk’s affiliates include companies with a Blackhawk name and others, such as Cardpool, Inc. and CardLab, Inc._
 
-**10. _How to Unsubscribe from Spafinder Email Communications  
-_**If you no longer wish to receive our emails there is an “unsubscribe” link located in the footer of all emails that we send. Alternatively, you can email us at unsusbscribe@spafinder.com or contact us at Spafinder Wellness, Inc., 333 SE 2nd Avenue, Suite 3750, Miami, FL 33131.
+  
+**Nonaffiliates** | Companies not related by common ownership or control.   They can be financial and nonfinancial companies.
 
-**11. _Changes to this Privacy Policy  
-_**Spafinder may update this Privacy Policy in the future. We will notify our members about material changes to this Privacy Policy by placing a notice on our website.
+  * _Blackhawk does not share with nonaffiliates so they can market to you._
 
-**12. _Contact Us  
-_**If you believe that Spafinder has not adhered to this Privacy Policy you may write to us at the following address:
+  
+**Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
 
-Spafinder Wellness, Inc.  
-Attn: General Counsel  
-Wells Fargo Center  
-333 SE 2nd Ave, Suite 3750  
-Miami, Fl 33131  
-United States of America
 
-If you have general questions about this Privacy Policy, please email us at [spafinder@webmaster.com](mailto:spafinder@webmaster.com?subject=Privacy%20Policy%20Questions) or you may also contact us at:
+  * _Blackhawk may partner with nonaffiliated financial companies to jointly market financial products or services to you._
 
-Spafinder Wellness, Inc.  
-Attn: Privacy Policy  
-Wells Fargo Center  
-333 SE 2nd Ave, Suite 3750  
-Miami, FL 33131
+  
+**Other Important Information**  
+CA residents: Blackhawk will limit sharing with its affiliates to the extent required by California law. Blackhawk will not share your personal information for joint marketing with other financial institutions.
 
-©2016 Spafinder Wellness, Inc. All rights reserved.
+VT residents: If Blackhawk shares your personal information for joint marketing with other financial institutions, it will share only your name, contact information, and information about your transactions.
 
-This Privacy Policy is amended as of June 22, 2016.
+NV residents: We are providing this notice pursuant to Nevada law.  
+  
+Last Updated: 09/29/2016
+
+**Introduction and Scope of Practices.**
+
+This Privacy Policy (“Policy”) applies to Blackhawk Network Holdings, Inc. (“Blackhawk,” “we,” “us,” or “our”) and its affiliates and subsidiaries worldwide, including, but not limited to, Blackhawk Network, Inc., Blackhawk Network California, Inc., Blackhawk Engagement Solutions, Inc., Cardpool, Inc., CardLab, Inc., and Omni Prepaid, LLC (but not including Achievers Solutions, Inc. and Achievers, LLC, which have a separate policy). The Policy applies any time you deal with Blackhawk, whether in person, by telephone, by mail, or at any online or mobile site or application that we own and control (“Site”). The only exception to this is if different practices are provided and state that they apply instead of this Policy.
+
+This Policy explains:
+
+  * how we collect, use, and share information from or about you;
+  * how our online advertisements (such as banner ads) on third‑party sites treat data;
+  * your choices about our use of your personal information; and
+  * how you can access and update your information.
+
+
+
+Sometimes, we appear on a site owned by a third party (like a Blackhawk page or handle on a social media site) or link to a third party site. When we do, that third party’s privacy policies and terms of use, not ours, will apply unless you are told otherwise. Also, some of Blackhawk’s services (“Services”) are offered through banks or other financial institutions. In those cases, the third parties’ policies will govern their use of consumer data.
+
+**Types of Information We Collect**
+
+**Personally Identifiable Information (“PII”)**. PII means information or a combination of information that can be used to identify, contact, or locate a specific person. We may collect the following types of PII from you:
+
+  * Contact information, such as name, email address, mailing address, fax or phone number;
+  * Payment and financial information, such as credit or other payment card information, bank account, or billing address;
+  * Social Security Number or other national tax ID number
+  * Device geolocation (geographical location)
+  * Unique identifiers such as user name, account number, or password; and,
+  * Preference information such as product wish lists, order history, or marketing preferences.
+
+
+
+Sometimes, we may combine PII you provide with information from third-party sources. For example, we may confirm your address with the postal service or verify your personal information with a credit-reporting agency. We will treat the combined information in accordance with the terms of this Policy.
+
+**Other Information (“OI”)**. OI is any information other than PII that does not reveal your identity or directly relate to a person. We may collect the following OI from you:
+
+  * Information about your business such as company name, company size, or business type;
+  * Demographic information, such as age, gender, interests and ZIP code;
+  * Device and other tracking information, such as browser information, device identifiers, operating system, or information gained from cookies, pixels or other tracking technologies.
+
+
+
+OI may also include PII we have de‑identified or aggregated to the point where it no longer identifies a particular individual. If we ever combine OI with any PII, we treat it as PII is treated under this Policy. In some jurisdictions, some OI may be considered PII by law. In those cases, we will treat the information as PII is treated under this Policy.
+
+**How We Collect Personally Identifiable Information**
+
+We collect PII when you provide it to us.  This can occur when you fill out applications, create accounts, complete a purchase, add money to your account, send in forms, take surveys, or fill in various online fields on our Sites. We also collect PII when you contact us with inquiries, customer support requests, or employment applications.
+
+We may also collect the PII of third parties when you provide it to us. For example, if you choose to use our service to send a gift to a friend or register a family member for an account, we will ask you for your their name and address or email address. In addition, we may collect third party PII through our “Refer a Friend” program. Blackhawk stores this information for the sole purpose of completing the transaction. If you provide PII of a friend or family member and they want us to delete this information, they should contact us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com). We may not always be able to remove their PII. We will let them know if we cannot do so and why.
+
+**How We Use Personally Identifiable Information We Collect**
+
+We may use PII we collect for the following purposes:
+
+  * to provide you with the Services you requested;
+  * to verify your identity and/or location in order to allow access to your accounts, conduct online transactions, and secure your PII;
+  * to send you important information, such as changes to terms, conditions, and policies and/or other administrative information;
+  * to respond to your inquiries and fulfill your requests;
+  * to track referrals from partner websites;
+  * to personalize your experience on a Site by presenting content or offers tailored to you;
+  * to send you marketing communications you have signed up for or that we believe may be of interest to you;
+  * to allow you to use various Site features. 
+    * Please note that some features require that you provide PII in order to use them ( _g.,_ many of the features at [www.paypower.com](http://www.paypower.com/)) whereas other tools do not. You may request that certain information that you enter into our Sites be stored for future access and use. You have the option not to save the information;
+  * to assist in verifying your identity and account status when we deal with you through our social media pages . We may combine this information with information we already have;
+  * to enable you to post your resume, search job postings, and contact or be contacted by Blackhawk for prospective employment;
+  * for business purposes, including data analysis, audits, developing and improving products and services, enhancing our Sites, identifying usage trends and determining the effectiveness of promotional campaigns; and.
+  * for risk control, fraud detection and prevention, and compliance with laws and regulations.
+
+
+
+**Blogs:** Some of our Sites offer publicly accessible blogs. Any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com). We may not always be able to remove your personal information. We will let you know if we cannot do so and why.
+
+**Newsletters:** If you subscribe to our newsletters, we will use your name and email address to send them to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or accessing the email preferences in your account.
+
+**Testimonials:** We display personal testimonials of satisfied customers on some of our Sites and in print advertisements. With your consent, we may use your testimonial and your name. If you wish to update or delete your testimonial, you can contact us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com).
+
+**Geolocation:** We may collect your location-based information to help you locate a store offering our products and services in your area. We will only share this information with our mapping provider for the sole purpose of providing you this service.
+
+On some Sites (for example, [www.reloadit.com](http://www.reloadit.com/)), we collect location-based information for fraud prevention purposes.
+
+You may opt out of location-based services at any time by changing the settings on your device. If you do, you might not be able to use certain features, especially when we use location-based information to prevent fraud.
+
+**How We Share Personally Identifiable Information We Collect**
+
+We will share your PII with third parties only in the ways that are described in this privacy policy.  We do not sell PII to third parties.
+
+**Affiliates:** To the extent permitted by law, we may provide information about your transactions and experiences with other affiliated Blackhawk entities, including parent companies and subsidiaries.
+
+**Service providers:** We may provide your PII to companies that provide services to help us with our business activities, such as shipping your order or offering customer service. These companies are authorized to use your PII only as necessary to provide these services.
+
+**Referral partners:** We offer referral-based commission systems through third party partners through which publisher websites may refer users to our pages to make purchases. The third party partner will be identified when you sign up. Data generated from the commission system, which may include PII and OI, will be owned and controlled by both Blackhawk and the third party partner. This Policy will govern Blackhawk’s use of the data. The third party’s privacy policy will govern its use of the data. When you sign up as a publisher, we will link to the third party’s privacy policy and ask you to agree to it.
+
+**Product short notices:** Some products offered in conjunction with banks have unique data sharing agreements. Blackhawk will make available short privacy notices of each product’s sharing policies on its website.
+
+**Additional Disclosure:** We may also disclose your PII:
+
+  * As permitted or required by law, such as to comply with a subpoena, or similar legal process;
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+  * If Blackhawk is involved in a merger, acquisition, or sale of all or a portion of its assets. You will be notified by email and/or by a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your PII;
+  * to any other third party with your prior consent.
+
+
+
+**How We Collect And Use Other Information**
+
+We and certain third‑party service providers with whom we have agreements may collect OI in a variety of ways, including:
+
+**Log files:**  Most browsers collect certain information, such as your IP address, device type, screen resolution, operating system version, and internet browser type and version. This information is gathered automatically and stored in log files. We may link this data to PII we have collected about you.
+
+**Tracking technologies:** We and our service providers use cookies, beacons, tags, scripts, and HTML5 local storage. These technologies allow us to collect information such as browser type, time spent on our Sites, pages visited, language preferences, and your relationship with us. We can use this information to analyze trends, administer the website, track users’ movements around the website, measure the effectiveness of our communications, tailor our advertising to you, and gather demographic information about our user base as a whole.
+
+You can refuse to accept cookies.  Most devices and browsers offer their own privacy settings for cookies and HTML5 local storage. You will need to manage your cookie settings for each device and browser you use. However, if you elect not to accept cookies, your use of the features on our Sites may be limited or impaired, and you may not be able to access certain features of our Sites at all.
+
+Our third party partners use Local Shared Objects, such as Flash cookies, to embed features on our sites. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+**Advertising:** We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). If you are located in the European Union, click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+**Social Media Widgets:** Our Sites include social media features, such as the Facebook “Like” button. These features may collect your IP address, identify the page you are visiting on our website, and set a cookie to enable the feature to function properly. Social Media Widgets are either hosted by a third party or hosted directly on our website. The privacy statement of the company providing it governs your interactions with these Widgets. We will comply with any legal obligations placed on the use of these technologies by certain jurisdictions, which may affect how these Widgets function.
+
+**Security and Retention**
+
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received, including encrypting the transmission of any sensitive information, such as payment card information. If you have any questions about the security of your personal information, you can contact us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com).
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Image Submissions and Public Directories**
+
+Some of our websites offer you the ability to upload your own image to be used to create a personalized product. You may have the option to make these images available in publicly-accessible directories. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from these public forums, please email us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com) or contact us by postal mail at the contact information listed below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**User Access and Choice**
+
+Upon request Blackhawk will provide you with information about whether we hold any of your personal information. You may access, correct, update, amend, remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on your account page, emailing us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com) or by contacting us by postal mail at the contact information listed below. We will respond to your request within a reasonable time.
+
+Blackhawk acknowledges that you have the right to access your personal information. Blackhawk may have no direct relationship with some individuals whose personal data it processes. In those situations, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to Blackhawk’s partner who has the direct relationship (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+**“Do Not Track” Preferences**
+
+Many browsers provide you an option to request that a web application disable either its tracking and/or cross‑site user tracking of an individual user.  We do not track your online activities across different Sites, and we only track your activity within a Site to the extent you log into your account.
+
+Therefore, our practices remain the same whether or not you enable the “Do Not Track” feature.
+
+**Protecting Children’s Privacy Online**
+
+Our Sites are not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide PII through our Sites. We do not knowingly collect information from children under 13.
+
+**International Transfer**
+
+If you live in the European Economic Area (“EEA”) or in Canada, the data that we collect from you may be transferred to and stored at a location outside the EEA and Canada. It may also be processed by staff operating outside the EEA and Canada who work for us or for one of our service providers. Among other things, such staff may process and store your information and provide support services. By submitting your personal data, you agree to this transfer, storing or processing. We will ensure that your data is treated securely and in accordance with this Policy.
+
+**EU-U.S. Privacy Shield**
+
+Blackhawk (and its subsidiary companies Blackhawk Network, Inc., Blackhawk Network California, Inc., Blackhawk Engagement Solutions, Inc., Cardpool, Inc., CardLab, Inc., and Omni Prepaid, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Blackhawk is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+
+Blackhawk is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Blackhawk complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Blackhawk is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Blackhawk may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**U.S. – Swiss Safe Harbor Framework**
+
+Blackhawk complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Blackhawk has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blackhawk’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+
+**Updates to** **This Policy**
+
+This Policy is subject to change.  Please review it from time to time.  If we make changes, we will revise the “Late Updated” date at the top.  Any changes will become effective when we post the revised Policy. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective.
+
+**Contact Information**
+
+Chief Privacy Officer  
+Blackhawk Network, Inc.  
+6220 Stoneridge Mall Road  
+Pleasanton CA 94588  
+[privacy@bhnetwork.com](mailto:privacy@bhnetwork.com)
