@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108012702id_/https%3A//www.silkn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928192409id_/https%3A//silkn.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Silkn.com
-
-Take $20 off any purchase of $99 or more. Use code **GIMME20** at checkout. Offer ends 11/13. 
+# Silk’n U.S. & Canadian Website Privacy Policy
 
 Silkn.com respects your privacy and works hard to safeguard the privacy of your personal and business data. We realize that today’s Internet visitor has questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we give our commitment to safeguarding privacy to your online and Internet activities with us.
 
@@ -28,7 +26,7 @@ Silk'n may also use “cookies” and similar technology to obtain information a
 
 Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalized and is displayed as umbers, meaning it cannot be tracked back to individuals. This helps to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
 
-Google Adwords: Using Google Adwords cookies we are able to see which pages helped lead to sales. This allows us to make better use of our paid search ad budget. Learn how to opt out of interest based ads here. <http://www.google.com/settings/ads>
+Google Adwords: Using Google Adwords cookies we are able to see which pages helped lead to sales. This allows us to make better use of our paid search ad budget. Learn how to opt out of interest based ads here. <http://www.google.com/settings/ads>
 
 ### Security
 
