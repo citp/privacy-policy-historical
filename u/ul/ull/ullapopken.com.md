@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922173212id_/http%3A//www.ullapopken.com/en/contents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928063705id_/https%3A//www.ullapopken.com/contents/privacy) for the most accurate reproduction.*
 
-# Plus Size: Shop for Women's Plus Size Clothing - Ulla Popken
+# Privacy Policy | ULLA POPKEN
 
 We may collect information (including name, address, telephone number, e-mail address, and credit card information) when you:
 
@@ -47,7 +47,7 @@ If you do not want us to provide your name and street address to other companies
     12201 Long Green Pike  
     Glen Arm, MD 21057-9705  
     800-245-8552  
-    support@ullapopoken.com
+    support@ullapopken.com
 
 Because our catalogs and mailings are planned in advance, it may take several weeks or more for your request to become effective. If you continue to receive unwanted communications of any kind, please contact us, and we will make every effort to correct the situation.
 
@@ -99,4 +99,4 @@ Feel free to contact us with any questions or concerns you may have
     12201 Long Green Pike  
     Glen Arm, MD 21057-9705  
     800-245-8552  
-    support@ullapopoken.com
+    support@ullapopken.com
