@@ -1,15 +1,36 @@
-> *The following text is extracted and transformed from the mugshotsworld.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003083030id_/http%3A//www.mugshotsworld.com/privacypolicy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotsworld.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928111722id_/http%3A//ww43.mugshotsworld.com/privacy_policy.php) for the most accurate reproduction.*
 
-# USA's largest Mugshot, arrest record database and free search
+# Privacy Policy
 
-### Refund Policy
+* **Overview**
 
-As we provide service based solutions, we do not offer any kind of refund. 
+Thank you for visiting ww43.mugshotsworld.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-### Privacy Policy
+* **What Type of Information We Collect**
 
-Any information being posted here are from public records which is going to remain to public and search engines which crawls our website. All our information are public and we don't sell these information to any third party / vendors / databases. 
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-Any information received through payment gateways, information received from customers who given those details for removal purpose will not be shared / sold to any third party. All the information will be kept in a secured database of mugshotsworld.com. Moreover, we don't store any of your payment information like credit card details, bank details, payment details, your personally identifiable information with us. All the payment related information are processed by world's top payment gateway processors paypal & authorize.net and your payment information will be encrypted through industry standard SSL security certificates. 
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-Any contact information received from cusotmers will be stricly used for contacting the customer through email and phone. We will never contact you for any purpose other than reason you given us the contact information. 
+* **Uses May Include**
+
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
+
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
