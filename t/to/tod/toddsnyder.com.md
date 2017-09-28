@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217051723id_/https%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928160834id_/https%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Todd Snyder
+# Privacy Policy
 
 ### At Todd Snyder adding to the modernity and versatility of your wardrobe is secondary only to our belief in protecting your privacy.
 
