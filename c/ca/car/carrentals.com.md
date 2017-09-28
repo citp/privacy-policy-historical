@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the carrentals.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014154814id_/https%3A//www.carrentals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentals.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928174201id_/https%3A//www.carrentals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This website uses cookies to enable its functionality and improve the user experience. By continuing to navigate the website, you are thereby consenting to the use of cookies. OK
+[](https://web.archive.org/ "Car Rental: Find Cheap Rental Cars & Rent a Car Deals | CarRentals.com")
 
 [](https://web.archive.org/ "Car Rental: Find Cheap Rental Cars & Rent a Car Deals | CarRentals.com")
+
+This website uses cookies to enable its functionality and improve the user experience. By continuing to navigate the website, you are thereby consenting to the use of cookies. OK
 
 We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
 
