@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrews.edu privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311113133id_/https%3A//www.andrews.edu/services/its/web-privacy-and-security-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrews.edu privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928074139id_/https%3A//www.andrews.edu/services/its/web-privacy-and-security-statement.html) for the most accurate reproduction.*
 
 # Web Privacy and Security Statement :: Andrews University
 
@@ -30,10 +30,10 @@ Other than the previously stated conditions, Andrews University will not share i
 
 ###  Security and Accuracy of Confidential Data Including Financial Transactions
 
-We care about the safety and security of your information. We use SSL (Secure Sockets Layer) to communicate with your browser software when personally identifiable data including financial and credit card information is being entered and processed. SSL is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept your credit card or other information that you provide to us. In addition, there are many other security measures that Andrews University utilizes to protect against the loss, misuse or alteration of the information we process.  
+We care about the safety and security of your information. We use SSL (Secure Sockets Layer) to communicate with your browser software when personally identifiable data including financial and credit card information is being entered and processed. SSL is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept your credit card or other information that you provide to us. In addition, there are many other security measures that Andrews University utilizes to protect against the loss, misuse or alteration of the information we process.
+
 We have partnered with a commercial Internet financial services provider to handle credit card transactions, and we do not store credit card information on Andrews University servers.
 
 ###  Questions
 
-If you have questions about this privacy and security statement or believe that your personal information has been released without your consent, send an email to the Chief Information Officer at [cio@andrews.edu](mailto:cio@andrews.edu).  
- 
+If you have questions about this privacy and security statement or believe that your personal information has been released without your consent, send an email to the Chief Information Officer at [cio@andrews.edu](mailto:cio@andrews.edu).
