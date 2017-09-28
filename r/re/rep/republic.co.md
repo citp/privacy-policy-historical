@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the republic.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183315id_/https%3A//republic.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republic.co privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928134212id_/https%3A//republic.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Republic
 
-Nothing is more important to us than the trust of our users. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how Republic collect, use and disclose any personal information you provide when using the services, websites, and applications offered by Republic (the “Services”), and the choices available to you regarding our use of your information. This Privacy Policy is subject to our Terms of Service. 
+Nothing is more important to us than the trust of our users. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how Republic collects, uses and discloses any personal information you provide when using the services, websites, and applications offered by Republic (the “Services”), and the choices available to you regarding our use of your information. This Privacy Policy is subject to our Terms of Service. 
 
 * * *
 
@@ -10,25 +10,27 @@ Nothing is more important to us than the trust of our users. We are committed to
 
 We collect information that may personally identify you (“Personally Identifiable Information”), such as when you sign up for an account on www.republic.co (“Site”), make an investment, provide payment instructions, fill out bank form information, or provide us with access to your profiles on third party sites. Personally Identifiable Information may include, among other things, your email address, name, phone number, birthday, address, investment experience, and your educational or professional history. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services. 
 
-We may automatically collect information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the web browser used to visit the Site, the time the Site is visited, which web pages were visited on the Site, a unique mobile device identified, and other anonymous Site usage data. 
+We may automatically collect information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the web browser used to visit the Site, the time the Site is visited, which web pages were visited on the Site, a unique mobile device identified, and other anonymous Site usage data. We may use third party analytics services which provide us with a clearer picture of how you use the Site, such as where you click on the Site, non-sensitive text entered into the Site, and mouse movements. 
 
-We also may use cookies and web beacons. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. 
+We also may use cookies and web beacons. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. If you choose to make an account, we provide private messaging services between users; while we do not monitor these messages, we will periodically select a few to review for compliance and audit purposes 
 
 * * *
 
 ##  How We Share and Use Your Information 
 
-We provide the Personally Identifiable Information on a confidential basis to non-affiliated companies we engage as vendors or agents (i) to facilitate the Services provided on our site, such as escrow agents, transfer agents and banks, and (ii) to service our operation, such as maintaining software or servers, designing or implementing marketing initiatives on our behalf, or conducing audit or testing of any aspect of our operation or Services. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services for us or on our behalf and pursuant to confidentiality obligations, or in response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators. 
+We provide the Personally Identifiable Information on a confidential basis to non-affiliated companies we engage as vendors or agents (i) to facilitate the Services provided on our site, such as escrow agents, transfer agents and banks, and (ii) to service our operation, such as maintaining software or servers, designing or implementing marketing initiatives on our behalf, or conducting audit or testing of any aspect of our operation or Services. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services for us or on our behalf and pursuant to confidentiality obligations, or in response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators. 
 
-In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive for the following: to deliver and improve our Services; to manage your account and provide you with customer support; to perform research and analysis about your use of the Services; to develop, display, and track content and advertising tailored to your interests on the Services and other sites, including providing our advertisements to you when you visit other sites; website or mobile application analytics; to diagnose or fix technology problems; to automatically update the Services on your device; to verify your identify and prevent fraud or other unauthorized or illegal activity; to enforce or exercise any rights in our Terms of Service; and to perform functions or services as otherwise described to you at the time of collection. 
+In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive for the following: to deliver and improve our Services; to manage your account and provide you with customer support; to perform research and analysis about your use of the Services; to develop, display, and track content and advertising tailored to your interests on the Services and other sites, including providing our advertisements to you when you visit other sites; website or mobile application analytics; to diagnose or fix technology problems; to automatically update the Services on your device; to verify your identify and prevent fraud or other unauthorized or illegal activity; to enforce or exercise any rights in our Terms of Service; to provide users with statistics on how they use the Site relative to other anonymous users, and to perform functions or services as otherwise described to you at the time of collection. 
 
-Republic does not sell any customer data to third-party firms. 
+If you choose to make your investment public through whatever means provided by the Site, we may share that public announcement through other channels, including through the Sites social media presences, as we see fit. If you subsequently make your investment private, we will discontinue any subsequent use, but cannot retract previous re-publications of your previously public investment. 
+
+Republic does not sell any customer data to third-party firms, protecting your data is of the highest priority to us. 
 
 * * *
 
 ##  Information Provided in Discussion Forums 
 
-Offerings on Republic all include a publicly accessible discussion forum. You should be aware that any information you provide in the discussion forum may be read, collected, and used by OpendDeal users and the general public. Information that you disclose in any of these forums is unencrypted, public information, and there is no expectation of privacy or confidentiality there. Please refrain from disclosing any Personally Identifiable Information about yourself or anyone else in these discussion forums. 
+Offerings on Republic all include a publicly accessible discussion forum as well as an “investment reason” forum. Additionally, other pages on the Site allow for public comment and discussion. You should be aware that any information you provide in these forums may be read, collected, and used by the Site’s users and the general public; Information that you disclose in any of these forums is unencrypted, public information, and there is no expectation of privacy or confidentiality there; we reserve the right to use all public posts on the Site for marketing purposes. Please refrain from disclosing any Personally Identifiable Information about yourself or anyone else in these discussion forums. 
 
 Note also that in the ordinary course of Internet activity, certain information may be sent from your browser to third parties such as advertising networks and analytics companies. Republic has no control over the information sent from your browser to those networks or other third parties and recommends that you ensure that your browser settings prevent the disclosure of information you would not like to share. 
 
@@ -36,15 +38,15 @@ Note also that in the ordinary course of Internet activity, certain information 
 
 ##  Your Choices About Your Information 
 
-You may, of course, decline to submit Personally Identifiable Information through the Services, in which case Republic may not be able to provide certain Services to you. In addition, you may update or correct your account information and email preferences at any time by logging in to your account. If you would like us to remove your Personally Identifiable Information from our database, please send a request to privacy@republic.co. 
+You may, of course, decline to submit Personally Identifiable Information through the Services, in which case Republic may not be able to provide certain Services to you. In addition, you may update or correct your account information and email preferences at any time by logging into your account. If you would like us to remove your Personally Identifiable Information from our database, please send a request to team@republic.co. 
 
-When you sign up for our Services, we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails or you can contact us at team@republic.co. 
+When you sign up for our Services, we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails or you can contact us at team@republic.co. You may also edit your email preferences 
 
 * * *
 
 ##  Your California Privacy Rights 
 
-California’s “Shine The Light” law permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personally Identifiable Information” (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please email privacy@republic.co or mail your request to Republic, 524 Broadway, New York, NY 10012. 
+California’s “Shine The Light” law permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personally Identifiable Information” (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please email team@republic.co or mail your request to Republic, 524 Broadway, New York, NY 10012. 
 
 * * *
 
@@ -62,14 +64,16 @@ We will retain your information for as long as your account is active or is need
 
 The Services are maintained in the United States of America. Although we welcome users from all over the world, by accessing the Services, you consent to and authorize the export of Personally Identifiable Information to the United States and its storage and use as specified in this Privacy Policy. Note the laws of the United States might not be as comprehensive or protective as laws in the country where you live. 
 
+**Opt out of certain cookies tracking:** The Site uses tools to facilitate the collection of information. For example, the Site uses Google Analytics, if you wish to disable Google Analytics from all websites you visit (not limited to this Site), you can follow this [link.](https://tools.google.com/dlpage/gaoptout) You can read the other relevant privacy policies [here](https://fullstory.com/legal/privacy) , [here](https://mixpanel.com/privacy/) , [here](https://www.helpscout.net/company/privacy/) and [here.](https://rollbar.com/privacy/) Please contact us if you wish to opt out of any of the tools we use. Please note, we reserve the right to add more tools or disable tools and will update this Privacy Policy to reflect these changes. 
+
 * * *
 
 ##  How to Contact Us 
 
-If you have any questions about our practices or this Privacy Policy, please contact us at privacy@republic.co 
+If you have any questions about our practices or this Privacy Policy, please contact us at team@republic.co 
 
 * * *
 
 ##  Effective Date 
 
-This Privacy Policy was last updated on May 31, 2016. 
+This Privacy Policy was last updated on September 21, 2017. 
