@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmyplus.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171835id_/http%3A//www.filmyplus.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyplus.in privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928175129id_/http%3A//www.filmyplus.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Filmy Plus
+# Privacy Policy - FilmyPlus
 
 This Privacy Policy governs the manner in which abc.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the filmyplus.in (“Site”). This privacy policy applies to the Site and all products and services offered by filmyplus.in.
 
