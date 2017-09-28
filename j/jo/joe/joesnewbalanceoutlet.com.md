@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404203355id_/https%3A//www.joesnewbalanceoutlet.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928203231id_/https%3A//www.joesnewbalanceoutlet.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
