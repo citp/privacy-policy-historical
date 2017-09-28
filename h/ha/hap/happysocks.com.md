@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happysocks.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609065755id_/http%3A//support.happysocks.com/hc/en-us/articles/208317453-PRIVACY-POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happysocks.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928202657id_/http%3A//support.happysocks.com/hc/en-us/articles/208317453-PRIVACY-POLICY) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Happy Socks Help Center
 
