@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenovogamestate.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216081513id_/https%3A//www3.lenovo.com/gb/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenovogamestate.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928195142id_/https%3A//www3.lenovo.com/gb/en/privacy) for the most accurate reproduction.*
 
 # Lenovo Privacy - United Kingdom | Lenovo UK
 
@@ -134,7 +134,7 @@ Back to top
 
 ### Privacy Technology
 
-Technology will increasingly help give you more control over your personal information. Products and services are available which can assist you with the control of your personal information while navigating the Web. See <https://www.privacyalliance.org/resources/rulesntools.shtml> for an overview of many privacy-related tools. Please note that Lenovo has not formally evaluated these tools.
+Technology will increasingly help give you more control over your personal information. Products and services are available which can assist you with the control of your personal information while navigating the Web. See for an overview of many privacy-related tools. Please note that Lenovo has not formally evaluated these tools.
 
 Back to top
 
