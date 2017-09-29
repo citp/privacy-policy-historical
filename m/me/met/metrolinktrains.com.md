@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531025902id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929164838id_/http%3A//metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metrolink
 
-The Southern California Regional Rail Authority (Metrolink) respects your privacy. The following describes our Privacy Policy in relation to the information that you submit through this website.
+The Southern California Regional Rail Authority (Metrolink) respects your privacy. The following describes our Privacy Policy in relation to the information that you submit through using this website, our mobile ticketing website ('Website') and our mobile application ('App') that retails the mobile ticket ('mTicket').
 
 We may obtain personal information from you when you submit comments on Metrolink service, complete a survey, subscribe to an email newsletter, or participate in the Metrolink rider advisory panel. This personal information may be in the form of your name, email address, phone number, street address, etc. Metrolink or its contracted vendors do not sell, trade, or rent your personal information to anyone, or disclose personal information. Metrolink may use your personal information to respond to your comments, process a transaction, contact you with information about this organization or other transit services or to perform research on our products or services.
 
@@ -11,7 +11,7 @@ Metrolink may also share this information with third party service providers who
   
 
 
-#### Confidentiality and integrity of personal information collected through the Metrolink website
+####  Confidentiality and integrity of personal information collected through the Metrolink website
 
 Metrolink is committed to protecting personal information collected through the Metrolink website against unauthorized access, use or disclosure. Consequently, Metrolink takes measures to protect the privacy of information that you submit on this website. Metrolink limits access to personal information collected through the Metrolink website to only those employees and contractors who need access to the information in the performance of their official duties or contracted services. Metrolink employees and contractors who have access to this information are required to maintain its confidentiality and are not permitted to disclose or use it except as set forth in this policy.
 
@@ -23,7 +23,7 @@ Metrolink may compile statistical information regarding its ridership from perso
 
 Some applications on this website may use cookies. Cookies are small data files that write to your hard drive if your browser is set to allow them. The only personal information that a cookie can contain is information you supply yourself. Metrolink may utilize cookies or retargeting pixels for the purpose of facilitating your use of our site and for tracking user traffic patterns in order to help us make improvements to the site. You can set your browser to refuse cookies or retargeting pixels. However, cookies may be required to use some of the web applications on Metrolink’s site.
 
-We may provide links from this website to external sites maintained by other public agencies or by private organizations. You should be aware that these third-party websites are not controlled by Metrolink, and therefore are not subject to this Privacy Policy. You should review the privacy policies of these external sites to determine the risks associated with using these sites and making your personal information available to operators of these sites.
+We may provide links from this website to external sites maintained by other public agencies or by private organizations. With the exception of the Website and the App, you should be aware that these third-party websites are not controlled by Metrolink, and therefore are not subject to this Privacy Policy. You should review the privacy policies of these external sites to determine the risks associated with using these sites and making your personal information available to operators of these sites. For the avoidance of doubt, the Website and the App are subject to this Privacy policy.
 
 Because Metrolink is a public agency, information that you provide to us on this website may be subject to disclosure under the California Public Records Act. This means that if a member of the public requests this information, we are required to provide the information to the person requesting it unless it falls under one of the exceptions contained in the Public Records Act. Metrolink may also be required to disclose this information pursuant to some other law or a court order.
 
