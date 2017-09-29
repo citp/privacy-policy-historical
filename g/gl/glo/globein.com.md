@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331142002id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929235148id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
 
 # GlobeIn Privacy Policy | GlobeIn
 
@@ -41,9 +41,9 @@ This Policy is incorporated into and is subject to the GlobeIn Terms of Use. Cap
 
 **Your Choices**
 
-You may, of course, decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other personal information we hold about you, or to request that we delete any information about you that we have obtained from an Integrated Service, you may contact us at [privacy@globein.com](mailto:privacy@globein.com). Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+You may, of course, decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other personal information we hold about you, or to request that we delete any information about you that we have obtained from an Integrated Service, you may contact us at [support@globein.com](mailto:support@globein.com). Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
 
-If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at [privacy@globein.com](mailto:privacy@globein.com) or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Service.
+If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at [support@globein.com](mailto:support@globein.com) or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Service.
 
 Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten business days for us to process your request, and you may receive promotional communications from us that you have opted-out from during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.
 
@@ -53,13 +53,13 @@ The Service may contain features or links to Web sites and services provided by 
 
 **Children’s Privacy**
 
-Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Service at any time or in any manner. If we learn that personally identifiable information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at [privacy@globein.com](mailto:privacy@globein.com) and request that we delete that child’s personally identifiable information from our systems.
+Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Service at any time or in any manner. If we learn that personally identifiable information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at [support@globein.com](mailto:support@globein.com) and request that we delete that child’s personally identifiable information from our systems.
 
 **Data Security**
 
 We use certain physical, managerial, and technical safeguards that are designed to improve the integrity and security of your personally identifiable information. We cannot, however, ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at privacy@ globein.com.
+If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at support@ globein.com.
 
 **Privacy Settings**
 
@@ -75,10 +75,10 @@ Please revisit this page periodically to stay aware of any changes to this Polic
 
 **Our Contact Information**
 
-Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [privacy@globein.com](mailto:privacy@globein.com).
+Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [support@globein.com](mailto:support@globein.com).
 
 GlobeIn World, Inc.
 
-450 National Avenue
+150 Constitution Dr
 
-Mountain View, CA 94043
+Menlo Park, CA 94025
