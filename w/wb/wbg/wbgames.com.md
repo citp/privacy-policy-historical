@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235106id_/https%3A//www.warnerbros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbgames.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929204841id_/https%3A//www.warnerbros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Warner Bros. - The Studio
 
