@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611142934id_/http%3A//www.nyxcosmetics.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929222208id_/http%3A//www.nyxcosmetics.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | NYX Cosmetics
+# Privacy Policy | NYX Professional Makeup
 
 Thank you for visiting the NYX Professional Makeup site, which is part of the L'Oréal USA, Inc. family of brand sites ("L'Oréal USA"). We have created this policy to provide you with information about how we collect, use, share and protect information from our sites, mobile applications and social media pages (collectively called the "Sites"), when you shop in our stores and the purchases you make, or when you otherwise interact with us. This notice applies to consumers and visitors of our Sites in the United States only. Visitors from other countries should visit the L'Oréal/brand site for your part of the world. **This policy does not apply to job applicants**. If you submit a job application through the Sites, your personal information will be governed by a separate policy located on the L'Oreal Careers web site. 
 
