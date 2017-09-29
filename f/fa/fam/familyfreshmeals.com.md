@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyfreshmeals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004520id_/http%3A//www.familyfreshmeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfreshmeals.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930014446id_/https%3A//www.familyfreshmeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family Fresh Meals
 
