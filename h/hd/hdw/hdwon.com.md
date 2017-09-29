@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155122id_/http%3A//hdwon.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwon.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929153916id_/http%3A//hdwon.mobi/privacy.php) for the most accurate reproduction.*
 
 # Privacy & Policy - HDWon.Com
 
