@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official-liker.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121095931id_/http%3A//official-liker.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official-liker.net privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929231705id_/http%3A//official-liker.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Official Liker
 
