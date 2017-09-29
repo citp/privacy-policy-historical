@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the familyfocusblog.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115242id_/http%3A//familyfocusblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfocusblog.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930015128id_/https%3A//familyfocusblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family Focus Blog
 
-January 1, 2011 by [1 Comment](http://familyfocusblog.com/privacy-policy/#comments)
+January 1, 2011 by 
 
 ### Family Blog Privacy Policy:
 
