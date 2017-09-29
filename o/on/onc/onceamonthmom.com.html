@@ -1,464 +1,381 @@
-<!--The following is the downloaded HTML source of the onceamonthmom.com privacy policy that was archived on 2015-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321175300id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onceamonthmom.com privacy policy that was archived on 2017-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170929134842id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js grunticon" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-<meta charset="utf-8"><link rel="stylesheet" href="https://onceamonthmeals.com/wp-content/themes/oamm/grunticon/icons.data.svg.css" media="all"><script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OVldWGwIJXFFUBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" sizes="57x57" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/manifest.json">
-<link rel="shortcut icon" href="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/favicon.ico">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-TileImage" content="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/mstile-144x144.png">
-<meta name="msapplication-config" content="https://onceamonthmeals.com/wp-content/themes/oamm/images/favicons/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="https://onceamonthmeals.com/xmlrpc.php">
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<title>Privacy Policy | Once A Month Meals</title>
- 
+<!DOCTYPE html><html lang="en-US"><head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript" async="" src="https://widget.intercom.io/widget/p02uufxg"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=161473817641653"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.7/rollbar.min.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga( 'create', 'UA-62469924-1', { 'cookieDomain': 'onceamonthmeals.com' } );
+	
+	ga( 'require', 'linkid' );
+	ga( 'require', 'GTM-PDZV4XQ' );
+	ga( 'send', 'pageview' );
+	</script>
+
+			<!-- Rollbar -->
+		<script>
+			var _rollbarConfig = {
+				accessToken: '56bef4af2c8642d4ae83d1e26dd60983',
+				captureUncaught: true,
+				payload: {
+					environment: 'production',
+									}
+			};
+			!function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.7/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+		</script>
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="https://assets.onceamonthmeals.com/dist/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="https://assets.onceamonthmeals.com/dist/icons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://assets.onceamonthmeals.com/dist/icons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="https://onceamonthmeals.com/manifest.php">
+	<link rel="mask-icon" href="https://assets.onceamonthmeals.com/dist/icons/safari-pinned-tab.svg" color="#FF7C00">
+	<link rel="shortcut icon" href="https://assets.onceamonthmeals.com/dist/icons/favicon.ico">
+	<meta name="msapplication-config" content="https://assets.onceamonthmeals.com/dist/icons/browserconfig.xml">
+	<meta name="theme-color" content="#197582">
+
+	<title>Privacy Policy | Once A Month Meals</title>
+
+<!-- Social Warfare v2.3.2 https://warfareplugins.com -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Please note that our privacy policy has changed effective September 1, 2012. If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from">
+<meta name="twitter:site" content="@onceamonthmeals">
+<style>@font-face {font-family: "sw-icon-font";src:url("https://onceamonthmeals.com/content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.3.2");src:url("https://onceamonthmeals.com/content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.3.2#iefix") format("embedded-opentype"),url("https://onceamonthmeals.com/content/plugins/social-warfare/fonts/sw-icon-font.woff?ver=2.3.2") format("woff"), url("https://onceamonthmeals.com/content/plugins/social-warfare/fonts/sw-icon-font.ttf?ver=2.3.2") format("truetype"),url("https://onceamonthmeals.com/content/plugins/social-warfare/fonts/sw-icon-font.svg?ver=2.3.2#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v2.3.2 https://warfareplugins.com -->
+
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://onceamonthmeals.com/privacy-policy/">
+<link rel="publisher" href="https://plus.google.com/+Onceamonthmeals/posts">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy | Once A Month Meals">
-<meta property="og:description" content="PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 1, 2012. If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us as provided in Section I below. …">
+<meta property="og:description" content="Please note that our privacy policy has changed effective September 1, 2012. If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from...">
 <meta property="og:url" content="https://onceamonthmeals.com/privacy-policy/">
 <meta property="og:site_name" content="Once A Month Meals">
 <meta property="article:publisher" content="http://facebook.com/onceamonthmeals">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 1, 2012. If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us as provided in Section I below. […]">
-<meta name="twitter:title" content="Privacy Policy | Once A Month Meals">
-<meta name="twitter:site" content="@onceamonthmeals">
-<meta name="twitter:domain" content="Once A Month Meals">
-<meta name="twitter:creator" content="@onceamonthmeals">
- 
-<script>
-        var _rollbarConfig = {
-            accessToken: "56bef4af2c8642d4ae83d1e26dd60983",
-            captureUncaught: true,
-            payload: {
-                environment: "production"
-            }
-        };
-        !function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){a._rollbarWrappedError&&(d[4]||(d[4]=a._rollbarWrappedError),d[5]||(d[5]=a._rollbarWrappedError._rollbarContext),a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d,e){var f=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=h,e.parentNode.insertBefore(a,e)},this.logger),h=g(function(){var b;if(void 0===a._rollbarPayloadQueue){var c,d,f,g;for(b=new Error("rollbar.js did not load");c=a._rollbarShimQueue.shift();)for(f=c.args,g=0;g<f.length;++g)if(d=f[g],"function"==typeof d){d(b);break}}"function"==typeof e&&e(b)},this.logger);g(function(){c?f():a.addEventListener?a.addEventListener("load",f,!1):a.attachEvent("onload",f)},this.logger)()},c.prototype.wrap=function(b,c){try{var d;if(d="function"==typeof c?c:function(){return c||{}},"function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw c._rollbarContext=d(),c._rollbarContext._wrappedSource=b.toString(),a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var e in b)b.hasOwnProperty(e)&&(b._wrapped[e]=b[e])}return b._wrapped}catch(f){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
-    </script>
-<link rel="stylesheet" id="et_monarch-open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="et_monarch-css-css" href="https://onceamonthmeals.com/wp-content/plugins/monarch/css/style.css?ver=1.1.2" type="text/css" media="all">
-<link rel="stylesheet" id="oamm-style-mq-base-css" href="https://onceamonthmeals.com/wp-content/themes/oamm/css/mq-base.css?ver=4.1.1" type="text/css" media="all">
-<!--[if (lt IE 9) & (!IEMobile)]>
-<link rel='stylesheet' id='oamm-style-no-mq-base-css'  href='https://onceamonthmeals.com/wp-content/themes/oamm/css/no-mq-base.css?ver=4.1.1' type='text/css' media='all' />
+<meta property="DC.date.issued" content="2016-07-28T19:33:48-04:00">
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//assets.onceamonthmeals.com">
+<link rel="alternate" type="application/rss+xml" title="Once A Month Meals » Privacy Policy Comments Feed" href="https://onceamonthmeals.com/privacy-policy/feed/">
+<link rel="stylesheet" id="oamm-style-css" href="https://assets.onceamonthmeals.com/dist/css/main.css" type="text/css" media="screen">
+<link rel="stylesheet" id="social_warfare-css" href="https://onceamonthmeals.com/content/plugins/social-warfare/css/style.min.css" type="text/css" media="all">
+<script type="text/javascript" src="https://assets.onceamonthmeals.com/dist/js/lib/fonts.js"></script>
+<script type="text/javascript" src="https://assets.onceamonthmeals.com/dist/js/lib/jquery.opt.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var affwp_scripts = {"ajaxurl":"https:\/\/onceamonthmeals.com\/wordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://onceamonthmeals.com/content/plugins/affiliate-wp/assets/js/jquery.cookie.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var affwp_debug_vars = {"integrations":[],"version":"2.1.4","currency":"USD"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://onceamonthmeals.com/content/plugins/affiliate-wp/assets/js/tracking.min.js"></script>
+<link rel="shortlink" href="https://onceamonthmeals.com/?p=12980">
+		<script type="text/javascript">
+		var AFFWP = AFFWP || {};
+		AFFWP.referral_var = 'ref';
+		AFFWP.expiration = 90;
+		AFFWP.debug = 0;
+
+		AFFWP.referral_credit_last = 1;
+		</script>
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js?ver=2.1.3"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/libs/modernizr.js?ver=4.1.1"></script>
-<script type="text/javascript" src="//fast.wistia.com/assets/external/popover-v1.js?ver=4.1.1"></script>
-<style type="text/css" id="et-social-custom-css"></style>  
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","onceamonthmeals.zendesk.com");/*]]>*/</script>
- 
-<script>
-		/*! grunt-grunticon Stylesheet Loader - v2.1.2 | https://github.com/filamentgroup/grunticon | (c) 2015 Scott Jehl, Filament Group, Inc. | MIT license. */
-        (function(e){function t(t,n,r,o){"use strict";function a(){for(var e,n=0;u.length>n;n++)u[n].href&&u[n].href.indexOf(t)>-1&&(e=!0);e?i.media=r||"all":setTimeout(a)}var i=e.document.createElement("link"),l=n||e.document.getElementsByTagName("script")[0],u=e.document.styleSheets;return i.rel="stylesheet",i.href=t,i.media="only x",i.onload=o||null,l.parentNode.insertBefore(i,l),a(),i}var n=function(r,o){"use strict";if(r&&3===r.length){var a=e.navigator,i=e.Image,l=!(!document.createElementNS||!document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||e.opera&&-1===a.userAgent.indexOf("Chrome")||-1!==a.userAgent.indexOf("Series40")),u=new i;u.onerror=function(){n.method="png",n.href=r[2],t(r[2])},u.onload=function(){var e=1===u.width&&1===u.height,a=r[e&&l?0:e?1:2];n.method=e&&l?"svg":e?"datapng":"png",n.href=a,t(a,null,null,o)},u.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",document.documentElement.className+=" grunticon"}};n.loadCSS=t,e.grunticon=n})(this);(function(e,t){"use strict";var n=t.document,r="grunticon:",o=function(e){if(n.attachEvent?"complete"===n.readyState:"loading"!==n.readyState)e();else{var t=!1;n.addEventListener("readystatechange",function(){t||(t=!0,e())},!1)}},a=function(e){return t.document.querySelector('link[href$="'+e+'"]')},c=function(e){var t,n,o,a,c,i,u={};if(t=e.sheet,!t)return u;n=t.cssRules?t.cssRules:t.rules;for(var l=0;n.length>l;l++)o=n[l].cssText,a=r+n[l].selectorText,c=o.split(");")[0].match(/US\-ASCII\,([^"']+)/),c&&c[1]&&(i=decodeURIComponent(c[1]),u[a]=i);return u},i=function(e){var t,o,a;o="data-grunticon-embed";for(var c in e)if(a=c.slice(r.length),t=n.querySelectorAll(a+"["+o+"]"),t.length)for(var i=0;t.length>i;i++)t[i].innerHTML=e[c],t[i].style.backgroundImage="none",t[i].removeAttribute(o);return t},u=function(t){"svg"===e.method&&o(function(){i(c(a(e.href))),"function"==typeof t&&t()})};e.embedIcons=i,e.getCSS=a,e.getIcons=c,e.ready=o,e.svgLoadedCallback=u,e.embedSVG=u})(grunticon,this);
-		grunticon(["https://onceamonthmeals.com/wp-content/themes/oamm/grunticon/icons.data.svg.css", "https://onceamonthmeals.com/wp-content/themes/oamm/grunticon/icons.data.png.css", "https://onceamonthmeals.com/wp-content/themes/oamm/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
-	</script>
-<noscript><link href="https://onceamonthmeals.com/wp-content/themes/oamm/grunticon/icons.fallback.css" rel="stylesheet"></noscript>
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="https://onceamonthmeals.com/content/themes/oamm/assets/css/ie.css" type="text/css" media="screen" />
+<![endif]-->
+
+	
+	<link rel="preload" as="font" href="https://assets.onceamonthmeals.com/dist/fonts/ProximaNova-Bold-webfont.woff2" type="font/woff2" crossorigin="">
+	<link rel="preload" as="font" href="https://assets.onceamonthmeals.com/dist/fonts/ProximaNova-Sbold-webfont.woff2" type="font/woff2" crossorigin="">
+	<link rel="preload" as="font" href="https://assets.onceamonthmeals.com/dist/fonts/fontawesome-webfont.woff2?v=4.6.3" type="font/woff2" crossorigin="">
+	<link rel="preload" as="font" href="https://assets.onceamonthmeals.com/dist/fonts/ProximaNova-Reg-webfont.woff2" type="font/woff2" crossorigin="">
 </head>
-<body class="page page-id-46 page-template-default et_monarch group-blog">
-<div class="body-inner-wrapper">
-<div class="off-canvas-overlay js-close-off-canvas" title="Back to the Site"></div>
-<div oamm-offcanvas="pusher" class="connect-content">
-<div class="pd_all grid-g">
-<div class="grid-u-1-1">
-<div class="sp">
-<a href="#" class="button_primary block js-close-off-canvas">
-Back to the Site</a> </div>
-</div>
-<div class="grid-u-1-1">
-<div class="sp_vertical">
-<ol class="stay-large social-link-list list">
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Facebook" href="https://www.facebook.com/onceamonthmeals" target="_blank">
-<span class="icon-facebook icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-facebook"></div>
-<span class="visuallyhidden">Facebook</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Email" href="mailto:info@onceamonthmeals.com" target="_blank">
-<span class="icon-mail icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-mail"></div>
-<span class="visuallyhidden">Email</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Instagram" href="http://instagram.com/onceamonthmeals" target="_blank">
-<span class="icon-instagram icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-instagram"></div>
-<span class="visuallyhidden">Instagram</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Pinterest" href="https://www.pinterest.com/onceamonthmeals/" target="_blank">
-<span class="icon-pinterest icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-pinterest"></div>
-<span class="visuallyhidden">Pinterest</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Google+" href="https://plus.google.com/+Onceamonthmeals/posts" target="_blank">
-<span class="icon-google-plus icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-google-plus"></div>
-<span class="visuallyhidden">Google+</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Twitter" href="https://twitter.com/onceamonthmeals" target="_blank">
-<span class="icon-twitter icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-twitter"></div>
-<span class="visuallyhidden">Twitter</span>
-</a>
-</li>
-</ol>
-</div>
-</div>
-<div class="grid-u-1-1">
-<div class="sp_lg">
-<h2 class="sp_none">
-Need some help?
-</h2>
-<p>Here are a few of our most asked questions. If the answer to <em>your</em> question isn't here, head over to the <a href="http://support.onceamonthmeals.com" class="std-link" title="OAMM Support" target="_blank">support section</a>.</p>
-<ul class="list ">
-<li class="list-item sp">
-<a class="list-item--link std-link" href="http://support.onceamonthmeals.com/hc/en-us/articles/204141780-What-exactly-is-freezer-cooking-" target="_blank">
-Intro to Freezer Cooking </a>
-</li>
-<li class="list-item sp">
-<a class="list-item--link std-link" href="http://support.onceamonthmeals.com/hc/en-us/articles/204141820-What-is-flash-freezing-and-how-do-I-do-it-" target="_blank">
-What is Flash Freezing? </a>
-</li>
-<li class="list-item sp">
-<a class="list-item--link std-link" href="http://support.onceamonthmeals.com/hc/en-us/articles/204198120-Can-I-really-freeze-Are-there-any-items-I-can-t-freeze-" target="_blank">
-What you can and can't freeze </a>
-</li>
-<li class="list-item sp">
-<a class="list-item--link std-link" href="http://support.onceamonthmeals.com/hc/en-us/articles/203760174-When-do-new-menus-come-out-" target="_blank">
-When do new menus get released? </a>
-</li>
-<li class="list-item sp">
-<a class="list-item--link std-link" href="http://support.onceamonthmeals.com/hc/en-us/articles/204103500-I-m-excited-about-freezer-cooking-but-I-m-worried-the-grocery-cost-will-blow-my-budget-" target="_blank">
-How much does a typical OAMM cooking day cost? </a>
-</li>
-<li class="list-item sp">
-<a class="list-item--link std-link" href="http://support.onceamonthmeals.com" target="_blank">
-Read more from our Support section </a>
-</li>
-</ul> </div>
-</div>
-<div class="grid-u-1-1">
-<div class="sp_xl">
-<a href="#" class="button_primary block js-zopim_chat" data-zopim-chat-text="I'm here to chat.">
-Chat with OAMM</a> </div>
-</div>
-</div>
-</div>
-<div oamm-offcanvas="pushee" class="clearfix header-wrapper">
-<div class="screen-white"></div>
-<div class="offcanvas-triggers">
-<a class="offcanvas-trigger tx-no-underline connect-trigger js-close-off-canvas" href="#footer-connect">Connect</a>
-<a class="offcanvas-trigger tx-no-underline search-trigger" href="#">
-<div class="icon-search_wrapper">
-<div class="icon-search-outer">
-<div class="icon-search-black"></div>
-</div>
-Search
-</div>
-</a>
-</div>
-<form action="/">
-<div class="search-wrapper side-by-side--wrapper">
-<label class="visuallyhidden" for="search">
-Search</label>
-<input value="" class="tx-thin pd_all_sm side-by-side side-by-side--major" type="search" name="s" id="" placeholder="Search our Blog">
-<span class="side-by-side--minor side-by-side">
-<input value="Submit" class="tx-thin pd_all_sm" type="submit" name="" id=""> </span>
-</div>
-</form>
-<div class="pl-max-width_relative">
-<div class="logo-outer">
-<a class="logo" href="https://onceamonthmeals.com/">
-<span class="icon-logo" data-grunticon-embed=""></span>
-<span class="logo-text visuallyhidden">Once A Month Meals</span>
-</a>
-</div>
-<div class="nav-wrapper">
-<nav class="nav"><ol id="menu-primary-nav" class="list"><li id="menu-item-5990" class="list-item menu-item menu-item-type-post_type_archive menu-item-object-recipe menu-item-5990"><a href="https://onceamonthmeals.com/recipes/" class="list-item--link">Recipes</a></li>
-<li id="menu-item-146" class="list-item menu-item menu-item-type-post_type_archive menu-item-object-menu menu-item-146"><a href="https://onceamonthmeals.com/menus/" class="list-item--link">Menus</a></li>
-<li id="menu-item-22" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://onceamonthmeals.com/how-it-works/" class="list-item--link">How it Works</a></li>
-<li id="menu-item-20" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://onceamonthmeals.com/blog/" class="list-item--link">Blog</a></li>
-<li id="menu-item-32" class="list-item menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a target="_blank" href="http://support.onceamonthmeals.com" class="list-item--link">Support</a></li>
-</ol></nav> </div>
-<ol id="menu-login-join" class="header-actions-wrapper"><li id="menu-item-34" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://onceamonthmeals.com/join/" class="list-item--link inline-block header-action">Join</a></li>
-<li id="menu-item-35" class="list-item menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="https://secure.onceamonthmeals.com" class="list-item--link inline-block header-action">Login</a></li>
-</ol> </div>
-</div>
- 
-<div oamm-offcanvas="pushee" class="main" role="main">
-<div class="pl-max-width sp_xl">
-<article id="post-46" class="post-46 page type-page status-publish hentry">
-<header class="entry-header">
-<h1 class="entry-title">Privacy Policy</h1> </header> 
-<div class="entry-content">
-<p class="page-header">PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 1, 2012.</p>
-<p>If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us as provided in Section I below.</p>
-<p align="center"><strong>PRIVACY POLICY</strong></p>
+
+<body class="page-template-default page page-id-12980">
+
+	<div id="mobile-perspective">
+		<div class="mobile-container">
+			<div class="mobile-wrapper">
+
+				<header class="main">
+					<div class="container clearfix">
+						<button id="mobile-menu"><i class="fa fa-bars fa-2x" aria-hidden="true"></i> Menu</button>
+
+						<a href="https://onceamonthmeals.com" class="logo">
+							<svg class="logo-image" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="50" viewBox="0 0 58 32"><path fill="#444444" d="M6.317 4.126c0.056 0.197 0.056 0.393 0.028 0.59s-0.113 0.365-0.197 0.506c-0.113 0.169-0.225 0.281-0.393 0.393s-0.337 0.197-0.534 0.225c-0.197 0.056-0.393 0.056-0.59 0.028s-0.365-0.084-0.534-0.197c-0.169-0.084-0.309-0.225-0.422-0.365s-0.197-0.337-0.253-0.534c-0.056-0.197-0.056-0.393-0.028-0.59s0.113-0.365 0.225-0.534c0.113-0.169 0.225-0.281 0.393-0.393s0.337-0.197 0.534-0.253c0.197-0.056 0.393-0.056 0.59-0.028s0.365 0.084 0.534 0.169c0.169 0.084 0.309 0.225 0.422 0.365 0.084 0.225 0.169 0.422 0.225 0.618zM5.98 4.21c-0.028-0.169-0.113-0.281-0.197-0.422-0.084-0.113-0.197-0.225-0.309-0.281-0.113-0.084-0.253-0.113-0.393-0.141s-0.309-0.028-0.45 0.028c-0.169 0.028-0.281 0.113-0.422 0.197-0.113 0.084-0.225 0.197-0.309 0.309s-0.141 0.253-0.169 0.393c-0.028 0.141-0.028 0.309 0 0.45 0.028 0.169 0.113 0.281 0.197 0.393s0.197 0.225 0.337 0.281c0.113 0.084 0.253 0.113 0.422 0.141 0.141 0.028 0.309 0.028 0.45-0.028 0.169-0.028 0.281-0.084 0.422-0.197 0.113-0.084 0.225-0.197 0.309-0.309s0.141-0.253 0.169-0.393c0-0.113 0-0.281-0.056-0.422z"></path><path fill="#444444" d="M10.842 4.66l-2.164-1.883 0.393 2.192-0.309 0.056-0.478-2.698 0.309-0.056 2.164 1.911-0.393-2.22 0.309-0.056 0.478 2.698-0.309 0.056z"></path><path fill="#444444" d="M15.817 3.732c-0.084 0.084-0.169 0.141-0.281 0.197s-0.197 0.113-0.309 0.141c-0.113 0.028-0.253 0.056-0.393 0.084-0.197 0.028-0.422 0.028-0.59-0.028-0.197-0.056-0.365-0.113-0.506-0.225s-0.281-0.253-0.393-0.422c-0.113-0.169-0.169-0.365-0.197-0.562-0.028-0.225-0.028-0.422 0.028-0.59 0.056-0.197 0.141-0.337 0.253-0.478s0.253-0.253 0.422-0.365c0.169-0.084 0.365-0.141 0.562-0.169 0.253-0.028 0.506-0.028 0.731 0.056 0.225 0.056 0.45 0.169 0.646 0.337l-0.197 0.253c-0.169-0.113-0.365-0.197-0.534-0.253s-0.393-0.113-0.59-0.084c-0.169 0.028-0.309 0.056-0.422 0.141-0.141 0.084-0.253 0.169-0.337 0.281s-0.169 0.253-0.197 0.393-0.056 0.281-0.028 0.45c0 0.141 0.056 0.309 0.141 0.422s0.197 0.225 0.309 0.309c0.113 0.084 0.253 0.141 0.422 0.169s0.309 0.028 0.478 0.028c0.225-0.028 0.422-0.084 0.562-0.197 0.169-0.084 0.309-0.225 0.45-0.422l0.253 0.225c-0.084 0.113-0.169 0.225-0.281 0.309z"></path><path fill="#444444" d="M18.206 3.704l-0.225-2.726 2.248-0.197 0.028 0.309-1.939 0.169 0.056 0.843 1.012-0.084 0.028 0.309-1.012 0.084 0.084 0.928 1.995-0.169 0.028 0.309-2.305 0.225z"></path><path fill="#444444" d="M27.284 3.226l-0.45-0.928-1.321 0.028-0.422 0.956h-0.365l1.265-2.754h0.337l1.349 2.726-0.393-0.028zM26.16 0.922l-0.478 1.096 1.012-0.028-0.534-1.068z"></path><path fill="#444444" d="M34.563 3.395l0.084-2.108-1.124 1.827-0.956-1.911-0.084 2.108-0.309-0.028 0.113-2.754 0.337 0.028 0.928 1.883 1.124-1.799h0.309l-0.113 2.754h-0.309z"></path><path fill="#444444" d="M40.128 2.439c-0.028 0.197-0.084 0.393-0.169 0.562s-0.225 0.309-0.365 0.422c-0.141 0.113-0.309 0.197-0.506 0.253s-0.393 0.084-0.59 0.056c-0.197-0.028-0.393-0.084-0.562-0.169s-0.309-0.197-0.45-0.337c-0.113-0.141-0.225-0.309-0.281-0.478s-0.084-0.365-0.056-0.562c0.028-0.197 0.084-0.393 0.169-0.562s0.225-0.309 0.365-0.422c0.141-0.113 0.309-0.197 0.506-0.253s0.393-0.084 0.59-0.056c0.197 0.028 0.393 0.084 0.562 0.169s0.309 0.197 0.45 0.337 0.225 0.309 0.281 0.478c0.056 0.141 0.084 0.337 0.056 0.562zM39.791 2.411c0-0.169 0-0.309-0.056-0.45s-0.113-0.253-0.225-0.365c-0.084-0.113-0.197-0.197-0.337-0.253s-0.281-0.113-0.422-0.113c-0.169-0.028-0.309 0-0.45 0.056s-0.281 0.113-0.393 0.197c-0.113 0.084-0.197 0.197-0.281 0.337s-0.113 0.281-0.141 0.45c0 0.169 0 0.309 0.056 0.45s0.113 0.253 0.225 0.365c0.084 0.113 0.225 0.197 0.337 0.253 0.141 0.056 0.281 0.113 0.422 0.113 0.169 0 0.309 0 0.45-0.056s0.281-0.113 0.393-0.197c0.113-0.084 0.197-0.197 0.281-0.337s0.141-0.309 0.141-0.45z"></path><path fill="#444444" d="M44.288 4.322l-1.461-2.445-0.309 2.22-0.309-0.056 0.365-2.726 0.309 0.056 1.461 2.473 0.309-2.248 0.337 0.056-0.365 2.726-0.337-0.056z"></path><path fill="#444444" d="M48.363 2.552l-0.45 2.389-0.309-0.056 0.45-2.389-0.984-0.169 0.056-0.309 2.304 0.422-0.084 0.309-0.984-0.197z"></path><path fill="#444444" d="M52.944 6.008l0.281-1.237-1.715-0.393-0.281 1.237-0.309-0.084 0.618-2.67 0.309 0.084-0.253 1.124 1.715 0.393 0.253-1.124 0.309 0.084-0.618 2.67-0.309-0.084z"></path><path fill="#444444" d="M4.406 18.797h1.602v-7.054c0-0.253-0.141-0.393-0.393-0.393h-1.293v-0.703h1.405c0.731 0 1.012 0.309 1.012 0.984v0.59c0 0.393-0.056 0.731-0.056 0.731h0.028c0.45-1.321 2.024-2.501 3.401-2.501 1.771 0 2.586 0.843 2.782 2.389h0.028c0.506-1.237 1.827-2.389 3.345-2.389 2.276 0 2.951 1.349 2.951 3.457v4.918h1.602v0.674h-2.333v-5.34c0-1.658-0.337-3.007-2.22-3.007-1.911 0-3.288 2.052-3.288 3.963v3.682h1.602v0.674h-2.333v-5.34c0-1.518-0.197-3.007-2.164-3.007-1.911 0-3.345 2.024-3.345 3.963v3.682h1.602v0.674h-3.935v-0.646z"></path><path fill="#444444" d="M20.932 19.612h-2.53v-5.452c0-1.518-0.253-2.923-2.108-2.923-1.883 0-3.176 2.052-3.176 3.878v3.597h1.602v0.899h-2.53v-5.452c0-1.461-0.169-2.923-2.052-2.923-1.911 0-3.26 2.052-3.26 3.878v3.597h1.602v0.899h-4.188v-0.899h1.602v-6.97c0-0.197-0.084-0.281-0.281-0.281h-1.405v-0.899h1.489c0.759 0 1.124 0.337 1.124 1.068v0.59c0 0.056 0 0.113 0 0.169 0.646-1.124 2.024-2.024 3.26-2.024 1.63 0 2.558 0.731 2.839 2.192 0.562-1.124 1.827-2.192 3.345-2.192 2.108 0 3.063 1.096 3.063 3.541v4.806h1.602v0.899zM18.6 19.387h2.108v-0.478h-1.602v-5.003c0-2.333-0.843-3.345-2.839-3.345-1.518 0-2.782 1.18-3.26 2.333l-0.028 0.056h-0.197v-0.084c-0.197-1.574-1.040-2.305-2.698-2.305-1.321 0-2.867 1.124-3.288 2.417l-0.028 0.084h-0.253l0.028-0.141c0 0 0.056-0.309 0.056-0.703v-0.59c0-0.618-0.253-0.871-0.928-0.871h-1.293v0.478h1.18c0.309 0 0.506 0.169 0.506 0.506v7.167h-1.602v0.478h3.71v-0.478h-1.602v-3.794c0-1.939 1.433-4.075 3.457-4.075 1.995 0 2.248 1.489 2.248 3.12v5.228h2.192v-0.478h-1.602v-3.794c0-1.939 1.405-4.075 3.401-4.075 2.052 0 2.305 1.574 2.305 3.12v5.228z"></path><path fill="#444444" d="M26.469 10.449c2.389 0 3.597 1.883 3.597 4.019 0 0.197-0.028 0.478-0.028 0.478h-7.082c0 2.558 1.743 4.019 3.766 4.019 1.686 0 2.726-1.124 2.726-1.124l0.393 0.618c0 0-1.237 1.209-3.148 1.209-2.501 0-4.553-1.799-4.553-4.609 0.028-2.951 2.080-4.609 4.328-4.609zM29.308 14.272c-0.084-2.164-1.377-3.12-2.839-3.12-1.63 0-3.12 1.068-3.457 3.12h6.295z"></path><path fill="#444444" d="M26.75 19.808c-2.698 0-4.665-1.995-4.665-4.722 0-3.26 2.276-4.75 4.384-4.75 2.558 0 3.71 2.080 3.71 4.132 0 0.197-0.028 0.478-0.028 0.478v0.084h-7.082c0.056 2.248 1.546 3.822 3.682 3.822 1.63 0 2.642-1.068 2.67-1.068l0.084-0.113 0.534 0.815-0.056 0.056c-0.084 0.084-1.321 1.265-3.232 1.265zM26.469 10.562c-2.024 0-4.188 1.433-4.188 4.525 0 2.614 1.883 4.497 4.441 4.497 1.602 0 2.726-0.899 3.007-1.124l-0.281-0.422c-0.309 0.281-1.265 1.040-2.726 1.040-2.276 0-3.878-1.686-3.878-4.132v-0.113h7.082c0-0.084 0.028-0.253 0.028-0.365 0-1.939-1.068-3.906-3.485-3.906zM29.42 14.384h-6.52l0.028-0.113c0.309-1.939 1.686-3.204 3.541-3.204 1.349 0 2.839 0.843 2.951 3.232v0.084zM23.125 14.159h6.043c-0.141-2.136-1.489-2.923-2.726-2.923-1.686 0.028-2.979 1.152-3.317 2.923z"></path><path fill="#444444" d="M37.093 14.103h0.59v-0.393c0-1.883-0.984-2.558-2.361-2.558-1.546 0-2.586 0.871-2.586 0.871l-0.422-0.59c0 0 1.124-0.984 3.035-0.984 2.024 0 3.063 1.096 3.063 3.26v4.722c0 0.253 0.141 0.393 0.393 0.393h1.068v0.674h-1.152c-0.731 0-1.012-0.309-1.012-0.984v-0.197c0-0.478 0.056-0.787 0.056-0.787h-0.028c0 0-0.787 2.164-3.12 2.164-1.406 0-2.979-0.787-2.979-2.614 0-2.923 3.935-2.979 5.452-2.979zM34.591 19.021c2.024 0 3.091-1.995 3.091-3.738v-0.478h-0.562c-0.646 0-4.722-0.169-4.722 2.22 0 1.012 0.759 1.995 2.192 1.995z"></path><path fill="#444444" d="M34.591 19.808c-1.489 0-3.063-0.843-3.063-2.726 0-3.091 4.188-3.091 5.593-3.091h0.478v-0.281c0-1.658-0.731-2.445-2.248-2.445-1.489 0-2.53 0.843-2.53 0.843l-0.084 0.084-0.534-0.787 0.084-0.056c0.056-0.028 1.152-0.984 3.12-0.984 2.080 0 3.176 1.152 3.176 3.345v4.722c0 0.197 0.084 0.281 0.281 0.281h1.18v0.899h-1.265c-0.759 0-1.124-0.337-1.124-1.068v-0.197c0-0.113 0-0.197 0-0.281-0.45 0.646-1.349 1.743-3.063 1.743zM37.093 14.215c-1.321 0-5.368 0-5.368 2.867 0 1.715 1.489 2.501 2.867 2.501 2.248 0 3.007-2.080 3.035-2.108l0.028-0.084h0.253l-0.028 0.141c0 0-0.056 0.309-0.056 0.759v0.197c0 0.618 0.253 0.871 0.928 0.871h1.068v-0.478h-0.956c-0.309 0-0.506-0.169-0.506-0.506v-4.665c0-2.080-0.984-3.148-2.951-3.148-1.574 0-2.614 0.674-2.895 0.899l0.309 0.422c0.281-0.225 1.237-0.815 2.586-0.815 1.63 0 2.445 0.899 2.445 2.67v0.506h-0.759zM34.591 19.134c-1.518 0-2.304-1.068-2.304-2.108 0-1.518 1.546-2.305 4.469-2.305h1.040v0.59c0 2.473-1.658 3.822-3.204 3.822zM36.756 14.918c-1.939 0-4.244 0.365-4.244 2.108 0 0.928 0.646 1.911 2.080 1.911s2.979-1.265 2.979-3.626v-0.365l-0.815-0.028z"></path><path fill="#444444" d="M41.927 7.836h-1.658v-0.702h2.389v10.343c0 0.703 0.197 1.349 1.040 1.349 0.337 0 0.534-0.028 0.534-0.028l-0.028 0.674c0 0-0.309 0.028-0.646 0.028-1.040 0-1.658-0.618-1.658-1.967v-9.696z"></path><path fill="#444444" d="M43.585 19.639c-0.815 0-1.771-0.365-1.771-2.080v-9.64h-1.658v-0.899h2.614v10.455c0 0.843 0.309 1.265 0.928 1.265 0.309 0 0.506-0.028 0.506-0.028l0.141-0.028-0.028 0.899h-0.084c0 0.028-0.281 0.056-0.646 0.056zM40.381 7.723h1.658v9.837c0 1.237 0.534 1.883 1.546 1.883 0.225 0 0.422-0.028 0.534-0.028v-0.478c-0.084 0-0.225 0.028-0.422 0.028-0.759 0-1.152-0.506-1.152-1.461v-10.259h-2.192v0.478z"></path><path fill="#444444" d="M45.862 16.857h0.731v0.674c0 1.012 1.489 1.461 2.558 1.461 1.209 0 2.304-0.562 2.304-1.602 0-1.152-1.265-1.574-2.53-2.080-1.349-0.506-2.726-1.096-2.726-2.586s1.461-2.276 2.867-2.276c1.152 0 2.839 0.506 2.839 1.686v0.984h-0.731v-0.731c0-0.731-1.012-1.209-2.052-1.209-1.096 0-2.108 0.506-2.108 1.489 0 1.068 1.18 1.518 2.417 1.995 1.377 0.534 2.839 1.124 2.839 2.642 0 1.405-1.237 2.389-3.148 2.389-1.63 0-3.232-0.759-3.232-2.080v-0.759z"></path><path fill="#444444" d="M49.094 19.808c-1.658 0-3.345-0.759-3.345-2.192v-0.871h0.956v0.787c0 0.984 1.518 1.349 2.445 1.349 1.068 0 2.22-0.478 2.22-1.489s-1.124-1.461-2.304-1.911l-0.169-0.056c-1.237-0.478-2.782-1.068-2.782-2.67 0-1.574 1.489-2.389 2.979-2.389 1.209 0 2.923 0.562 2.923 1.771v1.068h-0.956v-0.843c0-0.674-1.012-1.096-1.939-1.096-0.956 0-2.024 0.45-2.024 1.405 0 0.984 1.124 1.433 2.304 1.883l0.056 0.028c1.377 0.534 2.923 1.124 2.923 2.726-0.028 1.489-1.349 2.501-3.288 2.501zM45.974 16.97v0.646c0 1.293 1.602 1.967 3.12 1.967 1.827 0 3.063-0.928 3.063-2.305 0-1.461-1.461-2.024-2.782-2.53l-0.056-0.028c-1.265-0.478-2.445-0.928-2.445-2.080 0-1.096 1.152-1.602 2.22-1.602s2.164 0.478 2.164 1.321v0.618h0.534v-0.871c0-1.096-1.602-1.574-2.726-1.574-1.377 0-2.754 0.759-2.754 2.164 0 1.349 1.209 1.939 2.642 2.473l0.169 0.056c1.265 0.478 2.445 0.928 2.445 2.108s-1.265 1.715-2.417 1.715c-1.040 0-2.67-0.422-2.67-1.546v-0.562h-0.506z"></path><path fill="#444444" d="M1.765 15.62c0 0.372-0.302 0.674-0.674 0.674s-0.674-0.302-0.674-0.674c0-0.373 0.302-0.674 0.674-0.674s0.674 0.302 0.674 0.674z"></path><path fill="#444444" d="M57.188 15.283c0 0.365-0.309 0.674-0.674 0.674s-0.674-0.309-0.674-0.674c0-0.365 0.309-0.674 0.674-0.674 0.365-0.028 0.674 0.281 0.674 0.674z"></path><path fill="#444444" d="M8.173 26.666c0.084 0.928 2.22 3.429 6.942 4.075 3.906 0.534 4.609-0.618 5.93-0.956 1.293-0.309 4.497-1.349 10.371-1.124s12.928 1.658 15.093 2.192c2.052 0.506 2.192 0.422 2.192 0.422s0.703-1.574 0.309-1.827c-0.393-0.253-7.532-1.489-12.816-1.63-5.284-0.169-8.403 0.365-10.399 0.562-1.995 0.169-4.019 0.759-5.425 0.506s-2.473-1.321-5.48-2.22c-2.811-0.843-6.801-0.928-6.717 0z"></path><path fill="#444444" d="M48.672 31.5c-0.253 0-1.040-0.169-2.192-0.45-2.501-0.618-9.471-1.967-15.065-2.192-0.562-0.028-1.124-0.028-1.686-0.028-4.244 0-6.801 0.674-8.179 1.040-0.169 0.056-0.309 0.084-0.45 0.113-0.309 0.084-0.59 0.197-0.928 0.365-0.703 0.337-1.546 0.731-3.204 0.731-0.562 0-1.18-0.056-1.883-0.141-4.806-0.674-6.998-3.288-7.082-4.272-0.028-0.141 0.028-0.281 0.141-0.393 0.365-0.393 1.405-0.478 2.22-0.478 1.461 0 3.204 0.253 4.581 0.674 1.63 0.506 2.698 1.040 3.569 1.461 0.731 0.365 1.293 0.646 1.911 0.759 0.815 0.141 1.995-0.028 3.232-0.225 0.703-0.113 1.405-0.225 2.136-0.281 0.393-0.028 0.871-0.084 1.377-0.141 1.995-0.225 4.834-0.534 9.078-0.422 5.143 0.141 12.451 1.349 12.928 1.658s-0.028 1.546-0.253 2.052l-0.028 0.056-0.225 0.113zM29.729 28.437c0.562 0 1.124 0 1.686 0.028 5.621 0.225 12.619 1.574 15.12 2.192 1.321 0.337 1.827 0.393 2.024 0.422 0.309-0.731 0.45-1.405 0.337-1.489-0.393-0.225-7.364-1.433-12.731-1.602-4.188-0.113-7.026 0.197-9.022 0.393-0.506 0.056-0.956 0.113-1.377 0.141-0.703 0.056-1.405 0.169-2.108 0.281-1.293 0.197-2.501 0.365-3.373 0.225-0.674-0.113-1.265-0.422-2.024-0.787-0.843-0.422-1.883-0.956-3.485-1.433-1.349-0.393-3.063-0.646-4.469-0.646-1.209 0-1.799 0.197-1.939 0.365-0.028 0.028-0.028 0.084-0.028 0.084 0.084 0.871 2.248 3.288 6.773 3.906 0.674 0.084 1.265 0.141 1.827 0.141 1.546 0 2.333-0.365 3.035-0.703 0.337-0.169 0.646-0.309 0.984-0.393 0.141-0.028 0.281-0.084 0.45-0.113 1.433-0.337 4.019-1.012 8.319-1.012z"></path></svg>
+						</a>
+
+						<nav class="nav nav-main">
+							<ul>
+								<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://onceamonthmeals.com/how-it-works/">How It Works</a></li>
+<li id="menu-item-12656" class="menu-item menu-item-type-post_type_archive menu-item-object-menu menu-item-12656"><a href="https://onceamonthmeals.com/menus/">Menus</a></li>
+<li id="menu-item-12665" class="menu-item menu-item-type-post_type_archive menu-item-object-recipe menu-item-12665"><a href="https://onceamonthmeals.com/recipes/">Recipes</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://community.onceamonthmeals.com">Community</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://onceamonthmeals.com/blog/">Blog</a></li>
+										<li class="nav-button nav-button-login"><a href="https://secure.onceamonthmeals.com/users/sign_in">Log In</a></li>
+										<li class="nav-button nav-button-join"><a href="https://onceamonthmeals.com/join" onclick="ga('send', 'event', { eventCategory: 'Button Click', eventAction: 'Join', eventLabel: 'Main Navigation'});">Join</a></li>
+																</ul>
+						</nav><!-- .nav-main -->
+					</div><!-- .container -->
+
+									</header>
+
+<div class="block text-black block-white" style="">
+	<div class="container">
+		<h1 class="headline headline-left">Privacy Policy</h1>		<p class="sub-title text-left">Please note that our privacy policy has changed effective September 1, 2012.</p>
+		<div class="block-full-col">
+	<p>If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us as provided in Section I below.</p>
+<h2 align="center">PRIVACY POLICY</h2>
 <p align="center"><em>(Effective September 1, 2012)</em></p>
 <p>Welcome to onceamonthmeals.com (“Website”), an interactive online service operated by Once A Month Mom, LLC (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also<a href="http://www.privacyprotection.ca.gov/">http://www.privacyprotection.ca.gov</a>).</p>
 <p>We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.</p>
 <p>This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. &nbsp;Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.</p>
 <p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time. Any changes will be effective immediately upon the posting of the revised Privacy Policy. &nbsp;WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. &nbsp;IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.</p>
-<p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INFORMATION WE COLLECT<br>
-</strong></p>
+<h3>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INFORMATION WE COLLECT</h3>
 <p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, but that we automatically collect when you visit our Website or that you provide us.</p>
 <p><strong>(1)&nbsp; Personally Identifiable Information:&nbsp; </strong>Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. &nbsp;As a general policy, we do not automatically collect your personally identifiable information when you visit our Website. &nbsp;In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website. &nbsp;For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website. &nbsp;Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). &nbsp;Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
 <p><strong>(2)&nbsp; Non-Personal Information:</strong>&nbsp; Our definition of non-personal information is any information that does not personally identify you. &nbsp;Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. &nbsp;We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. &nbsp;We also automatically collect certain non-personal information from you when you access our Website. &nbsp;This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.</p>
-<p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HOW WE USE &amp; SHARE THE INFORMATION COLLECTED</strong></p>
+<h3>B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HOW WE USE &amp; SHARE THE INFORMATION COLLECTED</h3>
 <p><strong>(1)&nbsp; Personally Identifiable Information:</strong> The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. &nbsp;We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“”affiliated companies””), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.</p>
 <p>In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. &nbsp;Our vendors agree to use this information, and we share information with them, only to carry out our requests. &nbsp;In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). &nbsp;Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.</p>
 <p><strong>(2)&nbsp; Non-Personal Information:</strong> We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.</p>
-<p><strong>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COOKIES AND PREFERENCE BASED ADVERTISING</strong></p>
+<h3>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COOKIES AND PREFERENCE BASED ADVERTISING</h3>
 <p><strong>(1)</strong> <strong>Cookies and Web Beacons:</strong> We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use “cookies” and “web beacons” (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.&nbsp; “Cookies” are small files that we transfer to your computer’s hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. “Web beacons” are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.</p>
 <p>Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your activities our Website, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our Website or not); and cookie number. <strong>It is important to note that the cookies and Web beacons that we use do not contain and are not tied to personally identifiable information about you.</strong><strong>&nbsp;</strong></p>
 <p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your web browser or hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.</p>
 <p><strong>(2)&nbsp; <strong>Preference Based Advertising: </strong></strong>We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.&nbsp;&nbsp; If you do not wish to participate in this activity, please&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a> and follow the simple opt-out process.</p>
 <p>A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”) – for a general explanation of how Opt-out Cookies work, please <a href="http://www.doubleclick.com/privacy/opting_out.aspx">click here</a>.&nbsp; Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.</p>
-<p><strong>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OTHER USES &amp; INFORMATION</strong></p>
+<h3>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OTHER USES &amp; INFORMATION</h3>
 <p>(<strong>1)&nbsp; IP Addresses:</strong> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. &nbsp;IP addresses are considered non-personal information and may also be shared as provided above. &nbsp;It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor’s session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.</p>
 <p><strong>(2) Email Communications:&nbsp; </strong>If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. &nbsp;For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. &nbsp;However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.</p>
 <p><strong>(3) Transfer of Assets:</strong>&nbsp; As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.</p>
 <p><strong>(4) Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.</p>
 <p><strong>(5) Your California Privacy Rights:&nbsp; </strong>Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section H below.</p>
-<p><strong>E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PUBLIC FORUMS</strong></p>
+<h3>E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PUBLIC FORUMS</h3>
 <p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. &nbsp;We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. &nbsp;Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
-<p><strong>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHILDREN</strong></p>
+<h3>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHILDREN</h3>
 <p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. &nbsp;We do not knowingly collect personally identifiable information from children under the age of 13. &nbsp;If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us as provided in Section I below. &nbsp;A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.</p>
-<p><strong>G.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KEEPING YOUR INFORMATION SECURE</strong></p>
+<h3>G.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KEEPING YOUR INFORMATION SECURE</h3>
 <p>We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. &nbsp;Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.</p>
-<p><strong>H.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OTHER SITES/LINKS</strong></p>
+<h3>H.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OTHER SITES/LINKS</h3>
 <p>Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.</p>
-<p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONTACT &amp; OPT-OUT INFORMATION</strong></p>
+<h3>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONTACT &amp; OPT-OUT INFORMATION</h3>
 <p>You may contact us as provided below if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.</p>
 <p><strong>Email:</strong>&nbsp; info at onceamonthmeals.com</p>
 <p><strong>Mail:</strong>&nbsp; &nbsp;<span class="org fn">Once A Month Meals,&nbsp;</span>PO Box 588,&nbsp;<span class="locality">Fairborn</span>, <span class="region">Ohio</span>&nbsp;<span class="postal-code">45324</span></p>
 <p>We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. &nbsp;Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.</p>
-<p><strong>J.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SOLE STATEMENT</strong></p>
+<h3>J.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SOLE STATEMENT</h3>
 <p>This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website</p>
 <p>CINLibrary 0124129.0593875&nbsp;&nbsp; 2570950v1</p>
-</div> 
-<footer class="entry-footer">
-</footer> 
-</article> 
-</div> 
-<div class="pre-footer-wrapper">
-<div class="pd_all pl-max-width">
-<div class="grid-g">
-<div class="grid-u-1 grid-u-md-1-2">
-<div class="pd_all_sm pd_right">
-<h1>
-Get a Free Mini Menu Today
-</h1>
-<div id="mc_embed_signup" class="grid-g">
-<form action="//onceamonthmeals.us2.list-manage.com/subscribe/post?u=b7a6c3dab84a1ed44ba07a37b&amp;id=31f9a5c1b8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form_has-select free-mini-signup" target="_blank">
-<select name="MINIMENU" class="required select_accent sp icon-arrow-down" id="mce-MINIMENU">
-<option value="">Select Free Mini Menu</option>
-<option value="Traditional">Traditional</option>
-<option value="Paleo">Paleo</option>
-<option value="Whole Foods">Whole Foods</option>
-<option value="Diet">Diet</option>
-<option value="Gluten/Dairy Free">Gluten/Dairy Free</option>
-<option value="Vegetarian">Vegetarian</option>
-<option value="Allergen">Allergen</option>
-</select>
-<div class="grid-u-1 grid-u-sm-1-2 pd-right_at-sm">
-<label class="visuallyhidden" for="mce-FNAME">
-First Name</label>
-<input value="" class="required input_accent sp" type="text" name="FNAME" id="mce-FNAME" placeholder="First Name"> </div>
-<div class="grid-u-1 grid-u-sm-1-2">
-<label class="visuallyhidden" for="mce-LNAME">
-Last Name</label>
-<input value="" class="required input_accent sp" type="text" name="LNAME" id="mce-LNAME" placeholder="Last Name"> </div>
-<label class="visuallyhidden" for="mce-EMAIL">
-Email Address</label>
-<input value="" class="required input_accent sp" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Email Address">
-<div id="mce-responses" class="clear pd_horizontal_sm">
-<p class="response" id="mce-error-response" style="display:none"></p>
-<p class="response" id="mce-success-response" style="display:none"></p>
 </div>
-<input type="text" name="b_b7a6c3dab84a1ed44ba07a37b_31f9a5c1b8" tabindex="-1" value="" class="visuallyhidden">
-<input type="hidden" name="CAMPAIGN" value="site-footer" tabindex="-1" class="visuallyhidden">
-<input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button_accent">
-</form>
-</div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-<script type="text/javascript">
-    (function($) {
-        window.fnames = new Array(); window.ftypes = new Array(); fnames[0]='EMAIL'; ftypes[0]='email'; fnames[1]='FNAME'; ftypes[1]='text'; fnames[2]='LNAME'; ftypes[2]='text'; fnames[10]='MMERGE10'; ftypes[10]='zip'; fnames[3]='CAMPAIGN'; ftypes[3]='text'; fnames[4]='MINIMENU'; ftypes[4]='dropdown';
-    }(jQuery));
-    var $mcj = jQuery.noConflict(true);
-</script> </div>
-</div>
-<div class="grid-u-1 grid-u-md-1-2">
-<div class="pd_all_sm pd_left">
-<h1>
-Get Help
-</h1>
-<div class="grid-g">
-<div class="grid-u-1-6">
-<img class="testimony-photo img-circle" src="https://onceamonthmeals.com/wp-content/uploads/2015/02/leanne1.jpg">
-</div>
-<div class="grid-u-5-6">
-<blockquote class="blockquote">I enjoy cooking but there just wasn’t time after I got home from work to spend quality time with my family, run, do homework, and cook. If I didn’t do this my family would be eating out way too much. <cite class="tx-uppercase">Leanne</cite>
-</blockquote>
-</div>
-</div>
-<div class="sp_top">
-<a href="#" class="button_accent inline-block sp_right sp_bottom js-zopim_chat " data-zopim-chat-text="Help Chef!">
-Talk to a Chef</a>
-<a href="http://support.onceamonthmeals.com" class="button_accent inline-block " target="_blank">
-Support / FAQ</a> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<footer class="footer-wrapper pd_all" id="footer-connect">
-<div class="pd_all_sm pl-max-width">
-<h1>
-Get Involved &amp; Share
-</h1>
-<ol class=" social-link-list list">
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Facebook" href="https://www.facebook.com/onceamonthmeals" target="_blank">
-<span class="icon-facebook icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-facebook"></div>
-<span class="visuallyhidden">Facebook</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Email" href="mailto:info@onceamonthmeals.com" target="_blank">
-<span class="icon-mail icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-mail"></div>
-<span class="visuallyhidden">Email</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Instagram" href="http://instagram.com/onceamonthmeals" target="_blank">
-<span class="icon-instagram icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-instagram"></div>
-<span class="visuallyhidden">Instagram</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Pinterest" href="https://www.pinterest.com/onceamonthmeals/" target="_blank">
-<span class="icon-pinterest icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-pinterest"></div>
-<span class="visuallyhidden">Pinterest</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Google+" href="https://plus.google.com/+Onceamonthmeals/posts" target="_blank">
-<span class="icon-google-plus icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-google-plus"></div>
-<span class="visuallyhidden">Google+</span>
-</a>
-</li>
-<li class="list-item social-icon-outer">
-<a class="list-item--link large-social-icon large gray-icon boxed-icon" title="Connect with OAMM via Twitter" href="https://twitter.com/onceamonthmeals" target="_blank">
-<span class="icon-twitter icon-color-light-grey" data-grunticon-embed=""></span>
-<div class="fallback icon-twitter"></div>
-<span class="visuallyhidden">Twitter</span>
-</a>
-</li>
-</ol>
-<div class="footer-nav-wrapper">
-<nav class="footer-nav nav"><ol id="menu-footer-primary" class="list"><li id="menu-item-44" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://onceamonthmeals.com/meet-the-oamm-team/" class="list-item--link">Meet the OAMM Team</a></li>
-<li id="menu-item-41" class="list-item menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="https://onceamonthmeals.com/blog-cat/series/" class="list-item--link">Latest Blog Series</a></li>
-<li id="menu-item-43" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://onceamonthmeals.com/become-an-affiliate/" class="list-item--link">Become An Affiliate</a></li>
-<li id="menu-item-42" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://onceamonthmeals.com/become-a-partner/" class="list-item--link">Become A Partner</a></li>
-</ol></nav>
-<nav class="footer-nav--secondary nav"><ol id="menu-footer-secondary" class="list"><li id="menu-item-49" class="list-item menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-46 current_page_item menu-item-49"><a href="https://onceamonthmeals.com/privacy-policy/" class="list-item--link">Privacy Policy</a></li>
-<li id="menu-item-48" class="list-item menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://onceamonthmeals.com/terms-of-use/" class="list-item--link">Terms of Use</a></li>
-<li id="menu-item-7074" class="list-item menu-item menu-item-type-custom menu-item-object-custom menu-item-7074"><a href="#" class="list-item--link">© 2009-2015 Once A Month Mom, LLC.</a></li>
-</ol></nav>
-</div>
- 
-</div>
-</footer>
-</div> 
-</div> 
-<div class="et_social_pin_images_outer">
-<div class="et_social_pinterest_window">
-<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
-<div class="et_social_pin_images" data-permalink="https://onceamonthmeals.com/privacy-policy/" data-title="Privacy Policy" data-post_id="46"></div>
-</div>
-</div><script type="text/javascript" src="https://onceamonthmeals.com/wp-content/plugins/monarch/js/ouibounce.js?ver=1.1.2"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"https:\/\/onceamonthmeals.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/onceamonthmeals.com\/privacy-policy\/","stats_nonce":"d1d7b6885a","share_counts":"354c382354","follow_counts":"ad0db3b4e9","total_counts":"7ac697f562","media_single":"464fd14df3","media_total":"a69f6db628","no_img_message":"No images available for sharing on this page"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/plugins/monarch/js/custom.js?ver=1.1.2"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/search.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/filterOptions.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/offcanvas.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/libs/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/flexslider.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/joinMenuContent.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/menuSwitcher.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/menuResources.js"></script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/themes/oamm/js/oammChat.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var countVars = {"disqusShortname":"onceamonthmeals"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://onceamonthmeals.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.1.1"></script>
-<script type="text/javascript">
-    var _sf_async_config={};
-    _sf_async_config.uid = 57582;
-    _sf_async_config.domain = "onceamonthmeals.com";
-    (function(){
-        function loadChartbeat() {
-            window._sf_endpt=(new Date()).getTime();
-            var e = document.createElement("script");
-            e.setAttribute("language", "javascript");
-            e.setAttribute("type", "text/javascript");
-            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-            document.body.appendChild(e);
-        }
-        var oldonload = window.onload;
-        window.onload = (typeof window.onload != "function") ?
-            loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+	</div><!-- .container -->
+</div><!-- .block -->
+				
+				<footer class="main">
+					<div class="block block-newsletter block-teal">
+	<div class="container">
 
-    })();
-</script>
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		<div class="col-wrapper">
+			<div class="second-col">
+				<h1 class="headline">Get A Free Mini Menu</h1>
+				<p>Take Once A Month Meals for a test run! Sign up to receive a FREE mini menu. You'll receive a freezer cooking menu with 5 recipes, plus a grocery shopping list, prep instructions, recipe cards, labels and more.</p>
+				<p><strong>Try it for FREE today!</strong></p>
+			</div>
 
-    ga('create', 'UA-6949191-2', 'auto');
-    ga('send', 'pageview');
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"18c81186f1","applicationID":"1980621","transactionName":"YQBUMUNYVxJUVkULWVhKdwZFUFYPGkVQBVM=","queueTime":0,"applicationTime":265,"atts":"TUdXRwtCRBw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
+			<div class="second-col">
+				<form action="//onceamonthmeals.us2.list-manage.com/subscribe/post?u=b7a6c3dab84a1ed44ba07a37b&amp;id=31f9a5c1b8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="no-borders" target="_blank" novalidate="">
+					<div class="input-row">
+						<div class="input-row-col">
+							<label for="mce-FNAME">First Name</label>
+							<input type="text" value="" name="FNAME" class="" id="mce-FNAME" required="">
+						</div>
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+						<div class="input-row-col">
+							<label for="mce-LNAME">Last Name</label>
+							<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+						</div>
+					</div><!-- .input-row -->
+
+					<div class="input-row">
+						<div class="input-row-col">
+							<label for="mce-EMAIL">Email Address</label>
+							<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required="">
+						</div>
+
+						<div class="input-row-col">
+							<label for="mce-MINIMENU">Menu Type</label>
+							<ul class="newsletter-menu-types" style="display:none">
+								<li><input type="radio" value="Traditional" name="MINIMENU" id="mce-MINIMENU-0"><label for="mce-MINIMENU-0">Traditional</label></li>
+								<li><input type="radio" value="Paleo" name="MINIMENU" id="mce-MINIMENU-1"><label for="mce-MINIMENU-1">Paleo</label></li>
+								<li><input type="radio" value="Real Foods" name="MINIMENU" id="mce-MINIMENU-2"><label for="mce-MINIMENU-2">Real Foods</label></li>
+								<li><input type="radio" value="Diet" name="MINIMENU" id="mce-MINIMENU-3"><label for="mce-MINIMENU-3">Diet</label></li>
+								<li><input type="radio" value="Vegetarian" name="MINIMENU" id="mce-MINIMENU-4"><label for="mce-MINIMENU-4">Vegetarian</label></li>
+								<li><input type="radio" value="Gluten/Dairy Free" name="MINIMENU" id="mce-MINIMENU-5"><label for="mce-MINIMENU-5">Gluten Free Dairy Free</label></li>
+								<li><input type="radio" value="Allergen" name="MINIMENU" id="mce-MINIMENU-6"><label for="mce-MINIMENU-6">Allergen</label></li>
+								<li><input type="radio" value="Instant Pot" name="MINIMENU" id="mce-MINIMENU-7"><label for="mce-MINIMENU-7">Instant Pot</label></li>
+								<li><input type="radio" value="Slow Cooker" name="MINIMENU" id="mce-MINIMENU-8"><label for="mce-MINIMENU-8">Slow Cooker</label></li>
+							</ul>
+
+							<select name="MINIMENU" id="mce-MINIMENU">
+								<option value="Traditional">Traditional</option>
+								<option value="Paleo">Paleo</option>
+								<option value="Real Foods">Real Foods</option>
+								<option value="Diet">Diet</option>
+								<option value="Vegetarian">Vegetarian</option>
+								<option value="Gluten/Dairy Free">Gluten/Dairy Free</option>
+								<option value="Allergen">Allergen</option>
+								<option value="Instant Pot">Instant Pot</option>
+								<option value="Slow Cooker">Slow Cooker</option>
+							</select>
+						</div>
+					</div><!-- .input-row -->
+
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div>
+
+					<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b7a6c3dab84a1ed44ba07a37b_31f9a5c1b8" tabindex="-1" value=""></div>
+
+					<span class="newsletter-fine-print">We'll never send you spam, unsubscribe at any time.</span>
+					<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-right">
+				</form>
+			</div>
+		</div><!-- .col-wrapper -->
+
+	</div><!-- .container -->
+</div><!-- .block -->
+
+					<div class="container clearfix">
+						<nav class="nav nav-social">
+							<ul>
+								<li><a href="https://www.facebook.com/onceamonthmeals" class="nav-social-facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Facebook</span></a></li>
+								<li><a href="https://twitter.com/onceamonthmeals" class="nav-social-twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> <span>Twitter</span></a></li>
+								<li><a href="https://www.pinterest.com/onceamonthmeals/" class="nav-social-pinterest" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i> <span>Pinterest</span></a></li>
+								<li><a href="https://www.instagram.com/onceamonthmeals/" class="nav-social-instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> <span>Instagram</span></a></li>
+								<li><a href="https://www.youtube.com/c/onceamonthmeals" class="nav-social-youtube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i> <span>Youtube</span></a></li>
+								<li><a href="https://plus.google.com/+Onceamonthmeals/posts" class="nav-social-google-plus" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> <span>Google+</span></a></li>
+							</ul>
+						</nav>
+
+						<nav class="nav nav-footer">
+							<ul>
+								<li id="menu-item-12188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12188"><a href="https://onceamonthmeals.com/about/">About Us</a></li>
+<li id="menu-item-12190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12190"><a href="https://onceamonthmeals.com/become-a-partner/">Become A Partner</a></li>
+<li id="menu-item-12187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12187"><a href="https://onceamonthmeals.com/become-an-affiliate/">Become An Affiliate</a></li>
+<li id="menu-item-13532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13532"><a href="https://onceamonthmeals.com/advertising/">Advertising</a></li>
+<li id="menu-item-12657" class="menu-item menu-item-type-post_type_archive menu-item-object-support menu-item-12657"><a href="https://onceamonthmeals.com/support/">Support</a></li>
+<li id="menu-item-15225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15225"><a href="https://onceamonthmeals.com/gift-card/">Gift Card</a></li>
+							</ul>
+						</nav>
+
+						<div class="footer-copyright">
+							<ul>
+								<li id="menu-item-12986" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12980 current_page_item menu-item-12986"><a href="https://onceamonthmeals.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-12987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12987"><a href="https://onceamonthmeals.com/terms-of-use/">Terms of Use</a></li>
+							</ul>
+							<span class="footer-copyright-info">© 2009 - 2017 Once A Month Mom, LLC</span>
+						</div>
+					</div><!-- .container -->
+				</footer>
+
+			</div><!-- .mobile-wrapper -->
+		</div><!-- .mobile-container -->
+
+		<nav class="nav nav-mobile">
+			<ul>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://onceamonthmeals.com/how-it-works/">How It Works</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-menu menu-item-12656"><a href="https://onceamonthmeals.com/menus/">Menus</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-recipe menu-item-12665"><a href="https://onceamonthmeals.com/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://community.onceamonthmeals.com">Community</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://onceamonthmeals.com/blog/">Blog</a></li>
+					<li><a href="https://secure.onceamonthmeals.com/users/sign_in">Log In</a></li>
+					<li><a href="https://onceamonthmeals.com/join">Join</a></li>
+							</ul>
+
+			<a href="https://onceamonthmeals.com" class="logo">
+				<img src="https://assets.onceamonthmeals.com/dist/images/logo.svg" class="logo-image" height="50" width="90">
+			</a>
+		</nav>
+	</div><!-- #mobile-perspective -->
+
+<script type="text/javascript" src="https://assets.onceamonthmeals.com/dist/js/oamm.min.js"></script>
+<script type="text/javascript" src="https://onceamonthmeals.com/content/plugins/social-warfare/js/script.min.js"></script>
+<script type="text/javascript"> swpPinIt={"enabled":true,"hLocation":"center","vLocation":"top","minWidth":"200","minHeight":"200"};var swpClickTracking = true; var swp_nonce = "1707514cee";
+function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://onceamonthmeals.com/privacy-policy/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};</script>
+
+	<!-- Intercom.io -->
+	<script>
+		window.intercomSettings = {};
+		window.intercomSettings.app_id = 'p02uufxg';
+	</script>
+
+
+	<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/p02uufxg';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+	<!-- ChartBeat -->
+	<script>
+		var _sf_async_config = _sf_async_config || {};
+		_sf_async_config.uid = 57582;
+		_sf_async_config.domain = 'onceamonthmeals.com';
+		(function() {
+			function loadChartbeat() {
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ?
+				loadChartbeat : function() {
+					oldonload();
+					loadChartbeat();
+				};
+		})();
+	</script>
+
+	<!-- Facebook Pixel -->
+	<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '1056055174491104');
+		fbq('track', "PageView");
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1056055174491104&ev=PageView&noscript=1" /></noscript>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id; js.async = true;
+	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=161473817641653";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
