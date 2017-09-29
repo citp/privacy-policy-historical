@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172148id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929222844id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
 
 # Don't like Outlook? Get Mailbird.
 
