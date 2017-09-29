@@ -1,140 +1,137 @@
-> *The following text is extracted and transformed from the hitachi-hightech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150357id_/http%3A//www.hitachi-hightech.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi-hightech.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929073821id_/http%3A//www.hitachi-hightech.com/global/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Hitachi High-Technologies in America
+# Privacy Policy : Hitachi High-Technologies GLOBAL
 
-Updated September 2014
+## Hitachi High-Technologies's Approach to Personal Information Protection
 
-Hitachi High Technologies America, Inc., a Delaware corporation (" _HTA,_ " " _us_ " or " _we_ ") is committed to protecting your privacy and providing a secure online experience for our users and customers.
+Hitachi High-Technologies Corporation ("HHT") aims to create regulations and establish management systems with respect to personal information protection in addition to instituting the personal information protection policy published below, keeping executives and employees fully briefed, and striving for the appropriate protection of personal information in keeping with this policy.
 
-By using _[http://www.hitachi-hightech.com/us/](https://web.archive.org/us/)_ (the " _Website_ "), you agree to the terms of this Privacy Policy. Because we gather certain types of information about and from you, our users and customers, you should understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our Terms of Use, and contact us if you have any questions.
+## Definition of Personal Information
 
-## WHAT INFORMATION DO WE COLLECT ABOUT YOU?
+At HHT, personal information indicates information that identifies, or is capable of identifying, a specific individual by means of one or a combination of two or more of pieces of information corresponding to any of the following including the individual's name, date of birth, age, gender, address, telephone number, family composition, hobbies, preferences, email address, workplace, affiliation, workplace address, workplace telephone number, credit card number, bank account as well as any ID number or string of characters assigned to the individual, information about purchased goods and products or services, information about websites accessed, complaints, consultations or inquiries.
 
-You can visit our Website, read materials, and browse products and other company information without giving us any personally identifiable information—that is, information that identifies you as an individual (" _Personal Information_ "). In order to provide users and customers with the most efficient and enhanced personalized service and attention, and to accommodate certain requests, we request information about you in certain circumstances and collect certain information automatically.
+## Scope of Application
 
-### Information You Volunteer
+This "About Personal Information Protection document" establishes how the personal information of customers is handled at HHT.
 
-We collect Personal Information that you volunteer to us (such as your name, e-mail address, home address, phone number, and/or similar information), when you make purchases or request information about products, support or training.
+## Personal Information Protection Policy of HHT
 
-### Information Collected Automatically
+  1. Collecting, Using and Providing Personal Information  
+Bearing in mind that in the course of its business activity, HHT is entrusted with information about customers, we have established management structures tailored to operational status in order to protect personal information, and we handle the collection, use and provision of personal information appropriately and according to prescribed regulations.
+  2. Compliance with Laws and Ordinances and Standards  
+When handling personal information, HHT complies with laws and ordinances and other standards applicable to personal information protection. In addition, we have produced and adhere to HHT rules for the management of personal information protection that conform to these laws and ordinances and other standards.
+  3. Implementing Security Measures  
+In order to ensure the accuracy and security of personal information, HHT conforms to various regulations regarding information security, manages access to personal information, limits methods of carrying out personal information, implements measures to prevent illegal access from outside, and works to prevent the loss, destruction, falsification and leakage of personal information.
+  4. Respect for the rights of the person involved with the personal information  
+With regard to personal information, when the person involved requests HHT to disclose, correct or delete information, or refuses its use or submission, we will respond in good faith and with respect for the rights of the person involved with the personal information.
+  5. Decisions on Rules for Personal Information Protection Management and Continuous Improvement  
+HHT implements recognition of the importance of personal information protection among executives and employees, deciding on rules for personal information protection in order to safeguard and appropriately use personal information. In addition, we maintain and continuously improve the rules.
 
-We may also automatically collect your IP and referring Website addresses, browser type, and domain name. This information, which does not identify you as an individual, helps facilitate your online experience on our Website. In addition, we use cookies to track usage patterns on our Website and to control the display of ads, as well as to offer other functionalities. You can turn off cookies, but that will affect your online experience. Please see below for more detail on cookies.
 
-## WHAT DO WE DO WITH COLLECTED INFORMATION?
 
-We use information you provide to fulfill your requests and improve our Website, products and services. We may, from time to time, produce reports for advertisers, affiliated parties, sponsors and vendors containing anonymous, aggregate information about our users and customers, such as demographic, age and online usage information. This information allows us to provide content and information that is most relevant to our users. We do not include any Personal Information of our users in these reports.
+## Purpose of Using Personal Information and Provision to Third Parties
 
-From time to time, we may also establish business relationships with other persons or entities (including entities affiliated with HTA) that we believe to be trustworthy and whose privacy policies are generally consistent with our privacy policy (" _Choice Partners_ "). In such cases we might share and cross-reference information, including Personal Information about you that will enable our Choice Partners to contact you regarding products and services that you might find of interest. We encourage you to visit the websites of these Choice Partners and evaluate their privacy policies for yourselves. If you would prefer that we not share your Personal Information with our Choice Partners, you may opt-out by contacting us online.
+  1. HHT uses personal information only within the scope necessary to achieve the following aims. In addition, when a customer submits personal information, we disclose the purpose of use in advance and receive the agreement of the customer. 
+    1. Fulfilling a contract concluded between the customer and HHT
+    2. Contacting the customer for appointments and negotiations
+    3. Providing aftercare services for products
+    4. Sending out information about events and new products
+    5. Providing membership services
+    6. Matters concerning stocks
+    7. Responses to inquiries
+    8. Questionnaire-based analysis to improve products and services
+    9. Providing personal information to the relevant Group Company in case HHT undertakes business activities in collaboration with a Group Company 
+      * [List of Group Companies](https://web.archive.org/global/network/index.html)
+    10. Shipping products orders by a customer
+  2. HHT does not provide the personal information of a customer to a third party without obtaining the agreement of the customer in advance. However, exceptions apply in the event of any of the following: 
+    1. Matters based on laws and ordinances;
+    2. It is difficult to obtain the agreement of the customer when necessary in order to protect human life, body or property;
+    3. It is difficult to obtain the agreement of the customer, in particular, when necessary in order to improve public health or to further the sound development of children;
+    4. Obtaining the agreement of the customer carries the risk of impeding official duties when necessary to cooperate with an organ of the state, local public bodies or any person entrusted with the execution of duties as determined in laws and ordinances;
+    5. Being entrusted with the handling of personal information within the scope necessary to achieve the purpose of use:
+    6. Providing personal information following a handover of the business due to a merger or other reasons.
+  3. In case of joint business activities with companies affiliated with Hitachi, dealerships in charge of selling the company's products, suppliers or third parties contracted for work ("Partners"), HHT may provide personal information of customers including name, workplace or home address, telephone number, fax number, e-mail address etc, to the Partners as necessary. In this case, the personal information of customers will be provided in print or electronic media. Further, the customer may request HHT to stop the provision of personal information to Partners.
 
-  * [our online contact form](https://hitachi-hta.com/eform/submit/contact-us)
 
 
+## Handling of Specific Personal Information
 
-We also use collected information to evaluate and administer our products and services, fulfill customer requests, respond to any future problems, such as difficulties in navigating our Website or accessing certain features, and to gauge user trends to determine what products and services are most popular with users.
+  1. When handling specific personal information, our Company will comply with the Act on the Use of Numbers to Identify a Specific Individual in the Administrative Procedure (hereinafter referred to as the "Act on the Use of Numbers"), Act on the Protection of Personal Information, and Guidelines for proper handling of Specific Personal Information (for private entities).
+  2. Our Company considers our "personal information protection policy" as the "basic policy for the proper handling of specific personal information", and will ensure the proper handling of specific personal information.
+  3. Our Company considers the performance of administrative procedures relating to social security, taxes, and countermeasures against disasters stipulated in each paragraph in Article 9 of the Act on the Use of Numbers to be the scope of use of specific personal information, and will obtain and use specific personal information to the extent necessary to achieve a purpose. The main scope of use of specific personal information handled by our Company is as follows: 
+    1. Clerical work in which upon receipt of specific personal information provided by, for example, our employees, our Company states such information in necessary documents, such as certificates of tax deducted for employment income and retirement income, payroll payment reports, unemployment insurance notifications, notifications of qualified persons covered by health insurance and corporate employees' pension insurance, and legal written records including claims pursuant to the Industrial Accident Compensation Insurance Act, and submits the aforementioned documents to the director of a taxation office, the mayor of a municipality, Japan Pension Service, or other organizations.
+    2. Clerical work in which upon receipt of specific personal information, our Company states such information in various reports of payment, such as reports of payment of remuneration and fees; reports of payment of dividends, distribution of surplus, and interest on funds; reports of payment of rental charges, such as for real estate; and reports of payment in consideration of the transfer of, for example, real estate; and submits the aforementioned reports to the director of a taxation office.
+    3. Performance of operations that involve clerical work entrusted to our Company by an administrative organization or other private entity for the handling of specific personal information.
+  4. Our Company will not provide specific personal information of a person to any third party, apart from cases stipulated by laws and regulations concerning specific personal information. Our Company will not jointly use such information. However, for any case that falls under any of the items stipulated in Article 19 (Restrictions on the Provision of Specific Personal Information) of the Act on the Use of Numbers, specific personal information may be provided.
+  5. Our Company may entrust handling of specific personal information within the scope of purpose of use stipulated by laws and regulations.
+  6. Request for disclosure, correction, addition, deletion, suspension of use, suspension of provision to third parties, or notification of purpose of use, or any complaint concerning specific personal information held by our Company will be made in accordance with our "Request to Disclose Personal Information and Accepting Complaints."
 
-As in any transaction, when you purchase products from HTA, your credit card company will necessarily receive all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. HTA will not otherwise provide any Personal Information to your credit card company without your permission. We and our technical and fulfillment agents, partners and consultants follow carefully prescribed procedures to safeguard credit card data in connection with your transactions and adhere to certain legal requirements.
 
-## HOW DO WE SHARE PERSONAL INFORMATION?
 
-Personal Information is available to HTA and the technical and fulfillment agents, partners and consultants who make our Website, products and services available to you. Anonymous information is available to our advertisers, sponsors and promotional and business partners. We share your Personal Information with third parties only as described below.
+## Usage of Cookies and Web Beacons
 
-### HTA and Its Agents.
+Cookies*1 or web beacons (clear GIFs)*2 are used on some HHT websites in order to make our websites more user-friendly for customers.  
+By changing the settings on the web browser, the customer may refuse to accept cookies or display a warning message when a cookie is accepted. For details, please refer to the instructions for your browser of choice. The customer may also refuse web beacons by refusing to accept cookies.  
+However, please be aware that all or some of the services provided on HHT websites may be unavailable in case of refusing to accept cookies.
 
-Website hosting firms, technical and database consultants, advertising agencies, order processing partners, and Choice Partners may have access to Personal Information in the course of making our products and services available. All companies working for and with HTA must comply with our privacy policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.
+*1
+    Cookies  
+Refers to information exchanged between the web server managing a website and the customer's web browser. Cookies may be stored as files on the hard disk of the customer's computer. By using cookies, the web server can record what pages on a website were viewed on a specific computer. However, HHT cannot pinpoint or identify the customer unless the customer enters their own personal information on the website.
+*2
+    Web beacons  
+Refers to a technology that works with cookies to understand how many times a customer has accessed a specific page. However, HHT cannot pinpoint or identify the customer unless the customer enters their own personal information when accepting cookies.
 
-### Advertisers, Sponsors and Promotional and Business Partners.
+## Request to Disclose Personal Information and Accepting Complaints
 
-We share anonymous, aggregate demographic information and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and participating vendors. No Personal Information is disclosed to any of these third parties in providing these reports.
+In case of a request to disclose, correct, add, delete, stop using, stop provision to third parties or to notify the purpose of use ("Disclosure etc.") of the personal information of a customer held by HHT, or lodging a complaint, the following procedures apply.
 
-We may share your e-mail address and certain other general characteristics about you with our Choice Partners, unless you opt-out of our sharing this information at any time, by contacting us online.
+  1. Request to disclose personal information provided by the customer to a business department at HHT. Please contact the relevant business department.
+  2. Request to disclose personal information provided by the customer via an HHT website.  
+Please contact the department in charge of the relevant webpage.
+  3. Request to disclose personal information other than the abovementioned points 1 and 2.  
+For details on requests for Disclosure etc., please refer to Details regarding Requests for the Disclosure,etc. 
+    * [Details regarding Requests for the Disclosure,etc.](https://web.archive.org/global/privacy/process/index.html)
+  4. Complaints about how HHT handles personal information.  
+Please enter the required information in the Complaint Form regarding Handling of Personal Information (PDF format) and forward the form to the address below, or send us an inquiry using the Inquiry Form or by telephone. 
+    * [Complaint Form regarding Handling of Personal Information (PDF Type,64kbytes)](https://web.archive.org/file/global/pdf/privacy/application_2.pdf)
 
-  * [our online contact form](https://hitachi-hta.com/eform/submit/contact-us)
 
 
+**Contact for Complaints**
 
-Otherwise, your e-mail address is not shared with third parties unless you agree, by opting-in, to receive information from third parties. In other words, we may extend e-mail offers to users or customers on behalf of our business partners about a particular product or service that may be of interest to you, but only if you have indicated that you would like to receive these offers. If you wish to receive such offers, we will not share or disclose your name or e-mail address to those business partners, but will send you the information or offers on their behalf. Of course, you may opt out of receiving these offers at any time.
+Legal Department, Hitachi High-Technologies Corporation  
+1-24-14 Nishi-Shimbashi, Minato-ku, Tokyo 105-8717  
+Tel: +81-3-3504-7089  
+Fax: +81-3-3504-5147
 
-### Foreign Affiliates and Third-Party Service Providers 
+  * [Complaint Form regarding Handling of Personal Information (PDF Type,64kbytes)](https://web.archive.org/file/global/pdf/privacy/application_2.pdf)
+  * [Inquiry Form](https://www8.hitachi.co.jp/inquiry/hitachi-hightech/global/about/general/form_input.jsp?UM_No=1)
 
-Our affiliates and third-party service providers may be located outside of the United States. We require affiliates and third-party service providers who receive your Personal Information from us to provide your Personal Information with a comparable level of protection. However, your Personal Information will also be subject to the laws of those jurisdictions.
 
-### Important Note
 
-We reserve the right to use or disclose any information without notice or consent for the following purposes: as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law or contract; to protect the integrity of our Website and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
+## Request to Customers
 
-## HOW DO WE USE COOKIES?
+  1. Most services provided by HHT can be used without the personal information of the customer. However, please note that some services may not be available if the customer does not provide personal information to HHT.
+  2. Please note that HHT cannot assume responsibility for ensuring the security of personal information on external websites linked from HHT websites.
+  3. When a customer enters personal information on an HHT website, agreement with this Personal Information Protection document is presumed. If you do not agree with this Personal Information Protection document, you may not be able to use the services provided by HHT (including response to inquiries etc.).
 
-Your Web browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any Personal Information about you and therefore cannot be used to identify you personally. However, cookies assist us in tracking which of our features you like best and make it easier to use our Website. You have the ability to accept or decline cookies by modifying your browser. Our Website is viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you.
 
-## WHAT ABOUT THIRD-PARTY ADVERTISERS?
 
-Some of the content displayed on our Website is provided by outside companies. This content may create cookies and may also contain web beacons or similar technologies, which are small files that allow advertisers and other content providers to know when a web page or portion thereof has been loaded. Unlike cookies and web beacons used by HTA in content we control on our Website, we do not have access to information collected from cookies or web beacons received in connection with third-party content. While we use third parties which we believe are reputable to serve some or all of the content placed within our Website, third parties may use information (not including Personal Information) about your visits to our Website and other Websites to assist in serving their third-party content to you. They may also share anonymous information with their clients such as the date/time of the content shown, the specific content shown, the IP address and other similar information.
+## Special Instructions
 
-## HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?
+  1. HHT policy on personal information protection is based on the laws of Japan.
+  2. HHT may revise this Personal Information Protection document due to revisions to laws and ordinances or other standards or to improve the handling of personal information.
+  3. This Personal Information Protection document applies as of the date of publication (including the date of revisions).
+  4. For content, if separate regulations for personal information protection are set, priority shall be given to those regulations.
 
-We believe that choice in how and when you are contacted is key to customer satisfaction. Therefore, we offer several ways for you to update your contact information and/or change your preferences.
 
-  1. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any e-mail message.
-  2. You may write to us and update your contact information or ask that we not share your personal contact information with third parties via our online contact form. In those instances, we will retain your information in a "do not promote" file in our database.
-  3. You may also contact us online.
 
+## For Enquiries Regarding This Website
 
-  * [our online contact form](https://hitachi-hta.com/eform/submit/contact-us)
+Please use the Inquiry Form for other inquiries regarding this website than requests for disclosure of personal information or lodging complaints.
 
+  * [Inquiry Form](https://www8.hitachi.co.jp/inquiry/hitachi-hightech/global/about/general/form_input.jsp?UM_No=1)
 
 
-We will take commercially reasonable steps to implement your opt-out requests promptly; but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail. You may also continue to receive information from those third parties to whom your information was previously disclosed.
 
-## DO NOT TRACK NOTICE
-
-HTA does not track its users and customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. You should be aware that some third party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you.
-
-## SECURITY OF YOUR PERSONAL INFORMATION
-
-We incorporate standard industry practices internally and with our service providers, which we believe suits the degree of sensitivity of the information involved to maintain the security of your Personal Information and to avoid its disclosure except as described in this Privacy Policy.
-
-Although we have implemented systems and procedures to secure the data maintained by us, security during Internet transmissions can _never_ be assured. Our policy is to limit access to Personal Information to those HTA employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled environments. To maintain security, we conduct internal reviews of our security measures on a regular basis. Remember, however, that any Personal Information you post on the internet is available to anyone.
-
-## CHILDREN'S PRIVACY
-
-None of the information on the Website is intended for the use of children under 13, and HTA does not knowingly register any person or accept information from any person under the age of 13.
-
-## CHANGES IN CORPORATE STRUCTURE
-
-In developing our business, we may engage in the sale of certain assets and the company itself, or parts of it, may be sold, merged or otherwise transferred. In such transactions and changes in ownership, user information, whether Personal Information or otherwise, may be reviewed by potential buyers, and may constitute one of the transferred assets in a completed transaction. In such cases, user information will continue to be used for the same purposes for which it was originally collected. In the case of such a transfer, HTA will notify affected users in accordance with the procedure for changing this Privacy Policy described below.
-
-## VISITORS AND CUSTOMERS OUTSIDE THE UNITED STATES
-
-Our Website and the servers that make this Website available worldwide are located in the United States. The Internet laws in the United States govern all matters relating to this Website. Any information you provide in subscribing to our Website or registering or ordering at our Website will be transferred to the United States. By visiting our Website and submitting information, you authorize this transfer, processing and use.
-
-HTA has various subsidiaries and affiliates whose direct collection of data, and use of that data, are not covered by this Privacy Policy, and HTA makes no representations with respect to such collection or use of data by these subsidiaries or affiliates.
-
-## YOUR CALIFORNIA PRIVACY RIGHTS
-
-Under California Civil Code sections 1798.83 and 1798.84, California residents are entitled to ask us for a notice describing what categories of Personal Information HTA shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:
-
-Hitachi High Technologies America, Inc.  
-10 North Martingale Road, Suite 500  
-Schaumburg, IL 60173  
-Attention: General Affairs
-
-In your request, please specify that you want a "Your HTA California Privacy Rights Notice". Please allow at least 30 days for a response.
-
-## CHANGES TO OUR PRIVACY POLICY
-
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the Privacy Policy when you visit our Website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your Personal Information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected Personal Information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Website visitors information on material changes to this Privacy Policy.
-
-## CONTACT INFORMATION
-
-If you have any questions about this Privacy Policy or our privacy practices, please contact us online. Please include the URL of the Website involved in your request.
-
-  * [our online contact form](https://hitachi-hta.com/eform/submit/contact-us)
-
-
-
-Or you can contact us by mail at:
-
-Hitachi High Technologies America, Inc.  
-10 North Martingale Road, Suite 500  
-Schaumburg, IL 60173  
-Attention: General Affairs
+Enacted April 1, 2005
