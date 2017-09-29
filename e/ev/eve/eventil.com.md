@@ -1,100 +1,105 @@
-> *The following text is extracted and transformed from the eventil.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventil.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929023547id_/https%3A//eventil.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Events for tech people · Eventil
 
-**Go Daddy Respects Your Privacy**
+This Privacy Policy covers the information practices of Te2 limited liability company (“Te2”) and is effective 01.02.2016.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+All personal data that we collect providing you with our services remain under our special care. Below you will find the explanation of issues related to ensuring security for your personal data in the form of answers to the following questions:
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  1. Who collects and processes data collected?
+  2. What kind of information is collected?
+  3. For what purpose do we collect your personal data?
+  4. How do we store and use the information collected?
+  5. For what purpose do we not use personal data?
+  6. Whom your personal data may be shared with?
+  7. How can you update your personal information?
+  8. How do we communicate with the user?
+  9. How the Privacy Policy is changed?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## 1\. Who collects and processes data collected?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The Administrator of your personal data within the meaning of the Act of 29 August 1997 on the Protection of Personal Data (Dz.U. 2002 r. Nr 101, poz. 926) is Te2 limited liability company with the seat in Poznań (Poland). The collection of personal data has been declared to the General Inspector for the Protection of Personal Data (GIODO).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## 2\. What kind of information is collected?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Information provided by you during registration:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Contact information: your name, company name, address, phone number and e-mail address.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Financial information: credit card’s number and billing information (tax id, number of the payer VAT) – declaration of these data, we treat as a consent to issue an invoice and charge the credit card.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The information obtained by Te2 automatically in the course of the use by you of Te2's services: IP addresses of computer you use to access our services, browser’s type and browser’s language.
 
-**Security**
+Contact information, financial information and information obtained by Te2 automatically are referred to as personal data.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Te2 has also access to other of the data stored and processed by users, such as: source code for the application, database that the applications use, files generated by applications, the history of operations performed by users. However, Te2 does not own, transfer, share, control or direct the use any of those information on any condition. Only the users are entitled to retrieve and direct the use of such information.
 
-**Updating Your Information**
+## 3\. For what purpose do we collect your personal data?
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+All of the collected personal data are processed solely to perform the services requested or marketing purposes of Te2. As for credit card’s information, they are used solely to check the financial qualifications of prospective users and to collect payment for the services.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+For the above mentioned purposes, the data may be used, in particular, to:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * help diagnose problems with our servers and to administer the site;
+  * keep track of your activities on the site in order to determine your preferences, so that the service can be adapted to your requirements and needs;
+  * operate and improve the site;
+  * contact you about your interest in the Services;
+  * send you information regarding Te2 and its’ partners, such as information about promotions or events;
+  * protect our rights and property and the rights of users of the site;
+ensure efficient technical Service; 
+  * If you do not wish to receive marketing mailings, please send an e-mail to hello@eventil.com.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+In case of control proceedings of the General Inspector for the Protection of Personal Data, data of users can be made available to employees of the Inspector, in accordance with the Act on the Protection of Personal Data. Any research on the service shall take place only with the consent of the Te2 and published research results will not contain the data allowing to identification of individual users.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## 4\. How do we store and use the information collected?
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+All your personal data, these contained in the registration form, as well as other obtained during the use of our services are stored and processed in a manner consistent with the requirements of the law, in particular the Act on Personal Data Protection of 29 August 1997.
 
-**Compliance with Laws and Law Enforcement**
+A collection of personal data is stored on the Server in the same matter as the rest of your data. However we do provide adequate protection for all data on the Server in following way:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+In order to protect your data from unauthorized access, unauthorized alteration, disclosure or destruction the appropriate security measures are used. They include: internal audit of the data collected, procedures of storing and processing and the safety measures in the form of physical security measures to protect against unauthorized access to systems that store your personal data.
 
-**Third Party Service Providers**
+The range of entities that have access to your personal data is limited. Those are only our subcontractors, technicians, service providers, persons cooperating and other agents for which it is necessary in order to support the development or improvement of the services and in connection with the provision of services to you. These individuals are bound by obligations of confidentiality and in the event of non-compliance with these obligations shall be subject to disciplinary measures, including termination of the agreement and criminal penalties.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## 5\. For what purpose do we not use personal data?
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Your personal data will not be sold by us or in any other commercial manner, be made available to third parties.
 
-**Supplementation of Information**
+## 6\. Whom your personal data may be shared with?
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The collected personal data may be shared with other companies or individuals only in the circumstances permitted by law and only in the following circumstances:
 
-**Contests/Surveys**
+  * information transferred to subsidiaries, affiliated companies or other trusted businesses or persons to process personal data on behalf of Te2. From these entities we required processing information according to our instructions, in compliance with this Privacy Policy and using any other appropriate measures to protect the confidentiality and security of data.
+  * financial data shall be made available to a payment service solely in order to implement the Internet payment in connection with your use of the Services.
+  * the information shall be transmitted at the request of the Court, the public prosecutor's Office, police or other authority, in case of infringement of the legislation by the users.
+  * we use third party analytics services to help understand your use of our services.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+Te2 reserves the right to disclose the general censuses. Such statements relate mainly to general view of the Service and do not include data permitting the identification of the individual user.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## 7\. How can you update your personal information?
 
-**What Happens to my Personal Information if I Opt Out?**
+As a user of the site, you have the right to access your personal data and correct erroneous or outdated information. Users may update or change their registration information by logging in to their accounts at eventil.com. Requests to delete your information will be handled within 30 days.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Data collected automatically, as well as the data obtained by the administrator of the site on the occasion of your payment transactions will not be able to change or remove. Billing data will be stored for as long as is necessary for the conduct of the Accounts. Other data will be deleted within 30 days.
 
-**Transfer of Data Abroad**
+## 8\. How do we communicate with the user?
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Users cannot opt out of receiving transactional e-mails related to their account with Te2. You may, however, send a request specifying your communications preferences to hello@eventil.com. Communication with you in other matters relating to your use of the service may be held by an e-mail, ordinary mail, by telephone or otherwise.
 
-**Changes in Our Practices**
+## 9\. How is Privacy Policy changed?
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We reserve the right to change this Privacy Policy in order to reflect changes in our services and respond to feedback you and other customers may provide. However, we will never purposely change the policy in a way that will make it less protective for your data. Any changes to the Privacy Policy will be published on the page <%= link_to privacy_url %>.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+About important material changes you will be informed in a more visible manner (sending e-mail notification of changes to the Privacy Policy). Each version of this Privacy Policy will be indicated, at the top of the page, by the date of commencement of validity.
 
-**Contacting Our Site**
+Te2 may provide bulletin boards, blogs or chat rooms on the Website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Te2 is not responsible for the personal information you choose to submit in these forums.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If you have any questions regarding this Privacy Statement or how your data is handled you may contact us at hello@eventil.com.
 
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Privacy Statement was last updated on 01.02.2016.
