@@ -1,11 +1,44 @@
-> *The following text is extracted and transformed from the howtolearn.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615110821id_/http%3A//www.howtolearn.com/about/copyright-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtolearn.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929095749id_/http%3A//www.howtolearn.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Copyright/Privacy Policy | HowToLearn.com
+# Privacy Policy | How To Learn
 
-Copyright - Registered Trademark
+Thank you for visiting our HowtoLearn.com website. Because your privacy is important to us. we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected or utilized when you use this site.
 
-HowToLearn.com is contains a registered trademark with the United States Patent and Trademark Office as well as several copyrights on information and materials on this website. You may not copy, duplicate in any way, or use the information or materials on our website without our express written permission. You may however, link to our site from yours should you feel there is information that is o high quality for your visitors.
+This page contains the privacy policy for HowtoLearn.com and all its related websites.
 
-Privacy
+**What Information Do We Collect?  
+**In order to personalize your experience, (your information helps us better understand your individual needs, we collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, place an order or fill out a form. When registering or filling out any of the above on our site, as appropriate, you may be asked to enter your name, email address, occupation, mailing address, phone number or credit card information. Credit card information is provided to a third party secure processing site. You may, however, visit our site anonymously. Like most websites we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-HowToLearn.com respects your privacy and will only send you information that you ask for specifically, including products, learning tips, information about membership in any of our programs, and newsletters, teleseminar information, etc. At the bottom of each item you receive from us via email or inside the membership site, you have the option to change or opt out of any communications. As with all websites, we use small files called cookies to keep track of our traffic, although we don’t collect personal information during that process – it is automated. We protect all your personal credit card information through a variety of security measures, and when you purchase a product or service, the item goes through a Verisign-protected shopping cart and a shopping cart company called 1shoppingcart. The safety steps are validated on a regular basis by an organization affiliated with our credit card processing company and we must pass their certification.  As part of our website services and in our newsletters, we sometimes send information that is related to an affiliate, partner or referral programs which we are part of and believe in.  When you click through any link on our site that takes you to another site, that site has their own privacy policies. When you use our site, you are agreeing to our privacy policy. Should our company sell the HowtoLearn.com website or any of its components to another company, our email subscriber list, to which you subscribed, or membership site to which you subscribed, will accompany the sale to the other company. When you submit comments following articles you agree not to submit spam of any kind, but only relevant content related to the article or blog post. Further, we have experts on our site who contribute what we consider to be high quality information to our visitors and who also respond to your questions. At the point they reply to your questions, we are not responsible for their answers and make no claims about what they may say to you. Should there be information provided by anyone or any article on our website, it is not construed to be medical advice of any kind or intended to cure any illness, disability of any kind, or disease. It is provided for informational purposes only.
+**What do we use your information for?**
+
+  * In order to personalize your experience, any of the information we collect about you may be used in one or more of the following ways:
+  * To improve our website because we continuously strive to improve our website based on the information and feedback we receive from you. To improve customer service (your information helps us to more effectively respond to your customer service requests and questions. We may share or sell your name and email information with third parties for marketing or other purposes without your consent. To administer a contest, promotion, survey, or other site feature and to send you periodic emails.
+  * The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. You may unsubscribe from emails at any time by clicking the unsubscribe link at the bottom of the email.
+
+
+
+**How do we protect your information?  
+**We implement a wide variety of security measures to maintain the safety of your personal information when you access the website. We offer the use of a secure server. All supplied sensitive information is encrypted to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. We use a third party secured website to facilitate any credit card transactions and they follow all legal guidelines to keep your credit card information secure.
+
+**Do we use cookies?  
+**Yes. Cookies are small files that a site or its service provider transfers to your computer hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
+
+**Do we disclose any information to outside parties?  
+**We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information but this does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses and should our website be sold to another person or entity, they may be entitled to secure your name and email address or other information you have filled out on forms on the site.
+
+**Third party links  
+**We include or offer third party products or services on our website. These third party sites have separate and independent privacy polices. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback you may send us about these sites.
+
+**Online privacy policy only  
+**This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions  
+**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of the website.
+
+**Your Consent  
+**By using our site, you consent to our privacy policy
+
+**Changes to our privacy policy  
+**Changes to this privacy policy will be made available on this webpage only.
+
+If you wish to contact us, you may do so by using our Contact button or any other of our contact information on the site.
