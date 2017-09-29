@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roirevolution.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628193332id_/http%3A//www.roirevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roirevolution.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929095922id_/http%3A//www.roirevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ROI Revolution
 
@@ -77,6 +77,5 @@ If you have any questions or comments about this Notice, please feel free to con
 When we modify this notice we will update the effective date provided at the top of the notice. Please check back for any updates to make sure you are aware of our current privacy practices.
 
 ROI Revolution, Inc.  
-5510 Six Forks Road  
-Suite 200  
-Raleigh, NC 27609
+4401 Atlantic Ave.  
+Raleigh, NC 27604
