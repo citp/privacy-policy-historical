@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamenergy.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192210id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamenergy.net privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929160229id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stream
 
