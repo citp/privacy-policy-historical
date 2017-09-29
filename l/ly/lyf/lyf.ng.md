@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyf.ng privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124739id_/http%3A//www.lyf.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyf.ng privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929223903id_/http%3A//www.lyf.ng/privacy-policy) for the most accurate reproduction.*
 
 # LYF - Find Anyone or Anything, Anywhere!
 
