@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223543id_/https%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929160252id_/https%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
 
 # What MindTickle is All About | MindTickle
 
