@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618224126id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930014143id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
 
-# Lawyer.com™​​​ Privacy Policy
+# Lawyer.com Privacy Policy
 
 Lawyer.com LLC ("Company") manages the Lawer.com website ("Website") and provides this Privacy Policy because we value your right to privacy.
 
