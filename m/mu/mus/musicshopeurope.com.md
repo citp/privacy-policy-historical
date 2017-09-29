@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicshopeurope.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417090127id_/https%3A//www.musicshopeurope.com/en-us/content/privacy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicshopeurope.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929211538id_/https%3A//www.musicshopeurope.com/en-us/content/privacy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Music Shop Europe
 
@@ -10,11 +10,11 @@ Contact Information**
 
 Music Shop Europe does not sell, trade or rent your personal information to others. To process your order, we require you to provide us your name, mailing address, and email. When you sign up for our email newsletters or other information services, we need only an email address. We monitor site usage and traffic in aggregate to help us develop and improve the web experience for you the customer. We also try to personalise your shopping experience as much as possible by using your browse history and past purchases to recommend the products of interest to you. We may also use your contact information to notify you about important changes to our site, new services and special offers. 
 
-We may also use your contact information to send you printed catalogues or other related material by post. If you do not wish to receive this form of mail from us, again, please [contact us](https://www.musicshopeurope.com/en-us/contactus.aspx). 
+We may also use your contact information to send you printed catalogues or other related material by post. If you do not wish to receive this form of mail from us, again, please [contact us](https://www.musicshopeurope.com/contactus.aspx). 
 
 **Need to make a change?  
 **   
-If you would like to change any of your information in our database, please feel free to [Edit Your Details](http://musicshopeurope-live.ism-hosting.nl/en-us/profile/editprofile.aspx) or [Contact Us](https://www.musicshopeurope.com/en-us/contactus.aspx).
+If you would like to change any of your information in our database, please feel free to [Edit Your Details](http://musicshopeurope-live.ism-hosting.nl/en-us/profile/editprofile.aspx) or [Contact Us](https://www.musicshopeurope.com/contactus.aspx).
 
 **Aggregate Information**
 
