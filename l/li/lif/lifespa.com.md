@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifespa.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326173102id_/http%3A//lifespa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifespa.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929133617id_/https%3A//lifespa.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Dr. Douillard's LifeSpa
 
@@ -46,7 +46,7 @@ YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UND
 
 **LifeSpa’s Commitment to Data Security:** Services and Web Sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-**Where to Direct Questions About Our Privacy Policy:** If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://lifespa.com/contact/ "Contact") provided on this Web Site.
+**Where to Direct Questions About Our Privacy Policy:** If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](https://lifespa.com/contact/ "Contact") provided on this Web Site.
 
 **Revisions to This Policy:** LifeSpa reserves the right to revise, amend, or modify this policy, our Terms Of Use agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
