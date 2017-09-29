@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landingpagemonkey.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531023833id_/http%3A//landingpagemonkey.com/members/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landingpagemonkey.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929205738id_/http%3A//landingpagemonkey.com/members/terms/privacy.htm) for the most accurate reproduction.*
 
 # Landing Page Monkey | PRIVACY POLICY
 
