@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the onceamonthmom.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321175300id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onceamonthmom.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929134842id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Once A Month Meals
 
+Please note that our privacy policy has changed effective September 1, 2012.
+
 If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us as provided in Section I below.
 
-**PRIVACY POLICY**
+## PRIVACY POLICY
 
 _(Effective September 1, 2012)_
 
@@ -16,8 +18,7 @@ This Privacy Policy, together with the Terms of Use posted on our Website, sets 
 
 We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 
-**A.          INFORMATION WE COLLECT  
-**
+### A.         INFORMATION WE COLLECT
 
 Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, but that we automatically collect when you visit our Website or that you provide us.
 
@@ -25,7 +26,7 @@ Our Website typically collects two kinds of information about you: (a) informati
 
 **(2)   Non-Personal Information:**  Our definition of non-personal information is any information that does not personally identify you.  Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain non-personal information from you when you access our Website.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
-**B.          HOW WE USE & SHARE THE INFORMATION COLLECTED**
+### B.         HOW WE USE & SHARE THE INFORMATION COLLECTED
 
 **(1)   Personally Identifiable Information:** The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“”affiliated companies””), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
 
@@ -33,7 +34,7 @@ In certain instances we may also share your personally identifiable information 
 
 **(2)   Non-Personal Information:** We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
-**C.          COOKIES AND PREFERENCE BASED ADVERTISING**
+### C.         COOKIES AND PREFERENCE BASED ADVERTISING
 
 **(1)** **Cookies and Web Beacons:** We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use “cookies” and “web beacons” (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.  “Cookies” are small files that we transfer to your computer’s hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. “Web beacons” are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.
 
@@ -45,7 +46,7 @@ If you are concerned about the storage and use of cookies, you may be able to di
 
 A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”) – for a general explanation of how Opt-out Cookies work, please [click here](http://www.doubleclick.com/privacy/opting_out.aspx).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
-**D.          OTHER USES & INFORMATION**
+### D.         OTHER USES & INFORMATION
 
 ( **1)   IP Addresses:** An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.  IP addresses are considered non-personal information and may also be shared as provided above.  It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor’s session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
 
@@ -57,23 +58,23 @@ A couple of important notes about this opt-out tool: (1) it includes all the adv
 
 **(5) Your California Privacy Rights:   **Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section H below.
 
-**E.          PUBLIC FORUMS**
+### E.         PUBLIC FORUMS
 
 We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
 
-**F.          CHILDREN**
+### F.         CHILDREN
 
 The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us as provided in Section I below.  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 
-**G.         KEEPING YOUR INFORMATION SECURE**
+### G.        KEEPING YOUR INFORMATION SECURE
 
 We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
-**H.          OTHER SITES/LINKS**
+### H.         OTHER SITES/LINKS
 
 Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
 
-**I.           CONTACT & OPT-OUT INFORMATION**
+### I.          CONTACT & OPT-OUT INFORMATION
 
 You may contact us as provided below if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
@@ -83,7 +84,7 @@ You may contact us as provided below if: (a) you have questions or comments abou
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
-**J.          SOLE STATEMENT**
+### J.         SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website
 
