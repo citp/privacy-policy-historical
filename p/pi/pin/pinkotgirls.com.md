@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkotgirls.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322205244id_/http%3A//www.pinkotgirls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkotgirls.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929105844id_/https%3A//www.pinkotgirls.com/privacy.php) for the most accurate reproduction.*
 
 # Pinko TGirls
 
@@ -27,9 +27,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 ## Security 
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.   
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.   
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
 ## Updates
 
