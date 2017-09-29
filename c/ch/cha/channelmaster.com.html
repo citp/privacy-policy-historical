@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the channelmaster.com privacy policy that was archived on 2017-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170527020904id_/http%3A//www.channelmaster.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the channelmaster.com privacy policy that was archived on 2017-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170929060545id_/https%3A//www.channelmaster.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -31,7 +31,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.57.1.2354"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.71.0.2802"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -54,55 +54,19 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.57.1.2354"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.71.0.2802"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
 </script>
 
-
-
-<!-- Image Management -->
 <script>
-// Only do image optimizations on outdoor antenna category for now
-if (document.URL.indexOf('Outdoor_Antennas_s') > 0) {
-
-function hasClass(element, cls) {
-    return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
-}
-function removeImagesBeforeTheyAreRequested(options) {
-  // remove Divider image background image
-  var dividerImages = document.querySelectorAll('[background="/v/vspfiles/templates/254/images/Divider_Horizontal.gif"]');
-  for (var i = 0; i < dividerImages.length; i++) { 
-    dividerImages[i].removeAttribute('background');
-  }
-  // all images
-  var images = document.getElementsByTagName('img'),
-      spacerString = 'clear1x1';
-
-  for (var i = 0; i < images.length; i++) { 
-    var orgSrc = images[i].src,
-        orgSrcAttr = images[i].getAttribute('src'),
-        imgModified = false;
-
-    imgModified = hasClass(images[i],'img-modified');
-
-    if (orgSrc.length > 0 && !imgModified) {
-        // if spacer image or free shipping, remove from dom
-        if (orgSrc.includes(spacerString) || orgSrc.includes('FreeShipping_') || orgSrc.includes('FeaturedProducts.gif') || orgSrc.includes('ContactUsPhotoHex.jpg')) {
-            images[i].removeAttribute('src');
-            images[i].style.display = 'none';
-        }
-    }
-  }
-}
-var timer = setInterval(function() {
-   removeImagesBeforeTheyAreRequested();
-}, 1);
-
-setTimeout(function() { clearInterval(timer); }, 3000);
-} // only outdoor for now
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
+
+
+
 <meta name="google-site-verification" content="bm7pW6pysaowIbkQn_iZwueEZU1eU1Yx0InSLBXv9Cw">
 <meta name="google-site-verification" content="MEZSY2lpOB8j_v6rJRflXqDghRJ6WlJjJGag4Vt58OQ">
 <meta name="msvalidate.01" content="C16237DB15C8CB8F7522C087383C0A90">
@@ -113,14 +77,21 @@ setTimeout(function() { clearInterval(timer); }, 3000);
 <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot" data-use-simplified-checkout="true">
 <meta id="v65-logo-dimensions" data-height="90" data-width="240">
 
-<link href="https://downloads.channelmaster.com/v/vspfiles/templates/254/t/style-c12903a2908f88b42a4a23b02ce1fdda-2.css" rel="stylesheet">
+
+
+
+<link href="https://downloads.channelmaster.com/v/vspfiles/templates/254/t/style-63cd0a02341624566921266d2d72d99d.css" rel="stylesheet">
+
+
+
 
 <!-- Variable to show/hide the Email Signup Exit Popup on a page by page basis. Set to false by default -->
-<script>var showEmailSignupOnPage = 'false';</script>
+<script>var showEmailSignupOnPage = 'true';</script>
 
 <!--[if lt IE 9]>
 <script src="/v/vspfiles/templates/254/js/html5shiv.js"></script>
 <![endif]-->
+
 
 <!-- Facebook Pixel Code (1040935702679690) -->
 <script>
@@ -450,6 +421,7 @@ By using our site, you consent to our privacy policy.
                 <a href="https://www.channelmaster.com/AboutUs.asp">About Us</a><br>
                 <a href="https://www.channelmaster.com/Contact-Us-a/281.htm">Contact Us</a><br>
                 <a href="https://www.channelmaster.com/Careers-a/297.htm">Careers</a><br>
+                <a href="http://blog.channelmaster.com/">Blog</a><br>
                 <!--a href="https://www.channelmaster.com/terms_privacy.asp">Privacy Policy</a><br>
                 <a href="https://www.channelmaster.com/terms.asp">Terms &amp; Conditions</a><br-->
                 <a href="https://www.channelmaster.com/Antenna-Selection-a/134.htm">Antenna Selection Guide</a><br>
@@ -471,7 +443,7 @@ By using our site, you consent to our privacy policy.
                 <strong>Stay Connected, Sign Up For Updates</strong>
                 <ul class="social">
                     <li class="newsletter"><a style="display:none;" rel="open-emailsignup" class="cta-button secondary">Join Newsletter</a></li>
-                    <li><a href="https://www.instagram.com/mychannelmaster/" class="cta-button secondary insta" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Instagram');"><span class="nav-icon icon-social instagram">Instagram</span></a></li>
+                    <li><a href="https://www.instagram.com/channelmaster_official/" class="cta-button secondary insta" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Instagram');"><span class="nav-icon icon-social instagram">Instagram</span></a></li>
                     <li><a href="https://www.youtube.com/user/channelmasterstore" class="cta-button secondary yt" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - YouTube');"><span class="nav-icon icon-social youtube">YouTube</span></a></li>
                     <li><a href="https://www.facebook.com/mychannelmaster" class="cta-button secondary fb" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Facebook');"><span class="nav-icon icon-social facebook">Facebook</span></a></li>
                     <li><a href="https://twitter.com/ChannelMaster" class="cta-button secondary tw" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Twitter');"><span class="nav-icon icon-social twitter">Twitter</span></a></li>
@@ -618,19 +590,25 @@ ga('send', 'pageview');
 </script>
 
 
+
+
 <div id="exitpopup_bg" rel="close-signup" style="display: none;">&nbsp;</div>
-<div id="exitpopup" style="display:none;">
+<div id="exitpopup" style="display:none;" class="">
 <a class="close-button" rel="close-signup">x</a>
 <!--Begin CTCT Sign-Up Form-->
 <div class="ctct-embed-signup">
       <span id="success_message" style="display:none;"><strong>Congrats, you're in the loop!</strong><br><br><a rel="close-signup">Close Window</a></span>
    <div class="ctct-content">
+
       <h2><em>There's a lot happening in TV.</em> Stay informed!</h2>
       <p>Stay up to date with important TV industry information that directly affects cord cutters, and be the first to hear about Channel Master special offers and promotions. Channel Master does not share your contact information.</p>
+
       <form data-id="embedded_signup:form" class="ctct-custom-form Form" name="embedded_signup" method="POST" action="https://visitor2.constantcontact.com/api/signup">
         <!-- The following code must be included to ensure your sign-up form works properly. -->
         <input data-id="ca:input" type="hidden" name="ca" value="586ee66b-1ae4-477d-9a51-59422c0ab5ef">
+
         <input data-id="list:input" type="hidden" name="list" value="1219835841">
+
         <input data-id="source:input" type="hidden" name="source" value="EFD">
         <input data-id="required:input" type="hidden" name="required" value="list,email">
         <input data-id="url:input" type="hidden" name="url" value="">
@@ -994,7 +972,7 @@ function main($) {
 <script>
 
 jQuery(document).ready(function(){
-    // Exit Popup, Created by kristenzirkler 6/13/2016
+    // Exit Popup, Created by kristenzirkler 6/13/2016, edited 7/15/2017
 
 
     // Check Cookie
@@ -1031,11 +1009,9 @@ jQuery(document).ready(function(){
 </script>
 
 
-<script src="https://downloads.channelmaster.com/v/vspfiles/templates/254/t/customjs-a5f1c456ecaf6a2639c06a31a7588032.js"></script>
 
+<script src="https://downloads.channelmaster.com/v/vspfiles/templates/254/t/customjs-36cdcfecf460ec0a8f17e4e22c3eb6b2.js"></script>
 
-<script src="https://downloads.channelmaster.com/t/design-toolkit_min.js"></script>
-<script>DTK.loadCSS("254");</script>
 
 <script type="text/javascript"> 
 //<![CDATA[ 
@@ -1051,6 +1027,25 @@ if (onHomePage) {
 
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    } 
+  </script>
 
 
 </body></html>
