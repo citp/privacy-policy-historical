@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thehungryjpeg.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828185311id_/https%3A//thehungryjpeg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehungryjpeg.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929151703id_/https%3A//thehungryjpeg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheHungryJPEG.com
 
-This Privacy Policy was last modified on 1st November 2015 and first published and made effective on 1st November 2015
+This Privacy Policy was last modified on 1st September 2017 and first published and made effective as at 1st September 2017.
 
-Directories Today Limited (“ **We** ” or “ **Us** ”) are committed to protecting and respecting your privacy.
+123RF Europe B.V. (“ **We** ” or “ **Us** ”) are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the “ **Act** ”), the data controller is Directories Today Ltd, Oldbury, Dairy Lane, Dumbleton, Worcestershire, WR11 7TP, UK
+For the purpose of the Data Protection Act 1998 (the “ **Act** ”), the data controller is 123RF Europe B.V., Westerdok 146, 1013BH, Amsterdam, Netherlands
 
 Information we may collect from you
 
@@ -42,6 +42,8 @@ For the same reason, we may obtain information about your general internet usage
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
+\- We do not store personal or financial information in the processes of payment, nor did we share this information with 3rd parties.
+
 Third Party Services
 
 TheHungryJPEG uses third party analytical services including Google Analytics to help understand customer behaviour, to enhance user experience on our website. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address. Their use of this information is governed by their own Privacy Policy.
@@ -70,15 +72,15 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 Disclosure of your information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+We will share your Personal Information to third parties only in the ways that are described in this Privacy Policy.
 
 We may disclose your personal information to third parties:
 
 \- In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-\- If Directories Today Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+\- If 123RF Europe B.V. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-\- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Directories Today Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+\- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of 123RF Europe B.V., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 Your rights
 
@@ -100,7 +102,7 @@ In the event of this information being received or published on our website, wit
 
 Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. 
+You have the right to access your Personal Information and amend your Personal Information at any time. This may be carried out by logging into your account at <https://thehungryjpeg.com/index.php>
 
 Changes to our privacy policy
 
@@ -110,10 +112,8 @@ Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [hello@thehungryjpeg.com](mailto:hello@thehungryjpeg.com)
 
-Directories Today Ltd  
-Oldbury  
-Dairy Lane  
-Dumbleton  
-Worcestershire  
-WR11 7TP  
-UK
+123RF Europe B.V.  
+Westerdok 146,  
+1013BH  
+Amsterdam  
+Netherlands
