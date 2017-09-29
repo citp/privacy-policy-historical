@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentaximaging.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015648id_/http%3A//us.ricoh-imaging.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaximaging.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929020751id_/https%3A//us.ricoh-imaging.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Whenever you visit ricoh-imaging.com we gather general information about your vi
 
 ### Are Cookies used?
 
-Yes, but only to collect the aforementioned information. In addition we also use Google Analytics service to measure traffic, and anonymous visitor behavior. To accomplish this, Google Analytics employs the use of anonymous persistent cookies. Cookies are text files that are saved by your browser (e.g., Internet Explorer) and stored on your computer's hard drive. They do not pose any threat to your computer. As stated above, these cookies do not identify, monitor, or track any personally identifiable information. To find out more about how this information is used or to read the Google Analytics privacy policy, go to http://www.google.com/privacy.html.
+Yes, but only to collect the aforementioned information. In addition we also use Google Analytics service to measure traffic, and anonymous visitor behavior. To accomplish this, Google Analytics employs the use of anonymous persistent cookies. Cookies are text files that are saved by your browser (e.g., Internet Explorer) and stored on your computer's hard drive. They do not pose any threat to your computer. As stated above, these cookies do not identify, monitor, or track any personally identifiable information. To find out more about how this information is used or to read the Google Analytics privacy policy, go to https://www.google.com/privacy.html.
 
 Most Web browsers automatically accept cookies without asking the user if he/she wants to do so, but you can usually change your browser to notify you when there is a cookie so you can choose whether to accept or decline the cookie. If you choose to decline one of our cookies, you will still be able to use the features on our site.
 
