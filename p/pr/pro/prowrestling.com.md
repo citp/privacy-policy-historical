@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119191221id_/http%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930010637id_/https%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProWrestling.com
-
-Privacy Policy
 
 ProWrestling.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -15,11 +13,11 @@ We only collect personal information that is relevant to the purpose of our webs
 
 2\. Automatic Information:
 
-\- We receive and store certain types of information whenever you interact with us. ProWrestling.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, ProWrestling.com cookie information, and the page you requested. ProWrestling.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+– We receive and store certain types of information whenever you interact with us. ProWrestling.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, ProWrestling.com cookie information, and the page you requested. ProWrestling.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 
-\- ProWrestling.com may collect and, on any page, display the total counts that page has been viewed.
+– ProWrestling.com may collect and, on any page, display the total counts that page has been viewed.
 
-\- Many companies offer programs that help you to visit websites anonymously. While ProWrestling.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+– Many companies offer programs that help you to visit websites anonymously. While ProWrestling.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 E-mail Communications
 
