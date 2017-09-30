@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034837id_/http%3A//www.ticketnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930141533id_/https%3A//www.ticketnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TicketNews
 
 Last Updated – May 2011 This Privacy Policy discloses the privacy practices of TicketNews.com regarding its treatment of personally identifiable information or other information...
 
 _Last Updated – May 2011_  
-This Privacy Policy discloses the privacy practices of [TicketNews.com](http://www.ticketnews.com/) regarding its treatment of personally identifiable information or other information that may be collected through common use of the site and its products and services.
+This Privacy Policy discloses the privacy practices of [TicketNews.com](https://www.ticketnews.com/) regarding its treatment of personally identifiable information or other information that may be collected through common use of the site and its products and services.
 
 **This Privacy Policy will address:**
 
@@ -22,7 +22,7 @@ This Privacy Policy discloses the privacy practices of [TicketNews.com](http://w
 
 **SITES COVERED BY THIS POLICY**
 
-This Privacy Policy applies to [TicketNews.com](http://www.ticketnews.com/) and all internal pages open to public navigation and intended for public use.
+This Privacy Policy applies to [TicketNews.com](https://www.ticketnews.com/) and all internal pages open to public navigation and intended for public use.
 
 TicketNews.com provides links to external and third-party Web sites for the information and convenience of its users. We are not responsible for, nor does this Privacy Policy apply to, the practices or content of those companies or individuals, or the third-party advertisers on TicketNews.com. We encourage our users to read the Privacy Policies of sites linked through TicketNews.com before providing any personal information.  
 **USER INFORMATION: COLLECTION AND USE**
