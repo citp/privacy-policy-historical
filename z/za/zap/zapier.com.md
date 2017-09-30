@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528050331id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930092250id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapier
 
@@ -6,13 +6,13 @@
 
 Welcome to Zapier! Here on the left you'll find our plain-english privacy policy and the corresponding legal policy on the right.
 
-We last updated this policy on May 15, 2017.
+We last updated this policy on June 2, 2017.
 
 Onward!
 
 ## Legal Privacy Policy
 
-Date of Last Revision: May 15, 2017
+Date of Last Revision: June 2, 2017
 
 Welcome to the web site (the "Site") of Zapier, Inc. ( "Zapier", "we", "us" and/or "our"). This Site is operated by Zapier and has been created to provide information about our company and its content and data linking platform and related services (together with the Site, the "Service(s)") to our Service visitors ("you", "your"). This Privacy Policy sets forth Zapier's policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from visitors to the Site and Services.
 
@@ -70,7 +70,7 @@ You can visit the Services without providing any Personal Data. If you choose no
 
 Zapier is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-**Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. In cases of onward transfer of personal information to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Zapier remains liable. **Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. **Agents, Consultants and Related Third Parties** : Zapier, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. **Legal Requirements** : Zapier may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Zapier, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
+**Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. In cases of onward transfer of personal information to third parties of data of EU and Swiss individuals received pursuant to the EU-U.S. and Swiss-U.S. Privacy Shield, Zapier remains liable. **Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. **Agents, Consultants and Related Third Parties** : Zapier, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. **Legal Requirements** : Zapier may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Zapier, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
 ## EU-U.S. & Swiss-U.S. Privacy Shield
 
@@ -82,9 +82,9 @@ In compliance with the Privacy Shield Principles, Zapier commits to resolve comp
 
 Zapier has further committed to refer unresolved Privacy Shield complaints to PrivacyTrust, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact Communications House, 26 York Street, London, W1U 6PZ for more information or to file a complaint. The services of Communications House are provided at no cost to you. 
 
-Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
+Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
 
-In cases of onward transfer of personal information to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Zapier remains liable.
+In cases of onward transfer of personal information to third parties of data of EU and Swiss individuals received pursuant to the EU-U.S. and Swiss-U.S. Privacy Shield, Zapier remains liable.
 
 ## Exclusions
 
