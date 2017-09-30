@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120111902id_/https%3A//filmstro.com/footer-items/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930135332id_/https%3A//filmstro.com/footer-items/privacy) for the most accurate reproduction.*
 
 # Filmstro
 
@@ -6,7 +6,7 @@
 
 1.1. This policy (the **Privacy Policy** ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Filmstro Services you are accepting and consenting to the practices described in this Privacy Policy.
 
-1.2. For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Filmstro Limited ( **Filmstro, we, us** ), a company registered in England and Wales with registered company number 09248842 and registered address at 99 Western Road, Lewes, BN7 1RS.
+1.2. For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Filmstro Limited ( **Filmstro, we, us** ), a company registered in England and Wales with registered company number 09248842 and registered address at 2 Upperton Gardens, Eastbourne, England, BN21 2AH.
 
 ## 2\. DEFINITIONS
 
