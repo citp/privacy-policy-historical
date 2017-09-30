@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warehouseexpress.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621080544id_/http%3A//www.warehouseexpress.com/help/site-security-privacy-cookie-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouseexpress.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930211018id_/http%3A//www.wexphotographic.com/help/site-security-privacy-cookie-information) for the most accurate reproduction.*
 
-# Site Security, Privacy & Cookie Information | WEX Photographic.com
+# Site Security, Privacy & Cookie Information | Wex Photographic
 
 The entire checkout process for the Wex Photographic web site is held on a secure server using a verified SSL (secure socket layer) system for transferring data. If you click on the small padlock symbol at the bottom of your browser's screen you will be taken to this site's security certificate. If you have any concerns regarding the security of this site please inform us [here](https://web.archive.org/help/email-us/).
 
