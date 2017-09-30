@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614120814id_/http%3A//atlus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930181308id_/http%3A//atlus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlus USA
 
