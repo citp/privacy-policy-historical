@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311182518id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930041414id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | TransLink
 
-The Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
+TransLink, a division of the Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
 
 ## Collecting information
 
@@ -118,20 +118,44 @@ The TransLink website uses cookies for the [journey planner](http://jp.translink
 
 The website contains links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
 
-If you have any questions about our privacy and security practices, please contact The Department of Transport and Main Roads:
+### Feedback & enquires
 
-Right to Information, Privacy and Complaints Management  
+For general enquiries, [call TransLink on 13 12 30](https://web.archive.org/contact-us) (also available via the [National Relay Service](http://relayservice.gov.au/making-a-call/)).
+
+Or via post at:
+
+TransLink Division  
 Department of Transport and Main Roads  
-GPO Box 1549  
+GPO Box 50  
 Brisbane  
 Queensland 4001
 
-Email: [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)
+### Privacy complaints
 
-Phone: 3066 7108
+If an individual believes that TransLink has not dealt with their personal information in accordance with the IPPs contained in the IP Act, they may lodge an information privacy complaint.
 
-Fax: 3066 7101
+A privacy complaint is a complaint by an individual about an act or practice of a department in relation to the individual’s personal information.
 
-[National Relay Service](http://relayservice.gov.au/making-a-call/)
+Privacy complaints made to the department must:
 
-For general enquiries, [call TransLink on 13 12 30](https://web.archive.org/contact-us).
+  * be written
+  * state an address of the complainant to which notices may be forwarded under the IP Act
+  * provide certified identification
+  * give particulars of the act or practice the subject of the complaint.
+
+
+
+Privacy complaints need to be marked  **private and confidential**  and forwarded to:
+
+Contact method | Contact details  
+---|---  
+**Post:** | The Privacy Contact Officer   
+RTI, Privacy and Complaints Management  
+Department of Transport and Main Roads   
+GPO Box 1549   
+Brisbane Qld 4001  
+**Email:** | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
+**Phone:** | 07 3066 7108  
+**Fax:** | 07 3066 7022  
+  
+Or you may lodge your complaint or enquiry online through our [online complaints form](https://translink.com.au/contact-us/feedback).
