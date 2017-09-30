@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebitr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120716id_/http%3A//celebitr.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebitr.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930160113id_/http%3A//celebitr.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Celebitr | Privacy
 
