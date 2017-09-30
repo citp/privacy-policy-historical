@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsnaut.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613181150id_/http%3A//sportsnaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnaut.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930134534id_/http%3A//sportsnaut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sportsnaut.com
+# Privacy Policy
 
 Sportsnaut knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
