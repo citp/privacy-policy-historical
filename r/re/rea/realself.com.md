@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403224950id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930194925id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Guidelines & Policies
 
@@ -16,7 +16,8 @@ RealSelf values your privacy. This Privacy Policy details important information 
 
 In addition, if you provide your third-party account information to RealSelf (e.g., your log-in information for Facebook or other third party social networking sites), you understand that RealSelf may receive information about you (including information about friends, connections, contact information and demographic information) from those third party sites and that information may be transmitted into your RealSelf account. The information collected by RealSelf from the third party sites may depend on your privacy settings with those third party sites. As a result, you should consult the privacy notices or policies of those third party sites.
 
-If you send direct messages through RealSelf to other RealSelf users, please note that RealSelf may store these direct messages in order to deliver them and allow you to manage them. In addition, if you send messages to RealSelf using our "Live Chat" feature, then you understand that RealSelf will store these messages in order to verify the accuracy of the information you submitted as well as for staff training purposes. RealSelf may disclose any of your messages as part of investigations into the use and operation of the Site. RealSelf may also choose not to deliver your direct messages if the direct messages are spam or are otherwise objectionable in the sole discretion of RealSelf.
+If you send direct messages or electronic messages through RealSelf to other RealSelf users or health care providers, please note that RealSelf may store these messages in order to deliver them and allow you or the recipient of the message to manage them. In addition, if you send messages to RealSelf using our "Live Chat" feature, then you understand that RealSelf will store these messages in order to verify the accuracy of the information you submitted as well as for staff training purposes. RealSelf may disclose any of your messages as part of investigations into the use and operation of the Site. RealSelf may also choose not to deliver your messages if the messages are spam or are otherwise objectionable in the sole discretion of RealSelf.  
+
 
 **Information RealSelf Automatically Collects Through Your Use of the Site or Service.**
 
@@ -33,6 +34,9 @@ RealSelf uses cookies to: (a) remember information so that you will not have to 
 **How We Respond to Do Not Track Signals.**
 
 RealSelf currently does not respond to "Do Not Track" signals.
+
+**Payment Information**.  If you purchase a RealDeal through realself.com, the payment information that you provide to RealSelf is transmitted via an encrypted connection to our Third-Party Payment Processor, Stripe. Stripe uses, processes and stores your personal and payment information in accordance with Stripe’s [Privacy Policy](http://stripe.com/us/privacy) available at [stripe.com/us/privacy](https://stripe.com/us/privacy). RealSelf does not store your payment information.  However, RealSelf does collect your name, email address and telephone number in order to process your payment and this information is stored by RealSelf.  Stripe maintains that it is PCI compliant and you can learn more about Stripe’s security measures available at[ stripe.com/help/security](https://stripe.com/help/security).  By submitting your credit or debit information to RealSelf, you expressly consent to RealSelf sharing your personal and payment information with Stripe and acknowledge and agree that Stripe may store your credit card or debit card information in connection with your purchase of a RealDeal.  
+
 
 ## 3\. How RealSelf Uses Information
 
@@ -123,4 +127,4 @@ Please contact RealSelf with any questions or comments about this Privacy Policy
 > 83 South King Street, Ste. 800  
 > Seattle, WA 98104
 
-**Date Last Modified:** This Privacy Policy was last modified on **January 23, 2017**.
+**Date Last Modified:** This Privacy Policy was last modified on **August 9, 2017**.
