@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502162716id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001014932id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cricket
 
-[](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish")  | [](https://web.archive.org/content/dam/newco/legal/privacy-policy-chinese-june-2016.pdf "privacy policy in Chinese")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-korean-june-2016.pdf "privacy policy in Korean")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-polish-june-2016.pdf "privacy policy in Polish")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-portuguese-june-2016.pdf "privacy policy in Portuguese") |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-vietnamese-june-2016.pdf "privacy policy in Vietnamese")
+[](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish")  | [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-chinese.pdf "privacy policy in Chinese")  |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-korean.pdf "privacy policy in Korean")  |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-polish.pdf "privacy policy in Polish")  |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-portuguese.pdf "privacy policy in Portuguese") |  [](https://web.archive.org/content/dam/newco/legal/cricket-wireless-privacy-policy-vietnamese.pdf "privacy policy in Vietnamese")
 
-#### Effective June 16, 2016, Cricket Wireless Privacy Policy was updated. [View the previous version >](https://web.archive.org/legal-info/privacy-policy-051815.html "view the previous privacy policy")
+#### Effective May 21, 2017, Cricket Wireless Privacy Policy was updated. [View the previous version >](https://web.archive.org/legal-info/privacy-policy-old.html "view the previous privacy policy")
 
 * * *
 
@@ -20,9 +20,9 @@ Whenever you do something like buy one of Cricket Wireless ("Cricket") products 
 
 * * *
 
-Effective June 16, 2016
+Effective May 21, 2017
 
-Last Updated: May 9, 2016
+Last Updated: June 16, 2016
 
 * * *
 
@@ -71,7 +71,7 @@ Here are just some of the ways we use it. To:
   * Let you know about service updates, offers, and promotions;
   * Improve entertainment options;
   * Deliver Relevant Advertising;
-  * Create External Marketing & Analytics Reports
+  * Create External Marketing & Analytics Reports; and
   * Assist in the prevention and investigation of illegal activities and violations of our Terms of Service or Acceptable Use Policies.
 
 
@@ -193,10 +193,12 @@ Any time you give information to companies other than Cricket. Some examples are
 
   * When you download applications or make purchases from other companies while using our wireless services;
   * When you go to a non-Cricket website from one of our websites or applications (by clicking on a link or an advertisement, for example);
+  * When you give your information to another company through a website co-branded by Cricket but controlled by the other company;
   * If you use public forums such as social networking services, Internet bulletin boards, chat rooms, or blogs, the information is publicly available, and we cannot prevent distribution and use of that information by other parties;
   * Information about your location, usage and the numbers you dial when you're out and about and roaming on the network of another company;
   * When you purchase or use non-Cricket products (such as wireless devices, internet browsers and mobile applications) in combination with Cricket services;
   * When we license our brand to other companies for their use in marketing and selling certain non-Cricket products and services, information you give those companies is not covered by this Policy.
+  * We encourage you to consult the company's privacy policy to ensure that you understand how it intends to use your information and how you may exercise choices and control over it.
 
 
 
@@ -285,6 +287,7 @@ Companies that perform these services may be located outside the United States, 
 
 There are also occasions when we provide Personal Information to other companies or other entities, such as government agencies, credit bureaus and collection agencies, without your consent. Some examples include sharing to:
 
+  * Respond to lawful requests by public authorities, including to meet national security or law enforcement requirements;
   * Comply with court orders, subpoenas, lawful discovery requests and other legal or regulatory requirements, and to enforce our legal rights or defend against legal claims;
   * Obtain payment or make refunds for products and services that appear on your Cricket billing statements;
   * Enforce our agreements and protect our rights or property;
@@ -310,7 +313,7 @@ Let's start with what we mean when we use the word "cookie" and other related te
   * There are a couple of important things to remember about cookies:
     * Disabling cookies may prevent you from using specific features on some websites. You'll need to perform the opt out procedure if you opt out of a program or service and then change computers or Web browsers, or clear or erase the digital "cookie" that lets us know you opted out.
     * Local Storage Cookies. Local Storage is a convenient, flexible, secure and faster way to store HTTP state data. It is a method by which our web pages locally store named key/value pairs in a user's web browser. Local storage on ATT.com is mainly used to store and retrieve data in HTML pages from our domains. Local storage data is session-based and will not persist once the session is over and the browser is closed.
-  * Flash Cookies (also called Local Shared Objects or "LSOs") are data files similar to cookies, except that they can store more complex data. They are used to remember your settings, preferences and usage, and other similar services. Flash cookies allow functionality and availability of certain services. If disabled, these services may not function correctly. While browser cookies may be removed or blocked via web browser settings, flash cookies operate differently. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at Global Storage Settings Panel.
+  * Flash Cookies (also called Local Shared Objects or "LSOs") are data files similar to cookies, except that they can store more complex data. They are used to remember your settings, preferences and usage, and other similar services. Flash cookies allow functionality and availability of certain services. If disabled, these services may not function correctly. While browser cookies may be removed or blocked via web browser settings, flash cookies operate differently. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at Global Storage Settings Panel (<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>).
   * Web beacons are small graphic images on a Web page or in an email. They can be used for things like recording the pages and advertisements that users click on, or tracking how well an e-mail marketing campaign performs.
   * A widget is a small program or application that can be embedded in a web page. It can provide real-time information, such as stock quotes or weather reports. Widgets are often provided by a third party and allow them to collect data about users viewing that page.
   * A server log records your web activity by your computer or mobile device and plays a key role in improving web page performance and introducing new features. For example, it may record which search terms you've entered, or the links you've clicked on. It may also record your browser information, such as your IP address, device type, how long you spend on a Web page, and your browser's cookies.
@@ -480,11 +483,9 @@ Laws and regulations guide us in how to give you notification when certain types
 
 ##### 5\. Can I review, correct, update or remove my Personal Information and Deactivate my account?
 
-Yes. We are happy to help you review, correct, update, or remove the information associated with your account and billing records as appropriate.  We may still retain your information in our files however, as required for various purposes including dispute resolution, enforcing user agreements and other business, technical or legal requirements. Please login to [your Cricket account](https://web.archive.org/my-account.html) for assistance. If you need further assistance please contact us at [privacypolicy@cricketwireless.com](mailto:privacypolicy@cricketwireless.com). We will respond to all requests within 30 days.
+Yes. We are happy to help you review, correct, update, or remove the information associated with your account and billing records as appropriate.  We may still retain your information in our files however, as required for various purposes including dispute resolution, enforcing user agreements and other business, technical or legal requirements. Please login to [your Cricket account](https://web.archive.org/my-account.html) for assistance. If you need further assistance please contact us at [privacypolicy@cricketwireless.com](mailto:privacypolicy@cricketwireless.com). We will respond to all requests within a reasonable time.
 
-##### 6\. Have your privacy practices been certified?
-
-Yes, and we're very proud of it! TRUSTe has awarded Cricket Wireless the TRUSTe Privacy Seal. As an independent third party, TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. Our TRUSTe Privacy Seal signifies that TRUSTe has reviewed our Privacy Policy and practices for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements"). These include transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through [www.cricketwireless.com](https://web.archive.org/home.html "Cricket's website") and does not cover our mobile applications.
+#### 
 
 #### QUESTIONS ABOUT FUTURE CHANGES
 
@@ -539,7 +540,7 @@ Yes. Click [here](https://web.archive.org/legal-info/customer-choices-and-contro
   * Email us at [privacypolicy@cricketwireless.com](mailto:privacypolicy@cricketwireless.com "privacy policy email address")
   * Write to us at Cricket Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
   * For questions not related to privacy [Contact our Customer Service team](https://web.archive.org/contactus.html "contact us"). You also can [access your online account](https://web.archive.org/my-account.html "access your online account") for additional service options.
-  * If you do not receive acknowledgment of your privacy inquiry or your inquiry is not addressed to your satisfaction, you may contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request "contact TRUSTe Watchdog Dispute Resolution Process"). TRUSTe will serve as a liaison to resolve your concerns.
+  * If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request>. If you are not satisfied with our resolution of any dispute, including with respect to privacy or data use issues, please view our dispute resolution procedures at <http://www.att.com/disputeresolution>.
   * You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an [online form](https://www.ftccomplaintassistant.gov/ "FTC online form"), or by calling toll-free 877.FTC.HELP (877.328.4357; TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
 
 
