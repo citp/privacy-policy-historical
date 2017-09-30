@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619230428id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930193531id_/https%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Web2Carz
 
@@ -34,9 +34,9 @@ Our web sites, newsletters and, from time to time, certain other products and se
 
 For example, we may use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our web site. If users reject the cookies, they may be limited in the use of some areas of our web site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our web sites and via our email newsletters through the use of pixel tags (also called clear gifs) and web beacons. The use of cookies, pixels and web beacons enable us to track and target the interests of our users to enhance the experience on our sites and via our email newsletters.
 
-In addition, we use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+In addition, we use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <https://www.networkadvertising.org/managing/opt_out.asp>.
 
-Google, as a third party vendor, uses cookies to serve ads on Web2Carz. Google's use of the DART cookie enables it to serve ads to our users based on their visit to Web2Carz and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on Web2Carz. Google's use of the DART cookie enables it to serve ads to our users based on their visit to Web2Carz and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partners, to help manage our online advertising for Web2Carz products and services. These web beacons enable an ad server to recognize a browser's cookie when a browser visits these sites and to learn which banner ads bring users to our Web sites. The information used in this process is not personally identifiable.
 
@@ -85,7 +85,7 @@ If we change our Privacy Statement, we will post those changes on this page so o
 
 ### BANKRUPTCY CONSULTATION
 
-If you opted-in to to be contacted by a local bankruptcy attorney for a free consultation (on our loan application form) and if you agree to these terms and conditions you are also agreeing to Total Bankruptcy's terms and conditions. <http://www.totalbankruptcy.com/terms_conditions.htm>
+If you opted-in to to be contacted by a local bankruptcy attorney for a free consultation (on our loan application form) and if you agree to these terms and conditions you are also agreeing to Total Bankruptcy's terms and conditions. <https://www.totalbankruptcy.com/terms_conditions.htm>
 
 For questions about this Privacy Statement, contact:
 
