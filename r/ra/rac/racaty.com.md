@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racaty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175208id_/https%3A//racaty.com/%3Fop%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racaty.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930204138id_/https%3A//racaty.com/%3Fop%3Dprivacy) for the most accurate reproduction.*
 
 # Racaty - Easy way to share your files
 
