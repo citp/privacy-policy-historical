@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624072125id_/http%3A//www.genengnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930100200id_/http%3A//genengnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GEN
 
-  * [ ](https://web.archive.org/gen-exclusives/fixing-crispr/77900928) [Fixing CRISPR](https://web.archive.org/gen-exclusives/fixing-crispr/77900928)
+  * [ ](https://web.archive.org/gen-articles/precision-medicine-a-bold-initiative-grows-more-iterative/6160) [Precision Medicine: A Bold Initiative Grows More Iterative](https://web.archive.org/gen-articles/precision-medicine-a-bold-initiative-grows-more-iterative/6160)
 
-Researchers Seek Ways to Minimize Off-Target Effects
+Precision Medicine Is Maintaining a Learning Cycle That Connects Data Collection, Evidence-Based Treatment, and Outcome Analysis
 
-  * [ ](https://web.archive.org/gen-exclusives/literature-review-dials-for-cas9/77900925) [Literature Review: Dials for Cas9](https://web.archive.org/gen-exclusives/literature-review-dials-for-cas9/77900925)
+  * [ ](https://web.archive.org/gen-exclusives/organ-on-a-chip-technology-trumpeted-as-future-of-drug-discovery/77900984) [Organ-on-a-Chip Technology Trumpeted as Future of Drug Discovery](https://web.archive.org/gen-exclusives/organ-on-a-chip-technology-trumpeted-as-future-of-drug-discovery/77900984)
 
-Methods to Control Cas9-Based Technologies Across Numerous Dimensions Is Still Lacking
+Slides of Cells Can Mimic Human Tissues Better Than Animal Models but Still Have Development Challenges, Scientists Say
 
-  * [ ](https://web.archive.org/gen-articles/opening-up-relieves-downstream-bottlenecks/6086) [Opening Up Relieves Downstream Bottlenecks](https://web.archive.org/gen-articles/opening-up-relieves-downstream-bottlenecks/6086)
+  * [ ](https://web.archive.org/gen-exclusives/autologous-car-t-cell-manufacturing-current-standing-and-future-directions/77900982) [Autologous CAR-T Cell Manufacturing: Current Standing and Future Directions](https://web.archive.org/gen-exclusives/autologous-car-t-cell-manufacturing-current-standing-and-future-directions/77900982)
 
-Celebrate the Downstream Improvements That Have Been Achieved, Even If They Fail to Match Upstream Improvements
+A Look at What Drug Manufacturers are Likely Using to Make CAR-T Products
 
-  * [ ](https://web.archive.org/the-lists/top-10-european-biopharma-clusters/77900926) [Top 10 European Biopharma Clusters](https://web.archive.org/the-lists/top-10-european-biopharma-clusters/77900926)
+  * [ ](https://web.archive.org/gen-articles/supplement-milliporesigma-sees-opportunity-in-continuous-processing/6150) [Supplement: MilliporeSigma Sees Opportunity in Continuous Processing](https://web.archive.org/gen-articles/supplement-milliporesigma-sees-opportunity-in-continuous-processing/6150)
 
-The Continent’s Key Academic and Industrial Centers for Drug Development
+From the _GEN_ Sounds of Science Podcast
 
 
 
