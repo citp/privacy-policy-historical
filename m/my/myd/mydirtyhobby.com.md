@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydirtyhobby.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080823id_/http%3A//cdn1.e11.mdhcdn.com/u/privacypolicy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydirtyhobby.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930151548id_/https%3A//cdn1-l-ha-e11.mdhcdn.com/u/privacypolicy_en.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
