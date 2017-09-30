@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513213901id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930045911id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidpress
 
