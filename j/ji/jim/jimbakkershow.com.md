@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405112013id_/http%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930135036id_/https%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Jim Bakker Show
+# Privacy Policy | The Jim Bakker Show
 
 * * *
 
@@ -108,7 +108,7 @@ This online privacy policy applies only to information collected through our web
 
 * * *
 
-Please also visit our [Terms and Conditions](http://jimbakkershow.com/terms-and-conditions/) section establishing the use, disclaimers, and limitations of liability governing the use of our website
+Please also visit our [Terms and Conditions](http://jimbakkershow.morningsidechurchinc.com/terms-and-conditions/) section establishing the use, disclaimers, and limitations of liability governing the use of our website
 
 * * *
 
