@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codegear.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215174136id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegear.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930125751id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy | Embarcadero
 
@@ -18,7 +18,9 @@ The following statement discloses the consumer privacy practices of Embarcadero 
 
 We do revise and update our privacy practices from time to time. In general, we do not provide specific notification of such updates, and we reserve the right make them without any notice to you. You should visit this page, at least once every thirty days, to review our then-current privacy practices, because they are binding on you. All updates will be published at this site. Your continued use of this Site shall be considered your consent to any revised privacy practices.
 
-## Use of Personally Identifiable Information
+## Your Privacy
+
+### Use of Personally Identifiable Information
 
 In general, you can visit this Site without telling us who you are or revealing any personal information about yourself. However, some areas of this Site require registration to access, which requires you to provide certain personally identifiable information, including: your name, mailing address, email address and voice and/or fax telephone numbers. We collect this information to better understand your needs and provide you with services that are valuable to you. If you choose not to provide some of the information we request, you can still visit much of this Site, but you may be unable to access certain options, offers and services such as downloading trial or evaluation software.
 
@@ -36,7 +38,7 @@ Please be advised that in certain instances, it may be necessary for Embarcadero
 
 Personal data privacy is a new and evolving area, and mistakes and miscommunication are possible. We will do our best to maintain the accuracy of your personal information. To make changes to our records of your personal information, please modify your [registration profile](https://edn.embarcadero.com/). Visitors who have registered for support may modify their separate profile by clicking on the link marked "Customer Profile" after logging into case management.
 
-## Use of Cookies
+### Use of Cookies
 
 With respect to cookies, we use cookies to store visitor's preferences and download registration information for the convenience of the visitor.
 
@@ -48,11 +50,11 @@ With respect to Ad Servers, we do not partner with or have special relationships
 
 Certain features on our site may be provided by a third party, such as our online store and those sites may also use cookies. Since we do not control those Web sites, we encourage you to review their policies. If you have any questions about the data collection practice of advertisers, please contact those companies directly.
 
-## Password
+### Password
 
 When you register with this Site, you will be provided a password that will allow you to access this Site. You are responsible for maintaining the confidentiality of your personal information and password. You shall be responsible for all uses of your password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your password.
 
-## Links to Third Party Web Sites
+### Links to Third Party Web Sites
 
 At this Site, there may be links to companies with whom we have a relationship. Embarcadero is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
@@ -62,6 +64,6 @@ Please remember that any information you submit in a chat group or forum will be
 
 If you feel that this site or the company is not following its stated privacy policy, please contact us immediately at the above email address or phone number.
 
-## California Do Not Track Notice
+### California Do Not Track Notice
 
 Our website is not designed to respond to "do not track" signals received from browsers.
