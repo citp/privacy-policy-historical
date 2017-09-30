@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628155958id_/http%3A//www.nhm.ac.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930184845id_/http%3A//www.nhm.ac.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy notice | Natural History Museum
 
@@ -37,7 +37,7 @@ The Natural History Museum and/or the Natural History Museum Trading Company are
 
 When you visit [www.nhm.ac.uk](http://www.nhm.ac.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site, to compile statistical reports on website activity and to personalise our visitors’ experiences of using the site.
 
-Cookies are text files placed on your computer to collect this information. You can set your browser not to accept cookies and remove cookies from your browser. However in a few cases some of our website features may not function as a result. You can read more about how we use cookies and how to disable cookies on our [Information about cookies page](http://www.nhm.ac.uk/about-us/website-help/terms-of-use/cookies/index.html).
+Cookies are text files placed on your computer to collect this information. You can set your browser not to accept cookies and remove cookies from your browser. However in a few cases some of our website features may not function as a result. You can read more about how we use cookies and how to disable cookies on our [Information about cookies page](https://web.archive.org/about-us/cookies.html).
 
 If we do want to collect personally identifiable information via the website or other digital channels, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
