@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cannabis.net privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201202740id_/https%3A//cannabis.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cannabis.net privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930211235id_/https%3A//cannabis.net/privacy-policy) for the most accurate reproduction.*
 
 # Cannabis.net
 
