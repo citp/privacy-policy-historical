@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysafe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024220id_/https%3A//www.buysafe.com/legal_notices/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysafe.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930035629id_/https%3A//www.buysafe.com/legal_notices/privacy_and_security.html) for the most accurate reproduction.*
 
 # buySAFE | Legal Notices
 
