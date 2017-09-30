@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dk.co.uk privacy policy that was archived on 2017-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170326030944id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dk.co.uk privacy policy that was archived on 2017-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170930124150id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
     <meta property="og:site_name" content="DK Publishing">
     <meta property="og:title" content="DK Privacy Policy and Cookies | Help and Shopping | DK.com">
     <meta property="og:description" content="DK is the leading illustrated reference publisher. Read the DK.com Privacy Policy and Cookies to understand how DK collects information and uses cookies.">
-    <meta property="og:url" content="https://www.dk.com:81/uk/information/privacy-policy-and-cookies/">
+    <meta property="og:url" content="https://www.dk.com/uk/information/privacy-policy-and-cookies/">
     <meta property="og:type" content="Article">
     
         <meta property="og:image" content="https://res.cloudinary.com/dorling-kindersley/image/upload/DK/0cb25443e9dd491485e3376f10ce3a34/aa0ad741b9af4f46a66ea69912adfacf.png">
@@ -43,7 +43,7 @@
     <script type="text/javascript" src="/assets/js/productmain.js"></script>
     <script type="text/javascript" src="/assets/js/cookie.js"></script>
 
-    <link href="/bundles/css?v=Kzo74q05yh2k8bE-GVMwK7jKQxDmYKGhkTzLc3wO1aY1" rel="stylesheet">
+    <link href="/bundles/css?v=p_RTFIrFU_hng1S0AOdQk-Q3Rwfr5PZYtuj8mN__ZR41" rel="stylesheet">
 
     <!-- Browser Specific CSS -->
     <!--[if IE 8]>
@@ -66,7 +66,7 @@
             // DO NOT EDIT BELOW THIS LINE
             f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
         }()); _vwo_settings_timer = _vwo_code.init();
-    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=143732&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170326030944id_%2Fhttps%3A%2F%2Fwww.dk.com%2Fuk%2Finformation%2Fprivacy-policy-and-cookies%2F&amp;r=0.9205871464150064" type="text/javascript"></script>
+    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=143732&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170930124150id_%2Fhttps%3A%2F%2Fwww.dk.com%2Fuk%2Finformation%2Fprivacy-policy-and-cookies%2F&amp;r=0.25448828859102113" type="text/javascript"></script>
     <!-- End Visual Website Optimizer Asynchronous Code -->
 
     
@@ -206,6 +206,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             cName = "in";
         }
     }
+
+    function ValidateEmail(email) {
+        if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)) {
+            return true;
+        }
+
+        return false;
+    }
 </script>
 
 <link rel="stylesheet" href="/assets/css/SignUp.css">
@@ -221,8 +229,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
                 <div class="TopNavContainer">
                     <input type="text" id="SignUpEmailTopNavMobile" name="SignUpEmailTopNavMobile" class="NewsTopNav" placeholder="email address">
-                    <input type="submit" id="btnSignUpTopNavMobile" name="btnSignUpTopNavMobile" value="SIGN UP">
+
+                        <input type="submit" class="js-agecheck-action" id="btnSignUpTopNavMobile" name="btnSignUpTopNavMobile" value="SIGN UP">
                 </div>
+                    <div style="padding-top:5px;">
+                        <p class="AgeCheckMessage">
+                            <i class="tick js-agecheck-nav"><img class="tickImg" src="/assets/svg/tick.svg"></i>
+
+                            I can confirm that I am over 16
+                        </p>
+                    </div>
                 <div class="PrivacyPolicy">
                     <p style="color:black;">By submitting your email, you agree to the terms of our          <a target="_blank" href="/uk/information/privacy-policy-and-cookies/" title="Privacy Policy" class="">Privacy Policy</a>
 </p>
@@ -234,7 +250,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <script type="text/javascript">
             $(document).ready(function () {
+
+                $('.js-agecheck-nav').click(function (e) {
+                    $('.js-agecheck-nav').toggleClass('tick--selected');
+                })
+
                 $("#btnSignUpTopNavMobile").unbind('click').click(function () {
+
+                    if(ValidateEmail($("#SignUpEmailTopNavMobile").val()) == false){
+                        $("#lblTopNavMessageMobile").html('Please enter a valid email address');
+                        $('#ErrorMessageTopNavMobile').css('display','block');
+                        return false;
+                    }
+
+                    if($("#btnSignUpTopNavMobile").hasClass('js-agecheck-action') && $(".js-agecheck-nav").hasClass('tick--selected') == false){
+                        $("#lblTopNavMessageMobile").html('Please confirm you are over 16');
+                        $('#ErrorMessageTopNavMobile').css('display','block');
+                        return false;
+                    }
+
                     $.getJSON("/" + cName + "/JSONSubmitNewsLetterEmail", { EmailAddress : $("#SignUpEmailTopNavMobile").val(), TableID :  8, preferencesTableID : 6, listIDs : "224,232", EmailSource : "Top Menu", CookieExpiryDays : 60, DesignLayout : "Top Menu", HoneyPotField : $("#HoneyPotField").val() }, function (data) {
                         var div = $('#ErrorMessageTopNavMobile');
                         div.css('display','block');
@@ -396,10 +430,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="/assets/images/flag-ca.png">
                     <span>CA</span>
                 </a>
-<a class="country-selector__menu-flag-option" title="AU" href="/au/">
-                    <img src="/assets/images/flag-au.png">
-                    <span>AU</span>
-                </a>
 <a class="country-selector__menu-flag-option" title="IN" href="/in/">
                     <img src="/assets/images/flag-in.png">
                     <span>IN</span>
@@ -419,9 +449,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="js-basket-load js_show_bag_content"></div>
 <input type="hidden" value="1" name="marketid" id="marketid" class="js-marketid" data-marketid="1">
-<input type="hidden" value="e510224e-cf21-4fd6-938c-a8478a837dd5" name="customerid" id="customerid" class="js-customerid" data-customerid="e510224e-cf21-4fd6-938c-a8478a837dd5">
-<input type="hidden" value="https://frntend1cms.dkforeveryone.com/api" name="apibaseurl" id="apibaseurl" class="js-apibaseurl" data-apibaseurl="https://frntend1cms.dkforeveryone.com/api">
-<input type="hidden" value="jYX5sqxJd9L9i11DNV0oZNOYxxgKbKVJdhunLl5JUCEHAOA0mL6kWE5Y0cpvDarcLUj4WgwnFYs_UUoPrJOLZXJ661WisXoD8aZLHV9HwY44sQa9wewCzMipjzcMuu2p2SWNrHtfBU1u9sgpkolGOOI6Ck2kq7uUmfakRL1mCS581pmdWTAspWFKhXejHezcTAJDcHLNKeC8MyUwB_Z95A" name="apitoken" id="apitoken" class="js-apitoken" data-apitoken="BrHmsifh-2mqEZWefvlGEGMFbaqQOACzibHZ6O9JfJMCpoZQah6pX5l_9LfM7rkxuCI7xlgAdl_XngOLiplPWtq_0F34songNojGOIg7UJsCLfz5n1YOaR3L-Fldue6jPczLLOVQDDprtL2eXimrgVcsa2sHUkxuUIbMNLfipT9GUlnWIa3a-f-fPm8OcehpIDR9jYNw4XgRKPfqLSIKdQ">
+<input type="hidden" value="8e67e599-2af9-48da-a7ab-10360a3e6a54" name="customerid" id="customerid" class="js-customerid" data-customerid="8e67e599-2af9-48da-a7ab-10360a3e6a54">
+<input type="hidden" value="https://dkhub-neu-prd-web-cms.azurewebsites.net/api" name="apibaseurl" id="apibaseurl" class="js-apibaseurl" data-apibaseurl="https://dkhub-neu-prd-web-cms.azurewebsites.net/api">
+<input type="hidden" value="WZu39THWk95yu9_hPo5z7QK7SLkzDWadKl2n43JGd1EtAfLiIw0b6hkuF0c9esJ2ckD0soReY1PvSQGuBX1hudou5XF2GxG2tlC7vF9najo643d0F4-kKcZS41CqNDH_F7OZ8pxGv2f1gFSQzFnlscbAM11XfXpwfltQYaCU5LjzWPis5ItwI7whTwF9M8wqhbFCcpqhIt6ZKUi88QFsSA" name="apitoken" id="apitoken" class="js-apitoken" data-apitoken="HxAfJbFo5dSxPHPGQKmQPkz5eKzcfKAHYp7wE-R5RlkWSHrrgTeKObN6FkngcSOBy-X3c6w8BrqbVmBlQwWPmpHZ_BJUzTiBUF5CZh9PSEPvvCcysRd6Q9veys1WLol0H22hglYCSD1Ba7F7hvlNi_AgF72xTjwN8k3QtgVFCWcuka1FkrA1k97KmNzpsHT2ypjqSgB1i5qM-XbH3yct9Q">
 
 <!-- location detected overlay -->
 <div class="location-overlay-holder"></div>
@@ -473,65 +503,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="span9 info16x red-style cms-pdf-block">
                         <div><div>
     <div class="cms-list">
-        <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>This website is owned and operated by Dorling Kindersley Limited.</p>
-<p>&nbsp;</p>
-<h4>Our Privacy Policy</h4>
-<p>&nbsp;</p>
+        <p>This website is owned and operated by Dorling Kindersley Limited.</p>
+<h4>Our Privacy Policy<br><br></h4>
 <p>We want visitors to our websites to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.</p>
-<p>&nbsp;</p>
 <p>By using our websites you accept the terms of this Privacy Policy.</p>
-<p>&nbsp;</p>
-<h4>Personal Information</h4>
-<p>&nbsp;</p>
+<h4>Personal Information<br><br></h4>
 <p>We will not collect any personal data from you unless you specifically provide it and we will only use that information for the purposes to which you have consented. We do not ask you to provide any more information than is reasonably necessary to enable you to participate in an activity on our website and to improve the website.</p>
-<p>&nbsp;</p>
 <p>We do not generally disclose your personal information to third parties. We may have to sometimes, in which case we will inform you of our intention to do so when we collect the information and you will have the opportunity to consent to that use or not.</p>
-<p>&nbsp;</p>
 <p>Except as described in this Privacy Policy, we do not maintain any personal information obtained from users through this website in a retrievable form.</p>
-<p>&nbsp;</p>
 <p>Below are some examples of when we might request your information and how we will use it.</p>
-<p>&nbsp;</p>
-<h4>Newsletters</h4>
-<p>&nbsp;</p>
-<p>We have several newsletters that keep readers up-to-date with information on our books, authors, events, offers etc. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you. We may also ask you to provide other information about yourself, such as your name, age, sex and location so that we can personalise your newsletters.</p>
-<p>&nbsp;</p>
-<h4>Prize Promotions</h4>
-<p>&nbsp;</p>
-<p>We regularly run competitions and prize draws and, in addition to your answer or entry, we will require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented when you entered. Our competitions and prize draws shall also be subject to their own set of terms and conditions in each case.</p>
-<p>&nbsp;</p>
-<h4>Shopping</h4>
-<p>&nbsp;</p>
+<h4>Newsletter<br><br></h4>
+<p>We have several newsletters that keep readers up-to-date with information on our books, authors, events, offers etc. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you. We may also ask you to provide other optional information about yourself, such as your age, sex and location so that we can personalise your newsletters.</p>
+<h4>Prize Promotions<br><br></h4>
+<p>We regularly run competitions, surveys and other promotions through our website, emails and social media channels. In order to participate in these, we will require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented when you entered. Our competitions and prize draws shall also be subject to their own set of terms and conditions in each case. We may, from time to time, use the data that we collect from our competitions, surveys and other promotions to send you relevant content based on your interests/email preferences via these channels and also online advertising, email newsletters, social media, online advertising and SMS. In such cases we will ask for your consent for this and request your preferences on how you wish to be contacted.&nbsp; Unsubscribe options exist for all these marketing channels.</p>
+<h4>Shopping<br><br></h4>
 <p>You can buy products directly from us, as well as from our selected retailer partners. However, please note that other retailers’ sites are not under our control and do not necessarily follow our Privacy Policy.</p>
-<p>&nbsp;</p>
-<h4>Forums and User Content</h4>
-<p>&nbsp;</p>
+<h4>Forums and User Content<br><br></h4>
 <p>If you sign up to one of our forums, we will ask you to provide a username and email address so that we can let people know who posts which comment and to enable us to deal with any inappropriate or offensive behaviour.</p>
-<p>&nbsp;</p>
 <p>For the same reasons, if you provide comments on any articles or upload your own content to our sites, we may ask you to provide your email address.</p>
-<p>&nbsp;</p>
-<h4>Email and other contact details</h4>
-<p>&nbsp;</p>
+<h4>Email and other contact details<br><br></h4>
 <p>You may wish to contact us from time to time by sending us letters or emails or by filling in contact forms on one of our websites. We will only use this information to respond to your query or suggestion.</p>
-<p>&nbsp;</p>
-<h4>Cookies</h4>
-<p>&nbsp;</p>
+<h4>Cookies<br><br></h4>
 <p>We use cookies on this site to enable certain parts of the site to function and to collect non-personal information about your use of the site so that we can improve our visitors’ experience.</p>
-<p>&nbsp;</p>
-<h4>What are Cookies?</h4>
-<p>&nbsp;</p>
+<h4>What are Cookies?<br><br></h4>
 <p>Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They cannot harm your computer and do not contain any information that enable us to identify you personally, they just enable our websites to recognise your computer and to identify certain other non-personal information such as which browser you are using. This information can be used to make the website work, to identify which parts of the site can work better or to analyse how often people visit the site and what they look at. We will not associate this data with any personally identifying information that you may choose to provide to us in other ways.</p>
-<p>&nbsp;</p>
 <p>By your using this website, you are accepting and consenting to the practices described in policy and agree to us sending you cookies.</p>
-<p>&nbsp;</p>
 <p>For information about how you can change how your browser deals with cookies, please see the “Managing Cookies” section below.</p>
-<p>&nbsp;</p>
 <p>Which cookies do we use on this site and why?</p>
-<p>&nbsp;</p>
 <p>The list below sets out the main cookies that we use on this site and what we use them for.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
     </div>
 </div><div>
     <div class="cms-list">
@@ -585,45 +584,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div><div>
     <div class="cms-list">
-        <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h4>Third Party Cookies</h4>
-<p>&nbsp;</p>
+        <h4>&nbsp;</h4>
+<h4>Third Party Cookies<br><br></h4>
 <p>Some features used on this website may involve a cookie being sent to your computer by a third party. For example, if you view or listen to any embedded audio or video content you may be sent cookies from the site where the embedded content is hosted. Likewise, if you share any content on this &gt;website through social networks (for example by clicking a Facebook “like” button or a “Tweet” button) you may be sent cookies from these websites. We do not control the setting of these cookies so please check the websites of these third-parties for more information about their cookies and how to manage them.</p>
-<p>&nbsp;</p>
-<h4>How to manage cookies</h4>
-<p>&nbsp;</p>
+<h4>How to manage cookies<br><br></h4>
 <p>To make full use of this site, your device must be set to accept cookies otherwise some of its (for example online shopping) may not work.</p>
-<p>&nbsp;</p>
 <p>If you nevertheless want to restrict, block or disable cookies, you can do so by changing your browser settings. If you would like more specific information about how to change your browser settings, please visit <a style="text-decoration: underline;" href="http://www.allaboutcookies.org/" target="_blank">www.allaboutcookies.org</a> which has detailed information for each browser as well as more information about cookies in general.</p>
-<p>&nbsp;</p>
-<h4>Privacy Policy: Apps</h4>
-<p>&nbsp;</p>
+<h4>Privacy Policy: Apps<br><br></h4>
 <p>This policy applies to software applications, enhanced ebooks and other similar digital products published by Penguin Books Limited, Dorling Kindersley Limited, Ladybird Books Limited, Frederick Warne &amp; Co. Limited and Rough Guides Limited. Such products are referred to in this Policy as "Apps".</p>
-<p>&nbsp;</p>
 <p>By using any of our Apps you accept the terms of this Privacy Policy.</p>
-<p>&nbsp;</p>
 <p>Anonymous aggregated analytics data</p>
-<p>&nbsp;</p>
 <p>Many of our Apps use the Flurry analytics tool. This collects anonymous data which tell us how users interact with our Apps and we will analyse that data to help us decide how to build better Apps in the future.</p>
-<p>&nbsp;</p>
 <p>If you wish to opt-out from Flurry analytics, please follow this link:</p>
-<p>&nbsp;</p>
 <p><a style="text-decoration: underline;" href="http://www.flurry.com/resources/privacy.html" target="_blank">http://www.flurry.com/resources/privacy.html</a></p>
-<p>&nbsp;</p>
-<h4>How to contact us</h4>
-<p>&nbsp;</p>
+<h4>How to contact us<br><br></h4>
 <p>If you have any questions about the Site or our privacy policy, please contact us by any of the following methods:</p>
-<p>&nbsp;</p>
-<p>The Editor,</p>
-<p>dk.com, DK</p>
-<p>Dorling Kindersley Limited</p>
-<p>80 Strand</p>
-<p>London</p>
-<p>WC2R 0RL</p>
-<p>United Kingdom</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>The Editor,<br> dk.com, DK<br> Dorling Kindersley Limited<br> 80 Strand<br> London<br> WC2R 0RL<br> United Kingdom</p>
 <p>Email: <a style="text-decoration: underline;" href="mailto:editor@dk.com">editor@dk.com</a></p>
 <p>Tel: 020 7139 2000</p>
     </div>
@@ -668,6 +644,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li><a href="/uk/information/about-dk/contact-us/" target="_top" title="Contact Us">Contact Us</a></li>
     <li><a href="/uk/information/about-dk/company-history/" title="DK Company Timeline">DK Company Timeline</a></li>
     <li><a href="/uk/information/about-dk/social-responsibility/" title="Social Responsibility">Social Responsibility</a></li>
+    <li><a href="https://res.cloudinary.com/dorling-kindersley/image/upload/DK/20b8e07a5ba141a7b7dac792e6a9b8ae/caf9eaf8534849c6af03c8e51fb1628a.pdf">Modern Slavery Statement</a></li>
 
                     <li class="p-rel visible-tablet"><ul>
     <li class="w-auto mb-5 hidden-desktop">Change Country:</li>
@@ -682,7 +659,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a href="/uk/SelectMarketAndLanguage?market=uk" title="UK" class="language uk">uk</a>
                     <a href="/us/SelectMarketAndLanguage?market=us" title="US" class="language us">us</a>
                     <a href="/ca/SelectMarketAndLanguage?market=ca" title="CA" class="language ca">ca</a>
-                    <a href="/au/SelectMarketAndLanguage?market=au" title="AU" class="language au">au</a>
                     <a href="/in/SelectMarketAndLanguage?market=in" title="IN" class="language in">in</a>
                         <a href="/uk/information/global-site-directory/" title="Rest of the World" class="last">Rest of the World</a>
 
@@ -714,7 +690,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li><a href="http://www.dkimages.com/" target="_blank" title="DK Images">DK Images</a></li>
     <li><a href="http://www.dkfindout.com/" target="_blank" title="DKfindout!">DKfindout!</a></li>
     <li><a href="https://www.dkefe.com/en/" target="_blank" title="English for Everyone">English for Everyone</a></li>
-    <li><a href="http://www.idiotsguides.com/" target="_blank" title="Idiot's Guides">Idiot's Guides</a></li>
     <li><a href="https://www.primagames.com/" target="_blank" title="Prima Games">Prima Games</a></li>
     <li><a href="http://www.roughguides.com/" target="_blank" title="Rough Guides">Rough Guides</a></li>
 
@@ -723,7 +698,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="span4 c-list">
                 <h4 class="title-link">DK Global </h4>
                 <ul>
-                        <li><a href="/au/" target="_blank" title="Australia">Australia</a></li>
+                        <li><a href="https://www.penguin.com.au/" target="_blank" title="Australia">Australia</a></li>
     <li><a href="/au/" target="_blank" title="New Zealand">New Zealand</a></li>
     <li><a href="/ca/" target="_top" title="Canada">Canada</a></li>
     <li><a href="http://penguinbooks.co.za/" target="_blank" title="South Africa">South Africa</a></li>
@@ -750,7 +725,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a href="/uk/SelectMarketAndLanguage?market=uk" title="UK" class="language uk">uk</a>
                     <a href="/us/SelectMarketAndLanguage?market=us" title="US" class="language us">us</a>
                     <a href="/ca/SelectMarketAndLanguage?market=ca" title="CA" class="language ca">ca</a>
-                    <a href="/au/SelectMarketAndLanguage?market=au" title="AU" class="language au">au</a>
                     <a href="/in/SelectMarketAndLanguage?market=in" title="IN" class="language in">in</a>
                         <a href="/uk/information/global-site-directory/" title="Rest of the World" class="last">Rest of the World</a>
 
@@ -800,16 +774,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script src="/bundles/corejs?v=rRzv97fSLh7QP2lNeUjEwPxcdaKykkKQDF1C9LPdMhY1" defer="" async=""></script>
 
-<script type="text/javascript" src="https://dl.episerver.net/12.2.4/epi-util/find.js"></script>
+<script type="text/javascript" src="https://dl.episerver.net/12.5.3/epi-util/find.js"></script>
 <script type="text/javascript">
 if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
 </script>
 
-<script src="/bundles/js?v=npbwwY5kiOnnR4g84mc8wXa2VW7-gsggiFNxdgik-vY1" defer=""></script>
+<script src="/bundles/js?v=olKQ3ypKPBwZzsW_XZKBWJdgBXPDvVBib8h99-H_5-Y1" defer=""></script>
 
 
 <!-- Keep this section just before end body tag-->
-<input type="hidden" value="LIVE01 (RP)" name="hdnEnvironment" id="hdnEnvironment">
+<input type="hidden" value="LIVE Azure" name="hdnEnvironment" id="hdnEnvironment">
 <input type="hidden" value="" name="apitoken" id="apitoken" class="js-apitoken" data-apitoken="">
 
 
