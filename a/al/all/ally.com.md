@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ally.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505122509id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ally.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930094555id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Ally
 
@@ -68,7 +68,7 @@ You can disable cookies by making the appropriate selection from your browser op
 
 ## Online Behavioral Advertising (OBA) on Third Party Sites
 
-There are two ways we use OBA on third party websites and mobile apps that are not affiliated with Ally.
+There are three ways we use OBA on third party websites and mobile apps that are not affiliated with Ally.
 
 ## Interest‐Based Advertising
 
@@ -79,6 +79,10 @@ Ally has adopted the use of the [AdChoices Icon](http://www.youradchoices.com/) 
 ## Device-Based Advertising
 
 We also use device information, particularly in mobile advertising, to help deliver our ads and measure ad campaign effectiveness. Ally and the companies we work with won’t collect any personally identifiable information (PII) but may collect your device information when you visit one of our sites or see our ads. Compiling and comparing this information creates a unique ID for individual devices and can be "matched" to the same information on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.
+
+## Device Usage Research
+
+We participate in the Adobe Marketing Cloud Device Co-op. This helps us understand how you use our website and apps across your devices so that we can better tailor promotions to you. [Learn more about how Adobe’s program works and manage your preferences.](https://cross-device-privacy.adobe.com/)
 
 ## "Do Not Track" Signals
 
@@ -108,7 +112,7 @@ You should use caution when deciding to disclose personal information in these a
 
 ## Changes to this Notice
 
-This Notice is effective December 29, 2016. We reserve the right to alter this Notice at our discretion. Any change to this Notice will be posted on our Sites in a timely manner.
+This Notice is effective June 15, 2017. We reserve the right to alter this Notice at our discretion. Any change to this Notice will be posted on our Sites in a timely manner.
 
 
 
