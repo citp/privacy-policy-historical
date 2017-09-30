@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradewindsnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034610id_/http%3A//www.tradewindsnews.com/mytw/faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradewindsnews.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930162357id_/http%3A//www.tradewindsnews.com/mytw/faq) for the most accurate reproduction.*
 
 # TradeWinds
 
