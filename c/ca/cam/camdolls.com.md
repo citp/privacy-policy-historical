@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camdolls.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129090031id_/http%3A//www.camdolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camdolls.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930161933id_/https%3A//www.camdolls.com/privacy) for the most accurate reproduction.*
 
 # Camdolls - Privacy policy
 
