@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cannabis.net privacy policy that was archived on 2017-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170201202740id_/https%3A//cannabis.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cannabis.net privacy policy that was archived on 2017-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170930211235id_/https%3A//cannabis.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -194,8 +194,8 @@ $(document).ready(function() {
 	        		url: 'https://cannabis.net/process/session',
 	        		data: {
 	                    'action': 'optin_popup',
-	                    'token': '589244bcb6cb64.28307507',
-	                    'particles': 'bac58b14611ba0b594ba8e4e0c02080d'
+	                    'token': '59d008c39285a3.83361803',
+	                    'particles': 'de5ffee0f806fe13b89e3707f51edf13'
 	        		},
 	        		dataType: 'json',
 	        		success: function(result){}
@@ -206,6 +206,7 @@ $(document).ready(function() {
     
     var ua = navigator.userAgent.toLowerCase();
     var isAndroid = ua.indexOf("android") > -1 && ua.indexOf("mobile");
+	var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
     if(isAndroid) {
         function getCookieVal (offset) {
             var endstr = document.cookie.indexOf (";", offset);
@@ -244,6 +245,52 @@ $(document).ready(function() {
             if(visit <= 2) 
                 setTimeout(function(){
                     $('#androidPopup').modal('show');
+                }, 2000);
+            if(visit >= 3)
+                return false;
+        }
+
+        DisplayInfo();
+        
+    }
+	if(iOS) {
+        function getCookieVal (offset) {
+            var endstr = document.cookie.indexOf (";", offset);
+            if (endstr == -1)
+                endstr = document.cookie.length;
+                return unescape(document.cookie.substring(offset, endstr));
+        }
+        function GetCookie (name) {
+            var arg = name + "=";
+            var alen = arg.length;
+            var clen = document.cookie.length;
+            var i = 0;
+            while (i < clen) {
+                var j = i + alen;
+                if (document.cookie.substring(i, j) == arg)
+                    return getCookieVal (j);
+                    i = document.cookie.indexOf(" ", i) + 1;
+                        if (i == 0) 
+                            break; 
+            }
+            return null;
+        }
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays*24*60*60*1000));
+            var expires = "expires="+ d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+        function DisplayInfo() {
+            var visit;
+            if(!(visit = GetCookie("visit"))) 
+                visit = 0;
+                visit++;
+                setCookie("visit", visit, 7);
+            var message;
+            if(visit <= 2) 
+                setTimeout(function(){
+                    $('#iOSPopup').modal('show');
                 }, 2000);
             if(visit >= 3)
                 return false;
@@ -295,7 +342,8 @@ window.csPageOptions = {
                         <div class="header-controls-user">
                         							<a href="https://cannabis.net/register" class="btn btn-warning">Sign up</a>
 							<a href="https://cannabis.net/login" class="btn btn-success">Log-In</a>
-                                                        <a href="https://play.google.com/store/apps/details?id=net.cannabis.app" target="_blank"><img style="width:120px;" src="https://cannabis.net/assets/app/img/android-app.png"></a>
+                                                        <a href="https://play.google.com/store/apps/details?id=net.cannabis.app" target="_blank"><img style="width:40px; margin-left:20px;" src="https://cannabis.net/assets/app/img/android-icon.png"></a>
+							<a href="https://itunes.apple.com/us/app/cannabis-net/id1185139046?mt=8" target="_blank"><img style="width:40px; margin-left:5px;" src="https://cannabis.net/assets/app/img/apple-icon.png"></a>
                         </div>
 						<ul class="header-controls-menu">
 							<li class="header-controls-menu-item active">
@@ -336,21 +384,35 @@ window.csPageOptions = {
 					<div class="container text-center">
 						<div class="capture-title top inline-block">
 							<div class="capture-title capture-title-btm">
-								Want to win <b>FREE</b> cannabis for a year?
+								You can now order CBD <b>ONLINE!</b>
 							</div>
 							<p class="nomargin-bottom subtitle-header">
-								Just sign up and tell us why you should win.
+								Check availability in your area now!
 							</p>
 						</div>
 						<div class="capture-wrapper">
-							<a href="https://cannabis.net/free-cannabis-for-a-year" class="capture-button top btn">
-								CLICK HERE!
+							<a href="https://cannabis.net/shop" class="capture-button top btn">
+								SHOP NOW!
 							</a>
 						</div>
 					</div>
 				</div>
                 		</section>
 		<!-- Modal -->
+		<div class="modal fade" id="startPopup" tabindex="-1" role="dialog" aria-labelledby="startPopupLabel">
+			<div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header green-header">
+                        <a title="Close" class="fancybox-item fancybox-close" data-dismiss="modal" aria-label="Close"></a>
+                        <h4 class="modal-title" id="startPopupLabel">Buy CBD Online!</h4>
+                    </div>
+                    <div class="modal-body nopadding">
+                        <a href="https://cannabis.net/shop"><img width="100%" src="https://cannabis.net/assets/app/img/buy_popup.jpg"></a>
+                    </div>
+                </div>
+			</div>
+		</div>
+<!--	Let's Talk Modal
 		<div class="modal fade" id="startPopup" tabindex="-1" role="dialog" aria-labelledby="startPopupLabel">
 			<div class="modal-dialog" role="document">
 				<form id="contactMe" action="https://um280.infusionsoft.com/app/form/process/c76ab5807161dd628ea542c28695789a" method="POST">
@@ -360,7 +422,7 @@ window.csPageOptions = {
 							<h4 class="modal-title" id="startPopupLabel">Have a Doctor or Dispensary call you</h4>
 						</div>
 						<div class="modal-body nopadding">
-							<img width="100%" src="https://cannabis.net/assets/app/img/almost_done.jpg">
+							<img width="100%" src="https://cannabis.net/assets/app/img/almost_done.jpg" />
 							<div class="inner-padding">
 								<div id="firstStep">
 									<div class="row">
@@ -458,12 +520,13 @@ window.csPageOptions = {
 							</div>
 						</div>
 					</div>
-		            <input name="inf_form_xid" type="hidden" value="c76ab5807161dd628ea542c28695789a">
-		            <input name="inf_form_name" type="hidden" value="Main Homepage Optin">
-		            <input name="infusionsoft_version" type="hidden" value="1.47.0.43">
+		            <input name="inf_form_xid" type="hidden" value="c76ab5807161dd628ea542c28695789a" />
+		            <input name="inf_form_name" type="hidden" value="Main Homepage Optin" />
+		            <input name="infusionsoft_version" type="hidden" value="1.47.0.43" />
 				</form>
 			</div>
 		</div>
+-->
         <div class="modal fade" id="androidPopup" tabindex="-1" role="dialog" aria-labelledby="androidPopupLabel">
 			<div class="modal-dialog" role="document">
                 <div class="modal-content">
@@ -473,6 +536,19 @@ window.csPageOptions = {
                     </div>
                     <div class="modal-body nopadding">
                         <a href="https://play.google.com/store/apps/details?id=net.cannabis.app"><img width="100%" src="https://cannabis.net/assets/app/img/android_popup.png"></a>
+                    </div>
+                </div>
+			</div>
+		</div>
+		<div class="modal fade" id="iOSPopup" tabindex="-1" role="dialog" aria-labelledby="androidPopupLabel">
+			<div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header green-header">
+                        <a title="Close" class="fancybox-item fancybox-close" data-dismiss="modal" aria-label="Close"></a>
+                        <h4 class="modal-title" id="startPopupLabel">Download our App Today!</h4>
+                    </div>
+                    <div class="modal-body nopadding">
+                        <a href="https://itunes.apple.com/us/app/cannabis-net/id1185139046?mt=8"><img width="100%" src="https://cannabis.net/assets/app/img/ios_popup.png"></a>
                     </div>
                 </div>
 			</div>
