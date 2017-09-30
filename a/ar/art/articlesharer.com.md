@@ -1,47 +1,94 @@
-> *The following text is extracted and transformed from the articlesharer.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501105503id_/http%3A//www.articlesharer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesharer.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930131758id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
 
-# Article Sharer | Privacy Statement
+# Privacy Policy - Your Rights and Our Privacy and Commitment on Bitify
 
-Article Sharer strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
+This Privacy Policy sets out the commitment of BITIFY PTY. LTD. (ABN 33 613 066 676), its successors and assignees (referred to as **we** , **us** and **our** ) to protecting the privacy of your personal information that we collect through this website www.bitify.com ( **Site** ) or directly from you, being the person, organisation or entity that uses our Site (referred to as **you** or **your** ).
 
-**How we gather information from users**
+Please read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Article Sharer also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+You providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.
 
-**What we do with the information we collect**
+If you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
+## 1\. Collection of personal information
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
+**Personal information:** The type of information we collect may include:  
+• name;  
+• images;  
+• contact details including email address and address;  
+• IP address;  
+• date of birth;  
+• demographic information such as postcode;  
+• preferences and opinions; and  
+• any other information requested on this Site or otherwise requested by us or provided by you.
 
-We may use Personally Identifiable Information collected on www.articlesharer.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.articlesharer.com and other topics we think you might find of interest. 
+**Your use of our Site:** As with most online businesses, we may log information about your access and use of our Site, including through the use of Internet cookies, your communications with our Site, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
 
-Personally Identifiable Information collected by Article Sharer may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
+**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.  
+If we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.
 
-**Affiliated sites, linked sites and advertisements**
+## 2\. Collection and use of personal information
 
-Article Sharer expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.articlesharer.com page, certain content that is actually created or hosted by a third party. Also, through Article Sharer you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Article Sharer is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+We collect and use the information for purposes including:  
+• to contact and communicate with you;  
+• for internal record keeping;  
+• for market research and business development including website development;  
+• for marketing including direct marketing;  
+• to send you promotional information about third parties that we think may be of interest to you; and  
+• for data analytics purposes.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Article Sharer does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
+## 3\. Disclosure of personal information to third parties
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Article Sharer and this policy. 
+We may disclose personal information to:  
+• credit reporting agencies and courts, tribunals and regulatory authorities where customers fail to pay for goods or services provided by us to them;  
+• courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights; and  
+• third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. This may include parties located, or that store data, outside of Australia; and  
+• third parties to collect and process data including Google Analytics. This may include parties that store data outside of Australia.
 
-**Children**
+Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.
 
-Article Sharer does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Article Sharer has any information from or about anyone under 13, please contact us at the address listed below. 
+If there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.
 
-**Contacting Us**
+## 4\. Your rights and controlling your personal information
 
-We can be reached by emailing us. 
+**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.
 
-**Changes to this Policy**
+**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.
 
-Article Sharer reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.
 
-**Governing law**
+**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
 
-This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us at support@bitify.com.
+
+## 5\. Storage and Security
+
+We are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
+
+No information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
+
+## 6\. Cookies & Web Beacons
+
+We may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+We may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+
+We may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see www.google.com/policies/privacy/partners/ or any other URL Google may use from time to time.
+
+## 7\. Links to other websites
+
+Our Site may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.
+
+## 8\. Amendments
+
+This Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.
+
+**For any questions or notice, please contact our Privacy Officer at:**  
+BITIFY PTY. LTD. (ABN 33 613 066 676)  
+Level 2/341 Barrenjoey Road  
+Newport Beach NSW 2106  
+Email: info@bitify.com
