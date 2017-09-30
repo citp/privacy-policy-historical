@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivthomas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232116id_/https%3A//www.vivthomas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivthomas.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930172208id_/https%3A//www.vivthomas.com/privacy) for the most accurate reproduction.*
 
 # Viv Thomas - Privacy
 
