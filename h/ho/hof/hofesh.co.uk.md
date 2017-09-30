@@ -1,59 +1,73 @@
-> *The following text is extracted and transformed from the hofesh.co.uk privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510065353id_/http%3A//www.hofesh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hofesh.co.uk privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930075638id_/http%3A//www.hofesh.co.uk/hofesh-shechter-company-privacy-policy) for the most accurate reproduction.*
 
-# Hofesh Shechter Company | Privacy Policy
+# Hofesh Shechter Company − Privacy Policy - Hofesh Shechter Company
 
-Preservation of your privacy is important to Hofesh Shechter Company Limited and we are committed to letting you know how we use your personal information and to making only responsible use of your data.
-
-The Hofesh Shechter Company Limited is a company limited by guarantee registered in England and Wales, registered office address: 12A Pavilion Buildings, Castle Square, Brighton, East Sussex BN1 1EE; email: [info@hofesh.co.uk](mailto:info@hofesh.co.uk), company number: 6737326, [and a charity registered in England and Wales, registered charity number: 1130255].
-
-References to ‘the Company', ‘we’, ‘us’ or ‘our’ in this Privacy Policy refer to Hofesh Shechter Company Limited.
-
-  1. 1\. Information about you
-    1. 1.1 We may collect personal information from you when you:
-      * are employed by the Company;
-      * provide services to the Company (including but not limited to under a Consultancy Agreement or Freelancer’s Agreement);
-      * volunteer for or work with the Company;
-      * enquire about our services and/or about the Company, including when such enquiries are made through our website: www.hofesh.co.uk (“the Website”);
-      * register for one or all of our mailing lists or events; and/or
-      * contact us.
-    2. 1.2 This personal information may include but is not limited to the following information about you:
-      * Name; (including first names and surname);
-      * Date of birth;
-      * Title;
-      * Age;
-      * Email address;
-      * Physical address;
-      * Location you live or work in;
-      * Telephone number(s);
-      * Photographs or images of you (shared by you or taken with your consent as part of your involvement in the activities of the Company);
-      * Video footage of you (shared by you or taken with your consent as part of your involvement in the activities of the Company); and
-      * Details of your health and medical history where deemed necessary by the Company as part of your involvement in the activities of the Company or work with the Company under a contract of employment or contract for services. (If such information about your health or medical history is provided by you, it will be dealt with separately in more detail in your contract of employment, contract for services or other relevant document that we will request you agree to and sign, indicating your consent).
+  1. Privacy commitment
 
 
 
-We may also ask for some additional, non-personal information from you.
+The hofesh.co.uk website is owned and operated by the Hofesh Shechter Company. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 23 August 2017. 
 
-  1. 2\. Our use of your personal information
-    1. 2.1 Your personal information will only be used to:
-      * process your requests;
-      * provide you with our services;
-      * provide or administer activities relating to our services;
-      * enable you to be employed by or provide services to the Company;
-      * provide you with information relating to the Company, our services and/or the Website;
-      * Protect your health, welfare or well-being; and/or
-      * comply with our funding requirements or other legal requirements.
-    2. 2.2 If we use your personal information to contact you and you do not want to receive information from us or for us to contact you, please contact us at: [info@hofesh.co.uk](mailto:info@hofesh.co.uk)
-    3. 2.3 Your personal information will only be shared with third parties for the purposes listed above in clause 2.1.
-    4. 2.4 However, the Company accepts no liability for any misuse of your personal information by third parties as this is outside our control. You therefore proceed at your own risk.
-    5. 2.5 Subject to this clause 2, your personal information will not be sold or disclosed to any third parties without your permission unless we are required to do so by law.
-  2. 3\. Security
-    1. 3.1 We will take reasonable precautions to prevent the loss, misuse or alteration of information you give us.
-  3. 4\. The Website
-    1. 4.1 Communications to you in connection with the Website may be sent by us by e-mail. For ease of use and compatibility, communications will not be sent in an encrypted form unless you require it and provide the certification to enable us to communicate with you in that way. E-mail unless encrypted is not a fully secure means of communication. Whilst we endeavour to keep our systems and communications protected against viruses and other harmful effects we cannot bear responsibility for all communications being virus-free.
-    2. 4.2 If cookies are used they will only be used to assist the services we offer, but cookies will not be used if we do not consider them to be necessary.
-    3. 4.3 Links within our sites to other websites are not covered by this Privacy Policy.
-  4. 5\. Other Information
-    1. 5.1 If you would like us to correct or update any information about you, or if you would like information deleted from our records, then please contact us at [info@hofesh.co.uk](mailto:info@hofesh.co.uk)
-    2. 5.2 This Privacy Policy may be updated from time to time, so please check it periodically at [www.hofesh.co.uk/privacy](http://www.hofesh.co.uk/privacy).
+  2. Personal Information
 
 
+
+2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details (“Personal Information”) will only be retained by us if you provide this information when using one of the services available on our website, such as subscribing to one of our email lists. If you opt in to marketing communications, your information may also be used to enable us and third party websites to display relevant and targeted advertisements, based on previous behaviour, purchases, or any other relevant information.   
+The Personal Information you supply to us when you opt in to marketing communications will be used by the Hofesh Shechter Company to keep you up-to-date with events and activities organised by the Hofesh Shechter Company.   
+Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing [info@hofesh.co.uk](mailto:info@hofesh.co.uk).    
+The only times your personal information may be shared with a third party is if:  
+We have your prior consent to do so, as noted above, OR  
+We are using a third party to send targeted advertisements, using information about you such as an email address or site cookies, if you have opted in to receiving marketing communications and supplied us with your email address.     
+2.2 If you would like to revise the information provided to us at any time, or feel what we currently have on record is incorrect, you may update the information by e-mailing [info@hofesh.co.uk](mailto:info@hofesh.co.uk).    
+2.3 We may from time to time ask you for further information in order to update our records or for particular purposes. We will always tell you how we will use any further information received from you. From time to time we will need to send you our website and service announcement updates.   
+2.4 You have the right to obtain from us an electronic or paper copy of all Personal Information concerning yourself by e-mailing [info@hofesh.co.uk](mailto:info@hofesh.co.uk) if you decide not to use our services any further and notify us either in writing or by email as mentioned above, we shall destroy any retained Personal Information. 
+
+  3. Log files
+
+
+
+3.1 Every time someone visits our web site a log file is generated on our computer.   
+3.2 The log file records the time and date of your visit, the files that were requested, your IP (Internet Protocol) address, the referrer URL (if provided) and the browser version. We collect this information to help us diagnose problems and administer our systems and to audit the geographical make-up of users and how they have arrived at our site; that is, from what other sites have visitors arrived – this information being obtained from the referrer URL.   
+3.3 We do not normally link IP addresses to anything personally identifiable, which means that you remain anonymous even though we include your IP address in our aggregate information. However, we can and will attempt to use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions, or to protect our services and other users. 
+
+  4. Cookie Policy
+
+
+
+Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. They make it possible for us to track visitor statistics, such as returning visitors.   
+This website uses the following non-essential cookies:   
+Google Analytics cookies  
+These cookies are used to collect information about how visitors use our site. The cookies collect information in an anonymous form, so we don’t know who is using our site. We use the information on how people use our website to compile reports and to help us improve the site. You can go to <http://www.google.com/analytics/learn/privacy.html> to find out more about Google Analytics cookies and how to opt-out of them.   
+Cookies used by Twitter and Facebook  
+These cookies provide information on visitors to Twitter and Facebook, check whether users are logged in to either platform and sets application cookies for Twitter and Facebook.   
+This website also uses advertising cookies and we offer the option to opt out of these to prevent them being set on your computer.   
+For more information on cookies, please visit:  
+[aboutcookies.org  
+](http://www.aboutcookies.org/)[Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)   
+Please note that we are not responsible for information available on these websites. 
+
+  5. Use and disclosure of Personal Information
+
+
+
+5.1 If you contact us we reserve the right to keep a record of that correspondence and incorporate the information it contains into our database   
+5.2 If we are required by law or requested by the police or a regulatory or government authority investigating potentially illegal activities to provide information concerning your activities whilst using the network we shall do so. We may also disclose Personal Information to appropriate third parties to assist in anti-fraud checks and investigations. 
+
+  6. How we protect information
+
+
+
+6.1 We take every precaution to protect your information. To this end all Personal Information stored by us is kept on servers in a secure environment. Save as agreed by you for marketing purposes, only employees and approved contractors/developers we may appoint from time to time, and who need the information to perform a specific job, are granted access to personally identifiable information.   
+6.2 Regular security reviews are held by us to ensure that the site remains safe and secure for your protection. 
+
+  7. Surveys and Promotions
+
+
+
+From time to time we conduct surveys and promotions and may request information from you as part of these. Participation in these is entirely voluntary and you therefore have a choice whether or not to disclose any information which might be required. We may also ask you whether you would like to receive promotional emails and mailings from us about our other products or services. Again, you are under no obligation to accept such information. 
+
+  8. Users Under 18
+
+
+
+If you are under 18, please ensure that you obtain your parent/guardian’s consent beforehand whenever you provide Personal Information to the website. Users without such consent are not allowed to provide us with Personal Information. 
