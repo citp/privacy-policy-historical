@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402025548id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001012548id_/https%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ffilms.org
+# Privacy policy | ffilms.org
 
 **Privacy policy**
 
@@ -11,7 +11,7 @@ Your right to privacy is very important to us. We recognize that providing us wi
 
 When you visit our Web sites and access information you remain anonymous. We do not require you to register or provide personal information to us to view our site.
 
-There are occasions when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you. 
+There are occasions when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you.
 
 **Use of Information**
 
@@ -51,3 +51,6 @@ You may decide to send us personally identifying information, such as a message 
 **Scope**
 
 The information you provide to us will also be covered by this policy. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. A revised Privacy Policy will apply only to data collected subsequent to its effective date.
+
+
+
