@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burnsmcd.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023600id_/http%3A//www.burnsmcd.com/footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnsmcd.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930183518id_/http%3A//www.burnsmcd.com/footer/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Burns & McDonnell
 
