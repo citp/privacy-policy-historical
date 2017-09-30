@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theshownation.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624204316id_/http%3A//www.playstation.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshownation.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930023527id_/http%3A//www.playstation.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Support - PlayStation.com
 
 Sony Interactive Entertainment America LLC ("SIEA") is committed to respecting the privacy rights of all visitors to our websites. This privacy policy is intended to provide you with information on how we collect, use and store the information that you provide to us through our websites so that you can make appropriate choices for sharing information with us. If you have any questions, complaints or comments regarding our online or offline privacy policies, please contact SIEA's Consumer Services Hotline at 1-800-345-7669.
 
-PlayStation.com/network and other PlayStation™Network branded websites and services, the Sony Entertainment Network, and hardware and software that utilizes Sony Entertainment Network for data collection and refers to this Privacy Policy, are operated by Sony Interactive Entertainment LLC or its affiliates and are governed by the [PlayStation Network Privacy Policy](https://www.sonyentertainmentnetwork.com/privacy-policy/).
+PlayStation.com/network and other PlayStation™Network branded websites and services, the Sony Entertainment Network, and hardware and software that utilizes Sony Entertainment Network for data collection and refers to this Privacy Policy, are operated by Sony Interactive Entertainment LLC or its affiliates and are governed by the [PlayStation Network Privacy Policy](https://web.archive.org/en-us/network/legal/privacy-policy/).
 
 [](https://www.esrb.org/confirm/scea-confirmation.jsp)
 
