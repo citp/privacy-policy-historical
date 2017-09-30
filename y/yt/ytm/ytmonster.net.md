@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ytmonster.net privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813230534id_/http%3A//www.ytmonster.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmonster.net privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930204448id_/https%3A//www.ytmonster.net/privacy) for the most accurate reproduction.*
 
 # YTMonster | Privacy Policy
-
-**Privacy Policy**
 
 We only collect the following information from the use of YTMonster. We will never sell your personal information to third parties. If you have any questions or concerns regarding our privacy policy, please [contact us](https://web.archive.org/contact). 
 
@@ -23,7 +21,3 @@ Like many other websites, we make use of log files. The information inside the l
 #### Other
 
 We, YTMonster reserves the right to change this Privacy Policy at any given time with or without notice. 
-
-* * *
-
-__Last updated August 7, 2016
