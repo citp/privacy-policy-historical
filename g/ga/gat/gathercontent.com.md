@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gathercontent.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127133628id_/https%3A//gathercontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gathercontent.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930152019id_/https%3A//gathercontent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GatherContent
 
-Gather Content Ltd (trading as GatherContent) (“ **we/us/our** “) are committed to protecting and respecting your privacy.
+Gather Content Ltd (trading as GatherContent) (“ **we/us/our** “) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://gathercontent.com/terms-of-website-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://gathercontent.com/terms-of-website-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Gather Content Ltd of Techspace, 1st Floor, 38-40 Commercial Road, E1 1LN, United Kingdom.
+For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Gather Content Ltd. Our company number is SC400199, and our registered office is at Bishop’s Court, 29 Albyn Place, Aberdeen, AB10 1YL and main trading address is at WeWork, 2nd Floor, 115 Mare Street E8 4RU, United Kingdom.
 
 ## Information we may collect from you
 
@@ -31,7 +31,7 @@ Our website uses certain cookies. A cookie is a small file of letters and number
 
 ## Where we store your personal data
 
-All information you provide to us is stored on our secure servers. [Any payment transactions will be encrypted using SSL technology and using trusted third parties.] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology and using trusted third parties. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -64,13 +64,13 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Gather Content Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://gathercontent.com/terms-of-website-use) and other agreements; or to protect the rights, property, or safety of Gather Content Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/terms-of-website-use) and other agreements; or to protect the rights, property, or safety of Gather Content Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [privacy@gathercontent.com](https://gathercontent.com/privacy@gathercontent.com)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [privacy@gathercontent.com](mailto:privacy@gathercontent.com)
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -84,5 +84,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@gathercontent.com](mailto:privacy@gathercontent.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@gathercontent.com](mailto:privacy@gathercontent.com).
   *[Ltd]: Limited
