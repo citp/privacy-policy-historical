@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widerfunnel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165251id_/https%3A//www.widerfunnel.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widerfunnel.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930094224id_/https%3A//www.widerfunnel.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement - WiderFunnel Conversion Optimization
 
