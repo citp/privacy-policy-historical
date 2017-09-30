@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iskysoft.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114105432id_/https%3A//www.iskysoft.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskysoft.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930231122id_/https%3A//www.iskysoft.com/other/privacy.html) for the most accurate reproduction.*
 
 # iSkysoft Privacy Policy
 
-At iSkysoft, your security and privacy is the utmost importance to us. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to iSkysoft's commitment to protect your privacy. iSkysoft Studio will not sell your personal information in any manner whatsoever. 
+At iSkysoft, your security and privacy is the utmost importance to us. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to iSkysoft's commitment to protect your privacy. iSkysoft will not sell your personal information in any manner whatsoever. 
 
 As such, iSkysoft is committed to ensuring that its customers are informed as to how their personal information will be used and kept secure. 
 
@@ -46,7 +46,7 @@ Credit card information in encrypted during the ordering process and is deleted 
 
 ####  4\. SWREG? 
 
-SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. iSkysoft Studio uses SWREG to provide you with very secure and fast online purchase. 
+SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. iSkysoft uses SWREG to provide you with very secure and fast online purchase. 
 
 ####  5\. What are the purposes for iSkysoft uses the information? 
 
