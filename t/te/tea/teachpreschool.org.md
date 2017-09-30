@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teachpreschool.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228011135id_/http%3A//www.teachpreschool.org/about-deborah/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachpreschool.org privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930143750id_/https%3A//www.teachpreschool.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teach Preschool
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.teachpreschool.org%2Fabout-deborah%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 **Privacy Policy for www.teachpreschool.org**
 
@@ -14,7 +12,7 @@ At www.teachpreschool.org, the privacy of our visitors is of extreme importance 
 
 **Personal identification information**
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, workshop registration, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -25,7 +23,7 @@ We may collect non-personal identification information about Users whenever they
 Like many other Web sites, www.teachpreschool.org makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
-www.teachpreschool.org does not use cookies.
+www.teachpreschool.org may need to use cookies for the purpose of allowing users to access workshops and other data as a way to create a smoother experience.
 
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.teachpreschool.org.  
@@ -48,17 +46,17 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Teach Preschool collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To process transactions_  
+  * _– To process transactions_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To administer a content, promotion, survey or other Site feature_  
+  * _– To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
