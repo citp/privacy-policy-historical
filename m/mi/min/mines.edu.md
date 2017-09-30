@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mines.edu privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630023610id_/http%3A//www.mines.edu/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mines.edu privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930154204id_/http%3A//mines.edu/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy Information
 
