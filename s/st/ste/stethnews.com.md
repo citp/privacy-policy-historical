@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stethnews.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628202030id_/http%3A//www.stethnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stethnews.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930080123id_/http%3A//www.stethnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | StethNews
 
