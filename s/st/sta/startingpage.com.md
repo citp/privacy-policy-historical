@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startingpage.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215153555id_/https%3A//www.startpage.com/au/privacy-policy.html%23hmb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startingpage.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001010049id_/https%3A//www.startpage.com/au/privacy-policy.html%23hmb) for the most accurate reproduction.*
 
 # PRIVACY - Privacy Policy
 
