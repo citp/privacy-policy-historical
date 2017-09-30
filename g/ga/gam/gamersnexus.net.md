@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161950id_/http%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930184933id_/https%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
 
 # GN Privacy & Use Policy | GamersNexus - Gaming PC Builds & Hardware Benchmarks
 
@@ -22,7 +22,7 @@ This traffic information is important for us to ensure we can continue deliverin
 
 ### Cookies & Ads ** **
 
-Like most websites on the internet, GN uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) that can be disabled if you're uncomfortable with the usage. We also run third-party advertisements to keep the site afloat; most of our funding is either crowd-sourced through [GN Supporters](http://www.gamersnexus.net/supportgn) or funded through advertising networks, and our operation would not be possible without them.
+Like most websites on the internet, GN uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) that can be disabled if you're uncomfortable with the usage. We also run third-party advertisements to keep the site afloat; most of our funding is either crowd-sourced through [GN Supporters](https://www.gamersnexus.net/supportgn) or funded through advertising networks, and our operation would not be possible without them.
 
 We use Google AdSense and Google DoubleClick for serving advertisements. Other third-party advertising companies may be added in the future. As you all likely know, most of these agencies use cookies and other information about your browsing habits to target ads that may be more relevant and interesting to you, rather than the "Find out how to make a million dollars a month from home!" ads. Yes, we see relevance and targeted ads as a beneficial thing for everyone, especially on a gaming/hardware site where you're likely looking for new components or games to research.
 
