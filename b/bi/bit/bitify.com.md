@@ -1,92 +1,94 @@
-> *The following text is extracted and transformed from the bitify.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010042546id_/http%3A//www.bitifeye.com/cms/front_content.php%3Fidcat%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitify.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930131758id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
 
-# BitifEye.com | privacy policy
+# Privacy Policy - Your Rights and Our Privacy and Commitment on Bitify
 
-**Privacy Policy**
+This Privacy Policy sets out the commitment of BITIFY PTY. LTD. (ABN 33 613 066 676), its successors and assignees (referred to as **we** , **us** and **our** ) to protecting the privacy of your personal information that we collect through this website www.bitify.com ( **Site** ) or directly from you, being the person, organisation or entity that uses our Site (referred to as **you** or **your** ).
 
-This statement was last revised on September 24, 2008. 
+Please read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.
 
-Bitifeye Digital Test Solutions GmbH (also referred to in this document as "BitifEye") provides this Privacy Statement to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both on-line and off-line. To make this notice easy to access, it is available on the bottom of every BitifEye web page. 
+You providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.
 
-Customers are BitifEye's most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy. 
+If you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.
 
-We've structured our web site so that you can visit us without identifying yourself or revealing any personal information. Throughout this Privacy Statement, personal information refers to any information that is unique to an individual, such as name, address, e-mail address, phone number, etc. If you do share your personal information with us, you can be assured that it will only be used to support your relationship with BitifEye. 
+## 1\. Collection of personal information
 
-BitifEye's privacy statement covers 9 main areas: **Notice** **, Choice** **, Access & Accuracy** **, Onward Transfer** **, Security** **, Tailoring Email Communications and Web Experiences** **, How BitifEye Uses Cookies** and **Additional Information**. These areas are described in detail below. Please keep in mind that our privacy practices may vary as required by local laws and policies. Comments or questions about our privacy practices can be sent to: info@bitifeye.com 
+**Personal information:** The type of information we collect may include:  
+• name;  
+• images;  
+• contact details including email address and address;  
+• IP address;  
+• date of birth;  
+• demographic information such as postcode;  
+• preferences and opinions; and  
+• any other information requested on this Site or otherwise requested by us or provided by you.
 
-### 1\. Notice
+**Your use of our Site:** As with most online businesses, we may log information about your access and use of our Site, including through the use of Internet cookies, your communications with our Site, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
 
-#### What information we collect
+**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.  
+If we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.
 
-During the course of your relationship with us, we may collect personal information to enable you to order products or services, download software updates, make requests, and register for customized communications programs. We may collect such personal information as your name, contact and billing information, transaction and credit card information. To tailor our subsequent communications to you and improve our products and services, we may ask you to provide information regarding your personal or professional interests, demographics, experience with our products and contact preferences. Personal information may be required to determine access eligibility for certain restricted parts of our site. Data collected on-line may be combined with information provided off-line. 
+## 2\. Collection and use of personal information
 
-#### How we use the information
+We collect and use the information for purposes including:  
+• to contact and communicate with you;  
+• for internal record keeping;  
+• for market research and business development including website development;  
+• for marketing including direct marketing;  
+• to send you promotional information about third parties that we think may be of interest to you; and  
+• for data analytics purposes.
 
-BitifEye uses your personal information to better understand your needs and provide you with better service. Specifically, we use your personal information to help you complete a transaction, to communicate back to you, provide updates on service and benefits, and to personalize our web sites and communications with you. Credit card numbers are used only for payment processing and are not retained for other purposes. From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. We will always give you the opportunity to opt-out of receiving such contact. If you would like to read more about how to opt-out, please follow the directions given below in the "Choice" section of this document. In addition, we will also follow local requirements where applicable. 
+## 3\. Disclosure of personal information to third parties
 
-#### Whom we share the information with
+We may disclose personal information to:  
+• credit reporting agencies and courts, tribunals and regulatory authorities where customers fail to pay for goods or services provided by us to them;  
+• courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights; and  
+• third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. This may include parties located, or that store data, outside of Australia; and  
+• third parties to collect and process data including Google Analytics. This may include parties that store data outside of Australia.
 
-BitifEye does not sell, rent, or lease your personal information to others. Unless we have your permission or are required by law, we only share your personal information with other BitifEye entities or business partners who are acting on our behalf for the uses described above. Such BitifEye entities and business partners are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements. 
+Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.
 
-### 2\. Choice
+If there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.
 
-BitifEye will not use or share your personal information in ways unrelated to the ones described above without first notifying you and offering a choice. We will also provide you the opportunity to let us know if you wish to opt-out at any time of certain or all contact from BitifEye, and we will do everything we can to honor such requests. This choice may be offered at the bottom of our on-line or off-line communications to you as well as on many of our web registration pages. If you have any difficulty exercising your choices, please send your request to info@bitifeye.com
+## 4\. Your rights and controlling your personal information
 
-  
-Your permission will always be secured first, should we ever decide to share your personal information with third parties that are not acting on our behalf and governed by our privacy policy. 
+**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.
 
-### 3\. Onward Transfer
+**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.
 
-Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred within BitifEye across state or country borders. This may be done to consolidate data storage or to simplify the management of customer information. 
+**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.
 
-### 4\. Access and Accuracy
+**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
 
-BitifEye strives to keep your personal information accurate. We will provide you with access to your personal information, including making every effort to provide you with online access to your registration data so that you may review, update or correct your information at the BitifEye site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personal information, return to the web page where you originally entered it and follow the instructions on that web page. If you cannot access your information on the web page, please telephone BitifEye for assistance, or send your request to info@bitifeye.com
+**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.
 
-### 5\. Security
+**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.
 
-BitifEye is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure it. 
+**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us at support@bitify.com.
 
-### 6\. Tailoring E-Mail Communications and Web Experiences
+## 5\. Storage and Security
 
-On occasion BitifEye may employ technologies that enable us to review which recipients have opened our e-mail communications and which links they have accessed in the message. This helps us to tailor our communications in our attempts to send you the most relevant information, as local laws and your preferences and permissions allow. As a registered user, we may also monitor your web browsing session while you are logged-in to BitifEye.com. In this way we will try to improve our web site through personalization to better meet your needs. Any such monitoring is done in accordance with local laws. 
+We are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
 
-### 7\. How BitifEye Uses Cookies
+No information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. Session cookies are destroyed when you terminate your browsing session by shutting down your browser. Stored cookies often have a predetermined expiration date after which they disappear from your hard drive. Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely.
+## 6\. Cookies & Web Beacons
 
-#### Adjusting Browser Cookie Settings
+We may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-For information on how to adjust your browser regarding cookies, please visit
+We may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-  
-[here](http://www.microsoft.com/info/cookies.htm) for Microsoft Internet Explorer or  
-[here](http://wp.netscape.com/legal_notices/cookies.html) for Netscape Navigator. 
+We may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see www.google.com/policies/privacy/partners/ or any other URL Google may use from time to time.
 
-#### Cookie Usage
+## 7\. Links to other websites
 
-On occasion BitifEye may use cookies to help us analyze web traffic or to improve your web navigation experience. To facilitate the analysis, an ID is assigned to help us uniquely identify you each time you return to our web site. One of the major concerns about stored cookies is the fear that they contain personal information and information identifying you that could be accessed by other web sites. BitifEye only stores a randomly chosen unique ID number and a context, both of which are meaningless to others, but help us uniquely identify you. 
+Our Site may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.
 
-By gathering and remembering information about your preferences, the web application can: 
+## 8\. Amendments
 
-  * Tailor its operation to your needs, likes and dislikes
-  * Provide an automated log-in process as a convenience for previously registered customers. This insures that you will be accurately identified and linked with your registration data.
-  * Be placed on your computer to ensure you are not surveyed multiple times during your visit(s) to an BitifEye web site. This cookie has a limited life span and will not personally identify you.
+This Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.
 
-
-
-Cookies help us provide a better web experience by letting us monitor what's working and what isn't through site traffic analysis. BitifEye wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. While acknowledging the concerns that some visitors have about cookie usage, we believe that the benefit our webpage visitors gain from the use of cookies is worthwhile. 
-
-### 8\. Additional Information
-
-#### Links to Third Party Web Sites
-
-Links to third party web sites are provided solely as a convenience to you. If you use these links, you will leave the BitifEye site. BitifEye has not reviewed all of these third party sites; does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, we do not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so entirely at your own risk. 
-
-#### Changes to the Privacy Statement
-
-All material changes to our Privacy Policy and practices will be posted on this page. The revision date shown at the top of the page will be updated accordingly. 
-
-#### Contact Information
-
-Please e-mail questions or comments about our privacy practices to: [info@bitifeye.com](mailto:info@bitifeye.com)
+**For any questions or notice, please contact our Privacy Officer at:**  
+BITIFY PTY. LTD. (ABN 33 613 066 676)  
+Level 2/341 Barrenjoey Road  
+Newport Beach NSW 2106  
+Email: info@bitify.com
