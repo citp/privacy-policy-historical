@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifonly.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024163153id_/https%3A//www.ifonly.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifonly.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930051950id_/https%3A//www.ifonly.com/website/privacy) for the most accurate reproduction.*
 
 # IfOnly | Extraordinary Experiences for Good
 
