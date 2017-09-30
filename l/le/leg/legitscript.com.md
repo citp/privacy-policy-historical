@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legitscript.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420212711id_/https%3A//www.legitscript.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitscript.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001011216id_/https%3A//www.legitscript.com/privacy-policy) for the most accurate reproduction.*
 
 # LegitScript | Privacy Policy
 
