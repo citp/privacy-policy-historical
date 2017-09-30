@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iditarod.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629054933id_/http%3A//iditarod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iditarod.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930133033id_/http%3A//iditarod.com/privacy) for the most accurate reproduction.*
 
 # Iditarod.com Website Privacy Policy – Iditarod
 
