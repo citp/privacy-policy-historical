@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skreened.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603015624id_/http%3A//skreened.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skreened.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930155856id_/https%3A//skreened.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SKREENED - Skreened
 
