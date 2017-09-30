@@ -1,219 +1,120 @@
-> *The following text is extracted and transformed from the nerdwallet.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607063714id_/http%3A//www.nerdwallet.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdwallet.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930133319id_/https%3A//www.nerdwallet.com/blog/privacy-policy/%3Ftrk%3Dnw_gf_5.0) for the most accurate reproduction.*
 
-# NerdWallet Privacy Statement
+# NerdWallet Privacy Policy - NerdWallet
 
-**
+Last Update (05/25/2017)
 
-Privacy Statement of NerdWallet, LLC 
+This Privacy Policy applies to your access and use of all products and services that are made available by NerdWallet, Inc. or its affiliates (the “NerdWallet Services” or “Services”) through our websites including but not limited to www.nerdwallet.com, www.nerdwalletwire.com and our downloadable mobile applications (collectively, the “Site”).
 
-_Statement No 48250_
+This Privacy Policy describes the information that we gather from you, how we use and disclose your information, and the steps we take to protect your information. By using the Services, you consent to the privacy practices described in this policy.
 
-**
+Capitalized terms that are not defined in the Privacy Policy have the meaning given to them in the [NerdWallet Terms of Use](https://www.nerdwallet.com/blog/terms-of-use/).
 
-**
+**The information that we collect:**
 
-**Information about our Organisation and Web site**
+  * ****Personal Information****
+    * When you use the Services, you may provide and we may collect information about you or that can be used to identify you, including your name, e-mail address, mailing address, mobile phone number, age, gender, date of birth. For example, you may provide us with Personal Information when you register for a NerdWallet account, when you fill out forms or fields on the Site, when you participate in online surveys, and when you contact us or request information about us, this Site and our Service (whether by email or other means).
+    * When you use the Services, you may provide and we may collect certain financial information including your social security number, financial account information, investments, income, expenses, investible assets, investing risk tolerance, and other similar types of information.
+    * When you use certain Services (such as the prequalifying for credit cards or loans), you authorize NerdWallet to send your information to certain third party partners on your behalf and you authorize these partners to obtain credit reports and related information about you from one or more consumer reporting agencies.
 
-**
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like NerdWallet . We are based in USA .   
-Our principal activity is:  Financial Data    
-Our privacy policy covers NerdWallet and its Web site:    
-** Organisation Name:  |  NerdWallet, LLC   
+
+The foregoing information is referred to as “Personal Information.”
+
+  * **Cookies Information**  
+When you use the Services, we may send one or more Cookies (which are small text files containing a string of alphanumeric characters) to your computer or mobile device. We may use both Session Cookies and Persistent Cookies. A Session Cookie disappears after you close your browser. A Persistent Cookie remains after you close your browser and may be used by your browser on subsequent visits to the Services. Persistent Cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your Cookie settings. If you delete, or choose not to accept, Cookies from the Services, you may not be able to utilize the features of the Services to their fullest potential.
+  * **Automatically Collected Information**  
+When you visit the Site, use the Services, or open an email from NerdWallet, we may automatically receive and record certain information from your computer, web browser and/or mobile device, including your IP address or other device address or ID, web browser and/or device type, hardware and software settings and configurations, the web pages or sites that you visit just before or just after visiting the Site, the pages you view on the Site, your actions on the Site, and the dates and times that you visit, access, or use the Services. When you use the Site on a mobile device, we may also collect the physical location of your device by, for example, using satellite, cell phone tower or wireless local area network signals.
+  * **Third Party Web Beacons and Third Party Buttons**  
+We may implement third party advertising or other content on the Site that may use clear gifs or other forms of web beacons, which allow the third party content provider to read and write Cookies to your web browser in connection with your viewing of the third party content on the Site. Additionally, we may implement third party buttons (such as Facebook “like” or “share” buttons) that may allow a third party to collect information about you through their browser Cookies, even when you do not interact with the button. Information collected through web beacons and buttons is collected directly by third parties, and NerdWallet does not participate in that data transmission. Information collected by a third party in this manner is subject to that third party’s own data collection, use, and disclosure policies.A number of different targeting and advertising programs may be used on the Site, including but not limited to “BlueKai”, and “Trueffect.”, and “Quantcast”. The creators of BlueKai, and Trueffect, and Quantcast require us to provide you with information about how to opt out of their data collection:
+
+**Program** | **Information on How to Opt Out**  
 ---|---  
-City, Zip:  |  New York  ,  10016   
-State:  |  NY   
-Country:  |  USA   
-Controller:  |  NerdWallet LLC   
-Web Sites(s):  |  www.nerdwallet.com   
-**   
-
-
-**
-
-**Providing Visitors with Anonymous Access**
-
-**
-
-You can access our Web site home page and browse our site without disclosing your personal data. 
-
-**
-
-** The services and links of our Web site  ** ****
-
-**
-
-Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others. 
-
-Our Web site includes a link to: 
-
-  * [Yahoo!](http://www.yahoo.com/)
-
-
-
-Such third party Web service providers may collect personal data about our visitors. 
-
-**
-
-Automatic Collection of Information 
-
-**
-
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes: 
-
-  * Technical administration of the Web site 
-
-
-
-We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. 
-
-**
-
-Data Collection and Purpose Specification 
-
-**
-
-We do not collect the personal data that you may volunteer while using our services. 
-
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
-
-To access the table of personal data collected and purposes for which they are used, please  click here 
-
-We do not collect or use personal data for any purpose other than that indicated in the table below. 
-
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose:  tim@nerdwallet.com 
-
-**
-
-Children's Privacy 
-
-**
-
-We do not knowingly collect personal data from children. 
-
-We take specific steps to protect the privacy of children by: 
-
-
-
-
-Additionally, to ensure that children's privacy is respected on our Web site, we: 
-
-  * To ensure that children's privacy is respected on our Web site, we do not collect personal information from users. 
-
-
-
-We do provide information about our personal data practices in relation to children on our home page and wherever we knowingly collect personnal data from children on our Web site. 
-
-**
-
-Disclosure and Visitor Choice 
-
-**
-
-We do not disclose your personal data to our subsidiaries or other organisations. 
-
-Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure: 
-
-
-
-
-**
-
-Confidentiality / Security 
-
-**
-
-We do not give visitors to our Web site the option of using a secure transmission method to send us their personal data. 
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-**
-
-Access to the personal data we may hold about you 
-
-**
-
-You can ask us, by: 
-
-  * sending an email ( tim@nerdwallet.com ) 
-
-
-
-whether we are keeping personal data about you. 
-
-Upon request, which you can indicate by: 
-
-  * sending an email ( tim@nerdwallet.com ) 
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you,  within a week.  \- although we may before require proof of your identity -.  We will provide the information  without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-
-
-
-We do not reserve the right to refuse to provide you with a copy of your personal data. 
-
-**
-
-Privacy Compliance 
-
-**
-
-There are no national laws or self-regulatory schemes applicable to our web site or organisation. 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation. 
-
-We cannot demonstrate that our privacy policy accords with the privacy  instrument. 
-
+BlueKai | <http://bluekai.com/consumers.php#optout>  
+Trueffect | <http://media.nerdwallet.com/optout.html>  
+Quantcast | <http://www.quantcast.com/opt-out/>  
   
+**Information from Other Sources**  
+We may also obtain information about you from third party sources, such as our partners or advertisers. We may also, at your direction, receive information from consumer reporting agencies (such as credit scores) or third party services that provide a mechanism to share information you have provided to the third party through the use of an application program interface (API), such as Facebook Connect or the Twitter API. If we combine or associate information from other sources with your information that we collect through the Services, we will treat the combined information in accordance with this Privacy Policy, the Terms, and applicable law.
 
+**How we use the information we collect:  **Your information is an integral part of our operations, and we use it in a variety of ways in providing the Services and operating our business. For example:
 
-####  Primary personal data/Business information 
+We use the information that you provide to operate, maintain, enhance and provide all of the features of the Services and to enable third parties to provide additional services to you.
 
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Other personal details and profiling data 
+We use the information that you provide to understand and analyze the usages trends and preferences of our users, to improve the Services, to create new features and functionality, and to improve fraud detection and information security.
 
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Identifiers 
+We may use your e-mail address or other Personal Information (a) to contact you for administrative purposes such as customer service, (b) to address intellectual property, right of privacy or defamation issues related to content you have posted on the Services, and/or (c) to send you promotional materials, offers, and/or messages related to the Services and the activities of third parties we work with. Generally, you can opt-out of receiving promotional communications, through links provided in the messages, by updating your account preferences through the Services, or by contacting us directly at [support@nerdwallet.com](mailto:support@nerdwallet.com).
 
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Specific Data 
+We may use Cookies Information and Automatically Collected Information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Services; (b) provide customized advertisements, content, and information; (c) monitor and analyze the effectiveness of Services and third party marketing activities; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions or other activities.
 
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-* * *
+**When we disclose information:  **We may disclose your information in connection with providing the Services and the operation of our business. For example:
 
-  
+We may share Personal Information with certain of our third party partners to verify your identity in connection with your use of certain aspects of the Services.
 
+For example, we may ask for your social security number, or a portion of it, to verify your identity in connection with services that enable you to see your current credit score or other financial information.
 
-* * *
+We may share Personal Information with third party service providers in connection with your use of specific aspects of the Services. Some examples include but are not limited to:
+
+When you request answers through our Services, NerdWallet may provide certain of your information to third party experts, advocates, and advisors.
+
+When you request to match with a lender or credit card issuer for a Prequalified Loan Offer, NerdWallet will provide certain of your information to third party service providers.
+
+By submitting a request through our Services, you consent to the disclosure of your information to third parties in order for us to carry out your request. The collection and use of your information by third parties is subject to each third party’s specific privacy policy and terms of use. NerdWallet has no control over the means by which third parties further use or disclose your information.
+
+If you submit a request through our Services, a third party service provider may directly contact you with quotes or information via telephone, fax, and/or email. You may also receive telemarketing calls as a result of submitting the request, even if you are on the National Do No Call Registry or any other similar registry.
+
+Do not submit a request for information or services if you do not want your personal information shared as described above. Once you have submitted a request through the Services and we have shared your information as described above, the terms of the third party’s privacy policy will apply to that party’s use of your information.
+
+When you choose to share your own information to a publicly accessible area of the Site, such as a public profile page or any section where you can publicly submit questions to us or our third party partners, that information will be available to anyone who is able to access that content, including other Site users. Additionally, questions you submit and answers provided by third parties may be posted on our Site and viewable by other users and the public.
+
+We work with third party service providers to provide website, application development, hosting, data storage, maintenance, and other services for us. To the extent it is necessary for these third party service providers to complete their contractual obligations to us, these third parties may have access to or process your information.
+
+We make certain information available to third parties, to: (i) comply with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through the Services. When possible, we provide this information in a de-identified way.
+
+We may disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.
+
+We reserve the right to disclose your information when we have a good faith belief that doing so is appropriate or necessary to take precautions against liability; to protect NerdWallet from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Services; or to protect the rights, property, or personal safety of NerdWallet, our users, or others.
+
+**Your Choices:**
+
+You may, of course, decline to share certain information with us, in which case we may not be able to provide to you some of the features and functionality of the Services.
+
+Once you have registered for a NerdWallet account, you may update or correct your profile information and preferences at any time by accessing your [account settings page](https://www.nerdwallet.com/home/settings) through the Site.
+
+If you do not wish to receive email offers or newsletters from us, you can opt-out of receiving email information from us (except for emails related to the completion of your registration, correction of user data, change of password, and other similar communications essential to your transactions through the Services) by using the unsubscribe process at the bottom of the email. Although your changes are reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.
+
+You have the option to refuse any free consultations or offers for services provided after you submit a request to a third party through the Services.
+
+**Our Commitment to Children’s Privacy:**
+
+Protecting the privacy of young children is especially important. For that reason, we do not allow children under 13 years of age to use the Services, we do not knowingly collect or maintain information from persons under 13 years of age, and no part of the Services are directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access the Services at any time or in any manner. If we learn that information has been collected through the Services from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained a NerdWallet account or provided us with information, please alert us at [support@nerdwallet.com](mailto:support@nerdwallet.com) to request that we delete the information from our systems.
+
+**Our Commitment to Data Security:**
+
+We use certain physical, managerial, and technical safeguards that are designed to protect the integrity and security of your information. We cannot, however, ensure or warrant the security of any information you transmit to us through the Services or store on the Site and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  
+Although we may allow you to adjust your privacy settings to limit access to your information, no security measures are perfect or impenetrable. We cannot control the actions of other users or other third parties with whom you may choose to share your information. Therefore, we cannot and do not guarantee that information you post through the Services and on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. Even after removal, copies of information that you have posted may remain viewable in cached and archived pages or if other users have copied or stored such information.
+
+**International Visitors:**
+
+The Service is hosted in the United States and is intended solely for visitors located within the United States. You agree that if you choose to use the Services from outside the United States, you will be transferring your information outside of those regions to the United States for storage and processing.
+
+**In the Event of Merger or Sale:**
+
+NerdWallet reserves the right to transfer or assign the information that we have collected from users in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+**Changes and Updates to this Privacy Policy:**
+
+We reserve the right to make changes to this Privacy Policy at any time. We will notify you about material changes in the way we treat your information, including by placing a prominent notice on the Site or by sending you an email so that you can choose whether to continue using the Services. Material modifications are effective 30 calendar days after our initial notification or upon your acceptance of the modified Terms. Immaterial modifications are effective upon posting of the updated Privacy Policy or Terms of Service on the Site. Please revisit this page periodically to stay aware of any changes to this Privacy Policy. For the avoidance of doubt, disputes arising hereunder will be resolved in accordance with the Privacy Policy in effect at the time the dispute arose.  
+**Do Not Track Disclosures**
+
+Third parties such as advertising networks, analytics providers, and widget providers may collect information about your online activities over time and across different websites when you access or use our Services.
+
+Currently, various browsers offer a “Do Not Track” option, but there is no standard for how DNT should work on commercial websites. Due to lack of such standards, the Site does not respond to Do Not Track consumer browser settings.
+
+**Our Contact Information:**
+
+Please contact us with any questions or comments about this Privacy Policy, your personally identifiable information, our use and disclosure practices, or your consent choices by e-mail at [support@nerdwallet.com](mailto:support@nerdwallet.com).
+
+NerdWallet, Inc.  
+875 Stevenson Street, 5th Floor  
+San Francisco, CA 94103
