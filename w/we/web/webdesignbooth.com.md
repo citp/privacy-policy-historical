@@ -1,73 +1,67 @@
-> *The following text is extracted and transformed from the webdesignbooth.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913044546id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignbooth.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930232059id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Web Design Booth
 
-This is the privacy policy of **WebDesignBooth.com**
+## Privacy Policy
 
-**WebDesignBooth.com** strongly believes in a consumer’s right to privacy. **WebDesignBooth.com** does not engage in the collection, distribution, sale or use of personally identifiable information about web users, such as name, phone number and street address. **WebDesignBooth.com** does not conduct individual web user “profiling”.
+Welcome to http://www.webdesignbooth.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Web Design Booth (collectively, “Services”) (“Authorized Customers”).
 
-## Usage tracking
+“Personally Identifiable Information” 
 
-For the web user to **WebDesignBooth.com** ‘s website, our web server automatically collects information on your domain type, browser used and your IP address for statistical purposes only, which will be used to improve the content of our web page and not sold to other organizations for any purpose. And since we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions on the capture and use of those information.
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-## Cookies
+What Personally Identifiable Information is collected? 
 
-With respect to cookies, we do place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is the information you supply yourself. **WebDesignBooth.com** uses cookies to track user traffic patterns and our advertising system delivers a one-time cookie to better track ad impressions and click rates. Besides, third parties ad server companies may also be placing and reading cookies in your browser, or using web beacons to collect information, in the course of ads being served on **WebDesignBooth.com**. You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-## Third Party Advertisements
+What organizations are collecting the information? 
 
-We also use third party advertisements on **WebDesignBooth.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking and recipes sites).
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-## DoubleClick DART Cookies
+How does the Site use Personally Identifiable Information?
 
-**WebDesignBooth.com** may also use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit using DoubleClick advertising (including some Google Adsense advertisements). This cookie is used to serve ads specific to you and your interests which are also known as “interest based targeting”. The ads served will be targeted based on your previous browsing history (for example, if you have been viewing sites about food, you may see advertisements related to recipes, food, and cooking utensils when viewing a non-related site, such as a site about travel). DART uses non personally identifiable information. It does not track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-You can always choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+With whom may the information may be shared?
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a website running the advertisements, a new cookie will automatically be added again.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-## Log Files
+How is Personally Identifiable Information stored?
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site, your screen resolutions and number of colors, the time you visited our site and which pages you have visited throughout our site.
+Personally Identifiable Information collected by Web Design Booth is securely stored and is not accessible to third parties or employees of Web Design Booth except for use as indicated above.
 
-## Children
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
-To be consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at
 
-## Electronic Newsletters Policy
+Are Cookies Used on the Site?
 
-We may offer free electronic newsletters to users who subscribe voluntarily by providing their name and email addresses. Subscribers may remove themselves from the mailing list by following an unsubscribe link provided in every newsletters. All email addresses submitted to **WebDesignBooth.com** in regard to our newsletters or for any other reason will be kept strictly confidential and private. You can be assured our mailing list will NEVER be shared or sold as a whole or in part.
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-## Website Advertisements
+How does Web Design Booth use login information? 
 
-With respect to Ad Servers, in order to bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, clickstream information, and other details. These third parties may also be placing and reading cookies in your browser, or using web beacons to collect information, in the course of ads being served. For further information, please consult the privacy policies of the individual advertisers.
+Web Design Booth uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-## Any Changes in the Privacy Policy
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-In the event if **WebDesignBooth.com** ‘s policy on information practices change at some time in the future, we will use only the data collected from the time of our policy change forward.
+Web Design Booth has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-## External Links
+How does the Site keep Personally Identifiable Information secure?
 
-With regards to outside links, this website contains links to other websites. Please be aware that **WebDesignBooth.com** is not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our website, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-## Use of Information
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-**WebDesignBooth.com** uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@webdesignbooth.com
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in poll, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. **WebDesignBooth.com** never shares newsletter mailing lists with any third party, including advertisers, sponsors or partners.
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-When we use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us to continue to build a better service to you. We track search terms entered in Search function as one of the many measures of what interests our users. But we don’t track which terms a particular user enters.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-**WebDesignBooth.com** creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don’t track the usage patterns of individual users, an advertiser or sponsors will never know that a specific user clicked their ads. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+What happens if the Privacy Policy Changes?
 
-## Sharing of the Information
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-**WebDesignBooth.com** uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience’s demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+Links:
 
-## Opt-Out Policy
-
-We give users options whenever necessary and practical. Such choices include: Opting not to register to receive our electronic newsletters and Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
-
-## Your Consent
-
-By using this site, you agree and consent to the collection and use of this information by **WebDesignBooth.com**. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+http://www.webdesignbooth.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
