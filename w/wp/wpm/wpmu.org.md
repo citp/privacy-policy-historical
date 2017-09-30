@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212113id_/http%3A//incsub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930092927id_/http%3A//incsub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPMU DEV, Edublogs, CampusPress - Incsub
 
@@ -38,42 +38,9 @@ Incsub discloses potentially personally-identifying and personally-identifying i
 
 We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-Incsub, LLC acknowledges that all individuals (including EU individuals) have the right to access the personal information/data that we maintain about them. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to admin@incsub.com. If requested to remove data, we will respond within a reasonable timeframe, not to exceed one week.
+Incsub, LLC acknowledges that all individuals have the right to access the personal information/data that we maintain about them. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to admin@incsub.com. If requested to remove data, we will respond within a reasonable timeframe, not to exceed one week.
 
 If we ever were to engage in any onward transfers of your data with third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data.
-
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Incsub, LLC is potentially liable.
-
-### EU-US Privacy Shield
-
-Incsub, LLC complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Incsub, LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
-
-In compliance with the EU-US Privacy Shield Principles, Incsub, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Incsub, LLC at:
-
-admin@incsub.com  
-Incsub,LLC  
-7700 Northcross Dr #10291  
-Austin, TX 78766  
-USA
-
-Incsub, LLC has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
-
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.  
-Incsub, LLC is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).”
-
-### US-Swiss Safe Harbor Framework
-
-Incsub, LLC complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Incsub, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/
-
-In compliance with the US-Swiss Safe Harbor Principles, Incsub, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Incsub, LLC at:
-
-admin@incsub.com  
-Incsub,LLC  
-7700 Northcross Dr #10291  
-Austin, TX 78766  
-USA
-
-Incsub, LLC has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 ### Cookies
 
