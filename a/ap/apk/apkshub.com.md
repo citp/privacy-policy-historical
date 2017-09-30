@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkshub.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051912id_/http%3A//apkshub.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkshub.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930214846id_/http%3A//www.apkshub.com/about) for the most accurate reproduction.*
 
 # APKShub - About Site
 
