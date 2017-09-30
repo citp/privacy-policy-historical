@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingexplained.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130029id_/http%3A//accountingexplained.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingexplained.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930030034id_/http%3A//accountingexplained.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingExplained.com
 
