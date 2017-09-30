@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grocerycouponnetwork.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606221224id_/https%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grocerycouponnetwork.com privacy policy that was archived on 2017-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170930040836id_/https%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 
@@ -18,8 +18,8 @@
 	<title>Privacy Policy &amp; Terms | Grocery Coupon Network</title>
    
 	<link rel="stylesheet" href="//img8.grocerycouponnetwork.com/foundation/css/foundation.min.css" type="text/css" media="all">
-		<link rel="stylesheet" id="gcn-stylesheet-css" href="//img8.grocerycouponnetwork.com/css/style.min.css?1493134214" type="text/css" media="all">
-		<link rel="stylesheet" id="gcn-stylesheet-css" href="//img8.grocerycouponnetwork.com/css/coupon_gallery.min.css?1491945574" type="text/css" media="all">
+		<link rel="stylesheet" id="gcn-stylesheet-css" href="//img8.grocerycouponnetwork.com/css/style.min.css?1493134213" type="text/css" media="all">
+		<link rel="stylesheet" id="gcn-stylesheet-css" href="//img8.grocerycouponnetwork.com/css/coupon_gallery.min.css?1502717734" type="text/css" media="all">
 	<link rel="stylesheet" id="foundation-icons-css" href="/foundation/css/foundation-icons/foundation-icons.min.css" type="text/css" media="all">
 
 	<link href="https://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet" type="text/css">
@@ -29,7 +29,7 @@
 </style>
 	
 	<!-- declare any global javascript vars here -->
-	<script defer="" src="//tag.crsspxl.com/s1.js?d=2510&amp;cb=1580489737667"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>var cdn_url = '//img8.grocerycouponnetwork.com'
+	<script defer="" src="//tag.crsspxl.com/s1.js?d=2510&amp;cb=1580489737628"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>var cdn_url = '//img8.grocerycouponnetwork.com'
 var utm_source = ''
 var utm_medium = ''
 var utm_campaign = ''
@@ -40,8 +40,7 @@ var user_code = ''
 	<script src="/foundation/js/vendor/modernizr.js"></script>
 	<script src="https://use.fontawesome.com/5523b2d156.js"></script>
 	
-	<script type="text/javascript" src="//mtrx.go.sonobi.com/morpheus.GroceryCouponNetwork.1662.js"></script>
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+	<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
@@ -120,6 +119,13 @@ var user_code = ''
 				
 				set_onesignal_data(Cookies.get('onesignal_uuid'), 'granted');
 			}
+
+			/* for testing
+			OneSignal.sendTag("test_user", 1);
+
+			OneSignal.getUserId(function(userId) {
+					console.log(userId);
+				});*/
 		}
 	});
 
@@ -201,6 +207,108 @@ function trigger_custom_alert() {
 	});
 }
 
+
+function unsubscribe_user() {
+	
+	 var isPushSupported = OneSignal.isPushNotificationsSupported();
+	  if (isPushSupported) {
+		// Push notifications are supported
+	  } else {
+		alert('Push Notifications Not Supported On This Browser');
+		return false;
+	  }
+	
+	OneSignal.isPushNotificationsEnabled(function(isPushEnabled) {
+	
+    // checks to see if push notifications are enabled
+	if (isPushEnabled) {
+			
+			// if they are not enabled prompt the user to allow notifications
+			OneSignal.push(["setSubscription", false]);
+			alert('You Have Successfully Unsubscribed From Push Notifications');
+		}
+		else
+		{
+			alert('You Are Not Currently Subscribed To Our Push Notifications');
+		}
+	});
+}
+
+
+function subscribe_user() {
+	
+	 var isPushSupported = OneSignal.isPushNotificationsSupported();
+	  if (isPushSupported) {
+		// Push notifications are supported
+	  } else {
+		alert('Push Notifications Not Supported On This Browser');
+		return false;
+	  }
+	
+	
+	
+	OneSignal.isPushNotificationsEnabled(function(isPushEnabled) {
+	
+    // checks to see if push notifications are enabled
+	if (isPushEnabled) {
+			
+			alert('You Are Already Subscribed To Our Push Notifications');
+		}
+		else
+		{
+			OneSignal.push(["setSubscription", true]);
+		}
+	});
+}
+
+
+
+// adds a user tag 'latest_print_date' after a print session
+function track_print() {
+	
+	 if (OneSignal)
+	 {
+		try
+		{
+			OneSignal.isPushNotificationsSupported();
+		}
+		catch (err)
+		{
+			console.log(err);
+			return false;
+		}
+	 var isPushSupported = OneSignal.isPushNotificationsSupported();
+	  if (isPushSupported) {
+		// Push notifications are supported
+	  } else {
+		return false;
+	  }
+	
+	OneSignal.isPushNotificationsEnabled(function(isPushEnabled) {
+	
+    // checks to see if push notifications are enabled
+	if (isPushEnabled) {
+		var today = new Date();
+		var dd = today.getDate();
+		var mm = today.getMonth()+1; //January is 0!
+		var yyyy = today.getFullYear();
+
+		if(dd<10) {
+			dd='0'+dd
+		} 
+
+		if(mm<10) {
+			mm='0'+mm
+		} 
+
+		today = yyyy+mm+dd;
+			
+			OneSignal.sendTag("latest_print_date", today);
+		}
+	});
+	 }
+}
+
 </script>
 <!-- Begin Google Analytics Tag -->
 <script type="text/javascript">
@@ -216,7 +324,7 @@ function trigger_custom_alert() {
   	var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-6925578-1']);
   _gaq.push(['_setDomainName', '.grocerycouponnetwork.com']);
-	var remote_ip = '207.241.229.150';
+	var remote_ip = '138.197.202.126';
     var url_vars = getUrlVars();
 	//if (url_vars['utm_campaign'] != undefined && url_vars['utm_campaign'].length > 0) {
     var internal_ga_tag_info = {};
@@ -319,7 +427,7 @@ _gaq.push(['_trackPageview']);  (function() {
 					</div>
 				 </div>
 				<input type="hidden" name="ReferURL" value="http://www.grocerycouponnetwork.com/policy.php">
-				<input type="hidden" name="zip" value="94118">
+				<input type="hidden" name="zip" value="95051">
 				<input type="hidden" name="vercode" value="1">
 				<input type="hidden" name="email_widget" value="1">
 				</form>
@@ -507,7 +615,7 @@ ul.dropdown {
 		<p>Effective Date: April 19, 2014</p>
 		<br>
 		<p>Thank you for visiting the Grocery Coupon Network website located at www.GroceryCouponNetwork.com (the “Website”). The Grocery Coupon Network Website is a media property owned by VonHudman Group, a leading online marketing company. VonHudman Group, ("We," "Us," "Our" or "GroceryCouponNetwork"), understands how important privacy is to Our members ("You," "Your"). We have created this Privacy Policy (“Privacy Policy”) to let You know what information is being collected on the Website, how the information is being used and what choices You have regarding the collection and use of this information. </p>
-		<p>Please take a moment to review this Privacy Policy and feel free to contact us with any questions that you may have via email at privacy@GroceryCouponNetwork.com or via postal mail at GroceryCouponNetwork, 230 S Clark Suite 306, Chicago, IL 60604</p>
+		<p>Please take a moment to review this Privacy Policy and feel free to contact us with any questions that you may have via email at privacy@GroceryCouponNetwork.com or via postal mail at GroceryCouponNetwork, 3501 N Southport Ave. #478, Chicago, IL 60657</p>
 		<br>
 		<p><strong>WHAT INFORMATION IS COLLECTED?</strong></p>
 		<br>
@@ -516,7 +624,7 @@ ul.dropdown {
 		<br>
 		<p><strong>CALIFORNIA RESIDENTS PRIVACY RIGHTS</strong></p>
 		<br>
-		<p>California State residents who disclose Personal Information to an entity such as Grocery Coupon Network are entitled to either: (1) a list from such entity detailing the categories of Personal Information shared and the third parties to which such information was provided by such entity; or (2) a mechanism by which such California State residents may opt-out of having their Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by Clicking Here or sending Your request, including Your full name, email address and postal address to: Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604. </p>
+		<p>California State residents who disclose Personal Information to an entity such as Grocery Coupon Network are entitled to either: (1) a list from such entity detailing the categories of Personal Information shared and the third parties to which such information was provided by such entity; or (2) a mechanism by which such California State residents may opt-out of having their Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by Clicking Here or sending Your request, including Your full name, email address and postal address to: Grocery Coupon Network, 3501 N Southport Ave. #478, Chicago, IL 60657. </p>
 		<p>Please be advised that where California State residents opt-out from permitting their Personal Information to be shared with third-parties, such individuals may still receive selected offers directly from Us, in accordance with the law. In accordance with California Civil Code Sec. 1789.3, California State residents are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs: by postal mail at 400 R Street, Suite 1080, Sacramento, CA 95814; by telephone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.</p>
 		<br>
 		<p><strong>HOW DO WE USE THE INFORMATION COLLECTED?</strong></p>
@@ -545,7 +653,7 @@ ul.dropdown {
 		<p>Grocery Coupon Network Offers:<br>
 		We use Your email address to notify you of Program updates, special offers and promotions. You may select at any time to opt-out from receiving emailed marketing offers from us, our partners and/or affiliated companies using the "Unsubscribe" link at the bottom any future email that you receive from us. or by following this link:<br>
 		<a href="http://www.grocerycouponnetwork.com/unsubscribe.php">http://www.grocerycouponnetwork.com/unsubscribe.php</a><br>
-		You may also unsubscribe from Grocery Coupon Network offers using <a href="mailto:postmaster@GroceryCouponNetwork.com">postmaster@GroceryCouponNetwork.com</a> or via postal mail at Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604</p>
+		You may also unsubscribe from Grocery Coupon Network offers using <a href="mailto:postmaster@GroceryCouponNetwork.com">postmaster@GroceryCouponNetwork.com</a> or via postal mail at Grocery Coupon Network, 3501 N Southport Ave. #478, Chicago, IL 60657</p>
 		<p>Non-affiliated 3rd Parties:<br>
 		</p>
 		<p>If You prefer not to receive email offers from our non-affiliated third-parties, You may click the "Unsubscribe" link available on the bottom of each email that You receive from a non-affiliated third-party, and follow the instructions on the screen.</p>
@@ -576,7 +684,7 @@ ul.dropdown {
 		<br>
 		<p><strong>HOW TO CONTACT US</strong></p>
 		<br>
-		<p>If You have any questions about the practices of Grocery Coupon Network, You can contact Us by visiting the Contact Us section of the Website, or via postal mail at Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604.</p>
+		<p>If You have any questions about the practices of Grocery Coupon Network, You can contact Us by visiting the Contact Us section of the Website, or via postal mail at Grocery Coupon Network, 3501 N Southport Ave. #478, Chicago, IL 60657.</p>
 		<br>
 		<p>Email: <a href="mailto:privacy@GroceryCouponNetwork.com">privacy@GroceryCouponNetwork.com</a><br>
 		Phone: (312) 476-9862</p>
@@ -610,12 +718,22 @@ ul.dropdown {
 	<div class="medium-4 columns" id="right-column">
 		<div class="row">
 	<div class="small-centered columns" align="center" style="padding:0px">
+		
 		<!-- /27434176/GCN_Sidebar_300x250 -->
 		<div id="div-gpt-ad-1492448450715-0">
 		<script>
 		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492448450715-0'); });
 		</script>
 		</div>
+
+		<!-- Tag ID: grocerycouponnetwork_300x250_ATF -->
+		<!--
+		<div align="center" id="grocerycouponnetwork_300x250_ATF">
+			<script data-cfasync="false" type='text/javascript'>
+				freestar.queue.push(function () { googletag.display('grocerycouponnetwork_300x250_ATF'); });
+			</script>
+		</div>-->
+
 	</div>
 </div>
 <br>
@@ -626,93 +744,19 @@ ul.dropdown {
 
 			<div class="medium-12 medium-centered side-widget-content" style="padding-top:25px;padding-left:30px;margin-bottom:15px;">
 
-				<div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-0" remote-id="19883178" url-path="miracle-whip-save-100-4" master-brand-url="kraft" desc="$1.00 off one Miracle Whip">
+				<div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-0" remote-id="20008011" url-path="sargento-save-100-23" master-brand-url="sargento" desc="$1.00 off any 2 Sargento">
 			<div class="pod_wrapper">
 		<div class="pod_container">
 			<div class="hover">
 				<div class="click-text">Clip Coupon</div>
 			</div>
 			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-miracle-whip-save-100-4.gif" alt="Save $1.00 - Miracle Whip"></div>
-			<div class="right">
-				<div class="pod-info">
-					<h4 class="summary">Save $1.00</h4>
-					<h5 class="brand">Miracle Whip</h5>
-					<p class="details">when you purchase any ONE (1) MIRACLE WHIP Dressing (22oz or 30oz)</p>
-				</div>
-			</div>
-			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">$1</span>
-			</div>
-			<div class="more-info badge_left badge_top" style="display:none">
-				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
-			</div>
-			<div class="clipped-container">
-				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
-				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
-				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
-			</div>
-			<div class="share-box">
-				Share with your friends
-				<div class="social-strip">
-					<a href="#" class="facebook"></a>
-					<a href="#" class="twitter"></a>
-					<a href="#" class="pinterest"></a>
-					<a href="#" class="google-plus"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-1" remote-id="19878192" url-path="minute-maid-save-055" master-brand-url="minute-maid" desc="$0.55 off one Minute Maid">
-			<div class="pod_wrapper">
-		<div class="pod_container">
-			<div class="hover">
-				<div class="click-text">Clip Coupon</div>
-			</div>
-			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-minute-maid-save-055.gif" alt="Save $0.55 - Minute Maid®"></div>
-			<div class="right">
-				<div class="pod-info">
-					<h4 class="summary">Save $0.55</h4>
-					<h5 class="brand">Minute Maid®</h5>
-					<p class="details">on ONE (1) Minute Maid® Juice Drink--Spicy Watermelon Lemonade, Lemonade with Mint or Ginger with P</p>
-				</div>
-			</div>
-			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">55¢</span>
-			</div>
-			<div class="more-info badge_left badge_top" style="display:none">
-				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
-			</div>
-			<div class="clipped-container">
-				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
-				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
-				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
-			</div>
-			<div class="share-box">
-				Share with your friends
-				<div class="social-strip">
-					<a href="#" class="facebook"></a>
-					<a href="#" class="twitter"></a>
-					<a href="#" class="pinterest"></a>
-					<a href="#" class="google-plus"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-2" remote-id="19814067" url-path="colgate-save-100-29" master-brand-url="colgate" desc="$1.00 off one Colgate">
-			<div class="pod_wrapper">
-		<div class="pod_container">
-			<div class="hover">
-				<div class="click-text">Clip Coupon</div>
-			</div>
-			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-colgate-save-100-29.gif" alt="SAVE $1.00 - Colgate®"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-sargento-save-100-23.gif" alt="SAVE $1.00 - Sargento®"></div>
 			<div class="right">
 				<div class="pod-info">
 					<h4 class="summary">SAVE $1.00</h4>
-					<h5 class="brand">Colgate®</h5>
-					<p class="details">On any Colgate Total®, Colgate® Optic White®, Colgate® Enamel Health™ or Colgate® Sensitive T</p>
+					<h5 class="brand">Sargento®</h5>
+					<p class="details">on any TWO (2) Sargento® Natural Cheese Slices</p>
 				</div>
 			</div>
 			<div class="badge green_bg badge_right badge_top">
@@ -737,167 +781,19 @@ ul.dropdown {
 			</div>
 		</div>
 	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-3" remote-id="19815068" url-path="bounty-100-off-23" master-brand-url="pg" desc="$1.00 off one Bounty">
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-1" remote-id="19933396" url-path="charmin-100-off-30" master-brand-url="pg" desc="$1.00 off one Charmin">
 			<div class="pod_wrapper">
 		<div class="pod_container">
 			<div class="hover">
 				<div class="click-text">Clip Coupon</div>
 			</div>
 			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-bounty-100-off-23.gif" alt="$1.00 OFF - BOUNTY®"></div>
-			<div class="right">
-				<div class="pod-info">
-					<h4 class="summary">$1.00 OFF</h4>
-					<h5 class="brand">BOUNTY®</h5>
-					<p class="details">ONE Bounty® Paper Towels 6 ct or larger (excludes Basic and trial/travel size)</p>
-				</div>
-			</div>
-			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">$1</span>
-			</div>
-			<div class="more-info badge_left badge_top" style="display:none">
-				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
-			</div>
-			<div class="clipped-container">
-				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
-				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
-				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
-			</div>
-			<div class="share-box">
-				Share with your friends
-				<div class="social-strip">
-					<a href="#" class="facebook"></a>
-					<a href="#" class="twitter"></a>
-					<a href="#" class="pinterest"></a>
-					<a href="#" class="google-plus"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-4" remote-id="19883038" url-path="bounce-100-off-9" master-brand-url="pg" desc="$1.00 off one Bounce">
-			<div class="pod_wrapper">
-		<div class="pod_container">
-			<div class="hover">
-				<div class="click-text">Clip Coupon</div>
-			</div>
-			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-bounce-100-off-9.gif" alt="$1.00 OFF - BOUNCE®"></div>
-			<div class="right">
-				<div class="pod-info">
-					<h4 class="summary">$1.00 OFF</h4>
-					<h5 class="brand">BOUNCE®</h5>
-					<p class="details">ONE Bounce® Dryer Sheets 60 ct or larger (excludes lint rollers and trial/travel size)</p>
-				</div>
-			</div>
-			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">$1</span>
-			</div>
-			<div class="more-info badge_left badge_top" style="display:none">
-				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
-			</div>
-			<div class="clipped-container">
-				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
-				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
-				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
-			</div>
-			<div class="share-box">
-				Share with your friends
-				<div class="social-strip">
-					<a href="#" class="facebook"></a>
-					<a href="#" class="twitter"></a>
-					<a href="#" class="pinterest"></a>
-					<a href="#" class="google-plus"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-5" remote-id="19873093" url-path="clorox-save-100-19" master-brand-url="clorox" desc="$1.00 off any 2 Clorox">
-			<div class="pod_wrapper">
-		<div class="pod_container">
-			<div class="hover">
-				<div class="click-text">Clip Coupon</div>
-			</div>
-			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-clorox-save-100-19.gif" alt="Save $1.00 - Clorox®"></div>
-			<div class="right">
-				<div class="pod-info">
-					<h4 class="summary">Save $1.00</h4>
-					<h5 class="brand">Clorox®</h5>
-					<p class="details">off any two Clorox® Clean-up®, Disinfecting Wipes 32ct.+, Liquid Bleach 55oz.+, OR any Manual Toil</p>
-				</div>
-			</div>
-			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">$1</span>
-			</div>
-			<div class="more-info badge_left badge_top" style="display:none">
-				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
-			</div>
-			<div class="clipped-container">
-				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
-				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
-				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
-			</div>
-			<div class="share-box">
-				Share with your friends
-				<div class="social-strip">
-					<a href="#" class="facebook"></a>
-					<a href="#" class="twitter"></a>
-					<a href="#" class="pinterest"></a>
-					<a href="#" class="google-plus"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-6" remote-id="19843130" url-path="schick-disposable-razor-packs-save-700-2" master-brand-url="schick" desc="$7.00 off any 2 Schick® Disposable Razor Packs">
-			<div class="pod_wrapper">
-		<div class="pod_container">
-			<div class="hover">
-				<div class="click-text">Clip Coupon</div>
-			</div>
-			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-schick-disposable-razor-packs-save-700-2.gif" alt="Save $7.00 - Schick® Disposable Razor Packs"></div>
-			<div class="right">
-				<div class="pod-info">
-					<h4 class="summary">Save $7.00</h4>
-					<h5 class="brand">Schick® Disposable Razor Packs</h5>
-					<p class="details">on any TWO (2) Schick® Disposable Razor Packs (excludes 1 ct. and Schick® Slim Twin® 6 ct.)</p>
-				</div>
-			</div>
-			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">$7</span>
-			</div>
-			<div class="more-info badge_left badge_top" style="display:none">
-				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
-			</div>
-			<div class="clipped-container">
-				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
-				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
-				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
-			</div>
-			<div class="share-box">
-				Share with your friends
-				<div class="social-strip">
-					<a href="#" class="facebook"></a>
-					<a href="#" class="twitter"></a>
-					<a href="#" class="pinterest"></a>
-					<a href="#" class="google-plus"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-7" remote-id="19815082" url-path="charmin-100-off-25" master-brand-url="pg" desc="$1.00 off one Charmin">
-			<div class="pod_wrapper">
-		<div class="pod_container">
-			<div class="hover">
-				<div class="click-text">Clip Coupon</div>
-			</div>
-			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-charmin-100-off-25.gif" alt="$1.00 OFF - CHARMIN®"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-charmin-100-off-30.gif" alt="$1.00 OFF - CHARMIN®"></div>
 			<div class="right">
 				<div class="pod-info">
 					<h4 class="summary">$1.00 OFF</h4>
 					<h5 class="brand">CHARMIN®</h5>
-					<p class="details">ONE Charmin® Ultra Soft or Strong 6 Mega Roll, 9 Big Roll, 12 Double Roll or larger (excludes Essen</p>
+					<p class="details">ONE Charmin® Ultra Soft OR Strong Toilet Paper 4 ct or larger (excludes 4 Double Roll, Charmin® Es</p>
 				</div>
 			</div>
 			<div class="badge green_bg badge_right badge_top">
@@ -922,23 +818,23 @@ ul.dropdown {
 			</div>
 		</div>
 	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-8" remote-id="19880166" url-path="glad-save-150-4" master-brand-url="glad" desc="$1.50 off one Glad">
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-2" remote-id="19858386" url-path="digiorno-save-200-12" master-brand-url="digiorno" desc="$2.00 off one Digiorno">
 			<div class="pod_wrapper">
 		<div class="pod_container">
 			<div class="hover">
 				<div class="click-text">Clip Coupon</div>
 			</div>
 			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-glad-save-150-4.gif" alt="Save $1.50 - Glad®"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-digiorno-save-200-12.gif" alt="Save $2.00 - DIGIORNO®"></div>
 			<div class="right">
 				<div class="pod-info">
-					<h4 class="summary">Save $1.50</h4>
-					<h5 class="brand">Glad®</h5>
-					<p class="details">on any Glad® ForceFlex® or ForceFlex with Febreze® Trash Bags (excludes 5ct.)</p>
+					<h4 class="summary">Save $2.00</h4>
+					<h5 class="brand">DIGIORNO®</h5>
+					<p class="details">on any ONE (1) DIGIORNO® Crispy Pan Pizza</p>
 				</div>
 			</div>
 			<div class="badge green_bg badge_right badge_top">
-				<span class="badge-text">$1.50</span>
+				<span class="badge-text">$2</span>
 			</div>
 			<div class="more-info badge_left badge_top" style="display:none">
 				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
@@ -959,23 +855,245 @@ ul.dropdown {
 			</div>
 		</div>
 	</div>
-	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-9" remote-id="19859085" url-path="big-g-cereals-save-50-on-one-35" master-brand-url="big-g-cereals" desc="$0.50 off Honey Nut Cheerios OR Medley Crunch">
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-3" remote-id="19953038" url-path="puffs-50-off-16" master-brand-url="pg" desc="$0.50 off one Puffs">
 			<div class="pod_wrapper">
 		<div class="pod_container">
 			<div class="hover">
 				<div class="click-text">Clip Coupon</div>
 			</div>
 			<div class="hover_blank"></div>
-			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-big-g-cereals-save-50-on-one-35.gif" alt="SAVE 50¢ ON ONE - Big G Cereals"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-puffs-50-off-16.gif" alt="50¢ OFF - PUFFS®"></div>
 			<div class="right">
 				<div class="pod-info">
-					<h4 class="summary">SAVE 50¢ ON ONE</h4>
-					<h5 class="brand">Big G Cereals</h5>
-					<p class="details">when you buy ONE BOX Honey Nut Cheerios® OR Honey Nut Cheerios® Medley Crunch™ cereal</p>
+					<h4 class="summary">50¢ OFF</h4>
+					<h5 class="brand">PUFFS®</h5>
+					<p class="details">ONE Puffs® Facial Tissue product 72 sheets or larger (excludes Puffs® To-Go and trial/travel size)</p>
 				</div>
 			</div>
 			<div class="badge green_bg badge_right badge_top">
 				<span class="badge-text">50¢</span>
+			</div>
+			<div class="more-info badge_left badge_top" style="display:none">
+				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
+			</div>
+			<div class="clipped-container">
+				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
+				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
+				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
+			</div>
+			<div class="share-box">
+				Share with your friends
+				<div class="social-strip">
+					<a href="#" class="facebook"></a>
+					<a href="#" class="twitter"></a>
+					<a href="#" class="pinterest"></a>
+					<a href="#" class="google-plus"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-4" remote-id="19933387" url-path="bounty-100-off-28" master-brand-url="pg" desc="$1.00 off one Bounty">
+			<div class="pod_wrapper">
+		<div class="pod_container">
+			<div class="hover">
+				<div class="click-text">Clip Coupon</div>
+			</div>
+			<div class="hover_blank"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-bounty-100-off-28.gif" alt="$1.00 OFF - BOUNTY®"></div>
+			<div class="right">
+				<div class="pod-info">
+					<h4 class="summary">$1.00 OFF</h4>
+					<h5 class="brand">BOUNTY®</h5>
+					<p class="details">ONE Bounty® Paper Towels 6 ct or larger (excludes Bounty® Basic and trial/travel size)</p>
+				</div>
+			</div>
+			<div class="badge green_bg badge_right badge_top">
+				<span class="badge-text">$1</span>
+			</div>
+			<div class="more-info badge_left badge_top" style="display:none">
+				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
+			</div>
+			<div class="clipped-container">
+				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
+				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
+				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
+			</div>
+			<div class="share-box">
+				Share with your friends
+				<div class="social-strip">
+					<a href="#" class="facebook"></a>
+					<a href="#" class="twitter"></a>
+					<a href="#" class="pinterest"></a>
+					<a href="#" class="google-plus"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-5" remote-id="19997099" url-path="dunkin-donuts-coffee-creamer-save-075" master-brand-url="" desc="$0.75 off one Dunkin' Donuts® Coffee Creamer">
+			<div class="pod_wrapper">
+		<div class="pod_container">
+			<div class="hover">
+				<div class="click-text">Clip Coupon</div>
+			</div>
+			<div class="hover_blank"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-dunkin-donuts-coffee-creamer-save-075.gif" alt="Save $0.75 - Dunkin Donuts® Coffee Creamer"></div>
+			<div class="right">
+				<div class="pod-info">
+					<h4 class="summary">Save $0.75</h4>
+					<h5 class="brand">Dunkin' Donuts® Coffee Creamer</h5>
+					<p class="details">off any ONE (1) Dunkin' Donuts® 32 oz. Creamer</p>
+				</div>
+			</div>
+			<div class="badge green_bg badge_right badge_top">
+				<span class="badge-text">75¢</span>
+			</div>
+			<div class="more-info badge_left badge_top" style="display:none">
+				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
+			</div>
+			<div class="clipped-container">
+				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
+				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
+				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
+			</div>
+			<div class="share-box">
+				Share with your friends
+				<div class="social-strip">
+					<a href="#" class="facebook"></a>
+					<a href="#" class="twitter"></a>
+					<a href="#" class="pinterest"></a>
+					<a href="#" class="google-plus"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-6" remote-id="20012161" url-path="quaker-oats-save-100" master-brand-url="" desc="$1.00 off any 2 Quaker Oats">
+			<div class="pod_wrapper">
+		<div class="pod_container">
+			<div class="hover">
+				<div class="click-text">Clip Coupon</div>
+			</div>
+			<div class="hover_blank"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-quaker-oats-save-100.gif" alt="Save $1.00 - Quaker Oats®"></div>
+			<div class="right">
+				<div class="pod-info">
+					<h4 class="summary">Save $1.00</h4>
+					<h5 class="brand">Quaker Oats®</h5>
+					<p class="details">On any two (2) boxes of Pumpkin Spice or Gingerbread Spice Quaker® Instant Oats or Life cereal</p>
+				</div>
+			</div>
+			<div class="badge green_bg badge_right badge_top">
+				<span class="badge-text">$1</span>
+			</div>
+			<div class="more-info badge_left badge_top" style="display:none">
+				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
+			</div>
+			<div class="clipped-container">
+				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
+				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
+				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
+			</div>
+			<div class="share-box">
+				Share with your friends
+				<div class="social-strip">
+					<a href="#" class="facebook"></a>
+					<a href="#" class="twitter"></a>
+					<a href="#" class="pinterest"></a>
+					<a href="#" class="google-plus"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-7" remote-id="19998051" url-path="bounce-100-off-11" master-brand-url="pg" desc="$1.00 off one Bounce">
+			<div class="pod_wrapper">
+		<div class="pod_container">
+			<div class="hover">
+				<div class="click-text">Clip Coupon</div>
+			</div>
+			<div class="hover_blank"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-bounce-100-off-11.gif" alt="$1.00 OFF - BOUNCE®"></div>
+			<div class="right">
+				<div class="pod-info">
+					<h4 class="summary">$1.00 OFF</h4>
+					<h5 class="brand">BOUNCE®</h5>
+					<p class="details">ONE Bounce® Product 34 ct or larger (excludes Bounce® sheets 25 ct and trial/travel size)</p>
+				</div>
+			</div>
+			<div class="badge green_bg badge_right badge_top">
+				<span class="badge-text">$1</span>
+			</div>
+			<div class="more-info badge_left badge_top" style="display:none">
+				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
+			</div>
+			<div class="clipped-container">
+				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
+				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
+				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
+			</div>
+			<div class="share-box">
+				Share with your friends
+				<div class="social-strip">
+					<a href="#" class="facebook"></a>
+					<a href="#" class="twitter"></a>
+					<a href="#" class="pinterest"></a>
+					<a href="#" class="google-plus"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-8" remote-id="20004061" url-path="barilla-save-075-10" master-brand-url="barilla" desc="$0.75 off any 2 Barilla">
+			<div class="pod_wrapper">
+		<div class="pod_container">
+			<div class="hover">
+				<div class="click-text">Clip Coupon</div>
+			</div>
+			<div class="hover_blank"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-barilla-save-075-10.gif" alt="SAVE $0.75 - Barilla®"></div>
+			<div class="right">
+				<div class="pod-info">
+					<h4 class="summary">SAVE $0.75</h4>
+					<h5 class="brand">Barilla®</h5>
+					<p class="details">on any TWO (2) Jars of Barilla® Sauce</p>
+				</div>
+			</div>
+			<div class="badge green_bg badge_right badge_top">
+				<span class="badge-text">75¢</span>
+			</div>
+			<div class="more-info badge_left badge_top" style="display:none">
+				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
+			</div>
+			<div class="clipped-container">
+				<div class="clip-action white"><span class="clip-icon">✓</span> Clipped</div>
+				<div class="unclip-action dark_blue"><span class="clip-icon">✕</span> Unclip</div>
+				<div class="share-action dark_blue"><span class="clip-icon">»</span> Share</div>
+			</div>
+			<div class="share-box">
+				Share with your friends
+				<div class="social-strip">
+					<a href="#" class="facebook"></a>
+					<a href="#" class="twitter"></a>
+					<a href="#" class="pinterest"></a>
+					<a href="#" class="google-plus"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div></div><div class="row">	<div class="medium-6 large-4 columns pod-mini" id="coupon-pod-mini-9" remote-id="19985068" url-path="brawny-save-150" master-brand-url="brawny" desc="$1.50 off one Brawny">
+			<div class="pod_wrapper">
+		<div class="pod_container">
+			<div class="hover">
+				<div class="click-text">Clip Coupon</div>
+			</div>
+			<div class="hover_blank"></div>
+			<div class="left"><img src="//img8.grocerycouponnetwork.com/images/coupons/img-brawny-save-150.gif" alt="Save $1.50 - Brawny®"></div>
+			<div class="right">
+				<div class="pod-info">
+					<h4 class="summary">Save $1.50</h4>
+					<h5 class="brand">Brawny®</h5>
+					<p class="details">off any ONE (1) package of Brawny® Paper Towel, 8 Large Plus Roll</p>
+				</div>
+			</div>
+			<div class="badge green_bg badge_right badge_top">
+				<span class="badge-text">$1.50</span>
 			</div>
 			<div class="more-info badge_left badge_top" style="display:none">
 				<span class="more-info-content">« <span class="more-info-text">more info</span></span>
@@ -1033,12 +1151,12 @@ ul.dropdown {
 		<div class="medium-12 medium-centered side-widget-content" id="lbp" style="margin-bottom:15px">
 			<div class="row" style="margin:10px">
 									<div class="lbp_image">
-						<img width="300" height="156" src="//img8.grocerycouponnetwork.com/community/wp-content/uploads/2017/06/ducolax-free-target-300x156.png" class="attachment-medium wp-post-image" alt="ducolax-free-target">					</div>
+						<img width="300" height="156" src="//img8.grocerycouponnetwork.com/community/wp-content/uploads/2017/07/kelloggs-coupons-keebler-300x156.png" class="attachment-medium wp-post-image" alt="kelloggs-coupons-keebler">					</div>
 					<div class="lbp_excerpt">
-						<div><p>Stacking coupons is a great way to get free deals!  We have a Target deal where you can Get a FREE 24 Ct. of  Dulcolax from Target after Coupon Stack!</p>
+						<div><p>Hurry and Print these new Coupons from Kellogg’s and Keebler!  Save on your favorite cereals and snacks!  Also, check out these Dollar General Deals!</p>
 </div>
 						<div>
-							<a href="https://www.grocerycouponnetwork.com/view/target/blog-target-free-dulcolax-money-maker-coupons/" rel="bookmark" title="Permanent Link to Target: Free Dulcolax and Money Maker after Coupons" style="color:#35946b;text-decoration:underline;font-size:12px;font-weight:bold;">Continue Reading &gt;</a>
+							<a href="https://www.grocerycouponnetwork.com/community/print-7-kelloggs-keebler-coupons/" rel="bookmark" title="Permanent Link to Print $7 in Kellogg’s &amp; Keebler Coupons!" style="color:#35946b;text-decoration:underline;font-size:12px;font-weight:bold;">Continue Reading &gt;</a>
 							<br><br>
 						</div>
 					</div>
@@ -1146,8 +1264,8 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_CtZz_TSY", "5", "m", "wh
 
 	<script src="/foundation/js/vendor/jquery.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script><script type="text/javascript">
 	var auth_headers = {
-		'X-Auth-Date': '2017-06-06 22:12:24Z',
-		'X-Authorization': 'gcn:10271ce9cc3fc28075016cf1a80b8044a378cdb0ab4b5f6caea838470189535e2a9011dca9a7af194679cbb41537be94bd4a06d1faafdc3f2421011ad59ec403'
+		'X-Auth-Date': '2017-09-30 04:08:36Z',
+		'X-Authorization': 'gcn:3a591c4de5b46cffde337cbe04221d330c7339c98056ea7d24e63eea5634f433c495fa41b29a9ad5ad5324446fac5f9b894274fac5feb6d759ae2dab9ea85ae7'
 	}
 	$.ajaxSetup({
 		'headers':auth_headers,
@@ -1171,8 +1289,20 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_CtZz_TSY", "5", "m", "wh
 	var protocol = url_arr[0];
 	var current_domain = url_arr[2];
 
-	var email_print_action = '/coupons/print/byemail';
-	var mobile_print_action = '/coupons/print/index.php';
+	email_print_action = (typeof email_print_action !== 'undefined') ?  email_print_action : '/coupons/print/byemail';
+	mobile_print_action = (typeof mobile_print_action !== 'undefined') ?  mobile_print_action : '/coupons/print/index.php';
+
+	function mpc_confirm_action () {
+		if (print_action=='/api/smart_source/get_print_url') {
+			$.get(print_action,{offerId:clipped_coupons_array})
+				.done(function(data) {
+					window.location.href=data;
+				});
+		}
+		else {
+			window.location.href=protocol+'//'+current_domain+mobile_print_action;
+		}
+	}
 </script>
 
 <a href="#" data-reveal-id="mpc-popup" id="mpc-reveal" style="display:none">Mobile Printer Connect Popup</a>
@@ -1195,7 +1325,7 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_CtZz_TSY", "5", "m", "wh
 	</div>
 	<div class="row">
 		<div class="small-12 columns text-center">
-			<button class="small radius" type="button" style="background-color:#97c43c; font-weight:bold;" onclick="window.location.href=protocol+'//'+current_domain+mobile_print_action">Yes</button>
+			<button class="small radius" type="button" style="background-color:#97c43c; font-weight:bold;" onclick="mpc_confirm_action()">Yes</button>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<button class="small radius" type="button" style="background-color:#97c43c; font-weight:bold;" onclick="window.location.href=protocol+'//'+current_domain+email_print_action">No</button>
 		</div>			
@@ -1218,7 +1348,7 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_CtZz_TSY", "5", "m", "wh
 		var tablet_browser = 0;
 	</script>
 
-	<script src="//img8.grocerycouponnetwork.com/js/footer_closing.min.js?1489691755'"></script><script type="text/javascript">
+	<script src="//img8.grocerycouponnetwork.com/js/footer_closing.min.js?1502717734'"></script><script type="text/javascript">
         var __st_loadLate=true; //if __st_loadLate is defined then the widget will not load on domcontent ready
 </script>
 <!--<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
