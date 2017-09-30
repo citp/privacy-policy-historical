@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331083032id_/https%3A//www.provident.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930145159id_/https%3A//www.provident.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Provident Funding
 
@@ -55,6 +55,6 @@ You consent to the collection and use of information by Provident Funding, as se
 
 Contact Us
 
-Provident Funding welcomes your questions, comments and concerns about our privacy practices. [Click here](https://web.archive.org/web/20160331083032id_/https%3A//www.provident.com/ContactUs.aspx?wsmenu=1) to contact our customer service representatives. 
+Provident Funding welcomes your questions, comments and concerns about our privacy practices. [Click here](https://web.archive.org/web/20170930145159id_/https%3A//www.provident.com/ContactUs.aspx?wsmenu=1) to contact our customer service representatives. 
 
 **Effective Date:** This policy was last revised on 10/1/2014 and takes effect immediately and is in effect until further revised. 
