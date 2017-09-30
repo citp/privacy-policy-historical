@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043317id_/http%3A//courseadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930184704id_/http%3A//www.courseadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # CourseAdvisor - Avenue100 Media Solutions
 
 ##### Effective Date: June 9, 2009
-
-CourseAdvisor Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.courseadvisor.com. Because CourseAdvisor wants to demonstrate its commitment to users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 This CourseAdvisor privacy statement (this “Policy”) covers the website www.courseadvisor.com (the “Site”) and is applicable to all information about you (“you”) collected through the Site (“Information”).
 
@@ -109,5 +107,3 @@ To express or ask questions regarding privacy concerns: send an email to privacy
  **Phone:** 781.683.3300
 
  **Mailing address:** CourseAdvisor Inc.1601 Trapelo Road; Suite 202Waltham, MA 02451
-
-If you do not receive acknowledgment of your inquiry from us, or if your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com](http://watchdog.truste.com/). TRUSTe will then serve as a liaison with us to resolve your concerns.
