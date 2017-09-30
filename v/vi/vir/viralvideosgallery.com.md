@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralvideosgallery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145451id_/http%3A//viralvideosgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralvideosgallery.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930102604id_/http%3A//viralvideosgallery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Viral Videos Gallery
 
