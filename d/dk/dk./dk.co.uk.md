@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326030944id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930124150id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
 
 # DK Privacy Policy and Cookies | Help and Shopping | DK.com
 
@@ -20,13 +20,13 @@ Except as described in this Privacy Policy, we do not maintain any personal info
 
 Below are some examples of when we might request your information and how we will use it.
 
-#### Newsletters
+#### Newsletter
 
-We have several newsletters that keep readers up-to-date with information on our books, authors, events, offers etc. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you. We may also ask you to provide other information about yourself, such as your name, age, sex and location so that we can personalise your newsletters.
+We have several newsletters that keep readers up-to-date with information on our books, authors, events, offers etc. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you. We may also ask you to provide other optional information about yourself, such as your age, sex and location so that we can personalise your newsletters.
 
 #### Prize Promotions
 
-We regularly run competitions and prize draws and, in addition to your answer or entry, we will require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented when you entered. Our competitions and prize draws shall also be subject to their own set of terms and conditions in each case.
+We regularly run competitions, surveys and other promotions through our website, emails and social media channels. In order to participate in these, we will require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented when you entered. Our competitions and prize draws shall also be subject to their own set of terms and conditions in each case. We may, from time to time, use the data that we collect from our competitions, surveys and other promotions to send you relevant content based on your interests/email preferences via these channels and also online advertising, email newsletters, social media, online advertising and SMS. In such cases we will ask for your consent for this and request your preferences on how you wish to be contacted.  Unsubscribe options exist for all these marketing channels.
 
 #### Shopping
 
@@ -86,18 +86,12 @@ If you wish to opt-out from Flurry analytics, please follow this link:
 
 If you have any questions about the Site or our privacy policy, please contact us by any of the following methods:
 
-The Editor,
-
-dk.com, DK
-
-Dorling Kindersley Limited
-
-80 Strand
-
-London
-
-WC2R 0RL
-
+The Editor,  
+dk.com, DK  
+Dorling Kindersley Limited  
+80 Strand  
+London  
+WC2R 0RL  
 United Kingdom
 
 Email: [editor@dk.com](mailto:editor@dk.com)
