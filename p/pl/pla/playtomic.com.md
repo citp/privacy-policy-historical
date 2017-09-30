@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtomic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103114id_/http%3A//playtomic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtomic.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930234316id_/http%3A//playtomic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | Playtomic
 
