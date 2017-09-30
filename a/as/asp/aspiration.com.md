@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspiration.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108144211id_/https%3A//www.aspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspiration.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930095751id_/https%3A//www.aspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aspiration
 
@@ -36,7 +36,7 @@ Your use of the Aspiration platform acknowledges that Aspiration is not liable o
 
 Aspiration is not responsible for any user information shared in public forums such as blogs, chats, videos or social media. Aspiration retains full, irrevocable, royalty-free, worldwide sublicensable, and perpetual intellectual property rights around any user-generated content uploaded, shared, transmitted, or otherwise publicly disseminated on the Aspiration site. Aspiration can store, use, reproduce, modify, and adapt such content and will retain full rights to any derivative works or compilations of such content. Users warrant by their actions that they have the necessary rights to grant such licenses to Aspiration. Aspiration can further delete such content at any time and for any reason.
 
-Aspiration has no obligation to monitor or ability to control the information users publicly place on our Platform. We do not endorse any opinion, recommendation, and information that expressed in this fashion. By accessing the Platform, users waive any rights or remedies against Aspiration in relation to such data.
+Aspiration has no obligation to monitor or ability to control the information users publicly place on our Platform. We do not endorse any opinion, recommendation, and information that is expressed in this fashion. By accessing the Platform, users waive any rights or remedies against Aspiration in relation to such data.
 
 ### Tracking
 
