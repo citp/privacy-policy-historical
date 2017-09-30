@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529122301id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930195735id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D1Baseball.com
 
