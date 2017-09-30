@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221224id_/https%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930040836id_/https%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Grocery Coupon Network
 
@@ -6,7 +6,7 @@ Effective Date: April 19, 2014
 
 Thank you for visiting the Grocery Coupon Network website located at www.GroceryCouponNetwork.com (the “Website”). The Grocery Coupon Network Website is a media property owned by VonHudman Group, a leading online marketing company. VonHudman Group, ("We," "Us," "Our" or "GroceryCouponNetwork"), understands how important privacy is to Our members ("You," "Your"). We have created this Privacy Policy (“Privacy Policy”) to let You know what information is being collected on the Website, how the information is being used and what choices You have regarding the collection and use of this information. 
 
-Please take a moment to review this Privacy Policy and feel free to contact us with any questions that you may have via email at privacy@GroceryCouponNetwork.com or via postal mail at GroceryCouponNetwork, 230 S Clark Suite 306, Chicago, IL 60604
+Please take a moment to review this Privacy Policy and feel free to contact us with any questions that you may have via email at privacy@GroceryCouponNetwork.com or via postal mail at GroceryCouponNetwork, 3501 N Southport Ave. #478, Chicago, IL 60657
 
 **WHAT INFORMATION IS COLLECTED?**
 
@@ -16,7 +16,7 @@ In addition to the Personal Information that You provide to Us, We will also col
 
 **CALIFORNIA RESIDENTS PRIVACY RIGHTS**
 
-California State residents who disclose Personal Information to an entity such as Grocery Coupon Network are entitled to either: (1) a list from such entity detailing the categories of Personal Information shared and the third parties to which such information was provided by such entity; or (2) a mechanism by which such California State residents may opt-out of having their Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by Clicking Here or sending Your request, including Your full name, email address and postal address to: Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604. 
+California State residents who disclose Personal Information to an entity such as Grocery Coupon Network are entitled to either: (1) a list from such entity detailing the categories of Personal Information shared and the third parties to which such information was provided by such entity; or (2) a mechanism by which such California State residents may opt-out of having their Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by Clicking Here or sending Your request, including Your full name, email address and postal address to: Grocery Coupon Network, 3501 N Southport Ave. #478, Chicago, IL 60657. 
 
 Please be advised that where California State residents opt-out from permitting their Personal Information to be shared with third-parties, such individuals may still receive selected offers directly from Us, in accordance with the law. In accordance with California Civil Code Sec. 1789.3, California State residents are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs: by postal mail at 400 R Street, Suite 1080, Sacramento, CA 95814; by telephone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
 
@@ -55,7 +55,7 @@ In order to provide the products or services thatyou have requested, We may disc
 Grocery Coupon Network Offers:  
 We use Your email address to notify you of Program updates, special offers and promotions. You may select at any time to opt-out from receiving emailed marketing offers from us, our partners and/or affiliated companies using the "Unsubscribe" link at the bottom any future email that you receive from us. or by following this link:  
 <http://www.grocerycouponnetwork.com/unsubscribe.php>  
-You may also unsubscribe from Grocery Coupon Network offers using [postmaster@GroceryCouponNetwork.com](mailto:postmaster@GroceryCouponNetwork.com) or via postal mail at Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604
+You may also unsubscribe from Grocery Coupon Network offers using [postmaster@GroceryCouponNetwork.com](mailto:postmaster@GroceryCouponNetwork.com) or via postal mail at Grocery Coupon Network, 3501 N Southport Ave. #478, Chicago, IL 60657
 
 Non-affiliated 3rd Parties:  
 
@@ -91,7 +91,7 @@ Consumers under the age of eighteen (18) are not permitted to submit any Persona
 
 **HOW TO CONTACT US**
 
-If You have any questions about the practices of Grocery Coupon Network, You can contact Us by visiting the Contact Us section of the Website, or via postal mail at Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604.
+If You have any questions about the practices of Grocery Coupon Network, You can contact Us by visiting the Contact Us section of the Website, or via postal mail at Grocery Coupon Network, 3501 N Southport Ave. #478, Chicago, IL 60657.
 
 Email: [privacy@GroceryCouponNetwork.com](mailto:privacy@GroceryCouponNetwork.com)  
 Phone: (312) 476-9862
