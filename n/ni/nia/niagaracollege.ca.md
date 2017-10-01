@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616070735id_/http%3A//www.niagaracollege.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001020544id_/http%3A//www.niagaracollege.ca/privacy) for the most accurate reproduction.*
 
-# Privacy | Niagara College
+# Niagara College Pirvacy Statement for Visitors to NiagaraCollege.ca
 
 Niagara College is committed to protecting the privacy of our online visitors and to ensuring that you have a secure online experience. For most of our site, you are able to navigate through without providing any personal information. However, in some instances we may require some personal information in order to provide you with full services.
 
@@ -9,6 +9,9 @@ In these situations, the collection, use, disclosure, and retention of your pers
 Additional Niagara College Practices can be found [**here**](https://web.archive.org/practices/).
 
 * * *
+
+  
+
 
 ### Use of Personal Information Collected Online
 
@@ -27,6 +30,9 @@ Additional Niagara College Practices can be found [**here**](https://web.archive
 #### Unsubscribe from Email Newsletters
 
 Email newsletters that you receive will have an “unsubscribe” link in the footer. The easiest way to directly unsubscribe from a specific communication is to click the “unsubscribe” link.
+
+  
+
 
 ### Cookies
 
