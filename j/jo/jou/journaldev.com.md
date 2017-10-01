@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journaldev.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611095851id_/http%3A//www.journaldev.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journaldev.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001200124id_/https%3A//www.journaldev.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JournalDev
 
@@ -12,7 +12,7 @@ This report does not purport to be a solicitation of any advice pertaining to tr
 We understand the importance of your privacy as a visitor to this website. We want you to understand how information you may provide will be used. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
  **Information collected**  
-[JournalDev](http://www.journaldev.com/) does not collect personal information about you except for the information that you voluntarily provide. We may collect usage information of our site to analyze interest in content and to provide advertisers information on an aggregate basis. No personally identifiable information will be shared with third party advertising companies.
+[JournalDev](https://www.journaldev.com/) does not collect personal information about you except for the information that you voluntarily provide. We may collect usage information of our site to analyze interest in content and to provide advertisers information on an aggregate basis. No personally identifiable information will be shared with third party advertising companies.
 
  **Community**  
 When using our online community functions, your user ID, which defaults to your email address, will identify you. We encourage our users to select a unique user ID to avoid providing your email address to other users and third parties. Failure to use this feature to select a unique user ID may result in other users or third parties sending you unsolicited email.
@@ -33,4 +33,4 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of JournalDev then you may contact me through the contact form on About page.
 
 Best Regards,  
-The [JournalDev](http://www.journaldev.com/) Team
+The [JournalDev](https://www.journaldev.com/) Team
