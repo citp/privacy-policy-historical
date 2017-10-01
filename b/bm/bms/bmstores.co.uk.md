@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004557id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001112419id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # B&M Privacy Policy | B&M
 
@@ -27,9 +27,9 @@ This may include:
 We collect this personal information to understand better your preferences and to provide you with a better service from B&M. We may use your information in particular to:
 
   * review website traffic and usage of the website to improve and develop our website and our products and services;
-  * notify you about changes to our website, products or services from time to time; 
+  * notify you about changes to our website, products or services from time to time;
   * where we have your consent send promotions about new products, special offers by email, text, phone or by post;
-  * to carry out analysis of data on user visits, browsing patterns, trends and preferences for our own market research purposes and to track and measure the impact, results or pattern of website traffic and preferences from other promotional and marketing activities of B&M; 
+  * to carry out analysis of data on user visits, browsing patterns, trends and preferences for our own market research purposes and to track and measure the impact, results or pattern of website traffic and preferences from other promotional and marketing activities of B&M;
   * comply with any applicable law, legal process or enforcement by any regulatory body which is binding on B&M;
   * detect and protect against fraud or other security issues.
 
@@ -40,6 +40,8 @@ From time to time, B&M may also use your personal information to contact you for
 B&M may also share your information with selected business partners of B&M who provide advertising and market research services to us to help improve our services to customers and users of our website.
 
 Third parties will not be permitted by B&M to contact you for marketing purposes unless you have given your consent for them to contact you for that purpose and provided that they also have privacy policies in place.
+
+By submitting your details to the [B&M Ambassador Programme](https://web.archive.org/ambassador-programme) application form, you will be added to the mailing list automatically.
 
 We may also disclose personal information collected from you to credit reference agencies to carry out checks. Those agencies may keep a record of that information.
 
