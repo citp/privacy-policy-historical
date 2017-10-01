@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baeb.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520155935id_/http%3A//baeb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baeb.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001112754id_/https%3A//baeb.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
