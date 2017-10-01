@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rawpixel.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115223509id_/https%3A//www.rawpixel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawpixel.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001091210id_/https%3A//www.rawpixel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Cookie Policy | Rawpixel
+# Privacy Cookie Policy | rawpixel
+
+Privacy Cookie Policy
 
 ### **Background**
 
@@ -16,7 +18,7 @@ This Policy applies to Our use of any and all data collected by us in relation t
 “We/Us/Our”
     means Rawpixel Ltd.
 “Cookie”
-    means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 10, below;
+    means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 11, below;
 “UK and EU Cookie Law”
     means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015;
   2. Scope – What Does This Policy Cover?
@@ -49,25 +51,27 @@ This Policy applies to Our use of any and all data collected by us in relation t
   7. **What Happens If Our Business Changes Hands?**
     1. We may, from time to time, expand or reduce Our business and this may involve the sale and/or the transfer of control of all or part of Our business. Data provided by users will, where it is relevant to any part of Our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the data for the purposes for which it was originally collected by Us.
     2. In the event that any of your data is to be transferred in such a manner, you will not be contacted in advance and informed of the changes.
-  8. **Your Right to Withhold Information**
+  8. **What about www.creativemarket.com?**
+    1. We may give you an option/link to purchase Rawpixel premium content from www.creativemarket.com. If you click on this link or BUY button another window will open in your browser and you will be taken to the www.creativemarket.com website. The www.creativemarket.com website is provided by a third party and is not in our control. The privacy and cookie policy for www.creativemarket.com is different to Ours, you should read the www.creativemarket.com [**privacy policy**](https://www.creativemarket.com/privacy) before using or entering your details on their website.
+  9. **Your Right to Withhold Information**
     1. You may access Our Site without providing any data at all. However, to use all features and functions available on Our Site you may be required to submit or allow for the collection of certain data.
     2. If you subscribe to our website we will automatically subscribe you to Our Rawpixel newsletter and communications, if you wish to unsubscribe from this list you can do so using the unsubscribe link at the bottom of the welcome email you receive or any subsequent newsletters/emails we send you.
-    3. You may restrict your internet browser’s use of Cookies. For more information, see section 10.
-  9. How Can You Access Your Data?
+    3. You may restrict your internet browser’s use of Cookies. For more information, see section 11.
+  10. How Can You Access Your Data?
     You have the legal right to ask for a copy of any of your personal data held by Us (where such data is held) on payment of a small fee, which will not exceed £10. Please contact Us for more details at [contact@rawpixel.com](mailto:contact@rawpixel.com)
-  10. **What Cookies Do We Use and What For?**
+  11. **What Cookies Do We Use and What For?**
     1. Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. We have carefully chosen these Cookies and have taken steps to ensure that your privacy is protected and respected at all times.
     2. All Cookies used by and on Our Site are used in accordance with current UK and EU Cookie Law.
-    3. Our site uses the Cookies described in sections 10.4 – 10.6.
-    4. In order for you to subscribe and log into our account on Our Site Cookies are required. UK and EU Cookie Law deems these Cookies to be “strictly necessary”. Your consent will not be sought to place these Cookies. You may still block these cookies by changing your internet browser’s settings as detailed below in section 10.7, but please be aware that you will not be able to log into your account and/or download images if you do so. We have taken great care to ensure that your privacy is not at risk by allowing these Cookies.
+    3. Our site uses the Cookies described in sections 11.4 – 11.6.
+    4. In order for you to subscribe and log into our account on Our Site Cookies are required. UK and EU Cookie Law deems these Cookies to be “strictly necessary”. Your consent will not be sought to place these Cookies. You may still block these cookies by changing your internet browser’s settings as detailed below in section 11.7, but please be aware that you will not be able to log into your account and/or download images if you do so. We have taken great care to ensure that your privacy is not at risk by allowing these Cookies.
     5. Our Site uses analytics services provided by Google Analytics. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. This, in turn, enables Us to improve Our Site and the products and services offered through it. You do not have to allow Us to use these Cookies, as detailed below, however whilst Our use of them does not pose any risk to your privacy or your safe use of Our Site, it does enable Us to continually improve Our Site, making it a better and more useful experience for you.
-    6. The analytics service(s) used by Our Site use(s) Cookies to gather the required information. Certain of these Cookies may be placed immediately when you first visit Our Site and it may not be possible for Us to obtain your prior consent. You may remove these Cookies and prevent future use of them by following the steps set out below in section 10.7.
+    6. The analytics service(s) used by Our Site use(s) Cookies to gather the required information. Certain of these Cookies may be placed immediately when you first visit Our Site and it may not be possible for Us to obtain your prior consent. You may remove these Cookies and prevent future use of them by following the steps set out below in section 11.7.
     7. You can choose to enable or disable Cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party cookies. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser or the documentation that came with your device.
     8. You can choose to delete Cookies at any time however you may lose any information that enables you to access Our Site more quickly and efficiently.
     9. It is recommended that you keep your internet browser and operating system up-to-date and that you consult the help and guidance provided by the developer of your internet browser and manufacturer of your computer or device if you are unsure about adjusting your privacy settings.
-  11. **Contacting Us**
+  12. **Contacting Us**
     If you have any questions about Our Site or this Privacy Policy, please contact Us by email at [contact@rawpixel.com](mailto:contact@rawpixel.com).
-  12. Changes to Our Privacy Policy
+  13. Changes to Our Privacy Policy
     We may change this Privacy Policy as we may deem necessary from time to time, or as may be required by law. Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
 
 
