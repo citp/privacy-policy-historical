@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the miraheze.org privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106193349id_/https%3A//meta.miraheze.org/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miraheze.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001232825id_/https%3A//meta.miraheze.org/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Miraheze Meta
 
-|  _**This page documents a Miraheze global policy** , this policy follows consensus and/or Staff guidelines. All Miraheze users should follow it, and changes made to it should be discussed on the [talk page](https://web.archive.org/wiki/Talk:Privacy_Policy "Talk:Privacy Policy")._  
----|---  
-  
+<translate> _**This page documents a Miraheze global policy** , this policy follows consensus and/or Staff guidelines. All Miraheze users should follow it, and changes made to it should be discussed on the [talk page](https://web.archive.org/wiki/Talk:Privacy_Policy "Talk:Privacy Policy").</translate>_
+
 Miraheze is committed to preserving your privacy and being transparent about how we use information collected through Miraheze.org (the “Website”) and any other applications, functionality, or services offered by Miraheze (collectively with the Website, the “Services”). This Privacy Policy describes how Miraheze uses, collects, and shares information collected through the Services. By using the Services, you agree to and accept the practices described in this Privacy Policy. 
 
 We may modify this Privacy Policy from time to time. We will post changes on this page so be sure to check back regularly. We will also notify you by posting an announcement on the Website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, it is disclosed. Continuing to use our Services after any changes have been posted, constitutes your acceptance of any modifications to the Terms. 
