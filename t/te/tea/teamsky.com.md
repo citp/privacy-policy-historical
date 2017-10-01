@@ -1,154 +1,63 @@
-> *The following text is extracted and transformed from the teamsky.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630124020id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsky.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001043634id_/https%3A//www.teamsky.com/privacy) for the most accurate reproduction.*
 
-# Sky Account & Billing | Privacy and Cookies Notice
+# Privacy policy | Team Sky
 
-* ## Privacy notice
+* Scope 
 
-This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies. 
+This website is operated by Tour Racing Limited.
 
-Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below. Please see our privacy notice.
+*   What information do we collect 
 
-## Cookies notice
+You are not required to give us any personal data in order to use our website.
 
-When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice. Please see our cookies notice.   
- 
+We may automatically collect information about the website you came from or are going to. We also collect information on which pages of our website you visit, IP addresses, type of browser you use and the times you access our website. However, this information is aggregated and isn't used to identify you.
 
-###  ** ** Privacy Notice
+We may also collect personal information that you provide to us such as your name, date of birth, gender, country of residence, and email (“Personal Information”), which we use in accordance with this Privacy Policy.
 
-**Information we may hold about you**
+* Marketing communications 
 
-  * Information you've provided to us, including on our websites.
-  * Information about our products and services you've ordered or enquired about.
-  * Information provided by other companies who've obtained your permission to share information about you.
-  * Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast forward them.
-  * Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the section on cookies.
-  * Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites.
-  * Technical information from your Sky device(s) relating to the service you receive, for example, the collection of diagnostic information.
+We will use your information to keep you informed via email about news, special offers, and other products and services we offer.
 
+#### Profiling
 
+We may use the information you provide to us to better understand your interests so we can try to predict what other products, services and information you might be most interested in. We call this profiling. This enables us to tailor our communications to make them more relevant and interesting for you.
 
-**How we may we use your information**
+* Cookies 
 
-In addition to using your information to provide you with requested products or services and general account management and the management of traffic across our network, we may also use your information in the following ways:
+  1. Use of cookies on our website 
 
-  * To monitor and improve our products, services and websites.
-  * We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes. 
-    * If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at [mysky@bskyb.com](mailto:mysky@bskyb.com) if you want to receive details of the relevant fraud prevention agencies.
-  * We may also share your information with other companies for debt recovery purposes.
-  * For market research.
-  * To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security.
-  * We may disclose your information to any successors of our business for them to use for the purposes set out in this privacy notice.
+We use cookies to collect information about your online preferences. Cookies are small pieces of information sent by a web server to a web browser which allow the server to uniquely identify the browser on each page.
 
+We use the following categories of cookies on our website:
 
+#### Category 2: Performance Cookies
 
-and unless you've asked us not to:
+These cookies collect anonymous information on how people use our website. For example, we use Google Analytics cookies to help us to understand how users arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation. The data stored by these cookies never shows personal details from which your individual identity can be established.
 
-  * To send you periodic newsletters about your chosen services.
-  * To send you direct marketing. This may include communications by post, telephone or email and if you've a Sky Bet, Sky Poker, Sky Vegas and/or Sky Bingo account, by SMS, about us and our business partners’ products and services, events and special offers, including, where applicable, for a reasonable time after you have ceased to be a customer of ours.
-  * To provide you with personalised services, such as providing you with viewing recommendations and tailored advertising. This means that we have your agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you.
-  * To provide you with online behavioural advertising through the use of cookies when you visit our websites.
+If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies.
 
- 
+Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
 
-**Your preferences**
+To find out more about cookies please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/) or see [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which contains further information about behavioural advertising and online privacy.
 
-**Marketing  
-** | You can opt out by calling us on 08442 414141 or via your MySky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"  
----|---  
-**Personalisation (including tailored advertising)** | You can opt out by calling us on 08442 414141 or via your MySky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.  
-**Online behavioural advertising  
-** | If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the section on cookies.  
-  
- 
+  2. Use of Web Beacons 
 
-You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your MySky account.
-
-**Contacting Sky**
-
-Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dpoffice@bskyb.com](mailto:dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
-
-Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.
-
- 
-
-### Cookies 
-
-You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'. 
-
-If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types, [please see our cookies and privacy FAQs](http://www.sky.com/helpcentre/broadband/security-centre/cookies-and-your-privacy/index.html "Cookies and your privacy").
-
- 
-
-**What are cookies and how do they work?**
-
-Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.   
- 
-
-**What do you use cookies for?**
-
-Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.   
- 
-
-**Cookies that are neeed to provide the service you have asked for**
-
-Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet. 
-
-Here are some examples of essential cookies.
-
-  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
-  * When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.
-  * Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.
+Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which includes a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
 
 
 
-**  
-Improving your browsing experience**
+*   Links 
 
-These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. 
+Our site may contain links to other websites over which we have no control. We are not responsible for privacy policies or practices of other websites to which you choose to link from this site. We encourage users to review the privacy policies of those other websites so you can understand how they collect, use and share your information.
 
-Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.
+* Security 
 
-  * Remembering your preferences and settings, including marketing preferences, such as opting in or out of marketing emails.
-  * Remembering if you've filled in a survey, so you're not asked to do it again.
-  * Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.
-  * Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.
-  * Showing you information that's relevant to products of ours that you have.
-  * Giving you access to content provided by social-media sites like Facebook or Twitter.
-  * Showing 'related article' links that are relevant to the page you're looking at.
-  * Remembering a location you've entered such as weather forecasts.
+We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
+* Changes to our Privacy Policy 
 
+We will occasionally update this privacy notice and we encourage you to periodically review this notice to be informed of how we use your information.
 
-**  
-Analytics **
+* How to contact us 
 
-We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages. 
-
-This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works. 
-
-Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you. 
-
-We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. For more information, see the [Internet Advertising Bureau's guide about how affiliate marketing works](http://www.iab-performance-marketing-explained.net/ "How affiliate marketing works"). 
-
-[Learn how to manage your analytics cookies](http://www.sky.com/helpcentre/broadband/security-centre/cookies-and-your-privacy/#analyticsoptout "Cookies and your privacy").
-
-  
-** ** **Showing advertising that is relevant to your interests**
-
-We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:   
- 
-
-  1. restrict the number of times you see the same ad (frequency capping); and
-  2. help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.
-
-
-
-Sometimes our websites contain ads for our own Sky products. These ads use cookies in the same way as described above. 
-
-So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad. 
-
-Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you or your Sky package. 
-
-Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations. 
-
-It’s easy to [opt out of behavioural advertising and manage your cookies](http://www.sky.com/helpcentre/broadband/security-centre/cookies-and-your-privacy/#optout "Cookies and your privacy") if you want to.
+If you have any questions about this statement, please contact us at [website@teamsky.com](mailto:website@teamsky.com).
