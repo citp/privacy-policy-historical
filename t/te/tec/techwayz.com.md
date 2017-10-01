@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the techwayz.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201082428id_/http%3A//techwayz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwayz.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001072129id_/https%3A//techwayz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techwayz
+# Privacy Policy - Techwayz
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pramod@techwayz.com.
 
 At www.techwayz.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techwayz.com and how it is used.
 
- **Log Files**  
+**Log Files**  
 Like many other Web sites, www.techwayz.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 The [DoubleClick cookie](https://support.google.com/adsense/answer/answer.py?answer=2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser.
 
