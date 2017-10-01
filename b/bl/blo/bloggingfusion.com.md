@@ -1,68 +1,79 @@
-> *The following text is extracted and transformed from the bloggingfusion.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430072613id_/http%3A//www.bloggingfusion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingfusion.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/privacy.php) for the most accurate reproduction.*
 
-# Blog Directory - Weblog Directory - RSS Directory- Privacy Policy
+# Blogging Fusion - Blog Directory - Article Directory - RSS Directory - Web Directory- Privacy Policy
 
-### BloggingFusion.com Privacy Policy
+Privacy Policy
 
-  
-This privacy policy pertains to the use of the Blogging Fusion web site at http://www.bloggingfusion.com 
+When you provide us with information through this website, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this website is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/terms.php). 
 
-This privacy policy will cover how Blogging Fusion handles members personal information that Blogging Fusion collects and receives. Personal information is information about you that is personally identifiable like your name or handle while using this web site, email address, IP or data you have submitted. 
+Information Collection and How it is used
 
-Children under thirteen (13) are not permitted to use the Blogging Fusion service, and so this privacy policy makes no provision for children's use of the site. Any member that is thirteen (13) that signs up falsely or under fake pretense will be removed from our services with out notice. 
+We do not collect personally identifiable information about you, except when you provide it to us upon submission and inclusion within our blog directory which the site is intended for. For example, if Blogging Fusion decides to require a user registration in order to submit your websites details, you will be asked to provide certain information such as your contact information (name, e-mail address, location), and information about your website/blog. 
 
-### Information Collected and How it is used
+Blogging Fusion services does collect the following information about your website upon receiving your website submission through third party services, such as Alexa™ Traffic Report, Google® Page Rank Algorithm, Yahoo™ and MSN®. We are not responsible for the accuracy of the data collected by third party vendors. 
 
-  
-**General Information**  
-Blogging Fusion collects personal information when you register with Blogging Fusion to use Blogging Fusion services or to post content on BloggingFusion.com 
+To protect your personal information, users registering for these services will be given a unique username, password and unique blog or registration ID which should be refrenced when corresponding to staff or editors of this blog directory. Subject to your consent, the information you provide may be used by us to communicate new features, information related to the blog directory or special promotions and features being added that may be of intrest to you. 
 
-When you register we ask you only for your e-mail address and a nickname or name to be related with the website that you're submitting. 
+We will never send unsolicited email or spam. This is strictly against our [terms of services](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/terms.php) and is why your email address is never published publicly to protect you from unwanted solicitation. 
 
-You can optionally enter information such as your name or, username, links to blogs meta tags and description tags. 
+We may also use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We will not sell, share or rent your personally identifiable information to third parties without your consent, except as disclosed in this Privacy Policy. 
 
-Blogging Fusion automatically receives and records information on our server logs from your browser and the Blogging Fusion Spider Bot only obtains information regarding the precedence of the reciprocal link back to Blogging Fusion, we also collect your IP address, your default gateways MacID, cookie, and the page you request. 
+We may collect, store or accumulate certain non-personally identifiable information concerning your use or interation of this website, such as information regarding which of our pages are most popular how frequent the stay and what intrestes most visitors have regarding our website. 
 
-Blogging Fusion uses information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, research, and anonymous reporting. 
+We may disclose any information we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental agency upon request. 
 
-Blogging Fusion services collects information upon recieving your website submission through third party services, such as Alexa™ Traffic Report, Google® Page Rank Algorithm. Blogging Fusion is not responsible for the accuracy of the data collected by third party vendors. 
+If you would prefer that we do not collect any personally identifiable information from you, please do not provide us with any by not participating in our website. 
 
-### USE of "COOKIES"
+Cookies and Log Files
 
-  
-The Blogging Fusion Blog Directory website may set Cookies on your computer. A cookie is a text file that is placed on your hard disk by our web server. Cookies are uniquely generated and assigned to you. Blogging Fusion Blog Directory Cookies can only be read by a web server in the same domain that set the cookie on your computer. Cookies cannot be used to run programs or deliver viruses to your computer. The primary purpose of the Cookies used by Blogging Fusion Blog Directory is simply to provide convenience and to save you time. Blogging Fusion Blog Directory will use cookies to automate login, enable personalization, facilitate your movement through the site and allow us to measure site usage. 
+We may place a "cookie" on your computer's hard drive so we can recognize you as a return user, recall your preferences and personalize your experience. A cookie is a piece of data that enables us to track your use of our website and remember your preferences. The cookie will be stored on your computer's hard drive until you remove it. You can have your browser notify you of, or automatically reject, cookies. If you reject our cookie, you may still use our Website, but you may be limited in the use of some of the functions and features. 
 
-Note: You have the sole ability to control the ability to set cookies on your computer through your web browser privacy settings (i.e. Firefox, Mozilla, Netscape, or Internet Explorer). Please Note: If you choose to not accept cookies, you will not be able to customize your experience with Blogging Fusion Blog Directory if we decide to use account registration per user. This will not in any way reduce the functionality or usage of the website. 
+In addition, we may use IP addresses to analyze trends, administer our website, track users' movement, and gather broad demographic information for aggregate office use only. 
 
-### Logging
+Third Parties Affilation
 
-  
-Blogging Fusion Blog Directory makes use of web logging and reporting to understand the usage of our services, to diagnose technical issues, and to identify improvements to the Blogging Fusion Blog Directory site. In addition to logging the pages viewed, and features used, our logs also collect referring IP addresses or /domain names of site visitors. This information is used for the internal reporting and market analysis of the Blogging Fusion Blog Directory website only. 
+We may retain other companies and individuals to perform functions on our behalf in relation to the purposes set forth in this Privacy Policy. Examples include data analysis firms like Google Anayltics™, customer support agents, directory editors and web hosting companies. Such third parties may be provided with access to personally identifiable information needed to perform their functions, but may not use such information for any other purpose. 
 
-### WEB ANAYLTICS
+Google Anayltics™
 
-  
-Blogging Fusion Blog Directory pages may contain Google Analytics™ code, sometimes called web statistics that allow Blogging Fusion Blog Directory to count users who have visited certain pages. Blogging Fusion Blog Directory may use web statistics in conjunction with: promotional e-mail messages, online advertising or newsletters. This is done solely to determine the effectiveness of these activities. Web statistics collect a limited set of information including a Cookie (see above section on Cookies), which identifies the referring source, pages viewed and the time of access. Web statistics are not used to access your personal information on Blogging Fusion Blog Directory in any way. Web statistics information is not stored or transmitted to any third party at any time. 
+Blogging Fusion Blog Directory pages may contain Google Analytics™ code, sometimes called web statistics that allow us to count users who have visited certain pages. Blogging Fusion Blog Directory may use web statistics in conjunction with: promotional e-mail messages, online advertising or newsletters. This is done solely to determine the effectiveness of these activities. Web statistics collect a limited set of information including a Cookie (see above section on Cookies), which identifies the referring source, pages viewed and the time of access. Web statistics are not used to access your personal information on Blogging Fusion Blog Directory in any way. Web statistics information is not stored or transmitted to any third party at any time. 
 
-### Data Security
+Third Party Links
 
-  
-Blogging Fusion Blog Directory uses reasonable precautions to keep your confidential user information disclosed to us secure. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place the appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect and encrypted any and all user information using the latest technology MD5 Hash. 
+This website contains links to or from other websites. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on this website. We encourage you to read the privacy policies of other websites you link to from our website or otherwise visit. 
 
-### Changes to this Privacy Policy
+Security
 
-  
-Blogging Fusion may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your Blogging Fusion account or by placing a prominent notice on our site. 
+We have implemented various security measures to protect the security of your personal information, both on line and off line. If you have any questions about the security of our Website, you can contact us using the [following form](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/contact.php). 
 
-### Contacting Blogging Fusion Blog Directory
+Business Transfers
 
-  
-If you have any questions regarding this Privacy Policy please contact use by email at: info[at]bloggingfusion.com 
+As we continue to develop our directory, we sell or add features for sponsor listings. In such transactions, user information, including personally identifiable information, generally is one of the transferred business assets, and by submitting your personal information on the website you agree that your data may be transferred to such parties in these circumstances. 
 
-By mail to the following 
+Our website uses a thrid party merchant 'Paypal™,' to handle all buisness transactions or purchases. This Privacy Policy does not cover the association with Paypal™, so you are advised to read their Privacy Policy to understand how they collect and use your personal information. 
 
-Privacy Policy  
-Blogging Fusion Directory Ltd.  
-PO BOX 22121  
-Belleville, Ont  
-K8N5V7, Canada 
+Paypal™ [Privacy Policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). 
+
+Notification of Changes
+
+We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. 
+
+Please note that our rights to use your personal identifiable information will be based on the privacy policy in effect at the time of the use. If the preceding sentence is deemed to violate applicable law, the privacy policy in effect at the time your personal identifiable information was collected will apply. 
+
+Updating Your Information
+
+You may make changes to your personally identifiable information by e-mailing us using the following [contact form](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/contact.php). You also may request that we remove your personal identifiable information from our databases by e-mailing us using the following [contact form](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/contact.php). 
+
+Choice/Opt-Out
+
+When you register at this website, you may opt-out of receiving future communications from us at anytime. You may change your preferences at any time by revising your profile or, if you do not have a profile, by emailing us using the following [contact form](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/contact.php). 
+
+Data Holder
+
+The information you provide to use will be managed by the Director of Blogging Fusion Blog Directory, PO BOX 22121, Belleville, Ontario Canada. K8N5V7 
+
+Comments
+
+We have taken great measures to ensure that your visit at Blogging Fusion Blog Directory is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please email us using the following [contact form](https://web.archive.org/web/20171001223238id_/https%3A//www.bloggingfusion.com/contact.php). 
+
+Privacy Policy 01/02/2007 © Blogging Fusion Blog Directory 
