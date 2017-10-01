@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ytravelblog.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628231010id_/https%3A//www.ytravelblog.com/disclaimer/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytravelblog.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001231859id_/https%3A//www.ytravelblog.com/disclaimer/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - y Travel Blog
 
-Camakos Investments Pty Ltd A.C.N. 124 142 856 as trustee for the Abundant Freedom Trust (A.B.N.75 697 743 744) ( **we** , **us** , **our** or **Y Travel Blog** ) recognises and values the protection of your personal information.
+y Travel Media LLC ( **we** , **us** , **our** or **Y Travel Blog** ) recognises and values the protection of your personal information.
 
 We recognise that you have an interest in our collection and use of your personal information via our website, which is located at www.ytravelblog.com (the **Website** ). We have implemented this Website Privacy Policy in order to be open and transparent about how we collect, hold, and use your personal information, and under what circumstances we may disclose or transfer your personal information. The Website Privacy Policy also outlines your rights to gain access to, and seek corrections of, your personal information we hold. Finally, the Privacy Policy provides information about how you can approach us about your privacy-related concerns and complaints, and how we will deal with such communications.
 
