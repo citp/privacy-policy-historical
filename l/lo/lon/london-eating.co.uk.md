@@ -1,51 +1,228 @@
-> *The following text is extracted and transformed from the london-eating.co.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220231222id_/http%3A//www.london-eating.co.uk/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london-eating.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001165412id_/https%3A//www.opentable.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# OpenTable
 
-## privacy policy
+**Last Updated : May 15, 2017**
 
-At London Eating we collect different types of information about our users for three main reasons: 
+This privacy policy (this " **Policy** ") explains how personal information is collected, used, and disclosed by OpenTable , Inc. and its subsidiaries (collectively, " **OpenTable** ," " **we** ," " **our** " or " **us** "). This Policy applies to visitors and users (individually," **you** ") of OpenTable's websites, applications, and other online services (each, a " **Site** ," and collectively, our " **Sites** "), although not all services described here are available in all jurisdictions. You can identify the OpenTable company that hosts a particular Site and is responsible for your information under this Policy by [clicking here](https://web.archive.org/legal/corporate-contact-information?lang=en). By visiting or using our Sites, to the extent permitted by applicable law, you are consenting to us gathering and processing information about you in accordance with this Policy, although consent may not be required for all of the elements described in this Policy. For particular types of information or processing, we may provide you with choices or request your further consent related to what information we collect and how we may process it.
 
-  1. To help us to improve the services we offer. 
-  2. To use anonymous details about our users to sell appropriate advertising space on the site. This might mean showing an advertiser how many female users we have on the site; it does not mean sharing an individual's details with an advertiser. 
-  3. To customise the site based on previous user of London Eating 
+Third parties (such as restaurants at which you may make reservations, join waitlists or pay through our Sites, issuers of Merchant Gift Cards (as this term is defined in the [OpenTable Terms of Use](https://web.archive.org/legal/terms-and-conditions?updated=true&lang=en)) you purchase through our Sites, and social networks that you use in connection with our Sites) may also collect, use, and share information about you. This Policy does not cover such third parties or their services and we do not take any responsibility for how such third parties may use any information they collect. For information about third-party privacy practices, please consult with them directly.
+
+ ** _BRIEF OVERVIEW_**
+
+  
+
+
+ **Information We Collect**
+
+| 
+
+We may collect Personal Information and Device Information in connection with your registration, use, purchase, or inquiries on or about our Sites that link to this Policy. Click here to learn more.  
+  
+---|---  
+  
+ **How We Use Your Information**
+
+| 
+
+We may use your information to provide services, respond to and fulfill your requests, operate and market our Sites, comply with applicable law, and as otherwise permitted by applicable law. Click here to learn more.  
+  
+ **How We Share Your Information**
+
+| 
+
+We may share your information with restaurants,restaurant groups,restaurant affiliates, gift card merchants, our affiliates, subsidiaries, business partners, service providers and other third parties to provide our Sites and fulfill your requests, and as otherwise consented to by you or as permitted by applicable law. Under certain circumstances, we act merely as the data processor of your information. Click here ****to learn more.  
+  
+ **Security of Your Information**
+
+| 
+
+We maintain commercially-reasonable technical, administrative, and physical security measures designed to protect your information. Click here to learn more.  
+  
+ **Cookies and Other Tracking Technologies**
+
+| 
+
+We may use cookies and similar technologies to help provide our Sites, offer you a more personalized user experience and market products and services to you. Click here to learn more.  
+  
+ **Your Choices**
+
+| 
+
+You can opt out of receiving marketing communications from us, change your communication preferences, update your location sharing, and/or opt-out of certain sharing of your information with third parties. Click here to learn more.  
+  
+ **Access and Correction of Your Information**
+
+| 
+
+We provide you with the opportunity to be informed of whether we are processing your information and to access, correct, update, oppose, delete, block, limit, or object, upon request and free of charge, to our use of your information, to the extent required by applicable law. Click here to learn more.  
+  
+ **International Transfers**
+
+| 
+
+We may transfer your information outside of your home country. To protect your information, any such international transfers will be made in accordance with applicable law. Click here to learn more.  
+  
+ **Links to Other Websites**
+
+| 
+
+Our Sites may contain links to other websites or services that are not owned or controlled by OpenTable , including links to websites of our advertisers, sponsors and partners.  Click here to learn more.  
+  
+ **Changes to This Policy**
+
+| 
+
+You will be notified about any material changes to this Policy via a posting on our Sites, and as otherwise required by applicable law. Click here to learn more.  
+  
+ **Contact Us**
+
+| 
+
+If you have questions about this Policy, please contact us. Click here to learn more.  
+  
+ **Notices to Residents of Certain Jurisdictions**
+
+| 
+
+Residents of certain countries and geographies may have additional rights. Click here to learn more. ****  
+  
+ **I. INFORMATION WE COLLECT**
+
+We do not proactively collect personal information considered as sensitive personal information such as health-related information. However,our Sites include text boxes which are designed for you to provide your choice of certain information about your dining preferences. You should be aware that information you freely submit in these boxes may reveal to us or to the restaurants or third parties with whom we share information (as detailed in the How We Share Your Information section, below) certain information that may be considered as sensitive personal information under applicable law. For certain services on our Sites, credit or debit card account information may be required.
+
+In addition, we may receive certain categories of Personal Information listed above from sources other than you, such as from third-party websites, applications, and services (each, a " **third-party platform** "), restaurants, and other third parties, including individuals who have added you as a guest to their reservation. We may combine this information with information we collect on our Sites.
+
+ **Device Information.** When you visit our Sites, some information is automatically collected from devices (e.g., mobile, computer, laptop, tablet) used to visit or use our Sites including, but not limited to, operating system, access times, browser information (e.g., type, language, and history), settings, and other data about your device that we use to provide the services or as otherwise described in this Policy (" **Device Information** "). We also collect information about your usage and activity on our Sites using certain technologies, such as cookies, web beacons and other technologies (see our [Cookies and Interest-Based Advertising Policy](https://web.archive.org/legal/cookie-policy?lang=en) for more details).
+
+ **Location Information.** If you use our Site, we may receive your generic location (such as city or neighborhood) or, with your consent, precise geographic location data from your mobile device when the app is running and when it is not running. We may, for example,receive this information when you select restaurant search locations, enter your local dining city in your account profile, when you are in proximity to certain beacons, choose to publish your location in reviews you leave for Restaurants on the Sites, or in your comments or communications with us. We may use and store this information to provide and improve features of our Sites, for example, to tailor our Sites on a needs-based manner to provide you more relevant content about restaurants in your dining city. Please see the Your Choices section, below, for more information about how to adjust your preferences, including those related to location information.
+
+ **II.** **HOW WE USE YOUR INFORMATION**
+
+We may use your information for the following purposes (" **Purposes** "), to: provide you with the services, products, and functionality offered on our Sites and fulfill your requests, including, but not limited to, making reservations, reviewing restaurants, paying for services, joining waitlists, sending OpenTable Gift Cards and Merchant Gift Cards to recipients that you designate, and notifying people you add to, or otherwise request to notify of, your restaurant reservations through our Sites; communicate with you about your account or use of our Sites, services, products and/or functionality; respond to, or follow up on, your comments and questions, and otherwise provide customer service; communicate with you about special offers and other marketing communications; operate and improve our Sites, products, services, and functionality; process and deliver contest entries and rewards; authenticate your credit or debit card account information, if applicable; personalize your experience on our Sites, including displaying relevant advertising; provide information, services and products to our customers, including restaurants and their restaurant groups and restaurant affiliates; link or combine with other information we get from third parties to help understand your needs and provide you with better service; perform statistical analysis; protect, investigate, and deter against fraudulent, unauthorized, or illegal activity; comply with our policies, procedures and legal obligations; and as otherwise consented to by you and as required or permitted by applicable law.
+
+If you do not provide us with certain of your information, we may not be able to fulfill the requested Purpose of collection, such as to respond to your queries or provide our Sites to you.
+
+ **Combined Information.** We may combine your Personal Information with Device Information and location information (with your consent, where required) to serve you specifically, such as to deliver a product to you according to your preferences or restrictions, or for advertising or advertising targeting purposes. When we combine Personal Information with Device Information in this way, we treat it as, and apply all of the safeguards in this Policy applicable to, Personal Information.
+
+ **Electronic Communications.** Consistent with the above Purposes, we may communicate with you via electronic messages, including email, text message, or mobile push notification to, for example: send you information relating to our products and services, including reservation and waitlist confirmations and updates, receipts, technical notices, updates, security alerts, and support and administrative messages; and/or, subject to the Your Choices section, below, and/or applicable law, communicate with you about contests, offers, promotions, rewards, upcoming events, and other news about products and services offered by OpenTable , our parent companies, our subsidiaries, our affiliates, restaurants, and other business partners. With your consent, we may contact you at the mobile phone number that you provide to us by way of direct dial calls, autodialed and prerecorded message calls, and text messages in connection with the above Purposes.
+
+ **Our Role as Data Controller and Data Processor.** We generally act as the data controller of your information; however, under certain OpenTable programs, restaurants may engage us to provide them with certain processing services related to information owned or controlled by the restaurant. We are not responsible for any restaurant's use of information for which it is an owner or controller. To learn more about how a restaurant may use such personal information, you should review its privacy notice.
+
+ **Aggregated Information.** We may aggregate information collected from you and other users as well as Device Information and location information (with your consent, where required) to produce general statistics that cannot be linked to you or any other specific user and with which we attempt to provide you with a better experience, to improve our services, and to analyze and understand how our Sites and products are used.
+
+ **Retention.** We will retain your information for the period necessary to fulfill the Purposes outlined in this Policy and as otherwise needed to comply with applicable law and internal company policies.
+
+ **III. HOW WE SHARE YOUR INFORMATION**
+
+ **a.     ** **Information Shared With Restaurants and Their Affiliates**
+
+When you make a dining request through our Sites, such as a restaurant reservation, joining a restaurant waitlist, or making a payment to a restaurant through our Sites, we automatically provide certain categories of your information to the restaurant in order to facilitate your request. For requests to dine, this information may include your name, dining profile, time and date of visit, party size, your phone number, your dining preferences, guest information, any special requests or comments that you choose to submit (if any), and your email address. Your information is provided to the restaurant, just as it would if you contacted the restaurant directly. If you provide a mobile phone number in connection with your dining request, restaurants may send you text messages regarding your dining request. Some restaurants also require you to provide credit or debit card account information to secure your reservation.
+
+When you make a dining request, we may also share with the restaurant additional information about you, such as information about your dining activity and history, and/or information that we collect from third parties. Depending on where you reside, and as permitted by applicable law, we or the restaurant may additionally share certain of your information with such restaurant’s affiliated restaurants (such as affiliated brands), restaurant group and/or restaurants with the same brand or parent-brand (collectively, such restaurant’s “ **restaurant group** ”), or other entities associated with such restaurant (such as the parent entity of the restaurant group or affiliated hotels) and/or their service providers (collectively, the associated entities and service providers, such restaurant’s " **restaurant affiliates** ") under OpenTable’s programs. Specifically, we or the restaurant may share your information (such as meal or seating preferences and special occasions) with other restaurants in the same restaurant group to enhance the hospitality such restaurant group provides you when you dine with them (such as, trying to seat you by a window, if you previously expressed a preference for window seating) (“ **customized service** ”) and to improve the restaurant’s table and shift planning. In addition to providing you with more customized service, we or the restaurant may, as permitted by applicable law, share your information with such restaurant’s restaurant affiliates to support operations, such as to perform analytics, tailor marketing to you, support a loyalty program that you have chosen to participate in, and improve their services. The OpenTable entity identified [here](https://web.archive.org/legal/corporate-contact-information?lang=en) would be the services provider/data processor of the restaurants under these OpenTable programs. For more information, please feel free to contact the restaurants at which you dine or book, or OpenTable as detailed in the Contact Us __section below. To learn more about your choices related to how we share your information with restaurants, restaurant groups, and/or restaurant affiliates under our programs, please see the Your Choices section below.
+
+We may share with restaurants summary reports of feedback from diners. If you provide comments about a restaurant through our Sites, these comments may be shared with or may be accessible by that restaurant. We will not tie your comments with other information that can identify you, but a restaurant may be able to tell who you are from your comments, particularly if you give your name in the comments or provide contact information, such as an email address.
+
+ **b.     ** **Information Shared With Gift Card Merchants**
+
+If you purchase a Merchant Gift Card (or redeem an OpenTable Gift Card for a Merchant Gift Card) through our Sites, we notify the applicable issuer of the Merchant Gift Card and provide the issuer with certain related information about your purchase or redemption, including your name, the gift card recipient's name, and the amount of the Merchant Gift Card.
+
+ **c.      ** **Payment Card Information**
+
+To use certain services on our Sites (such as to make reservations at certain restaurants; to make payments to certain restaurants; and to purchase OpenTable Gift Cards, Merchant Gift Cards, or other products or services), we may require credit or debit card account information. By submitting your credit or debit card account information through our Sites, to the extent permitted by applicable law, you expressly consent to the sharing of your information with restaurants, third-party payment processors, and other third-party service providers (including, but not limited to, vendors who provide fraud detection services to us and other third parties), and you further agree to the following terms.
+
+  * When you use a credit or debit card to secure a reservation through our Sites, we provide your credit or debit card account information (including card number and expiration date, but excluding the CVV number) to our third-party payment service providers and the applicable restaurant.
+  * When you initially provide your credit or debit card account information through our Sites in order to use our restaurant payment services, we provide your credit or debit card account information to our third-party payment service providers. As explained in the OpenTable Terms of Use, these third parties may store your credit or debit card account information so you can use our restaurant payment services through our Sites in the future to the extent permitted by local law.
+  * If you purchase OpenTable Gift Cards or Merchant Gift Cards from us, we collect the credit or debit card account information from you. We share this information with our third-party payment service providers in order to process your payments. These third parties may also store your credit or debit card information, other than your CVV number, for your future use on our Sites, to the extent permitted by local law. Your CVV number will not be stored and must be re-entered for each order.
+  * For information about the security of your credit or debit card account information, see the Security of Your Information section, below.
 
 
 
-Where we collect registration information from an individual, we will never share that individual's information with a third party, including an advertiser, without that user's explicit permission. 
+ **d.     ** **Information You Share Socially**
 
-**Our commitments**
+ **e.     ** **Other Sharing**
 
-We are absolutely committed to protecting your privacy. 
+We do not share your information with third parties other than as described above and as follows:
 
-We will respect your email privacy. You will receive unsolicited mail from London Eating only if you have agreed to this. 
+  * We may share your information with our affiliates, subsidiaries, and business partners in the U.S. and worldwide, including with our parent corporation, Priceline Group, and its other subsidiaries, such as priceline.com, Booking.com BV (" **Booking.com** "), Agoda Company Pte. Ltd. (" **Agoda** "), Traveljigsaw Limited (" **rentalcars.com** "), and KAYAK Software Corporation to the extent necessary for managing our business related to our Sites and the Purposes. By visiting or using our Sites or otherwise providing us with your information, you consent to this transfer of your information throughout the global OpenTable network of entities. To learn more about your choices related to how we share your information with our affiliates, subsidiaries, and business partners, please see the Your Choices section, below.
+  * We may share information with other third parties, with your consent, where required,for their own marketing purposes, which are subject to the separate privacy policies of such third parties.To learn more about your choices related to how we share your information with third parties, please see the Your Choices section, below.
+  * We may share information with third-party vendors, consultants, and other service providers who perform functions on our behalf (e.g., hosting or operating our Sites, data collection, reporting, ad response measurement, site analytics, data analysis, delivering marketing messages and advertisements, processing credit card payments, and providing fraud detection services). We do not authorize these third parties to use your information for purposes other than for which it has been provided, and do not authorize these third parties to disclose that information to unauthorized parties. We require these third parties to maintain appropriate security to protect your information from unauthorized access or processing.
+  * We may disclose your information to regulatory authorities, courts, government agencies and other third parties where we believe that doing so would be in accordance with or permitted or required by any applicable law, regulation or legal process, to defend the interests, rights, and/or property of OpenTable or others, or to respond to emergencies.
+  * We may disclose or transfer your information to a third party if we sell, transfer, divest, or disclose all or a portion of our business or assets to another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding.
+  * We may share aggregate statistical data for the improvement of services offered by our Sites. We may also share aggregated or de-identified information with third parties in our discretion.
+  * We may otherwise share your information as directed by you or subject to your consent.
 
-We will not pass on any individual user details (including your email address) unless we have your prior consent. 
 
-We will only share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. 
 
-Should we elect to change our privacy policy we will post the changes here. Where the changes are significant, we may also choose to email all our registered users with the new details. 
+ **IV. SECURITY OF YOUR INFORMATION**
 
-**What information do we collect?**
+OpenTable takes commercially-reasonable technical, administrative, and physical security measures designed to protect your information from loss, misuse, unauthorized access, disclosure, alteration, and destruction.
 
-We collect information on our users previous voting through cookies. 
+When your credit or debit card account information is being transmitted to our Sites or through our Sites, it will be protected by cryptographic protocols, such as Transport Layer Security (TLS 1.2). To be clear, OpenTable does not itself store your credit or debit card account information, and  we do not have direct control over or responsibility for your credit or debit card account information. We use third party payment processors that are the controllers of your credit card information. Our contracts with third parties that receive your credit or debit card account information require them to keep it secure and confidential.
 
-**Why does London Eating use 'cookies'?**
+Nonetheless, we cannot guarantee that transmissions of your credit or debit card account information or your other information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by OpenTable or our third-party service providers. Except to the extent that liability cannot be excluded or limited due to applicable law, we assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. You play an important role in keeping your information secure. You should not share your user name, password, or other security information for your OpenTable account with anyone. If we receive instructions using your user name and password, we will consider that you have authorized the instructions. If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), please contact us immediately as detailed in the Contact Us section, below.
 
-'Cookies' are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to identify users without needing to ask for user details every time you access our sites. 
+ **V. COOKIES AND OTHER TRACKING TECHNOLOGIES**
 
-We use cookies to track registered or unregistered users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time, or to ensure that you don't see a particular advert more than once. This information will never be shared with a third party, and is only used to make our systems more efficient. 
+We collect information about your usage and activity on our Sites using certain technologies, such as: cookies, web beacons, and other technologies. Third parties may also view, edit, or set their own cookies. We and our third-party service providers, advertisers, and/or partners may also place web beacons for such third parties. The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Policy, except as required by law. See our [Cookies and Interest-Based Advertising Policy](https://web.archive.org/legal/cookie-policy?updated=true&lang=en) for more details.
 
-Some advertising on the site is served by third parties such as Ad2One. Occasionally, these third parties will serve cookies on your browser as well, for instance to gauge the effectiveness of a particular advertisement. Please note: This will not enable these third parties to access your personal details. 
+ **VI.            YOUR CHOICES**
 
-If you are concerned about cookies, you can turn them off in your browser. However, if you do this please note that some areas of the site may not work properly. 
+ **Email.** If you do not want to receive marketing and promotional emails from OpenTable , you may click on the "unsubscribe" link in the email to unsubscribe and opt-out of marketing email communications. Alternatively, to the extent that applicable law requires your prior opt-in consent to receive marketing and promotional emails, you can choose not to opt-in.
 
-**Will London Eating disclose the information it collects to outside parties?**
+ **Mobile Push Notifications.** ****You can use the settings on your mobile device to enable or turn off mobile push notifications from OpenTable . ****
 
-London Eating will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, London Eating may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. London Eating follows the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information. 
+ **Text Messages.** If you no longer want to receive text messages from OpenTable , reply STOP (or as otherwise instructed) in the text message. Alternatively, to the extent that applicable law requires your prior opt-in consent to receive text messages, you can choose not to opt-in. ****
 
-Please note that we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users. 
+ **Cookie Choices.** To exercise choices regarding cookies set through our website, as well as other types of online tracking and internet advertising, see our [Cookies and Interest-Based Advertising Policy](https://web.archive.org/legal/cookie-policy?lang=en) for more details.
 
-**Tell us what you think**
+ **Application location choices.** As detailed in the Information We Collect section, above, we may collect information about your location if you enable location services through the settings in your mobile device, or, as required, with your consent. You can change the privacy settings of your device at any time to turn off the sharing of this location information with our Sites.If you choose to turn off location services, this could affect certain features or services of our Sites.If you have specific questions about the privacy settings of your device, we suggest you contact the manufacturer of your device or your mobile service provider for help.
 
-London Eating welcomes your questions and comments. Please e-mail [feedback@london-eating.co.uk ](mailto:feedback@london-eating.co.uk)
+ **Sharing with Restaurants, Restaurant Groups, and Restaurant Affiliates.** Upon request, OpenTable can identify for you the restaurants at which you have dined or booked that would share your information with its restaurant group and/or restaurant affiliates (if any) as described above. If you would like to opt-out of our sharing of your information with restaurants, restaurant groups, and/or restaurant affiliates for their own marketing purposes or other uses, you may send such opt-out requests to us as detailed in the Contact Us section, below, and withdraw your consent at any time with effect for the future. If you have an OpenTable account, you can also opt-out of such sharing with restaurant groups and/or restaurant affiliates by logging into your account and changing your account preferences. Please note that certain information, such as your name and reservation details, may be required for us to share with the restaurant to facilitate your dining request or other services you request on our Sites.
+
+In addition to the above methods of exercising choice, to the extent required by applicable law or as otherwise noted in the Notices to Residents of Certain Jurisdictions section below, we may provide you with additional choices regarding the processing of your information, which you may exercise by contacting us as detailed in the Contact Us section, below. You may also send requests about your contact preferences related to the items listed above or changes to your information to us as detailed in the Contact Us section, below.
+
+We will try to comply with your request as soon as reasonably practicable as required by applicable law. Please note that we may need to retain certain information for recordkeeping purposes, to complete any transactions that you began prior to your request, or for other purposes as required or permitted by applicable law. In addition, please note that even if you opt-out of receiving marketing communications from one or all of our Sites, we may need to send you service-related communications and may need to keep information we have collected about you for record-keeping, research, and other purposes.
+
+ **VII. ACCESS AND CORRECTION OF YOUR INFORMATION**
+
+If you have created an online account with us and would like to update the information you have provided to us, you can access your account to view and make changes or corrections to your information. You may also contact us as detailed in the Contact Us section, below.
+
+ **VIII. INTERNATIONAL TRANSFERS**
+
+Information about you may be transferred to, or accessed by, entities located around the world as described in this Policy. Some of these entities may be located in countries that do not provide an equivalent level of protection as your home country. Where required, OpenTable has implemented appropriate cross-border transfer solutions to provide adequate protection for transfers of certain personal information, including, but not limited to, the European Commission's Standard Contractual Clauses. By using our Sites, and providing us information about you, you consent to the international transfer of information about you to the above parties.
+
+ **IX. LINKS TO OTHER WEBSITES**
+
+Our Sites may contain links to other websites or services that are not owned or controlled by OpenTable , including links to websites of restaurants and our advertisers, sponsors, and partners. This Policy only applies to information collected by our Sites. We have no control over these third party websites, and your use of third party websites and features are subject to privacy policies posted on those websites. We are not responsible or liable for the privacy or business practices of any third party websites linked to our Sites. Your use of third parties' websites linked to our Sites is at your own risk, so we encourage you to read the privacy policies of any linked third party websites when you leave one of our Sites.
+
+ **X. CHANGES TO THIS POLICY**
+
+Except to the extent limited by applicable law, we reserve the right to update this Policy to reflect changes to our information practices by prominently posting notice of the update on our Sites, and as required, obtaining your consent. Any updates will become effective immediately after posting the updates to this Policy and apply to all information collected about you, or where required, upon your consent. You agree that you will review this Policy periodically. If we make any changes to this Policy, we will change the "Last Updated" date above. You are free to decide whether or not to accept a modified version of this Policy, but accepting this Policy, as modified, is required for you to continue using our Sites.  **If you do not agree to the terms of this Policy or any modified version of this Policy, your sole recourse is to terminate your use of our Sites.**
+
+If we make any changes to this Policy that materially impacts previously collected information about you, we will obtain your prior express consent.
+
+ **XI. CONTACT US**
+
+If you have any questions about this Policy or information we have collected about you, please contact us by email at [privacy@opentable.com](mailto:privacy@opentable.com) or by postal mail at:
+
+OpenTable, Inc.  
+1 Montgomery St., Suite 700  
+San Francisco, CA 94104, U.S.A.  
+Attention: Legal Department
+
+You can also contact your local OpenTable directly. You can identify the OpenTable company that hosts a particular Site and that is responsible for your personal information by [clicking here.](https://web.archive.org/legal/corporate-contact-information?lang=en)
+
+ **XII. NOTICES TO RESIDENTS OF CERTAIN JURISDICTIONS**
+
+ **Australia Residents.** If you have any questions, comments, or complaints about our collection, use, or disclosure of personal information, or if you believe that we have not complied with this Policy or the Privacy Act 1988 (Cth), please contact us as detailed in the Contact Us section, above. When contacting us, please provide as much detail as possible in relation to your question, comment, or complaint. OpenTable will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need. If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner. For more information, please refer to [www.oaic.gov.au](http://www.oaic.gov.au/).
+
+ **California Residents - Your California Privacy Rights.** As described in this Policy, OpenTable may share your personal information with third parties for such parties' direct marketing purposes. Under California's "Shine the Light" law, if you are a California resident who provides personal information in obtaining products or services for personal, family, or household use, you may request to opt-out of such sharing at no-cost by following the instructions in the Your Choices section above, or by contacting OpenTable as detailed in the Contact Us section above.
+
+ **Europe and UK Residents.** In accordance with applicable data protection law, you are entitled to know what personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. Under applicable law, you may also have the right to request deletion or blocking of your personal information or to object to the processing of your personal information. If you wish to exercise your rights, please contact us as detailed in the Contact Us section, above. In some countries, we are entitled by law to charge a fee to meet our costs in providing you with details of the information we hold about you and we may also require you to provide us with appropriate identification. Please contact us as detailed in the Contact Us section, above, for information on the fee amount, if any.
+
+As provided in applicable law, you have the right to object to the processing of your personal information for purposes of advertising as well as market and opinion research, and you have the right to revoke a consent given by you at any time with effect for the future.
+
+ **Japan Residents.** For questions and requests regarding this Policy please click [here](https://web.archive.org/legal/information-request?lang=ja). 
+
+ **Mexico Residents.** You can contact OpenTable as detailed in the Contact Us section, above, to enforce your privacy rights at any time, including to access your data, ask for your data to be updated, amended or deleted as well as to oppose the way we use your personal data. You may also contact us to request to revoke your previously granted consent to the extent permitted by law. Through the same contact data, we may inform you about: (i) the information that you will be asked to provide to identify yourself as well as the documents you may need to enclose with your request; (ii) timeframes to receive a response regarding your request; (iii) forms available for submitting your request, including template forms that you may use to apply, if available, and the channel through which our answer will be delivered to you; and (iv) how we will deliver your information to you (which usually would be copies of documents, data messages).
