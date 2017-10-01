@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505145037id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001135913id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
 
 # OneSignal - Multi-platform Push Notification Service
 
