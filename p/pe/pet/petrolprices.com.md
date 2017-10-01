@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the petrolprices.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302191447id_/https%3A//www.petrolprices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrolprices.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001132551id_/https%3A//www.petrolprices.com/privacy.html) for the most accurate reproduction.*
 
-# PetrolPrices.com | Privacy Policy
+# Privacy Policy | PetrolPrices.com
 
-12th September 2016
+9th August 2017
 
 At PetrolPrices.com we recognise the importance of your privacy. This policy outlines the information we collect, how we use it and how we safeguard your information.
 
@@ -13,16 +13,23 @@ PetrolPrices.com is a participant in the Amazon EU Associates Programme, an affi
 ## When you access PetrolPrices.com
 
   * PetrolPrices.com uses cookies to store and collect information about your usage of the site in order to enhance your online experience and to help us improve the quality of our services.
-  * When you access PetrolPrices.com, your computer automatically sends us information such as the URL on our site you have visited, your [IP address](https://web.archive.org/web/20170302191447id_/https%3A//www.petrolprices.com/privacy-full.html), your browser type and language, and the date and time of your request.
+  * When you access PetrolPrices.com, your computer automatically sends us information such as the URL on our site you have visited, your [IP address](https://web.archive.org/privacy-full.html), your browser type and language, and the date and time of your request.
   * If you perform a search on PetrolPrices.com, your searches are logged and may be used internally, so as to better personalise our service to you.
+
+
+
+## reCaptcha
+
+  * We use the reCAPTCHA service provided by Google Inc. (Google) to protect your submissions via internet submission forms on this site. This plugin checks if you are a person in order to prevent certain website functions from being abused by spam bots (particularly searches). This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose, your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address provided by reCAPTCHA from your browser shall not be merged with any other data from Google. This data collection is subject to the data protection regulations of Google (Google Inc.). For more information about Google’s privacy policy, please visit: https://www.google.com/intl/en/policies/privacy/
+  * By using the reCAPTCHA service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 
 
 ## When you Subscribe to PetrolPrices.com
 
   * Throughout PetrolPrices.com ownership of this site, your personal details will never be passed onto any third parties and will never be added to any third party mailing lists or databases.
-  * PetrolPrices.com collects [personal information](https://web.archive.org/web/20170302191447id_/https%3A//www.petrolprices.com/privacy-full.html) when you register on the site. Your information will be stored confidentially by us and only used by PetrolPrices.com Ltd and Fubra Ltd in order to provide you with access to our products, services and information that we believe will interest you.
-  * Fubra Limited may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/web/20170302191447id_/https%3A//www.petrolprices.com/privacy-full.html) but simply refers to information such as number of registrations, traffic patterns and site user trends.
+  * PetrolPrices.com collects [personal information](https://web.archive.org/privacy-full.html) when you register on the site. Your information will be stored confidentially by us and only used by PetrolPrices.com Ltd and Fubra Ltd in order to provide you with access to our products, services and information that we believe will interest you.
+  * Fubra Limited may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/privacy-full.html) but simply refers to information such as number of registrations, traffic patterns and site user trends.
   * If you register for our email alert service, your preferences including location and type of fuel you are interested in are logged in order to update you with the most relevant information.
 
 
@@ -38,14 +45,14 @@ PetrolPrices.com is a participant in the Amazon EU Associates Programme, an affi
   * PetrolPrices.com operates a central login system. This system is a database of the users who can access our sites and also contains a set of preferences for each subscriber.
   * When you sign up a PetrolPrices.com account is opened for you and you can use this to access the content on any of our sites.
   * As we are usually providing expensive data sets to consumers free of charge, our aim has been to establish a database of subscribers who we communicate with when we add new features to our current web sites or when we launch a new web site that we think our subscribers may be interested in.
-  * The data we hold in a PetrolPrices.com account is only for use by **PetrolPrices.com and Fubra Ltd, and is not available for sale to any third parties**  and will only ever be used by us with your consent.
-  * If you would prefer  **not**  to receive alerts about fuel prices and other data that we email to our subscribers free of charge on a regular basis then you can manage your alerts with us on the My Alerts page.
+  * The data we hold in a PetrolPrices.com account is only for use by PetrolPrices.com and Fubra Ltd, and is not available for sale to any third parties and will only ever be used by us with your consent.
+  * If you would prefer not to receive alerts about fuel prices and other data that we email to our subscribers free of charge on a regular basis then you can manage your alerts with us on the My Alerts page.
+  * As we are usually providing expensive data sets to consumers free of charge, our aim has been to establish a database of subscribers who we communicate with when we add new features to our current web sites or when we launch a new web site that we think our subscribers may be interested in.
   * If you remove all your alerts then we will no longer send you any automatic update emails. However, you will still remain a subscriber to our sites and will therefore still have access to our sites when you choose to search for information.
-  * As a subscriber of PetrolPrices.com, Fubra Ltd will occasionally email you with news and information about our company, our new web site features and new web sites we develop. If you do not wish to receive any emails from Fubra Ltd, you must then cancel your subscription to our system which you can do by logging in to the Account page.
-  * Please note once you have done this you will no longer be able to log in to any of our sites without re-subscribing.
-  * You can use the PetrolPrices.com Account page to easily join or leave our sites.
 
 
+
+ **As a subscriber of PetrolPrices.com, Fubra Ltd will occasionally email you with news and information about our company, our new web site features and new web sites we develop. If you do not wish to receive any emails from Petrolprices.com or Fubra Ltd about news and information about our company, new website features and new web sites we develop, please visit your Account page and untick the Company Announcements box on your subscription preferences and click update.**
 
 ## Links and Affiliated sites
 
@@ -87,4 +94,4 @@ Additional system information we may gather includes time, type of web browser b
 
 ## Contacting PetrolPrices.com
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20170302191447id_/https%3A//www.petrolprices.com/contact.html)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/contact.html)
