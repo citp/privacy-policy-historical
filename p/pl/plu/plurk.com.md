@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106052848id_/https%3A//www.plurk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001133209id_/https%3A//www.plurk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Plurk
 
 #### What This Privacy Policy Covers
 
-  * This privacy policy pertains to the use of Plurk and the website located at [http://www.plurk.com](http://www.plurk.com/). By using our site, you are consenting to our processing of your information as set forth in this privacy policy.
+  * This privacy policy pertains to the use of Plurk and the website located at [https://www.plurk.com](https://www.plurk.com/). By using our site, you are consenting to our processing of your information as set forth in this privacy policy.
   * This privacy policy describes how Plurk and any related companies treats personal information that it collects and receives as you use our service (from our social networking website, including via SMS, WAP, and Instant Messaging). Personal information refers to information about you that is personally identifiable like your name, address, email address, IP address or phone number.
   * When you register with Plurk, your personal information and other data will be stored and processed in Cayman Islands and this information will be subject to the laws of Cayman Islands.
 
@@ -63,14 +63,6 @@ Like most sites, we use cookies. Cookies are small pieces of data, which often i
   * It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Plurk's TOS, or as otherwise required by law.
   * We will transfer information about you if Plurk is acquired by or merged with another company. In this event, Plurk will notify you by email or by putting a prominent notice on the web site before information about you is transferred and becomes subject to a different privacy policy.
   * Plurk may display targeted advertisements based on personal information that is exhibited in people's profiles.
-
-
-
-#### Editing and Deleting Account Information
-
-  * You can change your Plurk info, at any time using the account edit link once your are logged in.
-  * You can delete your Plurk account at any time from your account page; however, please note that some identification and contact information may remain in our records for a short period of time.
-  * Your Plurk account info is password-protected.
 
 
 
