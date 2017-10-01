@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgmachines.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601092821id_/http%3A//omgmachines.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgmachines.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001040731id_/http%3A//omgmachines.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
