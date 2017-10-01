@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010644id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001213943id_/https%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy / The University of Newcastle, Australia
 
 ## **Web Privacy Statement**
 
-The University of Newcastle is committed to protecting and maintaining the privacy of your personal and health information.
+The University of Newcastle (UON) is committed to protecting and maintaining the privacy of your personal and health information.
 
  **The purpose of this statement is to advise visitors to the University's website of the information collected when they visit, how this information may be used and whether or not it may be disclosed.**
 
-Further information on privacy at UoN can be found in the [University's Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998](http://www.legislation.nsw.gov.au/#/view/act/1998/17) and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
+Further information on privacy at UON can be found in the [University's Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998](http://www.legislation.nsw.gov.au/#/view/act/1998/17) and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
 
 If you have any further questions with regard to this notice please contact the University's Privacy Office at [privacy@newcastle.edu.au](mailto:privacy@newcastle.edu.au)
 
@@ -18,11 +18,11 @@ If you have any further questions with regard to this notice please contact the 
 
 The University may record server addresses, domain names, IP addresses, the date and time of visits to the site, as well as the pages accessed and any documents downloaded. This information is collected for statistical purposes only.
 
-The University will not attempt to identify individual visitors from this information, except in the unlikely event of an investigation, where it is required by another law.
+The University will not attempt to identify individual visitors from this information, except in the event of an investigation or where it is required by another law.
 
 ####  **External Links from the University website**
 
-The University is not responsible for the privacy practices, or content, of any external links provided on the UoN website. Links are provided for the purpose of convenience and do not necessarily reflect the University's endorsement of the content provided.
+The University is not responsible for the privacy practices, or content, of any external links provided on the UON website. Links are provided for the purpose of convenience and do not necessarily reflect the University's endorsement of the content provided.
 
 ####  **Collection of Personal Information**
 
@@ -40,7 +40,7 @@ Emails sent to the University will be held by the relevant area and, in certain 
 
 As outlined in the University's [Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and [Agency Information Guide](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document?RecordNumber=D14/17780), information is protected from loss and unauthorised access or disclosure.
 
-Certain areas or applications of the UoN website require a login name and password to ensure that the information is only displayed to the intended recipient. Users should ensure that their passwords are protected and cannot be accessed by others.  Our systems encrypt this information to ensure protection.
+Certain areas or applications of the UON website require a login name and password to ensure that the information is only displayed to the intended recipient. Users should ensure that their passwords are protected and cannot be accessed by others.  Our systems encrypt this information to ensure protection.
 
 ####  **Cookies**
 
@@ -48,7 +48,7 @@ Temporary cookies are used by certain applications of the University website for
 
 You can alter your settings so that your browser can reject cookies or notify you when cookies are used. Not allowing all cookies may affect the function of, or your access to, certain University applications.
 
-Cookies are also used by certain UoN sites to supply University of Newcastle advertisements to a visitor, as they continue to browse on the internet after leaving the UoN site. (see _remarketing_ below).
+Cookies are also used by certain UoN sites to supply UON advertisements to a visitor, as they continue to browse on the internet after leaving the UON site. (see _remarketing_ below).
 
 ####  **Use of Personal Information**
 
