@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the adlogic.com.au privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310231117id_/https%3A//www.myrecruitmentplus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlogic.com.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001140557id_/https%3A//myrecruitmentplus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | My Recruitment Plus
+# Privacy Policy – CLOUD Recruitment Software | MyRecruitment+
 
 Martian Logic Pty Ltd ( hereafter Martian logic) is committed to respecting the privacy of its customers. The following policy discusses how personal information received by Martian logic will be dealt with.
 
 Although not required by law to comply with its provisions, Martian Logic seeks to opt in to the  _Privacy Act 1988_  (also sometimes referred to as the  _Privacy Principles Act_  or the  _Personal Information Privacy Principles Act_ ) in dealing with its customers. We do this so that our customers will have confidence that they are dealing with a supplier committed to excellence and security for our customers.
 
-_Information Protection Principles_
+ _Information Protection Principles_
 
 Martian Logic must not do anything, or engage in any practice, that contravenes any information protection principles contained in the Privacy Act. In particular Martian Logic declares that it will:
 
-    1. Not collect personal information [[1]](http://www.adlogic.com.au/content/privacyPolicy.jsp#1) unless: 
+  *     1. Not collect personal information unless:
       1. the information is collected for a lawful purpose that is directly related to a function or activity of the Martian logic , AND
       2. the collection of the information is reasonably necessary for that purpose;
     2. Not collect personal information by any unlawful means;
     3. Collect the information directly from the individual;
-    4. Make the individual to whom the information relates aware of: 
+    4. Make the individual to whom the information relates aware of:
       1. the fact that the information is being collected, AND
       2. the purposes for which the information is being collected, AND
       3. the intended recipients of the information, AND
@@ -31,13 +31,13 @@ Martian Logic must not do anything, or engage in any practice, that contravenes 
     11. Attach to the information, in such a manner as is capable of being read with the information, any statement provided by that individual of any amendment sought;
     12. Notify recipients of that information of the amendments made;
     13. Not use the information without ensuring that the information is relevant, accurate, up to date, complete and not misleading;
-    14. Not use the information for a purpose other than that for which it was collected unless: 
+    14. Not use the information for a purpose other than that for which it was collected unless:
       1. the individual to whom the information relates has consented to the use of the information for that other purpose, OR
       2. the other purpose for which the information is used is directly related to the purpose for which the information was collected, OR
       3. the use of the information for that other purpose is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual to whom the information relates or of another person;
     15. Not disclose unless the disclosure is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person;
     16. Ensure that, if personal information is disclosed to a person or body that is a public sector agency, that agency does not use or disclose the information for a purpose other than the purpose for which the information was given to it;
-    17. Not disclose personal information relating to: 
+    17. Not disclose personal information relating to:
       1. an individual’s ethnic or racial origin; OR
       2. political opinions; OR
       3. religious or philosophical beliefs; OR
