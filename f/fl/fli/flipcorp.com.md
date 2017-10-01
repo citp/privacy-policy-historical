@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipcorp.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528031936id_/http%3A//www.sapientrazorfish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipcorp.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001140834id_/http%3A//www.sapientrazorfish.com/privacy.html) for the most accurate reproduction.*
 
 # SapientRazorfish_
 
