@@ -1,69 +1,210 @@
-> *The following text is extracted and transformed from the mq.edu.au privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111155336id_/http%3A//www.mq.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mq.edu.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Macquarie University
+# Macquarie University - Privacy
 
-Macquarie University is subject to the _Privacy and Personal Information Protection Act_ _1998_ (NSW) **_(PPIPA)_** which protects the privacy of your personal information. The purpose of this privacy statement is to let you know what information is collected about you and how the information is used when you visit a Macquarie University website.
+### About
 
-Where the information collected from you includes health information as defined under the _Health Records and Information Privacy Act 2002_ (NSW), this notice will apply to the collection of that information.
+  * [Study](https://web.archive.org/study)
+  * [Research](https://web.archive.org/research)
+  * [Connect](https://web.archive.org/connect)
+  * [About](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about)
+    * [About the University](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university)
+      * [The Macquarie story](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/the-macquarie-story)
+      * [Our commitment to Aboriginal and Torres Strait Islander Peoples](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/our-commitment-to-aboriginal-and-torres-strait-islander-peoples)
+      * [Strategy and initiatives](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/strategy-and-initiatives)
+      * [Governance](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance)
+        * [Executive](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/executive)
+        * [Macquarie University Council](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/macquarie-university-council)
+        * [Academic Senate](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/academic-senate)
+        * [Policy Central](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/policy-central)
+        * [Annual reports](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/annual-reports)
+        * [Right to information](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/right-to-information)
+        * [Complaints management](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/complaints-management)
+        * [Privacy](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy)
+          * [Privacy policy](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-policy)
+          * [The Health Records and Information Privacy Act](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/the-health-records-and-information-privacy-act)
+          * [Privacy Act 1998](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-act-1998)
+          * [Useful links](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/useful-links)
+          * [Contacts](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/contacts)
+        * [Elections](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/elections)
+      * [Faculties and departments](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/faculties-and-departments)
+      * [Offices and units](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/offices-and-units)
+      * [Job opportunities](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/job-opportunities)
+      * [Our campus](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/our-campus)
+    * [Campus services and facilities](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/campus-services-and-facilities)
+    * [News and events](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/news-and-events)
+    * [Contacts and maps](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/contacts-and-maps)
 
-## 1\. Collection of Information
 
-### a. Automatic collection of personal information
 
-The University may automatically record your visit and log any of the following information when you access a University website using a computer or a mobile device: your server address, your domain name, IP address, the date and time of your visit, the pages accessed and downloaded, the type of browser used, the previous site you visited.
+### Overview 
 
-The University may use this information for statistical and business purposes such as for analysing user's on-line experiences and trends. This analysis is conducted on a de-identified basis and we make no attempts to link the log with an identified individual.
+Macquarie University is about discovery, learning and participation in a borderless world. We are a dynamic, flexible and engaged university committed to excellence in research, teaching and global citizenship. In undertaking its learning and teaching, research, and community engagement functions, the University collects, stores, and uses a broad range of personal and health information relating to students (including prospective, current and alumni), staff, patients and others who interact with it.
 
-#### Cookies
+Macquarie University is committed to protecting the privacy of its students, employees and others who interact with it while undertaking its learning and teaching, research, engagement, and associated administrative activities and support services.
 
-A cookie may record your visit to a University website. A cookie is a packet of data that a website puts on your computer's web browser to identify you as a visitor to that website.  It is possible to disable the acceptance of cookies by your web browser.  However, by doing so, it may restrict your ability to access some web pages.
+The University is required to comply with the [NSW _Privacy and Personal Information Protection Act 1998_ ( **PPIPA** ) ](http://www.ipc.nsw.gov.au/ppip-act "PPIPA link ")and [_Health Records and Information Privacy Act 2002_   ( **HRIPA** )](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/%C2%A5http://www.ipc.nsw.gov.au/hrip-act "HRIPA") in respect of personal and health information which it collects and uses. The University aligns its practices and activities with the Information Protection Principles (IPPs), and the Health Privacy Principles (HPPs) contained in those Acts.
 
-Some University sites are access restricted. These sites may use cookies to deliver content specific to your interest.  Cookies may also be used for authentication purposes and to improve security during your session on-line.
+The University’s[ Privacy Management Plan](http://www.mq.edu.au/about/about-the-university/governance/privacy/Privacy-Management-Plan-FINAL.pdf "Privacy plan 2017") provides more information on how the University implements its obligations under the PPIPA and HRIPA, and how these Acts apply to the University’s operations.
 
-Cookies may store a record of your visit by way of a numbered key and the duration of your visit.  A numbered key is a unique sever generated number used to identify the current session.  The numbered key can be linked back to your login identification.
+### Controlled entities
 
-Unique identifiers (such as login identification) are collected from you when you access a website to verify your identity and for use as account numbers in our record system. Unique identifiers are also used to store information about your preferences, to enable the dynamic display of the site according to your preferences when you return.
+Controlled entities of the University that are considered “organisations” under the Commonwealth Privacy Act must comply with the following privacy acts:
 
-### b. Information collected from you via a University website
+  *  _[Privacy Act 1988 (Cth) (Privacy Act)](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/%C2%A5https://www.oaic.gov.au/privacy-law/privacy-act/ "Privacy ")_
+  *  _[Privacy and Personal Information Protection Act 1998 (NSW) (PPIPA)](http://www.ipc.nsw.gov.au/ppip-act "PPIPA")_
+  *  _[Health Records and Information Privacy Act 2002 (NSW) (HRIPA)](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/%C2%A5http://www.ipc.nsw.gov.au/hrip-act "HRIPA ")_
 
-The University may collect your personal information on-line in a variety of circumstances for example through on-line surveys and by registration or application forms.
 
-For certain applications, the University's website registration or application forms require users to give contact information (like name and email address), and unique identifiers (like login identification and student number). On-line surveys may ask users for unique identifiers.
 
-If you are not a Macquarie University student or staff member and you send us a message or provide us with other personal details, the University will record those details.  Your personal information will only be used for the purpose for which you provided it.
+The University’s controlled entities must have a separate Privacy Policy that explains the types of personal and/or health information that it collects and holds, how it does so and the purposes for that collection, to whom it discloses that information, how your information can be accessed or corrected, how you can make a privacy complaint and how that will be actioned, whether your information is likely to be sent overseas and to which countries if applicable.
 
-You are not required by law to provide us with your personal information, however, if you do not do so, it may not be possible for the University to provide the services which you require or are available to you.
+The following controlled entities have their own Privacy Policy :
 
-## 2\. Use of personal information
+  * U@MQ Ltd (Campus Life/Sports and Recreation) - <http://www.mq.edu.au/about/about-the-university/offices-and-units/campus-life/privacy-policy>
 
-Personal information you supply on-line will be used by University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services to you (including in times of emergency), communication with staff in relation to you or your courses or employment and corresponding with you.
 
-Contact information which you supply in a registration form or on-line survey via a website is used to get in touch with you when necessary, for example when you request the publication of notice of an event or seek information about a course offered by the University. For certain applications, for example the on-line calendar of events, your details will be published when you are indicated to be the contact person for a particular event. Data collected via an on-line survey will be used only for stated purposes, as approved by the University Human Ethics Committee.
+  * Macquarie University Hospital - <http://muh.org.au/privacy-policy>
 
-The University may use your IP address to help diagnose problems with a server, to administer a web site or to set up individual sessions to provide secure logins. The University may also use your IP address (which includes your IP address collected when you login to a University site from a mobile device) or other personal information which we have collected on our websites in order to respond to an emergency situation involving you. 
 
-## 3\. Disclosure of personal information
+  * Macquarie University Clinical Associates Ltd – [www.mqhealth.org.au](http://www.mqhealth.org.au/)
 
-The University will not disclose your personal information which it has collected via a website except in accordance with PPIPA or where it is necessary in order to respond to an emergency situation involving you. The University may disclose your personal information including your email address or your location, to police, medical or hospital personnel or to your nominated emergency contact or to others as is necessary to respond to the emergency.
 
-Information collected from you by the University may be stored on servers which routes that information through overseas jurisdictions. It is not practicable to identify the specific countries where that information may be routed through; however, the University takes steps through its contractual arrangements with its IT service providers to ensure that that information cannot be accessed by third parties. 
 
-Details regarding disclosure of personal information by the University may be found in the [Privacy Management Plan.](http://www.mq.edu.au/privacy/privacyplan.pdf)
+ **What if there are inconsistencies between the Commonwealth Privacy Act and the NSW privacy acts that apply to controlled entities?**
 
-### Public Forums
+The Commonwealth Privacy Act contemplates that an entity may have duties under both Commonwealth and State privacy legislation such as a controlled entity of the University. To the extent there are inconsistencies between the Commonwealth Privacy Act and the NSW privacy acts for controlled entities, the Commonwealth Privacy Act will prevail.
 
-Some University sites may have chat rooms, forums, message boards, and / or news groups available to its users such as iLearn.  Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding whether to disclose your personal information.
+### Protecting information
 
-## 4\. Right of Access
+### Collection
 
-The University will always try to maintain accurate, complete and up-to-date information regarding students and staff.  If you think that your personal information retained by the University requires changing please contact the Student Enquiry Service or Human Resources or email the University's privacy officer on [privacyofficer@mq.edu.au](mailto:privacyofficer@mq.edu.au).  Full details regarding the means of formal access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.mq.edu.au/privacy/privacyplan.pdf).
+  * Is the information I am collecting personal information or health information?
+  * Do I need to collect this information?
+  * Who am I collecting from?
+  * What is it going to be used for and is it a lawful use?
+  * Is this information being used for research?
+  * Do I need consent to collect this information and if so what details do I have to provide when I collect it?
 
-## 5\. Security
 
-Personal information collected from you via a website is done by secure means. The University sites have security measures in place to protect the confidentiality, accuracy, completeness and access to information as set out in the [University Information Security Policy](http://mq.edu.au/about_us/offices_and_units/informatics/policies/information_security_policy.jsp)
 
-A unique identifier provided to you and your password are required to visit secure areas. This is to ensure that the information is displayed only to you.  You should ensure that your password is kept securely and that you do not reveal it to others.
+##### Where to next
 
-## 6\. External Links
+  * Privacy Management Plan – definitions of information
+  * Privacy Management Plan – Collection
+  * Go to guide – health information
+  * Personal information collection checklist
+  * Research considerations
+  * Consent form toolbox
 
-Some University sites contain links to other sites. The University is not responsible for the privacy practices or the content of such web sites.
+
+
+Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
+
+### Storage
+
+  * Where is the information going to be stored?
+  * How long will the information be stored for?
+  * Who will have access to it?
+  * What measures are in place to prevent it from getting in the wrong hands?
+
+
+
+##### Where to next
+
+  * Privacy Management Plan – Storage
+  * Personal information collection checklist
+  * Information access – best practice requirements
+
+
+
+Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
+
+### Access and accuracy
+
+  * How can an individual access their own information once it has been collected?
+  * How do I ensure any changes in the information are correctly reflected?
+  * Have I put in any measures to ensure an individual can access and correct their information if necessary?
+
+
+
+##### Where to next
+
+  * Privacy Management Plan – Access and Accuracy
+  * Information access guidance (including GIPA /[ RFI](http://www.mq.edu.au/about/about-the-university/governance/right-to-information "RIF page "))
+  * Information change form
+
+
+
+Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
+
+### Use 
+
+  * How do I ensure the information is accurate and up to date?
+  * Is the information still relevant and fit for purpose?
+  * Am I using this information in a way that was not for the expected use?
+
+
+
+##### Where to next
+
+  * Privacy Management Plan
+  * Privacy information health check checklist
+
+
+
+Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
+
+### Disclosure
+
+  * Who can I disclose this information to once it is collected?
+  * Have I obtained consent to disclose this information?
+  * Do I need to make the individual aware that this information will be disclosed elsewhere?
+  * What do I do if the information has been disclosed inappropriately?
+
+
+
+##### Where to next
+
+  * Privacy Management Plan – Disclosure
+  * Consent form toolbox
+  * Complaints and breaches guidance
+
+
+
+Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
+
+### Accessing and amending information
+
+Under the PPIPA and HRIPA an agency must allow access to personal and health information without excessive delay or expense. Please follow the instructions in the following link to access your personal or health information.
+
+#### Amendment
+
+Students can update their information collected as part of the admission and enrolment process via eStudent, or by contacting Ask MQ. Staff can contact HR to correct or update some of their information in HROnline. Patients can contact the University Hospital’s Health Information Services to correct or update their information in TrakCare.
+
+If any other changes are required a request can be made through the [Change My Personal Information Request form.](http://www.mq.edu.au/about/about-the-university/governance/privacy/Application-for-changes-to-information.pdf "application to change ")
+
+#### Making a complaint
+
+The University is committed to protecting the privacy of personal and health information in accordance with privacy legislation.
+
+It is an offence for the University to:
+
+  * intentionally disclose or use personal information, other than in connection with the lawful exercise of relevant functions, for an unauthorised purpose
+  * offer to supply personal information that has been disclosed unlawfully
+  * hinder the Privacy Commissioner or a member of staff from doing their job.
+
+
+
+Where an individual has a complaint as a result of the above, they may make a complaint by:
+
+  * Resolving the matter informally with the unit involved
+  * Contacting the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
+  * Applying for an [internal review](http://www.mq.edu.au/about/about-the-university/governance/privacy/Application-for-internal-review.pdf "Application for interna review ")
+  * Contacting the [Privacy Commissioner](http://www.ipc.nsw.gov.au/ "Privacy comm ")
+
+
+
+### Find out more
+
+Back to the  top of this page
