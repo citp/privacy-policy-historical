@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergroundshirts.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602022015id_/http%3A//undergroundshirts.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundshirts.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001190438id_/http%3A//undergroundshirts.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Underground Printing
 
