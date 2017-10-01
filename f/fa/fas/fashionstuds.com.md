@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionstuds.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629221821id_/http%3A//fashionstuds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionstuds.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001231733id_/http%3A//fashionstuds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fashion Studs
 
