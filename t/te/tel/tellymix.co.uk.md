@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614214843id_/http%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001165752id_/https%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | TellyMix
 
@@ -122,7 +122,7 @@ TellyMix is in no way responsible for the content, security or privacy policy of
 
 ### Policy changes
 
-TellyMix reserves the right to revise and make changes to this policy at any time. The up to date version will be available from www.tellymix.co.uk
+TellyMix reserves the right to revise and make changes to this policy at any time. The up to date version will be available from tellymix.co.uk
 
 ### Contact information
 
