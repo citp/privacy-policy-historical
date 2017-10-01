@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121065826id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001175856id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
 
 # Auto Europe's Privacy Policy | Auto Europe Privacy Settings
 
