@@ -1,47 +1,147 @@
-> *The following text is extracted and transformed from the storagetreasures.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404225559id_/http%3A//www.storagetreasures.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagetreasures.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001083201id_/https%3A//www.storagetreasures.com/privacy) for the most accurate reproduction.*
 
-# Storage Auctions Privacy
+# StorageTreasures Privacy Policy | StorageTreasures.com
 
-To enrich our members' experience, we request and display some personal information to other members and visitors. This allows StorageTreasures users to identify each other and expand their network of people. StorageTreasures members can change their profile information at any time as well as control how other members and the service communicates with them.
+**Privacy Policy**
 
-StorageTreasures.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy@StorageTreasures.com.](mailto:privacy@StorageTreasures.com "privacy@StorageTreasures.com")
+Effective Date: ___________, August 2017
 
-Information Collection and Use by StorageTreasures.com StorageTreasures.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications relating to the StorageTreasures.com service. StorageTreasures.com also collects other profile data, including but not limited to: personal/societal interests, gender, age, education and occupation, in order to assist users in finding and communicating with each other.
+This Privacy Policy (“Policy”) governs the terms and conditions under which you ("User", “Client” or "you") are permitted to access or use StorageTreasures, LLC’s (“StorageTreasures”) websites at www.StorageTreasures.com and www.PRO.StorageTreasures.com and all other websites owned and maintained by StorageTreasures (the “Websites”). StorageTreasures Websites are managed OpenTech Alliance, Inc. 
 
-StorageTreasures.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+We have adopted this Policy which guides how we collect, store and use the information you provide online. Please note that this Policy applies only to sites maintained by or on behalf of StorageTreasures, and not to websites maintained by other companies or organizations to which we link. This Policy does not apply to “offline” activities or activities unrelated to the Policy unless otherwise expressly stated herein.
 
-User Profile information including but not limited to members' pictures, names and contact information are displayed to people in order to facilitate user interaction in the StorageTreasures.com social networking community. Email addresses are used for the purposes of inviting new people to join StorageTreasures, to add users to members' networks, and to send notifications related to the service. To facilitate searching for and finding people and acquaintances on the service, StorageTreasures.com allows users to search for other members by first and last name.
+By accessing and using the Websites, User accepts and agrees to be legally bound by this Policy. If User does not agree with all of the terms of this Policy, User must discontinue access to and use of the Websites. The terms and conditions below are incorporated by reference into the Terms of Use Agreement of users of StorageTreasures’ products and services. 
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may unsubscribe from electronic newsletters or cancel their account if they no longer wish to receive transactional emails (which do not contain an option to unsubscribe). 
+The Websites contain links to other sites. StorageTreasures is not responsible for the privacy policies and/or practices on other sites. When linking to another site, a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on the Websites.
 
-From time to time, StorageTreasures.com or a partner, may sponsor a societal cause or contest on StorageTreasures.com. Users may be asked to provide personal information including name, email or home address, or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. At the point of collection it will be clear who is collecting the personal information and whose privacy statement will apply.
+When StorageTreasures is contracted to submit a website to search engines, some Personally Identifiable Information (as such term is defined in this Policy) may be required by such services, for example: contact’s name, company’s name, email, website address, etc. StorageTreasures is in no way responsible for how this information is used beyond this point.
 
-Invitations and Other Communications to Non-members StorageTreasures members can invite people to join the service by sending invitation emails via our automated invitation system. StorageTreasures.com may store the email addresses that members provide so respondents may be added to the inviter's friends list. StorageTreasures.com may send invitation reminders (up to three (3) per email address). StorageTreasures.com does not otherwise use or sell such email addresses. StorageTreasures invitees may contact StorageTreasures.com to request the removal of their information from our database.
+**Information Collection**
 
-StorageTreasures members may also store email addresses of people they know in their internal StorageTreasures address book and may also choose to send invitations and other communications to those addresses. You may avoid receiving StorageTreasures.com email messages and invitations by sending an email, from the account you wish to block, with the subject "BLOCK" to [privacy@StorageTreasures.com.](mailto:privacy@StorageTreasures.com "privacy@StorageTreasures.com") Please note that the email must come from the account you wish to block.
+StorageTreasures collects User submitted information such as name, email address, passwords, answers to security questions, and age to authenticate users and to send notifications relating to the StorageTreasures.com service. StorageTreasures also collects other profile data, including but not limited to: personal/societal interests, gender, education, preferences, location, and occupation, in order to provide the highest quality service possible. This personal information is referred to as “Personally Identifiable Information”. In general, we receive and store any Personally Identifiable Information you provide via our website. This includes information that can identify you, including but not limited to your first and last name, telephone numbers, postal address, email address, social security number, driver’s license number, birth date, credit card information, account number, and any other information you choose to provide to StorageTreasures to identify yourself.
 
-Use of Cookies StorageTreasures.com uses cookies to store visitors' preferences and to record session information. This ensures visitors are not repeatedly offered the same advertisements, and allows customization of newsletters, advertisements, and Web page content, based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from StorageTreasures.com in order to use most functions on the site. Please note that StorageTreasures allows third party advertisers (presenting advertisements on some of our pages) to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the StorageTreasures Privacy Policy.
+StorageTreasures also logs non-personally-identifiable information including IP address, profile information, aggregate User data, and browser type, from Users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User profile information including but not limited to members' pictures, names and contact information are displayed to people in order to facilitate User interaction in the StorageTreasures social networking community. Email addresses are used for the purposes of inviting new people to join StorageTreasures, to add Users and to send notifications related to the service. We may also use a User's email address to send updates, a newsletter or news regarding the service. Users may unsubscribe from electronic newsletters or cancel their account if they no longer wish to receive transactional emails (which do not contain an option to unsubscribe). 
 
-Links StorageTreasures.com contains links to other sites. StorageTreasures.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on StorageTreasures.com.
+We may also collect and group demographic and preferences information, responses to surveys and other Personally Identifiable Information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. This aggregate data does not personally identify you or any other visitors to the Websites.
 
-Access and Interference Much of the information on the sites is updated on a real-time basis and is proprietary or is licensed to StorageTreasures.com by our users or third parties. You agree that you will not use any robot, spider, scraper or other automated means to access the sites for any purpose without our express hand written permission. Additionally, you agree that you will not: 1) take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure; 2) copy, reproduce, modify, create derivative works from, distribute, or publicly display any content (except for your information) from the sites without the prior express written permission of eBay and the appropriate third party, as applicable; 3) interfere or attempt to interfere with the proper working of the sites, services or tools, or any activities conducted on or with the sites, services or tools; or 4) bypass our robot exclusion headers or other measures we may use to prevent or restrict access to the sites.
+We may also collect general, non-personal, statistical information about the use of the Websites, such as how many visitors visit a specific page on the Websites, how long they stay on that page and which hyperlinks, if any, they "click" on. We collect this information in order to determine which areas of the Websites are most popular and to enhance the Websites for visitors. As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data does not personally identify you or any other visitors to the Websites.
 
-Social Commenting, Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and Public Forums Please be aware that whenever you voluntarily post public information to Journals, WebLogs, Message Boards, Classifieds or any other Public Forums, that information can be accessed by the public, and can in turn be used by those people to send you unsolicited communications.
+With respect to all communications that User makes to StorageTreasures, including but not limited to feedback, questions, comments, suggestions and the like, and with regard to patterns of usage by the User (such as links accessed): (a) User shall have no right of confidentiality in its communications and StorageTreasures shall have no obligation to protect User's communications from disclosure; (b) StorageTreasures shall be free to reproduce, use, disclose and distribute User's communications without limitation; and (c) StorageTreasures shall be free to use any ideas, concepts, know-how, content or techniques contained in User's communications for any purpose whatsoever, including but not limited to the development, production and marketing of products and services that incorporate such information.
 
-Correcting/Updating or Removing Information StorageTreasures.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info.
+From time to time, StorageTreasures or a partner, may sponsor a societal cause or contest on one or more of the Websites. StorageTreasures may share User information such as email addresses with these partners. 
 
-Email Choice/Opt-outUsers who do not wish to receive StorageTreasures.com electronic newsletters may unsubscribe by clicking the unsubscribe link in any email or by contacting StorageTreasures.com at [contact@StorageTreasures.com](mailto:contact@StorageTreasures.com). To stop receiving transactional emails a User must cancel their account. All notification emails and StorageTreasures.com newsletters also include the above instructions for opting-out of those communications in the future.
+**Use of Your Information**
 
-Third Party Advertising Ads that may appear on this Web site may be delivered to users by StorageTreasures.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by StorageTreasures.com and does not cover the use of cookies by any advertisers.
+This information will only be used in direct conjunction with your account and web site needs. **We  will not sell or intentionally distribute ****Personally Identifiable Information** **to any sources outside** **StorageTreasures** **.**
 
-Security StorageTreasures.com member accounts are secured by member-created passwords StorageTreasures.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on StorageTreasures.com, please contact us at: [privacy@StorageTreasures.com.](mailto:privacy@StorageTreasures.com "privacy@StorageTreasures.com")
+We use information about you for the following general purposes: 
 
-Sharing and Disclosure of Information StorageTreasures.com Collects Except as otherwise described in this privacy statement, StorageTreasures will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by StorageTreasures.com, whether or not a response is required by applicable law; (2) to enforce the StorageTreasures.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. StorageTreasures reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of StorageTreasures or substantially all of its assets to that successor in interest For more information see the "Changes in Our Privacy Policy" section below.
+  * to provide you with the products and services you request; 
 
-Changes in Our Privacy Policy From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of the changes. This allows users to be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when they use the site after such changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify users by posting a notice on our Web site for 30 days.
+  * to communicate with you in general; 
 
-Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@StorageTreasures.com](mailto:privacy@StorageTreasures.com "privacy@StorageTreasures.com") (6991 E Camelback Rd, Suite C302, Scottsdale, AZ 85251).
+  * to respond to your questions and comments; 
 
-Use of this Web site acceptance of the StorageTreasures.com [Terms of Use](http://www.storagetreasures.com/info/terms) and [Privacy Policy](http://www.storagetreasures.com/info/privacy).
+  * to measure interest in and improve our products, services, and website; 
 
-Rev. 9/12
+  * to notify you about special offers and products or services that may be of interest to you; 
+
+  * to otherwise customize your experience with the Websites; 
+
+  * to solicit information from you, including surveys; to resolve disputes or troubleshoot problems; 
+
+  * to prevent potentially prohibited or illegal activities; 
+
+  * to enforce our Terms of Use; 
+
+  * to create and manage your account; respond to individual inquiries; and 
+
+  * as otherwise described to you at the point of collection.
+
+
+
+
+**Sharing Your Information**
+
+StorageTreasures may contract with third-party vendors to provide services for StorageTreasures, including, but not limited to maintaining this website, mailing lists, collect payments, and deliver information and services to customers. These third-party vendors have access to and may collect Personally Identifiable Information you provided to StorageTreasures only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
+
+We also may share your information:
+
+  1. In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+
+
+
+  2. When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Use and other agreements.
+
+
+
+  3. In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+
+Other than as set out above, you will be notified when Personally Identifiable Information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. Unless you have authorized us to do so, we will not disclose Personally Identifiable Information to third-parties who may want to offer you their own products and services.
+
+**Access and Interference**. 
+
+Much of the information on StorageTreasures is updated on a real-time basis and is proprietary or is licensed to StorageTreasures by our Users or third parties. Users agree that you will not use any robot, spider, scraper or other automated means to access the sites for any purpose without our express hand written permission. Additionally, Users agree that User will not: 1) take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure; 2) copy, reproduce, modify, create derivative works from, distribute, or publicly display any content (except for User information) from the site without the prior express written permission of StorageTreasures and the appropriate third party, as applicable; 3) interfere or attempt to interfere with the proper working of the site, services or tools, or any activities conducted on or with the site, services or tools; or 4) bypass our robot exclusion headers or other measures StorageTreasures may use to prevent or restrict access to the sites.
+
+**Correcting/Updating or Removing Information**.
+
+StorageTreasures Users may modify or remove any of their personal information at any time by logging into their account. If User’s account has been suspended or deactivated for any reason the User must contact StorageTreasures directly. 
+
+**Email Choice/Opt-out**.
+
+Users who do not wish to receive StorageTreasures.com electronic newsletters may unsubscribe by clicking the unsubscribe link in any email or by contacting StorageTreasures at [_info@StorageTreasures.com_](mailto:contact@StorageTreasures.com). To stop receiving transactional emails a User must cancel their account. 
+
+**Cookies, Pixel Tags and Web Beacons**
+
+We and our third party service providers may use a standard technology called a "cookie" to collect information about how you use the Website. Cookies reside on your computer and help the Websites recognize your computer's browser as a previous visitor. On occasion our Websites may also set a "session cookie" which helps us administer the Websites. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. If you choose to reject cookies, you may be unable to use certain services on the Websites (e.g., those services that require you to log on to the Websites in order to participate).
+
+We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Websites’ pages and HTML-formatted email messages to track your use of our Websites in order to provide you with more useful information and a more personalized experience the next time you visit. Pixel Tags do not contain any Personally Identifiable Information and allow us to count users who have visited certain pages of the Websites, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when an email has been opened.
+
+Ads that may appear on StorageTreasures Websites may be delivered to Users by StorageTreasures or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize Users’ computer each time they send User an online advertisement. In this way, ad servers may compile information about where Users, or others who are using User’s computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to Users. This privacy statement covers the use of cookies by StorageTreasures and does not cover the use of cookies by any advertisers.
+
+**Security of Information and Disclosures**
+
+While StorageTreasures takes security measures to help safeguard your Personally Identifiable Information from unauthorized access and disclosure, you should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet. Accordingly, we do not guarantee that any and all safeguards that we use to protect your Personally Identifiable Information will work.
+
+StorageTreasures’ User accounts are secured by User-created passwords. StorageTreasures takes precautions to insure that User account information is kept private. StorageTreasures uses reasonable measures to protect User information that is stored within the StorageTreasures database, and StorageTreasures restricts access to User information to those employees who need access to perform their job functions, such as customer service personnel and technical staff. Please note that StorageTreasures cannot guarantee the security of User account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of User information at any time. For any additional information about the security measures we use on StorageTreasures, please contact us at: [_info@StorageTreasures.com._](mailto:privacy@StorageTreasures.com)
+
+**Responding to Do Not Track Signals**
+
+StorageTreasures does not currently respond or take any action regarding “Do Not Track” requests. Except as provided in this Policy, our Websites do not allow any other parties to collect Personally Identifiable Information about your online activities over time or across different websites when using the Websites.
+
+**Transactions with E-Commerce Partners, Vendors and Advertisers.**  
+
+When you provide Personally Identifiable Information to one of our Websites’ e-commerce partners, vendors or advertisers, this transaction will occur in connection with the site of the e-commerce partner, vendor or advertiser, not on the Websites, and, as such, the information you provide is collected pursuant to and controlled by the privacy policy of such e-commerce partner, vendor or advertiser. StorageTreasures is not responsible for such parties’ privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information.
+
+Please be aware that at times, at the request of or on behalf of our e-commerce partners, vendors or advertisers, StorageTreasures may "pre-populate" forms with your Personally Identifiable Information for your review, and, if you so choose, for submission to such e-commerce partners, vendors or advertisers. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your Personally Identifiable Information to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any Personally Identifiable Information collected about you.
+
+**Subsequent Change to the Policy**
+
+StorageTreasures reserves the right to change or otherwise modify the terms and conditions of this Policy without prior notice at any time. 
+
+Should this Policy be changed, StorageTreasures will notify visitors of the updated Policy, post the updated Policy on this website, and the Effective Date listed at the top of this Policy shall reflect the date of the most recent change. StorageTreasures also reserves the right to contact you in the event of a change in the Website’s Terms of Use and/or this Privacy Policy, or to notify you of other administrative matters in connection with the Website (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Website, you may not opt-out of receiving such communications. Your continued access or use of this Website signifies your acceptance of the updated or modified Policy.
+
+**Children’s Privacy**
+
+StorageTreasures does not knowingly collect, use, maintain, process or disclose Personally Identifiable Information from anyone under the age of 13. If StorageTreasures becomes aware that any child under the age of 13 has provided Personally Identifiable Information through the use of this website, StorageTreasures will delete such information from its files. 
+
+**California Privacy Rights**
+
+StorageTreasures customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please contact us at:
+
+By email: ________info@storagetreasures.com
+
+By mail: Storage Treasures / Product Owner
+
+2501 W. Dunlap Ave. Suite 255
+
+Phoenix, AZ 85021
+
+StorageTreasures.com respects our Users online privacy. If you have any questions concerning this privacy policy, please email us at:  info@storagetreasures.com.
+
+Use of StorageTreasures.com acknowledges acceptance of the StorageTreasures.com [_Terms of Use_](http://www.storagetreasures.com/info/terms) and [_Privacy Policy_](http://www.storagetreasures.com/info/privacy).Terms of Use and Privacy Policy.
+
+Copyright Storage Treasures, LLC 2017 v3/17
