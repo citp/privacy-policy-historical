@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626231720id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001222545id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
   * #### Announcements
 
+Request for Proposal for Redevelopment and Maintenance of Website for Consulate General of India, Guangzhou and migration of Consulate Website on Virtual Private Cloud Infrastructure 
+
 [More News](https://web.archive.org/news/index/8)
+
+  * #### Events organised by Consulate General of India, Guangzhou
+
+On the occasion of the 71st Independence Day of India, Consulate will be organizing a flag-hoisting ceremony on Tuesday, 15 August 2017 at 0900 hrs. 
+
+[More News](https://web.archive.org/news/index/7)
 
   * #### India News
 
@@ -18,13 +26,7 @@ Consular camp at Shenzhen to be held on last Saturday of every month
 
 [More News](https://web.archive.org/news/index/2)
 
-  * #### Events organised by Consulate General of India, Guangzhou
-
-On the occasion of the 68th Republic Day of India, the Consulate General of India in Guangzhou will be organizing a flag-hoisting ceremony on Thursday, 26th January, 2017 at 0900 hrs. at the residence of the Consul General.
-
-[More News](https://web.archive.org/news/index/7)
-
-  * #### International Day of Yoga 
+  * #### International Day of Yoga
 
 The 2nd International Day of India (IDY) in Southern China was celebrated in five cities jointly organized by the Consulate General of India, Guangzhou with the local Municipality governments and other Yoga Institutes. 
 
