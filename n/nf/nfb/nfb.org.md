@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nfb.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129233443id_/https%3A//nfb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfb.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001140443id_/https%3A//nfb.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Federation of the Blind
-
-## Privacy Policy
 
 The National Federation of the Blind respects your privacy and security. 
 
