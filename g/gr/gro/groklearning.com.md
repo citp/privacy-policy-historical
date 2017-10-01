@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groklearning.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122063954id_/https%3A//groklearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groklearning.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001200508id_/https%3A//groklearning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Grok Learning
 
@@ -22,18 +22,12 @@ We believe it is important to provide added protection for children online. We e
 
 ### Third Party Services
 
-For the purposes of improving our customer service we use a number of third party services who collect data about our users. Management of this data is governed by the Privacy Policy of each service, as listed below: 
+For the purposes of improving our customer service, we use Google Analytics to aggregate site usage information across all users. Management of this data is governed by the Google Analytics Privacy Policy: <http://www.google.com/intl/en/policies/privacy>. 
 
-  * Google Analytics Privacy Policy: <http://www.google.com/intl/en/policies/privacy>
-  * intercom.io Privacy Policy: <http://docs.intercom.io/privacy.html>
-
-
-
-We also include the option of linking to the social media sites Facebook, Twitter and Google+. Should you choose to do this, any information collected by these sites will be governed by the Privacy Policy of each service, as listed below: 
+For Grok users who are not students (e.g. teachers), we also include the option of sharing achievements to the social media sites Facebook and Twitter. Should you choose to do this, any information collected by these sites will be governed by the Privacy Policy of each service, as listed below: 
 
   * Facebook Privacy Policy: <https://www.facebook.com/about/privacy>
   * Twitter Privacy Policy: <https://twitter.com/privacy>
-  * Google+ Privacy Policy: <http://www.google.com/intl/en/policies/privacy>
 
 
 
@@ -57,4 +51,8 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 ## Updates
 
-This Privacy Policy was last updated on: Sunday, March 17th, 2013. _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+This Privacy Policy was last updated on: September 13th, 2017. _Should we update, amend or make any changes to our privacy policy, those changes will be posted below._
+
+  * 2017-09-13. Clarified social sharing is not available for students. Removed mention of Google+ sharing. Clarified the use of Google Analytics.
+
+
