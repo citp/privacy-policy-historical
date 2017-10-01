@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602072852id_/http%3A//teamer.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001031713id_/https%3A//teamer.net/privacy) for the most accurate reproduction.*
 
-# Teamer - Privacy
+# TeamerRails5
 
 * * *
 
@@ -23,9 +23,9 @@ Teamer.net may collect and use the following kinds of personal information:
 
 ## Information About Others
 
-We may collect and store on the behalf of the registered user ( Team Manager/Organizer), personal information about other people nominated as team members by that registered user. This may include team members and non team members, contact details of whom have been provided by the registered member for the purpose of disseminating information relating to the team(s) of the registered user to these nominated members. We will store personal information on team members as provided by the team organizers for the purpose of dissemination of game/event details by/on behalf of the team organizer, being the registered member of teamer.net We will use team members contact information, as provided by the Team Manager/Organizer, to enable them to respond to invites and event notifications issued by their team organizer. At the team organizers request, we will facilitate the sending of emails and/or text messages to notify events, and manage the receipt of responses from team members on behalf of the team organizers. 
+We may collect and store on the behalf of the registered user (Team Manager/Organizer), personal information about other people nominated as team members by that registered user. This may include team members and non team members, contact details of whom have been provided by the registered member for the purpose of disseminating information relating to the team(s) of the registered user to these nominated members. We will store personal information on team members as provided by the team organizers for the purpose of dissemination of game/event details by/on behalf of the team organizer, being the registered member of teamer.net We will use team members contact information, as provided by the Team Manager/Organizer, to enable them to respond to invites and event notifications issued by their team organizer. At the team organizers request, we will facilitate the sending of emails and/or text messages to notify events, and manage the receipt of responses from team members on behalf of the team organizers. 
 
-Team members may have their details removed from team lists by requesting their name be removed from a team list by submitting a request to the team organizers or to Teamer.net. Once your name is removed from a team list, it will no longer be accessible to the team organizer and other team members. If you are subsequently invited to another team, your name will be registered to that team until such stage as you are removed by the team organizers or choose to be removed from that team by contacting Teamer.net as outlined previously. 
+Team members may have their details removed from team lists by requesting their name be removed from a team list by submitting a request to the team organizers or to Teamer.net. Once your name is removed from a team list, it will no longer be accessible to the team organzser and other team members. If you are subsequently invited to another team, your name will be registered to that team until such stage as you are removed by the team organizers or choose to be removed from that team by contacting Teamer.net as outlined previously. 
 
 ## Use and Disclosure of Personal Information
 
@@ -151,7 +151,7 @@ Teamer.net may update this privacy policy by posting a new version on this websi
 
 If you have any questions about this privacy policy or Teamer.net treatment of your personal information, please write to:
 
-    * By email to help@teamer.net or 
+    * By email to help@teamer.net or
     * By post to 1st Floor, 63 Deerpark Road, Mount Merrion, Co Dublin. Ireland
 
 
