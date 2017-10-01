@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britbox.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415020732id_/https%3A//www.britbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britbox.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002010605id_/https%3A//www.britbox.com/privacy) for the most accurate reproduction.*
 
 # BritBox - Privacy Policy
 
@@ -65,8 +65,6 @@ We aim to use your information in ways that are fair and reasonable. Generally s
  **Aggregate and/or Anonymised Information** : We may aggregate or anonymise certain information that we collect from you. Aggregate and de-identified information is designed so that we can’t identify you personally.
 
 * * *
-
-## 3\. WHEN WE MAY SHARE YOUR INFORMATION WITH OTHERS
 
 We won’t sell or rent your data to others. We may share your information outside BritBox in the following circumstances:
 
@@ -205,8 +203,6 @@ California law permits users who are California residents to request and obtain 
 This Privacy Policy and all disputes arising hereunder or relating hereto shall be governed by, and will be construed under, the laws of the State of New York, U.S.A., without regard to choice of law principles. BritBox may limit the website’s availability, in whole or in part, concerning any person, geographic area or jurisdiction, at any time in its sole discretion.
 
 * * *
-
-## 11\. CONTACT US
 
   * Data Protection Officer
   * BritBox LLLC
