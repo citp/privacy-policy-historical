@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142858id_/http%3A//minecraft-server.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002002840id_/https%3A//minecraft-server.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Servers | Best Server List
 
@@ -56,6 +56,6 @@ This online privacy policy applies only to information collected through http://
 By using and accessing http://minecraft-server.net website, you consent to our privacy policy.
 
 Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on http://minecraft-server.net or application. If the change materially affects registered users, we will send a notice to you by email, notification or text.   
-If you have any questions or concerns about our privacy policies, please [ Contact Us](http://minecraft-server.net/contact/)
+If you have any questions or concerns about our privacy policies, please [ Contact Us](https://minecraft-server.net/contact/)
 
 **Last Edit : 14th October 2015**
