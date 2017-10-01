@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empressgossip.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626203828id_/http%3A//empressgossip.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empressgossip.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001231918id_/http%3A//empressgossip.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | EMPRESS GOSSIP
 
