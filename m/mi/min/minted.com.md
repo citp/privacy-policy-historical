@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minted.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616213505id_/https%3A//www.minted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minted.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001042304id_/https%3A//www.minted.com/privacy) for the most accurate reproduction.*
 
 # Minted PKB - What is the Minted Privacy Policy?
 
