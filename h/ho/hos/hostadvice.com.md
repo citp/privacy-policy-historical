@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostadvice.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202002925id_/https%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostadvice.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001032125id_/https%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Host Advice
+# Privacy Policy | HostAdvice
 
 ## What information do we collect?
 
@@ -50,4 +50,4 @@ By using our site, you consent to our privacy policy.
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using our [contact us](https://hostadvice.com/contact-us/) page.
+If there are any questions regarding this privacy policy you may contact us using our [contact us](https://web.archive.org/contact-us/) page.
