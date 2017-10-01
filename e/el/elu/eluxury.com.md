@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the eluxury.com privacy policy that was archived on 2009-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090706082152id_/http%3A//www.eluxury.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eluxury.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001202155id_/https%3A//www.eluxury.com/pages/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy
 
-[Back](https://web.archive.org/ "Back to Homepage")
+Thank you for accessing the eLuxury.com Website (“Site”) operated by Sam Tucker LLC. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
-## Security & Privacy
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
 
-THIS PAGE WAS REVISED AS OF June 30, 2009. PLEASE READ IT CAREFULLY.
+**This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.**
 
-### Privacy Policy
+**We are not responsible for the content or privacy practices on any web site not operated by Sam Tucker LLC to which the Site links or that links to the Site.**
 
-The privacy of those who visit our web site is of primary concern to ELUXURY. We automatically gather some data from everyone who visits our site, while other information is obtained at the discretion of the individual. Our sole purpose in doing this is to enhance the experience of individuals on ELUXURY (for example, to tailor special offers to our users or to survey our users about their site experience). None of this information is shared with outside parties other than companies we employ to perform functions on our behalf, to which limited data is given as is necessary in order to maintain our relationship with you, such as to customize our communications with you, if you elect to receive communications.
+**INFORMATION COLLECTION AND USE**
 
-### Visit Information
+**1.          Information Collection.**
 
-Like many other internet companies, ELUXURY automatically tracks the usage of our web site. We profile web site usage by tracking the ELUXURY pages viewed, the previous and following sites visited, the browser used, and the computer's address. This information is used to analyze trends, track use, and optimize site administration. 
+****We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
-### Registration Information
+  * help make the Site easier for you to use by not having to enter information more than once.
+  * help you quickly find information, products, and services.
+  * help us create content that is most relevant to you.
+  * alert you to new information, products, and services that we offer.
 
-In order to take advantage of our email communication services, a user must first complete the email registration page. During registration, users are required to give their email address. This information is used to contact users about the services on our site for which they have expressed interest. You may opt-out of receiving communications from us at any time by clicking on the “Unsubscribe” link in an email, emailing us at marketing@ELUXURY.com, or by writing us at: ELUXURY.com, Inc., One Market, Steuart Tower 4th Floor, San Francisco, CA 94105, ATTN: My Privacy. 
 
-### Secured Information
 
-ELUXURY takes numerous precautions to protect our users' information. When users submit sensitive information via the web site, the information is protected both online and offline. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Our employees must use password-protected screensavers when they leave their desks. When they return, they must re-enter their password to regain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage. 
+(a) Registration and Ordering. Before using certain parts of any Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me Later® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me Later® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization’s country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Sites, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you.
 
-ELUXURY may provide aggregate statistics about our customers, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. 
+(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for a contest or sweepstakes; to request for us to notify you of new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for the eLuxury.com Newsletter. Your participation in a contest or sweepstakes is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest and sweepstakes winners and to award prizes. We may post on the Site the names and cities of contest and sweepstakes winners.  By entering a contest or sweepstakes, you may be opting in to receive our email newsletter and special offers and this will be disclosed in the official rules governing the contest or sweepstakes.
 
-### Communications
+(c) Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or “action tags”) to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
 
-ELUXURY is the sole owner of the information collected on this site. We also communicate with users on a regular basis to provide requested services. We reply to users' inquiries on issues relating to their account via email or phone, in accordance with the user's wishes. 
+(i) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer’s hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THE SITE’S COOKIES DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S CONFIDENTIAL INFORMATION. Our cookies are not “spyware.”
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications. However, these communications are not promotional in nature.
+(ii) Web beacons assist in delivering cookies and help us determine whether a web page on the Site has been viewed and, if so, how many times. For example, any electronic image on the Site, such as an ad banner, can function as a web beacon.
 
-We employ other companies to perform functions on our behalf. Examples include sending email, analyzing data, providing marketing assistance, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+(iii) We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
 
-After registration, users may opt-out of receiving email communications from ELUXURY by clicking on the “Unsubscribe” link in an email, emailing us at marketing@EXLUXURY.com, or by writing us at: ELUXURY.com, Inc., One Market, Steuart Tower 4th Floor, San Francisco, CA 94105, ATTN: My Privacy. 
+(iv) As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.
 
-The ELUXURY site may have links to other web sites on the internet that are not owned or controlled by ELUXURY. We are not responsible for the privacy policies or the content of these web sites, nor does this mean that ELUXURY endorses them in any way. 
+(d) Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access the Site. We may also log your Internet protocol (“IP”) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
 
-### Correcting/Updating Information
+(e) Age. We respect children’s privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on the Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
-If a user's email address changes, we provide a way to correct or update their email address. To change the email address to which you receive email communication, simply unsubscribe from an email using the “Unsubscribe” link on the email, and re-register with your new email address at http://www.eluxury.com/signup.
+(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
 
-### Disclosure to Authorities
+(g) Bizrate Reviews. Bizrate.com is an independent company that permits shoppers to rate their experiences in visiting and shopping at online stores. After placing an order on the Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from us, whether or not you choose to provide feedback. Your feedback is collected by Bizrate.com, not us, and is governed by their privacy policy, available at http://shop.bizrate.com/content/privacy.html.
 
-ELUXURY cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize ELUXURY to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us to legal liability.
+**2.          Information Use and Disclosure.**
 
-Further, you authorize ELUXURY to disclose your email address as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, gray market, intellectual property infringement, piracy or other unlawful activity. Specifically, this includes exchanging such information with other companies and organizations for fraud protection and credit risk reduction. ELUXURY cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights.
+(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under Sam Tucker LLC’s control.
 
-### Cookies
+(b) Communications with You: We will use your personal information to communicate with you about the Site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to register for a contest or sweepstakes; to request us to notify you of new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for the eLuxury.com Newsletter. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
 
-Cookies are small pieces of information sent from a web server to your computer. These allow us to personalize and customize your site experience without having to continually request the same basic information from you. 
+(c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under Sam Tucker LLC’s control, except that:
 
-### Other
+(i) As do most catalog and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
 
-If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users of this by email. Users will have a choice as to whether or not we use their information in this different manner. However, if you have deleted/deactivated your account you will not be contacted, nor will your personal information be used in this new manner. We will use information in accordance with the privacy policy under which the information was collected.
+(ii) Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
 
-If you have any questions about the security or privacy at our web site, you can email us at marketing@ELUXURY.com or write to us at: ELUXURY.com, Inc., One Market, Steuart Tower 4th Floor, San Francisco, CA 94105, ATTN: My Privacy. 
+(iii) In the event you have elected to use the Bill Me Later® payment method, to help you buy products and provide customer service to you, we must provide the last four (4) digits of your social security number and your birth date to the financial-services corporations processing your transaction. When you submit this information to us for approval and authorization, we use state-of-the-art data encryption to protect your information.
+
+(iv) We may disclose such information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use the Site for illegal reasons or to commit fraud.
+
+(v) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it’s possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+
+(vi) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+
+(vii) We may publicly disclose the name, city, and state of the contest and sweepstakes winners.
+
+**Advertising Preferences**
+
+We offer you choices about receiving interest-based ads from Amazon.com. You can choose not to receive interest-based ads from Amazon by adjusting your [Advertising Preferences](http://www.amazon.com/gp/dra/info). If you choose to opt out of receiving interest-based ads, you will still see ads but they will not be personalized.
+
+In addition to the interest-based ads from Amazon.com, we may also use other third parties to serve interest-based ads. You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website. (<http://www.networkadvertising.org/choices/>) and (<http://www.aboutads.info/choices/>).
+
+You will also always have the ability to visit an opt-out page directly from any of the interest-based ads displayed in your browser. 
+
+**DATA SECURITY**
+
+The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+
+While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+
+**OPT OUT/CORRECTIONS**
+
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site http://www.eLuxury.com/pages/contact-us, or by telephoning, or emailing your request to eLuxury's Customer Service Team 1-800-977-7433 or:
+
+service@eluxury.com
+
+Please do not email your credit-card number or other sensitive information.
+
+**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
+
+As you might expect from us, the majority of information that we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. We also may collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn’t discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+
+**UPDATES TO THIS POLICY**
+
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-800-977-7433 or service@eluxury.com.
+
+Effective September 19, 2015
