@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neliosoftware.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428015841id_/https%3A//neliosoftware.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neliosoftware.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001105129id_/https%3A//neliosoftware.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies
 
