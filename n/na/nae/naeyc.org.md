@@ -1,36 +1,28 @@
-> *The following text is extracted and transformed from the naeyc.org privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101161731id_/https%3A//www.naeyc.org/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naeyc.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001101546id_/https%3A//www.naeyc.org/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | National Association for the Education of Young Children | NAEYC
 
-**Summary of changes  **
-
-Your privacy is important to us.  We are updating our Privacy Statement to more clearly identify how collect, use, and share information we receive from and about you.  We have updated the Privacy Statement to more clearly cover mobile applications, identify how we may use online tracking technologies and your options to control these uses, and identify how we may share information with third parties including those that provide member benefits and promotional information as well as to our local, state and regional affiliates and affiliate alliances. The full Privacy Statement is available below and will go into effect on March 1, 2016.
-
-**National Association for the Education of Young Children**
-
-**Privacy Statement (** **Effective Date: March 1, 2016)**
-
 Thank you for visiting the website (“Site”) of the National Association for the Education of Young Children (“NAEYC”). We welcome your interest in our mission to promote high-quality early learning for all children, birth through age 8, by connecting practice, policy and research.  We advance a diverse, dynamic early childhood profession and support all who care for, educate and work on behalf of young children. 
 
-Your privacy is important to us.  This Privacy Statement describes the types of information NAEYC collects from and about you when you visit our Site or use our mobile applications (each an “App”). The Site and Apps are collectively the “Services.”  This Privacy Statement also explains how NAEYC may use and disclose such information, as well as your ability to control certain uses of it.
+Your privacy is important to us. This Privacy Statement describes the types of information NAEYC collects from and about you when you visit our Site or use our mobile applications (each an “App”). The Site and Apps are collectively the “Services.”  This Privacy Statement also explains how NAEYC may use and disclose such information, as well as your ability to control certain uses of it.
 
 **INFORMATION COLLECTION**
 
 **_Information You Provide to Us_**
 
-NAEYC collects information from you when you choose to provide it to us.  This may include when you submit a membership application or otherwise join NAEYC, request information from us, register for a conference or other event, seek accreditation or otherwise participate in the accreditation process, purchase a product, create an account with us, sign up for newsletters or our email lists, use our Services, submit a rating or review, participate in a survey or promotion, or otherwise contact us.
+NAEYC collects information from you when you choose to provide it to us. This may include when you submit a membership application or otherwise join NAEYC, request information from us, register for a conference or other event, seek accreditation or otherwise participate in the accreditation process, purchase a product, create an account with us, sign up for newsletters or our email lists, use our Services, submit a rating or review, participate in a survey or promotion, or otherwise contact us.
 
 The information we collect may include your name, address, email address, telephone number, mobile telephone number, geolocation information, photos or videos, user name and, if you are an NAEYC customer or member, credit/debit card number or other financial information.  For our accreditation process we may also collect information about your organization including but not limited to the organization’s program, staff and education information.  You may be required to provide certain information to create your NAEYC account or to participate in the accreditation process.  If you use a third party service to login, link to us, or communicate with us (such as a social network or third party video chat), we may receive certain information about you from the third party based on your registration and privacy settings on those third party services.
 
 **_Information We Automatically Collect_**
 
-We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Services or interact with our emails and online or mobile advertisements.  For example, we may automatically collect certain non-personal information from you such as your mobile device identifier or MAC address, browser type, operating system, device model, software version, Internet Protocol (“IP”) address, mobile or ISP carrier information, and the domain name from which you accessed the Services.  We also may collect information about your use of the Services including the date and time you access the Services, the areas or pages of the Services that you visit, the amount of time you spend using the Services, the number of times you return, whether you open forward or click-through emails and ads, and other usage data.  
+We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Services or interact with our emails and online or mobile advertisements.  For example, we may automatically collect certain non-personal information from you such as your mobile device identifier or MAC address, browser type, operating system, device model, software version, Internet Protocol (“IP”) address, mobile or ISP carrier information, and the domain name from which you accessed the Services. We also may collect information about your use of the Services including the date and time you access the Services, the areas or pages of the Services that you visit, the amount of time you spend using the Services, the number of times you return, whether you open forward or click-through emails and ads, and other usage data.  
 
-_Tracking Options and California Do Not Track Disclosures._   You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of all of our offerings.  Check the “Help” menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences.  To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain Service Providers (defined below), please click [here](http://www.networkadvertising.org/choices/).  On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising.  Note that our systems may not recognize Do Not Track headers or requests from some or all browsers.
+_Tracking Options and California Do Not Track Disclosures._  You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of all of our offerings. Check the “Help” menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain Service Providers (defined below), please click [here](http://www.networkadvertising.org/choices/). On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising.  Note that our systems may not recognize Do Not Track headers or requests from some or all browsers.
 
 **_Information Collected From Other Sources_**
 
-We may obtain information about you from other sources, including social networks that you use to connect with NAEYC.  This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity. 
+We may obtain information about you from other sources, including social networks that you use to connect with NAEYC. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity. 
 
 **_Combination of Information_**
 
@@ -40,14 +32,14 @@ We may combine the information we receive from and about you, including informat
 
 NAEYC may use the information we collect from and about you to:
 
-  * • Respond to your inquiries, provide membership and member benefits, accreditation services and other services, fulfill orders, process payments and prevent transactional fraud, and contact and communicate with you;
-  * • Develop new programs, products or services;
-  * • Engage in policy initiatives to communicate with you and others to further NAEYC’s public policy and education goals;
-  * • Provide you with customized content, targeted offers, and advertising on the Services, via email or text message, or on other sites or apps;
-  * • Contact you with information, newsletters and promotional materials from NAEYC or on behalf of our partners and affiliates;
-  * • Research, address problems, and improve the usage and operations of the Services;
-  * • Protect the security or integrity of the Services and our business; and
-  * • As described to you at the point of data collection.
+  * Respond to your inquiries, provide membership and member benefits, accreditation services and other services, fulfill orders, process payments and prevent transactional fraud, and contact and communicate with you;
+  * Develop new programs, products or services;
+  * Engage in policy initiatives to communicate with you and others to further NAEYC’s public policy and education goals;
+  * Provide you with customized content, targeted offers, and advertising on the Services, via email or text message, or on other sites or apps;
+  * Contact you with information, newsletters and promotional materials from NAEYC or on behalf of our partners and affiliates;
+  * Research, address problems, and improve the usage and operations of the Services;
+  * Protect the security or integrity of the Services and our business; and
+  * As described to you at the point of data collection.
 
 
 
