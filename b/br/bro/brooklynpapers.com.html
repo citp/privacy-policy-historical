@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the brooklynpapers.com privacy policy that was archived on 2017-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623052510id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brooklynpapers.com privacy policy that was archived on 2017-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171001020344id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="webkit safari linux js"><head>
 <title>Brooklyn Paper: Privacy Policy</title><meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="robots" content="all">
 
 <!--links to style sheets-->
+
 
 <style type="text/css" media="screen">@import url("/assets/styles/main.css");</style>
 <link rel="stylesheet" media="print" href="/assets/styles/print.css" type="text/css">
@@ -30,6 +31,14 @@
 
 
 
+
+
+
+
+
+
+
+
 <style type="text/css" media="screen">
 @import url("/assets/styles/common.css");
 </style>
@@ -43,11 +52,14 @@
 }
 </style><link rel="stylesheet" href="/assets/styles/bpmobile.css" media="screen, handheld" type="text/css">
 
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 
-<link rel="stylesheet" type="text/css" href="http://widgets.print2webcorp.com/model/cngny/p2w_widget_style.css">  
+<link rel="stylesheet" type="text/css" href="//widgets.print2webcorp.com/model/cngny/p2w_widget_style.css">  
 
 <script type="text/javascript" async="" src="https://assets.pinterest.com/js/pinit.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 var pub = "bp"; 
@@ -60,7 +72,7 @@ var storyland = "false";
 var bp_live = 1;
 var t = 0;
 
-var subPub = "none"; var yourip = "207.241.231.45"; var bpv = "40"; var bpi = "26"; var analytics_id = "UA-403969-3";  var analytics_domain = ""; var appid = "490964787632141";
+var subPub = "none"; var yourip = "207.241.231.163"; var bpv = "40"; var bpi = "40"; var analytics_id = "UA-403969-3";  var analytics_domain = ""; var appid = "490964787632141";
 </script>
 <script type="text/javascript" src="https://www.google.com/jsapi?key=AIzaSyBLE2sIAlCSfph6wFwZ_THoKVKrArts0tA"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
@@ -104,6 +116,8 @@ var storyland = false;
 function tryMegaMap (n) {
 	if (! n) var n = 0;
 	
+	if (typeof Mapigator == 'undefined') return;
+	
 	//var liCenter = new google.maps.LatLng(40.771702,-73.491669);
 	//var siCenter = new google.maps.LatLng(40.590101,-74.146729);
 
@@ -127,17 +141,16 @@ function tryMegaMap (n) {
 	
 	if (pub == 'family') megaZoomLevel = 10;
 	
-	if (typeof Mapigator != 'undefined') {
-		var response = true;
-		var mapthing = [];
-		while (response == true) {
-			mapthing[n] = new Mapigator(n);
-			
-			if (typeof mapthing[n].megaMapInit != 'undefined') response = mapthing[n].megaMapInit();
-			else response = false;
-			n++;
-		} 
-	}
+	var response = true;
+	var mapthing = [];
+	while (response == true) {
+		mapthing[n] = new Mapigator(n);
+		
+		if (typeof mapthing[n].megaMapInit != 'undefined') response = mapthing[n].megaMapInit();
+		else response = false;
+		n++;
+	} 
+	
 	
 	if (typeof GUnload != 'undefined') {
 		node = document.getElementsByTagName("body")[0];
@@ -180,7 +193,7 @@ function loadJWVideo (theFile, theId, splash, height, width, dispht, stretch) {
 	<meta http-equiv="IMAGETOOLBAR" content="false">
 
 <!--bookmark icon-->
-<meta name="description" content="Your world, your news."><meta name="keywords" content="brooklyn, kings county, newspaper, news, new york, bklyn"><link rel="shortcut icon" href="/assets/images/favicon.ico"><link rel="canonical" href="http://www.brooklynpaper.com/about/privacy/"><meta property="fb:pages" content="47525629960">
+<meta name="description" content="Your world, your news."><meta name="keywords" content="brooklyn, kings county, newspaper, news, new york, bklyn"><link rel="shortcut icon" href="/assets/images/favicon.ico"><link rel="canonical" href="https://www.brooklynpaper.com/about/privacy/"><meta property="fb:pages" content="47525629960">
 <link rel="apple-touch-icon-precomposed" href="/assets/images/brooklyn-paper-globe-square-180x180.png">
 
 
@@ -268,10 +281,12 @@ function twit (url) {
         window.addEventListener("load", async_load, false);
 })();
 </script>
-
+ 
 <script type="text/javascript" src="//tags.tagcade.com/2.0/tagcade.js"></script>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
+
+						<script src="https://www.google.com/recaptcha/api.js"></script>
+			
 
 
 <script type="text/javascript">
@@ -336,7 +351,7 @@ function twit (url) {
    }(document, 'script', 'facebook-jssdk'));
 </script>
     
-<nav id="theLinkColumnPanel" style="display:none;">
+<input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}box{@@}no-style" value="no-ad:box" id="box-none-0"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}tower{@@}no-style" value="no-ad:tower" id="tower-none-1"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}tower{@@}no-style" value="no-ad:tower" id="tower-none-2"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}tower{@@}no-style" value="no-ad:tower" id="tower-none-3"><nav id="theLinkColumnPanel" style="display:none;">
 	<dl class="linkColumn">
 	
 			<dt class="searchy"><form method="GET" action="/sections/search/"><input type="text" name="q" maxlength="255" id="q" value="Search" onfocus="if (this.value=='Search') { this.value=''; this.style.color='black'; }" style="background-color: transparent; font-size: 11px; padding: 0 5px; width:60%; color: #666; margin: 0;"><input type="submit" value="Go" id="sa" style="width:20%; margin-left:4%;"></form></dt>
@@ -477,7 +492,8 @@ function twit (url) {
 <div id="theMasterWrapper">
 
 <div id="theTopmostAdBarWrapper" class="theTopmostAdBarWrapper">
-</div>
+<input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}leaderboard{@@}no-style" value="no-ad:leaderboard" id="leaderboard-none-4"></div>
+
 
 
 <div id="theBannerWrapper">
@@ -501,14 +517,14 @@ function twit (url) {
 
 
 <div id="theSubBannerWrapper" class="theSubBannerWrapper">
-<div id="theSubBanner" class="theSubBanner"><div id="theAlts"><div id="altsDate">June 23, 2017</div><div id="topLinks">
+<div id="theSubBanner" class="theSubBanner"><div id="theAlts"><div id="altsDate">September 30, 2017</div><div id="topLinks">
 </div><a href="/archive/" id="altsArchive"><img src="/assets/images/paper8.png" height="10" width="10" alt="">Past issues</a><a href="/feeds/" id="altsFeeds" title="Access our RSS 2.0 feeds"><img src="/assets/images/feed8.png" height="10" width="10" alt="">Feeds</a>
 	<a href="/about/where/" id="altsPrint" title="Where to get the Brooklyn Paper in print"><img src="/assets/images/stack8.png" height="10" width="10" alt="">The Paper in print</a>
 	<a href="https://twitter.com/Brooklyn_Paper" id="altsTwitter" title="Follow The Brooklyn Paper via Twitter"><img src="/assets/images/twitter.png" height="10" width="10" alt="">Twitter</a>
 	<a href="http://www.facebook.com/BrooklynPaper" id="altsFacebook" title="Follow The Brooklyn Paper via Facebook"><img src="/assets/images/facebook.png" height="10" width="10" alt="">Facebook</a>
 	<a href="/about/contact/" id="altsContact"><img src="/assets/images/phone.png" height="10" width="10" alt="">Contact</a><a href="/about/alerts/" id="altsBlast" title="Sign up to receive our email newsletter"><img src="/assets/images/mail_alt8.png" height="10" width="10" alt="">Email updates</a><a href="http://www.dreamjobsnyc.com" id="altsJobs" title="Find and post emplyment listings at DreamJobs NYC"><img src="/assets/images/dreamjobsnyc-d24-10x10.png" height="10" width="10" alt="">Jobs</a></div><div style="clear:both;"></div><!-- /theSubBanner --></div>
 <!-- /theSubBannerWrapper --></div>
-<div id="theWallpaper"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}wallpaper{@@}no-style" value="no-ad:wallpaper" id="wallpaper-none-0"><div id="thePage" class="thePage bp" style="height: auto;">
+<div id="theWallpaper"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}wallpaper{@@}no-style" value="no-ad:wallpaper" id="wallpaper-none-5"><div id="thePage" class="thePage bp" style="height: auto;">
 
 <div id="theColumns" class="theColumns">
 <div id="theTopSpacer" class="theTopSpacer" style="height: 20px; position:relative; width: 100%;"></div> 
@@ -516,7 +532,8 @@ function twit (url) {
 
 
 
-<div id="theAdBar" class="theAdBar leaderboardWrapper"><div class="leaderboard"><a id="adLink__7448" rel="nofollow" href="http://brooklyneats.com" target="_blank" onmousemove="javascript:this.href = 'http://www.brooklynpaper.com/assets/scripts/putclick.x?c=4110&amp;ad=7448&amp;pub=bp&amp;redir=http%3A%2F%2Fbrooklyneats.com';" ontouchstart="javascript:this.href = 'http://www.brooklynpaper.com/assets/scripts/putclick.x?c=4110&amp;ad=7448&amp;pub=bp&amp;redir=http%3A%2F%2Fbrooklyneats.com';"><img src="/assets/ads/2017_06_09_brooklyneats_728x90.png" width="728" height="90" alt="Brooklyn Eats" style="max-width: 728px !important;" class="cutThird"><img src="/assets/ads/2017_06_09_brooklyneats_300x100.png" alt="Brooklyn Eats" style="max-width: 728px !important;" class="addThird"></a></div><input type="hidden" class="placedAd" data-bpadinfo="4110{@@}7448{@@}leaderboard{@@}filler" value="4110:7448" id="leaderboard-filler-4110-1"></div>
+<input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}leaderboard{@@}no-style" value="no-ad:leaderboard" id="leaderboard-none-6">
+
 		<div id="theSectionColumn" class="theSectionColumn">
 		<div id="theSectionWrapper" class="theSectionWrapper">
 		<div id="theModulebar" class="theModulebar column">
@@ -534,16 +551,22 @@ function twit (url) {
 				<div class="base"></div>
 			<!-- /module --></div><div class="module">
 <div class="stories">
-<h1 class="logog"><a href="/sections/radio/"><img src="/assets/images/brooklyn-paper-radio-200x200.png" alt="Brooklyn Paper Radio" style="width:100px;height:auto;"></a></h1><div class="story chunk"><span class="kicker media">►Full&nbsp;audio:</span> <a href="/stories/40/25/bpr-rafeal-espinal-joe-napolitano-2017-06-23-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra">There’s no dancing around it: Councilman Rafael Espinal talks cabaret laws with Gersh and Vince</a></div><div class="story"><span class="kicker media">►CLIP:</span> <a href="/stories/40/25/bpr-clip-gersh-on-gersh-2017-06-23-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra"> Get your Gersh on as Gersh interviews Gersh!</a></div><div class="story chunk"><span class="kicker media">►Full&nbsp;audio:</span> <a href="/stories/40/24/bpr-jerry-podair-sal-albanese-2017-06-16-bp.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra">O’Malley! Moses! The devil of Brooklyn is crowned on BPR!</a></div><div class="story"><span class="kicker media">TODAY ON BPR</span> <a href="/stories/40/24/bpr-jerold-podair-walter-omalley-preview-2017-06-16-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra"><span class="kicker">Brooklyn Paper Radio:</span>  We figure out who is to blame for the Dodgers’ move west!</a></div>
+<h1 class="logog"><a href="/sections/radio/"><img src="/assets/images/brooklyn-paper-radio-200x200.png" alt="Brooklyn Paper Radio" style="width:100px;height:auto;"></a></h1><div class="story"><span class="kicker media">►Full&nbsp;audio:</span> <a href="/stories/40/36/bpr-tronc-buys-daily-news-2017-09-08-bp.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra">Inside the News: Gersh talks Tronc’s deal on Brooklyn Paper Radio</a></div><div class="story"><span class="kicker media">►Full&nbsp;audio:</span> <a href="/stories/40/34/bpr-bushwick-movie-interview-imdb-2017-08-25-bp.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra">‘Bushwick’ directors on BPR</a></div><div class="story"><span class="kicker media">►Video</span> <a href="/stories/40/33/web-bpr-bushwick-movie-preview-imdb-2017-08-18-bp.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra"><span class="kicker">Brooklyn Paper Radio:</span> Today on BPR: ‘Bushwick’ director Cary Murnion</a></div><div class="story chunk"><span class="kicker media">►Full&nbsp;audio:</span> <a href="/stories/40/32/bpr-kelly-barbieri-fresh-toast-update-2017-08-11-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra">On BPR: Kelly Barbieri of the pro-marijuana website ‘The Fresh Toast’</a></div><div class="story"><span class="kicker media">►Full&nbsp;audio:</span> <a href="/stories/40/32/bpr-kelly-barbieri-fresh-toast-2017-08-11-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=radio&amp;utm_content=intra">Today on BPR: Kelly Barbieri of the pro-marijuana website ‘The Fresh Toast’</a></div>
 				</div>
 				<div class="base"></div>
-			<!-- /module --></div>
-<input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}wide_skyscraper{@@}no-style" value="no-ad:wide_skyscraper" id="wide_skyscraper-none-2">
+			<!-- /module --></div><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}wide_skyscraper{@@}no-style" value="no-ad:wide_skyscraper" id="wide_skyscraper-none-7">
 
-
-
-
-<div class="module" id="theEmailBlastSignup"><h1>Sign up for daily news e-mails!</h1>
+<div class="module radioShow" style="">
+<h1><a href="http://www.cngradio.com/"><img src="/assets/images/cng-radio-logo-206x50.png" width="103" height="25" alt="CNG Radio"></a></h1>
+<p style="text-align:center;"><a href="http://www.cngradio.com/sections/shows/johnny-and-barry/"><img src="/assets/images/johnny-and-barry-200x200.png" width="100" height="100" alt="Johnny &amp; Barry"></a></p>
+<div class="stories">
+<div class="story">
+Listen: <a href="https://itunes.apple.com/us/podcast/the-johnny-barry-show/id1252135114?mt=2"><span class="kicker media">►iTunes</span></a> <a href="/assets/feeds/johnny.x"><span class="kicker media">►RSS</span></a>
+</div>
+</div>
+</div>
+<div class="module" id="theEmailBlastSignup">
+		<h1>Sign up for daily news e-mails!</h1>
 	<form method="POST" action="/about/alerts/">
 	<input type="hidden" name="dummy" value="what">
 	<input type="hidden" name="alerts" value="1">
@@ -551,7 +574,7 @@ function twit (url) {
 	<input type="hidden" name="subscribe_news" value="1">
 	<input type="hidden" name="subscribe_dedicated" value="1">
 	<div class="formlet">
-	<p><input id="theEmailBlastInput" type="text" name="email" value="Your email address"></p>
+	<p><label><img src="/assets/images/mail_alt8.png"> <input id="theEmailBlastInput" type="text" name="email" value="Your email address"></label></p>
 	<div id="theModuleRecaptcha" style="display:none;" class="g-recaptcha" data-callback="emailSignupModuleShowSubmit" data-size="compact" data-sitekey="6Leg6wgUAAAAAGa25A_7LQAViz4OzZV9BsmP2WYm"></div>		<input type="hidden" name="rcheck" value="1">
 		<script>
 		$("#theEmailBlastInput").focus(function(){
@@ -567,23 +590,21 @@ function twit (url) {
 	<p id="theEmailBlastModuleSubmitter" style="display:none;"><input type="submit" value="Submit"></p>
 	</div>
 	</form>
-	<div class="base"></div></div>
-		<div id="theGalleries" class="module">
+	<div class="base"></div></div>		<div id="theGalleries" class="module">
 		<h1><a href="/sections/galleries/?utm_medium=web&amp;utm_campaign=module&amp;utm_source=galleries&amp;utm_content=intra">Photo Galleries</a></h1>
 		<div class="stories">
 		<table id="theGallery" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td><div class="thumb"><a href="/stories/40/25/all-brooklyn-bar-assn-2017-06-23-bk.html"><img src="/assets/photos/40/25/all-brooklyn-bar-assn-2017-06-16-bk01_t.jpg" width="72" height="72" alt=""></a></div></td><td><div class="thumb"><a href="/stories/40/25/cyc-game-1-loss-2017-06-23-bk.html"><img src="/assets/photos/38/26/cyc-season-preview-2015-06-19-bk06_t.jpg" width="72" height="72" alt=""></a></div></td></tr><tr><td><div class="thumb"><a href="/stories/40/25/24-rainbow-foods-brooklyn-2017-06-23-bk.html"><img src="/assets/photos/40/25/24-rainbow-foods-brooklyn-2017-06-23-bk01_t.jpg" width="72" height="72" alt=""></a></div></td><td><div class="thumb"><a href="/stories/40/25/bn-mermaid-parade-2017-06-23-bk.html"><img src="/assets/photos/40/25/bn-mermaid-parade-2017-06-23-bk01_t.jpg" width="72" height="72" alt=""></a></div></td></tr><tr><td><div class="thumb"><a href="/stories/40/25/dtg-dekalb-market-hall-opens-2017-06-23-bk.html"><img src="/assets/photos/40/25/dtg-dekalb-market-hall-opens-2017-06-23-bk01_t.jpg" width="72" height="72" alt=""></a></div></td><td><div class="thumb"><a href="/stories/40/25/dtg-bb-taste-of-bushwick-2017-06-23-bk.html"><img src="/assets/photos/40/25/dtg-bb-taste-of-bushwick-2017-06-23-bk01_t.jpg" width="72" height="72" alt=""></a></div></td>
+		<td><div class="thumb"><a href="/stories/40/38/dtg-bb-brooklyn-book-fair-2017-09-22-bk.html"><img src="/assets/photos/40/38/dtg-bb-brooklyn-book-fair-2017-09-22-bk01_t.jpg" width="72" height="72" alt=""></a></div></td><td><div class="thumb"><a href="/stories/40/38/dtg-bb-taste-of-williamsburg-greenpoint-2017-09-22-bk.html"><img src="/assets/photos/40/38/dtg-bb-taste-of-williamsburg-greenpoint-2017-09-22-bk01_t.jpg" width="72" height="72" alt=""></a></div></td></tr><tr><td><div class="thumb"><a href="/stories/40/37/bn-9-11-remembrance-coney-island-2017-09-15-bk.html"><img src="/assets/photos/40/37/bn-9-11-remembrance-coney-island-2017-09-15-bk01_t.jpg" width="72" height="72" alt=""></a></div></td><td><div class="thumb"><a href="/stories/40/37/br-coney-island-mustache-bk_40_37.html"><img src="/assets/photos/40/37/bn-coney-island-mustache-2017-09-15-bk01_t.jpg" width="72" height="72" alt=""></a></div></td></tr><tr><td><div class="thumb"><a href="/stories/40/36/all-bb-west-indian-day-parade-celebrates-50th-year-2017-09-08-bk.html"><img src="/assets/photos/40/36/all-bb-west-indian-day-parade-celebrates-50th-year-2017-09-08-bk01_t.jpg" width="72" height="72" alt=""></a></div></td><td><div class="thumb"><a href="/stories/40/35/all-bb-crown-heights-senior-carnival-2017-09-01-bk.html"><img src="/assets/photos/40/35/all-bb-crown-heights-senior-carnival-2017-09-01-bk01_t.jpg" width="72" height="72" alt=""></a></div></td>
 		</tr></tbody></table>
 		<div style="clear:left;"></div>
 		</div>
 				<div class="base"></div>
 			<!-- /module --></div>
 		
-		
 				<div id="theHotStories" class="module">
 		<div class="stories">
 		<h1 class="logog" style="padding-top: 0px;"><img src="/assets/images/enfuegos_mini8.png" alt="En Fuegos!"></h1><div class="story" style="text-align:center; background-color: #f60; margin-top: 3px; padding-top: 3px; padding-bottom: 3px; letter-spacing: 1px;"><span class="kicker media" style="color: #fff !important;">Popular stories</span></div>
-		<input type="hidden" id="hot__24-gender-neutral-threes-brewing-2017-06-16-bk" value="7.62608101019:8405:2017-06-09 00:00:00"><div class="story"><span class="kicker numeral1">1.</span> <a href="/stories/40/24/24-gender-neutral-threes-brewing-2017-06-16-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Event:</span> Queer beer: Threes Brewing launching ‘Gender Neutral’ beer for Pride</a></div><input type="hidden" id="hot__sf-summer-outdoor-movies-web-2017-06-02-bk" value="5.88310639739:6484:2017-06-09 00:00:00"><div class="story"><span class="kicker numeral2">2.</span> <a href="/stories/40/22/sf-summer-outdoor-movies-web-2017-06-02-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Cinema:</span> A comprehensive guide to this summer’s outdoor films</a></div><input type="hidden" id="hot__dtg-dumbo-clocktower-murder-2017-06-23-bk" value="5.8643426484:1774:2017-06-22 00:00:00"><div class="story"><span class="kicker numeral3">3.</span> <a href="/stories/40/25/dtg-dumbo-clocktower-murder-2017-06-23-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">DUMBO:</span> CEO found dead in his Clocktower apartment</a></div><input type="hidden" id="hot__dtg-sunnys-meets-fundraising-goal-2017-06-23-bk" value="5.7198293968:4467:2017-06-16 00:00:00"><div class="story"><span class="kicker numeral4">4.</span> <a href="/stories/40/25/dtg-sunnys-meets-fundraising-goal-2017-06-23-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Red Hook:</span> Sunny’s saved! Red Hook bar raises enough money to stay open</a></div><input type="hidden" id="hot__bn-mermaid-parade-wedding-2017-06-23-bk" value="5.40311418102:2279:2017-06-21 00:00:00"><div class="story"><span class="kicker numeral5">5.</span> <a href="/stories/40/25/bn-mermaid-parade-wedding-2017-06-23-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra">Shock-rocker and burlesque queen tie the knot at Mermaid Parade</a></div>		</div>
+		<input type="hidden" id="hot__dtg-kosciuszko-bridge-demolition-postponed-again-2017-09-29-bk" value="6.5784079276463:6090:2017-09-21 00:00:00"><div class="story"><span class="kicker numeral1">1.</span> <a href="/stories/40/38/dtg-kosciuszko-bridge-demolition-postponed-again-2017-09-29-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Greenpoint:</span> Delayed destruction: Officials postpone Sept. 24 demolition of old Kosciuszko Bridge</a></div><input type="hidden" id="hot__dtg-landmarks-stalls-fort-greene-park-makeover-2017-09-29-bk" value="6.01638086534:4160:2017-09-25 09:15:27"><div class="story"><span class="kicker numeral2">2.</span> <a href="/stories/40/39/dtg-landmarks-stalls-fort-greene-park-makeover-2017-09-29-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Fort Greene:</span> Protecting the Fort: Landmarks commission says Ft. Greene Park plans alter creator’s vision, stalling makeover</a></div><input type="hidden" id="hot__dtg-hillary-clinton-in-fort-greene-bookstore-2017-09-29-bk" value="5.9140310621201:2670:2017-09-28 13:26:40"><div class="story"><span class="kicker numeral3">3.</span> <a href="/stories/40/39/dtg-hillary-clinton-in-fort-greene-bookstore-2017-09-29-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Fort Greene:</span> Still with her: Hundreds of fans greet Hillary Clinton at Fort Greene book signing</a></div><input type="hidden" id="hot__dtg-iowa-streets-copy-brooklyn-heights-names-2017-09-29-bk" value="4.9942046279806:2238:2017-09-28 14:16:53"><div class="story"><span class="kicker numeral4">4.</span> <a href="/stories/40/39/dtg-iowa-streets-copy-brooklyn-heights-names-2017-09-29-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">The Greatest Story Ever:</span> Heights in the heartland: Iowa town’s streets share names identical to those in Brooklyn Heights</a></div><input type="hidden" id="hot__dtg-crown-heights-morotcycle-shooting-2017-10-06-bk" value="4.8950729443426:996:2017-09-30 10:33:44"><div class="story"><span class="kicker numeral5">5.</span> <a href="/stories/40/40/dtg-crown-heights-morotcycle-shooting-2017-10-06-bk.html?utm_medium=web&amp;utm_campaign=module&amp;utm_source=hot&amp;utm_content=intra"><span class="kicker">Crown Heights:</span> Police: Motorcyclist shoots at driver after two trade words on C’Heights street</a></div>		</div>
 				<div class="base"></div>
 			<!-- /module --></div>
 				<div id="theWireModule" class="module">
@@ -592,9 +613,10 @@ function twit (url) {
 		<h1 class="logog"><a href="/sections/wire/"><img src="/assets/images/wire_teeny8.png" width="154" height="63" alt="The Brooklyn Wire"></a></h1>
 			<div class="story" style="color:#444;font-size 90%;font-style:italic;text-align:center;">Scouring the Web for all things Brooklyn</div>
 		
-		<div class="story"><a href="http://karmabrooklyn.blogspot.com/2017/06/vigil-for-day-laborer-who-died-on-sunday.html"><span class="kicker">KARMABrooklyn:</span> VIGIL FOR DAY LABORER WHO DIED ON SUNDAY</a></div><div class="story"><a href="http://karmabrooklyn.blogspot.com/2017/06/vigil-for-day-laborer-who-died-on-sunday.html"><span class="kicker">KARMABrooklyn:</span> VIGIL FOR DAY LABORER WHO DIED ON SUNDAY</a></div><div class="story"><a href="http://atlanticyardsreport.blogspot.com/2017/06/pacific-park-developers-deceptive.html"><span class="kicker">Atlantic Yards Report:</span> Pacific Park Developer's Deceptive Affordable Housing Spin--not the first misleading op-ed</a></div><div class="story"><a href="http://nypost.com/2017/06/22/brooklyn-da-candidate-vows-to-root-out-misconduct-from-within/"><span class="kicker">New York Post:</span> Brooklyn DA candidate vows to root out misconduct from within</a></div><div class="story"><a href="http://nypost.com/2017/06/22/brooklyn-da-candidate-vows-to-root-out-misconduct-from-within/"><span class="kicker">New York Post:</span> Brooklyn DA candidate vows to root out misconduct from within</a></div>		</div>
+		<div class="story"><a href="http://gothamist.com/2017/09/30/extra_extra_3729.php"><span class="kicker">Gothamist:</span> Extra Extra: True Happiness Can Be Found In Meeting A Pig</a></div><div class="story"><a href="http://gothamist.com/2017/09/30/raymond_ortiz_60_and_delgria.php"><span class="kicker">Gothamist:</span> Suspects Nabbed In Attempted Kidnapping Of 15-Year-Old Girl</a></div><div class="story"><a href="http://gothamist.com/2017/09/30/attorney_for_nypd_rape_accuser_says.php"><span class="kicker">Gothamist:</span> Attorney For NYPD Rape Accuser Says 'She's Not The Same Person She Was'</a></div><div class="story"><a href="https://www.brooklynpaper.com/stories/40/40/dtg-crown-heights-morotcycle-shooting-2017-10-06-bk.html?utm_medium=feed&amp;utm_campaign=rss&amp;utm_source=main&amp;utm_content=link"><span class="kicker">The Brooklyn Paper:</span> Police: Motorcyclist shoots at driver after two trade words on C’Heights street</a></div><div class="story"><a href="https://www.brooklynpaper.com/stories/40/39/24-weekend-reads-2017-09-29-bk.html?utm_medium=feed&amp;utm_campaign=rss&amp;utm_source=main&amp;utm_content=link"><span class="kicker">The Brooklyn Paper:</span> What to read this week</a></div>		</div>
 				<div class="base"></div>
 			</div>
+
 				<!-- /theModulebar --></div>
 			<div id="theLeadColumn" class="theLeadColumn column">
 			<div id="theSectionHead" class="theSectionHead"><h1>Privacy Policy</h1></div>
@@ -797,11 +819,11 @@ Brooklyn NY 11201
 <div id="theAdColumn" class="theAdColumn" style="width: 300px;">
 
 
-
+<div class="box"><a id="adLink__7410" rel="nofollow" href="http://www.theweddingguideny.com" target="_blank" onmousemove="javascript:this.href = 'https://www.brooklynpaper.com/assets/scripts/putclick.x?c=4086&amp;ad=7410&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.theweddingguideny.com';" ontouchstart="javascript:this.href = 'https://www.brooklynpaper.com/assets/scripts/putclick.x?c=4086&amp;ad=7410&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.theweddingguideny.com';"><img src="/assets/ads/2017_05_26_weddingguide_300x250.jpg" width="300" height="250" alt="CNG Wedding Guide" style=""></a></div><input type="hidden" class="placedAd" data-bpadinfo="4086{@@}7410{@@}box{@@}filler" value="4086:7410" id="box-filler-4086-8">
 <div style="margin-top: 0; height: 220px;">
 <div class="fb-like-box" data-href="http://www.facebook.com/BrooklynPaper" data-width="300" data-height="220" data-show-faces="true" data-stream="false" data-header="false"></div>
 </div>
-<div class="box"><a id="adLink__7338" rel="nofollow" href="https://www.nycpride.org/events/the-rally" target="_blank" onmousemove="javascript:this.href = 'http://www.brooklynpaper.com/assets/scripts/putclick.x?c=4041&amp;ad=7338&amp;pub=bp&amp;redir=https%3A%2F%2Fwww.nycpride.org%2Fevents%2Fthe-rally';" ontouchstart="javascript:this.href = 'http://www.brooklynpaper.com/assets/scripts/putclick.x?c=4041&amp;ad=7338&amp;pub=bp&amp;redir=https%3A%2F%2Fwww.nycpride.org%2Fevents%2Fthe-rally';"><img src="/assets/ads/2017_05_18_nycpriderally_brooklynpaper_300x250.gif" width="300" height="249" alt="NYC Pride Rally" style=""></a></div><input type="hidden" class="placedAd" data-bpadinfo="4041{@@}7338{@@}box{@@}impressions" value="4041:7338" id="box-impressions-4041-3"> <input type="hidden" class="adThrottle" value="3:0"><div class="box"><a id="adLink__7198" rel="nofollow" href="http://www.ymcanyc.org/prospectparksummer" target="_blank" onmousemove="javascript:this.href = 'http://www.brooklynpaper.com/assets/scripts/putclick.x?c=3941&amp;ad=7198&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.ymcanyc.org%2Fprospectparksummer';" ontouchstart="javascript:this.href = 'http://www.brooklynpaper.com/assets/scripts/putclick.x?c=3941&amp;ad=7198&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.ymcanyc.org%2Fprospectparksummer';"><img src="/assets/ads/2017_04_06_prospectparkymca_107767_300x250.jpg" width="300" height="250" alt="Prospect Park YMCA" style=""></a></div><input type="hidden" class="placedAd" data-bpadinfo="3941{@@}7198{@@}box{@@}impressions" value="3941:7198" id="box-impressions-3941-4"> <input type="hidden" class="adThrottle" value="11:0"><div style="width: 120px; float: left;"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}badge{@@}no-style" value="no-ad:badge" id="badge-none-5">
+<div class="theTowers" style="width: 120px; float: left;"><div class="tower"><a id="adLink__7015" rel="nofollow" href="http://www.nyparenting.com/private-independent-school-guide" target="_blank" onmousemove="javascript:this.href = 'https://www.brooklynpaper.com/assets/scripts/putclick.x?c=3816&amp;ad=7015&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.nyparenting.com%2Fprivate-independent-school-guide';" ontouchstart="javascript:this.href = 'https://www.brooklynpaper.com/assets/scripts/putclick.x?c=3816&amp;ad=7015&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.nyparenting.com%2Fprivate-independent-school-guide';"><img src="/assets/ads/2017_02_22-school-guide-house-120x240.png" width="120" height="240" alt="NYParenting.com" style=""></a></div><input type="hidden" class="placedAd" data-bpadinfo="3816{@@}7015{@@}tower{@@}filler" value="3816:7015" id="tower-filler-3816-9"><input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}badge{@@}no-style" value="no-ad:badge" id="badge-none-10">
 	<div class="tower">
 		
 		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -867,7 +889,7 @@ Brooklyn NY 11201
 
 
 
-<input type="hidden" class="placedAd" data-bpadinfo="no-ad{@@}no-ad{@@}leaderboard{@@}no-style" value="no-ad:leaderboard" id="leaderboard-none-6">
+
 
 
 
@@ -893,7 +915,6 @@ function putAdImpressionsImproved () {
 
 putAdImpressionsImproved();
 </script>
-
 
 
 
