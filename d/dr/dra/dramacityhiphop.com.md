@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dramacityhiphop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062957id_/http%3A//dramacityhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramacityhiphop.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002015114id_/https%3A//www.dramacityhiphop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy DRAMACITYHIPHOP
 
 Last modified July 1, 2011
 
-The privacy of visitors to this site is very important to us. This Privacy Policy gives you information on what types of personal information we collect when you use this site, and our practices with respect to the use and disclose of such information.  By visiting hiphop-1971194775.us-east-1.elb.amazonaws.com collectively DCITY you agree to this Privacy Policy and to the Terms of Service (TOS) which is located [HERE](http://localhost/dramacityhiphop/videos/terms.php). 
+The privacy of visitors to this site is very important to us. This Privacy Policy gives you information on what types of personal information we collect when you use this site, and our practices with respect to the use and disclose of such information.  By visiting hiphop-1971194775.us-east-1.elb.amazonaws.com collectively DCITY you agree to this Privacy Policy and to the Terms of Service (TOS) which is located [HERE](http://localhost/dramacityhiphop/videos/terms.php).
 
 ## Information You Give Us:
 
 We receive and may store any personal information you enter on our Website or may give us in any other way. This information may include your name or email address, content you submit to the website,  
-and other information. 
+and other information.
 
 ## Information We Automatically Collect:
 
