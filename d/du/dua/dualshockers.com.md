@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520113002id_/http%3A//www.dualshockers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002003540id_/https%3A//www.dualshockers.com/about-dualshockers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Additionally, DualShockers, Inc. does not confess any information regarding the 
 
 **Online Advertising**
 
-DualShockers, Inc. does not sell its own ads. We use third-party advertising companies to serve ads and collect information when you visit our site. These companies may use information (not including any of your information such as: your name, email address, home address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other websites, and other forms of media about good and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please feel free to check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+DualShockers, Inc. does not sell its own ads. We use third-party advertising companies to serve ads and collect information when you visit our site. These companies may use information (not including any of your information such as: your name, email address, home address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other websites, and other forms of media about good and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please feel free to check out [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 To sum it up in basic terms, it’s basically cookies that say something along the lines of “Ok, you saw this advertisement already,” or “So this person clicked on a banner advertisement for mining helmets, so let’s send them some more information on them.” DualShockers, Inc. does not share any information from your personal account with advertisers.
 
@@ -30,7 +30,7 @@ Even though we try our hardest to protect your information from people that have
 
 Also be aware that email can be an essentially insecure form of communication. Remember that third parties are capable of illegally intercepting your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an online bulletin board, your email address can be accessed by advertisers looking to compile lists for unsolicited commercial email (which can also be referred to as spam).
 
-For your own protection, be sure that you only disclose your email in circumstances which are safe to do so in. Beware of scams in which persons unknown to you request any information that they can use against you (such as your name, screen name, password, credit card information, address, etc.). Make sure that you verify the identity of anyone asking for your personal information. If you don’t know them, it’s probably best to ignore their requests. Always monitor your children’s online activities and educate them as to the rules for safe internet use. For more information, check out <http://www.getnetwise.org/>.
+For your own protection, be sure that you only disclose your email in circumstances which are safe to do so in. Beware of scams in which persons unknown to you request any information that they can use against you (such as your name, screen name, password, credit card information, address, etc.). Make sure that you verify the identity of anyone asking for your personal information. If you don’t know them, it’s probably best to ignore their requests. Always monitor your children’s online activities and educate them as to the rules for safe internet use. For more information, check out [http://www.getnetwise.org/](https://www.getnetwise.org/).
 
 **Changes and Updates**
 
