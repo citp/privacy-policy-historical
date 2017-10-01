@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chippewaboots.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033243id_/http%3A//www.chippewaboots.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chippewaboots.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001034712id_/http%3A//www.chippewaboots.com/policies/privacy) for the most accurate reproduction.*
 
 # Justin Brands Privacy Policy
 
@@ -34,7 +34,7 @@ We may share your personal information with companies that provide support servi
 
 * Web Analytics
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to enhance the usability of our website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to enhance the usability of our website. You can choose to disable the Service at [ http://www.clicktale.net/disable.html ](http://www.clicktale.net/disable.html)
 
 * Security
 
