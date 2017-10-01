@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093251id_/http%3A//www.kew.org/node/58556) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001034848id_/https%3A//www.kew.org/node/58556) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Botanic Gardens, Kew
 
