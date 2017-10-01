@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamster.co.uk privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103221313id_/http%3A//www.jamster.co.uk/index.cfm%3FGO%3DPRIVACY_POLICY%26m%3D0%26cpID%3D%26CFID%3D90844f0f-b65a-4073-87a8-d2ff7ace3703%26CFTOKEN%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamster.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002005006id_/http%3A//www.jamster.co.uk/index.cfm%3FGO%3DPRIVACY_POLICY%26m%3D0%26cpID%3D%26CFID%3D753bd52f-a3e1-491b-bf66-ff72d6357786%26CFTOKEN%3D0) for the most accurate reproduction.*
 
 # Jamster (UK)
 
