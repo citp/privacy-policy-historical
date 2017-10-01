@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626014214id_/http%3A//www.columbia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001024712id_/http%3A//www.columbia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
