@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311095419id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001164133id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt Privacy Policy
 
