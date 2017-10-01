@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226122714id_/https%3A//appirio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001195534id_/https%3A//appirio.com/privacy) for the most accurate reproduction.*
 
 # Appirio, Inc. Privacy Policy - Appirio
 
@@ -6,11 +6,11 @@
 
 This privacy statement covers the Web site www.appirio.com (“Site”) and personally identifiable information about users of our services and products (“Services”) owned and operated by Appirio Inc. (“Appirio”). Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-**EU-U.S. Privacy Shield  
+**EU-U.S. & Swiss Privacy Shield  
 **  
-Appirio participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Appirio is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/list
+Appirio complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Appirio has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Appirio is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Appirio complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Appirio is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Appirio complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Appirio is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Appirio may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -21,10 +21,6 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Appirio processes data should be addressed to that customer or partner.
-
-**Safe Harbor  
-**  
-Appirio Inc complies with the U.S.—Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Appirio Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Appirio Inc’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 **Privacy Policy Updates  
 **  
@@ -119,4 +115,4 @@ Indianapolis, IN 46225
 Tel: (317) 378-7300  
 Toll Free: (888) 680-SaaS (7227)
 
-_Effective Date September 30, 2016_
+_Effective Date May 25, 2017_
