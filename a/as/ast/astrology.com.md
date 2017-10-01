@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303012518id_/https%3A//www.astrology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001213526id_/https%3A//www.astrology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Astrology.com
 
@@ -167,4 +167,4 @@ If you have any questions about this Privacy Policy, the practices of the Compan
       San Francisco, CA 94105
 
       Email: privacy@horoscope.com  
-      Tel: 415 615 9028
+      Tel: 415 615 9028 
