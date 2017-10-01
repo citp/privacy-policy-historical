@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123013709id_/http%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001103739id_/https%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FINANCIAL SENSE
 
@@ -8,7 +8,7 @@ This document was last updated on 5 June 2012.
 
 ### 1\. Acknowledgment and acceptance of terms
 
-Financial Sense® and its parent company, Puplava Financial Services, Inc. (collectively, "FS"), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") ("Website"), you acknowledge and fully understand FS's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Financial Sense® and its parent company, Puplava Financial Services, Inc. (See [Privacy Policy](https://www.puplava.com/sites/default/files/PDF/privacypolicy/PSI_PrivacyPolicy_AML_20170407.pdf)), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") ("Website"), you acknowledge and fully understand FS's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ### 2\. Participating Merchant Policies/Outside or Third-Party Links
 
@@ -78,7 +78,7 @@ We will not disclose personally identifiable information we collect from you to 
   * To fulfill your service requests for services,
   * To protect ourselves from liability,
   * To respond to legal process or comply with law,
-  * To enforce and investigate possible violations of our website' policies, including [Contribution Guidelines](https://web.archive.org/web/20161123013709id_/http%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use"),
+  * To enforce and investigate possible violations of our website' policies, including [Contribution Guidelines](https://web.archive.org/web/20171001103739id_/https%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](https://web.archive.org/about-us/terms-of-use "FSO Terms of Use"),
   * To investigate, protect against, and prevent technical issues, security issues, and/or fraud, or
   * In connection with a merger, acquisition, or liquidation of the company.
 
@@ -104,7 +104,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
 ### 5\. Accessing/Updating Web Account Information (for Contributors)
 
-Contributors who wish to update their contact information with FS may do so by contacting the website' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FS reserves the right to review and approve any updates to Contributor information before posting it to the website, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](http://www.financialsense.com/about-us/privacy-policy "FSO Privacy Statement") or [Terms of Use ](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use")Statement.
+Contributors who wish to update their contact information with FS may do so by contacting the website' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FS reserves the right to review and approve any updates to Contributor information before posting it to the website, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](https://web.archive.org/about-us/privacy-policy "FSO Privacy Statement") or [Terms of Use ](https://web.archive.org/about-us/terms-of-use "FSO Terms of Use")Statement.
 
 ### 6.California Online Privacy Protection Act Compliance
 
@@ -116,7 +116,7 @@ We are in compliance with the requirements of COPPA ([Childrens Online Privacy P
 
 ### 8\. Terms of Use
 
-Please also visit our [Terms of Use](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use") section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.financialsense.com/about-us/terms-of-use](http://www.financialsense.com/about-us/terms-of-use "FS Terms of Use").
+Please also visit our [Terms of Use](https://web.archive.org/about-us/terms-of-use "FSO Terms of Use") section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ https://www.financialsense.com/about-us/terms-of-use](https://web.archive.org/about-us/terms-of-use "FS Terms of Use").
 
 ### 9\. Changes to this Statement
 
@@ -124,7 +124,7 @@ FS has the discretion to occasionally update this privacy statement at any time 
 
 ### 10\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](http://www.financialsense.com/contact-page "FS Contact Us") or send your comments to:
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/contact-page "FS Contact Us") or send your comments to:
 
 Financial Sense   
 **Attention:   Privacy Statement Personnel  
