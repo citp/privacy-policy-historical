@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavercup.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312143534id_/https%3A//lavercup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavercup.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001203834id_/https%3A//lavercup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laver Cup
 
