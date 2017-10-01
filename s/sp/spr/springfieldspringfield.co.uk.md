@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the springfieldspringfield.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020526id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springfieldspringfield.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001101155id_/https%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Springfield! Springfield!
 
 PLEASE NOTE: OUR SERVER FAILED AND WE HAVE LOST A LOT OF DATA.  
-PLEASE BEAR WITH US WHILE WE TRY TO RECOVER AS MUCH AS POSSIBLE. THANK YOU.
+PLEASE BEAR WITH US WHILE WE TRY TO RECOVER AS MUCH AS POSSIBLE. THANK YOU. 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
