@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourgenerationsoneroof.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174201id_/http%3A//www.fourgenerationsoneroof.com/advertising-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourgenerationsoneroof.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001185904id_/https%3A//www.fourgenerationsoneroof.com/advertising-privacy-policy) for the most accurate reproduction.*
 
 # Advertising & Privacy Policy - Four Generations One Roof
 
@@ -12,11 +12,11 @@ The owner(s) of this blog may/may not be compensated to provide opinion on produ
 
 This blog may/may not contain content which might present a conflict of interest. This content will always be identified.
 
-**Readership:**
+ **Readership:**
 
 In a very short time our blog has provided us with the opportunity to meet so many wonderful people, our readers. They are loyal, engaged, clever and intelligent. Some are pretty darn funny! They love our stories about multigenerational living and our DIY home renovation projects, tutorials and makeovers. We love them!
 
-**Available Advertising**
+ **Available Advertising**
 
 *  250 x 125 button for sidebar
 
@@ -26,9 +26,9 @@ In a very short time our blog has provided us with the opportunity to meet so ma
 
 *  All advertising or promotion is contingent upon the product or services fit with our audience.  In other words……we are only interested in advertising products that our readers will be genuinely interested in.
 
-**Advertising Rates**
+ **Advertising Rates**
 
-**Contact me at Jessica (at) fourgenerationsoneroof (dot) com for rate information.**
+ **Contact me at Jessica (at) fourgenerationsoneroof (dot) com for rate information.**
 
 Each month I will do a roundup/shout out post which may or may not include all of my sponsors. Other social media outlets include facebook and twitter.  
 
@@ -44,13 +44,13 @@ Kind comments are welcomed as well as constructive criticism .  Personal attack
 
 ## Ads & Ad Networks
 
-_Our site runs ads including but not limited to our sidebar, header, footer and sometimes within a post. Our blog does not accept any form of payment or text/link ads within a post or sidebar.  _
+ _Our site runs ads including but not limited to our sidebar, header, footer and sometimes within a post. Our blog does not accept any form of payment or text/link ads within a post or sidebar.  _
 
-_We are a part of many ad networks that may or may not use cookies.  _
+ _We are a part of many ad networks that may or may not use cookies.  _
 
 *This site occasionally shares affiliate links for feature products that we use and love. If you purchase something from a link we share (ie. from amazon) we may receive a tiny portion of revenue from said brand which goes to hosting fees and such which allow us to keep our site up and running.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [https://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ## Giveaways, Product Reviews
 
@@ -73,11 +73,11 @@ Should we ask you to provide certain information by which you can be identified 
 
 Four Generations One Roof may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 2015.
 
-**What we may collect**
+ **What we may collect**
 
 We may collect the following information: contact information including email address demographic information such as postcode, preferences and interests other information relevant to customer surveys and/or offers.
 
-**What we do with the information we gather**
+ **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -85,11 +85,11 @@ We may use the information to improve our products and services.
 
 We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-**Security**
+ **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+ **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -99,14 +99,14 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Advertising**
+ **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. One of which is Gourmet Ads. For information about opting out of Gourmet Ads and ad serving partners please visit [Gourmet Ads privacy policy.](http://www.gourmetads.com/about/privacy-policy)
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. One of which is Gourmet Ads. For information about opting out of Gourmet Ads and ad serving partners please visit [Gourmet Ads privacy policy.](https://www.gourmetads.com/about/privacy-policy)
 
  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
-**Links to other websites**
+ **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-****We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+ ****We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
