@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenyans.co.ke privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216010417id_/https%3A//www.kenyans.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyans.co.ke privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001173338id_/https%3A//www.kenyans.co.ke/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenyans.co.ke
 
