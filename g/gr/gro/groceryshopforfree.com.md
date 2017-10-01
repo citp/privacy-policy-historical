@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryshopforfree.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093945id_/http%3A//www.groceryshopforfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryshopforfree.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001152715id_/https%3A//www.groceryshopforfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,4 +77,7 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
 
+
+
+[](https://plus.google.com/112888353730790860590/posts)  
 
