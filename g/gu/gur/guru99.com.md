@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guru99.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626202133id_/http%3A//www.guru99.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru99.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001124020id_/https%3A//www.guru99.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
