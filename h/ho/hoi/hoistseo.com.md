@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoistseo.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317085332id_/http%3A//www.leapfroggr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoistseo.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001052735id_/http%3A//www.leapfroggr.com/privacy-policy) for the most accurate reproduction.*
 
 # LeapFroggr Inc. | Privacy Policy Page
 
