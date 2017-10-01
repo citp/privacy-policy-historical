@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjust.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629130301id_/https%3A//www.adjust.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjust.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001215821id_/https%3A//www.adjust.com/privacy_policy) for the most accurate reproduction.*
 
 # adjust.com
 
@@ -6,7 +6,7 @@
 
 [Die Datenschutzerklärung ist auch in Deutsch verfügbar.](https://web.archive.org/datenschutzerklaerung)
 
-Last modified: March 3rd, 2017
+Last modified: September 25th, 2017
 
 **_Introduction_**
 
@@ -212,26 +212,24 @@ Germany
 
 or by sending an email to [privacy@adjust.com](mailto:privacy@adjust.com) at any time.
 
-### 2\. Collection and Use of Data via adjust’s technology
+### 2\. Opt-Out of Tracking by Adjust
 
-adjust provides mobile analytics and attribution services to mobile app providers. In connection with these services, we may collect, process and use certain non-personal data from the users of these mobile apps, as further described hereafter.
+Adjust GmbH, Adjust Inc. and Adjust KK (collectively, “Adjust” or “We”) provide mobile analytics and attribution services to mobile app providers (our “Customers”). In connection with these services, we may collect, process and use certain data from the users of these mobile apps (collectively the “End User” or “You”), as further described hereafter. We collect the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.
 
-Clients who have [child-directed apps](https://web.archive.org/terms/#child-directed) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Clients must agree to the section in our Terms and Conditions accordingly.
+Customers who have [child-directed apps](https://www.adjust.com/terms/#child-directed) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Customers must agree to the section in our Terms and Conditions accordingly.
 
-Collection and use of non-personal data
-
-Our technology may collect some of the following non-personal data: 
+Our SDK and APIs (collectively the “adjust technology”) may collect and use some of the following data from You as the End User:
 
   * Anonymized (hashed) IP address
-  * Anonymous identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar identifiers
-  * Installation and first opening of an app on your mobile device
-  * User interactions within an app (e.g. in-app purchases, registration)
-  * Information regarding which advertisements the user has seen or clicked on
+  * Mobile identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar mobile identifiers
+  * Installation and first opening of an app on Your mobile device
+  * Your interactions within an app (e.g. in-app purchases, registration)
+  * Information regarding which advertisements You have seen or clicked on 
 
 
 
-adjust uses the collected data for providing mobile analytics and attribution services to its customers, and thereby allows its customers to track marketing performance, to match users to their campaigns and to understand how they engage with the customer’s app. Furthermore, adjust enables its customers to track the user’s interactions in their apps in real time in order to see how their users engage over their full lifetime. The collected non-personal data is therefore used in order to analyze the performance of marketing campaigns and to provide performance reports to adjust’s customers. adjust does not combine the collected non-personal data with any other data that would enable adjust to personally identify the user.
+We use the collected data for providing mobile analytics and attribution services to our Customers, and thereby allow our customers to track their marketing performance, to match You to their campaigns and to understand how You engage with our Customer’s app. Furthermore, we enable our Customers to track Your interactions in their apps in real time in order to see how You engage over their full lifetime. The collected data is therefore used in order to analyze the performance of marketing campaigns and to provide performance reports to our Customers. We do not combine the collected data with any other data that would enable us to personally identify You. Any information collected via the adjust technology is owned and controlled by our Customer who has implemented the adjust technology into their mobile app. 
 
-### Opt-Out
+We fully endorse Your rights to privacy as the data subject and support your own choice on deciding about the collection, processing and usage of Your data that we receive throughout the adjust technology and services. 
 
-Any information collected via the adjust technology is owned and controlled by the individual customer who has implemented the adjust technology into their mobile app. It is not technically possible for us to disable tracking for an individual user. Users who want to opt out of being tracked by a particular publisher, ad network, or by an advertiser’s ads therefore must contact these companies directly to opt out.
+If you want to **_opt-out_** of tracking by the adjust technology, please [click here](https://web.archive.org/opt-out/), select the device You wish to opt-out and provide us Your device identifier. We will then remove usage tracking from apps that use our technology immediately. If you have questions regarding this opt-out please email us at [privacy@adjust.com](mailto:privacy@adjust.com) or [legal@adjust.com](mailto:legal@adjust.com) and we will get back to You as soon as possible. 
