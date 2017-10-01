@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602051302id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001182417id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -76,7 +76,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 | 
 
-[](http://deals.gd/kohlsdeals "Check out the Kohl's Deals for Today")  
+[](http://deals.gd/kohls2017 "Check out the Kohl's Deals for Today")  
   
 [](http://deals.gd/samssv "Check out the SamsClub.com Shocking Values")
 
@@ -84,7 +84,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://deals.gd/hddotd "Check out the Home Depot Deal of the Day")  
   
-[](http://deals.gd/6pmcom "Check out the 6pm.com Deals of the Day")
+[](http://deals.gd/wayfairdaily "Check out the Wayfair.com Daily Deals")
 
 | 
 
@@ -102,7 +102,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://deals.gd/osdotd "Check out the Overstock.com Flash Deals")  
   
-[](http://deals.gd/dailysale "Check out the DailySale Daily Deals")
+[](http://deals.gd/trudd "Check out the Toys R Us Daily Deals")
 
 | 
 
