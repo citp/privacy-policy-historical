@@ -1,65 +1,134 @@
-> *The following text is extracted and transformed from the armadamarkets.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124173355id_/http%3A//www.armadamarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armadamarkets.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001170544id_/https%3A//tickmill.com/wp-content/uploads/2016/09/Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Armada Markets
+# Privacy Policy
 
-This privacy statement covers the website www.armadamarkets.com, and any other related websites that are registered and operated by Armada Markets AS (Armada).
+Privacy Policy
+  Tmill UK Limited
+           September 2016
 
-## Application
 
-In order to open an account with Armada, you must first complete and send the application form attaching the required documents. By completing the application form you are requested to give private information in order to enable Armada to evaluate your application and comply with Laws and Regulations governing the provision of services. This information is also used to contact you about trading services.
+                                                                                             Privacy Policy
+Privacy Policy
+Tickmill is a trading name of Tmill UK Limited (“Tmill UK”, “Company”, “us”, “we”, “our”, “ours” or
+”ourselves” as appropriate) and is authorised and regulated in the United Kingdom by the Financial
+Conduct Authority (“FCA”) under firm reference number 717270. The Company’s Principal and
+Registered Office is at 1 Fore Street, London EC2Y 9DT (registered company number 09592225).
+1. Our Commitment to You
+We understand the importance of maintaining the confidentiality and privacy of personal information
+that we hold about our clients and others. This Privacy Policy Statement outlines how we manage and
+protect the personal information you give us and hold about our clients ("The Policy"). By visiting our
+website and using our services your agreement to this Policy is implied.
+We are bound by the data protection principles contained in the Data Protection Act 1998 and the EU
+e-Privacy Directive.
+This Policy will be reviewed periodically to take account of changes to our operations or practices and,
+further, to make sure it remains appropriate to any changes in law, technology and the business
+environment. You should check this page from time to time to ensure that you are happy with any
+changes. Any information held will be governed by our most current Policy.
+2. Collection and processing of personal information
+We may collect and process the following data about you:
+ Information that you provide by filling in forms on our Website, including information provided when
+    registering to open an Account, using our Website, subscribing to our services or posting material;
+ If you contact us or respond to surveys we may keep a record of that correspondence;
+ Details of any orders or transactions (historic or otherwise) that you have carried out through our
+    Website;
+ Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs
+    and other communication data, whether this is required for our own billing purposes or otherwise
+    and the resources that you access;
+ Information about your computer, including IP address, operating system and browser type, for
+    system administration and to report aggregate information to our advertisers. This data does not
+    identify any individual.
+3. How we use cookies
+When you use our Website we will use cookies to distinguish you from other users of our Website.
+This helps us to provide you with a more relevant and effective experience when you browse our
+Website, including presenting websites according to your needs or preferences and allows us to
+improve the site generally. For further information, please see our Cookie Policy.
+4. How we use the information
+We use information held about you in the following ways:
+    to ensure that the content in our website is presented to you in the most effective manner;
+    to provide you with products and services that you request from us or, where you have consented
+     to be contacted, for products and services that we feel may be of interest to you;
+Tmill UK Limited                                                                                Page 1 of 3
 
-Any clients’ personal data is kept by Armada according to the Personal Data Protection Act of 2007 (No. RT I 2007, 24, 127) of the Republic of Estonia.
 
-Armada shall not disclose to a third party, any of its clients’ confidential information unless required to do so by an authority of a competent jurisdiction; such disclosure shall occur on a ‘need-to-know’ basis, unless otherwise instructed by the authority. Under such circumstances, Armada shall expressly inform the third party regarding the confidential nature of the information.
+                                                                                           Privacy Policy
+    managing and administering the products and services provided to you;
+    keeping you updated as a client in relation to changes to our services and relevant matters;
+    to carry out our obligations arising from any contracts entered into between you and us.
+We may also use your data, or permit selected third parties to use your data, to provide you with
+information about goods and services which may be of interest to you and we or they may contact
+you about these by email.
+5. Who we disclose the information to
+Depending on the products and services concerned and the relevant restrictions on sensitive data,
+personal information may be disclosed to:
+    Any member of our group of companies who provide financial and other services;
+    Potential successors in title to our business;
+    third party consultants, contractors or other service providers who may access your personal
+     information when providing services (including but not limited to IT support services) to us;
+    introducing brokers with whom we have a mutual relationship (any of whom may be within or
+     outside the European Economic Area);
+    any organisation or person acting on your behalf to whom you request us to provide information,
+     including your financial advisor, broker, solicitor or accountant;
+    third parties where it is necessary to process a transaction or provide services you have requested;
+    to a Trade Repository or similar;
+    credit providers, courts, tribunals and regulatory authorities in response to legal and regulatory
+     requests, as agreed or authorised by law;
+    auditors or contractors or other advisers auditing, assisting with or advising on any of our business
+     purposes, in any jurisdiction where we operate;
+    at your request or with your consent.
+6. Rights in relation to your personal information
+You have the right to ask us not to process your personal data for marketing purposes. We will
+usually inform you (before collecting your data) if we intend to use your data for such purposes or if
+we intend to disclose your information to any third party for such purposes. You can exercise your
+right to prevent such processing by checking certain boxes on the forms we use to collect your data.
+You can also exercise the right at any time by contacting us at support@tickmill.co.uk.
+You also have the right to obtain a copy of any personal information which we hold about you and to
+advise us of any perceived inaccuracy. The Data Protection Act 1998 does set out some exceptions to
+this. To make a request, please write to us, verifying your identity and specifying what information
+you require.
+We may charge an administrative fee to cover the cost of verifying the application and locating,
+retrieving, reviewing and copying any material requested.
+7. Safeguard Measures
+We hold personal information in a combination of secure computer storage facilities and paper-based
+files and other records, and take steps to protect the personal information we hold from misuse, loss,
+unauthorised access, modification or disclosure.
+Tmill UK Limited                                                                              Page 2 of 3
 
-Clients accept and consent that Armada may, from time to time, contractually engage companies for statistical purposes in order to improve the Firm’s marketing; as a result, some or all of the clients’ personal data may be disclosed on an anonymous and aggregated basis only.
 
-## Agents
-
-We use card processing companies for your deposits and withdrawals to and from your account. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-
-## Privacy
-
-Web site tracking systems may also collect data detailing the pages you have accessed, how you discovered this site, the frequency of visits and so on. When you visit our site, we are able to view your IP address. However, your IP address does not identify you as a user, but merely the general area of where you live. The information we obtain is used to improve the content of our web site (Site) and may be used by us to contact you, by any appropriate means, and to provide you with any information we believe may be useful to you.
-
-## Choice/Opt-out
-
-If you no longer wish to receive any promotional communications, you may opt-out of receiving them by following the instructions included in each communication.
-
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
-
-## Cookies
-
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We may use cookies on the Site. We do link the information we store in cookies to any personally identifiable information you submit while on our Site.
-
-We may use both session ID cookies and persistent cookies. A session ID cookie does not expire when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-We may set a persistent cookie for statistical purposes. Persistent cookies also enable us to track and target the location and the interests of our users and to enhance the experience of our services on our site.
-
-Some of our business partners may use cookies on our Site. We have no access to or control over these cookies.
-
-## Security and Protection of your personal information
-
-The personal information that you provide in connection with registering yourself as a user of the Site or of the services is classified as Registration Information. Registration Information is safely stored on secure servers that only authorised personnel have access to via password. Armada encrypts all personal information as it is transferred to Armada and thus makes all necessary effort to prevent unauthorised parties from viewing any such information.
-
-Personal information provided to Armada that is not Registration Information also resides on secure servers and is again accessible only to authorised personnel via password. This information cannot be online accessible by you, therefore no password shall be selected to view or modify this information.
-
-## Access to Personally Identifiable Information
-
-Armada Markets does not license, lease or otherwise disclose your personal information to any affiliate or third party for any reason, unless the law requires it or the information is a subject of transfer agreement. If your personally identifiable information changes, you must inform us by emailing our Customer Support at info@armadamarkets.com or by contacting us by telephone, fax or postal mail at the contact information listed below or on the Site.
-
-## Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site. We will not be liable for misuse or loss of personal information resulting from cookies on our Site that we don’t have access to or control over. We will not be liable for unlawful or unauthorised use of your personal information due to misuse or misplacement of your passwords, negligent or malicious, however contacted.
-
-## Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, on our Site, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our Site.
-
-Armada Markets AS  
-Roosikrantsi 2, 10119 Tallinn, Estonia  
-E-mail: [info@armadamarkets.com](mailto:info@armadamarkets.com)
-
-Last Updated: 20 November 2014
+                                                                                          Privacy Policy
+We limit access of information only to those relevant employees or partners that need to know the
+information in order to enable the carrying out of the Agreement between us. We do not hold or store
+Credit/Debit card data.
+We have procedures in place regarding how to safeguard and use Your Information, for example by
+requesting our Affiliates and employees to maintain the confidentiality of Your Information.
+We will not keep your personal information for any longer than is required. In many cases,
+information must be kept for considerable periods of time. However, when we consider that
+information is no longer needed, we will remove any details that will identify you or we will securely
+destroy the records.
+While we will use all reasonable efforts to safeguard our clients’ personal information , you
+acknowledge that the use of the internet is not entirely secure and for this reason we cannot
+guarantee the security or integrity of any personal data transferred from you, or to you via the
+internet.
+8. Your consent
+By submitting any personal information (including, without limitation, your account details) to us you
+consent to the use of information as set out in this Policy. We reserve the right to amend or modify
+this Privacy Policy and if we do so we will post the changes on the Website. It is your responsibility to
+check the Privacy Policy when you submit information to us. Your use of the Website will signify that
+you agree to any such changes.
+Owing to the global nature of the Internet infrastructure, the information you provide may be
+transferred in transit to countries outside the European Economic Area. We also operate globally and
+so it may be necessary to transfer your personal information to other companies within our group of
+companies or to other third parties located in countries outside of the EEA to enable the provision of
+the services you have requested. Countries outside of the EEA may not have similar protections in
+place regarding your data and its use as set out in this Policy. However, we have taken the necessary
+steps outlined above and required by applicable law to try and protect the security of your
+information.
+9. Personal information and other websites
+We are not responsible for the privacy policies and practices of other websites even if you accessed a
+third party website using links from our Website. We recommend that you check the policy of each
+website you visit and contact the owner or operator of such website if you have concerns or
+questions.
+10.      How to contact us
+If you have any questions regarding this Policy, wish to access or change your information or have a
+complaint, or if you have any questions about security on our Website, you may email us at
+support@tickmill.co.uk.
+Tmill UK Limited                                                                             Page 3 of 3
