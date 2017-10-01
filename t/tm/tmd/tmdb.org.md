@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmdb.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406090827id_/https%3A//www.themoviedb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmdb.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001035210id_/https%3A//www.themoviedb.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Movie Database (TMDb)
+# Privacy Policy — The Movie Database (TMDb)
 
 ## Privacy Policy
 
