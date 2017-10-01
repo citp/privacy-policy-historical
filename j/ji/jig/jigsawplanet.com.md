@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064906id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001104431id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
 
 # Jigsaw Planet - Privacy Policy
 
@@ -16,7 +16,7 @@ If you have any questions or comments about this Privacy Policy, please [contact
 
 **Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Jigsaw Planet may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. Cookies are stored in your web browser for 180 days or less from your last visit. Current versions of web browsers offer enhanced user controls of cookies (disabling, removing).
 
-**Third Party Services:** We use advertisements provided by Google adSense to support our site. Google uses cookies to serve ads based on a user's prior visits to our website. In particular, Google uses the DoubleClick DART cookie to enable it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google advertising opt-out page](http://www.google.co.uk/privacy_ads.html). 
+**Third Party Services:** We use advertisements provided by Google adSense to support our site. Google uses cookies to serve ads based on a user's prior visits to our website. In particular, Google uses the DoubleClick DART cookie to enable it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google advertising opt-out page](http://www.google.co.uk/intl/en/policies/technologies/ads/). 
 
 ## Information Sharing and Disclosure
 
