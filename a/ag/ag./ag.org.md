@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ag.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121024059id_/http%3A//ag.org/top/help/Web_Site_Policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ag.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002010237id_/https%3A//ag.org/Privacy) for the most accurate reproduction.*
 
-# Privacy and Security
+# Assemblies of God (USA) Official Web Site | Privacy
 
 As the General Council of the Assemblies of God, we are committed to protecting your privacy. We do not give, sell, rent or loan any identifiable information regarding visitors to any third party. By using our web site, ag.org, you agree to the Privacy Policy of the General Council of the Assemblies of God. If you do not agree to this Privacy Policy, please do not use this web site.
 
