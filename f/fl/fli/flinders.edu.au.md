@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430125312id_/https%3A//flinders.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001155223id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
 
 # Flinders University website privacy statement - Flinders University
 
