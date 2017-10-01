@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054729id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001221357id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
 
 # IPAddress.com Privacy Policy | IPAddress Security Policy | IPAddress.com
 
@@ -29,5 +29,3 @@ If you wish to disable cookies, you may do so through your individual browser op
   * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
-
-## IP Address Tools - Quick Links
