@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realtystore.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606202418id_/http%3A//www.realtystore.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtystore.com privacy policy that was archived on 2017-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171001183835id_/http%3A//www.realtystore.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -15,17 +15,17 @@
     
 
     
-    <link href="/resources/t/css/style.css?version=1.71.0" rel="stylesheet" type="text/css">
+    <link href="/resources/t/css/style.css?version=1.75.0" rel="stylesheet" type="text/css">
     
     
     
-    <link href="/resources/t/css/themes/modern.min.css?version=1.71.0" rel="stylesheet" type="text/css">
+    <link href="/resources/t/css/themes/modern.min.css?version=1.75.0" rel="stylesheet" type="text/css">
     
     
-    <link href="/resources/t/css/colors/blue-green.min.css?version=1.71.0" rel="stylesheet" type="text/css">
+    <link href="/resources/t/css/colors/blue-green.min.css?version=1.75.0" rel="stylesheet" type="text/css">
 
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/resources/t/js/responsive-pageload.js?version=1.71.0"></script>
-    <script src="/resources/t/js/responsive-async.js?version=1.71.0"></script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/resources/t/js/responsive-pageload.js?version=1.75.0"></script>
+    <script src="/resources/t/js/responsive-async.js?version=1.75.0"></script>
 
     <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -40,7 +40,7 @@ var analytics = new UniversalAnalytics();
     
         <script>
             analytics.setDimension(2, 7);
-            analytics.setDimension(3, '1002SEOAD');
+            analytics.setDimension(3, '1002SEOV20170906A');
             if (analytics instanceof GoogleAnalytics) {
                 analytics.setDimension(1, '');
                 analytics.setDimension(4, '');
@@ -69,17 +69,19 @@ var analytics = new UniversalAnalytics();
             <a class="navbar-brand brand-logo" href="/?from=banner" style="background-image: url(/resources/site/images/logos/logo.png)"></a>
 
 
+
          </div>
          <div class="navbar-collapse collapse">
     
     <div class="navbar-right">
-        <a class="text-muted" href="/Membersite/?from=banner&amp;adid=1002SEOAD"><i class="fa fa-user"></i>&nbsp;<span class="text-pretty">Member Sign-in</span></a>
+        <a class="text-muted" href="/Membersite/?from=banner"><i class="fa fa-user"></i>&nbsp;<span class="text-pretty">Member Sign-in</span></a>
     </div>
     
 </div>
 <div class="visible-xs">
    
 </div>
+
       </div>
    </div>
    <div class="visible-xs back-button"><button class="btn btn-default" onclick="history.go(-1)"><i class="fa fa-reply"></i> Back</button></div>
@@ -167,6 +169,7 @@ Your information may  be transferred to, stored and processed in the United Stat
                             click_adid: geturlparam("adid"),
                             brandId: "1",
                             afid: geturlparam("afid") == "" ? $.cookie("PID") : geturlparam("afid"),
+                            xid: geturlparam("XID"),
                             utm_source: geturlparam("utm_source"),
                             utm_medium: geturlparam("utm_medium"),
                             utm_term: geturlparam("utm_term"),
@@ -180,62 +183,42 @@ Your information may  be transferred to, stored and processed in the United Stat
                 });
             </script>
 
-            
+            <script>
+                
+                function trackUsage(type) {
+                    trackSalesUsage(type,
+                    '1002SEOV20170906A',
+                    7,
+                    '',
+                    '',
+                    '1002SEOV20170906A');
+                }
+            </script>
 
             
             
         
-            <div id="desktop-optinout-lightbox" class="">
-                <div class="modal fade confirm-optin-container" id="optinout-lightbox" tabindex="-1" role="dialog" aria-labelledby="optinout" aria-hidden="true">
-                    <div class="modal-dialog confirmation-lightbox">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                               <button type="submit" class="close"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                                  
-                               <a href="/?from=banner"> 
-                                  <img width="150" src="/resources/site/images/logos/logo.png">
-                               </a>
-                            </div>
-                           
-                            <div class="modal-body text-center">
-                                <div class="container-fluid">
-                                   
-                                   <h3 class="header email-message-wrapper"><strong>Before you continue registering, would you like to be added to our email list?<style>@media(min-width:768px) { .visible-xs { display:none } }@media (max-width:767px){ .hidden-xs { display:none } .visible-xs { display:block } h3.email-message-wrapper { font-size: 23px } }</style></strong></h3>
-                                   <div class="message">Worried about spam? We'll never sell your email to third parties.</div>
-                                   <div class="row">
-                                       <div class="col-xs-12 col-xs-push-0 col-sm-4 col-sm-push-2 text-center">
-                                          <button type="submit" id="submitConfirm1" class="btn btn-primary btn-med opt-in-out-yes">Yes, email me</button>
-                                       </div>
-                                       <div class="col-xs-12 col-xs-push-0 col-sm-4 col-sm-push-2 text-center">
-                                          <button type="submit" id="submitConfirm2" class="btn btn-secondary btn-med opt-in-out-no">Don’t email me</button>
-                                       </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            
+        
             <script>
-                // more will be here later
-                var isOptInOutEmail = false;
-                var optInOutDomains = ',comcast.net,live.com,hotmail.com,msn.com,outlook.com,';
-                var optInDeviceType = 'desktop';
-                var enteredEmail = '';
-                var upsellItReplaced = false;
-                //var allowFormSubmit = true;
-                var allowFormSubmit = false;
-                //var messageTemplate = "You will recieve property alerts for %%email%%";
-                var messageTemplate = 'Before you continue registering, would you like to be added to our email list?<style>@media(min-width:768px) { .visible-xs { display:none } }@media (max-width:767px){ .hidden-xs { display:none } .visible-xs { display:block } h3.email-message-wrapper { font-size: 23px } }<\/style>';
-                var optInOutMode='optin';
+                if ( "undefined" == (typeof(allowFormSubmit)).toLowerCase() ) {
+                    allowFormSubmit = true;
+                }
+                if ( "undefined" == (typeof(optInOutDomains)).toLowerCase() ) {
+                    optInOutDomains = "";
+                }
             </script>
         
-        
     
+            
+        
+        
 
             
+            
+    
+    
+    
+
 
             
 
