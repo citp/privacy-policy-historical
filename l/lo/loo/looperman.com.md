@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looperman.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230202735id_/http%3A//www.looperman.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looperman.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001184744id_/https%3A//www.looperman.com/help/privacy) for the most accurate reproduction.*
 
 # Looperman : Free Loops Beats Samples Acapellas Vocals VST Plugins VSTi Downloads
 
@@ -26,7 +26,7 @@ We have appropriate security measures in place in our physical facilities to pro
 
 ## Cookies
 
-As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience.�This section describes what information they gather, how we use it and why we need to store these cookies. 
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience.�This section describes what information they gather, how we use it and why we need to store these cookies.
 
 For more general information on cookies see the [Wikipedia article on HTTP Cookies...](http://en.wikipedia.org/wiki/HTTP_cookie).
 
@@ -44,7 +44,7 @@ If you create an account with us then we will use cookies for the management of 
 
 We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
 
-Where this site offers newsletter or email subscription services cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users. 
+Where this site offers newsletter or email subscription services cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users.
 
 From time to time we may offer user surveys and questionnaires to provide you with interesting insights, helpful tools, or to understand our user base more accurately. These surveys may use cookies to remember who has already taken part in a survey or to provide you with accurate results after you change pages.
 
