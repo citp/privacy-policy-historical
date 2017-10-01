@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the alton-towers.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126033050id_/http%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alton-towers.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001043624id_/https%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## **
+
+Privacy Policy.
+
+**
 
 Merlin Entertainments Group Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -121,7 +127,7 @@ YOUR RIGHTS
 
 **
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at[comments@merlinentertainmenrts.biz](mailto:comments@merlinentertainmenrts.biz)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [gs.feedback@alton-towers.com](mailto:gs.feedback@alton-towers.com)
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -147,4 +153,12 @@ CONTACT
 
 **
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [comments@merlinentertainmenrts.biz](mailto:comments@merlinentertainmenrts.biz)
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [gs.feedback@alton-towers.com](mailto:gs.feedback@alton-towers.com)
+
+## Sign up to our newsletter
+
+## Sign up to our newsletter
+
+Sign up to receive our amazing email newsletters... and get great offers and discounts! [Terms and Conditions](https://web.archive.org/terms-and-conditions).
+
+## Thank you – you have successfully subscribed.
