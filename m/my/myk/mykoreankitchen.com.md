@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105152558id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001084654id_/https%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Korean Kitchen
 
@@ -64,7 +64,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://mykoreankitchen.com/terms-and-conditions/ "Terms and Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://mykoreankitchen.com/terms-and-conditions/ "Terms and Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
@@ -74,6 +74,6 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-You may contact us via our [contact page](http://mykoreankitchen.com/contact/ "Contact").
+You may contact us via our [contact page](https://mykoreankitchen.com/contact/ "Contact").
 
 This policy was last modified on 14/02/2015
