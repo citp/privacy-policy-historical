@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624204750id_/http%3A//www.regus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001234655id_/https%3A//www.regus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Regus Group Websites automatically collects technical information about your vis
 
 Once you register, we will send you a welcoming email to verify your username and password. We will also respond to your inquiries, provide services you request and manage your account. We will communicate with you by email or telephone and will make every effort to honor your preference.
 
-We will also send you information on new products, services, special savings, promotions and general information. If you do not want to re ceive this information, you can opt-out of receiving future mailings (see Opt-Out section below).
+We will also send you information on new products, services, special savings, promotions and general information. If you do not want to receive this information, you can opt-out of receiving future mailings (see Opt-Out section below).
 
 If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. You can sign up for these newsletters from us on our registration page. You may unsubscribe at any time (see Opt-Out section below).
 
@@ -42,7 +42,7 @@ Please note that we do not provide your email address to our business partners. 
 
 ## Sharing of information and Cross-border Transfers
 
-Regus Group contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described above. These se rvice providers may change or we may contract with additional service providers to better accommodate our customers. Regus Group affiliates may provide services to you or to your local Regus affiliate and may receive personal data about you. If we transfer your personal data to affiliates or third parties, we require the recipients of your personal data to safeguard your personal data using administrative, technical and security procedures; however, your personal data will also be subject to the laws of the jurisdiction governing our affiliate or the third party.
+Regus Group contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described above. These service providers may change or we may contract with additional service providers to better accommodate our customers. Regus Group affiliates may provide services to you or to your local Regus affiliate and may receive personal data about you. If we transfer your personal data to affiliates or third parties, we require the recipients of your personal data to safeguard your personal data using administrative, technical and security procedures; however, your personal data will also be subject to the laws of the jurisdiction governing our affiliate or the third party.
 
 Your personal data may be transferred across state borders and country borders. Residents of the EEA and Canada should understand that your personal data may be transferred outside of the EEA and Canada to the United States and other countries for the purposes of data consolidation, storage, simplified customer information management, reporting and other internal uses.
 
