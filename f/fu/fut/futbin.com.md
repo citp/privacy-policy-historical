@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163932id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001124527id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.*
 
-# FUT Privacy | FUTBIN
+# 
 
 Futbin.com Privacy Policy 
 
@@ -99,7 +99,7 @@ It's also important to note that we do not allow third party behavioral tracking
 
 COPPA (Children Online Privacy Protection Act)
 
-When it comes to the collection of personal information from children under 13, the Children�s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
 
 We do not specifically market to children under 13.
 
