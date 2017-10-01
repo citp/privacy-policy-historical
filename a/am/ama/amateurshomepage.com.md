@@ -1,6 +1,35 @@
-> *The following text is extracted and transformed from the amateurshomepage.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231202314id_/http%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurshomepage.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001173137id_/https%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy • Project Voyeur
+# Privacy Policy - Project Voyeur
+
+  * PHOTOS & VIDEOS
+
+[ ](https://web.archive.org/members/bustybuster)
+
+**FEATURED PROFILE**
+
+#### [bustybuster](https://web.archive.org/members/bustybuster)
+
+Bountiful and beautiful, that's what she is - Check out bustybuster's PV profile ...
+
+  * [PEOPLE](https://web.archive.org/members/)
+  * [LIVE CHAT](https://web.archive.org/pages/free-chat.php)
+  * [FORUMS](https://web.archive.org/forums/)
+  * [ADULT SHOP](http://shop.projectvoyeur.com/)
+  * [ADULT LINKS](https://web.archive.org/pages/links.php)
+  * [UPLOAD CONTRIS](https://web.archive.org/contributions/add/)
+  * More 
+    * [ADULT SHOP](http://shop.projectvoyeur.com/)
+    * [ADULT LINKS](https://web.archive.org/pages/links.php)
+    * [UPLOAD CONTRIS](https://web.archive.org/contributions/add/)
+
+
+
+for SharpeDezine, B.V. d/b/a [www.projectvoyeur.com](https://web.archive.org/)
+
+**Effective Date: 31st August 2010**
+
+**Last Modified: 31st August 2010**
 
 ###  1\. GENERAL 
 
