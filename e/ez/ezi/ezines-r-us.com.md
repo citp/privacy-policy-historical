@@ -1,55 +1,49 @@
-> *The following text is extracted and transformed from the ezines-r-us.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007203502id_/http%3A//ezines-r-us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezines-r-us.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002015452id_/http%3A//ezines-r-us.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Ezines-R-Us.com
+# Privacy – eZines R Us
 
-Ezines-R-Us.com (or EvieB.com) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, email address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. ****
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://ezines-r-us.com/contact](mailto:info@ezines-r-us.com).
 
-**How we gather information from users**
+At http://ezines-r-us.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://ezines-r-us.com/ and how we use it.
 
-****How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, and other interactive areas of our site. (If applicable). ****
+**Log Files**  
+Like many other Web sites, http://ezines-r-us.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**What we do with the information we collect**
+**Cookies and Web Beacons**  
+http://ezines-r-us.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-****Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+**DoubleClick DART Cookie**
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+→ Google, as a third party vendor, uses cookies to serve ads on http://ezines-r-us.com/.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://ezines-r-us.com/ and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-We may use Personally Identifiable Information collected on Ezines-R-Us.com (or EvieB.com) to communicate with you about your registration and customization preferences; our Terms of Service and Privacy Policy; services and products offered by Ezines-R-Us.com (or EvieB.com) and other topics we think you might find of interest.
+**Our Advertising Partners**
 
-Personally Identifiable Information collected by Ezines-R-Us.com (or EvieB.com) may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. ****
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-**Affiliated sites, linked sites and advertisements**
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://ezines-r-us.com/._
 
-****Whitney Marketing Services, Ezines-R-Us.com or EvieB.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Ezines-R-Us.com (or EvieB.com) page, certain content that is actually created or hosted by a third party. Also, through Ezines-R-Us.com (or EvieB.com) you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://ezines-r-us.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-Ezines-R-Us.com (or EvieB.com) is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+http://ezines-r-us.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Ezines-R-Us.com (or EvieB.com) does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+**Third Party Privacy Policies**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Ezines-R-Us.com (or EvieB.com) and this policy. ****
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://ezines-r-us.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-**Children**
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-****Whitney Marketing Services, (Ezines-R-Us.com or EvieB.com) does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Ezines-R-Us.com (or EvieB.com) has any information from or about anyone under 13, please contact us at the address listed below.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://ezines-r-us.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://ezines-r-us.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-**Contacting Us**
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-We can be reached by contacting:
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-Eva Browne-Paterson
-
-Email: alerts @ ezines-r-us.com [without the spaces]
-
-Via Personal Message at our Facebook page [here >>](https://www.facebook.com/EzinesRUs)
-
-Or by accessing our Help Desk at [www.ezines-r-us.com/help](http://www.ezines-r-us.com/help)
-
-**Changes to this Policy**
-
-Ezines-R-Us.com (or EvieB.com) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. ****
-
-**Governing Law**
-
-****This policy and the use of this Site are governed by Australian law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Mackay, Queensland, Australia or Edmonton, Alberta, Canada. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Mackay, Queensland, Australia or Edmonton, Alberta, Canada. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-Ezines-R-Us.com (or EvieB.com) is controlled, operated and administered entirely within Canada and Australia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+**Update**  
+This Privacy Policy was last updated on: Thursday, February 16th, 2017.  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
