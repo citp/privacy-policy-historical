@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nei.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128235550id_/https%3A//www.nei.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nei.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001204541id_/https%3A//nei.org/Privacy-Policy) for the most accurate reproduction.*
 
 # NEI site - Nuclear Energy Institute
 
