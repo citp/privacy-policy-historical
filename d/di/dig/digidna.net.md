@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219075634id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001114220id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iMazing
 
@@ -54,7 +54,7 @@ Furthermore, access to Personal Data is restricted to employees directly involve
 
 #### 7\. Anonymous Data/Cookies
 
-We use Google Analytics to collect strictly anonymous information on the usage of our websites and products. This information is processed by DigiDNA in order to enhance and customise content and user experience. You can opt-out of Google Analytics by clicking here.
+We use Google Analytics to collect strictly anonymous information on the usage of our websites and products. This information is processed by DigiDNA in order to enhance and customise content and user experience. You can block Google Analytics by following instructions [here.](https://tools.google.com/dlpage/gaoptout)
 
 DigiDNA may use cookies to collect anonymous information such as browser type, operating system version and date of access. Our cookies cannot be used to identify users. A cookie is a little package of information sent to your browser and stored in the hard drive of your computer.
 
