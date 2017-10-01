@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpackers.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505131226id_/https%3A//www.worldpackers.com/guide/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpackers.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001130232id_/https%3A//www.worldpackers.com/guide/terms) for the most accurate reproduction.*
 
 # Worldpackers Guide
 
