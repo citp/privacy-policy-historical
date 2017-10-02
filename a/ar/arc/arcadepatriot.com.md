@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadepatriot.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215112703id_/http%3A//arcadepatriot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepatriot.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002072518id_/http%3A//arcadepatriot.com/privacy-policy) for the most accurate reproduction.*
 
 # Arcadepatriot | Privacy Policy
 
