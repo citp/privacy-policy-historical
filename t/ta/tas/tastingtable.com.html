@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tastingtable.com privacy policy that was archived on 2017-01-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128082101id_/http%3A//www.tastingtable.com/faq%23privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tastingtable.com privacy policy that was archived on 2017-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171002144652id_/http%3A//www.tastingtable.com/faq%23privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 		<!-- F: v_2016/faq -->
@@ -21,18 +21,18 @@
     -->
     <link rel="alternate" type="application/rss+xml" title="Tasting Table RSS Feed" href="http://www.tastingtable.com/rss/feed_feedly.xml">
 <!-- Stylesheets -->
-	<link rel="stylesheet" href="https://www.tastingtable.com/v_2016/css/app.css?date=20170128-01">
-	<link rel="stylesheet" href="/v_2016/css/additions.css?date=20170128_01">
-	<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//tru.am/scripts/ta-pagesocial-sdk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://script.crazyegg.com/pages/scripts/0050/4673.js?439026" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://daar64jskwrm7.cloudfront.net/v_2016/js/modernizr.2.8.3.min.js"></script>
+	<link rel="stylesheet" href="https://www.tastingtable.com/v_2016/css/app.css?date=20171002-04">
+	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://script.crazyegg.com/pages/scripts/0050/4673.js?439013" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=312679895452981"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://daar64jskwrm7.cloudfront.net/v_2016/js/modernizr.2.8.3.min.js"></script>
 	<script>
 		requestProtocol 	= 'https';
 		staticS3Url 		= 'https://daar64jskwrm7.cloudfront.net';
 		dynamicS3Url 		= 'https://prods3.imgix.net';
+		dynamicS3UrlAlternate = 'https://prods3.imgix.net';
 		contextPath 		= '';
 		jwPlayerInstances 	= [];
 		deviceType 			= 'desktop';
 		excludeUnnecessary  = false;
-		nowDateAndTime 		= '20170128032101310';
+		nowDateAndTime 		= '20171002104652422';
 		fbInitComplete 		= false;
 		subscriberState 	= 'logged_out';
 		
@@ -108,14 +108,15 @@
 
 		googletag.pubads().setTargeting("dynamicImage",	"https://prods3.imgix.net");
 		googletag.pubads().setTargeting("staticImage", 	"https://daar64jskwrm7.cloudfront.net");
+		googletag.pubads().setTargeting("env",     		"PROD");
 		
 		
 		if(lotameAudiences.length > 0)
 		{
-			console.log('For all active Ads, setTargeting: "audience" = ' + lotameAudiences.toString());
+			console.log('For all active Ads, setTargeting (Lotame): "ccaud" = ' + lotameAudiences.toString());
 			activeAds.forEach(function(thisAd)
 			{
-				googletag.pubads().setTargeting("audience", lotameAudiences);
+				googletag.pubads().setTargeting("ccaud", lotameAudiences);
 			});
 		}
 		
@@ -159,10 +160,6 @@
 			if(typeof(adRight300x250_9) !== 'undefined' && event.slot === adRight300x250_9) {
 				ad8 = true;
 			}
-			if(typeof(newHeaderLeaderboard) !== 'undefined' && event.slot == newHeaderLeaderboard) {
-				window.leaderboardAdLoad = true;
-				$('body').trigger('leaderboard-ad-load', true);
-			}
 			if(ad1 && ad2 && ad3 && ad4 && fired) {
 				fired = false;
 				window.carouselAdLoad = true;
@@ -191,11 +188,34 @@
 			if (typeof(newHomepageArticleCard) !== 'undefined' && event.slot === newHomepageArticleCard && nativeFired) {
 				nativeFired = false;
 				console.log('slotRenderEnded: native placement');
-				if (event.slot.isEmpty){
+				if (event.isEmpty){
 					$('body').trigger('New_Homepage_Article_Card-ad-empty', true);
 				} else {
 					window.nativeAdLoad = true;
 					$('body').trigger('New_Homepage_Article_Card-ad-load', true);
+				}
+			}	
+			// If the native is empty remove from carousel or let know its ok to move
+			if ((typeof(newHomepageArticleCard) !== 'undefined' && event.slot === newHomepageArticleCard) || (typeof(newHomepageArticleCardSmall) !== 'undefined' && event.slot === newHomepageArticleCardSmall) || (typeof(newHomepageArticleCardWide) !== 'undefined' && event.slot === newHomepageArticleCardWide) ) {
+				if (event.isEmpty){
+					console.log('collapsing native: ' + event.slot.getSlotElementId(),event.isEmpty)
+					//remove from carousel if it is part of one
+					if($('#'+event.slot.getSlotElementId()).parents('.owl-carousel').length > 0){
+						$('#'+event.slot.getSlotElementId()).parents('.owl-carousel')
+						.trigger('remove.owl.carousel', $('#'+event.slot.getSlotElementId()).parents('.owl-item').index())
+						.trigger('refresh.owl.carousel');
+					} else {
+						$('#'+event.slot.getSlotElementId()).parent('.card').remove();
+					}
+				} 
+			}	
+			if (typeof(newHomepageArticleCardSmall) !== 'undefined' && event.slot === newHomepageArticleCardSmall ) {
+				if (!event.isEmpty){
+					window.nativeAdSmallLoad = true;
+					$('body').trigger('Native-ad-load-small', true);
+				} else {
+					window.nativeAdSmallLoadEmpty = true;
+					$('body').trigger('Native-ad-empty-small', true);
 				}
 			}
 			//If a 1x1 is returned collapse the ad unless its OOP
@@ -203,6 +223,11 @@
 				console.log('collapsing 1x1: ' + event.slot.getSlotElementId())
 				$('#'+event.slot.getSlotElementId()).hide();
 				
+			}
+			//Make sure this is after the 1x1 collapse. If there is no leaderboard in navigation.js we want to push up the ad space
+			if(typeof(newHeaderLeaderboard) !== 'undefined' && event.slot == newHeaderLeaderboard) {
+				window.leaderboardAdLoad = true;
+				$('body').trigger('leaderboard-ad-load', true);
 			}
 		});
 	});
@@ -256,22 +281,28 @@
 </script>
 
 
+	<script>
+			///////////////////////////////////////////////////////////////////////
+			// Called by the lotame ad.crwdcntrl.net JS below
+			//////////////////////////////////////////////////////////////////////
+			function process_audiences ( audienceData )
+			{
+				audienceData.Profile.Audiences.Audience.forEach(function(audience)
+				{
+					// console.log('audience.abbr:' + audience.abbr);
+					lotameAudiences.push(audience.abbr);
+				});
+				
+				// The DFP code above should fire after we populate this lotame array
+			}
+		</script>
+		<script type="text/javascript" src="https://ad.crwdcntrl.net/5/c=7050/pe=y/callback=process_audiences"></script>
 	<script type="text/javascript">
 			setTimeout(function(){var a=document.createElement("script");
 			var b=document.getElementsByTagName("script")[0];
 			a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0050/4673.js?"+Math.floor(new Date().getTime()/3600000);
 			a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		</script> 
-	<!-- Start BounceX tag. Deploy at the beginning of document head. -->
-        <script>
-        (function(d) {
-            var e = d.createElement('script');
-            e.src = d.location.protocol + '//tag.bounceexchange.com/2179/i.js';
-            e.async = true;
-            d.getElementsByTagName("head")[0].appendChild(e);
-        }(document));
-        </script><script src="https://tag.bounceexchange.com/2179/i.js" async=""></script>
-		<!-- End BounceX Tag-->
 	<style>
 		a.anchor {
 		display: block;
@@ -293,7 +324,7 @@
 		  channelUrl : '//WWW.TASTINGTABLE.COM/channel.html', // Channel File
 		  xfbml      : true,
 		  cookie     : true,
-		  version    : 'v2.5'
+		  version    : 'v2.8'
 		});
 		
 		//If app.js is loaded then fire event
@@ -307,15 +338,23 @@
 	
 
   // Load the SDK Asynchronously
-   (function(d, s, id){
-	 var js, fjs = d.getElementsByTagName(s)[0];
-	 if (d.getElementById(id)) {return;}
-	 js = d.createElement(s); js.id = id;
-	 js.src = "//connect.facebook.net/en_US/sdk.js";
-	 fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+   (function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=312679895452981";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
 </script>
-<header class="global-header">
+<div class="jpsuper01 teads-slot01">
+		<!-- New_OutofPage_1x1 out-of-page:: -->
+			<div id="out_of_page">
+				<script type="text/javascript">
+					googletag.cmd.push(function() { googletag.display('out_of_page'); });
+				</script>
+			</div>
+		</div>
+	<header class="global-header">
 		<div class="logo">
 			<a href="/index.htm">
 				<!--?xml version="1.0" encoding="utf-8"?-->
@@ -400,24 +439,25 @@
 		<nav id="navTransition">
 			<div class="navigation fade-in">
 				<ul>
-					<li class="nav-children">
-								<a href="" class="drop-down">Categories<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve"><polygon id="XMLID_2_" points="5.3,13.5 7.4,11.4 18,22 28.6,11.4 30.7,13.5 18,26.2 "></polygon></svg></a>
-								<ul>
-						<li><a href="/eat">Eat</a></li>
+					<li><a href="/eat">Eat</a></li>
 						<li><a href="/drink">Drink</a></li>
 						<li><a href="/cook">Cook</a></li>
-						<li><a href="/travel">Travel</a></li>
 						<li><a href="/entertain">Entertain</a></li>
-						</ul>
-								</li>
-							<li><a href="https://www.tastingtable.com/topics">Topics</a></li>
-						<li><a href="/TTNow">News</a></li>
+						<li><a href="/travel">Travel</a></li>
+						<li><a href="/culture">Culture</a></li>
 						<li><a href="/restaurants">Restaurants</a></li>
 						<li><a href="/recipes">Recipes</a></li>
-						<li><a href="/travel/city-guides">City Guides</a></li>
-						<li><a href="/events/guest-chefs">Events</a></li>
+						<li class="nav-children">
+								<a href="" class="drop-down">More<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve"><polygon id="XMLID_2_" points="5.3,13.5 7.4,11.4 18,22 28.6,11.4 30.7,13.5 18,26.2 "></polygon></svg></a>
+								<ul>
+						<li><a href="/TTNow">News</a></li>
 						<li><a href="/videos">Videos</a></li>
-						<li class="hidden-mobile-nav login-modal-open ">
+						<li><a href="https://www.tastingtable.com/topics">Topics</a></li>
+						<li><a href="/events/guest-chefs">Events</a></li>
+						<li><a href="/travel/city-guides">City Guides</a></li>
+						</ul>
+						</li>
+					<li class="hidden-mobile-nav login-modal-open ">
 					  <a href="/login.htm">LOGIN | SIGN UP</a>
 					</li>
 					<li class="hidden-mobile-nav  hidden">
@@ -426,14 +466,6 @@
 				</ul>
 			</div>
 		</nav>
-		<div style="display: inline-block;">
-			<!-- New_OutofPage_1x1 out-of-page:: -->
-					<div id="out_of_page">
-						<script type="text/javascript">
-							googletag.cmd.push(function() { googletag.display('out_of_page'); });
-						</script>
-					</div>
-				</div>
 	</header>
 	<!-- 
  ######################################################################################################################################
@@ -455,7 +487,7 @@
 			<ul class="menu-items">
 				<li class="menu-item"><a class="menu-link" href="/company/about">About Us</a></li><li class="menu-item"><a class="menu-link" href="/company/advertise">Advertise</a></li><li class="menu-item"><a class="menu-link" href="/terms-conditions">Contest Rules</a></li><li class="menu-item"><a class="menu-link" href="/company/jobs">Jobs</a></li><li class="menu-item"><a class="menu-link" href="/company/press">Press</a></li><li class="menu-item"><a class="menu-link" href="/company/team">Team</a></li><li class="menu-item"><a class="menu-link" href="/terms-conditions">Terms &amp; Conditions</a></li></ul>
 		</div>
-		<div class="section-sub-copy">Tasting Table is a website and newsletter for culinary enthusiasts.</div>
+		<div class="section-sub-copy">Tasting Table is the modern media brand for a new generation of food &amp; drink enthusiasts.</div>
 	</div>
 </div><div class="article-copy">
 							  <h4>What is Tasting Table's Editorial Policy?</h4>
@@ -594,6 +626,7 @@
 						<a href="/drink">Drink</a>
 						<a href="/cook">Cook</a>
 						<a href="/travel">Travel</a>
+						<a href="/culture">Culture</a>
 						<a href="/entertain">Entertain</a>
 					</li>
 					<li>
@@ -774,7 +807,7 @@
 			<div class="container">
 				<div class="copy-footer">
 					<div class="copy">
-						<p>Tasting Table services genuine editorial. There is no pay for play. <a href="http://tastingtable.com/faq#editpolicy">Click here</a> for our editorial policy</p>
+						<p>Tasting Table serves genuine editorial. There is no pay for play:  We only recommend products and services we love. If you read about a product or service on our site and make a purchase through the links we provide, we may receive a small commission or "affiliate fee" that we use to offset our editorial costs. "Partner Content" from our advertisers are not editorial recommendations and are clearly marked on every post or email as such. <a target="_blank" href="https://www.tastingtable.com/faq#editpolicy">Click here</a> for our editorial policy.</p>
 						<p>© 2008–2017 TDT Media Inc. doing business as Tasting Table. <nobr>All Rights reserved.</nobr></p>
 					</div>
 					<div class="policy">
@@ -869,7 +902,7 @@
 			}, false);
 		}
 	</script>
-<script src="/dist/assets/js/app.min.js?date=20170128_02"></script>
+<script src="/dist/assets/js/app.min.js?date=20171002_2"></script>
 		<script type="text/javascript">
 		  var captchaRender = function() {
 			if(document.querySelector('#g-recaptcha-signup-modal')){grecaptcha.render('g-recaptcha-signup-modal', 	{'sitekey' : '6Lf0wAcUAAAAAPs0iBhkjci8NaSzJ2adzQdxy98S'});}
@@ -877,7 +910,8 @@
 		  };
 		</script>
 		<script src="https://www.google.com/recaptcha/api.js?onload=captchaRender&amp;render=explicit" async="" defer=""></script>
-	<!-- Google Analytics _gaq.push(['_setDomainName', '.tastingtable.com']); is donre automatically now-->
+	<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+<!-- Google Analytics _gaq.push(['_setDomainName', '.tastingtable.com']); is donre automatically now-->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -887,6 +921,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-3250540-2', 'auto');  // Replace with your property ID.
 
   
+    ga('set', 'dimension3', 'non-syndicated');
+    
 	ga('send', 'pageview');
 </script>
 
@@ -917,6 +953,7 @@ var google_conversion_value = 0;
 	<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=20030182&cv=2.0&cj=1" /> </noscript> 
 	<!-- End comScore Tag -->
 
+	<!-- If this is not an article page OR it is a published article page -->
 	<!-- START Parse.ly Include: Standard -->
 			<div id="parsely-root" style="display: none">
 			  <div id="parsely-cfg" data-parsely-site="tastingtable.com"></div>
@@ -932,12 +969,40 @@ var google_conversion_value = 0;
 					} else if(Cookies.get('eSID')) {
 						visitorId = Cookies.get('eSID');
 					}
-					if(visitorId > 0) {
+					if(visitorId > 0) 
+					{
+						
 						var parselyTrackUrl = 'https://api.parsely.com/v2/profile?apikey=tastingtable.com&url='+encodeURIComponent('http://www.tastingtable.com/faq')+'&uuid='+visitorId;
 						$.ajax({url:parselyTrackUrl,dataType: 'jsonp',success:function(data){}});
 					}
 				});
 			}
+			
+			PARSELY = 
+			{
+				// after PARSELY tracking code loads asynchronously
+				onload: function() 
+						{
+							var visitorId = 0;
+							if(Cookies.get('com.equinox.wedding_jack.gui.UserCookie')) {
+								visitorId = Cookies.get('com.equinox.wedding_jack.gui.UserCookie');
+							} else if(Cookies.get(visitorLoginCookieName)) {
+								visitorId = Cookies.get(visitorLoginCookieName).substr(0, Cookies.get(visitorLoginCookieName).indexOf('~'));
+							} else if(Cookies.get('eSID')) {
+								visitorId = Cookies.get('eSID');
+							}
+							if(visitorId > 0) 
+							{
+								PARSELY.beacon.trackPageView(
+								{
+									url: "http://www.tastingtable.com/faq",
+									action: "_subscriberPageView",      // custom event type; just used make sure the event does not change the normal Parsely dashboard data
+									data: {subscriberId: visitorId}
+								});
+								return true;
+							}
+						}
+			};
 			(function(s, p, d) {
 			  var h=d.location.protocol, i=p+"-"+s,
 				  e=d.getElementById(i), r=d.getElementById(p+"-root"),
@@ -951,27 +1016,9 @@ var google_conversion_value = 0;
 			<!-- END Parse.ly Include -->
 		<script type="text/javascript" src="https://tags.crwdcntrl.net/c/7051/cc.js?ns=_cc7051" id="LOTCC_7051"></script>
 			<script type="text/javascript" language="javascript">_cc7051.bcp();</script>
-		<!-- trueAnthem Begin -->
-		<script> (function (w, d) { var s1 = d.getElementsByTagName('script')[0], s = d.createElement('script'), cid = '415'; s.src = '//tru.am/scripts/ta-pagesocial-sdk.js'; if (s.addEventListener) { s.addEventListener('load', function () { w.TRUE_ANTHEM.configure(cid); }, false); } else { s.onreadystatechange = function () { if (s.readyState in {loaded: 1, complete: 1}) { s.onreadystatechange = null; w.TRUE_ANTHEM.configure(cid); } }; } s1.parentNode.insertBefore(s, s1); }(window, document)); </script> 
-	<!-- Facebook Conversion Code for Ad Page Views  -->
+		<!-- Facebook Conversion Code for Ad Page Views  -->
 	<!-- End Facebook Conversion tag  -->
 	
-	<!-- Facebook Pixel Code -->
-		<script>
-		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-		document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-		fbq('init', '601527943309232');
-		fbq('track', "PageView");
-		//in signup.js - fbq('track', 'CompleteRegistration');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-		src="https://www.facebook.com/tr?id=601527943309232&ev=PageView&noscript=1"
-		/></noscript>
-	<!-- End Facebook Pixel Code -->
 	<!-- NEW SIGN UP MODAL -->
 <div id="newLoginSignModal" style="display:none;">
     <div class="tabs">
@@ -995,7 +1042,7 @@ var google_conversion_value = 0;
 				<input type="hidden" name="action" value="login">
 				<input type="hidden" name="cookieexists" value="true">
 				<input type="hidden" name="jsenabled" value="true">
-				<input type="hidden" name="csrfToken" value="ee503a87-45d0-4e42-9d3c-ae156e3b160d">
+				<input type="hidden" name="csrfToken" value="797170fc-9538-4cf7-93b9-8639ba82416d">
 				<input type="hidden" name="followUpFunction" value="">
                  <input required="" type="email" placeholder="EMAIL ADDRESS" name="emailAddress" id="emailAddress" value="" class="">
                  <input required="" type="password" placeholder="PASSWORD" name="password" id="password" class="">
@@ -1073,6 +1120,7 @@ var google_conversion_value = 0;
 </div>		
 <!-- //NEW SIGN UP -->
 <script type="text/javascript" src="//cdn.jsdelivr.net/whatsapp-sharing/1.3.3/whatsapp-button.js"></script>
+
 
 
 
