@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwu.edu privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616233213id_/https%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwu.edu privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002154649id_/https%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | The George Washington University
 
