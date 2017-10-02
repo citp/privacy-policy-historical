@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flareaudio.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221021125id_/https%3A//www.flareaudio.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flareaudio.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002111145id_/https%3A//www.flareaudio.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | Flare Audio
+# Privacy & Cookie Policy | Flare Audio Ltd
 
 At Flare Audio®, we respect your concerns about privacy and value the relationship we have with you.
 
@@ -106,7 +106,7 @@ These cookies are set by Flare® in order to collect statistical (aggregated and
 
 These cookies enable useful services and functionalities, for example the online chat support, and are offered by Flare®'s partners.
 
-### Online behavioral advertising cookies
+### Online behavioural advertising cookies
 
 These cookies are set by Flare® or by advertising partners in order to collect several pieces of information about your browsing habits, product and services preferences. This information will allow Flare® and partners to display relevant ads on partner websites and on Flare®'s websites.
 
@@ -214,7 +214,7 @@ Product registration cards
 
 **How we use your Personal Information:** In general, the Personal Information will be used for the following purposes:
 
-Processing your orders, answering your questions on Bose products and services, or providing you with technical updates on our products and services in different areas, such as fulfillment of an order or billing.
+Processing your orders, answering your questions on Flare® products and services, or providing you with technical updates on our products and services in different areas, such as fulfillment of an order or billing.
 
 Carrying out market studies on the basis of aggregate (not personally identifiable) information in order to improve our products and services. Such market studies may be carried out with the help of external partners processing these data on behalf of Flare®.
 
