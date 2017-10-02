@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilterzogirone.it privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517114703id_/http%3A//brainheadway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilterzogirone.it privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002154021id_/http%3A//brainheadway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Brainheadway.com
 
