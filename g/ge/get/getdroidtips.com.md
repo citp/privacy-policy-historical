@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getdroidtips.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419195948id_/http%3A//www.getdroidtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdroidtips.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002131532id_/https%3A//www.getdroidtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,15 +26,7 @@ We may use the information we collect from you when you register, make a purchas
 
 **How do we protect your information?**
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
-
-We only provide articles and information. We never ask for credit card numbers.
-
-We use regular Malware Scanning.
-
-We do not use an SSL certificate
-
-**•** We do not need an SSL because:
+We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers. We use regular Malware Scanning.
 
 **Do we use 'cookies'?**
 
@@ -42,9 +34,11 @@ We do not use cookies for tracking purposes
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
-If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.
+If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly. However, you will still be able to place orders .
 
-However, you will still be able to place orders .
+  * **Click here to opt-out of Google Analytics**
+
+
 
 **Third-party disclosure**
 
@@ -56,7 +50,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-[Google](http://www.getdroidtips.com/tag/google/)'s advertising requirements can be summed up by [Google](http://www.getdroidtips.com/tag/google/)'s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+[Google](https://www.getdroidtips.com/tag/google/)'s advertising requirements can be summed up by [Google](https://www.getdroidtips.com/tag/google/)'s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
@@ -108,21 +102,21 @@ No
 
 or contacting us directly.
 
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
  **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**•** Not use false or misleading subjects or email addresses.
+ **•** Not use false or misleading subjects or email addresses.
 
  **•** Identify the message as an advertisement in some reasonable way.
 
  **•** Include the physical address of our business or site headquarters.
 
  **•** Monitor third-party email marketing services for compliance, if one is used.
-
- **•** Honor opt-out/unsubscribe requests quickly.
 
  **•** Allow users to unsubscribe by using the link at the bottom of each email.
 
