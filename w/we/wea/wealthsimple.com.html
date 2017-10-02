@@ -1,401 +1,415 @@
-<!--The following is the downloaded HTML source of the wealthsimple.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907163150id_/https%3A//www.wealthsimple.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wealthsimple.com privacy policy that was archived on 2017-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171002180935id_/https%3A//www.wealthsimple.com/en-us/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html ng-app="ws.sages" ng-strict-di=""><head>
+    <title>Privacy Policy | Wealthsimple</title>
     <meta charset="utf-8">
-    <title>Wealthsimple | Privacy Policy</title>
-    <meta content="Wealthsimple is the smartest and easiest way for Canadians to invest their savings." name="description">
-    <meta content="https://www.wealthsimple.com/images/logo-square-428276c1.png" property="og:image">
-    <meta content="width=device-width, initial-scale=1" name="viewport">
-    <meta content="app-id=948087968" name="apple-itunes-app">
-    <meta content="app-id=com.wealthsimple" name="google-play-app">
-    <link href="/images/apple-touch-icon-800b1e49.png" rel="apple-touch-icon">
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5VMK8G"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/6rtp739l85/analytics.min.js"></script><script src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.4/rollbar.min.js" async=""></script><script>
-      var _rollbarConfig = {
-        accessToken: "416859754780460fbec316fb424c0dce",
-        captureUncaught: true
-      };
-      !function(r){function t(e){if(o[e])return o[e].exports;var n=o[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,t),n.loaded=!0,n.exports}var o={};return t.m=r,t.c=o,t.p="",t(0)}([function(r,t,o){"use strict";var e=o(1).Rollbar,n=o(2),a="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.4/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||a;var i=e.init(window,_rollbarConfig),l=n(i,_rollbarConfig);i.loadFull(window,document,!1,_rollbarConfig,l)},function(r,t){"use strict";function o(){var r=window.console;r&&"function"==typeof r.log&&r.log.apply(r,arguments)}function e(r){this.shimId=++u,this.notifier=null,this.parentShim=r,this.logger=o,this._rollbarOldOnError=null}function n(r,t,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),t&&t.apply(window,o)}function a(r){var t=e;return l(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,e="scope"===r;e&&(o=new t(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),e?o:void 0})}function i(r,t){if(t.hasOwnProperty&&t.hasOwnProperty("addEventListener")){var o=t.addEventListener;t.addEventListener=function(t,e,n){o.call(this,t,r.wrap(e),n)};var e=t.removeEventListener;t.removeEventListener=function(r,t,o){e.call(this,r,t&&t._wrapped?t._wrapped:t,o)}}}function l(r,t){return t=t||o,function(){try{return r.apply(this,arguments)}catch(o){t("Rollbar internal error:",o)}}}var u=0;e.init=function(r,t){var o=t.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShimQueue=[],r._rollbarWrappedError=null,t=t||{};var a=new e;return l(function(){if(a.configure(t),t.captureUncaught){a._rollbarOldOnError=r.onerror,r.onerror=function(){var r=Array.prototype.slice.call(arguments,0);n(a,a._rollbarOldOnError,r)};var e,l,u="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(e=0;e<u.length;++e)l=u[e],r[l]&&r[l].prototype&&i(a,r[l].prototype)}return r[o]=a,a},a.logger)()},e.prototype.loadFull=function(r,t,o,e,n){var a=function(){var t;if(void 0===r._rollbarPayloadQueue){var o,e,a,i;for(t=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(a=o.args,i=0;i<a.length;++i)if(e=a[i],"function"==typeof e){e(t);break}}"function"==typeof n&&n(t)},i=t.createElement("script"),u=t.getElementsByTagName("script")[0];i.src=e.rollbarJsUrl,i.async=!o,i.onload=l(a,this.logger),u.parentNode.insertBefore(i,u)},e.prototype.wrap=function(r,t){try{var o;if(o="function"==typeof t?t:function(){return t||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(t){throw t._rollbarContext=o()||{},t._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=t,t}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var s="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<s.length;++p)e.prototype[s[p]]=a(s[p]);r.exports={Rollbar:e,_rollbarWindowOnError:n}},function(r,t){"use strict";r.exports=function(r,t){return function(o){if(!o&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=t||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
-    </script>
-    <script src="//cdn.optimizely.com/js/3133090243.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    <script>
-      window.data = {"new_onboarding_url":"https://my.wealthsimple.com/signup"};
-      window.WS = window.WS || {};
-      window.WS.Images = {
-        slideshow: {
-          bar: "/images/splash/bar-c9bf7c8f.png",
-          pie: "/images/splash/pie-d63f3a89.png",
-          line: "/images/splash/line-ee146b0a.png"
-        }
-      };
-    </script>
-    <script>
-      // Segment analytics script
-      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
-      analytics.load("6rtp739l85");
-      analytics.page()
-      }}();
-      // end of segment snippet
-    </script>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5VMK8G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5VMK8G');</script>
-    <!-- End Google Tag Manager -->
-    <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-    f[z]=function(){
-    (a.s=a.s||[]).push(arguments)};var a=f[z]._={
-    },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-    f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-    0:+new Date};a.P=function(u){
-    a.p[u]=new Date-a.p[0]};function s(){
-    a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-    hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-    return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-    b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-    b.contentWindow[g].open()}catch(w){
-    c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-    var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-    b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-    loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-    <!-- * custom configuration goes here (www.olark.com/documentation) */ -->
-    olark.identify("7844-372-10-2968");/*]]>*/
-    </script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', "UA-49177317-2", 'wealthsimple.com');
-      ga('require', 'displayfeatures');
-      ga('send', 'pageview');
-    </script>
-    <script>
-      adroll_adv_id = "AF7576BVB5GFHBXE6VVXDP";
-      adroll_pix_id = "TTZDUDNEARDEHJH2PC4PTX";
-      (function () {
-      var oldonload = window.onload;
-      window.onload = function(){
-         __adroll_loaded=true;
-         var scr = document.createElement("script");
-         var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-         scr.setAttribute('async', 'true');
-         scr.type = "text/javascript";
-         scr.src = host + "/j/roundtrip.js";
-         ((document.getElementsByTagName('head') || [null])[0] ||
-          document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-         if(oldonload){oldonload()}};
-      }());
-    </script>
-    <link href="/stylesheets/application-bd092ec3.css" rel="stylesheet" type="text/css">
-    <script src="/javascripts/application-108b2c75.js" type="text/javascript"></script>
-  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-  <body class="legal legal_privacy locale-en"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-    <div id="unsupported-browser" style="display:none">
-      <p>Warning: You are using an unsupported browser.</p>
-      <p>
-        <a href="http://browsehappy.com/" target="_blank">Learn how to upgrade your web browser.</a>
-      </p>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5VMK8G"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"125b6ddccc","applicationID":"44294101","transactionName":"JVxYEUEMW1UHSk43WQhSQhdSTGRYBV0SJUAWHHEgZ0MZEg==","queueTime":0,"applicationTime":6,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+
+      <meta name="apple-itunes-app" content="app-id=948087968">
+      <meta name="google-play-app" content="app-id=com.wealthsimple">
+
+    <meta property="og:image" content="https://www.wealthsimple.com/images/social/og-image.jpg">
+    <link rel="apple-touch-icon" href="https://www.wealthsimple.com/apple-touch-icon.png">
+
+
+
+
+    <link rel="alternate" hreflang="en-ca" href="https://www.wealthsimple.com/en-ca/legal/privacy">
+    <link rel="alternate" hreflang="fr-ca" href="https://www.wealthsimple.com/fr-ca/legal/privacy">
+    <link rel="alternate" hreflang="en-us" href="https://www.wealthsimple.com/en-us/legal/privacy">
+
+    <link href="/stylesheets/above-fold-9c0bdc2c.css" rel="stylesheet">
+      <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5VMK8G');</script>
+
+    
+  </head>
+
+  <body class="en-us en-us_legal en-us_legal_privacy en-us_legal_privacy_index legal legal_privacy legal_privacy_index locale-en-us">
+    <nav class="hamburger-menu hide-md">
+  <div class="hamburger-button-close" data-hamburger-action="close"></div>
+
+  <div class="hamburger-menu-items">
+    <div class="hamburger-menu-items-main">
+        <a class="hamburger-nav-link header-nav-link-details " href="/en-us/details">The Details</a>
+        <a class="hamburger-nav-link header-nav-link-magazine " href="/en-us/magazine">Magazine</a>
+      <a class="hamburger-nav-link " href="/en-us/who-we-are">Who we are</a>
+          <a class="hamburger-nav-link " href="/en-us/black">Wealthsimple Black</a>
+        <a href="https://my.wealthsimple.com/app/login" class="hamburger-nav-link header-nav-link-login">Sign in</a>
     </div>
-    <script>
-      if (bowser.msie && bowser.version <= 8 ||
-          bowser.firefox && bowser.version <= 17) {
-        document.getElementById("unsupported-browser").removeAttribute("style");
-      }
-    </script>
-    <div class="primary-navbar navbar-lg" data-hide-nav-border="false">
-      <button class="navbar-toggle" data-target=".navbar-collapse-1" data-toggle="collapse" type="button">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="logo-container" href="/">
-        <div class="ws-icon-logo"></div>
+    <div class="hamburger-menu-items-secondary">
+        <a class="hamburger-nav-link header-nav-link-signup" href="https://my.wealthsimple.com/signup">Start investing</a>
+      <ul class="app-icons">
+        <li class="app-icon app-icon-ios">
+          <a href="https://itunes.apple.com/ca/app/wealthsimple/id948087968?ls=1&amp;mt=8" class="" title="Download on the App Store">
+  Download on the App Store
+</a>
+
+        </li>
+        <li class="app-icon app-icon-android">
+          <a href="https://play.google.com/store/apps/details?id=com.wealthsimple" class="" title="Download on the App Store">
+  Android app on Google Play
+</a>
+
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!--
+  <div class="hamburger-menu-items js-nav-logged-in">
+    <a href="https://staging.wealthsimple.com">View performance</a>
+    <a href="https://my.wealthsimple.com/logout">Log out</a>
+  </div>
+  -->
+</nav>
+
+
+<header class="header js-header">
+  <div class="container row row-vertical-center">
+<a class="header-logo" href="/en-us/">      <img alt="Wealthsimple" class="header-logo-image" src="/images/header/logo-6d3513aa.svg">
+      <img alt="Wealthsimple" class="header-logo-image-inverted" src="/images/header/logo-inverted-884b4e3b.svg">
+      <img alt="Wealthsimple" class="header-logo-image-small" src="/images/header/logo_small-74f2774e.svg">
+      <img alt="Wealthsimple" class="header-logo-image-small-inverted" src="/images/header/logo_small_inverted-8a7ba7c8.svg">
+</a>
+    <nav class="header-nav block-md">
+      <ul class="row row-align-right row-align-center">
+            <li><a class="header-nav-link header-nav-link-details " href="/en-us/details">The Details</a></li>
+            <li><a class="header-nav-link header-nav-link-magazine " href="/en-us/magazine">Magazine</a></li>
+            <li><a class="header-nav-link header-nav-link-login" href="https://my.wealthsimple.com/app/login">Sign in</a></li>
+            <li><a class="header-nav-link button header-nav-link-signup" href="https://my.wealthsimple.com/signup">Start investing</a></li>
+      </ul>
+    </nav>
+
+      <a class="main-nav-hamburger hamburger-icon hide-md" data-hamburger-action="open">
+        <div class="hamburger-icon-lines">
+          <div class="hamburger-icon-line"></div>
+          <div class="hamburger-icon-line"></div>
+          <div class="hamburger-icon-line"></div>
+        </div>
       </a>
-      <div class="collapse navbar-collapse navbar-collapse-1">
-        <ul class="nav navbar-nav navbar-left">
-          <li class="dropdown">
-            <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="#" role="button">
-              About us
-              <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu" role="menu">
-              <li>
-                <a href="/team">Our team</a>
-                <a href="/why">Our mission</a>
-                <a href="/how">How we do it</a>
-              </li>
-            </ul>
-          </li>
-          <li class="dropdown">
-            <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="#" role="button">
-              Features
-              <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu" role="menu">
-              <li>
-                <a href="/features/simple-setup">Simple setup</a>
-                <a href="/accounts/tfsa-tax-free-savings-account">Account types</a>
-                <a href="/features/rebalancing">Rebalancing</a>
-                <a href="/features/dividend-reinvestment">Dividend reinvestment</a>
-                <a href="/features/financial-planning">Financial planning</a>
-                <a href="/features/low-cost">Low cost</a>
-                <a href="/funds/ishares-laddered-bond-fund">Funds we invest in</a>
-                <a href="/features/tax-loss-harvesting">Tax-loss harvesting</a>
-                <a href="/security">Security</a>
-                <a href="/methodology">Methodology</a>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <a href="/pricing">Pricing</a>
-          </li>
-          <li class="dropdown hidden-tablet">
-            <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="#" role="button">
-              Learn more
-              <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu" role="menu">
-              <li>
-                <a href="/press">Press</a>
-                <a href="/lunch">Host a lunch &amp; learn</a>
-                <a href="http://blog.wealthsimple.com" target="_blank">Blog</a>
-                <a href="http://faq.wealthsimple.com" target="_blank">Knowledge base</a>
-                <a href="/refer-a-friend">Refer a friend</a>
-                <a href="/jobs">Join the team</a>
-                <a href="/scholarship">Scholarship</a>
-                <a href="/contact">Contact us</a>
-              </li>
-            </ul>
-          </li>
+  </div>
+</header>
+
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5VMK8G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- Tag for Activity Group: Wealthsimple, Activity Name: Wealthsimple - Homepage, Activity ID: 3102437 -->
+<!-- Expected URL: http://www.wealthsimple.com -->
+
+<!--
+Activity ID: 3102437
+Activity Name: Wealthsimple - Homepage
+Activity Group Name: Wealthsimple
+-->
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Wealthsimple - Homepage
+URL of the webpage where the tag is expected to be placed: http://www.wealthsimple.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 02/02/2016
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://5363320.fls.doubleclick.net/activityi;src=5363320;type=wealt0;cat=wealt0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="https://5363320.fls.doubleclick.net/activityi;src=5363320;type=wealt0;cat=wealt0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=3537032305434.156?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+<iframe src="https://5363320.fls.doubleclick.net/activityi;src=5363320;type=wealt0;cat=wealt0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+    <link href="/stylesheets/application-a133f0e3.css" rel="stylesheet">
+
+      <section class="container container-article row-md row-lg">
+
+    <div class="sub-nav-overflow-wrap col-lg-3 col-md-5">
+      <nav class="sub-nav sub-nav-side">
+        <ul>
+            <li><a class=" " href="/en-us/legal/terms">Terms of use</a></li>
+            <li><a class=" " href="/en-us/legal/privacy">Privacy policy</a></li>
+            <li><a class=" " href="/en-us/legal/privacy-shield">EU-US Privacy Shield</a></li>
+            <li><a class=" " href="/en-us/legal/disclosure">Full disclosure</a></li>
+            <li><a class=" " href="/en-us/legal/file-complaint">File a complaint</a></li>
         </ul>
-        <ul class="nav navbar-nav navbar-right logged-out-nav" hidden="">
-          <form action="https://my.wealthsimple.com/login" method="post">
-            <ul class="nav navbar-nav navbar-right">
-              <li class="inline-login-inputs-container hidden-small-screens">
-                <input class="inline-login-input form-control" name="email" placeholder="Email" style="display: none" type="text">
-                <input autocomplete="off" class="inline-login-input form-control" name="password" placeholder="Password" style="display: none" type="password">
-              </li>
-              <li class="hidden-small-screens">
-                <input class="login-link" type="submit" value="Log in">
-              </li>
-              <li class="only-small-screens">
-                <a href="https://my.wealthsimple.com/login">Log in</a>
-              </li>
-              <li class="sign-up-wrapper">
-                <a class="btn btn-primary btn-invest-now" href="https://my.wealthsimple.com/signup">Get started</a>
-              </li>
-            </ul>
-          </form>
+      </nav>
+    </div>
+
+    <div class="article-content col-7">
+      <h1>Privacy Policy</h1>
+
+      <p><strong>Effective as of December 1, 2016</strong></p>
+
+<p>We  at  Wealthsimple  US,  Ltd.  (“Wealthsimple,”“we,”“us,”  or “our”)  have  created  this  privacy  policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy relates to the information collection and use practices of Wealthsimple in connection with our Platform.</p>
+
+<h2>Acceptance of Terms</h2>
+
+<p>By visiting our Platform, you are agreeing to the terms of this  Agreement.  Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.</p>
+
+<h2>The Information We Collect and/or Receive</h2>
+
+<p>In the course of operating the Platform and/or interacting with you, Wealthsimple will collect (and/or receive) the following types of information. You authorize us to collect and/or receive such information.</p>
+
+<h3>1. Personal Information</h3>
+
+<p>We  do  not  collect any  personal  information from  you, unless  you  provide  such information  voluntarily, such as  by  registering  with us,  sending  us  an  e-mail,  uploading  User Content, or interacting  with us  via our social media pages, such as through Facebook.  Any such social media platforms are operated by the social networks themselves and are subject to their terms of use and privacy policies.All information we collect and/or receive under this section is collectively called “Personal Information.”</p>
+
+<h3>2. Geolocational Information</h3>
+
+<p>Certain features and functionalities  of the Platform are based on  your location.  In order to provide these features   and   functionalities   while   you   are   using   a   mobile   device,   we   may,   with   your   consent, automatically collect geolocational information from your mobile device or wireless carrier and/or certain third-party  service  providers.    Such  information  is  collectively  called  the “Geolocational  Information.”Collection  of such Geolocational Information  occurs  only  when the  Platform is  running  on  your  mobile device.    You  may  decline  to  allow  us  to  collect  such  Geolocational  Information,  in  which  case Wealthsimple may not be able to provide certain features or functionalities to you.</p>
+
+<h3>3. Other Information.</h3>
+
+<p>In addition to the Personal Information and  the Geolocational Information, we may  automatically collect or  receive  additional  information  regarding  you  and  your  use of  our  Platform,  your  interactions  with  us and  our advertising, as  well as  information regarding your computer or other devices  used to  access our Platform (collectively, the “Other Information”).  Such Other Information may include:</p>
+
+<p><strong>From Your Activity</strong>:</p>
+
+<ul>
+<li>IP  address,  which  may  consist  of  a  static  or  dynamic  IP  address  and  will sometimes point to a specific identifiable computer or device;</li>
+<li>Browser type and language;</li>
+<li>Referring and exit pages and URLs;</li>
+<li>Date and time;</li>
+<li>Details regarding your activity on the Platform, such as search queries, amount of time spent viewing pages, and other performance and usage data.</li>
+</ul>
+
+<p><strong>About Your Device</strong>:</p>
+
+<ul>
+<li>Type of device;</li>
+<li>Advertising Identifier (“IDFA” or “AdID”);</li>
+<li>Operating system and version (e.g., iOS, Android or Windows);</li>
+<li>Carrier;</li>
+<li>Geo-location; and</li>
+<li>Network type (WiFi, 3G, 4G, LTE).</li>
+</ul>
+
+<p><strong>From Cookies</strong>:</p>
+
+<p>We may use both session cookies, which expire once you close your web browser, and persistent cookies, which stay on your computer until you delete them and other technologies to help us collect  data and  to  enhance  your  experience  with  the  Platform.    Cookies  are  small  text  files  a  website  can  use  to recognize a repeat visitor to the website.  We may use cookies for various purposes, including to:</p>
+
+<ul>
+<li>authenticate users;</li>
+<li>personalize your experience;</li>
+<li>analyze which portions of the Platform are visited or used most frequently; and</li>
+<li>measure and optimize advertising and promotional effectiveness.</li>
+</ul>
+
+<p>If you  do  not  want  Wealthsimple  to  deploy cookies  in your browser, you can  opt out by setting your  browser  to  reject  cookies  or  to  notify  you  when  a  website  tries  to  put  a  cookie  in  your  browser software.  If you choose to disable cookies in your browser, you can still use the Platform, although your ability to use some of the features may be affected.</p>
+
+<p><strong>Third-Party Analytics</strong>:</p>
+
+<p>We, the Platform, and the third-party technology providers, ad exchanges, ad networks, advertisers, agencies, ad exchanges, and ad servers with which we work use third-party analytics services (such  as  Google  Analytics)  to  evaluate  your  use  of  the  Platform,  compile  reports  on  activity,  collect demographic data, analyze performance metrics, and collect and evaluate other information relating to the Platform  and  mobile and Internet usage.   These third  parties use cookies  and  other technologies  to  help analyze  and  provide  us  the  data. You  consent  to  the  processing  of  data  about  you  by  these  analytics providers in the manner and for the purposes set out in this Privacy Policy.  For more information on these third parties, including how to opt out from certain data collection, please visit the sites below.  Please be advised that if you opt out of any service, you may not be able to use the full functionality of the Platform. For Google Analytics, please visit <a href="https://www.google.com/analytics">https://www.google.com/analytics</a></p>
+
+<p><strong>From You</strong>:</p>
+
+<p>Additional information that you voluntarily provide to us (either directly or via our social media pages), such as ratings of dishes and other information that does not identify you personally.</p>
+
+<h2>The Information Collected by or Through Third-Party Advertising Companies</h2>
+
+<p>We  may  share  Other  Information  about  you  with  third  parties  for  ad  distribution  and  ad optimization (defined  as  the  tailoring,  targeting  (i.e.,  behavioral,  contextual,  and  retargeting),  analyzing,  managing, reporting,  and  optimizing  of  ads).    These  third  parties  may  use  cookies,  pixel  tags  (also  called  web beacons  or  clear  gifs),  and/or  other  technologies  to  collect  Other  Information  for  such  purposes.    Pixel tags  enable  us  and  these  third-party  advertising  companies  to  recognize  a  browser’s  cookie  when  a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to  a  given  site.    In  addition,  we  may  receive  Other  Information  from  advertisers  and/or  their  service providers such as advertising identifiers, IP addresses, and post-conversion data.</p>
+
+<p>Neither  we  nor  any  third  party  acting  on  our  behalf  employs  behavioral  advertising  or  retargeting  in connection with users whom we know to be under 13 years old.</p>
+
+<h2>How the Information is Used and Shared</h2>
+
+<p>We use the Personal Information, the Geolocational Information, and the Other Information (collectively, the “Information”)  to  provide  our  services;  to  administer  our  rewards  and  promotional  programs;  to maintain and improve our Platform and services to you; to solicit your feedback; and to inform you about our products and services and those of our third-party marketing partners.</p>
+
+<p>We may also use and/or share Information as described below.</p>
+
+<ul>
+<li>Wealthsimple  will  access,  use,  and  share  the  Information  as  required  to  provide  services  or support to you in connection with your use of the Platform.</li>
+<li>In  order to  provide  our services  and administer our rewards  and promotional programs,  we  may share the Information with our third-party promotional and marketing partners, including, without limitation, businesses participating in our various programs.</li>
+<li>We may, from time to time, share and/or license Information to other companies or third parties, including our partners who may provide you information about the products and services they or their partners offer.  However, to the extent required by law, you will be given the opportunity to opt out of such sharing.</li>
+<li>With your permission, third-party applications or services may access your Personal Information.  We  use  standard  OAuth  (open  authorization)  to  enable  you  to  give  permission  to  share  your Personal Information  with  other  websites and services, such as LinkedIn,  Facebook  and Twitter (e.g.,  when  you  agree  to  a  pop-up  requesting  you  to  allow  another  application  to  access  your account  information).    We  also  use  OAuth  to  allow  us  to  share  information  about  you  that  is stored by us without sharing your security credentials.</li>
+<li>We may employ other companies and individuals to perform functions  on our behalf.  Examples may  include  providing  technical  assistance,  customer  service,  and marketing  assistance.    These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.</li>
+<li>In  an  ongoing  effort  to  better  understand  our  users,  and  our  products  and  services,  we  may analyze  Information  in  aggregate  form  in  order  to  operate,  maintain,  manage,  and  improve  the Platform  and/or  our  products  and  services.    This  aggregate  information  does  not  identify  you personally.  We  may share this aggregate  data with  our affiliates, agents, and business partners. We may also disclose aggregated user statistics  in order to  describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.</li>
+<li>We  may  share  some  or  all  of  your  Information  with  any  of  our  parent  companies,  subsidiaries, joint ventures, or other companies under common control with us.</li>
+<li>As  we  develop  our  businesses,  we  might  sell  or  buy  businesses  or  assets.   In  the  event  of  a corporate   sale,   merger,   reorganization,   sale   of   assets,   dissolution,   or   similar   event,   the Information may be part of the transferred assets.</li>
+</ul>
+
+<p>To  the  extent  permitted  by  law,  we  may  also  disclose  the Information:  (i)  when  required  by  law,  court order,  or  other  government  or  law  enforcement  authority  or  regulatory  agency;  or  (ii)  whenever  we believe  that  disclosing  such  Information  is  necessary  or  advisable,  for  example,  to  protect  the  rights, property, or safety of Wealthsimple or others.</p>
+
+<h2>How to Opt Out of Third-Party Interest-Based Advertising</h2>
+
+<p>If      you      wish      to      opt      out      of      third-party      interest-based      advertising,      please      visit <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a> and <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> for details on how to do so.</p>
+
+<p>Additionally, users of mobile devices can follow the below instructions:</p>
+
+<p><strong>Android Users</strong></p>
+
+<p>For Android devices with OS 2.2 and up and Google Play Services version 4.0 and up:</p>
+
+<p>Open your Google Settings app &gt; Ads &gt; Enable “Opt out of interest-based advertising.”</p>
+
+<p><strong>iOS Users</strong></p>
+
+<p><em>iOS 7 or Higher</em></p>
+
+<p>Go to your Settings &gt; Select Privacy &gt; Select Advertising &gt; Enable the “Limit Ad Tracking” setting.</p>
+
+<p><em>iOS 6</em></p>
+
+<p>Go to your Settings &gt;Select General &gt; Select About &gt; Select Advertising &gt; Enable the “Limit Ads Tracking” setting.</p>
+
+<h2>Accessing and Modifying Information and Communication Preferences</h2>
+
+<p>If you have provided us any Personal Information, you may access, remove, review, and/or make changes to the same by contacting us as set forth below.   In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Wealthsimple marketing e-mail.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is  not always possible to completely remove or modify information in our subscription databases.  You cannot opt out of receiving transactional e-mails related to the Platform (e.g., requests for support).</p>
+
+<h2>How We Protect Your Information</h2>
+
+<p>We  take  commercially  reasonable  steps  to  protect  the  Information  from  loss,  misuse,  and  unauthorized access,  disclosure,  alteration,  or  destruction.    Please  understand,  however,  that  no  security  system  is impenetrable.  We cannot guarantee the security of our databases or the databases of the third parties with which we may share such Information, nor can we guarantee that the Information you supply will not be intercepted while being transmitted over the Internet.  In particular, e-mail sent to us  may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.</p>
+
+<h2>Important Notices to Non-U.S. Residents</h2>
+
+<p>The Platform and its servers are operated in the  United States and elsewhere.  Please be aware that your Information, including your Personal Information, may be transferred to, processed, maintained, and used on   computers,   servers,   and   systems   located   outside   of   your   state,   province,   country,   or   other governmental  jurisdiction  where the privacy  laws  may not be as  protective as  those  in your jurisdiction.  If you are  located  outside the  United States  and  choose to use the Platform, you  hereby irrevocably and unconditionally consent to such transfer, processing, and use in the United States and elsewhere.</p>
+
+<h2>External Websites</h2>
+
+<p>The  Platform  may  contain  links  to  third-party  websites.    Wealthsimple  has  no  control  over  the  privacy practices or the content of these websites.  As such, we are not responsible for the content or the privacy policies  of  those  third-party  websites.    You  should  check  the  applicable  third-party  privacy  policy  and terms of use when visiting any other websites.</p>
+
+<h2>Children</h2>
+
+<p>The  Platform  is  not  directed  to  children  under  the  age  of  13.   Wealthsimple  adheres  to  the  Children’s Online Privacy Protection Act (“COPPA”) and will not knowingly collect Personal Information from any child under the age of 13.  We ask that minors (under the age of 13) not submit any Personal Information to us.  If you are under the age of 13, you may use the  Platform  only with the consent of your parent or guardian.</p>
+
+<p>If a child under the age of 13 has provided us with Personal Information, a parent or guardian of that child may contact us and request that such information be deleted from our records.</p>
+
+<h2>California Residents</h2>
+
+<p>Under  California  Civil  Code  Section  1798.83,  California  residents who  have  an  established  business relationship with Wealthsimple may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes.  If you are a California resident and (1) you wish to opt out; or (2) you  wish  to  request  certain  information  regarding  our  disclosure  of  your  Personal  Information  to  third parties  for  the  direct  marketing  purposes,  please  send  an  e-mail  to  <a href="mailto:privacy@wealthsimple.com">privacy@wealthsimple.com</a>  with “Privacy Policy” in the subject line or write to us at:</p>
+
+<p>
+  Wealthsimple US, Ltd.<br>
+  100 Crosby Street, Unit 306<br>
+  New York, New York 10012<br>
+  Attention: Privacy Policy
+</p>
+
+<p>In addition, Wealthsimple does not monitor, recognize, or honor any opt-out or do not track mechanisms, including  general  web  browser “Do  Not  Track”  settings  and/or  signals.For  instructions  on  how  to  opt out  of  third-party  interest-based  advertising,  please  see “How  to  Opt  Out  of  Third-Party  Interest-Based Advertising” above.</p>
+
+<h2>EU-U.S. Privacy Shield Framework</h2>
+
+<p>Wealthsimple complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Wealthsimple has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.</p>
+
+<h2>Changes to This Privacy Policy</h2>
+
+<p>This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time.   Any such changes  will be posted  on the Platform.    By accessing the Platform after we  make any such changes  to this  Privacy Policy,  you are deemed to have accepted such changes.    Please  be  aware  that,  to  the  extent  permitted  by  applicable  law,  our  use  of  the  Information  is governed by the Privacy Policy in effect at the time we collect the Information.  Please refer back to this Privacy Policy on a regular basis.</p>
+
+<h2>How to Contact Us</h2>
+
+<p>If you have questions about this Privacy Policy, please e-mail us at <a href="mailto:privacy@wealthsimple.com">privacy@wealthsimple.com</a> with “Privacy Policy” in the subject line.</p>
+
+    </div>
+  </section>
+
+
+    <footer class="container-full main-footer">
+  <div class="container footer-upper-block">
+    <div class="footer-content">
+      <div class="footer-list-wrapper">
+        <ul class="footer-list">
+          <li>About us</li>
+          <li><a class="footer-link" href="/en-us/who-we-are">Who we are</a></li>
+            <li><a class="footer-link" href="/en-us/work-with-us">Work with us</a></li>
         </ul>
-        <ul class="nav navbar-nav navbar-right logged-in-nav" hidden="">
-          <li>
-            <a class="view-performance-link" href="https://my.wealthsimple.com">View performance</a>
+      </div>
+      <div class="footer-list-wrapper">
+        <ul class="footer-list">
+          <li>Learn more</li>
+            <li><a class="footer-link" href="/en-us/details">The Details</a></li>
+            <li><a class="footer-link" href="/en-us/investing-101">Investing 101</a></li>
+            <li><a class="footer-link" href="http://www.wealthsimple.com/socially-responsible-investing">Responsible investing</a></li>
+            <li><a class="footer-link" href="/en-us/black">Wealthsimple Black</a></li>
+            <li><a class="footer-link" href="/en-us/magazine">Magazine</a></li>
+        </ul>
+      </div>
+      <div class="footer-list-wrapper">
+        <ul class="footer-list">
+          <li>Legal</li>
+            <li><a class="footer-link" href="/en-us/legal/terms">Terms of use</a></li>
+            <li><a class="footer-link" href="/en-us/legal/privacy">Privacy policy</a></li>
+            <li><a class="footer-link" href="/en-us/legal/disclosure">Full disclosure</a></li>
+            <li><a class="footer-link" href="/en-us/legal/file-complaint">File a complaint</a></li>
+        </ul>
+      </div>
+      <div class="footer-list-wrapper social">
+        <ul class="footer-list">
+          <li>Download the App</li>
+          <li class="app-icon app-icon-ios">
+            <a href="https://itunes.apple.com/ca/app/wealthsimple/id948087968?ls=1&amp;mt=8" target="_blank" class="" title="Download on the App Store">
+              Download on the App Store
+            </a>
+          </li>
+          <li class="app-icon app-icon-android">
+            <a href="https://play.google.com/store/apps/details?id=com.wealthsimple" target="_blank" class="" title="Download on the App Store">
+              Android app on Google Play
+            </a>
           </li>
         </ul>
       </div>
     </div>
-    <div class="standard-white-container">
-      <div class="container">
-        <div class="container max-md-container legal-container">
-          <h1 class="s-header-1">Privacy Policy</h1>
-        
-          <p>Wealthsimple is committed to protecting the privacy and confidentiality of personal information in our possession and control. This Privacy Policy explains the measures we take to fulfill these commitments and describes the manner in which Wealthsimple collects, uses, discloses and otherwise treats personal information through our website available at <a href="http://www.wealthsimple.com">wealthsimple.com</a>, including all subpages and successor pages (collectively referred to as the "Website") as well as through other interactions with our clients and prospective clients.</p>
-        
-          <p>This Privacy Policy may be updated periodically to reflect changes to our personal information practices. We strongly encourage you to refer to this Privacy Policy often for the latest information about our personal information practices.</p>
-        
-          <h2 class="subheader copy-xlg">We ask our clients for no more personal information than necessary.</h2>
-        
-          <p>Wealthsimple needs to collect personal information from our clients and prospective clients in order to provide services to you and fulfill our legal obligations. Understanding a client's needs and wants, financial position and family issues enables us to ensure that all investment recommendations are suitable. This is both a regulatory requirement and good business. Wealthsimple is committed to protecting our clients' privacy and the confidentiality of their personal information in our possession. This memorandum explains the measures we take to fulfill these commitments.</p>
-        
-          <p>The "Know Your Client" information forms we ask clients to complete elicit only the information we need for contractual, regulatory and income tax requirements including: name, address, phone and fax numbers, email addresses, birth date, social insurance numbers (for tax reporting purposes), asset holdings and values, investment knowledge and objectives. We also collect your chequing account information and optional beneficiary information (e.g. spouse's name and occupation, children's and dependents' names and ages).</p>
-        
-          <p>Our application forms for registered retirement accounts elicit only the information needed to register these accounts with the government including: social insurance number, spouse's or designated beneficiary's name and birth date. We do not disclose any non-public personal information to any third party except as required by law or as outlined in this Policy. We also collect your responses to a risk questionnaire and other regulatory questions that we are required by law to collect.</p>
-        
-          <h2 class="subheader copy-xlg">We limit the use of your personal information.</h2>
-        
-          <p>The personal information we collect when you open an account is used for the following purposes:</p>
-        
-          <ul>
-            <li>helping us choose the portfolio that best fits you and your needs;</li>
-            <li>verifying your identity [and other information you have provided to us];</li>
-            <li>opening and servicing your account;</li>
-            <li>sending and receiving bill payments through your chequing account;</li>
-            <li>detecting and preventing fraud and other unauthorized or illegal activities;</li>
-            <li>meeting legal and regulatory requirements; and</li>
-            <li>as otherwise required or permitted by applicable law.</li>
-          </ul>
-        
-          <h2 class="subheader copy-xlg">Other ways we collect and use personal information.</h2>
-        
-          <p><b>Referral Program:</b> If you participate in our referral program (or other "Invite a Friend" features that may be available on our Websites), we collect the email address of the individual(s) who you wish to refer to Wealthsimple. We use this information to send the recipient a one-time email containing information about the referral program. We do not use the email addresses submitted in these circumstances for any other purpose without the consent of the email recipient to do so. Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the email from you.</p>
-        
-          <p><b>Marketing Communications:</b> From time to time, we may obtain your consent to send you email, SMS text messages and other communications about Wealthsimple products, services, or events that may be of interest to you. You can opt-out of receiving marketing and promotional email from us by following the unsubscribe instructions contained in each of our email communications. Please note that you will continue to receive email regarding your account and transactions with us. Alternatively, you can unsubscribe from any of our marketing communications by contacting us at <a href="mailto:support@wealthsimple.com">support@wealthsimple.com</a>.</p>
-        
-          <p><b>Customer Service/Wealth Concierge:</b> If you contact a customer service agent or Wealth Concierge with a comment, question or complaint by email, text message, telephone or video chat, you may be asked for information that identifies you (such as your name, address and a phone number) along with additional information we need to help us promptly answer your question or respond to your comment or complaint. We may retain this information to assist you in the future and to improve our customer service and, product and service offerings.</p>
-        
-          <p><b>Employment:</b> If you inquire about or apply for a job with Wealthsimple, you may provide us with certain personal information about yourself (such as that contained in a resume, cover letter, or similar employment-related materials). We use this information for the purpose of processing and responding to your application for current and future career opportunities.</p>
-        
-          <h2 class="subheader copy-xlg">How we collect personal information.</h2>
-        
-          <p>Except as otherwise set out in this Privacy Policy, we collect personal information directly from you. When you open a Wealthsimple account, you will be required to open a broker account with Virtual Brokers, who provides trade execution, clearing and other services on our behalf. We collect personal information about you from Virtual Brokers, including records of transactions and statements of cash and securities in your accounts in order to monitor the investment performance of your portfolios and to provide statements to you as required by securities laws.</p>
-        
-          <h2 class="subheader copy-xlg">We limit access to clients' personal information.</h2>
-        
-          <p>We record clients' personal information electronically on computer servers to which only authorized persons have access, and only by means of secure passwords. We authorize employees and service providers to have access to clients' personal information only on a "need to know" basis in order to fulfill their job requirements.</p>
-        
-          <h2 class="subheader copy-xlg">We implement safeguards to protect personal information.</h2>
-        
-          <p>Wealthsimple maintains reasonable administrative, technical and physical safeguards in an effort to protect personal information in our custody and control against unauthorized access, use, modification and disclosure of. We train our employees to keep clients' personal information strictly private and confidential. We require all of our staff to sign our privacy document that obliges them to respect and protect clients' personal information. We ensure that departing staff understand they remain contractually obliged to respect the privacy of clients' personal information.</p>
-        
-          <p>Your online access to certain of your personal information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).</p>
-        
-          <p>We have personal information retention processes designed to retain personal information of our clients and prospective clients for no longer than necessary for the purposes set out in this Privacy Policy or to otherwise meet legal requirements.</p>
-        
-          <h2 class="subheader copy-xlg">We restrict disclosure of personal information.</h2>
-        
-          <p>We will not disclose, trade, rent, sell or otherwise transfer your personal information, without your consent, except as otherwise set out in this Privacy Policy.</p>
-        
-          <p><b>Service Providers:</b> We may transfer your personal information to our affiliates and other third party service providers who provide various services on our behalf such as identity verification, technology, administration, printing, marketing and advertising, hosting, data analysis, legal and accounting.</p>
-        
-          <p><b>Broker:</b> When you open a broker account with Virtual Brokers, we provide your account information to Virtual Brokers in order to streamline the application process. We also notify Virtual Brokers of any updates or changes to your account information.</p>
-        
-          <p><b>Business Transactions:</b> We may transfer any information we have about you as an asset in connection with a prospective or completed merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Wealthsimple or as part of a corporate reorganization or stock sale or other change in corporate control, including for the purpose of determining whether to proceed or continue with such transaction or business relationship.</p>
-        
-          <p><b>Securities Regulations:</b> We [and/or Virtual Brokers] may share your name, contact information and holdings with issuers of securities that you hold in your account and other persons/companies as required in accordance with securities law. Such issuers may require your personal information in order to deliver financial reports, tax documents and other relevant materials to you or to comply with applicable regulatory obligations. We [and/or Virtual Brokers] may also disclose certain personal information, including the number of and purchase price of units purchased, to the applicable Canadian securities regulatory authority where required by law.</p>
-        
-          <p><b>Legal:</b> We and our Canadian, US and other affiliate and third party service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to another organization for the purposes of investigating a breach of an agreement or contravention of law or detecting, suppressing or preventing fraud, or as otherwise required or permitted by applicable Canadian, US or other law (which may include lawful access requests by Canadian, US or other foreign courts, law enforcement or governmental authorities). We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims and to investigate or prevent actual or suspect loss or harm to persons or property.</p>
-        
-          <h2 class="subheader copy-xlg">We expect similar safeguards from our service providers.</h2>
-        
-          <p>Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. In the event personal information is transferred to the US or other foreign jurisdiction, it will be subject to the laws of that jurisdiction and may be disclosed to or accessed by the courts, law enforcement and governmental authorities in accordance with the laws of those jurisdictions.</p>
-        
-          <h2 class="subheader copy-xlg">We take privacy seriously.</h2>
-        
-          <p>Wealthsimple's Chief Compliance Officer, Dave Nugent, is responsible for ensuring that Wealthsimple adheres to its privacy policy. The Chief Compliance Officer is responsible for training our employees in our privacy policies and for monitoring the fulfillment of our privacy commitments. We invite any client or prospective client to contact him at the contact information set out below for any additional clarification desired. A client wishing to review his or her personal information in our possession should send a written request to this effect to Wealthsimple's Chief Compliance Officer.</p>
-        
-          <h2 class="subheader copy-xlg">We will provide you with access to your information.</h2>
-        
-          <p>Individuals have the right to access, update, and correct inaccuracies in his/her personal information in Wealthsimple's custody and control, subject to certain exceptions prescribed by law. You may update certain profile information you have provided to us by logging in to your account and clicking "Settings". Otherwise, an individual wishing to request access, updating and corrections of inaccuracies in other of his or her personal information in our possession or control may send a written request to this effect to Wealthsimple's Chief Compliance Officer at the contact information below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.</p>
-        
-          <p>
-            Wealthsimple Financial Inc.<br>
-            372 Richmond Street West<br>
-            Suite 120, Toronto ON<br>
-            M5V 1X6 Canada<br>
-            ATTN: David Nugent<br>
-            dave.nugent@wealthsimple.com<br>
-            1 (877) 222-7473
-          </p>
-        
-          <h2 class="subheader copy-xlg">We collect and use information about your visit to our website.</h2>
-        
-          <p>In general, you can visit our Website without indicating who you are or submitting any personal information. However, we collect and/or maintain the IP (Internet protocol) addresses of all visitors to the Website and other related information such as page requests, browser type, operating system and average time spent on the Website. We use this information to help us understand Website activity and to monitor and improve the Website.</p>
-        
-          <p><b>Cookies &amp; Similar Technologies:</b> The Website uses a technology called "cookies". A cookie is a tiny element of data that the Website can send to your browser, which may then be stored on your hard drive so that you can be recognized when you return. We use cookies on the pages on the Website where you are prompted to log in or that are customizable. If you have registered with the Website, these cookies  may let us know who you are and identify your browser as one that has visited the Website before and may be necessary to access your account information (stored on our computers) in order to deliver products and personalized services.  We also use cookies to provide us and our service providers with information about your use of the Website that we may use to personalize the Website or other content in accordance with your interests and preferences (e.g. language preference) and improve your user experience. You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies. However, if you decide not to accept cookies from the Website, you may not be able to take advantage of all of the features of the Website.</p>
-        
-          <p><b>Tracer Tags &amp; Web Beacons:</b> The Website may also use a technology called "tracer tags" or "Web Beacons". This technology allows us to understand which pages you visit on the Website. These tracer tags are used to help us optimize and tailor the Website for you and other future visitors to the Website.</p>
-        
-          <p><b>Website Analytics:</b> We may use third parties to help us gather and analyze information about the areas visited on the Website in order to better understand, evaluate and improve the user experience and the convenience of the Website.</p>
-        
-          <p><b>Social Media:</b> We may offer you the opportunity to engage with our content on or through third-party social networking websites, plug-ins and applications. When you engage with our content on or through third-party social networking websites, plug-ins and applications, you may allow us to have access to certain information associated with your social media account (e.g., name, username, email address, profile picture, gender) to deliver the content or as part of the operation of the website, plug-in or application. When you provide information from your social media account, we may use this information to personalize your experience on the Website and on the third-party social networking websites, plug-ins and applications, and to provide you with other products or services you may request.</p>
-        
-          <h2 class="subheader copy-xlg">We use online advertising.</h2>
-        
-          <p>We may use third parties such as ad exchanges and data companies to serve our advertisements on our Website or other websites. These companies may use cookies, tracer tags or web beacons to report certain information about your visits to our Websites and other websites (such as web pages you visit and your response to ads) in order to measure the effectiveness of our marketing campaigns and to deliver ads that are more relevant and tailored to you, both on and off our Website.</p>
-        
-          <p>To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit the Digital Advertising Alliance website at http://www.aboutads.info/choices/ or the Digital Advertising Alliance of Canada website at www.youradchoices.ca/choices.</p>
-        
-          <h2 class="subheader copy-xlg">We may provide links to third party websites.</h2>
-        
-          <p>Our Website may contain links to other websites that we do not own or operate. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. The linked websites have separate and independent privacy policies, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information.</p>
-        </div>
+  </div>
+  <div class="footer-divider"></div>
+  <div class="container footer-lower-block">
+    <div class="footer-content">
+      <div class="footer-list-wrapper footer-list-wrapper-contact">
+        <ul class="footer-list">
+          <li>Questions?</li>
+          <li><a class="footer-link" href="https://help.wealthsimple.com/hc/en-us/">Support center</a></li>
+            <li class="footer-list-item-faded"><a class="telephone-number" href="tel:+1 (855) 782-3559">+1 (855) 782-3559</a></li>
+            <li class="footer-list-item-faded">
+              <a href="mailto:help@wealthsimple.com" class="footer-link">help@wealthsimple.com</a>
+            </li>
+        </ul>
+      </div>
+      <div class="footer-list-wrapper">
+      </div>
+      <div class="footer-list-wrapper">
+        <ul class="footer-list footer-list-with-active">
+          <li>Country</li>
+          <li class="country country-gb">
+            <a class="" href="/en-gb/legal/privacy"></a>
+          </li>
+          <li class="country country-us">
+            <a class="active" href="/en-us/legal/privacy"></a>
+          </li>
+          <li class="country country-ca">
+            <a class="" href="/en-ca/legal/privacy"></a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-list-wrapper social">
+        <ul class="footer-list">
+          <li>Social</li>
+          <li class="footer-social-icon">
+            <a href="https://www.facebook.com/wealthsimple" target="_footer" class="footer-link"><i class="ss-icon">facebook</i></a>
+          </li>
+          <li class="footer-social-icon">
+            <a href="https://twitter.com/Wealthsimple" target="_footer" class="footer-link"><i class="ss-icon">twitter</i></a>
+          </li>
+          <li class="footer-social-icon">
+            <a href="https://www.instagram.com/wealthsimple/" target="_footer" class="footer-link"><i class="ss-icon">instagram</i></a>
+          </li>
+        </ul>
       </div>
     </div>
-    <footer>
-      <div class="container max-md-container">
-        <div class="row">
-          <div class="col-md-2 col-sm-3">
-            <h4 class="header us-header-2">Who we are</h4>
-            <div class="footer-links uss-header-4">
-              <a href="/team">Our team</a>
-              <a href="/why">Our mission</a>
-              <a href="/jobs">Jobs</a>
-              <a href="http://blog.wealthsimple.com" target="_blank">Blog</a>
-              <a href="/press">Press</a>
-            </div>
-          </div>
-          <div class="col-md-2 col-sm-3">
-            <h4 class="header us-header-2">What we do</h4>
-            <div class="footer-links uss-header-4">
-              <a href="/pricing">Pricing</a>
-              <a href="/methodology">Methodology</a>
-              <a href="/security">Security</a>
-              <a href="http://faq.wealthsimple.com" target="_blank">Knowledge base</a>
-              <a href="/accounts/tfsa-tax-free-savings-account">Account types</a>
-              <a href="/funds/ishares-laddered-bond-fund">Funds</a>
-              <a href="/lunch">Lunch &amp; Learn</a>
-            </div>
-          </div>
-          <div class="col-md-2 col-sm-3">
-            <h4 class="header us-header-2">Legal</h4>
-            <div class="footer-links uss-header-4">
-              <a href="/legal/terms">Terms of use</a>
-              <a href="/legal/privacy">Privacy policy</a>
-              <a href="/legal/disclosure">Full disclosure</a>
-              <a href="/legal/file-complaint">File complaint</a>
-              <a href="/legal/invite-a-friend">Invite a friend Terms</a>
-            </div>
-          </div>
-          <div class="col-md-2 col-sm-3">
-            <h4 class="header us-header-2">Contact</h4>
-            <div class="footer-links uss-header-4">
-              <div class="contact-info">1 (877) 222-7473</div>
-              <div class="contact-info">372 Richmond Street West</div>
-              <div class="contact-info">Suite 120, Toronto ON</div>
-              <div class="contact-info">M5V 1X6 Canada</div>
-              <div class="contact-info">
-                <a class="email-link" href="mailto:support@wealthsimple.com">support@wealthsimple.com</a>
-              </div>
-            </div>
-            <p class="social-media">
-              <a href="https://www.facebook.com/wealthsimple">
-                <span class="ws-icon-facebook"></span>
-              </a>
-              <a href="https://twitter.com/Wealthsimple">
-                <span class="ws-icon-twitter"></span>
-              </a>
-              <a href="http://www.linkedin.com/company/wealthsimple">
-                <span class="ws-icon-linkedin"></span>
-              </a>
-              <a href="https://plus.google.com/115387293416898948987/posts">
-                <span class="ws-icon-google_plus"></span>
-              </a>
-            </p>
-          </div>
-          <div class="col-md-4 trust-logos">
-            <img src="/images/logos/rapidssl-1cdff3eb.gif">
-          </div>
-        </div>
-        <div class="footer-disclosure copy-xs">
-          <div class="row">
-            <div class="col-md-6">
-              Wealthsimple Financial Inc. is registered as a Portfolio Manager in Ontario, British Columbia, Alberta, Manitoba, Quebec, Saskatchewan, Newfoundland and Labrador, New Brunswick, Nova Scotia, Prince Edward Island, the Northwest Territories, Nunavut, and Yukon. Securities in your account are protected up to $1,000,000 CDN through our brokerage partner, BBS-Securities Virtual Brokers. See www.cipf.ca for more details. By using this website, you accept our
-              <a href="/legal/terms">Terms of Use</a>
-              and
-              <a href="/legal/privacy">Privacy Policy.</a>
-              Copyright 2015 Wealthsimple Financial Inc.
-            </div>
-            <div class="col-md-6">
-              Past performance is no guarantee of future results. Any historical returns, expected returns, or probability projections may not reflect actual future performance. All securities involve risk and may result in loss. We do not provide financial planning services to individual investors. Read our
-              <a href="/legal/disclosure">Full Disclosure.</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
+    <div class="footer-ws-for-links">
+    </div>
+  <div class="footer-copyright en-us">
+    <p>Wealthsimple US, Ltd. is registered as an investment adviser under the Investment Advisers Act of 1940 and uses Apex Clearing Corporation as broker/dealer for Wealthsimple investment accounts. Apex is a member of the Securities Investor Protection Corporation (SIPC), which provides funds to meet claims up to a ceiling of $500,000, including a maximum of $250,000 for cash claims. For additional information regarding SIPC coverage, including a brochure, please contact SIPC at (202) 371‐8300 or visit www.sipc.org. By using this website, you accept our Terms of Use and Privacy Policy. Copyright 2017 Wealthsimple US, Ltd.</p>
+    <p></p>
+    <p>Past performance is no guarantee of future results. Any historical returns, expected returns, or probability projections may not reflect actual future performance. All securities involve risk and may result in loss. Read our Full Disclosure for more details.</p>
+  </div>
+</div></footer>
+
+    <script src="/javascripts/application-af86ae7d.js"></script>
+
+    
+
   
 
 </body></html>
