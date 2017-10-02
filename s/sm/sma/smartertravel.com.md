@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411113255id_/https%3A//www.smartertravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002040046id_/https%3A//www.smartertravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SmarterTravel
 
 **Privacy Policy**
 
-This Privacy Policy was last changed on November 15, 2016.
+This Privacy Policy was last changed on September 19, 2017.
 
 Thank you for using SmarterTravel.com website or mobile properties, including related applications (collectively, the “Site”), which are provided by Smarter Travel Media LLC (“SmarterTravel.). The terms “we”, “us”, “our” and “SmarterTravel” refer collectively to Smarter Travel Media LLC and/or our affiliates and subsidiaries. The term “you” refers to the customer visiting the Site and/or contributing content on this Site.”
 
@@ -124,6 +124,8 @@ A cookie is a small piece of data that a Web server places on a user’s compute
 Furthermore, SmarterTravel uses outside media companies to display advertisements on our site. These ads may contain cookies, which are collected and tracked by the outside media company. SmarterTravel has no access to or control over these cookies.
 
 Most Web browsers provide users the ability to limit the use of cookies by allowing users to adjust privacy settings. If a user has their cookies disabled, SmarterTravel will still be accessible, however some sections of the Site will not perform as well as they normally would with cookies enabled.
+
+This Site participates in exchanges of anonymous information about user browsing behavior on the Site. This non-personally identifiable information is collected by cookies and other similar technologies and segmented into different anonymized groups. We may share these types of anonymous information with third parties to facilitate the display of targeted advertisements. Please click [here](http://optout.networkadvertising.org/#!/) or [here](http://optout.aboutads.info/#!/) to learn more about these types of exchanges, including how to access information about the topics of interest associated with cookies and your options with regard to participation in these programs (including opting-out).
 
 Our sites also may use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings.
 
