@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desizntech.info privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220230942id_/https%3A//webdesignviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desizntech.info privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002211534id_/https%3A//webdesignviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 At WebDesignViews.com the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by WebDesignViews.com and how it is used. We never sell your personal information to third parties.
 
