@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myapne.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023104844id_/http%3A//myapne.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapne.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002153217id_/http%3A//tvyaar.tv/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Myapne.com
 
