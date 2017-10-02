@@ -1,927 +1,893 @@
-<!--The following is the downloaded HTML source of the interaction-design.org privacy policy that was archived on 2017-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614071834id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interaction-design.org privacy policy that was archived on 2017-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171003003432id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ8XGB"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ8XGB"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
     <meta http-equiv="Cache-control" content="public">
-    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="csrf-token" content="RP3kEto2RXsrnXJjt1uk5mphCZGKgArss6kioLWC">
-
-        <title>Personal Data Use and Privacy Policy
- | Interaction Design Foundation</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="csrf-token" content="lMrqNTagY6Qt3gMNTyMyIxg5gKAAS6TZG9BxTONx"> 
+    <link rel="preconnect" href="//public-media.interaction-design.org">
+    <link rel="preconnect" href="//cdnjs.cloudflare.com" crossorigin="">
+    <link rel="preconnect" href="//fonts.googleapis.com">
+    <link rel="preconnect" href="//fonts.gstatic.com" crossorigin="">
+    <link rel="preconnect" href="//www.google.com">
+    <link rel="preconnect" href="//google-analytics.com">
+    <link rel="preconnect" href="//www.google-analytics.com">
+    <link rel="preconnect" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="//googleads.g.doubleclick.net">
+    <link rel="preconnect" href="//stats.g.doubleclick.net">
+    <link rel="preconnect" href="//js-agent.newrelic.com">
+    <link rel="preconnect" href="//bam.nr-data.net">
+    <link rel="preload" as="script" href="https://public-media.interaction-design.org/js/libs/require.js/2.3.5/require.min.js">
     
-    <link rel="stylesheet" href="/css/app.css?bust=2016101887">
-    <script> !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '442210029247313'); fbq('track', "PageView");</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=442210029247313&ev=PageView&noscript=1" /></noscript>
 
+        
+    <link rel="icon" type="image/png" sizes="32x32" href="https://public-media.interaction-design.org/images/app/favicon--32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://public-media.interaction-design.org/images/app/favicon--16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/web-app-manifest.json">
+    <link rel="mask-icon" href="https://public-media.interaction-design.org/images/app/safari-pinned-tab.svg" color="#404040">
+    <meta name="apple-mobile-web-app-title" content="UX courses">
+    <meta name="application-name" content="UX courses">
+    <meta name="theme-color" content="#404040">
+    <meta name="msapplication-config" content="/ms-app-browserconfig.xml">
+    <title>Personal Data Use and Privacy Policy | Interaction Design Foundation</title>
+    <link rel="stylesheet" href="/build/css/app-d04ede0879.css">
+        <meta name="author" content="">
+    <link rel="image_src" href="https://public-media.interaction-design.org/images/website-thumbnail-image.png">
+    <meta property="fb:page_id" content="19975077227">
+    <meta property="og:site_name" content="The Interaction Design Foundation">
+    <link rel="alternate" type="application/rss+xml" title="Interaction Design Foundation - UX Feed" href="https://www.interaction-design.org/rss/site_news.xml">
+    <link rel="canonical" href="https://www.interaction-design.org/about/privacy">
+    <meta name="description" content="Personal Data Use and Privacy Policy">
+    <meta property="og:title" content="Personal Data Use and Privacy Policy">
+    <meta property="og:description" content="Personal Data Use and Privacy Policy">
+    <meta property="og:image" content="https://public-media.interaction-design.org/images/website-thumbnail-image.png">
+    <meta property="og:url" content="https://www.interaction-design.org/about/privacy">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@interacting">
+    <meta name="twitter:creator" content="@interacting">
+    <meta name="twitter:title" content="Personal Data Use and Privacy Policy">
+    <meta name="twitter:description" content="Personal Data Use and Privacy Policy">
+    <meta name="twitter:image" content="https://public-media.interaction-design.org/images/website-thumbnail-image.png">
     
-    <meta name="author" content="">
-<link rel="image_src" href="https://public-media.interaction-design.org/images/website-thumbnail-image.png">
-
-<meta property="fb:page_id" content="19975077227">
-<meta property="og:site_name" content="The Interaction Design Foundation">
-<link rel="alternate" type="application/rss+xml" title="Interaction Design Foundation - UX Feed" href="https://www.interaction-design.org/rss/site_news.xml">
-
-
-<meta name="description" content="Personal Data Use and Privacy Policy">
-
-<meta property="og:title" content="Personal Data Use and Privacy Policy">
-<meta property="og:description" content="Personal Data Use and Privacy Policy">
-<meta property="og:image" content="https://public-media.interaction-design.org/images/website-thumbnail-image.png">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@interacting">
-<meta name="twitter:creator" content="@interacting">
-<meta name="twitter:title" content="Personal Data Use and Privacy Policy">
-<meta name="twitter:description" content="Personal Data Use and Privacy Policy">
-<meta name="twitter:image" content="https://public-media.interaction-design.org/images/website-thumbnail-image.png">
-
-
-
     <script>
-    var ajax = ajax || {};
-
-    (function() {
-        ajax.x = function() {
-            if (typeof XMLHttpRequest !== 'undefined') {
-                return new XMLHttpRequest();
-            }
-            var versions = [
-                'MSXML2.XmlHttp.6.0',
-                'MSXML2.XmlHttp.5.0',
-                'MSXML2.XmlHttp.4.0',
-                'MSXML2.XmlHttp.3.0',
-                'MSXML2.XmlHttp.2.0',
-                'Microsoft.XmlHttp'
-            ];
-
-            var xhr;
-            for (var i = 0; i < versions.length; i++) {
-                try {
-                    xhr = new ActiveXObject(versions[i]);
-                    break;
-                } catch (e) {
-                }
-            }
-
-            return xhr;
-        };
-
-        ajax.send = function(url, callback, method, data, async) {
-            if (async === undefined) {
-                async = true;
-            }
-            var x = ajax.x();
-            x.open(method, url, async);
-            x.onreadystatechange = function() {
-                if (x.readyState == 4) {
-                    callback(x.responseText)
-                }
-            };
-            x.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-            if (method == 'POST') {
-                x.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-            }
-            x.send(data)
-        };
-
-        ajax.get = function(url, data, callback, async) {
-            var query = [];
-            for (var key in data) {
-                query.push(encodeURIComponent(key) + '=' + encodeURIComponent(data[key]));
-            }
-            ajax.send(url + (query.length ? '?' + query.join('&') : ''), callback, 'GET', null, async)
-        };
-
-        ajax.post = function(url, data, callback, async) {
-            var query = [];
-            for (var key in data) {
-                query.push(encodeURIComponent(key) + '=' + encodeURIComponent(data[key]));
-            }
-            ajax.send(url, callback, 'POST', query.join('&'), async)
-        };
-    })();
-
-    function logGlobalError(errorMessage, fileName, lineNumber, columnNumber, errorObject) {
-        var apiUrl = '/api/errors';
-
-        if (errorMessage && typeof errorMessage !== 'string') {             if (errorMessage.type && errorMessage.target) {
-                try {
-                    fileName = errorMessage.target.src;
-                } catch(ex) {
-                    fileName = 'N/A, Event type';
-                }
-                errorMessage = 'Error loading script';
-            }
-        }
-
-        var data = {
-            errorMessage: errorMessage,
-            fileName: fileName,
-            lineNumber: lineNumber,
-            columnNumber: columnNumber,
-            errorType: !(errorObject === null || errorObject === undefined) ? errorObject.name : 'N/A',
-            stack: !(errorObject === null || errorObject === undefined)
-                    ? errorObject.stack
-                    : errorObject
-        };
-
-        var errorContext = getErrorContext();
-
-                for (var key in errorContext) {
-            if (errorContext.hasOwnProperty(key)) {
-                data[key] = errorContext[key];
-            }
-        }
-
-        try {
-            ajax.post(apiUrl, data, function() {}, true);
-        } catch (ex) {
-            console.error(ex);
-        }
-
-        addErrorToLocalStorage(errorMessage, fileName, lineNumber, columnNumber, errorObject);
-
-        return false;     }
-
-    function getErrorContext() {
-        var isLocalStorageAvailable = true;
-        try {
-            localStorage.setItem('idf', 'idf');
-            localStorage.removeItem('idf');
-        } catch (e) {
-            isLocalStorageAvailable = false;
-        }
-
-        return {
-            date: new Date(),
-            idfFrontEndVersion: window.idfVersion || 'N/A',
-            isAdBlockDetected: !window.ga,
-            latestUncaughtJsError: isLocalStorageAvailable ? localStorage.getItem('latestUncaughtJsError') : 'N/A'
-        };
-    }
-
-    function addErrorToLocalStorage(errorMessage, fileName, lineNumber, columnNumber, errorObject) {
-        try {
-            localStorage.setItem('idf', 'idf');
-            localStorage.removeItem('idf');
-        } catch (e) {
-            return false;
-        }
-
-        var errorLogObject = {
-            errorMessage: errorMessage,
-            fileName: fileName,
-            lineNumber: lineNumber,
-            columnNumber: columnNumber,
-            errorObject: errorObject,
-            date: new Date()
-        };
-
-        var lastJsJsonErrors = localStorage.getItem('lastUncaughtJsErrors');
-        try {
-            var lastJsErrors = JSON.parse(lastJsJsonErrors);
-            if (lastJsErrors === null) {
-                lastJsErrors = [];
-            }
-        }
-        catch (exception) {
-            lastJsErrors = [];
-        }
-
-        if (lastJsErrors.length === 10) {
-            lastJsErrors.splice(0, 1);
-        }
-        lastJsErrors.push(errorLogObject);
-        localStorage.setItem('lastUncaughtJsErrors', JSON.stringify(lastJsErrors));
-        localStorage.setItem('latestUncaughtJsError', JSON.stringify(errorLogObject));
-    }
-
-    window.onerror = logGlobalError;
-    window.getErrorContext = getErrorContext;
+    window.idfFrontEndVersion = 201709192058;
+    window.csrfToken = "lMrqNTagY6Qt3gMNTyMyIxg5gKAAS6TZG9BxTONx";
+    window.currentUser = {"isGuest":true,"id":"","email":"","name":"Guest","slug":"guest"}
+    var require = { urlArgs: 'bust=' + window.idfFrontEndVersion, waitSeconds: 0, baseUrl: '/js' }
 </script>
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="all" src="/js/all.js"></script></head>
-<body>
+    <script>
+            !function(e,r){function n(r){n.count||(n.count=0);var c=5;if(e.JSON&&!(n.count>c)){if(r.constructor&&"PromiseRejectionEvent"===r.constructor.name)s=o(r);else var s=t(r);i(s)&&a(s,r.error)}}function t(e){var r=e.error;if(r instanceof Error){n={errorName:r.name||e.type,errorMessage:r.message||r.description||e.message,errorStack:r.stack,fileName:r.fileName||e.fileName,lineNumber:r.lineNumber||e.lineno,columnNumber:e.colno};return r.requireType&&(n.requireType=r.requireType,n.requireModules=JSON.stringify(r.requireModules)),n}if("object"==typeof r){var n={errorName:r.constructor?r.constructor.name:"Unknown error object",errorMessage:r.message||"Message n/a",errorStack:r.stack};for(var t in r)r.hasOwnProperty(t)&&(n[t]=r[t]);return n}return n={errorName:(e.constructor?e.constructor.name:"Unknown")+" (error event without [error] property)",errorMessage:e.message||"Message n/a",errorStack:"",fileName:e.filename,lineNumber:e.lineno,columnNumber:e.colno}}function o(e){return{errorName:e.type,errorMessage:e.reason,errorStack:""}}function a(e,t){var o=s();for(var a in o)o.hasOwnProperty(a)&&(e[a]=o[a]);var i="/api/errors";try{if("function"==typeof r.sendBeacon){e.reporter="window.onerror (sendBeacon)";var c=new FormData;for(var l in e)c.append(l,e[l]);r.sendBeacon(i,c)}else{e.reporter="window.onerror (Image.src)";var m=[];for(var l in e)m.push(encodeURIComponent(l)+"="+encodeURIComponent(e[l]));(new Image).src=i+"?"+m.join("&")}}catch(e){console.error(e)}u(e.errorMessage,e.filename,e.lineNumber,e.columnNumber,t),n.count?n.count++:n.count=1}function i(e){for(var r=["Script error."],n=JSON.stringify(e),t=0;t<r.length;t++)if(-1!==n.indexOf(r[t]))return!1;if(!c())return!1;var o=e.latestUncaughtJsError;if(!o||"N/A"===o)return!0;try{var a=JSON.parse(o);if(a.errorMessage===e.errorMessage&&a.fileName===e.fileName&&a.lineNumber===e.lineNumber&&a.columnNumber===e.columnNumber)return!1}catch(e){return!0}return!0}function c(){try{localStorage.setItem("idf","idf"),localStorage.removeItem("idf")}catch(e){return!1}return!0}function s(){return{idfFrontEndVersion:e.idfFrontEndVersion||"N/A",isAdBlockDetected:!e.ga,screenResolution:screen.width+"x"+screen.height,latestUncaughtJsError:c()?localStorage.getItem("latestUncaughtJsError"):"N/A",date:new Date}}function u(e,r,n,t,o){if(c){var a={errorMessage:e,fileName:r,lineNumber:n,columnNumber:t,errorObject:o,date:new Date},i=localStorage.getItem("lastUncaughtJsErrors");try{var s=JSON.parse(i);null===s&&(s=[])}catch(e){s=[]}10===s.length&&s.splice(0,1),s.push(a),localStorage.setItem("lastUncaughtJsErrors",JSON.stringify(s)),localStorage.setItem("latestUncaughtJsError",JSON.stringify(a))}}void 0===Function.prototype.name&&void 0!==Object.defineProperty&&Object.defineProperty(Function.prototype,"name",{get:function(){var e=/function\s([^(]{1,})\(/.exec(this.toString());return e&&e.length>1?e[1].trim():""},set:function(e){}}),e.addEventListener("error",n),e.addEventListener("unhandledrejection",n),e.getErrorContext=s}(window,navigator);
+    </script>
+
+</head>
+<body class="">
+
 <script>
-    dataLayer = [];
+window.dataLayer = window.dataLayer || [];
+dataLayer = [[]];
 </script>
-
-<!-- Google Tag Manager -->
-<noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJ8XGB"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>(function (w, d, s, l, i) {
-        w[l]    = w[l] || [];
-        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-        var f   = d.getElementsByTagName(s)[0],
-            j   = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src   = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-KJ8XGB');</script>
-<!-- End Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJ8XGB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJ8XGB');</script>
 
 
+<div class=" off-canvas-wrap " id="off-canvas-wrap" data-offcanvas="">
+    <main class=" inner-wrap " data-off-canvas-wrapper="">
+        <div class=" sticky hide-for-print ">
+    <nav class=" tab-bar row no-gutter out-top-none" style="align-items: center">
+        <div class="tab-bar__hamburger flex-center-contents cols-sm-2 out-top-none">
+            <a class=" left-off-canvas-toggle menu-icon " href="#" tabindex="-1"><span></span></a>
+        </div>
 
+        <div class="tab-bar__logo flex-center-contents cols-sm-6 out-top-none">
+            <a href="https://www.interaction-design.org" title="Interaction Design Foundation" tabindex="-1">
+                <img data-layzr="https://public-media.interaction-design.org/images/idf-logo-full-expanded.svg" alt="Interaction Design Foundation" class="hide-lazy" width="128">
+            </a>
+        </div>
+        <div class="tab-bar__userMenu u-text-right">
+                            <a class="button" href="https://www.interaction-design.org/join" data-gtm-cta="offCanvasMenu" tabindex="-1">Join us</a>
+                    </div>
 
-
-
-
-
-<div class="off-canvas-wrap" id="off-canvas-wrap" data-offcanvas="">
-    <main class="inner-wrap" data-off-canvas-wrapper="">
-        <div class="sticky hide-for-print">
-    <nav class="tab-bar">
-        <section class="left-small">
-            <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
-        </section>
-
-        <section class="middle tab-bar-section">
-            <h1 class="title">
-                <a href="https://www.interaction-design.org/index.php" title="Interaction Design Foundation">
-                    <img src="https://public-media.interaction-design.org/images/idf-logo-full.svg" alt="Interaction Design Foundation" width="128">
-                </a>
-            </h1>
-        </section>
-
-            </nav>
+    </nav>
 </div>
 
-<aside id="left-off-canvas-menu" class="left-off-canvas-menu">
-    <div class="user">
-                    <div class="guest">
-                <div class="controls center">
-                    <a href="https://www.interaction-design.org/index.php/join" class="button">Join our community</a>
-                    <a href="https://www.interaction-design.org/index.php/login">Login</a>
-                </div>
+<aside id="left-off-canvas-menu" class=" left-off-canvas-menu ">
+
+    <div class=" accountDetails user  is-guest    accountDetails--offCanvas   not-flexible ">
+    <div class=" accountDetails__inner ">
+                    <ul class=" no-bullet out-none ">
+                <li class=" login accountDetails__loginLink navHeader__loginLink "><a tabindex="-1" href="https://www.interaction-design.org/login">Log in</a></li>
+
+                                    
+                    <li class="not-flexible">
+                        <a tabindex="-1" href="https://www.interaction-design.org/join" data-gtm-cta="headerButton" class=" button button--withArrow join idf-spinner displayDesktopOnly ">
+                            <span>Join our community</span>
+                        </a>
+                        <a tabindex="-1" href="https://www.interaction-design.org/join" data-gtm-cta="headerButton" class=" button button--withArrow join idf-spinner hideDesktopUp ">
+                            <span>Join us</span>
+                        </a>
+                    </li>
+                            </ul>
             </div>
-            </div>
+</div>
 
-    <div class="divider"></div>
+    <ul class="off-canvas-list-main">
+        <li>
+    <a tabindex="-1" class=" " href="https://www.interaction-design.org/courses" title="User Experience (UX) Courses">UX Courses</a>
+</li>
+<li>
+    <a tabindex="-1" class=" " href="https://www.interaction-design.org/community" title="User Experience (UX) Community">Community</a>
+</li>
+<li>
+    <a tabindex="-1" class=" " href="https://www.interaction-design.org/literature" title="User Experience (UX) Literature">Literature</a>
+</li>
+<li>
+    <a tabindex="-1" class=" " href="https://www.interaction-design.org/about" title="About the Interaction Design Foundation">About IDF</a>
+</li>    </ul>
 
-    <ul class="off-canvas-list main">
-        <li><a href="https://www.interaction-design.org/index.php/courses" title="User Experience (UX) Courses">UX Courses</a></li>
-<li><a href="https://www.interaction-design.org/index.php/community" title="User Experience (UX) Community">Community</a></li>
-<li><a href="https://www.interaction-design.org/index.php/literature" title="User Experience (UX) Literature">Literature</a></li>
-<li><a href="https://www.interaction-design.org/index.php/about" title="About the Interaction Design Foundation">About IDF</a></li>    </ul>
+    <div class=" divider "></div>
 
-    <div class="divider"></div>
-
-    <ul class="off-canvas-list">
-        <li><a href="https://www.interaction-design.org/index.php/why-join-idf">Reviews / Why join our community?</a></li>
-<li><a href="https://www.interaction-design.org/index.php/corporate">Company membership</a></li>
-<li><a href="https://www.interaction-design.org/index.php/about#contact">Contact</a></li>
+    <ul class="off-canvas-list off-canvas-list-secondary">
+        <li class=" inlineList__item "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/why-join-idf">Reviews / Why join our community?</a></li>
+<li class=" inlineList__item "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/corporate">Company membership</a></li>
+<li class=" inlineList__item "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/about#contact">Contact</a></li>
+    <li class=" inlineList__item--right "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/login">Log in</a></li>
     </ul>
 
-    <div class="divider"></div>
+    <div class=" divider "></div>
 
-    <ul class="inline-list social-links">
-        <li>
-            <a href="https://www.facebook.com/interactiondesign.org" target="_blank">
-                <i class="fa fa-fw fa-lg fa-facebook"></i>
+    <div class="off-canvas-social">
+        <div class="socialLinks socialLinks--white">
+            <a class="socialLinks__item" href="https://www.facebook.com/interactiondesign.org" target="_blank" rel="noopener" tabindex="-1">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                    <i class="fa fa-facebook fa-stack-1x"></i>
+                </span>
             </a>
-        </li>
-        <li>
-            <a href="https://twitter.com/interacting" target="_blank">
-                <i class="fa fa-fw fa-lg fa-twitter"></i>
+
+            <a class="socialLinks__item" href="https://twitter.com/interacting" target="_blank" rel="noopener" tabindex="-1">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                    <i class="fa fa-twitter fa-stack-1x"></i>
+                </span>
             </a>
-        </li>
-        <li>
-            <a href="https://plus.google.com/+InteractionDesignOrg/posts" target="_blank">
-                <i class="fa fa-fw fa-lg fa-google-plus"></i>
+
+            <a class="socialLinks__item" href="https://plus.google.com/+InteractionDesignOrg" target="_blank" rel="noopener" tabindex="-1">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                    <i class="fa fa-google-plus fa-stack-1x"></i>
+                </span>
             </a>
-        </li>
-        <li>
-            <a href="https://www.pinterest.com/ixdfoundation/idf-courses/" target="_blank">
-                <i class="fa fa-fw fa-lg fa-pinterest"></i>
+
+            <a class="socialLinks__item" href="https://www.pinterest.com/ixdfoundation/" target="_blank" rel="noopener" tabindex="-1">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                    <i class="fa fa-pinterest fa-stack-1x"></i>
+                </span>
             </a>
-        </li>
-        <li>
-            <a href="https://www.linkedin.com/company/interaction-design.org-foundation" target="_blank">
-                <i class="fa fa-fw fa-lg fa-linkedin"></i>
+
+            <a class="socialLinks__item" href="https://www.linkedin.com/company/interaction-design-org-foundation" target="_blank" rel="noopener" tabindex="-1">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                    <i class="fa fa-linkedin fa-stack-1x"></i>
+                </span>
             </a>
-        </li>
-    </ul>
+
+            <a class=" socialLinks__item " href="https://www.instagram.com/interaction_design_foundation" target="_blank" rel="noopener" tabindex="-1">
+                <span class="fa-stack">
+                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                    <i class="fa fa-instagram fa-stack-1x"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+
+
 </aside>
 
-
-                <header class="navigation large hide-for-small-only hide-for-print">
-    <div class="page-notification">
-    <div class="message"></div>
-</div>
-    <div class="page-width site-navigation">
-        <ul class="static-links">
-            <li><a href="https://www.interaction-design.org/index.php/why-join-idf">Reviews / Why join our community?</a></li>
-<li><a href="https://www.interaction-design.org/index.php/corporate">Company membership</a></li>
-<li><a href="https://www.interaction-design.org/index.php/about#contact">Contact</a></li>
-                                        <li class="right"><a href="https://www.interaction-design.org/index.php/login">Login</a></li>
-                    </ul>
-    </div>
-
-    <nav>
-        <div class="nav-item logo-container">
-            <a href="https://www.interaction-design.org/index.php" title="Interaction Design Foundation">
-                <img src="https://public-media.interaction-design.org/images/idf-logo-full.svg" alt="Interaction Design Foundation" height="72" width="200">
-            </a>
-        </div>
-        <ul class="nav-item menu-items inline-list">
-            <li><a href="https://www.interaction-design.org/index.php/courses" title="User Experience (UX) Courses">UX Courses</a></li>
-<li><a href="https://www.interaction-design.org/index.php/community" title="User Experience (UX) Community">Community</a></li>
-<li><a href="https://www.interaction-design.org/index.php/literature" title="User Experience (UX) Literature">Literature</a></li>
-<li><a href="https://www.interaction-design.org/index.php/about" title="About the Interaction Design Foundation">About IDF</a></li>        </ul>
-        <div class="nav-item right user">
-                            <div class="guest">
-                    <ul class="inline-list collapse right">
-                        <li class="login"><a href="https://www.interaction-design.org/index.php/login">Login</a></li>
-
-                                                    <li>
-                                <a href="https://www.interaction-design.org/index.php/join" class="button join">
-                                    Join our community
-                                </a>
-                            </li>
-                                            </ul>
-                </div>
-                    </div>
-    </nav>
-</header>
-
-        <div class="content-wrapper">
-            
-<h1 class="page-title">Personal Data Use and Privacy Policy</h1>
-
-<h1 class="component-header">1. Summary, scope, purpose</h1>
-<p>
-  The Interaction Design Foundation (“IDF”), a non-governmental,
-  privately held organization located at Chr. Molbechs Vej 4,
-  DK-8000, Aarhus C, Denmark, during the normal course of its
-  activities, collects personal data about you and other users, for
-  the purposes set forth in this Personal Data Use and Privacy
-  Policy (hereinafter referred to as the “Privacy Policy”), by means
-  of the website located at https://www.interaction-design.org
-  (hereinafter, the “Site”) and/or other websites used and/or
-  controlled by IDF from time to time. IDF does not collect more
-  data than such personal data collected by analogous websites.
-  Personal data collected by IDF is processed for specified,
-  explicit and legitimate purposes, in accordance with applicable
-  laws in Denmark.
-</p>
-<p>
-  Personal data and any membership information provided by you to
-  IDF when you enter and/or register into the Site will be used,
-  among other purposes, to: (i) maintain a register of members and
-  users; (ii) supply you with any goods and services you may request
-  from IDF from time to time via the Site; (iii) creating browsing
-  and consumption preferences profiles of you and other users in
-  order to make them recommendations and provide them with links to
-  certain goods and services; and (iv) creating databases to be used
-  to send users e-mails with promotions, advertising and information
-  of the Site.
-</p>
-<p>
-  By entering, using and/or registering into the Site, you hereby
-  provide IDF with your explicit consent for the collection,
-  treatment and processing of your personal data according to this
-  Privacy Policy. You, as the legitimate owner of your personal
-  data, by using the Site hereby represent to be an adult to the
-  date that the same is provided and to have full legal capacity in
-  your jurisdiction.
-</p>
-<p>
-  Edits, comments, commentaries and other contributions to the Site
-  made or provided by you will be publicly distributed, and except
-  in certain, very limited circumstances, will remain a permanent
-  part of this site. If you decide to contribute to the Site, you
-  must keep this in mind. Your contributions will be subject to the
-  Site's <a href="https://www.interaction-design.org/index.php/about/terms-of-use">Terms and Conditions</a> and IDF's
-  <a href="https://www.interaction-design.org/index.php/about/copyright">Site IP/Copyright Policy</a>.
-</p>
-<p>
-  Under "The Act on Processing of Personal Data", incorporated under
-  Danish law, you may request a copy of the information we hold on
-  you (for which we may request the applicable fee to offset our
-  administration costs) by writing to our address first shown above
-  or to the email legal@interaction-design.org.
-</p>
-
-<h1 class="component-header">2. Security measures for keeping data safe</h1>
-<p>
-  IDF has set up physical, technical and administrative security
-  measures for the protection of your personal data. IDF shall
-  undertake actions, measures and provisions it deems appropriate in
-  order to safeguard its user's right to protect their personal
-  data. As an example, IDF uses or implements the following
-  measures, among others: (i) SSL encryption for the communication
-  between your browser and IDF's servers; (ii) the highest form of
-  server encryption available in the industry; (iii) 32
-  diesel-powered emergency generators with 2,250 kW capacity for N+2
-  redundancy, with 200,000 gallons of fuel on-site; (iv) redundant
-  fire suppression and detection systems; (v) armed security
-  around-the-clock; (vi) redundant geographically dispersed
-  datacenters in case of terror attacks or nuclear explosions. IDF
-  undertakes daily incremental backups and has 24/7/365 onsite
-  management and surveillance.
-</p>
-
-<h1 class="component-header">3. No transfer of information or data</h1>
-<p>
-  IDF will not share any email addresses of users, nor will it
-  disclose any identifying personal data, to any third party, for
-  any purpose whatsoever. Data collected by IDF through logging
-  visits to the Site (e.g. originating IP, referral data, browser
-  and platform type, traffic flows, geographical area of request) is
-  only used in an aggregated, anonymous form, which means IDF will
-  not make any further effort to personally identify its users.
-  Collected data is only used for server administration, fault
-  finding, site improvement and other legitimate purposes.
-</p>
-<p>
-  Aggregate (and thus non-identifying) statistics generated from the
-  Site may be reported as part of research results or may be
-  published on the Site.
-</p>
-
-<h1 class="component-header">4. Data collection for non-registered website visitors</h1>
-<p>
-  For non-registered website visitors – as opposed to fully
-  registered and paying members – IDF collects data commonly
-  collected on most analogous websites (e.g. through Google
-  Analytics or another analytics product).
-</p>
-<p>
-  Any time you visit a page on the internet, you send information to
-  a remote server. The servers that host the Site maintain access
-  logs with the information that you send. This information is used
-  to provide and generate statistics and analytics and to provide
-  IDF with marketing and traffic data regarding the Site and other
-  websites that link back to the Site. IDF does not intend to use
-  these logs to identify legitimate users.
-</p>
-<p>
-  The data logged may be used by IDF to solve technical problems
-  with the Site and, in cases of abuse, to conduct any investigate
-  therefrom.
-</p>
-<p>
-  IDF may also use web analytics services to understand the type of
-  traffic received by the Site and other of IDF's websites, in order
-  to provide better services and to set benchmarks for IDF's goals.
-  For example, through Google Analytics, the IDF records things like
-  IP address, browsing time, length and date, sections visited,
-  websites you accessed prior to the Site and type of browser.
-</p>
-<p>
-  If you are concerned about attempts to match your IP address to
-  your identity, you may wish to use an anonymous browsing service
-  or attempt other means to obfuscate your real IP address. Browsing
-  the Site does not reveal your identity publicly.
-</p>
-
-<h1 class="component-header">5. Data collection for registered members</h1>
-<p>
-  Data collection for registered members is – by necessity – more
-  extensive in order to allow the Site to function and operate with
-  it. As an example, IDF records, including but not limited to, the
-  following items:
-</p>
-<ul>
-  <li>Complete name of the member.</li>
-  <li>E-mail address of the member.</li>
-  <li>Country of residence of the member.</li>
-  <li>Courses that the member is enrolled in.</li>
-  <li>Answers to questions in courses.</li>
-  <li>Local Groups the person has registered for.</li>
-  <li>IP address and country of each session (for security purposes).</li>
-</ul>
-<p>
-  Please be advised that part or all of this information will be
-  shown on your “Public Profile page” as means of identification by
-  other members and in order to generate engagement and
-  participation by our community. IDF only publicly discloses data
-  which is commonly and publicly available for most people through
-  the Internet, such as name, profile picture, country and city of
-  residence and links to personal social media pages and the website
-  of each member. The disclosure of this information on your public
-  profile page can be controlled by you at any moment. If you do not
-  want to disclose it, please do not add it and select the necessary
-  privacy settings in the Site and/or your social media pages. If
-  you elect to delete part or all of your information by selecting
-  the appropriate settings in the Site, such information will not be
-  publicly shown through the Site.
-</p>
-<p>
-  If you choose to cancel your membership, or if IDF terminates it,
-  IDF will employ what is commonly referred to as a “soft delete” in
-  its database, which means that data will still be stored
-  physically in IDF's database but marked as “deleted”. IDF does so
-  for the technical requirements of its relational databases and for
-  dependent functionality such as the Local Group Rank and
-  publications on the IDF Daily to continue to work. These
-  functionalities depend on this data being available.
-</p>
-<p>
-  If you forget to renew your membership, and hence it is
-  auto-cancelled, the data marked as previously deleted (i.e. “soft
-  deleted”) will be used to restore your course answers, local group
-  affiliations, course certificates and other data if you elect to
-  renew your membership at a later point. This will prevent a
-  permanent loss of data for you.
-</p>
-<p>
-  IDF will, of course, fulfill any request to permanently delete
-  your data by means of an e-mail to legal@interaction-design.org.
-  Such requests may take up to 6 weeks to process.
-</p>
-<p>
-  All “Certification Pages” will remain publicly available after
-  your membership is cancelled or terminated, including the profile
-  information (e.g. name, picture, certifications) of the person
-  having been certified. IDF undertakes this since a certification
-  by the IDF entails a life-time certification. IDF will, of course,
-  honor any request to permanently delete and stop public display of
-  such data by means of an e-mail to legal@interaction-design.org.
-  Such request may take up to 6 weeks to process.
-</p>
-<p>
-  Company memberships (i.e. group memberships) also require the
-  aforementioned data collection by IDF, so that it can be displayed
-  to the pertinent company administrator (i.e. for evaluating
-  employee compliance).
-</p>
-
-<h1 class="component-header">6. Cookies and other web beacons</h1>
-<p>
-  With the purpose of providing a better experience to Users in the
-  Website, IDF may use “cookies” or other kind of web beacons. This
-  is often as a convenience for you to enable certain Site's
-  features. For purposes of this Privacy Policy, "cookies" shall
-  mean text files of information sent by a website in your computer
-  in order to store some records and preferences; and "web beacons"
-  shall mean computer code inserted into a website or e-mail that
-  can be used to monitor the behavior of a user (e.g. IP address,
-  browsing time, length and date, sections visited, websites you
-  accessed prior to the Site and type of browser).
-</p>
-<p>
-  The Site may allow advertising or third party functions that send
-  "cookies" to users. Through the use of "cookies", users are not
-  personally identified, only their computers.
-</p>
-<p>
-  Users may change their options through their computer equipment
-  and/or browsers to stop accepting "cookies" and / or "web beacons"
-  or confirm whether or not to accept them.
-</p>
-<p>
-  You may wish to clear these cookies and the browser cache if you
-  wish to refrain from revealing any identifying information,
-  especially if you are using a public or shared computer. You may
-  also prevent your browser from accepting cookies by disabling such
-  functionality.
-</p>
-
-<h1 class="component-header">7. Advertising, opt-out</h1>
-<p>
-  IDF may use Google Analytics and other tools (like remarketing
-  codes) from time to time to gather information about websites you
-  browse view or when you undertake specific actions in a website.
-  This allows IDF to provide targeted, customized advertising its
-  audience. Thus, third party vendors (such as Google, Inc., Adroll, or Facebook) may
-  show you IDF ads on certain websites across the Internet, even
-  after you leave the Site. Such vendors may use cookies and other
-  web beacons to track your Internet browsing in order to serve ads
-  based on your past visits to the Site.
-</p>
-<p>
-  The Site uses the Google AdWords remarketing service to advertise
-  on third party websites (including www.google.com) to previous
-  visitors to the Site. If you do not wish to receive this type of
-  advertising from IDF now or in the future, you may opt-out by
-  using the&nbsp;DoubleClick opt-out page
-  (https://www.google.com/settings/ads/onweb%20/l%20display_optout)&nbsp;or
-  the&nbsp;Network Advertising Initiative opt-out page
-  (http://www.networkadvertising.org/managing/opt_out.asp). For
-  Google-specific advertisement, You can set preferences for how
-  Google advertises to you using the&nbsp;Google Ad Preferences page at
-  http://www.google.com/settings/ads/onweb/, and if you want to you
-  can opt out of interest-based advertising entirely by cookie
-  settings&nbsp;(see http://www.google.com/settings/ads/onweb/) or
-  permanently using a browser plugin like
-  http://www.google.com/ads/preferences/html/intl/en/plugin/.
-</p>
-<p>
-  In other words, IDF's ads do not collect any sensitive personal
-  data about you. For purposes of these Terms, “sensitive personal
-  data” shall mean your racial or ethnic origin, political opinions,
-  religious or philosophical beliefs, trade-union membership, data
-  concerning health or sex life and financial data like credit card
-  or bank information.
-</p>
-<p>
-  If you wish to stop receiving messages via e-mail from IDF, simply
-  click the unsubscribe link at the bottom of the e-mail.
-</p>
-
-<h1 class="component-header">8. Personal data release</h1>
-<p>
-  IDF may only release collected personal data under the following
-  circumstances:
-</p>
-<ul>
-  <li>As required by applicable law (e.g. in response to a valid request from a law enforcement agency).</li>
-  <li>To designated third parties, in order to resolve or investigate abuse complaints.</li>
-  <li>When the information is related to spiders, bots, and other technical issues.</li>
-  <li>When attempting to block abusive users or to complain to such ISP.</li>
-  <li>To defend itself or its affiliates from legal claims by third parties.</li>
-  <li>When deemed necessary to protect the rights of IDF's user community or the Site.</li>
-</ul>
-
-<h1 class="component-header">9. Data owners' rights and revocation of consent</h1>
-<p>
-  Any User of the Site can make a request to IDF in order exercise
-  his rights to:
-</p>
-<ul>
-  <li>Access his personal data.</li>
-  <li>Rectify his personal data when inaccurate or incomplete.</li>
-  <li>Cancel his personal data.</li>
-  <li>Object with legitimate reason the Process of his personal data.</li>
-  <li>Revoke his consent for the process of his personal data at any moment, in order to stop the use of the same.</li>
-</ul>
-<p>
-  The exercise of rights to access, rectify or cancel personal data
-  and/or object or revoke consent should be requested in writing by
-  users to IDF and must include at least the following:
-</p>
-<ul>
-  <li>The data owner's name, address, and e-mail address to notify him of the response to his request.</li>
-  <li>Documents establishing the identity or, where appropriate, legal representation of the data owner.</li>
-  <li>A clear and precise description of the personal data with regard to which the data owner seeks to exercise any of the abovementioned rights (when rectification is requested, modifications that should be made should be specified and provide documentation to back up its request).</li>
-</ul>
-<p>
-  For the exercise of the previous rights, IDF hereby provides its
-  users with the following e-mail address
-  hello@interaction-design.org.
-</p>
-<p>
-  The exercise of users of the abovementioned rights shall be
-  subject to the laws and regulations applicable and in force in
-  Denmark.
-</p>
-
-<h1 class="component-header">10. Author identification</h1>
-<p>
-  When making contributions to the Site (e.g. posting a comment,
-  commentaries, editing a page in the wiki), a name and email
-  address may be required from a user. You do not have to use your
-  real name, instead opting to use a pseudonym. You may also to get
-  a free email account or attempt to use a remailing service when
-  using the Site.
-</p>
-<p>
-  Your activity on our Site may be identified by your IP address.
-  These numbers could potentially be traceable to identifying
-  information about you, whether it is your home ISP or the
-  university or work account where the IP address is registered.
-</p>
-<p>
-  If you are concerned about attempts to match your IP address to
-  your identity, you may wish to use an anonymous browsing service
-  or attempt some means to obfuscate your real IP address. If so,
-  you may try to use Tor, an anonymous browsing service.
-</p>
-
-<h1 class="component-header">11. Disclaimer</h1>
-<p>
-  The Site may include hyperlinks or hypertexts that, when used by
-  users, may forward to other portals or Internet websites that may
-  be property of third parties. Data provided by users through any
-  of those portals or Internet websites are not covered by this
-  Privacy Policy and are not the responsibility or liability of IDF.
-  IDF encourages its users to verify the privacy notices displayed
-  and applicable in those portals or Internet websites.
-</p>
-<p>
-  Users may find within the Site, message boards, wikis, chat rooms,
-  social media functionalities, blogs or other services that may be
-  shared with third parties and that could collect your personal
-  data (hereinafter the “Third Parties' Sites”). Any information
-  related to your personal data provided through the Third Parties'
-  Sites will be subject to the corresponding privacy notices
-  contained in each one of them, unless IDF indicates otherwise.
-</p>
-<p>
-  IDF shall not be liable for the use, publication, disclosure
-  and/or reveal made from personal data used, published, disclosed
-  and/or revealed through the abovementioned means. The content
-  provided on the Site, including content posted by users, is for
-  general information, discussion and entertainment purposes only.
-  IDF makes no representations or guarantees about any aspect of any
-  content on the Site and does not endorse any opinions expressed by
-  any users. ALL CONTENT IS POSTED "AS IS" AND YOUR USE OR RELIANCE
-  ON ANY CONTENT IS AT YOUR OWN RISK. IDF HEREBY DISCLAIMS ALL
-  LIABILITY TO YOU FOR THE CONSEQUENCES OF USING OR RELYING ON ANY
-  CONTENT IN OR WITHIN THE SITES.  IDF DOES NOT WARRANTs OR
-  GUARANTEEs THAT ANY INFORMATION AVAILABLE USING THE SITE OR OTHER
-  SERVICES IS ACCURATE OR RELIABLE OR YOUR USE OF THE SITE WILL BE
-  UNINTERRUPTED, SECURE, OR FREE FROM ERROR. IDF, ITS VENDORS AND
-  AFFILIATES GIVE NO EXPRESS WARRANTIES OR GUARANTEES NOR IMPLIED
-  WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-  WORKMANLIKE EFFORT, AND NON-INFRINGMENT.
-</p>
-<p>
-  SOME STATES DO NOT ALLOW IDF TO LIMIT ITS LIABILITY FOR
-  CONSEQUENTIAL OR INCIDENTAL DAMAGES OR EXCLUDE CERTAIN WARRANTIES.
-  IN THOSE STATES, IDF'S LIABILITY AND WARRANTIES ARE LIMITED TO THE
-  EXTENT PERMITTED BY LAW.
-</p>
-<p>
-  IDF recommends its users to be careful and responsible on the
-  personal information they provide through such means.
-</p>
-
-<h1 class="component-header">12. Changes to the Privacy Policy</h1>
-<p>
-  IDF reserves the right to modify, at any moment, the terms of this
-  Privacy Policy. Any change made to the Privacy Notice will be
-  notified to users through the Site. Once a new version of the
-  Privacy Policy is published, it will automatically be in force.
-</p>
-<p>
-  Date of last revision is March 26th, 2016.
-</p>
-
-        </div>
-
-        <footer class="hide-for-print">
-    <div class="mega-menu">
-        <div class="mega-menu-section">
-            <h4>About Us</h4>
-
-            <p>
-                The Interaction Design Foundation is a 15-year old
-                non-profit community founded in Denmark.
-            </p>
-
-            <div>
-                Learn <a href="https://www.interaction-design.org/index.php/about" title="About the Interaction Design Foundation">more about our community</a>,
-                become <a href="https://www.interaction-design.org/index.php/design-league-coach" title="Get a Design Coach for Design Coaching">a personal coach</a>,
-                or <a href="https://www.interaction-design.org/index.php/careers" title="Careers and Jobs at the Interaction Design Foundation">come work with us</a>.
-            </div>
-        </div>
-        <div class="mega-menu-section">
-            <h4>Connect With Us!</h4>
-
-            <p>
-                Send us an email at <a href="mailto:hello@interaction-design.org">hello@interaction-design.org</a>
-                or through our <a href="https://www.interaction-design.org/index.php/about#contact" title="Contact the Interaction Design Foundation">online contact form</a>.
-            </p>
-
-            <div>
-                Or find us on:
-            </div>
-            <ul class="social-links">
-                <li>
-                    <a href="https://www.facebook.com/interactiondesign.org" target="_blank">
-                        <span class="fa-stack fa-lg">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                        </span>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://twitter.com/interacting" target="_blank">
-                        <span class="fa-stack fa-lg">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                        </span>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://plus.google.com/+InteractionDesignOrg/posts" target="_blank">
-                        <span class="fa-stack fa-lg">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-                        </span>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.pinterest.com/ixdfoundation/idf-courses/" target="_blank">
-                        <span class="fa-stack fa-lg">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
-                        </span>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.linkedin.com/grp/home?gid=2529386" target="_blank">
-                        <span class="fa-stack fa-lg">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                        </span>
-                    </a>
-                </li>
+        
+        <header class=" navHeader navHeader--large js-navHeader hideSmallOnly hidePrint ">
+            <div class=" navHeader__linksBar island island--contentWrapper island--dark ">
+            <ul class=" inlineList js-staticLinks ">
+                <li class=" inlineList__item "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/why-join-idf">Reviews / Why join our community?</a></li>
+<li class=" inlineList__item "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/corporate">Company membership</a></li>
+<li class=" inlineList__item "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/about#contact">Contact</a></li>
+    <li class=" inlineList__item--right "><a tabindex="3" class=" link link--secondarySmall " href="https://www.interaction-design.org/login">Log in</a></li>
             </ul>
         </div>
-        <div class="mega-menu-section">
-            <h4>Stay In Touch</h4>
-
-            <p>Join 78,572 designers and get our <a href="https://www.interaction-design.org/index.php/newsletter#contact" title="Design Tips">weekly design tips</a> in your inbox</p>
-
-            <form action="https://www.interaction-design.org/index.php/newsletter/subscribe" method="post" data-abide="">
-                <input type="hidden" name="_token" id="csrf-token" value="RP3kEto2RXsrnXJjt1uk5mphCZGKgArss6kioLWC">
-
-                <div class="row collapse">
-                    <div class="columns small-9">
-                        <div class="field">
-                            <label>
-                                <input name="email" type="email" data-abide-validator="email" placeholder="Your email" required="" aria-invalid="false">
-                                <small class="error">Please write a valid email address.</small>
-                            </label>
-                        </div>
-                    </div>
-                    <div class="columns small-3">
-                        <button type="submit" class="postfix">Sign up</button>
-                    </div>
-                </div>
-            </form>
+    
+    <div class=" navHeader__content island island--contentWrapper flex-between ">
+        <div class=" navHeader__logo js-logoContainer ">
+            
+            <a href="https://www.interaction-design.org" title="Interaction Design Foundation" tabindex="1">
+                <img src="https://public-media.interaction-design.org/images/idf-logo-full-expanded.svg" alt="Interaction Design Foundation">
+            </a>
         </div>
+
+        <nav class="navHeader__navigation animate">
+            <ul class=" inlineList u-text-uppercase ">
+                <li>
+    <a tabindex="1" class="navHeader__link--courses link link--animatedDark" href="https://www.interaction-design.org/courses" title="User Experience (UX) Courses">UX Courses</a>
+</li>
+<li>
+    <a tabindex="1" class="navHeader__link--community link link--animatedDark" href="https://www.interaction-design.org/community" title="User Experience (UX) Community">Community</a>
+</li>
+<li>
+    <a tabindex="1" class="navHeader__link--literature link link--animatedDark" href="https://www.interaction-design.org/literature" title="User Experience (UX) Literature">Literature</a>
+</li>
+<li>
+    <a tabindex="1" class="navHeader__link--about link link--animatedDark" href="https://www.interaction-design.org/about" title="About the Interaction Design Foundation">About IDF</a>
+</li>            </ul>
+        </nav>
+
+        <div class=" accountDetails user  is-guest   accountDetails--right   ">
+    <div class=" accountDetails__inner ">
+                    <ul class=" inlineList ">
+                <li class=" login accountDetails__loginLink navHeader__loginLink "><a tabindex="-1" href="https://www.interaction-design.org/login">Log in</a></li>
+
+                                    
+                    <li class="not-flexible">
+                        <a tabindex="1" href="https://www.interaction-design.org/join" data-gtm-cta="headerButton" class=" button button--withArrow join idf-spinner displayDesktopOnly ">
+                            <span>Join our community</span>
+                        </a>
+                        <a tabindex="1" href="https://www.interaction-design.org/join" data-gtm-cta="headerButton" class=" button button--withArrow join idf-spinner hideDesktopUp ">
+                            <span>Join us</span>
+                        </a>
+                    </li>
+                            </ul>
+            </div>
+</div>
     </div>
-    <ul class="static-links">
-    <li><a href="https://www.interaction-design.org/index.php/about/copyright" id="copyrightNotice">Copyright / IP Policy</a></li>
-    <li><a href="https://www.interaction-design.org/index.php/about/terms-of-use">General Terms of use</a></li>
-    <li><a href="https://www.interaction-design.org/index.php/about/privacy">Privacy policy</a></li>
-    <li>
-        <a href="https://www.interaction-design.org/index.php/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/user-experience-and-experience-design">
-            Definition of User Experience
-        </a>
-    </li>
-</ul>
-    <div class="background">
-        <img src="https://public-media.interaction-design.org/images/idf-logo-inverse.svg" alt="IDF">
+</header>
+
+        <div class=" content-wrapper ">
+            
+    <h1 class=" heading heading--pageTitle ">Personal Data Use and Privacy Policy</h1>
+
+    <section class="panel">
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">1. Summary, scope, purpose</h1>
+        </div>
+        <p>
+            The Interaction Design Foundation
+            (“IDF”), a non-governmental,
+            privately held organization located at Chr. Molbechs Vej 4,
+            DK-8000, Aarhus C, Denmark, during the normal course of its
+            activities, collects personal data about you and other users, for
+            the purposes set forth in this Personal Data Use and Privacy
+            Policy (hereinafter referred to as the “Privacy Policy”), by means
+            of the website located at https://www.interaction-design.org
+            (hereinafter, the “Site”) and/or other websites used and/or
+            controlled by IDF from time to time. IDF does not collect more
+            data than such personal data collected by analogous websites.
+            Personal data collected by IDF is processed for specified,
+            explicit and legitimate purposes, in accordance with applicable
+            laws in Denmark.
+        </p>
+        <p>
+            Personal data and any membership information provided by you to
+            IDF when you enter and/or register into the Site will be used,
+            among other purposes, to: (i) maintain a register of members and
+            users; (ii) supply you with any goods and services you may request
+            from IDF from time to time via the Site; (iii) creating browsing
+            and consumption preferences profiles of you and other users in
+            order to make them recommendations and provide them with links to
+            certain goods and services; and (iv) creating databases to be used
+            to send users e-mails with promotions, advertising and information
+            of the Site.
+        </p>
+        <p>
+            By entering, using and/or registering into the Site, you hereby
+            provide IDF with your explicit consent for the collection,
+            treatment and processing of your personal data according to this
+            Privacy Policy. You, as the legitimate owner of your personal
+            data, by using the Site hereby represent to be an adult to the
+            date that the same is provided and to have full legal capacity in
+            your jurisdiction.
+        </p>
+        <p>
+            Edits, comments, commentaries and other contributions to the Site
+            made or provided by you will be publicly distributed, and except
+            in certain, very limited circumstances, will remain a permanent
+            part of this site. If you decide to contribute to the Site, you
+            must keep this in mind. Your contributions will be subject to the
+            Site's <a href="https://www.interaction-design.org/about/terms-of-use">Terms and Conditions</a> and IDF's
+            <a href="https://www.interaction-design.org/about/copyright">Site IP/Copyright Policy</a>.
+        </p>
+        <p>
+            Under "The Act on Processing of Personal Data", incorporated under
+            Danish law, you may request a copy of the information we hold on
+            you (for which we may request the applicable fee to offset our
+            administration costs) by writing to our address first shown above
+            or to the email legal@interaction-design.org.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">2. Security measures for keeping data safe</h1>
+        </div>
+        <p>
+            IDF has set up physical, technical and administrative security
+            measures for the protection of your personal data. IDF shall
+            undertake actions, measures and provisions it deems appropriate in
+            order to safeguard its user's right to protect their personal
+            data. As an example, IDF uses or implements the following
+            measures, among others: (i) SSL encryption for the communication
+            between your browser and IDF's servers; (ii) the highest form of
+            server encryption available in the industry; (iii) 32
+            diesel-powered emergency generators with 2,250 kW capacity for N+2
+            redundancy, with 200,000 gallons of fuel on-site; (iv) redundant
+            fire suppression and detection systems; (v) armed security
+            around-the-clock; (vi) redundant geographically dispersed
+            datacenters in case of terror attacks or nuclear explosions. IDF
+            undertakes daily incremental backups and has 24/7/365 onsite
+            management and surveillance.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">3. No transfer of information or data</h1>
+        </div>
+        <p>
+            IDF will not share any email addresses of users, nor will it
+            disclose any identifying personal data, to any third party, for
+            any purpose whatsoever. Data collected by IDF through logging
+            visits to the Site (e.g. originating IP, referral data, browser
+            and platform type, traffic flows, geographical area of request) is
+            only used in an aggregated, anonymous form, which means IDF will
+            not make any further effort to personally identify its users.
+            Collected data is only used for server administration, fault
+            finding, site improvement and other legitimate purposes.
+        </p>
+        <p>
+            Aggregate (and thus non-identifying) statistics generated from the
+            Site may be reported as part of research results or may be
+            published on the Site.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">4. Data collection for non-registered website visitors</h1>
+        </div>
+        <p>
+            For non-registered website visitors – as opposed to fully
+            registered and paying members – IDF collects data commonly
+            collected on most analogous websites (e.g. through Google
+            Analytics or another analytics product).
+        </p>
+        <p>
+            Any time you visit a page on the internet, you send information to
+            a remote server. The servers that host the Site maintain access
+            logs with the information that you send. This information is used
+            to provide and generate statistics and analytics and to provide
+            IDF with marketing and traffic data regarding the Site and other
+            websites that link back to the Site. IDF does not intend to use
+            these logs to identify legitimate users.
+        </p>
+        <p>
+            The data logged may be used by IDF to solve technical problems
+            with the Site and, in cases of abuse, to conduct any investigate
+            therefrom.
+        </p>
+        <p>
+            IDF may also use web analytics services to understand the type of
+            traffic received by the Site and other of IDF's websites, in order
+            to provide better services and to set benchmarks for IDF's goals.
+            For example, through Google Analytics, the IDF records things like
+            IP address, browsing time, length and date, sections visited,
+            websites you accessed prior to the Site and type of browser.
+        </p>
+        <p>
+            If you are concerned about attempts to match your IP address to
+            your identity, you may wish to use an anonymous browsing service
+            or attempt other means to obfuscate your real IP address. Browsing
+            the Site does not reveal your identity publicly.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">5. Data collection for registered members</h1>
+        </div>
+        <p>
+            Data collection for registered members is – by necessity – more
+            extensive in order to allow the Site to function and operate with
+            it. As an example, IDF records, including but not limited to, the
+            following items:
+        </p>
+        <ul>
+            <li>Complete name of the member.</li>
+            <li>E-mail address of the member.</li>
+            <li>Country of residence of the member.</li>
+            <li>Courses that the member is enrolled in.</li>
+            <li>Answers to questions in courses.</li>
+            <li>Local Groups the person has registered for.</li>
+            <li>IP address and country of each session (for security purposes).</li>
+        </ul>
+        <p>
+            Please be advised that part or all of this information will be
+            shown on your “Public Profile page” as means of identification by
+            other members and in order to generate engagement and
+            participation by our community. IDF only publicly discloses data
+            which is commonly and publicly available for most people through
+            the Internet, such as name, profile picture, country and city of
+            residence and links to personal social media pages and the website
+            of each member. The disclosure of this information on your public
+            profile page can be controlled by you at any moment. If you do not
+            want to disclose it, please do not add it and select the necessary
+            privacy settings in the Site and/or your social media pages. If
+            you elect to delete part or all of your information by selecting
+            the appropriate settings in the Site, such information will not be
+            publicly shown through the Site.
+        </p>
+        <p>
+            If you choose to cancel your membership, or if IDF terminates it,
+            IDF will employ what is commonly referred to as a “soft delete” in
+            its database, which means that data will still be stored
+            physically in IDF's database but marked as “deleted”. IDF does so
+            for the technical requirements of its relational databases and for
+            dependent functionality such as the Local Group Rank and
+            publications on the IDF Daily to continue to work. These
+            functionalities depend on this data being available.
+        </p>
+        <p>
+            If you forget to renew your membership, and hence it is
+            auto-cancelled, the data marked as previously deleted (i.e. “soft
+            deleted”) will be used to restore your course answers, local group
+            affiliations, course certificates and other data if you elect to
+            renew your membership at a later point. This will prevent a
+            permanent loss of data for you.
+        </p>
+        <p>
+            IDF will, of course, fulfill any request to permanently delete
+            your data by means of an e-mail to legal@interaction-design.org.
+            Such requests may take up to 6 weeks to process.
+        </p>
+        <p>
+            All “Certification Pages” will remain publicly available after
+            your membership is cancelled or terminated, including the profile
+            information (e.g. name, picture, certifications) of the person
+            having been certified. IDF undertakes this since a certification
+            by the IDF entails a life-time certification. IDF will, of course,
+            honor any request to permanently delete and stop public display of
+            such data by means of an e-mail to legal@interaction-design.org.
+            Such request may take up to 6 weeks to process.
+        </p>
+        <p>
+            Company memberships (i.e. group memberships) also require the
+            aforementioned data collection by IDF, so that it can be displayed
+            to the pertinent company administrator (i.e. for evaluating
+            employee compliance).
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">6. Cookies and other web beacons</h1>
+        </div>
+        <p>
+            With the purpose of providing a better experience to Users in the
+            Website, IDF may use “cookies” or other kind of web beacons. This
+            is often as a convenience for you to enable certain Site's
+            features. For purposes of this Privacy Policy, "cookies" shall
+            mean text files of information sent by a website in your computer
+            in order to store some records and preferences; and "web beacons"
+            shall mean computer code inserted into a website or e-mail that
+            can be used to monitor the behavior of a user (e.g. IP address,
+            browsing time, length and date, sections visited, websites you
+            accessed prior to the Site and type of browser).
+        </p>
+        <p>
+            The Site may allow advertising or third party functions that send
+            "cookies" to users. Through the use of "cookies", users are not
+            personally identified, only their computers.
+        </p>
+        <p>
+            Users may change their options through their computer equipment
+            and/or browsers to stop accepting "cookies" and / or "web beacons"
+            or confirm whether or not to accept them.
+        </p>
+        <p>
+            You may wish to clear these cookies and the browser cache if you
+            wish to refrain from revealing any identifying information,
+            especially if you are using a public or shared computer. You may
+            also prevent your browser from accepting cookies by disabling such
+            functionality.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">7. Advertising, opt-out</h1>
+        </div>
+        <p>
+            IDF may use Google Analytics and other tools (like remarketing
+            codes) from time to time to gather information about websites you
+            browse view or when you undertake specific actions in a website.
+            This allows IDF to provide targeted, customized advertising its
+            audience. Thus, third party vendors (such as Google, Inc., Adroll, or Facebook) may
+            show you IDF ads on certain websites across the Internet, even
+            after you leave the Site. Such vendors may use cookies and other
+            web beacons to track your Internet browsing in order to serve ads
+            based on your past visits to the Site.
+        </p>
+        <p>
+            The Site uses the Google AdWords remarketing service to advertise
+            on third party websites (including www.google.com) to previous
+            visitors to the Site. If you do not wish to receive this type of
+            advertising from IDF now or in the future, you may opt-out by
+            using the&nbsp;DoubleClick opt-out page
+            (https://www.google.com/settings/ads/plugin)&nbsp;or
+            the&nbsp;Network Advertising Initiative opt-out page
+            (http://www.networkadvertising.org/managing/opt_out.asp). For
+            Google-specific advertisement, You can set preferences for how
+            Google advertises to you using the&nbsp;Google Ad Preferences page
+            (http://www.google.com/settings/ads/onweb/), and if you want to you
+            can opt out of interest-based advertising entirely by cookie
+            settings&nbsp;(see http://www.google.com/settings/ads/onweb/) or
+            permanently using a browser plugin
+            (see https://www.google.com/settings/ads/plugin).
+        </p>
+        <p>
+            In other words, IDF's ads do not collect any sensitive personal
+            data about you. For purposes of these Terms, “sensitive personal
+            data” shall mean your racial or ethnic origin, political opinions,
+            religious or philosophical beliefs, trade-union membership, data
+            concerning health or sex life and financial data like credit card
+            or bank information.
+        </p>
+        <p>
+            If you wish to stop receiving messages via e-mail from IDF, simply
+            click the unsubscribe link at the bottom of the e-mail.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">8. Personal data release</h1>
+        </div>
+        <p>
+            IDF may only release collected personal data under the following
+            circumstances:
+        </p>
+        <ul>
+            <li>As required by applicable law (e.g. in response to a valid request from a law enforcement agency).</li>
+            <li>To designated third parties, in order to resolve or investigate abuse complaints.</li>
+            <li>When the information is related to spiders, bots, and other technical issues.</li>
+            <li>When attempting to block abusive users or to complain to such ISP.</li>
+            <li>To defend itself or its affiliates from legal claims by third parties.</li>
+            <li>When deemed necessary to protect the rights of IDF's user community or the Site.</li>
+        </ul>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">9. Data owners' rights and revocation of consent</h1>
+        </div>
+        <p>
+            Any User of the Site can make a request to IDF in order exercise
+            his rights to:
+        </p>
+        <ul>
+            <li>Access his personal data.</li>
+            <li>Rectify his personal data when inaccurate or incomplete.</li>
+            <li>Cancel his personal data.</li>
+            <li>Object with legitimate reason the Process of his personal data.</li>
+            <li>Revoke his consent for the process of his personal data at any moment, in order to stop the use of the
+                same.
+            </li>
+        </ul>
+        <p>
+            The exercise of rights to access, rectify or cancel personal data
+            and/or object or revoke consent should be requested in writing by
+            users to IDF and must include at least the following:
+        </p>
+        <ul>
+            <li>The data owner's name, address, and e-mail address to notify him of the response to his request.</li>
+            <li>Documents establishing the identity or, where appropriate, legal representation of the data owner.</li>
+            <li>A clear and precise description of the personal data with regard to which the data owner seeks to
+                exercise any of the abovementioned rights (when rectification is requested, modifications that should be
+                made should be specified and provide documentation to back up its request).
+            </li>
+        </ul>
+        <p>
+            For the exercise of the previous rights, IDF hereby provides its
+            users with the following e-mail address
+            hello@interaction-design.org.
+        </p>
+        <p>
+            The exercise of users of the abovementioned rights shall be
+            subject to the laws and regulations applicable and in force in
+            Denmark.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">10. Author identification</h1>
+        </div>
+        <p>
+            When making contributions to the Site (e.g. posting a comment,
+            commentaries, editing a page in the wiki), a name and email
+            address may be required from a user. You do not have to use your
+            real name, instead opting to use a pseudonym. You may also to get
+            a free email account or attempt to use a remailing service when
+            using the Site.
+        </p>
+        <p>
+            Your activity on our Site may be identified by your IP address.
+            These numbers could potentially be traceable to identifying
+            information about you, whether it is your home ISP or the
+            university or work account where the IP address is registered.
+        </p>
+        <p>
+            If you are concerned about attempts to match your IP address to
+            your identity, you may wish to use an anonymous browsing service
+            or attempt some means to obfuscate your real IP address. If so,
+            you may try to use Tor, an anonymous browsing service.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">11. Disclaimer</h1>
+        </div>
+        <p>
+            The Site may include hyperlinks or hypertexts that, when used by
+            users, may forward to other portals or Internet websites that may
+            be property of third parties. Data provided by users through any
+            of those portals or Internet websites are not covered by this
+            Privacy Policy and are not the responsibility or liability of IDF.
+            IDF encourages its users to verify the privacy notices displayed
+            and applicable in those portals or Internet websites.
+        </p>
+        <p>
+            Users may find within the Site, message boards, wikis, chat rooms,
+            social media functionalities, blogs or other services that may be
+            shared with third parties and that could collect your personal
+            data (hereinafter the “Third Parties' Sites”). Any information
+            related to your personal data provided through the Third Parties'
+            Sites will be subject to the corresponding privacy notices
+            contained in each one of them, unless IDF indicates otherwise.
+        </p>
+        <p>
+            IDF shall not be liable for the use, publication, disclosure
+            and/or reveal made from personal data used, published, disclosed
+            and/or revealed through the abovementioned means. The content
+            provided on the Site, including content posted by users, is for
+            general information, discussion and entertainment purposes only.
+            IDF makes no representations or guarantees about any aspect of any
+            content on the Site and does not endorse any opinions expressed by
+            any users. ALL CONTENT IS POSTED "AS IS" AND YOUR USE OR RELIANCE
+            ON ANY CONTENT IS AT YOUR OWN RISK. IDF HEREBY DISCLAIMS ALL
+            LIABILITY TO YOU FOR THE CONSEQUENCES OF USING OR RELYING ON ANY
+            CONTENT IN OR WITHIN THE SITES. IDF DOES NOT WARRANTs OR
+            GUARANTEEs THAT ANY INFORMATION AVAILABLE USING THE SITE OR OTHER
+            SERVICES IS ACCURATE OR RELIABLE OR YOUR USE OF THE SITE WILL BE
+            UNINTERRUPTED, SECURE, OR FREE FROM ERROR. IDF, ITS VENDORS AND
+            AFFILIATES GIVE NO EXPRESS WARRANTIES OR GUARANTEES NOR IMPLIED
+            WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+            WORKMANLIKE EFFORT, AND NON-INFRINGMENT.
+        </p>
+        <p>
+            SOME STATES DO NOT ALLOW IDF TO LIMIT ITS LIABILITY FOR
+            CONSEQUENTIAL OR INCIDENTAL DAMAGES OR EXCLUDE CERTAIN WARRANTIES.
+            IN THOSE STATES, IDF'S LIABILITY AND WARRANTIES ARE LIMITED TO THE
+            EXTENT PERMITTED BY LAW.
+        </p>
+        <p>
+            IDF recommends its users to be careful and responsible on the
+            personal information they provide through such means.
+        </p>
+
+        <div class="panel__inner">
+            <h1 class=" heading heading--componentHeading js-componentHeading ">12. Changes to the Privacy Policy</h1>
+        </div>
+        <p>
+            IDF reserves the right to modify, at any moment, the terms of this
+            Privacy Policy. Any change made to the Privacy Notice will be
+            notified to users through the Site. Once a new version of the
+            Privacy Policy is published, it will automatically be in force.
+        </p>
+        <p>
+            Date of last revision is March 26th, 2016.
+        </p>
+    </section>
+        </div>
+
+        <footer class=" footer hidePrint ">
+
+    <div class=" island island--contentWrapper ">
+
+        <div class=" footer__inner wrapper col-md-3 ">
+
+            <div>
+                <h4 class="h2 u-text-condensed u-text-bold">About us</h4>
+                <p>
+                    The Interaction Design Foundation is a 15-year old nonprofit community, founded in Denmark.
+                </p>
+                                <p>
+                    See
+                    <a href="https://www.interaction-design.org/why-join-idf">
+                        7
+ compelling reasons to join us
+                    </a>
+                    or
+                    <a href="https://www.interaction-design.org/literature/article/interaction-design-foundation-reviews-answers-to-frequently-asked-questions-by-members">
+                        read in-depth reviews
+                    </a>
+                    from our members.
+                </p>
+                                <p>
+                    Learn more about
+                    <a href="https://www.interaction-design.org/about" title="About the Interaction Design Foundation">
+                        our mission
+                    </a>
+                    to lower the cost of design education, or
+                    <a href="https://www.interaction-design.org/careers" title="Careers and Jobs at the Interaction Design Foundation">come work with us</a>.
+                </p>
+            </div>
+
+
+            <div>
+                <h4 class=" h2 u-text-condensed u-text-bold">Connect with us!</h4>
+                <p>
+                    Send us an email at <a href="mailto:hello@interaction-design.org">hello@interaction-design.org</a>
+                    or through our <a href="https://www.interaction-design.org/about#contact" title="Contact the Interaction Design Foundation">online contact form</a>.
+                </p>
+                <p class="out-bottom-small">Or find us on:</p>
+                <div class=" socialLinks socialLinks--white ">
+
+                    <a class=" socialLinks__item " href="https://www.facebook.com/interactiondesign.org" target="_blank" rel="noopener">
+                        <span class="show-for-sr">Facebook</span>
+                        <span class=" fa-stack fa-lg ">
+                            <i class=" fa fa-circle fa-stack-2x "></i>
+                            <i class=" fa fa-facebook fa-stack-1x fa-inverse "></i>
+                        </span>
+                    </a>
+
+                    <a class=" socialLinks__item " href="https://twitter.com/interacting" target="_blank" rel="noopener">
+                        <span class="show-for-sr">Twitter</span>
+                        <span class=" fa-stack fa-lg ">
+                            <i class=" fa fa-circle fa-stack-2x "></i>
+                            <i class=" fa fa-twitter fa-stack-1x fa-inverse "></i>
+                        </span>
+                    </a>
+
+                    <a class=" socialLinks__item " href="https://plus.google.com/+InteractionDesignOrg" target="_blank" rel="noopener">
+                        <span class="show-for-sr">Google+</span>
+                        <span class=" fa-stack fa-lg ">
+                            <i class=" fa fa-circle fa-stack-2x "></i>
+                            <i class=" fa fa-google-plus fa-stack-1x fa-inverse "></i>
+                        </span>
+                    </a>
+
+                    <a class=" socialLinks__item " href="https://www.pinterest.com/ixdfoundation/" target="_blank" rel="noopener">
+                        <span class="show-for-sr">Pinterest</span>
+                        <span class=" fa-stack fa-lg ">
+                            <i class=" fa fa-circle fa-stack-2x "></i>
+                            <i class=" fa fa-pinterest fa-stack-1x fa-inverse "></i>
+                        </span>
+                    </a>
+
+                    <a class=" socialLinks__item " href="https://www.linkedin.com/company/interaction-design-org-foundation" target="_blank" rel="noopener">
+                        <span class="show-for-sr">Linkedin</span>
+                        <span class=" fa-stack fa-lg ">
+                            <i class=" fa fa-circle fa-stack-2x "></i>
+                            <i class=" fa fa-linkedin fa-stack-1x fa-inverse "></i>
+                        </span>
+                    </a>
+
+                    <a class=" socialLinks__item " href="https://www.instagram.com/interaction_design_foundation" target="_blank" rel="noopener">
+                        <span class="show-for-sr">Instagram</span>
+                        <span class=" fa-stack fa-lg ">
+                            <i class=" fa fa-circle fa-stack-2x "></i>
+                            <i class=" fa fa-instagram fa-stack-1x fa-inverse "></i>
+                        </span>
+                    </a>
+
+                </div>
+            </div>
+
+
+            <div>
+                <h4 class=" h2 u-text-condensed u-text-bold">Stay in touch</h4>
+                <p>
+                    Join <span class="js-subscriberCount">76,535</span> designers and get our
+                    <a href="https://www.interaction-design.org/newsletter" title="Design Tips">weekly design tips</a> in your inbox.
+                </p>
+                <form action="https://www.interaction-design.org/newsletter/subscribe" method="post" data-abide="">
+                    <input type="hidden" name="_token" id="csrf-token" value="lMrqNTagY6Qt3gMNTyMyIxg5gKAAS6TZG9BxTONx">
+                    <input type="hidden" name="mailing_listID" value="1">
+                    <div class=" form__field ">
+                        <div class=" inputGroup ">
+                            <input name="email" type="email" data-abide-validator="email" placeholder="Your email" title="Subscription form" required="" aria-invalid="false">
+                            <div class=" inputGroup__addon inputGroup__addon--noBorder ">
+                                <button type="submit" class=" button ">Sign up</button>
+                            </div>
+                        </div>
+                        <small class=" error ">Please write a valid email address.</small>
+                    </div>
+                </form>
+
+                <h4 class=" h2 u-text-condensed u-text-bold in-top-small out-top-large out-bottom-none">What is UX (user experience) design?</h4>
+                <p>
+                    Read our
+                    <a href="#" data-reveal-id="freeEbookDialog">definitive guide on UX (User Experience) Design</a>.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class=" footer__links island island--contentWrapper island--dark ">
+    <ul class=" inlineList inlineList--center js-staticLinks ">
+        <li><a class=" link link--secondarySmall " href="https://www.interaction-design.org/about/copyright" id="copyrightNotice">Copyright / IP Policy</a></li>
+        <li><a class=" link link--secondarySmall " href="https://www.interaction-design.org/about/terms-of-use">General Terms of Use</a></li>
+        <li><a class=" link link--secondarySmall " href="https://www.interaction-design.org/about/privacy">Privacy Policy</a></li>
+        <li class="hideMinimalLayout">
+            <a class=" link link--secondarySmall " href="#" data-reveal-id="freeEbookDialog">
+                What is UX (User Experience) Design?
+            </a>
+        </li>
+    </ul>
+</div>
+
+    </div>
+
+    <div class=" footer__background ">
+        <img data-layzr="https://public-media.interaction-design.org/images/idf-logo--inverse.svg" alt="IDF">
     </div>
 </footer>
 
-        <a class="exit-off-canvas"></a>
+
+
+
+<div id="freeEbookDialog" class=" reveal-modal ebook-modal" data-reveal="" data-options="animation_speed: 100;" aria-hidden="true" role="dialog">
+    <div class=" u-text-center ">
+        <h1 class=" reveal-modal__header ">New to UX Design? We're giving you a free ebook!</h1>
+    </div>
+
+    <div class="row">
+    <div class="cols-md-4">
+        <img class="roadblock__productImage" alt="The Basics of User Experience Design" src="https://public-media.interaction-design.org/images/book-covers/basics-of-ux-design.png">
+    </div>
+
+    <div class="cols-md-8">
+        <p>
+            Download our free ebook <b><i>The Basics of User Experience Design</i></b> to learn about core concepts in UX design.
+        </p>
+
+        <p>
+            In 9 chapters, we'll cover: conducting user interviews,
+            design thinking, interaction design, mobile UX design,
+            usability, UX research, and many more!
+        </p>
+
+        <form method="POST" action="https://www.interaction-design.org/newsletter/subscribe-for-ebook" data-abide="">
+            <input type="hidden" name="_token" value="lMrqNTagY6Qt3gMNTyMyIxg5gKAAS6TZG9BxTONx">
+            <input type="hidden" name="mailing_listID" value="48">
+            <div class="form__field">
+                <div class="inputGroup">
+                    <input name="email" type="email" placeholder="Enter your email address" title="Enter your email address" data-abide-validator="email" required="" autocomplete="email">
+                    <div class="inputGroup__addon hideSmallOnly">
+                        <button class="button">Download free ebook</button>
+                    </div>
+                </div>
+                <small class=" error ">A valid email address is required.</small>
+            </div>
+            <div class=" idfCheckbox out-top-small ">
+                <input type="checkbox" id="freeEbookDialog_subscribe-newsletter" name="subscribe-newsletter" checked="">
+                <label for="freeEbookDialog_subscribe-newsletter">Receive free UX design learning material every week</label>
+            </div>
+
+            <div class="form__controls">
+                <button class="button button--block displaySmallOnly">Download free ebook</button>
+            </div>
+        </form>
+    </div>
+</div>
+    <a class=" close-reveal-modal " aria-label="Close">×</a>
+</div>
+
+        <a class=" exit-off-canvas "></a>
     </main>
 </div>
 
 
-<div id="verifyModalDialog" class="reveal-modal medium" data-reveal="" aria-hidden="true" role="dialog">
-    <h1 class="center">Please re-enter your password</h1>
-
-    <p>
-        For your security, you must re-enter your password to continue
-    </p>
-
-    <form id="verifyModalForm" action="https://www.interaction-design.org/index.php/verify" method="post">
-        <div class="errors">
-
-        </div>
-        <div class="error-container">
-            <label>
-                Password
-                <input type="password" name="password" value="" class="verifyModalInput">
-            </label>
-            <small class="error" style="display: none;">
-                Sorry. Wrong password. Did you
-                <a id="forget_password_link" href="https://www.interaction-design.org/index.php/password/email">
-                    forget your password
-                </a>?
-            </small>
-        </div>
-
-        <div class="controls center modal-controls">
-            <button type="submit" class="button modal-success margin-bottom-medium">Submit</button>
-            <a href="#" class="cancel button close-modal modal-cancel">Cancel</a>
-            <a id="forgot_password" class="cancel button" href="https://www.interaction-design.org/index.php/password/email">Forgot Your Password ?</a>
-        </div>
-
-    </form>
-
-    <a class="close-reveal-modal" aria-label="Close">×</a>
-</div>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,700,500|Roboto+Condensed:400,300,700|Roboto+Slab:400,300,700|Press+Start+2P">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="/css/vendors.css?bust=2016101887">
-
-<script src="/js/app.config.bust.js?bust=2016101887"></script>
-<script src="/bower_components/requirejs/require.js" data-main="/js/all"></script>
-
-<script type="text/javascript">
-	    /* <![CDATA[ */
-	    var google_conversion_id = 985705368;
-	    var google_custom_params = window.google_tag_params;
-	    var google_remarketing_only = true;
-	    /* ]]> */
-	</script>
-	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-	</script>
-	<noscript>
-	    <div style="display:inline;">
-	        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985705368/?value=0&amp;guid=ON&amp;script=0"/>
-	    </div>
-	</noscript>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"74db9a8928","applicationID":"21973063","transactionName":"YFwGY0tYCkdYWxEMWlkWJVRNUAtaFk0LDltYTgo=","queueTime":0,"applicationTime":44,"atts":"TBsFFQNCGUk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,700|Roboto+Condensed:400,300,700">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+<script src="https://public-media.interaction-design.org/js/libs/require.js/2.3.5/require.min.js" data-main="require.config"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"74db9a8928","applicationID":"21973063","transactionName":"YFwGY0tYCkdYWxEMWlkWJ0JKTQtZFkgEAlBEFxRFUE8FV0AYIiBh","queueTime":0,"applicationTime":98,"atts":"TBsFFQNCGUk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
