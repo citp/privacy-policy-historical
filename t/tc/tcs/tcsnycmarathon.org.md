@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcsnycmarathon.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616162552id_/http%3A//www.tcsnycmarathon.org/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcsnycmarathon.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002193300id_/http%3A//tcsnycmarathon.org/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | TCS New York City Marathon
 
