@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219183859id_/https%3A//bellroy.com/customer-care%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002174713id_/https%3A//bellroy.com/customer-care%23privacy-policy) for the most accurate reproduction.*
 
-# Customer Care - Slim Leather Wallets by Bellroy
+# Customer Care | Shipping, Delivery, Bellroy Warranty & Exchanges | Bellroy
 
 ## Estimated Arrival Time
 
@@ -18,7 +18,7 @@ Est. Arrival Time
   
 ## Worldwide Shipping
 
-Bellroy customers live all across the globe, so we can ship to anywhere with a letterbox. For P.O. Boxes in the U.S. and Canada, please use the regular shipping option at checkout (our team of trained delivery owls aren’t allowed in government buildings just yet).
+Bellroy customers live all across the globe, so we can ship to anywhere with a letterbox. For P.O. boxes outside Australia and Europe, please use the regular shipping option at checkout (our team of trained delivery owls aren’t allowed in government buildings just yet).
 
 We usually dispatch orders within 2 working days. Delivery times vary based on selected service and destination. Regular post ranges from 3 to 28 working days depending on the shipping address. For more accurate shipping windows check out our Estimated Arrival Time Calculator above.
 
@@ -118,7 +118,7 @@ No. Within our range, some are slimmer than others. Essentially, the more featur
 
 ## Are Bellroy wallets the slimmest? 
 
-No. We do not have the slimmest wallets. If you want to wrap your cards in cling film, you can make a slimmer wallet. Instead, what we offer is a wallet that is as slim as we can get it without compromising on intelligent interactions, considered materials, and comfort in everyday use. Oh, we also offer some [carry tips](http://bellroy.com/our-tips) to reduce the amount you put into your wallet. That should help too.
+No. We do not have the slimmest wallets. If you want to wrap your cards in cling film, you can make a slimmer wallet. Instead, what we offer is a wallet that is as slim as we can get it without compromising on intelligent interactions, considered materials, and comfort in everyday use.
 
 ## Where can I find the Micro Pen available with some of your products?
 
@@ -136,7 +136,7 @@ Our number one environmental goal is to make products that are used and loved fo
 
 ## Our Leathers
 
-Premium top-grain leather is durable, supple and has timeless appeal. It ages gracefully and forms a unique character depending on how you use it. This makes it ideal for wallets and other small carry goods. Despite extensive ongoing research, we’re yet to find another material that offers the same balance of qualities (eg most faux or vegan leathers perform poorly when it comes to environmental impact or long term durability). 
+Premium leather is durable, supple and has timeless appeal. It ages gracefully and forms a unique character depending on how you use it. This makes it ideal for wallets and other small carry goods. Despite extensive ongoing research, we’re yet to find another material that offers the same balance of qualities (eg most faux or vegan leathers perform poorly when it comes to environmental impact or long term durability). 
 
 All of our leathers come from [Gold Rated LWG tanneries](http://www.carryology.com/liking/industry/introducing-leather-working-group/), which helps ensure its production meets strict environmental guidelines. To read more about considerations in this space, including animal welfare concerns, please read our page on [Responsible Business](https://web.archive.org/responsible-business).
 
@@ -196,7 +196,7 @@ Bellroy delivers products to most of planet earth and select parts of our solar 
 
 ### 3\. Customer Service
 
-Bellroy is committed to providing exceptional customer service and quality products. Standard dispatch timeframes are between 1-3 business days. If you have any questions or concerns about a product, your order, or life in general, [email our support team](mailto:support@bellroy.com).
+Bellroy is committed to providing exceptional customer service and quality products. Standard dispatch timeframes are between 1–3 business days. If you have any questions or concerns about a product, your order, or life in general, [email our support team](mailto:support@bellroy.com).
 
 ### 4\. Return Policy
 
