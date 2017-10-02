@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623150052id_/http%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002194351id_/http%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
