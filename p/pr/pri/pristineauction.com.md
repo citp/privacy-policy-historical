@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503044004id_/https%3A//pristineauction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002153150id_/https%3A//pristineauction.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Sports Memorabilia Auction | Pristine Auction
 
@@ -59,7 +59,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions page](https://web.archive.org/default/index/terms-and-conditions) establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Auction Policy page](https://web.archive.org/auction-policy) establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
