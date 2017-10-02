@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killstar.com privacy policy that was archived on 2016-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160718033855id_/https%3A//www.killstar.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killstar.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002234139id_/https%3A//www.killstar.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KILLSTAR
+# PRIVACY POLICY | KILLSTAR
 
 **What is this Privacy Policy for?**
 
@@ -61,7 +61,7 @@ This website and its owners through their social media platform accounts may sha
 If you have any questions about privacy please contact us by email at info@killstar.com or via mail; 
 
 DRACO DISTRIBUTION LTD  
-Unit 1 Queenslie Point  
-120 Stepps Road  
-Glasgow G33 3NQ  
+Unit 9 Boundary Road  
+Rutherglen  
+Glasgow G73 1DB  
 United Kingdom
