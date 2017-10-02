@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinayot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111747id_/http%3A//pinayot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinayot.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003004521id_/https%3A//pinayot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pinayot.com
 
