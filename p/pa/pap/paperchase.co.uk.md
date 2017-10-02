@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113190714id_/https%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002090431id_/https%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies at Paperchase
 
@@ -128,8 +128,8 @@ As we continue to develop our website and take advantage of technologies to impr
 
 This website is operated by Paperchase Products Ltd, and this privacy policy applies to this website only.
 
-If you have any questions or comments about our security or privacy policy, please [contact us](http://www.paperchase.co.uk/contact/).
+If you have any questions or comments about our security or privacy policy, please [contact us](https://www.paperchase.co.uk/contact/).
 
-Read more about [security & your data](http://www.paperchase.co.uk/security/)
+Read more about [security & your data](https://www.paperchase.co.uk/security/)
 
 **Back to top**
