@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorestream.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206112428id_/http%3A//scorestream.com/misc/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorestream.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002035645id_/https%3A//scorestream.com/misc/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ScoreStream
 
@@ -62,6 +62,6 @@ This Privacy Policy is governed by the laws of the State of California, excludin
 
 Changes to this Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://scorestream.com/misc/privacyPolicy If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @ScoreStream update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.Contact Us
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://scorestream.com/misc/privacyPolicy If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @ScoreStream update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.Contact Us
 
 Thoughts or questions about this Privacy Policy? Please let us know at info@scorestream.com
