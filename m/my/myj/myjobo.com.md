@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the myjobo.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103152026id_/http%3A//www.myjobo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobo.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002183408id_/https%3A//www.myjobo.com/privacy_policy) for the most accurate reproduction.*
 
-# Malawi's largest online jobs, careers and entrepreneurship site
+# Privacy Policy | Find jobs in Malawi- Search for jobs on myjobo.com
 
-## Privacy Policy
-
-Enviro Future Ltd having a principal place of business at 145-157 St John Street, London, EC1V 4PW, the United Kingdom (hereinafter, referred to as “Company”, “we”, “us”, “our”) collects from the individual user (hereinafter, referred to as “you”, “your”, “user”) certain information through the website www.myjobo.com (hereinafter, referred to as “Website”). This Privacy Policy contains our policies and procedures governing the collection and handling of information that identifies an individual user or that could be used to contact or locate him or her (hereinafter, referred to as “Personal Information”). This Privacy Policy applies only to the Website. It does not apply to any other websites.
+Unique Future Ltd having a principal place of business at Hove, the United Kingdom (hereinafter, referred to as “Company”, “we”, “us”, “our”) collects from the individual user (hereinafter, referred to as “you”, “your”, “user”) certain information through the website www.myjobo.com (hereinafter, referred to as “Website”). This Privacy Policy contains our policies and procedures governing the collection and handling of information that identifies an individual user or that could be used to contact or locate him or her (hereinafter, referred to as “Personal Information”). This Privacy Policy applies only to the Website. It does not apply to any other websites.
 
 **1.      ****_Personal Information collected by us_**
 
-1.1  We collect the following Personal Information from job seekers using the Website: (1) CVs; (2) names; (3) email addresses; (4) postal addresses; and (5) phone numbers;  
+1.1  We collect the following Personal Information from job seekers using the Website: (1) CVs; (2) names; (3) email addresses; (4) postal addresses; and (5) phone numbers; 
 
 1.2  We collect the following Personal Information from companies using the Website: (1) names of contact persons; (2) phone numbers of contact persons; (3) emails of contact persons; and (4) postal addresses.
 
 **2.      ****_The purpose of collection of Personal Information_**
 
-2.1  We collect Personal Information from job seekers to: (1) allow companies to search for job seekers; (2) allow companies to contact job seekers; (3) send promotional materials to job seekers that we believe may be of interest to them; (4) send our newsletter to job seekers; and (5) communicate with job seekers;  
+2.1  We collect Personal Information from job seekers to: (1) allow companies to search for job seekers; (2) allow companies to contact job seekers; (3) send promotional materials to job seekers that we believe may be of interest to them; (4) send our newsletter to job seekers; and (5) communicate with job seekers; 
 
 2.2   We collect Personal Information from companies to: (1) allow companies to contact job seekers; (2) send promotional materials to companies that may be of interest to them; (3) send our newsletter to companies; and (4) communicate with companies;
 
@@ -62,11 +60,7 @@ Enviro Future Ltd having a principal place of business at 145-157 St John Street
 
 10.1  If you have any questions about this Privacy Policy, please contact us by email at [info@myjobo.com](mailto:info@myjobo.com), or please write to the following mailing address:
 
-Enviro Future Ltd,
-
-145-157 St John Street,
-
-London, EC1V 4PW,
+Unique Future Ltd,
 
 United Kingdom.
 
@@ -76,4 +70,4 @@ United Kingdom.
 
 **12.   ****_Last amendment_**
 
-12.1  This Privacy Policy was last amended on 12th of April 2014.
+12.1  This Privacy Policy was last amended on 14th of June 2017.
