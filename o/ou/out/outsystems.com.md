@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsystems.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113125609id_/http%3A//www.outsystems.com/legal/terms-of-use/privacy-statement/%237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsystems.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002072412id_/https%3A//www.outsystems.com/legal/terms-of-use/privacy-statement/%237) for the most accurate reproduction.*
 
 # Privacy Statement - OutSystems Web Properties Terms of Use
 
@@ -99,7 +99,7 @@ __utma | 60 | 2 years | This cookie stores each user's amount of visits, and the
 __utmb | 30 | 30 min | This Cookie is used in conjunction with __utmc to check approximately how long a visitor stayed on a site, by looking at when a visit starts, and when it approximately ends.  
 __utmc | 15 | Session | This Cookie is used in conjuntion with __umtb to check approximately how long a visitor stayed on a site, by looking at when a visit starts, and when it approximately ends.  
 __utmz | 75 | 6 months | This cookie is used to store information on how a visitor found our website (search engine, search keyword, website link).  
-These cookies are set by the technology that is used to implement this website, OutSystems Platform. These cookies are used to collect anonymous information for performance statistics, and to improve the user experience.  
+These cookies are set by the technology that is used to implement this website, OutSystems. These cookies are used to collect anonymous information for performance statistics, and to improve the user experience.  
    
 ---  
 **Cookie** | **Aprox Size (bytes)** | **Expiration** | **Description**  
