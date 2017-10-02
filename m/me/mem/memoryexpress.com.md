@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memoryexpress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162116id_/http%3A//www.memoryexpress.com/Policies/Security.cm.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoryexpress.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002192701id_/https%3A//www.memoryexpress.com/Policies/Security.cm.aspx) for the most accurate reproduction.*
 
-# Memory Express - Security & Privacy
+# Memory Express - Security & Privacy - Memory Express Inc.
 
 At memoryexpress we know how important it is to protect your personal information. Whether you are shopping with us online or in person, we make every customer experience safe and secure. We have developed this Privacy Policy to outline our guidelines for the collection and use of personal information. At memoryexpress, we collect two types of information; personal information and non-personal information. 
 
