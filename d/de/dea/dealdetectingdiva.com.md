@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627130347id_/http%3A//hearthookhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002021208id_/http%3A//hearthookhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Heart Hook Home
 
@@ -32,6 +32,6 @@ The contents of this statement may be altered at any time, at our discretion.
 
 _This policy last updated July 2016._
 
-### Join us!
+### LET'S BE CRAFT FRIENDS!
 
-Join us here at Heart • Hook • Home and get CROCHET tips and DIY ideas, YARN hacks and FREE crochet patterns + yummy new RECIPES along with FAMILY and HEART + BUDGETING tips sent directly to your email! 
+There's more where this came from! Ready for **CROCHET** tips, **YARN** hacks and crochet **PATTERNS** sent directly to your inbox? 
