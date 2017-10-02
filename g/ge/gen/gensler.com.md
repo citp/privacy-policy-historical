@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221012332id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002051145id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gensler
 
@@ -61,5 +61,3 @@ Gensler
 2 Harrison Street  
 Suite 400  
 San Francisco, CA 94105
-
-Gensler complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Gensler has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gensler’s certification, please visit <http://www.export.gov/safeharbor/>
