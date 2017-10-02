@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutiontree.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207115504id_/https%3A//www.solutiontree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutiontree.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002220905id_/https%3A//www.solutiontree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solution Tree
 
