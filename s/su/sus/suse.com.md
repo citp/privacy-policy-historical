@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suse.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622010056id_/https%3A//www.suse.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suse.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003015501id_/https%3A//www.suse.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SUSE
 
