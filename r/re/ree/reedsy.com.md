@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000719id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002203027id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reedsy
 
@@ -112,8 +112,6 @@ Exit pop-up to suggest visitors sign up to Reedsy | session
 Cookie dynamically created depending on user's handle that contains the type of user and allows to log back in to the right place in the application | session  
 _ga | Tracking  
 Google Analytics Tracking | 2 years  
-wooTracker | Tracking  
-Woopra Analytics Tracking | 2 years  
 Auth_token | Authentication  
 Allows users to log in to our book production tool | session  
   
