@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521114551id_/https%3A//www.photovisi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002160858id_/https%3A//www.photovisi.com/privacy) for the most accurate reproduction.*
 
-# Photovisi Photo Collage | Free Online Photo Collage Maker |
+# Photovisi Photo Collage | Free Online Photo Collage Maker | Photovisi
 
 Effective date: 1 August 2015
 
