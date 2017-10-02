@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611042746id_/https%3A//www.webpagefx.com/privacytermsofuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002211309id_/https%3A//www.webpagefx.com/privacytermsofuse.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy & Terms of Use
 
@@ -39,7 +39,7 @@ We send newsletters to you and will not sell your email address to 3rd parties. 
 
 #### Copyright 
 
-The digital images and transcripts of documents on WebpageFX are the copyright of WebpageFX through our photo licenses with other providers or are the individual copywrite of WebpageFX. 
+The digital images and transcripts of documents on WebpageFX are the copyright of WebpageFX through our photo licenses with other providers or are the individual copyright of WebpageFX. 
 
 The index and all related website content are the copyright of WebpageFX. 
 
@@ -51,4 +51,4 @@ Visitors to this website are granted permission to access this material, to down
 
 Visitors to this website may not copy, distribute, screen shot, reproduce, sell or publish any of the copyright material downloaded or copies from this website. For the avoidance of doubt, no permission is given for the transfer of any of this material to an open internet site. For permission, please contact info@webpagefx.com. WebpageFX monitors the web closely for violations of our use policy. 
 
-Call 888.449.3239 or [contact us](https://web.archive.org/web/20170611042746id_/https%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
+Call 888.449.3239 or [contact us](https://web.archive.org/web/20171002211309id_/https%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
