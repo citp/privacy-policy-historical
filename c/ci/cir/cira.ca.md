@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204214027id_/https%3A//cira.ca/cira-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002090054id_/https%3A//cira.ca/cira-privacy-policy) for the most accurate reproduction.*
 
-# CIRA Privacy Policy
+# CIRA Privacy Policy | Canadian Internet Registration Authority (CIRA)
 
 _Corporate_
 
@@ -10,7 +10,7 @@ The Canadian Internet Registration Authority (“CIRA”), is committed to prote
 
 ### **Definitions**
 
-Capitalized terms used in this Policy that are not defined in this Policy have the meanings specified in [By-Law No. 1](https://cira.ca/sites/default/files/public/policy/by-law-no-1.pdf) of CIRA.
+Capitalized terms used in this Policy that are not defined in this Policy have the meanings specified in [By-Law No. 1 ](https://cira.ca/law-no-1)of CIRA.
 
 **.CA** – means the Internet country code top-level domain for Canada.
 
@@ -180,11 +180,11 @@ CIRA has established policies on the disclosure of registration information for 
 
 _**(i) Domain Name Disputes**_
 
-CIRA has implemented two policies, entitled [Registration Information Access Rules and Procedures](https://cira.ca/sites/default/files/public/policy/registration_information_access_rules_and_procedures_version_1.5_1.pdf) and [Request for Disclosure of Registrant Information - Rules and Procedures,](https://cira.ca/sites/default/files/public/policy/request_for_disclosure_of_registrant_information_-_rules_and_procedures_version_1.7.pdf) that address disclosures in the course of Domain Name disputes.
+CIRA has implemented two policies, entitled [Registration Information Access Rules and Procedures](https://cira.ca/registration-information-access-rules-and-procedures) and [Request for Disclosure of Registrant Information - Rules and Procedures](https://cira.ca/request-disclosure-registrant-information), that address disclosures in the course of Domain Name disputes.
 
-Under the [Registration Information Access Rules and Procedures](https://cira.ca/sites/default/files/public/policy/registration_information_access_rules_and_procedures_version_1.5_1.pdf) policy, CIRA will provide a person, who requests in the applicable form, a list of the CA Domain Names registered in the name of a Registrant or registered in the name of the same Registrant as a Domain Name identified by the requester, even where the identity of the Registrant is unknown. This is done to facilitate bona fide rights holders to determine infringements of intellectual property rights.
+Under the [Registration Information Access Rules and Procedures ](https://cira.ca/registration-information-access-rules-and-procedures)policy, CIRA will provide a person, who requests in the applicable form, a list of the CA Domain Names registered in the name of a Registrant or registered in the name of the same Registrant as a Domain Name identified by the requester, even where the identity of the Registrant is unknown. This is done to facilitate bona fide rights holders to determine infringements of intellectual property rights.
 
-Under the [Request for Disclosure of Registrant Information – Rules and Procedures](https://cira.ca/sites/default/files/public/policy/request_for_disclosure_of_registrant_information_-_rules_and_procedures_version_1.7.pdf), CIRA may provide a person, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
+Under the [Request for Disclosure of Registrant Information – Rules and Procedures](https://cira.ca/request-disclosure-registrant-information), CIRA may provide a person, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
 
 #### Information disclosed to requesters includes:
 
@@ -194,11 +194,11 @@ Under the [Request for Disclosure of Registrant Information – Rules and Proced
 
 
 
-If a Domain Name that you have registered is subject to a proceeding under the CIRA Domain Name Dispute Resolution Policy, your personal information may also be disclosed to the relevant Dispute Resolution Service Provider to facilitate the dispute resolution process.
+If a Domain Name that you have registered is subject to a proceeding under the CIRA [Domain Name Dispute Resolution Policy](https://cira.ca/cira-domain-name-dispute-resolution-policy), your personal information may also be disclosed to the relevant Dispute Resolution Service Provider to facilitate the dispute resolution process.
 
 _**(ii) Requests from Law Enforcement**_
 
-CIRA has implemented a policy entitled [Request for Disclosure of Registrant Information for Law Enforcement and National Security Agencies - Rules and Procedures ](https://cira.ca/sites/default/files/public/policy/request_for_disclosure_of_registrant_information_for_law_enforcement_-_rules_and_procedures_version_1.5.pdf)that addresses disclosures for law enforcement purposes. Under this policy, CIRA may provide a Law Enforcement Requester, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
+CIRA has implemented a policy entitled [Request for Disclosure of Registrant Information for Law Enforcement and National Security Agencies - Rules and Procedures ](https://cira.ca/request-disclosure-registrant-information-law-enforcement-and-national-security-agencies)that addresses disclosures for law enforcement purposes. Under this policy, CIRA may provide a Law Enforcement Requester, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
 
 #### Information disclosed to Law Enforcement Requesters includes:
 
