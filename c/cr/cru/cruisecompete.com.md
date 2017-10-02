@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163009id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002111441id_/https%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CruiseCompete.com - Privacy Policy
 
