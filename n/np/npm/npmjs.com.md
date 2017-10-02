@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npmjs.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619230608id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npmjs.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002165418id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
 
 # npm
 
