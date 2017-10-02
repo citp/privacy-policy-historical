@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611225026id_/http%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002141330id_/https%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Mag Privacy Policy | NUFC The Mag
 
@@ -56,4 +56,4 @@ This policy is updated from time to time. The latest version is published on thi
 
 * * *
 
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.[Accept](http://www.themag.co.uk/privacy-policy/#) [Read More](http://www.themag.co.uk/privacy-policy/)
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.[Accept](https://www.themag.co.uk/privacy-policy/#) [Read More](https://www.themag.co.uk/privacy-policy/)
