@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115857id_/http%3A//www.purestorage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002175921id_/http%3A//www.purestorage.com/content/purestorage-com-live/en_us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pure Storage
 
