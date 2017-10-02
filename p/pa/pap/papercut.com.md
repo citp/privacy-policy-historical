@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610100231id_/http%3A//www.papercut.com/kb/Main/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002221303id_/https%3A//www.papercut.com/kb/Main/PrivacyPolicy) for the most accurate reproduction.*
 
 # PaperCut KB | PaperCut's Privacy Policy
 
@@ -15,15 +15,16 @@ This means:
   * We don’t store your credit card details, nor do process credit card ourselves. Instead we only use trusted sources such as PayPal and GlobalCollect to process Credit Card orders. 
   * You might have noticed the mention in our EULA about data collection and the reason we do that is so we can provide our customers with a better support and improve the user experience. We do this by gauging which features work best and offer the most value for you, our customers. (See our note on Feature Usage Data below.) 
   * Our software applications will never secretly prompt you to install some gee-wiz browser toolbar. As software geeks we needed to put that one in the list. :-) 
+  * We provide [information and methods](https://www.papercut.com/kb/Main/GDPR) for rendering your PaperCut NG or PaperCut MF print system compliant with the [EU General Data Protection Regulation (GDPR)](http://www.eugdpr.org/), seeking to help you meet information privacy requirements which are more important than ever before. 
 
 
 
 ## Feature Usage Data
 
-As of PaperCut v15.3, we have started collecting Feature Usage Data in our applications’ web pages to help us improve our products. Fairly normal practice nowadays. The only intention of collating this data is to help us with product planning. We promise! It’s hard to know which features to invest time in developing if we don’t understand how our product is used, and since we don’t charge to turn on most features, the only way we can do this is via Feature Usage Data. We do collect some identifying information (e.g your IP address) which helps establish features popular in regions, but our intention is to never use this information to identify you as an individual or organization. We promise that too! 
+As of version 15.3 of PaperCut NG and PaperCut MF, we have started collecting Feature Usage Data in our applications’ web pages to help us improve our products. Fairly normal practice nowadays. The only intention of collating this data is to help us with product planning. We promise! It’s hard to know which features to invest time in developing if we don’t understand how our product is used, and since we don’t charge to turn on most features, the only way we can do this is via Feature Usage Data. We do collect some identifying information (e.g your IP address) which helps establish features popular in regions, but our intention is to never use this information to identify you as an individual or organization. We promise that too! 
 
 But, we’re OK if you find this all a bit too irksome. We won’t judge you. So to turn off the collection of Feature Usage Data, simply navigate to **_Options >> Advanced options >> System Usage Data _** and disable **_Send system usage data_**. 
 
 * * *
 
-keywords: privacy policy, privacy statement, data policy 
+keywords: privacy policy, privacy statement, data policy, gdpr 
