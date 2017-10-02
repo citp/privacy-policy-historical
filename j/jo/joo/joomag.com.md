@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomag.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106031914id_/https%3A//www.joomag.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomag.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002180008id_/https%3A//www.joomag.com/en/privacy) for the most accurate reproduction.*
 
 # Joomag Privacy Statement
 
-**Updated as of Aug 06, 2015**
+**Updated as of May 08, 2017**
 
 This privacy policy explains how Joomag handles personal information and other data we obtain from you anytime you interact with Joomag, such as when you browse on our website (joomag.com) or create a user profile, or when you use our service to upload or download content.   
 Personal information means data which identifies an individual person, like name or email address. If we store personal information with data that is non-personal, we will consider the combination as personally identifiable information. If we remove all personal information from a set of data, then the remaining data is non-personal. Data from merchant subscribers, like a business email address, is non-personal information. 
@@ -47,6 +47,12 @@ There is no uniform or consistent standard or definition for responding to, proc
 
 Personal information collected by Joomag may be stored and processed in the United States or any other country in which Joomag or its affiliates, subsidiaries, or agents maintain facilities. If you are accessing the Joomag site from the European Union or other regions with laws governing content collection and use that may differ from U.S. law, then please note that you may well be transferring your personal information outside of your country and possibly to the United States and that **by viewing the website and providing your personal information you consent to that transfer**. 
 
+### DATA LOCALIZATION OBLIGATIONS
+
+If you reside in a jurisdiction that imposes “data localization” or “data residency” obligations (i.e., requiring that Personal Information of its residents be kept within the territorial boundaries of such jurisdiction), and we become aware of that, we may maintain your Personal Information within such territorial boundaries, if we are legally obligated to do so. For example, if we learn that you reside in the Russian Federation, we may be required to maintain your Personal Information there, whether independently or with a local data storage and processing provider. 
+
+You acknowledge and agree that while doing so, we may continue to collect, store and use your Personal Information elsewhere, including in the United States of America as explained above. 
+
 ### CONSENT TO USE OF COOKIES
 
 Please refer to the section on cookies under “Information collected via Technology.”   
@@ -54,7 +60,7 @@ You can enable your browser to refuse cookies, but doing do may disable access t
 
 ### ACCURACY AND ACCESS
 
-You can contact us by writing to [support@joomag.com](mailto:support@joomag.com) at any time to review, update, delete or correct (for future use) your personally identifiable information maintained by Joomag. We will reply to your request within thirty (30) days of submission. For your protection, you will be required to provide proof of your identity to obtain a copy of your personal information. You can help us maintain accurate records by updating your registration information or informing us [add link to customer support] of changes or modifications to your personal information. 
+You can contact us by writing to [support@joomag.com](mailto:support@joomag.com) at any time to review, update, delete or correct (for future use) your personally identifiable information maintained by Joomag. We will reply to your request within thirty (30) days of submission. For your protection, you will be required to provide proof of your identity to obtain a copy of your personal information. You can help us maintain accurate records by updating your registration information or informing us at [support@joomag.com](mailto:support@joomag.com) of changes or modifications to your personal information. 
 
 ## Data Security
 
