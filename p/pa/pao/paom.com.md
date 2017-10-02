@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paom.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123213407id_/https%3A//paom.com/privacy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paom.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003005455id_/https%3A//paom.com/privacy_terms) for the most accurate reproduction.*
 
 # Privacy Policy | Print All Over Me
 
