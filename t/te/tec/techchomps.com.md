@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techchomps.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607120328id_/http%3A//techchomps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techchomps.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002221009id_/https%3A//consumingtech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechChomps
+# Privacy Policy | ConsumingTech
 
 When we show advertising such as banners and text ads from Google Adsense we are obliged to tell our readers’ about how that works and what remains private.
 
