@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bayt.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613010835id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.net privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002172648id_/https%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Bayt.com
-
-[Home](https://web.archive.org/en/home/) › Privacy Statement
+# Privacy Statement - Bayt.com
 
 Bayt.com is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.
 
@@ -13,6 +11,8 @@ As a career site, Bayt.com will ask job seekers and employers to submit any info
 To fully participate in our job and candidate databases or search activities, we require you to register as a Bayt.com member. Non-registered users are granted partial participation access eg. non-registered job seekers may view positions but not company contact information.
 
 To register, we will ask for contact information (job seekers and employers) and information on your company (employers). Bayt.com is the sole owner of information collected on the registration pages and we will not disclose this information to anyone outside of Bayt.com. Your contact information (such as name and email address may however be used to contact you about any features/services on our site which we believe may be of interest. Our goal is to provide our users with a personalized experience every time they log onto Bayt.com and to that end we may direct you to jobs/articles/forums etc. that we think may assist you in your career/lifestyle activities.
+
+The details collected do not include credit card details of customers. All credit card information will not be stored, sold, shared, rented or leased to any third parties.
 
 ## CVs
 
@@ -26,6 +26,10 @@ Members have the option of posting their CVs in the Bayt.com database in either 
 As an additional privacy function, job seekers have the option to block the name of their current employer from any employer searches. This function is easily available on our CV Builder. Your CV will therefore appear in candidate searches with your latest experience record but without details of your current employer. This is a critical feature as the last person you would like viewing your CV is your current employer.
 
 You may edit/change information on your CV at any point in time. You may also remove your CVs from our databases at any point in time.
+
+## Public Profiles
+
+Job seekers have the option to create a Bayt.com Public Profile based on the information they provide on their Bayt.com CV and they fully understand that by opting to do so their profile becomes in the public domain and can be accessed by search engines. Job seekers can opt to enable or disable their Public Profile at any time. Job seekers need to bear in mind that once a Public Profile gets activated, search engines and others may obtain permanent copies of it and even if the user disables their profile, Bayt.com cannot restrict views of the copies of the Public Profile obtained by these search engines and other crawlers.
 
 ## Job Postings
 
@@ -41,4 +45,6 @@ Registered job seekers and employers have access to a personal workspace from wh
 
 Bayt.com will continue to commit itself to protecting and maximizing our users' privacy. We will update you on an ongoing basis on any changes/enhancements in our privacy practices.
 
-* * *
+## Cancellations and Refunds
+
+For cancellations and refunds, please contact one of our sales offices mentioned in the “Contact Us” page. Any cancellation or refund will happen based on Bayt.com's sole discretion, and it will be reviewed on case by case basis. In the wake of a refund, it will happen through the original mode of payment only.
