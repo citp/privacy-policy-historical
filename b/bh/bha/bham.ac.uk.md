@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bham.ac.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614065737id_/http%3A//www.birmingham.ac.uk/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bham.ac.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002201012id_/http%3A//www.birmingham.ac.uk/privacy/index.aspx) for the most accurate reproduction.*
 
 # Privacy - University of Birmingham
 
