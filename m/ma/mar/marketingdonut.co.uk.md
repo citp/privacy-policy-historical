@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040812id_/http%3A//www.marketingdonut.co.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002223905id_/http%3A//www.marketingdonut.co.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Marketing Donut
 
