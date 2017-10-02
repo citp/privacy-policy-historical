@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614071834id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003003432id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.*
 
 # Personal Data Use and Privacy Policy | Interaction Design Foundation
 
@@ -8,7 +8,7 @@ Personal data and any membership information provided by you to IDF when you ent
 
 By entering, using and/or registering into the Site, you hereby provide IDF with your explicit consent for the collection, treatment and processing of your personal data according to this Privacy Policy. You, as the legitimate owner of your personal data, by using the Site hereby represent to be an adult to the date that the same is provided and to have full legal capacity in your jurisdiction. 
 
-Edits, comments, commentaries and other contributions to the Site made or provided by you will be publicly distributed, and except in certain, very limited circumstances, will remain a permanent part of this site. If you decide to contribute to the Site, you must keep this in mind. Your contributions will be subject to the Site's [Terms and Conditions](https://www.interaction-design.org/index.php/about/terms-of-use) and IDF's [Site IP/Copyright Policy](https://www.interaction-design.org/index.php/about/copyright). 
+Edits, comments, commentaries and other contributions to the Site made or provided by you will be publicly distributed, and except in certain, very limited circumstances, will remain a permanent part of this site. If you decide to contribute to the Site, you must keep this in mind. Your contributions will be subject to the Site's [Terms and Conditions](https://www.interaction-design.org/about/terms-of-use) and IDF's [Site IP/Copyright Policy](https://www.interaction-design.org/about/copyright). 
 
 Under "The Act on Processing of Personal Data", incorporated under Danish law, you may request a copy of the information we hold on you (for which we may request the applicable fee to offset our administration costs) by writing to our address first shown above or to the email legal@interaction-design.org. 
 
@@ -62,7 +62,7 @@ You may wish to clear these cookies and the browser cache if you wish to refrain
 
 IDF may use Google Analytics and other tools (like remarketing codes) from time to time to gather information about websites you browse view or when you undertake specific actions in a website. This allows IDF to provide targeted, customized advertising its audience. Thus, third party vendors (such as Google, Inc., Adroll, or Facebook) may show you IDF ads on certain websites across the Internet, even after you leave the Site. Such vendors may use cookies and other web beacons to track your Internet browsing in order to serve ads based on your past visits to the Site. 
 
-The Site uses the Google AdWords remarketing service to advertise on third party websites (including www.google.com) to previous visitors to the Site. If you do not wish to receive this type of advertising from IDF now or in the future, you may opt-out by using the DoubleClick opt-out page (https://www.google.com/settings/ads/onweb%20/l%20display_optout) or the Network Advertising Initiative opt-out page (http://www.networkadvertising.org/managing/opt_out.asp). For Google-specific advertisement, You can set preferences for how Google advertises to you using the Google Ad Preferences page at http://www.google.com/settings/ads/onweb/, and if you want to you can opt out of interest-based advertising entirely by cookie settings (see http://www.google.com/settings/ads/onweb/) or permanently using a browser plugin like http://www.google.com/ads/preferences/html/intl/en/plugin/. 
+The Site uses the Google AdWords remarketing service to advertise on third party websites (including www.google.com) to previous visitors to the Site. If you do not wish to receive this type of advertising from IDF now or in the future, you may opt-out by using the DoubleClick opt-out page (https://www.google.com/settings/ads/plugin) or the Network Advertising Initiative opt-out page (http://www.networkadvertising.org/managing/opt_out.asp). For Google-specific advertisement, You can set preferences for how Google advertises to you using the Google Ad Preferences page (http://www.google.com/settings/ads/onweb/), and if you want to you can opt out of interest-based advertising entirely by cookie settings (see http://www.google.com/settings/ads/onweb/) or permanently using a browser plugin (see https://www.google.com/settings/ads/plugin). 
 
 In other words, IDF's ads do not collect any sensitive personal data about you. For purposes of these Terms, “sensitive personal data” shall mean your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, data concerning health or sex life and financial data like credit card or bank information. 
 
@@ -85,7 +85,7 @@ Any User of the Site can make a request to IDF in order exercise his rights to:
   * Rectify his personal data when inaccurate or incomplete.
   * Cancel his personal data.
   * Object with legitimate reason the Process of his personal data.
-  * Revoke his consent for the process of his personal data at any moment, in order to stop the use of the same.
+  * Revoke his consent for the process of his personal data at any moment, in order to stop the use of the same. 
 
 
 
@@ -93,7 +93,7 @@ The exercise of rights to access, rectify or cancel personal data and/or object 
 
   * The data owner's name, address, and e-mail address to notify him of the response to his request.
   * Documents establishing the identity or, where appropriate, legal representation of the data owner.
-  * A clear and precise description of the personal data with regard to which the data owner seeks to exercise any of the abovementioned rights (when rectification is requested, modifications that should be made should be specified and provide documentation to back up its request).
+  * A clear and precise description of the personal data with regard to which the data owner seeks to exercise any of the abovementioned rights (when rectification is requested, modifications that should be made should be specified and provide documentation to back up its request). 
 
 
 
