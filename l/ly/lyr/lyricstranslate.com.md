@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricstranslate.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608231932id_/http%3A//lyricstranslate.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstranslate.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002114524id_/http%3A//lyricstranslate.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lyrics Translate
 
