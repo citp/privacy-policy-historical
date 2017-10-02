@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the touristtube.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220063453id_/https%3A//www.touristtube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristtube.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002071351id_/https%3A//www.touristtube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tourist Tube
+# Privacy Policy Tourist Tube
 
 Tourist Tube FZ-LLC provides a Privacy Policy to describe to you, as a user of our services, 
 
