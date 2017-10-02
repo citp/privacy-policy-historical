@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureflix.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610130033id_/http%3A//pureflix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureflix.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002213036id_/http%3A//pureflix.com/privacy) for the most accurate reproduction.*
 
 # Pure Flix - PureFlix Privacy and Netiquette Policies
 
@@ -17,7 +17,7 @@ Members and visitors to our community are welcome and are invited to abide by th
 
 
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Pure Flix or its operator, eSalt Media Technologies, LLC ('Pure Flix'). By using, visiting or browsing the Pure Flix service, you accept and agree to our information practices described below. Please note that this Privacy Policy includes embedded hyperlinks that may only be accessed through our website, so if you are reviewing this Privacy Policy through certain Pure Flix ready devices (for example game consoles or Internet enabled televisions), you may need to visit the website to review these hyperlinked terms.
 
@@ -35,7 +35,7 @@ From time to time, we may partner with companies whose products we believe will 
 
 It may become possible that you connect one or more social networks (such as Facebook) with your Pure Flix account. If you choose to do so, we will collect and use information from your social networking account(s) and your use of our social features.
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Disclosure of Personal Information
 
@@ -45,25 +45,25 @@ We may offer joint promotions or programs that, in order for participation, will
 
 Pure Flix also reserves the right to disclose personal information if we reasonably believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of Pure Flix, its users or the public as required or permitted by law. In connection with any reorganization, restructuring, merger or sale, or other transferring of assets we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Policy.
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Other Websites, Platforms and Applications
 
 Now or in the future, the Pure Flix service may be provided through platforms or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours. For example, you may be able to access the Pure Flix service through platforms such as Roku Streaming Player, iPad or iPhone and a number of other Internet connected devices, such as “smart” televisions. While we endeavor to associate with reputable companies, Pure Flix cannot be responsible for the information handling practices of these other websites and platforms. These websites and platforms have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. In addition, you may encounter third party applications that interact with the Pure Flix service. To learn more about these, see our [Terms of Use](https://web.archive.org/terms).
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Children
 
 You must be 18 years of age or older to subscribe to the Pure Flix service. In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to become a member. While individuals under the age of 18 may utilize the service, they may do so only with the involvement, supervision, and approval of a parent or legal guardian, and subject to our [Terms of Use](https://web.archive.org/terms).
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Right to Access Your Information
 
 We give you access and the ability to update information about your account, including your contact information and your Payment Choice in the "Account" portion of our website. You must be signed in to access "Account." If you have a question regarding our privacy practices, or want to exercise your rights regarding your personal information, please contact us at [support@support.pureflix.com](mailto:support@support.pureflix.com).
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Security
 
@@ -73,31 +73,31 @@ Unfortunately, no security system can be guaranteed to be 100% secure. According
 
 In order to provide you with ease of access to your account and to help administer the Pure Flix service, Pure Flix implements technology that enables us to recognize you as the account holder and provide you with direct access to your account without requiring you to retype any password or other user identification when you revisit the Pure Flix service. You can choose not to take advantage of this feature on your computer by unchecking the box "Remember me on this computer" when you login on the website and also clearing the passwords and cookies from your computer. To remove access to your Pure Flix account from your devices: (a) visit [Your Account](https://web.archive.org/users/edit) (note, deactivation may not occur immediately) or (b) delete your Pure Flix settings from your device (steps vary by device and the option is not available on all devices). You are responsible for maintaining the confidentiality of your account access information and for restricting access to your computer or device through which you access your Pure Flix account. Where possible, users of public or shared devices should log out at the completion of each visit and not check the "Remember me on this computer" when logging in to Pure Flix. If you sell or return a computer or Pure Flix ready device, you should log-out and deactivate the device before doing so. If you do not maintain the security of your password or device, or fail to log out or deactivate your device, subsequent users may be able to access your account, including your personal information.
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Transfer of Information
 
 Using the Internet to collect and process information necessarily involves the transmission of data on an international basis. Therefore, by using Pure Flix, you acknowledge and agree to the transfer of your information outside your country of residence to any country (including the United States) where we have facilities or engage third parties (including but not limited to payment processors, cloud service or other IT providers, and other companies that provide services to us). You understand that the countries to which we may transfer information may not have as comprehensive a level of data protection as in your country.
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Changes to This Policy
 
 From time to time, Pure Flix may make changes to this Privacy Policy. Such revisions shall be effective immediately; provided however, for existing members, such revisions shall, unless otherwise stated, be effective 30 days after posting.
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 ### Contacting Us
 
-eSalt Media Technologies, LLC, through PureFlix.com and its Pure Flix service, is providing the service to you and is the data controller (where applicable).
+eSalt Media Technologies, LLC, through PureFlix.com and its Pure Flix service, is providing the service to you and is the data controller (where applicable). 
 
-If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of your personal information and/or our use of cookies and other technologies, please contact us via email at [support@support.pureflix.com](mailto:support@support.pureflix.com), or at the following:
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of your personal information and/or our use of cookies and other technologies, please contact us via email at [support@support.pureflix.com](mailto:support@support.pureflix.com), or at the following: 
 
-    eSalt Media Technologies, LLC  
-    18940 N. Pima Road, Suite 110  
-    Scottsdale, AZ 85255, U.S.  
-    Attention: General Counsel.
+eSalt Media Technologies, LLC  
+18940 N. Pima Road, Suite 110  
+Scottsdale, AZ 85255, U.S.  
+Attention: General Counsel. 
 
-[Back to Top](https://web.archive.org/privacy)
+Back to Top
 
 Last Updated: May 06, 2016
