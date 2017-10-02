@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastingtable.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128082101id_/http%3A//www.tastingtable.com/faq%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastingtable.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002144652id_/http%3A//www.tastingtable.com/faq%23privacypolicy) for the most accurate reproduction.*
 
 # FAQ | Tasting Table
 
