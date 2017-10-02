@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004145023id_/https%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002164524id_/https%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
