@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybg.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620133959id_/https%3A//www.nybg.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybg.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002150326id_/https%3A//www.nybg.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » New York Botanical Garden
 
@@ -23,9 +23,9 @@ Section Navigation
         * [Exhibitions](https://www.nybg.org/about/press-room/image-listing/exhibitions/)
           * [CHIHULY](https://www.nybg.org/about/press-room/image-listing/exhibitions/chihuly/)
           * [What in the World is a Herbarium?](https://www.nybg.org/about/press-room/image-listing/exhibitions/what-in-the-world-is-a-herbarium/)
-          * [The Orchid Show](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-2/)
-            * [Orchid Close-Ups](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-2/orchid-close-ups/)
-            * [The Orchid Show: Thailand](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-2/the-orchid-show/)
+          * [The Orchid Show](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/)
+            * [Orchid Close-Ups](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/orchid-close-ups/)
+            * [The Orchid Show: Thailand](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/the-orchid-show/)
           * [Holiday Train Show®](https://www.nybg.org/about/press-room/image-listing/exhibitions/holiday-train-show/)
           * [Kiku: The Art of the Japanese Garden](https://www.nybg.org/about/press-room/image-listing/exhibitions/kiku-the-art-of-the-japanese-garden/)
           * [Impressionism: American Gardens on Canvas](https://www.nybg.org/about/press-room/image-listing/exhibitions/impressionism-american-gardens-on-canvas/)
