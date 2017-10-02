@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewisp.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110043624id_/https%3A//gamewisp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewisp.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003010940id_/https%3A//gamewisp.com/privacy-policy) for the most accurate reproduction.*
 
 # GameWisp - Subscription Tools and Reward Management for Twitch Streamers and YouTubers
 
@@ -21,9 +21,18 @@ GameWisp, Inc. (GameWisp) is committed to maintaining the privacy of the persona
 
 Certain information may be made public through GameWisp. The user may choose to make all information disclosed as part of a user’s profile public including, but not limited to, bio, location, birthday, occupation, website, steam name, origin name, xbox live name, and playstation name. Should the user not wish to make such information public, privacy settings are available in the user’s account settings. Certain information is always public as result of registering for GameWisp including, but not limited to, username, followers, other users following the user in question, games synced, published saves, and published plays. The user assumes all risks associated with choosing to make the above information public as a result of the registration process and/or the user’s choice to make information public as a part of the user’s GameWisp’s Use of Information Collected: GameWisp uses this information to understand the usage behavior of visitors to The GameWisp System, gamewisp.com, and aggro.gamewisp.com. Information collected from Users of the GameWisp Service is used internally to conduct business as related to the GameWisp Service. The Information Collected on un-registered site visitors is used and reported internally in de- identified, aggregated formats only.
 
-##### Disclosure of Collected Information
+##### Disclosure of Information to Third Parties
 
-GameWisp will never intentionally disclose any personally identifying, un-aggregated information, and/or de-identified information to any third-party without the express consent of the person from which that data was collected 
+Personally Identifiable Information (PII) is data that could identify an individual user, such as a user’s name, email, physical address, or any other data that could reasonably be linked back to that user. GameWisp only shares this data under the following circumstances: 
+
+  * With the user’s permission, with creators or services used by creators to deliver content and rewards.
+  * With companies that GameWisp contractually engages to provide services, such as, but not limited to, benefit fulfillment, email management, data analysis, credit card processing, fraud detection and prevention, and/or payouts. These companies may have access to personal information to perform their services and are contractually obligated safeguard any PII they receive from GameWisp.
+  * If such disclosure is reasonably necessary to comply with a law, regulation, valid legal process (e.g., due to subpoenas or warrants), to protect the security or integrity of GameWisp, and to protect the rights, property, or safety of GameWisp, its employees, users, or others. If GameWisp is required to release your data to a governmental entity, GameWisp will use its best efforts to provide affected users with notice in advance by email, unless we are prohibited by law.
+  * GameWisp may also disclose or transfer PII in connection with an acquisition of the company, merger, bankruptcy, sale of assets or reorganization. In such case, GameWisp will notify users of the event and the transfer of PII. 
+
+
+
+The protections in this privacy policy apply to any new entity that acquires access to user PII.
 
 ##### Third-Party Advertisers
 
