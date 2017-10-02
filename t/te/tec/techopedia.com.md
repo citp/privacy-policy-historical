@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201024id_/https%3A//www.techopedia.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002212829id_/https%3A//www.techopedia.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Techopedia.com
 
@@ -97,7 +97,7 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Janalta Interactive Inc. o/a Techopedia.com  
 Suite 101, 1289 - 91 Street SW  
 Edmonton, Alberta Canada T6X 1H1  
-Last updated Friday, June 30, 2017  
+Last updated Monday, October 2, 2017  
 
 
   
