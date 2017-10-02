@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecitizen.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091720id_/http%3A//www.thecitizen.in/index.php/thecitizen/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecitizen.in privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002164600id_/http%3A//www.thecitizen.in/index.php/thecitizen/privacy) for the most accurate reproduction.*
 
 # The Citizen - India’s first independent online newspaper in English
 
