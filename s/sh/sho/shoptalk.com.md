@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoptalk.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417091939id_/http%3A//www.shoptalk.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptalk.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002033636id_/https%3A//shoptalk.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Shoptalk: the nextgen commerce event
+# Privacy Policy — Shoptalk: the world’s largest conference for retail & commerce innovation
 
 Shoptalk ("we" or "us") recognizes the importance of respecting the privacy of those who visit our website (our "Site"). We believe it is important for you to know how we treat the information about you that we receive during your visits to our Site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard various types of information, including the personally identifiable information you provide to us via our Site.
 
