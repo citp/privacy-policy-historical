@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nutritionforest.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120111221id_/https%3A//www.nutritionforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionforest.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002103632id_/https%3A//www.nutritionforest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nutrition Forest
 
 ### Privacy Policy
 
-Every individual has right to privacy and Nutrition Forest deeply respects this right of all its customers. Our relationship with all our customers is very intrinsic and the most valuable asset which helps to take our reputation to the high stature. We believe that smooth and strong relationship with customers can turn a product into a brand.
+Every individual has a right to privacy and Nutrition Forest deeply respects this right of all its customers. Our relationship with all our customers is very intrinsic and the most valuable asset which helps to take our reputation to the high stature. We believe that smooth and strong relationship with customers can turn a product into a brand.
 
 We understand the importance of private information whether it’s related to finance or your contact details. When you place an order via online payment, we don’t reveal your personal information or account details to anyone.  
 
