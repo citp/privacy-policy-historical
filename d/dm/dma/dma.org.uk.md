@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205085920id_/https%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002223351id_/https%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | DMA | Page | Privacy and Cookie Policy
 
