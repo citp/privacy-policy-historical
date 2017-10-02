@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052637id_/https%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002095416id_/https%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Learn about JamesAllen.coms Privacy Policy
+# Privacy Policy | About Us | JamesAllen.com
 
 Thank you for visiting JamesAllen.com. James Allen respects your privacy and we understand and share your concern about the privacy of your personal information. This notice describes our privacy policies. By visiting JamesAllen.com, you are confirming your agreement to the privacy policies described in this Privacy Policy.  
 
