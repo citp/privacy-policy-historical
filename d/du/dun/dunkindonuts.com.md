@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416194152id_/https%3A//www.dunkindonuts.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003002035id_/https%3A//www.dunkindonuts.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts
 
