@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-merchants.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144855id_/http%3A//free-merchants.com/privatepolicing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-merchants.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002162242id_/http%3A//free-merchants.com/privatepolicing) for the most accurate reproduction.*
 
 # free-merchants.com - Privatepolicing
 
