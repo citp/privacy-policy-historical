@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513014918id_/https%3A//www.gpo.gov/etc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002122923id_/https%3A//www.gpo.gov/etc/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -40,7 +40,7 @@ Personal information submitted by a user in comments or questions via phone, fax
 **Definitions  
 Cookies:** Cookies are small pieces of information that Web servers or pages store on a user's hard drive. There are two types of cookies: session cookies and persistent cookies. Both types of cookies allow Internet servers to "remember" specific information about a user. Web sites use them primarily to personalize their sites for individual users, to keep track of orders when users purchase products, and to target advertising toward users based on the information that they access. However, session cookies will "remember" that information for only as long as you explore a Web site during one "session", or visit to the Web site. Session cookies will not "remember" information about you when you return to the site for subsequent visits. However, persistent cookies will "remember" this information for more than one session. OMB has decided that persistent cookies should not be allowed on Government Web sites, except in "the most unusual of circumstances." GPO currently follows this recommendation.
 
-**Encryption:** Encryption technology ensures the protection of personal information via private, secure transactions. View encryption information for the U.S. Government Online Bookstore.
+**Encryption:** Encryption technology ensures the protection of personal information via private, secure transactions.
 
 **Security**  
 Site security is the concept of monitoring network traffic to identify unauthorized attempts to upload or change information on GPO's servers.
