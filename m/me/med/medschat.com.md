@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084108id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003014025id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MedsChat
 
-Last Updated: February 17, 2017
+Last Updated: June 20, 2017
 
 Thank you for using MedsChat.com. This page explains what, how, and why we collect information when you use our services. Please know that we are committed to safeguarding your privacy. Therefore, this policy details how we treat your Personal Information as well as the choices available to you regarding the use of, your access to, and how to update and correct such information.
 
@@ -58,9 +58,9 @@ Statistics are also collected by third-parties through cookies and other trackin
 
 ### Personal Information
 
-In using our service you may choose to provide us with your Email Address. This is collected for the purpose of sending you notifications from our Discussion Threads, to send you our Health Newsletter and Prescription Discount Card, or for us to reach you regarding a customer service or business inquiry. As mentioned before, this information is collected on a voluntary basis and is not required for you to view pages on our site. We expressly prohibit the posting of any Personal Information on our discussion threads (such as an individual's full name, address, telephone number, or email address). Such information will be promptly removed by our moderators once discovered.
+In using our service you may choose to provide us with your Email Address. This is collected if you: Choose to receive notifications from one or more Discussion Threads; Subscribe to our Health Newsletter; Email yourself a Prescription Discount Card; Share a page from our site via the "Email a Friend" form; Send us a message via our Contact form. As mentioned before, this information is collected on a voluntary basis and is not required for you to view pages on our site. We expressly prohibit the posting of any Personal Information on our discussion threads (such as an individual's full name, address, telephone number, or email address). Such information will be promptly removed by our moderators once discovered.
 
-Please note that your Personal Information is not shared outside of our organization and support staff. As part of our internal security and statistics, we may tie your Personal Information to the statistics which we automatically collect above.
+Please note that your Email Address is not shared outside of our organization and support staff. As part of our internal security and statistics, we may tie your Email Address to the statistics which we automatically collect above.
 
 ### Google Services
 
@@ -123,4 +123,4 @@ If MedsChat is involved in a merger, acquisition, or sale of all or a portion of
 
 Service Providers
 
-We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as analytics and offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
