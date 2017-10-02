@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodlee.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419101313id_/https%3A//www.yodlee.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodlee.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002210516id_/https%3A//www.yodlee.com/legal/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Envestnet | Yodlee
 
