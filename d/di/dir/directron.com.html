@@ -1,23 +1,25 @@
-<!--The following is the downloaded HTML source of the directron.com privacy policy that was archived on 2016-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160811195344id_/https%3A//www.directron.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directron.com privacy policy that was archived on 2017-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171002225438id_/https%3A//www.directron.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="The best deals on computers, computer parts, desktops, laptops, electronics, tablets, software, gaming, hard drives, CPUs, motherboards and much more. With fast shipping and great customer service from Houston, Texas!">
 <meta name="keywords" content="Computer Components, Computer Parts, CPUs and Processors, RAM, Memory, Gaming, Windows 10, Laptop, Notebook, Video Cards, Motherboards, Accessories, Cables, USB">
 <meta name="robots" content="INDEX,FOLLOW">
 	
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="https://www.directron.com/skin/frontend/smartwave/porto/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="https://www.directron.com/skin/frontend/smartwave/porto/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.directron.com/media/favicon/default/DirectronFavIconMagento.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.directron.com/media/favicon/default/DirectronFavIconMagento.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&amp;v1&amp;subset=latin%2Clatin-ext" type="text/css" media="screen">
 <link href="//fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="https://www.directron.com/media/css_secure/6b3de9b1a886bdccc7b03efeca3d9139.css">
-<link rel="stylesheet" type="text/css" href="https://www.directron.com/media/css_secure/cd7b3d2d0e2ed40d391d0c77cc04cfa0.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.directron.com/media/css_secure/d7dbe4a06023d46f466142cdf0d95d50.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.directron.com/media/css_secure/47ec23a4de8b6abfcd4e10793d73c19d.css" media="print">
-<script type="text/javascript" src="https://www.directron.com/media/js/322d56d1c383042ab479dbd62bd01801.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.directron.com/media/js/f5cf43ee9390970eb3d45560aee44e7d.js"></script>
 <!--[if gt IE 7]>
 <link rel="stylesheet" type="text/css" href="https://www.directron.com/media/css_secure/1ac234d145dc11abe3c67fea157c875d.css" media="all" />
 <![endif]-->
@@ -45,12 +47,16 @@ optionalZipCountries = [];
 		var scrolled = false;
 		$(window).scroll(function(){
 			    if(140<$(window).scrollTop() && !scrolled){
+                    if(!$('.header-container .menu-wrapper .mini-cart').length && !$('.header-container .menu-wrapper .sticky-logo').length){
 				    $('.header-container').addClass("sticky-header");
 				    var minicart = $('.header-container .mini-cart').html();
 				    $('.header-container .menu-wrapper').append('<div class="mini-cart">'+minicart+'</div>');
                                     var logo_image = $('<div>').append($('.header-container .header > .logo').clone()).html();
                     $('.header-container .menu-wrapper').prepend('<div class="sticky-logo">'+logo_image+'</div>');
                                         $(".sticky-logo img").attr("src","https://www.directron.com/skin/frontend/smartwave/porto_child/images/DirectronLogo.png");
+                    $('.header-container.type15.sticky-header .header > .logo img').addClass("hide");
+                    $('.header-container.type15.sticky-header .header > .logo img.sticky-logo-image').remove();
+                    $('.header-container.type15.sticky-header .header > .logo').append('<img src="https://www.directron.com/skin/frontend/smartwave/porto_child/images/DirectronLogo.png" class="sticky-logo-image" alt="Sticky Logo"/>');
                                     				    $('.header-container .header-wrapper > div').each(function(){
 					    if($(this).hasClass("container")){
 						    $(this).addClass("already");
@@ -59,11 +65,14 @@ optionalZipCountries = [];
 					    }
 				    });
 				    scrolled = true;
+                    }
 			    }
 			    if(140>=$(window).scrollTop() && scrolled){
 				    $('.header-container').removeClass("sticky-header");
 				    $('.header-container .menu-wrapper .mini-cart').remove();
                                     $('.header-container .menu-wrapper > .sticky-logo').remove();
+                    $('.header-container.type15 .header > .logo img.sticky-logo-image').remove();
+                    $('.header-container.type15 .header > .logo img').removeClass("hide");
                 				    scrolled = false;
 				    $('.header-container .header-wrapper > div').each(function(){
 					    if($(this).hasClass("already")){
@@ -94,7 +103,7 @@ if (typeof dailydealTimeCountersCategory == 'undefined') {
 }
 //]]>
 </script>
-<!--Porto Magento Theme: v1.6.0--></head>
+<!--Porto Magento Theme: v2.5.0--></head>
 <body class=" cms-page-view cms-privacy-policy-cookie-restriction-mode">
             <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
     <script type="text/javascript">
@@ -124,30 +133,38 @@ ga('send', 'pageview');
         </div>
     </noscript>
     <div class="page">
-                <div class="header-container type3">
+        <div class="top-newsletter" style="background-color: #2b262f;padding: 10px 0;text-align: center;">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<span style="color: #fff;font-size: 13px;line-height: 20px;"><span style="text-decoration: underline;"><b>NOTICE:</b></span> Pick-up options at our Houston location are limited. Please <a href="https://www.directron.com/walkin"><span style="color:#fff;text-decoration: underline;">click here</span></a> for more information.</span>
+			</div>
+		</div>
+	</div>
+</div>        <div class="header-container type3">
     <div class="top-links-container">
         <div class="top-links container">
-                                                            			<!--{COMPARELIST_SIDEBAR_6ec9ad0afdc2f587f446f43f49d4f8c9}--><div class="compare-link">
+                                                            			<div class="compare-link">
 	<a href="javascript:void(0)" onclick="popWin('https://www.directron.com/catalog/product_compare/index/uenc/aHR0cHM6Ly93d3cuZGlyZWN0cm9uLmNvbS9wcml2YWN5LXBvbGljeS1jb29raWUtcmVzdHJpY3Rpb24tbW9kZQ,,/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><i class="icon-compare-link"></i>Compare (0)</a>
 	<div class="compare-popup theme-border-color">
             <p class="empty">You have no items to compare.</p>
         </div>
-</div><!--/{COMPARELIST_SIDEBAR_6ec9ad0afdc2f587f446f43f49d4f8c9}-->            <div class="top-links-area">
+</div>            <div class="top-links-area">
                 <div class="top-links-icon"><a href="javascript:void(0)">links</a></div>
-                		<ul class="links">
-	    	    		    	            	<li class="first"><a href="https://www.directron.com/customer/account/" title="My Account">My Account</a></li>
-	        			    			    	    		    	            	<li><a href="https://www.directron.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
-	        			    			    	    	    		    	            	<li class=" last"><a href="https://www.directron.com/customer/account/login/" title="Log In">Log In</a></li>
-	        			    			    	</ul>
-	            </div>
-            <p class="welcome-msg"><!--{WELCOME_6d640ce07a438c87cd26e6d59c9d4212}--><!--/{WELCOME_6d640ce07a438c87cd26e6d59c9d4212}--> </p>
+                			<ul class="links">
+		    		    		    		            	<li class="first"><a href="https://www.directron.com/customer/account/" title="My Account">My Account</a></li>
+		        				    				    		    		    		            	<li><a href="https://www.directron.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
+		        				    				    		    		    		    		            	<li class=" last"><a href="https://www.directron.com/customer/account/login/" title="Log In">Log In</a></li>
+		        				    				    		</ul>
+			            </div>
+            <p class="welcome-msg"> </p>
             <div class="clearer"></div>
         </div>
     </div>
     <div class="header container">
                                 	<a href="https://www.directron.com/" title="Directron" class="logo"><strong>Directron</strong><img src="https://www.directron.com/skin/frontend/smartwave/porto_child/images/DirectronLogo.png" alt="Directron"></a>
                         <div class="cart-area">
-            <div class="custom-block"><i class="icon-phone" style="margin-right: 5px;color:#777;"></i><span style="color:#333;">(713) 773-9898</span><span class="split" style="border-color:#999;"></span><a href="https://www.directron.com/contacts/" style="color:#333;">CONTACT US</a></div>            <!--{CART_SIDEBAR_dec7fc70298ca8573672c788e60b7829}--><div class="mini-cart">
+        	        	            <div class="custom-block"><i class="icon-phone" style="margin-right: 5px;color:#777;"></i><span style="color:#333;">(713) 773-9898</span><span class="split" style="border-color:#999;"></span><a href="https://www.directron.com/contacts/" style="color:#333;">CONTACT US</a></div>            <div class="mini-cart">
                     <a href="javascript:void(0)" class="mybag-link"><i class="fa fa-shopping-cart"></i><span class="cart-info"><span class="cart-qty">0</span><span>item(s)</span></span></a>
         <div class="topCartContent block-content theme-border-color">
             <div class="inner-wrapper">                                                    <p class="cart-empty">
@@ -165,7 +182,7 @@ ga('send', 'pageview');
         });
     });
 </script>
-</div><!--/{CART_SIDEBAR_dec7fc70298ca8573672c788e60b7829}-->        </div>
+</div>        </div>
                 <div class="search-area">
             <a href="javascript:void(0);" class="search-icon"><i class="icon-search"></i></a>
             <form id="search_mini_form" action="//www.directron.com/catalogsearch/result/" method="get">
@@ -193,14 +210,14 @@ ga('send', 'pageview');
 </form>
 <script type="text/javascript">
 //<![CDATA[
-    var searchForm = new Varien.searchForm('search_mini_form', 'search', 'What can we help you find?');
+    var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search...');
     searchForm.initAutocomplete('https://www.directron.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
 //]]>
 </script>
         </div>
                 <div class="menu-icon"><a href="javascript:void(0)" title="Menu"><i class="fa fa-bars"></i></a></div>
             </div>
-    <!--{TOPMENU_b04a50c3cc324225f69775501e423a30}-->
+    
 <div class="header-wrapper">
 <div class="main-nav">
     <div class="container">            
@@ -209,15 +226,15 @@ ga('send', 'pageview');
                 <ul class="menu">
                 	 
                     
-<li class="menu-full-width  ">
-<a href="https://www.directron.com/hardware.html">Hardware</a>
+<li class="menu-full-width  act ">
+<a href="//www.directron.com/hardware.html">Hardware</a>
 <div class="nav-sublist-dropdown" style="display: none;">
 <div class="container">
 <div class="mega-columns row">
 <div class="block1 col-sm-12">
 <div class="row">
 <ul>
-<li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/hardware/components.html"><span>Components</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/cpus-processors.html"><span>CPUs / Processors</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/motherboards.html"><span>Motherboards</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/memory.html"><span>Memory</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/videocards.html"><span>Video Cards</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/power-supplies.html"><span>Power Supplies</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/cases.html"><span>Computer Cases</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/hardware/computers.html"><span>Computers</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/desktop-pc.html"><span>Desktop PCs</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/laptops-notebooks.html"><span>Laptops / Notebooks</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/tablets.html"><span>Tablets</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/servers.html"><span>Servers &amp; Workstations</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/barebone-computers.html"><span>Barebone Computers</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/hardware/storage.html"><span>Storage</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/hdd.html"><span>Internal Hard Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/externalhdd.html"><span>External Hard Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/ssd.html"><span>Solid State Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/usbflashdrives.html"><span>USB Flash Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/flashmemory.html"><span>Flash Memory &amp; Readers</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/optical.html"><span>CD/DVD/Blu-Ray Writers &amp; Media</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/hardware/peripherals.html"><span>Peripherals</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/keyboards-mice.html"><span>Keyboards &amp; Mice</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/monitors.html"><span>Monitors</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/audio-devices.html"><span>Audio Devices</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/input-devices.html"><span>Input Devices</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/printers-scanners.html"><span>Printers &amp; Scanners</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/projectors.html"><span>Projectors</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/interactive-display.html"><span>Interactive Displays</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/digital-signage.html"><span>Digital Signage</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/electronics.html"><span>Electronics</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/hardware/accessories.html"><span>Accessories</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/cables-adapters.html"><span>Cables &amp; Adapters</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/case-accessories.html"><span>Case Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/cooling-fans.html"><span>Cooling &amp; Fans</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/tools.html"><span>Tools</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/power-protection.html"><span>Power Protection</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/laptop-accessories.html"><span>Laptop Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/cell-phone-accessories.html"><span>Cell Phone Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/mounts-stands.html"><span>Mounts &amp; Stands</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/computer-furniture.html"><span>Computer Furniture</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/hardware/networking.html"><span>Networking</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/wired-networking.html"><span>Wired Networking</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/wireless-networking.html"><span>Wireless Networking</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/routers.html"><span>Routers</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/modems.html"><span>Modems</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/network-attached-storage.html"><span>Network Attached Storage</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/security-surveillance.html"><span>Security &amp; Surveillance</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/network-accessories.html"><span>Networking Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/firewalls-security.html"><span>Firewalls &amp; Security</span></a></li></ul></div></li>
+<li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="105" href="//www.directron.com/hardware/components.html"><span>Components</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="90" href="//www.directron.com/hardware/components/cpus-processors.html"><span>CPUs / Processors</span></a></li><li class="menu-item "><a class="level2" data-id="91" href="//www.directron.com/hardware/components/motherboards.html"><span>Motherboards</span></a></li><li class="menu-item "><a class="level2" data-id="106" href="//www.directron.com/hardware/components/memory.html"><span>Memory</span></a></li><li class="menu-item "><a class="level2" data-id="107" href="//www.directron.com/hardware/components/videocards.html"><span>Video Cards</span></a></li><li class="menu-item "><a class="level2" data-id="96" href="//www.directron.com/hardware/components/power-supplies.html"><span>Power Supplies</span></a></li><li class="menu-item "><a class="level2" data-id="92" href="//www.directron.com/hardware/components/cases.html"><span>Computer Cases</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="97" href="//www.directron.com/hardware/computers.html"><span>Computers</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="119" href="//www.directron.com/hardware/computers/desktop-pc.html"><span>Desktop PCs</span></a></li><li class="menu-item "><a class="level2" data-id="95" href="//www.directron.com/hardware/computers/laptops-notebooks.html"><span>Laptops / Notebooks</span></a></li><li class="menu-item "><a class="level2" data-id="98" href="//www.directron.com/hardware/computers/tablets.html"><span>Tablets</span></a></li><li class="menu-item "><a class="level2" data-id="121" href="//www.directron.com/hardware/computers/servers.html"><span>Servers &amp; Workstations</span></a></li><li class="menu-item "><a class="level2" data-id="206" href="//www.directron.com/hardware/computers/barebone-computers.html"><span>Barebone Computers</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="108" href="//www.directron.com/hardware/storage.html"><span>Storage</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="94" href="//www.directron.com/hardware/storage/hdd.html"><span>Internal Hard Drives</span></a></li><li class="menu-item "><a class="level2" data-id="111" href="//www.directron.com/hardware/storage/externalhdd.html"><span>External Hard Drives</span></a></li><li class="menu-item "><a class="level2" data-id="93" href="//www.directron.com/hardware/storage/ssd.html"><span>Solid State Drives</span></a></li><li class="menu-item "><a class="level2" data-id="109" href="//www.directron.com/hardware/storage/usbflashdrives.html"><span>USB Flash Drives</span></a></li><li class="menu-item "><a class="level2" data-id="168" href="//www.directron.com/hardware/storage/flashmemory.html"><span>Flash Memory &amp; Readers</span></a></li><li class="menu-item "><a class="level2" data-id="110" href="//www.directron.com/hardware/storage/optical.html"><span>CD/DVD/Blu-Ray Writers &amp; Media</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="102" href="//www.directron.com/hardware/peripherals.html"><span>Peripherals</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="181" href="//www.directron.com/hardware/peripherals/electronics.html"><span>Electronics</span></a></li><li class="menu-item "><a class="level2" data-id="188" href="//www.directron.com/hardware/peripherals/keyboards-mice.html"><span>Keyboards &amp; Mice</span></a></li><li class="menu-item "><a class="level2" data-id="112" href="//www.directron.com/hardware/peripherals/monitors.html"><span>Monitors</span></a></li><li class="menu-item "><a class="level2" data-id="113" href="//www.directron.com/hardware/peripherals/audio-devices.html"><span>Audio Devices</span></a></li><li class="menu-item "><a class="level2" data-id="120" href="//www.directron.com/hardware/peripherals/input-devices.html"><span>Input Devices</span></a></li><li class="menu-item "><a class="level2" data-id="99" href="//www.directron.com/hardware/peripherals/printers-scanners.html"><span>Printers &amp; Scanners</span></a></li><li class="menu-item "><a class="level2" data-id="157" href="//www.directron.com/hardware/peripherals/projectors.html"><span>Projectors</span></a></li><li class="menu-item "><a class="level2" data-id="262" href="//www.directron.com/hardware/peripherals/interactive-display.html"><span>Interactive Displays</span></a></li><li class="menu-item "><a class="level2" data-id="263" href="//www.directron.com/hardware/peripherals/digital-signage.html"><span>Digital Signage</span></a></li><li class="menu-item "><a class="level2" data-id="266" href="//www.directron.com/hardware/peripherals/av-products.html"><span>A/V Products</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  actParent "><a class="level1" data-id="122" href="//www.directron.com/hardware/accessories.html"><span>Accessories</span></a><div class="nav-sublist level1"><ul><li class="menu-item  act"><a class="level2" data-id="123" href="//www.directron.com/hardware/accessories/cables-adapters.html"><span>Cables &amp; Adapters</span></a></li><li class="menu-item "><a class="level2" data-id="164" href="//www.directron.com/hardware/accessories/case-accessories.html"><span>Case Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="125" href="//www.directron.com/hardware/accessories/cooling-fans.html"><span>Cooling &amp; Fans</span></a></li><li class="menu-item "><a class="level2" data-id="124" href="//www.directron.com/hardware/accessories/tools.html"><span>Tools</span></a></li><li class="menu-item "><a class="level2" data-id="126" href="//www.directron.com/hardware/accessories/power-protection.html"><span>Power Protection</span></a></li><li class="menu-item "><a class="level2" data-id="199" href="//www.directron.com/hardware/accessories/laptop-accessories.html"><span>Laptop Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="201" href="//www.directron.com/hardware/accessories/cell-phone-accessories.html"><span>Cell Phone &amp; Tablet Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="225" href="//www.directron.com/hardware/accessories/mounts-stands.html"><span>Mounts &amp; Stands</span></a></li><li class="menu-item "><a class="level2" data-id="247" href="//www.directron.com/hardware/accessories/computer-furniture.html"><span>Computer Furniture</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="127" href="//www.directron.com/hardware/networking.html"><span>Networking</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="128" href="//www.directron.com/hardware/networking/wired-networking.html"><span>Wired Networking</span></a></li><li class="menu-item "><a class="level2" data-id="129" href="//www.directron.com/hardware/networking/wireless-networking.html"><span>Wireless Networking</span></a></li><li class="menu-item "><a class="level2" data-id="130" href="//www.directron.com/hardware/networking/routers.html"><span>Routers</span></a></li><li class="menu-item "><a class="level2" data-id="131" href="//www.directron.com/hardware/networking/modems.html"><span>Modems</span></a></li><li class="menu-item "><a class="level2" data-id="133" href="//www.directron.com/hardware/networking/network-attached-storage.html"><span>Network Attached Storage</span></a></li><li class="menu-item "><a class="level2" data-id="173" href="//www.directron.com/hardware/networking/security-surveillance.html"><span>Security &amp; Surveillance</span></a></li><li class="menu-item "><a class="level2" data-id="191" href="//www.directron.com/hardware/networking/network-accessories.html"><span>Networking Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="197" href="//www.directron.com/hardware/networking/firewalls-security.html"><span>Firewalls &amp; Security</span></a></li></ul></div></li>
 </ul>
 </div>
 </div>
@@ -226,14 +243,14 @@ ga('send', 'pageview');
 </div>
 </li>
 <li class="menu-full-width  ">
-<a href="https://www.directron.com/software.html">Software</a>
+<a href="//www.directron.com/software.html">Software</a>
 <div class="nav-sublist-dropdown" style="display: none;">
 <div class="container">
 <div class="mega-columns row">
 <div class="block1 col-sm-12">
 <div class="row">
 <ul>
-<li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/software/os-utilities.html"><span>OS &amp; Utilities</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/operating-systems.html"><span>Operating Systems</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/server-software.html"><span>Server Software</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/licensing.html"><span>Licensing</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/antivirus-internet-security.html"><span>Antivirus &amp; Internet Security</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/backup-utilities.html"><span>Backup &amp; Utilities</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/software/business-education.html"><span>Business &amp; Educational</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/software/business-education/home-office.html"><span>Home &amp; Office</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/business-education/academic-learning.html"><span>Academic &amp; Learning</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" href="https://www.directron.com/software/multimedia.html"><span>Multimedia</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/software/multimedia/audio-video.html"><span>Audio &amp; Video</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/multimedia/games.html"><span>Games</span></a></li></ul></div></li>
+<li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="147" href="//www.directron.com/software/os-utilities.html"><span>OS &amp; Utilities</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="138" href="//www.directron.com/software/os-utilities/operating-systems.html"><span>Operating Systems</span></a></li><li class="menu-item "><a class="level2" data-id="149" href="//www.directron.com/software/os-utilities/server-software.html"><span>Server Software</span></a></li><li class="menu-item "><a class="level2" data-id="150" href="//www.directron.com/software/os-utilities/licensing.html"><span>Licensing</span></a></li><li class="menu-item "><a class="level2" data-id="139" href="//www.directron.com/software/os-utilities/antivirus-internet-security.html"><span>Antivirus &amp; Internet Security</span></a></li><li class="menu-item "><a class="level2" data-id="140" href="//www.directron.com/software/os-utilities/backup-utilities.html"><span>Backup &amp; Utilities</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="144" href="//www.directron.com/software/business-education.html"><span>Business &amp; Educational</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="143" href="//www.directron.com/software/business-education/home-office.html"><span>Home &amp; Office</span></a></li><li class="menu-item "><a class="level2" data-id="154" href="//www.directron.com/software/business-education/academic-learning.html"><span>Academic &amp; Learning</span></a></li></ul></div></li><li class="menu-item menu-item-has-children menu-parent-item col-sw-6  "><a class="level1" data-id="148" href="//www.directron.com/software/multimedia.html"><span>Multimedia</span></a><div class="nav-sublist level1"><ul><li class="menu-item "><a class="level2" data-id="142" href="//www.directron.com/software/multimedia/audio-video.html"><span>Audio &amp; Video</span></a></li><li class="menu-item "><a class="level2" data-id="151" href="//www.directron.com/software/multimedia/games.html"><span>Games</span></a></li></ul></div></li>
 </ul>
 </div>
 </div>
@@ -242,8 +259,14 @@ ga('send', 'pageview');
 </div>
 </li>
 
+
 <li class="fl-left"><a href="https://www.directron.com/services">Services</a></li>
 <li class="fl-left"><a href="https://www.directron.com/manufacturers">Brands</a></li>
+<style>
+.deals a {border: 3px solid #FFF !important;color: #FFF !important;border-radius: 0;padding: 8px 16px !important;margin-top: 6px !important;-o-transition: all .2s ease-out, all 0.2s ease-in !important;-ms-transition: all .2s ease-out, all 0.2s ease-in !important;-moz-transition: all .2s ease-out, all 0.2s ease-in !important;-webkit-transition: all .2s ease-out, all 0.2s ease-in !important;transition: all .2s ease-out, all 0.2s ease-in !important;}
+.deals a:hover {color: #FFF !important;background: #e82f2f !important;border: 3px solid #e82f2f !important;}
+</style>
+<li class="fl-right deals"><a href="https://www.directron.com/deals">Deals</a></li>
 
 
 
@@ -257,6 +280,13 @@ ga('send', 'pageview');
 <script type="text/javascript">
 //<![CDATA[
 var SW_MENU_POPUP_WIDTH = 0;
+jQuery(function($){
+    $(document).ready(function(){
+        $('.main-nav .menu').et_menu({
+            type: "default",
+            delayTime: 0        });
+    });
+});
 //]]>
 </script>
 
@@ -264,38 +294,51 @@ var SW_MENU_POPUP_WIDTH = 0;
 jQuery(function($){
 	$('[data-toggle="tooltip"]').tooltip();
 });
-</script><!--/{TOPMENU_b04a50c3cc324225f69775501e423a30}--></div>
+</script></div>
 <div class="mobile-nav side-block container">
     <div class="menu-all-pages-container">
         <ul class="menu">
+         
             
 <li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="https://www.directron.com/hardware.html">Hardware</a>
+<a href="//www.directron.com/hardware.html">Hardware</a>
 <ul>
-<li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/hardware/components.html"><span>Components</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/cpus-processors.html"><span>CPUs / Processors</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/motherboards.html"><span>Motherboards</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/memory.html"><span>Memory</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/videocards.html"><span>Video Cards</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/power-supplies.html"><span>Power Supplies</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/components/cases.html"><span>Computer Cases</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/hardware/computers.html"><span>Computers</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/desktop-pc.html"><span>Desktop PCs</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/laptops-notebooks.html"><span>Laptops / Notebooks</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/tablets.html"><span>Tablets</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/servers.html"><span>Servers &amp; Workstations</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/computers/barebone-computers.html"><span>Barebone Computers</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/hardware/storage.html"><span>Storage</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/hdd.html"><span>Internal Hard Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/externalhdd.html"><span>External Hard Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/ssd.html"><span>Solid State Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/usbflashdrives.html"><span>USB Flash Drives</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/flashmemory.html"><span>Flash Memory &amp; Readers</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/storage/optical.html"><span>CD/DVD/Blu-Ray Writers &amp; Media</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/hardware/peripherals.html"><span>Peripherals</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/keyboards-mice.html"><span>Keyboards &amp; Mice</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/monitors.html"><span>Monitors</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/audio-devices.html"><span>Audio Devices</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/input-devices.html"><span>Input Devices</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/printers-scanners.html"><span>Printers &amp; Scanners</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/projectors.html"><span>Projectors</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/interactive-display.html"><span>Interactive Displays</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/digital-signage.html"><span>Digital Signage</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/peripherals/electronics.html"><span>Electronics</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/hardware/accessories.html"><span>Accessories</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/cables-adapters.html"><span>Cables &amp; Adapters</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/case-accessories.html"><span>Case Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/cooling-fans.html"><span>Cooling &amp; Fans</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/tools.html"><span>Tools</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/power-protection.html"><span>Power Protection</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/laptop-accessories.html"><span>Laptop Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/cell-phone-accessories.html"><span>Cell Phone Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/mounts-stands.html"><span>Mounts &amp; Stands</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/accessories/computer-furniture.html"><span>Computer Furniture</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/hardware/networking.html"><span>Networking</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/wired-networking.html"><span>Wired Networking</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/wireless-networking.html"><span>Wireless Networking</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/routers.html"><span>Routers</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/modems.html"><span>Modems</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/network-attached-storage.html"><span>Network Attached Storage</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/security-surveillance.html"><span>Security &amp; Surveillance</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/network-accessories.html"><span>Networking Accessories</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/hardware/networking/firewalls-security.html"><span>Firewalls &amp; Security</span></a></li></ul></li>
+<li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="105" href="//www.directron.com/hardware/components.html"><span>Components</span></a><ul><li class="menu-item "><a class="level2" data-id="90" href="//www.directron.com/hardware/components/cpus-processors.html"><span>CPUs / Processors</span></a></li><li class="menu-item "><a class="level2" data-id="91" href="//www.directron.com/hardware/components/motherboards.html"><span>Motherboards</span></a></li><li class="menu-item "><a class="level2" data-id="106" href="//www.directron.com/hardware/components/memory.html"><span>Memory</span></a></li><li class="menu-item "><a class="level2" data-id="107" href="//www.directron.com/hardware/components/videocards.html"><span>Video Cards</span></a></li><li class="menu-item "><a class="level2" data-id="96" href="//www.directron.com/hardware/components/power-supplies.html"><span>Power Supplies</span></a></li><li class="menu-item "><a class="level2" data-id="92" href="//www.directron.com/hardware/components/cases.html"><span>Computer Cases</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="97" href="//www.directron.com/hardware/computers.html"><span>Computers</span></a><ul><li class="menu-item "><a class="level2" data-id="119" href="//www.directron.com/hardware/computers/desktop-pc.html"><span>Desktop PCs</span></a></li><li class="menu-item "><a class="level2" data-id="95" href="//www.directron.com/hardware/computers/laptops-notebooks.html"><span>Laptops / Notebooks</span></a></li><li class="menu-item "><a class="level2" data-id="98" href="//www.directron.com/hardware/computers/tablets.html"><span>Tablets</span></a></li><li class="menu-item "><a class="level2" data-id="121" href="//www.directron.com/hardware/computers/servers.html"><span>Servers &amp; Workstations</span></a></li><li class="menu-item "><a class="level2" data-id="206" href="//www.directron.com/hardware/computers/barebone-computers.html"><span>Barebone Computers</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="108" href="//www.directron.com/hardware/storage.html"><span>Storage</span></a><ul><li class="menu-item "><a class="level2" data-id="94" href="//www.directron.com/hardware/storage/hdd.html"><span>Internal Hard Drives</span></a></li><li class="menu-item "><a class="level2" data-id="111" href="//www.directron.com/hardware/storage/externalhdd.html"><span>External Hard Drives</span></a></li><li class="menu-item "><a class="level2" data-id="93" href="//www.directron.com/hardware/storage/ssd.html"><span>Solid State Drives</span></a></li><li class="menu-item "><a class="level2" data-id="109" href="//www.directron.com/hardware/storage/usbflashdrives.html"><span>USB Flash Drives</span></a></li><li class="menu-item "><a class="level2" data-id="168" href="//www.directron.com/hardware/storage/flashmemory.html"><span>Flash Memory &amp; Readers</span></a></li><li class="menu-item "><a class="level2" data-id="110" href="//www.directron.com/hardware/storage/optical.html"><span>CD/DVD/Blu-Ray Writers &amp; Media</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="102" href="//www.directron.com/hardware/peripherals.html"><span>Peripherals</span></a><ul><li class="menu-item "><a class="level2" data-id="181" href="//www.directron.com/hardware/peripherals/electronics.html"><span>Electronics</span></a></li><li class="menu-item "><a class="level2" data-id="188" href="//www.directron.com/hardware/peripherals/keyboards-mice.html"><span>Keyboards &amp; Mice</span></a></li><li class="menu-item "><a class="level2" data-id="112" href="//www.directron.com/hardware/peripherals/monitors.html"><span>Monitors</span></a></li><li class="menu-item "><a class="level2" data-id="113" href="//www.directron.com/hardware/peripherals/audio-devices.html"><span>Audio Devices</span></a></li><li class="menu-item "><a class="level2" data-id="120" href="//www.directron.com/hardware/peripherals/input-devices.html"><span>Input Devices</span></a></li><li class="menu-item "><a class="level2" data-id="99" href="//www.directron.com/hardware/peripherals/printers-scanners.html"><span>Printers &amp; Scanners</span></a></li><li class="menu-item "><a class="level2" data-id="157" href="//www.directron.com/hardware/peripherals/projectors.html"><span>Projectors</span></a></li><li class="menu-item "><a class="level2" data-id="262" href="//www.directron.com/hardware/peripherals/interactive-display.html"><span>Interactive Displays</span></a></li><li class="menu-item "><a class="level2" data-id="263" href="//www.directron.com/hardware/peripherals/digital-signage.html"><span>Digital Signage</span></a></li><li class="menu-item "><a class="level2" data-id="266" href="//www.directron.com/hardware/peripherals/av-products.html"><span>A/V Products</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="122" href="//www.directron.com/hardware/accessories.html"><span>Accessories</span></a><ul><li class="menu-item "><a class="level2" data-id="123" href="//www.directron.com/hardware/accessories/cables-adapters.html"><span>Cables &amp; Adapters</span></a></li><li class="menu-item "><a class="level2" data-id="164" href="//www.directron.com/hardware/accessories/case-accessories.html"><span>Case Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="125" href="//www.directron.com/hardware/accessories/cooling-fans.html"><span>Cooling &amp; Fans</span></a></li><li class="menu-item "><a class="level2" data-id="124" href="//www.directron.com/hardware/accessories/tools.html"><span>Tools</span></a></li><li class="menu-item "><a class="level2" data-id="126" href="//www.directron.com/hardware/accessories/power-protection.html"><span>Power Protection</span></a></li><li class="menu-item "><a class="level2" data-id="199" href="//www.directron.com/hardware/accessories/laptop-accessories.html"><span>Laptop Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="201" href="//www.directron.com/hardware/accessories/cell-phone-accessories.html"><span>Cell Phone &amp; Tablet Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="225" href="//www.directron.com/hardware/accessories/mounts-stands.html"><span>Mounts &amp; Stands</span></a></li><li class="menu-item "><a class="level2" data-id="247" href="//www.directron.com/hardware/accessories/computer-furniture.html"><span>Computer Furniture</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="127" href="//www.directron.com/hardware/networking.html"><span>Networking</span></a><ul><li class="menu-item "><a class="level2" data-id="128" href="//www.directron.com/hardware/networking/wired-networking.html"><span>Wired Networking</span></a></li><li class="menu-item "><a class="level2" data-id="129" href="//www.directron.com/hardware/networking/wireless-networking.html"><span>Wireless Networking</span></a></li><li class="menu-item "><a class="level2" data-id="130" href="//www.directron.com/hardware/networking/routers.html"><span>Routers</span></a></li><li class="menu-item "><a class="level2" data-id="131" href="//www.directron.com/hardware/networking/modems.html"><span>Modems</span></a></li><li class="menu-item "><a class="level2" data-id="133" href="//www.directron.com/hardware/networking/network-attached-storage.html"><span>Network Attached Storage</span></a></li><li class="menu-item "><a class="level2" data-id="173" href="//www.directron.com/hardware/networking/security-surveillance.html"><span>Security &amp; Surveillance</span></a></li><li class="menu-item "><a class="level2" data-id="191" href="//www.directron.com/hardware/networking/network-accessories.html"><span>Networking Accessories</span></a></li><li class="menu-item "><a class="level2" data-id="197" href="//www.directron.com/hardware/networking/firewalls-security.html"><span>Firewalls &amp; Security</span></a></li></ul></li>
 </ul>
 </li>
 <li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="https://www.directron.com/software.html">Software</a>
+<a href="//www.directron.com/software.html">Software</a>
 <ul>
-<li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/software/os-utilities.html"><span>OS &amp; Utilities</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/operating-systems.html"><span>Operating Systems</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/server-software.html"><span>Server Software</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/licensing.html"><span>Licensing</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/antivirus-internet-security.html"><span>Antivirus &amp; Internet Security</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/os-utilities/backup-utilities.html"><span>Backup &amp; Utilities</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/software/business-education.html"><span>Business &amp; Educational</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/software/business-education/home-office.html"><span>Home &amp; Office</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/business-education/academic-learning.html"><span>Academic &amp; Learning</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" href="https://www.directron.com/software/multimedia.html"><span>Multimedia</span></a><ul><li class="menu-item "><a class="level2" href="https://www.directron.com/software/multimedia/audio-video.html"><span>Audio &amp; Video</span></a></li><li class="menu-item "><a class="level2" href="https://www.directron.com/software/multimedia/games.html"><span>Games</span></a></li></ul></li>
+<li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="147" href="//www.directron.com/software/os-utilities.html"><span>OS &amp; Utilities</span></a><ul><li class="menu-item "><a class="level2" data-id="138" href="//www.directron.com/software/os-utilities/operating-systems.html"><span>Operating Systems</span></a></li><li class="menu-item "><a class="level2" data-id="149" href="//www.directron.com/software/os-utilities/server-software.html"><span>Server Software</span></a></li><li class="menu-item "><a class="level2" data-id="150" href="//www.directron.com/software/os-utilities/licensing.html"><span>Licensing</span></a></li><li class="menu-item "><a class="level2" data-id="139" href="//www.directron.com/software/os-utilities/antivirus-internet-security.html"><span>Antivirus &amp; Internet Security</span></a></li><li class="menu-item "><a class="level2" data-id="140" href="//www.directron.com/software/os-utilities/backup-utilities.html"><span>Backup &amp; Utilities</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="144" href="//www.directron.com/software/business-education.html"><span>Business &amp; Educational</span></a><ul><li class="menu-item "><a class="level2" data-id="143" href="//www.directron.com/software/business-education/home-office.html"><span>Home &amp; Office</span></a></li><li class="menu-item "><a class="level2" data-id="154" href="//www.directron.com/software/business-education/academic-learning.html"><span>Academic &amp; Learning</span></a></li></ul></li><li class="menu-item menu-item-has-children menu-parent-item  "><a class="level1" data-id="148" href="//www.directron.com/software/multimedia.html"><span>Multimedia</span></a><ul><li class="menu-item "><a class="level2" data-id="142" href="//www.directron.com/software/multimedia/audio-video.html"><span>Audio &amp; Video</span></a></li><li class="menu-item "><a class="level2" data-id="151" href="//www.directron.com/software/multimedia/games.html"><span>Games</span></a></li></ul></li>
 </ul>
 </li>
 
 <li class="fl-left"><a href="https://www.directron.com/services">Services</a></li>
 <li class="fl-left"><a href="https://www.directron.com/manufacturers">Brands</a></li>
 
-        </ul>
+                    </ul>
     </div>
 </div>
-<div class="mobile-nav-overlay close-mobile-nav"></div>        <div class="top-container"><div class="breadcrumbs">
+<div class="mobile-nav-overlay close-mobile-nav"></div>
+<script type="text/javascript">
+//<![CDATA[
+var SW_MENU_POPUP_WIDTH = ;
+jQuery(function($){
+    $(document).ready(function(){
+        $('.main-nav .menu').et_menu({
+            type: "default",
+            delayTime: 0        });
+    });
+});
+//]]>
+</script>        <div class="top-container"><div class="breadcrumbs">
     <div class="container">
         <div class="row">
         <div class="col-sm-12 a-left">
     <ul>
                     <li class="home">
-                            <a href="https://www.directron.com/" title="Go to Home Page">Home</a>
-                                        <span class="breadcrumbs-split"><i class="icon-right-open"></i></span>
+                        	                <a href="https://www.directron.com/" title="Go to Home Page">Home</a>
+                                                        <span class="breadcrumbs-split"><i class="icon-right-open"></i></span>
                         </li>
                     <li class="cms_page">
                             <strong>Privacy Policy</strong>
@@ -307,7 +350,7 @@ jQuery(function($){
 </div></div>        <div class="main-container col1-layout">
             <div class="main container">
                 <div class="col-main">
-                    <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                    <div id="loading-mask">
+                                        <div id="loading-mask">
 <div class="background-overlay"></div>
 	<p id="loading_mask_loader" class="loader">
         <i class="ajax-loader large animate-spin"></i>
@@ -315,7 +358,8 @@ jQuery(function($){
 </div>
 <div id="after-loading-success-message">
 	<div class="background-overlay"></div>
-	<div id="success-message-container" class="loader"><div class="msg-box">Product was successfully added to your shopping cart.</div>
+	<div id="success-message-container" class="loader">
+		<div class="msg-box">Product was successfully added to your shopping cart.</div>
     	<button type="button" name="finish_and_checkout" id="finish_and_checkout" class="button btn-cart"><span><span>
 				Go to cart page		</span></span></button>
 	<button type="button" name="continue_shopping" id="continue_shopping" class="button btn-cart">
@@ -340,7 +384,7 @@ jQuery(function($){
 </script>    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><p>
+<div class="std"><p>
     This privacy policy sets out how Directron uses and protects any information
     that you give Directron when you use this website.
     Directron is committed to ensuring that your privacy is protected.
@@ -554,7 +598,7 @@ Houston TX, 77036.
 </table></div>                </div>
             </div>
         </div>
-        <div class="footer-container ">
+                <div class="footer-container ">
     <div class="footer">
             <div class="footer-middle">
             <div class="container">
@@ -601,7 +645,12 @@ Houston TX, 77036.
     </div>
     <form action="https://www.directron.com/newsletter/subscriber/new/" method="post" id="footer-newsletter-validate-detail" onsubmit="setNewsletterCookie()">
         <div class="block-content">
-            <p><i class="fa fa-sun-o theme-color" aria-hidden="true" style="margin-right:5px;"></i><a href="summerjobs">2016 Summer Jobs</a>
+            <p><!-- 
+<i class="fa fa-sun-o theme-color" aria-hidden="true" style="margin-right:5px;"></i><a href="summerjobs">2016 Summer Jobs</a>
+<br/>
+<br/>
+ -->
+<a href="https://www.bbb.org/houston/business-reviews/electric-equipment-and-supplies-retail/directron-com-in-houston-tx-17000083/#sealclick" target="_blank" rel="nofollow"><img src="https://seal-houston.bbb.org/seals/darkgray-seal-200-42-whitetxt-bbb-17000083.png" style="border: 0;" alt="Directron.Com BBB Business Review"></a>
 <br>
 <br>
 Get all the latest information on Events,<br>Sales and Offers. Sign up for our newsletter today!
@@ -610,7 +659,7 @@ Get all the latest information on Events,<br>Sales and Offers. Sign up for our n
 .footer-middle .block.block-subscribe .input-box{margin-top: 0;}
 </style></p>
             <div class="input-box">
-                <p class="label">Enter Your E-mail Address</p>
+                <p class="label">Enter your e-mail Address</p>
                 <input type="text" name="email" id="newsletter_footer" title="Sign up for our newsletter" class="input-text required-entry validate-email">
                 <button type="submit" title="Submit" class="button"><span><span>Submit</span></span></button>
                 <div class="clearer"></div>
@@ -640,7 +689,7 @@ Get all the latest information on Events,<br>Sales and Offers. Sign up for our n
 <i class="fa fa-cc-amex" style=""></i>
 </div>
 
-</div>                                <address>Copyright © 1997 - 2016 Directron. All Rights Reserved.</address>
+</div>                                <address>Copyright © 1997 - 2017 Directron. All Rights Reserved.</address>
                             </div>
         </div>
         </div>
@@ -722,6 +771,6 @@ Get all the latest information on Events,<br>Sales and Offers. Sign up for our n
     }
 </script>    </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"eb6a1fd01e","applicationID":"9408584","transactionName":"bwEDN0BZCxFSURZeXlZLIABGUQoMHFEPRB5IBQYGHU4MB0Q=","queueTime":0,"applicationTime":1699,"atts":"Q0YAQQhDGB8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 </body></html>
