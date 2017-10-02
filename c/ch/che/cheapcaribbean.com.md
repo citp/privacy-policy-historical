@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapcaribbean.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015618id_/http%3A//www.cheapcaribbean.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapcaribbean.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002114537id_/https%3A//www.cheapcaribbean.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Cheap Caribbean | CheapCaribbean.com Privacy Policy
 
