@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the pcmonitors.info privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329200138id_/https%3A//pcmonitors.info/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmonitors.info privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002213715id_/https%3A//pcmonitors.info/privacy-policy-and-cookies) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies - PC Monitors
+# Privacy Policy and Cookies | PC Monitors
 
 **If you wish to disable cookies you may do so through your individual browser options**. This action will apply universally and not just to those collected from your visit to our website. More detailed information about cookie management specific to various web browsers can be found on [aboutcookies.org](http://www.aboutcookies.org/). Specific information on the cookies our website uses and how to control them individually can be found below.
 
+  
   
 Last updated: March 27th 2017  
   
