@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070352id_/http%3A//www.mrskin.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002185521id_/https%3A//www.mrskin.com/help/privacy) for the most accurate reproduction.*
 
 # "Privacy Policy | Mr. Skin"
 
@@ -8,7 +8,7 @@ What information do we collect?
 
 When you visit the Site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve the Site and make your experience on the Site as valuable and efficient as possible. 
 
-When you sign up with us or become a Site member, you may be asked to provide the following personal information to us or one of our third-party processors:
+When you sign up with us or become a Site member, you may be asked to provide the following personal information to us or one of our third-party processors: 
 
   * First and last name
   * Billing address
