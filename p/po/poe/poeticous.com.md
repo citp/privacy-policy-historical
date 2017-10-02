@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poeticous.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209202101id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poeticous.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002205509id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.*
 
-# Poeticous
+# Poeticous. Beautiful poetry blogs.
 
 We ("Poeticous", "us", or "our") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use the website at poeticous.com (the "Site") and/or content (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
