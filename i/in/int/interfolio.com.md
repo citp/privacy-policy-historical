@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006093427id_/http%3A//www.interfolio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002175141id_/https%3A//www.interfolio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Interfolio
 
-_Last updated on June 9, 2016_
+_Last updated on May 25, 2017_
 
-Interfolio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interfolio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interfolio’s certification, please visit <http://www.export.gov/safeharbor/>.
+Interfolio complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union to the United States. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles, and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). Interfolio is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 ## Interfolio’s Privacy Policy
 
@@ -83,10 +83,10 @@ If you are an Applicant, you are probably using our Services to help you either 
 
 We may disclose certain Personal Information:
 
-  * To third party vendors who help us provide the Services or the Site, in which case we will require such vendors agree to process such information based on our instructions and in compliance with this Privacy Policy (including your Billing Information to our payment processor);
+  * To third-party services to manage communications (e.g., in order to send transactional emails related to our services). We also use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your name and email address) to third-party service providers in order to analyze your use of our website and/or product and track our relationship so that we can improve our service to you. In such cases, we will require such vendors agree to process such information based on our instructions and in compliance with this Privacy Policy (including your Billing Information to our payment processor).
   * To third parties to whom you ask or authorize us to send Personal Information (including, if applicable, Recipients and/or your University);
   * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in the event we have such Affiliates in the future, in which case we will require our Affiliates to honor this Privacy Policy;
-  * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties.
+  * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties. Note that we may be compelled to reveal personal data in response to lawful requests by public authorities including to meet national security or law enforcement requirements. 
 
 
 
@@ -102,9 +102,12 @@ If you are affiliated with a University, you hereby authorize us, and we may dis
 
 IF YOU AUTHORIZE US TO SHARE PERSONAL INFORMATION WITH A RECIPIENT OR YOUR UNIVERSITY, WE DO NOT HAVE ANY CONTROL OVER HOW ANY SUCH RECIPIENT OR UNIVERSITY USES AND DISCLOSES YOUR PERSONAL INFORMATION, INCLUDING INFORMATION YOU PROVIDE DIRECTLY TO THAT RECIPIENT. YOU ACKNOWLEDGE AND AGREE THAT (1) INTERFOLIO DOES NOT EVALUATE ANY RECIPIENT’S OR UNIVERSITY’S PRIVACY PRACTICES, AND (2) INTERFOLIO WILL NOT HAVE ANY LIABILITY FOR ANY ACTIONS OF ANY RECIPIENT OR UNIVERSITY. YOU SHOULD KNOW THAT RECIPIENTS TO WHOM WE MAY DISCLOSE YOUR DISCLOSED PROFILE MAY SHARE YOUR DISCLOSED PROFILE WITH OTHERS.
 
+_Accountability for Onward Transfer – EU-U.S. Privacy Shield Principles_  
+As described in the Privacy Shield Principles, Interfolio is accountable for personal data that it receives under the Privacy Shield Framework and subsequently transfers to third parties. If third parties that process personal data on our behalf do so in a manner that does not comply with the Privacy Shield Principles, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
+
 ### ACCESSING AND CONTROLLING YOUR INFORMATION
 
-To change information that you have previously provided Interfolio, you may log in to your account at [http://www.interfolio.com](http://www.interfolio.com/) and edit the information on your Settings page. You may also contact Interfolio’s Customer Support to change this information by emailing privacy@interfolio.com or by calling (877) 997-8807. If you change and/or request changes to your information, subsequent uses or disclosures of that information by us will reflect those changes, however, we do not have the ability to update any information previously disclosed to any third party, including your University. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change. We endeavor to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.
+We acknowledge the individual’s right to access their personal data. To change information that you have previously provided Interfolio, you may log in to your account at [http://www.interfolio.com](http://www.interfolio.com/) and edit the information on your Settings page. You may also contact Interfolio’s Customer Support to change this information by emailing privacy@interfolio.com or by calling (877) 997-8807. If you change and/or request changes to your information, subsequent uses or disclosures of that information by us will reflect those changes, however, we do not have the ability to update any information previously disclosed to any third party, including your University. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change. We endeavor to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.
 
 You may not be able to access Confidential Personal Information submitted to the Services about you (e.g. a confidential letter of recommendation). Similarly, if you have provided us with Confidential Personal Information, you may not be able to control this information or to whom it is disclosed. However, you can request its deletion by emailing privacy@interfolio.com or by calling (877) 997-8807. Such a request will not affect any previously disclosed information.
 
@@ -112,9 +115,7 @@ Certain information is necessary in order for us to provide the Site or Services
 
 Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives.
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Interfolio commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Interfolio at privacy@interfolio.com
-
-Interfolio has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Interfolio, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+In compliance with the Privacy Shield Principles, Interfolio commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Interfolio at privacy@interfolio.com. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Interfolio, please visit the BBB EU PRIVACY SHIELD website at <http://www.bbb.org/EUprivacy-shield/for-eu-consumers/> for more information and to file a complaint. Finally, as a last resort and under limited circumstances EU individuals with unresolved privacy complaints can invoke binding arbitration before a Privacy Shield Panel.
 
 ### USER FEEDBACK
 
@@ -123,6 +124,12 @@ If you provide feedback to us, we may use and disclose such feedback in accordan
 ### THIRD PARTY SITES
 
 The Site may contain links to other websites. Interfolio is not responsible for the privacy practices or the content of these other websites. This Privacy Policy applies solely to information collected by us through the Site or Services and does not apply to these third party websites. We encourage our Users to read the privacy policies of each and every website they visit. Users should always use caution and common sense when choosing to provide Personal Information on the Internet, particularly when it comes to information such as credit cards and other payment information. The ability to access information of third parties from the Site or Services is for your convenience and does not signify our endorsement of such third parties, their services, other websites, locations or their contents.
+
+### ADVERTISING
+
+This website uses Google AdWords remarketing service and Remarketing for Google Analytics to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors,  including Google, use cookies to serve ads based on someone’s past visits to Interfolio’s website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
 
 ### SECURITY
 
@@ -154,10 +161,8 @@ In addition, if we make any material changes to our Privacy Policy that do not a
 
 ### CONTACT US
 
-If you have questions or concerns about our Privacy Policy, please contact us at: [help@interfolio.com](mailto:help@interfolio.com)
+If you have questions or concerns about our Privacy Policy, please contact us at: [privacy@interfolio.com](mailto:privacy@interfolio.com)
 
-Interfolio, Inc.
-
-1025 Connecticut Avenue NW #1103
-
-Washington, DC 20036
+Interfolio, Inc.  
+1400 K Street NW #1100  
+Washington, DC 20005
