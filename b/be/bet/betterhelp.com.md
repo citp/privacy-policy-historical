@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228111124id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002133847id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | BetterHelp
 
 * _This Privacy Policy_
 
