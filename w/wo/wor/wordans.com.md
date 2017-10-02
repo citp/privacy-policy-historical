@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183945id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002141959id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wordans.com
+# Best Price Guarantee | Wholesale market | Wordans USA
 
 ##  Wordans.com ("Wordans") is committed to protecting your online privacy
 
@@ -120,14 +120,10 @@ Parents can review any information Wordans has received from a child and the par
 
 Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at:
 
-Wordans.com
-
-Attn: Privacy
-
-7240 rue Waverly  
-Bureau 113
-
-Montreal, QC 
+**Wordans, Portugal**  
+Rua Carlos Alberto da Mota Pinto, nº 17, 3º A,  
+Edifício Amoreiras Square  
+1070 313 Lisbon
 
 ##  How can I change, delete, or update my information?
 
