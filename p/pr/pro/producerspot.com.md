@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producerspot.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613142021id_/http%3A//www.producerspot.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producerspot.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002061406id_/http%3A//www.producerspot.com/private-policy) for the most accurate reproduction.*
 
 # Private Policy | ProducerSpot
 
