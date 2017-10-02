@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proofpointessentials.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410065934id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofpointessentials.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003003941id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proofpoint
 
