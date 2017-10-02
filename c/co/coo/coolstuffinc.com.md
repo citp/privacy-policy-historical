@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134527id_/http%3A//www.coolstuffinc.com/page/978) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002231051id_/https%3A//www.coolstuffinc.com/page/978) for the most accurate reproduction.*
 
 # Site Links - Privacy Policy
 
-Last Modified: May 31st, 2017; Effective Date: June 14th, 2017
+_Last Modified: June 7th, 2017; Effective Date: June 21st, 2017_
 
 ## Information We Collect and How We Use It
 
