@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnhaydon.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302123512id_/https%3A//www.johnhaydon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnhaydon.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002070826id_/https%3A//www.johnhaydon.com/privacy) for the most accurate reproduction.*
 
 # Privacy »
 
