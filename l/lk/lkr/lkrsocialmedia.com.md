@@ -1,46 +1,53 @@
-> *The following text is extracted and transformed from the lkrsocialmedia.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026093628id_/http%3A//lkrsocialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkrsocialmedia.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002115141id_/https%3A//meetedgar.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# MeetEdgar Privacy Policy
 
-PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE.
+Your privacy is important to Roeder Studios, Inc., the owner and operator of the Edgar application, and we are committed to protecting your personal information. In this policy, we are letting you know about the ways we collect and use your information, so you can make an informed choice regarding whether you will use Edgar.
 
-OVERVIEW  
-Roeder Studios, Inc. (the “Company”) recognizes and respects the privacy of the users of this Website. The following privacy policy (the “Policy”), as modified from time to time by us as described below, tells you about the information that the Company collects through the Website, how we use that information and how you can opt out of certain uses of the information we may collect. If you access the Website (“http://www.LauraRoeder.com”) you are consenting to the information collection and usage practices described in this Policy.
+By using Edgar, you consent to the terms of this policy.
 
-EFFECTIVE AND UPDATES  
-This Privacy Policy is effective at 8:00 a.m. on January 1, 2009. The Company reserves the right to make changes to this Policy at any time, and will post any revised Policy on this page. You will know we have changed the Policy when you see a new effective date in the first sentence of this paragraph. The Company will not notify its Website visitors or customers of any such changes by e-mail or other personal contact. We encourage you to check the date of this Policy whenever you visit this Website so that you will know when you need to review the Policy for modifications. Please note that this Policy applies to all information collected online by the Company.
+This privacy policy was last changed on July 23rd, 2014.
 
-COLLECTION AND USE OF INFORMATION  
-Personal information means information that can be used to identify and contact you, specifically your name, postal delivery address, e-mail address, payment method (e.g., credit card or debit card) and telephone number, as well as other information when such information is combined with your personal information.
+ **What Information Do We Collect?**
 
-When you register or re-register at our Web site, we ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you. We use this personal information to process your registration, your subscriptions and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about Roeder Studios, Inc. special offers, promotional announcements and consumer surveys. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
+When you sign up to use Edgar, we collect your name, email address, IP address, credit card information, and other information necessary to process your transaction.
 
-We keep track of your interactions with us, including but not limited to your site activity, payment history and correspondence. We use this information for such purposes as providing recommendations in our programs and on our websites so that you may find useful, personalizing the site to better reflect particular interests, tracking your level of activity, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offerings for our customers. We also provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. On an anonymous basis, we may also disclose and otherwise use, site habits, commentary, reviews and other non-personal information about our customers.
+When you link your Edgar account with supported Social Media Platform such as Twitter, Facebook, and LinkedIn, we may have access to information regarding your Social Media Platform accounts, and you will be notified at that time regarding what information we can access.
 
-While using the http://www.LauraRoeder.com web site, you will have opportunities to post reviews or other personal information in the comments. Please understand that when you post such information, it is made public and is not subject to this policy.
+We collect non-identifiable personal information through the use of “cookies.” A cookie is a small data file that a Web site can transfer to your hard drive through your browser. The cookie is then stored on your computer as an anonymous tag. You can set your browser to notify you if cookies are received. If you choose to set up your browser to not accept cookies, you will not be able to use Edgar.
 
-COOKIES AND OTHER TECHNOLOGY  
-As you browse the http://www.LauraRoeder.com site, cookies may placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes.) In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. If your browser is set to not accept cookies, you may not be able to use particular services on the site.
+We may collect some other personally identifying information about your transaction in a non-identifiable format and combine it with other non-identifiable information, to be analyzed only at an aggregate level. We will use anonymized data from your account to improve the service for all customers. We will not use the content you post except to internally improve our systems.
 
-In addition to cookies, we may use other technologies, including pixel tags, to gather information on how our users interact with our site and to otherwise help us efficiently operate and monitor our site and service. These technologies show us popular pages, conversion rates, click-throughs and other information that can be used to improve, operate and monitor our site and our service.
+ **How Do We Use Your Information?**
 
-DISCLOSURE OF PERSONAL INFORMATION  
-Except as otherwise disclosed to you, we will not sell, rent or disclose your personal information to third parties without notifying you of our intent to share the personal information in advance and giving you an opportunity to prevent your personal information from being shared.  
-We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize our Web pages, process credit card transactions, collect debts, analyze and enhance data, including customers’ interaction with our site, and process consumer surveys. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
+We use your name and email to send you periodic emails, including email newsletters and occasional business announcements and updates.
 
-In addition, we may offer joint promotions or programs that, in order for participation, will require personal information be shared with third parties. In such instances, you will be provided with notice of the sharing prior to your decision to participate.
+We use your credit card to process your transaction. We may use your email to contact you about your account.
 
-Roeder Studios, Inc. also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that Roeder Studios, Inc. is acquired by or merged with a third party, we reserve the right to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
+We use cookies to compile aggregate data about site traffic and site interaction so we can optimize our website and create a better user experience for you.
 
-SECURITY  
-Roeder Studios, Inc. takes information security very seriously and uses reasonable administrative, technical and managerial measures to protect your personal information from unauthorized access. For example, we encrypt the personal information that you send to us through the registration and sign up process.
+ **Do We Respond to Do Not Track Signals?**
 
-CONTACT  
-If you have questions concerning your account, please visit our contact page. If you have questions concerning this privacy policy, please email inquiries@roederstudios.com.
+Do Not Track is a privacy setting you can change in your website browser, so your activities cannot be tracked from website to website. We do not respond to Do Not Track signals in browsers, because we do not track your activities across different websites.
 
-Our address is:
+ **How Do You Unsubscribe?**
 
-Roeder Studios, Inc.  
-5524 Bee Caves Road, #J6  
-Austin, Texas 78746  
-United States
+You must maintain a working email adderss associated with your Edgar account, so you can receive email regarding your Edgar account. However, if at any time you would like to unsubscribe from receiving promotional emails, you can opt-out by unsubscribing at the bottom of any email we send to you.
+
+ **How Do We Protect Your Information?**
+
+We use various security measures to maintain the safety of your personal information, including hosting your data on a secure server and/or a third-party password-protected, secure service. Any third-party secure service we use will keep your information confidential, will not sell or share your information, and will not contact you directly. Billing and payment data are encrypted whenever transmitted or received online.
+
+We share your information with specific third parties who assist us in taking care of you (such as the password-protected, secure service above), who agree to keep your information confidential. We will also release your information as required by law or if necessary to protect our legal rights, to comply with a judicial proceeding or court order, to prevent abuse of Edgar, or to prevent threats to others or illegal activities.
+
+We have no control over how the various Social Media Platforms collect or use your identifying information that you supply to them. Please refer to the privacy policies of those companies for more information about how they use your information.
+
+Circumstances may arise where we may decide to sell, buy, merge, or otherwise reorganize our business in the United States or elsewhere, or where we may decide to share, rent, buy, or sell business assets for the purpose of reorganizing, developing, or expanding our business. It is our policy to seek appropriate protection for information in these types of transactions. In the event that our entire company or the Edgar application asset is acquired, customer information will be one of the transferred assets.
+
+ **Information Regarding Children**
+
+We do not collect any information from anyone under 13 years of age. This website, products, and services are not directed to people who are under 13 years of age. Please notify us at support@meetedgar.com. if you are a parent whose child has provided us with personally identifying information, and we will delete such information from our files.
+
+ **Questions Regarding This Policy**
+
+If there are any questions regarding this privacy policy, please direct them to: support@meetedgar.com.
