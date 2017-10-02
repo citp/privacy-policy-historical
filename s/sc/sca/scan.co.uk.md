@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126063358id_/https%3A//www.scan.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002235549id_/https%3A//www.scan.co.uk/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | We Respect your Privacy - Scan.co.uk
+# Privacy Policy | We Respect your Privacy | SCAN UK
 
 We at Scan Computers International Limited respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. 
 
@@ -12,9 +12,21 @@ This Privacy Policy is updated from time to time; therefore, it should be review
 
 Data can be collected and processed during the operations of our website. The following are ways we may perform these actions: Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information. Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase. If for any reason you communicate with our personnel or site we may collect information.
 
+Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
+
 ### 2\. Cookie Usage
 
-There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers. Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you. We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you. Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies. Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access. Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website.
+what are cookies ?Cookies are small data files used to store information on your computer, tablet or mobile device. There are different types of cookies depending on the task, find more information below about the cookies we use and the role they play in helping to make our website more customer friendly and easy to use.
+
+HOW WE USE COOKIES ?There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers. Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you. We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you. Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies. Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access. Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website.
+
+#### Types of cookies we use:
+
+Session CookiesSession cookies help us to provide important features and functionality on our website to offer you the best experience. These cookies remember your preferences when browsing different pages for the site. Examples of this are keeping track of the items in your basket and remembering that you are logged in.
+
+Analytical cookiesThese keep a track of how many visitors are on the site and what is being clicked, this allows us to learn which features you find easy to use and where we can improve to give you a better user experience.
+
+Advertising CookiesThese enable us to deliver tailored adverts when you are browsing the web. Allowing us to show you relevant content based on the products you have viewed or added to your basket.
 
 ### 3\. Our Use of Your Information
 
