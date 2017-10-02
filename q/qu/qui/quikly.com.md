@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikly.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312030923id_/https%3A//www.quikly.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikly.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002172201id_/https%3A//www.quikly.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
