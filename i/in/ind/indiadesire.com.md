@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiadesire.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092338id_/https%3A//indiadesire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiadesire.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002023222id_/https%3A//indiadesire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy || India Desire
 
