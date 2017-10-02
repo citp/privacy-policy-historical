@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meetedgar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170241id_/https%3A//meetedgar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetedgar.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002115141id_/https%3A//meetedgar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MeetEdgar
+# MeetEdgar Privacy Policy
 
 Your privacy is important to Roeder Studios, Inc., the owner and operator of the Edgar application, and we are committed to protecting your personal information. In this policy, we are letting you know about the ways we collect and use your information, so you can make an informed choice regarding whether you will use Edgar.
 
