@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629051814id_/https%3A//www.venetian.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002103607id_/https%3A//www.venetian.com/policy.html) for the most accurate reproduction.*
 
-# The Venetian® Las Vegas: Privacy Policy
+# The Venetian® Las Vegas | Privacy Policy
 
 **Online Privacy Policy**
 
