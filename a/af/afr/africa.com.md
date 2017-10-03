@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213405id_/https%3A//www.africa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003043702id_/https%3A//www.africa.com/privacy-policy) for the most accurate reproduction.*
 
 # AFRICA.COM Privacy Policy - Africa.com
 
@@ -37,7 +37,7 @@ Some advertisements on certain of our Web sites (including Africa.com) are serve
 
 We do not have access to, nor control over, advertisers’ cookies or how they may be used. Google is one of the companies that serves advertisements onto Africa.com. It uses the DART cookie to serve ads based on your visit to Africa.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences "Google ad and content network privacy policy"). Your access to our Web sites will not be affected if you do not accept cookies served by third parties.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.africa.com/wp-content/uploads/2016/02/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp").
 
 **IP Addresses**  
 Africa.com logs Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Web sites.
