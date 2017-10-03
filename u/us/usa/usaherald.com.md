@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the usaherald.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603154543id_/http%3A//usaherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaherald.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003024203id_/http%3A//usaherald.com/privacy-policy) for the most accurate reproduction.*
 
-# USA Herald Privacy Policy > USA Herald
+# USA Herald Privacy Policy – USA Herald
 
 USA Herald Privacy Policy
 
-**Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
+ **Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
 Thank you for visiting this website, a digital service presented to you by USA HERALD, LLC (“USAH”, “we” or “us”). Your privacy is important to us. As such, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among our network of affiliated and operated digital services (“USAH Affiliates”), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with USAH or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a “Service,” collectively the “Services”). “Users” are persons that use the Services.
 
-  1. **The Information We Collect**
+  1.  **The Information We Collect**
 
 
 
 We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the “Information”.
 
-  1. _Information You Provide To Us._ At some Services, you can register, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of information, such as: name, address, e-mail address, telephone number, fax number and credit card information.
+  1.  _Information You Provide To Us._ At some Services, you can register, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of information, such as: name, address, e-mail address, telephone number, fax number and credit card information.
 
 
 
 At some Services, you may also be able to submit Information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. This Information may include, for instance, a recipient’s name, address, e-mail address, and telephone number.
 
-  2. _Information That is Passively or Automatically Collected._ We, and our “Partners” who include USAH Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled Cookies, and Other User and Ad-Targeting Technologies for more information about how the foregoing Information may be collected and used.
-  3. _Geo-location Information._ If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
-  4. _Information Collected By and From Social Media Services and Other Third Party Platforms._ You also can engage with our content, such as video, games, applications, and other offerings, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications. When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or “likes.” For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
+  2.  _Information That is Passively or Automatically Collected._ We, and our “Partners” who include USAH Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled Cookies, and Other User and Ad-Targeting Technologies for more information about how the foregoing Information may be collected and used.
+  3.  _Geo-location Information._ If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
+  4.  _Information Collected By and From Social Media Services and Other Third Party Platforms._ You also can engage with our content, such as video, games, applications, and other offerings, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications. When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or “likes.” For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
 
 
 
 When we interact with you through our content on third party websites, applications, integrations or platforms, we may obtain any information regarding your interaction with that content, such as content you have viewed, your game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on.
 
-  1. **How We Use the Information**
+  1.  **How We Use the Information**
 
 
 
@@ -56,7 +56,7 @@ Sometimes, we may associate cookies with the Information, including de-identifie
 
 We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our Terms of Use for details on our use of content you submit.
 
-**III. Information Sharing and Disclosure**
+ **III. Information Sharing and Disclosure**
 
 We may disclose the Information as follows:
 
@@ -71,7 +71,7 @@ We may disclose the Information as follows:
 
 Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties’ use of this information, which is subject to their own privacy policies.
 
-  1. **Cookies and Other User and Ad-Targeting Technologies.**
+  1.  **Cookies and Other User and Ad-Targeting Technologies.**
 
 
 
@@ -104,7 +104,7 @@ By visiting the Service, whether as a registered user or otherwise, you acknowle
 
 Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies.
 
-  1. **Your Ad Choices**
+  1.  **Your Ad Choices**
 
 
 
@@ -118,7 +118,7 @@ The tools provided on the Ad Choices page, as well as the [DAA opt-out page](ht
 
 When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator.
 
-  1. **Other Important Information About Your Privacy**
+  1.  **Other Important Information About Your Privacy**
   2. How We Respond to Do Not Track Signals
 
 
