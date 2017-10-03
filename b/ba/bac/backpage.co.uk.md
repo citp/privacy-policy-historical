@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpage.co.uk privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521142213id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.co.uk privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003021214id_/https%3A//my.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # backpage.com
 
@@ -65,7 +65,7 @@ California law permits residents of California to request certain details about 
 
 **Contact Us:**
 
-Email: [Contact us](http://posting.www.backpage.com/classifieds/Contact)   
+Email: [Contact us](https://my.backpage.com/classifieds/Contact)   
 Telephone: +44 1929290057  
 
 
