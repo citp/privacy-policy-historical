@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045422id_/https%3A//www.viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004011156id_/https%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
-# Viki
+# Rakuten Viki
 
 Welcome to Viki.com (the Site), provided by Viki, Inc., and its affiliates, subsidiaries, parent company and other related companies (Us, We, or Viki). This Viki.com Privacy Policy (Policy) describes the information we gather from you when you use the Site and mobile applications (Services), how we use and process that information. We may add to this Policy with other notices. We may also post additional privacy statements for some portions of the Services. By submitting personal information through our Services, you expressly consent to the transfer of your personal data to our servers in the U.S., Singapore, France, and other countries for our collection, use, and disclosure in accordance with this Privacy Policy.
 
@@ -26,7 +26,7 @@ Others, including third party analytics service providers and advertising partne
 
 Third party analytics services may use cookies and web beacons through our Site (for example Google Analytics for Display Advertisers) and platform device identifiers and software agents on and through our mobile Services (for example Flurry) to provide us with information about how you use and interact with our Site.
 
-We use local shared objects, also known as "Flash cookies," to store your preferences or to display content based upon what you view on our websites to personalize your visit. Third parties may also provide certain features on our websites, collect information about your Web browsing activities, and display advertising based upon your Web browsing activity using Flash cookies to collect and store information. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. To learn about privacy and storage settings for Flash cookies click here: [%{macromedia_link}](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118) (or in the EU [%{youronlinechoices_link}](http://www.youronlinechoices.com/)).
+We use local shared objects, also known as "Flash cookies," to store your preferences or to display content based upon what you view on our websites to personalize your visit. Third parties may also provide certain features on our websites, collect information about your Web browsing activities, and display advertising based upon your Web browsing activity using Flash cookies to collect and store information. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. To learn about privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118> (or in the EU <http://www.youronlinechoices.com/>).
 
 ### Sharing Of Your Information
 
@@ -81,7 +81,7 @@ Viki takes commercially reasonable steps to help protect your Information agains
 
 ### Dispute Resolution
 
-If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail at [compliance@viki.com](https://web.archive.org/web/20161229045422id_/https%3A//www.viki.com/compliance@viki.com "compliance@viki.com"). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the dispute exclusively under the rules of the American Arbitration Association ([http://www.adr.org](http://www.adr.org/)).
+If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail at [compliance@viki.com](https://web.archive.org/web/20171004011156id_/https%3A//www.viki.com/compliance@viki.com "compliance@viki.com"). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the dispute exclusively under the rules of the American Arbitration Association ([http://www.adr.org](http://www.adr.org/)).
 
 ### Information Choices
 
@@ -97,4 +97,4 @@ From time to time, we may revise the Privacy Policy. To help you stay current of
 
 ### Viki Contact Information
 
-Please contact Viki with any questions or comments about this Privacy Policy, your Information, our third-party disclosure practices, or your consent choices via [compliance@viki.com](mailto:compliance@viki.com "%{compliance_email}"). You can also request access to or that we correct or delete your personal information at any time by emailing [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com").
+Please contact Viki with any questions or comments about this Privacy Policy, your Information, our third-party disclosure practices, or your consent choices via [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). You can also request access to or that we correct or delete your personal information at any time by emailing [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com").
