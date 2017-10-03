@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210121118id_/https%3A//garfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003063532id_/https%3A//garfield.com/privacy-policy) for the most accurate reproduction.*
 
 # Garfield | Privacy Policy
 
@@ -100,14 +100,9 @@ Email: [webmaster@pawsinc.com](mailto:webmaster@pawsinc.com)
 
 #### 6\. Information collected by third parties on our website.
 
-The ads appearing on this site are delivered to you by the third party advertising networks listed below. In the process of serving ads, these networks may place a cookie in your browser's cookie file and may use information (excluding your name, address, e-mail address or other personal information) about your visits to this website, and to identify you as a return visitor, for the internal operations of the advertising network.
+If you have identified yourself as a “Grownup” in a visit to the Site, the ads appearing on the Site will be delivered by third party advertising networks. In the process of serving the ads, these networks may place a cookie in your browser's cookie file and may use information (excluding your name, address, e-mail address or other personal information) about your visits to this website, and to identify you as a return visitor, for the internal operations of the advertising network. 
 
-You have the opportunity to opt-out of receiving cookies from third party advertising networks by visiting the Network Advertising Initiatives cookie opt-out page, http://networkadvertising.org/choices, or at the following site: http://www.youronlinechoices.com/opt-out-interface. To learn more about online and mobile advertising, visit www.aboutads.info/consumers.
-
-Third party advertising networks on our website:
-
-**Google Adsense**  
-www.google.com/adsense 
+You have the opportunity to opt-out of receiving cookies from third party advertising networks by visiting the Network Advertising Initiatives cookie opt-out page, <http://networkadvertising.org/choices>, or at the following site: <http://www.youronlinechoices.com/opt-out-interface>. To learn more about online and mobile advertising, visit [www.aboutads.info/consumers](http://www.aboutads.info/consumers). 
 
 #### 7\. Links to Other Sites.
 
