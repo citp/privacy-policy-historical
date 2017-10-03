@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrmovietimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192759id_/https%3A//movietimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrmovietimes.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003030832id_/https%3A//movietimes.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 This privacy policy was last modified on May 2, 2016.
 
