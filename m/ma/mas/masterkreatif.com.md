@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102073451id_/https%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004003754id_/https%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | MASTERkreatif
 
-HERE IS THE PRIVACY & POLICY STATEMENT FOR [MASTERkreatif](http://www.masterkreatif.com/) or [masterkreatif.com](http://www.masterkreatif.com/) or [http://masterkreatif.com](http://masterkreatif.com/) or [http://www.masterkreatif.com](http://www.masterkreatif.com/)
+HERE IS THE PRIVACY & POLICY STATEMENT FOR [MASTERkreatif](https://www.masterkreatif.com/) or [masterkreatif.com](https://www.masterkreatif.com/) or [https://masterkreatif.com](https://masterkreatif.com/) or [https://www.masterkreatif.com](https://www.masterkreatif.com/)
 
-PLEASE READ THE FOLLOWING STATEMENTS CAREFULLY. IF YOU HAVE ANY QUESTIONS PLEASE ASK US [[HERE](http://www.masterkreatif.com/contact-us)].
+PLEASE READ THE FOLLOWING STATEMENTS CAREFULLY. IF YOU HAVE ANY QUESTIONS PLEASE ASK US [[HERE](https://www.masterkreatif.com/contact-us)].
 
 **EMAIL ADDRESS**
 
-You can choose to add your email address to our contact list via the forms on our site. We agree that there will never share your email address with third parties and will remove your email at your request. Currently we do not send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us [[HERE](http://www.masterkreatif.com/contact-us)].
+You can choose to add your email address to our contact list via the forms on our site. We agree that there will never share your email address with third parties and will remove your email at your request. Currently we do not send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us [[HERE](https://www.masterkreatif.com/contact-us)].
 
 **COMMENTS OR MESSAGE BOARDS**
 
@@ -36,4 +36,4 @@ The Privacy and Policy Statement for masterkreatif.com may change without prior 
 
 **CONTACT INFORMATION**
 
-If you have any questions regarding the privacy policy of masterkreatif.com, Information, Share, please contact us [[HERE](http://www.masterkreatif.com/contact-us)].
+If you have any questions regarding the privacy policy of masterkreatif.com, Information, Share, please contact us [[HERE](https://www.masterkreatif.com/contact-us)].
