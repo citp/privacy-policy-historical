@@ -1,29 +1,56 @@
-> *The following text is extracted and transformed from the opportunitiesforafricans.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230160907id_/http%3A//www.opportunitiesforafricans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunitiesforafricans.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003034647id_/http%3A//www.opportunitiesforafricans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OpportunitiesForAfricans.com
+# Privacy Policy | Opportunities For Africans
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [opportunitiesforafricans@gmail.com](mailto:opportunitiesforafricans@gmail.com "Opportunities For Africans").
+This Privacy Policy sets out the policy for use of this website [www.opportunitiesforafricans.com](http://www.opportunitiesforafricans.com/) (OFA). We respect the privacy rights of users of this website and recognise the importance of protecting your personal information.
 
-At www.opportunitiesforafricans.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.opportunitiesforafricans.com](http://www.opportunitiesforafricans.com/ "Opportunities For Africans") and how it is used.
+OFA is a site which helps to spread opportunities for the convenience of Africans and this is done based on available information at the time of publication. OFA will use its best endeavors to publish accurate information on accessible opportunities, however we shall not be liable for any unintended or inaccurate information. It is recommended that visitors to OFA visit the site of the opportunity provider.
 
-**Log Files**  
-Like many other Web sites, [www.opportunitiesforafricans.com](http://www.opportunitiesforafricans.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+The opportunities on OFA are shared solely for the purpose of disseminating information to the public and shall not be associated with any other purposes.
 
-**Cookies and Web Beacons**  
-www.opportunitiesforafricans.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+OFA is committed to safeguarding the privacy of your information at all times. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.opportunitiesforafricans.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.opportunitiesforafricans.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+**What information do we collect**?
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google
+We collect information from you when you register on our mailing list. When registering on the website, you may be asked to enter details which include your name and e-mail address.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.opportunitiesforafricans.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**What do we use your information for?**
 
-www.opportunitiesforafricans.com has no access to or control over these cookies that are used by third-party advertisers.
+We may use the information we collect from you in any of the following ways:
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.opportunitiesforafricans.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  * to prevent potentially prohibited or illegal activities and enforce our Terms of Use; and
+  * to send periodic emails regarding the available opportunities on OFA.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+
+**How do we protect your information?**
+
+At OFA, we implement a variety of reasonable security measures to protect the security and integrity of your personal information.
+
+We use computer safeguard such as firewalls and data encryption, and files and only authorise access to personal information to only employees who require it to fulfill their job responsibilities or our affiliates as may be required for the smooth running of the website.
+
+However, as the internet is not a fully secured medium, and we cannot guarantee that security breaches will not occur accordingly we are not responsible for the matters, which include actions of hackers and other unauthorized third parties that breach our reasonable security procedure.
+
+**Do we disclose any information to outside parties?**
+
+We do not share your personally identifiable information with unauthorized third parties. This does not include trusted third parties who assist us in operating the website, conducting our business as long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce the website policies, or protect ours or others rights, property, or safety.
+
+### Third Party Links
+
+Usually, our website contains links to websites owned and operated by third parties, these third party sites have separate and independent privacy policies and we urge you to review them – because this Privacy Policy will not apply. We therefore have no responsibility or liability for the content, activities and privacy practices of such third party websites.
+
+**Cookies and Web Beacons**
+
+This blog does not use cookies. However, some of our business partners, for example, advertisers may use cookies and web beacons when they advertise on OFA, which will also send these advertisers (such as Google AdSense) information including your IP address, your ISP, the browser you used to visit our site, and in some cases whether you have flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+
+**Your Consent**
+
+By submitting any personal information to us, you consent to the use of your personal information as set out in this Privacy Policy.
+
+**Changes to our Privacy Policy** ** **
+
+We reserve the right to amend or modify this Privacy Policy and if we do, we will post the changes on this page. It is your responsibility to check the Privacy Policy every time you submit information to us. Your use will signify that you agree to any such changes.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us [info@opportunitiesforafricans.com](mailto:info@opportunitiesforafricans.com) or[ opportunitiesforafricans.com@gmail.com](mailto:opportunitiesforafricans.com@gmail.com)
