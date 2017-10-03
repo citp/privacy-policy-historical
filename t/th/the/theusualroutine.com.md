@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theusualroutine.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502014923id_/http%3A//theusualroutine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theusualroutine.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003203023id_/https%3A//theusualroutine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
