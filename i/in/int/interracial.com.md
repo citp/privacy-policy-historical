@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracial.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531005123id_/http%3A//interracial.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracial.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003175831id_/http%3A//interracial.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Interracial.com
 
