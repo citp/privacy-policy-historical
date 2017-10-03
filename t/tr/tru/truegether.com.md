@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truegether.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054051id_/http%3A//www.truegether.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truegether.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003182442id_/https%3A//www.truegether.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # TrueGether: Privacy Policy
 
