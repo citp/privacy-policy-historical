@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032438id_/http%3A//www.powerhouse-fitness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003160315id_/https%3A//www.powerhouse-fitness.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Powerhouse Fitness
+# Privacy Policy
 
-Last modified: May 12, 2012 
+Last modified: May 12, 2012
 
 This Privacy Policy applies to all of the products, services and websites offered by Powerhouse Fitness or its subsidiaries or affiliated companies). 
 
@@ -18,7 +18,7 @@ Affiliated Powerhouse Fitness services on other sites – We offer some of our s
 
 Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
 
-Protect the rights or property of Powerhouse Fitness or our users. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+Protect the rights or property of Powerhouse Fitness or our users. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
 
 Google processes personal information on our servers in the UK and in other countries. In some cases, we process personal information outside your own country.
 
