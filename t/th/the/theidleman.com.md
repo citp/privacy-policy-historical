@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theidleman.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103223id_/http%3A//theidleman.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidleman.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003130353id_/https%3A//theidleman.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy at The Idle Man
 
 Idle Projects Ltd (" **we/us/our** ") is committed to protecting and respecting your privacy. Our registered office is at 88-94 Wentworth Street, London E1 7SA and our company number is 08484139.
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, in relation our website at [www.theidleman.com](http://www.theidleman.com/)  (“ **Site** ”) will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, in relation our website at [theidleman.com](http://theidleman.com/)  (“ **Site** ”) will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 We are the data controller for the purpose of the Data Protection Act 1998.
 
@@ -70,13 +70,13 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Idle Projects Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers and/or held on behalf of its customers may be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms and conditions of supply](http://theidleman.com/help-terms) or other agreements; or to protect the rights, property, or safety of Idle Projects Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms and conditions of supply](https://theidleman.com/help-terms) or other agreements; or to protect the rights, property, or safety of Idle Projects Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your personal data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@theidleman.com](mailto:info@theidleman.com)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your personal data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by [contacting us](https://theidleman.com/faq#faqTab8).
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -90,4 +90,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@theidleman.com](mailto:info@theidleman.com)
+Questions, comments and requests regarding this privacy policy are [welcomed](https://theidleman.com/faq#faqTab8).
