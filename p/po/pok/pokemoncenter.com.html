@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pokemoncenter.com privacy policy that was archived on 2017-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129045400id_/https%3A//www.pokemoncenter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pokemoncenter.com privacy policy that was archived on 2017-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171003113108id_/https%3A//www.pokemoncenter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en"><head>
 	
@@ -25,18 +25,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 function gtmProductClick(id, name, listType) {
 	require(["dojox/html/entities"], function(entities) {
-  		dataLayer.push({ 'event': 'product_click', 'ecommerce': { 'click': { 'actionField': {'list': listType}, 'products': [{ 'name': entities.decode(name), 'id': id }] } } });
+  		dataLayer.push({ "event": "product_click", "ecommerce": { "click": { "actionField": {"list": listType}, "products": [{ "name": entities.decode(name), "id": id }] } } });
   	});
+  	return true;
 }
 function gtmAddToCart(id,name,price,qty) {
 	require(["dojox/html/entities"], function(entities) {
-		dataLayer.push({ 'event': 'add_to_cart', 'ecommerce': { 'currencyCode': 'USD', 'add': { 'products': [{ 'name': entities.decode(name), 'id': id, 'price': price, 'quantity': qty }] } } });
-  	});	
+		dataLayer.push({ "event": "add_to_cart", "ecommerce": { "currencyCode": "USD", "add": { "products": [{ "name": entities.decode(name), "id": id, "price": price, "quantity": qty }] } } });
+  	});
+  	return true;
 }
 function gtmRemoveFromCart(id,name,price,qty) {
 	require(["dojox/html/entities"], function(entities) {
-		dataLayer.push({ 'event': 'remove_from_cart', 'ecommerce': { 'remove': { 'products': [{ 'name': entities.decode(name), 'id': id, 'price': price, 'quantity': qty }] } }	});
+		dataLayer.push({ "event": "remove_from_cart", "ecommerce": { "remove": { "products": [{ "name": entities.decode(name), "id": id, "price": price, "quantity": qty }] } }	});
 	});
+	return true;
 }
 </script>
 	<script>var GoogleAnalyticsEnabled = false;</script>
@@ -86,7 +89,7 @@ function gtmRemoveFromCart(id,name,price,qty) {
 	var storeNLS = null;
 	var storeUserType = "G";
 	var ios = false;
-	var android = false;
+	var android = true;
 	var multiSessionEnabled = false;
 	
 	// Store the amount of time of inactivity before a re-login is required, this value is retrieved from wc-server.xml, default is 30 mins
@@ -152,7 +155,7 @@ function gtmRemoveFromCart(id,name,price,qty) {
 <script type="text/javascript" src="/wcsstore/AuroraStorefrontAssetStore/javascript/responsiveTables/jquery-1.7.min.js"></script>
 
 
-	<script type="text/javascript" src="/wcsstore/AuroraStorefrontAssetStore/javascript/wc.common.min.js?v=01.20.2017.0130"></script>
+	<script type="text/javascript" src="/wcsstore/AuroraStorefrontAssetStore/javascript/wc.common.min.js?v=09.29.2017.0145"></script>
 
 
 <script>
@@ -217,6 +220,9 @@ function gtmRemoveFromCart(id,name,price,qty) {
 			$('html, body').animate({scrollTop : 0},800);
 			return false;
 		});
+		
+		// Activate responsive image maps
+		$('img[usemap]').rwdImageMaps();
 	});
 </script>
 
@@ -225,6 +231,11 @@ function gtmRemoveFromCart(id,name,price,qty) {
 		$("img").unveil();
 	});
 </script>		
+
+
+
+
+<script async="" type="text/javascript" id="sig-api" data-order-session-id="-1002" src="https://cdn-scripts.signifyd.com/api/script-tag.js"></script>
 <!-- END CommonJSToInclude.jspf -->
 	
 	<script type="text/javascript">
@@ -480,7 +491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	};
 </script>
 
-<script src="/wcsstore/AuroraStorefrontAssetStore/javascript/Widgets/header.js?v=01.20.2017.0130"></script>
+<script src="/wcsstore/AuroraStorefrontAssetStore/javascript/Widgets/header.js?v=09.29.2017.0145"></script>
 
 
 
@@ -522,7 +533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 				<li>				
 				<!-- BEGIN GlobalLogin.jsp --><!-- BEGIN GlobalLogin_Data.jspf --><!-- END GlobalLogin_Data.jspf -->
-	<script type="text/javascript" src="/wcsstore/AuroraStorefrontAssetStore/javascript/wc.globallogin.min.js?v=01.20.2017.0130"></script>
+	<script type="text/javascript" src="/wcsstore/AuroraStorefrontAssetStore/javascript/wc.globallogin.min.js?v=09.29.2017.0145"></script>
 		
 <script type="text/javascript">
 	dojo.addOnLoad(function() {
@@ -683,7 +694,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		</li></ul>
 	</div>
-
+	
 	<div id="headerRow2">
 		<a id="departmentsButton" href="#" class="basicButton" role="button" aria-haspopup="true" data-toggle="departmentsMenu">
 			<span>Categories</span>
@@ -729,12 +740,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</li><li class="hidden">
 			<a id="departmentButton_3074457345616681695" href="#" class="departmentButton" role="menuitem" aria-haspopup="true" data-toggle="departmentMenu_3074457345616681695">
-				<span>HOME &amp; DÉCOR</span>
+				<span>HOME &amp; OFFICE</span>
 				<div class="arrow_button_icon"></div>	
 			</a>
-			<div id="departmentMenu_3074457345616681695" class="departmentMenu" data-parent="departmentsMenu" data-id="3074457345616681695" aria-label="HOME &amp; DÉCOR">
+			<div id="departmentMenu_3074457345616681695" class="departmentMenu" data-parent="departmentsMenu" data-id="3074457345616681695" aria-label="HOME &amp; OFFICE">
 				<div class="header">
-					<a id="departmentLink_3074457345616681695" href="https://www.pokemoncenter.com/home---d%C3%A9cor" class="link menuLink" role="menuitem" tabindex="-1">HOME &amp; DÉCOR</a>
+					<a id="departmentLink_3074457345616681695" href="https://www.pokemoncenter.com/home---office" class="link menuLink" role="menuitem" tabindex="-1">HOME &amp; OFFICE</a>
 					<a id="departmentToggle_3074457345616681695" href="#" class="toggle" role="button" data-toggle="departmentMenu_3074457345616681695" aria-labelledby="departmentLink_3074457345616681695"><span role="presentation"></span></a>
 				</div>
 				
@@ -751,18 +762,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				
 			</div>
-		</li><li class="hidden">
-			<a id="departmentButton_3074457345616682669" href="#" class="departmentButton" role="menuitem" aria-haspopup="true" data-toggle="departmentMenu_3074457345616682669">
-				<span>COLLECTIONS</span>
-				<div class="arrow_button_icon"></div>	
-			</a>
-			<div id="departmentMenu_3074457345616682669" class="departmentMenu" data-parent="departmentsMenu" data-id="3074457345616682669" aria-label="COLLECTIONS">
-				<div class="header">
-					<a id="departmentLink_3074457345616682669" href="https://www.pokemoncenter.com/collections-s0107-0000-0000" class="link menuLink" role="menuitem" tabindex="-1">COLLECTIONS</a>
-					<a id="departmentToggle_3074457345616682669" href="#" class="toggle" role="button" data-toggle="departmentMenu_3074457345616682669" aria-labelledby="departmentLink_3074457345616682669"><span role="presentation"></span></a>
-				</div>
-				
-			</div>
 		</li><li class="active">
 			<a id="allDepartmentsButton" href="#" class="departmentButton" role="button" aria-haspopup="true" data-toggle="allDepartmentsMenu">
 				<span>All Categories</span>
@@ -775,11 +774,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</li><li>
 				<a id="departmentLink_3074457345616681730_alt" href="https://www.pokemoncenter.com/trading-card-game" class="menuLink" role="menuitem" tabindex="-1">TRADING CARD GAME</a>
 			</li><li>
-				<a id="departmentLink_3074457345616681695_alt" href="https://www.pokemoncenter.com/home---d%C3%A9cor" class="menuLink" role="menuitem" tabindex="-1">HOME &amp; DÉCOR</a>
+				<a id="departmentLink_3074457345616681695_alt" href="https://www.pokemoncenter.com/home---office" class="menuLink" role="menuitem" tabindex="-1">HOME &amp; OFFICE</a>
 			</li><li>
 				<a id="departmentLink_3074457345616681743_alt" href="https://www.pokemoncenter.com/video-game" class="menuLink" role="menuitem" tabindex="-1">VIDEO GAME</a>
-			</li><li>
-				<a id="departmentLink_3074457345616682669_alt" href="https://www.pokemoncenter.com/collections-s0107-0000-0000" class="menuLink" role="menuitem" tabindex="-1">COLLECTIONS</a>
 			</li></ul>
 		</li></ul></div><!-- BEGIN Search.jsp -->
 
@@ -850,7 +847,7 @@ var staticContentHeaders = [];
 				
 					<li><a href="#" data-value="3074457345616681730" class="menuLink" tabindex="-1">TRADING CARD GAME</a></li>
 				
-					<li><a href="#" data-value="3074457345616681695" class="menuLink" tabindex="-1">HOME &amp; DÉCOR</a></li>
+					<li><a href="#" data-value="3074457345616681695" class="menuLink" tabindex="-1">HOME &amp; OFFICE</a></li>
 				
 					<li><a href="#" data-value="3074457345616681743" class="menuLink" tabindex="-1">VIDEO GAME</a></li>
 				
@@ -863,6 +860,7 @@ var staticContentHeaders = [];
 </div>
 <!-- End Search Widget --><!-- END Search.jsp -->
 	</div>
+	
 </div>
 
 <script>
