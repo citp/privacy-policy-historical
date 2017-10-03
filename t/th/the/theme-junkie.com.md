@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202925id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003223051id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Junkie
 
