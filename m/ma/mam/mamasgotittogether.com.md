@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324143257id_/https%3A//www.planninginspired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003094224id_/https%3A//www.planninginspired.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Planning Inspired
+# Privacy Policy -
 
 This Privacy Policy governs the manner in which Mama’s Got It Together collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.planninginspired.com](https://www.planninginspired.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mama’s Got It Together.
 
