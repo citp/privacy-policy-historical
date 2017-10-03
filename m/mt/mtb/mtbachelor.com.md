@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtbachelor.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622185815id_/https%3A//www.mtbachelor.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtbachelor.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003133704id_/http%3A//www.mtbachelor.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
