@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurehosting.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131135227id_/https%3A//www.futurehosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurehosting.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003212454id_/https%3A//www.futurehosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Future Hosting Privacy Policy
 
