@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coursereport.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228075209id_/https%3A//www.coursereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursereport.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003225634id_/https%3A//www.coursereport.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Course Report
+# Privacy Policy
 
 ## CourseReport Privacy Policy
 
