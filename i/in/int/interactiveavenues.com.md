@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactiveavenues.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604061905id_/http%3A//interactiveavenues.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactiveavenues.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003185624id_/http%3A//interactiveavenues.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Online Marketing Company - Digital Media, SEO, SEM, SMO Agency in India - Interactive Avenues
 
