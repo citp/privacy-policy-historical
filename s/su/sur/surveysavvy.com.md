@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404150634id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003043026id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
 
 # Privacy Policy | SurveySavvy
 
@@ -24,7 +24,7 @@ HTTP cookies, IP addresses, browser user agent information, HTML cookies and/or 
 
 ### SavvyConnect and Web Behavioral Data
 
-The SavvyConnect application tracks web behaviors and browsing activities. This information is only used in aggregate form, and being kept in strict confidentiality. Our respondents' privacy and data security is our first priority. We enforce best in class security technology and practices to ensure rigorous data protection.
+The SavvyConnect application tracks web behaviors and browsing activities. This information is kept in strict confidentiality. Our respondents' privacy and data security is our first priority and we enforce best in class security technology and practices to ensure rigorous data protection. We use the information we collect through the software to identify online trends and we share this information with our customers and partners.
 
 ### Social Networks and Social Media
 
