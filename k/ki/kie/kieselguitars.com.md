@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144216id_/http%3A//www.kieselguitars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003223857id_/https%3A//www.kieselguitars.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KieselGuitars.com
 
   
-At Carvin Guitars & Kiesel Guitars, we care about your online privacy and security.  This Privacy Policy applies to KieselGuitars.com, as well subordinate Kiesel online entities, including (but not limited to):
+At Kiesel Guitars, we care about your online privacy and security.  This Privacy Policy applies to KieselGuitars.com, as well subordinate Kiesel online entities, including (but not limited to):
 
   * KieselGuitars.com
 
@@ -18,11 +18,15 @@ At Carvin Guitars & Kiesel Guitars, we care about your online privacy and securi
 
   * We will never sell, trade, lease or otherwise disclose your personal information.
 
-  * We will take all steps and methods to protect your personal information, including name, address, email address and credit card information.
 
 
 
+  * We will take all steps and methods to protect your personal information, including name, address, email address and credit card information. The entire KieselGuitars.com site runs under secure HTTPS protocol to help insure your privacy, and the site is fully PCI compliant. You may click the Thawte logo on the right to verify the security of this site.
 
+
+|   
+---|---  
+  
 **_Our complete Privacy Policy:_**
 
 Our postal address is:
@@ -94,4 +98,4 @@ This web site contains links to other sites. We are not responsible for the cont
 
 Every effort is made to ensure the accuracy of product descriptions, pricing, and other information on KieselGuitars.com, and we are constantly checking and verifying all data presented here.  However, Kiesel Guitars cannot be held responsible for legitimate typographic errors, misprints, mispricing, or coding errors carried out by our programmers and/or other online technical staff.  If you spot something on KieselGuitars.com you think is in error, please contact the [ webmaster](mailto:webmaster@kieselguitars.com?subject=Possible%20Error%20on%20KieselGuitars.com).
 
-All content, code, photographs and other graphics, manuals and descriptions are copyright © 1996 - 2015, unless otherwise noted.  All rights reserved.  No portion of KieselGuitars.com or it's subordinate sites may be used, reprinted, copied or sold without explicit written permission from Carvin Guitars / Kiesel Guitars.  Product photography many not, under any circumstances, be used on third party sites such as eBay™ for the purposes of selling used Kiesel Guitars products without the express written consent of Carvin Guitasr / Kiesel Guitars.
+All content, code, photographs and other graphics, manuals and descriptions are copyright © 1996 - 2017, unless otherwise noted.  All rights reserved.  No portion of KieselGuitars.com or it's subordinate sites may be used, reprinted, copied or sold without explicit written permission from Carvin Guitars / Kiesel Guitars.  Product photography many not, under any circumstances, be used on third party sites such as eBay™ for the purposes of selling used Kiesel Guitars products without the express written consent of Carvin Guitars / Kiesel Guitars.
