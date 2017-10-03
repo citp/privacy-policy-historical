@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stahls.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012043430id_/https%3A//www.stahls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stahls.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003202650id_/https%3A//www.stahls.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Stahls'
 
