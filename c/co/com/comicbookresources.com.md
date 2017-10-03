@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153434id_/http%3A//www.cbr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003094951id_/http%3A//www.cbr.com/privacy-policy) for the most accurate reproduction.*
 
 # 2017 Movies
 
@@ -30,4 +30,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:legal@valnetinc.com).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact/).
