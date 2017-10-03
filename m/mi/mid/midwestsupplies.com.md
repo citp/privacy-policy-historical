@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestsupplies.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217052418id_/https%3A//www.midwestsupplies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestsupplies.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003142423id_/https%3A//www.midwestsupplies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Midwest Supplies
 
@@ -20,6 +20,8 @@ Examples of the information we collect and analyze include the Internet protocol
 
 _E-mail Communications._ If you do not want to receive e-mail or other mail from us, please contact us to adjust your customer communication preferences.
 
+This website uses social media plugins. Even without being a user of these social media sites, your IP-address is transmitted to the servers of the social media company.
+
 _Information from Other Sources._ We might receive information about you from other sources and add it to our account information.
 
 Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily.
@@ -28,9 +30,9 @@ Examples of information we receive from other sources include updated delivery a
 
 Information about our customers is an important part of our business, and we do not sell it to others. We share customer information only as described below and with parent companies that control us and subsidiaries we control that either are subject to this privacy notice or follow practices at least as protective as those described in this privacy notice.
 
-_Third-Party Service Providers_. We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+_Third-Party Service Providers_. We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail (catalogs, postcards, gift cards, etc) and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-_Business Transfers._ As we continue to develop our business, we might sell or buy stores, subsidiaries, business units or the entire business. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Midwest Supplies or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+_Business Transfers._ As we continue to develop our business, we might sell or buy stores, subsidiaries, business units or the entire business. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Midwest Supplies or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. Please be aware that we may transfer your personal information to the [European Union] or to another country where privacy standards may not be equivalent to those in your country.
 
 _Protection of Midwest Supplies and Others._ We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Midwest Supplies, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
@@ -57,3 +59,17 @@ The help feature on most browsers will tell you how to prevent your browser from
 **Conditions of Use, Notices, and Revisions**
 
 If you choose to visit midwestsupplies.com or interact with Midwest Supplies in any other way, your visit and interaction and any dispute over privacy is subject to this notice and our conditions of use, including limitations on damages, resolution of disputes, and application of the law of the State of Minnesota. If you have any concern about privacy at Midwest Supplies, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our privacy notice and the conditions of use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our web site frequently to see recent changes. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.
+
+**DIGITAL MILLENNIUM COPYRIGHT ACT**  
+Midwest Supplies is committed to respecting and protecting the legal rights of copyright owners. As such, Midwest Supplies adheres to the following notice and take down policy, in full compliance with Section 512(c)(3) of the DMCA (17 U.S.C. § 512 et seq.). If you believe any of the Content infringes upon your intellectual property rights, please submit a notification alleging such infringement (hereafter a “DMCA Takedown Notice”). To be valid, a DMCA Takedown Notice must (i) be provided to Midwest Supplies’s designated agent, (“Copyright Agent”), as set forth below, and (ii) include the following:
+
+  * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+  * Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
+  * Identification of the material claimed to be infringing or to be the subject of infringing activity and that is to be removed or access disabled and information reasonably sufficient to permit the service provider to locate the material;
+  * Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+  * A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  * A statement that, under penalty of perjury, the information in the notification is accurate and you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed.
+
+
+
+Midwest Supplies’s Copyright Agent to receive DMCA Takedown Notices is: email: service@midwestsupplies.com. For clarity, only DMCA Takedown Notices should go to the Copyright Agent; any other feedback, comments, online purchases or other communications should be directed to the applicable customer service links posted on the Website. You acknowledge that in order for Midwest Supplies to be authorized to takedown any Content, your DMCA Takedown Notice must comply with all of the requirements of this Section.
