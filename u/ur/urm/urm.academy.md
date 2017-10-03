@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urm.academy privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615160444id_/https%3A//urm.academy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urm.academy privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003065648id_/https%3A//urm.academy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unstoppable Recording Machine
 
