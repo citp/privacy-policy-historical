@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcomplaints.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071119id_/http%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcomplaints.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003125536id_/https%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | CarComplaints.com
 
