@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunner.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629140454id_/http%3A//www.twcc.com/privacy/web_privacy_policy_bhn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunner.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003231101id_/http%3A//www.twcc.com/privacy/web_privacy_policy_bhn) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
