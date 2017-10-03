@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singularlabs.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509131853id_/https%3A//singularlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularlabs.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003093546id_/https%3A//singularlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SingularLabs
 
@@ -10,11 +10,11 @@ SingularLabs will never share any personal information with third parties. Infor
 
 ### Contact Information
 
-If you provide us with your email address (through our contact form or support forum), we will not send you spam or promotional material. Period. 
+If you provide us with your email address (through our contact form or support forum), we will not send you spam or promotional material. Period.
 
 ### Cookies:
 
-Like many web sites, SingularLabs uses cookies to enhance your user experience (to remember your personal settings, for instance). Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. 
+Like many web sites, SingularLabs uses cookies to enhance your user experience (to remember your personal settings, for instance). Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement.
 
 ### Advertising:
 
@@ -34,7 +34,7 @@ SingularLabs primarily utilizes the Google Analytics web service to monitor usag
 
 Server-side analytics containing non-identifiable information, such as IP address, country, browser, operating system and the resources you accessed while browsing our website are collected by SingularLabs. This information is not  accessible or distributed to the public, but rather is used to monitor usage patterns and look for errors, security exploits and activity of our server(s).
 
-[CloudFlare Inc](http://cloudflare.com/) provides SingularLabs with usage statistics and analytics to assist in locating website bottlenecks and security issues. CloudFlare may monitor your browsing behaviour to protect its users from dangerous web traffic. 
+[CloudFlare Inc](http://cloudflare.com/) provides SingularLabs with usage statistics and analytics to assist in locating website bottlenecks and security issues. CloudFlare may monitor your browsing behaviour to protect its users from dangerous web traffic.
 
 ### Desktop Applications Privacy:
 
