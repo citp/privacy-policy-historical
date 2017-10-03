@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005155id_/http%3A//www.plazahotelcasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003051704id_/http%3A//www.plazahotelcasino.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Plaza Hotel and Casino
+# Privacy Policy | Plaza Hotel & Casino
 
 ## OUR COMMITMENT TO PRIVACY
 
