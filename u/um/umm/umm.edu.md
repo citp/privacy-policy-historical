@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umm.edu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043556id_/http%3A//umm.edu/patients/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umm.edu privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003183939id_/http%3A//www.umm.edu/patients/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | University of Maryland Medical Center
 
