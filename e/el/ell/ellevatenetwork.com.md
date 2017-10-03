@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305133852id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003095206id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellevate
 
