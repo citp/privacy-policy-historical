@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainforest-alliance.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611151317id_/http%3A//www.rainforest-alliance.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainforest-alliance.org privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003194225id_/https%3A//www.rainforest-alliance.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainforest Alliance
 
