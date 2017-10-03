@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyolapress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023624id_/http%3A//www.loyolapress.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyolapress.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003051413id_/https%3A//www.loyolapress.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
