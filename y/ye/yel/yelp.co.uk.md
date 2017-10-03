@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.co.uk privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021051744id_/https%3A//www.yelp.co.uk/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.co.uk privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003020305id_/https%3A//www.yelp.co.uk/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
@@ -90,9 +90,7 @@ If you believe that Yelp has not adhered to this Privacy Policy, you may contact
 
 Yelp Ireland Ltd.  
 Attn: Data Privacy Manager  
-Styne House  
-First Floor  
-Upper Hatch Street  
+70 Sir John Rogerson’s Quay  
 Dublin 2, Ireland 
 
 ## 9\. International Data Transfer
@@ -103,4 +101,4 @@ For users residing in the European Union, please note that the personal data inf
 
 We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our collection, use, and disclosure of information about you and will be located [here](https://web.archive.org/static?p=privacy). If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Service prior to the effective date of the changes. By continuing to access or use the Service after those changes become effective, you agree to the revised Privacy Policy.
 
-Copyright © 2004–2016 Yelp 
+Copyright © 2004–2017 Yelp 
