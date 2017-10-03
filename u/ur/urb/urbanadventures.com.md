@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140043id_/http%3A//www.urbanadventures.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003062253id_/http%3A//www.urbanadventures.com/privacy-statement) for the most accurate reproduction.*
 
 # Urban Adventures | Privacy Statement
 
@@ -166,7 +166,7 @@ You can contact our Privacy Officer by:
 
   * calling us on 1300 854 500 (toll free within Australia) or +61 3 8594 3903 (for calls made outside Australia)
   * emailing us at privacy@intrepidgroup.travel
-  * by post to Privacy Officer, Intrepid Group, Level 4, 380 Lonsdale Street, Melbourne, VIC, 3000
+  * by post to Privacy Officer, Intrepid Group, Level 7, 567 Collins Street, Melbourne, VIC, 3000
 
 
 
