@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecare.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119215252id_/http%3A//www.ecare.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecare.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003143955id_/http%3A//www.ecare.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
