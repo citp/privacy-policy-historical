@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kony.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184513id_/http%3A//www.kony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kony.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003120139id_/https%3A//www.kony.com/privacy-policy) for the most accurate reproduction.*
 
 # Kony Privacy Policy | Kony
 
@@ -30,7 +30,7 @@ The law often allows you to write and ask to see and correct the information hel
 
 Kony does not share, sell, rent, or trade personal data with third parties for their promotional purposes. We do not partner with or have special relationships with any ad server companies.
 
-Kony does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your personal data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this privacy policy. For a complete list of these third parties and the services they provide, [contact us](http://www.kony.com/contact).
+Kony does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your personal data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this privacy policy. For a complete list of these third parties and the services they provide, [contact us](https://www.kony.com/contact).
 
 If your employer subscribed for the service on your behalf, then we may pass certain information to your employer about your use of the service where your employer has a legitimate reason to receive it.
 
