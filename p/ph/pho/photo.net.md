@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200021id_/https%3A//www.photo.net/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003221847id_/https%3A//www.photo.net/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photo.net
 
