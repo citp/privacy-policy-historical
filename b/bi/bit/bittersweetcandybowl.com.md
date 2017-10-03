@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bittersweetcandybowl.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326105836id_/https%3A//www.bittersweetcandybowl.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittersweetcandybowl.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003025433id_/https%3A//www.bittersweetcandybowl.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Bittersweet Candy Bowl Privacy Policy
 
