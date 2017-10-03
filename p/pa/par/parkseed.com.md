@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100838id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003042830id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
 
 # Privacy Statement | Park Seed Co.
 
-[ ](http://parkseed.com/seeds/c/seeds/ "Buy 1-9 packs of seed get $2.99 Shipping on those seeds, buy 10+ packs of seed get free shipping on those seeds!")
+[ ](http://parkseed.com/seeds/c/seeds/ "$2.99 Shipping on Seed Packets")
 
 Park Seed asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Statement. 
 
