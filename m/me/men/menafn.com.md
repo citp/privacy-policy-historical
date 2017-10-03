@@ -1,9 +1,39 @@
-> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510145618id_/http%3A//www.menafn.com/mf_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003032455id_/http%3A//menafn.com/mf_privacy.aspx) for the most accurate reproduction.*
 
-# MENAFN - Middle East North Africa . Financial Network
+# 
 
-|  |   
+[](https://web.archive.org/index.aspx)
+
+Tuesday,  03 October 2017 03:24 GMT
+
+[](https://web.archive.org/index.aspx)
+
+## [Privacy & Security Policy](https://web.archive.org/mf_privacy.aspx)  
+  
 ---  
+  
+  1. **1\. Our basic pledge**
+  2. **2\. Necessary Disclosure**
+  3. **3\. Sharing of Information**
+  4. **4\. Contests**
+  5. **5\. Surveys**
+
+  
+**
+
+#### Additional Information:
+
+**  
+  
+  1. **1\. Application & Account Information**
+  2. **2\. E-mail Communications and Opting-out**
+  3. **3\. MENAFN Alliances and Promotions**
+  4. **4\. Browsers and Encryption**
+  5. **5\. Security Issues**
+  6. **6\. Cookies, GIFs and other Web Tools**
+
+  
+  
 Whether you are a brokerage customer, a visitor to our Site or a participant in one of our retail promotions, we understand the importance you place on the privacy and security of personal information that identifies you or your account information you disclose to us. 
 
 During your use of our Site and/or upon opening an account with us, we will collect various information about you, your browsing behaviors, what services you use and what links you click on ("Personal Information"). We use this information to provide you with new and better products and services.
@@ -62,14 +92,18 @@ The following is our policy regarding privacy of information gathered on this Si
 **Top of Policy**  
   
 **  
-Additional Information:**
 
-  1. **Application& Account Information**
-  2. **E-mail Communications and Opting-out**
-  3. **MENAFN Alliances and Promotions**
-  4. **Browsers and Encryption**
-  5. **Security Issues**
-  6. **Cookies, GIFs and other Web Tools**
+
+## Additional Information:
+
+**
+
+  1. **1\. Application& Account Information**
+  2. **2\. E-mail Communications and Opting-out**
+  3. **3\. MENAFN Alliances and Promotions**
+  4. **4\. Browsers and Encryption**
+  5. **5\. Security Issues**
+  6. **6\. Cookies, GIFs and other Web Tools**
 
   
   
@@ -136,4 +170,13 @@ Additional Information:**
 >> 
 >> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.  
   
-  
+## Newsletter
+
+Daily English 
+
+Daily Arabic 
+
+All 
+
+  
+
