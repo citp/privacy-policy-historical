@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelinkconverter.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627063045id_/http%3A//safelinkconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelinkconverter.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003073220id_/http%3A//safelinkconverter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
