@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181650id_/http%3A//www.whitepages.com/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003232519id_/http%3A//www.whitepages.com/data-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whitepages
 
@@ -80,7 +80,7 @@ Collection and use of data is subject to the privacy policies of the third party
 
 ### 5\. How do I stop the collection and use of my information by third parties?
 
-To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, [click here](https://www.optoutmobile.com/). To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). At this time, there is no industry solution to opt-out of receiving relevant mobile advertising, but to opt-out of tracking from Whitepages’s own mobile app marketing programs, go to our third party provider’s Web site by [clicking here](https://www.optoutmobile.com/). 
+To stop collection of information in connection with the use of our products and services, you will need to stop using them. To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ### 6\. What about interest-based advertising?
 
