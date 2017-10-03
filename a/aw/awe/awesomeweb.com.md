@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818004823id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003101427id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · AwesomeWeb
 
@@ -69,7 +69,7 @@ We may use information you voluntarily provide when visiting the AwesomeBlog to 
 
 ### Service Providers
 
-Information, including AwesomeWeb’s User Data and any Personally Identifiable Information contained therein, may be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the AwesomeWeb Service (e.g. credit card processing), or perform functions related to the administration of AwesomeWeb (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use AwesomeWeb’s User Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, AwesomeWeb is not responsible in the event that Personally Identifiable Information is disclosed at a result of a breach or security lapse by any such third party.
+Information, including AwesomeWeb’s User Data and any Personally Identifiable Information contained therein, may be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the AwesomeWeb Service (e.g. credit card processing and escrow banking service), or perform functions related to the administration of AwesomeWeb (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use AwesomeWeb’s User Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, AwesomeWeb is not responsible in the event that Personally Identifiable Information is disclosed as a result of a breach or security lapse by any such third party.
 
 ### Law Enforcement and Legal Process
 
