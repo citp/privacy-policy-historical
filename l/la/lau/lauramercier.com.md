@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauramercier.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628184749id_/http%3A//www.lauramercier.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauramercier.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003170816id_/http%3A//www.lauramercier.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy
 
