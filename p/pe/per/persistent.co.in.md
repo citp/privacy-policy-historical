@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508064307id_/https%3A//www.persistent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003064044id_/https%3A//www.persistent.com/privacy-policy) for the most accurate reproduction.*
 
 # Persistent’s Data Privacy Policy | Persistent Systems
 
