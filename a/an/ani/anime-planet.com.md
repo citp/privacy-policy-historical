@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082514id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003221712id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Anime-Planet
 
