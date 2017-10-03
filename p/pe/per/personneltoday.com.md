@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150441id_/http%3A//www.personneltoday.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003035714id_/http%3A//www.personneltoday.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and privacy policy | Personnel Today
 
 ## PRIVACY STATEMENT
 
-This website is owned and operated by [Reed Business Information Limited](http://www.reedbusiness.com/ "Reed Business Information Ltd").
+This website is owned and operated by [DVV Media International Ltd](http://www.dvvmedia.com/).
 
 Information we collect from our customers and users of our websites may be used in the following ways.
 
@@ -20,11 +20,9 @@ Any information provided by you in connection with any transaction regarding you
 
 We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose. If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here](https://www.personneltoday.com/datacaptureform/youraccount/).
+Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way. You may at any time opt-out of receiving further e-mails by [registering your preference here](https://www.personneltoday.com/datacaptureform/youraccount/).
-
-If you wish to alter any of your registration details please [click here](https://www.personneltoday.com/datacaptureform/youraccount/).
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.
 
 ### Voluntary Information
 
@@ -40,7 +38,7 @@ Your personal data will be held on a secure server. Our sites are equipped with 
 
 ### Access to Data
 
-Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
+Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases.
 
 ## USE OF COOKIES BY PERSONNEL TODAY
 
@@ -77,7 +75,7 @@ These cookies collect information about how visitors use our website, for instan
 
 
 
-Embedded Videos: Most videos on Personnel Today are hosted on [Brightcove](http://www.brightcove.com/en/privacy), [YouTube](http://www.google.com/policies/privacy/ads/) and [Vimeo](http://vimeo.com/privacy). These sites use cookies to collect video statistics and improve site experience.
+Embedded Videos: Most videos on Personnel Today are hosted on [Vidyard](https://www.vidyard.com/privacy/), [YouTube,](http://www.google.com/policies/privacy/ads/) [Workcast](http://terms.workcast.com/privacy.html) and [Vimeo](http://vimeo.com/privacy). These sites use cookies to collect video statistics and improve site experience.
 
 **Category 3 – Functionality cookies**
 
@@ -104,8 +102,6 @@ These cookies can be linked to clicks on ‘Like’ or ‘Share’ buttons which
 The following third party advertising networks are used by Personnel Today:
 
 Doubleclick (Google)  
-Adtech  
-Disqus  
 Sharethis  
 Addthis
 
@@ -123,17 +119,15 @@ If you would like to block cookies being set by third party networks you may do 
 **Campaign Tracking** : Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Personnel Today traffics its own campaigns through:
 
 Doubleclick (Google)  
-Adtech  
 Adobe
 
 You may choose to decline these cookies by visiting the following sites:
 
 [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)  
-[Adtech opt-out page](http://www.adtech.com/en/service/cookies.html)  
 [Adobe opt-out page](http://www.adobe.com/uk/privacy/analytics.html)
 
 In addition, third party advertisers run campaigns on Personnel Today.
 
 If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser.
 
-To contact us about cookies on this site, please email eucookies@rbi.co.uk
+To contact us about cookies on this site, please email webteam@roadtransport.com
