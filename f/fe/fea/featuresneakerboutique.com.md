@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featuresneakerboutique.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302104429id_/https%3A//www.featuresneakerboutique.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featuresneakerboutique.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003191335id_/https%3A//www.featuresneakerboutique.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Feature Sneaker Boutique
 
