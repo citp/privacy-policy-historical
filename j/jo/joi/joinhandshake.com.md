@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinhandshake.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616154945id_/http%3A//joinhandshake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinhandshake.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003024023id_/http%3A//www.joinhandshake.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Handshake
 
