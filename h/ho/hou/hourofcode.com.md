@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hourofcode.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515054341id_/https%3A//code.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hourofcode.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003221826id_/https%3A//code.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Code.org
 
-Date of Last Revision: April 26, 2017
+Date of Last Revision: September 25, 2017
 
 ## About Code.org
 
@@ -15,7 +15,7 @@ Please read this Privacy Policy carefully before accessing or using the Website.
 Our Privacy Policy is fueled by our commitment to the following Privacy Principles:
 
   1. We’re deeply committed to creating a safe and secure learning environment for our students and teachers. We take the protection of this information seriously.
-  2. We do not require you to provide any Personal Information in order to try our tutorials, most of which are accessible without a user account. However, learning progress or code creations won't be saved without creating an account.
+  2. We do not require you to provide any Personal Information in order to try our courses, most of which are accessible without a user account. However, learning progress or code creations won't be saved without creating an account.
   3. The only reason we collect any data from students or teachers is to better succeed at our mission of providing a great computer science education for every student who wants it.
   4. We do not sell your Personal Information or exploit it for financial gain; we do not sell ads. We are a charitable 501(c)(3) nonprofit and our revenue comes from donations. We established ourselves as a nonprofit so our mission and your trust will not be in conflict with a for-profit motive.
   5. Any student academic data provided by us or by our school district partners to third party evaluators for the purpose of evaluating our courses in meeting our mission will be anonymous / de-identified (per standard industry practice).
@@ -34,19 +34,26 @@ From time to time our Privacy Policy will change. Code.org will notify Users of 
 
 ## Collection and Use of Your Information
 
-The sections below describe the ways Code.org collects and uses the name, display name, email address, school name and address, telephone number, or other personally identifiable information from Users (“ **Personal Information** ”), persisitent cookies or IP addresses (“ **Persistent Identifiers** ”), as well as some of the non-personal information and technical information (described below) we collect.
+The sections below describe the ways Code.org collects and uses the name, display name, email address, school name and address, telephone number, or other personally identifiable information from Users (“ **Personal Information** ”), persistent cookies or IP addresses (“ **Persistent Identifiers** ”), as well as some of the non-personal information and technical information (described below) we collect.
 
 **The Hour of Code** : Code.org does not collect any Personal Information from students participating in the Hour of Code. The Hour of Code tutorials do not require login to use.
 
-**Code Studio** : The following table describes the data that Code.org collects from registered Users of the Code Studio tutorial platform. You can also try Code Studio tutorials without creating an account, but your learning progress won't be saved.
+**Code.org accounts** : The following table describes the data that Code.org collects from registered Users of Code.org courses. You can also try Code.org courses without creating an account, but your learning progress won't be saved.
 
-Data stored by Code.org if you create a Code Studio student account | Required? | How this data is used  
+Data stored by Code.org if you create a Code.org student account | Required? | How this data is used  
 ---|---|---  
-Display Name (eg “Cool Coder” or “John”) | Mandatory | To provide students a welcome upon login and to identify the student in the teacher’s view of student progress. We recommend using first names only to increase privacy.  
-Age ( _Not_ birthdate) | Mandatory | To understand the developmental stage of students to offer an age-appropriate experience for each student. We use this field to ensure we don’t allow students under age 13 to access age-inappropriate features (such as sharing their coding projects on social media). We collect ages (e.g. 16), as opposed to birthdates (e.g. Feb 13, 1998).  
-1-way hash of email address (NOT the actual email addresses, which are collected in the web browser but never transmitted to Code.org and thus never stored by us) | Optional if account created by teacher or parent; Mandatory if student signs up directly | If a student creates an account directly, an email address is required. If the account is created by a teacher or parent, it is optional.
+Display Name (eg “Cool Coder” or “John”) and username (eg "coolcoder7") | Mandatory | Display name is used to provide students a welcome upon login and to identify the student in the teacher’s view of student progress. We recommend using first names only to increase privacy.
+
+Usernames are generated based on the display name and can be used to sign into an account. Students have the option to update the username when creating a personal login that uses usernames.  
+  
+Age ( _Not_ birthdate) | Mandatory | To understand the developmental stage of students to offer an age-appropriate experience for each student. We use this field to ensure we don’t allow students under age 13 to access age-inappropriate features (such as sharing their coding projects on social media). We collect ages (e.g. 16), as opposed to birth dates (e.g. Feb 13, 1998).  
+1-way hash of student email address (NOT the actual email addresses, which are collected in the web browser but never transmitted to Code.org and thus never stored by us) | Optional if account created by teacher or parent; Mandatory if student signs up directly | If a student creates an account directly, an email address is required. If the account is created by a teacher or parent, it is optional.
 
 Even if provided, student email addresses are NOT stored by Code.org in a retrievable format. To protect student privacy, we only store a 1-way hash of the email address. We do not have any way of sending email to these students or retrieving their actual email address. It is used only for purposes of login. See section on Student Email Addresses below for more details.  
+  
+Parent email address | Optional - parent can use their email to create a login for their child at home | A student may want to create a personal login to access their account independently of their teacher, especially if the teacher decides to delete the classroom section that the student belonged to.
+
+If the student is under 13 or doesn’t have a personal email address, we require a parent email address for password recovery. The student will then be able to sign in at home with a username and password.  
   
 Login time, IP address, and other technical data | Mandatory (automatic) | This data helps Code.org troubleshoot any problems users experience. It also helps Code.org understand usage patterns, to guide the build out of servers to support all users, and to enable updating the site while minimizing service disruption. See section below on “technical information” for additional details.  
 Gender | Optional | This information is only used in aggregate, to measure the percentage of students that are male or female or to measure how males or females react to different computer science challenges, to track our progress towards reducing the gender gap in computer science.  
@@ -59,16 +66,16 @@ Progress in the course
 2- Number of tries to solve a puzzle, and whether it was solved successfully or optimally  
 3- Information on how the student solved the puzzle including time to completion and whether they used hints  
 4- The code that the student submitted  
-5- Student-provided answers to simple assessments (e.g. multiple-choice questions) | Mandatory (automatic) | This information is displayed to students and their teachers to see their progress in a course, to see the code they’ve created, and to identify topics they need help with. It also lets students pick up where they left off if they log out and login later. See [example progress report](http://code.org/files/student-progress.pdf), and see section below on “technical information” for additional details.
+5- Student-provided answers to simple assessments (e.g. multiple-choice questions) | Mandatory (automatic) | This information is displayed to students and their teachers to see their progress in a course, to see the code they’ve created, and to identify topics they need help with. It also lets students pick up where they left off if they log out and login later. See [example progress report](https://code.org/files/student-progress.pdf), and see section below on “technical information” for additional details.
 
-This data also helps Code.org improve the course effectiveness. For example, if a puzzle is too hard, Code.org may take action (like [providing better hints](http://code.org/hints)) to improve the learning process.  
+This data also helps Code.org improve the course effectiveness. For example, if a puzzle is too hard, Code.org may take action (like [providing better hints](https://code.org/hints)) to improve the learning process.  
   
 Student Projects - apps, animations, stories, or code-art | Automatic (for students who create such projects)  
 Creating apps and projects is part of our course progressions. | The code and underlying assets for these apps are stored by Code.org, so that students can retrieve their projects each time they log in.
 
-When students work in the context of a classroom, their teacher also has access to view the projects created by any students in the classroom.
+When a student works in the context of a classroom, their teacher also has access to view the projects created by any student in the classroom.
 
-Student projects and code creations each have a custom URL that students can use to share with friends or their teacher, or post to the Code.org public gallery. On the public gallery, projects are displayed with only the first letter of the student’s name to protect student privacy.
+Student projects and code creations each have a custom URL that students can use to share with friends or their teacher, or post to the Code.org public gallery. On the public gallery, projects are displayed with only the first letter of the student’s display name to protect student privacy as well as their age. We do not allow students under the age of 13 to share App Lab, Game Lab, and Web Lab projects to the Code.org public gallery as these projects allow for student-uploaded content.
 
 Students may “remix” (and change or improve upon) projects made by themselves or by other students.  
 Students over age 13 can also, at their discretion, post their projects to social media.
@@ -77,22 +84,22 @@ In our elementary school courses, students create stories, games or art using to
 
 Our middle school and high school courses teach students to make more mature apps and games. These tools allow the students to upload custom photos, sounds and/or videos. (see below)  
   
-Student-uploaded images, sounds, or videos (for App Lab, Game Lab, or Web Lab Projects) | Automatic (if content is uploaded). Creating apps with these tools is part of our courses for grades 6+.  
-Uploading custom files is optional. | Only students of age 13 and older, or students under 13 who are working in a classroom whose teacher has explicitly accepted the Code.org Privacy Policy and Terms of Service, can choose to upload custom images, sounds, and videos to the Code Studio platform to use within apps or games that they create. Students under 13 will be advised never to upload any media containing personal information.
+Student-uploaded images, sounds, or videos (for App Lab, Game Lab, and Web Lab Projects) | Automatic (if content is uploaded). Creating apps with these tools is part of our courses for grades 6+.  
+Uploading custom files is optional. | Only students of age 13 and older, or students under 13 who are working in a classroom whose teacher has explicitly accepted the Code.org Privacy Policy and Terms of Service, can choose to upload custom images, sounds, and videos to the Code.org platform to use within apps or games that they create. Students under 13 will be advised never to upload any media containing personal information.
 
 These files are not used by Code.org for any purpose other than within these projects. These projects may be shared as described above, subject to those restrictions imposed on students under 13.  
   
-Data collected by student-created apps | Optional | Students may use Code Studio to create their own apps. Depending on the app author’s design, a student-created app may in turn collect data by prompting other Users (anybody who tries using the student-created app) to enter information, such as a favorite movie.
+Data collected by student-created apps | Optional | Students may use Code.org to create their own apps. Depending on the app author’s design, a student-created app may in turn collect data by prompting other Users (anybody who tries using the student-created app) to enter information, such as a favorite movie.
 
 If a student creates an app that collects and stores data in this fashion, all data entered by users of the app may be accessed and possibly shared publicly by the app author, the app itself, and potentially anybody with a link to view the app. Code.org does not itself use or share this data outside of the app.
 
 Before using a student-created app that collects data, Users are shown a clear warning that any data they enter may be shared publicly and that they should not share anything personal to them or to others.  
   
-Written comments in response to curricular/educational prompts within the Code Studio platform | Optional | Within some of our courses, students in a classroom are prompted to answer a question. Their answers are shared with any teacher with whom the student is affiliated on Code Studio, and are not used by Code.org for any other purpose.
+Written comments in response to curricular/educational prompts within Code.org courses | Optional | Within some of our courses, students in a classroom are prompted to answer a question. Their answers are shared with any teacher with whom the student is affiliated on Code.org, and are not used by Code.org for any other purpose.
 
 In some cases, these questions may be attitudinal (to assist the teacher in understanding their classroom’s reaction to learning computer science, and to help Code.org improve our curriculum). Students are informed that answers to these attitudinal questions are shared with the teacher anonymously.  
   
-Additional* data stored by Code.org if you create a Code Studio teacher account | Required? | How this data is used  
+Additional* data stored by Code.org if you create a Code.org teacher account | Required? | How this data is used  
 ---|---|---  
 Email address | Required | To send emails to the teacher with updates about their classroom or student progress, when new course-work is available, updates on curriculum, tools, professional learning options, etc.
 
@@ -105,11 +112,11 @@ Code.org may also use this information to reach out to your school or district t
 School address | Optional | At your option and under your control, we would list your school (and relevant contact information, if you provide it) in the Code.org map and database of schools that teach computer science courses.  
 Student section data | Required | You may create accounts for your students (and provide each student’s display name and optionally their age and gender), and organize these students into sections or groups. You may assign each section a display name, and a course assignment. The section grouping data is used to simplify your view of students across multiple sections.
 
-Teachers are encouraged to share a document with students and parents informing them about the Code Studio course, including the privacy implications.  
+Teachers are encouraged to share a document with students and parents informing them about the Code.org course, including the privacy implications.  
   
 Survey and demographic data | Optional | For the purposes of evaluating our own work and improving our education results, Code.org regularly sends surveys to teachers. 
 
-These surveys are completely optional. The data provided by teachers in these surveys is saved and used for analysis by Code.org or by our Evaluator or our professinoal learning partners or facilitators. Any survey data shared with external parties will be anonymous and aggregated.  
+These surveys are completely optional. The data provided by teachers in these surveys is saved and used for analysis by Code.org or by our Evaluator or our professional learning partners or facilitators. Any survey data shared with external parties will be anonymous and aggregated.  
   
 Attendance at professional learning workshops | Participation in professional learning programs is optional.  
 For teachers who participate, this attendance data will be stored. | Attendance of teachers who attend our professional learning workshops is stored and associated with the teacher’s account on Code.org. 
@@ -125,9 +132,9 @@ Teachers also take a self assessment survey to create a custom learning plan. Th
 Forums | Optional | For teachers who choose to participate in the forums, posts are shared publicly  
   
   
-* A teacher account on Code Studio has all the functionality of a student account, and as a result the data collected and stored for a teacher account is a superset of the data stored for a student account.
+* A teacher account on Code.org has all the functionality of a student account, and as a result the data collected and stored for a teacher account is a superset of the data stored for a student account.
 
-Students and teachers may update, correct, or delete Personal Information in their Code Studio profiles at any time via the account settings page (or the manage students page for teachers).
+Students and teachers may update, correct, or delete Personal Information in their Code.org accounts at any time via the account settings page (or the manage students page for teachers).
 
 Educators can create accounts on behalf of students. When registering an account for a student who is under the age of 13 (a “Child”), the Educator represents and warrants that they or the educational organization they work for has proper permission to register the Child for Code.org, and that they or the educational organization has obtained the necessary parental consent for collection of some of the Child’s Personal Information for the use and benefit of the school and for no other commercial purpose. In addition, they agree to be bound by these Terms on behalf of the educational organization they work for.
 
@@ -135,9 +142,11 @@ When using third party authentication systems, Code.org may receive personal dat
 
 Under a student's control, they can dissociate or associate themselves with as many teachers as they want, (and those teachers get access to the student's course progress and display name but not their email address). Teachers who create User accounts on behalf of students can reset their “secret word” or “secret picture” (for young children who can’t read) for as long as the student leaves the teacher in control of the account.
 
+Our collection, use, and disclosure of Student Data is governed by our Privacy Policy and Terms of Use by the provision of the Family Educational Rights and Privacy Act (FERPA), the Children's Online Privacy Protection Act (COPPA), and applicable state laws which relate to the collection of Student Data including the Student Online Personal Information Protection Act (SOPIPA). 
+
 ## Information from Authentication Services like Facebook or Google
 
-If you decide to register for Code Studio through an Authentication Service (such as Facebook Connect or Google Accounts), you give Code.org the permission to store and use information already associated with your Authentication Service consistent with this Privacy Policy and the table above.
+If you decide to register for a Code.org account through an Authentication Service (such as Facebook Connect or Google Accounts), you give Code.org the permission to store and use information already associated with your Authentication Service consistent with this Privacy Policy and the table above.
 
 You may revoke Code.org’s access to your account on any Authentication Service at any time by updating the appropriate settings in the account preferences of the respective Authentication Service. You should check your privacy settings on each Authentication Service to understand and change the information sent to us through each Authentication Service. Please review each Authentication Service’s terms of use and privacy policies carefully before using their services and connecting to our Website.
 
@@ -145,7 +154,7 @@ You may revoke Code.org’s access to your account on any Authentication Service
 
 When you use certain other features of our Website, such as signing forms or petitions to help advocate for Code.org, participating in a workshop, bringing Code.org programs to your school or district, donating to Code.org, purchasing t-shirts or other items, or participating in online surveys, Code.org may ask you to provide Personal Information including your full name, email address, and postal code, or school street address, as well as your billing and/or shipping information when necessary to complete a purchase or make a donation. The information is used to enable your participation in the relevant feature and to send you occasional emails with information about Code.org that we feel may interest you. All emails we send include an “unsubscribe” link. The one exception to this paragraph is that when a User under the age of 13 signs our online petition supporting Code.org’s mission, any email address they provide is never transmitted to our server and thus never stored or used.
 
-If you enter your name to print a certificate of completion upon finishing our tutorials we save the name you enter in order to let you share your certificate digitally.
+If you enter your name to print a certificate of completion upon finishing our courses we save the name you enter in order to let you share your certificate digitally.
 
 We may also survey Users to provide us with optional demographic information (such as gender, age, ethnicity), which we use in aggregate to better understand our User base.
 
@@ -183,13 +192,13 @@ Certain capabilities linked from the Code.org Website may be implemented by thir
 
 Student and teacher profiles can NOT be customized with a photo.
 
-As part of “App Lab,” “Game Lab,” or "Web Lab" (in-browser programming tools available on Code Studio), students 13 years of age and older as well as students under the age of 13 in a classroom whose teacher has approved the Code.org Terms of Service and this Privacy Policy can upload custom images, text, sound, and videos to the Code Studio platform to use within applications or “apps” that they create. These files are stored in the Code Studio platform, and are not used by Code.org for any purpose other than within the applications created by students.
+As part of “App Lab,” “Game Lab,” or "Web Lab" (in-browser programming tools available on Code.org), students 13 years of age and older as well as students under the age of 13 in a classroom whose teacher has approved the Code.org Terms of Service and this Privacy Policy can upload custom images, text, sound, and videos to the Code.org platform to use within applications or “apps” that they create. These files are stored by Code.org, and are not used by Code.org for any purpose other than within the applications created by students.
 
 ## Message Sending Between Users
 
 Code.org has created a tool called the [“Internet Simulator”](https://web.archive.org/internetsimulator) for use in High School classrooms to model how the Internet functions. With this tool, students participating in a teacher-supervised classroom activity can send text-based messages to their teacher and to other students in their specific classroom section. Message contents are visible to the classroom teacher and are not accessed or used by Code.org for any purpose other than in this educational tool. All messages are deleted after two hours of class inactivity, or upon a manual reset by the teacher.
 
-In some courses, students are asked to provide written responses or reflections to prompts within the Code Studio platform. These written responses are accessible by any teacher that the student is currently affiliated with on Code Studio.
+In some courses, students are asked to provide written responses or reflections to prompts within Code.org courses. These written responses are accessible by any teacher that the student is currently affiliated with on Code.org.
 
 In addition, Users may send messages to Code.org for customer support requests.
 
@@ -205,21 +214,21 @@ Code.org does not directly collect or store payment instruments. Donations to Co
 
 ## Student Email Addresses
 
-When students create accounts on Code Studio, Code.org does not store the email address provided by those Users in a retrievable format. Instead, we immediately create and store only a one-way hashed version of the email address (which cannot be converted back into the original address), and use it only for the purposes of login, account management, and password recovery. In fact, when creating a student account or during login, the actual account email address is never even transmitted to Code.org's servers. The only circumstance when Code.org's servers receive a student's Code Studio account email address is if the student forgets their password and asks to reset it. At that point, the student is prompted to enter their email, which is used to send them a password reset link.
+When students create Code.org accounts, Code.org does not store the email address provided by those Users in a retrievable format. Instead, we immediately create and store only a one-way hashed version of the email address (which cannot be converted back into the original address), and use it only for the purposes of login, account management, and password recovery. In fact, when creating a student account or during login, the actual account email address is never even transmitted to Code.org's servers. The only circumstance when Code.org's servers receive a student's Code.org email address is if the student forgets their password and asks to reset it. At that point, the student is prompted to enter their email, which is used to send them a password reset link.
 
 ### Exceptions
 
-If a student contacts us via our customer support pages, we will store and use their email address in order to respond to them. If a student over the age of 13 signs our online petitions, or a student creates a teacher account on Code Studio or offers to help us as a software industry volunteer, we will store and use their email address just as we do for other advocates of our nonprofit mission.
+If a student contacts us via our customer support pages, we will store and use their email address in order to respond to them. If a student over the age of 13 signs our online petitions, or a student creates a teacher account on Code.org or offers to help us as a software industry volunteer, we will store and use their email address just as we do for other advocates of our nonprofit mission.
 
 For a small minority of our students, and only if they are over the age of 18, we may offer the opportunity to participate in a "longitudinal" study to understand the multi-year impact of learning computer science. Participation in such a study would be entirely optional. Students who receive an offer and choose to participate will be asked to provide their contact information (email address and optionally other forms of contact that may be more convenient for the student). This contact information will not be shared with third parties, nor used in any way outside the purpose of such a study – to ask students to participate in surveys. If we learn that we have inadvertently collected this information from a child under 18, we will delete such information immediately.
 
 ## Children Under the Age 13
 
-The Code Studio learning platform is designed to be used by Users of all ages, including children under the age of 13 with the involvement of and pre-authorization by their school, teacher, parent or legal guardian. In order to use features that involve uploading custom media files or sending messages within the school, we obtain prior consent from the student’s teacher, other authorized school representative, or, in some cases, the parent or legal guardian.
+Code.org courses are designed to be used by Users of all ages, including children under the age of 13 with the involvement of and pre-authorization by their school, teacher, parent or legal guardian. In order to use features that involve uploading custom media files or sending messages within the school, we obtain prior consent from the student’s teacher, other authorized school representative, or, in some cases, the parent or legal guardian.
 
 When children under the age of 13 attempt to sign our online petition supporting Code.org’s mission, the email addresses are discarded and are not transmitted to or stored on our server.
 
-If Code.org learns that it has inadvertently collected Personal Information or Persistent Identifiers from children under the age of 13 without prior parental or teacher consent, Code.org will take appropriate steps to delete this information. If you are a teacher, parent or legal guardian of a student on Code.org, you can ask us to deactivate the student’s account, delete any hashed email address or inadvertently collected Personal Information or Persistent Identifiers, and request that we no longer allow the student to submit their information to Code.org. To make such a request, please contact us at <http://code.org/contact>. Before processing your request, we may verify your identity and your relationship with the student.
+If Code.org learns that it has inadvertently collected Personal Information or Persistent Identifiers from children under the age of 13 without prior parental or teacher consent, Code.org will take appropriate steps to delete this information. If you are a teacher, parent or legal guardian of a student on Code.org, you can ask us to deactivate the student’s account, delete any hashed email address or inadvertently collected Personal Information or Persistent Identifiers, and request that we no longer allow the student to submit their information to Code.org. To make such a request, please contact us at <https://code.org/contact>. Before processing your request, we may verify your identity and your relationship with the student.
 
 ## Student Academic Data from School Districts
 
@@ -287,7 +296,7 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 ### Data we choose not to store
 
-Although you may provide it to us, we intentionally choose NOT to store email addresses for Code Studio student accounts, or phone numbers used in our send-to-phone feature. The data we do not store cannot be stolen from us.
+Although you may provide it to us, we intentionally choose NOT to store email addresses for Code.org student accounts, or phone numbers used in our send-to-phone feature. The data we do not store cannot be stolen from us.
 
 We will delete student display names, coding projects, apps, uploaded images and other assets associated with student accounts that have remained unused and inactive for a period of time, in accordance with our data retention policy.
 
@@ -307,10 +316,10 @@ If you choose to visit our Website, your visit and any dispute over privacy is s
 
 ### A note to California residents:
 
-We do not disclose any Personal Information to third parties for marketing purposes. For additional information about our privacy practices, or to review and request to have deleted any Personal information you have shared with us, please send a request to <http://code.org/contact>.
+We do not disclose any Personal Information to third parties for marketing purposes. For additional information about our privacy practices, or to review and request to have deleted any Personal information you have shared with us, please send a request to <https://code.org/contact>.
 
 ## Contacting Code.org
 
-Please contact Code.org with any questions or comments about this Privacy Policy, your Personal Information, our third-party disclosure practices, or your consent choices by writing us at <http://code.org/contact> or at 1301 Fifth Avenue, Suite 1225, Seattle, WA 98101. 
+Please contact Code.org with any questions or comments about this Privacy Policy, your Personal Information, our third-party disclosure practices, or your consent choices by writing us at <https://code.org/contact> or at 1301 Fifth Avenue, Suite 1225, Seattle, WA 98101. 
 
 [](http://studentprivacypledge.org/)
