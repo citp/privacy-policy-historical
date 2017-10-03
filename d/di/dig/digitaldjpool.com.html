@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitaldjpool.com privacy policy that was archived on 2016-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224125321id_/https%3A//digitaldjpool.com/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitaldjpool.com privacy policy that was archived on 2017-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171003225011id_/https%3A//digitaldjpool.com/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -16,20 +16,119 @@
     </style>
 
     <link rel="shortcut icon" href="/favicon.ico">
-    <link href="/js/hopscotch/css/hopscotch.min.css" type="text/css" rel="stylesheet">
-    <link id="linkStyleCss" rel="stylesheet" href="/css/bundle.min.css?v=1.0.47.3" type="text/css" media="none" onload="if (media !== 'all') { media = 'all'; }">
+    <noscript><link rel="stylesheet" href="/css/bundle.min.css?v=1.17.29.1"></noscript>
+    <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/uyubPCqR1TUUGec6xl6AaKOduHXBkvyg/analytics.min.js"></script><link rel="stylesheet" href="/css/bundle.min.css?v=1.17.29.1" media="all"><script id="loadcss">
+        //check /js/loadCss folder for js files with comments
+        (function(w) {
+            "use strict";
+            var loadCSS = function(href, before, media) {
+                var doc = w.document;
+                var ss = doc.createElement("link");
+                var ref;
+                if (before) {
+                    ref = before;
+                } else {
+                    var refs = (doc.body || doc.getElementsByTagName("head")[0]).childNodes;
+                    ref = refs[refs.length - 1];
+                }
+
+                var sheets = doc.styleSheets;
+                ss.rel = "stylesheet";
+                ss.href = href;
+                ss.media = "only x";
+
+                function ready(cb) {
+                    if (doc.body) {
+                        return cb();
+                    }
+                    setTimeout(function() {
+                        ready(cb);
+                    });
+                }
+
+                ready(function() {
+                    ref.parentNode.insertBefore(ss, (before ? ref : ref.nextSibling));
+                });
+                var onloadcssdefined = function(cb) {
+                    var resolvedHref = ss.href;
+                    var i = sheets.length;
+                    while (i--) {
+                        if (sheets[i].href === resolvedHref) {
+                            return cb();
+                        }
+                    }
+                    setTimeout(function() {
+                        onloadcssdefined(cb);
+                    });
+                };
+
+                function loadCB() {
+                    if (ss.addEventListener) {
+                        ss.removeEventListener("load", loadCB);
+                    }
+                    ss.media = media || "all";
+                }
+
+                if (ss.addEventListener) {
+                    ss.addEventListener("load", loadCB);
+                }
+                ss.onloadcssdefined = onloadcssdefined;
+                onloadcssdefined(loadCB);
+                return ss;
+            };
+            if (typeof exports !== "undefined") {
+                exports.loadCSS = loadCSS;
+            } else {
+                w.loadCSS = loadCSS;
+            }
+        }(typeof global !== "undefined" ? global : this));
+
+        function onloadCSS(ss, callback) {
+            var called;
+
+            function newcb() {
+                if (!called && callback) {
+                    called = true;
+                    callback.call(ss);
+                }
+            }
+
+            if (ss.addEventListener) {
+                ss.addEventListener("load", newcb);
+            }
+            if (ss.attachEvent) {
+                ss.attachEvent("onload", newcb);
+            }
+            if ("isApplicationInstalled" in navigator && "onloadcssdefined" in ss) {
+                ss.onloadcssdefined(newcb);
+            }
+        }
+
+        function ensureHiddenElements() {
+            var hiddenElements = [].slice.call(document.getElementsByClassName("hid-before-css-load"));
+            var hiddenElementsLength = hiddenElements.length;
+            for (var i = 0; i < hiddenElementsLength; ++i) {
+                hiddenElements[i].className = hiddenElements[i].className.replace(/\bhid-before-css-load\b/, '');
+            }
+        }
+
+        var stylesheet = loadCSS("/css/bundle.min.css?v=1.17.29.1", document.getElementById("loadcss"));
+        onloadCSS(stylesheet, function() {
+                ensureHiddenElements();
+            });
+    </script>
     
 
     
 
     <!-- Segment library -->
-    <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/uyubPCqR1TUUGec6xl6AaKOduHXBkvyg/analytics.min.js"></script><script type="text/javascript">
+    <script type="text/javascript">
         !function () {
             var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
                 analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t) { var e = document.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = ("https:" === document.location.protocol ? "https://" : "http://") + "cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(e, n) }; analytics.SNIPPET_VERSION = "3.1.0";
-                analytics.load("uyubPCqR1TUUGec6xl6AaKOduHXBkvyg");
-                analytics.page();
-            }
+                    analytics.load("uyubPCqR1TUUGec6xl6AaKOduHXBkvyg");
+                    analytics.page();
+                }
         }();
     </script>
 
@@ -52,7 +151,7 @@
     }
 
     main {
-        padding-top: 100px;
+        padding-top: 64px;
     }
 
     .white {
@@ -68,18 +167,9 @@
         float: left;
     }
 
-    .top-menu .badge {
-        /*url(/images/badge.png);*/
-        background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAgCAYAAABkWOo9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NUU3OTgwQzU0NDI3MTFFNkE5QTFGNjlERDkyNkQ0MEYiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NUU3OTgwQzQ0NDI3MTFFNkE5QTFGNjlERDkyNkQ0MEYiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RTAwRDJDQkQ0NDI1MTFFNjg3MkVGMzUyOTdCRjc0QTUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RTAwRDJDQkU0NDI1MTFFNjg3MkVGMzUyOTdCRjc0QTUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6OMTciAAAFR0lEQVRYw82YaWxUVRTHD4IUghAQrNbSjrUZWqbtlKX1g9/9QCKfJME1VlCrERO3RBO0e+lGgVppBREoFIkgYFVcENqBttNZ2mBITBpDGpHF1hJJWpZ23nL83/fu4OswrUxbZD78MzN37jv39+7y3vkfYma6RTcGiL17iTsaiD17ItVcaGHk12Es9y7igT4KxxS2kf8+R1pxMil58RT4KInUUST+U/JspBQmCM2C3lDybT1KXtIVpSCxDL/jjf/ybbcRJxFaQPxHVwSgV86TVp5Feu1C4iPocyiMDkNN0Jc0U9tiz1VKl3RDrH1iY/2z+ayWZbJasqxfq3KU8F6KM/qOFku0N9yLyVlMfOGXyEDVsmziz2OIO9HHa5EP6oLcFINB1mqb7b8CiPWaZMaAzO2QF/oR2h7L6gbAV6b38j7K55MUa1zrD4kpxjhKpBY5xgeq75iFvYM+7QaYGfQUTecDlKNtdJxRCrJZ27yIMbvMbZBfQnogn/z8gVj/NI7V4uVili9h5tZzMy0wYnXI2GKMbyYKGrzrNpqGGXxerU49rQrATSmM3yagT6oZUA0zsPQPMP9kAe6AvhfAD7NaZACfxwy/zy66/+YqTQSUd8aIu70HM/Y0Zq5TLcxmvTqV+St0a5WzJyBOQvuJMcusiX0qVJHBvOs+5uP4zy2hRd+jAK5PMIC1ivRzuO5d3OzccS+9VpE1Va9JXKV/nOxVAKhtBOBBC6Bb7kfx6ZJ78mcywY7L76LthKVvuwX4O9zYVgEsYjt6tO0L3tJKU+dECHphila57IhWmm7uwUNykE7L3rPKa1n+cArXPxhLbIn6eBw6J1YipRugcbcPevUyaVVZZ9XyNOZtDzHvmWYu4865k6zZjMNlxNarU1grwar1dSeEBR12bY8fqFnx4mD9qmdvqnblc0PFjovDJRk8VOTk4YIld1aFUHEG5FAHa1a8M1j/1DNBFrDlgNFOVxteib20mly9a+g05JfqDBTZb2gVeGiXZ/yPStf7c+lM70vklRxdYPOA8VG6tm8d/ZlD6/teJz/UIuUaLl507W6AXn6TPH+9Rickhw9spYIxCJqNxg4BGEWggsUDtsetoNPR2Ai1RxGoYGkUbFZQQuNay/JHA6hgeUGwhYK+LfZEFIEKlnWhoLPR+DXUGkWgbVAT2OZYQZ+wzGY0nXo/2J60glZJUJfUybsI6gVos+XU14FxCl3b/bLt4mo6hYdsB9RuaA25h4rs19XyTFbKnHdOG0K/44H/KnX15lCrZHGDzQtGJ2m/d84LeL5YrvgPZgYVcG1bGih19gRK0vBac3KgcOkdFl6heF0rxYsV5dimlSNYwAbG2PBJyfUrpFVmndUqFzM3oqmJTJtxSOrwJCgYS8bWa21mUtL/2yOR5KP/pnlIhkVSDAvC3GWxG6HyjyLfKP2taZ7I/DdkjiPNG5E4J5mJs8jYYfW5xZLZBxNnkUwL63EsTOLcEpJkB6/9FoBbbRNNnEdYkamGFdliN6wI7IO5HUKBm8TyJRmu07DNlelmHtss+3jDZPamFXlvQlZkLHOnFDxmguyTNiSY4beZ+07fPcOcUa/F3AFQrzMBpbn7YNLM3Vh2GcCmXRbA+6XB81n2pM9i5uoSgu5T2OUPJ90u/0cBYoZRgNhiFiBU4U6Dh84jAXFIDEdaldYnCxAPTnoBAoeJcJgIgxMGuVWi/QARfPxMrcqRi1PbLYC1zXbTrJVlir3ajzdOib5jfpzoO1Ysfcc8wuMpQtCQItlYMopkBYkhRTKbKJKVhxbJxo4zniJZFJYd/wHech3e5YENGQAAAABJRU5ErkJggg==');
-        color: #fff;
-        display: inline-block;
-        font-size: 10px;
-        font-weight: 600;
-        height: 32px;
-        line-height: 32px;
-        text-align: center;
-        vertical-align: top;
-        width: 42px;
+    .top-menu #menu-dropdown li a {
+        display: block;
+        float: none;
     }
 
     .top-menu .brand-logo, .top-menu .brand-logo img, .top-menu .links img {
@@ -87,7 +177,7 @@
     }
 
     .top-menu {
-        height: 100px;
+        height: 64px;
         position: fixed;
         z-index: 1002;
         top: 0;
@@ -96,8 +186,9 @@
     }
 
         .top-menu .links img {
-            width: 65px;
-            margin: 0 1rem;
+            height: 48px;
+            width: 48px;
+            margin: 8px 1rem;
         }
 
         .top-menu .lnk-icon {
@@ -106,23 +197,24 @@
 
         .top-menu .brand-logo {
             height: 100%;
-            line-height: 90px;
+            line-height: 64px;
         }
 
         .top-menu li {
-            margin-top: 15px;
             margin-right: 20px;
         }
 
-            .left-menu li a, .top-menu li a {
+            .top-menu li a {
                 color: #00b0ff;
-                font-size: 24px;
-                text-transform: uppercase;
+                font-size: 20px;
+                text-decoration: none;
+                text-transform: none;
             }
 
             .top-menu li:last-child a {
                 color: #01579b;
                 float: left;
+                font-size: 16px;
             }
 
         .top-menu .dropdown-content li {
@@ -131,6 +223,7 @@
 
         .top-menu .dropdown-content a {
             font-size: medium;
+            line-height: 1.3;
         }
 
     nav, nav a, nav ul a {
@@ -159,13 +252,18 @@
                 margin-left: 0;
             }
 
+            nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+                height: 64px;
+                line-height: 64px;
+            }
+
     @media only screen and (min-width :993px) {
         nav a.button-collapse {
             display: none;
         }
 
         .top-menu .brand-logo {
-            margin-left: .975rem;
+            margin-left: 1rem;
         }
 
         .main-div {
@@ -182,8 +280,6 @@
 
         nav .button-collapse i {
             font-size: 2.7rem;
-            height: 56px;
-            line-height: 56px;
         }
 
     nav .brand-logo {
@@ -319,13 +415,13 @@
         }
 
     @media only screen and (min-width :601px) {
-        nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-            height: 64px;
-            line-height: 64px;
-        }
-
         .navbar-fixed {
             height: 64px;
+        }
+
+        .side-nav {
+            height: 44px;
+            line-height: 44px;
         }
     }
 
@@ -366,7 +462,6 @@
 
             .dropdown-content li > a, .dropdown-content li > span {
                 font-size: 1.2rem;
-                color: #26a69a;
                 display: block;
                 padding: 1rem;
             }
@@ -538,12 +633,6 @@
                 content: " new";
             }
 
-    nav ul a span.badge {
-        position: static;
-        margin-left: 4px;
-        line-height: 0;
-    }
-
     .circle {
         border-radius: 50%;
     }
@@ -622,6 +711,10 @@
         will-change: left;
     }
 
+        .side-nav li {
+            color: rgba(0,0,0,0.87);
+        }
+
         .side-nav.right-aligned {
             will-change: right;
             right: -105%;
@@ -683,14 +776,6 @@
             }
     }
 
-    .side-nav .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-        background-color: #ee6e73;
-    }
-
-        .side-nav .collapsible-body li.active a, .side-nav.fixed .collapsible-body li.active a {
-            color: #fff;
-        }
-
     #sidenav-overlay {
         left: 0;
         right: 0;
@@ -706,26 +791,41 @@
 
     #slide-out {
         margin-top: 0;
-        top: 100px;
+        top: 64px;
         padding-left: 0;
+        padding-top: .75rem;
         width: 200px !important;
     }
 
         #slide-out li {
             padding: 0;
-            margin-top: 0;
-            margin-right: 0;
+            height: 28px;
+            line-height: 28px;
         }
 
-            #slide-out li a {
-                height: 20%;
-                font-size: 1.25em;
+            #slide-out li > span {
                 color: #0277bd;
-                padding-left: 7.25%;
+                font-weight: bold;
+                padding-left: 1rem;
+            }
+
+            #slide-out li a {
+                color: #00AFEF;
+                padding-left: 2rem;
                 margin: 0;
-                line-height: 3.5em;
+                height: inherit;
+                line-height: inherit;
                 text-decoration: none;
             }
+
+            #slide-out li.active, #slide-out li:hover {
+                background-color: inherit;
+            }
+
+                #slide-out li.active a, #slide-out li:hover a {
+                    background-color: #e1f5fe;
+                    color: rgba(2, 119, 189, 0.81);
+                }
 
         #slide-out .collapsible-body li {
             padding-left: 16px;
@@ -824,10 +924,6 @@
             -o-transform: translateX(-50%);
             transform: translateX(-50%);
         }
-
-        .top-menu .lnk-icon {
-            margin-top: 2.5rem;
-        }
     }
 
     @media only screen and (max-width :600px) {
@@ -850,153 +946,48 @@
     <nav class="white top-menu" role="navigation">
         <div class="nav-wrapper">
             <a href="/" class="brand-logo">
-                <img class="responsive-img hide-on-med-and-down" src="/images/rlogo.png">
+                <img class="responsive-img hide-on-med-and-down" src="/images/logo-header.png">
                 <img class="responsive-img hide-on-large-only" src="/images/logo-s.png">
             </a>
             <ul class="right links">
-                    <li class="dropdown-li hide-on-large-only hid-before-css-load">
-                        <a class="dropdown-button" href="#!" data-activates="menu-dropdown">
-                            <i class="material-icons right">arrow_drop_down</i>
-                        </a>
-                        <ul id="menu-dropdown" class="dropdown-content hide-on-large-only">
-                            <li>
-                                <a href="/Account/SignUp" class="showRegisterForm">sign up</a>
-                            </li>
-                            <li>
-                                <a href="/Account/SignIn" class="singinLink">sign in</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="hide-on-med-and-down">
-                        <a href="/Account/SignUp" class="showRegisterForm">sign up</a>
-                    </li>
-                    <li class="hide-on-med-and-down">
-                        <a href="/Account/SignIn" class="singinLink">sign in</a>
-                    </li>
-            </ul>
-            <a href="#" data-activates="slide-out" class="button-collapse">
-                <i class="material-icons">menu</i>
-            </a>
-        </div>
-    </nav>
-    <nav class="white left-menu" role="navigation">
-        <div class="nav-wrapper">
-            <ul id="slide-out" class="side-nav fixed collapsible" data-collapsible="accordion">
-                <li>
-                    <a href="#" class="collapsible-header">Record Pool</a>
-                    <div class="collapsible-body">
-                        <ul>
-                                <li>
-                                    <a href="/Pricing">Pricing</a>
-                                </li>
-                                    <li>
-                                        <a href="/account/signup">Join Now</a>
-                                    </li>
-                            <li>
-                                <a id="navWhatsHot" href="/RecordPool/WhatsHot">What's Hot</a>
-                            </li>
-                            <li>
-                                <a id="navCharts" href="/RecordPool/Charts">Charts</a>
-                            </li>
-                        </ul>
-                    </div>
+                <li class="dropdown-li hide-on-large-only ">
+                    <a class="dropdown-button" href="#!" data-activates="menu-dropdown">
+                        <i class="material-icons">menu</i>
+                    </a><ul id="menu-dropdown" class="dropdown-content hide-on-large-only">
+                        <li>
+                            <a href="/RecordPool/About">For DJs</a>
+                        </li>
+                        <li>
+                            <a href="/MusicPromotion">For Labels &amp; Artists</a>
+                        </li>
+                        <li>
+                            <a href="/Pricing">Pricing</a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="sign-in-trigger">Sign In</a>
+                        </li>
+                    </ul>
+                    
                 </li>
-                <li>
-                    <a href="#" class="collapsible-header">Record Crates</a>
-                    <div class="collapsible-body">
-                        <ul>
-                            <li>
-                                <a id="navFeaturedCrates" href="/Crates/FeaturedCrates">Featured Crates</a>
-                            </li>
-                                                    </ul>
-                    </div>
+                <li class="hide-on-med-and-down">
+                    <a href="/RecordPool/About">For DJs</a>
                 </li>
-                                    <li>
-                        <a href="#" class="collapsible-header">What We Do</a>
-                        <div class="collapsible-body">
-                            <ul>
-                                <li>
-                                    <a href="/Home/Music">Record Pool Info</a>
-                                </li>
-                                <li>
-                                    <a href="/MusicPromotion">Music Promotion</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
-                <li>
-                    <a id="navBlog" href="/blog">Blog</a>
+                <li class="hide-on-med-and-down">
+                    <a href="/MusicPromotion">For Labels &amp; Artists</a>
                 </li>
-                <li>
-                    <a id="navFeaturedUsers" href="/FeaturedUsers">Who To Follow</a>
+                <li class="hide-on-med-and-down">
+                    <a href="/Pricing">Pricing</a>
                 </li>
-                <li class="infinite-scroll-links">
-                    <a href="#" class="collapsible-header">More...</a>
-                    <div class="collapsible-body">
-                        <h6>About Us</h6>
-                        <ul>
-                            <li><a href="/About/AboutUs">About Us</a></li>
-                            <li><a href="/About/FAQ">FAQ</a></li>
-                        </ul>
-                        <h6>Our Members</h6>
-                        <ul>
-                            <li>
-                                <a href="/Profile/FeaturedDJs">Featured DJs</a>
-                            </li>
-                            <li>
-                                <a href="/Profile/FeaturedLabels">Featured Labels</a>
-                            </li>
-                            <li>
-                                <a href="/Profile/ResidentDJs">Resident DJs</a>
-                            </li>
-                        </ul>
-                        <h6>Legal</h6>
-                        <ul>
-                            <li>
-                                <a href="/About/Terms">Terms</a>
-                            </li>
-                            <li>
-                                <a href="/About/Privacy">Privacy</a>
-                            </li>
-                            <li>
-                                <a href="/About/DMCA">Copyright/DMCA</a>
-                            </li>
-                        </ul>
-                        <h6>Contact Us</h6>
-                        <ul>
-                            <li>
-                                <a href="/Home/Contact">By Email</a>
-                            </li>
-                            <li>
-                                <a href="https://www.facebook.com/pages/Digital-DJ-Pool/320802229385" target="_blank">
-                                    Facebook
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/digitaldjpool" target="_blank">
-                                    Twitter
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://instagram.com/digitaldjpool/" target="_blank">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/c/digitaldjpool" target="_blank">
-                                    Youtube
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                <li class="hide-on-med-and-down">
+                    <a href="javascript:void(0)" class="sign-in-trigger">Sign In</a>
                 </li>
             </ul>
         </div>
     </nav>
 </header>
 
-    <main class="row hid-before-css-load">
-        <div class="col main-div s12 l10 no-padding">
+    <main class="row ">
+        <div class="col  s12 no-padding">
             
 
 <div class="col l10 offset-l1 s12">
@@ -1071,92 +1062,102 @@
                 <div class="col s12 center-align" id="loader"></div>
                 <div class="col s12 indent-top-med" id="songModalContainer"></div>
             </div>
-            <div id="crateHolder" style="display: none">
-                <div id="crate" class="card z-depth-4 crate-popup" style="display: none"></div>
+            <div id="smallModal" class="modal song-modal">
+                <div class="col s12 center-align" id="smallModalLoader"></div>
+                <div class="col s12 indent-top-med" id="smallModalContainer"></div>
             </div>
-
+            <div id="crateModal" class="modal modal-fixed-footer song-modal">
+                <div id="crateLoader" class="center"></div>
+                <div id="crateModalContainer"></div>
+            </div>
         </div>
     </main>
 
-    <div class="row no-margin page-footer-wrapper hid-before-css-load">
-    <footer class="page-footer col main-div">
+    <div class="row no-margin page-footer-wrapper ">
+    <footer class="page-footer col col s12 no-padding ">
         <div class="row col s12 footer-info">
             <div class="col s12 logo-row">
                 <br>
                 <div class="row">
-                    <div class="col l3 m5 s12">
-                        <h6>What We Do</h6>
-                        <ul>
-                            <li><a href="/Home/Music">Record Pool Info</a></li>
-                            <li><a href="/MusicPromotion">Music Promotion</a></li>
-                            <li><a href="/Pricing">Pricing</a></li>
-                            <li><a href="/About/AboutUs">About Us</a></li>
-                            <li><a href="/About/FAQ">FAQ</a></li>
-                        </ul>
+                    <div class="col m6 s12">
+                        <div class="col l6 s12">
+                            <h6>What We Do</h6>
+                            <ul>
+                                <li><a href="/Home/Music">Record Pool Info</a></li>
+                                <li><a href="/MusicPromotion">Music Promotion</a></li>
+                                <li><a href="/Pricing">Pricing</a></li>
+                                <li><a href="/About/AboutUs">About Us</a></li>
+                                <li><a href="https://digitaldjpool.com/blog/jobs" target="_blank">We're Hiring</a></li>
+                                <li><a href="/About/FAQ">FAQ</a></li>
+                                <li><a href="/blog">Blog</a></li>
+                            </ul>
+                        </div>
+                        <div class="col l6 s12">
+                            <h6>Our Members</h6>
+                            <ul>
+                                <li><a href="/Home/Testimonials">Testimonials</a></li>
+                                <li>
+                                    <a href="/FeaturedUsers">Who To Follow</a>
+                                </li>
+                                <li>
+                                    <a href="/FeaturedUsers/FeaturedDJs?pageIndex=1">Featured DJs</a>
+                                </li>
+                                <li>
+                                    <a href="/FeaturedUsers/FeaturedRecordLabels?pageIndex=1">Featured Labels</a>
+                                </li>
+                                <li>
+                                    <a href="/Profile/ResidentDJs">Resident DJs</a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="col l3 m5 s12">
-                        <h6>Our Members</h6>
-                        <ul>
-                            <li><a href="/Home/Testimonials">Testimonials</a></li>
-                            <li>
-                                <a href="/FeaturedUsers">Who To Follow</a>
-                            </li>
-                            <li>
-                                <a href="/Profile/FeaturedDJs">Featured DJs</a>
-                            </li>
-                            <li>
-                                <a href="/Profile/FeaturedLabels">Featured Labels</a>
-                            </li>
-                            <li>
-                                <a href="/Profile/ResidentDJs">Resident DJs</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col l3 m5 s12">
-                        <h6>Legal</h6>
-                        <ul>
-                            <li>
-                                <a href="/About/Terms">Terms</a>
-                            </li>
-                            <li>
-                                <a href="/About/Privacy">Privacy</a>
-                            </li>
-                            <li>
-                                <a href="/About/DMCA">Copyright/DMCA</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col l3 m5 s12">
-                        <h6>Contact Us</h6>
-                        <ul>
-                            <li>
-                                <a href="/Home/Contact">By Email</a>
-                            </li>
-                            <li>
-                                <a href="https://www.facebook.com/pages/Digital-DJ-Pool/320802229385" target="_blank">
-                                    Facebook
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/digitaldjpool" target="_blank">
-                                    Twitter
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://instagram.com/digitaldjpool/" target="_blank">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/c/digitaldjpool" target="_blank">
-                                    Youtube
-                                </a>
-                            </li>
-                        </ul>
+                    <div class="col m6 s12">
+                        <div class="col l6 s12">
+                            <h6>Legal</h6>
+                            <ul>
+                                <li>
+                                    <a href="/About/Terms">Terms</a>
+                                </li>
+                                <li>
+                                    <a href="/About/Privacy">Privacy</a>
+                                </li>
+                                <li>
+                                    <a href="/About/DMCA">Copyright/DMCA</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col l6 s12">
+                            <h6>Contact Us</h6>
+                            <ul>
+                                <li>
+                                    <a href="/Home/Contact">By Email</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/pages/Digital-DJ-Pool/320802229385" target="_blank">
+                                        Facebook
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/digitaldjpool" target="_blank">
+                                        Twitter
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/digitaldjpool/" target="_blank">
+                                        Instagram
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/c/digitaldjpool" target="_blank">
+                                        Youtube
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s12 light-blue-text">copyright 2004-2016 Digital DJ Pool</div>
+                    <div class="col s12 light-blue-text">copyright 2004-2017 Digital DJ Pool</div>
                 </div>
                 <br>
             </div>
@@ -1164,7 +1165,7 @@
         <div class="row player">
             <div class="player-container">
                 <div id="player">
-                    <div id="jplayer" class="jp-jplayer"></div>
+                    <div id="jplayer" class="jp-jplayer" style="width: 0px; height: 0px;"><img id="jp_poster_0" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_0" preload="none"></audio></div>
 <div id="jp_container_1" class="ddjp-song jp-audio">
     <div class="jp-type-single">
         <div class="jp-gui jp-interface">
@@ -1176,24 +1177,25 @@
            
             </div>
             <div class="tools tools-round left">
-                <a href="javascript:void(0)" class="ddjp-thumbs-up waves-effect waves-light"><i class="fa fa-thumbs-up"></i><span></span></a>
-                <a href="javascript:void(0)" class="ddjp-thumbs-down waves-effect waves-light"><i class="fa fa-thumbs-down"></i><span></span></a>
-                <a href="javascript:void(0)" class="ddjp-more waves-effect waves-light"><i class="material-icons">more_horiz</i></a>
+                <a href="javascript:void(0)" class="ddjp-thumbs-up waves-effect waves-light" title="Like"><i class="fa fa-thumbs-up"></i><span></span></a>
+                <a href="javascript:void(0)" class="ddjp-thumbs-down waves-effect waves-light" title="Dislike"><i class="fa fa-thumbs-down"></i><span></span></a>
+                <a href="javascript:void(0)" class="ddjp-more waves-effect waves-light" title="More"><i class="material-icons">more_horiz</i></a>
             </div>
             <ul class="jp-controls">
-                <li><a href="javascript:;" class="jp-play action"><i class="fa fa-play fa-2x"></i></a></li>
-                <li><a href="javascript:;" class="jp-pause action"><i class="fa fa-pause fa-2x"></i></a></li>
+                <li><a href="javascript:;" class="jp-play action" title="Play"><i class="fa fa-play fa-2x"></i></a></li>
+                <li><a href="javascript:;" class="jp-pause action" title="Stop" style="display: none;"><i class="fa fa-pause fa-2x"></i></a></li>
+                <li><a href="javascript:;" class="jp-skip action" title="Skip" style="display: none"><i class="fa fa-step-forward"></i></a></li>
             </ul>
-            <div class="jp-progress"><div class="jp-seek-bar blue lighten-3"><div class="jp-play-bar determinate blue lighten-1"></div></div><div class="jp-time-holder"><div class="jp-current-time"></div><div class="jp-duration"></div></div></div>
-            <div class="volume"><a href="javascript:;" class="jp-mute" title="mute"><i class="fa fa-volume-off fa-2x"></i></a></div>
-            <div class="jp-volume-bar blue lighten-3"><div class="jp-volume-bar-value  blue lighten-1"></div></div>
-            <div class="volume"><a href="javascript:;" class="jp-volume-max" title="mute"><i class="fa fa-volume-up fa-2x"></i></a></div>
+            <div class="jp-progress"><div class="jp-seek-bar blue lighten-3" style="width: 0%;"><div class="jp-play-bar determinate blue lighten-1" style="width: 0%;"></div></div><div class="jp-time-holder"><div class="jp-current-time">00:00</div><div class="jp-duration">00:00</div></div></div>
+            <div class="volume"><a href="javascript:;" class="jp-mute" title="Mute"><i class="fa fa-volume-off fa-2x"></i></a></div>
+            <div class="jp-volume-bar blue lighten-3"><div class="jp-volume-bar-value  blue lighten-1" style="width: 80%;"></div></div>
+            <div class="volume"><a href="javascript:;" class="jp-volume-max" title="Mute"><i class="fa fa-volume-up fa-2x"></i></a></div>
             <ul class="jp-toggles">
-                <li><a href="javascript:;" class="jp-repeat" title="repeat">repeat</a></li>
-                <li><a href="javascript:;" class="jp-repeat-off" title="repeat off">repeat off</a></li>
+                <li><a href="javascript:;" class="jp-repeat">repeat</a></li>
+                <li><a href="javascript:;" class="jp-repeat-off" style="display: none;">repeat off</a></li>
             </ul>
         </div>
-        <div class="jp-no-solution"><span>Update Required</span>To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.</div>
+        <div class="jp-no-solution" style="display: none;"><span>Update Required</span>To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.</div>
         <input type="hidden" class="hid-song-id">
         <input type="hidden" class="hid-song-artist">
         <input type="hidden" class="hid-song-title">
@@ -1202,8 +1204,6 @@
         <input type="hidden" class="hid-song-liked-count">
         <input type="hidden" class="hid-song-disliked-count">
         <a class="hide song-info-link" data-ajax="true" data-ajax-complete="HideLoader('loader', 'songModalContainer');" data-ajax-mode="replace" data-ajax-update="#songModalContainer" href="javascript:void(0)">none</a>
-        <a class="hide crate-info-link" data-ajax="true" data-ajax-complete="HideLoader('loader', 'songModalContainer');" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#crate" href="javascript:void(0)">none</a>
-        
     </div>
 
 </div>
@@ -1223,41 +1223,19 @@
         </div>
     </footer>
 </div>
-
+    <script src="/js/bundle.min.js?v=1.17.29.1" type="text/javascript"></script>
+    
+    
     <script>
-        function onCssLoaded() {
-            var hiddenElements = [].slice.call(document.getElementsByClassName("hid-before-css-load"));
-            var hiddenElementsLength = hiddenElements.length;
-            for (var i = 0; i < hiddenElementsLength; ++i) {
-                hiddenElements[i].className = hiddenElements[i].className.replace(/\bhid-before-css-load\b/, '');
+        $(document).ready(function () {
+            var ss = document.styleSheets;
+            for (var i = 0, max = ss.length; i < max; i++) {
+                if (ss[i].href != null && ss[i].href.indexOf("bundle.min.css") > -1) {
+                    ensureHiddenElements();
+                    return;
+                }
             }
-        }
-
-        function _cssIsLoaded(cssStylesheet) {
-            var cssLoaded = 0;
-            try {
-                if (cssStylesheet.sheet && cssStylesheet.sheet.cssRules.length > 0)
-                    cssLoaded = 1;
-                else if (cssStylesheet.styleSheet && cssStylesheet.styleSheet.cssText.length > 0)
-                    cssLoaded = 1;
-                else if (cssStylesheet.innerHTML && cssStylesheet.innerHTML.length > 0)
-                    cssLoaded = 1;
-            }
-            catch (ex) { }
-
-            if (cssLoaded) {
-                onCssLoaded();
-            } else {
-                setTimeout(_cssIsLoaded.bind(null, cssStylesheet), 50);
-            }
-        }
-        var linkStyleCss = document.getElementById("linkStyleCss");
-        _cssIsLoaded(linkStyleCss);
+        });
     </script>
 
-    <script src="/js/bundle.min.js?v=1.0.47.6" type="text/javascript"></script>
-    
-    
-    <script src="/js/hopscotch/js/hopscotch.min.js"></script>
-
-</body></html>
+<div class="hiddendiv common"></div></body></html>
