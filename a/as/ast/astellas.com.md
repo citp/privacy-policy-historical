@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astellas.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611053333id_/http%3A//www.astellas.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astellas.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003033819id_/https%3A//www.astellas.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Astellas Pharma Inc.
+# Privacy Policy | Astellas Pharma Inc. GLOBAL WEBSITE
 
 ##  Personal Information Protection Policy
 
