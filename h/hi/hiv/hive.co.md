@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hive.co privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216082817id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hive.co privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003182016id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.*
 
-# Hive.co -
+# Hive.co - Collect audience data & sell more stuff
 
 ## HIVE PRIVACY POLICY
 
