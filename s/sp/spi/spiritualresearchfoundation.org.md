@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611164955id_/http%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003113852id_/https%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
-[http://www.ssrf.org](http://www.ssrf.org/) and [http://www.spiritualresearchfoundation.org](http://www.spiritualresearchfoundation.org/)
+[http://www.ssrf.org](http://www.ssrf.org/) and [https://www.spiritualresearchfoundation.org](https://www.spiritualresearchfoundation.org/)
 
 ## 1 Our philosophy and approach
 
