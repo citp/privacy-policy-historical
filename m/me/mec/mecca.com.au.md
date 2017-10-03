@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085655id_/http%3A//mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003133158id_/http%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | MECCA
 
@@ -101,7 +101,7 @@ We may disclose any information, including Personal Information to law enforceme
 
 We may retain other companies and individuals to perform functions consistent with our Privacy Policy on our behalf. Examples include customer support specialists, hosting companies, web developers, internet service providers, fulfilment companies (eg companies that coordinate mailings), marketing, analysis and research and data analysis firms, data centres, cloud based storage providers, customer relationship management providers, email service providers, financial and credit card institutions in order to process any payments, insurers and external business advisors (such as auditors and lawyers). Such third parties may be provided with access to Personal Information needed to perform their functions, but may not use such information for any other purpose. In all circumstances where your Personal Information is disclosed, we will ensure that these third parties undertake to protect your privacy.
 
-These third parties may be located both in and outside Australia. In particular, as at the date this Privacy Policy was most recently updated, your Personal Information may be disclosed to recipients in Hong Kong, Japan and United States of America, and other countries from time to time. If you subsequently decide that you do not wish to receive information from them you may let us know by Contacting Us.
+These third parties may be located both in and outside Australia. In particular, as at the date this Privacy Policy was most recently updated, your Personal Information may be disclosed to recipients in Hong Kong, Japan, European Economic Area and United States of America, and other countries from time to time. If you subsequently decide that you do not wish to receive information from them you may let us know by Contacting Us.
 
 Prior to the disclosure of Personal Information to a person overseas, we will take such steps as reasonable in the circumstances to ensure that the overseas recipient treats your Personal Information securely and otherwise complies with the relevant Australian Privacy Principles in relation to the Personal Information.
 
@@ -163,4 +163,10 @@ Please do not email the Privacy Officer for any matters that do not relate to Pr
 
 ##### 16\. MORE INFORMATION
 
-More information about Privacy law and the Australian Privacy Principles is available from the Federal Privacy Commissioner’s website [www.privacy.gov.au](https://www.oaic.gov.au/) Copyright © MECCA Brands Pty Ltd 2016. All rights reserved
+More information about Privacy law and the Australian Privacy Principles is available from the Federal Privacy Commissioner’s website [www.privacy.gov.au](https://www.oaic.gov.au/) 
+
+MECCA Brands:
+
+34 Wangaratta Street, Richmond VIC 3121 | customerservice@mecca.com.au
+
+Copyright © MECCA Brands Pty Ltd 2016. All rights reserved
