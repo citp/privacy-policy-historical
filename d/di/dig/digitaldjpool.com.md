@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldjpool.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224125321id_/https%3A//digitaldjpool.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldjpool.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003225011id_/https%3A//digitaldjpool.com/About/Privacy) for the most accurate reproduction.*
 
 # The DJ Pool privacy policy
 
