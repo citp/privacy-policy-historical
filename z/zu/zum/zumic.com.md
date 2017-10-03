@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the zumic.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201183307id_/http%3A//zumic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumic.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003120058id_/https%3A//zumic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zumic - Free Music
-
-Privacy Policy
-
-Last updated: March 26, 2015
+# Privacy Policy | Zumic
 
 ZUMIC ENTERTAINMENT, INC. (“Zumic”) is committed to respecting the privacy rights of all users of and visitors to the “Zumic Websites,” namely, http://zumic.com, and the other directly associated Zumic domains (individually or collectively referred to herein and in the Terms of Use as either the “Website” or the “Websites”). We have established, updated and implemented this Privacy Policy to assist our Users to enjoy the features of the Website with the necessary amount of notice, information, and guidance to understand and appreciate how the use of these features and services made available through the Website impact your privacy rights and the rights of our advertisers, partners, sponsors, music labels, distributors, artists, bands, writers and contributors to our Websites. “Zumic,” “we,” “us,” and “our” means Zumic Entertainment, Inc.
 
