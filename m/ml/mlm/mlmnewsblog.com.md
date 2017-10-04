@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the mlmnewsblog.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422003034id_/http%3A//mlmnewsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmnewsblog.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004160929id_/https%3A//mlmnewsblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » MLMNewsBlog.com
 
-**What information do we collect?**
+Privacy Policy
+
+3.3 (65%) 4 votes
+
+ **What information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
 
@@ -63,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://MLMNewsBlog.com](http://web.archive.org/web/20110518031114/http://mlmnewsblog.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://MLMNewsBlog.com](http://web.archive.org/web/20110518031114/https://mlmnewsblog.com/)
 
  **Your Consent**
 
@@ -85,4 +89,4 @@ support@mlmnewsblog.com
 
 Privacy Policy Created by MLM News Blog
 
-[](http://mlmnewsblog.com/create-listing/)
+[](https://mlmnewsblog.com/create-listing/)
