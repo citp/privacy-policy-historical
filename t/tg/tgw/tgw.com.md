@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029101156id_/http%3A//www.tgw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004232633id_/https%3A//www.tgw.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy for TGW.com
 
