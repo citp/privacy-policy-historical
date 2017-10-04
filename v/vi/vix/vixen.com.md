@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vixen.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409204631id_/https%3A//www.vixen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vixen.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004150226id_/https%3A//www.vixen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : VIXEN.COM
 
