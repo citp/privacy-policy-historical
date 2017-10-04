@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125234832id_/http%3A//www.sociamonials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004022130id_/https%3A//www.sociamonials.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
