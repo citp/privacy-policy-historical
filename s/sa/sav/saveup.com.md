@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906230908id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004074530id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
 
 # SaveUp Privacy Policy
 
@@ -110,8 +110,8 @@ SaveUp welcomes your comments or questions regarding this Privacy Policy. Please
 
 SaveUp, Inc.   
 Attn: Customer Service   
-28392 Ballard Dr.,   
-Lake Forest, IL 60045 
+2345 Waukegan Rd., Suite 140,   
+Bannockburn, IL 60015 
 
 ##### Dispute Resolution
 
