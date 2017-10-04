@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the port25.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401140459id_/https%3A//www.port25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the port25.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004084545id_/https%3A//port25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Port25 Solutions, Inc.
 
@@ -164,11 +164,11 @@ If you are not satisfied with the response of the Privacy Officer, you can appea
 General Counsel  
 9130 Guilford Rd.  
 Columbia, Maryland 21046  
-[legal@messagesystems.com](https://web.archive.org/web/20170401140459id_/https://www.port25.com/privacy-policy/legal@messagesystems.com)  
+[legal@messagesystems.com](https://web.archive.org/web/20171004084545id_/https://www.port25.com/privacy-policy/legal@messagesystems.com)  
 How to contact us  
 Address any questions about our policy to:  
 Privacy Officer  
-[privacy@messagesystems.com](https://web.archive.org/web/20170401140459id_/https://www.port25.com/privacy-policy/privacy@messagesystems.com)
+[privacy@messagesystems.com](https://web.archive.org/web/20171004084545id_/https://www.port25.com/privacy-policy/privacy@messagesystems.com)
 
 SAFE HARBOR PRIVACY STATEMENT
 
