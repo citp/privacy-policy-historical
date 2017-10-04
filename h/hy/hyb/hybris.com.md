@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybris.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624053116id_/http%3A//www.hybris.com/en/disclaimer/hybris-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybris.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004084700id_/http%3A//www.hybris.com/en/disclaimer/hybris-privacy-statement) for the most accurate reproduction.*
 
 # SAP Privacy Statement | SAP Hybris
 
@@ -113,7 +113,7 @@ SAP will only gather information related to your visit to the SAP site. We do no
 
 In addition to the information you provide, SAP may also collect information during your visit to a SAP website through Automated Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an SAP website. Using these tools, SAP is also able to confirm receipt of e-mails that the recipient consented to receive, and can track other information such as pages visited on the relevant SAP site and whether or not the recipient registers for an event offered by SAP and certain other aggregate data that is not related to a particular individual.
 
-Unless another mean to make your choice is listed below, you may refuse the use of Automated Tools like cookies (i) if the relevant website supports TRUSTe Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TRUSTe Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser regarding cookies are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the tracking cookies in the browsers of all relevant devices. However kindly further note that if you do this you may not be able to use the full functionality of the relevant site.
+Unless another mean to make your choice is listed below, you may refuse the use of Automated Tools like cookies (i) if the relevant website supports TrustArc Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TrustArc Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser regarding cookies are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the tracking cookies in the browsers of all relevant devices. However kindly further note that if you do this you may not be able to use the full functionality of the relevant site.
 
 SAP is in particular currently using the following Automated Tools for the purposes set out below.
 
@@ -124,7 +124,7 @@ Some websites which refer to this Privacy Statement use Adobe Analytics. Adobe A
 
 Furthermore, if you are a registered user and logged on, SAP uses Adobe Analytics to track your user ID together with how you use the relevant website.
 
-In addition to an opt-out by way of the TRUSTe Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
+In addition to an opt-out by way of the TrustArc Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
 
    
 **b. Adobe Target**
@@ -133,7 +133,7 @@ Some websites which refer to this Privacy Statement use Adobe Target. Adobe Targ
 
 This information is used to display targeted content on the SAP group websites using Adobe Target.
 
-In addition to an opt-out by way of the TRUSTe Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
+In addition to an opt-out by way of the TrustArc Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
 
    
 **c. Google Analytics**
@@ -142,14 +142,14 @@ Some websites which refer to this Privacy Statement use Google Analytics. Google
 
 Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
-In addition to an opt-out by way of TRUSTe Consent Manager (where available), Google has developed the Google Analytics Opt-out Browser Add-on. It provides website visitors more choice on how their data is collected by Google Analytics. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. It can be downloaded here: <http://tools.google.com/dlpage/gaoptout?hl=en>
+In addition to an opt-out by way of TrustArc Consent Manager (where available), Google has developed the Google Analytics Opt-out Browser Add-on. It provides website visitors more choice on how their data is collected by Google Analytics. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. It can be downloaded here: <http://tools.google.com/dlpage/gaoptout?hl=en>
 
    
 **d. SAP Web Analytics**
 
 Some websites which refer to this Privacy Statement use SAP Web Analytics ( **“SWA”** ). SWA helps to analyze how users use the relevant site. The information generated (including a part of your IP address and a browser-ID) will be transmitted to and stored by SAP. SAP will use this information only for the purpose of evaluating your use of the website and compiling reports on website activity for website operators – and finally, to improve SAP’s websites.
 
-Each website which uses SWA contains a separate statement regarding such use and provides for an option of the user to opt-out of the tracking by SWA either directly in the relevant statement or by way of the TRUSTe Consent Manager which can be reached over a link on the relevant page (where available).
+Each website which uses SWA contains a separate statement regarding such use and provides for an option of the user to opt-out of the tracking by SWA either directly in the relevant statement or by way of the TrustArc Consent Manager which can be reached over a link on the relevant page (where available).
 
    
 **e. Usage tracking for marketing purposes**
@@ -172,9 +172,9 @@ Cookies are identifiers that can be sent from a site via your browser to be plac
 
 We offer to you the following two ways to make your choice regarding SAP’s use of cookies:
 
-aa. Some websites of SAP use the TRUSTe Consent Manager to enable users to make their choices regarding SAP’s use of cookies. Wherever the TRUSTe Consent Manager is used, you will find in a footer a link to it. Please click on that link to access the TRUSTe Consent Manager and to make your choice regarding SAP’s use of cookies.
+aa. Some websites of SAP use the TrustArc Consent Manager to enable users to make their choices regarding SAP’s use of cookies. Wherever the TrustArc Consent Manager is used, you will find in a footer a link to it. Please click on that link to access the TrustArc Consent Manager and to make your choice regarding SAP’s use of cookies.
 
-bb. In case a SAP website does not use the TRUSTe Consent Manager, you may refuse the use of cookies by selecting the appropriate settings in your browser. Kindly note that the settings in your browser regarding cookies is limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the cookies in the browsers of all relevant devices. Furthermore, please note that if you disable cookies you may not be able to use the full functionality of a website.
+bb. In case a SAP website does not use the TrustArc Consent Manager, you may refuse the use of cookies by selecting the appropriate settings in your browser. Kindly note that the settings in your browser regarding cookies is limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the cookies in the browsers of all relevant devices. Furthermore, please note that if you disable cookies you may not be able to use the full functionality of a website.
 
    
  **h. SAP Hybris Profile**
@@ -185,7 +185,7 @@ SAP Hybris Profile helps to analyze how users use the relevant site. The informa
 
 SAP Hybris Profile uses IP addresses to identify the region from which a user accesses the website. Therefore, SAP Hybris Profile collects the full IP address of users in a first step and then anonymizes it.
 
-If you are a registered user and logged on, SAP Hybris Profile uses this information and your user ID to track how you use the relevant website. You can opt out of SAP Hybris Profile by way of the TRUSTe Consent Manager (where available), or by using this link: [https://profile.yaas.io/#!/opt-out/thybriscomt/](https://profile.yaas.io/#!/opt-out/thybriscomt)
+If you are a registered user and logged on, SAP Hybris Profile uses this information and your user ID to track how you use the relevant website. You can opt out of SAP Hybris Profile by way of the TrustArc Consent Manager (where available), or by using this link: [https://profile.yaas.io/#!/opt-out/thybriscomt/](https://profile.yaas.io/#!/opt-out/thybriscomt)
 
 **_»  Back to Top_**
 
@@ -264,7 +264,7 @@ To the extent that SAP is subject to US privacy requirements, the below applies 
    
 **a. Do Not Track**
 
-Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. Thereafter when you visit a site, a message is sent back to the web server by the browser accessing the site. Your browser may allow you to set a “Do not track” preference. Our site does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your web browser or, where available by way of the TRUSTe Consent Manager if the relevant website contains a link to it. However, not utilizing cookies may prevent you from using certain functions and features of our site. This site does not allow third parties to gather information about you over time and across sites.
+Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. Thereafter when you visit a site, a message is sent back to the web server by the browser accessing the site. Your browser may allow you to set a “Do not track” preference. Our site does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your web browser or, where available by way of the TrustArc Consent Manager if the relevant website contains a link to it. However, not utilizing cookies may prevent you from using certain functions and features of our site. This site does not allow third parties to gather information about you over time and across sites.
 
    
 **b. Requirements to Protect Children's Privacy**
