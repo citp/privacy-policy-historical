@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130352id_/http%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004103059id_/http%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
 
 # Important information for patients and families - Privacy & Confidentiality - Sunnybrook Hospital
 
