@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apu.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110413id_/http%3A//www.apu.edu/about/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apu.edu privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004175009id_/https%3A//www.apu.edu/about/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - About This Site - Azusa Pacific University
+# About This Site - Azusa Pacific University
 
 Azusa Pacific University respects your privacy rights and has adopted clear guidelines for all of its departments and offices requiring that information you submit is only to be used for the purposes for which you have consented. Azusa Pacific University will never sell or rent any personal information collected from you to any third party. The following summarizes key points in our [full privacy policy](https://web.archive.org/about/site/privacy/full/).
 
@@ -52,6 +52,6 @@ This Privacy Policy does _not_ cover information collected through means other t
   * APU Intranet: [home.apu.edu](http://home.apu.edu/)
   * APU Sakai: [sakai.apu.edu](http://sakai.apu.edu/)
   * NACE Link: [apu-csm.symplicity.com](http://apu-csm.symplicity.com/)  
-For more information, read the Office of Career Services’ [Privacy Policy (PDF)](http://www.apu.edu/live_data/files/157/privacy_policy.pdf).
+For more information, read the Office of Career Services’ [Privacy Policy (PDF)](https://www.apu.edu/live_data/files/157/privacy_policy.pdf).
 
 
