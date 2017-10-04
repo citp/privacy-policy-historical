@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelstalk.net privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520193520id_/http%3A//www.pixelstalk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelstalk.net privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004064532id_/https%3A//www.pixelstalk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PixelsTalk.Net
 
@@ -23,43 +23,3 @@ Google, We present you the following information about Google and the [DoubleCl
 ### **Contact Information**
 
 Concerns or questions about this privacy policy can be directed to **pixelstalk@gmail.com**  for further clarification. 
-
-» How to change the desktop wallpaper for Windows/MAC or Mobile, tablet device. Show more for details ...
-
-### How to Set the Windows Desktop Backgrounds:
-
-The simplest way to set a picture as the desktop wallpaper is to open it so that you can see the image, and then right-click it to choose  **Set as desktop background**. 
-
-You also see this option when you right-click the picture file in Windows Explorer; you don't even have to open the picture to set it as the desktop wallpaper. 
-
-Another way to change the desktop wallpaper in Windows is to right-click the desktop itself and select  **Personalize  **(or  _Properties_  in Windows XP). From here, you can choose a new desktop background image as well as decide if you want the photo to be tiled, centered, or stretched across the screen. 
-
-### **How to  personalize your Mac's desktop wallpaper:**
-
-In Desktop & Screen Saver preferences, you can change the picture that’s displayed on your desktop. Your Mac comes with dozens of desktop pictures to choose from, but you can also use your own pictures, or choose a solid color. 
-
-  1. Choose Apple menu >  **System Preferences** , click **Desktop & Screen Saver**, then click **Desktop**.
-
-  2. Find the picture you want to use: 
-
-    * Use a picture that comes with your Mac:  **Select Desktop Pictures** below Apple.
-
-    * Use a solid color: Select **Solid Colors** below Apple.
-
-    * Use your own picture: Select a location below **Photos** or **iPhoto**. You can also select **Pictures** below **Folders** if the image you want is in your Pictures folder.If your image is in another folder, click Add +, navigate to and select the folder, then click **Choose**.
-
-  3. Click the picture you want on the right.
-
-
-
-
-### How to change your wallpaper on an **iOS/iPhone, Android/Samsung mobile phone**
-
-  * If you're using an iPhone, here's [how to change your iPhone wallpaper](https://web.archive.org/how-to-change-your-iphone-wallpaper/). The same steps should apply for iPad and iPod touch devices too.
-
-  * Android users can see [this quick guide for changing the Android phone wallpaper](https://web.archive.org/how-to-change-the-wallpaper-of-an-android-phone/).
-
-
-
-
-» Show less
