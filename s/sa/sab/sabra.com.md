@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630194038id_/http%3A//www.sabra.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004194224id_/http%3A//sabra.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sabra - Privacy Policy
 
@@ -63,7 +63,7 @@ We may use the information we obtain about you when you visit the Site to:
   * Verify your identity
   * Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research and data analytics; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and websites; administering our websites; and performing accounting, auditing, billing, reconciliation and collection activities)
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms of Service.](https://web.archive.org/web/20170630194038id_/http%3A//www.sabra.com/terms-of-service.html)
+  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms of Service.](https://web.archive.org/web/20171004194224id_/http%3A//sabra.com/terms-of-service.html)
 
 
 
@@ -101,6 +101,6 @@ PO Box 660634
 Dallas, TX 75266-0634  
 1-888-957-2272  
 Monday – Friday 9:00AM to 4:30PM Central  
-[Contact Us. ](https://web.archive.org/web/20170630194038id_/http%3A//www.sabra.com/contactus.html)
+[Contact Us. ](https://web.archive.org/web/20171004194224id_/http%3A//sabra.com/contactus.html)
 
 This Privacy Policy is effective as of October 14, 2010
