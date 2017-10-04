@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326122125id_/https%3A//fiplab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004114939id_/https%3A//fiplab.com/privacy) for the most accurate reproduction.*
 
 # FIPLAB - Privacy Policy
 
@@ -13,7 +13,7 @@ FIPLAB Ltd may change this policy from time to time by updating this page. You s
 We may collect the following information:
 
   * name (if you provide it to us)
-  * contact email address (should you decide to sign up for your newsletter or setup a MiniNote cloud syncing account)
+  * contact email address (if you provide it to us)
   * computer IP address
   * other information relevant to our applications such as **anonymous** usage statistics
   * data you provide in the use of our applications and services (e.g. if you use our MiniNote cloud syncing service, we will hold the note data you provide on our secure cloud servers)
@@ -26,11 +26,11 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping
   * Improving our applications and services
-  * Sending emails about our applications using the email address which you have provided (only if you have opted in to our newsletter)
+  * Sending emails about our applications using the email address which you have explicitly provided
   * Website and application anonymous usage/traffic monitoring
-  * Application specific features such as user accounts for data syncing etc.
-  * We may use the information to customise the website according to your interests.
-  * We may disclose the data to trusted service providers whom we rely on for hosting, marketing and analytics solutions. In all such cases, we will ensure the service provider agrees to keep the data confidential. This is quite standard with all companies, so there is no cause for concern. For example, we have to store the data you provide to us to make the note cloud syncing service possible with hosting companies, such as Amazon Cloud. This is required for the cloud syncing to function. Also, if you CHOOSE to opt-in to our newsletter, then we'll have to hold your contact details with our mailing list provider, MailChimp.
+  * Application specific features such as user accounts for data syncing etc
+  * We may use the information to customise the website according to your interests
+  * We may disclose the data to trusted service providers whom we rely on for hosting, marketing and analytics solutions. In all such cases, we will ensure the service provider agrees to keep the data confidential. This is quite standard with all companies, so there is no cause for concern. For example, we have to store the data you provide to us to make the note cloud syncing service possible with hosting companies, such as Amazon Cloud. This is required for the cloud syncing to function. Also, if you provide us with your email address, then we'll have to hold your contact details with our mailing list provider, MailChimp
 
 
 
