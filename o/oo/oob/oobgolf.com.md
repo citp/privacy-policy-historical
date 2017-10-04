@@ -1,88 +1,45 @@
-> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074749id_/http%3A//oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004222929id_/http%3A//www.oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
 
-# oobgolf
+# SkyGolf: legal - privacy
 
-This document was last updated on May 13, 2008.
+At SkyHawke Technologies, LLC ("SkyHawke"), we are committed to protecting the privacy of the information you provide to us. All of the information we collect about you is strictly used to process your orders, secure and maintain your course and performance storage data, and provide a convenient, personalized shopping and product use experience. Please read the additional information below for more details about our privacy policy.
 
-**1\. Acknowledgment and acceptance of terms**
+**What information do we collect and how do we use it?**
 
-oobgolf is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website.� �By accessing oobgolf/http://www.oobgolf.com, you acknowledge and fully understand oobgolf�s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+When you register your SkyGolf® product electronically, we obtain and store your product's electronic serial number, your name, mailing address, shipping address, e-mail address, user name and password, telephone number, and optional information you voluntarily submit to us, such as age range, the places you go on vacation, and how many times a year you go on vacation. This allows us to properly register your product, maintain an account for you on our website, www.skygolf.com, and provide access to your course and performance data, and to issue you a unique registration code. It also helps us provide you with premium customer support.
 
-**2\. Participating Merchant Policies**
+When you place an order, we obtain and store your name, shipping address, billing address, e-mail address, a password, and a password hint (in the event you forget your password). This allows us to authorize you to obtain software updates, downloads and allows us should you select an Annual SkyCaddie® Membership Plan subscription to establish your course and performance storage information on our web site.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in oobgolf�s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.� However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.� We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+For electronic purchases you make on our website, a secured third-party financial services company will request and manage your payment and personal identifying information to authorize billing charges to be posted to your credit card account. Except for customers who subscribe to an Annual SkyCaddie® Membership Plan, SkyHawke does not capture or retain your electronic payment information, such as credit card account information. For all electronic merchandise purchases from our web site, SkyHawke temporarily retains the credit card data and personal identification information in a highly secured, encrypted electronic format only long enough to authorize your credit card to be charged using a secure third party financial services company, and your order processed.
 
-**3. Information We Collect and How We Use It**
+For those customers who subscribe via our website, www.skygolf.com, to an Annual SkyCaddie® Membership Plan, we do retain certain portions of your electronic payment data for use only for subscription renewal purposes, and only in an off-line, highly secured, encrypted, machine readable only (non-readable by human eyes) format or with a secured, third party financial services company who receives and manages your credit card number and other personal identifying information only to verify the credit card number and process transactions.
 
-oobgolf collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+For non-electronic purchases you make via facsimile or telephone, and you provide us your credit card data and personal identifying information to authorize billing charges to be posted to your credit card account, SkyHawke temporarily retains the credit card data and personal identification information only long enough to authorize your credit card to be charged using a secure third party financial service company, and your order processed. While SkyHawke has this information in its possession, your payment and personal identification information is carefully secured so that only authorized SkyHawke personnel have access to and use of this information. After processing your order, your payment and personal identification information is securely purged and is not retained by SkyHawke.
 
-**a.      ****Web Server Logs**.
+When you submit a support question online, we request and retain only your name and e-mail address. This allows us to promptly address your issue and communicate our response to you via e-mail.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+**How does the SkyGolf website protect customer information?**
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
-  * Pages you viewed on the site.
+The SkyGolf website uses the latest web security and encryption technology to keep your personal information safe. All your ordering information — including your name and address — is encrypted using a secure server for maximum security.
 
+For Annual SkyCaddie® Membership Plans and only for the use for renewal subscription purposes, we do retain certain portions of your electronic payment data, and only in an off-line, highly secured, encrypted, machine readable only (non-readable by human eyes) format or with a secured, third party financial services company who receives and manages your credit card number and other personal identifying information only to verify the credit card number and process transactions. For all other electronic purchases, a secure third party financial services company receives and manages your credit card number and other personal identifying information only to verify the credit card number and process transactions. SkyHawke never retains any credit information on any of its on-line servers. When making electronic purchases, we are simply notified by the secured third party financial institution as to whether your credit card transaction is approved or declined.
 
+**Will SkyGolf disclose the information it collects to outside parties?**
 
-**b. Use of Cookies**
+No. The information we collect from you is used to service your account with us. Unless you consent, the only time SkyGolf may release account information is if we believe, in good faith, that such release is reasonably necessary to (i) comply with any mandates from governmental authorities, (ii) comply with any laws, (iii) enforce or apply the terms of any of our user agreements, or (iv) protect the rights, property, or safety of the SkyGolf website, our users, or others.
 
-oobgolf may use cookies to personalize or enhance your user experience.� A cookie is a small text file that is placed on your hard disk by a Web page server.� Cookies cannot be used to run programs or deliver viruses to your computer.� Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.� 
+**How does the SkyGolf website allow customers to update or change the information it collects?**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time.� For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.� Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.� 
+If at any time you would like to change any information in your account, you may update your account information on our website by logging on with your user name and password, you may e-mail your changes to us at customerservice@skygolfgps.com, or you may call our Customer Service department during normal business hours. In order for us to process your changes, we must be able to verify your sending email address as your registered email address on our web site. For security reasons, you must also provide us your website user name only in any correspondence to authorize any changes. PLEASE DO NOT PLACE YOUR PASSWORD INFORMATION IN AN EMAIL TO US! A customer service representative will verify your authorization and process your changes as soon as possible.
 
-oobgolf reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into oobgolf.com a site that relies on third-party cookies).
+**How does SkyGolf protect the privacy of children younger than 13?**
 
-You have the ability to accept or decline cookies.� Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+SkyGolf is concerned about the privacy of young children and does not knowingly collect any personal information from a child under 13. We suggest that you become involved with your child's access to the Internet and to our site to ensure that his or her privacy is well protected.
 
-  3. **Personal Information Users**
+**Your consent**
 
+By using our website, you consent to the collection and use of this information by SkyGolf . If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
+If you have any questions about our privacy policy, please contact our Customer Service department from our Contact webpage.
 
-Visitors to our website can register to access services.� When you register, we will request some personal information such as name, email, and other relevant information.� You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-�  To fulfill your service requests for services.
-
-�  To protect ourselves from liability,
-
-�  To respond to legal process or comply with law, or
-
-�  In connection with a merger, acquisition, or liquidation of the company.
-
-**4. Use of Web Beacons or GIF files**
-
-oobgolf/http://www.oobgolf.com Web pages may contain electronic images known as Web beacons � sometimes also called single-pixel gifs � that allow oobgolf to count users who have visited those pages and to deliver co-branded services.� oobgolf may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.� These Web beacons may be used by these service providers to place a persistent cookie on your computer.� This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.� oobgolf prohibits Web beacons from being used to collect or access your personal information.
-
-**5\. Accessing Web Account Information**
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.� You may review this information by contacting us by sending an email to info@oobgolf.com.
-
-**6. Changes to this Statement**
-
-oobgolf has the discretion to occasionally update this privacy statement.� When we do, we will also revise the �updated� date at the top of this Privacy page.� We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.� Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-**7\. Contacting Us**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.
-
-info@oobgolf.comor send your comments to :
-
-oobgolf
-
-Attention:� Privacy Statement Personnel
-
-274 Commerce Park Drive
-
-Ridgeland, MS 39157
-
-oobgolf will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+Revised: 06/04/2010
