@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dopehood.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222918id_/http%3A//www.dopehood.se/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dopehood.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004061110id_/http%3A//www.dopehood.se/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy // DopeHood
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 DopeHood.se may collect and use Users personal information for the following purposes:
 
-  * _To run and operate our Site (Store your favorite songs)_  
+  *  _To run and operate our Site (Store your favorite songs)_  
 We may need your information display content on the Site correctly.
 
 
@@ -55,7 +55,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 DopeHood.se may collect and use Users personal information for the following purposes:
 
-  * _To run and operate our Site_  
+  *  _To run and operate our Site_  
 We may need your information display content on the Site correctly.
 
 
