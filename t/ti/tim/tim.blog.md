@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tim.blog privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626022844id_/http%3A//tim.blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tim.blog privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004125744id_/https%3A//tim.blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blog of Author Tim Ferriss
 
-**Please read this Privacy Policy and our[Terms of Service](http://www.fourhourworkweek.com/blog/about/terms-of-service/) carefully before using this Web site.**
+**Please read this Privacy Policy and our[Terms of Service](https://www.fourhourworkweek.com/blog/about/terms-of-service/) carefully before using this Web site.**
 
 This Privacy Policy applies to the Web site **[http://www.fourhourworkweek.com](http://www.fourhourworkweek.com/)** and all associated sites (the “Site”).  This Privacy Policy describes the information we collect on the Site and how Seneca and Marcus, LLC and associated companies (“we,” “our” or “us”) uses it, the choices you can make about your information and how we protect your information.
 
@@ -26,9 +26,9 @@ Visitor information described above under “Information that we collect and how
 
 **Your choices and access**
 
-We want to keep your name and email address accurate.  You can correct or update your name or email address that you have provided us.  Corrections can be submitted through [this form](http://fourhourworkweek.com/corrections/%20%E2%80%8E). Please [click here](http://fourhourworkweek.com/corrections/%20%E2%80%8E) to fill it out. Readers dissatisfied with a response may reach us via email at PHaggerty [at] perkinscoie (dot) com.
+We want to keep your name and email address accurate.  You can correct or update your name or email address that you have provided us.  Corrections can be submitted through [this form](https://fourhourworkweek.com/corrections/%20%E2%80%8E). Please [click here](https://fourhourworkweek.com/corrections/%20%E2%80%8E) to fill it out. Readers dissatisfied with a response may reach us via email at PHaggerty [at] perkinscoie (dot) com.
 
-The Site may allow you to choose to receive or stop receiving communications from us. You can prevent further use of your name or email address by submission through [this form](http://fourhourworkweek.com/corrections/%20%E2%80%8E). Please [click here](http://fourhourworkweek.com/corrections/%20%E2%80%8E) to fill it out. Readers dissatisfied with a response may reach us via email at PHaggerty [at] perkinscoie (dot) com.
+The Site may allow you to choose to receive or stop receiving communications from us. You can prevent further use of your name or email address by submission through [this form](https://fourhourworkweek.com/corrections/%20%E2%80%8E). Please [click here](https://fourhourworkweek.com/corrections/%20%E2%80%8E) to fill it out. Readers dissatisfied with a response may reach us via email at PHaggerty [at] perkinscoie (dot) com.
 
 **Links to other Web sites**
 
@@ -48,7 +48,7 @@ We take reasonable steps to protect personal information from loss and misuse. P
 
 **Children’s Privacy**
 
-The Site is not intended for use by children under the age of 13. We will not knowingly collect personal information from them. If we discover that a child has provided us with personal information, we will use reasonable efforts to delete this information. If you have reason to believe we may have accidentally received personal information from a child under the age of 13, please immediately submit details through [this form](http://fourhourworkweek.com/corrections/%20%E2%80%8E). Please [click here](http://fourhourworkweek.com/corrections/%20%E2%80%8E) to fill it out. Readers dissatisfied with a response may reach us via email at PHaggerty [at] perkinscoie (dot) com.
+The Site is not intended for use by children under the age of 13. We will not knowingly collect personal information from them. If we discover that a child has provided us with personal information, we will use reasonable efforts to delete this information. If you have reason to believe we may have accidentally received personal information from a child under the age of 13, please immediately submit details through [this form](https://fourhourworkweek.com/corrections/%20%E2%80%8E). Please [click here](https://fourhourworkweek.com/corrections/%20%E2%80%8E) to fill it out. Readers dissatisfied with a response may reach us via email at PHaggerty [at] perkinscoie (dot) com.
 
 **Changes to this Privacy Policy**
 
@@ -56,4 +56,4 @@ We may modify, alter or update this Privacy Policy at any time. We will not prov
 
 This Privacy Policy was last updated on November 25, 2014 **.**
 
-Please check out [Tools of Titans](http://toolsoftitans.com/), my new book, which shares the tactics, routines, and habits of billionaires, icons, and world-class performers. It was distilled from more than 10,000 pages of notes, and everything has been vetted and tested in my own life in some fashion. The tips and tricks in [Tools of Titans](http://toolsoftitans.com/) changed my life, and I hope the same for you. [Click here](http://toolsoftitans.com/) for sample chapters, full details, and a Foreword from Arnold Schwarzenegger!
+Please check out [Tools of Titans](http://toolsoftitans.com/), my latest book, which shares the tactics, routines, and habits of billionaires, icons, and world-class performers. It was distilled from more than 10,000 pages of notes, and everything has been vetted and tested in my own life in some fashion. The tips and tricks in [Tools of Titans](http://toolsoftitans.com/) changed my life, and I hope the same for you. [Click here](http://toolsoftitans.com/) for sample chapters, full details, and a Foreword from Arnold Schwarzenegger.
