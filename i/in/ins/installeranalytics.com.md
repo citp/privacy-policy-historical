@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installeranalytics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144331id_/http%3A//www.advancedinstaller.com/analytics/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installeranalytics.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004090552id_/http%3A//www.advancedinstaller.com/analytics/privacy-policy.html) for the most accurate reproduction.*
 
 # Installer Analytics
 
@@ -54,7 +54,7 @@ This policy describes how Installer Analytics handles refunds and cancellation o
 
 ### 30 Day Money Back
 
-If you are not 100% satisfied with your subscription, you can return your order for a full refund. Requests for refund must be submitted within 30 days of the initial subscription date. To request a refund, please [contact us](https://web.archive.org/web/20170606144331id_/http%3A//www.advancedinstaller.com/contact.html "Advanced Installer contact information") by email.
+If you are not 100% satisfied with your subscription, you can return your order for a full refund. Requests for refund must be submitted within 30 days of the initial subscription date. To request a refund, please [contact us](https://web.archive.org/web/20171004090552id_/http%3A//www.advancedinstaller.com/contact.html "Advanced Installer contact information") by email.
 
 Refunds are usually processed within 7 business days from the date the refund request was submitted.
 
