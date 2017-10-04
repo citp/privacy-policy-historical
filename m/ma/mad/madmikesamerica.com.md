@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmikesamerica.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523020226id_/http%3A//madmikesamerica.com/madmikesamerica-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmikesamerica.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004051223id_/http%3A//madmikesamerica.com/madmikesamerica-privacy-policy) for the most accurate reproduction.*
 
 # MadMikesAmerica | MadMikesAmerica Privacy Policy
 
@@ -33,4 +33,4 @@ _We will not sell, distribute or lease your personal information to third partie
 _If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect._
 
 [ Click here for reuse options!  
-Copyright 2010 MadMikesAmerica](https://web.archive.org/freePost.act?tag=3.16927?icx_id=65504)
+Copyright 2010 MadMikesAmerica](https://repubhub.icopyright.net/freePost.act?tag=3.16927?icx_id=65504)
