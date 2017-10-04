@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041951id_/http%3A//adtechdaily.com/internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004135740id_/http%3A//adtechdaily.com/internet-privacy-statement) for the most accurate reproduction.*
 
 # Privacy - Ad Tech Daily
 
