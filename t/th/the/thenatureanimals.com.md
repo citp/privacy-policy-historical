@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenatureanimals.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603103822id_/http%3A//www.thenatureanimals.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenatureanimals.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004213752id_/http%3A//www.thenatureanimals.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ The Nature Animals
 
