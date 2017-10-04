@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weburbanist.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627094355id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weburbanist.com privacy policy that was archived on 2017-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171004090942id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
   <meta charset="utf-8">
@@ -182,7 +182,7 @@ googletag.cmd = googletag.cmd || [];
 var gptAdSlots = [];
 googletag.cmd.push(function() {
 
-     // 2016-07-10 New Ads Vekken
+     // 2017-09-21 New Ads Requested by KK
 
      // Define a size mapping object. The first parameter to addSize is
      // a viewport size, while the second is a list of allowed ad sizes.
@@ -190,7 +190,7 @@ googletag.cmd.push(function() {
        addSize([980, 200], [[970, 250], [970, 90], [728, 90]]).
        addSize([730, 200], [728, 90]).
        addSize([470, 200], [468, 60]).
-       addSize([320, 200], [[320, 50], [320, 100]]).
+       addSize([320, 200], [[320, 160], [320, 100], [320, 50]]).
        addSize([0, 0], []).
        build();
 
@@ -199,6 +199,15 @@ googletag.cmd.push(function() {
        addSize([0, 0], []).
        build();
 
+    var content_map = googletag.sizeMapping().
+       addSize([980, 200], [[970, 250], [970, 90], [728, 90], [300, 250]]).
+       addSize([730, 200], [[728, 90], [300, 250]]).
+       addSize([470, 200], [[468, 60], [300, 250]]).
+       addSize([320, 200], [[320, 480], [300, 250]]).
+       addSize([0, 0], []).
+       build();
+
+/*
     var footer_map = googletag.sizeMapping().
        addSize([980, 200], [[970, 250], [970, 90], [728, 90], [300, 250]]).
        addSize([730, 200], [[728, 90], [300, 250]]).
@@ -206,6 +215,7 @@ googletag.cmd.push(function() {
        addSize([320, 200], [300, 250]).
        addSize([0, 0], []).
        build();
+*/
 
 /* On Hold 2016-07-10
     var content_top_map = googletag.sizeMapping().
@@ -222,9 +232,13 @@ googletag.cmd.push(function() {
 
     // Define the GPT slot
 
-    googletag.defineSlot('/16307266/wu_leaderboard_top', [[970, 250], [468, 60], [970, 90], [320, 100], [320, 50], [728, 90]], 'wu_leaderboard_top').defineSizeMapping(header_map).addService(googletag.pubads());
-    googletag.defineSlot('/16307266/wu_sidebar', [[300, 600], [300, 250]], 'wu_sidebar').defineSizeMapping(sidebar_map).addService(googletag.pubads());
-    googletag.defineSlot('/16307266/wu_leaderboard_bottom', [[728, 90], [300, 250], [970, 250], [468, 60], [970, 90]], 'wu_leaderboard_bottom').defineSizeMapping(footer_map).addService(googletag.pubads());
+    googletag.defineSlot('/16307266/weburbanist/wu-header', [[728, 90], [320, 50], [320, 100], [468, 60], [970, 90], [970, 250], [320, 160]], 'wu_leaderboard_top').defineSizeMapping(header_map).addService(googletag.pubads());
+    googletag.defineSlot('/16307266/weburbanist/wu-sidebar', [[300, 600], [300, 250]], 'wu_sidebar').defineSizeMapping(sidebar_map).addService(googletag.pubads());
+    googletag.defineSlot('/16307266/weburbanist/wu-content', [[728, 90], [468, 60], [970, 90], [970, 250], [300, 250], [320, 480]], 'wu_leaderboard_bottom').defineSizeMapping(content_map).addService(googletag.pubads());
+
+//    googletag.defineSlot('/16307266/wu_leaderboard_top', [[970, 250], [468, 60], [970, 90], [320, 100], [320, 50], [728, 90]], 'wu_leaderboard_top').defineSizeMapping(header_map).addService(googletag.pubads());
+//    googletag.defineSlot('/16307266/wu_sidebar', [[300, 600], [300, 250]], 'wu_sidebar').defineSizeMapping(sidebar_map).addService(googletag.pubads());
+//    googletag.defineSlot('/16307266/wu_leaderboard_bottom', [[728, 90], [300, 250], [970, 250], [468, 60], [970, 90]], 'wu_leaderboard_bottom').defineSizeMapping(footer_map).addService(googletag.pubads());
     //googletag.defineSlot('/16307266/wu_content_top', [[320, 100], [320, 50], [468, 60]], 'wu_content_top').defineSizeMapping(content_top_map).addService(googletag.pubads());
     //googletag.defineSlot('/16307266/wu_content_middle', [[336, 280], [300, 250]], 'wu_content_middle').defineSizeMapping(content_middle_map).addService(googletag.pubads());
 
@@ -853,7 +867,7 @@ gsegQS=segQS.replace(/E0/g,'&a=E0').replace("a=&","")+'&';
         }
     });
 </script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201726"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201740"></script>
 <script type="text/javascript" src="http://weburbanist.com/wp-content/themes/urbanist/dist/scripts/main-cac646b0e3.js"></script>
 <script type="text/javascript" src="http://weburbanist.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
   
