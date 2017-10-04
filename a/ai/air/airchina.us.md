@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airchina.us privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629153411id_/https%3A//www.airchina.us/US/GB/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airchina.us privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004213549id_/https%3A//www.airchina.us/US/GB/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
