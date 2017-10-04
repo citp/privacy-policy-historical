@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howickvillage.co.za privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526091430id_/http%3A//howickvillage.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howickvillage.co.za privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004094041id_/http%3A//www.howickvillage.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HowickVillage.co.za | HowickVillage.co.za
 
