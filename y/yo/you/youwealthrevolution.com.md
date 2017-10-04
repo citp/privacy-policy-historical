@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youwealthrevolution.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208150228id_/https%3A//www.youwealthrevolution.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youwealthrevolution.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004151003id_/https%3A//www.youwealthrevolution.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | You Wealth Revolution
 
 **Effective Date: January 1, 2014**
 
@@ -10,21 +10,29 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-**Personal Information Our Company Collects and How It Is Used**
+## Personal Information Our Company Collects and How It Is Used
 
-**Introduction.** Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+**Introduction:**
 
-**Registration:** Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
+Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+
+**Registration:**
+
+Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
 
 However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
 
 In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
-**Our Company Partners and Sponsors:** Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
+**Our Company Partners and Sponsors:**
+
+Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
 
 Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
 
-**Online Shopping:** At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
+**Online Shopping:**
+
+At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
 
 If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
 
@@ -32,47 +40,81 @@ If you order services or products directly from our company we will use the pers
 
 The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-We may also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. 
+We may also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-**Online Advertisements:** Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+**Online Advertisements:**
+
+Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
 
 Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
 
-Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, web logs, through email, or in chat areas — that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-**Responses to Email Inquiries:** When Visitors or Members send email inquiries to our company the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+**Responses to Email Inquiries:**
 
-**Voluntary Customer Surveys:** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
+When Visitors or Members send email inquiries to our company the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+
+**Voluntary Customer Surveys:**
+
+We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
 
 We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated non-personally identifying information may be shared with third parties.
 
-**Special Cases:** It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+**Special Cases:**
+
+It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
 
 However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
 
-**Children's Privacy Statement** This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+**Children's Privacy Statement:**
+
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
   * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
   * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
   * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information. 
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information.
 
 
 
-**"Cookies" and How Our Company Uses Them:** A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+**Our Company Commitment to Children's Privacy:**
+
+Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+
+**YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.**
+
+**"Cookies" and How Our Company Uses Them:**
+
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
 If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
 
 Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
-Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+**Public Forums:**
 
-**YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.**
+Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
 
-**Public Forums:** : Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+**Our Company's Commitment to Data Security:**
 
-**Our Company's Commitment to Data Security:** Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-**Where to Direct Questions About Our Privacy Policy:** : If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+**Where to Direct Questions About Our Privacy Policy:**
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.[support@youwealthrevolution.com](mailto:support@youwealthrevolution.com)
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+
+**Revisions to This Policy:**
+
+Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
+
+[support@youwealthrevolution.com](mailto:support@youwealthrevolution.com)
+
+***DISCLAIMER:** The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. Financial or life results vary with each individual and we cannot guarantee that you will experience results similar to the testimonials presented on any of our pages or any results at all. These products are not intended to diagnose, treat, cure or prevent any disease. Testimonials are true and correct, and we will verify them upon request and also provide statements of expected typical results (email: [support@youwealthrevolution.com](mailto:support@youwealthrevolution.com)); however, these statements or examples should not be viewed as promises or guarantees of results. Any statements have not been evaluated by the Food and Drug Administration. Results are affected by a number of factors over which we have no control. Please see extended disclaimer at bottom of this page.
+
+**IMPORTANT MEDICAL DISCLAIMER:** The information on this site is NOT INTENDED or IMPLIED to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information purposes only. Please see a medical professional if you need help with depression, illness, or have any concerns whatsoever. WE DO NOT OFFER MEDICAL ADVICE, COURSE OF TREATMENT, DIAGNOSIS OR ANY OTHER OPINION on your conditions or treatment options. SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THIS WEB SITE are for information purposes only and not offered as medical or psychological advice, guidance or treatment. Results shared are not typical. You may or may not experience anything from our sessions, the services provided by teachers, speakers and guests. Please consult a medical professional if you are experiencing illness, depression, anxiety, mood swings or any concerns whatsoever. These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.
+
+**AFFILIATE COMPENSATION NOTICE:** You should assume that the You Wealth Revolution has an affiliate relationship and/or another material connection to the providers of goods and services mentioned on this page and may be compensated when you purchase from a provider. You should always perform due diligence before buying goods or services from anyone via the Internet or offline.
+
+**REFUND POLICY:** You Wealth Revolution appreciates and values all our listeners and speakers. As a show of our appreciation, we are happy to offer a 30-day Money Back Guarantee to our valued customers to better help them discover if a product will work for them. However, as a way to help show our speakers how much we treasure their knowledge and hard work, a refund can only be offered on one package per customer in a 90-day period. Multiple refunds requested by the same customer within 90 days will not be accepted. Should we notice a pattern of excessive purchases and returns, we reserve the right to remove such person(s) from our mailing list, block future purchases, and/or deny future refunds. Should the speaker's offer involve a personal session, the guarantee will be voided in the event that the session has been used. Should the speaker's offer include digital content, the guarantee will be voided and no refund granted if more than 30% of tracks have been downloaded. We rely on your integrity as a You Wealth listener to honor each speaker's digital assets. Additionally, all requests for refunds should be submitted within the 30-day guarantee period. We appreciate and thank all our listeners for understanding and respecting this guarantee.
+
+***SURVEY OF YOU WEALTH LISTENER RESPONDENTS:** In a survey conducted in August of 2013 listener respondents were asked specifically "Has the You Wealth Revolution Event Helped You Have a Better Life?". Out of 1164 total respondents, 1097 people answered "Yes". Only 67 respondents answered "No". A total of 94.24% percent of respondents said this event helped them have a better life. A copy of this survey and our results can be emailed upon request by emailing [support@youwealthrevolution.com](mailto:support@youwealthrevolution.com).
