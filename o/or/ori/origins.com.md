@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033456id_/http%3A//www.origins.com/customer-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004064723id_/http%3A//www.origins.com/customer-service-privacy-policy) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy | Origins
 
