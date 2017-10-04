@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytimes.com.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173248id_/http%3A//dailytimes.com.pk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytimes.com.pk privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004060804id_/http%3A//dailytimes.com.pk/policy) for the most accurate reproduction.*
 
 # DailyTimes | Privacy Policy
 
