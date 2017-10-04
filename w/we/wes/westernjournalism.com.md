@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westernjournalism.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620080337id_/http%3A//www.westernjournalism.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernjournalism.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005014220id_/http%3A//www.westernjournalism.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
