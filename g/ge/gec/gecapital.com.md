@@ -1,142 +1,117 @@
-> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123636id_/http%3A//www.gecapital.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004202300id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
-# Privacy statement: CAREFULLY READ THIS STATEMENT BEFORE USING THE SITE, AS IT AFFECTS YOUR LEGAL RIGHTS AND OBLIGATIONS.
+# GE Privacy Policy | Privacy Statement | GE
 
-##  This Privacy Statement ("Statement") applies to GECapital.com (the "Site"), which is owned or controlled by GE Capital Corporation (the "Company"), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to GE Capital Corporation. This Statement describes the types of information the Company collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement does not apply to any other web sites or information provided to the Company by any other means (such as email or offline activities). 
+Last Updated September 15, 2014
 
-###  **CAREFULLY READ THIS STATEMENT BEFORE USING THE SITE, AS IT AFFECTS YOUR LEGAL RIGHTS AND OBLIGATIONS.**
+##  Web Privacy Policy 
 
-### **WHAT INFORMATION DO WE COLLECT?**
+### Information GE Collects and How We Use It
 
-**Personal Information You Provide**
+#### Collection of personal information
 
-You may browse our Site without disclosing any personal information. To use certain features of our Site, however, you will need to provide some personal information.
+You may choose to provide personal information (for example your name, address, telephone number and email address) on this or other GE websites, however not providing this may result in reduced functionality. GE’s usage of this information will be consistent with this Policy or the policy associated with the applicable GE site.
 
-If you use the “Contact Us” feature, respond to a survey, or sign-up for a newsletter or subscription, you will need to provide us with your contact information (name, address, telephone number and/or email address) in order for us to respond to your inquiry or send you the material you seek. 
+#### Children’s Privacy
 
-If you seek a product or service from our Site that requires submission of an application, in addition to contact information, you may also need to provide some or all of the following:
+This website is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on this site or other GE sites. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen, we will delete the information from our records.
 
-  * Date of birth
-  * Social Security number
-  * Driver’s license number and expiration date
-  * Financial account information
-  * Income information
-  * Housing information (whether you own, rent, or other options)
-  * Information about the service or product that you seek, such as loan amount, how you want statements delivered, and whether the account with be joint or individual.
+#### Use of Cookies and Similar Technologies
 
+Like most companies, GE uses cookies and similar technologies (“cookies”) on our websites to facilitate and improve your online experience.  
 
+  **How we use cookies**  
+Cookies contain small amounts of information which are downloaded to your device when you visit our website.  Cookies are sent back to our website to allow us to recognize your device.  
 
-If you choose not to provide this information, we may be unable to provide you with the information, products, or services that you seek.
+  Recognizing your device with _Essential Cookies_ allows our site to help you navigate efficiently to obtain the information and services you have requested.  
 
-**Information We Collect by Automated Means**
+  _Analytical and Customization Cookies_ allow our site to remember your preferences such as language selection and help you to view information that is most relevant to your interests; these cookies also help us to maintain and improve our websites by providing information on how visitors find and use the sites, and how well the sites are performing.  
 
-When you visit our Site, our Web servers collect the name of the domain you used to access the Internet (such as Google.com), which pages on our Site you visited and when they were visited, your Internet browser type and platform, the link that brought you to our Site and any links clicked within our Site.
+  In some cases _Advertising Cookies_ may be used to make advertising messages more relevant to you.  
 
-When you attempt to access those sections of our site that require registration and/or using your credentials (e.g., user name), we collect additional information regarding the device and methods you are using to access the Site. This includes, for example, the source IP address, hardware characteristics, and software characteristics and settings.
+**Unless you disable the cookies on our website, by using our website you agree to our use of those cookies.**
 
-If you decide to register online or request information, products, or services from us, we may collect additional information to provide tailored offerings or content to you or to deliver such products and services.
+  **Making cookie choices**  
+You may see the list of GE and selected partner cookies on our website and make choices about those cookies by visiting our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428). In addition to our Cookie Consent Tool, most browsers allow you to manage cookie preferences.  If you decide to disable cookies on our site, you may not be able to take full advantage of all website features once you have done so,
 
-**Cookies and Local Shared Objects (LSO):** If you visit our Site, a cookie is used to help us measure the number of visits, average time spent, page views and other statistics relating to our Site. A cookie is a small piece of data stored by your Internet browser on your computer's hard drive. Our cookies are not used to get data from your hard drive or obtain your e-mail address or identity.
+  **Sharing tools**  
+To enhance your experience on our websites, we sometimes embed content and sharing tools from other (third party) sites, such as “like” buttons from social networking sites; these third party sites may also place and access cookies on your device.  The third parties can be found in our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428). GE does not control the placement or access of these third party cookies.  You should check the relevant third party website(s) for more information about these cookies and whether and how you may make choices about them.
 
-If you decide to register online or request information, products or services from us, we may collect additional information to provide tailored offerings or content to you or to deliver such products and services.
+#### Use of Personal Information
 
-You may set your Internet browser to notify you when you receive a cookie or to prevent cookies from being sent. Additional guidance on refusing or deleting LSOs may be found here: <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+We may use the personal information collected about you for the following purposes:
 
-Please note, however, that by not accepting cookies or LSOs you may limit Site functionality and your ability to access certain information, products, and services we offer. And not accepting cookies or LSOs will not completely limit the information we collect through automated means.
+  * Provide, administer and communicate with you about products, services, events, surveys and promotions by GE or our affiliates (including by sending you marketing communications);
+  * Process, evaluate and respond to your requests, inquiries and applications; Create, administer and communicate with you about your account (including any purchases and payments); Provide investor services; Verify your identity to ensure security for the other purposes listed here; Evaluate your interest in employment and contact you regarding possible employment; Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and websites; administering our websites; and performing accounting, auditing, billing, reconciliation and collection activities); Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality; Conduct investigations and comply and enforce applicable legal requirements or, industry standards and our policies and terms, such as this and other GE sites’ terms of use; and Ensure the safety of GE network services, information resources and employees.
 
- **Mobile Devices:** When you connect to us using a mobile device or application, we may use cookies or web beacons and other methods to customize your browsing experience. If you use any location-enabled products, you may be sending us location information. The Company does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby Company facility.
 
-Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
 
-Some mobile applications will utilize analytic tools to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information does not include personally identifiable information and will not identify you to the Company. It may, however let us know anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
+We also may use personal information for other additional purposes. We will identify these additional purposes at the time of collection.
 
-**Social Sharing Tools:** Use of third party social sharing sites (e.g., Facebook & Twitter) is governed by the privacy practices of those services. The Company does not capture or store your login information or other personally identifiable information for these services, however session information or cookies may be stored.
+### Sharing and Transferring of Your Personal Information
 
-  
+#### Sharing & Transfers
 
+We do not sell or otherwise disclose personal information about our website visitors outside GE and its affiliates, except as described here.
 
-### **WE DO NOT KNOWINGLY COLLECT INFORMATION FROM CHILDREN**
+  * We may share information provided by our visitors to this and other GE sites with service providers we have retained to perform services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements.
+  * We may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials as required to comply with a legitimate legal request, or (iii) when we believe disclosure is necessary to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity.
+  * We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including through bankruptcy).
 
-This Site is not directed to or intended for individuals under 18 years of age and we do not knowingly solicit information from children under 18 years of age.
 
-### **HOW DO WE USE THE INFORMATION THAT WE COLLECT?**
 
-The Company, our Affiliates, Service Providers and our Business Partners use the personal information that you submit to respond to your inquiry or provide you with the information, product, or service that you have requested.
+#### Transmission
 
-If you submit an application to our Site, the Company, our Affiliates, Service Providers, and Business Partners will use the personal information that you provide to:
+We may transmit the personal information we collect on this site or other GE sites to other countries where we do business, including for websites accessed in the European Union, to the US, but we will do so only for the purposes described herein. GE has entered into Binding Corporate Rules governing our treatment of personal information of European Union residents. For further information about GE’s Binding Corporate Rules, please click [here](https://web.archive.org/bcr).
 
-  
+### How We Protect Your Information
 
+At GE, our goal is to protect your personal information submitted to us through our sites. We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on this and other GE websites. We also employ reasonable technologies to help keep the personal information you provide on this site secure.
 
-  * Allow you to apply for and communicate with you about the products and/or services that you are seeking 
-  * Provide, administer and communicate with you about any products and/or services that you may obtain, including creating, servicing, providing access to, and communicating with you about your account (including purchases and payments)
-  * Inform you about events, surveys and promotions offered by the Company or our Service Providers, Affiliates, or Business Partners (including by sending you marketing communications)
-  * Operate, evaluate and improve our business, including developing new products and services; managing our communications; performing market research; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and websites; administering our websites; and performing accounting, auditing, billing, reconciliation and collection activities
-  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality
-  * Conduct investigations and comply and enforce applicable legal requirements or, industry standards and our policies and terms, such as the terms of use for this Site
-  * Ensure the safety of our network services, information resources and employees
-  * Verify your identity to ensure security for the other purposes listed here
-  * Notify you about changes to our Site or to our products or services
+### Changes to This Privacy Policy
 
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our online information practices. When changes are made to this Policy it will be posted to the website and the "last updated" date at the top of this policy will be revised. We also encourage users to periodically check this Policy to understand how GE protects and uses your information.
 
+### Links to Other Sites
 
-The Company, our Affiliates, and our Business Partners use the information we collect by automated means (including by using cookies) to:
+We provide links to other websites for your convenience and information. These sites may have their own privacy statements or policies in place, which we recommend you review if you visit any linked websites. We are not responsible for the content of linked sites or any use of the sites.
 
-  * Measure the number of visits, average time spent, page views and other statistics about visitors to our Site
-  * Monitor Site performance and make the Site easier and more convenient to use
-  * Recognize you on subsequent visits, enhance your online experience and make our provision of products and services more efficient
+### How to Contact Us and Update Your Personal Information
 
+If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences, please contact us by visiting our [Feedback & Inquiries Form](https://web.archive.org/contact/general).
 
+### Links to Other Sites
 
-You may set your Internet browser to notify you when you receive a cookie or to prevent cookies from being sent. Please note, however, that by not accepting cookies, you may limit the functionality we can provide you when you visit our Site and your ability to access certain products and services we offer.
+We provide links to other web sites for your convenience and information. These sites may have their own privacy statements in place, which we recommend you review if you visit any linked web sites. We are not responsible for the content of linked sites or any use of the sites.
 
-To accomplish the functions identified in this section, we may need to transfer your personal information and to store and process it in countries other than the one in which you reside or work. You hereby acknowledge and provide your consent to the Company to transfer, store and process your personal information across national boundaries for any purposes described in this Statement.
+### California Privacy Rights
 
-### **WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES?**
+Annually California residents may request and obtain information that GE shared with other businesses for their own direct marketing use within the prior calendar year (as defined by California’s “Shine the Light Law”). If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which GE shared this information in the immediately preceding calendar year. To obtain this information, please send an email message to [CARequest@ge.com](mailto:CARequest@ge.com) with "California Shine the Light Privacy Request" in the subject line as well as in the body of your message. We will then respond to that email address with the requested information.
 
-When you provide information to us through our Site, we may share your information with Service Providers we have retained to perform services on our behalf. These Service Providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+##  Mobile Privacy Policy 
 
-We may share your information with our Affiliates and Business Partners to fulfill your requests, service your account, improve our services, and develop, inform you about and provide you with offers about our products, services, and events as well as those of our Affiliates and Business Partners. We may also share your personal information with our Affiliates, Service Providers and Business Partners for their own marketing purposes.
+### Mobile Information We Collect
 
-Additionally, we may disclose your information: (i) if we are required or permitted to do so by law or legal process; (ii) to law enforcement authorities; (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; or in the event that all or part of the Company or all or part of its assets are acquired by, merged with, sold to, or otherwise disposed of to one or more third parties (including, without limitation, in the event of bankruptcy).
+  * Personally identifiable information (e.g. Name, email address) we collect consists only of what you share with us. For example, certain products may ask for this type of information so that we may contact you by phone or email at your request. You choose what, how, and when you want to share.
+  * If you use any location-enabled products, you may be sending us location information. GE does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby restaurant you requested. Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
+  * Web-enabled mobile applications may use cookies or web beacons and other methods to customize your browsing experience. Please see GE's web privacy policy for more information.
+  * Some mobile applications will utilize Google Analytics (or similar tool) to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information will not identify you to GE. It may, however, let us know anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
+  * Use of 3rd party services such as social sharing sites (e.g., Facebook & Twitter) is governed by the privacy practices of those services. GE does not capture or store your login information or other personally identifiable information for these services, however session info or cookies may be stored.
 
-We may aggregate information that we gather about our customers, sales, traffic patterns, and services and provide these statistics to our Service Providers, Affiliates and Business Partners in aggregate form. This aggregated information is not personally identifiable.
 
-  
 
+### Mobile How We Use Collected Information
 
-### **WHAT CHOICES DO YOU HAVE AND HOW CAN YOU ACCESS OR UPDATE YOUR INFORMATION?**
+  * We use the information to personalize your experience with the application and to improve your overall experience including the development of new products, services, and features. We also use the information to provide customer support, and when applicable, register and administer your account. Additionally, we may use the information you provide to contact you about updates to our service.
+  * Information you provide may be used to fulfill the service(s) or carry out the transaction(s) you have requested or authorized. For example, if you authorize a purchase through a mobile eCommerce application, we will use provided information to ship and bill you.
 
-If you provide us with your email address, we may occasionally send you email communications with information about our products and services or about offerings from our Affiliates or Business Partners. When you first provide us with your email address, you will be given the choice to direct us not to send you marketing communications. We will also include instructions in our email messages on how to unsubscribe if you later decide you do not want to receive any future marketing communications from us or from our Affiliates or Business Partners.
 
-At times, we conduct online surveys/polls to better understand the needs, profiles and experience of our visitors. You will be given the option of not participating in such surveys/polls.
 
-You may have a legal right to access and correct the personal information we have about you. If you want to access or correct the personal information that we have about you or have questions about doing so, please [contact us](https://web.archive.org/contact/index.html).
+### Mobile Information sharing
 
-### **WHAT ARE YOUR CALIFORNIA PRIVACY RIGHTS?**
+  * GE does not share any collected information with 3rd parties with the following exceptions:
+  * GE may provide some personal data to third-party partners that are providing services essential to your mobile user experience.
+  * All requests are sent through your mobile carrier's network and your carrier may have access to it. Consult your carrier's privacy policies for additional information.
+  * Certain mobile products and services and manufacturers allow you to interact and share your information with others. For example, you may want to Tweet or post to your Facebook page content from a GE mobile application. Consult your mobile device manufacturer, or mobile product or application developer's privacy policies for additional information.
 
-Under California’s “Shine the Light” law, the Company’s customers who are California residents may request and obtain a notice once a year about the personal information the Company shared with other businesses for their own direct marketing purposes. This notice includes a list of the categories of personal information that was shared (if any) and the names and addresses of all third parties with which the personal information was shared (if any). The notice covers the preceding calendar year. To obtain the notice, please [contact us](https://web.archive.org/contact/index.html).
 
-In Connection with the California Online Privacy Protection Act we are advising you that we do not respond to browser do-not-track signals. All information on who we share your data with and your choices are discussed in this statement. 
-
-### **WHAT STEPS DO WE TAKE TO PROTECT YOUR PERSONAL INFORMATION?**
-
-Our goal is to protect your personal information submitted to us through this Site. We and our Service Providers have implemented technical and organizational measures designed to protect against loss or unauthorized access, disclosure, alteration or destruction of the information you provide on our Site. We instruct our employees with access to your personal information that it must be used only in adherence with the principles set forth in this Statement and applicable laws. Employees who misuse customer information are subject to disciplinary action.
-
-### **DOES THIS PRIVACY STATEMENT APPLY TO OTHER SITES AVAILABLE THROUGH LINKS ON OUR SITE?**
-
-This Site may provide links to other sites, but this Statement applies only to this Site and information you disclose through other sites is subject to the privacy statement or policy of those other sites. We are not responsible for the content, privacy practices or your use of these linked sites.
-
-### **DOES THIS STATEMENT APPLY TO INTERNATIONAL USERS?**
-
-This Site is controlled, operated and administered by the Company and its Service Providers from various facilities in the United States of America, the European Union, and other parts of the world. This Statement is provided in accordance with and subject to applicable U.S. law. If access the Site from a location outside the United States, you agree that your use of the Site is subject to the terms of this Statement. 
-
-### **HOW WILL WE TELL YOU ABOUT CHANGES TO OUR PRIVACY STATEMENT?**
-
-We reserve the right to modify or supplement this Statement at any time. If we make any material change to the Statement, we will update our Site to include such changes. We recommend that you review this Statement regularly for changes.
-
-### **HOW CAN YOU CONTACT US?**
-
-To contact the Company about the Site or about this Privacy Statement, please [contact us](https://web.archive.org/contact/index.html).
-
-Last updated: October 23, 2013 
