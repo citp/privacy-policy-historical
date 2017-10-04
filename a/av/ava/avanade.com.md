@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avanade.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409060619id_/https%3A//www.avanade.com/en/utility/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanade.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005010357id_/https%3A//www.avanade.com/en/utility/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Avanade
 
@@ -111,7 +111,7 @@ You are entitled to know whether we hold personal data about you and, if we do, 
 
 You can exercise your right to prevent marketing communications sent to you at any time by using the unsubscribe link included in every marketing email footer. In addition, you may submit your request through our [Contact Us form](https://web.archive.org/en/contact).
 
-If you cannot find what you are looking for here, or have a concern about our use of your personal data, please contact Data Privacy. In addition, to find the Avanade affiliate in your country, visit our [Contact Us](https://web.archive.org/en/contact) page.
+If you cannot find what you are looking for here, or have a concern about our use of your personal data, please [contact Data Privacy](mailto:dataprivacy@avanade.com?subject=Avanade%20Privacy%20Policy). In addition, to find the Avanade affiliate in your country, visit our [Contact Us](https://web.archive.org/en/contact) page.
 
 #### Privacy Policy Updates
 
