@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103655id_/http%3A//comcastlmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004172912id_/http%3A//comcastlmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Local Media Development
+# Privacy Policy -
 
 Privacy Policy
 
