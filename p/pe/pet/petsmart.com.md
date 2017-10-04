@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113357id_/https%3A//www.petsmart.com/help/privacy-policy-H0011.html%23page_name%3Dglobal%26link_section%3Dfooter%26link_name%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004074914id_/http%3A//www.petsmart.com/help/privacy-policy-H0011.html%23page_name%3Dglobal%26link_section%3Dfooter%26link_name%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | PetSmart
 
@@ -8,16 +8,16 @@ PetSmart wants you to know how we collect, use, share and protect information ab
 
 Types of personal information we collect include:
 
-  * Your name
-  * Your mailing address
-  * Your e-mail address
-  * Your phone (or mobile) number
-  * Your credit/debit card number
-  * Your purchase/return/exchange information
-  * Your wish list information
-  * Your date of birth or age
-  * Your location
-  * Your pet’s information (name, breed, date of birth, gender, veterinary information, photographs, etc.)
+  * Your name 
+  * Your mailing address 
+  * Your e-mail address 
+  * Your phone (or mobile) number 
+  * Your credit/debit card number 
+  * Your purchase/return/exchange information 
+  * Your wish list information 
+  * Your date of birth or age 
+  * Your location 
+  * Your pet’s information (name, breed, date of birth, gender, veterinary information, photographs, etc.) 
 
 
 
@@ -83,29 +83,29 @@ Examples of how we use the information we collect include (but are not limited t
 
 Product and Service Fulfillment
 
-  * Fulfill and manage purchases, orders, payments, returns/exchanges, or requests for information about our products and services in our stores, website, or mobile website, or to otherwise serve you.
-  * Connect with PetSmart regarding customer service via our customer service center, or on social media platforms.
-  * Provide services such as Favorites.
-  * Administer sweepstakes and contests.
-  * Notify you of any products you have purchased that are subject to recall or withdrawal.
+  * Fulfill and manage purchases, orders, payments, returns/exchanges, or requests for information about our products and services in our stores, website, or mobile website, or to otherwise serve you. 
+  * Connect with PetSmart regarding customer service via our customer service center, or on social media platforms. 
+  * Provide services such as Favorites. 
+  * Administer sweepstakes and contests. 
+  * Notify you of any products you have purchased that are subject to recall or withdrawal. 
 
 
 
 Our Marketing Purposes
 
-  * Deliver promotional offers, coupons, mobile coupons, in-store receipt messages, e-mails, mobile messages, and social media notifications.
-  * Provide interactive features of the website or mobile applications, such as product reviews or marketing communications and other information regarding products, services and promotions.
-  * Administer promotions, surveys, and focus groups.
-  * Automatically assign a PetPerks® loyalty card number to you.
-  * Use a review you submit for commercial purposes to promote the products or services in your review. We may also include the user name and city/state you gave when submitting your review.
+  * Deliver promotional offers, coupons, mobile coupons, in-store receipt messages, e-mails, mobile messages, and social media notifications. 
+  * Provide interactive features of the website or mobile applications, such as product reviews or marketing communications and other information regarding products, services and promotions. 
+  * Administer promotions, surveys, and focus groups. 
+  * Automatically assign a PetPerks® loyalty card number to you. 
+  * Use a review you submit for commercial purposes to promote the products or services in your review. We may also include the user name and city/state you gave when submitting your review. 
 
 
 
 Internal Operations
 
-  * Improve the effectiveness of our website, stores, associates, mobile experience, and marketing efforts.
-  * Conduct research and analysis.
-  * Perform other business activities as needed, or as described elsewhere in this privacy policy.
+  * Improve the effectiveness of our website, stores, associates, mobile experience, and marketing efforts. 
+  * Conduct research and analysis. 
+  * Perform other business activities as needed, or as described elsewhere in this privacy policy. 
 
 
 
@@ -126,6 +126,8 @@ Investigate claims, incidents or inquiries regarding customers, associates, vend
 PetSmart
 
 We share the information we collect within PetSmart, Inc., which includes all of PetSmart’s subsidiaries and affiliates, including PetSmart Home Office, Inc., PetSmart Puerto Rico, LLC and PETM Canada Corporation. We also share information with companies that are closely associated with PetSmart, such as Banfield Pet Hospital (Medical Management International, Inc.), PetSmart Charities, Inc., and PetSmart Charities Canada. These entities may use this information to offer you products, services and charitable opportunities that may be of interest to you.
+
+In addition, if you elect to use pharmacy services available through our website fulfilled by PetSmart Pharmacy, LLC, the pharmacy will share the information you provide with your veterinarian, and we may share with our suppliers and service providers, to confirm and validate prescriptions and fulfill your order.
 
 Service Providers
 
@@ -159,25 +161,25 @@ You may 'opt-out' of certain marketing communications. Most of our marketing com
 
 To do so yourself, you may:
 
-  * Follow opt-out 'unsubscribe' instructions in promotional e-mails we send to you.
-  * Log on to PetSmart.com to access and change your profile information and preferences if you have an online account with us.
-  * Log on to your PetPerks loyalty account to access and change your profile information and preferences if you have a PetPerks account with us.
-  * Set the _Help_ function of your browser to not receive cookies. PLEASE NOTE: this may make it difficult or impossible to make a purchase on petsmart.com.
-  * Delete our mobile app from your smart phone and follow the phone manufacturers’ directions on how to delete cookies or other technology received from our mobile website. For many phones, you will go to the Settings function to do this.
-  * Text STOP to text messages (SMS/MMS) we send to you.
+  * Follow opt-out 'unsubscribe' instructions in promotional e-mails we send to you. 
+  * Log on to PetSmart.com to access and change your profile information and preferences if you have an online account with us. 
+  * Log on to your PetPerks loyalty account to access and change your profile information and preferences if you have a PetPerks account with us. 
+  * Set the _Help_ function of your browser to not receive cookies. PLEASE NOTE: this may make it difficult or impossible to make a purchase on petsmart.com. 
+  * Delete our mobile app from your smart phone and follow the phone manufacturers’ directions on how to delete cookies or other technology received from our mobile website. For many phones, you will go to the Settings function to do this. 
+  * Text STOP to text messages (SMS/MMS) we send to you. 
 
 
 
 If you need our help, please:
 
-  * Call our PetPerks line at 1-866-PET-PERKS (1-866-738-7375) and tell them which information you would like to access or which types of promotional materials you want to opt-out of. Please note you may need to speak with a manager.
-  * Call our customer service number at 1-888-839-9638 (U.S. Customers) 1-321-309-9065 (Customers Outside of the U.S.) and tell them which information you would like to access or which types of promotional materials you want to opt-out of. Please note you may need to speak with a manager.
-  * **E-mail:** [CustomerCare@petsmart.com](mailto:CustomerCare@petsmart.com) and tell them which information you would like to access or which types of promotional materials you would like to opt-out of.
+  * Call our PetPerks line at 1-866-PET-PERKS (1-866-738-7375) and tell them which information you would like to access or which types of promotional materials you want to opt-out of. Please note you may need to speak with a manager. 
+  * Call our customer service number at 1-888-839-9638 (U.S. Customers) 1-321-309-9065 (Customers Outside of the U.S.) and tell them which information you would like to access or which types of promotional materials you want to opt-out of. Please note you may need to speak with a manager. 
+  * **E-mail:** [CustomerCare@petsmart.com](mailto:CustomerCare@petsmart.com) and tell them which information you would like to access or which types of promotional materials you would like to opt-out of. 
   * **Mail:** PetSmart, Inc.  
 Attn: Privacy Officer  
 19601 North 27th Avenue  
-Phoenix, AZ 85027
-  * When mailing or emailing us, please include your full name, address, phone number, e-mail address and your PetPerks account number if you know it. Also, tell us what information you would like to access, change or add to our 'opt-out' list. This will help us process your request.
+Phoenix, AZ 85027 
+  * When mailing or emailing us, please include your full name, address, phone number, e-mail address and your PetPerks account number if you know it. Also, tell us what information you would like to access, change or add to our 'opt-out' list. This will help us process your request. 
 
 
 
@@ -233,7 +235,7 @@ If you have created a petsmart.com or petperks.com account, you may log in and u
 
 Security Methods
 
-We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or 'hacker-proof.' You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or 'hacker proof.' You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 E-mail Security
 
@@ -251,8 +253,8 @@ If you have general questions or concerns about how we use your personal informa
   * **Mail:** PetSmart, Inc.  
 Attn: Privacy Officer  
 19601 N. 27th Avenue  
-Phoenix, AZ 85027
-  * **Phone:** Toll-free: 1-888-839-9638 (U.S. Customers) 1-321-309-9065 (Customers Outside of the U.S.). You may need to ask for a manager.
+Phoenix, AZ 85027 
+  * **Phone:** Toll-free: 1-888-839-9638 (U.S. Customers) 1-321-309-9065 (Customers Outside of the U.S.). You may need to ask for a manager. 
 
 
 
