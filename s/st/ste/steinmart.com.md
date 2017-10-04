@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317000610id_/https%3A//www.steinmart.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004171242id_/https%3A//www.steinmart.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security-Customer Service | Stein Mart
-
-﻿
 
 ## Privacy Policy
 
@@ -12,7 +10,7 @@ Safeguarding your privacy is important to us. Before you submit information thro
 
 These published Terms and Conditions of Use govern any dispute that may arise concerning our Privacy Policy or your use of our site, including limitations on damages, arbitration of disputes, venue of disputes in Florida and application of Florida law.
 
-In our Privacy Policy, you will learn
+In our Privacy Policy, you will learn:
 
   * what types of personal information may be collected at this site
   * how your personal information can be used
@@ -30,9 +28,9 @@ We maintain physical, electronic, and procedural safeguards that comply with app
 
 ### Cookies
 
-We use our own cookies to help determine which of our ads are shown to you on our websites and other websites. To opt-out of offsite advertising tracking and measurement, please [click here](http://cmm.steinmart.com/TE_optout.html).
+We use our own cookies to help determine which of our ads are shown to you on our websites and other websites. Learn more about offsite advertising tracking and measurement and also learn [how to opt-out of these tools.](http://cmm.steinmart.com/TE_optout.html)
 
-We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options including how to opt out of receiving these tailored advertisements, please visit <http://www.aboutads.info/choices/>.
+We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. Obtain more information about this practice and understand your options including how to [opt-out of receiving these tailored advertisements.](http://www.aboutads.info/choices/)
 
 Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.
 
@@ -90,9 +88,9 @@ If you have any questions regarding this privacy policy, please contact us via t
 
 * * *
 
-Since Do Not Track technology has not been fully standardized, we do not respond to Web browser 'do not track' signals at this time. We await the result of work by the policy community and industry to determine when such a response is appropriate and what form it should take. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising purposes by going to [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+Since Do Not Track technology has not been fully standardized, we do not respond to Web browser 'do not track' signals at this time. We await the result of work by the policy community and industry to determine when such a response is appropriate and what form it should take. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising purposes by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/).
 
-The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to [opt-outof interest-based advertising](http://www.networkadvertising.org/managing/opt_out.asp) by their members. You may also learn about online behavioral advertising and how to [opt-out from online behavioral ads](http://www.aboutads.info/consumers/) served by some or all participating companies.
 
 These opt-out mechanisms rely on cookies to remember your choices with respect to ad-serving on websites. If you delete your cookies, use another computer or device, or change browsers, you will need to repeat this process. In addition, opting out of interest-based ads will not opt you out of all ads, but rather only those ads that are personalized to your interests based on activities observed on websites not owned and operated by Stein Mart.
 
@@ -107,13 +105,13 @@ We use the industry standard encryption protocol known as Secure Socket Layer (S
 
 We have established a Secure Shopping Guarantee with Norton Security for every transaction that you make with Steinmart.com. Should any unauthorized charges appear on your credit card as a result of shopping with Steinmart.com, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-_You should always see the Norton Shopping Guarantee banner displayed in the lower corner of all pages with today's date._
+_You should always see the Norton Shopping Guarantee seal with today's date displayed in the lower corner of the cart and checkout pages._
 
 ### The Norton Shopping Guarantee provides:
 
   * $10,000 Identity Theft Protection - Receive comprehensive assistance and financial coverage if your identity is stolen anywhere online or offline.
   * $1,000 Purchase Guarantee - All terms (returns, refunds, shipping, etc.) are independently guaranteed.
   * $100 Lowest Price Guarantee - If the published store price drops, we will pay you the difference, up to $100.
-  * [Click here](https://www.nortonshoppingguarantee.com/shoppers/terms-and-conditions/) for more details
+  * [Benefits, Terms and Conditions of the Norton Shopping Gaurantee](https://www.nortonshoppingguarantee.com/shoppers/terms-and-conditions/)
 
 
