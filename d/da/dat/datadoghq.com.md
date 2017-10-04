@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datadoghq.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613080414id_/https%3A//app.datadoghq.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadoghq.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004212639id_/https%3A//www.datadoghq.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
