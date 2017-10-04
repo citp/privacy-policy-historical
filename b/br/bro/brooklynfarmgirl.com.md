@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brooklynfarmgirl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071614id_/http%3A//brooklynfarmgirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynfarmgirl.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004115651id_/http%3A//brooklynfarmgirl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brooklyn Farm Girl
+# Privacy Policy - Brooklyn Farm Girl
 
 This privacy policy sets out how Brooklyn Farm Girl  uses and protects any information that you give while using www.brooklynfarmgirl.com  
   
