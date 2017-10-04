@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043529id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004075214id_/https%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy of online-convert.com
 
@@ -10,7 +10,7 @@ When visiting online-convert.com, the IP address used to access the site will be
 
 ## 2\. Google Adsense and the DoubleClick DART Cookie
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html . Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, picture upload has no access or control over these cookies that may be used by third party advertisers. 
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL: https://www.google.com/privacy_ads.html . Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, picture upload has no access or control over these cookies that may be used by third party advertisers. 
 
 ## 3\. Links to third party Websites
 
