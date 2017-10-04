@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195911id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004170125id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Highline College
 
@@ -77,13 +77,13 @@ __Top
 
 The Public Records Act [RCW 42.56] was created in 1972 subsequent to the Federal Freedom of Information Act [5 U.S.C. 552] with the belief that the public should have access to information concerning the operation of government.
 
-The State of Washington recognizes that “The people of this state do not yield their sovereignty to the agencies that serve them. The people, in delegating authority, do not give their public servants the right to decide what is good for the people to know and what is not good for them to know. The people insist on remaining informed so that they may maintain control over the instruments that they have created.” [RCW 42.56.030]
+The State of Washington recognizes that “The people of this state do not yield their sovereignty to the agencies that serve them. The people, in delegating authority, do not give their public servants the right to decide what is good for the people to know and what is not good for them to know. The people insist on remaining informed so that they may maintain control over the instruments that they have created.” [RCW 42.56.030] 
 
 More information on the legislation behind the [Public Records Act](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56), visit <http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56>.
 
 ### What is a Public Record?
 
-A public record includes any writing containing information relating to the conduct of government or the performance of any governmental or proprietary function prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics. [[RCW 42.56.010](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.010)]
+A public record includes any writing containing information relating to the conduct of government or the performance of any governmental or proprietary function prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics. [[RCW 42.56.010](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.010)] 
 
 ### How do I file a Public Records Request?
 
