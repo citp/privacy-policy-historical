@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fhl.co.uk privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318063908id_/http%3A//www.fhl.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhl.co.uk privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004072658id_/https%3A//www.fhl.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# NetSuite Partner for Cloud Solutions | FHL
+# FHL, NetSuite partner for cloud solutions, privacy statement
 
 First Hosted Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the First Hosted Ltd site and governs data collection and usage. By using the First Hosted Ltd site, you consent to the data practices described in this statement.
 
-Collection of your Personal Information
+### Collection of your Personal Information
 
 First Hosted Ltd collects personally identifiable information, such as your email address, name, home or work address or telephone number. First Hosted Ltd also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
@@ -14,7 +14,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 First Hosted Ltd encourages you to review the privacy statements of Web sites you choose to link to from First Hosted Ltd so that you can understand how those Web sites collect, use and share your information. First Hosted Ltd is not responsible for the privacy statements or other content on Web sites outside of the First Hosted Ltd and First Hosted Ltd family of Web sites.
 
-Use of your Personal Information
+### Use of your Personal Information
 
 First Hosted Ltd collects and uses your personal information to operate the First Hosted Ltd Web site and deliver the services you have requested. First Hosted Ltd also uses your personally identifiable information to inform you of other products or services available from First Hosted Ltd and its affiliates. First Hosted Ltd may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -26,7 +26,7 @@ First Hosted Ltd keeps track of the Web sites and pages our customers visit with
 
 First Hosted Ltd Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on First Hosted Ltd or the site; (b) protect and defend the rights or property of First Hosted Ltd; and, (c) act under exigent circumstances to protect the personal safety of users of First Hosted Ltd, or the public.
 
-Use of Cookies
+### Use of Cookies
 
 The First Hosted Ltd Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -34,14 +34,14 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the First Hosted Ltd services or Web sites you visit.
 
-Security of your Personal Information
+### Security of your Personal Information
 
 First Hosted Ltd secures your personal information from unauthorized access, use or disclosure. First Hosted Ltd secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Changes to this Statement
+### Changes to this Statement
 
 First Hosted Ltd will occasionally update this Statement of Privacy to reflect company and customer feedback. First Hosted Ltd encourages you to periodically review this Statement to be informed of how First Hosted Ltd is protecting your information.
 
-Contact Information
+### Contact Information
 
-First Hosted Ltd welcomes your comments regarding this Statement of Privacy. If you believe that First Hosted Ltd has not adhered to this Statement, please contact First Hosted Ltd at [ap@firsthosted.co.uk](mailto:ap@firsthosted.co.uk). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+First Hosted Ltd welcomes your comments regarding this Statement of Privacy. If you believe that First Hosted Ltd has not adhered to this Statement, please contact First Hosted Ltd at ap@firsthosted.co.uk. We will use commercially reasonable efforts to promptly determine and remedy the problem.
