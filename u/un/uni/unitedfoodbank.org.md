@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unitedfoodbank.org privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409124027id_/https%3A//www.unitedfoodbank.org/learning-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedfoodbank.org privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004190328id_/http%3A//unitedfoodbank.org/learning-more/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | United Food Bank
+# Privacy Policy - United Food Bank
 
 **UNITED FOOD BANK**
 
