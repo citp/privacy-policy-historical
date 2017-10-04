@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mofosnetwork.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607104733id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmofos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofosnetwork.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004235926id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Dmfn) for the most accurate reproduction.*
 
-# Privacy Policy - Mofos.com
+# Privacy Policy - MofosNetwork.com
 
 ## Last Modified: July 29, 2016
 
@@ -257,5 +257,5 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 If you have any questions about this privacy policy or our information-handling practices, please contact us at [mofossupport@probiller.com](mailto:mofossupport@probiller.com). 
 
-[Mofos.com](http://www.mofos.com/ "Mofos.com")   
+[MofosNetwork.com](http://www.mofosnetwork.com/ "MofosNetwork.com")   
 Google Analytics Opt Out 
