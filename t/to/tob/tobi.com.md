@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobi.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622143446id_/http%3A//www.tobi.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobi.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005014354id_/http%3A//www.tobi.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Tobi
 
