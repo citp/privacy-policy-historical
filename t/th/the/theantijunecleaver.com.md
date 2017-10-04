@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theantijunecleaver.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628180723id_/http%3A//theantijunecleaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theantijunecleaver.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004172429id_/http%3A//theantijunecleaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Anti-June Cleaver
 
