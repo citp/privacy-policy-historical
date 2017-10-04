@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtickets24.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209104321id_/http%3A//www.airtickets24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtickets24.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004063710id_/http%3A//www.airtickets24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - www.airtickets24.com
 
@@ -16,13 +16,11 @@ At Airtickets24.com we understand that data privacy is a very important issue. A
 
 ### How we use your information
 
-Personal data such as the name of the card holder, credit card number, expiry date and CVV are required to complete the booking process through our site.
+Personal data such as the name of the card holder, credit card number, expiry date and CVV are required to complete the booking process through our site. This data could also be used for any additional services you might require to purchase after your booking has been completed (i.e. change the dates of your travel); for this reason we use tokenization and vault services provided by banks or equally rated in terms of security (PCI) specialized third parties in order to ensure safe transmission of your card details. It is important to note that e-Travel and/or any e-Travel employee will at no case store or have direct access to your credit card information. Furthermore, no additional charge will ever be processed without your consent.
 
-Your information (other than payment information) will be used to improve and personalize our services.
+Your anonymized information (other than payment information) might be used to improve and personalize our services.
 
 In case you opted in to receive our newsletters we may use your information to send you offers and news about Airtickets24.com products and services or those of other carefully selected companies which we think that they may be of interest to you.
-
-We may also use and analyze the information that we collect so that we can improve our services.
 
 ### Sharing your information
 
@@ -48,4 +46,4 @@ Airtickets24.com may contain links to other Websites. We are not responsible for
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, please feel free to contact our Customer Support service at +44 8447747881. 
+If you have any questions about this Privacy Policy, please feel free to contact our Customer Support service at +1 (917) 2849583. 
