@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the elevenwarriors.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624081015id_/http%3A//www.elevenwarriors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevenwarriors.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004105937id_/https%3A//www.elevenwarriors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eleven Warriors
 
 THIS PRIVACY POLICY WAS UPDATED and HAS an EFFECTIVE DATE OF MAY 1, 2017 
 
-This Privacy Policy discloses the privacy practices for www.elevenwarriors.com ("ELEVEN WARRIORS") and any other sites and applications that display links to this policy. This privacy policy governs our collection of information from you through your use of the sites and applications. It does not apply to any information you may provide to us through other means, like via telephone or postal mail. 
+This Privacy Policy discloses the privacy practices for [www.elevenwarriors.com](http://www.elevenwarriors.com/) ("ELEVEN WARRIORS") and any other sites and applications that display links to this policy. This privacy policy governs our collection of information from you through your use of the sites and applications. It does not apply to any information you may provide to us through other means, like via telephone or postal mail. 
 
 By browsing the sites, using applications and/or providing your personal information to us in any other way, you consent to the collection, use, and disclosure of your personal information in accordance with the terms of this Privacy Policy. 
 
 For the purposes of this Privacy Policy, “personal information” means data that, by itself, allows someone to identify or contact you as an individual, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous data” means data that does not, by itself, permit the identification of individual persons and that is not associated with or linked to personal information. We collect personal information and anonymous data, as described below. 
 
-####  Types of Information We Collect 
+####  Types of Information We Collect  
+
 
 The information we gather falls into two categories: information voluntarily supplied by users and information automatically gathered. 
 
-#####  Information You Provide to Us 
+#####  Information You Provide to Us  
+
 
 We collect and store personal information that you voluntarily supply either while on our Sites or Applications. 
 
@@ -28,7 +30,8 @@ When you respond to our surveys, we will collect all the information requested i
 
 We also collect personal information at other points in our Sites and Application which state personal information is being collected. 
 
-#####  Information Automatically Collected 
+#####  Information Automatically Collected  
+
 
 We also may collect and store information that is generated automatically as you navigate through our Sites or Applications. 
 
@@ -61,7 +64,8 @@ We also may use third-party advertising companies to target and serve some of th
 
 We do not currently respond to “do not track” signals from web browsers. 
 
-####  Use of Information 
+####  Use of Information  
+
 
 We use the personal information we collect from you while you are using our sites and/or applications to: 
 
@@ -85,7 +89,8 @@ We use the personal information we collect from you while you are using our site
 
 We may create anonymous data records from personal information by excluding information (such as your name) that makes the data personally identifiable to you. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion. For instance, when you respond to a survey, we may use, disclose and/or publish the responses you provide to us. However, we will not publish or disclose your name in connection with your response without your prior consent. 
 
-####  Disclosure of Information 
+####  Disclosure of Information  
+
 
 Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, through email or web logs, or in chat areas — that information can be seen, collected and used by others besides ELEVEN WARRIORS. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put data such as private contact information which you do not want to make available to the public in your posts. Once you have posted information publicly, while you may still be able to edit and delete it on our site or application, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines). 
 
@@ -97,21 +102,25 @@ Some features of our sites or Applications may enable you to post content to soc
 
 Regardless of any choices you make regarding your personal information (as described below), we may disclose personal information if we believe in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on BASEMENT MEDIAWORKS; (c) to protect or defend the rights or property of BASEMENT MEDIAWORKS or users of our sites or applications; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Service. 
 
-####  Third-Party Payment Processing 
+####  Third-Party Payment Processing  
+
 
 For online payments, we use the payment services of Stripe. We do not process, record, or maintain your credit card information. For more information on how payments are handled, or to understand the data security and privacy protections afforded to such information, please refer to [stripe.com/us/privacy](https://stripe.com/us/privacy/). 
 
-####  Third-Party Sites 
+####  Third-Party Sites  
+
 
 Our sites and applications may include links to third party websites and applications whose privacy policies we do not control. Once you leave our Sites or Applications, any information you provide at another site or application will be governed by the privacy policy of the operator of the site you are visiting or application you are using. 
 
-####  Children's Privacy 
+####  Children's Privacy  
+
 
 Our sites and applications are not directed to children under the age of thirteen and we do NOT knowingly collect personal information from children under the age of thirteen. If we discover that a child under 13 has submitted personal information to us, we will attempt to delete the information as soon as possible. If you believe that we might have collected any personal information from a child under 13, please [contact us](https://web.archive.org/contact). 
 
-####  Modifying Your Personal Information & Opting Out 
+####  Modifying Your Personal Information & Opting Out  
 
-If you register with us, you will have the opportunity to review, update, change or delete the personal information we have collected about you at any time by editing your personal information in your ELEVEN WARRIORS account settings or by sending an e-mail to us at contact@1stohiobattery.com. You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from our active database, but may remain in our archives. We may also retain your information for fraud prevention or similar purposes. 
+
+If you register with us, you will have the opportunity to review, update, change or delete the personal information we have collected about you at any time by editing your personal information in your ELEVEN WARRIORS account settings or by sending an e-mail to us at [contact@1stohiobattery.com](mailto:contact@1stohiobattery.com). You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from our active database, but may remain in our archives. We may also retain your information for fraud prevention or similar purposes. 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings by logging into to your account and modifying your preferences. You will also have the opportunity to “opt-out” of commercial email from the applicable ELEVEN WARRIORS service by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly. 
 
@@ -121,6 +130,7 @@ You may opt-out of data collection and use by Google Analytics by visiting [tool
 
 If you decide at any time that you no longer wish to have your social networking service account(s) linked to your ELEVEN WARRIORS membership account, please refer to the privacy settings of the social networking service to determine how you may adjust our permissions and manage the interactivity between the sites and/or application with your social media account. 
 
-####  Changes to This Policy 
+####  Changes to This Policy  
+
 
 If we need to change this Privacy Policy at some point in the future, we'll post the modified Privacy Policy on the applicable sites and applications and update the “Last Updated” dated above to reflect the date of the changes. By continuing to use a site or application after we post any such changes, you accept the Privacy Policy as modified. 
