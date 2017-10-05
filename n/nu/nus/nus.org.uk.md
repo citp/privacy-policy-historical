@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609095416id_/https%3A//www.nus.org.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005104044id_/https%3A//www.nus.org.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: www.nus.org.uk
 
@@ -48,7 +48,7 @@ General Emails. You will receive emails from us advising you of deals and offer
 
 In addition, there are two partners with whom we currently share your contact data. These are carefully selected, vetted and chosen to offer real value and benefits to you. We also ensure that they adhere to the same Data Protection standards that we do. You have the right to withdraw your permission at any time.
 
-Insurance Quotations. Our Partner Endsleigh [www.endsleigh.co.uk](http://www.endsleigh.co.uk/) offers our members great rates on insurance and they use the information we pass on to them to contact you directly, and also to check that the information you supply is accurate. We supply Endsleigh with the following data: Your name, gender, country, date of birth, email, Students? Union, start and end date of study, course, course level and prospecting source.
+Insurance Quotations. Our Partner Endsleigh ([www.endsleigh.co.uk](http://www.endsleigh.co.uk/)) uses your personal information to ensure they have the best rates to offer you if you contact them directly, and to check that the information you supply is accurate. We also give you the option to opt in to Endsleigh’s great product offers and services when you sign up for your NUS extra card. We supply Endsleigh with the following data: Your name, gender, country, date of birth, email, Students Union, start and end date of study, course, course level and prospecting source.
 
 Job Opportunities. Graduate Prospects [www.prospects.ac.uk](http://www.prospects.ac.uk/) Job opportunities and career advice. Prospects understand your career journey better than anyone - you can find them on every university campus, working in partnership with the NUS and careers services to bring you the very best opportunities. As well as providing graduate jobs, internships and postgraduate courses, the site has careers advice written by specialist professional advisers and a range of tailored tools such as Prospects Planner, which match your skills and interests with the best career options for you.
 
