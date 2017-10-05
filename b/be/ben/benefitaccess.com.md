@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020050611id_/https%3A//www.stockplanconnect.com/docs/onlinePrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005120623id_/https%3A//www.stockplanconnect.com/docs/onlinePrivacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
