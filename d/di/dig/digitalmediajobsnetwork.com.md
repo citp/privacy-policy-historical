@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmediajobsnetwork.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226105203id_/http%3A//digitalmediajobsnetwork.com/jobs/index.cfm%3Fpage%3Dprivacy%26cfid%3D5848165%26cftoken%3Dcea8ad23719ce8d4-92BC02EC-C295-4EB1-7E0F5469964E4F25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmediajobsnetwork.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006011128id_/http%3A//digitalmediajobsnetwork.com/jobs/index.cfm%3Fpage%3Dprivacy%26cfid%3D7068585%26cftoken%3Da108ebe1cb7802ce-0D55750B-C295-4EB1-7F3A29CFDE05CAF3) for the most accurate reproduction.*
 
 # DigitalMediaJobsNetwork.com - Job Board
 
