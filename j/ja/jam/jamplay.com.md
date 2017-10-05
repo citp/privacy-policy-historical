@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123143814id_/https%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005024623id_/https%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JamPlay.com Privacy Policy
 
-### Effective Date: October 16th, 2016
-
-[](https://privacy.truste.com/privacy-seal/JamPlay,-LLC/validation?rid=9a22254d-a942-4725-8b3b-3263adaffa54 "TRUSTe online privacy certification")
+### Effective Date: August 16th, 2017
 
 ### Information about our Organization and Web site
 
@@ -49,8 +47,7 @@ We may combine this automatically collected log information with other informati
 
 ### Tracking technologies
 
-Jamplay and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here:  
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
+Jamplay and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 ### Behavioral Targeting/Re-targeting
 
