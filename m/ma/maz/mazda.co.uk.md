@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613151211id_/https%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005035715id_/https%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
+
+## Collection and processing of data in the vehicle
+
+### Data stored by the driver
+
+Usually, all data stored in the vehicle by the driver, such as phone contacts, navigation destinations, and favorites, can be deleted at any time.
+
+### Data storage in the vehicle
+
+Many electronic components inside your vehicle contain data storage media, which temporarily or permanently store technical information such as vehicle status, events and errors. This technical information generally documents the conditions of a component, module, system or the environment:
+
+  * operating conditions of system components (e.g., fill levels)
+  * status messages of the vehicle or its individual components (e.g., wheel speed/driving speed, deceleration, lateral acceleration)
+  * malfunctions and defects in important system components (e.g., lighting and brakes
+  * response of the vehicle to extraordinary driving situations (e.g., deployment of an airbag, activation of stability control systems)
+  * environmental conditions (e.g., temperature)
+
+
+
+This data is solely of a technical nature and serves the purpose of identifying and resolving errors as well as optimizing vehicle functions. Movement profiles of driven routes cannot be derived from this data.
+
+When obtaining services (e.g., repairs, maintenance, warranty services, quality assurance), this technical information can be downloaded from the event and error memory by members of the service network (including Mazda Motor Corporation and, if necessary, other companies and affiliated with the Mazda group) using special diagnostic devices. Once an error has been resolved, the information in the error memory will be deleted or overwritten.
+
+When using the vehicle, situations may occur in which this technical data in combination with additional information (accident log, damages to the vehicle, witness statements, etc.) could become personally identifiable, possibly with the help of an expert.
+
+#### Add-on functions contractually agreed upon with the customer or legally required, such as the automatic emergency call system (eCall), allow certain vehicle data to be transmitted from the vehicle.
 
 ## Privacy Statement
 
