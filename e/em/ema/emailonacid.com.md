@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424124823id_/https%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005192034id_/https%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Email on Acid
 
-### Trusted by over 80,000 businesses world-wide.
+## Trusted by over 80,000 businesses world-wide.
 
 Email on Acid has a strong commitment to providing excellent service to our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses personal information. We have prepared this statement to inform you of the privacy principles that govern [www.emailonacid.com](https://www.emailonacid.com/). 
 
@@ -37,9 +37,13 @@ We may also ask you to fill out an online customer survey, to obtain your sugges
 
 We also collect information about the usage of our site and its features, as well as data about our Email Analytics. This data may be used in aggregate form, but never in a way that would identify it with a user of our system. For example, site usage statistics may be used to help us improve our site. 
 
-### Email Analytics Data
+## Email Analytics Data
 
 If you make use of our Advanced Email Analytics tool, we'll collect data on the recipients of your email campaigns. This data may include the email addresses of recipients, if you choose to use merge tag tracking. Email on Acid makes every effort to keep this date secure. This data is owned by you. In order to collect and display this data for you, you allow us access to it. You also allow us use of this data to aggregate (in a non-personally identifiable form) so that we can publish reports and improve our site.
+
+## Code Repair
+
+In using our Code Repair service, if we do not have the capacity to manage the request volume, we reserve the right to provide the given email HTML to a 3rd party to help fix an email client rendering issue. The HTML is owned by you and we are only accessing and modifying the code to fix a rendering issue. The HTML or content of that email will not be shared outside of Email on Acid or the 3rd party service provider.
 
 ## Account Security
 
