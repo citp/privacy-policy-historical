@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625164942id_/https%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005160944id_/https%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
 
 # REEDS Jewelers Privacy Policy | REEDS Jewelers
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us. To best serve your shopping needs, we strive to provide products, services, and offers of value to you. We are able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. REEDS Jewelers has procedures in place to ensure that your personal information is handled in a safe, secure, and responsible manner.
 
-REEDS Jewelers, Inc. and our brands which include but are not limited to stores operating under the name REEDS Jewelers, Jewelers Wife, and other websites and stores owned and operated by REEDS Jewelers Inc. (collectively "REEDS Jewelers"), offer customer-friendly policies designed to afford you a secure and safe shopping experience. The websites owned and operated by REEDS Jewelers include but are not limited to REEDS.com and JewelersWife.com (collectively the "Sites").
+REEDS Jewelers, Inc. and our brands which include but are not limited to stores operating under the name REEDS Jewelers and other websites and stores owned and operated by REEDS Jewelers Inc. (collectively "REEDS Jewelers"), offer customer-friendly policies designed to afford you a secure and safe shopping experience. The websites owned and operated by REEDS Jewelers include but are not limited to REEDS.com (collectively the "Sites").
 
 ## Our Privacy Policy addresses the following questions:
 
@@ -14,7 +14,7 @@ REEDS Jewelers, Inc. and our brands which include but are not limited to stores 
 
 Founded in 1946, REEDS Jewelers is a leading full-service multi-channel jewelry retailer, with stores in multiple states, a national direct mail catalog, and an ecommerce web site, [www.Reeds.com](https://web.archive.org/), serving customers across all 50 states and those stationed abroad at APO/FPO addresses. To view our current roster of REEDS Jewelers store locations, please visit our [ Store Locator](https://web.archive.org/about/ReedsLocations.html).
 
-_PLEASE NOTE: REEDS Jewelers, is not associated with any other jewelry chain or store using the name Reeds, Reeds Jewelers or Jewelers Wife._
+_PLEASE NOTE: REEDS Jewelers, is not associated with any other jewelry chain or store using the name Reeds or Reeds Jewelers ._
 
 ### What Information Does REEDS Jewelers Collect?
 
@@ -190,7 +190,7 @@ For more information on privacy in general, please visit the US Federal Trade Co
 
 ### What happens to my information if REEDS is sold?
 
-REEDS Jewelers is a family owned Jeweler and we are proud to have served our customers for over sixty years and it is our hope to continue to serve our customers for generations to come. However in the event that REEDS Jewelers is sold in part or in whole any customer information owned by Reeds Jewelers may be transferred with the transfer of ownership.
+REEDS Jewelers is a family owned Jeweler and we are proud to have served our customers for over seventy years and it is our hope to continue to serve our customers for generations to come. However in the event that REEDS Jewelers is sold in part or in whole any customer information owned by Reeds Jewelers may be transferred with the transfer of ownership.
 
 ### Will the REEDS Jewelers Privacy Policy Ever Change?
 
