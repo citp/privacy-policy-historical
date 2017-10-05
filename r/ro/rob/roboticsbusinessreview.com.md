@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roboticsbusinessreview.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419143154id_/https%3A//www.roboticsbusinessreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roboticsbusinessreview.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005090036id_/https%3A//www.roboticsbusinessreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Robotics Business Review
 
