@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelibertarianrepublic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005607id_/http%3A//thelibertarianrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelibertarianrepublic.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005182137id_/https%3A//thelibertarianrepublic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Libertarian Republic
 
