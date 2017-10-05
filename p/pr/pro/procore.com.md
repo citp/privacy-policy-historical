@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206064250id_/https%3A//www.procore.com/fine-print/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005023018id_/https%3A//www.procore.com/fine-print/privacy-policy.php) for the most accurate reproduction.*
 
-# Procore Privacy Policy
+# Privacy Policy | Procore
 
-**Effective Date: September 2, 2016**  
+**Effective Date: May 17, 2017**  
 Welcome to the website of Procore Technologies, Inc. ("Company", "we", "us" and/or "our"). We have prepared this Privacy Policy ("Privacy Policy") to explain how we collect, use, protect and disclose information, It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information and data when you use the Company website ("Site") and Company services, including any software, mobile applications, products, devices or other services offered by Company from time to time and other services offered through third parties integrating Company functionality (collectively, "Services"). "You" refers to you as a user of the Site or Services.
 
 **BY USING THE SITE OR SERVICES YOU CONSENT TO THIS PRIVACY POLICY.**
@@ -11,20 +11,17 @@ The use of information collected through our service shall be limited to the pur
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=4405ecf0-cb61-4e5f-9a11-5c894903cea6 "TRUSTe Privacy Certification")
 
-**U.S.—Swiss Safe Harbor Frameworks**  
-Procore complies with the U.S.—Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Procore has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Swiss Safe Harbor program, and to view Procore's certification, please visit: <https://safeharbor.export.gov/swisslist.aspx>.
-
 #### PRIVACY SHIELD
 
-Procore participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Procore is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce](http://www.privacyshield.gov/list).
+Procore participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Procore is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce](http://www.privacyshield.gov/list).
 
-Procore is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Procore complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Procore is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Procore complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Procore is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Procore may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party [dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (free of charge).
 
-Under certain conditions, more fully described on the www.privacyshield.gov/welcome, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on [privacyshield.gov/welcome](http://www.privacyshield.gov/welcome), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 #### PRIVACY FOR PROCORE PLATFORM USERS
 
