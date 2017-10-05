@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224246id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005062438id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
@@ -18,7 +18,7 @@ Unilever takes privacy seriously. The following five principles underpin our app
 
 **UNILEVER PRIVACY POLICY**
 
-Last Updated: October 2013
+Last Updated: June 2017
 
 Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
@@ -84,6 +84,12 @@ We use cookies and other tools (such as web analytic tools and pixel tags) to au
 •  the websites you visited before arriving at a Unilever Site
 
 Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites
+
+Static IP addresses are considered personal information. For mobile users accessing the website, we automatically collect your Unique Device Identifier which is also considered personal information. However, the user cannot be recognized as a specific individual simply from a Static IP address or a UDI.
+
+Do Not Track Requests
+
+The Site does not respond to browser-based, Do Not Track requests or signals.
 
 Information we collect from other sources
 
@@ -160,9 +166,13 @@ We may share your personal information to:
 •  detect, prevent and protect against fraud and any technical or security vulnerabilities  
 •  comply with applicable laws and regulations, co-operate in any legal investigation and meet enforceable governmental requests
 
+Use of Google Analytics includes analysis of general demographic data such as age and gender information, your other online interests, and your general location based on the IP address of your computer or device. None of this information identifies you as an individual. However, if you are signed into your Google Account when accessing the website, this personal information is collected by Google Analytics and is included in the Google analysis. For more information on how Google uses data, [please click here](http://www.google.com/policies/privacy/partners/). 
+
 If we do share your personal information with a third party, we shall use our best efforts to ensure that they keep your information secure, take all reasonable steps to protect it from misuse and only use it in a manner consistent with this Privacy Policy and applicable data protection laws and regulations.
 
 Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
+
+Information about our users is one of our most important business assets. Therefore, information about our users may be disclosed as part of any merger or acquisition, creation of a separate business, sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company.
 
 **Transferring your personal information**
 
@@ -172,7 +182,7 @@ You should be aware that many countries do not afford the same legal protection 
 
 **Safeguarding your personal information**
 
-We take all reasonable precautions to keep your personal information secure and require any third parties that handle or process your personal information for us to do the same. Access to your personal information is restricted to prevent unauthorised access, modification or misuse and is only permitted among our employees and agents on a need-to-know basis.
+We take all reasonable precautions to keep your personal information secure and require any third parties that handle or process your personal information for us to do the same. Access to your personal information is restricted to prevent unauthorized access, modification or misuse and is only permitted among our employees and agents on a need-to-know basis.
 
 **Your privacy rights and who to contact**
 
