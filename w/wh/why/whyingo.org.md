@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyingo.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034935id_/http%3A//whyingo.org/privacy-policy-for-whyingo-org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyingo.org privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005220243id_/http%3A//whyingo.org/privacy-policy-for-whyingo-org) for the most accurate reproduction.*
 
 # Privacy Policy for whyingo.org – Whyingo Kodi Tutorials
 
@@ -110,3 +110,12 @@ Earning Disclaimer
 The owner of this website, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking http://whyingo.org to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com. Certain content that appears on this site comes from Amazon Services LLC. This content is provided ‘as is’ and is subject to change or removal at any time.
 
 The owner of this website, http://whyingo.org, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking http://whyingo.org to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com
+
+Kodi Disclaimer  
+Kodi is an Open Source media player which we at whyingo.org are not affiliated with. 
+
+We at whyingo.org also do not have any affiliation with any Kodi 3rd party add-ons. 
+
+Kodi and any add-on should only be used to stream Public Domain content. 
+
+All Kodi tutorials on whyingo.org should only be used with content that it bought and owned personally or is in the public domain.
