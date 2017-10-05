@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113226id_/http%3A//www.morevisibility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005083217id_/http%3A//www.morevisibility.com/privacy-policy) for the most accurate reproduction.*
 
 # MoreVisibility's Privacy Policy
 
