@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084825id_/http%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005224945id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -28,7 +28,7 @@ This Privacy Policy covers:
 
 • Compliance with Legal Process
 
-• Children\'s Guidelines
+• Children's Guidelines
 
 • Your California Privacy Rights
 
@@ -48,7 +48,7 @@ In some instances, you may register or enhance your profile by linking certain o
 
 Social media registration features may collect your IP address, the page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on one of our Sites.
 
-You can disassociate your AdviceCo registration from third-party accounts any time. For more detail, please email us at [admin@adviceco.com](http://www.freeadvice.com/%22mailto:admin@adviceco.com/%22) for a copy of our Social Media FAQs.
+You can disassociate your AdviceCo registration from third-party accounts any time. For more detail, please email us at [admin@adviceco.com](mailto:admin@adviceco.com) for a copy of our Social Media FAQs.
 
 **Billing and Credit Card Information**
 
@@ -56,7 +56,7 @@ To enable payment and donations for certain Services, we may collect and store y
 
 **User Generated Content and Public Activities (Including Comments and Reviews)**
 
-We offer you opportunities to engage in public activities on AdviceCo Sites and Services. \"Public Activities\" are any actions you take on one or more of our Sites and/or Services that are designed to be visible to other users, including comments, recommendations, reviews, ratings or any other items that you submit. Any information you disclose in your Public Activities, along with your screen name or ID, or any image or photo, becomes public and may be used by AdviceCo or its designees for online and offline promotional or commercial uses in any and all media. If you choose to engage in Public Activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personal information you choose to submit in the course of your Public Activities and we have no responsibility to publish, take down, remove or edit any of your Public Activities or Submissions. For more information, please read the Forums, Discussions and User Generated Content section of the [Terms of Service](http://www.freeadvice.com/%22//www.freeadvice.com/resources/conditionsnew.htm/%22).
+We offer you opportunities to engage in public activities on AdviceCo Sites and Services. "Public Activities" are any actions you take on one or more of our Sites and/or Services that are designed to be visible to other users, including comments, recommendations, reviews, ratings or any other items that you submit. Any information you disclose in your Public Activities, along with your screen name or ID, or any image or photo, becomes public and may be used by AdviceCo or its designees for online and offline promotional or commercial uses in any and all media. If you choose to engage in Public Activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personal information you choose to submit in the course of your Public Activities and we have no responsibility to publish, take down, remove or edit any of your Public Activities or Submissions. For more information, please read the Forums, Discussions and User Generated Content section of the [Terms of Service](https://www.freeadvice.com/resources/conditionsnew.htm).
 
 Public Activities may be included in our RSS feeds, APIs and other distribution formats. As a result, your Public Activities may appear on other websites, blogs, or feeds. We are not responsible for any personal information you choose to make public via your Public Activities, and you agree that such sharing will be deemed to have been done by you, not by us or our agents.
 
@@ -84,7 +84,7 @@ We use various Internet technologies to manage and track use of the Sites and Se
 
 **Device Information.** We may collect non-personal information about the computer, mobile device or other device you use to access the Sites and Services, such as IP address, geographic location information, unique device identifiers, browser type, browser language and other transactional information.
 
-**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use \"cookies,\" web beacons, HTML5 local storage, and other similar technologies. These technologies allow us to manage access to and use of the Sites and Services, recognize you and provide personalization, and help us understand how people use our Sites and Services. You may not be able to access certain areas of our website if your computer does not accept cookies from us or uses ad blocking software. We do not respond to browser-based \"do not track\" signals.
+**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use "cookies," web beacons, HTML5 local storage, and other similar technologies. These technologies allow us to manage access to and use of the Sites and Services, recognize you and provide personalization, and help us understand how people use our Sites and Services. You may not be able to access certain areas of our website if your computer does not accept cookies from us or uses ad blocking software. We do not respond to browser-based "do not track" signals.
 
 We may transmit non-personally identifiable website usage information to third parties in order to show you advertising for an AdviceCo or affiliate’s website when you visit other sites or use Applications.
 
@@ -98,7 +98,7 @@ We may retain third parties to provide us information, reports and analysis abou
 
 **Location Information.** Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we may store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit that information to us, and we will not collect or store location information.
 
-The ads in our apps may be targeted to you based on your current GPS location, your ZIP code and/or device\'s IP address.
+The ads in our apps may be targeted to you based on your current GPS location, your ZIP code and/or device's IP address.
 
 **Third Parties**
 
@@ -108,7 +108,7 @@ These companies may place or recognize cookies, web beacons or other technology 
 
 We normally do not have access to, nor control over, third-party use of cookies or other tracking technologies or how they may be used.
 
-We use Google, Bing, and other services to serve advertisements on some of our Sites and Services, and may use the Google Doubleclick cookie, and in some cases, a unique device identifier, to show you ads based on your visit to our Sites, Services, and other sites on the Internet. You may opt out of the use of the Google Doubleclick cookie by visiting the [Google ad and content network privacy policy](http://www.freeadvice.com/%22http://www.google.com/ads/preferences/%22).
+We use Google, Bing, and other services to serve advertisements on some of our Sites and Services, and may use the Google Doubleclick cookie, and in some cases, a unique device identifier, to show you ads based on your visit to our Sites, Services, and other sites on the Internet. You may opt out of the use of the Google Doubleclick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences).
 
 You may have choices about the collection of information by third parties on our Sites and Services, and if you wish such information, please contact us at admin@adviceco.com.
 
@@ -152,13 +152,13 @@ We may share information about attendees to our live events with sponsors or oth
 
 We contract with other companies to provide services on our behalf, including credit card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are normally restricted from using personal information in any way other than to provide services for us, and they should not normally share, resell or use the data for their own direct marketing purposes.
 
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the \"Compliance with Legal Process\" section of this policy.)
+We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the "Compliance with Legal Process" section of this policy.)
 
 ### **WHAT IS OUR EMAIL POLICY?**
 
-**AdviceCo** **endeavors to comply with the federal CAN-SPAM Act, as amended.** We will not knowingly send marketing messages to those who opt-out. You can choose not to receive messages in the future by following the \"unsubscribe\" instructions located near the bottom of each email. We will use diligent efforts not to share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact [admin@adviceco.com](http://www.freeadvice.com/%22mailto:admin@adviceco.com/%22).
+**AdviceCo** **endeavors to comply with the federal CAN-SPAM Act, as amended.** We will not knowingly send marketing messages to those who opt-out. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each email. We will use diligent efforts not to share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact [admin@adviceco.com](mailto:admin@adviceco.com).
 
-**Email Newsletters.** AdviceCo offers several email newsletters. If you no longer wish to receive a specific newsletter, follow the \"unsubscribe\" instructions located near the bottom of each newsletter.
+**Email Newsletters.** AdviceCo offers several email newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter.
 
 **Survey Email.** We may invite you to participate in user surveys asking for feedback on one of our websites or applications and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Sites and Services, and we do not share any personal information we obtain in such surveys with third parties, except in aggregate form.
 
@@ -170,7 +170,7 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 If, at any time, you prefer not to receive email information from us, simply follow the unsubscribe options at the bottom of each email.
 
-If you experience difficulty with the unsubscribe process, feel free to contact us at [admin@adviceco.com](http://www.freeadvice.com/%22mailto:admin@adviceco.com/%22) or mail a letter to us at Post Office Box 1739, Sausalito, CA 94966-1739 and provide your email address along with the name of the newsletter or Service from which you would like to unsubscribe.
+If you experience difficulty with the unsubscribe process, feel free to contact us at [admin@adviceco.com](mailto:admin@adviceco.com) or mail a letter to us at Post Office Box 1739, Sausalito, CA 94966-1739 and provide your email address along with the name of the newsletter or Service from which you would like to unsubscribe.
 
 ### **IS MY INFORMATION PROTECTED?**
 
@@ -182,13 +182,13 @@ To prevent unauthorized access, maintain data accuracy, and ensure the appropria
 
 We may access, preserve and disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Sites or Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
-**Children\'s Guidelines**
+**Children's Guidelines**
 
 **COPPA Compliance.** AdviceCo and its affiliates do not knowingly collect or store any personal information about children under the age of 13.
 
 **Additional California Privacy Rights**
 
-Under the California “Shine The Light” law, California residents may opt-out of AdviceCo’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to AdviceCo Customer Care, P.O. Box 1739, Sausalito, CA 94966-1739 or by emailing us at [admin@adviceco.com](http://www.freeadvice.com/%22mailto:admin@adviceco.com/%22). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, and we disclaim all liability for any inadvertent or accidental disclosures.
+Under the California “Shine The Light” law, California residents may opt-out of AdviceCo’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to AdviceCo Customer Care, P.O. Box 1739, Sausalito, CA 94966-1739 or by emailing us at [admin@adviceco.com](mailto:admin@adviceco.com). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, and we disclaim all liability for any inadvertent or accidental disclosures.
 
 **Additional Privacy Provisions and Changes to This Policy**
 
