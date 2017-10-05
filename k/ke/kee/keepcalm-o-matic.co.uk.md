@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepcalm-o-matic.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150255id_/http%3A//www.keepcalm-o-matic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepcalm-o-matic.co.uk privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005185158id_/https%3A//www.keepcalm-o-matic.co.uk/privacy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy | Keep Calm-o-Matic
 
