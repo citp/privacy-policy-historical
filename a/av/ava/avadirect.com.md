@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041732id_/http%3A//www.avadirect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005232833id_/https%3A//www.avadirect.com/Privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | AVADirect
 
@@ -101,7 +101,7 @@ If you believe that the Site contains information about you that needs to be upd
 
 Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2013 will receive information regarding 2012 sharing activities).
 
-To obtain this information in connection with information collected through the Site, please [click here](https://web.archive.org/web/20170606041732id_/http%3A//www.avadirect.com/Contact) to send a message with "Request for California Privacy Information" in the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
+To obtain this information in connection with information collected through the Site, please [click here](https://web.archive.org/web/20171005232833id_/https%3A//www.avadirect.com/Contact) to send a message with "Request for California Privacy Information" in the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
 
 ### California Do Not Track Disclosures
 
