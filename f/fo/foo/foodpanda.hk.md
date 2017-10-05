@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodpanda.hk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123235143id_/https%3A//www.foodpanda.hk/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.hk privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006010134id_/https%3A//www.foodpanda.hk/contents/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy | foodpanda
+# Privacy policy | foodpanda | foodpanda
 
  
 
