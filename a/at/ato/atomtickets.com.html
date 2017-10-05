@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atomtickets.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606181721id_/https%3A//www.atomtickets.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atomtickets.com privacy policy that was archived on 2017-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171005031533id_/https%3A//www.atomtickets.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -12,6 +12,10 @@
 
 
   <meta name="description" content="The Future of Movies: Atom is movie-going for the 21st century. Find the perfect movie, buy your tickets, select seats, and order concessions all online. GET STARTED NOW >>>">
+
+  
+    <meta name="apple-itunes-app" content="app-id=926058555,app-argument=atom:///ViewGateway?">
+  
 
   
 
@@ -37,7 +41,7 @@
 <meta name="msapplication-wide310x150logo" content="/assets/tenant/images/mstile-310x150.png">
 
 
-  
+   
 
 
 
@@ -57,7 +61,7 @@
 <meta name="twitter:site" content="@atomtickets">
 <meta name="twitter:title" content="Privacy Policy | Atom, the Future of Movies">
 <meta name="twitter:description" content="The Future of Movies: Atom is movie-going for the 21st century. Find the perfect movie, buy your tickets, select seats, and order concessions all online. GET STARTED NOW >>>">
-<meta name="twitter:image" content="https://atom-tickets-res.cloudinary.com/image/upload/q_auto/v1494351282/website/share-site.jpg">
+<meta name="twitter:image" content="https://atom-tickets-res.cloudinary.com/image/upload/q_auto/v1494351282/website/share-site.jpg"> 
 
   <title>Privacy Policy | Atom, the Future of Movies</title>
 
@@ -66,27 +70,32 @@
   
 
   
-<link rel="stylesheet" media="all" href="/assets/stylesheets/5afbaa111c5a23fc3a11939d63c79000-atom.css">
+<link rel="stylesheet" media="all" href="/assets/stylesheets/4180b872f7ffa6dc954a967520db15c6-atom.css">
 
 
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet" type="text/css">
   
 
 
-  <script src="/assets/javascripts/bf96c3d85e8ad9be9fe910a7e6c638ba-core.js"></script>
+  <script src="/assets/javascripts/e67cbcd5d8dc476ca457dc99eb3e95fc-core.js"></script>
 
 
 <script type="text/javascript">
   
   window.atomFeatureFlags = {
     "appreciationEngine": false,
-    "amazonLogin": false,
+    "amazonLogin": true,
     "checkoutShowRegisterForm": true,
-    "inlinePasswordReset": true,
+    "checkoutShowImdbLoginForm": false,
+    "facebookPayments": true,
+    "inlinePasswordReset": true
   };
-  window.atomGoogleApiKey = "AIzaSyCT9kdtp-AbE4jgqki3b3ycqoBW8sBkuiQ";
+  window.atomGlobal = {
+    googleApiKey: "AIzaSyCT9kdtp-AbE4jgqki3b3ycqoBW8sBkuiQ",
+    disneyRewardsUrl: "https://dmr.spika.com/auth-dialogue.htm?partnerId=16&successUrl={protocol}//{host}/settings/reward-programs/distributor/disney_rewards".replace("{protocol}", window.location.protocol).replace("{host}", window.location.host)
+  };
 
-  Utils.requestSprite("/assets/images/3371c5fc2964843455b02a18a611782b-atom-sprite.svg");
+  Utils.requestSprite("/assets/images/1428b8b12cb7ff63e3cc28b5f83e3698-atom-sprite.svg");
 </script>
 
 
@@ -95,22 +104,13 @@
 
 <script>
   tagEvents = [{"category":"About","action":"PageView","entityName":"company-pages","entityId":"privacy"}];
-  NREUM.info = {
-    beacon:"bam.nr-data.net",
-    errorBeacon:"bam.nr-data.net",
-    licenseKey:"ed8fe1c94e",
-    applicationID: "10875651",
-    sa:1
-  };
   
-    NREUM.setCustomAttribute("atomSessionId", "d2a3f810-bada-4f37-b9ad-83e99d17643e");
-    tagEvents.push({"atomSessionId": "d2a3f810-bada-4f37-b9ad-83e99d17643e"});
+    tagEvents.push({"atomSessionId": "93a2ec08-9b6d-4c96-aab0-e86d2dc4e4ef"});
   
   
   
   
-    NREUM.setCustomAttribute("atomDeviceId", "f7f9c2f3-014c-40c5-b320-b544a64411e7");
-    tagEvents.push({"atomDeviceId": "f7f9c2f3-014c-40c5-b320-b544a64411e7"});
+    tagEvents.push({"atomDeviceId": "3fc2b85e-cbd8-4edb-abeb-48dc105a5da2"});
   
   
   
@@ -120,11 +120,13 @@
     });
   
   
-    tagEvents.push({"ipAddress": "207.241.229.151"});
+    tagEvents.push({"ipAddress": "207.241.231.163"});
   
-  NREUM.setCustomAttribute("pageName", "About");
+  
+    tagEvents.push({"foxDeviceId": "7523478e65bdb546285c40117e89cc43"});
+  
   Clickstream.extendPageAttributes({"category":"About","action":"PageView","entityName":"company-pages","entityId":"privacy"});
-  Clickstream.logInitialPageView("");
+  Clickstream.logInitialPageView("https://www.atomtickets.com/movies/til-death-do-us-part/254413");
 
   // Google Tag Manager
   
@@ -139,7 +141,11 @@
   
 
 <script>
-  AtomSift.init("", "d2a3f810-bada-4f37-b9ad-83e99d17643e");
+  AtomSift.init(
+    "",
+    "93a2ec08-9b6d-4c96-aab0-e86d2dc4e4ef",
+    "0bde17d90b"
+  );
 </script>
 
 
@@ -166,6 +172,11 @@
   <body>
 
     <div id="fb-root"></div>
+    
+      <div id="amazon-root" data-client-id="amzn1.application-oa2-client.1e0028a207564468b983c17bec28cbfb" data-is-sandbox="false" data-js-src="static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+      </div>
+    
+
     
 
     <div class="page-container standard">
@@ -577,9 +588,9 @@
   
 
 
-  <svg width="100%" height="100%" class="icon atom " role="img" aria-labelledby="svg-ca11c46a-c017-4741-a7b7-dac89aa549b0">
+  <svg width="100%" height="100%" class="icon atom " role="img" aria-labelledby="svg-fcb3fd24-fdf7-435e-a83b-496159bf7f32">
     
-      <title id="svg-ca11c46a-c017-4741-a7b7-dac89aa549b0">Atom Tickets</title>
+      <title id="svg-fcb3fd24-fdf7-435e-a83b-496159bf7f32">Atom Tickets</title>
     
     <use xlink:href="#atom"></use>
   </svg>
@@ -648,9 +659,6 @@
     </div>
   </nav>
   <div class="header-offset "></div>
-  
-
-
 </div>
 
 
@@ -800,9 +808,9 @@
         <a href="/" data-csm="{&quot;category&quot;:&quot;Unknown&quot;,&quot;action&quot;:&quot;Click&quot;,&quot;label&quot;:&quot;Movies&quot;}">
 
 
-<svg width="154px" height="39px" class="icon atom-name-logo footer-atom-logo" role="img" aria-labelledby="svg-8dd2018f-932f-48b0-8107-33d0aa5dcca4">
+<svg width="154px" height="39px" class="icon atom-name-logo footer-atom-logo" role="img" aria-labelledby="svg-7683f338-89cd-426e-9f6a-22cd0b99380f">
   
-    <title id="svg-8dd2018f-932f-48b0-8107-33d0aa5dcca4">Atom Tickets</title>
+    <title id="svg-7683f338-89cd-426e-9f6a-22cd0b99380f">Atom Tickets</title>
   
   <use xlink:href="#atom-name-logo"></use>
 </svg>
@@ -816,9 +824,9 @@
           
 
 
-<svg width="111px" height="38px" class="icon footer-appstore " role="img" aria-labelledby="svg-8ce3bc0d-8964-4c3e-9296-fd5cd34d755b">
+<svg width="111px" height="38px" class="icon footer-appstore " role="img" aria-labelledby="svg-ce5fc794-c0cf-4ecb-a500-8300193bad32">
   
-    <title id="svg-8ce3bc0d-8964-4c3e-9296-fd5cd34d755b">Download on the App Store</title>
+    <title id="svg-ce5fc794-c0cf-4ecb-a500-8300193bad32">Download on the App Store</title>
   
   <use xlink:href="#footer-appstore"></use>
 </svg>
@@ -829,9 +837,9 @@
           
 
 
-<svg width="111px" height="38px" class="icon footer-googleplay " role="img" aria-labelledby="svg-197058e0-df86-4354-bea0-00422115c819">
+<svg width="111px" height="38px" class="icon footer-googleplay " role="img" aria-labelledby="svg-27863d3e-dc73-4aa1-8438-9e6b50976286">
   
-    <title id="svg-197058e0-df86-4354-bea0-00422115c819">Get it on Google Play</title>
+    <title id="svg-27863d3e-dc73-4aa1-8438-9e6b50976286">Get it on Google Play</title>
   
   <use xlink:href="#footer-googleplay"></use>
 </svg>
@@ -917,9 +925,9 @@
         
 
 
-<svg width="26px" height="26px" class="icon social-circle-facebook " role="img" aria-labelledby="svg-4567b2e0-bfe5-49ea-9f7e-beaaafed1343">
+<svg width="26px" height="26px" class="icon social-circle-facebook " role="img" aria-labelledby="svg-0e4f858d-f719-468b-b772-915836b6a6e6">
   
-    <title id="svg-4567b2e0-bfe5-49ea-9f7e-beaaafed1343">Like us on Facebook</title>
+    <title id="svg-0e4f858d-f719-468b-b772-915836b6a6e6">Like us on Facebook</title>
   
   <use xlink:href="#social-circle-facebook"></use>
 </svg>
@@ -930,9 +938,9 @@
         
 
 
-<svg width="26px" height="26px" class="icon social-circle-twitter " role="img" aria-labelledby="svg-cb893ad3-25b3-4aa8-986b-9553be3ae572">
+<svg width="26px" height="26px" class="icon social-circle-twitter " role="img" aria-labelledby="svg-4518c0b6-d418-4c1a-ba4b-b76791cdf7fb">
   
-    <title id="svg-cb893ad3-25b3-4aa8-986b-9553be3ae572">Follow us on Twitter</title>
+    <title id="svg-4518c0b6-d418-4c1a-ba4b-b76791cdf7fb">Follow us on Twitter</title>
   
   <use xlink:href="#social-circle-twitter"></use>
 </svg>
@@ -943,9 +951,9 @@
         
 
 
-<svg width="26px" height="26px" class="icon social-circle-instagram " role="img" aria-labelledby="svg-c2a3fd94-7764-47cb-a560-04fa32765e50">
+<svg width="26px" height="26px" class="icon social-circle-instagram " role="img" aria-labelledby="svg-2b38939f-ab41-4bb4-bc86-f58df4fa936e">
   
-    <title id="svg-c2a3fd94-7764-47cb-a560-04fa32765e50">Follow us on Instagram</title>
+    <title id="svg-2b38939f-ab41-4bb4-bc86-f58df4fa936e">Follow us on Instagram</title>
   
   <use xlink:href="#social-circle-instagram"></use>
 </svg>
@@ -975,13 +983,44 @@
     
 
 
-<div class="alert modal fade" data-csm="{&quot;category&quot;:&quot;UnknownAlert&quot;,&quot;action&quot;:&quot;PageView&quot;}" role="dialog" aria-labelledby="modal-53d5f3a6-457b-490e-aa7e-fb9b65968232" aria-describedby="alert-message">
+<div class="visible-xs-block">
+  <div class="table stretch app-banner hidden">
+    <button type="button" class="btn btn-close" data-dismiss="modal" aria-label="Close" data-csm="{&quot;category&quot;:&quot;Unknown&quot;,&quot;action&quot;:&quot;Click&quot;,&quot;label&quot;:&quot;AppBannerClose&quot;}"><span aria-hidden="true">×</span></button>
+    <div class="cell">
+      <div class="logo-container">
+        
+
+
+  <svg width="100%" height="100%" class="icon atom-logo " role="img" aria-labelledby="svg-61f19296-d790-4d84-a104-3fbdd4636a64">
+    
+      <title id="svg-61f19296-d790-4d84-a104-3fbdd4636a64">Atom Tickets</title>
+    
+    <use xlink:href="#atom-logo"></use>
+  </svg>
+
+      </div>
+    </div>
+    <div class="cell stretch">
+      <div>Atom Tickets</div>
+      <div class="tagline">Movies Made Easy</div>
+    </div>
+    <div class="cell">
+      <a class="btn btn-primary" href="/" data-csm="{&quot;category&quot;:&quot;Unknown&quot;,&quot;action&quot;:&quot;Click&quot;,&quot;label&quot;:&quot;AppBannerGet&quot;}">GET</a>
+    </div>
+  </div>
+</div>
+
+
+    
+
+
+<div class="alert modal fade" data-csm="{&quot;category&quot;:&quot;UnknownAlert&quot;,&quot;action&quot;:&quot;PageView&quot;}" role="dialog" aria-labelledby="modal-c3394272-2254-4df7-a2ee-b4cc1c143bfb" aria-describedby="alert-message">
   <div class="modal-dialog modal-foreground">
     <div class="tab-start" tabindex="0"></div>
     <div class="modal-content">
       <div class="modal-scroll-content">
         <div class="modal-header">
-          <h2 id="modal-53d5f3a6-457b-490e-aa7e-fb9b65968232" class="modal-title" tabindex="-1"></h2>
+          <h2 id="modal-c3394272-2254-4df7-a2ee-b4cc1c143bfb" class="modal-title" tabindex="-1"></h2>
         </div>
         <div class="error-message" role="alert" style="display: none;"></div>
         <div class="modal-body">
@@ -1027,17 +1066,18 @@
 
 
 
-<div class="authentication authentication-modal modal fade" data-csm="{&quot;category&quot;:&quot;SignIn&quot;,&quot;action&quot;:&quot;PageView&quot;}" role="dialog" aria-labelledby="modal-72efc48c-bff3-41ee-813f-2537d89dd07c">
+<div class="authentication authentication-modal modal fade" data-csm="{&quot;category&quot;:&quot;SignIn&quot;,&quot;action&quot;:&quot;PageView&quot;}" role="dialog" aria-labelledby="modal-ada49d00-2ce9-4b26-bee9-f5720affbd7a">
   <div class="modal-dialog modal-foreground">
     <div class="tab-start" tabindex="0"></div>
     <div class="modal-content">
       <div class="modal-scroll-content">
         <div class="modal-header">
-          <h2 id="modal-72efc48c-bff3-41ee-813f-2537d89dd07c" class="modal-title" tabindex="-1"></h2>
+          <h2 id="modal-ada49d00-2ce9-4b26-bee9-f5720affbd7a" class="modal-title" tabindex="-1"></h2>
         </div>
         <div class="error-message" role="alert" style="display: none;"></div>
         <div class="modal-body">
           
+  
   
 
  
@@ -1045,8 +1085,97 @@
 <div class="narrow-form">
 
   
+    
+
+<div class="reauthenticate-content" style="display: none">
+
+  
+
+
+  <div class="authentication-heading">Please sign in again</div>
+
+
+  
+
+<div class="text-center">
+  
+
+<button class="form-row btn btn-block btn-lg btn-fb btn-fb-login">
+  <span class="icon-container" aria-hidden="true">
+    
+
+
+  <svg width="100%" height="100%" class="icon connect-fb " role="img">
+    
+    <use xlink:href="#connect-fb"></use>
+  </svg>
+
+  </span>
+  LOG IN WITH FACEBOOK
+</button>
+
+  
+  
+    
+
+<button class="form-row btn btn-block btn-lg btn-amazon btn-amazon-login">
+  <span class="icon-container" aria-hidden="true">
+    
+
+
+  <svg width="100%" height="100%" class="icon connect-amazon " role="img">
+    
+    <use xlink:href="#connect-amazon"></use>
+  </svg>
+
+  </span>
+  LOG IN WITH AMAZON
+</button>
+
+  
+  <div><small>We will never post anything to your account</small></div>
+</div>
+  
+<div class="form-or">
+  <div class="left"></div>
+  <span>OR</span>
+  <div class="right"></div>
+</div>
+  
+   
+
+<form action="/login" method="POST" class="reauthenticate-form" role="form" autocomplete="off">
+    
+    
+
+<label class="floating-label ">
+  <span>Email Address or Mobile Number</span>
+  <input value="" placeholder="Email Address or Mobile Number" data-placeholder="" class="form-control " type="text" name="identity">
+  
+</label>
+    
+
+<label class="floating-label ">
+  <span>Password</span>
+  <input value="" placeholder="Password" data-placeholder="" class="form-control " type="password" name="password">
+  
+</label>
+    <input type="hidden" name="isThirdPartyAuthRequired" value="false">
+    
+    <button class="btn btn-block btn-authentication btn-lg">LOG IN</button>
+  
+</form>
+
+
+  <a href="#" class="btn-forgot-password">Forgot Password?</a>
+
+</div>
+  
+
+  
 
 <div class="login-content">
+
   
 
 
@@ -1055,13 +1184,12 @@
 
   
 
-
-
 <div class="text-center">
   
-  <button class="form-row btn btn-block btn-lg btn-fb btn-fb-login">
-    <span class="icon-container" aria-hidden="true">
-      
+
+<button class="form-row btn btn-block btn-lg btn-fb btn-fb-login">
+  <span class="icon-container" aria-hidden="true">
+    
 
 
   <svg width="100%" height="100%" class="icon connect-fb " role="img">
@@ -1069,15 +1197,31 @@
     <use xlink:href="#connect-fb"></use>
   </svg>
 
-    </span>
-    LOG IN WITH FACEBOOK
-  </button>
+  </span>
+  LOG IN WITH FACEBOOK
+</button>
 
   
+  
+    
+
+<button class="form-row btn btn-block btn-lg btn-amazon btn-amazon-login">
+  <span class="icon-container" aria-hidden="true">
+    
+
+
+  <svg width="100%" height="100%" class="icon connect-amazon " role="img">
+    
+    <use xlink:href="#connect-amazon"></use>
+  </svg>
+
+  </span>
+  LOG IN WITH AMAZON
+</button>
+
   
   <div><small>We will never post anything to your account</small></div>
 </div>
-
   
 <div class="form-or">
   <div class="left"></div>
@@ -1112,7 +1256,7 @@
 
   <a href="#" class="btn-forgot-password">Forgot Password?</a>
 
-  <div class="no-account">Dont have an account? <a href="#" class="btn-register">Sign up</a></div>
+  <div class="no-account">Don't have an account? <a href="#" class="btn-register">Sign up</a></div>
 
   
 
@@ -1208,13 +1352,12 @@
 
     
 
-
-
 <div class="text-center">
   
-  <button class="form-row btn btn-block btn-lg btn-fb btn-fb-login">
-    <span class="icon-container" aria-hidden="true">
-      
+
+<button class="form-row btn btn-block btn-lg btn-fb btn-fb-login">
+  <span class="icon-container" aria-hidden="true">
+    
 
 
   <svg width="100%" height="100%" class="icon connect-fb " role="img">
@@ -1222,11 +1365,28 @@
     <use xlink:href="#connect-fb"></use>
   </svg>
 
-    </span>
-    LOG IN WITH FACEBOOK
-  </button>
+  </span>
+  LOG IN WITH FACEBOOK
+</button>
 
   
+  
+    
+
+<button class="form-row btn btn-block btn-lg btn-amazon btn-amazon-login">
+  <span class="icon-container" aria-hidden="true">
+    
+
+
+  <svg width="100%" height="100%" class="icon connect-amazon " role="img">
+    
+    <use xlink:href="#connect-amazon"></use>
+  </svg>
+
+  </span>
+  LOG IN WITH AMAZON
+</button>
+
   
   <div><small>We will never post anything to your account</small></div>
 </div>
