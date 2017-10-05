@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gstseva.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608195604id_/https%3A//www.gstseva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstseva.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005191105id_/https%3A//www.gstseva.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | GST-Seva | GST in India | GST news | GST updates | GST consultants | GST bill
+# 
+
+## PRIVACY POLICY
 
 GSTSEVA.COM does not collect any personal information about individuals except when such individuals specifically provide such information on a voluntary basis. Personal information on individual users will not be sold or otherwise transferred to unaffiliated third parties.
 
