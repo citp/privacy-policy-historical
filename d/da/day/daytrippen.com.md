@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625025249id_/http%3A//www.daytrippen.com/daytrippen-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005213816id_/http%3A//www.daytrippen.com/daytrippen-privacy-policy) for the most accurate reproduction.*
 
 # DayTrippen Privacy Policy - Daytrippen.com
 
