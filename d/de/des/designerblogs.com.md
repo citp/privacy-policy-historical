@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerblogs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033510id_/https%3A//www.designerblogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerblogs.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006000653id_/http%3A//www.designerblogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignerBlogs.com
 
@@ -37,7 +37,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ### How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 * * *
 
