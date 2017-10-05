@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112320id_/http%3A//www.thegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamer.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005171439id_/http%3A//www.thegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -32,4 +32,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us. 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact/). 
