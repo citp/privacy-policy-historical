@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andromo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629105833id_/http%3A//andromo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andromo.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005103416id_/https%3A//andromo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Andromo App Maker for Android
 
