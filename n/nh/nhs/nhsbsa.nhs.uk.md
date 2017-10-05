@@ -1,954 +1,243 @@
-> *The following text is extracted and transformed from the nhsbsa.nhs.uk privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112112544id_/http%3A//www.nhsbsa.nhs.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhsbsa.nhs.uk privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005050103id_/https%3A//www.nhsbsa.nhs.uk/our-policies/privacy) for the most accurate reproduction.*
 
-# NHSBSA - Privacy
+# Privacy | NHSBSA
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like NHS Business Services Authority (NHSBSA). We are based in England. 
+Our privacy policy covers the NHS Business Services Authority and its websites.
 
-The NHSBSA undertakes a wide number of functions on behalf of the Secretary of State for Health. These include the:- 
+It is compliant with the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents "Data Protection Act 1998") and we are subject to Independent Data Protection Authority supervision.
 
-  * The processing of payments to providers of goods and services to the health service;
-  * The development of, and planning for the co-ordination of, business and regulatory services relating to the-
+### Privacy statement
+
+The NHS Business Services Authority (NHSBSA) undertakes a wide number of functions on behalf of the Secretary of State for Health.
+
+These include:
+
+  * processing payments to providers of goods and services to the NHS
+  * developing and planning for the co-ordination of, business and regulatory services relating to the provision of general dental services, personal dental services and pharmaceutical services
+  * administration of the NHS Pensions Scheme
+  * administration of the NHS Bursary Scheme in England
+  * administration of the European Health Insurance Card
+  * preventing, detecting and investigating fraud, corruption and unlawful activities and the management of security in relation to the NHS.
 
 
-  * provision of general dental services, personal dental services and pharmaceutical services;
-  * administration of the NHS Pensions Scheme;
-  * administration of the NHS Bursary Scheme in England;
-  * administration of the European Health Insurance Card; and
-  * prevention, detection and investigation of fraud, corruption and unlawful activities and the management of security in relation to the National Health Service
+
+The NHSBSA maintains the largest drug database of its kind in Europe, processing over 576 million prescriptions per year.
+
+In addition, we deal with around one million claims under the NHS Low Income Scheme each year. Most of the NHSBSA's functions are computerised.
+
+### **Providing visitors with anonymous access**
+
+You can access our home page and browse our sites without disclosing your personal data.
+
+### **The services and links of our websites**
+
+Our websites do not:
+
+  * enable our visitors to communicate with other visitors or to post information to be accessed by others
+  * include links to third party web service providers
 
 
 
-The NHSBSA maintains the largest drug database of its kind in Europe, over 576 million prescriptions per year. In addition, the Patient Services Division deals with around one million claims per annum under the NHS Low Income Scheme. Most of the NHSBSA's functions are computerised.
+### **Data collection and purpose specification**
 
-Our privacy policy covers NHS Business Services Authority and its Web sites:
+[How we collect and use your personal data](https://web.archive.org/access-information/corporate-data-protection "Data protection")
 
-**Organisation Name:** NHS Business Services Authority  
-**Address:** Bridge House, 152 Pilgrim Street   
-**City, Zip:** Newcastle upon Tyne, NE1 6SN  
-**Country:** England  
-**Controller:** NHS Business Services Authority  
-**Web Site(s):** [www.nhsbsa.nhs.uk](http://www.nhsbsa.nhs.uk/)
+### **Children's privacy**
 
-## Providing Visitors with Anonymous Access
+We do not knowingly collect personal data from children.
 
-You can access our Web sites home page and browse our sites without disclosing your personal data. 
-
-## The Services and Links of our Web Sites
-
-Our Web sites do not enable our visitors to communicate with other visitors or to post information to be accessed by others. Our Web sites do not include links to third party Web service providers.
-
-## Automatic Collection of Information
-
-We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals.
-
-We do not use cookies to automatically store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.
-
-We do use session cookies to ensure that you can interact with our site successfully. 
-
-## Data Collection and Purpose Specification 
-
-We collect the personal data that you may volunteer while using our services. 
-
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
-
-Listed below is a table of personal data collected and purposes for which they are used.
-
-We do not collect or use personal data for any purpose other than that indicated in the table below.
-
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose by separate contact to verify the new use of your personal data.
-
-## Children's Privacy
-
-We do not knowingly collect personal data from children. 
-
-## Disclosure and Visitor Choice
+### **Disclosure and visitor choice**
 
 We do not disclose your personal data to other organisations.
 
-## Confidentiality / Security
+### **What our privacy policy covers**
 
-We give you the option of using a secure transmission method to send us the following types of personal data: 
+Our privacy policy covers NHS Business Services Authority and its websites:
 
-  * primary personal data (such as name and contact details)
-  * identifiers (such as credit card details, Web site password) 
+**Organisation name:** NHS Business Services Authority  
+ **Address:** Stella House, Goldcrest Way, Newburn Riverside  
+ **City and postcode:** Newcastle upon Tyne, NE15 8NY  
+ **Country:** England  
+ **Controller:** NHS Business Services Authority  
+ **Website(s):** <http://www.nhsbsa.nhs.uk/>
 
+### Privacy compliance and support
 
+Our privacy policy is compliant with the Data Protection Act 1998, United Kingdom.
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from:
+There are no global or regional regulatory or self-regulatory schemes applicable to our website or organisation.
 
-  * unauthorised access
-  * improper use or disclosure
-  * unauthorised modification
-  * unlawful destruction or accidental loss 
+In order to demonstrate that our privacy policy accords with the Data Protection Act 1998, we are subject to an Independent Data Protection Authority supervision.
 
+### **Independent Data Protection Authority supervision**
 
+Designation of the authority: Information Commissioner
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except with your consent or if required by law or other regulation.
-
-## Access to the Personal Data we may hold about you
-
-You can ask us, by: 
-
-  * sending an email to [data.protection@nhsbsa.nhs.uk](mailto:data.protection@nhsbsa.nhs.uk)
-  * sending postal mail to this address :-  
-Corporate Secretary  
-NHS Business Services Authority  
-Bridge House  
-152 Pilgrim Street  
-Newcastle upon Tyne  
-NE1 6SN 
-  * calling this telephone number 0191-203 5484 
+  * **Address:** Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+  * **Country:** United Kingdom
+  * **Website:**  [www.ico.org.uk](https://ico.org.uk/ "ICO")
 
 
 
-whether we are keeping personal data about you.
+### **Privacy support**
 
-Upon request, which you can indicate by: 
+If you have a question or concern about our privacy policy, please contact:
 
-  * sending postal mail to this address :-  
-Corporate Secretary  
-NHS Business Services Authority  
-Bridge House  
-152 Pilgrim Street  
-Newcastle upon Tyne  
-NE1 6SN 
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you, within the 40 calendar days allowed under the Data Protection Act for a Subject Access Request. Although we will require proof of your identity. We will provide the information without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased
-  * rectified or amended
-  * completed 
+  * **Name/designation:** Information Governance
+  * **Address:** Stella House, Goldcrest Way, Newburn Riverside, Newcastle upon Tyne, NE15 8NY
+  * **Phone number:** 0191 232 5371
+  * **Fax number:** 0191 264 5281
+  * **Email address:**  [nhsbsa.dataprotection@nhs.net](mailto:nhsbsa.dataprotection@nhs.net "Email our Information Governance team") 
+  * **Website** : <http://www.nhsbsa.nhs.uk/>
 
 
 
-We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal.
+If you’re not satisfied with our response to your concern you can contact either:
 
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
-
-## Privacy Compliance
-
-Our privacy policy is compliant with the following instrument: Data Protection Act 1998, United Kingdom 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation.
-
-In order to demonstrate that our privacy policy accords with the above privacy instrument, we are:
-
-  * subject to an Independent Data Protection Authority supervision
+  1. Gordon Wanless, Head of Internal Governance, Stella House, Goldcrest Way, Newburn Riverside, Newcastle upon Tyne, NE15 8NY
+  2. The Information Commissioner, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
 
 
 
-**Independent Data Protection Authority supervision**  
-Designation of the authority: Information Commissioner  
-URL: <http://www.dataprotection.gov.uk/>  
-Address: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF   
-Country: United Kingdom  
+### Cookies
 
+When we provide services to you, we want to make them easy, useful and reliable. Where services are delivered through the internet, this very occasionally involves placing small amounts of information on your device (phone, tablet or computer). These include small files known as cookies.
 
-## Privacy Support
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies")
 
-If you have an enquiry or concern about our privacy policy, please contact: 
+To opt out of being tracked by Google Analytics across all websites visit: <http://tools.google.com/dlpage/gaoptout>
 
-**Contact 1**  
-Name/designation: Corporate Secretary  
-Department: Information Technology  
-Address: Bridge House, 152 Pilgrim Street, Newcastle upon Tyne, NE1 6SN  
-Phone Number: 0191-203 5484  
-Fax Number: 0191-281 9922  
-Email Address: [data.protection@nhsbsa.nhs.uk](mailto:data.protection@nhsbsa.nhs.uk)  
-URL: [www.NHSBSA.nhs.uk](http://www.nhsbsa.org.uk/)
+### **How we use cookies and why**
 
-**Contact 2**  
-Name/designation:   
-Department:   
-Address:   
-Phone Number:  
-Fax Number:  
-Email Address:  
-URL: 
+#### **Website and web applications**
 
-If you are not satisfied with our response to your concern:
+**System:  **Google Analytics
 
-  * you may wish to contact Mike Siswick, Director of Human Resources at the above address or on 0191 203 5212
-  * you may wish to contact Information Commissioner ([data@dataprotection.gov.uk](mailto:data@dataprotection.gov.uk))
+**More information:**<http://www.google.com/analytics/learn/privacy.html>
 
-
-
-## TABLE of personal data collected and purposes for which they are used
-
-Primary personal data/Business information  
-**x** volunteered by each visitor  
-\- collected from public records or bodies  
-\- collected from private organisations
-
-**Primary personal data**
-
-  | 
-
-Technical Administration of the Web site
-
-| 
-
-Research & Development 
-
-| 
-
-Customer Administration 
-
-| 
-
-Marketing
-
-| 
-
-Trading in Personal Data  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
+_utma | To determine the number of unique visitors to our website | 2 years  
+_utmb | To establish and continue your internet browser session on our website | 30 minutes  
+_utmt | To manage data transfer volumes | 10 minutes  
+_utmz | To determine where you came from when visiting our website | 6 months  
+_ga | To distinguish users | 2 years  
+_gid | To distinguish users | 24 hours  
+_gat | To manage data transfer volumes | 10 minutes  
+_utmc | To determine whether the user was beginning a new session/visit | Until you close your browser  
+_utmv | To store information about your visit to our webpages. This is updated every time information is sent to Google Analytics. | 2 years after the last update  
   
----|---|---|---|---|---  
-Name | 
+#### NHS Protect and NHS Help with Health Costs
 
--
+**System** : NHS Protect secure website and digital applications for maternity exemption and prescription prepayment certificates
 
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
+JSESSIONID | This cookie is essential for these systems to work | Until you close your browser  
   
-Gender | 
+**System** : European Health Insurance Card (EHIC)
 
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
   
-Address | 
+JSESSIONID
 
--
+Dynamic_ID (on Firefox usually BCSI-CS-xxxxxxxxxxxx)
 
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+| These cookies are essential for this system to work | Until you close your browser  
   
-E-mail address | 
+#### NHS Student Bursaries
 
--
+**System** : Bursary Online Support System (BOSS)
 
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
   
-Phone/Fax number | 
+ASP.NET_SessionId
 
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+| This cookie is essential for this system to work | Until you close your browser  
   
-other (describe) | 
+#### NHS Dental Services
 
--
+**System** : Compass
 
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
   
-**Business Information**
+USERNAME@compass.nhsbsa.nhs
 
-  | 
+Username is the local login rather than the Compass login
 
-Technical Administration of the Web site
-
-| 
-
-Research & Development 
-
-| 
-
-Customer Administration 
-
-| 
-
-Marketing
-
-| 
-
-Trading in Personal Data  
+| This cookie is essential for this system to work | Until you close your browser  
   
----|---|---|---|---|---  
-Employer/ organisation | 
+**System** : E-reporting
 
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
   
-Job title | 
+[user name]@vm-xi31sp2/  
+and 5864GSVE.txt
 
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+| To remember the last “Last Accessed” and “Date Modified” when you last visited the site.  | 365 days unless you choose to manually delete it.  All registered users have been notified of this use of cookies.  
   
-Address | 
+#### Information Services
 
--
+**System:** Information Services Portal
 
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
+Cookie name | Purpose | How long it stays on your device  
+---|---|---  
+ISMServerTime | Stores the current time on the ISP server. This cookie is essential for this system to work. | Until you close your browser  
+ISMSessionExpiry | Stores the time your current session will expire due to inactivity. This cookie is essential for this system to work. | Until you close your browser  
+JESSIONID | Stores your session ID used by the ISP server to distinguish you from others. This cookie is essential for this system to work. | Until you close your browser  
+clientTimeOffset | Stores the difference between the time on your computer and that on the ISP server. This cookie is essential for this system to work. | Until you close your browser  
   
-E-mail address | 
+### NHSBSA Information Charter
 
--
+We need to handle personal information about you so that we can provide services for you. This is how we look after that information.
 
-| 
+When we ask you for personal information, we promise:
 
--
+  * to make sure you know why we need it
+  * to only ask for what we need, and not to collect too much or irrelevant information
+  * to protect it and make sure nobody has access to it who shouldn’t
+  * to let you know if we share it with other organisations to give you better public services - and if you can say no
+  * to make sure we don’t keep it longer than necessary
+  * not to make your personal information available for commercial use without your permission.
 
-| 
 
-**x**
 
-| 
+In return, we ask you to:
 
--
+  * give us accurate information
+  * tell us as soon as possible if there are any changes, such as a new address.
 
-| 
 
--  
-  
-Phone/Fax number | 
 
--
+This helps us to keep your information reliable and up to date.
 
-| 
+You can get more details on:
 
--
+  * how to find out what information we hold about you and how to ask us to correct any mistakes
+  * agreements we have with other organisations for sharing information
+  * circumstances where we can pass on your personal information without telling you, for example, to prevent and detect crime or to produce anonymised statistics
+  * our instructions to staff on how to collect, use and delete your personal information
+  * how we check the information we hold is accurate and up to date
+  * how to make a complaint.
 
-| 
 
-**x**
 
-| 
+When we ask you for information, we will keep to the law, including the Data Protection Act 1998.
 
--
+### **The Information Commissioner**
 
-| 
+For independent advice about data protection, privacy and data-sharing issues, you can contact the Information Commissioner at:
 
--  
-  
-other (describe) | 
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
 
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
-  
-Other personal details and profiling data   
-**x** volunteered by each visitor  
-\- collected from public records or bodies  
-\- collected from private organisations
-
-  
-  | 
-
-Technical Administration of the Web site
-
-| 
-
-Research & Development 
-
-| 
-
-Customer Administration 
-
-| 
-
-Marketing
-
-| 
-
-Trading in Personal Data  
-  
----|---|---|---|---|---  
-Personal details | 
-
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
-  
-Physical description | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Family characteristics | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Education and skills | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Life style or personal tastes | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Financial resources | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Other (describe) | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Identifiers  
-**x** volunteered by each visitor  
-\- collected from public records or bodies  
-\- collected from private organisations
-
-  
-  | 
-
-Technical Administration of the Web site
-
-| 
-
-Research & Development 
-
-| 
-
-Customer Administration 
-
-| 
-
-Marketing
-
-| 
-
-Trading in Personal Data  
-  
----|---|---|---|---|---  
-On-line identifiers | 
-
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
-  
-Financial identifiers | 
-
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
-  
-Identifiers assigned by Public bodies | 
-
--
-
-| 
-
--
-
-| 
-
-**x**
-
-| 
-
--
-
-| 
-
--  
-  
-Biometrics identifiers | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Other (describe) | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Specific Data   
-\- volunteered by each visitor  
-\- collected from public records or bodies  
-\- collected from private organisations
-
-  
-  | 
-
-Technical Administration of the Web site
-
-| 
-
-Research & Development 
-
-| 
-
-Customer Administration 
-
-| 
-
-Marketing
-
-| 
-
-Trading in Personal Data  
-  
----|---|---|---|---|---  
-Racial or ethnic origin | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Political opinions | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Religious or philosophical beliefs | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Trade union membership | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Health/Medical data | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Sex life | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Police/Justice data such as civil/criminal actions brought by or against the visitor | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--  
-  
-Other (describe) | 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
-
-| 
-
--
+Phone: 08456 30 60 60 or 01625 54 57 45  
+Fax: 01625 524510  
+Website: [www.ico.org.uk](http://www.ico.org.uk/)
