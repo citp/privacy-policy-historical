@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataentryforall.net privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222082015id_/http%3A//www.dataentryforall.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataentryforall.net privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005171553id_/http%3A//www.dataentryforall.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everything About Our HomesEverything About Our Homes
 
