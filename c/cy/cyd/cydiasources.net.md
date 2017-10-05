@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydiasources.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062055id_/http%3A//www.cydiasources.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydiasources.net privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005042446id_/http%3A//www.cydiasources.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,10 +32,6 @@ We may use the email address to respond to their inquiries, questions, and/or ot
  **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
->  **Get Latest Jailbreak & Cydia Apps for Free**
-> 
-> Email Updates Powered by Google FeedBurner
 
  **Sharing your personal information**
 
