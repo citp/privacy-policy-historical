@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the balenciaga.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416210445id_/https%3A//www.balenciaga.com/US/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balenciaga.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005152323id_/https%3A//www.balenciaga.com/US/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
-Welcome to our website www.balenciaga.com (the “ **Site** ”). Please read our Privacy Policy carefully.
+Welcome to our website www.balenciaga.com (the “ **Site** ”). Please read our Privacy Policy carefully. 
 
 This Privacy Policy applies when you visit or surf the Site without purchasing any product, when you register on the Site and when you use our services for purchasing products. By using this Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the Site.
 
