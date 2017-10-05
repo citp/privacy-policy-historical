@@ -1,225 +1,191 @@
-<!--The following is the downloaded HTML source of the authorpalace.com privacy policy that was archived on 2013-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130421035904id_/http%3A//www.authorpalace.com/index.php%3Fcustom%3Dyes%26TID%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the authorpalace.com privacy policy that was archived on 2017-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171005222359id_/http%3A//authorpalace.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/themes/base/jquery-ui.css">
-
 <meta name="description" content="">
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<script type="text/javascript" src="http://www.authorpalace.com/javascriptheader.js"></script>
-
-<!-- place any jquery-dependent script tags that need to be before the /head tag in here -->
-
+ <meta charset="utf-8">
+ <script src="http://authorpalace.com/javascriptheader.js" type="text/javascript"></script> 
+ <link rel="stylesheet" href="http://authorpalace.com/jquery/jquery-ui.min.css" type="text/css">
  
 <script type="text/javascript">
 //<![CDATA[
 
 $().ready(function() {
+wsn_closeboxes();
 
-        if ($("#searchauto").length) $("#searchauto").autocomplete({ source: "/autocomplete.php?action=searchauto" });
-        else $("[name=searchauto]").autocomplete({ source: "/autocomplete.php?action=searchauto" });
+ $("#dismisscookienotice").click(function() { $("#cookienotice").hide(); wsn_makecookie("dismisscookienotice", "true", 365, "/"); });
+ 
+$(".outlink").click(function(e) { wsn_counthit(this.id.replace("out", "")); });
 
-$('.stripeme tr:nth-child(even)').addClass('evenrow');
-$('.stripeme tr:nth-child(odd)').addClass('oddrow');
-$('a.ajaxlink').bind('click',function(event)
-{
- event.preventDefault();
- $.get(this.href,{},function(response)
- { 
-  var parts = response.split('[|||]');
-  $(parts[0]).html(parts[1])
- })	
+$("#mobilemenubutton").click(function(e) {
+$(".menuitems").toggle(500);
+if ($(".navbar-nav").length) $(".navbar-nav > li:not(:first-child)").toggle();
 });
+$(".memuitems a").click(function(e) { $(".menuitems").hide(500); });
 
-// place extra document ready function content here 
+        $("#login").click(function(e){
+        e.preventDefault();
+            $("#loginmodal").css("display", "block").dialog({
+      height: 300,
+      width: 400,
+      modal: true });
+      
+        });
+        
+        $("#loginsubmit").click(function(e){ e.preventDefault(); modallogin("http://authorpalace.com/index.php?action=privacy", e); });        
+    $("#addisplay2").click(function() { $.get("http://authorpalace.com/ajax.php?action=countadclick&id=2", {}, function(response) {}); }); 
+        if ($("#searchauto").length) $("#searchauto").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" });
+        else $("[name=searchauto]").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" });
+
+$('a.ajaxlink').click(function(e) { wsn_doajaxlink(e, this.href); });
+$('a.ajaxdelete').click(function(e) { wsn_doajaxdelete(e, this.href, this.id); });
  
 });
 
 //]]>
 </script>
-<title>  Authorpalace.com</title>
-<link rel="stylesheet" href="http://www.authorpalace.com/templates/styles/default.css" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="Free Online Article Directory  - Authorpalace.com" href="http://www.authorpalace.com/rssfeed.php">
-<link rel="shortcut icon" href="http://www.authorpalace.com/logo.ico">
-<script src="/javascript/aptreemenu.js"></script>
+<title>AuthorPalace</title>
+<link rel="stylesheet" href="http://authorpalace.com/schemas/base.css">
+<link rel="stylesheet" href="http://authorpalace.com/templates/styles/bootstrap.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="robots" content="noindex,nofollow">
+<script type="text/javascript">if (typeof hmtracker == 'undefined') {var hmt_script = document.createElement('script'),hmt_purl = encodeURIComponent(location.href).replace('.', '~');hmt_script.type = "text/javascript";hmt_script.src = "//ingapek.com/spymap/?hmtrackerjs=authorpalace&uid=ad7b77c9761e772ac23fe4de8cef2a9c5053a20e&purl="+hmt_purl;document.getElementsByTagName('head')[0].appendChild(hmt_script);}</script><script type="text/javascript" src="//ingapek.com/spymap/?hmtrackerjs=authorpalace&amp;uid=ad7b77c9761e772ac23fe4de8cef2a9c5053a20e&amp;purl=https%3A%2F%2Fweb~archive.org%2Fweb%2F20171005222359id_%2Fhttp%253A%2F%2Fauthorpalace.com%2Findex.php%253Faction%253Dprivacy"></script>
+
+<link rel="alternate" type="application/rss+xml" title="AuthorPalace" href="http://authorpalace.com/rssfeed.php">
+
+<meta property="og:url" content="http://authorpalace.com/index.php?action=privacy">
+<meta property="og:title" content="AuthorPalace">
+<meta property="og:site_name" content="AuthorPalace">
+<meta property="og:type" content="website">
+
 </head>
 
 <body>
 
+<header>
 <div id="topcontainer">
 
+<div class="floatleft">
+<div class="logobg"> </div>
+<div class="logo"><a href="http://authorpalace.com"><img src="http://authorpalace.com/templates/images_bootstrap/newlogo.png" alt="AuthorPalace"></a></div>
+</div>
 
-
-<table width="100%"><tbody><tr><td>
-<div class="logobg"></div>
-<div class="logo"><a href="http://www.authorpalace.com"><img src="http://www.authorpalace.com/templates/images_default/newlogo.png" alt="Free Online Article Directory  - Authorpalace.com"></a></div>
-</td>
-
-<td width="70%" style="text-align:right;">
-<div id="searchbox">
-<form action="http://www.authorpalace.com/search.php?filled=1&amp;condition=fulltext&amp;whichtype=articles" name="quicksearchform" method="post" style="margin: 0; padding: 0;">
-<input type="search" name="search" size="50" style="height: 25px" id="searchauto">
-
-<button type="submit" class="gobutton"><img src="http://www.authorpalace.com/templates/images_default/search.png" alt=""> Search</button> <a href="http://www.authorpalace.com/search.php" rel="nofollow">Advanced Search</a>
+<div class="floatleft quicksearch largescreens">
+<form action="http://authorpalace.com/search.php?filled=1&amp;condition=fulltext&amp;whichtype=links" name="quicksearchform" method="post">
+<span id="searchbox">
+<input type="search" name="search" size="25" id="searchauto" class="searchbox" placeholder="search articles">
+        <button class="btn btn-default" type="submit">Go</button>
+<br><a href="http://authorpalace.com/search.php">+ Advanced Search</a>
+</span>
 </form>
 </div>
 
-</td>
 
-</tr></tbody></table>
 
-<div class="floatleft">
- 
- 
-</div>
 
-</div>
+<div id="toprightad"> <div id="addisplay2" class="adslots"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<div class="clear"></div>
+<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-7621834870019052" data-ad-slot="2144211682"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div> </div>
 
-<div class="navbutton">
-
- 
- 
-<a href="http://www.authorpalace.com/newposts.html">New Articles</a> 
- 
-<a href="http://www.authorpalace.com/help/">Help</a> 
-<a href="http://www.authorpalace.com/top-article.html">Top Articles</a>
 </div>
 
 <div class="clear"></div>
+
+<nav class="navbar navbar-default">
+<ul class="nav navbar-nav">
+<li><a id="mobilemenubutton">☰ Options</a></li>
+
+<li><a href="http://authorpalace.com/register.php">Register</a></li>
+
+<li><a id="login" href="http://authorpalace.com/index.php?action=userlogin">Log In</a></li>
+
+</ul>
+</nav>
+
+<div class="clear"></div>
+
+<div class="bigpad" id="loginmodal" style="display: none;" title="Login">
+<form action="http://authorpalace.com/index.php?action=userlogin&amp;filled=1&amp;bypassredirect=1" method="post">
+<div class="warning" id="loginproblem"></div>
+Username<br><input type="text" name="username" id="loginname" class="giantinput"><br>
+Password<br><input type="password" name="userpassword" id="loginpassword" class="giantinput"><br>
+<button class="btn btn-default" type="submit" id="loginsubmit">Login</button>
+<a href="http://authorpalace.com/index.php?action=userlogin">Forgot your password?</a>
+</form>
+
+</div>
+
+</header>
 
 <div class="main">
-<div class="inout">
-<img src="http://www.authorpalace.com/templates/images_default/login.png" alt=""> <a onclick="wsn_login(); return false;" href="http://www.authorpalace.com/index.php?action=userlogin">Login</a> / <a href="http://www.authorpalace.com/register.php" rel="nofollow">Register</a> / <a href="http://www.authorpalace.com/index.php?action=userlogin" rel="nofollow">Forgot Password</a>
+
+
+
+
+
+
+<h1>Privacy Policy</h1>
+
+<p>Information collected from members on this site, such as email addresses, is never sold or otherwise redistributed to any third parties. Tracking of user activity on the forum is soley for internal purposes in order to provide you with the best possible experience.</p>
+
+<p>Optional information such as location, interests, occupation etc is displayed in member profiles for all to see. If you don't wish such information to be public, do not provide it.</p>
+
+
+
+<div class="clear"></div>
 
 </div>
 
-<div id="loginmarker" style="display: none;">
-<form action="http://www.authorpalace.com/index.php?action=userlogin&amp;filled=1" method="post">
-<input type="hidden" name="currentpageurl" value="http%3B%2F%2Fwww.authorpalace.com%2Findex.php%3Fcustom%3Dyes%26TID%3Dprivacypolicy">
-Username:
-<input type="text" name="username" size="10" value="">
-Password:
-<input type="password" name="userpassword" size="10" value="">
-<button type="submit" class="gobutton">Login <img src="http://www.authorpalace.com/templates/images_default/go.png" alt=""></button>
+<div class="push"></div>
+
+ <footer class="footer panel-footer text-muted">
+<div id="bottomarea">
+<div id="languageandtheme">
+
+ 
+</div>
+<div id="categoryjump">
+<form action="http://authorpalace.com/index.php?action=redirecttourl" method="POST">
+<select name="catid">
+ <option value="0">Choose Category</option>
+ <option value="2"> Apps and Software</option><option value="10"> Food and Nutrition</option><option value="3"> Online Business</option><option value="9"> Online Marketing</option><option value="5"> Outdoors Activity</option><option value="4"> Parenting</option><option value="8"> Personal Improvement</option><option value="7"> Real estate</option>
+</select>
+<button type="submit" class="btn btn-default btn-sm">Go ►</button>
 </form>
 </div>
 
-
-<div class="adbanner"><script type="text/javascript">
-google_ad_client = "pub-7621834870019052";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_type = "text";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000FF";
-google_color_text = "000000";
-google_color_url = "C3D9FF";
-</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
-
-
-
-<center><h1>Privacy Policy</h1></center>
-
-Authorpalace.com respect all our members' privacy. Any data you sent to us will not be sold, exchanged or rent to other parties. We will explain how we collect and use your data in this privacy policy page. 
-<br><br>
-<div class="box">
-<div class="boxtitle" onclick="wsn_minmax('adddata')"><img src="http://www.authorpalace.com/templates/images_default/icon_submit.png" alt="submit">How we collect your data</div>
-<div id="adddata" class="boxbody">
-<ul>
-<li>We mostly collect your data when you register for the first time with us. We have an option to let admin and other visitors to contact you, but it is up to you whether you want to be contacted or not.</li>
-<br>
-<li>Another way we collect data is through the internet technology, including but not limited to cookies and web analytical software. Cookies is used to recognize our members' computer. So, they will not have any trouble when they log into their member's area. Data we get from web analytic software is including but not limited to IP address, browser, and operating system.</li>
-<br>
-<li>We use third party advertisement that could use tracking technology as well. This tracking technology is used to match the advertising with your interest. However, this will not tracking your name. Additionally, our system is not integrated with their system. Therefore, they will never get the data we get from our member. </li>
-</ul>
-</div>
-</div>
-<br>
-<div class="box">
-<div class="boxtitle" onclick="wsn_minmax('usedata')"><img src="http://www.authorpalace.com/templates/images_default/icon_submit.png" alt="submit">How we use the data we get</div>
-<div id="usedata" class="boxbody">
-<ul>
-<li>Username and password you enter in online form are used to login into the system. Your full name is your brand. We want to get this data to promote you more. We often mention your name in your public member's area, your article and also homepage.</li>
-<br>
-<li>Aggregated information that we collect from cookies and tracking software will be used to improve our service to our members. Some of aggregated information (e.g., search log) could be shared with our member. However, we will never share your full name, username and password.</li>
-</ul>
-</div>
-</div>
-<br>
-
-<div class="box">
-<div class="boxtitle" onclick="wsn_minmax('method')"><img src="http://www.authorpalace.com/templates/images_default/icon_submit.png" alt="submit">Communication method</div>
-<div id="method" class="boxbody">
-<ul>
-<li>We have several communication method that can be used by our members. This will include but not limited to Personal Messenger, Instant Messenger, Guessbook and email.</li>
-<br>
-<li>Please be aware that the site administrator can see your message in personal messenger or instant messenger, therefore, you should not send sensitive data through personal messenger and instant messenger.</li>
-<br>
-<li>We are not allow anyone to send spam through personal messenger, email and instant messenger. Therefore, if you feel someone annoy you through personal messenger and instant messenger, you can block them or send report to us.</li> 
-</ul>
-</div>
-</div>
-<br>
-<div class="box">
-<div class="boxtitle" onclick="wsn_minmax('change')"><img src="http://www.authorpalace.com/templates/images_default/icon_submit.png" alt="submit">Policy change</div>
-<div id="change" class="boxbody">
-<ul>
-<li>Authorpalace.com reserve the right to change this privacy policy at anytime without any notice. You should check this page at anytime if you want to understand our newest privacy policy.</li>
-<br>
-<li> All data that we collect in the past will use the privacy policy in effect at the time of the data collected.</li>
-</ul>
-</div>
-</div>
-
 <div class="clear"></div>
+</div>
 
+<ul class="menubullets">
 
-<footer>
-<div class="footer">
-Authorpalace.com: Free online article directory
-<ul>
-<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=Submissionguideline" rel="nofollow">Submission Guideline</a></li>
-<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=privacypolicy" rel="nofollow">Privacy Policy</a></li>
-<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=faq" rel="nofollow">FAQ</a></li>
+<li><a href="http://authorpalace.com/contactform.php">Contact the Administration</a></li>
 
+<li><a href="http://authorpalace.com/index.php?action=leaders">Site Leaders</a></li>
 
-
-
-
-<li><a href="http://www.authorpalace.com/index.php?action=leaders" rel="nofollow">Site Leaders</a></li>
-
+<li><a href="http://authorpalace.com/sitemap.php">Site Map</a></li>
 
 </ul>
-© 2007-2012 authorpalace.com, All Rights Reserved. <br>
 
 
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8317065-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+<p></p>
+ 
+  <div id="cookienotice" class="cookienotice">
+This website uses cookies to enhance your experience. Read our <a href="http://authorpalace.com/index.php?action=privacy">privacy policy</a> for details. <a id="dismisscookienotice" class="dismisscookienotice">X</a>
 </div>
+
+<script data-cfasync="false" type="text/javascript">
+document.write(unescape('%3Cscript data-cfasync="false" type="text/javascript" src="'+
+document.location.protocol+'//counter.goingup.com/js/tracker.js?ver=2&amp;st=mp5q6my&amp;b=5&amp;type=javascript"%3E%3C/script%3E'));
+</script><script data-cfasync="false" type="text/javascript" src="https://counter.goingup.com/js/tracker.js?ver=2&amp;st=mp5q6my&amp;b=5&amp;type=javascript"></script>
+<noscript><div><img src="//counter.goingup.com/track_mp5q6my_5.php" alt="" /></div></noscript>
+
 </footer>
 
-<div class="clear"></div>
 
-
-</div></body></html>
+</body></html>
