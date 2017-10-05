@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619195812id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005151025id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Swap.com Support
 
