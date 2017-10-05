@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610051049id_/http%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006012927id_/https%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy.html
 
@@ -51,6 +51,8 @@ We may use autoresponders to communicate with you by email. To protect your priv
 The terms of this policy may change from time to time, and we will post these changes on this page. If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by email and providing us with information relating to your concern. You may also mail your concerns to us at the following address:
 
 _Simply Smarter, Inc. * 207 New Market Center #115 * Boone NC 28607 USA_
+
+[](https://gut1.australianexcellence.com/?utm_source=scambusters&utm_medium=banner&utm_campaign=blogs1&utm_content=Gut1_300x250_AuthurA_1)
 
 Our goal is that you always should be aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
