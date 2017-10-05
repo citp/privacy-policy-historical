@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomtickets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181721id_/https%3A//www.atomtickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomtickets.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005031533id_/https%3A//www.atomtickets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Atom, the Future of Movies
 
