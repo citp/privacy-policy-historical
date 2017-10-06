@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realfreegames.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143048id_/http%3A//www.realfreegames.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realfreegames.net privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006032350id_/http%3A//www.realfreegames.net/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to realfreegames.net - Privacy Policy
 
