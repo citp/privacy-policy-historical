@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622091050id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006081051id_/https%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Flaticon
 
 ### May 2017
 
-The website located at the addresses [http://www.flaticon.com](http://www.flaticon.com/) and [http://www.flaticon.es](http://www.flaticon.es/), including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at Molina Lario 13 street, 5th floor, 29015 Málaga, España.
+The website located at the addresses <https://www.flaticon.com/> and <https://www.flaticon.es/>, including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at Molina Lario 13 street, 5th floor, 29015 Málaga, España.
 
 This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services').
 
@@ -81,24 +81,24 @@ SID | .google.com
 SSID | .google.com  
 __cfduid | .statcounter.com  
 __utma | .flaticon.com  
-__utma | .profile.flaticon.com  
+__utma | .flaticon.com/profile  
 __utma | .flaticon.com  
 __utmb | .flaticon.com  
 __utmb | .freepik.com  
 __utmc | .freepik.com  
 __utmc | .flaticon.com  
-__utmc | .profile.flaticon.com  
+__utmc | .flaticon.com/profile  
 __utmt | .freepik.com  
 __utmz | .flaticon.com  
-__utmz | .profile.flaticon.com  
+__utmz | .flaticon.com/profile  
 __utmz | .freepik.com  
 _ga | .freepik.com  
 cookietest | .freepik.com  
 fbm_102556336476545 | .freepik.com  
 fbm_579360525479711 | .www.flaticon.com  
-fbm_579360525479711 | .profile.flaticon.com  
+fbm_579360525479711 | .flaticon.com/profile  
 fbsr_102556336476545 | .freepik.com  
-fbsr_579360525479711 | .profile.flaticon.com  
+fbsr_579360525479711 | .flaticon.com/profile  
 fbsr_579360525479711 | .www.flaticon.com  
 gr_session | .flaticon.com  
 gr_session | .freepik.com  
