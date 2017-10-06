@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buggyandbuddy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090910id_/http%3A//buggyandbuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buggyandbuddy.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006111553id_/https%3A//buggyandbuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Buggy and Buddy
 
@@ -40,7 +40,7 @@ This policy was last modified on July 26, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://buggyandbuddy.com
+https://buggyandbuddy.com
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
 
