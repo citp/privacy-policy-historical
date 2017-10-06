@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215002645id_/https%3A//australianmuseum.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006125828id_/https%3A//australianmuseum.net.au/privacy) for the most accurate reproduction.*
 
 # Australian Museum Web Privacy Statement - Australian Museum
 
@@ -60,25 +60,24 @@ The Australian Museum monitors content regularly but if you encounter any messag
 
 The personal information you provide is accessed only by authorised persons.
 
-The Australian Museum will take reasonable steps to ensure your personal information is accurate, complete and up to date. Should you wish to access or amend this information, please contact the Privacy Contact Officer - contact details below. Link to the Museum's Privacy Management Plan for details on how access to personal information is provided.
+The Australian Museum will take reasonable steps to ensure your personal information is accurate, complete and up to date. Should you wish to access or amend this information, please contact the website feedback form - contact details below. Link to the Museum's Privacy Management Plan for details on how access to personal information is provided.
 
-If you wish to opt out of receiving any communications or be removed from any databases, please contact the contact person identified on the relevant feature page, or the Privacy Contact Officer.
+If you wish to opt out of receiving any communications or be removed from any databases, please contact the AM via the website feedback form.
 
 ### E-commerce
 
-The Australian Museum uses 128 bit encryption in areas where payment is required (e.g. purchasing from the Australian Museum Shop, Scientific Publications and The Australian Museum Society).
+The Australian Museum uses 128 bit encryption in areas where payment is required (e.g. purchasing online tickets).
 
-If you do not wish to place your order on the Internet, the option of faxing or mailing your order is offered.
+Your details and order information will only be used to fulfil your order and to advise on the status of your order.
 
-Your details and order information will only be used to fulfil your order and to advise on the status of your order.  
-Security
+### Security
 
-[need to add verisign logo] This site has security measures in place to protect against loss, misuse and alteration of information under our control. However no data or email transmission over the Internet is 100% secure. We do our best to ensure the security of our site.
+This site has security measures in place to protect against loss, misuse and alteration of information under our control. However no data or email transmission over the Internet is 100% secure. We do our best to ensure the security of our site.
 
-Credit card information is among the most sensitive data collected. The Museum uses 40 bit encryption to minimise the risk of unauthorised use of such information (a 128 bit browser may indicate a 128 bit certificate instead of 40 bit). Credit card information is never recorded on the web server or elsewhere in the Museum. All online credit card transactions are conducted in real time through eMatters and St George Bank. The only information recorded by us include the first and last 4 digits of your credit card number and a transaction confirmation number, which you see in the confirmation screen and email.
+Credit card information is among the most sensitive data collected. The Museum uses SSL encryption to minimise the risk of unauthorised use of such information. Credit card information is never recorded on the web server or elsewhere in the Museum. 
 
-If you do not wish to use the Internet, the Australian Museum can be contacted by telephone, fax or mail - 6 College Street, SYDNEY NSW 2010 - tel: 02- 9320 6000.
+If you do not wish to use the Internet, the Australian Museum can be contacted by telephone, fax or mail - 1 William Street, SYDNEY NSW 2010 - tel: 02- 9320 6000.
 
 ### Privacy concerns
 
-If you have any questions about this privacy statement, please contact the Web Manager: or the Museum's Privacy Officer or tel: 02 9320 6046. Further information on NSW privacy law can be found at [Privacy NSW's website.](http://www.lawlink.nsw.gov.au/privacynsw)
+Further information on NSW privacy law can be found at [Privacy NSW's website.](http://www.lawlink.nsw.gov.au/privacynsw)
