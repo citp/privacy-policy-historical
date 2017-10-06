@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604071733id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006213239id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
-
-Custom Search 
-
-## Privacy policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use nutrition-and-you.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -13,7 +9,7 @@ We recognize that your privacy is important. This document outlines the types of
   
 
 
-####  Personal Information
+#### Personal Information
 
 Nutrition-and-you.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, e-mail address, and company name, and telephone number.
 
@@ -81,7 +77,7 @@ If this website is sold, the information we have obtained from you through your 
 
 #### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our [contact us](http://www.nutrition-and-you.com/contact-us.html) page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our [contact](http://www.nutrition-and-you.com/contact-us.html) page.
 
   
 
@@ -101,34 +97,4 @@ Your use of this site indicates acceptance of this privacy policy. We recognize 
 
 [Nutrition-and-you.com](http://www.nutrition-and-you.com/index.html) strives to maintain the highest standards of decency, fairness, and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
-<<-Back to [Home page from privacy policy](http://www.nutrition-and-you.com/index.html). 
-
-Visit here for very informative pages on:-
-
-  * [Fruits](http://www.nutrition-and-you.com/fruit-nutrition.html),
-
-  * [Vegetables](http://www.nutrition-and-you.com/vegetable-nutrition.html),
-
-  * [Herbs](http://www.nutrition-and-you.com/healthy-herbs.html),
-
-  * [Spices](http://www.nutrition-and-you.com/healthy_spices.html),
-
-  * [Nuts and seeds](http://www.nutrition-and-you.com/nuts_nutrition.html), 
-
-  * [Phyto-nutrients](http://www.nutrition-and-you.com/phytonutrients.html), and 
-
-  * Research [articles](http://www.nutrition-and-you.com/nutrition-articles.html) on nutrition. 
-
-
-  
-
-
-Custom Search 
-
-  
-
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=naanu)
-
-  
-
+<<-Back to [**Home page** from **privacy policy**](http://www.nutrition-and-you.com/index.html). 
