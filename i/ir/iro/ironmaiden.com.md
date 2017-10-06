@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610045841id_/http%3A//ironmaiden.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006122324id_/http%3A//ironmaiden.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Iron Maiden
 
