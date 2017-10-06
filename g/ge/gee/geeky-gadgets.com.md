@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626144130id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006152043id_/https%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
