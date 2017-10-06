@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627193950id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006105213id_/https%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We hate legalese, so we've tried to make ours readable. If you've got any questions, feel free to [ask us](http://www.dreamwidth.org/support/submit), and we'll do our best to answer.
+We hate legalese, so we've tried to make ours readable. If you've got any questions, feel free to [ask us](https://www.dreamwidth.org/support/submit), and we'll do our best to answer.
 
 This privacy statement ("Privacy Policy") covers all websites (such as www.dreamwidth.org) owned and operated by Dreamwidth Studios, LLC ("we", "us", "our") and all associated services.
 
