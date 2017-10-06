@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620153826id_/http%3A//www.gold.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006051212id_/https%3A//www.gold.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | World Gold Council
+# Privacy Policy | World Gold Council
 
 The World Gold Council ("WGC") recognises the importance of protecting the privacy of all information provided by visitors of this website. We have created the following policy guidelines with a fundamental respect for our visitors' right to privacy and to guide our relationships with our visitors.
 
