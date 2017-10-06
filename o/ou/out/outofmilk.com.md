@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140933id_/http%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006160320id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Out of Milk - Privacy
 
@@ -80,13 +80,13 @@ We also disclose Personal Information if we believe that doing so is legally req
 
 **Choice**
 
-If you receive promotional emails from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving promotional emails from us by sending your request to us by email at privacy@capigami.com or by writing to us at the address given at the end of this policy.
+If you receive promotional emails from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving promotional emails from us by sending your request to us by email at support@outofmilk.com or by writing to us at the address given at the end of this policy.
 
 Please be aware that if you opt-out of receiving promotional emails from us, it may take up to ten business days for us to process your opt-out request, and you may receive promotional emails from us during that period. Additionally, even after you opt-out from receiving promotional messages from us, you will continue to receive administrative messages from us regarding our Service.
 
 **Access**
 
-If we offer the ability to create user accounts on our Service, you may have the ability to access and update certain Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at privacy@capigami.com.
+If we offer the ability to create user accounts on our Service, you may have the ability to access and update certain Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at support@outofmilk.com.
 
 If you request that we delete your account on any of our Service (via a user settings page, by email, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
 
@@ -96,7 +96,7 @@ The Service may contain links to other websites, products, or services that we d
 
 #### Children
 
-Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Service is not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at privacy@capigami.com.
+Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Service is not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at support@outofmilk.com.
 
 #### International Visitors
 
@@ -116,4 +116,4 @@ If you have any questions or comments about this Policy, please contact us using
 
 Bonial International GmbH  
 Warschauer Straße 70a   
-10243 Berlin support@capigami.com
+10243 Berlin support@outofmilk.com
