@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sumologic.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215193618id_/https%3A//www.sumologic.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumologic.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006225110id_/https%3A//www.sumologic.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Sumo Logic
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=e8b1ba6d-9e15-4da0-8275-8f5a6d00ce1d)
 
 Effective Date: 09/26/2016
 
