@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tealswan.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322091228id_/https%3A//tealswan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealswan.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006123611id_/https%3A//tealswan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Teal Swan
 
@@ -21,7 +21,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
   
 How do I withdraw my consent? 
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@tealswan.com or mailing us at: Teal Eye, Inc. 1794 Teal Drive, Park City, UT, 84098, United States 
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at tealswaninfo@tealswan.com or mailing us at: Teal Eye, Inc. 1930 Village Center Circle #3-2867, Las Vegas, NV 89134
 
 ####  Disclosure 
 
@@ -101,7 +101,7 @@ If you would like to: access, correct, amend or delete any personal information 
 
 [Re: Privacy Compliance Officer] 
 
-[1794 Teal Drive, Park City, UT, 84098, United States] 
+[Teal Eye, Inc. 1930 Village Center Circle #3-2867, Las Vegas, NV 89134] 
 
 
 
