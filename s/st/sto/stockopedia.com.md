@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockopedia.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613124014id_/http%3A//www.stockopedia.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockopedia.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006174008id_/http%3A//www.stockopedia.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stockopedia
 
