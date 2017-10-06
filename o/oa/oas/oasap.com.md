@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasap.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617061758id_/http%3A//www.oasap.com/content/23-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasap.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006135731id_/http%3A//www.oasap.com/content/23-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oasap High Street Fashion
 
@@ -25,8 +25,6 @@ Maintaining your trust and confidence is a high priority. If you have any concer
 If you have concerns about this Privacy Policy or our privacy practices in general, contact us at:
 
 Address: 
-
-United States: 702 N.West Street, Suite 101., Wilmington, DE 19801
 
 Hong Kong: Suite 909, 9/F., Two Grand Tower, 625 Nathan Road, Kowloon.
 
