@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biologydictionary.net privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601212011id_/http%3A//mythology.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologydictionary.net privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006051924id_/https%3A//biologydictionary.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mythology.net
+# Privacy Policy | Biology Dictionary
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -109,7 +109,7 @@ We do not specifically market to children under 13.
 
 **Fair Information Practices**
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the [concepts](http://mythology.net/others/concepts/ "concepts") they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
 **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
@@ -156,8 +156,8 @@ If you find any images that is not for commercial use or infringed copyright, pl
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](http://mythology.net/contact/).
+If there are any questions regarding this privacy policy you may [contact us](https://biologydictionary.net/contact/).
 
-mythology.net
+biologydictionary.net
 
-Last Edited on 2016-10-05
+Last Edited on 2016-10-14
