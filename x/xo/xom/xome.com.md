@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the xome.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313171402id_/https%3A//www.xome.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xome.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006222513id_/https%3A//www.xome.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Xome.com
+# Privacy Policy | Real Estate & Homes For Sale
+
+[](https://web.archive.org/)
+
+[](https://web.archive.org/)
 
 Xome Inc. collects information about you when you use our mobile applications, websites, or other services (collectively, "Services") and through other interactions or communications you may have with us or through our Services. Xome Inc. and its affiliates may be referred to collectively as "Xome", "we" or "us". This privacy policy applies to any user of our Services for any reason and anywhere in the world. 
 
