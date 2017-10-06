@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221183651id_/https%3A//www.integrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006023431id_/https%3A//www.integrate.com/privacy) for the most accurate reproduction.*
 
-# Prviacy Policy | Integrate
-
-## **_Privacy Policy_**
+# Privacy Policy | Integrate
 
 Integrate.com, Inc. (“Integrate”) is committed to protecting the privacy of the companies that register and use our Website (“Users”) and the information they provide to us. This Privacy Policy outlines important information regarding the use and disclosure of all User information provided to Integrate’s Website. Integrate provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
 
@@ -44,14 +42,12 @@ Integrate may collect information from other sources to help us correct or suppl
 ### **Disclosure of Information**
 
   1. Integrate will not rent or sell your Personal Information to others but may disclose personal information with third-party vendors and service providers that work with Integrate. We will only share personal information to these vendors and service providers to help us provide a product or service to you. Examples of third parties we work with are call center operators, shippers, servicers, information processors, financial institutions, data appending and surge scoring companies. These third parties only have access to personal information necessary for them to complete their service.
-
-
-  1. Integrate provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of Integrate. Integrate uses third parties such as a credit card processing company to bill Users for transactions, and a credit scoring company to determine business credit scores (when applicable, for extending credit terms to Users upon request). At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.
-  2. Integrate reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Integrate Terms of Service, or other governing Integrate policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Integrate against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Integrate, Users of the Website, or others.
-  3. Integrate does not share personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of Services.
-  4. Integrate does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.
-  5. Integrate may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.  We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
-  6. Integrate’s accountability for data it receives pursuant to the EU-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles.  Integrate may be liable pursuant to the EU-US Privacy Shield if said third party agents that Integrate retains processes personal data in a manner inconsistent with pursuant to the EU-US Privacy Shield principles, unless Integrate can demonstrate that it is not responsible for the act or omission giving rise to the damage.  In cases of onward transfer to third parties of data of EU individuals received, pursuant to the EU-US Privacy Shield, Integrate is potentially liable.
+  2. Integrate provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of Integrate. Integrate uses third parties such as a credit card processing company to bill Users for transactions, and a credit scoring company to determine business credit scores (when applicable, for extending credit terms to Users upon request). At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.
+  3. Integrate reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Integrate Terms of Service, or other governing Integrate policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Integrate against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Integrate, Users of the Website, or others.
+  4. Integrate does not share personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of Services.
+  5. Integrate does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.
+  6. Integrate may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.  We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+  7. Integrate’s accountability for data it receives pursuant to the EU-US and Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles.  Integrate may be liable pursuant to the EU-US and Swiss-US Privacy Shield if said third party agents that Integrate retains processes personal data in a manner inconsistent with pursuant to the EU-US and Swiss-US Privacy Shield principles, unless Integrate can demonstrate that it is not responsible for the act or omission giving rise to the damage.  In cases of onward transfer to third parties of data of EU and Swiss individuals received, pursuant to the EU-US and Swiss-US Privacy Shield, Integrate is potentially liable.
 
 
 
@@ -69,25 +65,25 @@ Integrate does not provide any personally identifiable information to these Adve
 
 In an effort to provide maximum protection of User's privacy, Integrate routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, Integrate cannot ensure or warrant the security of any information you transmit to Integrate or place upon the Website and you do so at your own risk. Once Integrate receive said transmission of personal information, Integrate engages commercially reasonable efforts to ensure the security of its systems and the personal information you provided. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-The security of your personal information is important to us. When you enter sensitive information (such as social security number or Tax ID) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+The security of your personal information is important to us. When you enter sensitive information (such as social security number or TaxID) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-### **EU-U.S. Privacy Shield Framework**
+### **EU-U.S. and Swiss-U.S. Privacy Shield Framework**
 
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America ("US"). To reconcile these differences, the US and the EU have created EU – U.S. Privacy Shield ("Privacy Shield") that defines mutually acceptable privacy operations. Integrate complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Integrate has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+Integrate complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  Integrate has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
 By providing information to us, you acknowledge that we operate in the US and you agree to permit us to transmit and use your user Information anywhere necessary, including across international boundaries, to provide you with Services that such use by us shall be subject to the terms and conditions stated in this Privacy Policy.
 
-In compliance with the EU – U.S. Privacy Shield Principles, Integrate commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact Integrate at:
+In compliance with the US-EU and Swiss-US Privacy Shield Principles, Integrate commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Integrate at:
 
 Integrate  
 Attention: Information Security Department  
-4900 N. Scottsdale Rd. #4000  
-Scottsdale, AZ 85251  
+111 West Monroe Street, 19th Floor  
+Phoenix, AZ 85003  
 Email: [privacy@integrate.com](mailto:info@integrate.com)
 
-Integrate has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+Integrate has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacyshield/for-eu-consumers for more information and to file a complaint.
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel
+Finally, as a last resort and under limited circumstances, individuals with unresolved complaints may invoke binding arbitration before a Privacy Shield Panel.
 
 ### **California Privacy Rights**
 
@@ -101,7 +97,7 @@ Integrate will make a good faith effort to delete or remove your User Content fr
 
  If you no longer desire to use Integrate’s Services or need to update your contact information, you may correct or update it by emailing our privacy team at privacy@integrate.com or by contacting us by telephone or postal mail at the contact information listed below.
 
-Your rights to access, to limit use, and to limit disclosure: European Union individuals have the right to access personal data about them, and to limit use and disclosure of their personal data. If you wish to request access, to limit use, or to limit disclosure, please email Integrate privacy team at privacy@integrate.com or send a written request to the contact information provided below.
+Your rights to access, to limit use, and to limit disclosure: European Union and Swiss individuals have the right to access personal data about them, and to limit use and disclosure of their personal data. If you wish to request access, to limit use, or to limit disclosure, please email Integrate privacy team at privacy@integrate.com or send a written request to the contact information provided below.
 
 ### **Children's Privacy**
 
@@ -110,8 +106,6 @@ Integrate complies with the Children's Online Privacy Protection Act of 1998 (CO
 ### **Transfer of Rights**
 
 Should Integrate be acquired, merged, or endeavor to become closed for business, Integrate reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status.
-
-In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, Integrate may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify Integrate and its officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses.
 
 ### **Contact Information**
 
