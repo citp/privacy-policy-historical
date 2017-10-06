@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603010844id_/https%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007012119id_/https%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SnorgTees
 
 #### **Your Email**
 
-You don't like spam. We don't like spam. Because of this, we only send our newsletter to email addresses that have opted in, and they may opt out at any time. If you place an order with us, we send email messages pertaining to your order. We do not sell your email address to other parties.
+You don't like spam. We don't like spam. Because of this, we only send our newsletter to email addresses that have opted in, and they may opt out at any time. If you place an order with us, we send email messages pertaining to your order. If you have an account with us, we will send you email messages pertaining to your account. We do not sell your email address to other parties.
 
 #### **Your Personal Information**
 
-We collect your personal information when you provide it to us as you place your order, including your name, shipping and billing address, credit card number, and email address. We use this information to process your order, provide you with support, and update you on your order. We may also use this information to send out a SnorgTees catalog.Â We do not sell, rent, or lease your personal information to other parties, but we do reserve the right to share your information with third parties to perform services on your behalf.
+We collect your personal information when you provide it to us as you place your order or open an account. We use this information to process your order, provide you with support, update you on your order, update you on your account, and maintain your account. We may also use this information to send out a SnorgTees catalog or for digital re-marketing purposes. We do not sell, rent, or lease your personal information to other parties, but we do reserve the right to share your information with third parties for our own marketing as well as to perform services on your behalf.
 
-#### **Anonymous Information**
+#### **Other Information**
 
-We collect non-personal information from you, including your browser type, the URL of the previous web site you visited, your ISP, operating system, etc. This information is anonymous, aids us in improving your experience with us, and is collected by almost all sites that you visit.
+We collect non-personal information from you, including your browser type, the URL of the previous web site you visited, your ISP, operating system, what products you look at on our website, etc. This information aids us in improving your experience with us, and is collected by almost all sites that you visit.
 
 #### **Cookies**
 
-Like almost all e-commerce web sites, we use cookies. Our cookies don't store any of your personal information, but they do allow us to do things like keep items in your shopping cart during your visit or provide you with a more personalized user experience. We may use selected third parties for marketing and analysis purposes. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click [here](http://www.networkadvertising.org/). We feel that the use of 3rd party services such as this improve your online experience, because they allow you to see ads that will be more likely to be something you are interested in, rather than punch the monkey ads all day.
+Like almost all e-commerce web sites, we use cookies. Our cookies allow us to do things like keep items in your shopping cart during your visit or provide you with a more personalized user experience. We may use selected third parties for marketing and analysis purposes. This information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click [here](http://www.networkadvertising.org/). We feel that the use of 3rd party services such as this improve your online experience, because they allow you to see ads that will be more likely to be something you are interested in, rather than punch the monkey ads all day.
 
 #### **Security**
 
