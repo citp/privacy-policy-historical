@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mactrast.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054247id_/http%3A//www.mactrast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactrast.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006145459id_/http%3A//www.mactrast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MacTrast
 
@@ -6,7 +6,7 @@ Posted by Cormac Moylan on 03/02/2011
 
 This isÂ MacTrast.com and the following privacy policy statement serves as a disclaimer to notify users of the website practices and its data use.
 
-Please reach out to admin@MacTrast.com for questions that are not addressed in the below privacy policy statement.
+Please reach out to contact@MacTrast.com for questions that are not addressed in the below privacy policy statement.
 
 The privacy of our readers is of extreme importance to us. We will never share or sell your personally identifiable information such as email address, phone number, or home address.
 
@@ -42,7 +42,7 @@ http://www.networkadvertising.org/managing/opt_out.asp
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or at admin@MacTrast.com
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or at contact@MacTrast.com
 
 ## Affiliate link use on MacTrast
 
@@ -50,4 +50,4 @@ When appropriate, MacTrast.com will include links to products or services with â
 
 MacTrast.com is a participant in the StackCommerce and Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and StackSocial products. Purchases made through these links may offer commissions to MacTrast.com.
 
-Whenever possible, we will specify any special endorsements, advertisements, or sponsorships. If you have any questions regarding this, email us: admin@MacTrast.com
+Whenever possible, we will specify any special endorsements, advertisements, or sponsorships. If you have any questions regarding this, email us: contact@MacTrast.com
