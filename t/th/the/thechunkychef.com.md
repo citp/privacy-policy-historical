@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010705id_/http%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006153159id_/https%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
 
-# Disclaimers and Privacy Policy - The Chunky Chef
+# Copyright & Privacy - The Chunky Chef
 
 #### **Content Sharing Policy:**
 
@@ -12,7 +12,7 @@ Directly copying and pasting recipes originally posted here, on The Chunky Chef,
 
 #### **Copyright Policy:**
 
-© The Chunky Chef 2015-2016. Unauthorized use and/or duplication of this material and/or photographs without expressed written permission from this site’s author and/or owner is strictly prohibited. EXCERPTS and LINKS may be used, provided that full and clear credit is given to The Chunky Chef, with appropriate and specific direction to the original content.
+© The Chunky Chef 2015-2017. Unauthorized use and/or duplication of this material and/or photographs without expressed written permission from this site’s author and/or owner is strictly prohibited. EXCERPTS and LINKS may be used, provided that full and clear credit is given to The Chunky Chef, with appropriate and specific direction to the original content.
 
 **Affiliate Link/Product Policy:**
 
@@ -64,3 +64,5 @@ We will not sell, distribute or lease your personal information to third parties
 [](https://activate.bloglovin.com/profile/10579135)
 
 [ ](http://www.healthyaperture.com/author/your-username/ "my healthy aperture gallery")
+
+## Reader Interactions
