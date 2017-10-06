@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617181526id_/http%3A//europeupclose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006104041id_/https%3A//europeupclose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Europe Up Close
 
@@ -24,7 +24,7 @@ The email address you provide for order processing will only be used to send you
 
 
 
-**Note:** If at any time you would like to unsubscribe from receiving future emails, please respond to said email and indicate your request to “unsubscribe.”
+ **Note:** If at any time you would like to unsubscribe from receiving future emails, please respond to said email and indicate your request to “unsubscribe.”
 
 ## How do we protect your information?
 
