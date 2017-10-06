@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundation.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228105505id_/https%3A//soundation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundation.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006163951id_/https%3A//soundation.com/privacy-policy) for the most accurate reproduction.*
 
 # Soundation — Privacy Policy
 
-PowerFX Systems AB, the proprietor of www.soundation.com, is dedicated to protecting the privacy of all visitors using this site and any correspondences with our personnel. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
+Soundation AB, the proprietor of www.soundation.com, is dedicated to protecting the privacy of all visitors using this site and any correspondences with our personnel. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
 **Security**  
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
@@ -16,4 +16,4 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you would like more information on our Privacy Policy please contact us at support at powerfx.com
+If you would like more information on our Privacy Policy please contact us at support at soundation.com
