@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahmedabadcity.gov.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629225318id_/http%3A//ahmedabadcity.gov.in/portal/jsp/Static_pages/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahmedabadcity.gov.in privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006172509id_/http%3A//ahmedabadcity.gov.in/portal/jsp/Static_pages/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy :: Ahmedabad Municipal Corporation
 
