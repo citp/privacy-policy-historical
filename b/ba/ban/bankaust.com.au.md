@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210536id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006172700id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank Australia
 
 [Website security and privacy policy](https://web.archive.org/tools/Privacy/website-security-and-privacy/ "Website security and privacy")   
 [Privacy notification for banking customers](https://web.archive.org/globalassets/privacy/bau266-privacy-notification-banking-fa.pdf "Privacy notification for banking customers")  
-[Privacy notification for lending customers](https://web.archive.org/globalassets/privacy/bau003-privacy-notification-a4-fa.pdf "Privacy notification for lending customers")  
+[Privacy notification for lending customers](https://web.archive.org/globalassets/privacy/privacy-notification-lending.pdf "Privacy notification for lending customers")  
 ​​[P](https://web.archive.org/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf "Privacy notification for job applicants")[rivacy notification for job applicants](https://web.archive.org/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf "Privacy notification for job applicants")   
 [​Privacy policy for job applicants](https://web.archive.org/globalassets/privacy/job-applicant/bank-australia-app-privacy-policy-for-job-applicants.pdf "​Privacy policy for job applicants").
 
