@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatshed.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607055038id_/http%3A//www.boatshed.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatshed.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007014123id_/http%3A//www.boatshed.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boatshed
 
