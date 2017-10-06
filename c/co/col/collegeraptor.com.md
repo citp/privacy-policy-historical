@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegeraptor.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607153410id_/https%3A//www.collegeraptor.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeraptor.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006170136id_/https%3A//www.collegeraptor.com/Home/Privacy) for the most accurate reproduction.*
 
 # College Raptor Majors
 
-Updated October 29, 2015
+Updated June 25, 2017
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. College Raptor collects a variety of information in order to provide the highest quality service to our users. We want you to understand what information we gather from or about you, how we use it and the safeguards we have in place to protect it. This Privacy Notice applies to College Raptor and all other College Raptor websites and applications that link to this policy (the "Services"). 
 
@@ -30,7 +30,7 @@ information about any transaction you conduct or submit to on or through the Ser
 
 other information that would allow online or offline contact with you as an individual (collectively, "Personal Information").
 
-We also collect Usage Information (as defined below) and other information from and about you that does not personally identify you or allow us or others to contact you individually online or offline. We may combine Non-PII with other information in a way that allows you to be identified or personally contacted. If this happens, we will treat the combined information as Personal Information. 
+We also collect Usage Information (as defined below) and other information from and about you that does not personally identify you or allow us or others to contact you individually online or offline. We may combine information which is not Personal Information (“Non-PII”) with other information in a way that allows you to be identified or personally contacted. If this happens, we will treat the combined information as Personal Information. 
 
 We may also collect information that you provide to us about other people, including, but not limited to, their names, postal addresses, telephone numbers, mobile numbers, and email addresses for purposes of fulfilling the purposes for which you provide such information. 
 
@@ -89,7 +89,7 @@ We may disclose or share other information from or about you, including your Per
   
 
 
-With any College Raptor business or our affiliated companies (i.e., companies that control, are controlled by, or are under common control with us) for support of our internal and business operations, for cross-marketing purposes, or in connection with a request made by you or your opt-in or consent. However, unless you are otherwise first given notice, the evaluation of any request or application by you for any of our products or services offered through our websites will be based on the information you specifically submit to obtain such product or service and not any other information you may submit to us for other purposes or for other products or services we may offer (except for your sign-in, basic account registration information, and any other information that we may pre-populate on your request or application form for your convenience).
+With any College Raptor business or our affiliated companies (i.e., companies that control, are controlled by, or are under common control with us) for support of our internal and business operations, for cross-marketing purposes, or in connection with a request made by you or your opt-in or consent. However, unless you are otherwise first given notice through an opt-in option or otherwise, the evaluation of any request or application by you for any of our products or services offered through our websites will be based on the information you specifically submit to obtain such product or service and not any other information you may submit to us for other purposes or for other products or services we may offer (except for your sign-in, basic account registration information, and any other information that we may pre-populate on your request or application form for your convenience). 
 
 With our non-affiliated third-party business partners, service providers, and vendors to enable them to assist us in providing you the products or services you request through the Services or to provide us with support for our internal and business operations, such as data processing, data storage, research, analytics, web hosting, marketing, and delivery of promotional or transactional materials.
 
@@ -104,12 +104,10 @@ electing to receive information or communications from them, or
 
 electing to participate in contests, sweepstakes, games, scholarships, or other programs sponsored or provided by these third parties, in whole or in part.
 
-When we disclose your information to these third parties, your information will become subject to the information use and sharing practices of these third parties, and these third parties will not be restricted by this Privacy Notice with respect to their use and further sharing of your information. 
-
   
 
 
-With non-affiliated third parties that are interested in contacting you or providing offers to you that may be related to our products or services or about other products or services you may find interesting. To opt-out of our sharing of your information with such third parties, see the Choices about How We Use and Disclose Your Information section.
+With non-affiliated third parties that are interested in contacting you or providing offers to you that may be related to our products or services or about other products or services you may find interesting.
 
 With other parties at your direction or request. For example, through [www.collegeraptor.com,](https://www.collegeraptor.com/) we share your name and contact information with schools, to which you request us to introduce you, and through any refer-a-friend or email-a-friend function offered on the Services, we may share your name and email address with any person to whom you request that we share such information.
 
@@ -119,7 +117,9 @@ We may disclose information we collect from or about you when we believe disclos
 
 If some or all of our business assets are sold or transferred, whether through a sale, acquisition, merger, consolidation, reorganization, bankruptcy, or other corporate change involving us and/or our affiliates, we may transfer the corresponding information regarding our customers and users of the Services, including Personal Information, to third parties evaluating or facilitating the transaction. We also may retain a copy of such information. Nothing in this Privacy Notice is intended to interfere with our ability to transfer all or part of our business, equity interests, or assets (including the Services) to an affiliate or non-affiliated third party at any time, for any purpose, without any limitation, and without notice or any compensation to you, whatsoever.
 
-We may disclose and share anonymized or aggregated information about you (information that does not directly and personally identify you) or any other of your Non-PII at our discretion. We may also share information with third parties subject to your consent. 
+We may disclose and share anonymized or aggregated information about you (information that does not directly and personally identify you) or any other of your Non-PII at our discretion. 
+
+In each case when we disclose your information to third parties, your information will become subject to the information use and sharing practices of such third parties, and such third parties will not be restricted by this Privacy Notice with respect to their use and further sharing of your information. To opt-out of our sharing of your information with such third parties, see the Choices about How We Use and Disclose Your Information section. 
 
 The Services may contain public areas, forums, or features that allow you to provide your User Contributions to be published or displayed or transmitted to other users of the Services. Your User Contributions are posted on the Services and transmitted to others at your own risk. For this reason, we recommend that you do not include any sensitive or personally identifiable information about yourself or others in your User Contributions for these areas of the Services. Please see our Terms of Use for more information concerning User Contributions. 
 
@@ -205,7 +205,7 @@ In the unlikely event that we believe that the security of your Personal Informa
 
 __The Services Are Not for Children
 
-The Services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. 
+The Services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are under the age of 13 do not use or provide any information with respect to the Services. 
 
 In the event that we learn that we have collected personal information from a child younger than 13 years old, we will delete that information and terminate the child's account (if any). If you believe that a child under the age of 13 has provided us with personal information without verification of parental consent, please contact us at [help@collegeraptor.com](mailto:help@collegeraptor.com?subject=Services%20are%20not%20for%20children). 
 
@@ -223,7 +223,7 @@ __Changes to This Privacy Notice
 
 We may update or amend this Privacy Notice at any time. This Privacy Notice will reflect the date it was last updated or amended. If we make any material amendments, we will notify you by posting a notice of the updated or amended Privacy Notice on the Services. All amendments will take effect immediately upon our posting of the updated Privacy Notice on the Services. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Notice by additional means, such as posting a notice on the homepage of the Services or sending you an email. Please check this Privacy Notice each time you use the Services to ensure you are aware of any changes in our practices. Your continued use of the Services will indicate your acceptance of the changes to the Privacy Notice. 
 
-Acceptance of Terms - Your use of a College Raptor indicates an acceptance of the terms of the Privacy Policy. 
+Acceptance of Terms - Your use of College Raptor indicates an acceptance of the terms of the Privacy Policy. 
 
   
 
