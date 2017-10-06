@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreeknitting.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609001940id_/http%3A//www.allfreeknitting.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreeknitting.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006090831id_/http%3A//www.allfreeknitting.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeKnitting.com
 
