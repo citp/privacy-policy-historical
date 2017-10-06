@@ -1,170 +1,105 @@
-> *The following text is extracted and transformed from the 11main.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907031253id_/https%3A//11main.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11main.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies-privacy) for the most accurate reproduction.*
 
-# 11 Main Privacy Policy
+# OpenSky
 
-At 11 Main, we value our community. You trust us with your information, and we're serious about that responsibility. We believe in transparency, and we're committed to being upfront about our privacy practices, including how we treat personal information we collect or receive. We know you care about your privacy, too, so we provide settings that allow you to control how certain information is used on 11 Main. This policy explains our privacy practices.
+[Back to Policies](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies)
 
-* ### Security
+This Privacy Policy covers the use of the OpenSky, Inc. websites and the services provided by OpenSky, Inc., and our brands, which include but are not limited to OpenSky, Dot & Bo, 55mulberry, Pick Perfect (collectively "OSP", "we" or "us"), including how OSP treats personal information that OSP collects and receives. Pursuant to OSP's [Terms & Conditions](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies-terms), you must be 18 years or older to use this Site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that OSP does not own or control, or individuals that OSP does not employ or manage.
 
-Your security is important to us. Your 11 Main account information is protected by a password. It is important that you protect against unauthorized access of your account and information by choosing your password carefully, and keeping your password and computer secure by signing out after using our services. 11 Main encrypts sensitive information (such as credit card numbers) using secure socket layer technology (SSL). 11 Main follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once 11 Main receives it. No method of transmission over the Internet or method of electronic storage is absolutely secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 11 Main offers optional advanced security settings for members, such as two-factor authentication for signing in, full-site SSL, and login history; you can enable these options under your account settings.
+This policy covers our US online experiences including our websites and mobile apps (collectively “Site”) and other webpages and services which we operate and in which we post a direct link to this policy. Our policy also describes the choices you can make about how we collect and use your information.
 
-* ### Information Collected or Received
+#### What information do we collect?
 
-#### 1\. Required Information
+  * We collect information from you when you register on the Site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another Site feature. 
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our Site anonymously. 
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our Site. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+  * When you create an OSP account, you will provide information that could be personally identifiable information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Site and providing personal information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our services, but only in accordance with your contact preferences (which may be modified as described below). Regardless of your contact preferences, we reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
+  * In conjunction with your OSP account, we also display your OSP profile on the Site. All content submitted by you to the Site may be retained by us indefinitely, even after you terminate your OSP account. We may continue to disclose such content to third parties in a manner that does not reveal personally identifiable information, as described in this Privacy Policy. 
+  * We automatically receive and record information from your web browser when you interact with the Site, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Site (e.g., what links you have clicked on).
+  * Generally, the Site automatically collects usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. 
+  * We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the "Payment Processor"), and use and storage of that information is governed by the Payment Processor's applicable terms of service and privacy policy.
 
-As an 11 Main member, you are required to provide a valid email address at registration. Depending on which services you choose to use, 11 Main may require information such as 
 
-  * a shop name,
-  * billing and payment information (including billing address, credit card information),
-  * a telephone number, and
-  * a physical mailing address.
 
+#### How do we use your information?
 
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the Site, or use certain other Site features in the following ways:
 
-If you choose to enable direct checkout, 11 Main may require information for proof of identity.
+  * To personalize your Site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+  * To allow us to better service you in responding to your customer service requests. 
+  * To quickly process your transactions. 
+  * To administer a contest, promotion, survey or other Site feature. 
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other Site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-11 Main may contact individual shop owners to confidentially request more information about their shops or items listed on the site to ensure compliance with our rules.
 
-#### 2\. Visible Information
 
-Other people may see your:
+#### How do we protect visitor information?
 
-  * shop name,
-  * date joined,
-  * profile information, including items, shops and categories you mark as interesting to you,
-  * items listed for sale,
-  * shop pages,
-  * sold item listings, and
-  * comments in community spaces.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we use a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
+#### Public Information about Your Activity on the Site
 
+Some of your activity on and through the Site is public by default. This may include, but is not limited to, content you have posted publicly on your OSP profile or otherwise on or through the Site. Users may have some of this information associated with their OSP accounts. 
 
-#### 3\. Browser Information
+Please also remember that if you choose to provide any personally identifiable information using certain public features of the Site, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Site.
 
-11 Main automatically receives and records some information from your browser when you visit the site, such as your: 
+#### Do we use "cookies"?
 
-  * IP address,
-  * cookies and
-  * data about which pages you visit on the site through the use of log files provided by our third-party tracking-utility partners.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future.
 
+We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Google Chrome or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Site experience more efficient and some of our services will not function properly.
 
-This information helps us analyze and understand how the site works for members and visitors, and provide a more personalized experience for members and visitors. 11 Main uses a variety of technologies to help us better understand how people use our site and services.
+The information we collect through the use of cookies is used to improve the usefulness and efficiency of your use of the Site, and is sometimes used to enhance the reliability and performance of the Site. Examples include maintaining lists of products that you have placed in your shopping cart during a visit to the Site, and IP addresses of Site visitors. In no case does OSP collect personally-identifiable information through cookies or any other tracking technology.
 
-#### 4\. Third Party Information
+#### Do we disclose the information we collect to outside parties?
 
-Some members or visitors may connect to, or register an 11 Main account using an external third-party application, such as Facebook, or an app developed using 11 Main APIs. 11 Main may receive some data from those connected third-party applications. Connecting your 11 Main account to third-party applications or services is optional, and when you connect your account to an external app, you will be given the opportunity to grant permission.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include OSP suppliers. It also does not include website hosting partners and other parties who assist us in operating the Site, conducting our business, or servicing you to the extent related to fulfilling our services. We may also release your information when we believe release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
 
-If you have optionally connected your account to an unaffiliated, third-party application, such as Facebook or an app developed using 11 Main APIs, you can remove permission for the app by changing your 11 Main account settings or changing the account settings of the third party application to which you connected your 11 Main account.
+We routinely share the names, e-mail addresses, and purchases of customers who have made purchases at OSP with the suppliers with whom we are affiliated. Our suppliers - who as our partners maintain various content websites leading to OSP - maintain your personally-identifiable information under standards that are consistent with our standards.
 
-We may receive, or collect supplemental information about you from third parties sources and add it to our account information. This may include, but is not limited to, demographic, navigation information, additional contact information, credit check information, and additional information about you from credit bureaus or other sources, as permitted by law.
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-#### 5\. Non-Members
+#### How can you opt-out, remove or modify information you have provided to us?
 
-11 Main may receive or collect information (for example: email address) about a person who is not yet a registered 11 Main member (a " **non-member** ") in connection with certain 11 Main features, including but not limited to:
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "[My Account](https://opensky.com/account)" section. Please note that due to email production schedules you may receive any emails already in production.
 
-  * a non-member subscribing to an 11 Main newsletter,
-  * a member inviting a non-member to visit 11 Main.com,
-  * a non-member engaging in a transaction, or
-  * a member sending a coupon or gift card code to a non-member.
+To delete all of your online account information from our database, sign into the "My Account" section of our Site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
+If you have particular concerns about reviewing or updating any of your personal information that we maintain, you may contact us from <https://www.opensky.com/content/contact-us>. You may also contact us at The OpenSky Project, Inc., 152 West 25th Street 12th Floor, New York , NY 10001.
 
+#### Third party links
 
-Non-member information is used only for the purpose for which it was originally submitted to 11 Main. Non-members can contact 11 Main Support if they do not want 11 Main to retain their information.
+In an attempt to provide you with increased value, we may include third party links on our Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-#### 6\. Minors
+Our service may also incorporate content from third party websites, such as Facebook. One such service may include the ability for you to automatically transmit information (such as items you "Love" on OSP) from your OSP account to an account on a third party website or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business' or websites' policies. In order to link your OSP account with any third party account, we may ask you for account information for those services. If you provide your third party account credentials to us, you understand that content and/or information in those accounts may be transmitted into your account with us, and that third party account information transmitted to our Site is covered by this Privacy Policy. We don't actually store your passwords for those third party accounts. Instead, we just use an authentication token to verify your user name. 
 
-11 Main's Terms of Use require all account owners to be at least 18 years of age (or have the permission and supervision of a responsible parent or legal guardian).
+#### Online Behavioral Advertising
 
-* ### Mobile Use
+OSP participates in Online Behavioral Advertising (OBA), also referred to as Interest-Based Advertising (IBA), where ads are tailored to your interests. OSP works with service providers like Conversant and TruEffect to help us collect non-personally identifiable information through our own cookies in order for OSP to deliver OBA display ads to our customers. You can specifically opt out of OSP's use of its own cookies through service provider Conversant for these OBA ads by clicking [here](http://dtmc.dotandbo.com/adinfo/choice/prod/?type=fpc&cid=61841&cname=Dot%20%26%20Bo&cmagic=dc33b9&clogo=61841.png&loc=us&lang=en-us). You can opt out of using Conversant’s interest-based targeting by clicking [here](http://optout.networkadvertising.org/#!/). You can specifically opt out of OSP's use of its own cookies through service provider TruEffect for these OBA ads by clicking [here](http://media.opensky.com/optout.html).
 
-When you download or use our Mobile Applications, or access one of our mobile optimized sites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, such as advertising, search results and other personalized content. Most mobile devices allow you to control or disable location services in the device's settings menu. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or the manufacture of your particular device.
+#### Changes to our policy
 
-* ### Cookies and similar technologies
+If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
-11 Main uses a variety of technologies to help us better understand how people use our site and services. You may manage or disable cookies and similar technologies in your browser settings and thus our ability to track some, or all of this data, depending upon your browser and your device. However, if you block cookies or our ability to, or the ability of others to gather your information, you may not be able to take advantage of certain site features, services, applications or tools. For more information on how you can block, delete, or disable cookies and similar technologies, please review your browser and device settings.  11 Main does not respond to “Do Not Track” (DNT) signals or mechanisms.
+#### Questions and feedback
 
-This site also uses Inspectlet web analytics service. For a small proportion of users, Inspectlet may record mouse clicks, mouse movements, and scrolling activity. Inspectlet does not collect any personally identifiable information, nor does it track your browsing habits across web sites. We are using the information collected by Inspectlet to improve our website, make it more user-friendly and monitor that it is performing correctly.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue from <https://www.opensky.com/content/contact-us>.
 
-* ### User Control
+#### Online Policy Only
 
-We know members of our community value having control over their own information. 11 Main gives you the choice of providing, editing or removing certain information, as well as choice over how we contact you.
+This online privacy policy applies only to information collected through our Site and not to information collected offline.
 
-#### 1\. Account Data
+#### Terms and Conditions
 
-You may change or correct your 11 Main account information (except your username). You may remove certain optional information you no longer wish to be publicly visible, such as your full name.
+Please also visit our [Terms & Conditions](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies-terms) section establishing the use, disclaimers, and limitations of liability governing the use of our Site.
 
-#### 2\. Messages from 11 Main
+#### Your consent
 
-On occasion, 11 Main will contact you. Primarily, messages are delivered by email, and every account is required to keep a valid email address on file to receive messages. In some situations, 11 Main may contact you by telephone, chat, SMS message, mobile application, or physical mail in order to provide you with information about products and features you may find of interest, or to provide you with customer support. You may update your contact preferences in your account settings.
+By using our Site, you consent to our privacy policy.
 
-  1. **Required Messages**
+Last Updated: August 17, 2017
 
-Some messages from 11 Main are service-related and required for members. Examples of service-related messages include, but are not limited to: a welcome/confirmation email when you register your account, notification of an order and order status, or correspondence with 11 Main's support team. These messages are not promotional in nature. You may not opt out of receiving service-related messages from 11 Main, unless you close your account.
-
-  2. **Product Messages**
-
-As a member, 11 Main may also send you messages related to certain features on the site or your activity. 11 Main may also send you news or updates about changes to our site or services. By default, members will receive these messages via email, but you may choose to opt out of getting certain emails under your account settings.
-
-  3. **Newsletters**
-
-11 Main offers optional email newsletters. When you register for an account or choose to subscribe, you will receive newsletters from us. Newsletters are available to both members and non-members. Members may subscribe or unsubscribe from optional newsletters under their account settings, or by following the instructions contained in the newsletter emails. Non-members may subscribe by providing an email address, which will only be used by 11 Main for these newsletters. Non-members may unsubscribe from newsletters by following the instructions contained in the newsletter emails.
-
-
-
-* ### Disclosure
-
-11 Main will not intentionally sell or disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy.
-
-#### 1\. Transactions
-
-As part of the buying and selling process, 11 Main will share information between the two members involved in the transaction. You may obtain another 11 Main member's email address, shipping address, payment information, and/or other information. As described in 11 Main's Terms of Use, you have a limited license to use this information only for 11 Main-related communications or for 11 Main-facilitated transactions. 11 Main has not granted you a license to use the information for unsolicited commercial messages. Without express consent from that person, you must not add any 11 Main member to your email or physical mailing list.
-
-#### 2\. Legally Required Disclosure
-
-11 Main may release your personal information to a third party in order comply with a subpoena or other similar legal procedure, or when we believe in good faith that such disclosure is necessary to comply with the law; prevent imminent physical harm or financial loss; or investigate or take action regarding illegal activities, suspected fraud, or violations of 11 Main's Terms of Use. We may disclose personally identifiable information to parties in compliance with our Copyright and Intellectual Property Policy, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, 11 Main may disclose name, address, country, phone number, email address and company name.
-
-#### 3\. Affiliates
-
-11 Main is affiliated with a variety of businesses and works closely with them. These businesses may offer promotions or sell items or services to you through 11 Main's services. 11 Main may also provide services or sell products jointly with affiliated businesses. Due to the nature of our business model, when an affiliated business is associated with your transaction, we may share information that is related to such transaction with that affiliated business. 11 Main may share aggregated demographic information with business partners.
-
-#### 4\. Third Parties Generally
-
-We can only speak for ourselves; this policy does not apply to the practices of third parties that 11 Main does not own or control, or individuals that 11 Main does not employ or manage. If you provide your information to others on 11 Main or throughout the Internet, different rules may apply to the use or disclosure of the information you provide to them. 11 Main does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. 11 Main is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the 11 Main site. We encourage you to ask questions before you disclose your personal information to others.
-
-  1. **Third-Party Service Providers**
-
-11 Main employs other companies and people to perform tasks on our behalf, and we need to share your personally identifiable information with them to provide products and services to you. Examples include but are not limited to fulfilling orders, processing payments, handling billing disputes and collections, analyzing data, providing marketing assistance, fraud prevention, identity verification and providing customer service. 11 Main may partner with third-party services for fraud prevention and/or identity verification. 11 Main also may partner with third-party services that may use various tracking technologies, such as browser cookies, Web beacons, or Flash cookies, to provide certain services or features, and to collect information, such as your device identifier, IP address or identifier for advertising (IDFA). These technologies allow a partner to recognize your computer each time you visit 11 Main, but do not allow access to personally identifiable information that you have provided to 11 Main. 11 Main does not have access or control over these third-party technologies, and they are not covered by our privacy statement.
-
-For more information on third-party advertising related cookies and how to opt out of them, please visit the following website: http://www.aboutads.info/choices.
-
-  2. **Third-Party Content**
-
-When you load a page on the 11 Main site that incorporates certain third-party content, the website that is the source of the content site may request cookies directly from your browser. For example, when you a load a page on 11 Main that has a social plug-in from a third-party site or service, such as a "Like" or "Send" button, you are also loading content from that third-party site. 11 Main does not prevent third-party sites from collecting your personally identifiable information in these circumstances. These interactions and any collection of  data by these third-party sites are subject to the privacy policy of the third-party site.
-
-  3. **Merchant Referrals**
-
-If you register with 11 Main through a merchant referral, we may contact you with product announcements, news and other offers; we may also provide your email to the referring merchant.
-
-
-
-
-#### 5\. Acquisitions
-
-In some cases, 11 Main may choose to buy or sell assets. In these types of transactions, member information is typically one of the business assets that is transferred. 11 Main will transfer information about you if 11 Main is acquired by or merged with another company. In this event, 11 Main will notify you by email or by putting a notice on the site before information about you is transferred and becomes subject to a different privacy policy.
-
-* ### Data Retention
-
-11 Main will retain your information for as long as your account is active or as needed to provide you services. If you no longer want 11 Main to use your information to provide you services, you may close your account. 11 Main will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-* ### Privacy Policy Changes
-
-11 Main reserves the right to modify this privacy statement as well as its Terms of Use and other Subpolicies at any time, as described in the Terms of Use.
-
-* ### Notice To California Residents
-
-California Civil Code Section 1798.83, known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year, and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. Under Section 1798.83, 11 Main does not share any of your personal information with third parties for their direct marketing purposes without your consent, except as specified in this policy.
-
-* ### Contact 11 Main
-
-If you have questions or suggestions, you can contact 11 Main's support team via our [Help Center](https://web.archive.org/HelpCenter).
+Back to Top
