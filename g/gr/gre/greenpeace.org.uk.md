@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052350id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006144917id_/https%3A//www.greenpeace.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Greenpeace UK
 
 Greenpeace believes you have a fundamental right to privacy on the web and we work to protect your security online as vigorously as possible. We have developed the following policy to help you understand how your personal information will be treated as you engage with us both online and off. Our policy reflects our duties under the [Data Protection Act](http://www.ico.org.uk/) to use information fairly, keep it secure, make sure it is accurate, and keep it up to date.
+
+This policy applies to:
+
+  * Greenpeace Ltd, company number 1314381, Canonbury Villas, London N1 2PN.
+  * Greenpeace Environmental Trust, registered charity in England and Wales 284934, company number 1636817, Canonbury Villas, London, N1 2PN.
+
+
 
 Greenpeace Ltd and Greenpeace Environmental Trust are registered as data controllers with the Information Commissioner for the United Kingdom and are collectively referred to as Greenpeace in this document.
 
@@ -12,20 +19,21 @@ By signing up to our campaigns or supporting us as a donor, you accept this priv
 
 Please read the following policy to understand how your personal information will be treated. It may change from time to time, so please check back periodically.
 
-* What information we collect
-* How your information is used
-* How we keep your information secure
-* How you can access, correct or delete your data
-* How you can opt out of receiving messages from Greenpeace UK
-* How Greenpeace UK protects children's privacy
-* How you can find out more about your rights under the Data Protection Act
+This policy explains:
 
-  * Administering your donations and membership
-  * Contacting you with information and updates about our campaigns and events in your area
-  * Fundraising
-  * Administering volunteer records
-  * Supporter surveys
-  * Research and analysis
+  1.     1. What information we collect
+    2. [How your information is used](http://greenpeace.org.uk/about/privacy-policy#2)
+    3. How we keep your information secure
+    4. How you can access, correct or delete your data
+    5. How you can opt out of receiving messages from Greenpeace UK
+    6. How Greenpeace UK protects children’s privacy
+    7. How you can find out more about your rights under the Data Protection Act
+      * Administering your donations and membership
+      * Contacting you with information and updates about our campaigns and events in your area
+      * Fundraising
+      * Administering volunteer records
+      * Supporter surveys
+      * Research and analysis
 
 
 
@@ -35,7 +43,7 @@ We collect the information you give to us by email, via the various forms on the
 
 When we collect this information on our website, we say:
 
-_"If you sign up, we'll keep you updated about our campaigns and other ways you can help, by email, post, phone and text. We promise that we'll never sell or swap your details and you can opt out at any time - just check our[privacy policy](http://www.greenpeace.org.uk/about/privacy-policy)._"
+_“If you sign up, we’ll keep you updated about our campaigns and other ways you can help, by email, post, phone and text. We promise that we’ll never sell or swap your details and you can opt out at any time._ ”
 
 We use similar wording when collecting your information over the telephone, by email, through the post or face-to-face.
 
@@ -59,13 +67,13 @@ Cookies are small files that are downloaded onto your computer (or your mobile p
 
 **How we use cookies**
 
-We use cookies, like most websites, to help us provide you with the best experience when you visit our site. Some cookies are crucial to the smooth running of our website - for example our donation pages rely on them. Other cookies allow us to understand (by using tools like Google Analytics) how visitors are interacting with our website, so that we can improve it. Cookies also make it easy for you to share the content on our site with your contacts on Facebook or other social networks.
+We use cookies, like most websites, to help us provide you with the best experience when you visit our site. Some cookies are crucial to the smooth running of our website – for example our donation pages rely on them. Other cookies allow us to understand (by using tools like Google Analytics) how visitors are interacting with our website, so that we can improve it. Cookies also make it easy for you to share the content on our site with your contacts on Facebook or other social networks.
 
 We also use cookies to ensure that any investments we make in online advertising are as cost-effective as possible, by tracking how well individual adverts perform. These cookies are issued by third party service providers that we have assessed as secure. From time to time, we will display adverts on other websites to people who have visited our website before, and the technology behind these adverts is also based on cookies. These cookies, as with all others we use, do not contain information that can personally identify you.
 
 **Managing cookies**
 
-All browsers allow you to control which cookies you accept and which you delete. You will usually find these settings under the 'Preferences' or 'Tools' menu of your browser. For more information about cookies, please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+All browsers allow you to control which cookies you accept and which you delete. You will usually find these settings under the ‘Preferences’ or ‘Tools’ menu of your browser. For more information about cookies, please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 **3\. How we keep your information secure**
 
@@ -83,17 +91,17 @@ At your request we will give you all details of personal information held about 
 
 **5\. How you can opt out of receiving messages from Greenpeace UK**
 
-You can unsubscribe from receiving emails from us at any time, using the unsubscribe function on the email. 
+You can unsubscribe from receiving emails from us at any time, using the unsubscribe function on the email.
 
-If you do not wish to receive postal communications or phone calls from us, please contact us asking us not to contact you in this way in future. 
+If you do not wish to receive postal communications or phone calls from us, please contact us asking us not to contact you in this way in future.
 
-**6\. How Greenpeace UK protects children's privacy**
+**6\. How Greenpeace UK protects children’s privacy**
 
 The safety of children is very important to us. No information should be submitted or posted to Greenpeace by children under the age of 13 without prior parental/guardian consent. All applicable laws are followed with respect to data collection from children. Where we have date of birth information, we will not share data collected from children with any third parties at any time under any circumstances.
 
 NB: parents/guardians should be aware that owing to the nature of our investigations, images posted on the Greenpeace website may be considered unsuitable for children under the age of 13 (e.g. photographs of dead or dying animals).
 
-If you are aged under 13, please ensure you obtain your parent/guardian's consent before sending any personal information to this website. 
+If you are aged under 13, please ensure you obtain your parent/guardian’s consent before sending any personal information to this website.
 
 **7\. How you can find out more about your rights under the Data Protection Act**
 
@@ -102,14 +110,12 @@ The collection and use of personal information on this site is in accordance wit
 Our security measures and this policy are reviewed on a regular basis. If you have any questions relating to this policy, please address them to:
 
 Bo Ruan  
-Head of Data, Planning and Insight   
+Head of Data, Planning and Insight  
 Greenpeace  
 Canonbury Villas  
 London  
 N1 2PN
 
-Tel: +44 20 7865 8100 or [email us via the contact form](http://www.greenpeace.org.uk/forms/supporter).
+Tel: +44 20 7865 8100 or [email us via the contact form](https://web.archive.org/contact-us/supporter/).
 
-If you are not satisfied with our response to your concern, you may wish to contact the [Information Commissioner's Office](http://www.ico.org.uk/). 
-
-Last updated: May 2017
+If you are not satisfied with our response to your concern, you may wish to contact the [Information Commissioner’s Office](http://www.ico.org.uk/).
