@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128174749id_/https%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006210004id_/https%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
 
 # LifeLock - Privacy
 
@@ -12,7 +12,7 @@ LifeLock, Inc. ("LifeLock", "we", "our" or "us") is committed to enriching lives
 
 Our Privacy Policy applies to information about you that is gathered automatically ("General Information") and to Personal Information (as defined below) that we collect directly from you online and offline, as well as information we collect about you from other sources, such as from third party partners and affiliates, which we may append to other information we collect from or about you. This Privacy Policy applies to visitors and users of our website,  [www.lifelock.com](https://web.archive.org/) (our "Site") (including the mobile version of our Site), users of Services that we provide at no charge ("Users"), users of Services that require payment of a fee ("Members") (we refer to our Users and Members collectively as our "Customers"), and prospective Customers. See more about information we collect and how we use and share it.
 
-In addition to this Privacy Policy, other contract terms such as our LifeLock, Inc. Service Terms and Conditions (the "Service Terms") and our [Website Terms of Use](https://web.archive.org/legal/terms/), will apply to you, based on the Services you select or use. If you use other Services, additional privacy terms may also be applicable. For example, our [Mobile App Privacy Policy](https://web.archive.org/legal/mobile-privacy/) will also apply to the use of our mobile app (the "Mobile App"). Current versions of these documents may be found [here](https://web.archive.org/legal/). Our subsidiary, ID Analytics', use of personal information is not addressed in this Privacy Policy.
+In addition to this Privacy Policy, other contract terms such as our LifeLock, Inc. Service Terms and Conditions (the "Service Terms") and our [Website Terms of Use](https://web.archive.org/legal1/terms/), will apply to you, based on the Services you select or use. If you use other Services, additional privacy terms may also be applicable. For example, our [Mobile App Privacy Policy](https://web.archive.org/legal/mobile-privacy/) will also apply to the use of our mobile app (the "Mobile App"). Current versions of these documents may be found [here](https://web.archive.org/legal/). Our subsidiary, ID Analytics', use of personal information is not addressed in this Privacy Policy.
 
 **_IF YOU DO NOT AGREE TO OUR PRACTICES AS DESCRIBED IN THIS POLICY, DO NOT USE OUR SITE AND SERVICES._**
 
@@ -26,7 +26,7 @@ WE MAY MODIFY OUR POLICY FROM TIME TO TIME. WE WILL POST THOSE MODIFICATIONS OF 
 
 ##### Members and Users
 
-You need not enroll or register with us to just visit and view our Site. However, if you elect to obtain or use any of our Services you must register or enroll (or be enrolled by an authorized third party) with us, and you must agree to our [Service Terms](https://web.archive.org/legal/terms/), which incorporate by reference this Privacy Policy.
+You need not enroll or register with us to just visit and view our Site. However, if you elect to obtain or use any of our Services you must register or enroll (or be enrolled by an authorized third party) with us, and you must agree to our [Service Terms](https://web.archive.org/legal1/terms/), which incorporate by reference this Privacy Policy.
 
 ##### Third Party Websites
 
@@ -60,9 +60,9 @@ Some Personal Information is collected when you register or enroll for the Servi
 
 ##### Information We Collect When You Visit Our Site or View Our Online Advertisements
 
-We, and the third parties we engage to perform analytics or advertising services, automatically collect certain General Information when you access the Site, via Cookies, Log Files, Web Beacons, and other Tracking Technologies such as JavaScripts, E-Tags, and Local Storage Objects. 
+We LifeLock and the third parties we engage to perform analytics or advertising services use cookies or similar technologies to administer and improve our Site and the content on it, including to track user movements around the Site, to gather usage information and statistics about how our Site is used, to permit users to log in or make purchases, to store user preferences, to customize content, and for marketing and advertising purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited. 
 
-These Tracking Technologies are used to administer and improve our Site and the content on it, including to track user movements around the Site, to gather usage information and statistics about how our Site is used, to permit users to log in or make purchases, to store user preferences, to customize content, and for marketing and advertising purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here:[Flash Player](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
 We may combine the information we have automatically collected from you with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality, to develop new products and services, and to customize content and advertising to you. 
 
@@ -94,7 +94,7 @@ We may obtain information about you from third party sources, such as the compan
 
 ##### How We Use and Share Your Information
 
-This summary tells you how we use your information, if we share it and why. It also explains how you can make decisions about these actions and how we will respond to those requests. We will share your personal information with third parties only in the ways that are described in this privacy policy, or otherwise where we have your consent. We do not sell your personal information to third parties. When we share your Personal Information with third parties as described below, we put in place contracts with them that include confidentiality restrictions on their use of your information and that require them to notify us if your Personal Information is lost, stolen or otherwise wrongly disclosed. 
+This summary tells you how we use your information, if we share it and why. It also explains how you can make decisions about these actions and how we will respond to those requests. We will share your personal information with third parties only in the ways that are described in this privacy policy, or otherwise where we have your consent. We do not sell your personal information to third parties. When we share your Personal Information with third parties as described below, we put in place contracts with them that include confidentiality restrictions on their use of your information and that require them to notify us if your Personal Information is lost, stolen or otherwise wrongly disclosed.In certain situations, LifeLock may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
 Why do we USE your information? | Do we SHARE this information with others? | What information is shared? | Can you limit this sharing?  
 ---|---|---|---  
@@ -132,7 +132,7 @@ The security of your Personal Information is important to us and we have put int
 
 Despite our mutual efforts, you understand and agree that perfect security does not exist and understand that there is a certain amount of risk inherent in providing and receiving services over the internet. The Services depend upon your commitment to keep your Personal Information safe. You agree to use your Personal Information in a reasonable way and to avoid recklessly disclosing your Social Security number, financial account numbers or other Personal Information to those that could improperly use or disclose it. For example, take care not to visit sites that may transmit malware, or to respond to “phishing” scams, unsolicited emails, or pop-up messages requesting your Personal Information. You may have the opportunity to participate in contests, blogs, promotions or other functions by way of the Site. Use caution when deciding to disclose your information in such a submission as these functions may be provided by a Third Party Website and subject to terms which are different than those stated in this Privacy Policy. 
 
-If you have any questions about the security of your Personal Information or the security of the Site, you can send us an email at [security@lifelock.com](mailto:security@lifelock.com). 
+If you have any questions about the security of your Personal Information or the security of the site, or to report a potential security issue, please go to [lifelock.com/security](https://web.archive.org/security). If you have a potential security issue, please describe the matter in as much detail as possible and include any other data that might be helpful. If you are having problems accessing your account, please contact our Member Support Center. 
 
 ##### Referrals
 
@@ -182,7 +182,7 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 ##### Your Access to Your Information
 
-You may access, update, and correct the Personal Information you have provided to us on the Site by logging into your member portal and selecting the account or member information options. If you are not a member and want to know what Personal Information we have about you, you need to contact us in writing by postal mail with this request at the address set out in the “Contact Us” paragraph below. We will respond to your inquiry within ten business days. If you cancel your Services, we may retain your information in accordance with this section. We will retain your information as follows: 
+Upon request LifeLock will provide you with information about any of your personal information we maintain. You may access, update, and correct the Personal Information you have provided to us on the Site by logging into your member portal and selecting the account or member information options. If you are not a member and want to know what Personal Information we have about you, you need to contact us in writing by postal mail with this request at the address set out in the “Contact Us” paragraph below. We will respond to your inquiry within ten business days. If you cancel your Services, we may retain your information in accordance with this section. We will retain your information as follows: 
 
   * for as long as your membership is active
   * as needed to provide you Services
@@ -196,9 +196,13 @@ You may access, update, and correct the Personal Information you have provided t
 
 If you have any questions about this Policy, please contact us at 1-800-LifeLock (543-3562), at [privacy@lifelock.com](mailto:privacy@lifelock.com), or by mail at LifeLock, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281, Attn.: Chief Privacy Officer. You hereby agree that we may use and disclose any suggestions, ideas, concepts, or information (other than your Personal Information) that you provide to us regarding the Privacy Policy, our business, or any other matter, without obligation to you or any third party. 
 
+##### Dispute Resolution.
+
+If you have an unresolved privacy or data use concern, please contact us at 1-800-LifeLock (543-3562). 
+
 ##### TRUSTe Verification of Our Website Practices
 
-Lifelock Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.lifelock.com and does not cover information that may be collected through our mobile applications. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here. <https://www.truste.com/consumer-resources/dispute-resolution/>. TRUSTe will then serve as a liaison with LifeLock to resolve your concerns.
+Lifelock Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.lifelock.com and does not cover information that may be collected through our mobile applications. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here. [ https://www.truste.com/consumer-resources/dispute-resolution/](https://www.truste.com/consumer-resources/dispute-resolution/). TRUSTe will then serve as a liaison with LifeLock to resolve your concerns. 
 
 ##### Definitions Used in this Policy
 
