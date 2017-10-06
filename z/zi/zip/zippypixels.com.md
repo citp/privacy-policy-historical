@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zippypixels.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519174524id_/http%3A//zippypixels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippypixels.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006042907id_/http%3A//zippypixels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZippyPixels
 
