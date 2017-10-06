@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sokoglam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181937id_/https%3A//sokoglam.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokoglam.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006132711id_/https%3A//sokoglam.com/pages/policies) for the most accurate reproduction.*
 
 # Privacy Policy – Soko Glam
+
+Free Shipping on all U.S. orders over $35 | Take our [skin quiz](http://sokoglam.com/pages/skin-quiz) to discover your skin type!
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
