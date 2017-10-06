@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icreativeideas.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618160032id_/http%3A//www.icreativeideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icreativeideas.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006201858id_/https%3A//www.icreativeideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iCreativeIdeas.com
+# Privacy Policy - i Creative Ideas
 
 Your pri­vacy is impor­tant to us. We wrote this pol­icy to help you under­stand what infor­ma­tion we col­lect, how we use it, and the choices you have regard­ing your infor­ma­tion. Please take a moment to famil­iar­ize your­self with our pri­vacy policy and email us if you have any questions.
 
