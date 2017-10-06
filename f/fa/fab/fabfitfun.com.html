@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fabfitfun.com privacy policy that was archived on 2017-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170416233037id_/https%3A//fabfitfun.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fabfitfun.com privacy policy that was archived on 2017-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171006092208id_/https%3A//fabfitfun.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-US"><head>
     <meta charset="UTF-8">
@@ -8,6 +8,7 @@
     <link rel="icon" type="image/png" href="https://fabfitfun.com/wp-content/themes/fabfitfun/assets/images/favico.png">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://fabfitfun.com/xmlrpc.php">
+    <link rel="stylesheet" type="text/css" href="https://fabfitfun.com/wp-content/themes/fabfitfun/assets/plugins/jquery-toast/jquery.toast.css">
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6N92"></script><script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.com/analytics.js/v1/7kbHDCgVdd/analytics.min.js"></script><script type="text/javascript">
       var ajaxurl = ajaxurl || 'https://fabfitfun.com/wp-admin/admin-ajax.php';
     </script>
@@ -56,21 +57,39 @@ img.emoji {
 <link rel="stylesheet" id="woocommerce-layout-css" href="//fabfitfun.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="//fabfitfun.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="//fabfitfun.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css" type="text/css" media="all">
-<link rel="stylesheet" id="fff-style-css" href="https://fabfitfun.com/wp-content/themes/fabfitfun/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="fff-style-css" href="https://fabfitfun.com/wp-content/themes/fabfitfun/style.css?version=1.0&amp;ver=4.6.1" type="text/css" media="all">
 <link rel="stylesheet" id="ionicons-css" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="fff-font-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CMuli%3A300%2C400&amp;ver=4.6.1" type="text/css" media="all">
 <link rel="stylesheet" id="slick-css-css" href="https://fabfitfun.com/wp-content/themes/fabfitfun/css/slick-theme.css" type="text/css" media="all">
 <link rel="stylesheet" id="oxygen-child-flexslider-style-css" href="https://fabfitfun.com/wp-content/themes/fabfitfun/assets/css/flexslider.css" type="text/css" media="">
 <link rel="stylesheet" id="wc-bundle-style-css" href="https://fabfitfun.com/wp-content/plugins/woocommerce-product-bundles/assets/css/bundles-style.css" type="text/css" media="all">
+<script type="text/template" id="tmpl-variation-template">
+    <div class="woocommerce-variation-description">
+        {{{ data.variation.variation_description }}}
+    </div>
+
+    <div class="woocommerce-variation-price">
+        {{{ data.variation.price_html }}}
+    </div>
+
+    <div class="woocommerce-variation-availability">
+        {{{ data.variation.availability_html }}}
+    </div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+    <p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-content/plugins/woocommerce-multiple-free-gift/js/wfg-scripts.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wc_additional_variation_images_local = {"ajaxurl":"https:\/\/fabfitfun.com\/wp-admin\/admin-ajax.php","ajaxImageSwapNonce":"aac21029c2","gallery_images_class":".product .images .thumbnails","main_images_class":".product .images > a","lightbox_images":".product .images a.zoom","custom_swap":"","custom_original_swap":"","custom_reset_swap":""};
+var wc_additional_variation_images_local = {"ajaxurl":"https:\/\/fabfitfun.com\/wp-admin\/admin-ajax.php","ajaxImageSwapNonce":"29df1c683c","gallery_images_class":".product .images .thumbnails","main_images_class":".product .images > a","lightbox_images":".product .images a.zoom","custom_swap":"","custom_original_swap":"","custom_reset_swap":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-content/plugins/woocommerce-additional-variation-images/assets/js/frontend.min.js"></script>
+<script type="text/javascript" src="https://fabfitfun.com/wp-content/themes/fabfitfun/assets/js/URI.js"></script>
+<script type="text/javascript" src="https://fabfitfun.com/wp-content/themes/fabfitfun/assets/js/jquery.URI.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fffuser = {"useremail":"","hashedemail":"","id":"0","firstname":"","lastname":"","role":"","usersegment":""};
@@ -153,16 +172,41 @@ var fffuser = {"useremail":"","hashedemail":"","id":"0","firstname":"","lastname
           '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-6N92');</script>
     <!-- End Google Tag Manager -->
+
+    <script>
+      var isInIframe = inIframe();
+
+      jQuery(function($) {
+        if (isInIframe) {
+          $('html').addClass('inIframe');
+        }
+      });
+
+      function inIframe() {
+        try {
+            return window.self !== window.top;
+        } catch (e) {
+            return true;
+        }
+      }
+    </script>
+
+    <!-- Start of Zendesk Widget script -->
+    <iframe src="javascript:false" title="" style="display: none;"></iframe><script>
+      if (!isInIframe) {
+      /*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","fabfitfun.zendesk.com");/*]]>*/
+      }
+    </script>
+    <!-- End of Zendesk Widget script -->
   </head>
 
 <body class="page page-id-239 page-template-default custom-background">
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6N92"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-6N92" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 <!-- End Google Tag Manager -->
-<!-- Start of Zendesk Widget script -->
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","fabfitfun.zendesk.com");/*]]>*/</script>
-<!-- End of Zendesk Widget script -->
+
 <div class="global-loading"></div>
 <div id="page" class="site">
     <section class="header" id="header">
@@ -174,7 +218,7 @@ var fffuser = {"useremail":"","hashedemail":"","id":"0","firstname":"","lastname
         <label for="onav" class="onav-btn"><span></span></label>
         <ul class="nav-menu">
 <li>
-<a href="https://fabfitfun.com/tv/">TV <span class="badge-new">New</span></a>
+<a href="https://fabfitfun.com/tv/">TV</a>
 </li>
 <li>
 <a href="http://www.fabfitfun.com/magazine">Magazine</a>
@@ -277,7 +321,7 @@ FabFitFun does not disclose personally identifiable information to third-parties
 
 <li class=""><a href="http://support.fabfitfun.com/hc/en-us">FAQ</a></li>
 
-<li class=""><a href="https://fabfitfun.com/upcoming-box-schedule/">Billing / Shipping Schedule</a></li>
+<li class=""><a href="https://fabfitfun.com/upcoming-box-schedule/">Billing/Shipping Schedule</a></li>
 
 <li class=""><a href="/redeem-gift/">Received a Gift?</a></li>
 
@@ -287,13 +331,11 @@ FabFitFun does not disclose personally identifiable information to third-parties
 <div class="col footer-my-account">
 <h3 class="footer-nav-btn">My Account</h3>
 <ul class="footer-nav">
-<li class=""><a href="/my-account/">Edit Profile</a></li>
+<li class=""><a href="/my-account/">Edit Account</a></li>
 
 <li class=""><a href="/my-account/#!orders">My Subscription &amp; Orders</a></li>
 
-<li class=""><a href="/invite/">Refer &amp; Earn $15</a></li>
-
-<li class=""><a href="/my-account/#!survey">Personal Survey</a></li>
+<li class=""><a href="/my-account/#!survey">Personal Profile</a></li>
 
 <li class=""><a href="/manage-notifications/">Manage Notifications</a></li>
 </ul>
@@ -303,9 +345,9 @@ FabFitFun does not disclose personally identifiable information to third-parties
 <ul class="footer-nav">
 <li class=""><a href="https://fabfitfun.com/jobs/">Careers</a></li>
 
-<li class=""><a href="http://affiliates.fabfitfun.com/">Affiliates</a></li>
+<li class=""><a href="https://fabfitfun.com/affiliates/">Affiliates</a></li>
 
-<li class=""><a href="https://fabfitfun.com/contact/">Contact</a></li>
+<li class=""><a href="https://fabfitfun.com/inquiries/">Inquiries</a></li>
 </ul>
 </div>
           </div>
@@ -320,6 +362,9 @@ FabFitFun does not disclose personally identifiable information to third-parties
           </li>
           <li>
             <a href="http://www.facebook.com/fabfitfun" target="_blank" class="social-facebook"><img src="https://fabfitfun.com/wp-content/themes/fabfitfun/images/fff-facebook.svg"></a>
+          </li>
+          <li>
+            <a href="https://fabfitfun.com/magazine/snapchat/" target="_blank" class="social-twitter"><img src="https://fabfitfun.com/wp-content/themes/fabfitfun/images/fff-snapchat.svg"></a>
           </li>
           <li>
             <a href="http://www.youtube.com/user/fabfitfun" target="_blank" class="social-youtube"><img src="https://fabfitfun.com/wp-content/themes/fabfitfun/images/fff-youtube.svg"></a>
@@ -382,17 +427,17 @@ color: #222;
 <h1>So, <br>how do Add-Ons work?</h1>
 </div>
 <div class="col" style="text-align: center;">
-     <img src="https://s3.amazonaws.com/fff-home/wp-content/uploads/2017/02/add-ons-1.png">
+     <img src="https://d3nif14cr4lprv.cloudfront.net/wp-content/uploads/2017/02/add-ons-1.png">
 <h3>SELECT YOUR FAVORITES</h3>
 <p>Everything you add will display in the “My Add-Ons” summary</p>
 </div>
 <div class="col" style="text-align: center;">
-     <img src="https://s3.amazonaws.com/fff-home/wp-content/uploads/2017/02/add-ons-2.png">
-<h3>SHOP THROUGH MARCH 4TH</h3>
-<p>Everything you have selected will be <b>automatically billed</b> on March 6th (no checkout required!)</p>
+     <img src="https://d3nif14cr4lprv.cloudfront.net/wp-content/uploads/2017/02/add-ons-2.png">
+<h3>SHOP THROUGH AUGUST 30TH!</h3>
+<p>Everything you have selected will be <b>automatically billed</b> on September 1st (no checkout required!)</p>
 </div>
 <div class="col" style="text-align: center;">
-     <img src="https://s3.amazonaws.com/fff-home/wp-content/uploads/2017/02/add-ons-3.png">
+     <img src="https://d3nif14cr4lprv.cloudfront.net/wp-content/uploads/2017/02/add-ons-3.png">
 <h3>SHIPPING IS FREE!</h3>
 <p>Add-ons ship for free with your box</p>
 </div>
@@ -471,17 +516,165 @@ You will receive email periodically and can opt-out at any time.</small></div>
 	</div>
 
 </div>
-        <!-- 
-            Lockers: user tracker for visibility filters
-            OnePress, bizpanda.com
-        -->
-        <script>
-            window.__bp_session_timeout = '900';
-            window.__bp_session_freezing = 0;
-            !function(){window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;return(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session"))?(n=JSON.parse(n),n.started+1e3*e<(new Date).getTime()&&(n=null),n):!1},window.bizpanda.bp_ut_set_obj=function(e){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime());var e=JSON.stringify(e);window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview()}();
-        </script>
-        <!-- / -->
-            <script type="text/javascript">
+<script type="text/javascript">
+    var cookiePath = "/", cookieDomain = ".fabfitfun.com";
+    </script>
+    <div class="modalbox popup-flow" id="reactivateExpiredConfirm">
+        <div class="modal-content reactivate-expired-flow-bg">
+            <div class="modal-close">
+                <i class="ion-ios-close-empty"></i>
+            </div>
+            <div>
+                <div class="row " style="padding-top: 31px;">
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/welcome-back-text.png">
+                        <br><br><b>You are all set enjoy the perks of being a</b>
+                        <br><b>FabFitFun member, including...</b>
+                    </div>
+                </div>
+
+                <div class="popup-confirm-image-text-block">
+                    <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Custom-Box-Icon.png">
+                    <span class="text">
+                        <b>Full-sized products</b>
+                        <br><b>delivered every season</b>
+                    </span>
+                </div>
+
+                <div class="popup-confirm-image-text-block">
+                    <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Add-Ons-Icon.png">
+                    <span class="text">
+                        <b>Access to Add-Ons</b>
+                    </span>
+                </div>
+
+                <div class="popup-confirm-image-text-block">
+                    <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/TV-Icon.png">
+                    <span class="text">
+                        <b>Unlimited access to</b>
+                        <br><b>TV and Community</b>
+                    </span>
+                </div>
+
+                <div class="row" style="text-align: center; padding: 71px 0 46px 0 !important;">
+                    <div class="col">
+                        <a class="btn btn-cta btn-lg dismiss" href="#">Continue</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modalbox popup-flow" id="trialToSeasonalConfirm">
+        <div class="modal-content trial-upgraded-to-seasonal-flow-bg">
+            <div class="modal-close">
+                <i class="ion-ios-close-empty"></i>
+            </div>
+            <div>
+                <div class="row " style="padding-top: 31px;">
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/welcome-member-text.png">
+                        <br><br><b>You are all set enjoy the perks of being a</b>
+                        <br><b>FabFitFun member, including...</b>
+                    </div>
+                </div>
+
+                <div class="popup-confirm-image-text-block">
+                    <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Custom-Box-Icon.png">
+                    <span class="text">
+                        <b>Full-sized products</b>
+                        <br><b>delivered every season</b>
+                    </span>
+                </div>
+                <div class="popup-confirm-image-text-block">
+                    <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Add-Ons-Icon.png">
+                    <span class="text">
+                        <b>Access to Add-Ons, box</b>
+                        <br><b>customizations, and sales</b>
+                    </span>
+                </div>
+                <div class="popup-confirm-image-text-block">
+                    <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/TV-Icon.png">
+                    <span class="text">
+                        <b>Unlimited access to</b>
+                        <br><b>TV and Community</b>
+                    </span>
+
+                </div>
+
+                <div class="row" style="text-align: center; padding: 71px 0 46px 0 !important;">
+                    <div class="col">
+                        <a class="btn btn-cta btn-lg dismiss" href="#">Continue</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modalbox popup-flow" id="upgradedToSelectConfirm">
+        <div class="modal-content upgrade-to-select-flow-bg">
+            <div class="modal-close">
+                <i class="ion-ios-close-empty"></i>
+            </div>
+            <div>
+                <div class="row " style="padding-top: 31px;">
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Select-Pop-Up-Text.png">
+                        <br><b>You are all set to receive a year's worth of FabFitFun boxes,</b>
+                        <br><b>in addition to any previously purchased seasonal boxes.</b>
+                        <br><b>You'll now enjoy...</b>
+                    </div>
+                </div>
+                <div class="row  small" style="padding-top: 15px;">
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Shipping-Truck.png">
+                         <br><b>Early Shipping</b>
+                    </div>
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Add-Ons-Icon.png">
+                        <br><b>Early Access to Add-Ons</b>
+                    </div>
+                </div>
+                <div class="row  small">
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Custom-Box-Icon.png">
+                        <br><b>Extra Box Customization</b>
+                    </div>
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Instant-Savings-Icon.png">
+                        <br><b>Instant Savings</b>
+                    </div>                
+                </div>
+                <div class="row" style="text-align: center; padding: 71px 0 46px 0 !important;">
+                    <div class="col">
+                         <a class="btn btn-cta btn-lg dismiss" href="#">Got it, Thanks!<i class="ion-arrow-right-c"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modalbox popup-flow" id="upgradedToAnnualConfirm">
+      <div class="modal-content upgrade-to-annual-flow-bg">
+            <div class="modal-close">
+                <i class="ion-ios-close-empty"></i>
+            </div>
+            <div>
+                <div class="row " style="padding-top: 50px;">
+                    <div class="col" style="text-align: center;">
+                        <img src="/wp-content/themes/fabfitfun/assets/images/popup-flow/Annual-Pop-Up-Text.png">
+                        <br><b>You are all set to receive a year's worth of FabFitFun boxes,</b>
+                        <br><b>in addition to any previously purchased seasonal boxes.</b>
+                    </div>
+                </div>
+                <div class="row" style="text-align: center; padding: 30px 0 46px 0 !important;">
+                    <div class="col">
+                         <a class="btn btn-cta btn-lg dismiss" href="#">Got it, Thanks!<i class="ion-arrow-right-c"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/fabfitfun.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
@@ -501,8 +694,22 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 /* ]]> */
 </script>
 <script type="text/javascript" src="//fabfitfun.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"></script>
+<script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/underscore.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/wp-util.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Select product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//fabfitfun.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-content/themes/fabfitfun/js/fabfitfun.js"></script>
+<script type="text/javascript" src="https://fabfitfun.com/wp-content/themes/fabfitfun/js/popup-flow.js"></script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/jquery/ui/core.min.js"></script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/jquery/ui/position.min.js"></script>
 <script type="text/javascript">
@@ -514,6 +721,7 @@ var popmake_default_theme = "16006";
 </script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&amp;ver=1.4.20" defer="defer"></script>
 <script type="text/javascript" src="https://fabfitfun.com/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript" src="https://fabfitfun.com/wp-content/themes/fabfitfun/assets/plugins/jquery-toast/jquery.toast.js"></script>
 
 
 </body></html>
