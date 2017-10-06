@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scryfall.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612221845id_/https%3A//scryfall.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scryfall.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006083637id_/https%3A//scryfall.com/docs/privacy) for the most accurate reproduction.*
 
-# Scryfall Privacy Statement · Scryfall Magic Card Search
+# Privacy Policy · Scryfall Magic Card Search
 
 Thanks for using Scryfall! This page outlines what kind of information we collect and store about our site visitors and what we do with it.
 
