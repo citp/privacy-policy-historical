@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612031554id_/http%3A//www.winemag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006092721id_/http%3A//www.winemag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wine Enthusiast Magazine
 
@@ -6,7 +6,7 @@ Wine Enthusiast Magazine’s privacy statement has been created to protect your 
 
 **Information we collect**
 
-Wine Enthusiast Magazine collects personal information when you register with winemag.com or when you order products or services. Wine Enthusiast Magazine will collect and keep information, such as:
+Wine Enthusiast Magazine collects personal information when you register with www.winemag.com or when you order products or services. Wine Enthusiast Magazine will collect and keep information, such as:
 
 Your name  
 E-mail address  
@@ -17,7 +17,7 @@ IP addresses
 
 **How secure is the information we collect?**
 
-At Wine Enthusiast Magazine, we are extremely serious about security in order to protect your confidential information. Wine Enthusiast Magazine uses Secure Socket Layers (SSL) encryption when transmitting date on winemag.com. During all transactions, an icon resembling a padlock is displayed on the bottom of most browsers during SSL transactions. All financial information is encrypted, and our company databases are accessible only to internal employees.
+At Wine Enthusiast Magazine, we are extremely serious about security in order to protect your confidential information. Wine Enthusiast Magazine uses Secure Socket Layers (SSL) encryption when transmitting date on www.winemag.com. During all transactions, an icon resembling a padlock is displayed on the bottom of most browsers during SSL transactions. All financial information is encrypted, and our company databases are accessible only to internal employees.
 
 **Cookies**
 
