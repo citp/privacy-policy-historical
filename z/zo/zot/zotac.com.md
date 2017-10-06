@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zotac.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226015929id_/https%3A//www.zotac.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotac.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006202343id_/https%3A//www.zotac.com/page/privacy-policy) for the most accurate reproduction.*
 
-# ZOTAC | Push The Limit
+# ZOTAC - Mini PCs and GeForce GTX Gaming Graphics Cards | ZOTAC
 
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
