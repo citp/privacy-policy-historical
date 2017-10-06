@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-anime.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220122id_/http%3A//www.soul-anime.us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-anime.us privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006230516id_/http%3A//www15.soul-anime.us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Policies for Information and Data - Soul-Anime
 
