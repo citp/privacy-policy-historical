@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyfilledeats.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607212209id_/http%3A//joyfilledeats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyfilledeats.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006194333id_/http%3A//joyfilledeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joy Filled Eats
 
