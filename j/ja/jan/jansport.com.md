@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jansport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131154id_/http%3A//www.jansport.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jansport.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006062130id_/https%3A//www.jansport.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | JanSport Online Store
 
