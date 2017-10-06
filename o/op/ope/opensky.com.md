@@ -1,28 +1,105 @@
-> *The following text is extracted and transformed from the opensky.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130105546id_/http%3A//www.tycoelectronics.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensky.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies-privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tyco Electronics - Products
+# OpenSky
 
-Tyco Electronics is committed to protecting any personal information that you may provide to us. Further, Tyco Electronics recognizes the importance of informing you how we treat information about you that we may receive from this Site.
+[Back to Policies](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies)
 
-**Information Collected**  
-In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our web servers may collect the domain names, but not the e-mail addresses, of visitors.In addition, there are portions of this Site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. You may refuse any request for personal information. This Site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children. 
+This Privacy Policy covers the use of the OpenSky, Inc. websites and the services provided by OpenSky, Inc., and our brands, which include but are not limited to OpenSky, Dot & Bo, 55mulberry, Pick Perfect (collectively "OSP", "we" or "us"), including how OSP treats personal information that OSP collects and receives. Pursuant to OSP's [Terms & Conditions](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies-terms), you must be 18 years or older to use this Site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that OSP does not own or control, or individuals that OSP does not employ or manage.
 
-**Use of Collected Information**  
-Domain name information that we collect is not used to personally identify you. It is used to measure viewer statistics, such as the number of viewers that visit the Site, pages viewed, etc. We use this information to measure the use of our Site and to improve the content of our Site. 
+This policy covers our US online experiences including our websites and mobile apps (collectively “Site”) and other webpages and services which we operate and in which we post a direct link to this policy. Our policy also describes the choices you can make about how we collect and use your information.
 
-When other information is collected from you, such as your name and e-mail address, Tyco Electronics will make reasonable efforts to let you know at the time of collection how this information will be used. Usually, the personal information you provide will only be used to respond to an inquiry you make or to process your request. This information may be shared with support partners, but only if necessary to fulfill your request or for related purposes. Tyco Electronics does not share, sell, or lease personal information about you to any third-parties for their marketing use. Tyco Electronics will release information about you if you direct it to do so, if Tyco Electronics is required by law to do so, or in other legally limited circumstances. 
+#### What information do we collect?
 
-**Links to Other Sites**  
-The Tyco Electronics website may contain links to other sites such as authorized distributors and sales affiliates. While Tyco Electronics makes reasonable efforts to try to link only to sites that share our high standards and respect for privacy, Tyco Electronics is not responsible for the content, security, or privacy practices employed by other sites.
+  * We collect information from you when you register on the Site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another Site feature. 
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our Site anonymously. 
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our Site. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+  * When you create an OSP account, you will provide information that could be personally identifiable information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Site and providing personal information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our services, but only in accordance with your contact preferences (which may be modified as described below). Regardless of your contact preferences, we reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
+  * In conjunction with your OSP account, we also display your OSP profile on the Site. All content submitted by you to the Site may be retained by us indefinitely, even after you terminate your OSP account. We may continue to disclose such content to third parties in a manner that does not reveal personally identifiable information, as described in this Privacy Policy. 
+  * We automatically receive and record information from your web browser when you interact with the Site, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Site (e.g., what links you have clicked on).
+  * Generally, the Site automatically collects usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. 
+  * We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the "Payment Processor"), and use and storage of that information is governed by the Payment Processor's applicable terms of service and privacy policy.
 
-**Security of Collected Information**  
-Tyco Electronics maintains strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. Tyco Electronics restricts access to information about you to those Tyco Electronics workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
 
-**Access to Collected Information**  
-You may review and update the information that you provide to Tyco Electronics through this Site by contacting us as described below.
 
-**Contacting Us**  
-If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics [welcomes your questions and suggestions](http://tycoelectronics.custhelp.com/cgi-bin/tycoelectronics.cfg/php/enduser/ask.php) about this privacy policy.
+#### How do we use your information?
 
-**Changes to this Policy**  
-Please check this privacy policy periodically to inform yourself of any changes. Although Tyco Electronics reserves the right to modify or supplement this privacy policy, Tyco Electronics will provide notice to you on this Site of any major changes for at least 30 days following the change. 
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the Site, or use certain other Site features in the following ways:
+
+  * To personalize your Site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+  * To allow us to better service you in responding to your customer service requests. 
+  * To quickly process your transactions. 
+  * To administer a contest, promotion, survey or other Site feature. 
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other Site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+
+
+
+#### How do we protect visitor information?
+
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we use a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+
+#### Public Information about Your Activity on the Site
+
+Some of your activity on and through the Site is public by default. This may include, but is not limited to, content you have posted publicly on your OSP profile or otherwise on or through the Site. Users may have some of this information associated with their OSP accounts. 
+
+Please also remember that if you choose to provide any personally identifiable information using certain public features of the Site, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Site.
+
+#### Do we use "cookies"?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future.
+
+We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Google Chrome or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Site experience more efficient and some of our services will not function properly.
+
+The information we collect through the use of cookies is used to improve the usefulness and efficiency of your use of the Site, and is sometimes used to enhance the reliability and performance of the Site. Examples include maintaining lists of products that you have placed in your shopping cart during a visit to the Site, and IP addresses of Site visitors. In no case does OSP collect personally-identifiable information through cookies or any other tracking technology.
+
+#### Do we disclose the information we collect to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include OSP suppliers. It also does not include website hosting partners and other parties who assist us in operating the Site, conducting our business, or servicing you to the extent related to fulfilling our services. We may also release your information when we believe release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
+
+We routinely share the names, e-mail addresses, and purchases of customers who have made purchases at OSP with the suppliers with whom we are affiliated. Our suppliers - who as our partners maintain various content websites leading to OSP - maintain your personally-identifiable information under standards that are consistent with our standards.
+
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+#### How can you opt-out, remove or modify information you have provided to us?
+
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "[My Account](https://opensky.com/account)" section. Please note that due to email production schedules you may receive any emails already in production.
+
+To delete all of your online account information from our database, sign into the "My Account" section of our Site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+If you have particular concerns about reviewing or updating any of your personal information that we maintain, you may contact us from <https://www.opensky.com/content/contact-us>. You may also contact us at The OpenSky Project, Inc., 152 West 25th Street 12th Floor, New York , NY 10001.
+
+#### Third party links
+
+In an attempt to provide you with increased value, we may include third party links on our Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Our service may also incorporate content from third party websites, such as Facebook. One such service may include the ability for you to automatically transmit information (such as items you "Love" on OSP) from your OSP account to an account on a third party website or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business' or websites' policies. In order to link your OSP account with any third party account, we may ask you for account information for those services. If you provide your third party account credentials to us, you understand that content and/or information in those accounts may be transmitted into your account with us, and that third party account information transmitted to our Site is covered by this Privacy Policy. We don't actually store your passwords for those third party accounts. Instead, we just use an authentication token to verify your user name. 
+
+#### Online Behavioral Advertising
+
+OSP participates in Online Behavioral Advertising (OBA), also referred to as Interest-Based Advertising (IBA), where ads are tailored to your interests. OSP works with service providers like Conversant and TruEffect to help us collect non-personally identifiable information through our own cookies in order for OSP to deliver OBA display ads to our customers. You can specifically opt out of OSP's use of its own cookies through service provider Conversant for these OBA ads by clicking [here](http://dtmc.dotandbo.com/adinfo/choice/prod/?type=fpc&cid=61841&cname=Dot%20%26%20Bo&cmagic=dc33b9&clogo=61841.png&loc=us&lang=en-us). You can opt out of using Conversant’s interest-based targeting by clicking [here](http://optout.networkadvertising.org/#!/). You can specifically opt out of OSP's use of its own cookies through service provider TruEffect for these OBA ads by clicking [here](http://media.opensky.com/optout.html).
+
+#### Changes to our policy
+
+If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
+
+#### Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue from <https://www.opensky.com/content/contact-us>.
+
+#### Online Policy Only
+
+This online privacy policy applies only to information collected through our Site and not to information collected offline.
+
+#### Terms and Conditions
+
+Please also visit our [Terms & Conditions](https://web.archive.org/web/20171006192807id_/https%3A//www.opensky.com/content/general/policies-terms) section establishing the use, disclaimers, and limitations of liability governing the use of our Site.
+
+#### Your consent
+
+By using our Site, you consent to our privacy policy.
+
+Last Updated: August 17, 2017
+
+Back to Top
