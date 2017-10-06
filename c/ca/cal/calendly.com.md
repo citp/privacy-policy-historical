@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201810id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006130433id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
 
 # Calendly - Scheduling appointments and meetings is super easy with Calendly.
 
@@ -94,7 +94,7 @@ Our Site, App, and Services may contain links to third-party websites and applic
 
 ### International Users
 
-Our application and database servers are located with Amazon Cloud Services in the United Sates. If you are located outside of the United States, please be aware that information we collect (including cookies and other web technologies) will be processed and stored in the United States. By submitting your personal information to Calendly and using Calendly, you expressly consent to having your personal data transferred to, processed, and stored in the United States which may not offer the same level of privacy protection as those in the country where you reside or are a citizen.
+Our application and database servers are located with Amazon Cloud Services in the United States. If you are located outside of the United States, please be aware that information we collect (including cookies and other web technologies) will be processed and stored in the United States. By submitting your personal information to Calendly and using Calendly, you expressly consent to having your personal data transferred to, processed, and stored in the United States which may not offer the same level of privacy protection as those in the country where you reside or are a citizen.
 
 ### Our Policy on Children’s Personal Information
 
