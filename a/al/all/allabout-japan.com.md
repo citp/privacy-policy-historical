@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allabout-japan.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205171603id_/http%3A//allabout-japan.com/en/site-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allabout-japan.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006210002id_/https%3A//allabout-japan.com/en/site-policy) for the most accurate reproduction.*
 
 # Site Policy | All About Japan
 
@@ -7,7 +7,7 @@ Updated September 29, 2015
 ## Copyright - Trademark - Disclaimer Facts
 
   * 1\. All About Japan
-     Under current regulations, All About Japan is a comprehensive information service provided by All About, Inc. (hereinafter referred to as “we,”, “us” or “our”) to users at http://allabout-japan.com and its related URLs, with a focus on information and content from its editorial staff, as well as that of cooperative partners. All About Japan also features advertisements from sponsors in designated advertising spaces. 
+     Under current regulations, All About Japan is a comprehensive information service provided by All About, Inc. (hereinafter referred to as “we,”, “us” or “our”) to users at https://allabout-japan.com and its related URLs, with a focus on information and content from its editorial staff, as well as that of cooperative partners. All About Japan also features advertisements from sponsors in designated advertising spaces. 
   * 2\. Changes and notifications of current regulations
      Changes are made to the current regulations as necessary. Any time a change is made, users will not be notified. Please refer to the main page for the latest version. 
   * 3\. Copyright
@@ -26,7 +26,7 @@ Updated September 29, 2015
 ## Privacy Policy
 
   * 1\. Privacy policy scope
-     All About Japan's privacy policy applies to the handling of collected personal information on customers of All About Japan. Customers' personal information may be collected via survey by advertising sponsors whose ads are featured on our website. We only provide the advertising space to sponsors, who may collect, use, store, and monitor personal information on customers. Consequently, personal information shared outside the scope of our site is not protected under our privacy policy. 
+     All About Japan's privacy policy applies to the handling of collected personal information on customers of All About, Inc. Customers' personal information may be collected via survey by advertising sponsors whose ads are featured on our website. We only provide the advertising space to sponsors, who may collect, use, store, and monitor personal information on customers. Consequently, personal information shared outside the scope of our site is not protected under our privacy policy. 
   * 2\. We will collect personal information via All About Japan in the following instances. While the following are all examples, the collection of personal information may occur in other instances. Furthermore, we will not collect personal information without customer's consent.
     
     * (1) When a customer uses All About Japan (e.g. registering as a member or monitor, filling out a survey, entering a promotional event, buying one of our products, and other cases as may apply).
