@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragezone.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608050950id_/http%3A//ragezone.com/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragezone.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006232633id_/http%3A//ragezone.com/privacypolicy.pdf) for the most accurate reproduction.*
 
 # RaGEZONE Privacy Policy
 
