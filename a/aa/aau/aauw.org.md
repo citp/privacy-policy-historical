@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630111906id_/http%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007222446id_/http%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: AAUW
 
