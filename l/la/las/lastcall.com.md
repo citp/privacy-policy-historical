@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628090248id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007163413id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003%23security) for the most accurate reproduction.*
 
 # Security & Privacy at Neiman Marcus Last Call
 
