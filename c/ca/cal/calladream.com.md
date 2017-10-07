@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calladream.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620090235id_/http%3A//www.calladream.com/privacy-policy-i-14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calladream.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007110925id_/http%3A//www.calladream.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy of calladream.com
 
