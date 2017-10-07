@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607072431id_/http%3A//www.motivators.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007162641id_/http%3A//www.motivators.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
 **Our Commitment To Privacy**
 
-This privacy policy applies to www.motivators.com owned and operated by Motivators, Inc. (collectively "We", "Us" or "Our"). Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
+This privacy policy applies to www.motivators.com, an operating division of Apparel Casuals & Promos, LLC., (collectively "We", "Us" or "Our") that is serviced by ePromos Promotional Products, Inc. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -37,7 +37,7 @@ This information is only used for the sole purpose of completing your request or
 
 **Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by Motivators, Inc. and our marketing partners, or analytics providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
+We Apparel Casuals & Promos, LLC. and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
 
 We use cookies to remember users' settings for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -67,7 +67,7 @@ When an order is placed, you will receive an email order acknowledgement. We rev
 
 When you register with our website you will receive updates on our new products and services. If you wish to be removed from this list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com).
 
-You may also receive periodic mailings from Motivators (i.e. catalogs, flyers). If you wish to be removed from this mailing list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com)
+You may also receive periodic mailings (i.e. catalogs, flyers). If you wish to be removed from this mailing list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com)
 
 We do not share your phone number with outside parties. Your phone number will be used to contact you regarding order information. Occasionally, we may contact you via phone to inform you of new products and special deals we are offering. If you do not wish to receive this information by phone, please contact [privacy@motivators.com](mailto:privacy@motivators.com).
 
@@ -77,9 +77,9 @@ We may provide your personal information to companies that provide services to h
 
 Ways we will disclose your personal information: 
 
-  * In certain situations, Motivators, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. As required by law such as to comply with a subpoena, or similar legal process
+  * In certain situations, Apparel Casuals & Promos, LLC. may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements. As required by law such as to comply with a subpoena, or similar legal process
   * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
-  * If Motivators, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * If Motivators.com is involved in a merger, acquisition, or sale of all or a portion of its assets, a notice of the change in ownership will appear on our Web site
   * To any other third party with your prior consent to do so.
 
 
@@ -122,13 +122,13 @@ We use a chat feature to assist you with any questions you have while shopping o
 
 **Accessing/Correcting Personal Information**
 
-Upon request Motivators, Inc. will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or ask to have it removed from our blog or testimonial, or deactivate it by making the change on our member information page, by emailing our Customer Support at [privacy@motivators.com](mailto:privacy@motivators.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
+Upon request Apparel Casuals & Promos, LLC. will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or ask to have it removed from our blog or testimonial, or deactivate it by making the change on our member information page, by emailing our Customer Support at [privacy@motivators.com](mailto:privacy@motivators.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **Links to Other Web Sites**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Motivators, Inc. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of Motivators.com If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 **Social Media Widgets**
 
@@ -144,16 +144,16 @@ We will retain your information for as long as your account is active or as need
 
 **Notification of Privacy Policy Changes**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes, the Privacy Policy on the Web site will be updated. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Should you have other questions or concerns about these privacy policies, please 
 
   * call us at 1-800-525-9600
   * send us an email at [privacy@motivators.com](mailto:privacy@motivators.com)
-  * send a letter to 123 Frost St. Suite 201 Westbury, NY 11590
+  * send a letter to 123 Frost St. Suite 204 Westbury, NY 11590
 
 
 
 By Visiting Motivators.com, you are accepting the practices described in this privacy notice.
 
-This Privacy Policy has been in effect since 11/21/2016
+This Privacy Policy has been in effect since 9/22/17
