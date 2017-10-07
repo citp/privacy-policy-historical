@@ -1,100 +1,148 @@
-> *The following text is extracted and transformed from the qryptos.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qryptos.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007163837id_/https%3A//s3-ap-northeast-1.amazonaws.com/jfsa-qryptos/Privacy%2BPolicy%2BQUOINE%2BPTE%2BLTD_V1.0.pdf) for the most accurate reproduction.*
 
-# Legal Agreement
+# 
 
-**Go Daddy Respects Your Privacy**
+QUOINE Pte. Ltd.. (the “Company”) establishes the following personal information protection
+policy (this “Privacy Policy”) to promote the protection of personal information. The terms used in
+this Privacy Policy are governed by the meanings ascribed under the Terms of Use.
+Article 1    General Provisions
+The Company respects the privacy of everyone who uses its services, and carefully manages users’
+personal information.
+The Company implements, maintains, and continually improves measures to protect users’ personal
+information. The Company furthermore complies with laws, regulations, and other standards
+regarding the protection of personal information.
+Article 2    Definition of Personal Information
+In this Privacy Policy, “personal information” means the personal information defined in the
+Personal Data Protection Act. That is to say, information about a living individual that can be used to
+identify the specific individual based on the name, date of birth, and other descriptions included in
+the information (including such information as will allow easy reference to other information and
+will thereby enable the identification of the specific individual).
+Article 3    Purpose of Use of Personal Information
+The Company uses personal information collected from users for the following purposes:
+(1) To verify the identity of users in the course of creating user accounts;
+(2) To offer services via our platform, such as handling user deposits to user accounts, refunding
+      money to users, and the like;
+(3) The provide answers to, or respond to inquiries or consultations by, users;
+(4) To introduce the services of the Company and subsidiaries and affiliates of the Company to
+      users;
+(5) To conduct analyses for improving the services of the Company and subsidiaries and affiliates
+      of the Company;
+(6)   To conduct market research with respect to products or services of the of the Company and
+      subsidiaries and affiliates of the Company and to research and develop financial products or
+      services by conducting data analysis and sending questionnaire etc.:
+(7)   To provide maintenance and support regarding the services of the Company and subsidiaries
+      and affiliates of the Company:
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+(8)   To notify changes or updates in the terms of use, regulations, guidelines, explanation on risk in
+     virtual currency trading, policies, notes and other rules (the “Rules”) related to the services of
+     the Company and subsidiaries and affiliates of the Company:
+(9) To prepare backup data;
+(10) To issue a warning or take disciplinary action, etc. against a user who has, or is at risk of having,
+     breached the Rules;
+(11) To conduct internal audits;
+(12) To contact users in the case of an emergency; or
+(13) To perform work incidental to the abovementioned purposes.
+Article 4    Changing the Purposes of Use
+The Company may change the purposes of use of the personal information to the extent deemed
+sufficiently relevant and reasonable, and the Company will notify or make an announcement to the
+users when it makes a change.
+Article 5    Restrictions on Use of Personal Information
+Except where permitted by the Personal Information Protection Act and other laws and regulations,
+the Company will not use personal information outside of the scope required to achieve the purposes
+of use without obtaining the user’s consent. However, this will not apply in the following cases:
+1.         When pursuant to a law or regulation;
+2.         When necessary to protect the life, body, or property of an individual, and it is difficult to
+           obtain the user’s consent;
+3.         When especially necessary for improving public health or advancing the sound nurturing
+           of children, and it is difficult to obtain the user’s consent; and
+4.         When necessary to cooperate with the execution of affairs set forth in a law or regulation
+           by a government institution, local government, or an individual or entity retained thereby,
+           and there is a risk that obtaining the user’s consent would hamper the execution of those
+           affairs.
+Article 6    Proper Acquisition of Personal Information
+The Company will properly acquire personal information, and it will not do so through fraudulent or
+unjust means. Further, please understand that if a user or other data subject, etc. refuses to provide
+personal information, the Company may refuse to offer its services to that user, etc. or the services
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+offered by the Company may work improperly, etc.
+Article 7    Secure Management of Personal Information, etc.
+The Company will conduct the necessary and appropriate oversight of its employees in order to
+securely manage personal information to prevent the risk of loss, destruction, falsification, or
+leakage, etc. If the Company delegates all or part of the handling of personal information, the
+Company will conduct the necessary and appropriate oversight of the delegatee to ensure the secure
+management of personal information.
+Article 8    Provision of Personal Information to Third Parties
+Except where permitted by the Personal       Data Protection Act and other laws and regulations, the
+Company will not disclose or provide personal information to third parties without first obtaining the
+consent of the users. However, the following cases do not fall under a disclosure or provision to a
+third party as provided above:
+1.         The Company delegating all or part of the handling of personal information to the extent
+           required to achieve the purposes of use; or
+2.         The Company provides personal information for under business succession in a merger or
+           other event.
+Article 9    Delegation of Personal Information Management
+The Company may delegate all or part of the handling of personal information to the extent required
+to achieve the purposes of use. In that case, the Company will select a delegatee that it deems will
+properly handle the personal information, will appropriately set forth matters in a service agreement
+regarding security management measures, confidentiality, the terms of sub-delegations, the return of
+personal information upon the termination of the delegation agreement, and other matters on the
+handling of personal information, and will conduct the necessary and appropriate oversight of the
+delegatee.
+Article 10 Continual Improvement
+The Company will review the operational circumstances of handling personal information as
+necessary and make every effort to make continual improvements. The Company will also amend
+this Privacy Policy as needed.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Article 11 Data Backups
+The Company may regularly backup data. This data may in some cases include personal information
+that was acquired by the Company when a user used the Company’s services. The Company may
+save this information even after a user loses his or her user status. The Company is not, however,
+obligated to save this information, and does not guarantee that the saved information will be
+reusable.
+Article 12 Procedures to Request Disclosure
+If a user requests the disclosure of his or her personal information, the Company will make the
+disclosure to that user without delay after verifying the identity of the user making the request,
+unless the Company is not obligated to do so pursuant to the Personal Data Protection Act or other
+laws and regulations (the Company will provide notice if no such personal information exists).
+Furthermore, users may verify and correct the personal information held by the Company on the user
+information management page. The Company charges users a separate fee (SGD $15.00 including
+tax)) for each instance that the Company assists with disclosure request procedures.
+Article 13 Correction, etc. of Personal Information
+If a user requests the company to correct, add, or delete (“Correct, etc.”) any of his or her personal
+information pursuant to the provisions of the Personal Data Protection Act, the Company will verify
+that the user himself or herself made the request, will conduct the necessary review without delay
+within the scope required to achieve the purposes of use, will Correct, etc. the details of the personal
+information based on the results of the review, and notify the user that it has done so (the Company
+will also notify the user in the case that the company decides that it will not make a Correction, etc.).
+However, this will not apply if the Company is not obligated to make a Correction, etc. under the
+Personal Data Protection Act or any other law or regulation.
+Article 14 Suspension, etc. of Use of Personal Information
+If pursuant to the provisions of the Personal Data Protection Act a user requests the Company to
+suspend the use of or delete (“Suspend Use, etc.”) the user’s personal information because the
+personal information is being handled beyond the ambit of the purposes of use that were published in
+advance or was acquired by fraudulent or illicit means, and the Company finds that there are grounds
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+for the request, the Company will verify that the user himself or herself made the request, will
+immediately Suspend Use, etc. of the personal information, and will notify the user that it has done
+so. However, this will not apply if the Company is not obligated to make a Correction, etc. under the
+Personal Data Protection Act or any other law or regulation.
+Article 15 Exemptions
+The Company will take stringent measures to protect personal information from outside attacks or
+threats, but personal information is always at risk from such attacks and threats. The Company does
+not provide any guarantee regarding the effectiveness of these protective measures or our ability to
+prevent other parties, acting unlawfully, from gaining access to information. The Company, its
+officers, employees, delegatees, and other related parties bear no liability whatsoever for damage
+arising due to a leak of personal information despite the implementation of reasonable measures by
+the Company.
+Article 16 Inquiries
+Please contact the Company using the following information to inquire about disclosure, share an
+opinion, ask a question, state a complaint, or otherwise ask about how the Company handles
+personal information.
+Email address: support@quoine.com
+ * In case where a customer needs to contact the Company by phone, please request the telephone
+   number of the Company through the email address above. The Company promptly let the
+   customer know the telephone number upon the customers’ request.
