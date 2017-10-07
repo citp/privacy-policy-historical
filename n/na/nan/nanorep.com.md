@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607182312id_/https%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007140837id_/https%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nanorep - Digital Customer Self-Service Solution
 
