@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsidepursuits.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102841id_/http%3A//www.outsidepursuits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsidepursuits.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007023940id_/https%3A//www.outsidepursuits.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Outside Pursuits
 
