@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triplejack.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175848id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplejack.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007025946id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.*
 
 # Triplejack Poker
 
