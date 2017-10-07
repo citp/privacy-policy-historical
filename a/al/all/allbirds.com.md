@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allbirds.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511205706id_/https%3A//www.allbirds.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbirds.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007155251id_/https%3A//www.allbirds.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – Allbirds
+# Privacy Policy – Allbirds
 
 Allbirds, Inc. (“Allbirds”) endeavors to protect your personal privacy. This Privacy Policy addresses Allbirds’s practices regarding information collected from users of the web properties of Allbirds, including but not limited to all main and subdomains of allbirds.com and allbirds.co.nz (collectively, the “Site”). This Privacy Policy does not address or govern any information-gathering, use, or dissemination practices related to information collected from you other than directly through or from the Site, such as from other websites, telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
 
@@ -40,7 +40,7 @@ From time to time, Allbirds may disclose the data collected through the Site, in
 
 
 
-To learn more about behavioral advertising and your options with these practices, you can visit [www.networkadvertising.org/choices](https://web.archive.org/web/20170511205706id_/https%3A//www.allbirds.com/pages/www.networkadvertising.org/choices), <https://www.datalogix.com/privacy>, and <http://www.aboutads.info/choices>.
+To learn more about behavioral advertising and your options with these practices, you can visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), <https://www.datalogix.com/privacy>, and <http://www.aboutads.info/choices>.
 
 Allbirds may also disclose the data collected through the Site, including personally identifiable information, to another party with which Allbirds enters or reasonably may enter into a corporate transaction, such as a merger, consolidation, acquisition, or asset purchase. In the event that Allbirds or its assets is acquired by another company, or due to any merger, reorganization or liquidation, customer information may be one of the transferred assets. Your personal information will remain subject to any pre-existing privacy policy unless you consent otherwise.
 
