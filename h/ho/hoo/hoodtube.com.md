@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206121412id_/http%3A//www.hoodtube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007074943id_/http%3A//www.hoodtube.com/privacy) for the most accurate reproduction.*
 
 # Hood Tube - Ebony Porn, Black Sex, Twerking, Cock & Pussy
 
