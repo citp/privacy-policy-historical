@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertamedia.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427123041id_/https%3A//vertamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertamedia.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007054819id_/https%3A//vertamedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,9 +44,7 @@ Also, the Web publisher or advertiser with whom we partner may use cookies, acti
 
 Opt-Out Procedure and Cookie Control.
 
-Should you wish to opt-out of us placing a cookie on your browser, you can [click here](http://www.networkadvertising.org/choices/) to deploy an “opt-out” cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new cookie on that browser and from collecting data on that browser. The NAI’s opt-out tool also allows you to opt-out of the data collection and targeted ad programs of other NAI members. You may access the NAI opt-out [tool here](http://www.networkadvertising.org/choices/).
-
-Our opt-out tool and the NAI opt-out tool, are cookie-based. Both opt-out tools only prevent us from collecting data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, we may collect data and place a new cookie unless an opt-out cookie is reset on that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality, and you may see the same content and advertisements repeatedly on some websites.
+Should you wish to opt-out of us placing a cookie on your browser, you can [click here](https://tools.vertamedia.com/optout/) to deploy an “opt-out” cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new cookie on that browser and from collecting data on that browser.
 
 Opt-Out Procedure for mobile internet-based or mobile device advertising
 
