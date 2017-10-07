@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523011257id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008002548id_/https%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,12 +64,12 @@ This Policy only applies to this Website and any other website owned and operate
 
   * #### Advertising.
 
-Third party vendors, including Google, show MagnetStreet's ads on sites on the internet. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+Third party vendors, including Google, show MagnetStreet's ads on sites on the internet. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/privacy_ads.html). Alternatively users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/managing/opt_out.asp). 
 
-Third party vendors may collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. Users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+Third party vendors may collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. Users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 Users may opt out of Google's use of cookies by visiting the   
-[Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
+[Google advertising opt-out page](https://www.google.com/privacy_ads.html). 
 
 
 
