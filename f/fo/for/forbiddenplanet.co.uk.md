@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbiddenplanet.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625210801id_/http%3A//www.forbiddenplanet.co.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenplanet.co.uk privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007162838id_/http%3A//www.forbiddenplanet.co.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice : Forbidden Planet
 
