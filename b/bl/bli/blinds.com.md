@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415052328id_/https%3A//www.blinds.com/infopage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007123835id_/https%3A//www.blinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Blinds.com order policies, terms, conditions
 
 We respect your privacy. All personal information you provide to us WILL remain absolutely confidential and be used solely to communicate better with you. By visiting Blinds.com, you are agreeing to the privacy policy outlined below.
 
 Ways that we use information you provide us:
+
+When you interact with us via our website we may collect the following personal information: name, email address, address, information from your credit card or debit card, and IP address.
 
 We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, webhosting, web analytics, fulfillment, assembly, mailing, emailing, social media messaging, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by us. We use trusted third-party analytics and advertising companies to collect information about your visit. These companies may use information (but NOT your name, address, email address, telephone number or payment info!) about your visits to this and other Web sites in order to provide advertisements of interest to you. If you would like more information about this practice or to opt out, [click here](http://www.google.com/settings/ads). 
 
@@ -20,4 +22,12 @@ If you are a California resident and would like a copy of our notice describing 
 
 To unsubscribe from Blinds.com promotional emails, click on the unsubscribe link in the footer of any email or contact us at [subscription@blinds.com](mailto:subscription@blinds.com) to be removed from the mailing list.
 
+To review and update any personal information you provide to us, you can contact us by calling 1-800-505-1905.
+
+**Changes to this Privacy Policy**
+
 Effective Date: January 1, 2013
+
+Last Revision Date: September 29, 2017
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy Policy by posting an updated copy on our website. Please check our website periodically for updates.
