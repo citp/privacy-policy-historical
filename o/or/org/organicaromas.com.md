@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicaromas.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206142017id_/https%3A//organicaromas.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicaromas.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007084927id_/https%3A//organicaromas.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Organic Aromas
 
