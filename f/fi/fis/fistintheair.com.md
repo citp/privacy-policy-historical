@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fistintheair.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060050id_/http%3A//fistintheair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fistintheair.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007143054id_/http%3A//fistintheair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fist In The Air
 
