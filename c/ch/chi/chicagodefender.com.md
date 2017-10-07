@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagodefender.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221161818id_/http%3A//chicagodefender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagodefender.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007142121id_/https%3A//chicagodefender.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chicago Defender
 
@@ -38,6 +38,6 @@ This Web site is operated in the United States. If you are located in the Europe
 
 By using this Web site, you agree to the terms of this Privacy Policy. Chicago Defender reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any changes here, so be sure to check back from time to time. Of course, unless you consent otherwise, we will use your PII consistent with the Privacy Policy in effect at the time you submitted your PII.
 
-**Contact Us  **If you have any questions, comments or concerns about our Privacy Policy, please contact [svaughn@chicagodefender.com.](mailto:svaughn@chicagodefender.com)
+**Contact Us  **If you have any questions, comments or concerns about our Privacy Policy, please contact [svaughn@chicagodefender.com.](https://mailto:svaughn@chicagodefender.com/)
 
 The effective date of this Privacy Policy is June 12, 2008.
