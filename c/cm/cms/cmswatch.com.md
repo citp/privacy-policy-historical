@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624141158id_/https%3A//www.realstorygroup.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007074658id_/https%3A//www.realstorygroup.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Story Group
 
