@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novatech.co.uk privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112094703id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novatech.co.uk privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007225909id_/https%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.*
 
 # Privacy and Security at Novatech
 
@@ -26,7 +26,7 @@ The affiliate schemes and partner program that we run requires cookies to record
 
 #### Google Analytics.
 
-We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
+We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <https://www.google.co.uk/intl/en/analytics/privacyoverview.html>
 
 #### Social Buttons.
 
