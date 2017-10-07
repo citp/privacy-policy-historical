@@ -1,21 +1,72 @@
-> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229002111id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007073955id_/http%3A//orthogonal.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pathfinder SoftwarePathfinder Software - Medical Software Development
+# Privacy Policy | Orthogonal
 
-1\. We make every endeavor to ensure that any data given by Users of the Web Site is stored securely and without risk of corruption, theft or abuse by parties external to ourselves and our representatives.
+### I. SCOPE AND PURPOSE:
 
-2\. It may be necessary for us to share some of your personal data with third parties for the purpose of processing payments, in the event you purchase a product from us. Such third parties are vetted carefully by us and their handling of your data presents no risk to yourself. It is not possible to opt out of this if you wish to make electronic purchases from this Web Site. If you wish to make purchases from us without your payment information being passed to a third party, please contact us to find out how to pay by cheque or wire transfer instead.
+This privacy policy (“the Policy”) describes the practices of Pathfinder Software, Inc. (“we,” “us,” or “Pathfinder” “Orthogonal”) with regard to information about you that we obtain, either directly or indirectly through third-party vendors, through [www.orthogonal.io](http://www.orthogonal.io/) (“the Website”). We do not control and are not responsible for the privacy practices of, or the data available on, the websites of third parties, and we urge you to evaluate the soundness of these practices for yourself.
 
-3\. We may be legally obliged to pass on information about you to law enforcement agencies on receipt of a court order, and we will naturally comply with the spirit and letter of the law in such cases.
+### II. WHAT INFORMATION DO WE COLLECT?
 
-4\. Except where required by law, we will not pass on any information about your purchases, or any other personal information beyond contact details, to any third party, with the exception of clause 2 above, where we need to share some details with our card processing provider.
+The following types of information may be collected on the Website: We may collect information you provide us if you sign up for or request certain services from us on our Website. If you are interested in learning more about Orthogonal and the services and products we offer, we will ask for your name, practice name and size, email address, telephone number, and state.
 
-5\. We may occasionally contact you by email with information about other products, services and/or Web Sites we feel may be of interest to you. You are unlikely to receive more than one email a week from us. If you wish to opt out of such emails, please send us an email.
+The Analytics tools we use may collect your IP address and other data about the equipment used to visit the Website, the patterns of searching and browsing that preceded access to the Website, and the patterns of searching and browsing on the Website. None of that information will be attributed to you as an individual. Google will collect it and aggregate and combine with all browsing data before sharing it with us.
 
-6\. We will never pass on your payment information to any third party for any purpose whatsoever beyond the processing of payments to us, as outlined in Clause 2 above.
+The Website does not respond to web browsers. Do Not Track signals.
 
-7\. In order to improve our site and our service to you, we may occasionally use cookies. The purpose of such cookies is purely to help us personalize the information we deliver to you and does not imply storage of personal data, nor the tracking of your activity on the site. If you wish to delete such cookies after visiting the site, go to your browser’s tools menu and select the ‘clear cookies’ option.
+### III. HOW DO WE USE YOUR INFORMATION?
 
-8\. In order to ensure our Web Site is of as much value to as many people as possible, we use a range of analytics tools. This means your IP address may be stored for a short time to allow us to anonymously track people’s use of the site and paths through the data therein. This information is regularly purged from our server logs.
+We use information collected through tracking technologies, such as cookies and web beacons, to improve the functionality of the Website.
 
-9\. You may apply at any time, by email, to see what information we have about you in our records, and ask us to update it or otherwise alter it to reflect your current circumstances. While we may not, for legal reasons, be able to delete all information we hold about you from our database, we will comply as far as is possible within the letter of the law with any such request.
+For example:
+
+  * We track the number of visitors using certain portions or features of the Website to make changes that may be necessary to improve the Website’s functionality;
+  * We track the popularity of features on the Website to guide the development of new ones;
+  * We assess the ways in which users become aware of or access the Website in order to gauge the quality and methods of our advertising.
+
+
+
+If you choose to provide Orthogonal with personally identifiable information, we will use that information for our internal business purposes only. For example, if you provide us with your email address, we may use it for our own marketing, promotional, and informational purposes, including solicitations, invitations, newsletters, awareness campaigns, and announcements, but we will not share your email address with unaffiliated third parties.
+
+### IV. SHARING YOUR INFORMATION
+
+We engage certain service providers for purposes of tracking and associating internet search and browsing behavior with our advertisements and to provide functionality on the Website. We enable them to use tracking technologies, such as cookies and web beacons, on or in conjunction with the Website.
+
+These companies may use non-personally identifiable information about your visits to other websites, together with non-personally identifiable information about your purchases and interests from other online and offline sources, to provide ads about goods and services of interest to you.
+
+The use and collection of information by these service providers is governed by their respective privacy statements and thus is not covered by this Policy. In addition, we may share Website usage information with these service providers to manage and target ads and for market research purposes.
+
+Finally, information obtained through these processes may be combined with personally identifiable information in order to analyze our marketing efforts.
+
+Please note that Orthogonal will only share your information in accordance with this Policy, except in the following situations:
+
+  * You have given us your consent to share or use information about you;
+  * We believe that we need to share information about you to provide a service that you have requested from us or from others;
+  * We are required by law to disclose information; or
+  * We believe that it is necessary to protect our rights or to avoid liability or violations of the law.
+
+
+
+### V. UPDATES TO THIS PRIVACY POLICY
+
+We reserve the right to make periodic updates and revisions to the Policy. Any changes will be posted on this page. Please check this page to review whether any changes have been made to the Policy.
+
+### VI. WHAT ELSE DO YOU NEED TO KNOW?
+
+This Website is not intended for minors under the age of eighteen, and Orthogonal does not wish to obtain any information from or about them through this website. If you are under eighteen years old, do not use this Website. Our Website includes social media features, such as “sharing” functions on Facebook and Twitter. Your interactions with these features are governed by the privacy policies of the companies providing these features, and we do not control and are not responsible for the privacy practices of, or the data available on, the websites of third parties.
+
+### VII. KEY TERMS
+
+TRACKING TECHNOLOGIES: Tracking technologies include technologies such as “cookies” and “web beacons,” which are used to analyze trends, administer the Website, and help us provide you with a more personalized experience and improve our services.
+
+COOKIES: Cookies are small amounts of text files that are sent from a website to your computer’s browser when you visit the site. These cookies are then stored in files within your computer’s browser. Websites can access only the cookies that they have stored on your computer. For every future time you access a website, your browser sends the cookie back to the server, which notifies the website of the user’s previous activities on the website. Thus, cookies serve several useful purposes, like letting you navigate between pages more efficiently, saving your preferences, and enhancing your user experience with the website.
+
+WEB BEACONS: Web beacons (also called transparent GIFs, web bugs, pixels, or action tags) are strings of code that deliver a tiny graphic image on a web page or in an email which is used to monitor the behavior of the user visiting the website or sending the email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page on which the web beacon is placed. In general, any file served as part of a web page can act as a web beacon.
+
+INTERNET PROTOCOL (IP) ADDRESS: A numerical label separated by periods that identifies every device (e.g., computer, printer) that participates in a network. IP addresses allow these devices to communicate with one another and transmit relevant information.
+
+PERSONALLY IDENTIFIABLE INFORMATION (PII): For purposes of this Policy, PII includes: first and last name; physical mailing address including street name and city/town; email; telephone number; or any other identifier that permits the physical or online contacting of a specific individual.
+
+### VIII. CONTACT
+
+If you have any questions about this Policy, please contact us at [info@orthogonal.io](mailto:info@orthogonal.io).
