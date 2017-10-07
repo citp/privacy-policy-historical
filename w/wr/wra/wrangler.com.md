@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129134555id_/https%3A//www.wrangler.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007172734id_/https%3A//www.wrangler.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Notices
 
@@ -8,7 +8,7 @@ This Privacy Policy was lasted updated August 20, 2014 and may be updated from t
 
 **WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?**
 
-**Information You Provide**   
+**Information You Provide**  
 We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the VF Corporation family of brands and may also receive information about you from other brands held by VF Corporation.
 
 You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer. For example, you must provide certain personal information in order to place an order or to register for an account on or through this website.
@@ -19,7 +19,7 @@ If you access our website or mobile applications with your log-in credentials fr
 
 When you download or use our mobile applications, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services like local store information, search results, and other personalized content. Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer.
 
-**Automatically Collected Information**   
+**Automatically Collected Information**  
 We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address and browser information and reference site domain name when you visit this website and analyze this data for preferences, trends, and site usage statistics.
 
 We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to enhance your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the website.
@@ -58,7 +58,7 @@ We may share personal information with a third party if we are required by law t
 **WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?**    
 We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-**WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?**   
+**WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?**  
 The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
 **HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?**    
