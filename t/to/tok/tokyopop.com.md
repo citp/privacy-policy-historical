@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyopop.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624004800id_/http%3A//www.tokyopop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyopop.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008013942id_/https%3A//www.tokyopop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — TOKYOPOP
 
