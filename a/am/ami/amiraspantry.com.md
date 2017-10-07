@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amiraspantry.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618055833id_/http%3A//amiraspantry.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiraspantry.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007180049id_/http%3A//amiraspantry.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure / Privacy Policy | Amira's Pantry
 
