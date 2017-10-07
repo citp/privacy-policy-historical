@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucnews.in privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613234903id_/http%3A//www.ucnews.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucnews.in privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007162542id_/http%3A//www.ucnews.in/privacy) for the most accurate reproduction.*
 
 # UC News:Latest Breaking India News, Cricket, Entertainment, Bollywood,Business
 
