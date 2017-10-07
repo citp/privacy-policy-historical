@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030736id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007055705id_/https%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
 
 # GayForIt - Free Gay Porn Videos
 
