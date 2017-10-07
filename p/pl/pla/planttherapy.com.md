@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planttherapy.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417031409id_/https%3A//www.planttherapy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planttherapy.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007160123id_/https%3A//www.planttherapy.com/privacy-policy) for the most accurate reproduction.*
 
 # Essential Oils | Plant Therapy: Privacy Policy
 
