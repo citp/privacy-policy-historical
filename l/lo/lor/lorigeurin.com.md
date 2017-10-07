@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lorigeurin.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607221512id_/http%3A//www.lorigeurin.com/the-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorigeurin.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007161402id_/http%3A//www.lorigeurin.com/the-privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Lori Geurin
+# PRIVACY POLICY - LORI GEURIN
 
   
 
