@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522174820id_/https%3A//www.import.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007113649id_/https%3A//www.import.io/about/privacy) for the most accurate reproduction.*
 
 # Privacy - import.io
 
