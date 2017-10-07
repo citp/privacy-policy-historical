@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the luluandgeorgia.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117122657id_/https%3A//www.luluandgeorgia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luluandgeorgia.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007164707id_/https%3A//www.luluandgeorgia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Privacy Policy**
 
 **We value your privacy**
 
@@ -32,24 +30,6 @@ We like to share information about other hip and stylish websites that we think 
 
 We may choose to amend our Privacy Policy for various reasons. If we change our Privacy Policy, we will post the change on our website. Once a new policy is posted it becomes effective immediately.  
 
-Please feel fee to contact us via email to share your thoughts, comments and suggestions. We would love to hear from you!
+**Want to get in touch?**
 
-Lulu & Georgia
-
-8900 Melrose Ave
-
-West Hollywood, CA 90069
-
-Email: [contact@luluandgeorgia.com](mailto:contact@luluandgeorgia.com)
-
-**Supplier inquiries**
-
-For further information on any of our suppliers, artisans, or craftsmen, including applicable warranty information, please email us at [contact@luluandgeorgia.com](mailto:contact@luluandgeorgia.com).
-
-**Press inquiries**
-
-Please contact us via email at [rugsilove@luluandgeorgia.com](mailto:rugsilove@luluandgeorgia.com) with any press inquiries and we will be pleased to assist.
-
-**Report technical issues**
-
-For any problems with our website, please contact our webmaster at [support@luluandgeorgia.com](mailto:support@luluandgeorgia.com).
+Contact us [HERE](https://luluandgeorgiahelp.zendesk.com/hc/en-us/requests/new) to share your thoughts. 
