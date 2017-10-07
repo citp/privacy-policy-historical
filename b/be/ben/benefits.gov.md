@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629071453id_/https%3A//www.benefits.gov/about/privacy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008010502id_/https%3A//benefits.gov/about/privacy-and-terms-use) for the most accurate reproduction.*
 
 # Privacy and Terms of Use | Benefits.gov
+
+If you have been impacted by the recent hurricanes and are looking for more information, or to apply for assistance, please visit [www.DisasterAssistance.gov](https://disasterassistance.gov/).
 
 Privacy & Terms of Use Statement
 
