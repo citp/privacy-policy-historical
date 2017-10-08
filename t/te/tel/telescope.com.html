@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the telescope.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606145758id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telescope.com privacy policy that was archived on 2017-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171008035310id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <title>Privacy | Orion Telescopes &amp; Binoculars</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"><link href="/favicon.ico" rel="icon" type="image/x-icon"><link rel="alternate" hreflang="en" href="http://eu.telescope.com">
@@ -10,6 +10,8 @@
 <link rel="alternate" hreflang="en-gb" href="http://uk.telescope.com">
 <link rel="alternate" hreflang="fr-fr" href="http://fr.telescope.com">
 <link rel="alternate" hreflang="de-de" href="http://de.telescope.com">
+
+
 
 <!-- jq version 1.5.1 the file also includes easing and slides libs -->
 <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-53M43W"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="/js/jquery.min.js" type="text/javascript"></script><script type="text/javascript">
@@ -322,10 +324,10 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
             if (($.client.browser == "Firefox") && ($.client.os == "Mac")) {
                 // MAC FireFox was displaying the top search input at a different size ? font-rendering
-                $('.common-header .keyword-text').css('font-size', '11px').css('height', '14px').css('line-height', '14px');
+                $('.header-legacy .keyword-text').css('font-size', '11px').css('height', '14px').css('line-height', '14px');
             } else {
-                if ($(".keyword-text").height() < 16) {
-                    $(".keyword-text").height("16px");
+                if ($(".header-legacy .keyword-text").height() < 16) {
+                    $(".header-legacy .keyword-text").height("16px");
                 }
             }
         });
@@ -590,42 +592,179 @@ background: #ffffff;
 
 </style><div class="common-header-wrapper">
 
-<div class="common-header">
-<!-- Navigational Header Begins -->
-<div class="common-header-content">
-    <div class="logo-container">
-        <a href="http://www.telescope.com/home.jsp"><img title="Orion Store" src="http://www.telescope.com/assets/images/text/english/40_years_logo.jpg" border="0" alt="Orion Store"></a></div>
 
-    <div class="links-search-container">
-        <div class="header-center-content">
-            <!-- BEGIN: Header - Managed Content - Global Header 1 -->
-            <style type="text/css">
- #header-cms-links {
-    float: left;
-    margin: 18px 0 2px;
-    text-align: center;
-    width: 556px;
- }
+    <!-- include header tabs -->
+            <!-- Load the default catalog for the site -->
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,900" rel="stylesheet">
 
- #header-cms-links ul li {
-    display:inline;
-    padding:0 3px;
-    font-weight:bold;
- }
- #header-cms-links ul li.phone {
-    font-size:15px;
-    padding-left:0;
- }
-#header_links li {float: left;}
-#header_links li.head-bullet {height: 4px;margin: 5px 0 0;}
-#header_links li.phone {position: relative;top: -3px;left:-5px;}
-#header_links li.live_chat {position: relative;top: -1px;}
-</style>
-<!--%%%%%%%%%%%% QuickMenu Styles [Publish this section to the document head for full validation!] %%%%%%%%%%%-->
+<div class="common-header header-tabs  orion-dot-com">
+    <div id="header-cms-promo">
+        <!-- BEGIN: Header - Managed Content - Promotions -->
+        <!-- Kits and Bundles Skus = "08906", "20001", "20002", "20011", "20014", "20020", "20025", "20031", "20032", "20034", "20040", "20095", "20317", "20406", "20408", "20409", "20410", "20411", "20551", "20560", "20562", "20563", "20565", "20566", "20567", "20568", "20569", "20571", "20613", "20704", "20710", "20711", "21126", "21321", "21329", "21331", "21334", "21335", "21336", "21337", "21338", "21339", "21340", "21341", "21342", "21343", "21403", "21404", "21405", "21406", "22904", "24281", "24432", "24433", "24434", "24437", "24442", "24443", "24446", "24609", "24708", "24709", "24729", "24731", "24732", "24735", "24756", "24760", "24762", "24764", "24781", "24783", "24784", "24785", "24786", "24787", "24788", "24789", "24790", "24791", "24793", "25520", "25700", "27148", "27150", "27154", "27162", "27175", "27186", "27187", "27188", "27197", "27295" -->
+
+<!--script for kits and bundles -->
+<script>
+$(document).ready(function(){
+
+var gwpArray = ["08889", "08890", "08906", "20001", "20002", "20011", "20014", "20020", "20032", "20043", "20044", "20095", "20406", "20408", "20409", "20410", "20411", "20551", "20560", "20562", "20563", "20565", "20566", "20567", "20568", "20569", "20571", "20613", "20710", "20711", "21126", "21321", "21329", "21331", "21335", "21336", "21337", "21338", "21339", "21340", "21341", "21342", "21343", "21403", "21404", "21405", "21406", "22904", "24281", "24432", "24433", "24434", "24437", "24442", "24443", "24446", "24609", "24708", "24709", "24729", "24731", "24732", "24735", "24756", "24760", "24762", "24764", "24780", "24781", "24784", "24785", "24787", "24783", "24786", "25520", "25700", "25703", "27148", "27150", "27154", "27162", "27175", "27188", "27197", "27295", "27302"];
+
+for(var i=0; i < gwpArray.length; i++) {
+
+if ($('div.style-number:contains("'+gwpArray[i]+'")').length){
+
+$("div.product-specific-container").append("<div class='buyMoreKitStyle'><img src='/assets/images/pdp/PDP_Get_More_and_Save_09_23.png' width='416' height='56' /> </div>");
+
+}
+
+
+}
+
+});
+
+</script><!-- END Header - Managed Content - Promotions -->
+        <div <!--="" begin="" tabs="" --="">
+
+    <style type="text/css">
+
+        body { background: #FFF !important; }
+
+        .head-bkg { display: none; }
+
+        .header {
+            position: relative;
+        }
+
+        .page-body {
+            position: relative;
+        }
+
+
+        #tab-orion.site-tab-item-active {
+            background: linear-gradient(180deg, #697579, #1c3136, #11303e);
+        }
+
+        #tab-orion a {
+            background: url(/assets/images/buttons/english/tab-orion.png) 0 100% no-repeat;
+        }
+
+        #tab-orion.site-tab-item-active a {
+            background-position: 0 0;
+        }
+
+        .orion-dot-com .masthead {
+             
+        }
+
+        .orion-dot-com .masthead-logo {
+            
+        }
+
+        .orion-dot-com #header-cms-links,
+        .orion-dot-com .masthead-tools-account {
+            
+        }
+
+        .orion-dot-com .masthead-tools-account {
+            
+        }
+
+        .orion-dot-com #header-cms-links a,
+        .orion-dot-com .masthead-tools-account a,
+        .orion-dot-com .masthead-tools-account .welcome-message,
+        .orion-dot-com #header_links .phone {
+            color: ;
+            font-family: ;
+        }
+
+        .orion-dot-com .masthead-tools-search .keyword-text {
+            border-color: 
+        }
+
+        .orion-dot-com .masthead-tools-search .search-button {
+            background-color: ;
+        }
+
+        .orion-dot-com .nav {
+            background-color: ;
+
+            
+        }
+
+        .orion-dot-com .nav .cat-level1 {
+            font-family: ;
+            color: ;
+        }
+
+        .orion-dot-com .masthead .category-nav {
+            
+        }
+
+        .orion-dot-com .category-nav-item .cat-level1 {
+            
+        }
+
+        .orion-dot-com .category-nav-item .cat-level2 .category-label-container a:hover {
+            background-color: #ebf3f7;
+        }
+
+    </style>
+
+    <div class="site-tabs">
+        <ul class="site-tabs-list">
+            <!-- todo: need to get the category name and replace spaces with a dash  -->
+                <li class="site-tab-item site-tab-item-active" id="tab-orion"><a href="/Orion/2160.home" style="background-image: url('/assets/images/buttons/english/tab-orion.png');"></a></li>
+                        <!-- todo: need to get the category name and replace spaces with a dash  -->
+                <li class="site-tab-item" id="tab-binoculars"><a href="/All-Binoculars/2161.home" style="background-image: url('/assets/images/buttons/english/tab-binoculars.png');"></a></li>
+                        <!-- todo: need to get the category name and replace spaces with a dash  -->
+                <li class="site-tab-item" id="tab-telescopes"><a href="/All-Telescopes/2162.home" style="background-image: url('/assets/images/buttons/english/tab-telescopes.png');"></a></li>
+                        <!-- todo: need to get the category name and replace spaces with a dash  -->
+                <li class="site-tab-item" id="tab-spottingscopes"><a href="/All-Spotting-Scopes/2163.home" style="background-image: url('/assets/images/buttons/english/tab-spottingscopes.png');"></a></li>
+                        <!-- todo: need to get the category name and replace spaces with a dash  -->
+                <li class="site-tab-item site-tab-text-item" id="tab-community"><a href="/catalog/community.jsp?rootCategoryId=2183"><span>Community</span></a></li>
+                        </ul>
+
+        <div class="cart-info-container new-cart-info-container">
+            <div class="cart-block">
+                <div class="cart-button button" id="widget-but-ucart">
+                    <img src="/assets/images/common/Cart_icon.png" class="cart-icon" id="cart-icon">
+                    <div class="header-cart-info">
+                        <span class="cart-label"><strong>Cart</strong></span>
+                        <div class="cart-info-text" id="widget-ucart-item-count">
+                                <span id="headerItemCount">0</span>
+                                    </div>
+                        </div>
+                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- site-specific header begins -->
+
+    <div class="masthead">
+
+        <!-- contains the site-specific header bkgd image, logo, site tools & search area and the site global nav -->
+
+        <div class="masthead-inner">
+
+            <div class="masthead-logo">
+                <a href="http://www.telescope.com/Orion/2160.home"><img title="Orion Store" src="http://www.telescope.com/assets/images/text/english/orion42-logo.png" border="0" alt="Orion Store"></a></div>
+
+            <div class="masthead-tools logged-out">
+                <div class="masthead-tools-account">
+
+                    <span class="welcome-message" style="display: none">
+                            <a id="account-link" href="/user/main.jsp">My Account</a>&nbsp;|&nbsp;<a id="sign-out-link" href="/user/logout.cmd">Sign Out</a></span>
+                        <a style="display: " class="openAjaxLoginLayer" id="sign-in-link" href="http://www.telescope.com/user/authentication/ajax/layer.jsp">Sign In</a></div>
+                
+                <div class="masthead-tools-mc">
+                    <!-- BEGIN: Header - Managed Content - Global Header 1 -->
+                    <!--%%%%%%%%%%%% QuickMenu Styles [Publish this section to the document head for full validation!] %%%%%%%%%%%-->
 <style type="text/css">
 
 /*!!!!!!!!!!! QuickMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/
-/*[START-QCC]*/.qmclear{}.qmmc:after{content: ".";display:block;height:0px;clear:both;overflow:hidden;}.qmmc div>a, .qmmc dd>a, .qmmc li>a, .qmmc div>span, .qmmc dd>span, .qmmc li>span, .qmmc div, .qmmc dl, .qmmc dd, .qmmc li, .qmmc ul {font-wieght:normal;text-decoration:none;font-family:Arial;font-size:14px;line-height:normal;padding:0px;margin:0px;}.qmmc .qmdivider{display:block;font-size:1px;border-width:0px;border-style:solid;position:relative;z-index:1;}.qmmc .qmdividery{float:left;width:0px;}.qmmc .qmtitle{display:block;cursor:default;white-space:nowrap;position:relative;z-index:1;}.qmmc {position:relative;zoom:1;}.qmmc a, .qmmc li {float:left !important;display:block !important;white-space:nowrap;position:relative;z-index:1;line-height:normal;}.qmmc div a, .qmmc ul a, .qmmc ul li {float:none;}.qmsh div a {float:left;}.qmmc div{visibility:hidden;position:absolute;}.qmmc .qmcbox{cursor:default;display:block;position:relative;z-index:1;}.qmmc .qmcbox a{display:inline;}.qmmc .qmcbox div,.qmmc .qmcbox ul{float:none;position:static;visibility:inherit;left:auto;}.qmmc .qmmulti{float:left;position:relative;}.qmmc .qmmulti dd{margin:0px;padding:0px;}.qmmc dd {position:relative;}.qmmc .qmml0 {z-index:99;}.qmmc .qmml1 {z-index:98;}.qmmc .qmml2 {z-index:97;}.qmmc .qmml3 {z-index:96;}.qmmc .qmml4 {z-index:95;}.qmmc .qmml5 {z-index:94;}.qmmc .qmml6 {z-index:93;}.qmmc .qmml7 {z-index:92;}.qmmc .qmml8 {z-index:91;}.qmmc .qmml9 {z-index:90;}.qmmc li {z-index:auto;}.qmmc ul {visibility:hidden;position:absolute;z-index:10;}.qmmc, .qmmc ul, .qmmc dl {list-style:none;padding:0px;margin:0px;}.qmmc li a {float:none;}.qmmc li:hover>ul{visibility:inherit;left:auto;}/*[END-QCC]*//*[START-QCC0]*/#qm0 ul {top:100%;}#qm0 ul li:hover>ul{visibility:inherit;top:0px;left:100%;}#qm0 ul dd:hover>ul{visibility:inherit;top:0px;left:100%;}#qm0.qmmc, .qmcoreindicator {z-index:9999999;}#qm0 span.qmcbox div, #qm0 span.qmcbox ul, #qm0 span.qmcbox li, #qm0 span.qmcbox span, .qmcoreindicator {border-style:none;border-width:0px;padding:0px;margin:0px;width:auto;height:auto;top:auto;left:auto;white-space:normal;box-shadow:none;border-radius:0px;}/*[END-QCC0]*/
+/*[START-QCC]*/.qmclear{}.qmmc:after{content: ".";display:block;height:0px;clear:both;overflow:hidden;}.qmmc div>a, .qmmc dd>a, .qmmc li>a, .qmmc div>span, .qmmc dd>span, .qmmc li>span, .qmmc div, .qmmc dl, .qmmc dd, .qmmc li, .qmmc ul {font-weight:normal;text-decoration:none;font-family:Arial;font-size:14px;line-height:normal;padding:0px;margin:0px;}.qmmc .qmdivider{display:block;font-size:1px;border-width:0px;border-style:solid;position:relative;z-index:1;}.qmmc .qmdividery{float:left;width:0px;}.qmmc .qmtitle{display:block;cursor:default;white-space:nowrap;position:relative;z-index:1;}.qmmc {position:relative;zoom:1;}.qmmc a, .qmmc li {float:left !important;display:block !important;white-space:nowrap;position:relative;z-index:1;line-height:normal;}.qmmc div a, .qmmc ul a, .qmmc ul li {float:none;}.qmsh div a {float:left;}.qmmc div{visibility:hidden;position:absolute;}.qmmc .qmcbox{cursor:default;display:block;position:relative;z-index:1;}.qmmc .qmcbox a{display:inline;}.qmmc .qmcbox div,.qmmc .qmcbox ul{float:none;position:static;visibility:inherit;left:auto;}.qmmc .qmmulti{float:left;position:relative;}.qmmc .qmmulti dd{margin:0px;padding:0px;}.qmmc dd {position:relative;}.qmmc .qmml0 {z-index:99;}.qmmc .qmml1 {z-index:98;}.qmmc .qmml2 {z-index:97;}.qmmc .qmml3 {z-index:96;}.qmmc .qmml4 {z-index:95;}.qmmc .qmml5 {z-index:94;}.qmmc .qmml6 {z-index:93;}.qmmc .qmml7 {z-index:92;}.qmmc .qmml8 {z-index:91;}.qmmc .qmml9 {z-index:90;}.qmmc li {z-index:auto;}.qmmc ul {visibility:hidden;position:absolute;z-index:10;}.qmmc, .qmmc ul, .qmmc dl {list-style:none;padding:0px;margin:0px;}.qmmc li a {float:none;}.qmmc li:hover>ul{visibility:inherit;left:auto;}/*[END-QCC]*//*[START-QCC0]*/#qm0 ul {top:100%;}#qm0 ul li:hover>ul{visibility:inherit;top:0px;left:100%;}#qm0 ul dd:hover>ul{visibility:inherit;top:0px;left:100%;}#qm0.qmmc, .qmcoreindicator {z-index:9999999;}#qm0 span.qmcbox div, #qm0 span.qmcbox ul, #qm0 span.qmcbox li, #qm0 span.qmcbox span, .qmcoreindicator {border-style:none;border-width:0px;padding:0px;margin:0px;width:auto;height:auto;top:auto;left:auto;white-space:normal;box-shadow:none;border-radius:0px;}/*[END-QCC0]*/
 
 
 /*!!!!!!!!!!! QuickMenu Styles [Please Modify!] !!!!!!!!!!!*/
@@ -641,7 +780,7 @@ background: #ffffff;
 		position: absolute;
 		right: 15px;
 		top: 11px;
-		width: 155px;
+		width: 145px;
 	}
 
 
@@ -652,12 +791,7 @@ background: #ffffff;
 		font-size: 12px;
 		font-weight: normal;
 		padding: 5px 12px;
-		width: 155px;
 	}
-
-	.header-center-content {
-		margin-left: 12px !important;
-        }
 
 
 	/*"""""""" (MAIN) Hover State""""""""*/	
@@ -691,7 +825,7 @@ background: #ffffff;
 		box-shadow: none;
 		margin: 0 0 0 -1px;
 		padding: 0;
-		width: 155px;
+		width: 145px;
 		box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;-khtml-box-shadow:none;
 	}
 
@@ -714,7 +848,7 @@ background: #ffffff;
 		border-width: 0;
 		color: #000000;
 		padding: 4px 17px 4px 12px;
-		width: 126px;
+		width: 116px;
 		text-align: left;
 	}
 	#qm0 a span {display: block; float: left; width: 24px; text-align: left !important;}
@@ -746,20 +880,21 @@ background: #ffffff;
 		background-color:#F3F3F3;
 	}
 
+.cms-mcafee-header {
+padding-top: 27px !important;
+padding-left: 23px !important;
+}
 
 </style>
 <div id="header-cms-links">
 
 <ul id="header_links">
-  <li><a href="/user/main.jsp?src=header">My Account</a></li>
-  <li class="head-bullet"><!-- --></li>
-  <li><a href="/checkout/order_status.jsp?src=header">Order Status</a></li>
-  <li class="head-bullet"><!-- --></li>
+  <li><a href="/checkout/order_status.jsp">Order Status</a></li>
   <li class="live_chat">
   
  <!-- <script type="text/javascript">
 var lhnJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + lhnJsHost + "www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?div=&amp;zimg=0&amp;lhnid=1314&amp;iv=1&amp;iwidth=0&amp;iheight=0&amp;zzwindow=0&amp;d=1783&amp;custom1=&amp;custom2=&amp;custom3=&amp;src=header'type='text/javascript'%3E%3C/script%3E"));</script> -->
+document.write(unescape("%3Cscript src='" + lhnJsHost + "www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?div=&amp;zimg=0&amp;lhnid=1314&amp;iv=1&amp;iwidth=0&amp;iheight=0&amp;zzwindow=0&amp;d=1783&amp;custom1=&amp;custom2=&amp;custom3='type='text/javascript'%3E%3C/script%3E"));</script> -->
 	<script type="text/javascript">
 		var lhnAccountN = "1314-1";
 		var lhnButtonN = 0;
@@ -772,60 +907,52 @@ document.write(unescape("%3Cscript src='" + lhnJsHost + "www.livehelpnow.net/lhn
 
 
 	<a onclick="javascript:OpenLHNChat();return false;" href="#">Chat</a></li>
-  <li class="head-bullet"><!-- --></li>
-  <li><a href="/custserv/custserv.jsp?src=header">Help</a></li>
-  <li class="head-bullet"><!-- --></li>
-  <li><a href="/custserv/custserv.jsp?pageName=OrderingAndPayment&amp;src=header">Order 24/7</a></li>
-  <li class="phone">&nbsp;&nbsp;800-447-1001</li>
+  <li><a href="/custserv/custserv.jsp">Help</a></li>
+  <li class="order247 tab-suppress"><a href="/custserv/custserv.jsp?pageName=OrderingAndPayment">Order 24/7</a></li>
+  <li class="phone tab-suppress"><span class="tel">800-447-1001</span></li>
 </ul>
+
+
+</div>
+
+<div id="header-l18n" class="tab-suppress">
 <ul id="qm0" class="qmmc">
-	<li><a href="http://www.telescope.com/home.jsp?src=headerdrop1&amp;geolocate=no" style="color:#000 !important;"><span><img src="/assets/images/eu/common/flag_us.png" alt="US - English - USD" title="US - English - USD"> / <img src="/assets/images/eu/common/flag_canada.png" alt="US - English - USD" title="US - English - USD">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>English&nbsp;&nbsp;&nbsp;USD&nbsp;&nbsp;<img style="position: relative; top: -2px; left: 2px;" src="http://eu.telescope.com/assets/images/eu/common/arrow_down.png" alt="Arrow Down"></a>
+	<li><a href="http://www.telescope.com"><span><img src="/assets/images/eu/common/flag_us.png" alt="US - English - USD" title="US - English - USD">&nbsp;</span>English&nbsp;&nbsp;&nbsp;USD&nbsp;&nbsp;<img style="position: relative; top: -2px; left: 2px;" src="/assets/images/eu/common/arrow_down.png" alt="Arrow Down"></a>
 		<ul>
-		<li><a href="http://eu.telescope.com?src=headerdrop3&amp;geolocate=no" style="color:#000 !important;"><span><img src="/assets/images/eu/common/flag_eu.png" alt="EU - English - EUR" title="EU - English - EUR">&nbsp;</span>English&nbsp;&nbsp;&nbsp;EUR</a></li>
-		<li><a href="http://de.telescope.com?src=headerdrop4&amp;geolocate=no" style="color:#000 !important;"><span><img src="/assets/images/eu/common/flag_germany.png" alt="DE - German - EUR" title="DE - German - EUR">&nbsp;</span>German&nbsp;&nbsp;&nbsp;EUR</a></li>
-		<li><a href="http://fr.telescope.com?src=headerdrop5&amp;geolocate=no" style="color:#000 !important;"><span><img src="/assets/images/eu/common/flag_france.png" alt="FR - French - EUR" title="FR - French - EUR">&nbsp;</span>French&nbsp;&nbsp;&nbsp;EUR</a></li>
-		<li><a href="http://uk.telescope.com?src=headerdrop6&amp;geolocate=no" style="color:#000 !important;"><span><img src="/assets/images/eu/common/flag_uk.png" alt="UK - English - GBP" title="UK - English - GBP">&nbsp;</span>English&nbsp;&nbsp;&nbsp;GBP</a></li>
+		<li><a href="http://www.telescope.com"><span><img src="/assets/images/eu/common/flag_canada.png" alt="CA - English - USD" title="CA - English - USD">&nbsp;</span>English&nbsp;&nbsp;&nbsp;USD</a></li>
+		<li><a href="http://eu.telescope.com"><span><img src="/assets/images/eu/common/flag_eu.png" alt="EU - English - EUR" title="EU - English - EUR">&nbsp;</span>English&nbsp;&nbsp;&nbsp;EUR</a></li>
+		<li><a href="http://de.telescope.com"><span><img src="/assets/images/eu/common/flag_germany.png" alt="DE - German - EUR" title="DE - German - EUR">&nbsp;</span>German&nbsp;&nbsp;&nbsp;EUR</a></li>
+		<li><a href="http://fr.telescope.com"><span><img src="/assets/images/eu/common/flag_france.png" alt="FR - French - EUR" title="FR - French - EUR">&nbsp;</span>French&nbsp;&nbsp;&nbsp;EUR</a></li>
+		<li><a href="http://uk.telescope.com"><span><img src="/assets/images/eu/common/flag_uk.png" alt="UK - English - GBP" title="UK - English - GBP">&nbsp;</span>English&nbsp;&nbsp;&nbsp;GBP</a></li>
 		</ul>
 	</li>
 </ul>
-
 </div><!-- END Header - Managed Content - Global Header 1 -->
-            <div class="clr"></div>
-
-            <div class="signin-container">
-                <span class="welcome-message" style="display: none">
-                    Welcome&nbsp;
-                    <span class="user-name">
-                    </span>&nbsp;&nbsp;
-                    <a class="arrowLink" id="sign-out-link" href="/user/logout.cmd">Sign Out</a></span>
-                <a style="display: " class="arrowLink" id="sign-in-link" href="https://www.telescope.com/user/login.jsp">Sign In</a></div>
-            <div class="cart-search-keyword-container">
-                <form id="headerSearchForm" action="/catalog/search.cmd" method="get" name="searchForm" onsubmit="return doSearchValidation(this);"><input type="hidden" name="form_state" value="searchForm"><input name="siteCode" type="hidden" value="US"><input class="keyword-text" id="keyword" onblur="doSearchBlur(this)" onfocus="doSearchFocus(this)" name="keyword" type="text" value="Enter keyword or product number" size="12" maxlength="40"><div class="search-button button">
-                        <img class="show-on-print" src="http://www.telescope.com/assets/images/buttons/english/btn_search_off.jpg"><input class="common-form-btn" type="submit" value="Search"></div>
-                    <div class="clr"></div>
-                </form></div>
-        </div>
-    </div>
-    <div class="shop-info-container">
-        <div id="cartLeftShadow"></div>
-        <div class="cart-info-container">
-            <div class="cart-block">
-                <div class="cart-button button" id="widget-but-ucart">
-                    <img class="fl" id="cart-icon" src="http://www.telescope.com/assets/images/common/ico-cart.gif"><div class="header-cart-info">
-                        <a class="arrowLink" href="javascript:void(0);"><strong>Shopping Cart</strong></a><div class="cart-info-text" id="widget-ucart-item-count">
-                                <span id="headerItemCount">0</span>&nbsp;item(s)</div>
-                        </div>
                 </div>
-                <div class="clr"></div>
-            </div>
-        </div>
 
-        <!-- START SCANALERT CODE -->
-        <div class="header-mcafee">
-        	<style type="text/css">
+
+                <div class="masthead-tools-search">
+                    <form id="headerSearchForm" action="/catalog/search.cmd" method="get" name="searchForm" onsubmit="return doSearchValidation(this);"><input type="hidden" name="form_state" value="searchForm"><input name="siteCode" type="hidden" value="US"><input class="keyword-text" id="keyword" onblur="doSearchBlur(this)" onfocus="doSearchFocus(this)" name="keyword" type="text" value="Enter keyword or product number" size="12" maxlength="40"><div class="search-button button">
+                            <img class="" id="search-form-submit" src="http://www.telescope.com/assets/images/buttons/english/ico-search.png"><input class="common-form-btn" type="submit" value="Search"></div>
+                        <div class="clr"></div>
+                    </form><script type="text/javascript">
+                            jQuery(document).ready(function($) {
+                                $('#search-form-submit').click(function(e) {
+                                    e.preventDefault();
+                                    $('#headerSearchForm').submit();
+                                 });
+                            });
+                        </script>
+
+                    </div>
+
+            </div>
+
+            <div class="masthead-mcafee">
+                <style type="text/css">
 .cms-mcafee-header {
-padding-left: 20px !important;
-padding-top: 9px !important;
+position:absolute;
+left:-16px;
 }
 </style>
 
@@ -838,20 +965,19 @@ padding-top: 9px !important;
 <div class="cms-mcafee-header">
 <a href="javascript:openScanAlert()"><img height="32" border="0" width="115" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="//images.scanalert.com/meter/survey/www.telescope.com/12.gif"></a>
 </div></div>
-        <!-- END SCANALERT CODE -->
-    </div>
-    <div class="clr"><!-- --></div>
 
-</div>
+        </div>
 
-<div class="common-nav-main">
-        <table cellpadding="0" cellspacing="0" style="margin:0;">
-            <tbody><tr>
-                <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Telescopes/1.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_telescopes.jpg" border="0" alt="Telescopes"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
 
-                                    <div class="cat-level2 first">
+
+
+        <div class="nav">
+                <ul class="category-nav">
+
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Telescopes/rc/2160/1.uts">Telescopes</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 first" style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -860,77 +986,77 @@ padding-top: 9px !important;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Telescopes/1.uts">
-																   See All Telescopes</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Telescopes/rc/2160/1.uts">
+                                                            See All Telescopes</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Sale-Telescopes/pc/1/378.uts">Sale Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Sale-Telescopes/rc/2160/pc/1/378.uts">Sale Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/New-Telescopes/pc/1/315.uts">New Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/New-Telescopes/rc/2160/pc/1/315.uts">New Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Telescope-Kits/pc/1/1776.uts">Telescope Kits</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Telescope-Kits/rc/2160/pc/1/1776.uts">Telescope Kits</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Best-Telescopes-for-Kids/pc/1/459.uts">Best Telescopes for Kids</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Best-Telescopes-for-Kids/rc/2160/pc/1/459.uts">Best Telescopes for Kids</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Refractor-Telescopes/pc/1/10.uts">Refractor Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Refractor-Telescopes/rc/2160/pc/1/10.uts">Refractor Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Reflector-Telescopes/pc/1/11.uts">Reflector Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Reflector-Telescopes/rc/2160/pc/1/11.uts">Reflector Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Dobsonian-Telescopes/pc/1/12.uts">Dobsonian Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Dobsonian-Telescopes/rc/2160/pc/1/12.uts">Dobsonian Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Cassegrain-Telescopes/pc/1/14.uts">Cassegrain Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Cassegrain-Telescopes/rc/2160/pc/1/14.uts">Cassegrain Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/GoTo-Computerized-Telescopes/pc/1/15.uts">GoTo &amp; Computerized Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/GoTo-Computerized-Telescopes/rc/2160/pc/1/15.uts">GoTo &amp; Computerized Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Build-A-Scope-Telescopes/pc/1/321.uts">Build-A-Scope Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Build-A-Scope-Telescopes/rc/2160/pc/1/321.uts">Build-A-Scope Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/TableTop-Telescopes/pc/1/416.uts">TableTop Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/TableTop-Telescopes/rc/2160/pc/1/416.uts">TableTop Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Spotting-Scopes/pc/1/16.uts">Spotting Scopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Spotting-Scopes/rc/2160/pc/1/16.uts">Spotting Scopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Solar-Telescopes/pc/1/17.uts">Solar Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Solar-Telescopes/rc/2160/pc/1/17.uts">Solar Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Telescope-Optical-Tube-Assemblies/pc/1/18.uts">Telescope Optical Tube Assemblies</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Telescope-Optical-Tube-Assemblies/rc/2160/pc/1/18.uts">Telescope Optical Tube Assemblies</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Astrophotography-Telescopes/pc/1/19.uts">Astrophotography Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Astrophotography-Telescopes/rc/2160/pc/1/19.uts">Astrophotography Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Guide-Scopes/pc/1/20.uts">Guide Scopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Guide-Scopes/rc/2160/pc/1/20.uts">Guide Scopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Beginner-Telescopes/pc/1/21.uts">Beginner Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Beginner-Telescopes/rc/2160/pc/1/21.uts">Beginner Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Intermediate-Telescopes/pc/1/22.uts">Intermediate Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Intermediate-Telescopes/rc/2160/pc/1/22.uts">Intermediate Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Advanced-Telescopes/pc/1/23.uts">Advanced Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Advanced-Telescopes/rc/2160/pc/1/23.uts">Advanced Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Expert-Telescopes/pc/1/24.uts">Expert Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Expert-Telescopes/rc/2160/pc/1/24.uts">Expert Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Great-Telescopes-Under-200/pc/1/25.uts">Great Telescopes Under $200</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Great-Telescopes-Under-200/rc/2160/pc/1/25.uts">Great Telescopes Under $200</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Telescopes-with-Free-Shipping/pc/1/465.uts">Telescopes with Free Shipping</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Telescopes-with-Free-Shipping/rc/2160/pc/1/465.uts">Telescopes with Free Shipping</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Telescopes/Best-Telescopes-for-Comets/pc/1/475.uts">Best Telescopes for Comets</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Telescopes/Best-Telescopes-for-Comets/rc/2160/pc/1/475.uts">Best Telescopes for Comets</a></li>
 
                                                     </ul>
                                             </div>
@@ -942,12 +1068,12 @@ padding-top: 9px !important;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Mounts-Tripods/2.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_mounts_and_tripods.jpg" border="0" alt="Mounts &amp; Tripods"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </li>
 
-                                    <div class="cat-level2 ">
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Mounts-Tripods/rc/2160/2.uts">Mounts &amp; Tripods</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -956,26 +1082,35 @@ padding-top: 9px !important;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Mounts-Tripods/2.uts">
-																   See All Mounts &amp; Tripods</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Mounts-Tripods/rc/2160/2.uts">
+                                                            See All Mounts &amp; Tripods</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Mounts-Tripods/New-Mounts-and-Tripods/pc/2/319.uts">New Mounts and Tripods</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Sale-Mounts-Tripods/rc/2160/pc/2/379.uts">Sale Mounts &amp; Tripods</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Mounts-Tripods/Equatorial-Mounts-Tripods/pc/2/34.uts">Equatorial Mounts &amp; Tripods</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/New-Mounts-and-Tripods/rc/2160/pc/2/319.uts">New Mounts and Tripods</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Mounts-Tripods/Altazimuth-Mounts-Tripods/pc/2/35.uts">Altazimuth Mounts &amp; Tripods</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Equatorial-Mounts-Tripods/rc/2160/pc/2/34.uts">Equatorial Mounts &amp; Tripods</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Mounts-Tripods/GoTo-Mounts-Tripods/pc/2/36.uts">GoTo Mounts &amp; Tripods</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Altazimuth-Mounts-Tripods/rc/2160/pc/2/35.uts">Altazimuth Mounts &amp; Tripods</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Mounts-Tripods/Photographic-Tripods/pc/2/37.uts">Photographic Tripods</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/GoTo-Mounts-Tripods/rc/2160/pc/2/36.uts">GoTo Mounts &amp; Tripods</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Mounts-Tripods/Mount-Tripod-Accessories/pc/2/38.uts">Mount &amp; Tripod Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Photographic-Tripods/rc/2160/pc/2/37.uts">Photographic Tripods</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Mount-Tripod-Accessories/rc/2160/pc/2/38.uts">Mount &amp; Tripod Accessories</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Monopods/rc/2160/pc/2/1910.uts">Monopods</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Mounts-Tripods/Field-Travel-Tripods/rc/2160/pc/2/2096.uts">Field &amp; Travel Tripods</a></li>
 
                                                     </ul>
                                             </div>
@@ -987,12 +1122,12 @@ padding-top: 9px !important;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Accessories/3.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_accessories.jpg" border="0" alt="Accessories"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </li>
 
-                                    <div class="cat-level2 ">
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Accessories/rc/2160/3.uts">Accessories</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -1001,74 +1136,74 @@ padding-top: 9px !important;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Accessories/3.uts">
-																   See All Accessories</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Accessories/rc/2160/3.uts">
+                                                            See All Accessories</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Sale-Accessories/pc/3/361.uts">Sale Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Sale-Accessories/rc/2160/pc/3/361.uts">Sale Accessories</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/New-Accessories/pc/3/317.uts">New Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/New-Accessories/rc/2160/pc/3/317.uts">New Accessories</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Accessory-Kits/pc/3/1779.uts">Accessory Kits</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Accessory-Kits/rc/2160/pc/3/1779.uts">Accessory Kits</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Adapters-Cables/pc/3/40.uts">Adapters &amp; Cables</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Adapters-Cables/rc/2160/pc/3/40.uts">Adapters &amp; Cables</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Barlow-Lenses/pc/3/41.uts">Barlow Lenses</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Barlow-Lenses/rc/2160/pc/3/41.uts">Barlow Lenses</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Books/pc/3/42.uts">Books</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Books/rc/2160/pc/3/42.uts">Books</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Cases-Telescope-Covers/pc/3/43.uts">Cases &amp; Telescope Covers</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Cases-Telescope-Covers/rc/2160/pc/3/43.uts">Cases &amp; Telescope Covers</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Dew-Control/pc/3/44.uts">Dew Control</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Dew-Control/rc/2160/pc/3/44.uts">Dew Control</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Diagonals/pc/3/45.uts">Telescope Diagonals</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Diagonals/rc/2160/pc/3/45.uts">Telescope Diagonals</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Drives-Controllers/pc/3/46.uts">Telescope Drives &amp; Controllers</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Drives-Controllers/rc/2160/pc/3/46.uts">Telescope Drives &amp; Controllers</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Eyepieces/pc/3/47.uts">Telescope Eyepieces</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Eyepieces/rc/2160/pc/3/47.uts">Telescope Eyepieces</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Eyepiece-Filters/pc/3/48.uts">Telescope &amp; Eyepiece Filters</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Eyepiece-Filters/rc/2160/pc/3/48.uts">Telescope &amp; Eyepiece Filters</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Finder-Scopes/pc/3/49.uts">Telescope Finder Scopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Finder-Scopes/rc/2160/pc/3/49.uts">Telescope Finder Scopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Flashlights/pc/3/50.uts">Flashlights</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Flashlights/rc/2160/pc/3/50.uts">Flashlights</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Focusers/pc/3/51.uts">Telescope Focusers</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Focusers/rc/2160/pc/3/51.uts">Telescope Focusers</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Astronomical-Maps-Charts/pc/3/52.uts">Astronomical Maps &amp; Charts</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Astronomical-Maps-Charts/rc/2160/pc/3/52.uts">Astronomical Maps &amp; Charts</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Observing-Gear/pc/3/53.uts">Observing Gear</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Observing-Gear/rc/2160/pc/3/53.uts">Observing Gear</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Telescope-Tune-Up/pc/3/54.uts">Telescope Tune-Up</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Telescope-Tune-Up/rc/2160/pc/3/54.uts">Telescope Tune-Up</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Astronomy-Software-DVDs/pc/3/55.uts">Astronomy Software &amp; DVDs</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Astronomy-Software-DVDs/rc/2160/pc/3/55.uts">Astronomy Software &amp; DVDs</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Power-Supplies-Cables/pc/3/396.uts">Power Supplies &amp; Cables</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Power-Supplies-Cables/rc/2160/pc/3/396.uts">Power Supplies &amp; Cables</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Smart-Device-Accessories/pc/3/446.uts">Smart Device Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Smart-Device-Accessories/rc/2160/pc/3/446.uts">Smart Device Accessories</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Accessories/Best-Accessories-for-Comets/pc/3/476.uts">Best Accessories for Comets</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Accessories/Best-Accessories-for-Comets/rc/2160/pc/3/476.uts">Best Accessories for Comets</a></li>
 
                                                     </ul>
                                             </div>
@@ -1080,12 +1215,12 @@ padding-top: 9px !important;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Astrophotography/4.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_astrophotography.jpg" border="0" alt="Astrophotography"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </li>
 
-                                    <div class="cat-level2 ">
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Astrophotography/rc/2160/4.uts">Astrophotography</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -1094,44 +1229,44 @@ padding-top: 9px !important;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Astrophotography/4.uts">
-																   See All Astrophotography</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Astrophotography/rc/2160/4.uts">
+                                                            See All Astrophotography</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Sale-Astrophotography/pc/4/380.uts">Sale Astrophotography</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Sale-Astrophotography/rc/2160/pc/4/380.uts">Sale Astrophotography</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/New-Astrophotography-Products/pc/4/318.uts">New Astrophotography Products</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/New-Astrophotography-Products/rc/2160/pc/4/318.uts">New Astrophotography Products</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Astrophotography-Kits/pc/4/1782.uts">Astrophotography Kits</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Astrophotography-Kits/rc/2160/pc/4/1782.uts">Astrophotography Kits</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Astrophotography-Telescopes/pc/4/19.uts">Astrophotography Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Astrophotography-Telescopes/rc/2160/pc/4/19.uts">Astrophotography Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Astrophotography-Cameras/pc/4/58.uts">Astrophotography Cameras</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Astrophotography-Cameras/rc/2160/pc/4/58.uts">Astrophotography Cameras</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Astrophotography-Solutions/pc/4/59.uts">Astrophotography Solutions</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Astrophotography-Solutions/rc/2160/pc/4/59.uts">Astrophotography Solutions</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Autoguiding-Solutions/pc/4/60.uts">Autoguiding Solutions</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Autoguiding-Solutions/rc/2160/pc/4/60.uts">Autoguiding Solutions</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Astrophotography-Accessories/pc/4/61.uts">Astrophotography Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Astrophotography-Accessories/rc/2160/pc/4/61.uts">Astrophotography Accessories</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Camera-Adapters-T-Rings/pc/4/62.uts">Camera Adapters &amp; T-Rings</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Camera-Adapters-T-Rings/rc/2160/pc/4/62.uts">Camera Adapters &amp; T-Rings</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Astrophotography-Filters/pc/4/63.uts">Astrophotography Filters</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Astrophotography-Filters/rc/2160/pc/4/63.uts">Astrophotography Filters</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Focal-Reducers-and-Field-Flatteners/pc/4/64.uts">Focal Reducers and Field Flatteners</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Focal-Reducers-and-Field-Flatteners/rc/2160/pc/4/64.uts">Focal Reducers and Field Flatteners</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Astrophotography/Video-Astrophotography/pc/4/448.uts">Video Astrophotography</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Astrophotography/Video-Astrophotography/rc/2160/pc/4/448.uts">Video Astrophotography</a></li>
 
                                                     </ul>
                                             </div>
@@ -1143,12 +1278,12 @@ padding-top: 9px !important;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Binoculars/5.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_binoculars.jpg" border="0" alt="Binoculars"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </li>
 
-                                    <div class="cat-level2 ">
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Binoculars/rc/2160/5.uts">Binoculars</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -1157,56 +1292,56 @@ padding-top: 9px !important;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Binoculars/5.uts">
-																   See All Binoculars</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Binoculars/rc/2160/5.uts">
+                                                            See All Binoculars</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Sale-Binoculars/pc/5/390.uts">Sale Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Sale-Binoculars/rc/2160/pc/5/390.uts">Sale Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/New-Binoculars/pc/5/316.uts">New Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/New-Binoculars/rc/2160/pc/5/316.uts">New Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Binocular-Kits/pc/5/1785.uts">Binocular Kits</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Binocular-Kits/rc/2160/pc/5/1785.uts">Binocular Kits</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Compact-Binoculars/pc/5/66.uts">Compact Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Compact-Binoculars/rc/2160/pc/5/66.uts">Compact Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Standard-Size-Binoculars/pc/5/67.uts">Standard Size Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Standard-Size-Binoculars/rc/2160/pc/5/67.uts">Standard Size Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Big-Binoculars/pc/5/68.uts">Big Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Big-Binoculars/rc/2160/pc/5/68.uts">Big Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Waterproof-Binoculars/pc/5/69.uts">Waterproof Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Waterproof-Binoculars/rc/2160/pc/5/69.uts">Waterproof Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Sport-Hunting-Binoculars/pc/5/70.uts">Sport &amp; Hunting Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Sport-Hunting-Binoculars/rc/2160/pc/5/70.uts">Sport &amp; Hunting Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Birding-Binoculars/pc/5/71.uts">Birding Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Birding-Binoculars/rc/2160/pc/5/71.uts">Birding Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Astronomy-Binoculars/pc/5/72.uts">Astronomy Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Astronomy-Binoculars/rc/2160/pc/5/72.uts">Astronomy Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Monoculars/pc/5/73.uts">Monoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Monoculars/rc/2160/pc/5/73.uts">Monoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Binocular-Accessories/pc/5/75.uts">Binocular Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Binocular-Accessories/rc/2160/pc/5/75.uts">Binocular Accessories</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Great-Binoculars-Under-100/pc/5/76.uts">Great Binoculars Under $100</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Great-Binoculars-Under-100/rc/2160/pc/5/76.uts">Great Binoculars Under $100</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Binoculars-with-Free-Shipping/pc/5/466.uts">Binoculars with Free Shipping</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Binoculars-with-Free-Shipping/rc/2160/pc/5/466.uts">Binoculars with Free Shipping</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Best-Binoculars-for-Comets/pc/5/477.uts">Best Binoculars for Comets</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Best-Binoculars-for-Comets/rc/2160/pc/5/477.uts">Best Binoculars for Comets</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Binoculars/Marine-Binoculars/pc/5/1755.uts">Marine Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Binoculars/Marine-Binoculars/rc/2160/pc/5/1755.uts">Marine Binoculars</a></li>
 
                                                     </ul>
                                             </div>
@@ -1218,12 +1353,12 @@ padding-top: 9px !important;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Sale/6.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_clearance_center.jpg" border="0" alt="Sale"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </li>
 
-                                    <div class="cat-level2 ">
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Sale/rc/2160/6.uts">Sale</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -1232,32 +1367,35 @@ padding-top: 9px !important;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Sale/6.uts">
-																   See All Sale</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Sale/rc/2160/6.uts">
+                                                            See All Sale</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Red-Tag-Sale/pc/6/397.uts">Red Tag Sale</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Red-Tag-Sale/rc/2160/pc/6/397.uts">Red Tag Sale</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/DealZone/pc/6/1724.uts">DealZone</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/DealZone/rc/2160/pc/6/1724.uts">DealZone</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Sale-Telescopes/pc/6/378.uts">Sale Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Sale-Telescopes/rc/2160/pc/6/378.uts">Sale Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Sale-Accessories/pc/6/361.uts">Sale Accessories</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Sale-Mounts-Tripods/rc/2160/pc/6/379.uts">Sale Mounts &amp; Tripods</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Sale-Astrophotography/pc/6/380.uts">Sale Astrophotography</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Sale-Accessories/rc/2160/pc/6/361.uts">Sale Accessories</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Sale-Binoculars/pc/6/390.uts">Sale Binoculars</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Sale-Astrophotography/rc/2160/pc/6/380.uts">Sale Astrophotography</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Sale-Gifts/pc/6/381.uts">Sale Gifts</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Sale-Binoculars/rc/2160/pc/6/390.uts">Sale Binoculars</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Sale/Clearance-Center/pc/6/777.uts">Clearance Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Sale/Sale-Gifts/rc/2160/pc/6/381.uts">Sale Gifts</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Sale/Clearance-Center/rc/2160/pc/6/777.uts">Clearance Center</a></li>
 
                                                     </ul>
                                             </div>
@@ -1293,12 +1431,12 @@ text-decoration:underline;
                                     </a></div><a>
 
                                 </a></div><a>
-                            </a></td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Gift-Center/7.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_gift_center.jpg" border="0" alt="Gift Center"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </a></li><a>
 
-                                    <div class="cat-level2 ">
+                    </a><li class="category-nav-item"><a>
+                                </a><a class="cat-level1" href="http://www.telescope.com/Orion/Gift-Center/rc/2160/7.uts">Gift Center</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -1307,62 +1445,71 @@ text-decoration:underline;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Gift-Center/7.uts">
-																   See All Gift Center</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Gift-Center/rc/2160/7.uts">
+                                                            See All Gift Center</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Free-Gift-with-Purchase-of-Select-Telescopes/pc/7/1706.uts">Free Gift with Purchase of Select Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Free-Shipping-on-Select-Products/rc/2160/pc/7/471.uts">Free Shipping on Select Products</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Free-Solar-Guide-Solar-Viewers/pc/7/1705.uts">Free Solar Guide &amp; Solar Viewers</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Bonus-Gift-with-Purchase-of-Select-Telescopes/rc/2160/pc/7/1821.uts">Bonus Gift with Purchase of Select Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Dads-Grads/pc/7/449.uts">Dads &amp; Grads</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/New-Low-Prices-on-Astrophotography-Gear/rc/2160/pc/7/449.uts">New Low Prices on Astrophotography Gear</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Best-Telescopes-for-Kids/pc/7/459.uts">Best Telescopes for Kids</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Best-Telescopes-for-Kids/rc/2160/pc/7/459.uts">Best Telescopes for Kids</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Great-Binoculars-Under-100/pc/7/76.uts">Great Binoculars Under $100</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Great-Binoculars-Under-100/rc/2160/pc/7/76.uts">Great Binoculars Under $100</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Great-Telescopes-Under-200/pc/7/25.uts">Great Telescopes Under $200</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Great-Telescopes-Under-200/rc/2160/pc/7/25.uts">Great Telescopes Under $200</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Beginner-Telescopes/pc/7/21.uts">Beginner Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Beginner-Telescopes/rc/2160/pc/7/21.uts">Beginner Telescopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Great-Gifts-for-Families/pc/7/417.uts">Great Gifts for Families</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Great-Gifts-for-Families/rc/2160/pc/7/417.uts">Great Gifts for Families</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Gift-Ideas-Under-50/pc/7/326.uts">Gift Ideas Under $50</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Gift-Ideas-Under-50/rc/2160/pc/7/326.uts">Gift Ideas Under $50</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Gift-Ideas-Under-100/pc/7/327.uts">Gift Ideas Under $100</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Gift-Ideas-Under-100/rc/2160/pc/7/327.uts">Gift Ideas Under $100</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Gift-Ideas-Under-150/pc/7/328.uts">Gift Ideas Under $150</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Gift-Ideas-Under-150/rc/2160/pc/7/328.uts">Gift Ideas Under $150</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Save-Kits-Bundles/pc/7/395.uts">Save! Kits &amp; Bundles</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Orion-Gear/rc/2160/pc/7/322.uts">Orion Gear</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Microscopes/pc/7/85.uts">Microscopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Save-Kits-Bundles/rc/2160/pc/7/395.uts">Save! Kits &amp; Bundles</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Sun-Spot/pc/7/483.uts">Sun Spot</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Sale-Gifts/rc/2160/pc/7/381.uts">Sale Gifts</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/In-the-Eyepiece/pc/7/776.uts">In the Eyepiece</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Microscopes/rc/2160/pc/7/85.uts">Microscopes</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Best-Lunar-and-Planetary-Telescopes/pc/7/783.uts">Best Lunar and Planetary Telescopes</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Comet-Central/rc/2160/pc/7/474.uts">Comet Central</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Magnifying-Glasses/pc/7/1747.uts">Magnifying Glasses</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Sun-Spot/rc/2160/pc/7/483.uts">Sun Spot</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Gift-Center/Sky-and-Tel-Awards/pc/7/1767.uts">Sky and Tel Awards</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/In-the-Eyepiece/rc/2160/pc/7/776.uts">In the Eyepiece</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Best-Lunar-and-Planetary-Telescopes/rc/2160/pc/7/783.uts">Best Lunar and Planetary Telescopes</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Magnifying-Glasses/rc/2160/pc/7/1747.uts">Magnifying Glasses</a></li>
+
+                                                    <li class="category-label-container">
+                                                            <a href="http://www.telescope.com/Orion/Gift-Center/Sky-and-Tel-Awards/rc/2160/pc/7/1767.uts">Sky and Tel Awards</a></li>
 
                                                     </ul>
                                             </div>
@@ -1374,12 +1521,12 @@ text-decoration:underline;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                                <a class="cat-level1" href="http://www.telescope.com/Shop-by-Brand/8.uts"><img class="catName" name="luxury_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_shop_by_brand.jpg" border="0" alt="Shop by Brand"></a><div class="cover-border"><!-- --></div>
-                                <div class="cat-level2par">
+                            </li>
 
-                                    <div class="cat-level2 ">
+                    <li class="category-nav-item">
+                                <a class="cat-level1" href="http://www.telescope.com/Orion/Shop-by-Brand/rc/2160/8.uts">Shop by Brand</a><div class="cat-level2par">
+
+                                    <div class="cat-level2 " style="margin-left: -10px;">
                                         <div class="cat-level2-inner fl">
                                             <div class="contentArea">
                                                 </div>
@@ -1388,47 +1535,47 @@ text-decoration:underline;
                                                     </ul>
                                             <div class="linkgroup">
                                                 <ul>
-													 <li class="category-label-container ipadsectiontitle">
-	                                                        <a class="cat-level1" href="http://www.telescope.com/Shop-by-Brand/8.uts">
-																   See All Shop by Brand</a></li>
+                                                    <li class="category-label-container ipadsectiontitle">
+                                                        <a class="cat-level1" href="http://www.telescope.com/Orion/Shop-by-Brand/rc/2160/8.uts">
+                                                            See All Shop by Brand</a></li>
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Orion-Product-Center/pc/8/90.uts">Orion Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Orion-Product-Center/rc/2160/pc/8/90.uts">Orion Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Alpen-Product-Center/pc/8/1568.uts">Alpen Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Alpen-Product-Center/rc/2160/pc/8/1568.uts">Alpen Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Barska-Product-Center/pc/8/1577.uts">Barska Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Barska-Product-Center/rc/2160/pc/8/1577.uts">Barska Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Bushnell-Product-Center/pc/8/91.uts">Bushnell Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Bushnell-Product-Center/rc/2160/pc/8/91.uts">Bushnell Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Celestron-Product-Center/pc/8/92.uts">Celestron Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Celestron-Product-Center/rc/2160/pc/8/92.uts">Celestron Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Leica-Product-Center/pc/8/1608.uts">Leica Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Leica-Product-Center/rc/2160/pc/8/1608.uts">Leica Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Meade-Coronado-Product-Center/pc/8/93.uts">Meade Coronado Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Meade-Coronado-Product-Center/rc/2160/pc/8/93.uts">Meade Coronado Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Nikon-Product-Center/pc/8/1631.uts">Nikon Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Nikon-Product-Center/rc/2160/pc/8/1631.uts">Nikon Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Pentax-Product-Center/pc/8/1639.uts">Pentax Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Pentax-Product-Center/rc/2160/pc/8/1639.uts">Pentax Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Starry-Night-Product-Center/pc/8/94.uts">Starry Night Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Starry-Night-Product-Center/rc/2160/pc/8/94.uts">Starry Night Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Steiner-Product-Center/pc/8/1647.uts">Steiner Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Steiner-Product-Center/rc/2160/pc/8/1647.uts">Steiner Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Tele-Vue-Product-Center/pc/8/95.uts">Tele Vue Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Tele-Vue-Product-Center/rc/2160/pc/8/95.uts">Tele Vue Product Center</a></li>
 
                                                     <li class="category-label-container">
-                                                            <a href="http://www.telescope.com/Shop-by-Brand/Zeiss-Product-Center/pc/8/1663.uts">Zeiss Product Center</a></li>
+                                                            <a href="http://www.telescope.com/Orion/Shop-by-Brand/Zeiss-Product-Center/rc/2160/pc/8/1663.uts">Zeiss Product Center</a></li>
 
                                                     </ul>
                                             </div>
@@ -1440,212 +1587,39 @@ text-decoration:underline;
                                     </div>
 
                                 </div>
-                            </td>
-                        <td>
-                    <a class="cat-level1" href="/catalog/community.jsp"><img class="catName" name="community_img" src="http://www.telescope.com/assets/images/navigation/english/navbar_2013_07/hn_community.jpg" border="0" alt="Community"></a><div class="cover-border"><!-- --></div>
-                    <div class="cat-level2par">
-                        <div id="cat-community" class="cat-level2">
-                            <div class="cat-level2-inner" style="float:left;">
-                                <div class="contentArea">
-                                    </div>
-                                <div class="clr"><!--//--></div>
-                                <div class="closedropdown ipad"><!-- keep --></div>
-                                <div class="linkgroup">
-	                                <ul>
-	                                    <li class="category-label-container">
-                                                    <a href="/Articles/com/9.uts">Articles</a></li>
-	                                        <li class="category-label-container">
-                                                    <a href="/Image-Gallery/com/189.uts">Image Gallery</a></li>
-	                                        <li class="category-label-container">
-                                                    <a href="/Video-Gallery/com/190.uts">Video Gallery</a></li>
-	                                        <li class="category-label-container">
-                                                    <a href="/Product-Support/com/191.uts">Product Support</a></li>
-	                                        <li class="category-label-container">
-                                                    <a href="/Buying-Guides/com/440.uts">Buying Guides</a></li>
-	                                        <li class="category-label-container">
-                                                    <a href="/Getting-Started/com/460.uts">Getting Started</a></li>
-	                                        </ul>
-                                </div>
-                                <div class="clr"><!--//--></div>
-                                <div class="contentArea">
-                                    <style>
-.addamenuitem {
-padding:5px 13px;
-font-family:Arial,Verdana,Helvetica,sans-serif;
-font-size:11px;
-color:#006699 !important;
-}
+                            </li>
 
-.addamenuitem a {
-color:#006699 !important;
-text-decoration:none; 
-}
+                    </ul>
 
-.addamenuitem a:visited {
-color:#006699 !important;
-text-decoration:none; 
-}
 
-.addamenuitem a:hover {
-color:#006699;
-text-decoration:underline; 
-}
+            </div>
+        <div>
+                </div>
+
+
+
+    </div>
+
+    <div id="signInLayerWrapper" style="display:none;">
+        </div>
+
+    <!-- site-specific header ends -->
+
+</div>
+
+
+<!-- end include header tabs -->
+        <div style="margin-top: 12px;">
+        <!-- BEGIN: Header - Managed Content - Promotions -->
+        <link href="//fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" type="text/css">
+<style type="text/css">
+#global_banner {height:30px; /*height:77px;*/ width:954px;position:relative;margin: 0px 0px 10px 0px; z-index:-1;}
 </style>
-
-<p class="addamenuitem"><a href="/content.jsp?pageName=solar-eclipse-usa-2017">Solar Eclipse 2017</a><a></a></p></div><a>
-                                <div class="clr"><!--//--></div>
-                            </a></div><a>
-                        </a></div><a>
-                    </a></div><a>
-                </a></td>
-            </tr>
-        </tbody></table>
+<a href="/content.jsp?pageName=Free-Shipping&amp;src=OrionTab"><div id="global_banner">
+    <img src="/assets/images/common/Universal_banner_telescope.png">
+</div></a><!-- END Header - Managed Content - Promotions -->
         <div class="clr"></div>
     </div>
-<div id="signInLayerWrapper" style="display:none;">
-                    </div>
-</div>
-<div id="header-cms-promo">
-    <!-- BEGIN: Header - Managed Content - Promotions -->
-    <link href="//fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" type="text/css">
-<style type="text/css">
-#global_banner {height:30px; /*height:77px;*/ width:954px;position:relative;margin: 0px 0px 10px 0px;}
-.global_notice {font-weight:bold; font-style:italic; text-align:center; margin-bottom:10px; font-size:14px; line-height:18px; width:940px; color:#ff0000;}
-.global_notice a, global_notice a:visited {color:#ff0000 !important;}
-.global_notice a:hover {text-decoration:underline;}
-</style>
-<div id="global_banner">
-    <a href="http://www.telescope.com/content.jsp?pageName=Free-Shipping&amp;src=header"><img src="http://www.telescope.com/assets/images/common/global_header_us_2016_10_13_FS250.png"></a>
-</div>
-<map name="holiday-global-header-map" id="holiday-global-header-map">
-<area alt="Current Offers &amp; Promotions" title="Current Offers &amp; Promotions" href="/content.jsp?pageName=Free-Shipping" shape="rect" coords="0,0,639,40" style="outline:none;" target="_self">
-<area alt="Holiday Shipping &amp; Info" title="Holiday Shipping &amp; Info" href="/content.jsp?pageName=HolidayInformation" shape="rect" coords="639,0,955,40" style="outline:none;" target="_self">
-</map>
-
-<!-- Kits and Bundles Skus = "08906", "20001", "20002", "20011", "20014", "20020", "20025", "20031", "20040", "20095", "20317", "20406", "20551", "20560", "20561", "20562", "20563", "20564", "20565", "20566", "20567", "20568", "20569", "20570", "20571", "20613", "20710", "20711", "21126", "21321", "21329", "21331", "21332", "21333", "21334", "21335", "21336", "21337", "21338", "21339", "21402", "21403", "21404", "21405", "21406", "21407", "22904", "24281", "24432", "24433", "24434", "24437", "24446", "24447", "24609", "24688", "24708", "24709", "24729", "24731", "24732", "24735", "24756", "24760", "24762", "24764", "24770", "24781", "25520", "27148", "27150", "27154", "27156", "27162", "27175", "27186", "27192", "27193", "27194", "27197", "27295", "27296", "27297", "27298", "27299", "27300", "27301" -->
-
-<!--script for kits and bundles -->
-<script>
-$(document).ready(function(){
-
-var gwpArray = ["08889", "08890", "08906", "20002", "20011", "20014", "20020", "20406", "20551", "20562", "20564", "20570", "21321", "21331", "21332", "21333", "21341", "21342", "21404", "21405", "21407", "24432", "24433", "24434", "24437", "24609", "24688", "24708", "24709", "24756", "24780", "24781", "24784", "24785", "24787", "24783", "24786", "25520", "25700", "25703", "27148", "27154", "27156", "27162", "27175", "21787", "27192", "27193", "27194", "27296", "27297", "27298", "27299", "27300", "27301"];
-
-for(var i=0; i < gwpArray.length; i++) {
-
-if ($('div.style-number:contains("'+gwpArray[i]+'")').length){
-
-$("div.product-specific-container").append("<div class='buyMoreKitStyle'><img src='/assets/images/pdp/PDP_Get_More_and_Save_09_23.png' width='416' height='56' /> </div>");
-
-}
-
-
-}
-
-});
-
-</script>
-
-
-<!-- script for Observer's Guide & Star Target GWP  -->
-<script>
-$(document).ready(function(){
-
-var gwpArray = ["10033", "10012", "08983", "27186", "13164", "09843", "21403", "09851", "27187"];
-onclick="_gaq.push(['_trackEvent', 'Content-Popup', 'Click ObserverGuide StarTarget GWP Image', 'PDP']);"
-var gwpPopUp = "&#39;/custserv/custserv_popup.jsp?pageName=GWP-51437and04110&#39;";
-
-for(var i=0; i < gwpArray.length; i++) {
-
-if ($('div.style-number:contains("'+gwpArray[i]+'")').length){
-
-$("div.product-specific-container").removeClass( "content-block.border-bottom" );
-$("div.product-specific-container").append("<div class='gqpKitStyle'><a class='bold' href='javascript:openWindow("+gwpPopUp+")',700,625,'scrollbars');'> <img src='/assets/images/pdp/PDP_GWP_2_Free_Gifts_Telescope_observers_Gude_Star_Target.png' width='416' height='56' /></a></div>");
-
-}
-
-
-}
-
-});
-
-</script>
-
-
-
-<!-- script for Solar Filter GWP  -->
-<script>
-$(document).ready(function(){
-
-var gwpArray = ["07710", "07715", "07723", "07725", "07730", "07733", "07737", "07745", "07781", "07782", "07783", "07790", "07798", "20001", "20032", "07749", "07751", "07752", "07753", "07754", "07755", "07756", "07757", "07758", "07759", "07761", "07762", "07763", "07764", "07765", "07767", "07768"];
-onclick="_gaq.push(['_trackEvent', 'Content-Popup', 'Click Solar GWP Image', 'PDP']);"
-var gwpPopUp = "&#39;/custserv/custserv_popup.jsp?pageName=GWP-51935and51908&#39;";
-
-for(var i=0; i < gwpArray.length; i++) {
-
-if ($('div.style-number:contains("'+gwpArray[i]+'")').length){
-
-$("div.product-specific-container").removeClass( "content-block.border-bottom" );
-$("div.product-specific-container").append("<div class='gqpKitStyle'><a class='bold' href='javascript:openWindow("+gwpPopUp+")',700,625,'scrollbars');'> <img src='/assets/images/pdp/PDP_GWP_Solar_viewer.png' width='416' height='56' /></a></div>");
-
-}
-
-
-}
-
-});
-
-</script>
-
-
-<!-- script for Discover the Stars GWP  -->
-<!-- <script>
-$(document).ready(function(){
-
-var gwpArray = ["11042", "09843"];
-onclick="_gaq.push(['_trackEvent', 'Content-Popup', 'Click DiscoverTheStars GWP Image', 'PDP']);"
-var gwpPopUp = "&#39;/custserv/custserv_popup.jsp?pageName=GWP-51541&#39;";
-
-for(var i=0; i < gwpArray.length; i++) {
-
-if ($('div.style-number:contains("'+gwpArray[i]+'")').length){
-
-$("div.product-specific-container").removeClass( "content-block.border-bottom" );
-$("div.product-specific-container").append("<div class='gqpKitStyle'><a class='bold' href='javascript:openWindow("+gwpPopUp+")',700,625,'scrollbars');'> <img src='/assets/images/pdp/PDP_GWP_Discover_the_Stars.png' width='416' height='56' /></a></div>");
-
-}
-
-
-}
-
-});
-
-</script> -->
-
-<!-- script for SOLAR GUIDE GWP  -->
-<script>
-$(document).ready(function(){
-
-var gwpArray = ["08266", "08267", "08268", "08296", "08297", "08944", "08945", "08946", "08964", "08968", "08974", "08985", "08987", "09005", "09007", "09024", "09250", "09534", "09565", "09738", "09788", "09820", "09823", "09825", "09826", "09827", "09836", "09881", "09895", "09946", "09947", "09948", "09959", "09967", "09969", "09978", "10013", "10014", "10015", "10016", "10018", "10019", "10020", "10023", "10024", "10075", "10087", "10089", "10090", "10097", "10098", "10134", "10135", "10136", "10140", "10148", "10149", "10269", "11043", "13159", "13160", "13161", "13162", "13163", "13166", "20560", "20563", "20564", "20565", "20566", "20567", "20568", "20569", "20571", "20613", "20710", "20711", "21334", "21335", "21336", "21337", "21338", "21339", "21406", "24281", "24442", "24443", "24446", "24447", "24729", "24731", "24732", "24735", "24760", "24762", "24764", "24770", "24788", "24789", "24790", "24791", "24792", "24793", "24794", "24795", "24796", "24797", "24798", "27150", "27188", "27191", "27197", "27302", "40908", "40909", "51690", "51691", "52051", "52205", "99195", "99196", "99198", "99199", "99200", "99201", "99202"];
-onclick="_gaq.push(['_trackEvent', 'Content-Popup', 'Click Solar Guide GWP Image', 'PDP']);"
-var gwpPopUp = "&#39;/custserv/custserv_popup.jsp?pageName=GWP-51935&#39;";
-
-for(var i=0; i < gwpArray.length; i++) {
-
-if ($('div.style-number:contains("'+gwpArray[i]+'")').length){
-
-$("div.product-specific-container").removeClass( "content-block.border-bottom" );
-$("div.product-specific-container").append("<div class='gqpKitStyle'><a class='bold' href='javascript:openWindow("+gwpPopUp+")',700,625,'scrollbars');'> <img src='/assets/images/pdp/PDP_GWP_Solar_Eclipse_Guide.png' width='416' height='56' /></a></div>");
-
-}
-
-
-}
-
-});
-
-</script><!-- END Header - Managed Content - Promotions -->
-    <div class="clr"></div>
-</div>
 </div>
 
 
@@ -1682,118 +1656,195 @@ $("div.product-specific-container").append("<div class='gqpKitStyle'><a class='b
 		
 			<div class="page-body body-with-border">
 				<div class="general-content">
-	<div></div><div><div class="textualcontent">
+	<div></div><div><style>
 
-<h2>Privacy Policy</h2>
+.orderingtable {margin: 10px; width: 96%;}
+.orderingtable td {border: 1px solid rgb(221, 221, 221); padding: 10px 10px;line-height: 150%; font-size:15px; font-family: Arial, Verdana, Helvetica, sans-serif; }
 
-<p>Welcome to the Orion Telescopes &amp; Binoculars website, Telescope.com (the "Site"). Orion Telescopes &amp; Binoculars has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices in connection with the Site, including but not limited to such activities as the offering for sale of services and merchandise, as well as   forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds, newsletters and eCommerce, among other offerings (the "Web Site Activities"). Orion Telescopes &amp; Binoculars has a strong commitment to the privacy of our Site's users.  Please note that this Privacy Policy applies only to information collected through the Site and not to information collected offline or to information you may provide to any third-party sites to which our Site may link, except as expressly provided herein.</p> 
+.CustServHeading { 
+font-size: 30px;
+border-bottom: 1px solid #cbcbcb;
+margin: 40px 0 20px;
+padding-bottom: 9px;
+font-family:Arial,Verdana,Helvetica,sans-serif;
+}
 
-<h2>Information We Collect</h2>
+h2.CustServSubHeading {
+color: #1d1d1d;
+font-size: 18px;
+font-family:Arial,Verdana,Helvetica,sans-serif;
+padding: 0px;
+}
+
+h3.CustServSubHeading {
+color: #1d1d1d;
+font-size: 16px;
+font-family:Arial,Verdana,Helvetica,sans-serif;
+padding: 0px;
+}
+
+ul.CustServText li {
+ color:#424242;
+ font-size: 14px;
+ line-height:19px;
+ padding-left:0;
+ font-family:Arial,Verdana,Helvetica,sans-serif;
+ /*margin-top:15px;*/
+ margin-top:0;
+ list-style-type:none;
+}
+
+.CustServText  {
+ color:#424242;
+ font-size: 14px;
+ line-height:19px;
+ padding-left:0;
+ font-family:Arial,Verdana,Helvetica,sans-serif;
+}
+
+.CustServText-small  {
+ color:#424242;
+ font-size: 12px;
+ line-height:16px;
+ padding-left:0;
+ font-family:Arial,Verdana,Helvetica,sans-serif;
+}
+
+.CustServSubHeading a {
+text-decoration:none; 
+color: #006699;
+}
+
+.CustServSubHeading a:link {
+text-decoration:none; 
+color: #1d1d1d;
+}
+
+.CustServSubHeading a:visited {
+text-decoration:none; 
+color: #1d1d1d;
+}
+
+.CustServSubHeading a:hover {
+text-decoration:underline; 
+}
+
+</style>
+
+
+
+
+
+<h2 class="CustServSubHeading">Privacy Policy</h2>
+
+<p class="CustServText">Welcome to the Orion Telescopes &amp; Binoculars website, Telescope.com (the "Site"). Orion Telescopes &amp; Binoculars has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices in connection with the Site, including but not limited to such activities as the offering for sale of services and merchandise, as well as   forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds, newsletters and eCommerce, among other offerings (the "Web Site Activities"). Orion Telescopes &amp; Binoculars has a strong commitment to the privacy of our Site's users.  Please note that this Privacy Policy applies only to information collected through the Site and not to information collected offline or to information you may provide to any third-party sites to which our Site may link, except as expressly provided herein.</p> 
+
+<h2 class="CustServSubHeading">Information We Collect</h2>
  
-<p>There are two kinds of information that Web sites can obtain about you: "Anonymous Information" and "Personally Identifiable Information."</p> 
+<p class="CustServText">There are two kinds of information that Web sites can obtain about you: "Anonymous Information" and "Personally Identifiable Information."</p> 
 
-<p>"Anonymous Information" consists of non-personally-identifiable data, such as your Internet Protocol ("IP") address or domain, or information about your usage of our Site that is used for administrative purposes only.  For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider.  Web servers automatically identify your computer by its IP address. We may collect our users' IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.  We may also collect IP addresses as a security precaution when customers initiate orders through our Site, because although IP addresses themselves are non-personally identifiable, they are linked to information about you that is personally identifiable.</p>
+<p class="CustServText">"Anonymous Information" consists of non-personally-identifiable data, such as your Internet Protocol ("IP") address or domain, or information about your usage of our Site that is used for administrative purposes only.  For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider.  Web servers automatically identify your computer by its IP address. We may collect our users' IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.  We may also collect IP addresses as a security precaution when customers initiate orders through our Site, because although IP addresses themselves are non-personally identifiable, they are linked to information about you that is personally identifiable.</p>
 
-<p>We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use.</p> 
+<p class="CustServText">We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use.</p> 
 
-<p>"Personally Identifiable Information" is any information that personally identifies you, such as your name, street address, email address, telephone number or credit card number.  We collect such information when, for example, you enter a contest, subscribe to our email newsletter, participate in other interactive online activities such as forums, or order merchandise through our Site.</p> 
+<p class="CustServText">"Personally Identifiable Information" is any information that personally identifies you, such as your name, street address, email address, telephone number or credit card number.  We collect such information when, for example, you enter a contest, subscribe to our email newsletter, participate in other interactive online activities such as forums, or order merchandise through our Site.</p> 
 
-<p>NOTE:  DO NOT INCLUDE ANY CREDIT CARD INFORMATION IN ANY EMAIL OR LIVE CHAT COMMUNICATION.  IF YOU DO, WE CANNOT GUARANTEE THAT YOUR INFORMATION WILL REMAIN SECURE, AND WE THEREFORE WILL NOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.</p>   
+<p class="CustServText">NOTE:  DO NOT INCLUDE ANY CREDIT CARD INFORMATION IN ANY EMAIL OR LIVE CHAT COMMUNICATION.  IF YOU DO, WE CANNOT GUARANTEE THAT YOUR INFORMATION WILL REMAIN SECURE, AND WE THEREFORE WILL NOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.</p>   
 
-<p>Any and all of your Personally Identifiable Information (with the exception of your credit card information, which is always kept confidential)  may be used  to help us maintain your account, and also to enable us and our business partners to send you announcements of new Site features, special offers and promotional material.  However, if you decide that you do not wish to receive future email communications from Orion Telescopes &amp; Binoculars, you may follow the "Unsubscribe" instructions on the communication you have received.</p>
+<p class="CustServText">Any and all of your Personally Identifiable Information (with the exception of your credit card information, which is always kept confidential)  may be used  to help us maintain your account, and also to enable us and our business partners to send you announcements of new Site features, special offers and promotional material.  However, if you decide that you do not wish to receive future email communications from Orion Telescopes &amp; Binoculars, you may follow the "Unsubscribe" instructions on the communication you have received.</p>
 
-<p>If you purchase a product through our Site, your email address will be used to send your order and shipping confirmations, as well as other relevant correspondence regarding your order.  We may also collect your email address if you order a product catalog. We may subsequently send you emails related to our products or services.  If you do not want to receive product-related emails from us, you may follow the "Unsubscribe" instructions on the communication you have received or contact us as follows:</p>
+<p class="CustServText">If you purchase a product through our Site, your email address will be used to send your order and shipping confirmations, as well as other relevant correspondence regarding your order.  We may also collect your email address if you order a product catalog. We may subsequently send you emails related to our products or services.  If you do not want to receive product-related emails from us, you may follow the "Unsubscribe" instructions on the communication you have received or contact us as follows:</p>
 
-<blockquote><p><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
+<blockquote><p class="CustServText"><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
 
-<p>If you supply us with your postal address, you may receive catalogs or mailings from us with information on products and services or upcoming events. If you do not wish to receive such mailings, please contact us as follows:</p>
+<p class="CustServText">If you supply us with your postal address, you may receive catalogs or mailings from us with information on products and services or upcoming events. If you do not wish to receive such mailings, please contact us as follows:</p>
 
-<blockquote><p><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
+<blockquote><p class="CustServText"><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
 
-<p>Also, as a customer of our Site, you may receive postal mailings from other reputable companies.  You can have your name put on our "do-not-share" list by contacting us as follows:</p>
+<p class="CustServText">Also, as a customer of our Site, you may receive postal mailings from other reputable companies.  You can have your name put on our "do-not-share" list by contacting us as follows:</p>
 
-<blockquote><p><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
+<blockquote><p class="CustServText"><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
 
-<p>Whenever you contact us in this fashion, please provide us with your exact name and address.  We will make sure that you are removed from the postal address list we occasionally share with other organizations. 
+<p class="CustServText">Whenever you contact us in this fashion, please provide us with your exact name and address.  We will make sure that you are removed from the postal address list we occasionally share with other organizations. 
 
-</p><p>If you are a customer of our Site, you may change your email information or your postal address information by sending an email to us as follows:</p>
+</p><p class="CustServText">If you are a customer of our Site, you may change your email information or your postal address information by sending an email to us as follows:</p>
 
-<blockquote><p><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
+<blockquote><p class="CustServText"><strong>Orion Telescopes &amp; Binoculars</strong>: <a href="mailto:sales@telescope.com">sales@telescope.com</a> or 800-676-1343</p></blockquote>
 
-<p>We may attempt to verify personal information to detect and prevent fraudulent activity including billing address, phone number and ship-to address information submitted with an order by contacting the credit card issuer, and using the services of LexisNexis and/or Cybersource.</p>
+<p class="CustServText">We may attempt to verify personal information to detect and prevent fraudulent activity including billing address, phone number and ship-to address information submitted with an order by contacting the credit card issuer, and using the services of LexisNexis and/or Cybersource.</p>
 
-<p>FOR YOUR OWN PROTECTION, NEVER SEND CREDIT CARD INFORMATION VIA EMAIL OR LIVE CHAT.  WE CANNOT GUARANTEE THE SECURITY OF EMAIL TRANSMISSIONS AND THUS CANNOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.</p>
+<p class="CustServText">FOR YOUR OWN PROTECTION, NEVER SEND CREDIT CARD INFORMATION VIA EMAIL OR LIVE CHAT.  WE CANNOT GUARANTEE THE SECURITY OF EMAIL TRANSMISSIONS AND THUS CANNOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.</p>
 
-<p>In all cases, we will only use your information as permitted by law.  Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.</p> 
+<p class="CustServText">In all cases, we will only use your information as permitted by law.  Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.</p> 
 
-<h2>Use of "Cookies"</h2>
+<h2 class="CustServSubHeading">Use of "Cookies"</h2>
 
-<p>Our Site uses "cookies" — data that is transferred from our Site to your hard drive for record-keeping purposes — to keep track of your shopping cart when you order merchandise through our Site. We also use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit our Site.</p>
+<p class="CustServText">Our Site uses "cookies" — data that is transferred from our Site to your hard drive for record-keeping purposes — to keep track of your shopping cart when you order merchandise through our Site. We also use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit our Site.</p>
 
-<p>We may share data, such as technical identifiers derived from your registration information on our website with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use.</p>
+<p class="CustServText">We may share data, such as technical identifiers derived from your registration information on our website with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use.</p>
 
-<p>We use the following cookies and tracking pixels to deliver content, including advertisements on third-party websites, specific to your interests:</p>
+<p class="CustServText">We use the following cookies and tracking pixels to deliver content, including advertisements on third-party websites, specific to your interests:</p>
 
-<blockquote><p><strong>AddThis</strong><br>
+<blockquote><p class="CustServText"><strong>AddThis</strong><br>
 We use AddThis functionality to provide you with the ability to share pages from our websites in your social media channels. In addition to a tracking pixel, AddThis serves its  __atuvc cookie to visitors to our websites. You can find instructions on how to opt-out from AddThis functionality at this url: <a href="http://www.addthis.com/privacy/opt-out">http://www.addthis.com/privacy/opt-out</a>.</p>
 
-<p><strong>Bazaarvoice</strong><br>
+<p class="CustServText"><strong>Bazaarvoice</strong><br>
 We use Bazaarvoice functionality to provide you with the ability to review our products and community items as well as read and interact with the reviews provided by others. You can learn more about Bazaarvoice's privacy policy and use of cookies, along with instructions on how to opt-out of Bazaarvoice data collection, at this url: <a href="http://www.bazaarvoice.com/privacy-policy/">http://www.bazaarvoice.com/privacy-policy/</a>.</p>
 
-<p><strong>Commission Junction</strong><br>
+<p class="CustServText"><strong>Commission Junction</strong><br>
 We use Commission Junction functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on Commission Junction's privacy policies and use of cookies at this url: <a href="http://www.cj.com/legal/privacy_web_user.html">http://www.cj.com/legal/privacy_web_user.html</a>.</p>
 
-<p><strong>Criteo</strong><br>
+<p class="CustServText"><strong>Criteo</strong><br>
 We use functionality from Criteo to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can learn more about Criteo's privacy policy, data collection, etc. and how to opt out of Criteo advertisements at <a href="http://www.criteo.com/privacy/">http://www.criteo.com/privacy/</a>.</p>
 
-<p><strong>DoubleClick</strong><br>
+<p class="CustServText"><strong>DoubleClick</strong><br>
 We use DoubleClick functionality to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can find instructions on how to opt-out from DoubleClick functionality at this url: <a href="http://www.google.com/ads/preferences/html/opt-out.html">http://www.google.com/ads/preferences/html/opt-out.html</a>.</p>
 
-<p><strong>eBay Enterprise Affiliate Network (formerly PepperJam Exchange)</strong><br>
+<p class="CustServText"><strong>eBay Enterprise Affiliate Network (formerly PepperJam Exchange)</strong><br>
 We use eBay Enterprise Affiliate Network functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on eBay Enterprise's privacy policies and use of cookies at this url: <a href="http://www.ebayenterprise.com/privacy/services_privacy.php">http://www.ebayenterprise.com/privacy/services_privacy.php</a>.</p>
 
-<p><strong>Facebook Connect and Social Plugins</strong><br>
+<p class="CustServText"><strong>Facebook Connect and Social Plugins</strong><br>
 We use Facebook functionality to allow visitors to our websites to "Like" our products and pages and also to track activity related to those who have seen and clicked on our product advertisements on Facebook properties. Information on Facebook's privacy policies and adjusting your Facebook privacy settings can be found at this url: <a href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a>.</p>
 
-<p><strong>Google+</strong><br>
+<p class="CustServText"><strong>Google+</strong><br>
 We use Google+ functionalitiy to provide you with the ability to share pages from our website in your Google+ stream.  You can find instructions on how to opt out of Google functionality at this url: <a href="https://www.google.com/settings/ads/preferences?hl=en">https://www.google.com/settings/ads/preferences?hl=en</a>.</p>
 
-<p><strong>Google Adwords</strong><br>
+<p class="CustServText"><strong>Google Adwords</strong><br>
 We use Google Adwords functionality to track activity related to those who have seen and clicked on our advertisements managed by Google on third-party websites. You can find instructions on how to opt out of Google functionality at this url: <a href="https://www.google.com/settings/ads/preferences?hl=en">https://www.google.com/settings/ads/preferences?hl=en</a>.</p>
 
-<p><strong>Google Analytics</strong><br>
+<p class="CustServText"><strong>Google Analytics</strong><br>
 We use Google Analytics to track user activity in aggregate across our various websites. In addition to tracking pixels, Google Analytics serves its __utma, __utmb, __utmc, and __utmz cookies to our website visitors. You can find tools to help you opt-out of Google Analytics tracking and cookies at this url: <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
 
-<p><strong>LinkShare</strong><br>
+<p class="CustServText"><strong>LinkShare</strong><br>
 We use LinkShare functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on LinkShare's privacy policies and use of cookies at this url: <a href="http://www.linkshare.com/legal/privacy/">http://www.linkshare.com/legal/privacy/</a>.</p>
 
-<p><strong>Microsoft</strong><br>
+<p class="CustServText"><strong>Microsoft</strong><br>
 We use Microsoft functionality to track activity related to those who have seen and clicked on our advertisements managed by Microsoft on third-party websites. You can find instructions on how to opt out of Microsoft functionality at this url: <a href="http://choice.microsoft.com/en-us/opt-out">http://choice.microsoft.com/en-us/opt-out</a>.</p>
 
-<p><strong>ResellerRatings</strong><br>
+<p class="CustServText"><strong>ResellerRatings</strong><br>
 We use ResellerRatings functionality to provide you with the ability to review Orion as a company. You can learn more about ResellerRatings' privacy policy and use of cookies at this url: <a href="http://www.resellerratings.com/faqs#privacy">http://www.resellerratings.com/faqs#privacy</a>.</p>
 
-<p><strong>Twitter</strong><br>
+<p class="CustServText"><strong>Twitter</strong><br>
 We use Twitter functionality to provide you with the ability to share pages from our website in your Twitter stream.</p></blockquote>
 
-<h2>Disclosure of Information through Business Transfers</h2>
+<h2 class="CustServSubHeading">Disclosure of Information through Business Transfers</h2>
 
-<p>As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information.  In such transactions, user information may be among the transferred assets.  Similarly, in the event that a portion or substantially all of Orion Telescopes &amp; Binoculars' assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.</p>
+<p class="CustServText">As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information.  In such transactions, user information may be among the transferred assets.  Similarly, in the event that a portion or substantially all of Orion Telescopes &amp; Binoculars' assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.</p>
 
-<h2>Third Party Web Sites</h2>
+<h2 class="CustServSubHeading">Third Party Web Sites</h2>
 
-<p>The Site contains links to third-party Web sites not owned or controlled by Orion Telescopes &amp; Binoculars. Orion Telescopes &amp; Binoculars is not responsible for the privacy practices or the content of such third-party Web sites.  Inclusion of any linked Web site on our Site does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between Orion Telescopes &amp; Binoculars and a third-party Web site, we exercise no control over linked sites.  Each of these linked sites maintains its own independent privacy and data collection policies and procedures.  If you visit a Web site via a link from our Site, we encourage you to consult that Web site's privacy policy before providing any personal information, and whenever interacting with any such Web site.</p>
+<p class="CustServText">The Site contains links to third-party Web sites not owned or controlled by Orion Telescopes &amp; Binoculars. Orion Telescopes &amp; Binoculars is not responsible for the privacy practices or the content of such third-party Web sites.  Inclusion of any linked Web site on our Site does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between Orion Telescopes &amp; Binoculars and a third-party Web site, we exercise no control over linked sites.  Each of these linked sites maintains its own independent privacy and data collection policies and procedures.  If you visit a Web site via a link from our Site, we encourage you to consult that Web site's privacy policy before providing any personal information, and whenever interacting with any such Web site.</p>
 
-<h2>Public Forums</h2>
+<h2 class="CustServSubHeading">Public Forums</h2>
 
-<p>Our Site may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users.  Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of Orion Telescopes &amp; Binoculars in accordance with our <a href="http://www.telescope.com/content.jsp?pageName=TermsAndConditions">Terms and Conditions</a>, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind onto our Site.</p>
+<p class="CustServText">Our Site may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users.  Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of Orion Telescopes &amp; Binoculars in accordance with our <a href="http://www.telescope.com/content.jsp?pageName=TermsAndConditions">Terms and Conditions</a>, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind onto our Site.</p>
 
 <a name="security"></a>
-<h2>Security</h2>
+<h2 class="CustServSubHeading">Security</h2>
 
-<p>Our Site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.  Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email and live chat communications, like most, if not all, non-encrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us.  For that reason, to protect your privacy, please do not use email or live chat to communicate information to us that you consider confidential.  While we strive to protect your personal information, Orion Telescopes &amp; Binoculars cannot ensure or warrant the security of any information you transmit to us or through this our Site.  Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.</p>
+<p class="CustServText">Our Site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.  Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email and live chat communications, like most, if not all, non-encrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us.  For that reason, to protect your privacy, please do not use email or live chat to communicate information to us that you consider confidential.  While we strive to protect your personal information, Orion Telescopes &amp; Binoculars cannot ensure or warrant the security of any information you transmit to us or through this our Site.  Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.</p>
 
-<h2>Web site security</h2>
+<h2 class="CustServSubHeading">Web site security</h2>
 
 <script language="JavaScript">
 <!--hide
@@ -1807,36 +1858,35 @@ function openScanAlertView(){
 //-->
 </script>
 
-<p>We have taken many steps to ensure the security of your transaction. Telescope.com is secured with a GeoTrust world-class SSL certificate, enabling up to 256-bit SSL encryption. More than 100,000 customers in over 150 countries trust GeoTrust to secure online transactions and conduct business over the Internet. The presence of SSL means you can rest assured that communications (e.g. credit card numbers) between your browser and this site's web servers are private and secure when the SSL session is activated.</p>
+<p class="CustServText">We have taken many steps to ensure the security of your transaction. Telescope.com is secured with a GeoTrust world-class SSL certificate, enabling up to 256-bit SSL encryption. More than 100,000 customers in over 150 countries trust GeoTrust to secure online transactions and conduct business over the Internet. The presence of SSL means you can rest assured that communications (e.g. credit card numbers) between your browser and this site's web servers are private and secure when the SSL session is activated.</p>
 
-<p>This Site is tested and certified regularly to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Secure mark appears only when a web site meets the McAfee Secure standard.  This indicates that a site such as ours meets payment card industry guidelines for remote web server vulnerability testing to help protect your personal information. <a href="javascript:openScanAlertView();">Click here</a> to confirm.</p>
+<p class="CustServText">This Site is tested and certified regularly to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Secure mark appears only when a web site meets the McAfee Secure standard.  This indicates that a site such as ours meets payment card industry guidelines for remote web server vulnerability testing to help protect your personal information. <a href="javascript:openScanAlertView();">Click here</a> to confirm.</p>
 
-<h2>Policy Regarding Minors</h2>
+<h2 class="CustServSubHeading">Policy Regarding Minors</h2>
 
-<p>Children should always ask parents before providing any personal information online.  No information should be submitted to or posted on any Site by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by Orion Telescopes &amp; Binoculars for any marketing or promotional purposes.  Minors are not eligible to participate in contests on the Sites, unless expressly provided to the contrary.</p>
+<p class="CustServText">Children should always ask parents before providing any personal information online.  No information should be submitted to or posted on any Site by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by Orion Telescopes &amp; Binoculars for any marketing or promotional purposes.  Minors are not eligible to participate in contests on the Sites, unless expressly provided to the contrary.</p>
 
-<p>Orion Telescopes &amp; Binoculars abides by the Children's Online Privacy Protection Act.  In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible.  If you believe that our Site has collected any information about anyone under 13, please contact Orion Telescopes &amp; Binoculars' Site Administrator via postal mail or email at one of the addresses listed below.</p>
+<p class="CustServText">Orion Telescopes &amp; Binoculars abides by the Children's Online Privacy Protection Act.  In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible.  If you believe that our Site has collected any information about anyone under 13, please contact Orion Telescopes &amp; Binoculars' Site Administrator via postal mail or email at one of the addresses listed below.</p>
 
 <h2>Limitation of Liability </h2>
 
-<p>ORION TELESCOPES &amp; BINOCULARS PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITE "AS IS" WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT ORION TELESCOPES &amp; BINOCULARS SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT YOUR USE OF ANY OF OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH THE ORION TELESCOPES &amp; BINOCULARS SITE'S FORUMS IS DONE AT YOUR OWN RISK, AND THAT ORION TELESCOPES &amp; BINOCULARS IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS ON OUR SITE. ORION TELESCOPES &amp; BINOCULARS SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.</p>
+<p class="CustServText">ORION TELESCOPES &amp; BINOCULARS PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITE "AS IS" WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT ORION TELESCOPES &amp; BINOCULARS SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT YOUR USE OF ANY OF OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH THE ORION TELESCOPES &amp; BINOCULARS SITE'S FORUMS IS DONE AT YOUR OWN RISK, AND THAT ORION TELESCOPES &amp; BINOCULARS IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS ON OUR SITE. ORION TELESCOPES &amp; BINOCULARS SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.</p>
 
-<h2>Consent and Modifications to this Privacy Statement</h2>
+<h2 class="CustServSubHeading">Consent and Modifications to this Privacy Statement</h2>
 
-<p>The Site is controlled, operated and administered entirely within the United States. By using our Site, you signify your agreement to the terms of this Privacy Statement.  If you do not agree with this Privacy Statement, please do not disclose any personal information through our Site.  Orion Telescopes &amp; Binoculars may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site.  You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.</p>
+<p class="CustServText">The Site is controlled, operated and administered entirely within the United States. By using our Site, you signify your agreement to the terms of this Privacy Statement.  If you do not agree with this Privacy Statement, please do not disclose any personal information through our Site.  Orion Telescopes &amp; Binoculars may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site.  You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.</p>
 
-<h2>Contacting Orion Telescopes &amp; Binoculars</h2>
+<h2 class="CustServSubHeading">Contacting Orion Telescopes &amp; Binoculars</h2>
 
-<p>If you have any questions about this Privacy Statement, the practices of our Site, or your dealings with this Site, you may contact us at:</p>
+<p class="CustServText">If you have any questions about this Privacy Statement, the practices of our Site, or your dealings with this Site, you may contact us at:</p>
 
-
-<blockquote>Site Administrator<br>
+<blockquote><p class="CustServText">Site Administrator<br>
 Orion Telescopes &amp; Binoculars<br>
 89 Hangar Way<br>
 Watsonville, CA 95076<br>
-<a href="http://www.telescope.com/custserv/contactus.jsp"> Email Site Administrator</a></blockquote>
+<a href="http://www.telescope.com/custserv/contactus.jsp"> Email Site Administrator</a></p></blockquote>
 
-<p>This Privacy Policy is effective as of December 5, 2014.</p>
+<p class="CustServText">This Privacy Policy is effective as of December 5, 2014.</p>
 </div> <!--End div id="wrapper"--></div><div></div></div>
 <!-- BEGIN: google_tag_params -->
     <script type="text/javascript">
@@ -2004,7 +2054,7 @@ Watsonville, CA 95076<br>
 		<div class="footerSection">
 			<div class="email-signup-contianer">
 				<h4>Email Sign Up</h4>
-				<form id="subscribeForm" action="/subscribe.cmd" method="post" name="subscribeForm"><input type="hidden" name="form_state" value="subscribeForm"><input type="hidden" name="csrfToken" value="5304d755cfb844baa748770751ef0880"><input name="unSubscribe" type="hidden" value="false"><p>
+				<form id="subscribeForm" action="/subscribe.cmd" method="post" name="subscribeForm"><input type="hidden" name="form_state" value="subscribeForm"><input type="hidden" name="csrfToken" value="0d64421b6e5c42dc9643904b0d724ba1"><input name="unSubscribe" type="hidden" value="false"><p>
 						Please send me email about sales, new products, and astronomy.</p>
 
 					<div class="clr common-message-blue" id="emailSignUp"></div>
@@ -2023,11 +2073,10 @@ Watsonville, CA 95076<br>
 #footerLinks-container {
 	background:url("/assets/images/hp/orion_howcanwehelp.png") no-repeat;
 	position:relative;
-	top:-26px;
 	*top:0px;
     width:980px;
     font-size:11px;
-    height:260px;
+    height:300px;
     *height:280px
  }   
  
@@ -2038,7 +2087,8 @@ Watsonville, CA 95076<br>
  
 #footerLinks .linkSection {
     width:244px;
-    float:left; 
+    float:left;
+	margin-bottom: 10px;
  }
  
 #footerLinks ul {
@@ -2066,18 +2116,18 @@ Watsonville, CA 95076<br>
     height: 24px;
  }
  
-.socialfooterlinks { 
+/* .socialfooterlinks { 
 	margin: 20px 0px 20px 50px;
 
-	}
+	} */
 	
-.socialfooterlinks img{
+.socialfooterlinks img	{
 	margin-right:4px;
 	}
  
 #footerLinks .ft-final {
-	margin-top: 26px;
-        margin-left: -70px;
+	margin-top: 10px;
+    margin-left: -70px;
     text-align:center;
  }
 
@@ -2085,9 +2135,18 @@ Watsonville, CA 95076<br>
     display:inline;
     padding:0 2px 0 5px;
  }
+ 
+.social {
+    margin: auto;
+	text-align: center;
+ }
 
 .current-price, .current-price > .price {
 color: #000 !important;
+}
+
+.clear {
+    clear: both;
 }
 
 </style>
@@ -2102,71 +2161,72 @@ $( ".smbuttonscontainer" ).appendTo( ".our-contact-info" );
 		<ul>
 			<li><span class="icon-chat" style="padding-top:3px; padding-bottom:3px; font-size:13px"><a onclick="javascript:OpenLHNChat();return false;" href="#" class="arrowLinkLarge">Live Chat</a></span></li>
 			<li class="ft-title" style="margin-top:-6px;">Quick Help</li>
-			<li><a href="http://www.telescope.com/Product-Support/com/191.uts?src=footer2">Instruction Manuals</a></li>
-			<li><a href="http://www.telescope.com/custserv/contactus.jsp?src=footer2">How to Contact Us</a></li>
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?src=footer2">Customer Service</a></li>
-			
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=ShippingAndDelivery&amp;src=footer2">Shipping &amp; Delivery</a></li>
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=ReturnsAndExchanges&amp;src=footer2">Easy Returns</a></li>
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=OurGuarantee&amp;src=footer2">Satisfaction Guaranteed</a></li>
-			<li><a href="http://www.telescope.com/catalog/gift_certificate.jsp?src=footer2">Gift Certificates</a></li>
-			<li><a href="http://www.telescope.com/catalog/e_gift_certificate.jsp?src=footer2">E-Certificates</a></li>
+			<li><a href="/Community/Product-Support/rc/2183/com/191.utssrc=footer2">Instruction Manuals</a></li>
+			<li><a href="/custserv/contactus.jsp?src=footer2">How to Contact Us</a></li>
+			<li><a href="/custserv/custserv.jsp?src=footer2">Customer Service</a></li>
+			<li><a href="/custserv/custserv.jsp?pageName=ShippingAndDelivery&amp;src=footer2">Shipping &amp; Delivery</a></li>
+			<li><a href="/custserv/custserv.jsp?pageName=ReturnsAndExchanges&amp;src=footer2">Easy Returns</a></li>
+			<li><a href="/custserv/custserv.jsp?pageName=OurGuarantee&amp;src=footer2">Satisfaction Guaranteed</a></li>
+			<li><a href="/catalog/gift_certificate.jsp?src=footer2">Gift Certificates</a></li>
+			<li><a href="/catalog/e_gift_certificate.jsp?src=footer2">E-Certificates</a></li>
 		</ul>	
 	</div>
+	
 	<div class="linkSection">
 		<ul>
 			<li class="ft-title">Buying From Us</li>
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=WhyBuyFromOrion&amp;src=footer2">Why Buy From Orion</a></li>
-			<li><a href="http://www.telescope.com/catalog/catalog_order.jsp?src=footer2">Catalog Quick Order</a></li>
-			<li><a href="http://www.telescope.com/catalog/request_catalog.jsp?src=footer2">Catalog Request</a></li>
-			
-			<li><a href="http://www.telescope.com/content.jsp?pageName=StoreInformation&amp;src=footer2">Store Information</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Dealer-Locator&amp;src=footer2">Dealer Locator</a></li>
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=OrderingAndPayment&amp;src=footer2">Ordering &amp; Payment</a></li>
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=LayawayProgram&amp;src=footer2">Layaway Program</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Free-Shipping&amp;src=footer2#install">Installment Billing</a></li>
-<li><a href="http://www.telescope.com/content.jsp?pageName=Free-Shipping&amp;src=footer2">Current Offers</a></li>
+			<li><a href="/custserv/custserv.jsp?pageName=WhyBuyFromOrion&amp;src=footer2">Why Buy From Orion</a></li>
+			<li><a href="/catalog/catalog_order.jsp?src=footer2">Catalog Quick Order</a></li>
+			<li><a href="/catalog/request_catalog.jsp?src=footer2">Catalog Request</a></li>
+			<li><a href="/content.jsp?pageName=StoreInformation&amp;src=footer2">Store Information</a></li>
+			<li><a href="/content.jsp?pageName=Dealer-Locator&amp;src=footer2">Dealer Locator</a></li>
+			<li><a href="/custserv/custserv.jsp?pageName=OrderingAndPayment&amp;src=footer2">Ordering &amp; Payment</a></li>
+			<li><a href="/custserv/custserv.jsp?pageName=LayawayProgram&amp;src=footer2">Layaway Program</a></li>
+			<li><a href="/content.jsp?pageName=Free-Shipping&amp;src=footer2#install">Installment Billing</a></li>
+			<li><a href="/content.jsp?pageName=Free-Shipping&amp;src=footer2">Current Offers</a></li>
 			<!-- Removed by MG 11-10-11  
-			<li><a href="http://www.telescope.com/custserv/custserv.jsp?pageName=SpecialOrders&src=footer2">Special Orders</a></li>-->  
-        <!--<li><a href="http://www.telescope.com/Gift-Center/Microscopes/Orion-MicroXplore-Digital-LCD-Microscope/pc/-1/c/7/sc/85/p/102081.uts?src=footer2">Web Deal of the Day</a></li>-->
+			<li><a href="/custserv/custserv.jsp?pageName=SpecialOrders&src=footer2">Special Orders</a></li>-->  
+        <!--<li><a href="/Gift-Center/Microscopes/Orion-MicroXplore-Digital-LCD-Microscope/pc/-1/c/7/sc/85/p/102081.uts?src=footer2">Web Deal of the Day</a></li>-->
 		</ul>
 	</div>
 
 	<div class="linkSection">
 		<ul>
 			<li class="ft-title">Community</li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Featured-Events&amp;src=footer2">Featured Events</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Customer-Profiles&amp;src=footer2">Customer Profiles</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Be-Featured&amp;src=footer2">Become a Featured Customer</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Submit-Content&amp;src=footer2">Submit Content</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Monthly-Star-Chart&amp;src=footer2">Monthly Star Chart</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=StarDate&amp;src=footer2">Today's StarDate</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=In-the-Sky-this-Month&amp;src=footer2">In The Sky This Month</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Lunar-Phases&amp;src=footer2">Phases of the Moon</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=Glossary&amp;src=footer2">Astronomy Glossary</a></li>
+			<li><a href="/content.jsp?pageName=Featured-Events&amp;src=footer2">Featured Events</a></li>
+			<li><a href="/content.jsp?pageName=Customer-Profiles&amp;src=footer2">Customer Profiles</a></li>
+			<!-- <li><a href="/content.jsp?pageName=Be-Featured&src=footer2">Become a Featured Customer</a></li>
+			<li><a href="/content.jsp?pageName=Submit-Content&src=footer2">Submit Content</a></li> -->
+			<li><a href="/content.jsp?pageName=Monthly-Star-Chart&amp;src=footer2">Monthly Star Chart</a></li>
+			<li><a href="/content.jsp?pageName=StarDate&amp;src=footer2">Today's StarDate</a></li>
+			<li><a href="/content.jsp?pageName=In-the-Sky-this-Month&amp;src=footer2">In The Sky This Month</a></li>
+			<li><a href="/content.jsp?pageName=Lunar-Phases&amp;src=footer2">Phases of the Moon</a></li>
+			<li><a href="/content.jsp?pageName=Glossary&amp;src=footer2">Astronomy Glossary</a></li>
 		</ul>
 	</div>
 	
 	<div class="linkSection">
 		<ul>
         	<li class="ft-title">Looking For</li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=orion-pressrelease-091916">September 19, 2016 Press Release</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=solar-eclipse-usa-2017">Solar Eclipse 2017</a></li>
-			<li><a href="http://www.telescope.com/Gift-Center/New-Products/pc/7/314.uts?src=footer2">New Products</a></li>
-<li><a href="http://www.telescope.com/Buying-Guides/com/440.uts?src=footer2">Buying Guides</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=StarSeek&amp;src=footer2">StarSeek Astronomy App</a></li>
-           <li><a href="http://www.telescope.com/content.jsp?pageName=Jobs&amp;src=footer2">Jobs</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=AffiliateProgram&amp;src=footer2">Affiliate Program</a></li>
-			<li><a href="http://www.telescope.com/content.jsp?pageName=WholesaleSales&amp;src=footer2">Wholesale Sales</a></li>
-			<li><a href="http://www.telescope.com/custserv/sitemap.jsp?src=footer2">Site Map</a></li>
+			<li><a href="/content.jsp?pageName=solar-eclipse-usa-2017">Solar Eclipse 2019</a></li>
+			<li><a href="/Orion/Gift-Center/New-Products/rc/2160/pc/7/314.uts?src=footer2">New Products</a></li>
+			<li><a href="/Community/Buying-Guides/rc/2183/com/440.uts?src=footer2">Buying Guides</a></li>
+			<li><a href="/content.jsp?pageName=StarSeek&amp;src=footer2">StarSeek Astronomy App</a></li>
+           <li><a href="/content.jsp?pageName=Jobs&amp;src=footer2">Jobs</a></li>
+			<li><a href="/content.jsp?pageName=AffiliateProgram&amp;src=footer2">Affiliate Program</a></li>
+			<li><a href="/content.jsp?pageName=WholesaleSales&amp;src=footer2">Wholesale Sales</a></li>
+			<!-- <li><a href="/custserv/sitemap.jsp?src=footer2">Site Map</a></li> -->
 		</ul>
-	<div class="socialfooterlinks">
-	<div class="addthis_toolbox addthis_default_style">
-		<a href="http://facebook.com/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click Facebook Icon', 'Footer']);"><img src="http://www.telescope.com/assets/images/footer_icons/footer_facebook.png" alt="Check out the Orion Facebook page" style="marin-right:16px;"></a>
-		<a href="http://www.youtube.com/user/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click YouTube Icon', 'Footer']);"><img src="http://www.telescope.com/assets/images/footer_icons/footer_youtube.png" alt="Check Orion on YouTube"></a>
-		<a href="http://www.twitter.com/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click Twitter Icon', 'Footer']);"><img src="http://www.telescope.com/assets/images/footer_icons/footer_twitter.png" alt="Tweeting astronomy news, tips &amp; guides, images and sky alerts"></a>
-		<a href="http://instagram.com/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click Instagram Icon', 'Footer']);"><img src="http://www.telescope.com/assets/images/footer_icons/orion-telescopes-on-instagram-2016.png" alt="Check out the Orion Instagram page" style="marin-right:16px;"></a>
-		<a href="https://plus.google.com/u/0/114148254892068237932/posts" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click GooglePlus Icon', 'Footer']);"><img src="http://www.telescope.com/assets/images/footer_icons/google-plus-icon.png" alt="Connect with Orion Telescopes on Google Plus"></a>
+	</div>
+	
+	<div class="social">
+	<p class="clear"></p>
+	<!--<div class="addthis_toolbox addthis_default_style"> -->
+		<a href="http://facebook.com/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click Facebook Icon', 'Footer']);"><img src="/assets/images/footer_icons/footer_facebook.png" alt="Check out the Orion Facebook page" style="margin-right:5px;"></a>
+		<a href="http://www.youtube.com/user/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click YouTube Icon', 'Footer']);"><img src="/assets/images/footer_icons/footer_youtube.png" alt="Check Orion on YouTube" style="margin-right:5px;"></a>
+		<a href="http://www.twitter.com/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click Twitter Icon', 'Footer']);"><img src="/assets/images/footer_icons/footer_twitter.png" alt="Tweeting astronomy news, tips &amp; guides, images and sky alerts" style="margin-right:5px;"></a>
+		<a href="http://instagram.com/oriontelescopes" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click Instagram Icon', 'Footer']);"><img src="/assets/images/footer_icons/orion-telescopes-on-instagram-2016.png" alt="Check out the Orion Instagram page" style="margin-right:5px;"></a>
+		<a href="https://plus.google.com/u/0/114148254892068237932/posts" target="blank" onclick="_gaq.push(['_trackEvent', 'Link Off Site', 'Click GooglePlus Icon', 'Footer']);"><img src="/assets/images/footer_icons/google-plus-icon.png" alt="Connect with Orion Telescopes on Google Plus"></a>
 		<!-- AddThis Button BEGIN 
 		<script type="text/javascript">
 		var atOffset = 5;
@@ -2184,12 +2244,11 @@ $( ".smbuttonscontainer" ).appendTo( ".our-contact-info" );
     <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=oriontelescopes"></script>
 
 	     AddThis Button END -->
-</div>
-</div>
-	
+	<!-- </div> -->
 	</div>
-
+	
 	<div class="ft-final">
+	<p class="clear"></p>
  	<ul>
     <li>800-447-1001</li>
     <li class="head-bullet"><!-- --></li>
@@ -2197,22 +2256,24 @@ $( ".smbuttonscontainer" ).appendTo( ".our-contact-info" );
     <li class="head-bullet"><!-- --></li>
     <li>© 2002-<script>document.write(new Date().getFullYear())</script>2020 Orion Telescopes &amp; Binoculars All rights reserved</li>
     <li class="head-bullet"><!-- --></li>
-    <li><a href="http://www.telescope.com/content.jsp?pageName=DMCACopyright&amp;src=footer2">DMCA/Copyright</a></li>
+    <li><a href="/content.jsp?pageName=DMCACopyright&amp;src=footer2">DMCA/Copyright</a></li>
     <li class="head-bullet"><!-- --></li>
-    <li><a href="http://www.telescope.com/content.jsp?pageName=TermsAndConditions&amp;src=footer2">Terms and Conditions</a></li>
+    <li><a href="/content.jsp?pageName=TermsAndConditions&amp;src=footer2">Terms and Conditions</a></li>
     <li class="head-bullet"><!-- --></li>
-    <li><a href="http://www.telescope.com/content.jsp?pageName=Privacy&amp;src=footer2">Privacy &amp; Security</a></li>
+    <li><a href="/content.jsp?pageName=Privacy&amp;src=footer2">Privacy &amp; Security</a></li>
     </ul>
-<p>&nbsp;</p>
+	<p class="clear"></p>
 	</div>
+	
+	
 </div>
 </div></div>
 	<div>
-		<!--ContentHighlighter--><div style="margin-top:5px;border-top:1px solid #e0e0e0;">
+		<!--ContentHighlighter--><div style="margin-top:15px;border-top:1px solid #e0e0e0;">
 <style type="text/css">
  .footerSEO {
     color:000;
-    padding:15px;
+    padding:5px 15px 15px 15px;
     font-size:11px;
  }   
  .footerSEO h4 {
@@ -2233,22 +2294,34 @@ $( ".smbuttonscontainer" ).appendTo( ".our-contact-info" );
     text-decoration:underline;
     color:#000000;
  }
-
+.masterbrandlogo {
+float: left;
+margin-right: 35px;
+}
+.masterbrandlogos {
+width: 950px;
+margin-bottom: 25px;
+clear: both;
+padding-left: 36px;
+height: 80px;
+}
 </style>
 <div class="footerSEO">
 
 	<div class="footerHistory">
 
+<div class="masterbrandlogos"><p class="masterbrandlogo"><img src="/assets/images/brandlogos/Footer_1_Orion_80px.png" alt="Orion Telescopes" width="154" height="80"></p><p class="masterbrandlogo"><img src="/assets/images/brandlogos/Footer_2_Binoculars_80px.png" alt="Binoculars.com" width="206" height="80"></p><p class="masterbrandlogo"><img src="/assets/images/brandlogos/Footer_3_Telescopes_80px.png" alt="Telescopes.com" width="210" height="80"></p><p class="masterbrandlogo"><img src="/assets/images/brandlogos/Footer_4_SpottingScopes_80px.png" alt="SpottingScopes.com" width="204" height="80"></p></div>
+
 		<h4>About Orion Telescopes &amp; Binoculars</h4>
 		<p style="margin-bottom:10px;">Since 1975 Orion Telescopes &amp; Binoculars has been offering telescopes for sale direct to customers, with an unswerving commitment to best quality products, value and unmatched customer care. Our 100% satisfaction guarantee says it all.</p>
 
-<p style="margin-bottom:10px;">Orion offers telescopes for every level: <a href="http://www.telescope.com/Telescopes/Beginner-Telescopes/pc/1/21.uts?src=footerseo">Beginner</a>, <a href="http://www.telescope.com/Telescopes/Intermediate-Telescopes/pc/1/22.uts?src=footerseo">Intermediate</a>, <a href="http://www.telescope.com/Telescopes/Advanced-Telescopes/pc/1/23.uts?src=footerseo">Advanced</a>, and <a href="http://www.telescope.com/Telescopes/Expert-Telescopes/pc/1/24.uts?src=footerseo">Expert</a>. From our <a href="http://www.telescope.com/Telescopes/Beginner-Telescopes/pc/1/21.uts?src=footerseo">entry level beginner telescopes</a> for amateur astronomers to our <a href="http://www.telescope.com/Telescopes/Dobsonian-Telescopes/pc/1/12.uts?src=footerseo">Dobsonian telescopes</a> to our most advanced <a href="http://www.telescope.com/Telescopes/Cassegrain-Telescopes/pc/1/14.uts?src=footerseo">Cassegrain telescopes</a> and <a href="http://www.telescope.com/Accessories/3.uts?src=footerseo">accessories</a>, you can find the best telescope for you. Because we sell direct, we can offer you tremendous value at a great price. Not sure how to choose a telescope?  Orion's <a href="http://www.telescope.com/Articles/Current-Articles/Telescopes/Telescope-Buyers-Guide/pc/9/c/192/sc/194/p/99897.uts?src=footerseo">Telescope Buyer's Guide</a> is a great place to start.</p>
+<p style="margin-bottom:10px;">Orion offers telescopes for every level: <a href="/Orion/Telescopes/Beginner-Telescopes/rc/2160/pc/1/21.uts?src=footerseo">Beginner</a>, <a href="/Orion/Telescopes/Intermediate-Telescopes/rc/2160/pc/1/22.uts?src=footerseo">Intermediate</a>, <a href="/Orion/Telescopes/Advanced-Telescopes/rc/2160/pc/1/23.uts?src=footerseo">Advanced</a>, and <a href="/Orion/Telescopes/Expert-Telescopes/rc/2160/pc/1/24.uts?src=footerseo">Expert</a>. From our <a href="/Orion/Telescopes/Beginner-Telescopes/rc/2160/pc/1/21.uts?src=footerseo">entry level beginner telescopes</a> for amateur astronomers to our <a href="/Orion/Telescopes/Dobsonian-Telescopes/rc/2160/pc/1/12.uts?src=footerseo">Dobsonian telescopes</a> to our most advanced <a href="/Orion/Telescopes/Cassegrain-Telescopes/rc/2160/pc/1/14.uts?src=footerseo">Cassegrain telescopes</a> and <a href="/Orion/Accessories/rc/2160/3.uts?src=footerseo">accessories</a>, you can find the best telescope for you. Because we sell direct, we can offer you tremendous value at a great price. Not sure how to choose a telescope?  Orion's <a href="/Buying-Guides/Telescope-Guides/Telescope-Buyers-Guide/pc/-1/c/440/sc/441/p/99897.uts?src=footerseo">Telescope Buyer's Guide</a> is a great place to start.</p>
 
-<p style="margin-bottom:10px;"><a href="http://www.telescope.com/Shop-by-Brand/Orion-Product-Center/Orion-Binoculars/pc/8/c/90/115.uts?src=footerseo">Orion binoculars</a> are known for quality optics at a great price. We offer binoculars for every viewing interest, including <a href="http://www.telescope.com/Binoculars/Astronomy-Binoculars/pc/5/72.uts?src=footerseo">astronomical binoculars</a>, <a href="http://www.telescope.com/Binoculars/Compact-Binoculars/pc/5/66.uts?src=footerseo">compact binoculars</a>, <a href="http://www.telescope.com/Binoculars/Waterproof-Binoculars/pc/5/69.uts?src=footerseo">waterproof binoculars</a>, <a href="http://www.telescope.com/Binoculars/Birding-Binoculars/pc/5/71.uts?src=footerseo">birding binoculars</a>, and <a href="http://www.telescope.com/Binoculars/Sport-Hunting-Binoculars/pc/5/70.uts?src=footerseo">sport and hunting binoculars</a>. </p>
+<p style="margin-bottom:10px;"><a href="/Orion/Shop-by-Brand/Orion-Product-Center/Orion-Binoculars/rc/2160/pc/8/c/90/115.uts?src=footerseo">Orion binoculars</a> are known for quality optics at a great price. We offer binoculars for every viewing interest, including <a href="/Orion/Binoculars/Astronomy-Binoculars/rc/2160/pc/5/72.uts?src=footerseo">astronomical binoculars</a>, <a href="/Orion/Binoculars/Compact-Binoculars/rc/2160/pc/5/66.uts?src=footerseo">compact binoculars</a>, <a href="/Orion/Binoculars/Waterproof-Binoculars/rc/2160/pc/5/69.uts?src=footerseo">waterproof binoculars</a>, <a href="/Orion/Binoculars/Birding-Binoculars/rc/2160/pc/5/71.uts?src=footerseo">birding binoculars</a>, and <a href="/Orion/Binoculars/Sport-Hunting-Binoculars/rc/2160/pc/5/70.uts?src=footerseo">sport and hunting binoculars</a>. </p>
 
-<p style="margin-bottom:10px;">Orion's <a href="http://www.telescope.com/Accessories/3.uts?src=footerseo">telescope and astrophotography accessories</a> will enhance your telescope enjoyment without breaking the bank. Expand your viewing experience with accessories ranging from <a href="http://www.telescope.com/Accessories/Telescope-Eyepiece-Filters/pc/3/48.uts?&amp;refinementValueIds=4467&amp;src=footerseo">moon filters</a> to power-boosting <a href="http://www.telescope.com/Accessories/Barlow-Lenses/pc/3/41.uts?src=footerseo">Barlow lenses</a> to <a href="http://www.telescope.com/Mounts-Tripods/GoTo-Mounts-Tripods/pc/2/36.uts?src=footerseo">advanced computerized telescope mounts</a>. Capture breathtaking photos with our affordable <a href="http://www.telescope.com/Astrophotography/Astrophotography-Cameras/pc/4/58.uts?src=footerseo">astrophotography cameras</a>.  And when you're stargazing, Orion's <a href="http://www.telescope.com/Accessories/Cases-Telescope-Covers/pc/3/43.uts?src=footerseo">telescope cases and covers</a>, <a href="http://www.telescope.com/Accessories/Observing-Gear/pc/3/53.uts?src=footerseo">observing gear</a>, <a href="http://www.telescope.com/Accessories/Flashlights/pc/3/50.uts?src=footerseo">red LED flashlights</a>, <a href="http://www.telescope.com/Accessories/Books/pc/3/42.uts?src=footerseo">astronomy books</a> and <a href="http://www.telescope.com/Accessories/Astronomical-Maps-Charts/pc/3/52.uts?src=footerseo">star charts</a> will make your observing sessions more convenient, comfortable and meaningful.</p>
+<p style="margin-bottom:10px;">Orion's <a href="/Orion/Accessories/rc/2160/3.uts?src=footerseo">telescope and astrophotography accessories</a> will enhance your telescope enjoyment without breaking the bank. Expand your viewing experience with accessories ranging from <a href="/Orion/Accessories/Telescope-Eyepiece-Filters/rc/2160/pc/3/48.uts?&amp;refinementValueIds=4467&amp;src=footerseo">moon filters</a> to power-boosting <a href="/Orion/Accessories/Barlow-Lenses/rc/2160/pc/3/41.uts?src=footerseo">Barlow lenses</a> to <a href="/Orion/Mounts-Tripods/GoTo-Mounts-Tripods/rc/2160/pc/2/36.uts?src=footerseo">advanced computerized telescope mounts</a>. Capture breathtaking photos with our affordable <a href="/Orion/Astrophotography/Astrophotography-Cameras/rc/2160/pc/4/58.uts?src=footerseo">astrophotography cameras</a>.  And when you're stargazing, Orion's <a href="/Orion/Accessories/Cases-Telescope-Covers/rc/2160/pc/3/43.uts?src=footerseo">telescope cases and covers</a>, <a href="/Orion/Accessories/Observing-Gear/rc/2160/pc/3/53.uts?src=footerseo">observing gear</a>, <a href="/Orion/Accessories/Flashlights/rc/2160/pc/3/50.uts?src=footerseo">red LED flashlights</a>, <a href="/Orion/Accessories/Books/rc/2160/pc/3/42.uts?src=footerseo">astronomy books</a> and <a href="/Orion/Accessories/Astronomical-Maps-Charts/rc/2160/pc/3/52.uts?src=footerseo">star charts</a> will make your observing sessions more convenient, comfortable and meaningful.</p>
 
-<p style="margin-bottom:10px;">At Orion, we are committed to sharing our knowledge and passion for astronomy and astrophotography with the amateur astronomy community.  Visit the <a href="http://www.telescope.com/catalog/community.jsp?src=footerseo">Orion Community Center</a> for in-depth information on <a href="http://www.telescope.com/Articles/Current-Articles/Telescopes/pc/9/c/192/com/194.uts?src=footerseo">telescopes</a>, <a href="http://www.telescope.com/Articles/Current-Articles/Binoculars/pc/9/c/192/com/195.uts?src=footerseo">binoculars</a>, and <a href="http://www.telescope.com/Articles/Current-Articles/Astrophotography/pc/9/c/192/com/198.uts?src=footerseo">astrophotography</a>.  You can find astrophotography "how to" tips and share your best astronomy pictures here.  Submit astronomy articles, events, &amp; reviews, and even become a featured Orion customer!</p>
+<p style="margin-bottom:10px;">At Orion, we are committed to sharing our knowledge and passion for astronomy and astrophotography with the amateur astronomy community.  Visit the <a href="/catalog/community.jsp?rootCategoryId=2183?src=footerseo">Orion Community Center</a> for in-depth information on <a href="/Community/Articles/Equipment/Telescopes/rc/2183/pc/9/c/192/com/194.uts?src=footerseo">telescopes</a>, <a href="/Community/Articles/Equipment/Binoculars/rc/2183/pc/9/c/192/com/195.uts?src=footerseo">binoculars</a>, and <a href="/Community/Articles/Astrophotography/rc/2183/pc/9/com/198.uts?src=footerseo">astrophotography</a>.  You can find astrophotography "how to" tips and share your best astronomy pictures here.  Submit astronomy articles, events, &amp; reviews, and even become a featured Orion customer!</p>
 	</div>
 </div>
 <div class="clr"><!-- --></div></div>
@@ -2284,4 +2357,4 @@ $( ".smbuttonscontainer" ).appendTo( ".our-contact-info" );
 
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4036686"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
 
-</body></html>
+</div></body></html>
