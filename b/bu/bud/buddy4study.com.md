@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddy4study.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608170150id_/http%3A//www.buddy4study.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddy4study.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008145548id_/http%3A//www.buddy4study.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Buddy4Study
 
