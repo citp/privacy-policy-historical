@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623003004id_/http%3A//www.appointy.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008150845id_/http%3A//appointy.com/privacyPolicy) for the most accurate reproduction.*
 
 # Appointy :: Privacy Policy
 
