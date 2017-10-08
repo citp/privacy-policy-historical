@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexiblepositions.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408144311id_/http%3A//flexiblepositions.com/tour_01/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexiblepositions.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008085413id_/http%3A//flexiblepositions.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
