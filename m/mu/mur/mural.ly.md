@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mural.ly privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520035341id_/https%3A//mural.co/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mural.ly privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008063105id_/https%3A//mural.co/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mural
+# Privacy Policy - MURAL
 
 Effective: April 12, 2017
 
-You can see the past version of our Privacy Policy in our [Policy Archive](https://web.archive.org/terms/archive/privacy-policy-2014-06-24).
+You can see the past version of our Privacy Policy in our [Policy Archive](https://web.archive.org/terms/archive/privacy-policy-2014-06-24/).
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Our privacy policy will help you understand what information we collect at MURAL
 
 When we talk about “MURAL,” “we,” “our,” or “us” in this policy, we are referring to Tactivos, Inc., the company which provides the Services. This Privacy Policy relates to the information collection and use practices of MURAL in connection with our online services ("Services"), which are made available to you through our website located at mural.co (the "Site").
 
-When we talk about the “Services” in this policy, we are referring to our online workplace collaboration tools and platform. Our Services are currently available for use via a web browser or applications specific to your desktop or mobile device, as further described in our [ Help Center](https://support.mural.ly/).
+When we talk about the “Services” in this policy, we are referring to our online workplace collaboration tools and platform. Our Services are currently available for use via a web browser or applications specific to your desktop or mobile device, as further described in our [ Help Center](https://support.mural.ly/hc/en-us).
 
 This Privacy Policy applies to visitors to the Site, who view only publicly- available content (the “Visitors”) and subscribers who have signed up to access and use our Services (“Subscribers”).
 
@@ -88,11 +88,11 @@ You may opt out at any time from the use of your personal information for direct
 
 ## Security
 
-MURAL implements reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. MURAL is SOC-2 compliant and will continue to be SOC 2 compliant. MURAL conducts penetration tests and audits of its servers and networks every quarter.
+MURAL implements reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. MURAL is SOC2 and Type II compliant and will continue to be SOC 2 Type II compliant. MURAL conducts penetration tests and audits of its servers and networks every quarter.
 
 Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Service may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Any unauthorized access to or use of this Service or information collected and maintained by this Service should be immediately brought to our attention by sending us an email at [ support@mural.co](mailto:support@mural.co).
 
-To learn more about current practices and policies regarding security and confidentiality of Customer Data and other information, please see our [Security Page](https://web.archive.org/security); we keep that document updated as these practices evolve over time.
+To learn more about current practices and policies regarding security and confidentiality of Customer Data and other information, please see our [Security Page](https://web.archive.org/security/); we keep that document updated as these practices evolve over time.
 
 ## Access to Personal Information
 
@@ -122,13 +122,13 @@ Our servers are located in the US. If you are located outside of the US, please 
 
 ## Important Notice for Residents of the European Economic Area and Switzerland
 
-MURAL complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States, respectively. MURAL has certified to the Department of Commerce that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability, and the Supplemental Principles (the “Privacy Shield Principles”). If there is a conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We are committed to applying the Privacy Shield Principles to all personal information received from the EU, Iceland, Liechtenstein, Norway (referred to herein as the “EU”) and Switzerland in reliance upon the Privacy Shield. With regard to the Principle of Accountability for Onward Transfer, for example, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification page, please visit: <https://www.privacyshield.gov/>
+[MURAL complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt00000004F4RAAU&status=Active) as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States, respectively. MURAL has certified to the Department of Commerce that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability, and the Supplemental Principles (the “Privacy Shield Principles”). If there is a conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We are committed to applying the Privacy Shield Principles to all personal information received from the EU, Iceland, Liechtenstein, Norway (referred to herein as the “EU”) and Switzerland in reliance upon the Privacy Shield. With regard to the Principle of Accountability for Onward Transfer, for example, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification page, please visit: <https://www.privacyshield.gov/>
 
 MURAL is subject to the investigatory and enforcement powers of the Federal Trade Commission. We are committed to resolving complaints from EU and Swiss data subjects pursuant to the Recourse, Enforcement and Liability Principle.
 
 In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, MURAL commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact MURAL at [support@mural.co](mailto:support@mural.co).
 
-MURAL has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to BBB PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by MURAL, please visit [ http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to MURAL at [support@mural.co](mailto:support@mural.co).
+MURAL has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to BBB PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by MURAL, please visit [ https://www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to MURAL at [support@mural.co](mailto:support@mural.co).
 
 ## DMCA Policy
 
@@ -168,8 +168,8 @@ Because of changes in technology and the growth and development of our business,
 Please also feel free to contact us if you have any questions about MURAL’s Privacy Policy or practices. You may contact us at [support@mural.co](mailto:support@mural.co) or at our mailing address below:
 
 Tactivos, Inc. DBA MURAL   
-2000 Broadway St, Suite #1108   
-San Francisco, CA   
+350 Rhode Island St. Suite 375   
+San Francisco, CA 94103   
 94115.
 
 Please include your name, address and email address in your correspondence to us.
