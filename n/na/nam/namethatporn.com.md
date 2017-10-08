@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145225id_/http%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009010131id_/http%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy › Help › NTP
 
