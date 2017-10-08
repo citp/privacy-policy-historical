@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3fut.site privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630105025id_/http%3A//mp3fut.site/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fut.site privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009005939id_/http%3A//mp3fut.site/Privacy) for the most accurate reproduction.*
 
 # MP3FUT Privacy Policy
 
