@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609183457id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008051640id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
