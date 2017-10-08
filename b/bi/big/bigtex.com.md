@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtex.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609224011id_/http%3A//bigtex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtex.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008054706id_/http%3A//bigtex.com/privacy) for the most accurate reproduction.*
 
 # State Fair of Texas Privacy Policy | State Fair of Texas
 
