@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125113id_/http%3A//www.payworldindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008153222id_/http%3A//www.payworldindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Payworldindia - Privacy-policy
 
