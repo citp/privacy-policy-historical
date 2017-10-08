@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429040528id_/https%3A//www.anonymizer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008174432id_/https%3A//www.anonymizer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anonymizer
 
@@ -28,7 +28,7 @@ Like most companies, Anonymizer uses cookies to customize our communication and 
 
 **How do You Update your Personal Information?**
 
-If your personal information changes you may update it by making the change within the “Account Home” page of your account. If you no longer desire our service or would like personal information removed from your account please email [ts@anonymizerinc.com](mailto:ts@anonymizerinc.com).
+If your personal information changes you may update it by making the change within the “Account Home” page of your account. If you no longer desire our service or would like personal information removed from your account please email **cs@anonymizerinc.com**.
 
 You have the option of storing your credit card information within your profile. This is stored on a secure page and you may update this information at any time by logging into your account. We do not use this information for any other purpose other than to bill you for services you have requested.
 
@@ -38,7 +38,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our site, you can email us at [ts@anonymizerinc.com](mailto:ts@anonymizerinc.com).
+If you have any questions about security on our site, you can email us at **cs@anonymizerinc.com**.
 
 **Surveys**
 
@@ -54,7 +54,7 @@ If you click on a link to a third party site, you will leave the anonymizer.com 
 
 **How can I unsubscribe from promotional emails?**
 
-You may unsubscribe from receiving Anonymizer email promotions including e-newsletters and special offers by e-mailing a request for removal to: [ts@anonymizerinc.com](mailto:ts@anonymizerinc.com).
+You may unsubscribe from receiving Anonymizer email promotions including e-newsletters and special offers by e-mailing a request for removal to: **cs@anonymizerinc.com**.
 
 **How will I know if this privacy policy changes?**
 
