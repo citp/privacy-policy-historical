@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecountry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175844id_/http%3A//www.onecountry.com/privacy-policy-1633272277.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecountry.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008072532id_/http%3A//www.onecountry.com/privacy-policy-1633272277.html) for the most accurate reproduction.*
 
 # Privacy Policy - One Country
 
