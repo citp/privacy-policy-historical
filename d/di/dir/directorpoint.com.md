@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the directorpoint.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607013655id_/http%3A//directorpoint.com/landing-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorpoint.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008210440id_/http%3A//directorpoint.com/landing-privacy) for the most accurate reproduction.*
 
 # Privacy | Directorpoint
+
+We understand and respect the importance of personal identity and information.
+
+Directorpoint LLC (“Directorpoint”) Privacy Policy:
 
 The following discloses our information gathering and dissemination practices for www.directorpoint.com and our mobile application. The statement does not apply to our practices on other websites or offline. If you have questions or complaints regarding our privacy policy or practices, please contact us.
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.directorpoint.com and our mobile application. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Directorpoint.
 
-Security
+**Security**
 
 The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as your password), or when data is transmitted through our app we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us.
 
-What We Collect
+**What We Collect**
 
 You may browse our site without providing us any information that is identifiable for you. When using our app we will collect the OS version you are using in order to ensure that the application is presented to you properly. We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our app or services.
 
-We use your IP address and other log file information to help administer our servers and website. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request to any other third party with your prior consent to do so.
+We use your IP address and other log file information to help administer our servers and website.  We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request to any other third party with your prior consent to do so.
 
 If Directorpoint is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
