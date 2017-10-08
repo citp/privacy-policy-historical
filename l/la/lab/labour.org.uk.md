@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609000731id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008145903id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement – The Labour Party
 
@@ -6,11 +6,11 @@
 The Labour Party site does not automatically capture or store personal information, other than logging the user's IP Address or the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. (If you are connected to the Internet you have an IP address, for example an IP address might read "154.198.99.9"). We also use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site.
 
 **Data collection and use**  
-You may be asked for personal information if you complete one of the forms on this site. Please see below the information we ask for and what this information is used for.
+You may be asked for personal information if you complete one of the forms on this site, or if you fill out a form or leaflet delivered by a local Labour Party representative. Please see below the information we ask for and what this information is used for.
 
 In each case we will only use the information about you for the purpose for which you provide it. Personal information you submit on the Labour Party website is stored on secure servers. Occasionally, in order to complete your request as outlined above, we may need to transfer personal information you submit to us to countries or jurisdictions outside the EEA.  In each case we ensure that our suppliers provide adequate protection for the rights of data individuals in connection the transfer of their personal data. Currently we expect all suppliers to use the standard contractual clause approved by the European Union or be subject to Privacy Shield scheme in the United States.
 
-We will never sell or share your personal information for direct marketing purposes with any other organisation outside of the Labour Party.
+We will never sell or share your personal information to other organisations for their direct marketing purposes without your explicit consent.
 
 You may remove or change your details at any time. You have right of access to your personal information held on our files by written request to the data protection officer (address below) and on payment of an administration fee.
 
@@ -19,7 +19,7 @@ You may remove or change your details at any time. You have right of access to y
 When you register onto the site or subscribe to our emails, we ask you for contact information (such as your name and e-mail address), geographic information (such as your postcode and constituency), and other details about you and your interests. This is used to help us provide you with information to match your interests. We may also use it to alert you of campaigns you may be interested in and events happening in your area.
 
 **Joining the Party and renewing your membership online**  
-We collect the required information in order to check you meet the conditions of and help you fulfil the opportunities provided by membership of the Labour Party. At your option, we ask for additional information such as gender, date of birth and trade union membership to help us provide a better membership service to you.
+We collect the required information in order to check you meet the conditions of and help you fulfil the opportunities provided by membership of the Labour Party. At your option, we ask for additional information such as gender, ethnicity, disability, date of birth and trade union membership to help us provide a better membership service to you. The Labour Party and its elected representatives nationally and locally, as well as candidates seeking selection in internal Labour Party contests may contact you using this information. In order to check you maintain the conditions of and help you fulfil the opportunities provided by membership of the Labour Party, we may also use any information which you have made public, caused others to make public or which is already in the public domain.
 
 **To volunteer (pledge your support)**  
 We ask for your contact details, postcode and information on the type of volunteer work you are interested in. This information helps us identify suitable volunteer opportunities for you within the Party. Your details will be forwarded to the appropriate local or regional party officer who can then contact you.
@@ -58,3 +58,5 @@ London
 SW1E 6QT
 
 We will continue to evaluate our efforts to protect your information and will update our privacy policy whenever necessary.
+
+Data Controller for the purposes of the Data Protection Act: Mr J. Stolliday
