@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindistop.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624163620id_/http%3A//www.hindistop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindistop.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008054634id_/http%3A//hindistop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HindiStop Home of News, Reviews & Opinions
 
@@ -15,3 +15,5 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 The Privacy policy of this website would be regulated on constant basis in-order to ahere to the current standards of privacy in the online world. It is our responsibilty to ensure that user feels comfortable using this website and we would keep ensuring that our policies are upto mark.
 
 Please contact us at contact@apne.tv for any questions and we do not take any responsibilty for any factors that are not in-control of the site’s owner that would result in breach of privacy.
+
+Strict Standards: Only variables should be assigned by reference in /var/www/vhosts/hindistop.com/wp-content/themes/premium-style/comments.php on line 27 
