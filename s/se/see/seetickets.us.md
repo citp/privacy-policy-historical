@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seetickets.us privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628050418id_/http%3A//info.seetickets.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seetickets.us privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009003841id_/http%3A//info.seetickets.us/privacy) for the most accurate reproduction.*
 
 # Privacy : See Tickets
 
