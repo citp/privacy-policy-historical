@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065229id_/http%3A//melbourneairport.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008144720id_/http%3A//melbourneairport.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Melbourne Airport
 
@@ -83,13 +83,13 @@ We may use your information to advertise or promote products or services (includ
 
 If you do not want us to contact you about products or services you can **opt-out of all further communication** or certain types of communication by contacting our Privacy Officer using the contact details below, or using an unsubscribe facility in an email.
 
-**Website**
+**Website and WiFi**
 
-When you visit our website, we may collection information such as the time and date of your visit, your server address and your browser type. When you use the "Contact Us" page on our website we may store any information you send us so we can respond to you if necessary.
+When you access our website or the WiFi service we provide _,_ we may collect information such as the time and date of your access, your server address and your browser type. When you use the "Contact Us" page on our website we may store any information you send us so we can respond to you if necessary.
 
-We may place and access any cookies on your browser.  In some cases We, our service providers or third parties may use cookies in connection with activities like surveys, online behavioural advertising and website analytics. The services we may use from time to time include Google Analytics Advertising Features (Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, Integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers). You can find more details in the privacy policies for those services, including information on how to opt-out of Google Analytics at [**https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/).
+We may place and access any cookies on your browser.  We, our service providers or third parties may use cookies to understand your use of our website or our WiFi service _,_ to deliver relevant survey opportunities or for advertising _._ The services we may use from time to time include Google Analytics Advertising Features (Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, Integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers). You can find more details in the privacy policies for those services, including information on how to opt-out of Google Analytics at [ **https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/).
 
-Our online services may contain links to other sites. We are not responsible for the privacy practices or policies of those sites and recommend that you review their privacy policies.
+Our online __ services may contain links to other sites. We are not responsible for the privacy practices or policies of those sites and recommend that you review their privacy policies.
 
 **Complaints, questions and concerns**
 
@@ -119,4 +119,4 @@ Sydney  NSW  2001
 
 **Changes to this Privacy Policy**
 
-We may, from time to time, update this Privacy Policy without notice to you.  The current Privacy Policy will always be available at [**http://melbourneairport.com.au/privacy-policy.html**](http://melbourneairport.com.au/privacy-policy.html)
+We may, from time to time, update this Privacy Policy without notice to you.  The current Privacy Policy will always be available at [**http://melbourneairport.com.au/privacy-policy.html**](https://web.archive.org/privacy-policy.html)
