@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinepolisusa.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530115226id_/http%3A//www.cinepolisusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinepolisusa.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008102104id_/http%3A//cinepolisusa.com/home/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Cinépolis Luxury Cinemas
+# Privacy
 
 #### PRIVACY POLICY
 
@@ -8,9 +8,9 @@ Thank you for visiting www.cinepolisusa.com. We value our customers and are comm
 
 California Cinema Investments Inc. operates this website/site ([http://www.cinepolisusa.com](http://www.cinepolisusa.com/)) (the “Site”) and the digital platforms (by using mobile devices such as iPhone®, iPad®, BlackBerry®, Android® and any other platforms or devices, web sites or micro websites used by us) (“Digital Platforms”), and this Privacy Policy (“Policy”) discloses the privacy practices for this website and for the digital platforms and the related services and activities offered through them (collectively referred to as our “Site” and/or “Digital Platforms”). California Cinema Investments Inc. and its affiliates and subsidiaries (collectively referred to as “Cinépolis Luxury Cinemas”, “us”, “we” and “our”) are dedicated to your online privacy.
 
-This Policy is subject to and fully incorporates our Site and Digital Platforms Terms of Use (<http://www.cinepolisusa.com/terms-of-service.aspx>). By accessing and using our Site and Digital Platforms, you agree to be bound by all the terms and conditions of this Policy and the Site Terms of Use. If you do not agree to be bound to these terms and conditions and Policy, do not access or use our Site or Digital Platforms.
+This Policy is subject to and fully incorporates our Site and Digital Platforms Terms of Use ([http://www.cinepolisusa.com/home/terms](https://web.archive.org/home/terms)). By accessing and using our Site and Digital Platforms, you agree to be bound by all the terms and conditions of this Policy and the Site Terms of Use. If you do not agree to be bound to these terms and conditions and Policy, do not access or use our Site or Digital Platforms.
 
-**Please read the following carefully.**
+ **Please read the following carefully.**
 
   
 
