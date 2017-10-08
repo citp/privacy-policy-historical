@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219101507id_/https%3A//www.yelp.com.au/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com.au privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008035700id_/https%3A//www.yelp.com.au/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
@@ -90,9 +90,7 @@ If you believe that Yelp has not adhered to this Privacy Policy, you may contact
 
 Yelp Ireland Ltd.  
 Attn: Data Privacy Manager  
-Styne House  
-First Floor  
-Upper Hatch Street  
+70 Sir John Rogerson’s Quay  
 Dublin 2, Ireland 
 
 ## 9\. International Data Transfer
