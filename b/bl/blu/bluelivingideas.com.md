@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bluelivingideas.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421042622id_/http%3A//bluelivingideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelivingideas.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008230236id_/http%3A//bluelivingideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blue Living Ideas
 
 **BlueLivingIdeas Privacy Policy**  
 Date Last Revised: December 15 2016
 
-**[Contact us](mailto:accounts@importantmedia.org) if you have any questions or concerns.**
+**[Contact us](mailto:hello@bluelivingideas.com) if you have any questions or concerns.**
 
 This privacy policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our website, emails, and mobile applications (“Site”) and how we use that information in connection with our service offered through the Site (the “Service”). The terms “we”, “us”, “BlueLivingIdeas”, “BlueLivingIdeas.com” refer to BlueLivingIdeas.
 
@@ -117,7 +117,7 @@ This Site is intended for general audiences and is not directed to Children unde
 
 We post updates on our website whenever there is a change to our Privacy Policy We update this Privacy Policy periodically. The date last revised appears on the Policy. Changes take effect immediately upon posting.
 
-**[Contact us](mailto:accounts@importantmedia.org) if you have any questions or concerns. **
+**[Contact us](mailto:hello@bluelivingideas.com) if you have any questions or concerns. **
 
   
 
