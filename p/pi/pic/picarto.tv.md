@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picarto.tv privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829225415id_/https%3A//picarto.tv/site/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picarto.tv privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008022729id_/https%3A//picarto.tv/site/policy) for the most accurate reproduction.*
 
 # Picarto.TV - Privacy Policy
 
@@ -19,11 +19,11 @@ Your privacy is very important to us. So we have developed this Policy in order 
 
 ## Personal Data stored by Picarto.TV
 
-Picarto may store tracking data for internal use. Picarto may also store your ip-adress.
+Picarto may store tracking data for internal use. Picarto may also store your IP-address.
 
 ## Subscription
 
-Picarto may store tracking data for internal use. Picarto may also store your ip-adress.
+Picarto may store tracking data for internal use. Picarto may also store your IP-address.
 
 ## Unauthorized Access
 
