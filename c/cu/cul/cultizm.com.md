@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the cultizm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204313id_/http%3A//www.cultizm.com/shop_content.php%3FcoID%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultizm.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008145330id_/https%3A//www.cultizm.com/en/privacy) for the most accurate reproduction.*
 
-# CULTIZM - RAW DENIM. BEST BRANDS. - Privacy policy
+# Privacy | Cultizm
+
+  * Home
+  * / 
+  * Privacy
+
+
 
 Personal information are processed by us according to the statutory provisions. Information about yourself, such as name, address, email address, telephone number, bank account, credit card number will only be used for contract performance.   
 You have the right to obtain information about your stored personnel data. If you have any questions or comments write us an email to info@cultizm.com
 
 **Storage of contract text**  
-We will save the contract and send an email including the details of your order. You can always read our  general terms and conditions by following this link: ([cultizm.com/shop_content.php?coID=3](http://www.cultizm.com/shop_content.php?coID=3)). For previous orders, please refer to your personal account.
+We will save the contract and send an email including the details of your order. You can always read our  general terms and conditions by following this link: (https://cultizm-staging.com/en/terms-conditions). For previous orders, please refer to your personal account.
 
-**Coockies**  
+**Cookies**  
 To make visiting our website attractive and to allow the use of certain functions, we use cookies on various pages. These are small text files that are stored on your device. Some of the cookies we use are deleted after the end of the browser session (so-called: session cookies). Other cookies remain on your device and enable us or our partner companies to recognize your browser by visiting the website next time (persistent cookies). You can set your browser so that you are informed about the use of cookies and decide individually about their acceptance or exclude the acceptance of cookies for certain cases or in general. In the non-acceptance of cookies, the functionality of our website may be limited.
 
 **Data security  
@@ -44,3 +50,5 @@ You have (if applicable, explicitly) given the following consents. We would like
 
 **Permission for advertisement via email**  
 I would like to receive interesting news and offers regularly via email. My email address will not be given to any other companies. I can always revoke my consent for storing and using my email address for the purpose of advertisement with effect for the future, without incurring any costs other than the transmission costs in accordance with the basic tariffs.
+
+In order to give you a better service Cultizm uses cookies. By continuing to browse the site you are agreeing to our [use of cookies](https://web.archive.org/en/privacy). Yes, I agree
