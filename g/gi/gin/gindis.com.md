@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gindis.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512035012id_/http%3A//www.igindis.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gindis.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008194357id_/http%3A//www.igindis.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Army Commander II
 
