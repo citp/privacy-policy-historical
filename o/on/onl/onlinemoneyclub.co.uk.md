@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619083355id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009013451id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Online Money Club
 
