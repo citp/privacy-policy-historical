@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelastlineofdefense.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022314id_/http%3A//thelastlineofdefense.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelastlineofdefense.org privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008073804id_/http%3A//thelastlineofdefense.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Americas Last Line of Defense
 
