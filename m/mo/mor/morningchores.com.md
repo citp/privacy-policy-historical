@@ -1,57 +1,131 @@
-> *The following text is extracted and transformed from the morningchores.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091944id_/http%3A//morningchores.com/disclaimer-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningchores.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008053242id_/https%3A//morningchores.com/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer, Disclosure, Privacy Policy
+# Privacy Policy
 
-## Earnings Disclaimer
+Last Edited on 2017-05-05
 
-MorningChores is part of several affiliate sales networks. This means that many of the companies whose products you see listed on this site pay us referral fees for sending them customers for certain products of theirs.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-When you click to buy those products using the links that you find on this site, we receive compensation from the company that sells the product. Being a part of these networks makes it possible to support the development of this website and keep the information free to our loyal readers.
+### What personal information do we collect from the people that visit our website?
 
-We greatly appreciate it when you choose to use our links to buy products and we aim to be upfront about products we receive compensation for.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-Affiliate networks include Clickbank, Commission Junction, Amazon.com and many other smaller affiliate networks.
+We collect information from you when you place an order, subscribe to a newsletter or enter information on our site, and provide us with feedback on our products or services.
 
-* * *
+### How do we use your information?
 
-## FDA Disclaimer
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-The information contained on MorningChores is intended for informational and educational purposes only. Any statements made on this website have not been evaluated by the FDA and any information or products discussed are not intended to diagnose, cure, treat or prevent any disease or illness. Please consult a healthcare practitioner before making changes to your diet or taking supplements that may interfere with medications.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
+  * To follow up with them after correspondence (live chat, email or phone inquiries)
 
-* * *
 
-## Amazon Disclosure
 
-MorningChores is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.com.
+### How do we protect your information?
 
-* * *
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-## Privacy & Cookie Policy
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-MorningChores takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-#### Routine Information Collection
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+### Do we use ‘cookies'?
 
-#### Cookies and Web Beacons
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Where necessary, MorningChores uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+We use cookies to:
 
-Advertising partners and other third parties may also use cookies, scripts, and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+  * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-#### Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
 
-#### Special Note About Google Advertising
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly. Some of the features that make your site experience more efficient and may not function properly.
 
-#### Collected contact information
+### Third-party disclosure
 
-We will not sell or share your personal information with third parties. We will use the information to respond to inquiries. From time to time, we may contact you about new content, products, services or events that are relevant to your interests.
+We do not sell, trade, or otherwise, transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
 
-#### Contact Information
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Please use the [contact form](http://morningchores.com/contact/) if you have further concern or questions.
+### Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Google
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+We have implemented the following:
+
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Opting out:
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA, we agree to the following:
+
+  * Users can visit our site anonymously.
+  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.Our Privacy Policy link includes the word ‘Privacy' and can easily be found on the page specified above.
+
+
+
+You will be notified of any Privacy Policy changes on our Privacy Policy Page.
+
+You can change your personal information by emailing us.
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. It's also important to note that we allow third-party behavioral tracking
+
+In order to be in line with Fair Information Practices we will notify you within 7 business days should a data breach occur.
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+### CAN-SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Process orders and to send information and updates pertaining to orders.
+  * Send you additional information related to your product and/or service
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+To be in accordance with CANSPAM, we agree to the following:
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email, and we will promptly remove you from ALL correspondence.
