@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rexall.ca privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609024514id_/http%3A//www.rexall.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexall.ca privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008124231id_/http%3A//www.rexall.ca/privacy-policy) for the most accurate reproduction.*
 
 # Rexall.ca | Privacy
 
