@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supersport.co.za privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320125011id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersport.co.za privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009011017id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DStv Website Privacy Policy
 
 6.1    us, namely MultiChoice Africa (Pty) Ltd and/or Electronic Media Network Ltd and/or SuperSport International (Pty) Ltd, or MultiChoice Operations (Pty) Ltd as agents of these entities, and their successors-in-title;    
 6.2    you, namely a person who accesses our site, regardless of the device which you use to access it (e.g. a computer, mobile phone, tablet etc).  
