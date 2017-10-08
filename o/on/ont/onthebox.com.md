@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608184201id_/http%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008094821id_/http%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | OnTheBox
 
@@ -98,7 +98,7 @@ Where you contribute to OnTheBox.com, Olderiswiser Media Limited will generally 
 
 Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Media Limited holds about you and to have any inaccuracies corrected. We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.
 
-Please address requests to the Data Protection Officer, OnTheBox.com, Olderiswiser Media Limited, Suite 313b, 25 Nutford Place, London W1H 5YQ.
+Please address requests to the Data Protection Officer, OnTheBox.com, Olderiswiser Media Limited, 16 Leigham Court Road, Streatham, London SW16 2PJ.
 
  **11\. Changes to Olderiswiser Media Limited’s Privacy Policy**
 
@@ -126,11 +126,13 @@ If you have any questions or comments about this Privacy Policy please contact;
 
 OnTheBox.com  
 Olderiswiser Media Limited  
-Suite 313b,  
-25 Nutford Place,  
-London W1H 5YQ  
+16 Leigham Court Road,  
+Streatham,  
+London SW16 2PJ  
 Tel: (020) 7034 1900
 
  _Privacy Policy/OnTheBox.com (October 2016)_
+
+Privacy policy | OnTheBox
 
 We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok[Read more](http://www.onthebox.com/privacy-policy/)
