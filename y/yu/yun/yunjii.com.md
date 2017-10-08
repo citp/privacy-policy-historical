@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yunjii.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609200335id_/http%3A//www.yunjii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yunjii.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008171804id_/http%3A//www.yunjii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yunjii Web Directory
 
