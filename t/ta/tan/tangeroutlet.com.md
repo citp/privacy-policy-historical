@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tangeroutlet.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609051733id_/https%3A//www.tangeroutlet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tangeroutlet.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008130140id_/http%3A//www.tangeroutlet.com/privacypolicy) for the most accurate reproduction.*
 
 # Tanger Outlets | Privacy Policy
 
