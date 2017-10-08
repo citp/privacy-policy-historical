@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alllatestnews.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110071859id_/http%3A//www.alllatestnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alllatestnews.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008091845id_/http%3A//www.alllatestnews.com/index.php/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Latest News
 
