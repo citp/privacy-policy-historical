@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiwiguru.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001718id_/http%3A//www.kiwiguru.com/page/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwiguru.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008143026id_/http%3A//www.kiwiguru.com/page/Privacy%2520Policy) for the most accurate reproduction.*
 
-# Kiwiguru - Instant Websites, Digital Marketing, Community
+# KIWIGURU.COM - Instant Websites, Marketing Expertise, Community
 
 This website privacy policy describes how Kiwiguru protects and makes use of the information you give the company when you use this website.  
 If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy.  
