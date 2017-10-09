@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marutiswift.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630052859id_/http%3A//www.marutisuzuki.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutiswift.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009074706id_/http%3A//www.marutisuzuki.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Maruti Suzuki India Limited
 
