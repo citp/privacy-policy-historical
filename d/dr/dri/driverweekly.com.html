@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the driverweekly.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606104711id_/http%3A//driverweekly.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driverweekly.com privacy policy that was archived on 2017-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171009093554id_/http%3A//driverweekly.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -18,7 +18,9 @@
 	<link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<!--Jquery-->
 	<title>Driver Weekly</title>
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&amp;version=v2.5&amp;appId=1026846937374850"></script><script type="text/javascript" async="" defer="" src="//fatsharktech.com/piwik/piwik.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&amp;version=v2.5&amp;appId=1026846937374850"></script><script type="text/javascript" async="" defer="" src="//smilingsharkdata.com/piwik/piwik.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script src="/js/ads.js" type="text/javascript"></script>
+    
 	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -38,6 +40,12 @@
   ga('send', 'pageview');
 
 </script>
+
+<!-- Sortable Tag -->
+<script src="//tags-cdn.deployads.com/a/driverweekly.com.js" async=""></script>
+
+<!-- Sulvo Tag -->
+<script src="//surgeprice.com/display/async/BHZp5GBQ8F2hN5tko/driverweekly.com/ariel.js" data-cfasync="false"></script>
 
 <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10000344'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
 
@@ -71,7 +79,7 @@ _atrk_opts = { atrk_acct:"32lJk1ao6C52kU", domain:"driverweekly.com",dynamic: tr
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//fatsharktech.com/piwik/";
+    var u="//smilingsharkdata.com/piwik/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', '1']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
@@ -82,9 +90,20 @@ _atrk_opts = { atrk_acct:"32lJk1ao6C52kU", domain:"driverweekly.com",dynamic: tr
 
 <meta name="msvalidate.01" content="7EC557F45628A1390A5AABF95F32E32F">
 
-<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script></head>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+
+<script type="text/javascript" src="/js/speedshift-collapse.js"></script></head>
 
 <body>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		if( window.canRunAds === undefined ){
+			$('#removal-request').modal('show');
+		}
+	});
+</script>
+
 <div id="fb-root"></div>
     <script>
       window.fbAsyncInit = function() {
@@ -113,17 +132,45 @@ _atrk_opts = { atrk_acct:"32lJk1ao6C52kU", domain:"driverweekly.com",dynamic: tr
     </script>
 
 <script>
-jQuery(document).on('click', 'li.ssm_pon', function(){
+jQuery(document).on('click', '#ss_default li.ssm_h', function(){
+console.log('SS Click');
 var id = jQuery(this).attr('id');
 var title = jQuery(this).attr('title');
 ga('send', {
   hitType: 'event',
   eventCategory: 'Speed Shift',
-  eventAction: 'click',
+  eventAction: 'Speed Shift Click - Default',
   eventLabel: title+' - '+id
 });
 });
 </script>
+
+<script>
+jQuery(document).on('click', '.ssm_h_nested_container li.ssm_h', function(){
+console.log('SS Click');
+var id = jQuery(this).attr('id');
+var title = jQuery(this).attr('title');
+ga('send', {
+  hitType: 'event',
+  eventCategory: 'Speed Shift',
+  eventAction: 'Speed Shift Click - In Image',
+  eventLabel: title+' - '+id
+});
+});
+</script>
+
+<script type="text/javascript" src="http://fatsharktech.com/assets/js/fatsharktech_track.js?v=0.0.0.1"></script>
+<script type="text/javascript">
+   FST_Track.init({tracking_id: 39478770});
+</script>
+
+<!-- Sulvo Surge Pricing Unit - driverweekly.com_sticky_mobile_bottom_test -->
+<div id="driverweekly.com_sticky_mobile_bottom_test" class="surgeprice">
+  <script data-cfasync="false" type="text/javascript">surgeprice.display("driverweekly.com_sticky_mobile_bottom_test");</script>
+</div>
+
+<!-- Sulvo Surge Pricing Unit - driverweekly.com_sticky_multimedia_test -->
+<script data-cfasync="false" type="text/javascript" src="//surgeprice.com/sticky_multimedia/e3b7564517af5671e62e6c6b/player.js"></script>
 <div class="wrapper">
 	<!--Header Start-->
 	<header>
@@ -156,22 +203,22 @@ ga('send', {
 								<!--<li class="col-sm-9 dropdown-right-links">
 									<ul class="list-unstyled dropdown-imgs">
 																				<li>
-											<a href="/best-in-class/road-vehicles/top-25-green-and-electric-cars.html">
-												<img src="/content/Images/0063/53t.jpg" alt="The Top 25 Green Cars">
+											<a href="/best-in-class/road-vehicles/25-best-cars-and-trucks-buy-rural-driving.html">
+												<img src="/content/Images/0074/72t.jpg" alt="The 25 Best Cars and Trucks to Buy for the Country">
 											</a>
-											<a href="/best-in-class/road-vehicles/top-25-green-and-electric-cars.html" class="img-text">The Top 25 Green Cars</a>
+											<a href="/best-in-class/road-vehicles/25-best-cars-and-trucks-buy-rural-driving.html" class="img-text">The 25 Best Cars and Trucks to Buy for the Country</a>
 										</li>
 																				<li>
-											<a href="/best-in-class/road-vehicles/top-10-lexus-ever-built.html">
-												<img src="/content/Images/0063/31t.jpg" alt="The Top 10 Lexus Ever Built">
+											<a href="/best-in-class/road-vehicles/25-best-classic-cars-to-work-on-yourself.html">
+												<img src="/content/Images/0074/16t.jpg" alt="The 25 Best Classic Cars To Work On Yourself">
 											</a>
-											<a href="/best-in-class/road-vehicles/top-10-lexus-ever-built.html" class="img-text">The Top 10 Lexus Ever Built</a>
+											<a href="/best-in-class/road-vehicles/25-best-classic-cars-to-work-on-yourself.html" class="img-text">The 25 Best Classic Cars To Work On Yourself</a>
 										</li>
 																				<li>
-											<a href="/best-in-class/road-vehicles/classic-1962-ferrari-250-gto.html">
-												<img src="/content/Images/0062/96t.jpg" alt="Classic 1962 Ferrari 250 GTO">
+											<a href="/best-in-class/road-vehicles/cars-we-wish-we-could-still-buy.html">
+												<img src="/content/Images/0073/93t.jpg" alt="25 Cars We Wish We Could Still Buy">
 											</a>
-											<a href="/best-in-class/road-vehicles/classic-1962-ferrari-250-gto.html" class="img-text">Classic 1962 Ferrari 250 GTO</a>
+											<a href="/best-in-class/road-vehicles/cars-we-wish-we-could-still-buy.html" class="img-text">25 Cars We Wish We Could Still Buy</a>
 										</li>
 																			</ul>
 								</li>-->
@@ -190,22 +237,22 @@ ga('send', {
 								<!--<li class="col-sm-9 dropdown-right-links">
 									<ul class="list-unstyled dropdown-imgs">
 																				<li>
-											<a href="/must-have/accessories/top-five-driving-monitors-for-families.html">
-												<img src="/content/Images/0061/60t.jpg" alt="Top Five Driving Monitors for Families">
+											<a href="/must-have/driving-tips/how-to-buy-a-used-car-tips.html">
+												<img src="/content/Images/0041/99t.jpg" alt="Used Car Buying Tips">
 											</a>
-											<a href="/must-have/accessories/top-five-driving-monitors-for-families.html" class="img-text">Top Five Driving Monitors for Families</a>
+											<a href="/must-have/driving-tips/how-to-buy-a-used-car-tips.html" class="img-text">Used Car Buying Tips</a>
 										</li>
 																				<li>
-											<a href="/must-have/accessories/electric-vehicle-market-is-still-stalled.html">
-												<img src="/content/Images/0044/21t.jpg" alt="Electric Vehicle Market is Still Stalled">
+											<a href="/must-have/driving-tips/how-to-jumpstart-a-car.html">
+												<img src="/content/Images/0070/77t.jpg" alt="Driver Basics: How to Jumpstart a Car">
 											</a>
-											<a href="/must-have/accessories/electric-vehicle-market-is-still-stalled.html" class="img-text">Electric Vehicle Market is Still Stalled</a>
+											<a href="/must-have/driving-tips/how-to-jumpstart-a-car.html" class="img-text">Driver Basics: How to Jumpstart a Car</a>
 										</li>
 																				<li>
-											<a href="/must-have/driving-tips/formula-1-is-liberty-media-the-right-owner.html">
-												<img src="/content/Images/0061/51t.jpg" alt="Formula 1: Is Liberty Media the Right Owner?">
+											<a href="/must-have/accessories/callaway-aerowagen-corvette-z06.html">
+												<img src="/content/Images/0066/78t.jpg" alt="The Callaway AeroWagen Corvette Z06 Conversion">
 											</a>
-											<a href="/must-have/driving-tips/formula-1-is-liberty-media-the-right-owner.html" class="img-text">Formula 1: Is Liberty Media the Right Owner?</a>
+											<a href="/must-have/accessories/callaway-aerowagen-corvette-z06.html" class="img-text">The Callaway AeroWagen Corvette Z06 Conversion</a>
 										</li>
 																			</ul>
 								</li>-->
@@ -224,22 +271,22 @@ ga('send', {
 								<!--<li class="col-sm-9 dropdown-right-links">
 									<ul class="list-unstyled dropdown-imgs">
 																				<li>
-											<a href="/best-in-class/road-vehicles/classic-1962-ferrari-250-gto.html">
-												<img src="/content/Images/0062/96t.jpg" alt="Classic 1962 Ferrari 250 GTO">
+											<a href="/reviews/suvs/2017-hyundai-tucson-review.html">
+												<img src="/content/Images/0074/36t.jpg" alt="2017 Hyundai Tucson Review">
 											</a>
-											<a href="/best-in-class/road-vehicles/classic-1962-ferrari-250-gto.html" class="img-text">Classic 1962 Ferrari 250 GTO</a>
+											<a href="/reviews/suvs/2017-hyundai-tucson-review.html" class="img-text">2017 Hyundai Tucson Review</a>
 										</li>
 																				<li>
-											<a href="/reviews/trucks/2017-chevrolet-colorado-zr2.html">
-												<img src="/content/Images/0062/65t.jpg" alt="2017 Chevrolet Colorado ZR2 Preview">
+											<a href="/reviews/cars/2017-ford-fiesta-review.html">
+												<img src="/content/Images/0074/32t.jpg" alt="2017 Ford Fiesta Review">
 											</a>
-											<a href="/reviews/trucks/2017-chevrolet-colorado-zr2.html" class="img-text">2017 Chevrolet Colorado ZR2 Preview</a>
+											<a href="/reviews/cars/2017-ford-fiesta-review.html" class="img-text">2017 Ford Fiesta Review</a>
 										</li>
 																				<li>
-											<a href="/reviews/cars/2017-porsche-panamera-review.html">
-												<img src="/content/Images/0061/62t.jpg" alt="2017 Porsche Panamera Review">
+											<a href="/reviews/cars/best-used-jaguars-on-budget.html">
+												<img src="/content/Images/0069/79t.jpg" alt="The 5 Best Used Jaguars on a Budget">
 											</a>
-											<a href="/reviews/cars/2017-porsche-panamera-review.html" class="img-text">2017 Porsche Panamera Review</a>
+											<a href="/reviews/cars/best-used-jaguars-on-budget.html" class="img-text">The 5 Best Used Jaguars on a Budget</a>
 										</li>
 																			</ul>
 								</li>-->
@@ -258,22 +305,22 @@ ga('send', {
 								<!--<li class="col-sm-9 dropdown-right-links">
 									<ul class="list-unstyled dropdown-imgs">
 																				<li>
-											<a href="/road-trips/america/best-classic-car-shows-and-events-in-america.html">
-												<img src="/content/Images/0052/10t.jpg" alt="Best Classic Car Shows and Events in America">
+											<a href="/road-trips/world/deadliest-roads-in-the-world.html">
+												<img src="/content/Images/0074/46t.jpg" alt="The 25 Deadliest Roads in the World">
 											</a>
-											<a href="/road-trips/america/best-classic-car-shows-and-events-in-america.html" class="img-text">Best Classic Car Shows and Events in America</a>
+											<a href="/road-trips/world/deadliest-roads-in-the-world.html" class="img-text">The 25 Deadliest Roads in the World</a>
 										</li>
 																				<li>
-											<a href="/road-trips/america/lake-tahoe-road-trip.html">
-												<img src="/content/Images/0051/60t.jpg" alt="Lake Tahoe Road Trip">
+											<a href="/road-trips/america/how-to-pack-car-for-road-trip.html">
+												<img src="/content/Images/0073/89t.jpg" alt="How To Pack Your Car for a Long Road Trip">
 											</a>
-											<a href="/road-trips/america/lake-tahoe-road-trip.html" class="img-text">Lake Tahoe Road Trip</a>
+											<a href="/road-trips/america/how-to-pack-car-for-road-trip.html" class="img-text">How To Pack Your Car for a Long Road Trip</a>
 										</li>
 																				<li>
-											<a href="/road-trips/world/mumbai-to-goa-road-trip.html">
-												<img src="/content/Images/0051/03t.jpg" alt="Mumbai to Goa Road Trip">
+											<a href="/road-trips/america/5-best-road-trips-motorcycles-usa.html">
+												<img src="/content/Images/0072/87t.jpg" alt="The 5 Best Road Trips in America for Motorcycles">
 											</a>
-											<a href="/road-trips/world/mumbai-to-goa-road-trip.html" class="img-text">Mumbai to Goa Road Trip</a>
+											<a href="/road-trips/america/5-best-road-trips-motorcycles-usa.html" class="img-text">The 5 Best Road Trips in America for Motorcycles</a>
 										</li>
 																			</ul>
 								</li>-->
@@ -665,58 +712,16 @@ Last Edited on 2014-12-17</p>
 								<div class="adds">
 																		<div class="placement widget">
 										<div id="lb-2d" class="placement">
+  <div class="ad-tag" data-ad-name="dw-right-rail-1" data-ad-size="300x250"></div>
+<script src="//tags-cdn.deployads.com/a/driverweekly.com.js" async=""></script>
+<script>(deployads = window.deployads || []).push({});</script>
   <p class="advertisement" style="text-align:center;">
     <a href="mailto:advertise@driverweekly.com">ADVERTISEMENT</a>
   </p>
-  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- dw-right-rail-1 -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7626751441236655" data-ad-slot="2857676727" data-ad-format="rectangle"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>									</div>
 																	</div>
-
-								<div class="recent-post">
-									<h2>Recent Posts</h2>
-									
-																		<div class="recent-blogs">
-										<a href="/best-in-class/road-vehicles/top-25-green-and-electric-cars.html"><div class="image" style="background-image: url(/content/Images/0063/53t.jpg); background-size: cover;"></div></a>
-										<p><a href="/best-in-class/road-vehicles/top-25-green-and-electric-cars.html">The Top 25 Green Cars</a></p>
-										<span>Jun  5, 2017</span>
-									</div>
-																		<div class="recent-blogs">
-										<a href="/best-in-class/road-vehicles/top-10-lexus-ever-built.html"><div class="image" style="background-image: url(/content/Images/0063/31t.jpg); background-size: cover;"></div></a>
-										<p><a href="/best-in-class/road-vehicles/top-10-lexus-ever-built.html">The Top 10 Lexus Ever Built</a></p>
-										<span>Jun  2, 2017</span>
-									</div>
-																		<div class="recent-blogs">
-										<a href="/best-in-class/road-vehicles/classic-1962-ferrari-250-gto.html"><div class="image" style="background-image: url(/content/Images/0062/96t.jpg); background-size: cover;"></div></a>
-										<p><a href="/best-in-class/road-vehicles/classic-1962-ferrari-250-gto.html">Classic 1962 Ferrari 250 GTO</a></p>
-										<span>Jun  1, 2017</span>
-									</div>
-																	</div>
-
-								<div class="adds text-center">
-																		<div class="widget placement">
-                                    	<div id="lb-2d" class="placement">
-  <p class="advertisement" style="text-align:center;">
-    <a href="mailto:advertise@driverweekly.com">ADVERTISEMENT</a>
-  </p>
-  <style>
-.dw-right-rail-2 { width: 300px; height: 250px; margin:0 auto; }
-@media(min-width: 480px) { .dw-right-rail-2 { width: 300px; height: 600px; margin:0 auto; } }
-</style>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- dw-right-rail-2 -->
-<ins class="adsbygoogle dw-right-rail-2" style="display:block" data-ad-client="ca-pub-7626751441236655" data-ad-slot="4334409920" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>									</div>
-                                    								</div>
-
-								<div class="recent-post">
+								
+                                <div class="recent-post">
 									<h2>Trending Posts</h2>
 									
 									<div class="recent-blogs">
@@ -727,43 +732,81 @@ Last Edited on 2014-12-17</p>
 									
 									<div class="recent-blogs">
 										<a href="/reviews/trucks/best-used-trucks-under-5-000.html"><div class="image" style="background-image: url(/content/Images/0032/68t.jpg); background-size: cover;"></div></a>
-										<p><a href="/reviews/trucks/best-used-trucks-under-5-000.html">Best Used Trucks Under $5,000</a></p>
+										<p><a href="/reviews/trucks/best-used-trucks-under-5-000.html">The Best Used Trucks Under $5,000</a></p>
 										<span>Mar 18, 2016</span>
 									</div>
 									
 									<div class="recent-blogs">
-										<a href="/best-in-class/road-vehicles/cheapest-cars-to-maintain.html"><div class="image" style="background-image: url(/content/Images/0041/07t.jpg); background-size: cover;"></div></a>
-										<p><a href="/best-in-class/road-vehicles/cheapest-cars-to-maintain.html">The Cheapest Cars to Maintain Over 10 Years</a></p>
-										<span>Jul  5, 2016</span>
+										<a href="/best-in-class/road-vehicles/25-best-supercars.html"><div class="image" style="background-image: url(/content/Images/0058/87t.jpg); background-size: cover;"></div></a>
+										<p><a href="/best-in-class/road-vehicles/25-best-supercars.html">The 25 Best Supercars in the World</a></p>
+										<span>May  8, 2017</span>
 									</div>
 																	</div>
+                                
+								
 
-								<div class="adds">
-																	</div>
+								<div class="adds text-center">
+																		<div class="widget placement">
+                                    	<div id="lb-2d" class="placement">
+  <div class="ad-tag" data-ad-name="dw-right-rail-2" data-ad-size="300x250"></div>
+<script src="//tags-cdn.deployads.com/a/driverweekly.com.js" async=""></script>
+<script>(deployads
+= window.deployads || []).push({});</script>
+
+  <p class="advertisement" style="text-align:center;">
+    <a href="mailto:advertise@driverweekly.com">ADVERTISEMENT</a>
+  </p>
+</div>									</div>
+                                    								</div>
 
 								<div class="recent-post">
-									<h2>Featured Videos</h2>
+									<h2>Recent Posts</h2>
 									
-									<div class="recent-blogs">
-										<a href="/road-trips/america/three-sprightly-seniors-react-to-speeding-in-a-650hp-lamborghini.html"><div class="image" style="background-image: url(/content/Images/0043/83t.jpg); background-size: cover;"></div></a>
-										<p><a href="/road-trips/america/three-sprightly-seniors-react-to-speeding-in-a-650hp-lamborghini.html">Sprightly Seniors React to Speeding in a 650hp Lamborghini</a></p>
-										<span>Aug 26, 2016</span>
+																		<div class="recent-blogs">
+										<a href="/reviews/suvs/2017-hyundai-tucson-review.html"><div class="image" style="background-image: url(/content/Images/0074/36t.jpg); background-size: cover;"></div></a>
+										<p><a href="/reviews/suvs/2017-hyundai-tucson-review.html">2017 Hyundai Tucson Review</a></p>
+										<span>Oct  4, 2017</span>
 									</div>
-									
-									<div class="recent-blogs">
-										<a href="/best-in-class/road-vehicles/rimac-electric-supercar-vs-laferrari.html"><div class="image" style="background-image: url(/content/Images/0043/50t.jpg); background-size: cover;"></div></a>
-										<p><a href="/best-in-class/road-vehicles/rimac-electric-supercar-vs-laferrari.html">Rimac Electric Supercar vs. LaFerrari</a></p>
-										<span>Aug 18, 2016</span>
+																		<div class="recent-blogs">
+										<a href="/best-in-class/road-vehicles/25-best-cars-and-trucks-buy-rural-driving.html"><div class="image" style="background-image: url(/content/Images/0074/72t.jpg); background-size: cover;"></div></a>
+										<p><a href="/best-in-class/road-vehicles/25-best-cars-and-trucks-buy-rural-driving.html">The 25 Best Cars and Trucks to Buy for the Country</a></p>
+										<span>Oct  2, 2017</span>
+									</div>
+																		<div class="recent-blogs">
+										<a href="/best-in-class/road-vehicles/25-best-classic-cars-to-work-on-yourself.html"><div class="image" style="background-image: url(/content/Images/0074/16t.jpg); background-size: cover;"></div></a>
+										<p><a href="/best-in-class/road-vehicles/25-best-classic-cars-to-work-on-yourself.html">The 25 Best Classic Cars To Work On Yourself</a></p>
+										<span>Sep  8, 2017</span>
 									</div>
 																	</div>
 
+								<div id="catcher"><!--catcher--></div>
+                                <div id="sticky">
+                            
+                                <div class="adds">
+																		<div class="widget placement">
+										<div id="lb-2d" class="placement">
+  <!-- Sulvo Surge Pricing Unit - driverweekly.com_300x600_sulvo -->
+<div id="driverweekly.com_300x600_sulvo" class="surgeprice">
+  <script data-cfasync="false" type="text/javascript">surgeprice.display("driverweekly.com_300x600_sulvo");</script>
+</div>
+  <p class="advertisement" style="text-align:center;">
+    <a href="mailto:advertise@driverweekly.com">ADVERTISEMENT</a>
+  </p>
+</div></div>
+									</div>
+																	</div>
+                                </div>
+
+								
+                                
+                                
 							</div>
-						</div>
-					</aside>
+						</aside></div>
+					
 				</div>
 			</div>
-		</div>
-	</section>
+		</section></div>
+	
 	<!--Content End-->
 
 	<!--Footer-->
@@ -817,17 +860,40 @@ Last Edited on 2014-12-17</p>
 		</div>
 	</div>
 </footer>
+	<div id="catcher2"></div>
 
-</div>
 
 <div id="footer-pixels" style="display: none;">
-	<script type="text/javascript" src="//cdn4.wibbitz.com/driver_weekly/embed.js" async=""></script>
+	</div>
 
-<script src="//t.ztsrv.com/1/l/0.5.0/frc1811565/{driverweekly}/{dw}/loader.js"></script></div>
+<div class="modal fade" tabindex="-1" role="dialog" id="removal-request">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <img src="/images/logo.png" height="50">
+      </div>
+      <div class="modal-body">
+        <p>We noticed you’re using an adblocker. We get it! We won’t block you from using our site, but advertising revenue keeps up on the road.</p>
+        
+        <p style="margin-top:15px">If you enjoy our content, please consider supporting our site by disabling your adblocker or adding us to your whitelist. Thank you!</p>
+        
+        <p style="margin-top:15px"><small class="text-muted">Don't know how to whitelist our site? If you want to whitelist our site on Adblock Plus, click <a href="https://adblockplus.org/faq_basics" target="_blank">here</a>.</small></p>
+
+		<p style="margin-top:15px"><small class="text-muted">If you want to whitelist our site on Adblock, click <a href="https://help.getadblock.com/support/solutions/articles/6000055743-how-do-i-tell-adblock-not-to-block-ads-" target="_blank">here</a>.</small></p>
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">No thanks, I don’t want to keep you on the road.</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 
 
 <!--Bootstrap-->
 <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+
 <script>
 $('.dropdown-toggle').click(function() {
     var location = $(this).attr('href');
@@ -835,5 +901,7 @@ $('.dropdown-toggle').click(function() {
     return false;
 });
 </script>
+<script src="/js/jquery.sticky-sidebar-scroll.min.js" type="text/javascript"></script>
+<script src="/js/sticky.jquery.js" type="text/javascript"></script>
 
 </body></html>
