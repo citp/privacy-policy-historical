@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519024355id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009033638id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
