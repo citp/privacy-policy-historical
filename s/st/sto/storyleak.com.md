@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyleak.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615203641id_/http%3A//www.storyleak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyleak.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009061848id_/http%3A//www.storyleak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Storyleak
 
