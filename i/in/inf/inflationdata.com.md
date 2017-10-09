@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127064250id_/https%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009153850id_/https%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -91,6 +91,6 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 Capital Professional Services, LLC is controlled, operated and administered entirely within Virginia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-### About [Lisa McMahon](http://inflationdata.com/articles/author/lisa/ "Lisa McMahon")
+### About [Lisa McMahon](https://inflationdata.com/articles/author/lisa/ "Lisa McMahon")
 
 I began designing websites for customers of our computer store in the mid '90s and formed my own company Intergalactic Web Designers in 1997. I have designed and published hundreds of web sites over the years. I am currently focusing on WordPress sites (installation, configuration, customization and maintenance).
