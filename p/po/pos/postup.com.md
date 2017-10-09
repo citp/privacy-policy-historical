@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054914id_/https%3A//www.postup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postup.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009021408id_/https%3A//www.postup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Postup
 
@@ -79,6 +79,10 @@ The Site may contain links to other sites that are not owned or controlled by us
 PostUp uses industry-standard technologies when transferring and receiving consumer information exchanged between us and other companies to help ensure its security. This Website has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are backed up regularly and protected by security systems. Please be advised that, although we take reasonable technological precautions to protect your information, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, PostUp cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Website is at your own risk.
 
 PostUp utilizes the third-party cloud services of various companies to store, use and transmit your PII and other information. These third-party cloud service providers are reputable companies, well known in our industry and they utilize current industry standard data encryption technologies and firewalls.
+
+**Privacy Shield Framework**
+
+PostUp complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. PostUp has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. For additional information about PostUp and the Privacy Shield Framework, visit https://www.postup.com/privacy-shield-notice/.
 
 **Consent to this Privacy Policy; Amendments; Notifications of Changes**
 
