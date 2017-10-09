@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the darksoulswiki.wikispaces.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045816id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darksoulswiki.wikispaces.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009084550id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Fextralife
+# Privacy Policy | Fextralife
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
 Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-**(1)      Credit**
+ **(1)      Credit**
 
 This document was created using an [SEQ Legal](http://www.seqlegal.com/free-legal-documents/privacy-policy) template.
 
-**(2)      What information do we collect?**
+ **(2)      What information do we collect?**
 
 We may collect, store and use the following kinds of personal information:
 
@@ -26,7 +26,7 @@ We may collect, store and use the following kinds of personal information:
 
 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.
 
-**(3)     Cookies**
+ **(3)     Cookies**
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -44,7 +44,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer (version 9) you can refuse all cookies by clicking “Tools”, “Internet options”, “Privacy”, and selecting “Block All Cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one.
 
-**(4)      Using your personal information**
+ **(4)      Using your personal information**
 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -74,7 +74,7 @@ We will not, without your express consent, provide your personal information to 
 
 All our website customer financial transactions are handled through Paypal and Amazon. You can review the Paypal privacy policy at www.paypal.com. You can review the Amazon privacy policy at www.amazon.com.
 
-**(5)     Disclosures**
+ **(5)     Disclosures**
 
 We may disclose your personal information to any of our volunteer staff, employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this privacy policy.
 
@@ -94,7 +94,7 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**(6)      International data transfers**
+ **(6)      International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
@@ -104,7 +104,7 @@ In addition, [personal information that you submit for publication on the websit
 
 You expressly agree to such transfers of personal information.
 
-**(7)      Security of your personal information**
+ **(7)      Security of your personal information**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -116,11 +116,11 @@ You acknowledge that the transmission of information over the internet is inhere
 
 You are responsible for keeping your password and other login details confidential. We will not ask you for your password (except when you log in to the website).
 
-**(8)      Policy amendments**
+ **(8)      Policy amendments**
 
 We may update this privacy policy from time to time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
-**(9)      Your rights**
+ **(9)      Your rights**
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
@@ -130,14 +130,14 @@ You may instruct us to provide you with any personal information we hold about y
 
 We may withhold such personal information to the extent permitted by law.
 
-**(10)    Third party websites**
+ **(10)    Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(11)    Updating information**
+ **(11)    Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(12)   Contact**
+ **(12)   Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to kinbundo@fextralife.com
