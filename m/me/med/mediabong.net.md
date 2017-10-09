@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabong.net privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521102932id_/http%3A//www.mediabong.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabong.net privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009180344id_/http%3A//vuble.tv/privacy) for the most accurate reproduction.*
 
 # Vuble - Privacy
 
@@ -60,7 +60,7 @@ The data stored on our servers are only anonymous information (ie, non-personall
 
 As your choice matters to us, we adopted a cookie opt out process. It allows you to opt out from our advertising cookie database. It means we will no longer place information in a cookie on your computer or process the information associated to the cookie.
 
-Follow the link here to proceed to opt out from our base and cookie drop: [ www.mediabong.net/optout ](http://www.mediabong.net/optout) Please note that opt out will place a special cookie on your device to do ensure we don't collect your data anymore. Please note that if you remove this cookie, you will also suppress our ability to keep you opt out.
+Follow the link here to proceed to opt out from our base and cookie drop: [ vuble.tv/optout ](http://vuble.tv/optout) Please note that opt out will place a special cookie on your device to do ensure we don't collect your data anymore. Please note that if you remove this cookie, you will also suppress our ability to keep you opt out.
 
 You can also change your browser settings in order to be informed of cookie drop, decline the cookie drop or remove cookies placed on your device. Please refer to directions provided by your favorite browser in its Help or Support section. You can find below some useful information on popular browsers:
 
