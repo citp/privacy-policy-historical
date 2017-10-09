@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indivisibleguide.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626201133id_/https%3A//www.indivisibleguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indivisibleguide.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009204337id_/https%3A//www.indivisibleguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indivisible Guide
 
