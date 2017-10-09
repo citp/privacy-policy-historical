@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the compassionuk.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093505id_/https%3A//www.compassionuk.org/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassionuk.org privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009094226id_/https%3A//www.compassionuk.org/cookies-privacy) for the most accurate reproduction.*
 
-# Cookies & Privacy
+# Cookies & privacy - How we store your data- Compassion UK
 
 ### Information Collected Through The Compassion UK website
 
 Some personal data is collected through the site when you voluntarily choose to provide us with personal data.
 
-When you create a myCompassion account on this website we will ask you for your name, e-mail address and postcode so that we can connect your account with your sponsored child. This enables you to send letters and gifts online.
+When you create a myCompassion account on this website we will ask you for your name, email address and postcode so that we can connect your account with your sponsored child. This enables you to send letters and gifts online.
 
-Any forms that you decide to fill on the website (e.g. applying to become an Advocate) will be kept strictly confidential and will adhere to our policy on sharing and using collected information below.
+Any forms that you decide to fill on the website (e.g. applying to become a Compassion Volunteer) will be kept strictly confidential and will adhere to our policy on sharing and using collected information below.
 
 ### Sharing and Usage on Collected Information
 
@@ -18,7 +18,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 Cookies are small text files that are placed on your computer by websites that you visit.
 
-To learn more about cookies, you can visit [www.aboutcookies.org](http://www.compassionuk.org/www.aboutcookies.org). You will also find details on how to block and delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+To learn more about cookies, you can visit [www.aboutcookies.org](https://www.aboutcookies.org/). You will also find details on how to block and delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
 ### The Cookies We Use:
 
@@ -37,7 +37,7 @@ This data helps us to understand:
 
 
 
-You can find out more about Google’s cookies on their privacy policy: <http://www.google.com/intl/en/policies/privacy/> You can also install the Google Analytics Opt-out tools in your browser: <https://tools.google.com/dlpage/gaoptou>t
+You can find out more about Google’s cookies on their privacy policy: <http://www.google.com/intl/en/policies/privacy/> You can also install the Google Analytics Opt-out tools in your browser: <https://tools.google.com/dlpage/gaoptout>
 
 By using our website, you agree that we can place these types of cookies on your device.
 
