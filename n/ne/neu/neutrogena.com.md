@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629202405id_/http%3A//www.neutrogena.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009031406id_/http%3A//www.neutrogena.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Neutrogena®
 
@@ -119,7 +119,7 @@ If you have any questions about this Privacy Policy, please contact us via one o
   * On the Site, via the CONTACT US section, if available
   * or by phone:  
 For Consumers and Professionals: If you are in the US, call toll-free 800-361-8068, Monday to Friday, 9am to 7pm EST. If you are outside of the US, click _https://www.ccc-consumercarecenter.com/phone_us to contact us_
-  * • or please write to the following address:  
+  * or please write to the following address:  
 Consumer Care Center, 199 Grandview Road, Skillman, NJ 08558 
 
 
