@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610095200id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010014538id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-Science in the post-truth era  
-Alain Krief, Henning Hopf, Goverdhan Mehta and Stephen A. Matlin
+Water resource management in India  
+Sharad K. Jain
 
-In 2004, Keyes declared that we live in a post-truth era – a stage of social evolution that is ‘beyond honesty’, in which ‘deception has become commonplace at all levels...
+Water is a key natural resource which is fundamental to life, livelihood, food, energy and water security and sustainable development...
 
-[...read more](https://web.archive.org/web/20170610095200id_/http%3A//www.currentscience.ac.in/php/Volumes/112/11/2173.pdf)
+[...read more](https://web.archive.org/web/20171010014538id_/http%3A//www.currentscience.ac.in/php/Volumes/113/07/1211.pdf)
 
 Privacy Policy
 
