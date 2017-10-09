@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverweekly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104711id_/http%3A//driverweekly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverweekly.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009093554id_/http%3A//driverweekly.com/privacy.html) for the most accurate reproduction.*
 
 # Driver Weekly
 
