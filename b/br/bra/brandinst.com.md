@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brandinst.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023224421id_/http%3A//brandinst.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandinst.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009034308id_/http%3A//www.brandinst.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
 [](http://www.brandinstitute.com/)
 
-This Privacy Policy governs the manner in which Brand Institute collects, uses, maintains and discloses information collected from customers, clients and survey takers (“Clients”) of Brand Institute.  This privacy policy applies to [www.brandinstitute.com](http://www.brandinstitute.com/) (“Site”) and all products and services offered by Brand Institute.
+This Privacy Policy governs the manner in which Brand Institute and its subsidiary Drug Safety Institute (collectively referred to as “Brand Institute”) collects, uses, maintains and discloses information collected from customers, clients and survey takers (“Clients”) of [Brand Institute](http://www.brandinstitute.com/).
 
 **Personal identification information**
 
