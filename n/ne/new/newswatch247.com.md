@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswatch247.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202190904id_/http%3A//newswatch247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswatch247.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009201502id_/http%3A//newswatch247.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Watch 247
 
