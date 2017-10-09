@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303224724id_/https%3A//www.texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009092300id_/https%3A//www.texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
 
 # Agency - Site Policies
 
