@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claz.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630043638id_/http%3A//claz.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claz.org privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009060441id_/http%3A//claz.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
