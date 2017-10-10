@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20sfinances.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610134251id_/http%3A//www.20sfinances.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20sfinances.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010225929id_/http%3A//www.20sfinances.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - 20s Finances
 
