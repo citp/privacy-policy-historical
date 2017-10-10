@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525200624id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010084121id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Westminster City Council
+# Website privacy policy | Westminster City Council
 
 Westminster City Council will endeavour to safeguard the privacy of its website visitors. 
 
@@ -64,8 +64,6 @@ You may view the Council's Data Protection Notification (registration number: Z5
 [Subject access form](https://www.westminster.gov.uk/sites/www.westminster.gov.uk/files/atoms/files/dpa_subject_access_form.docx)
 
 [Read more information about Data Protection](http://www.westminster.gov.uk/data-protection)
-
-[See the council's Data Protection Policy](http://transact.westminster.gov.uk/publications/)
 
 ### Contact
 
