@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044710id_/http%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010094413id_/https%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Monsters and Critics
 
-This Privacy Policy governs the manner in which Monsters and Critics collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.monstersandcritics.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Monsters and Critics.
+This Privacy Policy governs the manner in which Monsters and Critics collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.monstersandcritics.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Monsters and Critics.
 
 Personal identification information
 
