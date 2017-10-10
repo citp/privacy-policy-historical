@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628091623id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011003649id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Mail Group Ltd
 
@@ -150,17 +150,16 @@ o   Requests must be made in writing and there is a £10 fee for each request. 
 
   * ## Marketing
 
-A customer may allow Royal Mail Group to provide them with information about products and services that Royal Mail Group, or third parties Royal Mail Group has selected, which may be of interest to them. Royal Mail Group will only do this with customer consent.
-
 **Marketing preferences**
 
-You agree to receive marketing information
+A customer may allow Royal Mail Group to provide them with information about products and services that Royal Mail Group, or third parties Royal Mail Group has selected, which may be of interest to them. Royal Mail Group will only do this where a customer has agreed to receive such information. You agree to receive marketing information:
 
     * from Royal Mail Group about our products and services by choosing not to opt-out on your registration form for a Royal Mail Group website or service.
     * from Royal Mail Group about its similar products and services where you provide your details in the course of purchase or negotiations for the purchase of a product or service.
     * from third parties about their products and services by choosing to opt-in on your registration form for a Royal Mail Group website or service.
 
-The marketing channels used will, unless specifically stated otherwise, include all means of communicating with you, e.g. email, post, phone, SMS text message and other electronic means. 
+The marketing channels used may include all means of communication e.g. email, post, phone, SMS text message and other electronic means. If electronic channels are to be used this will be specifically stated when we collect your details.  
+ 
 
   * ## Changing your marketing preferences
 
