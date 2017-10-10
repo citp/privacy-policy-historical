@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203112306id_/http%3A//www.mimecast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010071439id_/http%3A//www.mimecast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Mimecast
 
