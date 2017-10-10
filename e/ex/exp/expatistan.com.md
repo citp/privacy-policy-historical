@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128160954id_/https%3A//www.expatistan.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010203235id_/https%3A//www.expatistan.com/tos) for the most accurate reproduction.*
 
 # Cost of Living
 
