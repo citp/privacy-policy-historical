@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324220608id_/http%3A//www.yoursingapore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010222420id_/http%3A//www.visitsingapore.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - YourSingapore
+# Privacy - VisitSingapore
 
 This is a Singapore Government agency website.
 
@@ -18,7 +18,7 @@ Personal data will only be collected and used for the purposes where your consen
 
 This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. If you are asked by a non-Government site to link your profile on this website to a non-Government site, or to log in to a non-Government site and link your profile on that site to this website, their content and privacy practices will also apply. You may disable this link at any time.
 
-Please contact [feedback@stb.gov.sg](mailto:feedback@stb.gov.sg): 
+Please contact [stb_feedback@stb.gov.sg](mailto:stb_feedback@stb.gov.sg): 
 
   1. For any enquires or feedback on our data protection policies and procedures, 
   2. If you require more information on or access to the data which you have earlier provided to us. 
