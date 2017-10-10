@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeisgood.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023203id_/http%3A//www.lifeisgood.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeisgood.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010133825id_/http%3A//www.lifeisgood.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Life is good Privacy Policy
 
@@ -22,6 +22,8 @@ Our Website uses Secure Sockets Layering (SSL) to encrypt your personal credit i
 
 **Will Life is good Disclose the Information it Collects to Outside Parties?**  
 We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Life is good possible and to enhance your overall shopping experience. We do not sell, trade or rent your personal information to others. The Website depends, in part, on functionality provided by third party vendors.  Some of your information may pass through the systems of these vendors in order to deliver a quality shopping experience to you.
+
+Life is Good has partnered with UPS and i-parcel for orders shipping outside the United States. International shoppers now get the benefit of seeing product prices in their local currency, guaranteed order totals and cost effective international shipping. To see the i-parcel privacy policy, please go here:[ https://www.i-parcel.com/en/i-parcel-online-privacy-notice/](https://www.i-parcel.com/en/i-parcel-online-privacy-notice/)
 
   
 **Tell Us What You Think**  
