@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capturingmagicalmemories.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530024649id_/https%3A//www.capturingmagicalmemories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capturingmagicalmemories.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010223336id_/https%3A//www.capturingmagicalmemories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Capturing Magical Memories
 
