@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigassfans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154632id_/http%3A//www.bigasssolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigassfans.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010023640id_/http%3A//www.bigasssolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Ass Solutions
 
