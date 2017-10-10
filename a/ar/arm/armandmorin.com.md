@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armandmorin.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607055333id_/http%3A//armandmorin.com/files/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armandmorin.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010130832id_/http%3A//www.armandmorin.com/files/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
