@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615003203id_/http%3A//www.columbiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010212826id_/http%3A//columbiasouthern.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
