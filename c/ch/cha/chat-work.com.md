@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chat-work.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628030350id_/http%3A//www.chatwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-work.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010234044id_/http%3A//www.chatwork.com/privacy.html) for the most accurate reproduction.*
 
 # ChatWork | Privacy policy
 
