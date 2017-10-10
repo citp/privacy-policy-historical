@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snw.media privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501224015id_/http%3A//www.snw.media/uploads/Privacy%2520Policy-1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snw.media privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010190146id_/http%3A//snw.media/uploads/Privacy%2520Policy-1.pdf) for the most accurate reproduction.*
 
 # 
 
