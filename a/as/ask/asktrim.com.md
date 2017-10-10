@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609045412id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010215344id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
 
 # Trim: An Assistant That Saves You Money
 
-Last updated: 10/18/2016
+Last updated: 8/2/2017
 
 Please read this Privacy Policy (the “Privacy Policy", "Policy") carefully before using the asktrim.com website (the "Service") operated by Ask Benjamin Inc. ("us", "we", "our", or the “Company”).
 
@@ -12,12 +12,12 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 **Information We Collect**
 
-_When you open an account_ , we may ask you to provide us with certain 'Personal Information' that can be used to contact or identify you, verify your identity, address or other information or to manage risk and compliance throughout our relationship. We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders and improving our services. **'Personal Information' means data that identifies you and is associated with a specific person. Personal information does not include information that is anonymous, aggregated, or is no longer identifiable to a specific person.**
+_When you open an account_ , we may ask you to provide us with certain 'Personal Information' that can be used to contact or identify you, verify your identity, address or other information or to manage risk and compliance throughout our relationship. We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders and improving our services. **'Personal Information' means data that identifies you and is associated with a specific person. 'Personal Information' does not include information that is anonymous, aggregated, or is no longer identifiable to a specific person.**
 
-  * **Account Information** \- text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information. 
+  * **Account Information** \- text-enabled cellular/wireless telephone number, machine or mobile device ID, Facebook ID, Facebook Messenger ID, and other similar information. 
   * **Personal Identification Information (“Personal Information”)** \- your name, date of birth, email address, phone number, street address, billing address and other information. 
   * **We also may obtain information about you** : (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards. 
-  * **Financial Information** \- financial data, financial account data, financial product information, account credentials, bank account and routing numbers and credit cards linked to your user account. We may analyze this information, use this information in or for a comparative context, or combine it with other information from third parties.  **Billing, Pricing, and Plan Information** \- data about the price and service plans for your bills, subscriptions, recurring payments, or other payments, along with other information associated with those accounts, including but not limited to account numbers, account credentials, billing addresses, or additional information about your relationship with third-party vendors. 
+  * **Financial Information** \- financial data, financial account data, financial product information, account credentials, bank account and routing numbers and credit cards linked to your user account. We may analyze this information, use this information in or for a comparative context, or combine it with other information from third parties.  **Billing, Pricing, and Plan Information** \- data about the price and service plans for your bills, subscriptions, recurring payments, or other payments, along with other information associated with those accounts, including but not limited to account numbers, account credentials, billing addresses, or additional information about your relationship with third-party vendors.  **Social Media Information** \- data provided by Facebook and Facebook Messenger if you choose to connect these accounts.  **E-Commerce Purchase Information** \- data about historical purchases, including date, item, price, shipping information, billing information, and other related information. 
 
 
 
@@ -31,7 +31,7 @@ Finally, we may collect additional information from or about you in other ways n
 
 **Use of Information Collected by Us**
 
-Our primary purpose in collecting Personal Information is to provide you with a safe, smooth, efficient, fun and customized experience. We may use your Personal Information to: provide the services and customer support you request; attempt to save you money; process transactions and send notices about your transactions or your network activity; resolve disputes, collect fees and troubleshoot problems; prevent potentially fraudulent, prohibited or illegal activities, customize, personalize, measure, and improve our services and the content and layout of our website; send you updates about new products and services that we are offering to customers; compare information for accuracy and verify it with third parties; and perform other duties as required by law.
+Our primary purpose in collecting Personal Information is to provide you with a safe, smooth, efficient, fun and customized experience. We may use your Personal Information to: provide the services and customer support you request; attempt to save you money; negotiate your bills; monitor your telecoms accounts; process transactions and send notices about your transactions or your network activity; resolve disputes, collect fees and troubleshoot problems; prevent potentially fraudulent, prohibited or illegal activities, customize, personalize, measure, and improve our services and the content and layout of our website; send you updates about new products and services that we are offering to customers; compare information for accuracy and verify it with third parties; perform other services as authorized by you; and perform other duties as required by law.
 
 We may use your financial information to facilitate social comparisons of spending patterns and other personal financial matters. We may use your "social graph" information provided by Facebook or other third-party data sources to facilitate these social comparisons. We will attempt to maintain anonymity for users in any social comparisons by displaying only aggregated data across multiple users. However, we cannot guarantee that these aggregate data sets will ensure anonymity.
 
@@ -48,9 +48,11 @@ We do not share your Personal Information with third parties for promotional or 
 
 
 
-**Payment Card Information**
+**Account and Payment Information**
 
-During the registration process, you will be asked to enter your online banking credentials. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants who will help to facilitate the Services, billing processors and payment processors. We use[Plaid](https://plaid.com/) to securely connect to more than 20,000 financial institutions across the U.S. These credentials are not stored by us in any way. Your credentials are sent through Plaid to your bank or credit card provider, which sends back an encrypted token to us. 
+We use Plaid Technologies, Inc. (“Plaid”) to gather users' data from financial institutions. By using our service, you grant us and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy (https://plaid.com/legal).
+
+During the registration process, you will be asked to enter your online banking credentials. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants who will help to facilitate the Services, billing processors and payment processors. We use[Plaid](https://plaid.com/) to securely connect to more than 15,000 financial institutions across the U.S. These credentials are not stored by us in any way. Your credentials are sent through Plaid to your bank or credit card provider, which sends back an encrypted token to us. 
 
 Plaid and any other third party service providers that we may use to facilitate in the delivery of the Services may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. We cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers.
 
@@ -62,7 +64,7 @@ We store and process your Personal Information and electronic copies of all corr
 
 The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your user password with anyone.
 
-If we learn of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Service, you agree that we may communicate with you electronically. We may post a notice on the website if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should  [notify us.](https://help.venmo.com/hc/en-us/requests/new)
+If we learn of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Service, you agree that we may communicate with you electronically. We may post a notice on the website if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should notify us via email at: help@asktrim.com. 
 
 **Log Data**
 
@@ -104,15 +106,15 @@ Only persons age 18 or older have permission to access our Service. Our Service 
 
 **Changes**
 
-This Privacy Policy is effective as of 5/17/2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 8/2/2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. Defining what changes constitute a "material change" shall be done at our complete discretion.
 
 **Restrictions and Monitoring of Our Partners**
 
-Your use of the these Services may be subject to separate agreements you may enter into with other third party service providers that we may use to facilitate in the delivery of the Services. These third parties include, but are not limited to: [ Plaid ](https://plaid.com/), [ Twilio ](https://www.twilio.com/), 
+Your use of the these Services may be subject to separate agreements you may enter into with other third party service providers that we may use to facilitate in the delivery of the Services. These third parties include, but are not limited to: [ Plaid ](https://plaid.com/), [ Twilio ](https://www.twilio.com/), or [ Facebook ](https://www.facebook.com/). 
 
 **Contact Us**
 
