@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126122633id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010030949id_/https%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,11 +31,11 @@ We automatically collect information about your visit to our site. This informat
 
 We make use of Google and Bing’s Remarking functionality which is an advertising feature allowing Bing and Google Analytics to collect data about our site traffic. We do not collect personally-identifiable information through this functionality. For more information about the Cookies used on the site and how to opt out of the remarketing tracking on this site please visit our [Cookies Policy page.](https://web.archive.org/privacy/cookies)
 
-**More information about the[Cookies](http://www.webanalyticsworld.net/privacy/cookies "Cookies") used by Web Analytics World**
+**More information about the[Cookies](https://www.webanalyticsworld.net/privacy/cookies "Cookies") used by Web Analytics World**
 
 Information requests
 
 You can ask for a copy of the information we hold about you at any time (for which we may charge a small fee).
 
 **Contact**  
-If you have any queries concerning your personal information or any questions on our use of the information, please contact us on [info@jump-digital.com](mailto:info@jump-digital.com) ,or, via the [Talk To Us](http://www.webanalyticsworld.net/talk-to-us) page.
+If you have any queries concerning your personal information or any questions on our use of the information, please contact us on [info@jump-digital.com](mailto:info@jump-digital.com) ,or, via the [Talk To Us](https://www.webanalyticsworld.net/talk-to-us) page.
