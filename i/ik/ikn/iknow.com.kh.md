@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iknow.com.kh privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214412id_/https%3A//iknow.com.kh/privacy-policy-kh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iknow.com.kh privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010121346id_/https%3A//iknow.com.kh/privacy-policy-kh) for the most accurate reproduction.*
 
 # Privacy Policy iKnow Enterprise - khmer - cambodia - iKnow.com.kh
 
