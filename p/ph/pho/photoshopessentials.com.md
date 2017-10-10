@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113828id_/http%3A//www.photoshopessentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010234256id_/http%3A//www.photoshopessentials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Photoshop Essentials.com -
 
