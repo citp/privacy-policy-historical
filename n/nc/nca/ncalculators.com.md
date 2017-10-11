@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncalculators.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604030648id_/http%3A//ncalculators.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncalculators.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011054008id_/http%3A//ncalculators.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ncalculators.com's Privacy Policy
 
