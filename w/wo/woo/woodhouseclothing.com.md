@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512024731id_/http%3A//www.woodhouseclothing.com/en-gb/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011112634id_/http%3A//www.woodhouseclothing.com/en-gb/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
