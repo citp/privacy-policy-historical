@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onekindesign.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611021530id_/http%3A//onekindesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onekindesign.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011153350id_/http%3A//onekindesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Onekindesign.com
 
