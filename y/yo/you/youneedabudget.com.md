@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523115531id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011032604id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | You Need a Budget
+# Privacy Policy | YNAB
 
-On average, new budgeters save $200 their first month and more than $3,300 by month nine! Pretty solid return on investment.
+On average, new budgeters save $600 by month two and more than $6,000 the first year! Pretty solid return on investment.
 
   * **1**
 
@@ -14,7 +14,7 @@ Start taking control of your money
 
   * **3**
 
-After your trial, continue for $50/year
+After your trial, continue for $4.17/month, billed annually at $50
 
 
 
