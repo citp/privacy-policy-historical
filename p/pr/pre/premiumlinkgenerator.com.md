@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the premiumlinkgenerator.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619093917id_/https%3A//premiumlinkgenerator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumlinkgenerator.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011023118id_/https%3A//ww.premiumlinkgenerator.com/privacy-policy) for the most accurate reproduction.*
 
 # ▷ Privacy Policy || Premium Link Generator ⇒ 1 Account for 50+ Hosts
 
 **Premium Link Generator Privacy Policy**
 
-Here in [http://premiumlinkgenerator.com](http://premiumlinkgenerator.com/), we recognize and respect the privacy of our users over the internet. This page is dedicated to providing information about the privacy and process of collecting data for the site: [http://premiumlinkgenerator.com](http://premiumlinkgenerator.com/)
+Here at [premiumlinkgenerator.com](https://ww.premiumlinkgenerator.com/), we recognize and respect the privacy of our users over the internet. This page is dedicated to providing information about the privacy and process of collecting data for the site: [https://premiumlinkgenerator.com](https://ww.premiumlinkgenerator.com/)
 
 **The Premium Link Generator Site and Third Party Sites**
 
