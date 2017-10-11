@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618230555id_/https%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011052159id_/https%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VPS.NETVPS.NET
+# Privacy Policy - VPS.NET
 
 ### [](https://www.privacytrust.com/cert/766452.html)Effective Date: August 29, 2014
 
