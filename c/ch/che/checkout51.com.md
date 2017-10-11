@@ -1,101 +1,239 @@
-> *The following text is extracted and transformed from the checkout51.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204074951id_/https%3A//www.checkout51.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkout51.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011070640id_/https%3A//www.checkout51.com/privacy) for the most accurate reproduction.*
 
-# Checkout 51 - Privacy Policy
+# Checkout 51 - Save on the brands you love.
 
-## Last updated on May 8, 2015
+###  Full Privacy Notice
 
-Welcome to the Checkout 51 Privacy Policy. First of all, we'd like to say how seriously we take your privacy. Checkout 51 works when you upload photos of your grocery receipts and we understand that what appears on your receipt can sometimes be sensitive. Because of this, we want to make sure you are absolutely comfortable with what information is collected when you participate in Checkout 51, and how this information is used.
+Effective Date: March 15, 2017
 
-This Privacy Policy applies to Checkout 51, wherever Checkout 51 exists, whether as a mobile application, or on a website (collectively, the "Services"). This Privacy Policy covers Checkout 51's treatment of your personally identifiable information ("Personal Data") and other data that we gather when you use our Service. By using Checkout 51, you are consenting to the terms described in our Privacy Policy as well as our Terms of Use, located at www.checkout51.com/terms.
+We at News America Marketing Interactive L.L.C. and News Marketing Canada Corp. (collectively, “SmartSource”), and News America Marketing Digital LLC (“Checkout 51”) (SmartSource and Checkout 51 together, “NAM” or “we”), respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal consumer information obtained by Checkout 51 and SmartSource, including through (1) [www.checkout51.com](https://checkout51.com/?external=true) and [www.checkout51.ca](https://www.checkout51.ca/?external=true), (2) [www.smartsource.com](http://www.smartsource.com/?external=true), [www.smartsource.ca](http://www.smartsource.ca/?external=true) and [www.utilisource.ca](http://www.utilisource.ca/?external=true), and (3) the Checkout 51 and SmartSource mobile apps ((1) through (3), collectively, the “Services”).
 
-If you have any questions about this Privacy Policy or our collection, use and communication of your Personal Data, please submit a [support request](http://support.checkout51.com/anonymous_requests/new) or contact us at: 
+The Notice describes the types of personal information we obtain about consumers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Services are for a general audience, are not targeted to children, and we do not knowingly collect personal information from children under 13 years of age. 
 
-Checkout 51 Inc.  
-366 Adelaide Street East, Unit 501  
-Toronto, ON, M5A 3X9, Canada
+Click on one of the links below to jump to the listed section:
 
-## What personal data does Checkout 51 collect?
+  * Information We Obtain
 
-Personal information we receive from you:
+  * Information Obtained by Automated Means Through Our Services
 
-  * _Personal Data you provide._ We collect Personal Data from you when you voluntarily provide such information such as when you register for the Services (for example, name, gender, location and email address), use certain Services, upload receipts, or connect your Checkout 51 account to online third party services such as Facebook, Twitter or other social networks. The information we receive from them is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our Services.
-  * _Receipt Data._ When you upload receipts to Checkout 51, we collect information contained on the receipts such as the name and location of the store, information about the products and brands you purchased, your rewards card information (if applicable), coupons used, the total amount you spend, the prices you paid, and the date of your purchases (collectively, "Receipt Data").
+  * How We Use the Information We Obtain
 
-Use of cookies and other technology to collect data:
+  * Interest-Based Advertising
 
-  * _Mobile data._ When you use our applications on your mobile device, the default settings allows for the collection of Personal Data such as the unique identification number associated with your device (device ID), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device (collectively, "Mobile Data"). This allows us to provide you with offers from local merchants when you are in the vicinity of their location. You can turn this feature off by adjusting your phone settings.
-  * _Cookies and other tracking data._ By default, the Checkout 51 website collects information using cookies, log file data, and clear gifs (also known as web beacons) (collectively, "Cookie Data") to track usage information, to remember you on our Service, and to provide additional functionality. We automatically collect certain types of usage information when you use our Service. When you visit our Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, and how frequently you access the Service), and allows us to track your usage of the Service. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include, but is not limited to, information such as your web request, Internet Protocol (IP) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your actions on our websites or mobile applications, and other information that assists us in analyzing and improving the Service.
+  * Text Messaging
 
+  * Push Notifications and In-App Alerts and Updates
 
+  * Information We Share
 
-## How does Checkout 51 use my Personal Data?
+  * Your Choices
 
-Checkout 51 primarily uses your Personal Data for the following purposes:
+  * Accessing, Reviewing, Updating and Modifying Personal Information
 
-  * to identify you, and establish and maintain our business relationship with you;
-  * to provide you with ongoing service, including when you choose to submit questions, comments or suggestions;
-  * to improve our products and services;
-  * to prevent errors and fraud;
-  * to comply with our legal obligations.
+  * Notice to California Residents
 
+  * How We Protect Personal Information
 
+  * Transfers of Information
 
-For example, when you request payment and provide your address, we use this information to send you a payment. When you provide your name and email address when you log in, we use this information to identify your account so you can use the Services. We may also use your Personal Data to help us improve Checkout 51 and to contact you regarding the Services. We may use your email address to email you about products and services that our clients or partners offer. See "Your Choices Regarding Your Information" below to learn how to opt-out of any further messages of this nature from us.
+  * Links to Third-Party Sites, Apps and Services
 
-We may also use your Personal Data in aggregate form as described under "How Does Checkout 51 use Aggregate Data." When we do this the data is anonymized so that you cannot be personally identified.
+  * Updates to Our Privacy Notice
 
-## How does Checkout 51 use my Receipt Data? 
-
-Checkout 51 uses your Receipt Data to enable our Services, to verify the cash back credits you should earn, for fraud prevention, to analyze usage and trends in shopping behavior, and in aggregate form. We will also use your Receipt Data to provide you with customized offers and messages, such as when our clients or partners want us to deliver their offers to our members who fit a particular shopping profile; however, these clients never receive your name, mailing address or email address. We may also share your Receipt Data with our clients or partners under certain circumstances (please see "How Does Checkout 51 share my Personal Data," below).
-
-## How does Checkout 51 use aggregate data?
-
-In order to provide the best service to you, Checkout 51 measures and analyzes the demographics, interests and behavior of our members based on the Personal Data and Receipt Data provided to us. Sometimes we may provide aggregate information to our clients or partners about how our members, collectively, shop for products and use the Services. Checkout 51 may also share aggregated user statistics in order to describe the Services to current and prospective business partners and clients, and to other third parties. This aggregated data does not identify you individually.
-
-## How does Checkout 51 share my Personal data?
-
-Checkout 51 considers your Personal Data an essential part of our relationship with you and a key component in delivering you a great service. We do not sell this information or provide it to third parties except as described in this Privacy Policy. There are times though when we need to share this data with certain third parties in order to operate our business. These circumstances are described below:
-
-  1. Access within Checkout 51 and related/affiliated companies – Access of your Personal Data within Checkout 51 is strictly limited to the persons for whom such information is necessary for the performance of their functions and duties. Unauthorized access to or disclosure of your personal information by a Checkout 51 employee is strictly prohibited and will result in appropriate disciplinary measures. Consistent with this Privacy Policy, Checkout 51 may also share your Personal Data with its affiliates if it is necessary to allow these entities to assist us for the purposes of establishing, managing and maintaining our business relationship.
-  2. Business transactions - As we operate Checkout 51, we may buy or sell business assets or the company, merge with other companies, reorganize or dissolve. Personal Data may be part of the transferred assets during any of these events.
-  3. Agents and Service Providers - Like many businesses, Checkout 51 shares personal information with agents, third party suppliers and other service providers who perform work on our behalf. For example, we might work with a check sending company, payment processing company or a company who sends online or email advertisements. In the course of these relationships, we sometimes need to share your Personal Data and other information with these companies so they can perform their specific services. However, in such cases, your personal information will be used exclusively to provide specific services and will be kept confidential in accordance with this Policy.
-  4. Anonymized Aggregated Data - As described above, we aggregate and anonymize data, and use and disclose such information for a variety of purposes. However, in these situations, we do not disclose any information that could be used to identify you personally.
-  5. Receipt Data and Other Anonymized Data - We may share with clients or partners Receipt Data and other non-personally identifiable information, including Mobile Data and Cookie Data.
-  6. Database matching - From time to time, using encryption technology, we also may compare our member database with our clients' or partners' databases to discover overlap between their database and our registered members. This process does not by itself communicate your Personal Data to a third party. However, when we find overlap – i.e. that our members are also in their database (a matched member) - we may share with those clients or partners Receipt Data and other non-personally identifiable information, including Mobile Data and Cookie Data relating to those matched members. We do not provide clients or partners with your name, address, email address, or any other contact information, but our clients or partners may already have this information about you in their databases. Our clients or partners may use this data we share as permitted under their own privacy policies, including to contact you and/or to send you targeted advertising or promotional materials. We urge you to review the privacy policies of every company you register your personal information with. If you do not want your this data shared with our clients or partners for these purposes, please contact us at receiptdata@checkout51.com.
-  7. Law and Harm; Jurisdictions - We may preserve or disclose your Personal Data to our attorneys; if it is required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with rules of court relating to the production of records; to a government institution or part of a government institution that has made a request for the information, and identified its lawful authority to obtain the information; it is required by law, regulation or legal request; or it is made in an emergency situation to protect the safety of any person; to address fraud, security or technical issues or a breach of our Terms of Use; or to protect our or any other person's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. Finally, please note that in some cases, personal information that we collect may be stored or processed outside of Canada. In such cases, we continue to protect the information with appropriate safeguards, but it may be subject to the legal jurisdiction of those countries and governmental authorities in those countries.
+  * How To Contact Us
 
 
 
-## YOUR CHOICES REGARDING YOUR INFORMATION
 
-_Consent._ Your consent can be withdrawn at any time, subject to legal and contractual restrictions and reasonable notice. Please note that if you choose to withdraw your consent, Checkout 51 may not be able to provide you with certain Services.
+Information We Obtain
 
-Some mobile application platforms may also allow you to opt out of installing certain features of the Checkout 51 mobile application which may allow for the automatic collection of Mobile Data, as described above. You do not have to use any of the Checkout 51 mobile application features unless you choose to, however, opting out of any or all features may affect the application’s ability to operate properly.
+We obtain personal information about consumers through the Services, publicly and commercially available sources and from our NAM affiliates and/or business partners (such as consumer product companies, retailers, social media networks, etc.). The types of personal information we may obtain include:
 
-_Marketing Communications._ If you do not wish to receive promotional emails, you can click the "unsubscribe" button on promotional email communications. Note that you are not permitted to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, payment confirmations, change or updates to features of the websites or mobile applications, or technical and security notices. 
+  * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
 
-_Online Advertising._ We may permit third party online advertising networks to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our websites or mobile applications as well as on other websites or mobile applications. Typically, the information we share is provided through cookies or similar tracking technologies. The only way to completely "opt out" of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser's or mobile device's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative's online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). Depending on your mobile device, you may not be able to control tracking technologies through settings. 
+  * Username and password when you register through our Services;
 
-_Data Retention:_ We will retain your information for as long as your account is active or as needed to provide you with the Services you requested. Following termination or deactivation of your account, we may retain information for the time required to fulfill the identified purposes and consistent purposes, our legitimate business purposes and to conform to our legislative requirements. We may retain your information in aggregate or anonymized form indefinitely. Please submit a support request if you wish to delete your account.
+  * Other registration information such as store loyalty card numbers you elect to register;
 
-## What is not included in this Privacy Policy?
+  * Geolocation data;
 
-This Privacy Policy does not apply to any unsolicited information that you provide. This includes, but is not limited to, information posted to any public areas of the Service and any unsolicited submissions. Checkout 51 assumes that all unsolicited information is non-confidential and that we are free to reproduce, disclose and distribute it without limitation or attribution.
+  * Information on receipts uploaded to us through the Services, such as the items and date(s) of your purchases, prices of the items, methods of payment, the last four digits of your credit card number, signature, and names and locations of the merchants (“Receipt Data”); 
 
-The Checkout 51 mobile applications and our websites may contain links to third party sites not controlled or operated by Checkout 51 (the "Third Party Sites"). The policies and procedures described in this Privacy Policy do not apply to the Third Party Sites.
+  * Purchase transaction data and other data provided by our business partners that we match to you through information you have provided to us, such as store loyalty card numbers, contact information or other identifying information; 
 
-## Is my Personal Data secure?
+  * Contact information for friends or other people you would like us to contact
 
-We take the security of your Personal Data and other information very seriously. We take reasonable steps to protect this data from loss, unauthorized access or misuse. Security safeguards include physical measures, organizational measures and technological measures that are reasonable given the sensitivity of the information, the purposes for which it is to be used, the quantity and distribution of the information and the medium on which it is stored. Checkout 51 also takes the necessary measures to ensure that all its managers and employees are informed on the contents of our Privacy Policy and understand that they are required to conform to it at all times. However, no Internet, email or electronic transmission is ever completely secure so we encourage you to take special care in deciding what information you send us in this way.
+  * Other information you may provide to us, such as through our “Submit a Request” feature.
 
-## What if Checkout 51 needs to update this policy?
 
-We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the "Last Revision" date below and will post the updated Policy on this page.
 
-## How do I access and update my Personal Data?
 
-Checkout 51 recognizes that it is important to keep Personal Data accurate, complete and up-to-date and takes reasonable steps to ensure the accuracy and completeness of the Personal Data it uses and discloses. However, you are responsible to inform Checkout 51 of any significant change in your information which may occur during the course of our business relationship.If you feel that you need to update your Personal Data for any reason, please submit a [ _support request_](http://support.checkout51.com/anonymous_requests/new). Once we receive your request we will take reasonable steps to update any Personal Data that you have submitted via our Services.
+Information Obtained by Automated Means Through Our Services
 
-You have the right to request to consult and to obtain communication of your Personal Data which is held by Checkout 51. You can also request that information which is inaccurate, incomplete or equivocal be rectified and that information not justified by the purpose of the file be deleted.
+We also may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services. The information we obtain in this manner may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Services, and dates and times you access or use the Services. In connection with our mobile apps, we also may obtain your phone number and details about your mobile carrier.
 
-Such requests must be made in writing by a [ _support request_](http://support.checkout51.com/anonymous_requests/new). Checkout 51 will respond to every request for access and rectification in accordance with the applicable legislation. In the event that Checkout 51 cannot provide access to or rectify your Personal Data, it will inform you of the reasons why, subject to any legal or regulatory restrictions, and it will provide you with any recourse available. 
+A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.
+
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html?external=true) [Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html?external=true) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html?external=true). Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with app developers such as Checkout 51 and SmartSource. 
+
+In addition, if you register for Checkout 51 or SmartSource through or connect your Checkout 51 or SmartSource account to a third-party social media network (such as Facebook or Twitter), we may obtain certain information about you from the relevant social media network, such as your user ID and/or user name associated with that social media network, the information contained in your public profile on the social media network and friends lists. The specific information we obtain depends on your privacy settings on the applicable social media network. 
+
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. NAM is not responsible for those providers’ information practices. 
+
+How We Use the Information We Obtain
+
+We may use the information collected from and about you to:
+
+  * Provide our products and services, such as coupon delivery services and offers based on your location;
+
+  * Create and manage online accounts;
+
+  * Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps; 
+
+  * Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research; 
+
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies; 
+
+  * Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information; 
+
+  * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from NAM affiliates and our business partners; 
+
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes; 
+
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions); 
+
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities, including to protect against offer stacking and enforce other offer restrictions; and 
+
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies. 
+
+
+
+
+In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of our Services, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business.
+
+We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
+
+  * Google Analytics: [https://tools.google.com/dlpage/gaoptout ](https://tools.google.com/dlpage/gaoptout?external=true)
+
+
+
+
+We also may use your personal information in other ways for which we provide specific notice at the time of collection.
+
+Interest-Based Advertising
+
+On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests. We and our third-party service providers also may obtain information for this purpose from third-party websites and apps. This section of our Privacy Notice provides details and explains how to exercise your choices.
+
+We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information our ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve NAM advertisements, such as the pages or ads you view and the actions you take on the websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising, 
+
+  * click [here](http://www.aboutads.info/choices/?external=true) or [here](http://www.networkadvertising.org/choices/?external=true) in the US. 
+
+  * click [here](http://youradchoices.ca/choices?external=true) in Canada.
+
+
+
+
+To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising.
+
+Our sites are not designed to respond to “do not track” signals from browsers.
+
+Text Messaging
+
+If you so elect, you may provide your mobile phone number to NAM. By submitting your mobile phone number, you consent to receive text message alerts from NAM containing promotions, offers, contest and event information, or product information that may be sent using automated dialing systems (“Text Messages”). Your consent to receive Text Messages is not otherwise required to purchase or receive any goods or services from us. You may not consent to receive Text Messages on behalf of someone else or provide someone else’s phone number. You agree to enter into, sign and receive your consent to receive Text Messages electronically. You can contact us as set forth under “How to Contact Us” below to request a free copy of your consent.
+
+You may receive recurring Text Messages. We do not charge a fee for you to receive Text Messages from us; however, your mobile service provider may charge you for sending and/or receiving Text Messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. 
+
+Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures. To receive help with Text Messages, you can contact us as set forth under the How to Contact Us Section below.
+
+You may unsubscribe from receiving NAM Text Messages any time by texting the word “STOP” to the short code listed [here](https://support.checkout51.com/hc/en-us/articles/232025387?external=true) from your device. You may also choose not to receive Text Messages by contacting us as set forth under the How to Contact Us Section below and specifying that this is your preference.
+
+We may also obtain the date, time and content of your messages in the course of your use of Text Messages. We will use the information we obtain in connection with our Text Messages in accordance with this Privacy Notice.
+
+From time to time you may be asked to provide your mobile phone number to NAM in connection with specific text messaging programs. Some text messaging programs may have additional or different terms and conditions from those set forth above, which will be presented to you at the time that you opt-in to receive those Text Messages.
+
+In general, in order to stop receiving Text Messages from a specific NAM text messaging program, you can text STOP to the short code for the text messaging program from which you no longer wish to receive message (i.e., the number from which its Text Messages are being sent). You will then receive confirmation of your opt-out of that text messaging program. This will only opt you out of the specific text messaging program associated with that short code. You will remain opted in to any other NAM text messaging programs that you have signed up for.
+
+Push Notifications and In-App Alerts and Updates 
+
+When you download one of our mobile applications, we may provide you with the option to opt in to receive push notifications from NAM on your mobile device in connection with that mobile application. These push notifications may include promotional communications regarding NAM products and services. You may, after downloading the applicable mobile application, opt out of receiving push notifications by adjusting the settings on your mobile device. Opting out of push notifications will not affect other communications you receive from NAM, such as email communications. You also may receive alerts and updates within our mobile applications regarding NAM products and services or your NAM accounts. To opt out of receiving these alerts and updates, you may uninstall the applicable mobile application from your mobile device.
+
+We may share consumer personal information with
+
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at [https://checkout51.com/affiliatedcompanies](https://checkout51.com/affiliatedcompanies?external=true). 
+
+  * Service providers in the US and other jurisdictions who perform services on our behalf.
+
+  * Our third party clients or business partners, such as consumer product companies and other third parties for those third parties’ own marketing purposes, such as to serve targeted advertisements. 
+
+
+
+
+From time to time, using encryption technology, we may compare our consumer member databases with our affiliates’, clients’ and/or partners’ databases to identify overlap between the databases. When there is an overlap between databases, we may share with those affiliates, clients and/or partners information such as Receipt Data and other data collected via automated means, as described above, of the matched consumers. Those parties may use this information as permitted under their own privacy notices, including to contact consumers and/or to send targeted advertising or other promotional materials.
+
+In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties. 
+
+The Services may include iFrames that allow a third party to provide you with additional services, features or functions. For example, on [www.smartsource.com](http://www.smartsource.com/?external=true), [www.smartsource.ca](http://www.smartsource.ca/?external=true) and the SmartSource mobile app, we may include iFrames that allow a third party to provide you with the ability to load coupons directly onto store loyalty cards or payment cards. We do not collect the personal information you provide in these iFrames. Rather, the personal information you provide for that feature is obtained by the third party providing the ability to load promotions directly onto your card. We will notify you when you go to one of these iFrames and provide a link to the relevant third party’s privacy notice. We recommend you review the third party’s privacy notice before submitting any personal information.
+
+In addition, we may disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). 
+
+Your Choices 
+
+We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you. 
+
+To update your preferences, ask us to remove your information from our marketing mailing lists (such as Checkout51’s weekly reminder email) or submit a request, please contact us as outlined in the How to Contact Us Section below. Additionally, all users can change their notification preferences and Canadian users can change their email and data sharing preferences in the Settings section of the Checkout 51 mobile app.
+
+You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails.
+
+In general, in order to stop receiving text messages, you can text STOP to the short code for the text messaging program from which you no longer wish to receive message (i.e., the number from which the text messages are being sent).  You will then receive confirmation of your opt-out of that text messaging program. Please note that this will only opt you out of the specific text messaging program associated with that short code. You will remain opted in to any other NAM text messaging programs that you may have signed up for. To unsubscribe from the NAM general marketing text messaging program you can text “STOP” to the short code listed [here](https://support.checkout51.com/hc/en-us/articles/232025387?external=true) from your device. 
+
+You may also choose not to receive text messages by contacting us as outlined in the How to Contact Us Section below and specifying that you no longer want to receive Text Messages.
+
+Accessing, Reviewing, Updating and Modifying Personal Information
+
+You have the right to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+
+To learn more about how to opt out of ad network interest-based advertising, please visit the consumer opt-out pages at:
+
+  * In the US: [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/?external=true) and [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/?external=true). 
+
+  * In Canada: [http://youradchoices.ca/choices](http://youradchoices.ca/choices?external=true).
+
+
+
+
+Notice To California Residents 
+
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
+
+How We Protect Personal Information 
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+Transfers of Information 
+
+The Services may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice. 
+
+Links to Third-Party Sites, Apps and Services
+
+For your convenience and information, our Services may provide links to third-party sites, apps and services that may be operated by companies not affiliated with NAM. These companies may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the privacy practices of any non-NAM sites, apps or services.
+
+Updates to Our Privacy Notice 
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. For significant changes, we will notify you by posting a prominent notice on our Services indicating at the top of the Notice when it was most recently updated. 
+
+How To Contact Us 
+
+If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:
+
+Checkout 51: [support request](https://support.checkout51.com/hc/en-us/requests/new?external=true)  
+SmartSource.com: opt-out@smartsource.com  
+SmartSource.ca: opt-out@smartsource.ca
+
+You also may write to:
+
+News America Marketing  
+Attn: Privacy  
+20 Westport Road, First Floor S.  
+Wilton, CT 06897
+
+Canadian residents may also contact our Privacy Officer by email at canadaprivacy@newsmarketing.ca.
