@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstartups.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611142145id_/http%3A//techstartups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstartups.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011105333id_/http%3A//techstartups.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechStartups.com
 
