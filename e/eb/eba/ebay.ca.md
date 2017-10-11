@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620054423id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011122249id_/https%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
 This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15** **, 2015** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.ca/help/pp_previous.html).
 
-eBay has received TRUSTe's privacy seal signifying that this Privacy Notice and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this site and the eBay mobile site, and does not cover information that may be collected through software downloaded from the site.
-
-[](http://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d)
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Summary & Contents
 
@@ -359,7 +357,7 @@ We may disclose your personal information to the following parties and for the f
 
 **Other eBay users as authorized by you or your use of our Services.**
 
-When transacting with another user, the other user may request and we may provide him/her with information about you necessary to complete the transaction, such as your name, username, email address, contact details, shipping and billing address, or other information from you needed to promote the reliability and security of the transaction. If a transaction is held, fails, or is later invalidated, we may also provide the other user with details of the unsuccessful transaction. The other user receiving your information is not allowed to use this information for purposes unrelated to the transaction, such as to contact you for marketing purposes, unless you have express consented to it. Contacting users with unwanted or threatening messages is a violation of our User Agreement.
+When transacting with another user, the other user may request and we may provide him/her with information about you necessary to complete the transaction, such as your name, username, email address, contact details, shipping and billing address, or other information from you needed to promote the reliability and security of the transaction. If a transaction is held, fails, or is later invalidated, we may also provide the other user with details of the unsuccessful transaction. The other user receiving your information is not allowed to use this information for purposes unrelated to the transaction, such as to contact you for marketing purposes, unless you have express consented to it. Contacting users with unwanted or threatening messages is a violation of our User Agreement. If you have a GST registration number, we may disclose it to partners and buyers for tax documentation, verification and related purposes. For more information on GST, visit the [Canada Revenue Agency](https://www.canada.ca/en/services/taxes/gsthst.html) website.
 
 **Data disclosure to PayPal Inc. and its corporate family** ****
 
