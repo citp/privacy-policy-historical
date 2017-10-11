@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lascana.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213171531id_/http%3A//www.lascana.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lascana.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011140343id_/http%3A//www.lascana.com/privacy.aspx) for the most accurate reproduction.*
 
 # LASCANA Privacy Policy
 
