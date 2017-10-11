@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drivezing.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611145505id_/http%3A//drivezing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivezing.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011022616id_/http%3A//drivezing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DriveZing
-
-## Privacy Policy:
+# Privacy Policy
 
 Northbound Publishing LTD. (" **Northbound Publishing** ") operates DriveZing.com and may operate other websites. It is Northbound Publishing's policy to respect your privacy regarding any information we may collect while operating our websites.
 
