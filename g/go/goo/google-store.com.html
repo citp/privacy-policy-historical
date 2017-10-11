@@ -1,560 +1,1242 @@
-<!--The following is the downloaded HTML source of the google-store.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231200400id_/http%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the google-store.com privacy policy that was archived on 2017-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171011153404id_/https%3A//your.googlemerchandisestore.com/info/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="google-js mmfb" lang="en"><head><meta charset="utf-8">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20161229082106/https://ssl.google-analytics.com/ga.js"></script><script>
-(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no"><link rel="shortcut icon" href="../Favicon.ico" type="image/x-icon"><link id="lnkIcon" rel="icon" type="image/x-icon"><meta http-equiv="Cache-Control" content="no-cache"><meta name="description" content="Privacy Policy"><meta name="author"><title>
+	Privacy Policy
+</title><!-- core CSS --> <link href="https://your.googlemerchandisestore.com/css/bootstrap.min.css" rel="stylesheet"><link href="https://your.googlemerchandisestore.com/css/font-awesome.min.css" rel="stylesheet"><link href="https://your.googlemerchandisestore.com/css/bootstrap-slider.css" rel="stylesheet"><!--[if lt IE 9]><script src='https://your.googlemerchandisestore.com/js/html5shiv.js'></script><script src='https://your.googlemerchandisestore.com/js/respond.min.js'></script><![endif]--><link href="https://your.googlemerchandisestore.com/css/bootstrap-theme.css?v=20171011103404" rel="stylesheet"><link href="https://your.googlemerchandisestore.com/css/modified.css?v=20171011103404" rel="stylesheet"><link href="https://your.googlemerchandisestore.com/css/media-query.css?v=20171011103404" rel="stylesheet"><link href="https://your.googlemerchandisestore.com/css/animate.css?v=20171011103404" rel="stylesheet"> <link href="https://your.googlemerchandisestore.com/css/font-awesome.min.css?v=20171011103404" rel="stylesheet"> <link href="https://your.googlemerchandisestore.com/CSS/jquery.flipcountdown.css?v=20171011103404" rel="stylesheet">  <script async="" src="//www.google-analytics.com/analytics.js"></script><script> (function(i, s, o, g, r, a, m) {  i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {    (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o),m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');   ga('create', 'UA-34211792-1', 'auto'); ga('send', 'pageview');</script>
+    <style type="text/css">
+        .bs-example {
+            margin: 20px;
+        }
+		  #COOKIES {
+           max-width: 100%;
+        }
+		   #myWarningModal{z-index:2000 !important;}
+		   #myErrorModal{z-index:3000 !important;}
+    </style>
+	<script src="https://your.googlemerchandisestore.com/js/jquery.js"></script>
+    <script src="https://your.googlemerchandisestore.com/js/bootstrap.min.js"></script>
+	<script src="https://your.googlemerchandisestore.com/js/custom.js"></script>
+	 <script type="text/javascript" src="https://your.googlemerchandisestore.com/js/typeahead.bundle.js"></script>
+    <script type="text/javascript">
+        var host = "https://your.googlemerchandisestore.com/";
+        var isEmailValid = "False";
+        var MsgEmailBlank = "Enter Email Address";
+        var MsgPasswordBlank = "Please enter password";
+        var MsgInvalidEmail = "Please Enter Valid Email Address";
+        var MsgInvalidUsenamePass = "Invalid Username or Password.";
+        function ShowLoader() {
+            $('#dvLoader').show();
+
+        }
+        function HideLoader() {
+            $('#dvLoader').hide();
+        }
+    </script>
+    <script>
+        var strEnterDetails = "Please enter your details";
+        var strInvalidEmail = "Please enter valid Email";
+        var strAlreadySubscribed = "Already Subscribed to our mailing list.";
+        var strNewSubscribed = "Thank you for Subscribing to our mailing list.";
+    </script>
+    <script type="text/javascript">
+        function ShowBasket() {
+            /* Added By Hardik for Maersk Basket [on - 17-Mar-2017]*/
+            $("#quickbasket_new").stop();
+            $("#quickbasket_new").fadeIn(50, function () { $("#quickbasket_new").fadeOut(15000); })
+        }
+
+        $(function () {
+            $('.BasketLink').mouseenter(function () {
+                /* Added By Hardik for Maersk Basket [on - 17-Mar-2017]*/
+                $("#quickbasket_new").css({
+                    'opacity': '1',
+                    'display': 'block'
+                });
+            });
+            $('.BasketLink').mouseleave(function () {
+                /* Added By Hardik for Maersk Basket [on - 17-Mar-2017]*/
+                $("#quickbasket_new").css({
+                    'opacity': '0',
+                    'display': 'none'
+                });
+            });
+
+            /* Added By Hardik for Maersk Basket [on - 17-Mar-2017] START */
+            $("#quickbasket_new").mouseover(function () {
+                $("#quickbasket_new").stop();
+                $("#quickbasket_new").css("opacity", "1");
+            });
+            $("#quickbasket_new").mouseout(function () {
+                $("#quickbasket_new").stop();
+                $("#quickbasket_new").fadeIn(50, function () { $("#quickbasket_new").fadeOut(50); });
+            });
+            /*Added By Hardik for Maersk Basket END*/
+
+            if ($(window).width() <= 767) {
+                $('.productBtnPanel').appendTo('.formobile');
+            }
+            $(window).resize(function () {
+                if ($(window).width() <= 767) {
+                    $('.productBtnPanel').appendTo('.formobile');
+                }
+                if ($(window).width() > 767) {
+                    $('.productBtnPanel').appendTo('.blank');
+                }
+            });
+        });
+    </script>
+    <!-- Typekit fonts -->
+    <!-- Typekit code added by Vinit Falgunia -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900%7CRoboto+Slab:300,400,700&amp;subset=latin,latin-ext,vietnamese,greek-ext,greek" rel="stylesheet" type="text/css"><meta name="keywords" content="Privacy Policy"></head>
+<body class="homepage">
+    <form method="post" action="./privacy_policy" id="ctl01">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="39K0mzZLWWg7MlczAgQtvNSuTlkvLj5RiGLAt+pE4TeN9fnlrQGL/NbaHjraMaShHRYT1p+ok4p2fjytka8kqOOkz+GqEpZ7V7/ecgnzMSY=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl01'];
+if (!theForm) {
+    theForm = document.ctl01;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
-<meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
-<title>Privacy Policy – Privacy &amp; Terms – Google</title>
-<script src="/js/google.js">
-</script>
-<script>
-new gweb.analytics.AutoTrack({profile:"UA-28138501-1"});
-</script>
-<link href="//fonts.googleapis.com/css?family=RobotoDraft:300,400,500,700,italic|Product+Sans:400&amp;lang=en" rel="stylesheet">
-<link href="/policies/css/default.css" rel="stylesheet">
-</head><body><div class="maia-header" id="maia-header" role="banner">
-<div class="maia-aux">
-<h1><a href="/" data-g-event="Maia: Header" data-g-action="Maia: Header" data-g-label="Google"><img alt="Google" src="/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"></a></h1>
-<h2><a href="../../policies/" data-g-event="Maia: Header" data-g-action="Maia: Sub Header" data-g-label="Privacy &amp; Terms">&nbsp;Privacy &amp; Terms</a></h2><a class="maia-teleport" href="#content">Skip to content</a></div></div>
-<div class="maia-nav" id="maia-nav-x" role="navigation">
-<div class="maia-aux">
-<ul>
-<li data-g-label="Overview"><a href="../../policies/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 1" data-g-label="Overview">Overview</a>
-</li><li class="active" data-g-label="Privacy Policy"><a href="../../policies/privacy/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 1" data-g-label="Privacy Policy">Privacy Policy</a>
-</li><li data-g-label="Terms of Service"><a href="../../policies/terms/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 1" data-g-label="Terms of Service">Terms of Service</a>
-</li><li data-g-label="Privacy in our technology"><a href="../../policies/technologies/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 1" data-g-label="Technologies and Principles">Technologies and Principles</a>
-</li><li data-g-label="FAQ"><a href="../../policies/faq/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 1" data-g-label="FAQ">FAQ</a>
-</li><li id="my-account-li"><a data-g-label="My Account" href="//myaccount.google.com/?hl=en" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 1">My Account</a></li></ul></div></div>
-<div id="maia-main" role="main">
-<div class="maia-nav" id="maia-nav-y" role="navigation">
-<ul>
-<li class="active">Privacy Policy
-<ul>
-<li><a class="gweb-smoothscroll-control" href="#infocollect" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Information we collect">Information we collect</a>
-</li><li><a class="gweb-smoothscroll-control" href="#infouse" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="How we use information we collect">How we use information we collect</a>
-</li><li><a class="gweb-smoothscroll-control" href="#infochoices" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Transparency and choice">Transparency and choice</a>
-</li><li><a class="gweb-smoothscroll-control" href="#infosharing" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Information you share">Information you share</a>
-</li><li><a class="gweb-smoothscroll-control" href="#access" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Accessing and updating your personal information">Accessing and updating your personal information</a>
-</li><li><a class="gweb-smoothscroll-control" href="#nosharing" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Information we share">Information we share</a>
-</li><li><a class="gweb-smoothscroll-control" href="#infosecurity" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Information security">Information security</a>
-</li><li><a class="gweb-smoothscroll-control" href="#application" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="When this Privacy Policy applies">When this Privacy Policy applies</a>
-</li><li><a class="gweb-smoothscroll-control" href="#enforcement" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Compliance and cooperation with regulatory authorities">Compliance and cooperation with regulatory authorities</a>
-</li><li><a class="gweb-smoothscroll-control" href="#policychanges" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Changes">Changes</a>
-</li><li><a class="gweb-smoothscroll-control" href="#products" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Specific product practices">Specific product practices</a>
-</li><li><a class="gweb-smoothscroll-control" href="#related" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Other useful privacy and security related materials">Other useful privacy and security related materials</a></li></ul>
-</li><li><a href="../../policies/privacy/frameworks/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Self Regulatory Frameworks">Self Regulatory Frameworks</a>
-</li><li><a href="../../policies/privacy/key-terms/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Key terms">Key terms</a>
-</li><li><a href="../../policies/privacy/partners/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Partners">Partners</a>
-</li><li><a href="../../policies/privacy/archive/" data-g-event="Maia: Site Nav" data-g-action="Maia: Level 2" data-g-label="Updates">Updates</a></li></ul></div>
-<div class="maia-article" role="article">
-<div class="maia-teleport" id="content"></div>
-<div id="pp-header">
-<h1>Welcome to the Google Privacy Policy</h1>
-<p>When you use Google services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important; we hope you will take time to read it carefully. And remember, you can find controls to manage your information and protect your privacy and security at <a href="https://myaccount.google.com/?hl=en">My Account</a>.</p></div>
-<div id="pp-wrapper">
-<h1>Privacy Policy</h1>
-<div id="pp-meta">
-<div class="intro">
-<div class="switch-on" id="highlights-switch">Hide examples</div>
-<div class="switch-off" id="switch-off">Show examples</div>
-<div id="switch-on">Hide examples</div>
-<p>Last modified: August 29, 2016 (<a href="../../policies/privacy/archive/">view archived versions</a>) <span id="print-examples-notice">(The hyperlinked examples are available at the end of this document.)</span></p></div>
-<p><a class="policy-pdf" href="/intl/en/policies/privacy/google_privacy_policy_en.pdf">Download PDF version</a></p></div>
-<p>There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a <a href="../../policies/privacy/key-terms/#toc-terms-account">Google Account</a>, we can make those services even better – to show you <a class="highlight highlight-unselected" href="../../policies/privacy/example/more-relevant-search-results.html" id="more-relevant-search-results">more relevant search results</a> and ads, to help you <a class="highlight" href="../../policies/privacy/example/connect-with-people.html" id="connect-with-people">connect with people</a> or to make <a class="highlight" href="../../policies/privacy/example/sharing-with-others.html" id="sharing-with-others">sharing with others quicker and easier</a>. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
-</p><p>Our Privacy Policy explains:
-</p><ul>
-<li>What information we collect and why we collect it.
-</li><li>How we use that information.
-</li><li>The choices we offer, including how to access and update information.</li></ul>
-<p>We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these <a href="../../policies/privacy/key-terms/">key terms</a> first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions <a href="https://support.google.com/policies/troubleshooter/2990837?hl=en">contact us</a>.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="infocollect">Information we collect</h2>
-<p>We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which <a class="highlight" href="../../policies/privacy/example/ads-youll-find-most-useful.html" id="ads-youll-find-most-useful">ads you’ll find most useful</a>, <a class="highlight" href="../../policies/privacy/example/the-people-who-matter-most.html" id="the-people-who-matter-most">the people who matter most to you online</a>, or which YouTube videos you might like.
-</p><p>We collect information in the following ways:
-</p><ul>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2BCFE85C">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Dg+Nmw58MBiyc3O6laas32vHx1svzGbVeYWHAgFj5MhKFy7Va1P8SjCAbiPT6Ga2pXSlrYJIdXlfFP6bsiBqHGOXVb7TsXArnMqkqwKEFtLy+ZBNFcGppcuzMZDCD6sggpQYcqtt+WNtvC40+j0yG4pXP9gXBkfKkC7trPNYSr/7peNh+6P381r2rOfAul0L">
+</div>
+        <!--preloader-->
+        <div id="dvLoader" class="preloader" style="display: none;">
+            <div class="loader">
+                <p>
+                    
+                </p>
+                
+            </div>
+        </div>
+        <!--END preloader-->
+        <!--Header-->
+
+       <span id="spnUserNamenmsg" class="headerLink bannerid"></span>
+ 
+        
+<style>
+
+</style>
+
+<header id="header">
+ <input type="hidden" name="ctl00$ucHeader1$hdnstorename" id="ucHeader1_hdnstorename" value="googlestore">
+    <div class="All_Header" id="ALL_HEADER">
+	<div class="container collapse" id="COOKIES">
+            <div class="row">
+                <div class="col-xs-12" style="text-align: center;">
+                    <span id="ucHeader1_spnHeadingCookie" class="cookies_title">Cookie Notification</span>
+                    We use Cookies to gather information that will help us provide the best possible service. By using this site, you are accepting our<a href="https://www.brand-estore.com/googlestore/info/privacy_policy">Cookie Policy</a>
+                    <a class="btn btn-sm btn-primary" onclick="createCookie($('#ucHeader1_hdnstorename').val(),'true',1700);" href="javascript:void(0)">
+                        Got it!
+                    </a>
+                    <a class="btn btn-sm btn-primary" onclick="cookie_close();" href="javascript:void(0)">
+                        Remind Me Later
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div id="ucHeader1_divHeader" class="mycanvas">
+            <section id="HEADER_STANDARD">
+                <div class="header_inner">
+                    <div class="row sitelinks">
+                        <div id="top_page" class="navbar navbar-default header_panel " role="navigation">
+                            <!-- HEADER START  -->
+                            <div class="containerfullwidth">
+                                <!--Moved from Bottom level html element to maintain mobile device compatible  -->
+                                <button id="ucHeader1_hamburger_button" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".header-collapse">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+
+                                 <div id="ucHeader1_basket_counter" class="hidden-md hidden-lg basket hidden-sm" style="float: right;position: relative;">
+                                    
+                                    <a href="https://your.googlemerchandisestore.com/checkout/ShoppingCart" id="ucHeader1_aMDBasket" class="basketmargin" style="float: right;">
+                                       <i class="fa fa-shopping-basket" aria-hidden="true"></i>
+                                     
+                                    </a>
+
+                                </div>
+                                <!--Moved -->
+                                <div class="column col-sm-4 col-xs-6 col-md-5"><div class="navbar-header headerLinkMenu" style="margin-top: 10px;">
+                                        <!--Moved to TOP level html element to maintain mobile device compatible -->
+                                        <div id="ucHeader1_gmcontent1" itemtype="SiteLogo" data-value="0"><a href="https://your.googlemerchandisestore.com/index"><img class="logo" src="https://your.googlemerchandisestore.com/Images/SiteLogo/sitelogo.png"><img class="logo-mobile" src="https://your.googlemerchandisestore.com/Images/SiteLogo/Mobile/mobilelogo.png"></a></div>
+
+
+                                    </div></div>
+                                <div class="column col-xs-12 col-md-7 col-sm-8"><div id="ucHeader1_gmcontent2" class="navbar-collapse collapse header-collapse" itemtype="SiteLinks" data-value="0"><ul id="ucHeader1_ctl01_ulHeaderLinks" class="nav navbar-nav navbar-right ellipsis nomargin ulSiteLink">
+    
+            <li id="ucHeader1_ctl01_rptHeaderLinks_liSiteLink_0">
+
+                
+                <a href="../Products/Products_CustomRequest.aspx" id="ucHeader1_ctl01_rptHeaderLinks_lnkSiteLink_0" class="dropdown-toggle headerLink">Special Request</a>
+                
+
+                
+
+                
+                
+            </li>
+        
+            <li id="ucHeader1_ctl01_rptHeaderLinks_liSiteLink_1" class="BasketLink hidden-xs">
+
+                
+                <a href="../Checkout/ShoppingCart" id="ucHeader1_ctl01_rptHeaderLinks_lnkSiteLink_1" class="dropdown-toggle headerLink"><i class="fa fa-shopping-basket" aria-hidden="true"></i>&nbsp; <span class="basket_qty_lg menuBg1">0</span>Basket</a>
+                <div id="quickbasket" style="width: 370px; top: 44px; z-index: 1111">
+                    <div class="panel customPanel panel-default">
+                        <div class="customPanel panel-heading">Basket (<span id="ucHeader1_ctl01_rptHeaderLinks_spnItemCount_1">0</span> items)<a href="javascript:close_quickbasket()" type="button" class="close customClose">×</a></div>
+                        
+                        <div id="ucHeader1_ctl01_rptHeaderLinks_dv2_1" class="panel-body">
+                            <p class="pageText">Fill Me Up</p>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                
+                
+            </li>
+        
+            <li id="ucHeader1_ctl01_rptHeaderLinks_liSiteLink_2" class="dropdown sitelink ">
+
+                
+                <a href="return javascript:void(0);" id="ucHeader1_ctl01_rptHeaderLinks_lnkSiteLink_2" class="dropdown-toggle headerLink" data-toggle="dropdown">My Account<span class="caret"></span></a>
+                
+
+                
+
+                
+                <ul id="ucHeader1_ctl01_rptHeaderLinks_ulChildSiteLinks_2" class="dropdown-menu">
+                    
+                            <li id="ucHeader1_ctl01_rptHeaderLinks_rptChildSiteLinks_2_liChildSiteLink_0" class="dropdown sitelink">
+                                
+                                <a href="https://your.googlemerchandisestore.com/UserRegistration" id="ucHeader1_ctl01_rptHeaderLinks_rptChildSiteLinks_2_lnkChildSiteLink_0" class="dropdown-toggle">Register</a>
+                                <ul id="ucHeader1_ctl01_rptHeaderLinks_rptChildSiteLinks_2_ulGrandChildSiteLinks_0" class="nav navbar-nav navbar-right">
+                                    
+                                </ul>
+
+                            </li>
+                        
+                            <li id="ucHeader1_ctl01_rptHeaderLinks_rptChildSiteLinks_2_liChildSiteLink_1" class="dropdown sitelink">
+                                
+                                <a href="https://your.googlemerchandisestore.com/SignIn" id="ucHeader1_ctl01_rptHeaderLinks_rptChildSiteLinks_2_lnkChildSiteLink_1" class="dropdown-toggle headerLink loginlink">Log in</a>
+                                <ul id="ucHeader1_ctl01_rptHeaderLinks_rptChildSiteLinks_2_ulGrandChildSiteLinks_1" class="nav navbar-nav navbar-right">
+                                    
+                                </ul>
+
+                            </li>
+                        
+                </ul>
+            </li>
+        
 <li>
-<p><strong>Information you give us.</strong> For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for <a href="../../policies/privacy/key-terms/#toc-terms-personal-info">personal information</a>, like your name, email address, telephone number or <a class="highlight" href="../../policies/privacy/example/credit-card.html" id="credit-card">credit card</a> to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible <a href="https://support.google.com/accounts/answer/112783?hl=en">Google Profile</a>, which may include your name and photo.
-</p></li><li>
-<p><strong>Information we get from your use of our services.</strong> We <a class="highlight" href="../../policies/privacy/example/collect-information.html" id="collect-information">collect information</a> about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or <a class="highlight" href="../../policies/privacy/example/view-and-interact-with-our-ads.html" id="view-and-interact-with-our-ads">view and interact with our ads</a> and content. This information includes:
-</p><ul>
-<li>
-<p><strong><a href="../../policies/privacy/key-terms/#toc-terms-device">Device information</a></strong>
-</p><p>We collect <a class="highlight" href="../../policies/privacy/example/device-specific-information.html" id="device-specific-information">device-specific information</a> (such as your hardware model, operating system version, <a href="../../policies/privacy/key-terms/#toc-terms-unique-device-id">unique device identifiers</a>, and mobile network information including phone number). Google may associate your <a class="highlight" href="../../policies/privacy/example/device-identifiers.html" id="device-identifiers">device identifiers</a> or <a class="highlight" href="../../policies/privacy/example/phone-number.html" id="phone-number">phone number</a> with your Google Account.
-</p></li><li>
-<p><strong>Log information</strong>
-</p><p>When you use our services or view content provided by Google, we automatically collect and store certain information in <a href="../../policies/privacy/key-terms/#toc-terms-server-logs">server logs</a>. This includes:
-</p><ul>
-<li>details of how you used our service, such as your search queries.
-</li><li>telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
-</li><li><a href="../../policies/privacy/key-terms/#toc-terms-ip">Internet protocol address</a>.
-</li><li>device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
-</li><li>cookies that may uniquely identify your browser or your Google Account.</li></ul>
-</li><li>
-<p><strong>Location information</strong>
-</p><p>When you use Google services, we <a class="highlight" href="../../policies/privacy/example/may-collect-and-process-information.html" id="may-collect-and-process-information">may collect and process information about your actual location</a>. We use various technologies to determine location, including IP address, GPS, <a class="highlight" href="../../policies/privacy/example/sensors.html" id="sensors">and other sensors</a> that may, for example, provide Google with information on nearby devices, <a class="highlight" href="../../policies/privacy/example/wifi-access-points-and-cell-towers.html" id="wifi-access-points-and-cell-towers">Wi-Fi access points and cell towers</a>.
-</p></li><li>
-<p><strong>Unique application numbers</strong>
-</p><p>Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
-</p></li><li>
-<p><strong>Local storage</strong>
-</p><p>We may collect and store information (including personal information) locally on your device using mechanisms such as <a href="../../policies/privacy/key-terms/#toc-terms-browser-storage">browser web storage</a> (including HTML&nbsp;5) and <a href="../../policies/privacy/key-terms/#toc-terms-application-data-cache">application data caches</a>.
-</p></li><li>
-<p><strong>Cookies and similar technologies</strong>
-</p><p>We <a class="highlight" href="../../policies/privacy/example/our-partners.html" id="our-partners">and our partners</a> use various technologies to collect and store information when you visit a Google service, and this may include using <a href="../../policies/privacy/key-terms/#toc-terms-cookie">cookies or similar technologies</a> to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as <a class="highlight" href="../../policies/privacy/example/advertising-services.html" id="advertising-services">advertising services</a> or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is <a class="highlight" href="../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html" id="linked-with-information-about-visits-to-multiple-sites">linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites</a>.</p></li></ul></li></ul>
-<p>Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the <a class="gweb-smoothscroll-control" href="#infochoices">Transparency and choice</a> section of this policy.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="infouse">How we use information we collect</h2>
-<p>We use the information we collect from all of our services to <a class="highlight" href="../../policies/privacy/example/provide-services.html" id="provide-services">provide</a>, <a class="highlight" href="../../policies/privacy/example/maintain-services.html" id="maintain-services">maintain</a>, <a class="highlight" href="../../policies/privacy/example/protect-services.html" id="protect-services">protect</a> and improve them, to <a class="highlight" href="../../policies/privacy/example/develop-new-ones.html" id="develop-new-ones">develop new ones</a>, and to <a class="highlight" href="../../policies/privacy/example/protect-google-and-our-users.html" id="protect-google-and-our-users">protect Google and our users</a>. We also use this information to offer you tailored content – like giving you more relevant search results and ads.
-</p><p>We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo.
-</p><p>If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to <a class="highlight" href="../../policies/privacy/example/limit-sharing-or-visibility-settings.html" id="limit-sharing-or-visibility-settings">limit sharing or visibility settings</a> in your Google Account.
-</p><p>When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
-</p><p>We use information collected from cookies and other technologies, like <a href="../../policies/privacy/key-terms/#toc-terms-pixel">pixel tags</a>, to <a class="highlight" href="../../policies/privacy/example/improve-your-user-experience.html" id="improve-your-user-experience">improve your user experience</a> and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with <a href="../../policies/privacy/key-terms/#toc-terms-sensitive-categories">sensitive categories</a>, such as those based on race, religion, sexual orientation or health.
-</p><p>Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection.
-</p><p>We may <a class="highlight" href="../../policies/privacy/example/combine-personal-information.html" id="combine-personal-information">combine personal information from one service with information, including personal information, from other Google services</a> – for example <a class="highlight" href="../../policies/privacy/example/to-make-it-easier-to-share.html" id="to-make-it-easier-to-share">to make it easier to share things with people you know</a>. Depending on <a href="https://myaccount.google.com/?hl=en">your account settings</a>, <a class="highlight" href="../../policies/privacy/example/your-activity-on-other-sites-and-apps.html" id="your-activity-on-other-sites-and-apps">your activity on other sites and apps</a> may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
-</p><p>We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
-</p><p>Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="infochoices">Transparency and choice</h2>
-<p>People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
-</p><ul>
-<li><a href="https://myaccount.google.com/privacy?hl=en#accounthistory">Review and update your Google activity controls</a> to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these <a href="https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow">controls</a> to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account.
-</li><li><a href="https://www.google.com/dashboard/?hl=en">Review and control</a> certain types of information tied to your Google Account by using Google Dashboard.
-</li><li><a href="https://www.google.com/settings/ads/preferences?hl=en">View and edit</a> your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services.
-</li><li><a href="https://support.google.com/plus/answer/1355890?hl=en">Adjust</a> how the Profile associated with your Google Account appears to others.
-</li><li><a href="https://support.google.com/plus/bin/static.py?hl=en&amp;page=guide.cs&amp;guide=1257347">Control</a> who you share information with through your Google Account.
-</li><li><a href="https://www.dataliberation.org/">Take information</a> associated with your Google Account out of many of our services.
-</li><li><a href="https://plus.google.com/settings/endorsements?hl=en">Choose</a> whether your Profile name and Profile photo appear in shared endorsements that appear in ads.</li></ul>
-<p>You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services <a class="highlight" href="../../policies/privacy/example/may-not-function-properly.html" id="may-not-function-properly">may not function properly</a> if your cookies are disabled. For example, we may not remember your language preferences.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="infosharing">Information you share</h2>
-<p>Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on <a class="highlight" href="../../policies/privacy/example/sharing.html" id="sharing">sharing</a> and <a class="highlight" href="../../policies/privacy/example/removing-your-content.html" id="removing-your-content">removing your content</a>.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="access">Accessing and updating your personal information</h2>
-<p>Whenever you use our services, we aim to provide you with <a class="highlight" href="../../policies/privacy/example/access-to-your-personal-information.html" id="access-to-your-personal-information">access to your personal information</a>. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
-</p><p>We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
-</p><p>Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="nosharing">Information we share</h2>
-<p>We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies:
-</p><ul>
-<li>
-<p><strong>With your consent</strong>
-</p><p>We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any <a href="../../policies/privacy/key-terms/#toc-terms-sensitive-info">sensitive personal information</a>.
-</p></li><li>
-<p><strong>With domain administrators</strong>
-</p><p>If your Google Account is managed for you by a <a href="https://support.google.com/a/answer/178897?hl=en">domain administrator</a> (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
-</p><ul>
-<li>view statistics regarding your account, like statistics regarding applications you install.
-</li><li>change your account password.
-</li><li>suspend or terminate your account access.
-</li><li>access or retain information stored as part of your account.
-</li><li>receive your account information in order to satisfy applicable law, regulation, <a class="highlight" href="../../policies/privacy/example/legal-process.html" id="legal-process">legal process or enforceable governmental request</a>.
-</li><li>restrict your ability to delete or edit information or privacy settings.</li></ul>
-<p>Please refer to your domain administrator’s privacy policy for more information.
-</p></li><li>
-<p><strong>For external processing</strong>
-</p><p>We provide personal information to our <a href="../../policies/privacy/key-terms/#toc-terms-affiliates">affiliates</a> or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-</p></li><li>
-<p><strong>For legal reasons</strong>
-</p><p>We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
-</p><ul>
-<li>meet any applicable law, regulation, <a class="highlight" href="../../policies/privacy/example/legal-process.html" id="legal-process">legal process or enforceable governmental request</a>.
-</li><li>enforce applicable Terms of Service, including investigation of potential violations.
-</li><li>detect, prevent, or otherwise address fraud, security or technical issues.
-</li><li>protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.</li></ul></li></ul>
-<p><a class="highlight" href="../../policies/privacy/example/we-may-share.html" id="we-may-share">We may share</a> <a href="../../policies/privacy/key-terms/#toc-terms-info">non-personally identifiable information</a> publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly <a class="highlight" href="../../policies/privacy/example/to-show-trends.html" id="to-show-trends">to show trends</a> about the general use of our services.
-</p><p>If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="infosecurity">Information security</h2>
-<p>We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
-</p><ul>
-<li>We encrypt many of our services <a href="https://support.google.com/websearch/answer/173733?hl=en">using SSL</a>.
-</li><li>We offer you <a href="//www.google.com/intl/en/landing/2step/">two step verification</a> when you access your Google Account, and a <a href="https://www.google.com/chrome/intl/en/more/security.html">Safe Browsing feature</a> in Google Chrome.
-</li><li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
-</li><li>We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.</li></ul>
-<div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="application">When this Privacy Policy applies</h2>
-<p>Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
-</p><p>Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="enforcement">Compliance and cooperation with regulatory authorities</h2>
-<p>We regularly review our compliance with our Privacy Policy. We also adhere to several <a href="../../policies/privacy/frameworks/">self regulatory frameworks</a>, including the EU-US Privacy Shield Framework. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="policychanges">Changes</h2>
-<p>Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="products">Specific product practices</h2>
-<p>The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
-</p><ul>
-<li><a href="https://www.google.com/chrome/intl/en/privacy.html">Chrome and Chrome OS</a>
-</li><li><a href="https://play.google.com/books/intl/en/privacy.html">Play Books</a>
-</li><li><a href="https://payments.google.com/legaldocument?family=0.privacynotice&amp;hl=en">Payments</a>
-</li><li><a href="https://fiber.google.com/legal/privacy.html">Fiber</a>
-</li><li><a href="https://fi.google.com/about/tos/#project-fi-privacy-notice">Project Fi</a>
-</li><li><a href="https://www.google.com/work/apps/terms/education_privacy.html">Google Apps for Education</a></li></ul>
-<p>For more information about some of our most popular services, you can visit the <a href="../../policies/technologies/product-privacy/">Google Product Privacy Guide</a>.
-</p><div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">Back to top</a></div>
-<h2 id="related">Other useful privacy and security related materials</h2>
-<p>Further useful privacy and security related materials can be found through Google’s <a href="../../policies/">policies and principles pages</a>, including:
-</p><ul>
-<li>Information about our <a href="../../policies/technologies/">technologies and principles</a>, which includes, among other things, more information on
-<ul>
-<li><a href="../../policies/technologies/cookies/">how Google uses cookies</a>.
-</li><li>technologies we use for <a href="../../policies/technologies/ads/">advertising</a>.
-</li><li>how we <a href="../../policies/technologies/pattern-recognition/">recognize patterns like faces</a>.</li></ul>
-</li><li>A <a href="../../policies/privacy/partners/">page</a> that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
-</li><li>The <a href="https://myaccount.google.com/privacycheckup/1?hl=en">Privacy Checkup</a> tool, which makes it easy to review your key privacy settings.
-</li><li>Google’s <a href="//www.google.com/intl/en/safetycenter/">safety center</a>, which provides information on how to stay safe and secure online.</li></ul>
-<div class="footnotes">
-<div class="hidden example-summary" id="summary-access-to-your-personal-information">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"access to your personal information"</h2>For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account.
-<div class="learnmore"><a href="../../policies/privacy/example/access-to-your-personal-information.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-ads-youll-find-most-useful">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"ads you’ll find most useful"</h2>For example, if you frequently visit websites and blogs about gardening, you may see ads related to gardening as you browse the web.
-<div class="learnmore"><a href="../../policies/privacy/example/ads-youll-find-most-useful.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-advertising-services">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"advertising services"</h2>For example, if you frequently visit websites and blogs about gardening that show our ads, you may start to see ads related to this interest as you browse the web.
-<div class="learnmore"><a href="../../policies/privacy/example/advertising-services.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-sensors">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"and other sensors"</h2>Your device may have sensors that provide information to assist in a better understanding of your location. For example, an accelerometer can be used to determine things like speed, or a gyroscope to figure out direction of travel.
-<div class="learnmore"><a href="../../policies/privacy/example/sensors.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-collect-information">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"collect information"</h2>This includes information like your usage data and preferences, Gmail messages, G+ profile, photos, videos, browsing history, map searches, docs, or other Google-hosted content.
-<div class="learnmore"><a href="../../policies/privacy/example/collect-information.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-combine-personal-information">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"combine personal information from one service with information, including personal information, from other Google services"</h2>For example, when you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with pages, photos, and Google+ posts from your friends and people who know you or follow you on Google+ may see your posts and profile in their results.
-<div class="learnmore"><a href="../../policies/privacy/example/combine-personal-information.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-connect-with-people">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"connect with people"</h2>For example, you could get suggestions of people you might know or want to connect with on Google+, based on the connections you have with people on other Google products, like Gmail and people who have a connection with you may see your profile as a suggestion.
-<div class="learnmore"><a href="../../policies/privacy/example/connect-with-people.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-credit-card">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"credit card"</h2>Whilst we currently don’t ask for a credit card during sign up, verifying your age through a small credit card transaction is one way to confirm that you meet our age requirements in case your account was disabled after you have entered a birthday indicating you are not old enough to have a Google Account.
-<div class="learnmore"><a href="../../policies/privacy/example/credit-card.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-develop-new-ones">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"develop new ones"</h2>For example, Google’s spell checking software was developed by analyzing previous searches where users had corrected their own spelling.
-<div class="learnmore"><a href="../../policies/privacy/example/develop-new-ones.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-device-identifiers">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"device identifiers"</h2>Device identifiers let Google know which unique device you are using to access our services, which can be used to customise our service to your device or analyse any device issues related to our services.
-<div class="learnmore"><a href="../../policies/privacy/example/device-identifiers.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-device-specific-information">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"device-specific information"</h2>For example, when you visit Google Play from your desktop, Google can use this information to help you decide on which devices you'd like your purchases to be available for use.
-<div class="learnmore"><a href="../../policies/privacy/example/device-specific-information.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-improve-your-user-experience">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"improve your user experience"</h2>For example, cookies allow us to analyse how users interact with our services.
-<div class="learnmore"><a href="../../policies/privacy/example/improve-your-user-experience.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-legal-process">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"legal process or enforceable governmental request"</h2>Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Our legal team reviews each and every request, regardless of type, and we frequently push back when the requests appear to be overly broad or don’t follow the correct process.
-<div class="learnmore"><a href="../../policies/privacy/example/legal-process.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-limit-sharing-or-visibility-settings">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"limit sharing or visibility settings"</h2>For example, you can choose your settings so your name and photo do not appear in an ad.
-<div class="learnmore"><a href="../../policies/privacy/example/limit-sharing-or-visibility-settings.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-linked-with-information-about-visits-to-multiple-sites">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"linked with information about visits to multiple sites"</h2>Google Analytics is based on first-party cookies. Data generated through Google Analytics can be linked, by the Google Analytics customer or by Google, using Google technology, to third-party cookies, related to visits to other websites, for instance when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyze its traffic.
-<div class="learnmore"><a href="../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-maintain-services">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"maintain"</h2>For example, we continuously monitor our systems to check that they are working as intended and in order to detect and fix errors.
-<div class="learnmore"><a href="../../policies/privacy/example/maintain-services.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-may-collect-and-process-information">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"may collect and process information about your actual location"</h2>For example, Google Maps can center the maps view on your current location.
-<div class="learnmore"><a href="../../policies/privacy/example/may-collect-and-process-information.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-may-not-function-properly">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"may not function properly"</h2>For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser.
-<div class="learnmore"><a href="../../policies/privacy/example/may-not-function-properly.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-our-partners">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"and our partners"</h2>We allow trusted businesses to use cookies or similar technologies for advertising and research purposes on our services.
-<div class="learnmore"><a href="../../policies/privacy/example/our-partners.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-phone-number">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"phone number"</h2>For example, if you add a phone number as a recovery option, if you forget your password Google can send you a text message with a code to enable you to reset it.
-<div class="learnmore"><a href="../../policies/privacy/example/phone-number.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-protect-google-and-our-users">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"protect Google and our users"</h2>For example, if you're concerned about unauthorized access to your email, "Last account activity" in Gmail shows you information about recent activity in your email, such as the IP addresses that accessed your mail, the associated location, as well as the time and date.
-<div class="learnmore"><a href="../../policies/privacy/example/protect-google-and-our-users.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-protect-services">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"protect"</h2>For example, one reason we collect and analyze IP addresses and cookies is to protect our services against automated abuse.
-<div class="learnmore"><a href="../../policies/privacy/example/protect-services.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-provide-services">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"provide"</h2>For example, the IP address assigned to your device is used to send the data you requested back to your device.
-<div class="learnmore"><a href="../../policies/privacy/example/provide-services.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-sharing">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"sharing"</h2>For example, with Google+, you have many different sharing options.
-<div class="learnmore"><a href="../../policies/privacy/example/sharing.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-sharing-with-others">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"sharing with others quicker and easier"</h2>For example, if someone is already a contact, Google will autocomplete their name if you want to add them to a message in Gmail.
-<div class="learnmore"><a href="../../policies/privacy/example/sharing-with-others.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-the-people-who-matter-most">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"the people who matter most to you online"</h2>For example, when you type an address in the To, Cc, or Bcc field of a message you're composing, Gmail will suggest addresses from your Contacts list.
-<div class="learnmore"><a href="../../policies/privacy/example/the-people-who-matter-most.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-to-make-it-easier-to-share">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"to make it easier to share things with people you know"</h2>For example, if you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name.
-<div class="learnmore"><a href="../../policies/privacy/example/to-make-it-easier-to-share.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-view-and-interact-with-our-ads">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"view and interact with our ads"</h2>For example, we regularly report to advertisers on whether we served their ad to a page and whether that ad was likely to be seen by users (as opposed to, for example, being on part of the page to which users did not scroll).
-<div class="learnmore"><a href="../../policies/privacy/example/view-and-interact-with-our-ads.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-we-may-share">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"We may share aggregated, non-personally identifiable information publicly"</h2>When lots of people start searching for something, it can provide very useful information about particular trends at that time.
-<div class="learnmore"><a href="../../policies/privacy/example/we-may-share.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-wifi-access-points-and-cell-towers">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"Wi-Fi access points and cell towers"</h2>For example, Google can approximate your device’s location based on the known location of nearby cell towers.
-<div class="learnmore"><a href="../../policies/privacy/example/wifi-access-points-and-cell-towers.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-more-relevant-search-results">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"more relevant search results"</h2>For example, we can make search more relevant and interesting for you by including photos, posts, and more from you and your friends.
-<div class="learnmore"><a href="../../policies/privacy/example/more-relevant-search-results.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-removing-your-content">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"removing your content"</h2>For example, you can delete your <a href="//support.google.com/websearch/answer/465?hl=en">Web &amp; App Activity</a>, <a href="//support.google.com/blogger/answer/41387?hl=en">your blog</a>, <a href="//support.google.com/sites/answer/90598?hl=en">a Google Site you own</a>, <a href="//support.google.com/youtube/answer/55759?hl=en">your YouTube Channel</a>, <a href="//support.google.com/plus/answer/1044503?hl=en">your Google+ profile</a> or <a href="//support.google.com/accounts/answer/32046?hl=en">your entire Google account</a>.
-<div class="learnmore"><a href="../../policies/privacy/example/removing-your-content.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-to-show-trends">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"to show trends"</h2>You can see some of these at <a href="//www.google.com/trends/?hl=en">Google Trends</a> and <a href="//www.youtube.com/trending">YouTube Trending Videos</a>.
-<div class="learnmore"><a href="../../policies/privacy/example/to-show-trends.html">Learn more.</a></div></div>
-<div class="hidden example-summary" id="summary-your-activity-on-other-sites-and-apps">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"your activity on other sites and apps"</h2>This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on <a href="//myaccount.google.com/?hl=en">your account settings</a> and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
-<div class="learnmore"><a href="../../policies/privacy/example/your-activity-on-other-sites-and-apps.html">Learn more.</a></div></div></div>
-<div id="pp-bumper">
-<h2>We keep your personal information private and safe — and put you in control.</h2>
-<p><a href="https://privacy.google.com/?hl=en">Learn more about our commitments to your privacy and security.</a></p></div></div></div></div>
-<div id="maia-signature"></div>
-<div class="maia-footer" id="maia-footer">
-<div id="maia-footer-local">
-<div class="maia-aux">
-<div class="policy-footer-sitemap">
-<div class="maia-cols">
-<div class="maia-col-3">
-<h3>Our legal policies</h3>
-<ul>
-<li>Privacy Policy
-</li><li><a href="../../policies/terms/">Terms of Service</a>
-</li><li><a href="../../policies/faq/">FAQ</a></li></ul></div>
-<div class="maia-col-3">
-<h3>More information</h3>
-<ul>
-<li><a href="../../policies/technologies/">Technologies and Principles</a>
-</li><li><a href="../../policies/technologies/ads/">Advertising</a>
-</li><li><a href="../../policies/technologies/cookies/">How Google uses cookies</a>
-</li><li><a href="../../policies/technologies/pattern-recognition/">How Google uses pattern recognition</a>
-</li><li><a href="../../policies/technologies/location-data/">Types of location data used by Google</a></li></ul></div>
-<div class="maia-col-3" id="more-information-continued">
-<ul>
-<li><a href="../../policies/technologies/wallet/">How Google Wallet uses credit card numbers</a>
-</li><li><a href="../../policies/technologies/voice/">How Google Voice works</a>
-</li><li><a href="../../policies/privacy/partners/">How Google uses data when you use our partners' sites or apps</a></li></ul></div>
-<div class="maia-col-3">
-<h3>Additional resources</h3>
-<ul>
-<li><a href="https://myaccount.google.com?hl=en">My Account</a>
-</li><li><a href="../../safetycenter/families/start/">Google Safety Center</a>
-</li><li><a href="../../policies/technologies/product-privacy/">Google Product Privacy Guide</a>
-</li><li><a href="https://privacy.google.com?hl=en">Your privacy, security, and controls</a></li></ul></div></div></div></div></div>
-<div id="maia-footer-global">
-<div class="maia-aux">
-<div class="maia-locales"><label><span>Change language:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};">
-<option value="/intl/af/policies/privacy/">Afrikaans
-</option><option value="/intl/id/policies/privacy/">Bahasa Indonesia
-</option><option value="/intl/ms/policies/privacy/">Bahasa Melayu
-</option><option value="/intl/ca/policies/privacy/">Català
-</option><option value="/intl/cs/policies/privacy/">Čeština
-</option><option value="/intl/da/policies/privacy/">Dansk
-</option><option value="/intl/de/policies/privacy/">Deutsch
-</option><option value="/intl/et/policies/privacy/">Eesti
-</option><option selected="" value="/intl/en/policies/privacy/">English
-</option><option value="/intl/en-GB/policies/privacy/">English (United Kingdom)
-</option><option value="/intl/es/policies/privacy/">Español
-</option><option value="/intl/es-419/policies/privacy/">Español (Latinoamérica)
-</option><option value="/intl/eu/policies/privacy/">Euskara
-</option><option value="/intl/fil/policies/privacy/">Filipino
-</option><option value="/intl/fr/policies/privacy/">Français
-</option><option value="/intl/fr-CA/policies/privacy/">Français (Canada)
-</option><option value="/intl/gl/policies/privacy/">Galego
-</option><option value="/intl/hr/policies/privacy/">Hrvatski
-</option><option value="/intl/zu/policies/privacy/">Isizulu
-</option><option value="/intl/is/policies/privacy/">Íslenska
-</option><option value="/intl/it/policies/privacy/">Italiano
-</option><option value="/intl/sw/policies/privacy/">Kiswahili
-</option><option value="/intl/lv/policies/privacy/">Latviešu
-</option><option value="/intl/lt/policies/privacy/">Lietuvių
-</option><option value="/intl/hu/policies/privacy/">Magyar
-</option><option value="/intl/nl/policies/privacy/">Nederlands
-</option><option value="/intl/no/policies/privacy/">Norsk
-</option><option value="/intl/pl/policies/privacy/">Polski
-</option><option value="/intl/pt-BR/policies/privacy/">Português (Brasil)
-</option><option value="/intl/pt-PT/policies/privacy/">Português (Portugal)
-</option><option value="/intl/ro/policies/privacy/">Română
-</option><option value="/intl/sk/policies/privacy/">Slovenčina
-</option><option value="/intl/sl/policies/privacy/">Slovenščina
-</option><option value="/intl/fi/policies/privacy/">Suomi
-</option><option value="/intl/sv/policies/privacy/">Svenska
-</option><option value="/intl/vi/policies/privacy/">Tiếng Việt
-</option><option value="/intl/tr/policies/privacy/">Türkçe
-</option><option value="/intl/el/policies/privacy/">Ελληνικά
-</option><option value="/intl/bg/policies/privacy/">Български
-</option><option value="/intl/ru/policies/privacy/">Русский
-</option><option value="/intl/sr/policies/privacy/">Српски
-</option><option value="/intl/uk/policies/privacy/">Українська
-</option><option value="/intl/iw/policies/privacy/">‫עברית‬
-</option><option value="/intl/ur/policies/privacy/">‫اردو‬
-</option><option value="/intl/ar/policies/privacy/">‫العربية‬
-</option><option value="/intl/fa/policies/privacy/">‫فارسی‬
-</option><option value="/intl/am/policies/privacy/">አማርኛ
-</option><option value="/intl/mr/policies/privacy/">मराठी
-</option><option value="/intl/hi/policies/privacy/">हिन्दी
-</option><option value="/intl/bn/policies/privacy/">বাংলা
-</option><option value="/intl/gu/policies/privacy/">ગુજરાતી
-</option><option value="/intl/ta/policies/privacy/">தமிழ்
-</option><option value="/intl/te/policies/privacy/">తెలుగు
-</option><option value="/intl/kn/policies/privacy/">ಕನ್ನಡ
-</option><option value="/intl/ml/policies/privacy/">മലയാളം
-</option><option value="/intl/th/policies/privacy/">ไทย
-</option><option value="/intl/ko/policies/privacy/">한국어
-</option><option value="/intl/zh-HK/policies/privacy/">中文 (香港)
-</option><option value="/intl/zh-CN/policies/privacy/">中文（简体中文）
-</option><option value="/intl/zh-TW/policies/privacy/">中文（繁體中文）
-</option><option value="/intl/ja/policies/privacy/">日本語</option></select></label></div>
-<ul>
-<li><a href="/">Google</a>
-</li><li><a href="/intl/en/about/">About Google</a>
-</li><li><a href="/intl/en/policies/privacy/">Privacy</a>
-</li><li><a href="/intl/en/policies/terms/">Terms</a></li></ul></div></div></div>
-<script src="/policies/js/policies.min.js">
-</script><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"more relevant search results"</h2>For example, we can make search more relevant and interesting for you by including photos, posts, and more from you and your friends.
-<div class="learnmore"><a href="../../policies/privacy/example/more-relevant-search-results.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"connect with people"</h2>For example, you could get suggestions of people you might know or want to connect with on Google+, based on the connections you have with people on other Google products, like Gmail and people who have a connection with you may see your profile as a suggestion.
-<div class="learnmore"><a href="../../policies/privacy/example/connect-with-people.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"sharing with others quicker and easier"</h2>For example, if someone is already a contact, Google will autocomplete their name if you want to add them to a message in Gmail.
-<div class="learnmore"><a href="../../policies/privacy/example/sharing-with-others.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"ads you’ll find most useful"</h2>For example, if you frequently visit websites and blogs about gardening, you may see ads related to gardening as you browse the web.
-<div class="learnmore"><a href="../../policies/privacy/example/ads-youll-find-most-useful.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"the people who matter most to you online"</h2>For example, when you type an address in the To, Cc, or Bcc field of a message you're composing, Gmail will suggest addresses from your Contacts list.
-<div class="learnmore"><a href="../../policies/privacy/example/the-people-who-matter-most.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"credit card"</h2>Whilst we currently don’t ask for a credit card during sign up, verifying your age through a small credit card transaction is one way to confirm that you meet our age requirements in case your account was disabled after you have entered a birthday indicating you are not old enough to have a Google Account.
-<div class="learnmore"><a href="../../policies/privacy/example/credit-card.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"collect information"</h2>This includes information like your usage data and preferences, Gmail messages, G+ profile, photos, videos, browsing history, map searches, docs, or other Google-hosted content.
-<div class="learnmore"><a href="../../policies/privacy/example/collect-information.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"view and interact with our ads"</h2>For example, we regularly report to advertisers on whether we served their ad to a page and whether that ad was likely to be seen by users (as opposed to, for example, being on part of the page to which users did not scroll).
-<div class="learnmore"><a href="../../policies/privacy/example/view-and-interact-with-our-ads.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"device-specific information"</h2>For example, when you visit Google Play from your desktop, Google can use this information to help you decide on which devices you'd like your purchases to be available for use.
-<div class="learnmore"><a href="../../policies/privacy/example/device-specific-information.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"device identifiers"</h2>Device identifiers let Google know which unique device you are using to access our services, which can be used to customise our service to your device or analyse any device issues related to our services.
-<div class="learnmore"><a href="../../policies/privacy/example/device-identifiers.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"phone number"</h2>For example, if you add a phone number as a recovery option, if you forget your password Google can send you a text message with a code to enable you to reset it.
-<div class="learnmore"><a href="../../policies/privacy/example/phone-number.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"may collect and process information about your actual location"</h2>For example, Google Maps can center the maps view on your current location.
-<div class="learnmore"><a href="../../policies/privacy/example/may-collect-and-process-information.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"and other sensors"</h2>Your device may have sensors that provide information to assist in a better understanding of your location. For example, an accelerometer can be used to determine things like speed, or a gyroscope to figure out direction of travel.
-<div class="learnmore"><a href="../../policies/privacy/example/sensors.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"Wi-Fi access points and cell towers"</h2>For example, Google can approximate your device’s location based on the known location of nearby cell towers.
-<div class="learnmore"><a href="../../policies/privacy/example/wifi-access-points-and-cell-towers.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"and our partners"</h2>We allow trusted businesses to use cookies or similar technologies for advertising and research purposes on our services.
-<div class="learnmore"><a href="../../policies/privacy/example/our-partners.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"advertising services"</h2>For example, if you frequently visit websites and blogs about gardening that show our ads, you may start to see ads related to this interest as you browse the web.
-<div class="learnmore"><a href="../../policies/privacy/example/advertising-services.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"linked with information about visits to multiple sites"</h2>Google Analytics is based on first-party cookies. Data generated through Google Analytics can be linked, by the Google Analytics customer or by Google, using Google technology, to third-party cookies, related to visits to other websites, for instance when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyze its traffic.
-<div class="learnmore"><a href="../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"provide"</h2>For example, the IP address assigned to your device is used to send the data you requested back to your device.
-<div class="learnmore"><a href="../../policies/privacy/example/provide-services.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"maintain"</h2>For example, we continuously monitor our systems to check that they are working as intended and in order to detect and fix errors.
-<div class="learnmore"><a href="../../policies/privacy/example/maintain-services.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"protect"</h2>For example, one reason we collect and analyze IP addresses and cookies is to protect our services against automated abuse.
-<div class="learnmore"><a href="../../policies/privacy/example/protect-services.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"develop new ones"</h2>For example, Google’s spell checking software was developed by analyzing previous searches where users had corrected their own spelling.
-<div class="learnmore"><a href="../../policies/privacy/example/develop-new-ones.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"protect Google and our users"</h2>For example, if you're concerned about unauthorized access to your email, "Last account activity" in Gmail shows you information about recent activity in your email, such as the IP addresses that accessed your mail, the associated location, as well as the time and date.
-<div class="learnmore"><a href="../../policies/privacy/example/protect-google-and-our-users.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"limit sharing or visibility settings"</h2>For example, you can choose your settings so your name and photo do not appear in an ad.
-<div class="learnmore"><a href="../../policies/privacy/example/limit-sharing-or-visibility-settings.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"improve your user experience"</h2>For example, cookies allow us to analyse how users interact with our services.
-<div class="learnmore"><a href="../../policies/privacy/example/improve-your-user-experience.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"combine personal information from one service with information, including personal information, from other Google services"</h2>For example, when you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with pages, photos, and Google+ posts from your friends and people who know you or follow you on Google+ may see your posts and profile in their results.
-<div class="learnmore"><a href="../../policies/privacy/example/combine-personal-information.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"to make it easier to share things with people you know"</h2>For example, if you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name.
-<div class="learnmore"><a href="../../policies/privacy/example/to-make-it-easier-to-share.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"your activity on other sites and apps"</h2>This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on <a href="//myaccount.google.com/?hl=en">your account settings</a> and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
-<div class="learnmore"><a href="../../policies/privacy/example/your-activity-on-other-sites-and-apps.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"may not function properly"</h2>For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser.
-<div class="learnmore"><a href="../../policies/privacy/example/may-not-function-properly.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"sharing"</h2>For example, with Google+, you have many different sharing options.
-<div class="learnmore"><a href="../../policies/privacy/example/sharing.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"removing your content"</h2>For example, you can delete your <a href="//support.google.com/websearch/answer/465?hl=en">Web &amp; App Activity</a>, <a href="//support.google.com/blogger/answer/41387?hl=en">your blog</a>, <a href="//support.google.com/sites/answer/90598?hl=en">a Google Site you own</a>, <a href="//support.google.com/youtube/answer/55759?hl=en">your YouTube Channel</a>, <a href="//support.google.com/plus/answer/1044503?hl=en">your Google+ profile</a> or <a href="//support.google.com/accounts/answer/32046?hl=en">your entire Google account</a>.
-<div class="learnmore"><a href="../../policies/privacy/example/removing-your-content.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"access to your personal information"</h2>For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account.
-<div class="learnmore"><a href="../../policies/privacy/example/access-to-your-personal-information.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"legal process or enforceable governmental request"</h2>Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Our legal team reviews each and every request, regardless of type, and we frequently push back when the requests appear to be overly broad or don’t follow the correct process.
-<div class="learnmore"><a href="../../policies/privacy/example/legal-process.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"legal process or enforceable governmental request"</h2>Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Our legal team reviews each and every request, regardless of type, and we frequently push back when the requests appear to be overly broad or don’t follow the correct process.
-<div class="learnmore"><a href="../../policies/privacy/example/legal-process.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"We may share aggregated, non-personally identifiable information publicly"</h2>When lots of people start searching for something, it can provide very useful information about particular trends at that time.
-<div class="learnmore"><a href="../../policies/privacy/example/we-may-share.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div><div class="jfk-bubble" style="display: none;"><div class="jfk-bubble-content-id">
-<h4 class="example">Example</h4>
-<h2 class="example-title">"to show trends"</h2>You can see some of these at <a href="//www.google.com/trends/?hl=en">Google Trends</a> and <a href="//www.youtube.com/trending">YouTube Trending Videos</a>.
-<div class="learnmore"><a href="../../policies/privacy/example/to-show-trends.html">Learn more.</a></div></div><div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div><div class="jfk-bubble-arrow-id jfk-bubble-arrow"><div class="jfk-bubble-arrowimplbefore"></div><div class="jfk-bubble-arrowimplafter"></div></div></div> 
-<script src="/js/maia.js">
+
+
+<ul class="nav navbar-nav navbar-right sitelinks nomargin">
+    <li class="dropdown sitelink dropdown-toggle">
+        <a onclick="return false;" id="ucHeader1_ctl01_ctl01_lnkCurrency" class="headerLink" data-toggle="dropdown" href="javascript:__doPostBack('ctl00$ucHeader1$ctl01$ctl01$lnkCurrency','')">Currency
+            <span class="caret leftMargin"></span>            
+        </a>
+            
+
+        <ul id="ucHeader1_ctl01_ctl01_ulSiteLanguages" class="dropdown-menu sitelinks scroll">
+            
+                    <li id="ucHeader1_ctl01_ctl01_rptSiteCurrencies_liSiteCurrency_0" class="dropdown  sitelink">
+                        <a id="ucHeader1_ctl01_ctl01_rptSiteCurrencies_lnkSiteCurrency2|GBP_0" href="#" csymb="£" cid="2" cname="British pound" class="sitelink active" onclick="javascript:return false;">£ - British pound</a>
+                        
+                    </li>
+                
+        </ul>
+    
+    </li>
+</ul>
+
+<script type="text/javascript">
+
+    var CurrencyId, CurrencySymbol , LanguageId;
+   
+
+    function funCurrencyChange(CId,CSymb,LId)
+    {
+        //debugger;
+        CurrencyId = CId;
+        CurrencySymbol = CSymb;
+        LanguageId = LId;
+        /*
+         data: {
+                        CId: CId,
+                        CCode: CCode
+                    },
+        data: {
+                    CId: CurrencyId,
+                    CCode: CurrencyCode
+                },
+        
+       
+        */
+             
+                $.ajax({
+                    url: 'https://your.googlemerchandisestore.com/home/home.aspx/ChangeDropdownCurrency',
+                    data: "{'CId': '" + CId + "','CSymb' : '" + CSymb + "','LId' : '" + LId + "'}",
+                    dataType: "json",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    cache: false,
+                    async: false
+                }).done(function (data) {
+                    window.location.href = 'https://your.googlemerchandisestore.com/Index';
+                });
+                
+         
+    }
+
+    
+
+    $(document).on('click', '#btnConfirmYes', function () {
+        //debugger;
+            $.ajax({
+                url: 'https://your.googlemerchandisestore.com/home/home.aspx/ChangeDropdownCurrency',
+                data: "{'CId': '" + CurrencyId + "','CSymb' : '" + CurrencySymbol + "','LId' : '" + LanguageId + "' }",
+                dataType: "json",
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                cache: false,
+                async: false
+            }).done(function (data) {               
+                window.location.href = 'https://your.googlemerchandisestore.com/Index';
+            });
+       
+    });
+
+    $(document).on('click', '#btnConfirmNo', function () {
+        $('#myConfirmModal').hide();
+       
+    });
+
+    $(document).on('click', '.loginlink', function () {
+        //debugger;
+        $.ajax({
+            url: 'https://your.googlemerchandisestore.com/home/home.aspx/LoginLinkClicked',
+                data: "",
+                dataType: "json",
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                cache: false,
+                async: false
+            }).done(function (data) {
+                window.location.href = 'https://your.googlemerchandisestore.com/Index';
+            });
+
+    });
+
+
+</script></li></ul>
+
+<ul id="ucHeader1_ctl01_ulFooterLinks" class="">
+    
+</ul>
+
+
+<style>
+    .countBubl {
+        float: left;
+        margin-top: -50px;
+        margin-left: 60px;
+        background: darkorange;
+        color: #fff;
+        padding: 2px;
+    }
+    .BasketLink:hover #quickbasket{display:block;}
+</style>
+
+
+
+
+</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="ucHeader1_HEADER_CATEGORIES">
+
+                <div class="row">
+                    <div class="container">
+                        <nav class="navbar navbar-inverse menuBg">
+                            <div class="navbar-header">
+                                <!-- Brand and toggle get grouped for better mobile display -->
+                                <button id="ucHeader1_product_hamburger_button" data-target=".category-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <div class="hidden-sm hidden-md hidden-lg search" style="display: block; float: right; margin-right: 10px">
+                                   	<div id="ucHeader1_divmobilesearch"> <a id="aSearch" class="headerLink" href="javascript:void(0);"><i class="fa fa-search" aria-hidden="true"></i></a><a data-toggle="modal" href="#ModalSearch"></a></div>
+                                </div>
+                                <div id="ucHeader1_categories" class="category_title hidden-md hidden-lg hidden-sm menuLink">Product categories</div>
+                            </div>
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse category-collapse " style="clear: left">
+                                <div class="col-md-11 col-xs-12 col-sm-11 column"><ul id="ucHeader1_ulCategoriesMenu" class="nav navbar-nav navbar-left categoryMenu categoryScroll sm-collapsible" itemtype="CategoriesMenu" data-value="0" data-smartmenus-id="15047039466353516">
+<script type="text/javascript">
+
+
+
+    // A $( document ).ready() block.
+    $(document).ready(function () {
+
+        $('.categoryMenu li').find('a').each(function () {
+            //debugger;
+            $(this).addClass("menuLink");
+
+        });
+
+
+        //$("ul li.dropdown").hover(function () {
+        //    if ($(this).hasClass('open')) {
+        //        $(this).find('ul').show();
+        //    } else {
+
+        //        $(this).find('ul').hide();
+        //    }
+        //});
+
+    });
+
+    
+</script><li><a href="https://your.googlemerchandisestore.com/index" class="categoryText">Home</a></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Apparel<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Men-quote-s T-shirts" class="">Men's T-shirts</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Men-quote-s Outerwear" class="">Men's Outerwear</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Women-quote-s T-shirts" class="">Women's T-shirts</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Women-quote-s Outerwear" class="">Women's Outerwear</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Unisex" class="">Unisex</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Babies" class="">Babies</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/Kids" class="">Kids</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Apparel/All" class="">All</a></li></ul></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Bags<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Bags/Bags -slash- Holdalls" class="">Bags / Holdalls</a></li></ul></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Drinkware<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Drinkware/Bottles -slash- Thermo-quote-s" class="">Bottles / Thermo's</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Drinkware/Mugs -slash- Cups" class="">Mugs / Cups</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Drinkware/All" class="">All</a></li></ul></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Electronics<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Electronics/Power -slash- Audio" class="">Power / Audio</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Electronics/Accessories" class="">Accessories</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Electronics/All" class="">All</a></li></ul></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Accessories<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Accessories/Socks" class="">Socks</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Accessories/Headwear" class="">Headwear</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Accessories/Fun" class="">Fun</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Accessories/Lifestyle" class="">Lifestyle</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Accessories/Stickers" class="">Stickers</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Accessories/All" class="">All</a></li></ul></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Office<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Office/Notebooks" class="">Notebooks</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Office/Writing" class="">Writing</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Office/All" class="">All</a></li></ul></li><li><a href="https://your.googlemerchandisestore.com/Category/Sale">Sale</a></li><li class="dropdown"><a href="../#" class="dropdown-toggle" data-toggle="dropdown">Shop by Brand<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/SubCategory/Shop by Brand/Google" class="">Google</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Shop by Brand/YouTube" class="">YouTube</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Shop by Brand/Android" class="">Android</a></li><li><a href="https://your.googlemerchandisestore.com/SubCategory/Shop by Brand/Waze" class="">Waze</a></li></ul></li><li class="dropdown"><a href="../#" class="dropdown-toggle categoryText" data-toggle="dropdown">Gift Certificate<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://your.googlemerchandisestore.com/#ModalGCBalance" data-toggle="modal">Check Gift Certificate Balance</a></li><li><a href="https://your.googlemerchandisestore.com/#divGuestLoginGc" data-toggle="modal">Buy Gift Certificates’</a></li></ul></li></ul></div>
+                                <div class="col-md-1 col-xs-1 col-sm-1 column searchBox"><div id="ucHeader1_gmcontent5" class="hidden-xs searchlink" style="display: block; float: right; margin-right: 10px" itemtype="SiteSearch" data-value="0"><a id="aSearch" class="menuLink" href="javascript:void(0);"><i class="fa fa-search" aria-hidden="true"></i></a></div></div>
+                            </div>
+                            <!-- /NAVBAR COLLAPSE -->
+                        </nav>
+                    </div>
+                </div>
+            </section>
+<section id="HEADER_BREADCRUMBS"><div class="hidden-xs container"><div class="row"><div class="col-xs-12"><ul class="breadcrumb customBreadcrumbBg"><li><a class="customBreadcrumb" href="https://your.googlemerchandisestore.com/index">Home</a></li><li class="active customBreadcrumbActive">privacy_policy</li></ul></div></div></div></section> 
+            </div>
+    </div>
+</header>
+
+        <!--END header-->
+
+       <!--   -->
+
+
+
+        <!--Content Holder-->
+        <div class="maincontainer">
+            
+   
+    <section class="WebSection">  
+        <div class="container">	      
+        <div class="row">
+		    <div class="col-xs-12">
+			    <h1 id="ContentPlaceHolder1_spnHeading" class="pageTitle">Privacy Policy</h1>
+		    </div>
+	    </div>
+        <div class="detailsarea">
+            
+            <div class="row static_page">
+	<div class="col-xs-12">
+		<h3 class="pageSubTitle">
+			Key Details</h3>
+		<p class="pageText">
+			Brand Addition is committed to protecting and respecting your privacy. This website privacy policy describes how we protect and make use of the information you give us when you use this website.</p>
+		<p class="pageText">
+			If you are asked to provide information when using this website, it will only be used in the ways described in this policy.</p>
+		<p>
+			&nbsp;</p>
+		<p class="pageText">
+			This policy is updated from time to time. The latest version is published on this page. This policy was last updated on 12th August 2015.</p>
+		<p class="pageText">
+			If you have any questions about this policy, please <a class="hyperLink" data-toggle="modal" href="#ModalContactUs"><span class="static_link">Contact us</span></a></p>
+		<h3 class="pageSubTitle">
+			Introduction</h3>
+		<p class="pageText">
+			We gather and use certain information about individuals in order to provide products and services and to enable certain functions on this website.</p>
+		<p class="pageText">
+			We also collect information to better understand how visitors use this website and to present timely, relevant information to them.</p>
+		<h3 class="pageSubTitle">
+			What Data We Gather</h3>
+		<p class="pageText">
+			We may collect the following information during your use of this website:</p>
+		<ul>
+			<li>
+				• Name &amp; Job Title</li>
+			<li>
+				• Contact information including email and postal addresses as well as telephone numbers</li>
+			<li>
+				• Demographic information, such as postcode, preferences and interest</li>
+			<li>
+				• Website usage data</li>
+			<li>
+				• Other information relevant to customer enquiries</li>
+			<li>
+				• Other information related to special offers and surveys</li>
+		</ul>
+		<h3 class="pageSubTitle">
+			How We Use This Data</h3>
+		<p class="pageText">
+			Collecting this data helps us to understand what you are looking for, enabling us to deliver improved products and services.</p>
+		<p class="pageText">
+			Specifically, we may use data:</p>
+		<ul class="pageText">
+			<li>
+				For our own internal records</li>
+			<li>
+				To improve the products and services we provide</li>
+			<li>
+				To contact you in response to a specific enquiry</li>
+			<li>
+				To customise the website for you</li>
+			<li>
+				To send you promotional emails about products, services, offers and other things we think might be relevant to you</li>
+			<li>
+				To send you promotional mailings or to call you about products, services, offers and other things we think might be relevant to you</li>
+			<li>
+				To contact you via email, telephone or mail for market research reasons</li>
+		</ul>
+		<h3 class="pageSubTitle">
+			Cookies and How We Use Them</h3>
+		<h4 class="pageSubTitle">
+			What is a Cookie?</h4>
+		<p class="pageText">
+			A cookie is a small file placed on your computer’s hard drive. It enables our website to identify your computer as you view different pages on our website.</p>
+		<p class="pageText">
+			Cookies allow websites and applications to store your preferences in order to present content, options or functions that are specific to you. They also enable us to see information like how many people use the website and what pages they tend to visit.</p>
+		<h4 class="pageSubTitle">
+			How We Use Cookies</h4>
+		<p class="pageText">
+			We may use cookies to:</p>
+		<ul class="pageText">
+			<li>
+				<span class="static_bolder">Analyse our web traffic using an analytics package.</span> Aggregated usage data helps us to improve the website structure, design, content and functions.</li>
+			<li>
+				<span class="static_bolder">Identify whether you are signed into our website.</span> A cookie allows us to check whether you are signed into the site and keep a track of your session to keep you signed in when you need to be.</li>
+			<li>
+				<span class="static_bolder">Store information about your preferences.</span> The website can then present you with information you will find more relevant and interesting in the future.</li>
+			<li>
+				<span class="static_bolder">To recognise when you return to our website.</span> We may show you relevant content or provide functionality you used previously.</li>
+		</ul>
+		<p class="pageText">
+			Cookies do not provide us with access to your computer or any information about you other than that which you choose to share with us.</p>
+		<h4 class="pageSubTitle">
+			Controlling Cookies</h4>
+		<p class="pageText">
+			You can use your web browser’s cookie settings to determine how our website uses cookies. If you do not want our website to store cookies on your computer or device, you should set your web browser to refuse cookies. However please note that refusing all cookies may affect how our website functions and some pages and services may become unavailable to you.</p>
+		<p class="pageText">
+			Unless you have changed your browser settings to refuse cookies, our website will issue cookies when you visit it. In compliance with the European Cookie Directive, you will be notified on first visit to the site that cookies are in use.</p>
+		<p class="pageText">
+			To learn more about cookies and how they are used, visit <a class="hyperLink" href="http://www.allaboutcookies.org" target="new"><span class="static_link">www.allaboutcookies.org</span></a></p>
+		<h3 class="pageSubTitle">
+			Controlling Information about You</h3>
+		<p class="pageText">
+			When you fill in a form or provide your details on our website, you will often see one or more tick boxes allowing you to opt in to receive marketing communications from us by emails, telephone, SMS or post.</p>
+		<p class="pageText">
+			If you have agreed that we can use your information for marketing purposes, you can change your mind easily via one of these methods.</p>
+		<ul class="pageText">
+			<li>
+				Send us an email at <a href="mailto:google@brandaddition.com"><span class="static_link_parameter">google@brandaddition.com</span></a></li>
+			<li>
+				Follow the unsubscribe instructions which are provided at the bottom of all of our marketing emails.</li>
+		</ul>
+		<p class="pageText">
+			We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to.</p>
+		<p class="pageText">
+			Any personal information we hold about you is stored and process under our data protection policy which is available on request and in line with the Data Protection Act 1998.</p>
+		<h3 class="pageSubTitle">
+			Security</h3>
+		<p class="pageText">
+			We will always hold your information securely and security reviews of how personal data is stored are undertaken regularly.</p>
+		<p class="pageText">
+			To prevent unauthorised disclosure or access to your information, we implement strong physical and electronic security safeguards. In the unlikely event of a breach of personal information, we will endeavour to inform all affected users within 7 days.</p>
+		<p class="pageText">
+			We also follow stringent procedures to ensure that we work with all personal data in line with the Data Protection Act 1998.</p>
+		<h3 class="pageSubTitle">
+			Links from Our Site</h3>
+		<p class="pageText">
+			Our website may contain links to other websites.</p>
+		<p class="pageText">
+			While we take every measure to validate the legitimacy of all external links, please note that we have no control of websites outside our own domain. If you provide information to a website to which we link, we are not responsible for its protection and privacy.</p>
+		<p class="pageText">
+			Always be wary when submitting data to websites. Read the site’s data protection and privacy policies fully.</p>
+	</div>
+	<!-- COLUMN END --></div>
+<!-- ROW END -->
+        </div>
+        </div>
+    </section>
+       
+    
+   
+
+   
+
+
+        </div>
+        <!--END Content Holder-->
+        <!--Footer-->
+        <div id="ucFooter1_divFooter">
+            <!-- FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------ -->
+            <section id="STANDARD_FOOTER" class="mycanvas container-fluid">
+        <div class="container">
+            <footer class="footerBg footerpadding">
+			 
+                <div class="row">
+				<div id="ucFooter1_gmcontent6" class="column col-sm-12 col-xs-12 col-md-12 " itemtype="Footertext" data-value="0"><div class="footerText"><span class="footerLink"><div id="FOOTER_TOP">
+
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3">
+            <h3>Host</h3>
+            <ul>
+                <li>This website and all orders are maintained and fulfilled through <a href="http://www.brandaddition.com/" target="_blank"><span style="font-weight:700">Brand&nbsp;Addition</span></a>.</li>
+            </ul>
+        </div>
+
+     <!--  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <h3>Mailing list</h3>
+            <ul>
+                <li>Sign up to our mailing list<br><input name="ctl00$txtEmailsubscribe" id="txtEmailsubscribe" class="form-control" type="text" style="margin-top:5px; background-color:rgba(255, 255, 255, 0.1); color:#ffffff; border:1px solid rgba(255,255,255,0.2"><span id="RequiredFieldValidator1" class="ErrorText" style="display:none;">Enter Email Address</span><span id="RegularExpressionValidator2" class="ErrorText" style="visibility:hidden;">Enter email in proper format</span><br><input name="" value="Submit" onclick="" id="btnFooterSubmit" class="btn btn-primary customActionBtn" type="submit" style="margin-top:-15px"></li>
+            </ul>
+        </div> -->
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <h3>Administration</h3>
+            <!-- ul>
+                <li><a href="https://your.googlemerchandisestore/info/terms_and_conditions">Terms and Conditions</a></li>
+                <li><a href="https://your.googlemerchandisestore/info/privacy_policy">Privacy Policy</a></li>
+                <li><a href="https://your.googlemerchandisestore/info/faqs">FAQs</a></li>
+                <li><a href="https://your.googlemerchandisestore/Sitemap/Sitemap.aspx">Site map</a></li>
+            </ul -->
+                    <ul id="FOOTER_LINKS">
+                    </ul>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <h3>Contact us</h3>
+            <ul>
+                <li><i class="fa fa-phone"></i> +44 (0) 845 600 7323</li>
+                <li><i class="fa fa-envelope"></i> <a href="mailto: google@brandaddition.com">google@brandaddition.com</a></li>
+            </ul>
+        </div>
+
+</div>
+
+<style>
+@media (max-width: 767px) {    #ucFooter1_gmcontent6 {padding-left:0; padding-right:0}    }
+
+#FOOTER_TOP {width:100%; background-color:#ff0000  !important; text-align:center !important; padding:0 !important; margin:0}
+
+
+#FOOTER_TOP li {color:#E1E1E1}
+#FOOTER_TOP li a:hover {}
+#ucFooter1_ctl01_ulFooterLinks {text-align:center;}
+#ucFooter1_gmcontent5 {display:none}
+
+@media (min-width: 768px)   {
+#FOOTER_TOP ul {margin:0 0 25px 0; text-align:left}
+#FOOTER_TOP h3 {color:#E1E1E1; text-align:left; font-size:16px; font-weight:700; margin: 20px 0 5px 0;}
+#FOOTER_TOP li {display: block; text-align:left; line-height:22px; font-size:14px; margin:0; padding:0; }
+#FOOTER_TOP li a {font-size:14px; line-height:22px;  margin:0; padding:0; color:#E1E1E1; font-weight:400}
+}
+
+@media (max-width: 767px)   {
+#ucFooter1_ctl01_ulFooterLinks {margin-top:15px}
+#FOOTER_TOP ul {margin:0 0 0 0; text-align:left}
+#FOOTER_TOP h3 {color:#E1E1E1; text-align:left; font-size:16px; font-weight:700; margin: 12px 0 4px 0;}
+#FOOTER_TOP li {display:inline; text-align:left; line-height:22px; font-size:14px; margin:0; padding:0; ont-weight:400; }
+#FOOTER_TOP li a {font-size:14px; line-height:22px;  margin:0; padding:0; color:#E1E1E1; font-weight:400}
+.social_hide {display:none}
+#footer_social {}
+#footer_social li {display:inline; float:none;}
+}
+</style></span></div></div>
+                    <div id="ucFooter1_gmcontent5" class="col-md-12 col-sm-12 col-xs-12 column " itemtype="Footerlinks" data-value="0"><ul id="ucFooter1_ctl01_ulHeaderLinks" class="nav navbar-nav navbar-right ellipsis nomargin ulSiteLink">
+    
+</ul>
+
+<ul id="ucFooter1_ctl01_ulFooterLinks" class="">
+    
+            <li id="ucFooter1_ctl01_rptFooterLinks_liSiteLink_0">
+                
+                <a href="https://your.googlemerchandisestore.com/info/terms_and_conditions" id="ucFooter1_ctl01_rptFooterLinks_lnkSiteLink_0" class="footerLink">Terms and Conditions</a>
+                
+            </li>
+        
+            <li id="ucFooter1_ctl01_rptFooterLinks_liSiteLink_1">
+                
+                <a href="https://your.googlemerchandisestore.com/info/privacy_policy" id="ucFooter1_ctl01_rptFooterLinks_lnkSiteLink_1" class="footerLink">Privacy Policy</a>
+                
+            </li>
+        
+            <li id="ucFooter1_ctl01_rptFooterLinks_liSiteLink_2">
+                
+                <a href="https://your.googlemerchandisestore.com/info/faqs" id="ucFooter1_ctl01_rptFooterLinks_lnkSiteLink_2" class="footerLink">FAQs</a>
+                
+            </li>
+        
+            <li id="ucFooter1_ctl01_rptFooterLinks_liSiteLink_3">
+                
+                <a href="../Sitemap/Sitemap.aspx" id="ucFooter1_ctl01_rptFooterLinks_lnkSiteLink_3" class="footerLink">Site Map</a>
+                
+            </li>
+        
+</ul>
+
+
+<style>
+    .countBubl {
+        float: left;
+        margin-top: -50px;
+        margin-left: 60px;
+        background: darkorange;
+        color: #fff;
+        padding: 2px;
+    }
+    .BasketLink:hover #quickbasket{display:block;}
+</style>
+
+
+
+
+</div>
+                     </div>
+                 </footer></div>
+            
+        
+    </section>
+            <!-- FOOTER END -------------------------------------------------------------------------------------------------------------------------------------------- -->
+			</div>
+          
+
+        <!--END footer-->
+
+        <!-- This modal popup is used to display popups -->
+        <!-- MODAL QUICKVIEW START -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <!-- MODAL DIALOG -->
+            <div class="modal-dialog ">
+                <!-- MODAL CONTENT -->
+                <div class="modal-content customModal">
+                    <div class="modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title pageSubSubTitle"><span id="spnModalTitle"></span></h4>
+                    </div>
+                    <!-- MODAL BODY -->
+                    <div class="modal-body clearfix modalBottom">
+                        <div class="" id="MODAL_FILTER_POSITION">
+                            <div class="row product_outer">
+                                <span id="spnModalText"></span>
+                            </div>
+                        </div>
+                        <!-- CONTAINER END -->
+
+                    </div>
+                    <!-- MODAL BODY END -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn  btn-default customButton" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+                <!-- MODAL CONTENT END -->
+            </div>
+            <!-- MODAL DIALOG END -->
+        </div>
+        <!-- MODAL QUICKVIEW END -->
+        <!-- //This modal popup is used to display popups -->
+
+        <!-- This modal popup is used to display success messages -->
+        <!-- MODAL SUCCESS MESSAGE START -->
+        <div class="modal fade" id="mySuccessModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <!-- MODAL DIALOG -->
+            <div class="modal-dialog ">
+                <!-- MODAL CONTENT -->
+                <div class="modal-content customModal">
+                    <div class="modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title pageSubSubTitle"><i class="fa fa-check-circle fa-2x text-success"></i>Success</h4>
+                    </div>
+                    <!-- MODAL BODY -->
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="row product_outer">
+                                <div class="alert alert-success text-center fade in">
+                                    <h4><span id="SuccessMessage"></span></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- CONTAINER END -->
+                    </div>
+                    <!-- MODAL BODY END -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-success center-block customActionBtn" id="btnSuccessOK" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+                <!-- MODAL CONTENT END -->
+            </div>
+            <!-- MODAL DIALOG END -->
+        </div>
+        <!-- // This modal popup is used to display success messages -->
+
+        <!-- This modal popup is used to display error messages -->
+        <!-- MODAL ERROR MESSAGE START -->
+        <div class="modal fade" id="myErrorModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            
+            <!-- MODAL DIALOG -->
+            <div class="modal-dialog ">
+                <!-- MODAL CONTENT -->
+                <div class="modal-content customModal">
+                    <div class="modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal">×</button>
+                        <h4 class="modal-title pageSubSubTitle"><i class="fa fa-times-circle fa-2x text-danger"></i>Error!</h4>
+                    </div>
+                    <!-- MODAL BODY -->
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="alert alert-danger text-center  fade in">
+                                <h4><span id="ErrorMessage"></span></h4>
+                            </div>
+                        </div>
+                        <!-- CONTAINER END -->
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger center-block customActionBtn" id="btnErrorOK" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+                <!-- MODAL CONTENT END -->
+            </div>
+            <!-- MODAL DIALOG END -->
+        </div>
+        <!-- MODAL ERROR MESSAGE END -->
+        <!-- // This modal popup is used to display error messages -->
+
+        <!-- This modal popup is used to display warning messages -->
+        <!-- MODAL WARNING MESSAGE START -->
+        <div class="modal fade" id="myWarningModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <!-- MODAL DIALOG -->
+            <div class="modal-dialog ">
+                <!-- MODAL CONTENT -->
+                <div class="modal-content customModal">
+                    <div class="modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal">×</button>
+                        <h4 class="modal-title pageSubSubTitle"><i class="fa fa-exclamation-triangle fa-1x text-warning"></i>Warning! </h4>
+                    </div>
+                    <!-- MODAL BODY -->
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="alert alert-warning text-center fade in">
+                                <h4><span id="WarningMessage"></span></h4>
+                            </div>
+                        </div>
+                        <!-- CONTAINER END -->
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-warning center-block customActionBtn" id="btnWarningOK" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+                <!-- MODAL CONTENT END -->
+            </div>
+            <!-- MODAL DIALOG END -->
+        </div>
+        <!-- // This modal popup is used to display warning messages -->
+
+        <!-- This modal popup is used to display warning messages -->
+        <!-- MODAL CONFIRMATION MESSAGE START -->
+        <div class="modal fade" id="myConfirmModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <!-- MODAL DIALOG -->
+            <div class="modal-dialog ">
+                <!-- MODAL CONTENT -->
+                <div class="modal-content customModal">
+                    <div class="modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal">×</button>
+                        <h4 class="modal-title pageSubSubTitle">Confirmation</h4>
+                    </div>
+                    <!-- MODAL BODY -->
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="alert alert-warning text-center fade in">
+                                <h4><span id="ConfirmationMessage"></span></h4>
+                            </div>
+                        </div>
+                        <!-- CONTAINER END -->
+                    </div>
+                    <div class="modal-footer text-center">
+                        
+                        <button type="button" class="btn btn-warning customActionBtn glyphicon glyphicon-ok" id="btnConfirmYes" data-dismiss="modal"></button>
+                        <button type="button" class="btn btn-warning customButton glyphicon glyphicon-remove" id="btnConfirmNo" data-dismiss="modal"></button>
+                    </div>
+                </div>
+                <!-- MODAL CONTENT END -->
+            </div>
+            <!-- MODAL DIALOG END -->
+        </div>
+        <!-- // This modal popup is used to display warning messages -->
+
+        <!-- MODAL CONTACT US START -->
+        <div class="modal fade" id="ModalContactUs" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content customModal">
+                    <div class="customModal modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title pageSubSubTitle" id="myModalLabel">Contact us</h4>
+                    </div>
+                    <div class="modal-body clearfix">
+                        <div id="divContactPhone">
+                            <h3 class="pageSubTitle">Phone</h3>
+                            <p class="pageText">+44 (0) 845 600 7323</p>
+                            <hr>
+                        </div>
+                        <div id="divContactEmail">
+                            <h3 class="pageSubTitle">Email</h3>
+                            <a href="mailto:google@brandaddition.com" id="EmailAnchor" class="hyperLink">google@brandaddition.com</a>
+                            <hr>
+                        </div>
+                        <div id="divContactPerson1" style="display:none">
+                            <h3 class="pageSubTitle"></h3>
+                            <p class="pageText"></p>
+                            <hr>
+                        </div>
+                        <div id="divContactHelpDeskBody" style="display:none">
+                            <h3 class="pageSubTitle"></h3>
+                            <p class="pageText"></p>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default customButton" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MODAL CONTACT US END -->
+
+        <!-- MODAL GC BALANCE START -->
+        <!-- ADDED BY SHRIGANESH TO DISPLAY GC BALANCE MODAL POPUP -->
+        <div id="ModalGCBalance" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content customModal">
+                    <div class="customModal modal-header customPanel">
+                        <button type="button" id="btnGCModalClose" onclick="CloseGCModal()" class="close customClose" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title pageSubSubTitle" id="myModalLabel1">Gift Certificate Balance</h4>
+                    </div>
+                    <div class="modal-body clearfix">
+                        <table id="tblGCBalance">
+	<tbody><tr>
+		<td>
+                                    <span id="lblGCCode">Please enter your Gift Certificate code</span>
+                                </td>
+		<td>
+                                    <input name="ctl00$txtGiftCertificateCode" type="text" maxlength="50" id="txtGiftCertificateCode" class="form-control input-sm customInput">
+                                </td>
+	</tr>
+	<tr>
+		<td>
+                                    <input type="submit" name="ctl00$btnGetGCBalance" value="Check Gift Certificate Balance" id="btnGetGCBalance" class="btn btn-primary customActionBtn">
+                                </td>
+	</tr>
+	<tr>
+		<td>
+                                    <span id="lblGCBalanceNote"></span>
+                                </td>
+	</tr>
+</tbody></table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MODAL GC BALANCE END -->
+
+		<div id="divGuestLoginGc" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content customModal">
+                    <div class="modal-header customPanel">
+                        <button type="button" class="close customClose" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title pageSubSubTitle">Have an account?</h4>
+                    </div>
+                    
+                    <div class="modal-body clearfix modalBottom">
+                        <div id="MODAL_FILTER_POSITION" class="">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6 pre_checkout_border form-horizontal">
+                                <div class="standard_basket_modal_block">
+                                    <div class="form-group">
+                                        <label class="col-xs-12" for="inputEmail3">Email</label>
+                                        <div class="col-xs-12">
+                                            <input type="email" placeholder="Email" id="txtGCEmail" class="form-control customInput">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-xs-12" for="inputPassword3">Password</label>
+                                        <div class="col-xs-12">
+                                            <input type="password" placeholder="Password" id="txtGCPassword" class="form-control customInput">
+                                        </div>
+                                    </div>
+                                </div>
+                                  <div>
+                            <a href="javascript:void(0);" id="aGCLogin" class="btn btn-primary customActionBtn">Sign in to your account</a>
+
+                        </div>
+                        <div class="standard_basket_modal_forgot">
+                            <a href="https://your.googlemerchandisestore.com/Login/ResetPassword.aspx" class="smlHyperLink">Forgot Password
+
+                            </a>
+
+                        </div>
+                            </div>
+                            <div class="col-xs-12 col-md-6 pre_checkout_border form-horizontal">
+                                
+                                   <h3 class="pageSubTitle">New to our site?</h3>
+                                    <div class="standard_basket_modal_block form-horizontal">
+                                        <div class="form-group">
+                                            <label class="col-xs-12" for="inputEmail3">Email</label>
+                                            <div class="col-xs-12">
+                                                <input type="email" placeholder="Email" id="txtGuestGCEmail" class="form-control customInput">
+                                            </div>
+                                        </div>
+                                        <div class="standard_basket_modal_message pageSmlText">We’ll send your order confirmation to this address</div>
+                                    </div>
+                                    <div><a href="javascript:void(0);" id="aGCGuestLogin" class="btn btn-primary customActionBtn">Checkout as a guest </a></div>
+                                
+                            </div>
+                        </div>
+                            </div>
+                         </div>
+                      
+                        <div class="hidden-sm hidden-md hidden-lg">
+                            <hr>
+                        </div>
+                   
+
+                </div>
+
+            </div>
+        </div>		
+ 
+        
+
+        
+        
+
+       
+
+        <!-- SCRIPT ADDED BY SHRIGANESH SINGH TO SHOW/HIDE GC BALANCE MODAL POPUP -->
+        <script type="text/javascript">
+            function ShowGCBalance() {
+                $('#ModalGCBalance').removeClass("modal fade");
+                $('#ModalGCBalance').addClass("modal Show in");
+            }
+
+            function CloseGCModal() {
+                $('#ModalGCBalance').removeClass("modal show in");
+                $('#ModalGCBalance').addClass("modal fade");
+                document.getElementById('ModalGCBalance').style.display = 'none';
+                document.getElementById('txtGiftCertificateCode').value = "";
+                document.getElementById('lblGCBalanceNote').innerText = "";
+            }
+        </script>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+javascript:ShowCookieDiv();//]]>
 </script>
+</form>
+    <script>
+
+
+
+
+
+        function ShowCookieDiv() {
+            $('#COOKIES').addClass("in");
+        }
+        function hideCookieDiv() {
+            $('#COOKIES').addClass("out");
+        }
+
+        function OpenModal(url) {
+            $.ajax({
+                type: "POST",
+                url: "https://your.googlemerchandisestore.com/StaticPage/StaticPageAjax.aspx/ValidateMethod",
+                data: "{Param1: '" + url + "'}",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    RenderResult(data);
+                }
+            });
+        }
+
+        function RenderResult(data) {
+            var str = data.d.split('^');
+            document.getElementById('ucHeader1_spnModalTitle').innerHTML = str[0];
+            document.getElementById('ucHeader1_spnModalText').innerHTML = str[1];
+            $('#myModal').modal('show');
+        }
+
+        var substringMatcher = function () {
+            return function findMatches(q, add) {
+                var suggestions = [];
+                var keyword = $("#txtKeyword").val().replace("'", "");
+                //pass request to server
+                var myVars = { 'Keyword': keyword };
+                $.ajax({
+                    url: 'https://your.googlemerchandisestore.com/Products/ProductListing.aspx/GetProductData',
+                    data: "{'Keyword': '" + keyword + "' }",
+                    dataType: "json",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    cache: false,
+                    async: true
+                }).done(function (data) {
+                    //create array for response objects
+                    if (data.d == "")
+                    { add(suggestions); return false; }
+                    var json = $.parseJSON(data.d);
+                    //process response
+
+                    $.each(json, function (i, val) {
+                        suggestions.push(val.ProductCode + '-' + val.ProductName);
+                    });
+                    //pass array to callback
+                    add(suggestions);
+                });
+            };
+        };
+
+        var productsearcher = new Bloodhound({
+            datumTokenizer: function (d) {
+                return Bloodhound.tokenizers.whitespace('ProductName');
+            },
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            replace: function (url, uriEncodedQuery) {
+                return url + "#" + uriEncodedQuery;
+                // the part after the hash is not sent to the server
+            },
+            remote: {
+                url: "https://your.googlemerchandisestore.com/Products/ProductListing.aspx?q=%QUERY",
+                wildcard: '%QUERY'
+            }
+        });
+
+        // initialize the bloodhound suggestion engine
+        productsearcher.initialize();
+
+        $(document).on('click', '#aSearch', function () {
+            $('#myModal').find('.modal-body').html("<input id='txtKeyword' onkeydown='SetFocusOnButton(event,btnSearch)' onkeyup='this.value=this.value.toUpperCase()' type='text' placeholder='Search Keyword...' class='form-control typeahead customInput tt-query'>");
+            $('#myModal').find('.modal-title').html('Search');
+            $('#myModal').find('.modal-footer').html('<button id="btnSearch" class="btn btn-primary customActionBtn" type="button">Go</button>');
+			setTimeout(function () { $('#txtKeyword').focus(); }, 500)
+            $('#myModal').modal('show');
+
+            $('#txtKeyword').typeahead({
+                hint: true,
+                highlight: true,
+                minLength: 3
+            },
+            {
+                //name: 'ProductName',
+
+                displayKey: 'ProductName',
+                rateLimitWait: 500,
+                limit: 15,
+                source: productsearcher.ttAdapter() //substringMatcher()
+            }).bind("typeahead:selected", function (obj, datum, name) {
+                window.location.href = 'https://your.googlemerchandisestore.com/' + 'search/' + EncodeSearchName(datum.ProductName);
+            });
+
+        });
+
+        $(document).on('click', '#btnSearch', function () {
+            if ($("#txtKeyword").val().trim().length < 1) {
+                $('#myWarningModal').find('#WarningMessage').html('Please enter keyword to search.');
+                $('#myWarningModal').modal('show');
+            }
+            else {
+                window.location.href = 'https://your.googlemerchandisestore.com/' + 'search/' + EncodeSearchName($("#txtKeyword").val().trim());
+            }
+        });
+
+        if (document.getElementById("asitesearch")) {
+            test();
+
+        }
+        if (document.getElementById("asitesearch_mobile")) { test1(); }
+
+
+        function test() {
+
+            $('#txtKeyword').typeahead({
+                hint: true,
+                highlight: true,
+                minLength: 3
+            },
+           {
+               displayKey: 'ProductName',
+               rateLimitWait: 500,
+               limit: 15,
+               source: productsearcher.ttAdapter() //substringMatcher()
+           }).bind("typeahead:selected", function (obj, datum, name) {
+               window.location.href = 'https://your.googlemerchandisestore.com/' + 'search/' + EncodeSearchName(datum.ProductName);
+           });
+       }
+       function test1() {
+
+           $('#txtKeyword1').typeahead({
+               hint: true,
+               highlight: true,
+               minLength: 3
+           },
+          {
+              displayKey: 'ProductName',
+              rateLimitWait: 500,
+              limit: 15,
+              source: productsearcher.ttAdapter() //substringMatcher()
+          }).bind("typeahead:selected", function (obj, datum, name) {
+              window.location.href = 'https://your.googlemerchandisestore.com/' + 'search/' + EncodeSearchName(datum.ProductName);
+          });
+      }
+    </script>
+	
+     <script type="text/javascript" src="https://your.googlemerchandisestore.com/js/respond.js"></script>   
+    <script type="text/javascript" src="https://your.googlemerchandisestore.com/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="https://your.googlemerchandisestore.com/js/bootstrap-slider.js"></script>
+    <script type="text/javascript" src="https://your.googlemerchandisestore.com/js/wow.min.js"></script>
+    <script type="text/javascript" src="https://your.googlemerchandisestore.com/JS/jquery.flipcountdown.js"></script>    
+    <script type="text/javascript" src="https://your.googlemerchandisestore.com/js/StoreMaster.js"></script>
+	<script src="https://your.googlemerchandisestore.com/js/GC.js"></script>
+	<script type="text/javascript">
+	    var UFName = ''
+	    var ULname = ''
+	    var ULanguage = '1'
+	    var UUserType = '1'
+	    var UCurrency = 'GBP'
+	    var URegistrationCountry = ''
+	    var UPoints = ''
+	    var UEmailId = ''
+	    var StoreCommunigatorGId = '1841'
+	</script>
+
+
 </body></html>
