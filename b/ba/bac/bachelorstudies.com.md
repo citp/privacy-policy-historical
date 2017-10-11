@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachelorstudies.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123202342id_/http%3A//www.bachelorstudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorstudies.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011065259id_/https%3A//www.bachelorstudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -76,3 +76,19 @@ This policy was last modified on  **June 2, 2015**
 
  **Contacting Us**    
 If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.masterstudies.com  
+Rolfsbuktveien 4D  
+Fornebu, Oslo 1364  
+Norway  
+support@masterstudies.com  
++4723227250
+
+ **Privacy Policy Customer Pledge**  
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
