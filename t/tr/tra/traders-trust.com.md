@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traders-trust.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001446id_/http%3A//traders-trust.com/wp-content/pdf/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traders-trust.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011042526id_/http%3A//traders-trust.com/wp-content/pdf/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
