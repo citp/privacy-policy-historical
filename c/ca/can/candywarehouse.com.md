@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621145810id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011064752id_/https%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CandyWarehouse.com
 
