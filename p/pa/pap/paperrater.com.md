@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperrater.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111120id_/http%3A//paperrater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperrater.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011084749id_/http%3A//paperrater.com/privacy) for the most accurate reproduction.*
 
 # Paper Checker | Privacy
 
