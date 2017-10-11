@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629220954id_/http%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011021002id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### 1\. What is this policy about?
+# Privacy Policy - Pedestrian TV
 
 This policy explains how we collect, use and disclose the personal information you provide to us when you use our website, www.pedestrian.tv
 
@@ -14,13 +12,13 @@ We collect personal information that you have provided to us about yourself. Thi
 
 ### 3\. What do you do with my personal information?
 
-We collect information about you so that we can: 
+We collect information about you so that we can:
 
 Process, fulfil and keep you informed on the progress of the order(s) that you place on our website;
 
 Send you information about our products and services as well as third party products and services that we think could be of interest to you (including promotions, discounts and special events);
 
-Maintain our relationship with you (including responding to your questions); 
+Maintain our relationship with you (including responding to your questions);
 
 And create and maintain records for our internal accounting and administration purposes.
 
@@ -55,19 +53,23 @@ You can email us at editor@pedestriangroup.com.au if you would like us to update
 
 ### 8\. Is my information secure?
 
-While we take reasonable steps to keep your personal information secure, we can't give you an absolute guarantee that your information is always secure as no data sent over the internet is 100% secure. We will not be responsible for any liability, loss or damage arising from unauthorised access to your information.
+While we take reasonable steps to keep your personal information secure, we can’t give you an absolute guarantee that your information is always secure as no data sent over the internet is 100% secure. We will not be responsible for any liability, loss or damage arising from unauthorised access to your information.
 
 ### 9\. T&Cs | Pedestrian JOBS promotions
 
-50% off Your First Job Listing 
+50% off Your First Job Listing
 
-The discount provided is not transferable and is for new customers to be used once for a job advertisement.  
+The discount provided is not transferable and is for new customers to be used once for a job advertisement.
 
-Job advertisements will be be approved at the discretion of the Pedestrian JOBS team; feedback will be given for any job advertisements rejected and the opportunity given to revise your job ad accordingly for approval.  No guarantee is given as to the number or quality of applicants you will receive. 
+Job advertisements will be be approved at the discretion of the Pedestrian JOBS team; feedback will be given for any job advertisements rejected and the opportunity given to revise your job ad accordingly for approval.  No guarantee is given as to the number or quality of applicants you will receive.
 
 By taking up this offer, you will be added to the Pedestrian JOBS recruiter EDM, from which you can unsubscribe at any future time.
 
 ### 10\. Questions?
 
 If you have any questions about our Privacy Policy, please contact us at  
-editor@pedestriangroup.com.au 
+editor@pedestriangroup.com.au
+
+### 11\. Nielsen Digital
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
