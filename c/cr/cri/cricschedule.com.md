@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611173656id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011163455id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricSchedule.com
 
