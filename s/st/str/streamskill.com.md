@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamskill.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612071107id_/http%3A//streamskill.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamskill.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011233210id_/http%3A//streamskill.com/pages/privacy) for the most accurate reproduction.*
 
 # Stream Skill Privacy Policy | Stream Skill
 
