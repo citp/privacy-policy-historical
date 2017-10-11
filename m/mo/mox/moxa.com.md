@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moxa.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603061942id_/http%3A//www.moxa.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxa.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011175839id_/https%3A//www.moxa.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Moxa Privacy Policy
 
