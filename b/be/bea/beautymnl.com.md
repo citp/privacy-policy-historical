@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautymnl.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129075347id_/https%3A//beautymnl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautymnl.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012012226id_/https%3A//beautymnl.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
