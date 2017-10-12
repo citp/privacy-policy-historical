@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapphicjoy.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630022345id_/http%3A//sapphicerotica.com/pages/privacy/%3Fnats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapphicjoy.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012180657id_/http%3A//www.sapphicerotica.com/pages/privacy/%3Fnats%3D) for the most accurate reproduction.*
 
 # Privacy Policy on Sapphic Erotica
 
