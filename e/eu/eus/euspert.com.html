@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the euspert.com privacy policy that was archived on 2017-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170203001938id_/https%3A//uk.euspert.com/content/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the euspert.com privacy policy that was archived on 2017-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171012071358id_/https%3A//uk.euspert.com/content/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//IT" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy Policy - Euspert</title>
 <link href="/css/stile.css?3" rel="stylesheet" type="text/css">
 <link href="/css/meerkat.css" rel="stylesheet" type="text/css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;appId=1438340329780795&amp;version=v2.0"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/iepngfix_tilebg.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;appId=1438340329780795&amp;version=v2.0"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//cdn.taboola.com/libtrc/biancoint/loader.js" id="tb_loader_script"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/iepngfix_tilebg.js"></script>
 <!--[if !IE 7]>
 	<style type="text/css">
 		#wrap {display:table;height:100%}
@@ -33,6 +33,105 @@ node.parentNode.insertBefore(gads, node);
 })();
 </script>
 
+<link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(["init", {
+    appId: "937cf106-2519-417b-a8b7-4f983b709496",
+    autoRegister: true, /* Set to true to automatically prompt visitors */
+    httpPermissionRequest: {
+      enable: false
+    },
+    persistNotification: true, // Automatically dismiss the notification after ~20 seconds in Chrome Deskop v47+
+
+  promptOptions: {
+      // Change bold title, limited to 30 characters 
+      //siteName: 'OneSignal Documentation',
+      // Subtitle, limited to 90 characters 
+      actionMessage: "We\'d like to show you notifications for the latest news and updates",
+      // Example notification title 
+      exampleNotificationTitle: 'Example notification',
+      // Example notification message 
+      exampleNotificationMessage: 'This is an example notification',
+      // Text below example notification, limited to 50 characters 
+      exampleNotificationCaption: 'You can unsubscribe anytime',
+      // Accept button text, limited to 15 characters
+      acceptButtonText: "ALLOW",
+      // Cancel button text, limited to 15 characters
+      cancelButtonText: "NO THANKS", 
+      autoAcceptTitle: 'Click Allow'
+  },
+// Your other init options here
+welcomeNotification: {
+      disable: true
+  },
+
+    notifyButton: {
+      enable: false, /* Required to use the notify button */
+      size: 'medium', /* One of 'small', 'medium', or 'large' */
+      //theme: 'default', /* One of 'default' (red-white) or 'inverse" (white-red) */
+      position: 'bottom-right', /* Either 'bottom-left' or 'bottom-right' */
+/*      non viene visualizzato agli accessi successi se l'utente ha giÃ  fatto la sottoscrizione
+      displayPredicate: function() {
+          return OneSignal.isPushNotificationsEnabled()
+              .then(function(isPushEnabled) {
+                  // The user is subscribed, so we want to return "false" to hide the notify button 
+                  return !isPushEnabled;
+              });
+      },
+*/
+      prenotify: true, /* Show an icon with 1 unread message for first-time site visitors */
+      showCredit: false, /* Hide the OneSignal logo */
+      colors: { // Customize the colors of the main button and dialog popup button
+          'circle.background': 'rgb(84,110,123)',
+          'circle.foreground': 'white',
+          'badge.background': 'rgb(84,110,123)',
+          'badge.foreground': 'white',
+          'badge.bordercolor': 'white',
+          'pulse.color': 'white',
+          'dialog.button.background.hovering': 'rgb(77, 101, 113)',
+          'dialog.button.background.active': 'rgb(70, 92, 103)',
+          'dialog.button.background': 'rgb(84,110,123)',
+          'dialog.button.foreground': 'white'
+      },
+      text: {
+          'tip.state.unsubscribed': 'Subscribe to notifications',
+          'tip.state.subscribed': "You're subscribed to notifications",
+          'tip.state.blocked': "You've blocked notifications",
+          'message.prenotify': 'Click to subscribe to notifications',
+          'message.action.subscribed': "Thanks for subscribing!",
+          'message.action.resubscribed': "You're subscribed to notifications",
+          'message.action.unsubscribed': "You won't receive notifications again",
+          'dialog.main.title': 'Manage Site Notifications',
+          'dialog.main.button.subscribe': 'SUBSCRIBE',
+          'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+          'dialog.blocked.title': 'Unblock Notifications',
+          'dialog.blocked.message': "Follow these instructions to allow notifications::"
+      }
+    },
+
+  }]);
+
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/biancoint/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
 <meta name="bread_crumb_trail" content="Home;/|Privacy Policy">
 
 </head>
@@ -650,6 +749,13 @@ Also read  <strong><a title="about" href="http://uk.euspert.com/content/cookies.
 
 
 <!--/footer-->
+
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
 
 
 
