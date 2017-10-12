@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadfilecrack.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613063516id_/http%3A//www.downloadfilecrack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfilecrack.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012170433id_/http%3A//www.downloadfilecrack.com/privacy.html) for the most accurate reproduction.*
 
 # Download File Crack - Privacy Policy
 
