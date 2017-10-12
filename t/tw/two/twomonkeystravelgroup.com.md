@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320012719id_/https%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012105538id_/https%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Two Monkeys Travel Group
 
@@ -69,7 +69,11 @@ We do not claim nor accept any responsibility regarding the scope and nature of 
 
 ### **Links to Other Web Sites**
 
-Our website does contain links to affiliate and other websites. Two Monkeys Travel Group does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+Our website does contain links to affiliate and other websites. Two Monkeys Travel Group does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
+
+### Guest Posts and Approved Contributors
+
+This website hosts material from certain Approved Contributors which is hosted by Two Monkeys Travel Group. Approved Contributors control their own work and post freely to our site. This includes all text and images that they use within their own work. All contributors are instructed to follow internationally recognised copyright and intellectual property guidelines, however, if you feel that any part of a piece of work is abusive in any way, please send us an email so that we can investigate – kach.howe@twomonkeystravel.com
 
 ### **Security**
 
