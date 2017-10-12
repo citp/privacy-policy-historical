@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429140941id_/https%3A//www.betterworldbooks.com//go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012205554id_/https%3A//www.betterworldbooks.com//go/privacy) for the most accurate reproduction.*
 
 # BetterWorldBooks.com Privacy Policy
 
@@ -117,8 +117,9 @@ You may request access to, correction or destruction of any personal information
 If you have any questions about this Privacy Policy, the practices of our Sites, or your dealings with our Sites, please contact Better World Books by sending a letter to:
 
 Better World Books  
-11680 Great Oaks Way, Suite 250  
-Alpharetta, GA 30022   
+Attention:Legal  
+55740 Currant Road   
+Mishawaka, IN 46545   
 You may also contact us by e-mail by [submitting a ticket](https://support.betterworldbooks.com/hc/en-us/requests/new). 
 
 For your reference you can find the previous version of our privacy policy [here](https://web.archive.org/go/privacy_old).
