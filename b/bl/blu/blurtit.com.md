@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527142614id_/http%3A//www.blurtit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012124904id_/http%3A//www.blurtit.com/privacy_policy) for the most accurate reproduction.*
 
 # Blurtit - Support
 
@@ -14,17 +14,17 @@ If you really don't want Blurtit to use cookies, you can block this facility usi
 
 Blurtit links up with third-party social, analytics and advertising companies which may use cookies to collect information about other sites you have visited, in order to enhance your experience on Blurtit. We have no access to, or control over, these cookies. The companies that we directly link with are:
 
-  * Google, Inc. [Privacy policy](http://www.google.com/policies/privacy/)
-  * Kontera Technologies, Inc. [Privacy policy](http://www.kontera.com/about/privacy-policy)
-  * SAY Media, Inc. [Privacy policy](http://www.saymedia.com/privacy-policy.php)
-  * Twitter, Inc. [Privacy policy](http://twitter.com/privacy)
-  * Quantcast Corporation [Privacy policy](http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/)
-  * Bluekai, Inc. [Privacy policy](http://bluekai.com/privacypolicy.php)
-  * Facebook, Inc. [Privacy policy](http://www.facebook.com/about/privacy/)
+  * Google, Inc. [Privacy policy](https://www.google.com/policies/privacy/)
+  * Kontera Technologies, Inc. [Privacy policy](https://www.kontera.com/about/privacy-policy)
+  * SAY Media, Inc. [Privacy policy](https://www.saymedia.com/privacy-policy.php)
+  * Twitter, Inc. [Privacy policy](https://twitter.com/privacy)
+  * Quantcast Corporation [Privacy policy](https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/)
+  * Bluekai, Inc. [Privacy policy](https://bluekai.com/privacypolicy.php)
+  * Facebook, Inc. [Privacy policy](https://www.facebook.com/about/privacy/)
 
 
 
-A lot of advertising companies participate in self-regulatory programs for online behavioral advertising. To check which ones are tracking you, head over to [www.aboutads.info/choices](http://www.aboutads.info/choices/) or [networkadvertising.org/managing](http://www.networkadvertising.org/managing/opt_out.asp). You are also given the option to opt out of behavioral advertising from networks that you choose.
+A lot of advertising companies participate in self-regulatory programs for online behavioral advertising. To check which ones are tracking you, head over to [www.aboutads.info/choices](https://www.aboutads.info/choices/) or [networkadvertising.org/managing](https://www.networkadvertising.org/managing/opt_out.asp). You are also given the option to opt out of behavioral advertising from networks that you choose.
 
 ### We store information that you give us, and also log data about your browsing activity.
 
