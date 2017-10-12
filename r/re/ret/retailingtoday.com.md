@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailingtoday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145023id_/http%3A//www.chainstoreage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailingtoday.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012091017id_/http%3A//www.chainstoreage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chain Store Age
 
@@ -34,7 +34,7 @@ No, those sites are responsible for maintaining their own privacy policy.
 
 5\. What is a cookie?
 
-A "cookie" is a small piece of information that a Web site can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a Web site. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites.
+A "cookie" is a small piece of information that a Web site can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a Web site. When you visit a site, that site can access only the information which it stored in your cookie — not information put in your cookie by other sites.
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
 
