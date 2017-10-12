@@ -1,20 +1,50 @@
-> *The following text is extracted and transformed from the empressleak.biz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608205558id_/http%3A//empressleak.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empressleak.biz privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012073105id_/http%3A//empressleak.biz/static/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | EMPRESSLEAK
+# Privacy Policy - EMPRESSLEAK
 
-1\. All User information supplied by Users of Empressleak.biz as defined under this Terms & Conditions is covered by the Data Protection Act 1998.  
-2\. Users can amend information provided at any time by contacting admin@Empressleak.biz.  
-3\. Users can access the data held on them by Empressmusique.com by contacting us at admin@Empressleak.biz  
-4\. User information will not be disclosed to a third party without Users’ permission. User details will be used only to provide service(s) specifically requested by the User.  
-5\. Users’ details may be transferred to another company if ownership of Empressleak.biz changes.  
-6\. The Empressleak.biz website uses cookies. Users may choose not to accept cookies but this will prevent proper functioning of the services of the website.  
-7\. Whenever a User requests a page, username, IP address, browser and version of operating system are stored in a log file. This information is only used for statistical purposes to help improve this site and provide accurate statistics to advertisers in the form of aggregated data.  
-8\. Empressleak.biz Limited cannot guarantee that third party services accessible through Empressleak.biz services operate the same Privacy Policy.  
-9\. Empressleak.biz Limited reserves the right to update and change this Privacy Policy at any time. However, Empressleak.biz Limited will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.  
-10\. If you have any questions concerning this Privacy Policy or would like us to amend or do away with your details please contact us at admin@Empressleak.biz
+## Privacy Policy
 
-**Cookies & 3rd Party Advertisements**
+This document details important information regarding the use and disclosure of User Data collected on empressleak.biz  
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+The security of your Data is very important to empressleak.biz and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.DATA COLLECTED
+
+  * Personal Information:   
+
+    * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
+    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+  * Cookies: When you visit empressleak.biz, we may send one or more cookies to your computer that uniquely identifies your browser session. empressleak.biz uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  * Log File Information: When you visit empressleak.biz, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * Emails: If you contact us, we may keep a record of that correspondence.
+
+
+
+USES
+
+  * Your Personally identifiable information submitted to empressleak.biz is used to provide to the user the website's features and special personalized features.
+  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the empressleak.biz private mail, etc. Other Users can contact you through, private messages.
+  * Any videos that you submit to empressleak.biz may be redistributed through the internet and other media channels, and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
+  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+  * OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
+  * OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the empressleak.biz user-experience.
+
+
+
+DISCLOSURE OF INFORMATION
+
+  * if under duty to do so empressleak.biz may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of empressleak.biz or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is empressleak.biz's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+  * Should you deliberately upload any illegal material empressleak.biz shall forward all available information to all relevant authorities and this without notice.   
+\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+
+
+
+SECURITY
+
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.Unfortunately, the transmission of information via the Internet is not completely secure. empressleak.biz uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to empressleak.biz and you do so at your own risk.
+
+YOUR RIGHTS 
+
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
