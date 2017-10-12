@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613122642id_/http%3A//www.universityrooms.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012085622id_/http%3A//www.universityrooms.com/en/privacy) for the most accurate reproduction.*
 
 # Accommodation in University Colleges and Student Residences
 
@@ -17,18 +17,23 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 **Use of your Information:**
 
-\- Your information will enable Us, Our partner websites and Our properties to supply the goods or services You have requested. It will also enable Us to bill You and Our properties to contact You where necessary concerning Your orders. We will also use and analyse the information We collect so that We can administer, support, improve and develop Our business.  
-\- We may use Your information to contact You for Your views on Our services and to notify You occasionally about important changes or developments to the website or Our services. Further, where You have consented, and in the case of a SpeedyBooker partner website, the owner of the website You book through, might also use your information to let You know by email about products and services which We offer which may be of interest to you. If You change Your mind about being contacted in the future, You will be able to Unsubscribe.
+\- Your information will enable Us and the vendors listed on this website to supply the goods or services You have booked.  We will also use and analyse the information We collect so that We can administer, support, improve and develop Our business.  
+\- Where You have consented, we will use your information to let You know by email about products and services We offer. If You change Your mind about being contacted in the future, You will be able to Unsubscribe.
 
 **Disclosure of your Information:**
 
-\- The information you provide to Us may be accessed by Us, the property or tour which You book with, parties who process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf and, in the case of a SpeedyBooker partnership, the owner of the website You book through.  
-\- Some of these parties may be located outside the European Economic Area who act for Us for the purposes set out in this policy or for other purposes approved by You.  
-\- We will not pass Your information to any other third parties.  
-\- We will not retain nor have access to any of Your credit or debit card information.  
-\- We may also pass aggregate information on the usage of Our website to third parties but this will not include information that can be used to identify You.   
-\- If Our business enters into a joint venture with or is sold to or merged with another business entity, Your information may be disclosed to our New business partners or owners.  
-\- Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that Your information is used by third parties in accordance with this policy.   
+\- Neither we nor any Vendor or Partner will retain or have access to any of Your credit or debit card information.
+
+\- We will not pass Your other information to any third parties other than the vendor which You book with, parties who fulfil and deliver Your bookings, process credit card payments and provide support services on our behalf and, in the case of a SpeedyBooker partnership, the owner of the website You book through.
+
+\- The information you provide to Us may be accessed by Us, the vendor which You book with, parties who process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf and, in the case of a SpeedyBooker partnership, the owner of the website You book through.
+
+\- Some of these parties may be located outside the European Economic Area who act for Us for the purposes set out in this policy or for other purposes approved by You.
+
+\- We may also pass aggregate information on the usage of Our website to third parties but this will not include information that can be used to identify You. 
+
+\- If Our business enters into a joint venture with or is sold to or merged with another business entity, Your information may be disclosed to our New business partners or owners.
+
 \- Unless required to do so by law, We will not otherwise share, sell or distribute any of the information You provide to Us without Your consent.
 
 **Security and Data Retention:**
