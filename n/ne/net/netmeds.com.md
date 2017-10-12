@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609193216id_/http%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012061031id_/http%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Netmeds.com
 
@@ -35,7 +35,7 @@
   * As a New Customer, when you register/create an account, place your order, or upload your medical prescription at Netmeds.com;
   * As an Existing Customer, when you update your existing profile on Netmeds.com;
   * When you sign up for enewsletters at Netmeds.com;
-  * When you use [Refer & Earn](https://web.archive.org/web/20170609193216id_/http%3A//www.netmeds.com/refer-earn.aspx) programme, Ask Our Pharmacist service, Contact Us or submit your Testimonials at Netmeds.com.
+  * When you use [Refer & Earn](https://web.archive.org/web/20171012061031id_/http%3A//www.netmeds.com/refer-earn.aspx) programme, Ask Our Pharmacist service, Contact Us or submit your Testimonials at Netmeds.com.
 
 
 
@@ -83,4 +83,4 @@ Last updated Date: 26/05/2017
 
 **11\. Contact Information**
 
-If you have questions about this Privacy Policy, please contact our customer service at [cs@netmeds.com](mailto:cs@netmeds.com) or call 72007-12345.
+If you have questions about this Privacy Policy, please contact Ramesh Kumar ([legal@netmeds.com](mailto:legal@netmeds.com)) or our customer service at [cs@netmeds.com](mailto:cs@netmeds.com) or call 72007-12345.
