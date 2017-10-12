@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidinfotech.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610100451id_/http%3A//www.androidinfotech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidinfotech.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012134012id_/http%3A//www.androidinfotech.com/privacy.html) for the most accurate reproduction.*
 
 # androidinfotech.com | Privacy Policy
 
