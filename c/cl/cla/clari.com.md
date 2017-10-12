@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clari.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622130908id_/http%3A//www.clari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clari.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012145111id_/http%3A//www.clari.com/privacy) for the most accurate reproduction.*
 
 # Clari Privacy Policy - Clari
 
