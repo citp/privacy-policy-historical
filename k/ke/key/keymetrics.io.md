@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keymetrics.io privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410092926id_/https%3A//keymetrics.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keymetrics.io privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012170728id_/https%3A//keymetrics.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Keymetrics I/O
+# Privacy Policy - Keymetrics
 
-\---- 
+– – – – 
 
 ## SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -45,3 +45,7 @@ We reserve the right to modify this privacy policy at any time, so please review
 ## QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@keymetrics.io or by mail at Keymetrics [Re: Privacy Compliance Officer] [1407 BROADWAY NEW YORK CITY NEW YORK USA 10018] 
+
+Start monitoring your application in less than a minute
+
+[REGISTER NOW](https://app.keymetrics.io/#/register "Register to Keymetrics")
