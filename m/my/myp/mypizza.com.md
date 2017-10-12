@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160543id_/http%3A//www.slicelife.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012105842id_/https%3A//slicelife.com/pages/privacy) for the most accurate reproduction.*
 
 # Slice - Order Pizza Online, Find Pizza Restaurants, Pizza Menu, Pizza Delivery
 
