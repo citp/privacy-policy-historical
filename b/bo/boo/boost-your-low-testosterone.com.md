@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612023917id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012100410id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy! Your privacy on this website
 
@@ -71,9 +71,3 @@ Agreeing to Terms
 If you do not agree to the www.boost-your-low-testosterone.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy. 
-
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
