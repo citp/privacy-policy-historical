@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aknod.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521083349id_/http%3A//www.aknod.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aknod.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012125514id_/http%3A//aknod.com/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -40,7 +40,6 @@ External Links
 This site contains links to other sites. aknod is not responsible for the privacy practices or the content of such Web sites.  
 Sending Emails to Our Members
 
-Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from aknod, as well as any companies affiliated with aknod as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.  
-Contacting the Web Site
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from aknod, as well as any companies affiliated with aknod as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: privacy@aknod.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: privacy@aknod.com
