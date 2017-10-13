@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldfirst.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107143711id_/https%3A//www.worldfirst.com/us/disclaimer-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfirst.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013132251id_/https%3A//www.worldfirst.com/us/disclaimer-policies/privacy) for the most accurate reproduction.*
 
-# Disclaimer Policies - Privacy
+# World First Foreign Exchange - Privacy Policies
 
 **Why?** Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 
