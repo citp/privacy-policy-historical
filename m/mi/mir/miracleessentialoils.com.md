@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the miracleessentialoils.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029180226id_/https%3A//www.miracleessentialoils.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracleessentialoils.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013104608id_/http%3A//miracleessentialoils.com/privacy) for the most accurate reproduction.*
 
-# Miracle Essential Oils - Privacy
+# Miracle Essential Oils - Miracle Worker Terms
 
-## PRIVACY POLICY
+## Privacy Policy
 
 EFFECTIVE DATE: September 28, 2015
 
