@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129032612id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013033334id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | York College of PA
 
@@ -45,7 +45,7 @@ We may use authorized third-party vendors such as Google Analytics and SiteImpro
 
 We may use authorized third-party vendors such as SumoMe to allow visitors to share content from our website with others on social media platforms. These vendors may use cookies to collect non-personal information via the Share buttons on our website to monitor traffic and usage patterns to help us deliver effective, robust website service.
 
-We may use authorized third-party vendors such as AdRoll to display ads featuring YCP on other websites. These vendors may use cookies to display these ads based on information collected from your visit to our website. Our privacy policy does not apply to any information these vendors may have collected about your visit.
+We may use authorized third-party vendors such as AdRoll and Facebook to display ads featuring YCP on other websites. These vendors may use cookies to display these ads based on information collected from your visit to our website. Our privacy policy does not apply to any information these vendors may have collected about your visit.
 
 We may embed social media content from Twitter, Facebook and other social media services. These embedded social media plug-ins use cookies to monitor traffic from our website to theirs and to support visitors logging in to the respective social media accounts if the visitor interacts with the embedded social media content while visiting our website.
 
@@ -56,6 +56,6 @@ We work with the following vendors regularly or on a periodic basis. Please visi
 <https://www.hobsons.com/privacy-policy/>  
 <https://privacy.google.com/>  
 <http://go.siteimprove.com/analytics-technical-specifications/>  
-<https://twitter.com/privacy/>  
+<https://twitter.com/en/privacy>  
 <https://www.facebook.com/about/privacy/>  
 <https://www.adroll.com/about/privacy/>
