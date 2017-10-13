@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326051350id_/http%3A//www.georgetown.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013180952id_/https%3A//www.georgetown.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Georgetown University
 
 In keeping with state and federal legislation, the University safeguards the privacy of patients, students, employees, University business, and other matters by protecting electronic records classified as confidential information. Unauthorized accessing and/or disclosure of confidential information by University employees is prohibited and may result in legal penalties. This policy applies to records maintained in any type of electronic record: computer, voice, or video. It also applies to records created via the Georgetown University website.
 
-#### Definitions
+## Definitions
 
 **Electronic Records:** Electronic transmissions or messages created, sent, forwarded, replied to, transmitted, distributed, broadcast, stored, held, copied, downloaded, displayed, viewed, read, or printed by one or several electronic systems or services. This definition of electronic records applies equally to the contents of such records, attachments to such records, and transactional information associated with such records.
 
@@ -16,7 +16,7 @@ In keeping with state and federal legislation, the University safeguards the pri
 
 Until determined otherwise or unless it is clear from the context, any electronic record residing on university-owned or controlled telecommunications, video, audio, and computing facilities will be deemed to be a University electronic record for purposes of this Policy.
 
-#### Principles
+## Principles 
 
 **Notification** Users should be notified that information is being collected and they should be informed of their rights. (e.g., all Web pages that collect personally identifiable information should include a privacy notice that specifies how the information will be used.)
 
@@ -34,7 +34,7 @@ Until determined otherwise or unless it is clear from the context, any electroni
 
 **Education** The University has the responsibility to educate its constituents concerning privacy rights and the proper handling of information. (e.g., all constituents should know whom to consult about these matters and all employees should understand their responsibilities for abiding by policies for information handling.)
 
-#### Record Classification
+## Record Classification
 
 The Data Stewards in consultation with the Office of University Counsel determine the confidentiality of the data. Data Stewards are representatives of the University who are assigned responsibility to serve as a steward of University data in a particular area. They are responsible for developing procedures for creating, maintaining, and using University data, based on University policy and applicable state and federal laws.
 
