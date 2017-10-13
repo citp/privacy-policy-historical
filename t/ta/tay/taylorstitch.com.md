@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519094007id_/https%3A//www.taylorstitch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013092216id_/https%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Taylor Stitch
+# Privacy Policy
 
 ## SECTION 1 — WHAT DO WE DO WITH YOUR INFORMATION?
 
