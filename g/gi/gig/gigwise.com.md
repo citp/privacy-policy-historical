@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611084624id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013211927id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Policy | Gigwise
 
