@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theecoexperts.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613183503id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/d15d7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theecoexperts.co.uk privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013195908id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/d15d7) for the most accurate reproduction.*
 
 # The Eco Experts
 
