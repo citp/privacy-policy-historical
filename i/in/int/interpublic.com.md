@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpublic.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614065614id_/http%3A//www.interpublic.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpublic.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014015053id_/http%3A//www.interpublic.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | IPG
 
