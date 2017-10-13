@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therodinhoods.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614215606id_/http%3A//therodinhoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therodinhoods.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014001339id_/http%3A//therodinhoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheRodinhoods
 
