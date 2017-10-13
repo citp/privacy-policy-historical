@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616010800id_/http%3A//www.mvfglobal.com/node/92) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013145819id_/http%3A//www.mvfglobal.com/node/92) for the most accurate reproduction.*
 
 # Privacy Policy | MVF
 
