@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaldownloads.io privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607154354id_/https%3A//www.digitaldownloads.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldownloads.io privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013222721id_/https%3A//www.digitaldownloads.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Digital Downloads
 
 Last updated: August 08, 2015
 
