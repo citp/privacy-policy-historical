@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035109id_/http%3A//etnies.com/us/privacy-policy-G2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013112259id_/http%3A//www.etnies.com/us/privacy-policy-G2.html) for the most accurate reproduction.*
 
 # etnies.com Privacy Policy
 
@@ -73,6 +73,6 @@ If you have any questions about this Online Privacy Statement, the practices of 
 
 * * *
 
-[](http://etnies.com/us "Home")
+[](http://www.etnies.com/us "Home")
 
 © 2017 etnies - All Rights Reserved
