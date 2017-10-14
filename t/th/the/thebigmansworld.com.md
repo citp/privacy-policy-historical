@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebigmansworld.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628071953id_/http%3A//thebigmansworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmansworld.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015001707id_/https%3A//thebigmansworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
