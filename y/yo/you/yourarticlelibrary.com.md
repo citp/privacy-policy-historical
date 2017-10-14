@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212405id_/http%3A//www.yourarticlelibrary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014065633id_/http%3A//www.yourarticlelibrary.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YourArticleLibrary.com: The Next Generation Library
+# Privacy Policy | Your Article Library
 
 **Last Updated: 02, May 2014**
 
@@ -8,15 +8,15 @@ If you require any more information or have any questions about our privacy poli
 
 At www.yourarticlelibrary.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www. yourarticlelibrary.com and how it is used.
 
-####  **Log Files**
+#### **Log Files**
 
 Like many other Web sites, www. yourarticlelibrary.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-####  **Cookies and Web Beacons**
+#### **Cookies and Web Beacons**
 
 www.yourarticlelibrary.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-####  **Double-click DART Cookie**
+#### **Double-click DART Cookie**
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following UR:
 
