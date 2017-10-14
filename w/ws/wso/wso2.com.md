@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623201621id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014065312id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
-At WSO2, we recognize that privacy is important. This privacy policy applies to the site and services offered by WSO2 at [http://www.wso2.com](http://www.wso2.com/)
+At WSO2, we recognize that privacy is important. This privacy policy applies to the site and services offered by WSO2 at [https://www.wso2.com](https://www.wso2.com/)
 
 We collect information from you when you register on our site. You may, however, visit our site anonymously.
 
@@ -27,7 +27,7 @@ We track and analyse your actions on our website such as navigation, number of v
 
 This privacy policy applies only to information collected through our website and not to information collected offline.
 
-Please also visit our Terms of Use section relating to use, disclaimers, indemnities and limitations of liability governing the use of our site and services at [http://www.wso2.com/terms-of-use](https://web.archive.org/terms-of-use)
+Please also visit our Terms of Use section relating to use, disclaimers, indemnities and limitations of liability governing the use of our site and services at [https://www.wso2.com/terms-of-use](https://web.archive.org/terms-of-use)
 
 We reserve the right to amend this privacy policy at any time. We will not send individual email notifications on the updates. Any amendments will be posted on this page. You are therefore encouraged to visit this page periodically.
 
