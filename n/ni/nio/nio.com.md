@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nio.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609060831id_/http%3A//www.nio.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nio.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014231536id_/http%3A//www.nio.io/privacy-policy) for the most accurate reproduction.*
 
 # NIO - Privacy Policy
 
-NEXTEV Official Website: [http://www.nio.com](http://www.nio.com/)
+NEXTEV Official Website: [http://www.nio.io](http://www.nio.io/)
 
 **Privacy Policy**
 
 **Effective Date: November 21, 2016**
 
-NEXTEV LIMITED (“ **NEXTEV** ”, “ **we** ”, “ **us** ”, “ **our** ” or “ **ours** ”) may collect, store, process and use your personal information for providing, maintaining and improving our service as well as upgrading the service quality and optimizing service functions. Our Privacy Policy covers <http://www.nio.com/> (this “ **Website** ”).
+NEXTEV LIMITED (“ **NEXTEV** ”, “ **we** ”, “ **us** ”, “ **our** ” or “ **ours** ”) may collect, store, process and use your personal information for providing, maintaining and improving our service as well as upgrading the service quality and optimizing service functions. Our Privacy Policy covers <http://www.nio.io/> (this “ **Website** ”).
 
-We understand and are committed to protecting all reasonable privacy of our customers. This Privacy Policy is meant to explain to you how we collect, store, process and use your personal information. Please do read it carefully. If you have questions or concerns regarding this Privacy Policy, you may contact us by emailing at: [comms@nio.com](mailto:comms@nio.com).
+We understand and are committed to protecting all reasonable privacy of our customers. This Privacy Policy is meant to explain to you how we collect, store, process and use your personal information. Please do read it carefully. If you have questions or concerns regarding this Privacy Policy, you may contact us by emailing at: [comms.us@nio.io](mailto:comms.us@nio.io).
 
 **1\. Method and Scope of Information Collection**
 
@@ -91,4 +91,4 @@ If we decide to update our Privacy Policy, we will post the updated Privacy Poli
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please feel free to contact us [comms@nio.com](mailto:comms@nio.com)
+If you have any questions about this Privacy Policy, please feel free to contact us [comms.us@nio.io](mailto:comms.us@nio.io)
