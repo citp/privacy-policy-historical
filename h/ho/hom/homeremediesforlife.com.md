@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremediesforlife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060849id_/http%3A//homeremediesforlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremediesforlife.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014213351id_/http%3A//homeremediesforlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
