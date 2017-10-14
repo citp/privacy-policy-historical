@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pornsharia.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221115230id_/http%3A//pornsharing.com/pages/p6_privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornsharia.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014123800id_/http%3A//pornsharia.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
-Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Pornsharing.com (the “Website”), including information you provide when using it.
+[Wetplace - Free porn videos and pictures](https://web.archive.org/)
+
+Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Wetplace.com (the “Website”), including information you provide when using it.
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
@@ -46,4 +48,4 @@ If you have an account on the Website and have a password giving you access to c
 
 While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
 
-You may request to access, correct or delete your information on the Website by contacting us at admin@Pornsharing.com.
+You may request to access, correct or delete your information on the Website by contacting us at admin@Wetplace.com.
