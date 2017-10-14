@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starcruises.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615125037id_/http%3A//www.starcruises.com/sg/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcruises.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014142547id_/https%3A//www.starcruises.com/us/en/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy, Personal Information & Access Rights | Star Cruises
 
 **This Privacy Policy contains English and Bahasa Malaysia versions**
 
