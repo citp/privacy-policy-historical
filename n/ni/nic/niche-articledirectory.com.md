@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niche-articledirectory.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811192447id_/http%3A//www.niche-articledirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niche-articledirectory.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014152944id_/http%3A//www.niche-articledirectory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Niche Articles Directory
 
