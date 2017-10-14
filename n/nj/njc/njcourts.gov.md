@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njcourts.gov privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530013003id_/http%3A//njcourts.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njcourts.gov privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014200335id_/http%3A//www.njcourts.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
