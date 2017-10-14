@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2017-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620180845id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2017-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171014145007id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://a9.com/-/spec/opensearch/1.1/">
 <!-- TradeDoubler site verification 1253612 -->
@@ -46,8 +46,8 @@ function sticky_relocate() {
 }
 
 $(function() {
-	if ( $(window).width() <= 479 ) {
-		go_adverts( 'ALL', 2, '', '', '207.241.231.45');
+	if ( $(window).width() <= 479 && (document.getElementById("topslot_ad_unit") != null) ) {
+		go_adverts( 'GB', 2, '', '', '54.165.59.7');
 	}
 
 	//  $(window).scroll(sticky_relocate);
@@ -91,8 +91,8 @@ $(window).smartresize(function(){
 	var window_width = $(window).width();
 
 	$('#emailinjobs').width( $('#main').width() );
-	if ( window_width <= 479 ) {
-		go_adverts( 'ALL', 2, '', '', '207.241.231.45');
+	if ( window_width <= 479 && (document.getElementById("topslot_ad_unit") != null) ) {
+		go_adverts( 'GB', 2, '', '', '54.165.59.7');
 	}
 });
 </script>
@@ -255,7 +255,7 @@ _gaq.push(['_trackPageview']);
 <div class="panel">
 <a rel="nofollow" href="http://ad.workcircle.com/adclick.php?bannerid=135&amp;zoneid=48&amp;source=&amp;dest=http%3A%2F%2Fwww.cv-library.co.uk%2Faff%2F100109&amp;ismap="><b>Click here to upload your CV</b><br>
 <br>
-<img width="140" src="http://www.cv-library.co.uk/downloads/cvl_blue_logo.jpg" style="float:right">
+<img width="140" src="https://www.cv-library.co.uk/downloads/cvl_blue_logo.jpg" style="float:right">
 and get it in front of over 10,000 top recruiters!</a>
 <br>
 </div>
@@ -264,6 +264,10 @@ and get it in front of over 10,000 top recruiters!</a>
 <br>
 <div id="sticky-anchor1"></div>
 <div id="sticky-element1">
+
+
+
+
 
 
 
@@ -281,7 +285,7 @@ and get it in front of over 10,000 top recruiters!</a>
 
 
 <!-- NEW CODE -->
-<script src="http://www.google.com/adsense/search/ads.js" type="text/javascript"></script> 
+<script src="https://www.google.com/adsense/search/ads.js" type="text/javascript"></script> 
 <script type="text/javascript" charset="utf-8"> 
 function go_adsense( indeed_count ) {
 
@@ -294,14 +298,16 @@ var total_top_count=3;
 
 
 
-var total_top_count=1;
-
 
 var top_count = total_top_count - indeed_count;
 
 
 	
-		var mychannel = '1092361533'
+		
+			
+				var mychannel = '5096178894'
+			
+		
 	
 
 
@@ -485,19 +491,33 @@ phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substr
 
 
 
-<script type="text/javascript" src="http://www.indeed.com/ads/apiresults.js"></script>
-
 <script type="text/javascript" charset="utf-8">
 
 
 
+//go_indeed( 0, 'GB', 2, '', '', '', '54.165.59.7');
+//go_adverts( 'GB', 2, '', '', '', '54.165.59.7');
 
-go_indeed( 0, 'ALL', 2, '', '', '', '207.241.231.45');
+// deliv go_inject( 'GB', '2931667', '', '', '', 'http://rcrtx-logos.s3.amazonaws.com/deliveroo-logo.png', 1, 0 );
+// tteach go_inject( 'GB', '2931671', '', '', '', 'http://3glj2021ko2b3puh6943xw7d.wpengine.netdna-cdn.com/wp-content/uploads/job-manager-uploads/company_logo/2016/04/talented-teacher-jobs-mind-map-2602.png', 1, 1);
+// llink go_inject( 'GB', '2931672', '', '', '', 'https://lh3.ggpht.com/1zzYg3lFhvKdoo3oEK8H6ObdTGJZ-TJ0RsFaRXD9Sa_SlOCA9XuNdU8WNSiaQaszYtk=w50', 1, 1);
+if( document.getElementById("topslot_ad_unit") != null ) {
+go_inject( 'GB', '2931891', '', '', '', 'https://scontent-lht6-1.cdninstagram.com/t51.2885-19/11370977_1650438298532708_1502991215_a.jpg', 1, 1);
+go_inject( 'GB', '2932024', '', '', '', 'http://www.englishfirst.com/css/images/logo.gif', 1, 1);
+go_inject( 'GB', '2931587', '', '', '', 'http://www.newcivilengineercareers.com/assets/dist/images/logo.png', 1, 1);
+}
+
+function go_tjnewuser_inject() {
+// Lives here so the templator will populate it properly
+	if( document.getElementById("topslot_ad_unit") != null ) {
+		go_inject( 'GB', '2931730', '', '', '', 'https://www.workcircle.com/images/totaljobs.png', 1, 1);
+	}
+}
 
 
 
 
-go_adsense( 0, 'ALL', 2, '', '', '', '207.241.231.45');
+go_adsense( 0, 'GB', 2, '', '', '', '54.165.59.7');
 
 
 go_totaljobs();
