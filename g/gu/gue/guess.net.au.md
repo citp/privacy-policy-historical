@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the guess.net.au privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407120342id_/http%3A//shop.guess.net.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.net.au privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014134216id_/http%3A//shop.guess.net.au/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GUESS | Jeans, Clothing and Accessories for Men and Women. Shop the latest fashion trends.
+# Privacy Policy | GUESS Kids | Shop the latest clothing for boys, girls, babies and toddlers
 
 |  |  |  |  |   
 ---|---|---|---|---  
 |  | 
 
-[](http://shop.guess.net.au/)
+[](http://shop.guess.net.au/home/w5/i2/)
 
 |  |   
 |  |  |  |   
@@ -192,7 +192,7 @@ Our Sites are general audience websites. We do not knowingly collect personal in
 
   * **Access, Correction and Removal of your Personal Information**
 
-You may seek to access or correct your personal information at any time by contacting the Privacy Officer by email to [privacy@signalbrands.com.au](http://shop.guess.net.au/www/615/1001172/#) or by mail to the 'Privacy Officer, Unit 14, 37 O'Riordan Street, Alexandria Sydney NSW 2015 Australia. 
+You may seek to access or correct your personal information at any time by contacting the Privacy Officer by email to [privacy@signalbrands.com.au](http://shop.guess.net.au/www/615/3160017/#) or by mail to the 'Privacy Officer, Unit 14, 37 O'Riordan Street, Alexandria Sydney NSW 2015 Australia. 
 
 If we do not agree to provide you with access to your personal information or to amend or annotate the information we hold about you, you may seek a review of our decision. 
 
@@ -202,7 +202,7 @@ If we do not agree to make the requested changes to your personal information, y
 
   * **Complaints**
 
-You can send written complaints about a breach of the APPs and IPPs in relation to your personal information by email to [privacy@signalbrands.com.au](http://shop.guess.net.au/www/615/1001172/#) or by mail to 'Privacy Officer, Unit 14, 37 O'Riordan Street, Alexandria Sydney NSW 2015 Australia. 
+You can send written complaints about a breach of the APPs and IPPs in relation to your personal information by email to [privacy@signalbrands.com.au](http://shop.guess.net.au/www/615/3160017/#) or by mail to 'Privacy Officer, Unit 14, 37 O'Riordan Street, Alexandria Sydney NSW 2015 Australia. 
 
 Complaints will be reviewed by our Privacy Officer and a response will usually be provided within 30 days of receipt of the complaint. 
 
