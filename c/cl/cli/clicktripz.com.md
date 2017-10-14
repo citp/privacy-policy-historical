@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611090428id_/http%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014020031id_/https%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Clicktripz - Conversion solutions for travel.
 
@@ -37,10 +37,6 @@ On some travel searches we include a Google AdWord's remarketing tag in order to
 #### Children
 
 Clicktripz.com does not sell products for purchase by children. If you are under 18, you may use clicktripz.com only with the involvement of a parent or guardian.
-
-#### Safe Harbor
-
-Clicktripz.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the United States and the European Union. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website.
 
 #### Conditions of Use, Notices, and Revisions
 
