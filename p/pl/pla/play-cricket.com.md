@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play-cricket.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603211423id_/http%3A//play-cricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-cricket.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014093634id_/http%3A//play-cricket.com/privacy) for the most accurate reproduction.*
 
 # Play-Cricket
 
@@ -76,7 +76,7 @@ Preventing use of cookies
 
 Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored. With experience, you can usually choose to switch off all cookies or to allow only certain ‘trusted’ sites to place cookies. 
 
-For further information on cookies and Flash cookies and how to switch them off see the Infor mation Commissioner’s website at [http://www.ico.gov.uk](http://www.ico.gov.uk/) or visit <http://www.allaboutcookies.org/> or [www.aboutcookies.org](https://web.archive.org/web/20170603211423id_/http%3A//play-cricket.com/www.aboutcookies.org). 
+For further information on cookies and Flash cookies and how to switch them off see the Infor mation Commissioner’s website at [http://www.ico.gov.uk](http://www.ico.gov.uk/) or visit <http://www.allaboutcookies.org/> or [www.aboutcookies.org](https://web.archive.org/web/20171014093634id_/http%3A//play-cricket.com/www.aboutcookies.org). 
 
 PLEASE NOTE, IF YOU DO TURN COOKIES OFF, THIS WILL LIMIT THE SERVICE THAT WE ARE ABLE TO PROVIDE TO YOU AND MAY AFFECT YOUR USER EXPERIENCE 
 
@@ -144,7 +144,7 @@ You have the right to receive a copy of the personal information that we hold ab
 
 HOW TO CONTACT US
 
-Email| [play.cricket@ecb.co.uk](mailto:play.cricket@ecb.co.uk)  
+Email| [privacy@ecb.co.uk](mailto:privacy@ecb.co.uk)  
 ---|---  
 Mail| Data Protection Officer (Play-Cricket)  
 England and Wales Cricket Board Limited  
