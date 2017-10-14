@@ -1,41 +1,70 @@
-> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151639id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014213546id_/https%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shaalaa.com | शाला.com
+# Privacy Policy | shaalaa.com
 
-This privacy policy sets out how Shaalaa.com uses and protects any information that you give Shaalaa.com when you use this website. Shaalaa.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Shaalaa.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of January, 2012.
+### Introduction
 
-**What we collect**  
-We may collect the following information:  
- name and job title  
- contact information including email address  
- demographic information such as postcode, preferences and interests  
- other information relevant to customer surveys and/or offers
+We, at 'Shaalaa.com' and our affiliated companies worldwide, are committed to respecting your online privacyand recognize your need for appropriate protection and management of any personally identifiable information("Personal Information") you share with us."Personal Information" means any information that may be used to identify an individual, including, but notlimited to, a first and last name, a home or other physical address and an email address or other contactinformation, whether at work or at home. In general, you can visit Shaalaa.com's Web pages without tellingus who you are or revealing any Personal Information about yourself.
 
-**What we do with the information we gather**  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
- Internal record keeping.  
- We may use the information to improve our products and services.  
- We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
- From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+### Cookies and Other Tracking Technologies
 
-**Security**  
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text filethat may be used, for example, to collect information about Web site activity. Some cookies and othertechnologies may serve to recall Personal Information previously indicated by a Web user. Most browsersallow you to control cookies, including whether or not to accept them and how to remove them.You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies withyour browser, but please note that if you choose to erase or block your cookies, you will need to re-enteryour original user ID and password to gain access to certain parts of the Web site and some sections of thesite would not work.Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP)addresses; browser software and operating system types; clickstream patterns; and dates and times that oursite is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site andyour Web experience. We may also analyze information that does not contain Personal Information for trendsand statistics.
 
-**How we use cookies**  
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+### Third Party Services
 
-**Links to other websites**  
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Third parties provide certain services available on www.shaalaa.com on Shaalaa.com's behalf. 'Shaalaa.com'may provide information, including Personal Information, that 'Shaalaa.com' collects on the Web tothird-party service providers to help us deliver programs, products, information, and services. Serviceproviders are also an important means by which 'Shaalaa.com' maintains its Web site and mailing lists.'Shaalaa.com' will take reasonable steps to ensure that these third-party service providers are obligated toprotect Personal Information on Shaalaa.com's behalf.'Shaalaa.com' does not intend to transfer Personal Information without your consent to third parties who arenot bound to act on Shaalaa.com's behalf unless such transfer is legally required. Similarly, it is againstshaalaa.com's policy to sell Personal Information collected online without consent
 
-**Controlling your personal information**  
-You may choose to restrict the collection or use of your personal information in the following ways:  
- whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
- if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us.  
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at [www.shaalaa.com/contact-us](http://www.shaalaa.com/contact-us "www.shaalaa.com/contact-us") . We will promptly correct any information found to be incorrect.
+### Your Consent
 
-Wrong spellings,  
-We are not responsible for emails sent to wrong spelling. We have created these 3 pages just for information to users about these spellings.  
-<http://www.shaalaa.com/shala.com>  
-<http://www.shaalaa.com/shaala.com>  
-<http://www.shaalaa.com/shalaa.com>  
-<http://www.shaalaa.com/shalla.com>
+By using this Web site, you consent to the terms of our Online Privacy Policy and to Shaalaa.com's processingof Personal Information for the purposes given above as well as those explained where 'Shaalaa.com' collectsPersonal Information on the Web.
+
+### Information security
+
+  * We take appropriate security measures to protect against unauthorized access to or unauthorizedalteration, disclosure or destruction of data.
+  * We restrict access to your personally identifying information to employees who need to know thatinformation in order to operate, develop or improve our services.
+
+
+
+### Updating your information
+
+  * We provide mechanisms for updating and correcting your personally identifying information for many ofour services. For more information, please see the help pages for each service.
+
+
+
+### Children
+
+  * 'Shaalaa.com' will not contact children under age 13 about special offers or for marketing purposeswithout a parent's permission.
+
+
+
+### Information Sharing and Disclosure
+
+  * 'Shaalaa.com' does not rent, sell, or share personal information about you with other people (savewith your consent) or non-affiliated companies except to provide products or services you've requested,when we have your permission, or under the following circumstances:
+    * We provide the information to trusted partners who work on behalf of or with 'Shaalaa.com'under confidentiality agreements. These companies may use your personal information to help'Shaalaa.com' communicate with you about offers from 'Shaalaa.com' and our marketing partners.However, these companies do not have any independent right to share this information.
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legalrights or defend against legal claims;
+    * We believe it is necessary to share information in order to investigate, prevent, or takeaction regarding illegal activities, suspected fraud, situations involving potential threats tothe physical safety of any person, violations of Shaalaa.com's terms of use, or as otherwiserequired by law.
+    * We transfer information about you if 'Shaalaa.com' is acquired by or merged with anothercompany. In this event, 'Shaalaa.com' will notify you before information about you istransferred and becomes subject to a different privacy policy.
+  * 'Shaalaa.com' displays targeted advertisements based on personal information. Advertisers (includingad serving companies) may assume that people who interact with, view, or click on targeted ads meet thetargeting criteria - for example, women ages 18-24 from a particular geographic area.
+    * 'Shaalaa.com' does not provide any personal information to the advertiser when you interactwith or view a targeted ad. However, by interacting with or viewing an ad you are consenting tothe possibility that the advertiser will make the assumption that you meet the targetingcriteria used to display the ad.
+    * 'Shaalaa.com' advertisers include financial service providers (such as banks, insuranceagents, stock brokers and mortgage lenders) and non-financial companies (such as stores,airlines, and software companies).
+  * 'Shaalaa.com' works with vendors, partners, advertisers, and other service providers in differentindustries and categories of business. For more information regarding providers of products or servicesthat you've requested please read our detailed reference links.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to yourwebsite.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based ontheir visit to your sites and/or other sites on the Internet.
+  * Users to opt out of some third-party vendor's use of cookies for interest-based advertising byvisiting aboutads.info.
+
+
+
+### Confidentiality and Security
+
+  * We limit access to personal information about you to employees who we believe reasonably need to comeinto contact with that information to provide products or services to you or in order to do their jobs.
+  * We have physical, electronic, and procedural safeguards that comply with the laws prevalent in Indiato protect personal information about you. We seek to ensure compliance with the requirements of theInformation Technology Act, 2000 and Rules made there under to ensure the protection and preservation ofyour privacy.
+
+
+
+### Changes to this Privacy Policy
+
+'Shaalaa.com' reserves the right to update, change or modify this policy at any time. The policy shall come to effect from the date of such update, change or modification.
+
+### Disclaimer
+
+Shaalaa.com does not store or keep credit card data in a location that is accessible via the Internet. Once a credit card transaction has been completed, all credit card data is moved off-line only to ensure that the data/credit card information received is not accessible to anyone after completion of the on-line transaction and to ensure the maximum security. Shaalaa.com uses the maximum care as is possible to ensure that all or any data / information in respect of electronic transfer of money does not fall in the wrong hands.Shaalaa.com shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise.
