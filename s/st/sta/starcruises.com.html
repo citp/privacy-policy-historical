@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the starcruises.com privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615125037id_/http%3A//www.starcruises.com/sg/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starcruises.com privacy policy that was archived on 2017-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171014142547id_/https%3A//www.starcruises.com/us/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
-    <title>PRIVACY POLICY</title>
+    <title>Privacy Policy, Personal Information &amp; Access Rights | Star Cruises</title>
 
     <style>
         .bx-viewport {
@@ -15,7 +15,9 @@
     <link rel="icon" type="image/png" href="/Content/images/favicon.ico">
 
     
-    <link href="/Content/stylesheets/en/style.css?v=2" rel="stylesheet">
+    <link href="/Content/stylesheets/en/style.css?v=5" rel="stylesheet">
+
+    <link href="/Content/stylesheets/flexboxgrid.min.css" rel="stylesheet">
 
     
 
@@ -41,7 +43,10 @@
     
     
     
-<meta name="title" content="PRIVACY POLICY">    <meta name="description" content="Star Cruises is committed to protecting the private data of voyagers. Learn more our private policy.">    <meta name="keywords" content="Privacy Policy">    <meta property="og:title" content="PRIVACY POLICY">    <meta property="og:description" content="Star Cruises is committed to protecting the private data of voyagers. Learn more our private policy.">    <meta property="og:keywords" content="Privacy Policy">    <script>
+<meta name="title" content="Privacy Policy, Personal Information &amp; Access Rights | Star Cruises">    <meta name="description" content="Star Cruises is committed to protecting the private data of voyagers. Learn more our private policy.">    <meta name="keywords" content="Privacy Policy, Personal Information &amp; Access Rights,Star Cruises">    <meta property="og:title" content="Privacy Policy, Personal Information &amp; Access Rights | Star Cruises">    <meta property="og:description" content="Star Cruises is committed to protecting the private data of voyagers. Learn more our private policy.">    <meta property="og:keywords" content="Privacy Policy, Personal Information &amp; Access Rights,Star Cruises">
+
+<link rel="alternate" href="https://www.starcruises.com/hk/en/privacy-policy" hreflang="en-hk"><link rel="alternate" href="https://www.starcruises.com/hk/tc/privacy-policy" hreflang="zh-Hant-hk"><link rel="alternate" href="https://www.starcruises.com/hk/sc/privacy-policy" hreflang="zh-Hans-hk"><link rel="alternate" href="https://www.starcruises.com/sg/en/privacy-policy" hreflang="en-sg"><link rel="alternate" href="https://www.starcruises.com/sg/sc/privacy-policy" hreflang="zh-Hans-sg"><link rel="alternate" href="https://www.starcruises.com/tw/tc/privacy-policy" hreflang="zh-Hant-tw"><link rel="alternate" href="https://www.starcruises.com/au/en/privacy-policy" hreflang="en-au"><link rel="alternate" href="https://www.starcruises.com/in/en/privacy-policy" hreflang="en-in"><link rel="alternate" href="https://www.starcruises.com/id/en/privacy-policy" hreflang="en-id"><link rel="alternate" href="https://www.starcruises.com/jp/en/privacy-policy" hreflang="en-jp"><link rel="alternate" href="https://www.starcruises.com/my/en/privacy-policy" hreflang="en-my"><link rel="alternate" href="https://www.starcruises.com/ph/en/privacy-policy" hreflang="en-ph"><link rel="alternate" href="https://www.starcruises.com/kr/en/privacy-policy" hreflang="en-kr"><link rel="alternate" href="https://www.starcruises.com/th/en/privacy-policy" hreflang="en-th"><link rel="alternate" href="https://www.starcruises.com/nz/en/privacy-policy" hreflang="en-nz"><link rel="alternate" href="https://www.starcruises.com/us/en/privacy-policy" hreflang="en-us"><link rel="alternate" href="https://www.starcruises.com/my/sc/privacy-policy" hreflang="zh-Hans-my">
+    <script>
 
         function scrollTo(jqObj) {
             if (jqObj instanceof jQuery) {
@@ -69,10 +74,29 @@
         ga('send', 'pageview');
 
         var baseURI = window.location.host;
+
+
+
+        function checkCheckbox(c) {
+            $(c).prop("checked", !$(c).prop("checked")).change();
+            if ($(c).hasClass("checked")) {
+                $(c).removeClass("checked");
+            } else {
+                $(c).addClass("checked");
+
+            }
+            return false;;
+        }
+
         $(document).ready(function () {
 
             $("body").on("click", function (e) {
                 
+                if ($(e.target).is("[type='checkbox']")) {
+                    checkCheckbox($(e.target));
+                    return;
+                }
+
                 if (e.isDefaultPrevented() || typeof ga !== "function") return;
 
                 var link = $(e.target).closest("a");
@@ -162,12 +186,12 @@
         <div id="nav-bar-menu-btn" onclick="showSideMenu()">
             <img src="/Content/images/menu_toggle.png" alt="Menu">
         </div>
-        <a ga_btn_id="logo" id="nav-bar-logo" href="http://www.starcruises.com/sg/en"><img src="/Content/images/logo_main.png" alt="logo"></a>
+        <a ga_btn_id="logo" id="nav-bar-logo" href="https://www.starcruises.com/us/en"><img src="/Content/images/logo_main.png" alt="logo"></a>
         <div id="nav-bar-search-btn">
             <img src="/Content/images/menu_search-big.png" alt="Search">
         </div>
         <div id="nav-bar-search-bar">
-            <form id="searchbox-1" method="get" action="http://www.starcruises.com/sg/en/search">
+            <form id="searchbox-1" method="get" action="https://www.starcruises.com/us/en/search">
                 <input type="text" name="q" value="" placeholder="Search...">
                 <button type="submit"></button>
             </form>
@@ -176,64 +200,72 @@
     <div id="nav-bar-content" style="touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
         <div id="nav-bar-dismiss" onclick="hideSideMenu()"></div>
         <ul id="nav-bar-menu">
+
             <li class="first-level-nav">
-                <a class="nav-1">Destination</a>
+                <a href="https://www.starcruises.com/us/en/hotdeals" class="nav-0">Hot Deals</a>
+            </li>
+            <li class="first-level-nav">
+                <a class="nav-1">Destinations</a>
                 <ul class="second-level-nav-menu">
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/cambodia">Cambodia</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/china">China</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/hongkong">Hong Kong</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/japan">Japan</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/malaysia">Malaysia</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/singapore">Singapore</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/taiwan">Taiwan</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/destinations/thailand">Thailand</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/cambodia">Cambodia</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/china">China</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/hongkong">Hong Kong</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/japan">Japan</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/malaysia">Malaysia</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/myanmar">Myanmar</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/singapore">Singapore</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/taiwan">Taiwan</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/thailand">Thailand</a></li>
                 </ul>
             </li>
             <li class="first-level-nav">
                 <a class="nav-2">Ships &amp; Cabins</a>
                 <ul class="second-level-nav-menu">
-                    <li class="second-level-nav-header"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships">Ships Overview</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships/virgo">SuperStar Virgo</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships/gemini">SuperStar Gemini</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships/libra">SuperStar Libra</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships/aquarius">SuperStar Aquarius</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships/pisces">Star Pisces</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/ships/taipan">The Taipan</a></li>
-                    <li class="second-level-nav-header" style="margin-top: 15px;"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/cabins">Cabins Overview</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/cabins/suites">Suites</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/cabins/balcony">Balcony Cabins</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/cabins/oceanview">Oceanview Cabins</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/cabins/inside">Inside Cabins</a></li>
+                    <li class="second-level-nav-header"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships">Ships Overview</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/virgo">SuperStar Virgo</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/gemini">SuperStar Gemini</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/libra">SuperStar Libra</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/aquarius">SuperStar Aquarius</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/pisces">Star Pisces</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/taipan">The Taipan</a></li>
+                    <li class="second-level-nav-header" style="margin-top: 15px;"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/cabins">Cabins Overview</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/cabins/suites">Suites</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/cabins/balcony">Balcony Cabins</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/cabins/oceanview">Oceanview Cabins</a></li>
+                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/cabins/inside">Inside Cabins</a></li>
                 </ul>
             </li>
             <li class="first-level-nav">
-                <a class="nav-3" href="http://www.starcruises.com/sg/en/experiences">Cruise Experiences</a>
+                <a class="nav-3" href="https://www.starcruises.com/us/en/experiences">Cruise Experiences</a>
                 <ul class="second-level-nav-menu">
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=gourmet">Gourmet Delights</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=shows">Entertainment Shows</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=recreations">Recreations &amp; Wellness</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=parties">Musicians, Live Bands &amp; Parties</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=shorex">Shore Excursions</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/mice">Meetings &amp; Incentives</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=gourmet">Gourmet Delights</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shows">Entertainment Shows</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=recreations">Recreations &amp; Wellness</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=parties">Musicians, Live Bands &amp; Parties</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shorex">Shore Excursions</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=virtual_tour">Virtual Tour</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/mice">Meetings &amp; Incentives</a></li>
+                                            <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/family-and-kids">A Perfect Family Vacation</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/romance">Romance</a></li>
+                                                        </ul>
+            </li>
+            <li class="first-level-nav">
+                <a class="nav-4" href="https://www.starcruises.com/us/en/travel-tips">Travel Tips</a>
+                <ul class="second-level-nav-menu">
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/travel-tips/travel-documents">Travel Documents</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/travel-tips/pre-cruise-watchouts">Pre-Cruise Watchouts</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/travel-tips/embarkation">Embarkation</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/travel-tips/onboard-rules">Onboard Rules</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/travel-tips/safety">Safety</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/travel-tips/disembarkation">Disembarkation</a></li>
                 </ul>
             </li>
             <li class="first-level-nav">
-                <a class="nav-4" href="http://www.starcruises.com/sg/en/travel-tips">Travel Tips</a>
+                <a class="nav-5" href="https://www.starcruises.com/us/en/booked-guests">Booked Guests</a>
                 <ul class="second-level-nav-menu">
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/travel-tips/travel-documents">Travel Documents</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/travel-tips/pre-cruise-watchouts">Pre-Cruise Watchouts</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/travel-tips/embarkation">Embarkation</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/travel-tips/onboard-rules">Onboard Rules</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/travel-tips/safety">Safety</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/travel-tips/disembarkation">Disembarkation</a></li>
-                </ul>
-            </li>
-            <li class="first-level-nav">
-                <a class="nav-5" href="http://www.starcruises.com/sg/en/booked-guests">Booked Guests</a>
-                <ul class="second-level-nav-menu">
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.starcruises.com/sg/en/booked-guests-access-card">Onboard Access Card</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://shop.starcruises.com/">Shop Before You Go</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.resortsworldatsea.com/">Genting Rewards</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/booked-guests-access-card">Onboard Access Card</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://shop.starcruises.com/">Shop &amp; Cruise</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.resortsworldatsea.com/">Genting Rewards</a></li>
                 </ul>
             </li>
             <a id="nav-find-cruise" href="https://booking.starcruises.com">
@@ -242,40 +274,39 @@
             
             
                 <ul id="nav-bar-language">
-                        <li id="china-site-url"><a href="http://cn.starcruises.com/">China Official Website</a></li>
+                        
+                        <li id="china-site-url">
+                            <a href="https://www.starcruises.com/shop-and-cruise">&nbsp; &nbsp;Shop &amp; Cruise&nbsp; &nbsp;</a>
 
-                            <li class="eng left-one">
-                                <a href="http://www.starcruises.com/sg/en/privacy-policy&#10;                                   " onclick="return setLanguage('http://www.starcruises.com/sg/en/privacy-policy', 'en')">ENG</a>
-                            </li>
-                            <li class="right-one">
-                                <a href="http://www.starcruises.com/sg/sc/privacy-policy&#10;                                   " onclick="return setLanguage('http://www.starcruises.com/sg/sc/privacy-policy', 'sc')">简</a>
-                            </li>
+                                <a href="http://cn.starcruises.com/">&nbsp; &nbsp;China Official Website&nbsp; &nbsp;</a>
+                        </li>
+                        
                 </ul>
 
             <div id="nav-region-select">
                 <ul>
                     <li class="nav-region-btn" onclick="toggleNavRegion()">
-                        <div class="flag"><img src="/Content/images/flag/small/sg.png"></div>
+                        <div class="flag"><img src="/Content/images/flag/small/us.png"></div>
 
-                            <div class="name">Singapore</div>
+                            <div class="name">USA</div>
                     </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/hk/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/hk/en/privacy-policy', 'hk')">
+                            <a href="https://www.starcruises.com/hk/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/hk/en/privacy-policy', 'hk')">
                                 <div class="flag"><img src="/Content/images/flag/small/hk.png"></div>
                                     <div class="name">Hong Kong</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/sg/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/sg/en/privacy-policy', 'sg')">
+                            <a href="https://www.starcruises.com/sg/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/sg/en/privacy-policy', 'sg')">
                                 <div class="flag"><img src="/Content/images/flag/small/sg.png"></div>
                                     <div class="name">Singapore</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/tw/tc/privacy-policy" onclick="return setRegion('http://www.starcruises.com/tw/tc/privacy-policy', 'tw')">
+                            <a href="https://www.starcruises.com/tw/tc/privacy-policy" onclick="return setRegion('https://www.starcruises.com/tw/tc/privacy-policy', 'tw')">
                                 <div class="flag"><img src="/Content/images/flag/small/tw.png"></div>
                                     <div class="name">Taiwan</div>
                             </a>
@@ -289,70 +320,70 @@
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/au/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/au/en/privacy-policy', 'au')">
+                            <a href="https://www.starcruises.com/au/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/au/en/privacy-policy', 'au')">
                                 <div class="flag"><img src="/Content/images/flag/small/au.png"></div>
                                     <div class="name">Australia</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/in/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/in/en/privacy-policy', 'in')">
+                            <a href="https://www.starcruises.com/in/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/in/en/privacy-policy', 'in')">
                                 <div class="flag"><img src="/Content/images/flag/small/in.png"></div>
                                     <div class="name">India</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/id/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/id/en/privacy-policy', 'id')">
+                            <a href="https://www.starcruises.com/id/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/id/en/privacy-policy', 'id')">
                                 <div class="flag"><img src="/Content/images/flag/small/id.png"></div>
                                     <div class="name">Indonesia</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/jp/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/jp/en/privacy-policy', 'jp')">
+                            <a href="https://www.starcruises.com/jp/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/jp/en/privacy-policy', 'jp')">
                                 <div class="flag"><img src="/Content/images/flag/small/jp.png"></div>
                                     <div class="name">Japan</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/my/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/my/en/privacy-policy', 'my')">
+                            <a href="https://www.starcruises.com/my/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/my/en/privacy-policy', 'my')">
                                 <div class="flag"><img src="/Content/images/flag/small/my.png"></div>
                                     <div class="name">Malaysia</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/ph/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/ph/en/privacy-policy', 'ph')">
+                            <a href="https://www.starcruises.com/ph/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/ph/en/privacy-policy', 'ph')">
                                 <div class="flag"><img src="/Content/images/flag/small/ph.png"></div>
                                     <div class="name">Philippines</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/kr/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/kr/en/privacy-policy', 'kr')">
+                            <a href="https://www.starcruises.com/kr/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/kr/en/privacy-policy', 'kr')">
                                 <div class="flag"><img src="/Content/images/flag/small/kr.png"></div>
                                     <div class="name">South Korea</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/th/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/th/en/privacy-policy', 'th')">
+                            <a href="https://www.starcruises.com/th/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/th/en/privacy-policy', 'th')">
                                 <div class="flag"><img src="/Content/images/flag/small/th.png"></div>
                                     <div class="name">Thailand</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/nz/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/nz/en/privacy-policy', 'nz')">
+                            <a href="https://www.starcruises.com/nz/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/nz/en/privacy-policy', 'nz')">
                                 <div class="flag"><img src="/Content/images/flag/small/nz.png"></div>
                                     <div class="name">New Zealand</div>
                             </a>
                         </li>
                         <li class="">
 
-                            <a href="http://www.starcruises.com/us/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/us/en/privacy-policy', 'us')">
+                            <a href="https://www.starcruises.com/us/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/us/en/privacy-policy', 'us')">
                                 <div class="flag"><img src="/Content/images/flag/small/us.png"></div>
                                     <div class="name">USA</div>
                             </a>
@@ -362,7 +393,7 @@
             </div>
         </ul>
         <div id="nav-bar-searchbox">
-            <form id="searchbox-2" method="get" action="http://www.starcruises.com/sg/en/search">
+            <form id="searchbox-2" method="get" action="https://www.starcruises.com/us/en/search">
                 <input type="text" name="q" value="" placeholder="Search...">
                 <button type="submit"></button>
             </form>
@@ -380,7 +411,7 @@
         console.log("  Cookie region:" + Cookies.get("region"));
 
         var language = "en";
-        var region = "sg";
+        var region = "us";
         var redirect = false;
         if (Cookies.get("language") != undefined) {
             if(language != Cookies.get("language")){
@@ -396,7 +427,7 @@
         }
 
         if(redirect&&false){
-            var url = "http://www.starcruises.com/" + region + "/" + language + "/privacy-policy";
+            var url = "https://www.starcruises.com/" + region + "/" + language + "/privacy-policy";
             location.replace(url);
         }
 
@@ -418,7 +449,7 @@
     function setRegion(url, region) {
 	
         Cookies.set("region", region, { expires: 365 });
-        var o_region = "sg";
+        var o_region = "us";
         ga('send', {
             hitType: 'event',
             eventCategory: 'Settings',
@@ -504,7 +535,7 @@
 
             <div id="breadcrumb" class="wide-block">
             <ul>
-                        <li><a href="http://www.starcruises.com/sg/en" ga_btn_id="breadcrumb">Home</a></li>
+                        <li><a href="https://www.starcruises.com/us/en" ga_btn_id="breadcrumb">Home</a></li>
                         <li>&gt;</li>
                         <li><a>PRIVACY POLICY</a></li>
 
@@ -524,10 +555,52 @@
     </div>
     <div id="footer">
         
+
+<style>
+    #subscribe-checkbox{
+        background: white !important;
+        margin-left: 0px !important;
+        background: white !important;
+        width: 20px !important;
+        height: 20px !important;
+        padding-left: 0px !important;
+        margin-right: 10px !important;
+    }
+    #subscribe-label{
+        width: 240px !important;
+        margin-left: 30px !important;
+        text-align: left;
+    }
+    #subscribe-checkbox.checked::before{
+        content: "";
+        width: 20px;
+        height: 20px;
+        background: #042e6f !important;
+        display: block;
+        margin-top: 7px;
+        
+    }
+    #subscribe-checkbox:before{
+        content: "";
+        width: 20px;
+        height: 20px;
+        display: block;
+        background: #dedede !important;
+        margin-top: 7px;
+    }
+    #subscribe-label a{
+        text-decoration:underline;
+    }
+</style>
+
 <div id="footer-contact" class="wide-block">
     <div id="contact">
 
-Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><br>
+
+
+
+        Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><br>
+
         <span style="font-size: 0.8em; line-height: 1.3em; display: block;">
         </span>
 
@@ -537,7 +610,7 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
     </div>
     <div id="social-wrapper">
         <div id="social-network">
-                    <a ga_btn_id="social" href="https://www.facebook.com/StarCruises/"><img src="/Content/images/icon_facebook.png" alt="facebook"></a>
+                    <a ga_btn_id="social" href="https://www.facebook.com/starcruises"><img src="/Content/images/icon_facebook.png" alt="facebook"></a>
                     <a ga_btn_id="social" href="https://www.instagram.com/starcruisesasia/"><img src="/Content/images/icon_instagram.png" alt="instagram"></a>
                     <a ga_btn_id="social" href="https://twitter.com/starcruisesasia"><img src="/Content/images/icon_twitter.png" alt="twitter"></a>
                     <a ga_btn_id="social" href="https://www.youtube.com/user/starcruisesasia"><img src="/Content/images/icon_youtube.png" alt="youtube"></a>
@@ -546,7 +619,6 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
         <div id="subscribe-wrapper">
             <div id="subscribe-btn" onclick="toggleSubscribeForm()">Subscribe Newsletter</div>
             <form id="subscribe-form" onsubmit="return false;">
-                <span class="grey-text">Sign up for the latest Star Cruises news, deals and promotions, and never miss out on our special offers again!</span>
                 <input type="text" name="name" value="Your Name" placeholder="Your Name">
                 <input type="text" name="email" value="Your Email" placeholder="Your Email">
                 <div class="select-box">
@@ -568,6 +640,16 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
                             <option value="us">USA</option>
                     </select>
                 </div>
+                <label id="subscribe-label" for="subscribe-checkbox">
+                    <input id="subscribe-checkbox" type="checkbox" name="subscribe-checkbox">
+
+
+                        
+                            I agree to the proposed use / transfer of my personal data for direct marketing. <a target="_blank" href="https://www.starcruises.com/us/en/the-proposed-use-transfer-of-my-personal-data-for-direct-marketing">Read more.</a><br>
+                            For more information on how we use your personal data, please view our <a target="_blank" href="https://www.starcruises.com/us/en/privacy-policy">Privacy Policy</a>.
+                        
+
+                </label>
                 <input type="submit" name="" value="SIGN UP" onclick="subscribeNewsletter()">
             </form>
         </div>
@@ -576,82 +658,86 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
 <div id="footer-menu" class="wide-block">
     <ul>
         <li class="first-level-footer">
-            <a href="#" class="footer-1">Destination</a>
+            <a href="#" class="footer-1">Destinations</a>
             <ul>
-                <li class="footer-section-btn" section="1">Destination</li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/cambodia">Cambodia</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/china">China</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/hongkong">Hong Kong</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/japan">Japan</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/malaysia">Malaysia</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/singapore">Singapore</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/taiwan">Taiwan</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/destinations/thailand">Thailand</a></li>
+                <li class="footer-section-btn" section="1">Destinations</li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/cambodia">Cambodia</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/china">China</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/hongkong">Hong Kong</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/japan">Japan</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/malaysia">Malaysia</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/myanmar">Myanmar</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/singapore">Singapore</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/taiwan">Taiwan</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/thailand">Thailand</a></li>
             </ul>
         </li>
         <li class="first-level-footer">
             <a href="#" class="footer-2">Ships &amp; Cabins</a>
             <ul>
-                <li class="second-level-footer title" style="margin-top: 0px;"><a href="http://www.starcruises.com/sg/en/ships">Ships Overview</a></li>
+                <li class="second-level-footer title" style="margin-top: 0px;"><a href="https://www.starcruises.com/us/en/ships">Ships Overview</a></li>
                 <li class="footer-section-btn" section="2">Ships &amp; Cabins<br><span>Ships Overview</span></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/ships/virgo">SuperStar Virgo</a></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/ships/gemini">SuperStar Gemini</a></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/ships/libra">SuperStar Libra</a></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/ships/aquarius">SuperStar Aquarius</a></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/ships/pisces">Star Pisces</a></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/ships/taipan">The Taipan</a></li>
-                <li class="second-level-footer title"><a href="http://www.starcruises.com/sg/en/cabins">Cabins Overview</a></li>
+                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/virgo">SuperStar Virgo</a></li>
+                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/gemini">SuperStar Gemini</a></li>
+                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/libra">SuperStar Libra</a></li>
+                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/aquarius">SuperStar Aquarius</a></li>
+                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/pisces">Star Pisces</a></li>
+                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/taipan">The Taipan</a></li>
+                <li class="second-level-footer title"><a href="https://www.starcruises.com/us/en/cabins">Cabins Overview</a></li>
                 <li class="footer-section-btn" section="3">Ships &amp; Cabins<br><span>Cabins Overview</span></li>
-                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/cabins/suites">Suites</a></li>
-                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/cabins/balcony">Balcony Cabins</a></li>
-                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/cabins/oceanview">Oceanview Cabins</a></li>
-                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/cabins/inside">Inside Cabins</a></li>
+                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/cabins/suites">Suites</a></li>
+                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/cabins/balcony">Balcony Cabins</a></li>
+                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/cabins/oceanview">Oceanview Cabins</a></li>
+                        <li class="second-level-footer" section="3"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/cabins/inside">Inside Cabins</a></li>
             </ul>
         </li>
         <li class="first-level-footer">
-            <a href="http://www.starcruises.com/sg/en/experiences" class="footer-3">Cruise Experiences</a>
+            <a href="https://www.starcruises.com/us/en/experiences" class="footer-3">Cruise Experiences</a>
             <ul>
                 <li class="footer-section-btn" section="4">Cruise Experiences</li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=gourmet">Gourmet Delights</a></li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=shows">Entertainment Shows</a></li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=recreations">Recreations &amp; Wellness</a></li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=parties">Musicians, Live Bands &amp; Parties</a></li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/experiences?action=filter&amp;ship=&amp;category=shorex">Shore Excursions</a></li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/mice">Meetings &amp; Incentives</a></li>
-            </ul>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=gourmet">Gourmet Delights</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shows">Entertainment Shows</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=recreations">Recreations &amp; Wellness</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=parties">Musicians, Live Bands &amp; Parties</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shorex">Shore Excursions</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=virtual_tour">Virtual Tour</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/mice">Meetings &amp; Incentives</a></li>
+                                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/family-and-kids">A Perfect Family Vacation</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/romance">Romance</a></li>
+                                            </ul>
         </li>
         <li class="first-level-footer">
-            <a href="http://www.starcruises.com/sg/en/travel-tips" class="footer-4">Travel Tips</a>
+            <a href="https://www.starcruises.com/us/en/travel-tips" class="footer-4">Travel Tips</a>
             <ul>
                 <li class="footer-section-btn" section="5">Travel Tips</li>
-                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-tips/travel-documents">Travel Documents</a></li>
-                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-tips/pre-cruise-watchouts">Pre-Cruise Watchouts</a></li>
-                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-tips/embarkation">Embarkation</a></li>
-                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-tips/onboard-rules">Onboard Rules</a></li>
-                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-tips/safety">Safety</a></li>
-                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-tips/disembarkation">Disembarkation</a></li>
+                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-tips/travel-documents">Travel Documents</a></li>
+                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-tips/pre-cruise-watchouts">Pre-Cruise Watchouts</a></li>
+                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-tips/embarkation">Embarkation</a></li>
+                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-tips/onboard-rules">Onboard Rules</a></li>
+                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-tips/safety">Safety</a></li>
+                    <li class="second-level-footer" section="5"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-tips/disembarkation">Disembarkation</a></li>
             </ul>
         </li>
         <li class="first-level-footer">
-            <a href="http://www.starcruises.com/sg/en/booked-guests" class="footer-5">Booked Guests</a>
+            <a href="https://www.starcruises.com/us/en/booked-guests" class="footer-5">Booked Guests</a>
             <ul>
                 <li class="footer-section-btn" section="6">Booked Guests</li>
-                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/booked-guests-access-card">Onboard Access Card</a></li>
-                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://shop.starcruises.com/">Shop Before You Go</a></li>
-                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="http://www.resortsworldatsea.com/">Genting Rewards</a></li>
+                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/booked-guests-access-card">Onboard Access Card</a></li>
+                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://shop.starcruises.com/">Shop &amp; Cruise</a></li>
+                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://www.resortsworldatsea.com/">Genting Rewards</a></li>
             </ul>
         </li>
         <li class="first-level-footer">
             <a href="#" class="footer-6">About Us</a>
             <ul>
                 <li class="footer-section-btn" section="7">About Us</li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/aboutus/starcruises">About Star Cruises</a></li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/aboutus/gentinghongkong">About Genting Hong Kong</a></li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/aboutus/ir">Investor Relations</a></li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/contact-us">Contact Us</a></li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/travel-agents">Travel Agents &amp; Media</a></li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/careers">Careers</a></li>
-                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/blogs">Blog</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/aboutus/starcruises">About Star Cruises</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/aboutus/gentinghongkong">About Genting Hong Kong</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/aboutus/ir">Investor Relations</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/contact-us">Contact Us</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-agents">Travel Agents &amp; Media</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/careers">Careers</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/blogs">Blog</a></li>
             </ul>
         </li>
     </ul>
@@ -659,26 +745,26 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
         <li class="first-level-footer">
             <ul>
                 <li class="footer-section-btn region" section="8">
-                    <div class="flag"><img src="/Content/images/flag/small/sg.png"></div>
-                        <div class="name">Singapore</div>
+                    <div class="flag"><img src="/Content/images/flag/small/us.png"></div>
+                        <div class="name">USA</div>
                 </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/hk/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/hk/en/privacy-policy', 'hk')">
+						<a class="region-option" href="https://www.starcruises.com/hk/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/hk/en/privacy-policy', 'hk')">
                             <div class="flag"><img src="/Content/images/flag/small/hk.png"></div>
                                 <div class="name">Hong Kong</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/sg/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/sg/en/privacy-policy', 'sg')">
+						<a class="region-option" href="https://www.starcruises.com/sg/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/sg/en/privacy-policy', 'sg')">
                             <div class="flag"><img src="/Content/images/flag/small/sg.png"></div>
                                 <div class="name">Singapore</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/tw/tc/privacy-policy" onclick="return setRegion('http://www.starcruises.com/tw/tc/privacy-policy', 'tw')">
+						<a class="region-option" href="https://www.starcruises.com/tw/tc/privacy-policy" onclick="return setRegion('https://www.starcruises.com/tw/tc/privacy-policy', 'tw')">
                             <div class="flag"><img src="/Content/images/flag/small/tw.png"></div>
                                 <div class="name">Taiwan</div>
                         </a>
@@ -692,70 +778,70 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/au/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/au/en/privacy-policy', 'au')">
+						<a class="region-option" href="https://www.starcruises.com/au/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/au/en/privacy-policy', 'au')">
                             <div class="flag"><img src="/Content/images/flag/small/au.png"></div>
                                 <div class="name">Australia</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/in/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/in/en/privacy-policy', 'in')">
+						<a class="region-option" href="https://www.starcruises.com/in/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/in/en/privacy-policy', 'in')">
                             <div class="flag"><img src="/Content/images/flag/small/in.png"></div>
                                 <div class="name">India</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/id/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/id/en/privacy-policy', 'id')">
+						<a class="region-option" href="https://www.starcruises.com/id/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/id/en/privacy-policy', 'id')">
                             <div class="flag"><img src="/Content/images/flag/small/id.png"></div>
                                 <div class="name">Indonesia</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/jp/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/jp/en/privacy-policy', 'jp')">
+						<a class="region-option" href="https://www.starcruises.com/jp/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/jp/en/privacy-policy', 'jp')">
                             <div class="flag"><img src="/Content/images/flag/small/jp.png"></div>
                                 <div class="name">Japan</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/my/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/my/en/privacy-policy', 'my')">
+						<a class="region-option" href="https://www.starcruises.com/my/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/my/en/privacy-policy', 'my')">
                             <div class="flag"><img src="/Content/images/flag/small/my.png"></div>
                                 <div class="name">Malaysia</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/ph/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/ph/en/privacy-policy', 'ph')">
+						<a class="region-option" href="https://www.starcruises.com/ph/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/ph/en/privacy-policy', 'ph')">
                             <div class="flag"><img src="/Content/images/flag/small/ph.png"></div>
                                 <div class="name">Philippines</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/kr/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/kr/en/privacy-policy', 'kr')">
+						<a class="region-option" href="https://www.starcruises.com/kr/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/kr/en/privacy-policy', 'kr')">
                             <div class="flag"><img src="/Content/images/flag/small/kr.png"></div>
                                 <div class="name">South Korea</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/th/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/th/en/privacy-policy', 'th')">
+						<a class="region-option" href="https://www.starcruises.com/th/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/th/en/privacy-policy', 'th')">
                             <div class="flag"><img src="/Content/images/flag/small/th.png"></div>
                                 <div class="name">Thailand</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/nz/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/nz/en/privacy-policy', 'nz')">
+						<a class="region-option" href="https://www.starcruises.com/nz/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/nz/en/privacy-policy', 'nz')">
                             <div class="flag"><img src="/Content/images/flag/small/nz.png"></div>
                                 <div class="name">New Zealand</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="http://www.starcruises.com/us/en/privacy-policy" onclick="return setRegion('http://www.starcruises.com/us/en/privacy-policy', 'us')">
+						<a class="region-option" href="https://www.starcruises.com/us/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/us/en/privacy-policy', 'us')">
                             <div class="flag"><img src="/Content/images/flag/small/us.png"></div>
                                 <div class="name">USA</div>
                         </a>
@@ -813,6 +899,14 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
     });
 
     function subscribeNewsletter() {
+
+        if ($("#subscribe-checkbox.checked").length == 0) {
+                
+                alert("Please accept the terms and conditions to continue");
+                
+            return;
+        }
+
         var name = $("#subscribe-form input[name='name']").val();
         var email = $("#subscribe-form input[name='email']").val();
         var region = $("#subscribe-form select[name='region']").val();
@@ -833,7 +927,7 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
         };
 
         $.ajax({
-            url: "http://media.starcruises.com" + "/web/Subscribe/submit",
+            url: "https://media.starcruises.com" + "/web/Subscribe/submit",
             type: 'post',
             dataType: 'json',
             success: function (data) {
@@ -863,10 +957,10 @@ Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><
 
 </div>
 <div>
-    <a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/bills-of-rights">Bill of Rights</a>&nbsp;|&nbsp;
-    <a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/privacy-policy">Privacy Policy</a>&nbsp;|&nbsp;
-    <a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/terms-of-usage">Terms of Usage</a>&nbsp;|&nbsp;
-    <a ga_btn_id="footer" href="http://www.starcruises.com/sg/en/passage-terms">Passage Terms</a>
+    <a ga_btn_id="footer" href="https://www.starcruises.com/us/en/bills-of-rights">Bill of Rights</a>&nbsp;|&nbsp;
+    <a ga_btn_id="footer" href="https://www.starcruises.com/us/en/privacy-policy">Privacy Policy</a>&nbsp;|&nbsp;
+    <a ga_btn_id="footer" href="https://www.starcruises.com/us/en/terms-of-usage">Terms of Usage</a>&nbsp;|&nbsp;
+    <a ga_btn_id="footer" href="https://www.starcruises.com/us/en/passage-terms">Passage Terms</a>
 </div>
 <div>
 
