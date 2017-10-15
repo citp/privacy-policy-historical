@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615130604id_/https%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015105145id_/https%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Freeola Privacy Policy
-
-We will retain your personal data until you request its removal. Examples of personal data include names, addresses and phone numbers. In some cases, we may be required to keep records to comply with regulatory requirements. We may process your data in order to improve and monitor our services, to provide essential updates and also marketing communications, depending on your communication preferences. We take data privacy seriously and aim to follow the principles that personal data shall be fairly and lawfully processed; any data processing should be relevant and not excessive; personal data should be help securely; and that personal data should be accurate and kept up-to-date where possible. 
 
 Your e-mail address is safe with us. We will not sell your e-mail address or any other personal information to any other companies. Your details specifically supplied to us for the purpose of a domain registration, a transaction or a service may be securely transmitted to official registrars, regulated bankers or service providers where we deem it necessary to fulfil your requirements. It is the practice of domain registration authorities to publish domain registration details (in the WHOIS). For some domain types you may opt-out of the WHOIS database using the Get Dotted Domains [WHOIS Privacy Protection](http://getdotted.com/domain-privacy/) service. 
 
@@ -15,6 +13,8 @@ Your [E-mail Alerts and Subscriptions](https://secure.freeola.com/myfreeola-cont
 Essential alerts, such as domain expiry reminders, will be sent to your login e-mail address regardless of your other settings. We cannot guarantee that you will receive these, but the same information is listed within your MyFreeola account. 
 
 If you establish a [Chat & Gaming Profile](https://secure.freeola.com/myfreeola-control-panel/interactive_profile_setup.php), to enable you to take part in our competitions and contribute to our interactive sites, then this information will be made available to the public, but this does not include your real name or contact details. 
+
+We will retain your personal data until you request its removal. Examples of personal data include names, addresses and phone numbers. In some cases, we may be required to keep records to comply with regulatory requirements. We may process your data in order to improve and monitor our services, to provide essential updates and also marketing communications, depending on your communication preferences. We take data privacy seriously and aim to follow the principles that personal data shall be fairly and lawfully processed; any data processing should be relevant and not excessive; personal data should be help securely; and that personal data should be accurate and kept up-to-date where possible. 
 
 Further information about Freeola's privacy policy is outlined as part of our General Terms & Conditions. Our Terms & Conditions are available to view or download in PDF format and can be found at <http://freeola.com/legal/terms.php>.
 
@@ -38,10 +38,8 @@ CM7 5JY
 UK  
 
 
-**Sales & Support:** 0871 210 9977  
-**Fax:** 0871 210 9988  
+**Sales & Support:** 01376 55 60 60  
+**Fax:** 01376 55 60 60  
 **E-mail:**  Send a [Support Request](https://secure.freeola.com/support/request/). 
-
-Calls are charged at 13 pence per minute, plus your phone company's access charge. 
 
 Company registered in England number 5335999. VAT reference 859 1100 32 
