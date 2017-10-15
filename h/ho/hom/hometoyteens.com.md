@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometoyteens.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426044223id_/http%3A//hometoyteens.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometoyteens.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015223801id_/http%3A//hometoyteens.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
