@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmboard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112529id_/http%3A//www.charmboard.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmboard.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015025456id_/http%3A//www.charmboard.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - Discover and save what you love in movies, TV and video.
 
