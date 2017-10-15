@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052203id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015054636id_/https%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kiwiblog
 
@@ -27,7 +27,7 @@ However those who know me will testify that I only try to screw someone over, if
 
 So the bottom line in terms of privacy in browsing or commenting on this site, is that in 99.99% of all cases I will keep your personal information strictly confidential to me. However if you break the law, defame someone, or really piss me off, then you have been warned!
 
-[Kiwiblog](http://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog") installs the latest software updates as they become available. However WordPress, like all systems, does have vulnerabilities that can be exploited despite our best efforts. To the best of my knowledge this has never happened, but [Kiwiblog](http://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog") can not guarantee it never will happen. If a user wishes to maximise their privacy they should consider not using any directly identifiable information in their usernames and registered e-mail addresses. Also you are best to use a unique password for [Kiwiblog](http://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog").
+[Kiwiblog](https://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog") installs the latest software updates as they become available. However WordPress, like all systems, does have vulnerabilities that can be exploited despite our best efforts. To the best of my knowledge this has never happened, but [Kiwiblog](https://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog") can not guarantee it never will happen. If a user wishes to maximise their privacy they should consider not using any directly identifiable information in their usernames and registered e-mail addresses. Also you are best to use a unique password for [Kiwiblog](https://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog").
 
 Also you should be aware:
 
