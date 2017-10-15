@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbfvideos.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614210520id_/http%3A//publicbfvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbfvideos.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015110352id_/http%3A//publicbfvideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
