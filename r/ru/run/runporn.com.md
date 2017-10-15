@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the runporn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095337id_/http%3A//www.runporn.com/infpgs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runporn.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015143758id_/http%3A//www.runporn.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RunPorn.com
 
-Effective Date: June 06, 2017  
-Sites Covered: www.runporn.com 
+Effective Date: October 15, 2017  
+Sites Covered: www.RunPorn.com 
 
-Pursuant to our [Terms of Use](http://www.runporn.com/infpgs/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
+Pursuant to our [Terms of Use](http://www.runporn.com/info/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
