@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlinelegends.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206232702id_/http%3A//offlinelegends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlinelegends.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015042908id_/http%3A//offlinelegends.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Offline Legends
 
