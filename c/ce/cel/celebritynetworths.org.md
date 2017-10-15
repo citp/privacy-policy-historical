@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritynetworths.org privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325031634id_/http%3A//celebritynetworths.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritynetworths.org privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015133844id_/http%3A//celebritynetworth.wiki/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Net Worth
 
@@ -30,4 +30,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](http://celebritynetworths.org/contacts/).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](http://celebritynetworth.wiki/contacts/).
