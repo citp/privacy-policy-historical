@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020220926id_/https%3A//www.gate.com/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016000706id_/http%3A//www.valueweb.com/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Gate.com Web Hosting - Privacy Statement
 
