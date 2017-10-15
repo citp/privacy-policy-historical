@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellingdad.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123223311id_/http%3A//www.tellingdad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellingdad.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015074941id_/http%3A//www.tellingdad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
