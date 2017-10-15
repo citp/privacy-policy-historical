@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckinhub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090421id_/http%3A//www.fuckinhub.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckinhub.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016001107id_/http%3A//www.fuckinhub.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuck In Hub | Quality HD Free Porn Tube
 
