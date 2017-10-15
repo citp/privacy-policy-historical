@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtfcalls.net privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814222854id_/http%3A//wtfcalls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfcalls.net privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015182553id_/http%3A//wtfcalls.com/privacy.php) for the most accurate reproduction.*
 
 # WTFcalls.com - Is there an unknown phone number on your Caller ID?
 
@@ -12,9 +12,7 @@ _**Links to Other Sites**_
 
 This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of Web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party's privacy policy.
 
-_**Cookies**_
-
   
 _**Contact Us**_
 
-Questions regarding this statement should be directed to [support](https://web.archive.org/web/20160814222854id_/http%3A//wtfcalls.com/contact.php)
+Questions regarding this statement should be directed to [support](https://web.archive.org/web/20171015182553id_/http%3A//wtfcalls.com/contact.php)
