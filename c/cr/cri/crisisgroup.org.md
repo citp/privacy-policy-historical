@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415054501id_/https%3A//www.crisisgroup.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015053707id_/https%3A//www.crisisgroup.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crisis Group
 
 This statement comprises the privacy policy (the **“Policy”** ) of the International Crisis Group ( **“Crisis Group”/“we”/“us”/“our”** ) as it pertains to our website ( **“Website”** ). This Policy does not cover Crisis Group’s presence on social media platforms such as, including but not limited to: Youtube, Facebook, Google+, Linkedin, Twitter, Tumblr, Pinterest, Flickr, Soundcloud, and on publishing platforms such as, including but not limited to: Issuu, Scribd, Medium on which we have established our own presence. In the context of those platforms, we are merely another user and the privacy policies as well as the terms and conditions of those platforms are applicable.
 
-This Policy sets out the basis on which any information that personally identifies you or enables us to contact you ( **“Personal Information”** ) that we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it. If you feel that we are not abiding by this Policy, you should immediately [contact our Senior Online Editor Róisín Traynor](mailto:rtraynor@crisisgroup.org) and we will try to resolve your concerns.
+This Policy sets out the basis on which any information that personally identifies you or enables us to contact you ( **“Personal Information”** ) that we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it. If you feel that we are not abiding by this Policy, you should immediately [contact our Online Editor](mailto:aolafs@crisisgroup.org) and we will try to resolve your concerns.
 
 We welcome you to use our Website, which can be accessed and browsed without the need to submit any contact details or other Personal Information.
 
@@ -20,8 +20,7 @@ We welcome you to use our Website, which can be accessed and browsed without the
  
       * **Offline submissions:** We may also collect information provided by you offline (e.g., through written correspondence you to send to us or when you provide us with your business card).  
  
-    2. We may automatically collect the following information with regard to each of your visits to the Website:  
-​​​​​​​ 
+    2. We may automatically collect the following information with regard to each of your visits to the Website: 
       * Technical information, including the operating system and platform, browser type and version; and  
  
       * Details of your visits to the Website, including but not limited to: every ‘HTTP Query’ your browser client sent to our server(s); the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time); page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, traffic data, location data, weblogs and other communication data. This information does not identify you.
@@ -111,7 +110,7 @@ We welcome you to use our Website, which can be accessed and browsed without the
  
     1. You have the right to access your Personal Information that we hold. Your right of access can be exercised in accordance with applicable privacy legislation.  
  
-    2. You may request at any time a copy of the information we hold on you by sending an e-mail to [Senior Online Editor Róisín Traynor](mailto:rtraynor@crisisgroup.org). Any access request may be subject to a fee to meet our costs in providing you with details of the information that we hold about you.  
+    2. You may request at any time a copy of the information we hold on you by sending an e-mail to our [Online Editor](mailto:aolafs@crisisgroup.org). Any access request may be subject to a fee to meet our costs in providing you with details of the information that we hold about you.  
  
   10. **Changes to our Policy**  
  
@@ -119,7 +118,7 @@ We welcome you to use our Website, which can be accessed and browsed without the
  
   11. **Contact**  
  
-    1. Questions, comments and requests regarding this Policy are welcomed and should be addressed to our [Senior Online Editor Róisín Traynor](mailto:rtraynor@crisisgroup.org).
+    1. Questions, comments and requests regarding this Policy are welcomed and should be addressed to our [Online Editor](mailto:aolafs@crisisgroup.org).
 
 
 
