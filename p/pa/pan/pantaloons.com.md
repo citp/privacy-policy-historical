@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202301id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015082705id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
 
 # Pantaloons
 
@@ -80,39 +80,50 @@ We may change these terms under Privacy Policy without notice. Continued use of 
 
 Terms & Conditions
 
-Paytm E wallet offer (16th June - 30th June, 2017):
+Bajaj Finserv:
 
-  * Get Rs 150 Cashback @ Pantaloons on Paytm payments
-  * Valid on a minimum transaction of Rs.3000 & above
-  * Offer valid from 16th June - 30th June, 2017
+  * Bajaj finserv EMI option can be availed on transaction worth Rs 5000/- or above.
+  * Transaction amount will be converted in to 3 equal EMIs.
+  * For any queries contact: Email - wecare@bajajfinserv.in :: Call- 020 - 3957 5152
+
+
+
+Mobikwik E wallet offer (1st Aug - 31st Oct, 2017):
+
+  * Get flat 300 SuperCash @ Pantaloons stores on MobiKwik payments
+  * Valid on a minimum transaction of Rs.2000 & above
+  * Offer valid from 1st August - 31st October, 2017
+  * This offer can be availed once in a month 
+  * SuperCash will be credited within 48 hours
+
+
+
+Bajaj Finance cashback offer (1st Sept - 22nd October, 2017):
+
+  * Get flat 10% Cashback @ Pantaloons stores on Bajaj Emi card payments
+  * Valid on a minimum transaction of Rs.5000 & above
+  * Maximum cashback is Rs 500
+  * Offer valid from 1st Sept to 22nd October, 2017
+  * This offer can be availed once during the offer period
+  * Cash-back amount will be credited post payment of the first EMI
+  * To avail the offer, give a missed call on +91 92892 22027
+
+
+
+Paytm E wallet offer (1st Sept - 30th Sept, 2017):
+
+  * Get Rs 200 Cashback @ Pantaloons on Paytm payments
+  * Valid on a minimum transaction of Rs.4000 & above
+  * Offer valid from 1st Sept - 30th Sept, 2017
   * This offer can be availed once during the offer period
   * Cashback will be credited within 48 hours
 
 
 
-Mobikwik E wallet offer (16th June - 31st July, 2017):
+SBI Cashback Offer (1st Sept - 15th Oct, 2017):
 
-  * Get flat 10% Super Cash @ Pantaloons on Mobikwik payments
-  * Maximum MobiKwik Super Cash is Rs.250
-  * Offer valid from 16th June - 31th July, 2017
-  * This offer can be availed once during the offer period
-  * Cashback will be credited within 48 hours
-
-
-
-CASH BACK OFFER - TERMS & CONDITIONS
-
-  * 5% Cash Back offer shall be available to all State Bank Debit and SBI Credit Cardholders shopping for a net value of Rs 3,000/- or above in one single transaction.
-  * Maximum available cashback is Rs 750/-
-  * Offer Period: 16th June 2017 - 30th July 2017 (Both days included)
-  * Cashback will be processed within 45 days or by 15th Sept 2017, after expiry of promotion period by SBI.
-  * This offer is valid for all State Bank Debit and SBI Credit Cardholders excluding SBI Corporate Credit Card with no outstanding of more than 30 days.
-  * State Bank Debit Cards refers to any Debit Card issued by o State Bank of India o State Bank of Hyderabad o State Bank of Bikaner and Jaipur o State Bank of Travancore o State Bank of Mysore o State Bank of Patiala 
-  * All customer queries on the offer should be raised during the offer period on or before 15th Octâ€™2017
-  * The cashback will be calculated at card level, ie: A cardholder who swipes his/her Card for a minimum value of Rs. 3,000/- or above can avail a 5% cashback on each qualifying transaction during the offer period.
-  * The offer is not transferable, non-negotiable and cannot be en-cashed.
-  * The processing responsibility of the applicable cash back lies on SBI and Pantaloons is not in any way liable/ responsible for this cash back offer.
-  * Any complaints whatsoever in relation to the offer would be addressed by SBI at their customer service number: Credit Cards: 1860 180 1290 or 1800 180 1290 Debit Cards: 1800-112-211 or 1800-425-3800
-  * Pantaloons reserve the right to withdraw and /or alter any of the terms and conditions and/or replace this scheme or parts thereof anytime without assigning any reason whatsoever.
+  * Extra 5% cash back on SBI Debit & Credit Cards on purchase of Rs.3500/- & above. Maximum cashback of Rs.750/-.
+  * Valid in : Kolkata, Durgapur, Siliguri, Asansol, Haldia, Bhubaneshwar, Guwahati, Silchar, Shillong, Gangtok
+  * Cash back amount will be processed by SBI 45 days after completion of Cashback promo, or by 1st Dec '17
 
 
