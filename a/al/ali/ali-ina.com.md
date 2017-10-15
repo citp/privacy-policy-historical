@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ali-ina.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090912id_/http%3A//www.ali-ina.com/en_alisha/site/index.php%3Fpage%3Dprivacy.php%26m%3D%26ref%3D%26site%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ali-ina.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015162246id_/http%3A//www.ali-ina.com/en_alisha/site/index.php%3Fpage%3Dprivacy.php%26m%3D%26ref%3D%26site%3Dus) for the most accurate reproduction.*
 
 # Alisha
 
@@ -38,6 +38,6 @@ However, the User has the option of preventing the use of cookies by changing th
 
 UNSUBSCRIBING 
 
-If the User no longer wants to receive e-mails from the Website, he/she can request this by following the unsubscribe link on all e-mails sent by the Website or by contacting the Website via the following address: customerserviceuk@ali-in.com
+If the User no longer wants to receive e-mails from the Website, he/she can request this by following the unsubscribe link on all e-mails sent by the Website or by contacting the Website via the following address: [customerserviceuk@ali-in.com](mailto:customerserviceuk@ali-in.com)
 
 The Company draws the User's attention to the fact that ending his/her subscription will mean that the links in any e-mails received from the Website beforehand will no longer be active. Consequently the User will no longer have access to products delivered in this way, if he/she did not save them on his/her computer. 
