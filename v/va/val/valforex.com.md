@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valforex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225901id_/https%3A//www.valforex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valforex.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015164545id_/https%3A//www.valforex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Valforex.com
 
-This Privacy Policy governs the manner in which VALFOREX LTD collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Valforex.com](https://web.archive.org/web/20170606225901id_/https%3A//www.valforex.com/Valforex.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by VALFOREX LTD.
+This Privacy Policy governs the manner in which VALFOREX LTD collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Valforex.com](https://www.valforex.com/privacy-policy/Valforex.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by VALFOREX LTD.
 
 **Personal identification information**
 
