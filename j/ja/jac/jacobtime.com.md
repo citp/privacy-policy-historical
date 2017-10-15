@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233939id_/https%3A//www.jacobtime.com/privacy.php%3FosCsid%3D63db6e2c35cff4c867f7d0e5ef4575a3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015150440id_/https%3A//www.jacobtime.com/privacy.php%3FosCsid%3Dfe48499575c14e1f0b75b03a27aa94c5) for the most accurate reproduction.*
 
 # Luxury Watches for Men and Women | JacobTime
 
