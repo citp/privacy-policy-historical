@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescoentertainment.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203655id_/http%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy/%3Ficid%3DPrivacyCookiesandPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescoentertainment.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015035305id_/http%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy/%3Ficid%3DPrivacyCookiesandPolicy) for the most accurate reproduction.*
 
 # Tesco – Privacy Policy
 
@@ -151,6 +151,8 @@ We make Clubcard information (including information about purchases when you use
 
 You can find more information about the way in which Tesco Bank use your data in their [privacy and cookies policy](http://www.tescobank.com/help/privacy-and-cookies/).
 
+We may also use data provided to us by Tesco Bank, for example information about the Tesco Bank products you hold, to improve our service and make our marketing communications more relevant to you.
+
 ### Tesco Mobile
 
 We make Clubcard information (including information about purchases when you use your Clubcard) and information about your online behaviour we have collected through cookies available to Tesco Mobile. This helps them to improve their service and make their marketing communications more relevant to you.
@@ -267,4 +269,13 @@ The law allows us to charge an administration fee of £10. If you write to us by
 
 We want to make sure that the personal data we hold about you is accurate and up to date. If any of the details are incorrect, please let us know and we will amend them.
 
-We reserve the right to change the policy at any time, so please check back regularly to keep informed of updates to this Policy.
+**If you have any questions about how we collect, store and use personal data please contact us**
+
+**Write to us at**  
+---  
+Tesco Customer Engagement Centre  
+Baird Avenue  
+Dundee  
+DD1 9NF   
+  
+We reserve the right to change the policy at any time, so please check back regularly to keep informed of updates to this Policy. 
