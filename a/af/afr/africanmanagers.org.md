@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanmanagers.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174031id_/http%3A//www.africanmanagers.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanmanagers.org privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015230044id_/http%3A//www.africanmanagers.org/pages/privacy) for the most accurate reproduction.*
 
 # African Management Initiative
 
