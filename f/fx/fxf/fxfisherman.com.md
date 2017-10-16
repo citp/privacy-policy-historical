@@ -1,81 +1,53 @@
-> *The following text is extracted and transformed from the fxfisherman.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025065314id_/http%3A//www.fxfisherman.com/forex/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxfisherman.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016200745id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
 
-# Forex Trading | MetaTrader Indicators and Expert Advisors - Privacy Policy
+# Privacy Policy
 
-This Privacy Policy Statement describes how the FxFisherman.com handles personal information that it receives through this web site. Throughout this Statement, “we” and “us” refer to the FxFisherman.com.
+Welcome to the website of MQL5.community!
 
-## Information Collection and Use
+Here you can familiarize yourself with our Privacy Policy regarding any personal information you provide via www.mql5.com. We are committed to safeguarding your personal data and information that you entrust to us via the Internet.
 
-### Registration
+By accessing and using this website, you are deemed to accept and be bound by this Privacy Policy, as well as [this website's Terms of Use](https://web.archive.org/en/about/terms).
 
-Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to the “members only” portion of the Web site and to subscribe to specific working groups. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.
+This website is not directed to children under the age of 13 and we do not knowingly collect any personal information from children under the age of 13 on this website. If we become aware that we have inadvertently received personal information from a visitor under the age of 13, we will delete such information from our records.
 
-The FxFisherman.com is the sole owner of the information collected on this Web site.
+### 1\. Links to Other Websites#
 
-### Member Billing
+This Privacy Policy only covers information collected on this website. This website may contain links to other websites which are not owned or controlled by us. We are not responsible for the privacy practices of such other websites. You should always be aware of this when you leave this website and we encourage you to read the privacy statements of each website you visit which collects personal information.
 
-In connection with applications for membership and membership billing, we collect contact information and financial information. We use this information for billing purposes and to process your membership application. If we have trouble processing your application or your billing instructions, we will use this information to contact you. 
+### 2\. Protection of Personal Information#
 
-### Controlled Materials
+Collection of Personal Information. We collect your personal information, including information that you provide when you register on www.mql5.com or associated services available on www.mql5.com, email us or subscribe to our website newsletters. "Personal information" is any data that can be used to uniquely identify a person, such as name, email address, phone number or credit card information.
 
-In certain instances, you may only obtain materials or information from this Web site if you provide contact information and other personally identifiable information. We use this information to identify who is receiving these materials and how they are being used. 
+Use of Personal Information. We use personal information provided to us electronically via our website to, inter alia, register users, administer and improve our website and associated services, to analyze the website statistics and the effectiveness of the terms of use, as well as for other purposes approved by you. We also use your personal information to communicate with you in other ways. For example, if you contact us via the website, we may use your personal information to respond. We may also use personal information to advise you of any material changes to this Privacy Policy.
 
-## Communications from the Web Site
+From time to time, we may offer optional questionnaires and surveys to our users which we use to obtain additional information. Participation in such surveys and subscription lists is completely voluntary so the website user has a choice whether or not to disclose any requested information. In addition to other purposes set out in this Privacy Policy, contact details collected in connection with surveys and questionnaires are used to mail you questionnaire and survey reports, as well as to monitor or improve the effectiveness of, and user satisfaction with, this website.
 
-### Generally
+Disclosure of Personal Information. We hire other companies or work in association with companies that provide services on our behalf, such as handling the processing and delivery of communications, hosting this website, delivery of content and services provided by this website, or performing statistical analysis. We may disclose personal information to those service providers in order to permit the efficient delivery of their services but they will be permitted to obtain only the personal information they need to deliver the service. They are obliged to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-We use the personally identifiable information we receive to provide member services to you by, for example, setting up working group subscriptions that you select, delivering member newsletters to you, and providing you with information about developments and events that we believe will be of interest to our members. You may subscribe or unsubscribe from each group at any time in order to control your receipt of working group communications. You may not unsubscribe from “all-members” communications as we use this channel of communication to provide information and materials that are necessary for membership. 
+Please keep in mind that whenever you voluntarily disclose your personal information in your profile, on forums and comments to publications, it becomes publicly available and can be viewed by other users.
 
-### Customer Service
+We may also use or disclose personal information about you for other purposes, including cases when we deem it necessary and appropriate in order to comply with the law or respond to lawful requests or legal process, to protect our rights, property, or personal security of our website users or the general public, to enforce our website's Terms of Use or other agreements, to investigate or take actions against illegal or suspected illegal activities, or in relation with a corporate transaction such as a demerger, merger, consolidation, sale of assets, or in the unlikely event of bankruptcy, or otherwise, as you may consent.
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+We may disclose the content of communications, messages and emails but we will not post or publish any personal information, and such information will not be shared with any third-party service providers without your consent, except as specified in this Privacy Policy. We will not sell, rent or lease our mailing lists to any third parties.
 
-## Information Sharing and Disclosure
+Access to Personal Information. If at any time after giving your personal information on this website you decide that you do not wish us to hold or use your Personal Information for any purpose, you can remove yourself from www.mql5.com user list by deleting your account or contacting us by email at support@mql5.com.
 
-### Aggregate Information (non-personally identifiable)
+Children's Privacy. We recognize the importance of protecting the information about children. Our website is directed to the general public and we do not knowingly collect any personal information from children under the age of 13. If and when age information is requested on our website, the website automatically blocks the receipt of any personal information from any user whose age is specified as being under 13 and rejects further registration of any such user as a website user.
 
-We may elect to share aggregated demographic information about our user base for purposes that support and promote the FxFisherman.com’s mission. This information does not identify individual users. We do not link aggregate user data with personally identifiable information. 
+### 3\. Non-Personal Information Policy#
 
-### Personally identifiable information:
+Our Non-Personal Information Practices. We may collect non-personal information about your visit to our website, including pages you have viewed, links you have clicked, as well as other actions related to your use of our website. Additionally, we may collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
 
-We disclose personally identifiable information of our members, namely their contact information, to other members to facilitate membership activities, particularly in the working groups. We do not share personally identifiable information with outside third parties. 
+Cookies. Cookies are small text files containing a string of numbers and letters that are placed on your hard disk every time you visit a certain webpage. These files allow to identify your browser when you visit the same website again. Cookies can store user settings and other information. You can set your browser to reject all cookies or to notify you when you receive a cookie. Please note however that some website features or services may not function properly without cookies. Any data collected in this manner cannot be used to individually identify website users. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-### Service Providers
+We use cookies to control the use of our website, collect non-personal information about our users, store your preferences and other information on your computer in order to save your time by eliminating the need to repeatedly enter the same information and to display your personalized content on your later visits to our website. This information is also used for statistical analysis to tailor content to usage patterns.
 
-We use other third parties to provide certain services, such as the hosting and maintenance of our Web site, event registration services, Web-based meetings and other services that we may elect to provide to our members. Some of these services are provided through the use of FxFisherman.com-branded or co-branded Web pages located on the service providers’ Web sites, which means that certain information you provide to the FxFisherman.com in connection with requested services will be delivered and stored on the service providers’ servers. When you sign up for specific services, or as required in connection with Web site hosting, maintenance and operation, we will share only that personally identifiable information that is necessary for the third party to provide the services. These third parties are prohibited from using your personally identifiable information for any other purpose. 
+Aggregate Data. We may combine personal information we collect from you with personal information provided by other users, in a non-identifiable format, thus creating aggregate data. We plan to analyze aggregate data mainly to identify group trends. We do not link aggregate user data with personal information and aggregate data can therefore not be used to contact or identify you. We will use user names instead of actual names when creating and analyzing aggregate data. For statistical purposes and tracking group trends, anonymous aggregate data may be shared with other companies with which we have relationships.
 
-### Legal Disclaimer
+### 4\. Changes to This Privacy Policy#
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We reserve the right to revise this Privacy Policy from time to time in part or in full. We encourage you to check our Privacy Policy from time to time to keep yourselves updated with the measures we take to protect your personal information. To view the latest version of our Privacy Policy, click on the <Privacy Policy> link at the foot of our home page. Often, when changes are made to this Privacy Policy, we also revise the "last updated" date at the top of the Privacy Policy but we may not always give other notices of changes. If we make a change to this policy that, in our sole discretion, is material, we will notify you thereof by placing a prominent preliminary notice or by directly sending you a notification to the email address associated with your account. By continuing to access or use the website after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-## Log Files
+### 5\. Contact Us#
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information and we do not provide it to third parties. 
-
-## Cookies and Clear GIFs (Web Beacons/Web Bugs)
-
-A “cookie” is a small text file that is stored on a user’s computer for record-keeping purposes. A “clear GIF,” also known as a “Web beacon” or “Web bug,” is a transparent graphic image that can be used to monitor a user’s interaction with a Web site. Our Web site analytics software, which analyzes traffic to our Web site and each user’s interaction with our Web site, uses a combination of log files, cookies and clear GIFs to provide us with analytical information that we use to improve the efficiency of our Web site in an effort to improve user experience. We do not seek to link this information to personal information about specific users and do not provide this information to third parties. This privacy statement covers the use of cookies by the FxFisherman.com Web site only. 
-
-## Links to Other Sites
-
-This Web site contains links to other sites that are not owned or controlled by the FxFisherman.com. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
-
-## Member and Public Forums: Bulletin Boards/Chat Rooms/Blogs
-
-Members of working groups have access to mechanism for posting or distributing messages to other members of their groups. In addition, we may elect to provide bulletin board, chat room or blog functionality on our Web site from time to time. If you use any of these forums, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
-
-## Access to Personally Identifiable Information
-
-As a member, if your personally identifiable information changes, you may correct or update it by making changes to your member profile or by contacting us by e-mail, telephone or mail at the contact information listed at [Contact Us Page](http://www.fxfisherman.com/forums/sendmessage.php "contact us"). 
-
-## Security
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at support@fxfisherman.com. 
-
-## Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
-
-## Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.fxfisherman.com/forums/sendmessage.php "contact us").
+If you have any questions, comments or concerns about our Privacy Policy, please contact us by email at support@mql5.com
