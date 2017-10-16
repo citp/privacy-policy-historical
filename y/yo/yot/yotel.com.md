@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123511id_/http%3A//www.yotel.com/en/information/privacy-policy-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016194629id_/http%3A//www.yotel.com/en/information/privacy-policy-data) for the most accurate reproduction.*
 
-# Affordable Luxury Hotels | YOTEL
+# Privacy Policy & data | Affordable Luxury Hotels | YOTEL
 
 This website is owned and run by Yotel Limited (trading as) YOTEL. YOTEL is committed to protecting your privacy in accordance with its obligations under the Data Protection Act 1998. This privacy policy explains what information we collect about you and how it will be used. When you access and use this website you agree to be legally bound by our terms and conditions as well as our privacy policy outlined below. We respect your privacy and will continue to do so in the online world.
 
