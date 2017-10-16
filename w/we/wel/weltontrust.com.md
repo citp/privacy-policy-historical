@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weltontrust.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401133047id_/http%3A//welton.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weltontrust.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016222614id_/http%3A//welton.com/privacy-policy) for the most accurate reproduction.*
 
-# Welton: Privacy Policy
+# Privacy Policy | Welton
 
-Welton Investment Partners believes that protecting the privacy of your nonpublic information is of utmost importance and, therefore, we are committed to maintaining the privacy of the nonpublic personal information we obtain from you and from other sources about you in the course of providing you with our products and services. Accordingly, we are providing you with the following information relating to Welton's Privacy Policy and Procedures.
+~~~~Welton Investment Partners believes that protecting the privacy of your nonpublic information is of utmost importance and, therefore, we are committed to maintaining the privacy of the nonpublic personal information we obtain from you and from other sources about you in the course of providing you with our products and services. Accordingly, we are providing you with the following information relating to Welton’s Privacy Policy and Procedures.
 
 **Information we collect and sources of information**
 
@@ -24,4 +24,4 @@ We maintain physical, electronic and procedural safeguards in order to guard you
 
 We may amend this policy at any time and we will inform you of changes as required by law.
 
-If you have any questions regarding our Privacy Policy or if the information we have about you has changed, please contact us at [inquiries@welton.com](mailto:inquiries@welton.com?subject=Privacy%20Policy%20) or at (831) 626-5190.
+If you have any questions regarding our Privacy Policy or if the information we have about you has changed, please contact us at [inquiries@welton.com](mailto:inquiries@welton.com) or at (831) 626-5190.
