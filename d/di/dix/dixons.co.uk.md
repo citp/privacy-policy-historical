@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611222051id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016155139id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
@@ -350,7 +350,7 @@ Last updated: 07.08.2012
 
 ### Who we are
 
-In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys PC World and Knowhow, company number 504877, registered office 1 Portal Way, London, W3 6RS.
+In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys PC World and Team Knowhow, company number 504877, registered office 1 Portal Way, London, W3 6RS.
 
 * * *
 
@@ -380,7 +380,7 @@ guarantee records and to provide pre and after-sales service (we may pass your d
 
 (3) to comply with legal requirements We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys PC World, Carphone Warehouse and Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
+We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys PC World, Carphone Warehouse and Team Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
 
 * * *
 
