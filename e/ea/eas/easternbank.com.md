@@ -1,55 +1,146 @@
-> *The following text is extracted and transformed from the easternbank.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225205824id_/http%3A//www.easternbank.com/p_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easternbank.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016032845id_/https%3A//www.easternbank.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Eastern Bank - Privacy Policy
+# Privacy Policy | Eastern Bank
 
-| 
+[](https://web.archive.org/site/corporate_pages/forms/Pages/PrivacyOptOut.aspx)
 
-PRIVACY POLICY
+If you wish to print a copy of our privacy policy for your records, please use our printer-friendly version.
 
-_At Eastern Bank, Keeping Customer Information Secure is a Priority_
+Revised: January 2017
 
-At Eastern Bank the basis of each customer relationship is trust. Since you have chosen to do business with Eastern Bank, we are obligated to honor that relationship with great care, particularly with the information that you share with us. We believe that customer privacy should not be compromised. At the same time, we want to offer you a broad array of financial products and services that will help you attain your financial goals. Accordingly, we want you to understand what information we gather and how we use it.  
+[Privacy Policy](https://web.archive.org/sites/default/files/2017-02/PrivacyNotice.pdf)  
+[Privacy Policy (en Español)](https://web.archive.org/sites/default/files/2017-02/privacy-policy-spanish.pdf)
+
+Why? | 
+
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
   
-What Information We Collect  
-“Nonpublic personal information” is nonpublic information about you that we obtain in connection with providing a financial product or service to you. For example, nonpublic personal information includes information regarding your account balances, account activity, and payment history. We collect the following types of nonpublic personal information:
+---|---  
+What? | 
 
-  * Information we receive from you on applications or other loan and account forms; 
-  * Information about your transactions with us, our affiliates, or others; and 
-  * Information we receive from third parties, such as credit bureaus. 
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+
+  * Social Security number and income
+  * Account balances and payment history
+  * Credit history and credit scores
+
+  
+---|---  
+How? | 
+
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Eastern chooses to share; and whether you can limit this sharing.  
+  
+---|---  
+Reasons we can share your personal information | Does Eastern Share? | Can you limit this sharing?  
+---|---|---  
+  
+**For our everyday business purposes -** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+
+| YES | NO  
+  
+**For our marketing purposes -** to offer products and services to you
+
+| YES | NO  
+  
+**For joint marketing with other financial companies**
+
+| YES | NO  
+  
+**For our affiliates' everyday business purposes -** information about your transactions and experiences
+
+| YES | NO  
+  
+**For our affiliates' everyday business purposes -** information about your creditworthiness
+
+| YES | YES  
+  
+**For our affiliates to market to you**
+
+| YES | YES  
+  
+**For our nonaffiliates to market to you**
+
+| YES | YES  
+To limit our sharing | 
+
+  * Call **1-800-EASTERN (327-8376)** —press 3 to speak to a banking representative
+  * Visit us online: [easternbank.com/privacyoptout](https://web.archive.org/site/corporate_pages/forms/Pages/PrivacyOptOut.aspx)
 
 
 
-To Whom We Disclose Information  
-We may share nonpublic personal information about you with companies related to us by common control or ownership (“affiliates”) and, in certain circumstances, with third parties that are not members of our corporate family (“nonaffiliated third parties”). Our “affiliates” include financial service providers, such as investment advisors and insurance agents. These disclosures enable us to provide you with superior customer service and a broad range of financial products and services that we believe add value to your relationship with us.
+**Please note:**
 
-What Information We Disclose To Third Parties  
-Under the Federal Fair Credit Reporting Act, we are permitted to share information about your transactions with us (such as your name, address, loan and account balances, and payment history) with our affiliates.
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
-We also disclose the following types of information to financial institutions with which we have joint marketing arrangements (such as insurance companies and agencies, banks, and securities brokers):
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+Questions? | 
 
-  * Information we receive from you on applications or other loan and account forms, such as property or automobiles you own; 
-  * Information about transactions with us, our affiliates, or others, such as your account balance, payment history, and parties to transactions; and 
-  * Information we receive from credit bureaus, such as your creditworthiness and your payment history. 
+Call 1-800-EASTERN (327-8376)  
+  
+---|---  
+Who we are  
+---  
+**Who is providing this notice?** | Eastern Bank Corporation ("Eastern")  
+What we do  
+---  
+**How does Eastern protect my personal information?** | 
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
+
+We will safeguard any information you share with us. In addition, we will limit the collection and use of nonpublic personal information to the minimum required to provide you with superior products or services. We restrict access to your personal account information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state standards to guard your nonpublic personal information.  
+  
+**How does Eastern collect my personal information?** | 
+
+We collect your personal information, for example, when you
+
+  * Open an account or deposit money
+  * Pay your bills or apply for a loan
+  * Use your credit or debit card
 
 
 
-Finally, we may disclose nonpublic personal information about you to nonaffiliated third parties in certain other circumstances as permitted by law, such as third party vendors that assist us in servicing your loan or deposit account, to government entities in response to subpoenas, and to credit bureaus. 
+We also collect your personal information from others, such as credit bureaus and/or affiliates.  
+  
+**Why can't I limit all sharing?** | 
 
-_**We do not share customer information with nonaffiliated third parties for their independent use in marketing their products.**_
+Federal law gives you the right to limit only
 
-Our Policy With Respect To Former Customers  
-We follow the same privacy policies and practices for former customers as are described in this notice.
+  * Sharing for affiliates’ everyday business purposes—information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you
 
-Our Security Procedures  
-We will safeguard any information you share with us. In addition, we will limit the collection and use of nonpublic personal information to the minimum required to provide you with superior products or service. We restrict access to your personal account information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
 
-Nonaffiliated Third Party Web Sites  
-Eastern Bank is not responsible for the products and services, policies, security or content of nonaffiliated third party web sites that you may link to from easternbank.com. You should review the terms of use and privacy policy of these nonaffiliated web sites before providing confidential information.
 
-If you have questions or concerns about our policy, please e-mail us at [ info@easternbk.com](mailto:info@easternbk.com) or write to us at:
+State laws and individual companies may give you additional rights to limit sharing.  
+  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | An opt-out direction from you will apply to all of the associated account holders for the account numbers you have listed on the Opt Out Form.  
+Definitions  
+---  
+**Affiliates** | 
 
-Eastern Bank – Customer Service Center  
-Post Office Box 391  
-Lynn, MA 01903-0461
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-| 
+  * _Our affiliates include companies with the “Eastern” or “Eastern Bank” name that are under common control with us; nonfinancial companies such as Eastern Insurance Group, LLC, an insurance agency and brokerage firm; and others._
+
+  
+**Nonaffiliates** | 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _Nonaffiliates we share with include government entities in response to subpoenas and other legal processes, credit bureaus, mortgage companies, credit card companies, companies providing servicing, processing, accounting, or similar types of functions, companies originating loans or loan applications, marketing companies, securities brokers, insurance companies, and other financial institutions._
+
+  
+**Joint Marketing** | 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  * _Our joint marketing partners include insurance companies, banks, credit card companies, securities brokers, and financial institutions._
+
+  
+Other important information  
+---  
+  
+Our Policy with Respect to Former Customers: We follow the same privacy policies and practices for former customers as are described in this notice.   
+**_Note: If you have already opted-out you do not need to do so again._**
