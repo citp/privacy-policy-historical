@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172200id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016080004id_/https%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DigitalChalk
 
@@ -34,7 +34,7 @@ DigitalChalk and its parent company Infinity Learning Solutions, Inc participate
 
 DigitalChalk is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DigitalChalk complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DigitalChalk is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, DigitalChalk may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Additionally, DigitalChalk commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of an employment relationship.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DigitalChalk is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, DigitalChalk may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Additionally, DigitalChalk commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of an employment relationship.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at: <https://feedback-form.truste.com/watchdog/request>
 
