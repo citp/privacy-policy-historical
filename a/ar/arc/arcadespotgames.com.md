@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadespotgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130145id_/http%3A//www.arcadespotgames.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadespotgames.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016231010id_/http%3A//www.arcadespotgames.com/Privacy) for the most accurate reproduction.*
 
 # Arcade Spot Games - Privacy
 
