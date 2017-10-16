@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531202418id_/http%3A//www.hopkinsmedicine.org/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016224549id_/http%3A//www.hopkinsmedicine.org/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
+
+* * *
 
 All health and health-related information contained within this Johns Hopkins Medicine Web site is intended to be general in nature and should not be used as a substitute for a visit with a health care professional. The advice is intended to offer only a general basis for individuals to discuss their medical condition with their health care provider. Your health care provider should be consulted regarding matters concerning the medical condition, treatment and needs of you and your family.
 
