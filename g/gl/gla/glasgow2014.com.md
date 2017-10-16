@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608220124id_/http%3A//www.glasgow2014.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016220213id_/http%3A//www.glasgow2014.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Glasgow 2014 - Commonwealth Games
 
