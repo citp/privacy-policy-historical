@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corndogs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630135022id_/http%3A//www.corndogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corndogs.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016024412id_/http%3A//www.corndogs.com/privacy-policy) for the most accurate reproduction.*
 
-# State Fair Corn Dogs | Privacy Policy
+# Privacy Policy | State Fair Corn Dogs
 
 Tyson Foods' policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
 
