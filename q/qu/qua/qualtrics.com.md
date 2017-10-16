@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630140943id_/https%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016180454id_/https%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Qualtrics
 
-Updated December 9, 2016 
+Updated August 21, 2017 
 
-This privacy statement explains how Qualtrics handles personal data collected during the normal course of business (sales, marketing, and support), as well as how data are processed in its products and services.Qualtrics participates in the EU-U.S. Privacy Shield framework, and retained the American Arbitration Association/International Centre for Dispute Resolution.
+This privacy statement explains how Qualtrics handles personal data collected during the normal course of business (sales, marketing, and support), as well as how data are processed in its products and services. Qualtrics participates in the EU-U.S. Privacy Shield framework, and retained the American Arbitration Association/International Centre for Dispute Resolution.
 
 ### Qualtrics products
 
@@ -22,17 +22,17 @@ Qualtrics does not sell or make available specific information about our custome
 
 ### Data collected by customers
 
-For this section, customers are end-users with valid Qualtrics accounts. Customers own and control all information they input into the Qualtrics software (“Data”), and any information generated from that Data. Depending on how the Customer chooses to use the software, Data may include personal information. Customers manage all Data, as well as the users who create, manage, distribute, or report the Data.
+For this section, customers are end-users with valid Qualtrics accounts. Customers own and control all information input into the Qualtrics software or generated on behalf of customers in connection with the Services (“Data”). Depending on how the Customer chooses to use the software, Data may include personal information. Customers manage all Data, as well as the users who create, manage, distribute, or report the Data.
 
 Qualtrics treats all Data as highly confidential and does not classify or represent the Data because only the Customer itself knows what data it’s collecting. In other words, Qualtrics provides the services, and Customers use the services as they wish. All Data are safeguarded using industry best security practices that prevent unlawful disclosure.
 
 Qualtrics is presently undergoing certification under the FedRAMP program, the “gold standard” of security compliance. FedRAMP has over 900 controls based on the highly-regarded NIST 800-53, and requires constant monitoring and periodic independent assessments. More information is found at <https://www.fedramp.gov/marketplace/in-process-systems/qualtrics-qualtrics-insight-platform/>
 
-Qualtrics will only process Data for the sole purpose of providing the software and services. Customers must ensure that they follow applicable laws when distributing surveys. This includes following applicable law when collecting personal and health information, preventing unsolicited emails from being sent, and deleting personal information when no longer required.
+Qualtrics will process Data for the purpose of providing the software and services to customers. Qualtrics may also anonymize and/or aggregate the Data and use such anonymized and/or aggregated data for its business purposes, including but not limited to deriving statistical, usage data, and other data related to the functionality of the software and the services, improving the software and the services, developing and making available other products and services, and sharing such data with affiliates and business partners, and may combine or incorporate it with or into other data and information available, derived or obtained from other licensees, users, and/or any other sources. Customers must ensure that they follow applicable laws when distributing surveys. This includes following applicable law when collecting personal and health information, preventing unsolicited emails from being sent, and deleting personal information when no longer required.
 
 Qualtrics will never transfer Data to a third-party without the written permission of the customer. In other words, _there is no onward transfer_.
 
-Qualtrics employees do not actively view Customer Data. Any access to Customer accounts requires consent by the end-user, and any exposure to personal information is incidental to providing the services. Customers have the ability to disable Qualtrics support from accessing their accounts. But by doing so, it may hinder timely responses and the quality of support.
+Qualtrics employees do not actively view Data. Any access to Customer accounts requires consent by the end-user, and any exposure to personal information is incidental to providing the services. Customers have the ability to disable Qualtrics support from accessing their accounts. But by doing so, it may hinder timely responses and the quality of support.
 
 ### Complaints and inquiries
 
@@ -42,7 +42,7 @@ If you are an EU citizen, and have questions about your personal information tha
 
 General inquiries regarding this policy, or any complaints regarding surveys that are unresolved by the survey creator, may be sent to Qualtrics Support by visiting <https://www.qualtrics.com/support/> and clicking on “Contact Us” or by calling the number listed on the main [www.qualtrics.com](https://www.qualtrics.com/) web site. There is no charge for this inquiry.
 
-Qualtrics has a team of legal and technical staff to maintain compliance with this policy. For legal inquiries, please contact: 
+Qualtrics has a team of legal and technical staff to maintain compliance with this policy. For legal inquiries, please contact: 
 
 _Independent Recourse Mechanism_ : Any disputes are handled by the International Centre for Dispute Resolution (details below). Inquiries are free of charge.
 
