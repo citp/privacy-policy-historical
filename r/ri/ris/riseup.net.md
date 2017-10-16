@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307075039id_/https%3A//riseup.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017003433id_/https%3A//riseup.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - riseup.net
 
