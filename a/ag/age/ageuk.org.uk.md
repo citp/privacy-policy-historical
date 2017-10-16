@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084113id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016175039id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Age UK
 
