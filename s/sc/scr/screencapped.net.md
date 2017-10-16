@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencapped.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607235532id_/http%3A//screencapped.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencapped.net privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017015433id_/http%3A//screencapped.net/privacy-policy) for the most accurate reproduction.*
 
 # Screencapped.net — Privacy Policy
 
