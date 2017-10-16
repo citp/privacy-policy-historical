@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjibo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220532id_/https%3A//www.jibo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjibo.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016205757id_/https%3A//www.jibo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Jibo
 
@@ -68,7 +68,7 @@ Pixel tags enable us to send email messages in a format customers can read, and 
 
 ##### Strategic Partners
 
-At times Jibo may make certain personal information available to strategic partners that work with Jibo to provide Products and services, or that help Jibo market to customers. Personal information will only be shared by Jibo to provide or improve our Products, and services; it will not be shared with third parties for their marketing purposes.
+At times Jibo may make certain personal information available to strategic partners that work with Jibo to provide Products and services, or that help Jibo market to customers. Personal information will not be shared with third parties for their marketing purposes.
 
 ##### Service Providers
 
@@ -142,9 +142,12 @@ Jibo may update its Privacy Statement from time to time. When we change the poli
 
 If you have any questions about this privacy statement, our information practices, or your dealings with the Jibo website, please [contact us](https://web.archive.org/contact-us):
 
-Jibo, Inc.  
-230 Congress Street  
-Boston, MA 02110 USA  
+Jibo, Inc.
+
+230 Congress Street
+
+Boston, MA 02110 USA
+
 Attn: Privacy
 
 [privacy@jibo.com](mailto:privacy@jibo.com)
