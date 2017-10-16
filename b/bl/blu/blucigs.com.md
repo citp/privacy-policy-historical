@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716224142id_/https%3A//www.blucigs.com/on/demandware.static/-/Sites-Blu-US-Library/default/dwc49dad50/files/PrivacyPolicy_US.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016223738id_/https%3A//www.blu.com/on/demandware.static/-/Library-Sites-Library-Blu-Redesign/default/dw64a8d1e5/files/PrivacyPolicy_US.pdf) for the most accurate reproduction.*
 
-# Choice/Opt-out
+# 
 
 blu has created this privacy policy in order to demonstrate our       Choice/Opt-out
 firm commitment to privacy. The following discloses our informa-      As an individual, you have the opportunity to limit the personal
@@ -19,8 +19,8 @@ Customer Service Department: 1.888.207.4588                           gistration
                                                                       your name and email address. We use this information to contact
 Submit a Customer Service inquiry                                     you about the services on our site in which you have expressed
                                                                       interest. blu is the sole owner of the information collected on
-                                                                      www.blucigs.com. blu collects personally identifiable information
-Cookies                                                               from our users at several different points on our Web site.
+                                                                      www.blu.com. blu collects personally identifiable information from
+Cookies                                                               our users at several different points on our Web site.
 blu uses session cookies to make it easier for you to navigate our
 site. A cookie is a small text file that is stored on a user’s compu- Access to Personally Identifiable Information
 ter for record-keeping purposes. We use cookies on this site. We      If your personally identifiable information changes, or if you no
@@ -46,7 +46,7 @@ contact information from the registration form to send the user       monitor si
 special offers and updates from blu. The customer’s contact infor-    mous information collected in surveys), and send participants an
 mation is also used to contact the person when necessary.             email newsletter. We may also use this information for publicity
                                                                       or marketing purposes. We may publish this information in our
-                                                                                                                blu™ Privacy Policy US  1
+                                                                                                               blu™ Privacy Policy US   1
 
 
 sole discretion. The rules applicable to any individual survey or      Our site uses a secure online ordering system that enables clients
@@ -57,17 +57,17 @@ any information.                                                       purposes 
 We may use a third party service provider to conduct these sur-        reason.
 veys or contests; that company is prohibited from using our users’
 personally identifiable information for any other purpose. We          Security
-will not share the personally identifiable information you provide     The security of your personal information is important to us.
-through a contest or survey with other third parties unless we give    When you enter sensitive information (such as credit card num-
-you prior notice and choice.                                           ber and/or social security number) on our registration or order
-                                                                       forms, we encrypt that information using secure socket layer tech-
-                                                                       nology (SSL). To learn more about SSL, follow this link: Verisign.
+will not share the personally identifiable information you provide     The security of your personal information is important to us. When
+through a contest or survey with other third parties unless we give    you enter sensitive information (such as credit card num- ber
+you prior notice and choice.                                           and/or social security number) on our registration or order forms,
+                                                                       we encrypt that information using secure socket layer tech- nology
+                                                                       (SSL). To learn more about SSL, follow this link: Verisign.
 Uses of Information
                                                                        We follow generally accepted industry standards to protect the
 Email                                                                  personal information submitted to us, both during transmission
 blu members and affiliates receive periodic email notices that         and once we receive it. No method of online transmission or
-include exclusive special offers and information about sales, pro-     electronic storage is 100% secure, however. Therefore, while
-motions, new releases, and other relevant information. If you no       we strive to use commercially acceptable means to protect your
+include exclusive special offers and information about sales, pro-     electronic storage is 100% secure, however. Therefore, while we
+motions, new releases, and other relevant information. If you no       strive to use commercially acceptable means to protect your
 longer wish to receive these emails, you may opt out by updating       personal information, we cannot guarantee its absolute security.
 your Email Preferences.
                                                                        If you have any questions about security on our web site, you can
