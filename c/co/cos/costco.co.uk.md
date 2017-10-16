@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090554id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016101943id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
 
 # Your Rights | Costco UK
 
@@ -111,7 +111,7 @@ Online account information is accessible only by using a password. You must keep
 
 We give you choices related to your personal information, and numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members.
 
-We will not send you promotional emails or SMS (text) messages unless you explicitly consent to receive them. If you wish to give or withdraw your consent or update your online account information, or if you have questions concerning our information practices, you may call our Customer Care Centre on Freehone **0800 0324 324** , or access "My Account" if you are a registered user of costco.co.uk.
+We will not send you promotional emails or SMS (text) messages unless you explicitly consent to receive them. If you wish to give or withdraw your consent or update your online account information, or if you have questions concerning our information practices, you may call our Customer Care Centre on Freephone **0800 0324 324** , or access "My Account" if you are a registered user of costco.co.uk.
 
 Your choice not to receive promotional materials means that we also will not share your information with our providers of Services.
 
@@ -147,7 +147,7 @@ In general, you do not need to provide any personal information to connect with 
 
 Providers who supply the technology necessary for us to provide the app may share in the receipt of automatically collected information. We restrict their use of Personal Information to the purpose of providing services to Costco. In addition, you should review the privacy statements published by your mobile carrier and by your device manufacturer. Either or both of them also may automatically collect information. Costco does not have access to information you provide to or that is automatically collected by these third parties.
 
-Our apps and mobile site may provide links to Costco service providers (see [Member Services](http://warehouses.costco.co.uk/membership/services/)) and other third parties (see Links to Other Sites).
+Our apps and mobile site may provide links to Costco service providers (see Member Services) and other third parties (see Links to Other Sites).
 
 
 
@@ -240,7 +240,7 @@ We offer three ways to shop:
 
 **Costco Members:** If you are a Costco Member you may shop online by entering your member number at checkout. As a Costco Member you do not pay any surcharge on website purchases. If you are an Executive Member your online purchases qualify toward your annual reward. [Find out to see if you qualify for membership](http://www.warehouses.costco.co.uk/membership/).
 
-**Subscribers:** You may become a Costco Online Subscriber. When you make your first purchase, at checkout you may opt to subscribe by paying an annual fee. Subscribers do not pay any surcharge on website purchases. When making your first purchase after expiry, you will be given an oppportunity to renew your subscription for an additional year. Subscribers must be eighteen years of age or older.
+**Subscribers:** You may become a Costco Online Subscriber. When you make your first purchase, at checkout you may opt to subscribe by paying an annual fee. Subscribers do not pay any surcharge on website purchases. When making your first purchase after expiry, you will be given an opportunity to renew your subscription for an additional year. Subscribers must be eighteen years of age or older.
 
 **Surcharge:** If you are neither a Costco Member nor a Subscriber, you may shop www.Costco.co.uk by paying a 5% surcharge on all purchases. This charge will be added automatically to your purchase at check-out.
 
