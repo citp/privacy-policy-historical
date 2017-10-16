@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporfi.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417001051id_/https%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporfi.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016225328id_/https%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
 
 # VaporFi | Privacy Policy
 
@@ -6,7 +6,7 @@ Effective September 1, 2013
 
 #### Website Privacy Policy & Terms of Use
 
-Click here for our Terms of Use
+[Click here for our Terms of Use](https://www.vaporfi.com/terms.html)
 
 VaporFi electronic cigarette products are intended for use exclusively by adult smokers and in no way ever intended for use by pregnant women or those who have nicotine sensitivities. Nicotine, as it is commonly known, is a highly addictive substance and may possess unknown health dangers. VaporFi electronic cigarettes are not intended for use as smoking cessation devices; they are merely alternatives for those who wish to use smoke-free, tobacco-free devices that provide utmost pleasure.
 
