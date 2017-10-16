@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drpeppertuition.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505113351id_/http%3A//www.drpeppersnapplegroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drpeppertuition.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016080956id_/http%3A//www.drpeppersnapplegroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Dr Pepper Snapple Group
 
