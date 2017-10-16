@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627203028id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016200745id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ By accessing and using this website, you are deemed to accept and be bound by th
 
 This website is not directed to children under the age of 13 and we do not knowingly collect any personal information from children under the age of 13 on this website. If we become aware that we have inadvertently received personal information from a visitor under the age of 13, we will delete such information from our records.
 
-### 1\. Links to Other Websites
+### 1\. Links to Other Websites#
 
 This Privacy Policy only covers information collected on this website. This website may contain links to other websites which are not owned or controlled by us. We are not responsible for the privacy practices of such other websites. You should always be aware of this when you leave this website and we encourage you to read the privacy statements of each website you visit which collects personal information.
 
-### 2\. Protection of Personal Information
+### 2\. Protection of Personal Information#
 
 Collection of Personal Information. We collect your personal information, including information that you provide when you register on www.mql5.com or associated services available on www.mql5.com, email us or subscribe to our website newsletters. "Personal information" is any data that can be used to uniquely identify a person, such as name, email address, phone number or credit card information.
 
@@ -34,7 +34,7 @@ Access to Personal Information. If at any time after giving your personal inform
 
 Children's Privacy. We recognize the importance of protecting the information about children. Our website is directed to the general public and we do not knowingly collect any personal information from children under the age of 13. If and when age information is requested on our website, the website automatically blocks the receipt of any personal information from any user whose age is specified as being under 13 and rejects further registration of any such user as a website user.
 
-### 3\. Non-Personal Information Policy
+### 3\. Non-Personal Information Policy#
 
 Our Non-Personal Information Practices. We may collect non-personal information about your visit to our website, including pages you have viewed, links you have clicked, as well as other actions related to your use of our website. Additionally, we may collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
 
@@ -44,10 +44,10 @@ We use cookies to control the use of our website, collect non-personal informati
 
 Aggregate Data. We may combine personal information we collect from you with personal information provided by other users, in a non-identifiable format, thus creating aggregate data. We plan to analyze aggregate data mainly to identify group trends. We do not link aggregate user data with personal information and aggregate data can therefore not be used to contact or identify you. We will use user names instead of actual names when creating and analyzing aggregate data. For statistical purposes and tracking group trends, anonymous aggregate data may be shared with other companies with which we have relationships.
 
-### 4\. Changes to This Privacy Policy
+### 4\. Changes to This Privacy Policy#
 
 We reserve the right to revise this Privacy Policy from time to time in part or in full. We encourage you to check our Privacy Policy from time to time to keep yourselves updated with the measures we take to protect your personal information. To view the latest version of our Privacy Policy, click on the <Privacy Policy> link at the foot of our home page. Often, when changes are made to this Privacy Policy, we also revise the "last updated" date at the top of the Privacy Policy but we may not always give other notices of changes. If we make a change to this policy that, in our sole discretion, is material, we will notify you thereof by placing a prominent preliminary notice or by directly sending you a notification to the email address associated with your account. By continuing to access or use the website after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-### 5\. Contact Us
+### 5\. Contact Us#
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us by email at support@mql5.com
