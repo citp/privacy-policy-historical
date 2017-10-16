@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xhamsterpremiumpass.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630191954id_/http%3A//xhamsterpremiumpass.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhamsterpremiumpass.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016150338id_/http%3A//xhamsterpremiumpass.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
