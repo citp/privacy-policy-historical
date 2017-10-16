@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623032259id_/http%3A//www.cnhi.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017012126id_/http%3A//www.cnhi.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | cnhi.com
 
