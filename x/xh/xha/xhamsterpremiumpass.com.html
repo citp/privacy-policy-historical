@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xhamsterpremiumpass.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630191954id_/http%3A//xhamsterpremiumpass.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xhamsterpremiumpass.com privacy policy that was archived on 2017-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171016150338id_/http%3A//xhamsterpremiumpass.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -7,9 +7,11 @@
 <meta name="description" content="Privacy Policy">
 <link href="http://static.xhamsterpremiumpass.com/css/premium.2.css?32" media="screen" rel="stylesheet" type="text/css">
 <link href="http://static.xhamsterpremiumpass.com/css/tpl2.support.css?32" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.xhamsterpremiumpass.com/css/modal.css?32" media="screen" rel="stylesheet" type="text/css">
 <script language="javascript" type="text/javascript" src="http://static.xhamsterpremiumpass.com/js/jquery-1.9.1.min.js?32"></script>
 <script language="javascript" type="text/javascript" src="http://static.xhamsterpremiumpass.com/js/tpl2.premium.js?32"></script>
 <script language="javascript" type="text/javascript" src="http://static.xhamsterpremiumpass.com/js/tpl2.support.js?32"></script>
+<script language="javascript" type="text/javascript" src="http://static.xhamsterpremiumpass.com/js/modal.js?32"></script>
 <script type="text/javascript">
 var root = 'http://xhamsterpremiumpass.com';
 var rootH = root;
@@ -142,6 +144,50 @@ For www.xhamsterpremiumpass.com please contact us via email support@xhamsterprem
     </div>
 
 <table id="hint" class="hintBox"><tbody><tr><td><div class="box"><div class="txt"></div></div><div class="arrow"></div></td></tr></tbody></table>
+<div class="lightbox">
+    <div class="heading">
+        <h2>Welcome to xHamster Premium Pass!</h2>
+    </div>
+    <div class="holder">
+        <img width="184" height="368" alt="" src="http://static.xhamsterpremiumpass.com/images/premium2/disclamer.model.png">
+        <div class="description">
+            <p>xHamsterPremiumPass.com is a premium section of xHamster, it contains full-length DVDs that aren't available on a free site. All videos will be in crystal clear quality for one price and with one membership!</p>
+            <strong class="label">You'll get access the following features:</strong>
+            <ul class="list">
+                <li><span>Download all videos</span></li>
+                <li><span>34,006 full DVDs</span></li>
+                <li><span>193,189 HQ scenes</span></li>
+                <li><span>No Ads and Pop-Unders</span></li>
+                <li><span>100% secure and confidential</span></li>
+            </ul>
+        </div>
+    </div>
+    <a class="btn-continue" href="#" id="disclamerClose">Continue</a>
+    <div class="bottom-section">
+        <p>CommerceGate &amp; SegPay is the Authorized Sales Agents</p>
+        <p>Your xhamsterpremiumpass.com does not provide access to videos depicting the following: <br>Rape/Brutality, Incest, Pedophilia, Bestiality, Necrophilia, Drugged/Incapacitation, and Blood/Mutilation</p>
+        <p>Videos from http:/xhamster.com are not necessarily available with your http://xhamsterpremiumpass.com membership.</p>
+        <ul>
+            <li><a href="http://xhamsterpremiumpass.com/2257.html">2257</a></li>
+            <li><a href="http://xhamsterpremiumpass.com/contact.html">Support</a></li>
+            <li><a href="http://xhamsterpremiumpass.com/billing.html">Billing Support</a></li>
+            <li><a href="http://xhamsterpremiumpass.com/terms.html">Terms and conditions</a></li>
+            <li><a href="http://xhamsterpremiumpass.com/policy.html">Privacy Policy</a></li>
+        </ul>
+    </div>
+</div>
+<div class="overlay"></div>
+<script>
+$().ready(function(){
+    $('#disclamerClose, #disclamerClose2').bind('click',function(){
+        $('.lightbox, .overlay').hide();
+        var expires = new Date();
+        expires.setTime( expires.getTime() + 3600*24*1000 );
+        document.cookie = 'disclamer=1; expires=' + expires.toGMTString() + '; path=/';
+        return false;
+    });
+});
+</script>
 
 
 </body></html>
