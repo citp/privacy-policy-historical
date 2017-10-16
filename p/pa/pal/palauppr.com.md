@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palauppr.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415075719id_/https%3A//www.palauppr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palauppr.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016150629id_/https%3A//www.palauppr.com/privacy-policy) for the most accurate reproduction.*
 
 # Palau Pacific Resort :: Privacy Policy
 
