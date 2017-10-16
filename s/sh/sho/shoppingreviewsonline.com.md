@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the shoppingreviewsonline.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105123411id_/http%3A//shoppingreviewsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingreviewsonline.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016173145id_/http%3A//shoppingreviewsonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shopping Reviews Online
+# Privacy Policy – Shopping Reviews Online
 
-[grid_12]
+  * Monday 16 October 2017 / 6:31 pm
+
+
+
+[](http://shoppingreviewsonline.com/the-samsung-gear-s3/)
+
+[](http://shoppingreviewsonline.com/the-samsung-gear-s3/)
 
 ### Privacy Policy
 
 E-mail: [admin@shoppingreviewsonline.com](mailto:admin@shoppingreviewsonline.com)
-
-[/grid_12]
-
-[clear]
 
 At Shoppingreviewsonline.com, we are committed to protecting online user privacy. This “Privacy Policy” discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
 
