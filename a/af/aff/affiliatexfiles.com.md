@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505114636id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016210904id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
 
 # Affiliatexfiles Privacy Policy
 
@@ -34,7 +34,7 @@ Your personal or business email address and contact information will be stored i
 
 This website may contain Ads by Google. They have recently instituted the new “interest-based advertising”, which allows them to serve ads they think will be of interest to you personally. This is done by placing a cookie on your computer whenever you visit a website, such as this one, that serves Ads by Google.
 
-This cookie can contain information ( NOT including your name, address, email address, or telephone number ) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, or if you would like to opt out of Google’s use of the DART cookie, visit [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google Ad Content Network Privacy Policy").
+This cookie can contain information ( NOT including your name, address, email address, or telephone number ) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, or if you would like to opt out of Google’s use of the DART cookie, visit [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/ "Google Ad Content Network Privacy Policy").
 
 **Changes to this Privacy Policy**
 
