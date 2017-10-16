@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922145151id_/https%3A//www.astrazenecaprivacynotice.com/home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017015703id_/https%3A//www.astrazenecaprivacynotice.com/home.html) for the most accurate reproduction.*
 
 # Home
 
@@ -45,7 +45,7 @@ How We Protect Your Information
 
 We have in place appropriate privacy and security policies which are intended to ensure, as far as reasonably possible, the security and integrity of all Our information, including your Personal Data.
 
-More information on how AstraZeneca complies with its data privacy obligations can be found in our Global Data Privacy Policy, which is available in the policy section of [www.astrazeneca.com](http://www.astrazeneca.com/)
+More information on how AstraZeneca complies with its data privacy obligations can be found in our [Global Data Privacy Policy](https://www.astrazeneca.com/content/dam/az/PDF/Data_Privacy_Policy_v30.pdf).
 
 Access and Correction
 
@@ -77,6 +77,6 @@ Our BCRs have been approved by a number of national privacy regulators and, in c
 
 You can find out more about these commitments here. The BCRs and any rights arising under them do not apply to Personal Data originating in the U.S.A.
 
-Last updated May 2015
+Last updated May 2017
 
-© AstraZeneca 2015
+© AstraZeneca 2017
