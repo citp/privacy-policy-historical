@@ -1,50 +1,43 @@
-> *The following text is extracted and transformed from the superstarmagazine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195325id_/http%3A//www.superstarmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superstarmagazine.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017202058id_/http%3A//www.superstarmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies | Superstar Magazine
+# Privacy Policy | Superstar Magazine
 
-### Privacy Policy
+Your privacy is very important to us at Superstar Magazine, and so we have a few fundamental principles that we follow in order to protect it:
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+* – We don’t ask you for personal information unless we truly need it.
+* – We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+* – We don’t store personal information on our servers unless required for the on-going operation of our site.
 
-– Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+This Privacy Policy describes the policies and procedures Superstar Magazine (“we”, “our” or “us”) uses regarding the collection, use and disclosure of any information that you give us when you use www.superstarmagazine.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”). We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy. By using this Website, you agree to this privacy policy.
 
-– We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+We may change this policy from time to time by posting changes to this page. You can occasionally check to make sure that you are happy with any changes. This policy was last modified on December 24, 2015.
 
-– We will only retain personal information as long as necessary for the fulfillment of those purposes.  
-– We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+### What Information Do We Collect?
 
-– Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+We collect information from you when you register on our site, subscribe to our newsletter (from which you can unsubscribe at any time), respond to a survey or fill out a form. You may be asked to enter your name or e-mail address. You may always, however, visit our site anonymously.
 
-– We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+### Your Information Is Protected:
 
-– We will make readily available to customers information about our policies and practices relating to the management of personal information.
+We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access or disclosure we have put in place a variety of physical, electronic and managerial security measures to safeguard and secure the information we collect online.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+#### How We Use Cookies:
 
-### Cookies Policy
+Cookies are small files that a site or its service provider places on your computer’s hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information. Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Superstar Magazine values your privacy and does not share personal information with 3rd parties nor do we store any information about your visit to this website other than to analyze and optimize your content and reading experience through the use of cookies.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**You can[opt to turn off the use of cookies](http://www.wikihow.com/Disable-Cookies) at anytime by changing settings in your web browser.**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-Examples of data collected from visitors to this site include:
+You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website.
 
-1\. Google Analytics is used analyze traffic. This service is used to collect information such as the following from visitors:
+### Third Party Vendors:
 
-Internet Protocol addresses (IP)  
-visitor location (town/state/country)  
-Type of web browser  
-Date and time stamp  
-Referring and exit pages  
-Number of clicks on links
+Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Superstar Magazine and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
-No personally identifiable information is collected by these services (i.e., no names or other personal information).
+### Links To Third Party Websites:
 
-2\. Superstar Magazine uses several services to serve advertisements. These services may use cookies to help them tailor ads to individual user interests. We have no access to or control over these cookies as they are served by a third party.
+We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.
 
-This privacy policy is subject to change without notice and was last updated on November 9, 2014.
+### Children’s Online Privacy Protection Act Compliance:
 
-Contact: support (at) superstarmagazine.com
-
-
-
+Our website, products and services are all directed to people who are at least 13 years old or older. We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.
