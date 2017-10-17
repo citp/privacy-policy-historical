@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growstats.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117095849id_/http%3A//www.growstats.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growstats.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017032408id_/http%3A//www.growstats.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -89,15 +89,5 @@ To review and update your personal information at Growstatsto ensure it is accur
 #### Notification of Privacy Statement Changes
 
 We may and can update this privacy statement to reflect changes to our information practices. If we make any material changes you will be notified by email (sent to the e-mail address that you specified in your account) or by means of a notice on our website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices should you have any concerns.
-
-## Contact Information
-
-This is an Australian Business  
-Kelly Broderick Investments Pty Ltd  
-ABN 69 159 000 629  
-67 Thomas St Auchenflower 4066  
-Phone number: 0407 130 953
-
-[support@growstats.com](mailto:support@growstats.com)
 
 [](http://www.growstats.com/#buynow "Buy website traffic")
