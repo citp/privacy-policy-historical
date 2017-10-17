@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509193247id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017084926id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MPP
 
@@ -46,7 +46,7 @@ This site uses cookie and tracking technology. The cookies are useful for gather
 
 MPP collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. Personal information submitted when donating to MPP, MPP Foundation, the MPP PAC, or subscribing to MPP email alerts will not be shared with other groups, but MPP may occasionally allow like-minded organizations to send mailings to you, whereby MPP doesn’t actually share your contact info with these like-minded organizations.
 
-We use third-party advertising companies to serve advertisements when you visit our website. These companies may use aggregated (not personal identifying) information about your visits to this website in order to provide advertisements about goods and services that may be of interest to you. **  **These companies may also use cookies on our site for advertising purposes on our and other sites.
+We use third-party advertising companies to serve advertisements when you visit our website. These companies may use aggregated (not personal identifying) information about your visits to this website in order to provide advertisements about goods and services that may be of interest to you. ** ** These companies may also use cookies on our site for advertising purposes on our and other sites.
 
 **THIRD-PARTY ADVERTISING COOKIES OPT-OUT**
 
