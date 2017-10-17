@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehealthtree.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013929id_/http%3A//www.tabletwise.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthtree.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017025736id_/http%3A//www.tabletwise.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tablet Wise
+# Privacy Policy - TabletWise
 
 [ ](https://web.archive.org/ "TabletWise.com")
 
