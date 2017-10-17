@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technipfmc.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620083840id_/http%3A//www.technipfmc.com/en/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technipfmc.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018005310id_/http%3A//www.technipfmc.com/en/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & cookies - Services - TechnipFMC plc
 
