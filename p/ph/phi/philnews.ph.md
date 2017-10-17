@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philnews.ph privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517094739id_/https%3A//philnews.ph/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philnews.ph privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017235935id_/https%3A//philnews.ph/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Philippine News
 
