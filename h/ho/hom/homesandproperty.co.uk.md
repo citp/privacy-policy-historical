@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613210528id_/http%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017053152id_/http%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
 
 # Privacy Policy | Homes and Property
 
@@ -138,17 +138,5 @@ If you want further information, or wish to communicate with us about this priva
   * **[Promotions rules](https://web.archive.org/Service/promotion-rules-a103071.html)**
   * **[User commitment](http://www.homesandproperty.co.uk/content/homesandpropertycouk-user-commitment)**
   * **[Contact us](http://www.homesandproperty.co.uk/contact-us)**
-
-
-  *  
-
-
-
-[](https://web.archive.org/profile?icn=_HNP_UAS)
-
-Follow us on Twitter [@HomesProperty](https://twitter.com/HomesProperty), [Facebook](https://www.facebook.com/ESHomesAndProperty/) and [Instagram](https://www.instagram.com/eshomesproperty/)
-
-  * More about: 
-  * [Gallery](https://web.archive.org/topic/gallery)
 
 
