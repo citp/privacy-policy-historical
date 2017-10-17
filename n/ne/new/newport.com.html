@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newport.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630172459id_/https%3A//www.newport.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newport.com privacy policy that was archived on 2017-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171017112446id_/https%3A//www.newport.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy </title>
@@ -16,8 +16,8 @@
 	<link rel="canonical" href="https://www.newport.com/privacy-policy">
 <link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/desktop/theme-green/images/favicon.ico">
 
-<script src="//assets.adobedtm.com/3e342655bffb6baa2cc47757bc417a8da5942eeb/satelliteLib-cbcf8d61599c1e16c88c83299a9962edf73ff5cd.js"></script>
-		<link rel="stylesheet" type="text/css" href="/styleSheets.combined.css.h-2010868398.pack" charset="utf-8"><link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7213554/711126/css/fonts.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//assets.adobedtm.com/3e342655bffb6baa2cc47757bc417a8da5942eeb/satelliteLib-cbcf8d61599c1e16c88c83299a9962edf73ff5cd.js"></script>
+		<link rel="stylesheet" type="text/css" href="/styleSheets.combined.css.h-247440191.pack" charset="utf-8"><link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7213554/711126/css/fonts.css">
 
 <style type="text/css" media="print">
 	@IMPORT url("/_ui/desktop/common/blueprint/print.css");
@@ -30,6 +30,63 @@
 <!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/theme-green/css/ie_7.css" media="screen, projection" /> <![endif]-->
 
 <script type="text/javascript" src="/_ui/shared/js/analyticsmediator.js"></script>
+<script type="text/javascript">
+/* Google Analytics */
+
+var googleAnalyticsTrackingId = 'your_google_analytics_tracking_id';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', googleAnalyticsTrackingId]);
+
+
+		_gaq.push(['_trackPageview']);
+	
+
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+function trackAddToCart_google(productCode, quantityAdded) {
+	_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
+}
+
+function trackUpdateCart(productCode, initialQuantity, newQuantity) {
+	if (initialQuantity != newQuantity) {
+		if (initialQuantity > newQuantity) {
+			_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
+		} else {
+			_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
+		}
+	}
+}
+
+function trackRemoveFromCart(productCode, initialQuantity) {
+	_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
+}
+
+window.mediator.subscribe('trackAddToCart', function(data) {
+	if (data.productCode && data.quantity)
+	{
+		trackAddToCart_google(data.productCode, data.quantity);
+	}
+});
+
+window.mediator.subscribe('trackUpdateCart', function(data) {
+	if (data.productCode && data.initialCartQuantity && data.newCartQuantity)
+	{
+		trackUpdateCart(data.productCode, data.initialCartQuantity, data.newCartQuantity);
+	}
+});
+
+window.mediator.subscribe('trackRemoveFromCart', function(data) {
+	if (data.productCode && data.initialCartQuantity)
+	{
+		trackRemoveFromCart(data.productCode, data.initialCartQuantity);
+	}
+});
+</script>
 <script type="text/javascript">
 		/*<![CDATA[*/
 		
@@ -62,8 +119,7 @@
 	
 	/*]]>*/
 </script>
-<script type="text/javascript" src="/commonTop.combined.js.h750056266.pack" charset="utf-8"></script><!-- moved these files out of compression as they were causing issues -->
-<script src="//www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="/commonTop.combined.js.h-1936897590.pack" charset="utf-8"></script><!-- moved these files out of compression as they were causing issues -->
 <script>
 $(document).ready(function () {
 	//alert()
@@ -97,7 +153,9 @@ $(document).ready(function () {
 	<div class="main_header_wrap" id="top_header_wrapper">
 	<div class="promobar">
 <div class="alert" role="alert">
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><button aria-label="Close" class="close" data-dismiss="alert" id="promobarbutton" type="button">     <span aria-hidden="true">×</span>     </button>     <i class="fa fa-md fa-align-right fa-flip-horizontal fa-flip-vertical blue"><!-- --></i>     <i class="fa fa-md fa-truck fa-flip-horizontal blue"><!-- --></i>&nbsp;     <a href="/free-ground-shipping">FREE Ground shipping</a><span style="font-weight:normal;"> for all web orders!*</span> <b>+</b> FREE Newport Gear <span style="font-weight:normal;">with orders $250+</span>&nbsp;&nbsp;<a href="/o/free-gear">Details</a></div>
+<div class="hidden-xxs hidden-xs col-sm-12 col-md-12 col-lg-12">
+<button aria-label="Close" class="close" data-dismiss="alert" id="promobarbutton" type="button">     <span aria-hidden="true">×</span>     </button>     <i class="fa fa-md fa-align-right fa-flip-horizontal fa-flip-vertical blue"><!-- --></i>     <i class="fa fa-md fa-truck fa-flip-horizontal blue"><!-- --></i>&nbsp;     <a href="/free-ground-shipping">FREE Ground shipping</a><span style="font-weight:normal;"> for all web orders!*</span> <b>+</b> FREE Newport Gear <span style="font-weight:normal;">with orders $250+</span>&nbsp;&nbsp;<a href="/o/free-gear">Details</a>
+</div>
 </div>
 </div><div class="clearfix"></div>
 	<div class="yamm np_main_menu" id="newport_menu">
@@ -1179,21 +1237,27 @@ $(document).ready(function () {
 			<ul class="navbar-nav navbar-right menu_header top_menu_mob right_header">
 				<li class="hamburger visible-sm visible-xs visible-xxs">
 					<a href="javascript:;" data-toggle="collapse" data-target="#navbar-collapse-grid">
-						<div class="navbar-toggle">
+						<div class="bars">
 							<i class="fa fa-bars"></i>
 						</div>
-						<span>
-							Menus</span>
-						<i class="fa fa-caret-down fa-md"></i>
 					</a>
 				</li>
 				</ul>
 				<ul class="navbar-nav navbar-right top_menu_mob right_header">
 				<li class="account_icon"><a href="#" onlick="return false;" data-toggle="modal" data-target="#accountSignIn">
-		<i class="fa fa-lg fa-user-circle-o"></i>
-		<span class="account_text hidden-xs hidden-xxs">Sign In</span>
+		<span class="account_text signIn">Sign In</span>
 	</a></li>
-<li class="dropdown-grid compare hidden-xxs hidden-xs"><a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle hidden-xs compHeader"> <span class="badge badge-orange" id="countchk" style="display:none">0</span>
+<li>
+	<a href="javascript:;" data-toggle="dropdown" class="dropdown-toggle">
+		<i class="fa fa-lg fa-globe"></i>
+		<span class="lang">en</span>
+		<i class="fa fa-caret-down fa-md hidden-xxs hidden-xs"></i>
+	</a>
+	<ul class="dropdown-menu fadein no-shadow language_menu">
+		<li class="lang_li"><a href="/_s/language?code=en">English</a></li>
+		<li class="lang_li"><a href="/_s/language?code=zh">简体中文</a></li>
+		</ul>
+</li><li class="dropdown-grid compare hidden-xxs hidden-xs"><a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle hidden-xs compHeader"> <span class="badge badge-orange" id="countchk" style="display:none">0</span>
 		
 		<i class="fa fa-lg fa-trello fa-flip-horizontal fa-tasks"></i> <i class="fa fa-caret-down fa-md"></i>
 </a>
@@ -1312,7 +1376,7 @@ $(document).ready(function () {
 </script> -->
 </li><li class="dropdown-grid"><a data-toggle="" id="mini-cart" href="/cart" class="dropdown-toggle visible-xxs"> <!-- added for Do not show the qty orange icon for the mini cart if the cart is empty -->
 		<span class="badge badge-orange badge-orange-count" id="product-count-mob" style="display:none">0</span>
-		<i class="fa fa-shopping-cart fa-lg"></i> <i class="fa fa-caret-down fa-md"></i></a> <a data-toggle="dropdown" id="mini-cart" href="javascript:void(0);" class="dropdown-toggle hidden-xxs"> <!-- added for Do not show the qty orange icon for the mini cart if the cart is empty -->
+		<i class="fa fa-shopping-cart fa-lg"></i> </a> <a data-toggle="dropdown" id="mini-cart" href="javascript:void(0);" class="dropdown-toggle hidden-xxs"> <!-- added for Do not show the qty orange icon for the mini cart if the cart is empty -->
 		<span class="badge badge-orange badge-orange-count" id="product-count" style="display:none">0</span>
 		<i class="fa fa-shopping-cart fa-lg"></i> <i class="fa fa-caret-down fa-md hidden-xs hidden-xxs"></i></a> <ul class="dropdown-menu fadein no-shadow product-cart-wrapper col-lg-5 col-md-6 col-sm-7 hidden-xs hidden-xxs">
 		<li>
@@ -1377,13 +1441,13 @@ $(document).ready(function () {
 <!-- <li class="full-search-holder hidden-xs hidden-xxs"> -->
     <a data-toggle="dropdown" href="javascript:void(0);" class="search-toggle" id="searchtoggle_b">
         <div class="search-placeholder">
-            Search <i class="fa fa-search fa-md"></i>
+            Search<i class="fa fa-search fa-md"></i>
         </div>
     </a> 
     <div class="search-container" id="s_cont">
                 <form class="navbar-form navbar-right search-holder" role="search" action="/search/">
                     <div class="input-group" id="site-search">
-                        <input type="text" class="form-control typeahead" id="search-query" name="text" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;2&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : true}">
+                        <input type="text" class="form-control typeahead" id="search-query" name="text" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;2&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;50&quot;,&quot;displayProductImages&quot; : true}">
                        <div class="siteSearch"></div>
                         <span class="input-group-btn">
                             <button class="btn btn-search" id="submit-search" type="submit"><i class="fa fa-search fa-lg"></i></button>
@@ -1409,7 +1473,7 @@ $(document).ready(function () {
          <li class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <form class="navbar-form navbar-right search-holder" id="search-mob" role="search" action="/search/">
                     <div class="input-group" id="site-search-mobile">
-                        <input type="text" class="form-control typeahead" id="search-query-mobile" name="text" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;2&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : true}">
+                        <input type="text" class="form-control typeahead" id="search-query-mobile" name="text" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;2&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;50&quot;,&quot;displayProductImages&quot; : true}">
                         <div class="siteSearch-mobile"></div>
                         <span class="input-group-btn">
                             <button class="btn btn-search" id="submit-search-mobile" type="submit"><i class="fa fa-lg fa-search"></i></button>
@@ -1435,7 +1499,9 @@ $(document).ready(function () {
 <div style="visibility:hidden" class="hidden-xxs hidden-xs hidden-sm">
 <div class="promobar">
 <div class="alert" role="alert">
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><button aria-label="Close" class="close" data-dismiss="alert" id="promobarbutton" type="button">     <span aria-hidden="true">×</span>     </button>     <i class="fa fa-md fa-align-right fa-flip-horizontal fa-flip-vertical blue"><!-- --></i>     <i class="fa fa-md fa-truck fa-flip-horizontal blue"><!-- --></i>&nbsp;     <a href="/free-ground-shipping">FREE Ground shipping</a><span style="font-weight:normal;"> for all web orders!*</span> <b>+</b> FREE Newport Gear <span style="font-weight:normal;">with orders $250+</span>&nbsp;&nbsp;<a href="/o/free-gear">Details</a></div>
+<div class="hidden-xxs hidden-xs col-sm-12 col-md-12 col-lg-12">
+<button aria-label="Close" class="close" data-dismiss="alert" id="promobarbutton" type="button">     <span aria-hidden="true">×</span>     </button>     <i class="fa fa-md fa-align-right fa-flip-horizontal fa-flip-vertical blue"><!-- --></i>     <i class="fa fa-md fa-truck fa-flip-horizontal blue"><!-- --></i>&nbsp;     <a href="/free-ground-shipping">FREE Ground shipping</a><span style="font-weight:normal;"> for all web orders!*</span> <b>+</b> FREE Newport Gear <span style="font-weight:normal;">with orders $250+</span>&nbsp;&nbsp;<a href="/o/free-gear">Details</a>
+</div>
 </div>
 </div></div>
 <!-- teamp wrapper added #top_header_wrapper -->
@@ -2105,7 +2171,7 @@ $(document).ready(function(){
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="/homePage.combined.js.h-792834947.pack" charset="utf-8"></script><!-- Newsletter Subscribe Start -->
+	<script type="text/javascript" src="/homePage.combined.js.h-1520277165.pack" charset="utf-8"></script><!-- Newsletter Subscribe Start -->
 <!-- Newsletter Subscribe End -->
 <!-- merged latest HTML acording to latest HTML(20160216) -->
 <footer class="normal">
@@ -2182,6 +2248,8 @@ $(document).ready(function(){
 							<div class="col-lg-12 col-md-12">
 								<div><p id="signInMessage"></p></div>
 								<form action="" name="signInForm" id="signInForm">
+									<input id="showPwd" type="hidden" value="Show Password">
+									<input id="forgotPwdLink" type="hidden" value="Forgot your password?">
 									<div class="form-group list-item">
 										<label for="inputName">Email Address: &nbsp;<span class="control-label muted">Required</span> </label> <input type="text" id="j_username" placeholder="Email ID" class="form-control" name="j_username" data-validation="custom" emailvalidate="" successregisteremail="" data-validation-regexp="^([\w-\.\S]+@([\w-]+\.)+[\w-]{2,4})+$" data-validation-error-msg="Please enter a valid email address">
 
@@ -2240,6 +2308,7 @@ $(document).ready(function(){
 									<div class="row">
 										<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 											<div class="form-group">
+												<input id="resetMsg" type="hidden" value="An email containing a link to reset your password has been sent to">
 												<input class="btn btn-primary" id="resetpassword" type="submit" value="Reset Password" style="width: 100%;">
 											</div>
 										</div>
@@ -2293,6 +2362,8 @@ $(document).ready(function(){
 		</div>
 	</div>
 	<div class="modal fade" id="registrationSuccess" tabindex="-1" role="dialog" aria-labelledby="registrationSuccess" aria-hidden="true">
+		<input id="regSuccessHeading" type="hidden" value="Thanks for registering for a Newport.com account!">
+		<input id="regSuccessMsg" type="hidden" value="Before accessing your account, please retrieve the email confirmation link sent to your provided email address. If you did not receive an email to confirm your account registration, please check your spam folder. Once verified, your account will be ready for use.">
 	<div class="vertical-alignment-helper">
 		<div class="modal-dialog vertical-align-center">
 			<div class="modal-content">
@@ -2552,7 +2623,7 @@ $(document).ready(function(){
 	// TODO
 	function validateForgotpswdForm() {
 		var vusername = document.getElementById("email").value;
-
+		var resetMsg = $('#resetMsg').val();
 		var vURL = "/login/pw/request";
 		$
 				.ajax({
@@ -2564,9 +2635,7 @@ $(document).ready(function(){
 
 							$("#accountPasswordReset").hide();
 							$("#accountPasswordResetSuccess").modal();
-							$(".msg").html(
-									"An email containing a link to reset your password has been sent to <strong>"
-											+ vusername + "</strong>");
+							$(".msg").html(resetMsg +" <strong>"+ vusername + "</strong>");
 						}
 						if (data == "Failure") {
 
@@ -2726,13 +2795,13 @@ $(document).ready(function() {
 		$(".support-number-show").hide();
 });
  </script><!--
-Release: 2.12
-Last Compiled: 6/28/17 11:20 AM
-Server: AWSCA-HYB-APP02
+Release: 2.20
+Last Compiled: 10/12/17 5:33 PM
+Server: AWSCA-HYB-APP01
 -->
 
 
-<script type="text/javascript" src="/commonBottom.combined.js.h-1617500830.pack" charset="utf-8"></script><script type="text/javascript">
+<script type="text/javascript" src="/commonBottom.combined.js.h-1169606610.pack" charset="utf-8"></script><script type="text/javascript">
 					_satellite.pageBottom();
 				</script>
 
