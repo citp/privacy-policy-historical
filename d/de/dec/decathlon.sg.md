@@ -1,133 +1,201 @@
-> *The following text is extracted and transformed from the decathlon.sg privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027055708id_/https%3A//www.decathlon.sg/content/2_legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.sg privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017043204id_/http%3A//www.decathlon.sg/c/45-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Decathlon Singapore
+# Privacy policy - Decathlon Singapore
 
-**I.                ****LEGAL INFORMATION**
+## 1\. LEGAL FRAMEWORK
 
- **Website**
+This Privacy Policy applies to personal information about individuals (customers, service providers, business partners) held by **DECATHLON SINGAPORE PTE. LTD.** (hereinafter referred to as **“Decathlon”** or **“we”** or **“us”** ), a company incorporated in the Republic of Singapore under Company Registration Number 201225519M, having its registered office at 750B Chai Chee Road #03-01 Singapore 469002, and/or its associated companies (collectively, the **“DECATHLON Group”** ).
 
-This website (the “ **Website** ”), and all personal information collected from users of this Website, are owned solely by Decathlon Online South East Asia Pte. Ltd. (Company Registration No.: 201225519M), a company incorporated in the Republic of Singapore and having its registered office at Decathlon Singapore Pte Ltd 58 Kim Yam Rd #01-01 Sg 239359 (“ **Decathlon** ”), with the email support-singapore@decathlon.com, contact number 6221-4739 and/or its associated companies (collectively, the “ **Oxylane Network** ”). 
+Decathlon is aware of the importance of the personal information entrusted to us before or during your course of dealing with Decathlon and recognizes that it is our responsibility to properly collect, process and protect your personal data.
 
-By visiting or using any of the pages available on the Website on which this Privacy Policy or a link to this Privacy Policy appears, you are deemed to agree to the terms of this Privacy Policy. Please review this Privacy Policy carefully prior to visiting or using any such pages or otherwise providing any personal data.
+By providing your Personal Data to us and/or visiting or using any of the pages available on Decathlon Singapore website [www.decathlon.sg](https://www.decathlon.sg/) (the **“Website”** ), on which this Privacy Policy or a link to this Privacy Policy appears, you are deemed to have read the following policy and agree to us processing your Personal Data in accordance with the terms of this Privacy Policy.
 
-If you wish to opt-out of this Privacy Policy, amend or remove any of your personal data in our possession, please refer to clause IV for the required procedure.
+So, please review this Privacy Policy carefully prior to visiting or using any such pages or otherwise providing any personal data. If you do not agree to our Privacy Policy, Decathlon may not be able to effectively provide you the Products or render the services you wish and you may be required to terminate the relevant operations with us and/or to stop accessing or using our Website.
 
- **II.               ****COLLECTION OF PERSONAL DATA**
+If you wish to opt-out of this Privacy Policy, amend or remove any of your personal data in our possession, please refer to Article 4 for the required procedure.
 
-Personal data refers to data about an individual who can be identified from either that particular data, or from that data and other information which Decathlon has or is likely to have access to. Commonly collected personal data of our customers typically include, amongst other things, names, addresses, telephone (landline and mobile) numbers, e-mail addresses, identification numbers, nationalities, dates of birth and credit card information.
+## 2\. COLLECTION OF PERSONAL DATA
 
- **Collection of personal data**
+ **2.1. What is the definition of Personal Data?**
 
-Wherever possible, we only collect personal data directly from you. Without limitation, this can occur during or before you: - 
+Personal data refers to data about an individual who can be identified from either that particular data, or from that data and other information which Decathlon has or is likely to have access to. Commonly collected personal data of our customers typically include, amongst other things, names, addresses, telephone numbers, e-mail addresses, identification numbers, nationalities, dates of birth and credit card information. Personal data in Singapore is protected under the Personal Data Protection Act 2012 (the “PDPA”) and its related subsidiary legislations.
 
-(1)        sign up to receive information;
+ **2.2. How will Decathlon collect your Personal Data?**
 
-(2)        set up an account on the Website;
+Decathlon will collect your personal data in accordance with the PDPA. We will notify you of the purposes for which your personal data may be collected, used, disclosed and/or processed, as well as obtain your consent for the collection, use, disclosure and/or processing of your personal data for the intended purposes, unless an exception under the law permits us to collect and process your personal data without your consent.
 
-(3)        place an order for Products through the Website;
+We collect personal data directly from you and without limitation:
 
-(4)        provide any feedback or complaints with regards to our Products or services through the Website;
+  1. When you communicate with our Decathlon Customer Service or when you exchange directly with our Decathlon teams in stores in relation to our products and/or services.
+  2. When you call our Customer Service (phone number provided on our Website “Contact us”).
+  3. When you set up an Account in our Website or through our applications by registering your details to place an Order via our Website or to subscribe to our Decathlon Membership.
+  4. When you use services, such as Decathlon Review, Workshop, Racket Services, etc…
+  5. When you conduct certain types of transactions such as the application for a refund.
+  6. When you purchase a bicycle in order to allow us to offer you workshop service for the maintenance of your product, and to contact you in the event of any defective components.
+  7. When you agree to participate to a customer contest, competition, promotion or a sports event organized by Decathlon, and as well to any survey, interview or product testing.
+  8. When you provide any feedback or complaints with regards to our Products or services to our Customer Service or directly in stores.
+  9. When you apply for a job online (on the Website “Careers with Decathlon”) or in store.
 
-(5)        participate in any social media offerings (such as signing up through our Facebook page); and/or
 
-(6)        participate in any marketing activity held by us.
 
-In addition to personal data provided to us, certain information related to you that is not considered personal data may also be collected. We collect this information to improve our Website and other online services. Such non-personal data may include information such as your IP address, the internet browser you use, details of your interaction with our Website, shopping habits, preferences and information about your lifestyle or preferences such as your hobbies and interestsand other types of non-personal data. 
+Such personal data will be used by us only for the specific purpose for which it was provided by you.
 
-We may also receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. 
+In addition, certain information that is not considered personal data, as it does not allow us to identify a specific individual, may also be collected to improve our Website and other online services through our analysis of customer traffic, including through the use of cookies (clause 6). Such non-personal data may include information such as your IP address, the internet browser you use, details of your interaction with our Website, shopping habits, hobbies and your preferences.
 
-**Use of cookies**
+## 3\. USE AND PROCESSING OF PERSONAL DATA
 
-We may use data collection devices such as “cookies” on certain pages of the Website to personalise your online experience, help analyze our Website flow and measure promotional effectiveness. “Cookies” are small files placed on your hard drive that assist us in providing our services. We may offer features that are only available through the use of a “cookie”. We also use cookies to reduce the number of times you need to enter your password. Cookies may also help us provide to you information targeted in accordance to your interests. Most browsers automatically accept cookies but you can modify your browser to decline cookies (if your browser permits you to do so), although in such a case you may not be able to access certain features on our Website or some interactive features offered on our Website may be restricted or rendered inoperable. 
+ **3.1. What will your Personal Data be used for? What are the purposes of collection?**
 
-Our Website may allow third parties (for example, analytics firms and business partners) to download cookies to your device. These third parties may use cookies and other technologies to collect non-personal data about your online activities while you are using our Website. We have no access to, or control over these cookies, or other features these third parties use, and the information practices of these third parties are not covered by this Privacy Policy. 
+Your personal data which we collect with your consent may be used, processed and/or disclosed for various purposes, depending on the circumstances for which we may/will need to process your data, including:
 
-**Collection of personal data by other websites**
+  1. To communicate with you, provided that Decathlon may monitor or record your calls and store details of the phone number(s) you use to make the calls. This information is used to better address your customer service needs.
+  2. To manage your purchase order and payment online, the subsequent home delivery or self collection, as well as the eventual return of product if it does not fit you.
+  3. To identify you as a Decathlon Member in order you may obtain the benefits of the Decathlon Family Programme (extension of period for any return, sales warranty…)
+  4. To answer to your questions, feedbacks, product reviews, enquiries or complaints in relation to our products and/or services and resolve the case maybe, any issue which may arise in connection with any dealing with us.
+  5. To facilitate your participation in, and our management of, any special event, customer contest, competition, lucky draw, when you register/subscribe for it.
+  6. To send you an invitation to form part of our consumer panel, testing product, interviews or research groups (unless you unsubscribe from receiving marketing material from Decathlon).
+  7. To contact you regarding current or new Products and/or Services offered by Decathlon (unless you unsubscribe from receiving marketing material from Decathlon).
+  8. To inform you of new features, special offers and sales promotions offered by Decathlon (unless you unsubscribe from receiving marketing material from Decathlon).
+  9. To contact you by electronic mail (email or SMS) about functionality changes to our Website.
+  10. To conduct market research or surveys, marketing analysis, customer profiling activities, analysis of customer choices, statistical and trend analysis in relation to our products and/or services; and
+  11. To improve your experience on the Website through the use of cookies. For further information on the use of cookies, please refer to Clause 6.
+
+
+
+Decathlon will be entitled to use or disclose your personal data without your prior consent in certain situations, including, without limitation, the following:
+
+  * The personal data is publicly available.
+  * The disclosure is required or authorized by the PDPA or by any other applicable laws and/or regulations.
+  * The disclosure is necessary for any purpose which is clearly in your interests, if consent for its disclosure cannot be obtained in a timely way or to respond to an emergency that threatens the life, health or safety of yourself or another individual.
+  * The disclosure is necessary for any investigation or proceedings, such as to prevent and detect criminal activity, fraud and misuse of or damage to our services or networks and to prosecute those responsible; as well as to protect and defend our intellectual property rights.
+  * The disclosure is necessary to comply with a court order or other legal or regulatory requirements in the jurisdictions we operate.
+
+
+
+ **3.2.Who will process your Personal Data?**
+
+As a general rule, Decathlon or Decathlon Group may process your personal data itself and will keep them confidential. For more information about the Decathlon Group, please visit [Decathlon Group website](http://corporate.decathlon.com/en). You may also consult our Corporate Data Protection Policy by clicking here.
+
+Decathlon will not share or disclose your personal data to any individuals or third party operators, except to service providers engaged by Decathlon to perform specific services on behalf of Decathlon and for the purposes mentioned in clause 3.1 above, including the following:/
+
+  * Delivery of products that you have ordered through our Website or postal service;
+  * Hosting your personal information in data centers through storage facility providers;
+  * Statistical and analytical studies through web analytics tool providers, such as Google.
+  * Improving advertising campaigns or promotions, marketing and business efficiencies and prospective sales;
+  * Monitoring the quality of our service or Website, corporate reporting, etc…
+  * Information about the products and services of business partners, but only if you have given us your prior consent to do so.
+
+
+
+In such situations, the service providers are authorized to use your personal information only to perform the specific services entrusted by Decathlon. As part of our agreement with them, they are required to take all reasonable measures to ensure and maintain a high level of security of your personal data.
+
+## 4\. PROTECTION AND SECURITY OF PERSONAL DATA
+
+ **4.1. How will your Personal Data be protected?**
+
+Decathlon takes every precaution and uses reasonable measures to protect your personal data. Decathlon has the necessary technical and organisational measures in place, to keep you personal data secure, and in particular, to prevent it from being disclosed to unauthorised third parties. For this purpose Decathlon takes all measures necessary to secure its computer systems.
+
+Where personal information is entered on our Website, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) technology. We strive to protect your personal data and are constantly reviewing and enhancing our security protocols to ensure that your personal data is not subject to unnecessary risks.
+
+ **4.2. Will your Personal Data be transferred outside of Singapore?**
+
+Primarily because we may outsource some of our data processing, your personal data may be transferred outside of Singapore for the purposes mentioned in Clause 3. As a result, Decathlon takes every measure to ensure that this transfer takes place within the relevant legal framework, namely that such third party who is the recipient of the information is subject to a law, binding corporate rules, or binding agreement, which provides an adequate level of protection as required by the PDPA. You hereby expressly consent to the transfer of your personal information outside of Singapore.
+
+## 5\. YOUR RIGHTS TO ACCESS AND/OR COORRECTION OF PERSONAL DATA
+
+ **5.1. What are your rights?**
+
+Decathlon undertakes to:
+
+  1. Treat your personal data as strictly confidential;
+  2. Take appropriate measures to ensure that your personal data is kept secure and is protected against any unauthorised or unlawful processing, accidental loss, destruction or damage, alteration, disclosure or access;
+  3. Provide you with access to your personal data to view and/or update your personal details, should the need arise.
+  4. Promptly notify you if we become aware of any unauthorised use, disclosure or processing of your personal data; and
+  5. Upon your written request, return promptly or destroy any and all of your personal data in our possession or control.
+
+
+
+The time periods for which we keep your information may vary according to the use or purpose attached to the information. Decathlon will however not retain your personal data longer than the period for which it is originally required for, unless we are required by law to do so, or you consent to us retaining such information for a longer period.
+
+ **5.2. How to access and/or correct your Personal Data –or to Opt out?**
+
+You have a right to access, update or remove the personal data collected and stored by Decathlon or to limit their processing and use. You may as well request to correct any error or omission in your Personal Data.
+
+If you wish to do so, Decathlon offers you different ways:
+
+  1. You may contact our Data Protection Officer by :
+    * writing to the following address and sending proof of their identity:
+
+ **DECATHLON SINGAPORE PTE LTD**  
+DATA PROTECTION OFFICER  
+750B, Chai Chee Road #03-01  
+Singapore 469002
+
+    * or by sending an e-mail to : [singapore.dpo@decathlon.com](mailto:singapore.dpo@decathlon.com)
+  2. You may also access, change and remove your personal details by clicking on “My Account”, “My Profile” and “My Personal Information” on our Website.
+  3. You may also decline to receive e-mails by clicking on ‘unsubscribe’ in any marketing e-mail you receive or through our Website by clicking on “ My Account”, “My Interests”, “ My Communication”
+
+
+
+If you use an email or a letter to submit your request, we thank you to mention at the subject header that it is a PDPA request in order to allow us to pass your request in a efficient manner to our Data Protection officer.
+
+## 6\. USE OF COOKIES
+
+ **6.1. What are cookies?**
+
+The Website integrates the uses of cookies. A “cookie” is a small file installed on your computer that stores information about your browsing habits on our Website (which shall include, but not be limited to, language settings, connection time, pages visited and so forth). The cookies and other technologies collect non-personal data about your online activities while you are using our Website. The use of cookies, however, does not enable Decathlon to identify you.
+
+Analytics firms are able to consult these cookies the next time you visit, to recognise repeat users, facilitate the user’s ongoing access to, and use of, the Website and track usage behaviour so as to make your browsing smoother.   
+**By using our services you consent to the use of cookies, and the collection of information by Decathlon and third parties through these cookies, as provided for in this clause 6.**
+
+For the sake of transparency, the following paragraphs are intended to give you a complete overview of the cookies used by Decathlon and to offer you a solution to allow you to make the right choice. Please note that sharing the use of your computer with others may change the personalised nature of the way cookies operate.
+
+ **6.2. What Cookies are used by the Website?**
+
+The Website integrates the use of the following cookies:
+
+  * Cookies to record the language preferences of the User or other preferences necessary to provide the service requested, and
+  * flash cookies containing elements strictly necessary for a User’s media player (audio or video) to function optimally, corresponding to content requested by the User.
+
+
+
+The Website may also use cookies for purposes of informing us of the Products and pages you may consult and or search. These cookies enable us to offer you personalised content and in particular to display advertising, when you visit our Website that relates to your interests. These cookies may be set as you wish, described more fully below.
+
+ **6.3. Does the Website allow third parties to use cookies when I am browsing the Website?**
+
+The Website uses Google Analytics™, a web site analysis service provided by Google Inc. Google Analytics uses cookies. The data generated by the cookies concerning your use of the Website (including Your IP address) are sent to and stored by Google on servers located in the United States. Google will use this information in order to evaluate your use of the Website, to compile reports on the Website’s activity intended for its publisher, and to provide other services relating to the Website’s activity and your use of the Internet. Google may communicate this data to third parties if legally obligated to do so, or when third parties process such data on behalf of Google, including the publisher of this Website. Google will not match your IP address to any other data held by Google.
+
+You can deactivate the use of cookies by selecting the appropriate settings on your browser (see below). However, doing so may prevent the use of certain of this Website’s functions. By using this Website, you expressly consent to the processing of your personal Data by Google under the conditions and for the purposes described above. To consult Google’s Confidentiality Rules, [click here](https://www.google.com/policies/privacy/).
+
+ **6.4. How can you exercise your options concerning cookies?**
+
+There are several ways for you to manage and/or disable cookies. You may at any time change your mind regarding the use of cookies, by going to the Help section on your browser’s toolbar. It will tell you how to reject cookies, or to display a message informing you they have been received, or how to deactivate cookies. Cookies can be deleted manually as well.
+
+You may also choose to deactivate or delete similar cookies used by your browser’s accessory software, such as Flash cookies, by changing the parameters of the software in question, or by visiting the website of the software’s publisher.
+
+Please note, however, that the use of cookies may be necessary to allow certain features of the Website to function properly. As such, if you disable cookies on your browser, you may not be able to use those features, and your access to our Website will be limited and not personalised. As a result, Decathlon accepts no liability for any consequences that may occur as a result of our Website’s limited functionality flowing from the inability to utilise the cookies necessary for the Website to function properly.
+
+ **Your choice depending on your browser:**   
+Each browser features a configuration process so you can manage the use of cookies. It is described in your browser’s Help menu, which will inform you as to how you may wish to exercise your options concerning the use of cookies. Some examples:
+
+  * For Internet Explorer™: Open the Tools menu, then select Internet Options; click on the Confidentiality tab, then on the Advanced tab, and choose the desired level, or follow this link: <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies>
+  * For Chrome™: open the Settings menu (spanner logo), then select Options; click on Advanced Options, then in the Privacy section click on Content Settings and choose the desired options, or follow this link: [https://support.google.com/chrome/answer/95647?hl=en&hlrm=en](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
+  * For Safari™: choose Safari > Preferences then click on Security; in the Accept Cookies section choose the desired options or follow this link: [https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US)
+
+
+
+## 7\. COLLECTION OF PERSONAL DATA BY OTHER WEBSITES :
 
 This Website uses plug-ins from the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. If you access a page on our Website that contains a plug-in, your browser will establish a direct link to Facebook’s servers. The plug-in content will then be sent directly to your browser by Facebook and included on the relevant web page. Facebook will be notified that your browser has accessed the corresponding page of our Website, even if you do not have a Facebook account or if you are not logged on to your Facebook account. You IP address will be sent directly by your browser to a Facebook server in the USA and registered on that server.
 
 If you are logged on to Facebook when you browse our Website, Facebook may directly link your visit to our Website, to your Facebook account. If, for example, you click on ‘Like’ or leave a comment on Facebook in relation to our Website while using a plug-in, the corresponding information will be transmitted to and registered on a Facebook server and published on your Facebook account. Facebook may use such information for advertising and market research purposes, and may adapt its pages accordingly. Facebook may therefore create user profiles including information about users’ interests and relationships, to determine how users react after having seen an advertisement on Facebook, inform other Facebook users about the activity of our Website and offer other services linked to Facebook.
 
-If you do not wish Facebook to link information collected via our website to your Facebook account, you should log out of Facebook before visiting our Website.
+ **If you do not wish Facebook to link information collected via our website to your Facebook account, you should log out of Facebook before visiting our Website.**
 
- **III.             ****USE OF PERSONAL DATA**
-
- **Using your personal data**
-
-We collect personal data from our existing and prospective customers and employees for various reasons. Without limitation, these purposes include:-
-
-(1)        improving our products and your experience on our Website;
-
-(2)        analyzing the effectiveness of our advertisements, competitions and promotions;
-
-(3)     customising your Website experience, as well as evaluating statistics on website activity, such as what time you visited it, whether you have visited it before and what site referred you to it;
-
-(4)       making the Website easier to use and tailoring the Website and products to your interests and needs;
-
-(5)    marketing and communicating with you in relation to products and services offered by us, our dealers and relevant service partners;
-
-(6)        processing orders and administering accounts in relation to your use of our products and services;
-
-(7)        sending you information, products or samples you have requested;
-
-(8)        responding to your comments or queries;
-
-(9)        improving the quality of our services with market research and surveys;
-
-(10)     supplying you with information that is relevant to your existing relationship with us;
-
-(11)     suggesting products or services which we think may interest you; or
-
-(12)     offering you the opportunity to take part in competitions and promotions.
-
-Where we collect personal data for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons. 
-
-**Sharing your personal data**
-
-As a general rule, we do not share your personal information with anyone outside the Oxylane Network. For more information about the Oxylane Network, please visit www.oxylane.com. You may also consult our Data Protection Policy by clicking **[here](http://www.oxylane.com/en/personal-data/)**.
-
-However, we may share your personal information with trusted third parties. Such parties may either be in Singapore or abroad and may include: 
-
-(1)    our advertising, marketing and promotional agencies to help us deliver and analyze the effectiveness of our advertising campaigns and promotions;
-
-(2)       third parties required to deliver a product or service to you, such as a delivery or postal service delivering a product that you have ordered through our Website;
-
-(3)      law enforcement or government authorities where they have followed due legal process to request us to disclose the information;
-
-(4)      third parties who wish to send you information about their products and services, but only if you have given us your consent to do so;
-
-(5)      third party providers of services, such as data processing; or
-
-(6)      web analytics tool providers, such as Google. 
-
-We may share your personal data for the following reasons: - 
-
-(1)      reasons provided under ‘using your personal data’;
-
-(2)      verification of your identity;
-
-(3)      processing purchase/credit transactions for the purchase of products through our Website;
-
-(4)      to enforce applicable terms of use of the Website;
-
-(5)      conduct investigations into possible breaches of applicable laws;
-
-(6)      to comply with a court order or other legal or regulatory requirements in the jurisdictions we operate; 
-
-In situations where a third party under contract with Decathlon collects personal data about you, we will require the third party to exercise reasonable care in protecting your information. ****
-
- **IV.             ****AMENDMENTS TO PERSONAL DATA / OPT OUT**
-
- **You have a right to access, change and remove the personal data held by Decathlon. If you wish to do so, please refer to '** **[Contact Us](https://www.decathlon.sg/contact-us) '.** **** **You may also access, change and remove your personal details by clicking on '[My Account](https://www.decathlon.sg/my-account)'. You may also decline to receive e-mails by clicking on ‘unsubscribe’ in any marketing e-mail you receive.**
-
- **If you do not want your personal data to be shared among affiliates, business partners or unrelated third parties, you may opt-out of such information sharing by sending us the appropriate withdrawal of consent form. For details on how to obtain such a form, please refer to** ** **'** **[Contact Us](https://www.decathlon.sg/contact-us) '.**﻿** ****
-
- **V.              ****SECURITY**
-
-Decathlon uses reasonable measures to protect your personal data and to store it securely. Where personal information is entered on our Website, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) technology. However, no method of transmission over the Internet or method of electronic storage is 100% secure. While security cannot be guaranteed, we strive to protect your personal data and are constantly reviewing and enhancing our security protocols to ensure that your personal data is not subject to unnecessary risks. 
-
-**VI.             ****RIGHTS TO AMEND THIS PRIVACY POLICY**
+## 8\. RIGHTS TO AMEND THIS PRIVACY POLICY
 
 We reserve the right to amend this Privacy Policy at any time. If material changes are made to this Privacy Policy, they will be posted on this page and date stamped. We encourage you to review this page periodically in order for you to stay notified of any changes.
 
-Your continued use of this Website and acceptance of our services after any changes to this Privacy Policy constitutes your consent to any such changes, to the extent such consent is not otherwise provided.
+Your continued use of this Website and acceptance of our services after any changes to this Privacy Policy constitutes your consent to any such changes; to the extent such consent is not otherwise provided.
+
+ **Update: November 2016**
