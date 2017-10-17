@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622180545id_/http%3A//uplandsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017203354id_/http%3A//uplandsoftware.com/privacy) for the most accurate reproduction.*
 
 # Upland Privacy Policy
 
