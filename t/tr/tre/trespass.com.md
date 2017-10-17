@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314174823id_/https%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017063347id_/https%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies | Trespass
+# Privacy & Cookies | Trespass UK
 
 Trespass as a company is committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
 
@@ -48,6 +48,7 @@ In this policy you will find information regarding:-
   2. How we collect information
   3. The information collected
   4. How the information is used
+  5. Marketing communication
 
 
 
@@ -73,7 +74,7 @@ To analyse site statistics and traffic we use Google Analytics. Again persistent
 
 The majority of web browsers will give you the option to turn off or disable cookies by adjusting the settings of the browser. The instructions for this process can usually be found in the Help menu of the browser. However, please note that our website, as with most ecommerce sites, will lose functionality which means you may not be able to proceed with a purchase once cookies have been turned off. For further information about cookies please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-###  The Information Collected
+### The Information Collected
 
 Our website collects data in a variety of forms, including cookies as mentioned above, using our online forms, through the purchase of products, and as site traffic information.
 
@@ -101,8 +102,19 @@ We will only share the information outlined in ‘The Information Collected’ s
 
 
 
-We will not disclose your information to any other third parties, unless specified above. The technical information will be used only by Intelligent Data Services, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
+We will not disclose your information to any other third parties, unless specified above. The technical information will be used only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
 
 Any information provided by you will be kept in the strictest confidence, only authorised suppliers and personnel will have access to it. All persons with access to your data must comply with our privacy policy and adhere to our security measures against unauthorised or unlawful use of the information and against accidental loss, damage or destruction.
 
 For more detailed information relating to data protection and the security issues surrounding it, please visit: [www.ico.org.uk](https://ico.org.uk/)
+
+## Marketing Communication
+
+If you have subscribed to receive marketing communication from us, and you no longer wish to receive it, you can request that we amend your preferences. You can do that either as indicated in the particular communication by using the unsubscribe link which is included on all email updates, or by contacting us. Trespass will stop sending updates in respect of which you withdraw your consent within a reasonable period, in order to allow sufficient time for the change to be administered. If you opt out of receiving marketing communication from us, we may still send you non-promotional communications such as emails about your account, transactional emails or purchases you have made from the Site.
+
+###   
+Contact Us
+
+To contact us regarding the Privacy & Cookies Policy please email us: privacy@trespass.com or call on: 0141 568 8000
+
+### 
