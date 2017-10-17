@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625012948id_/http%3A//www.quickanddirtytips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017134922id_/http%3A//www.quickanddirtytips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Quick and Dirty Tips ™
 
