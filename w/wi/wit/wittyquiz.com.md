@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wittyquiz.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729011934id_/http%3A//www.wittyquiz.com/faq.php%3Fpage_id%3Dpp%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittyquiz.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017132439id_/http%3A//www.wittyquiz.com/faq.php%3Fpage_id%3Dpp%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
