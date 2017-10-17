@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinpowered.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515131023id_/https%3A//robinpowered.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinpowered.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018003643id_/https%3A//robinpowered.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Robin
 
