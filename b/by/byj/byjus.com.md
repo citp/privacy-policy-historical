@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byjus.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615124843id_/http%3A//byjus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byjus.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017214600id_/http%3A//byjus.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - Byju's
 
