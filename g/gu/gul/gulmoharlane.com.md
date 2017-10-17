@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the gulmoharlane.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614185027id_/http%3A//www.gulmoharlane.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulmoharlane.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017221021id_/http%3A//www.gulmoharlane.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/ "Home")
+
+  * [Home](https://web.archive.org/)
+  * [ Privacy Policy ](https://web.archive.org/policies/privacy-policy)
+
+
 
 Gulmohar Lane values its customers and respects your privacy, and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through website including www.gulmoharlane.com. We encourage you to read this Privacy Policy before using the Site or providing Personal Information to us. By using the Site or providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
