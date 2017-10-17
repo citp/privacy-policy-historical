@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkone.net privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613163715id_/http%3A//apkone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkone.net privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017105517id_/http%3A//apkone.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – APKONE.NET
 
@@ -28,4 +28,4 @@ ApkOne.net has no access to or control over these cookies that are used by third
 
 Users may opt out of the use of the DART cookie by visiting the [Google Advertising Privacy & Terms](http://www.google.com/policies/technologies/ads/).
 
-[](http://www.apk-apps-download.net/apps_apk.php?id=193)
+[](http://blw4-1.com/r/?token=8e1a95d6819bb5df15d7a42f9d0b18b21df9576b&q=mod-apk-installer)
