@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630025325id_/http%3A//www.care2.com/help/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017232738id_/http%3A//www.care2.com/help/general/privacy.html) for the most accurate reproduction.*
 
 # Care2 / ThePetitionSite.com Privacy Policy
 
@@ -8,7 +8,7 @@ Care2.com ("Care2") takes seriously the issue of safeguarding your privacy onlin
 
 Residents of the EU can see the [Care2 EU-US Privacy Shield policy](https://web.archive.org/help/general/privacy-shield.html).
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=999f836e-3781-492e-8eb7-20ef5fcc57cf "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=a7aeeded-6bb8-4dbe-862b-a3d35e92dace)
 
 When visiting a website displaying the TRUSTe Trustmark, you will be notified of what personally identifiable information of yours is collected:
 
@@ -51,7 +51,7 @@ Yes. Care2 asks for your name and other personal information when you sign up fo
 
 #### Personal and Demographic Information:
 
-Care2 asks for personal information, such as your name, email address, date of birth, street address and zip code. Your personal information is used to set up your Care2 account and to allow you to use many Care2 member services. Members may also supply additional information for special site services such as My Care2. Care2 may also ask for demographic information, such as your education level, occupation and industry. Care2 does not knowingly collect information from children under 13; if Care2 later learns that a child under 13 is registered, steps will be taken to remove the child's information from the database. We also reserve the right to collect publicly available data about you, either obtained directly by us or through a 3rd party.
+Care2 asks for personal information, such as your name, email address, date of birth, street address, zip code and sometimes phone number. Your personal information is used to set up your Care2 account and to allow you to use many Care2 member services. Members may also supply additional information for special site services such as My Care2. Care2 may also ask for demographic information, such as your education level, occupation and industry. Care2 does not knowingly collect information from children under 13; if Care2 later learns that a child under 13 is registered, steps will be taken to remove the child's information from the database. We also reserve the right to collect publicly available data about you, either obtained directly by us or through a 3rd party.
 
 #### Advertising:
 
@@ -61,9 +61,9 @@ We employ a third party service provider to display advertising on our Web site.
 
 **Advertising revenues help keep Care2 services free, and provide revenues for donations for wildlife conservation and other charities.**
 
-#### [ThePetitionSite:](http://www.thepetitionsite.com/)
+#### [ThePetitionSite:](https://www.thepetitionsite.com/)
 
-Care2 owns and maintains the nonpartisan petition tool, [ThePetitionSite.com](http://www.thepetitionsite.com/). Petition and Public Comment signers are required to provide certain personal information such as name, email address and often street address. This information is required to validate the petition signature / public comment. Care2 uses cookies and a signature database to provide data integrity and ease of use.
+Care2 owns and maintains the nonpartisan petition tool, [ThePetitionSite.com](https://www.thepetitionsite.com/). Petition and Public Comment signers are required to provide certain personal information such as name, email address and often street address. This information is required to validate the petition signature / public comment. Care2 uses cookies and a signature database to provide data integrity and ease of use.
 
 For petitions and surveys you've signed or completed, we treat your name, city, state, country and comments as public information. For example, we may provide compilations of petitions, with your comments, to the President and legislators, other targets, or to the press. Unless you have requested to be included as "anonymous," this information will also be visible on the website. We will not make your street address publicly available, but we may transmit it to members of Congress, to other public officials, or to other targets as part of a petition to validate your signature. We may also make your comments, along with your first name, city, state and country, available to the press and public online.
 
@@ -73,7 +73,7 @@ For the free petitions, only the public information listed above is made availab
 
 For many of the petitions sponsored by nonprofits, we provide an advocacy service allowing individuals to send individual e-mails to public officials, legislators, and other targets as well as public comments to government agencies, through our website. These messages are sent in your name, with your e-mail address as the return address and your full name and contact information is provided as part of the submission. These messages will only be sent out under your name as you approve them on an individual basis by signing an action. You are solely responsible for the specific message(s) you send using our email tool. Optional comments will be included in the body of the email message delivered to the petition target.
 
-During the signing process, you may opt to receive certain newsletters and memberships, in which case Care2 will send your contact information to those third-party providers. However, unless you specifically opt to receive such offers or send your contact information to third parties during the signing process, Care2 will keep your email address information confidential. Note that for many campaigns, the default settings assume that you want to receive communications from the petition sponsor. If you do not wish to receive such communications, please uncheck the box next to the signup offer. Please note that when you join a third party we may use your petition activity to personalize the actions you see on the site and that we send to you by email.
+During the signing process, you may opt to receive certain newsletters and memberships, in which case Care2 will send your contact information, including email address, street address, and sometimes phone, to those third-party providers. However, unless you specifically opt to receive such offers or send your contact information to third parties during the signing process, Care2 will keep your email address information confidential. Note that for many campaigns, the default settings assume that you want to receive communications from the petition sponsor. If you do not wish to receive such communications, please uncheck the box next to the signup offer. Please note that when you join a third party we may use your petition activity to personalize the actions you see on the site and that we send to you by email.
 
 #### [Care2 Group Forums:](http://www.care2.com/c2c/groups/)
 
@@ -137,7 +137,7 @@ Upon request, Care2 will provide you with information about whether we hold any 
 
 Care2 offers a variety of direct e-mail subscriptions describing our petition success stories, new site features, healthy living tips, activist alerts, and announcements, including commercial and non-commercial offers. If you do not want to receive any of our optional mailings, simply opt out of them when registering to become a member or during other subscription opportunities.
 
-If you sign a petition on [ThePetitionSite.com](http://www.thepetitionsite.com/), you will automatically receive emailed news updates about the petition and other important causes.
+If you sign a petition on [ThePetitionSite.com](https://www.thepetitionsite.com/), you will automatically receive emailed news updates about the petition and other important causes.
 
 If you elect to receive any of our newsletters but later change your mind, go to your [My Settings](http://www.care2.com/accounts/) page; from there you can edit both your "Subscriptions" and your "Notifications." Our emailed newsletters and notifications contain an "unsubscribe" link to allow you to easily remove your address from that mail stream.
 
@@ -201,6 +201,6 @@ Care2 attempts to respond to all inquiries within 48 hours.
 
 Corporate contact information:   
 Care2.com, Inc.  
-275 Shoreline Drive, Suite 300  
+203 Redwood Shores Parkway, Suite 230  
 Redwood City, CA 94065  
 Phone: 650-622-0860
