@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the introcooking.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613205452id_/http%3A//introcooking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the introcooking.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018012114id_/http%3A//introcooking.com/privacy) for the most accurate reproduction.*
 
 # » Privacy : IntroCooking
 
