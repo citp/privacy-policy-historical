@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hightimes.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607060233id_/http%3A//hightimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightimes.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017155053id_/http%3A//hightimes.com/privacy-policy) for the most accurate reproduction.*
 
-# High Times
+# Privacy Policy · High Times
 
 Last Updated: May 25, 2016
 
