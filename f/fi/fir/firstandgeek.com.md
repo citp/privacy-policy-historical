@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstandgeek.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617064900id_/http%3A//firstandgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstandgeek.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018101357id_/http%3A//firstandgeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - First & Geek
 
