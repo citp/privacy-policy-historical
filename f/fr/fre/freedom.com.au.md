@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426021141id_/https%3A//www.freedom.com.au/freedom/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018123338id_/https%3A//www.freedom.com.au/freedom/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | freedom Furniture and Homewares
 
 **freedom Privacy Policy**
 
-Steinhoff Asia Pacific Limited trading as Freedom (“ **Freedom”** or “ **we** ” or “ **us** ” or “ **our** ”)), recognises the importance of protecting the privacy and rights of individuals in relation to their Personal Information. This is our privacy policy and it tells you how we collect and manage your Personal Information.
+Steinhoff Asia Pacific Limited trading as Freedom (“ **Freedom”** or “ **we** ” or “ **us** ” or “ **our** ”), recognises the importance of protecting the privacy and rights of individuals in relation to their Personal Information. This is our privacy policy and it tells you how we collect and manage your Personal Information.
 
 We respect your rights to privacy under the _Privacy Act_ 1988 (Cth) (“ **Act** ”) and we comply with all of the Act’s requirements in relation to the collection, management and disclosure of your Personal Information. For more information, visit [www.oaic.gov.au](http://www.oaic.gov.au/).
 
