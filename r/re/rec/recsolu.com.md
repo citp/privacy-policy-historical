@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the recsolu.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222133309id_/https%3A//yello.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recsolu.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018205642id_/https%3A//yello.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yello
 
-**Effective Date: August  1, 2016**
+**Effective Date: April 17, 2017**
 
 RECSOLU, Inc., DBA Yello (“we” or “us” or “our”) is committed to protecting the privacy of visitors and users of the yello.co site (the “Site”) and our mobile recruiting applications (the “Mobile Apps”). We want our Customers and their Authorized Users (the or our “Customer(s)”) and their Data Sources (“Data Source(s)”) to have a positive experience while using the Site or Mobile Apps. We respect and protect our Customers’ and Data Sources’ rights to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site and the Mobile Apps. This Privacy Policy does not apply to other websites to which we may link (including third-party sites or other sites which may be operated by us).
 
-We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles with respect to data received from the EU in reliance on Privacy Shield with respect to notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability (“Privacy Shield Principles”). If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+We comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles with respect to data received from the European Union or Switzerland in reliance on Privacy Shield with respect to notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability (“Privacy Shield Principles”). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 We are open to entering into the _Commission Decision C(2010)593 Standard Contractual Clauses (processors)_ with any of our Customers that are authorized to use the Site or the Mobile Apps in the EEA. Please contact us via email at contracts@yello.co to request entrance into the Standard Contractual Clauses or for more information regarding this topic.
 
@@ -105,51 +105,42 @@ California Civil Code Section § 1798.83 permits Customers and Data Sources who 
 
 It is important to note that we are subject to the investigatory and enforcement power of the Federal Trade Commission, which protects consumers by stopping unfair, deceptive or fraudulent practices in the marketplace.
 
-## Human Resources Data and EU Data Protection Authorities
-
-We process human resources data from the EU for use in the context of the employment relationship under the Privacy Shield. We commit to cooperate with EU data protection authorities (DPAs) with regard to human resources data transferred from the EU in the context of the employment relationship and to comply with the advice given by such authorities with respect to such data.
-
-## Privacy Policy Changes
-
-If we decide to change our Privacy Policy, we will post the revised Privacy Policy here. Customers are responsible for ensuring we have an up-to-date active and deliverable e-mail address on file, and both the Customers and their Data Sources are responsible for periodically visiting the Site and this Privacy Policy to check for any changes. Continued use of the Site or Mobile Apps indicates consent to the then current Privacy Policy as posted. If a Customer or Data Source does not consent to the changes to the Privacy Policy, he or she must not continue to access or use the Site or the Mobile Apps, and may reach out to us at privacy@yello.co to object and/or to obtain for more information.
-
 ## Dispute Resolution
 
-In compliance with the EU-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact us at privacy@yello.co or the mailing address below:
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact at privacy@yello.co or the mailing address below:
 
 RECSOLU, Inc., DBA Yello  
 55 E. Monroe St., Suite 3600  
 Chicago, IL 60603  
 Attn: General Counsel
 
-We have committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to a non-profit alternative dispute resolution provider located in the United States, the BBB EU PRIVACY SHIELD, as applicable, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of a complaint, or if we do not satisfactorily address such complaint, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information or to file a complaint. You can also visit the U.S. Department of Commerce’s Privacy Shield website at https://www.privacyshield.gov/ to learn more information on the Privacy Shield Framework.
+We have further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers (applicable to Data Sources and Customers in the European Union and Switzerland) for more information and to file a complaint. You can also visit the U.S. Department of Commerce’s Privacy Shield website at https://www.privacyshield.gov/ to learn more information on the Privacy Shield program.
+
+## Injunctive Relief
+
+By using the Site or the Mobile Apps, Customers and Data Sources acknowledge that monetary damages may not be a sufficient remedy for unauthorized disclosure of personal information, including personally identifiable information, and that there is significant potential liability in cases of onward transfers of Privacy Shield data (including personal information and personally identifiable information) to third parties. Thus, Customers and Data Sources hereby acknowledge that we shall be entitled, without waiving any other rights or remedies, to seek such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction.
 
 ## Arbitration as Last Resort
 
 Only under certain limited conditions and as a last resort, individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
-## Injunctive Relief
+## Human Resources Data and EU/Swiss Data Protection Authorities
 
-By using the Site or the Mobile Apps, Customers and Data Sources acknowledge that monetary damages may not be a sufficient remedy for unauthorized disclosure of personal information, including personally identifiable information, and that there is significant potential liability in cases of onward transfers of Privacy Shield Data (including personal information and personally identifiable information) to third parties. Thus, Customers and Data Sources hereby acknowledge that we shall be entitled, without waiving any other rights or remedies, to seek such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction.
+We process human resources data from the EU or Switzerland for use in the context of the employment relationship under the Privacy Shield. We commit to cooperate with EU data protection authorities (DPAs) or Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable, with regard to human resources data transferred from the EU or Switzerland in the context of the employment relationship and to comply with the advice given by such authorities with respect to such data.
 
-## US-Swiss Safe Harbor
+In the event we are unable to accommodate an EU individual’s request regarding HR data received by us within the context of the work relationship between us and our Customers, or our Customers and their Data Sources, we further commit to working with the Data Protection Authorities (DPAs) who cover the jurisdiction that the data originated from. For information on how to contact your jurisdiction’s DPA, visit <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/>.
 
-We comply with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. We have certified that we adhere to the US-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/.
+In the event we are unable to accommodate a Swiss individual’s request regarding HR data received by us within the context of the work relationship between us and our Customers, or our Customers and their Data Sources, we further commit to working with the Swiss Federal Data Protection and Information Commissioner (FDPIC) who covers the jurisdiction the data originated from. For information on how to contact your jurisdiction’s Commissioner, visit <https://www.bk.admin.ch/themen/dschutz/index.html>.
 
-In compliance with the US-Swiss Safe Harbor Principles, we commit to resolve complaints about privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact us at privacy@yello.co or the mailing address below:
+## Privacy Policy Changes
 
-RECSOLU, Inc., DBA Yello  
-55 E. Monroe St., Suite 3600  
-Chicago, IL 60602  
-Attn: General Counsel
+If we decide to change our Privacy Policy, we will post the revised Privacy Policy here. Customers and Data Sources are responsible for periodically visiting the Site and this Privacy Policy to check for any changes. In addition, Customers are responsible for ensuring that we have an up-to-date active and deliverable e-mail address on file. Continued use of the Site or Mobile Apps indicates consent to the then current Privacy Policy as posted. If a Customer or Data Source does not consent to the changes to the Privacy Policy, he or she must not continue to access or use the Site or the Mobile Apps, and may reach out to us at privacy@yello.co to object and/or to obtain for more information.
 
-We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to a non-profit independent dispute resolution provider located in the United States, the BBB SAFE HARBOR, as applicable, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of a complaint, or if we do not satisfactorily address such complaint, please visit https://www.auto.bbb.org/EU-Safe-Harbor-Complaint-Form/ to file a complaint or www.bbb.org/us/safe-harbor-complaints for more information.
-
-To address any questions about this Privacy Policy, please contact us at:
+To address any questions that you have about this Privacy Policy, please contact us at:
 
 RECSOLU, Inc., DBA Yello  
 55 E. Monroe St., Suite 3600  
-Chicago, IL 60602  
-Attn: General Counsel  
+Chicago, IL 60603  
+Attn: General Counsel  
 1-312-517-3232  
 contracts@yello.co
