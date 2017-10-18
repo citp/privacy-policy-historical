@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011906id_/http%3A//www.collective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018050649id_/http%3A//www.collective.com/privacy-policy) for the most accurate reproduction.*
 
 # Collective
 
