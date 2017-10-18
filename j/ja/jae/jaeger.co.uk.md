@@ -1,34 +1,29 @@
-> *The following text is extracted and transformed from the jaeger.co.uk privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414022230id_/http%3A//www.jaeger.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaeger.co.uk privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018024004id_/https%3A//www.jaeger.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Jaeger
 
-Jaeger is committed to protecting your privacy. We do not use the information you provide to us to learn any more about you other than what is required to fulfil your orders, to provide you with an improved shopping experience, or as otherwise detailed in these terms. Any contact details gathered through press or customer enquiries will not be used for marketing purposes unless otherwise requested by the individual.
+We will treat your personal information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep information on a secure server and fully comply with all applicable UK Data Protection and consumer legislation in place.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is The Jaeger Company's Shops Limited.
+When you shop on this website, we will ask you to input, and will collect, personal information from you such as your name, email address, billing address, delivery address, telephone number, product selections, credit card or other payment form and password. We may also collect (along with our third party providers of advertisements and content) information about where you are on the internet (e.g. the URL you came from, IP address, domain types such as .co.uk and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on and any search terms that you entered on our website. We may collect this information even if you do not register with us.
 
-Information we may collect from you
+You should be aware that this site is being monitored and may capture information about your visit that will help us improve the quality of our service.
 
-We may collect and process the following data about you:
+We confirm that any personal information which you provide us (or which is available on public registers) and any user information from which we can identify you, is held in accordance with our Information Commissioner’s Office registration. We use your information only for the following purposes:
 
-  * – Data which you provide when you create an online account in order to purchase any products.
-  * – Data which you provide when requesting any marketing information or when you enter any promotions.
-  * – Details of transactions you carry out through our website and of the fulfilment of your order.
-  * – Details of your visits to our site and the resources that you access.
+  * Processing your orders
+  * For statistical or survey purposes to improve this website and its services
+  * To serve website content and advertisements to you
+  * To administer this website
+  * If you consent, to notify you of products or special offers that may be of interest to you.
 
 
 
-How we use your data
+You agree that you do not object to us contacting you for any of the above purposes whether by telephone, email or in writing, and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003 or other legislation in force.
 
-We will only use your data for processing your orders and administering your online account and to provide you with information, products or services that you request from us or which we think may interest you, where you have consented to be contacted for such purposes.
+When you create a shopping account, you will be given the option to receive information from Jaeger by post, e-mail or telephone about products, promotions or special offers that we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes, ensure that you do not tick the opt in box as you go through the registration process.
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you, and we or they may contact you about these by post or telephone. If you are an existing customer, we will only contact you by electronic means with information about goods and services similar to those which were the subject of a previous sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data or on the form used to create your online account.
+Your personal information may be disclosed to other businesses within the Jaeger Group and to reputable third parties who will help process your order. Jaeger requires all third parties to treat your personal information as fully confidential and to fully comply with all applicable UK Data protection and consumer legislation in place. We will not release your personal information to any company outside of Jaeger for mailing or marketing purposes.
 
-You have the right to ask us not to process your data for marketing purposes. We will usually inform you before collecting your data if we intend to use it for such purposes or if we intend to disclose it to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting Customer Services. Please note that if we remove your personal information from our databases, any online account which you have created will be cancelled.
+We use cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time. If you do not accept cookies, you will be unable to use this website.
 
-How we might disclose your data
-
-We may disclose your data to any other company within Jaeger's group of companies from time to time. Any such company may use your data in accordance with the section of the terms headed "How we use your data" and in such event, any reference in that section to "we" or "us" will be a reference to such company.
-
-We may disclose your data to third parties in the event that we sell or buy any business or assets, in which case we may disclose your data to the prospective seller or buyer. If we or substantially all of our assets are acquired by a third party, data we hold about you will be one of the transferred assets.
-
-We may disclose your data to third party payment service providers from time to time engaged by us or any group of companies from time to time in order to process any payment transactions made over this website.
+Please check back frequently to see any updates or changes to our privacy policy. Questions regarding this policy should be directed to the Jaeger head office.
