@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthigg.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620234609id_/http%3A//www.healthigg.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthigg.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018171850id_/http%3A//www.healthigg.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Health Directory - Healthigg.com - Privacy Policy
 
