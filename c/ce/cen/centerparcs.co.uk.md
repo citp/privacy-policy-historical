@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616151934id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018110254id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
 
 # Information | Privacy & Cookie Policy | Center Parcs
 
