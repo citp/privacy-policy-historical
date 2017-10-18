@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nighthelper.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627061057id_/http%3A//www.nighthelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nighthelper.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018141335id_/http%3A//www.nighthelper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy! - Night Helper
 
