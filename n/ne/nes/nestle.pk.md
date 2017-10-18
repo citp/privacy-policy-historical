@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.pk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618170637id_/http%3A//nestle.pk/info/yourdata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.pk privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018145146id_/http%3A//www.nestle.pk/info/yourdata) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -261,13 +261,13 @@ This means that we may retain your personal data for a reasonable period after y
 
 ## 9\. Contact us
 
-Nestlé acts as “data controller” for the personal data it processes in the framework of this Privacy Notice. If you have any questions or comments regarding this Privacy Notice or Nestlé’s personal data collection practices, please contact us by 
+Nestlé acts as “data controller” for the personal data it processes in the framework of this Privacy Notice. If you have any questions or comments regarding this Privacy Notice or Nestlé’s personal data collection practices, please contact: 
 
-**Mr. Shahzad Umar, Head of Human Resources  
-+92-42-111-637-853 (Ext: 8090)  
-Nestle Pakistan Limited  
+**Mr. Akmal Saeed, Head of Human Resources  
++92-42-111-637-853 (Ext: 8316)  
+Nestlé Pakistan Limited  
 308-Upper Mall, Lahore, Pakistan  
-Email: **[**shahzad.umar@pk.nestle.com**](mailto:shahzad.umar@pk.nestle.com)
+Email: **[**Akmal.Saeed@PK.nestle.com**](mailto:shahzad.umar@pk.nestle.com)
 
 ## 10.  **[Appointment of Ombudsman for Nestlé Privacy policy](https://web.archive.org/asset-library/documents/policy/privacy-ombudsman-appointment.pdf)**
 
