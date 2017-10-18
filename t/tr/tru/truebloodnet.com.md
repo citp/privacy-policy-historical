@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104175330id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018141722id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : True Blood News- ALL the True Blood Season 7 Spoilers Videos Interviews
 
@@ -78,4 +78,4 @@ We can be reached by contacting:
 
 Truebloodnet.com
 
-Email: privacy@truebloodnet.com 
+Email: privacy@truebloodnet.com
