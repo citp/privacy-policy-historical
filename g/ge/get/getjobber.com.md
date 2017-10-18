@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getjobber.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315023822id_/https%3A//getjobber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getjobber.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019001218id_/https%3A//getjobber.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobber Privacy Policy
 
-Page 1Group 10Page 1Marketing IconFree Jobber IconIconSupport IconIconIconIconBonus IconGroupIconDirectory IconIconPage 1Discount IconPage 1Page 1Page 1
+Page 1Group 10Page 1Marketing IconFree Jobber IconIconSupport IconIconIconIconBonus IconGroupIconDirectory IconIconPage 1Discount IconPage 1Page 1
 
 Octopusapp, Inc. d/b/a Jobber (“ **Jobber** ”/“ **we** ”/” **us** ”/“ **our** ”) owns and operates the website located at <https://getjobber.com/> (“ **Website** ”) and the Jobber mobile application (the “ **App** ”). Jobber is committed to protecting your privacy. This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website, App and Service (as defined in our [Terms of Service](https://web.archive.org/terms-of-service/)). Our Service is provided to business customers who have registered for an account with us (“Account Owners”) and any information collected via the Website, App and Service from or about Account Owners’ employees and contractors will be made available to the applicable Account Owner and will be used by such Account Owner according to their privacy policy.
 
@@ -50,8 +50,6 @@ Your IP address is reported by your web browser whenever you visit a page on the
 
 **Jobber Payments**. If you register for the Jobber Payments service, we may collect additional information from you, including certain account information. We will also collect certain payment and other personal information from your customers, and it is your responsibility to ensure you have a privacy policy in place that permits Jobber to collect such information. Because our payment service is provided by a third party service provider, Stripe, you will also be required to agree to the terms of the Stripe Privacy Policy. Any personal information that you provide to Stripe about you or your customers will be treated in accordance with the terms of the Stripe privacy policy.
 
-Jobber uses Plaid Technologies, Inc. (“Plaid”) to gather End User’s data from financial institutions for the purpose of processing payments. By using our service, you grant Jobber and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy](https://plaid.com/legal/#privacy-policy).
-
 If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled ‘ _Amendment of this Policy’._
 
 **Disclosures & Transfers: **We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further _Security_ below). In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further _Important Exceptions_ below).
@@ -80,4 +78,4 @@ We will make every reasonable effort to keep your Personal Information accurate 
 
 Contact Us: You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: [privacy@getjobber.com.](mailto:privacy@getjobber.com)
 
-**Last Updated: November 25, 2016**
+**Last Updated: March 16, 2017**
