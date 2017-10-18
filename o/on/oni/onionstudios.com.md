@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onionstudios.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630010932id_/http%3A//www.theonion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onionstudios.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018080338id_/http%3A//www.theonion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Onion - America's Finest News Source
 
