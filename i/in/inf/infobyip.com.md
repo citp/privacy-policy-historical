@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infobyip.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235823id_/http%3A//www.infobyip.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobyip.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018230229id_/https%3A//www.infobyip.com/privacypolicy.php) for the most accurate reproduction.*
 
 # None
 
-This Privacy Policy governs the manner in which [infobyip.com](http://infobyip.com/) website ("Site", "We", "Us") collects, uses, maintains and discloses information collected from its Users (each, a "User"). 
+This Privacy Policy governs the manner in which [infobyip.com](https://infobyip.com/) website ("Site", "We", "Us") collects, uses, maintains and discloses information collected from its Users (each, a "User"). 
 
 **Personal identification information**
 
@@ -45,7 +45,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -58,6 +58,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-<http://www.infobyip.com/contact.php>
+<https://www.infobyip.com/contact.php>
 
 This document was last updated on April 15, 2013
