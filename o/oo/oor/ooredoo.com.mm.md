@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooredoo.com.mm privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629150226id_/http%3A//ooredoo.com.mm/en/Personal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooredoo.com.mm privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019162010id_/http%3A//www.ooredoo.com.mm/en/Personal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Ooredoo - Myanmar
 
