@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamica.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624172841id_/http%3A//www.streamica.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamica.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019070757id_/http%3A//www.streamica.com/pages/privacy.html) for the most accurate reproduction.*
 
 # 
 
