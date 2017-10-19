@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcmtouring.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603110929id_/https%3A//www.bcmtouring.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcmtouring.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019074456id_/https%3A//www.bcmtouring.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of BCMTouring
 
@@ -18,7 +18,7 @@
 
 **3.3 Statistical Information**. BCMTouring sells or otherwise shares some information about its visitors with advertisers, business partners, sponsors and other third parties. However, that information is statistical in nature and does not identify specific individuals. For example, BCMTouring counts the number of visitors for purposes of managing its banner advertising business. BCMTouring uses that data to, among other things, customize content, services and advertising to better suit the needs of its visitors and customers.
 
-**3.4 Emails**. From time to time, BCMTouring may send email messages to users. BCMTouring may use a bulk email service to distribute that information. If you do not want to receive bulk emails, please indicate that preference on your registration information or contact BCMTouring at [remove@BCMTouring.com](mailto:remove@BCMTouring.com). Except for email messages that you send to BCMTouring or as provided in Section 6 titled “Your Participation in and Postings on Forums” of the Terms of Use, BCMTouring will not monitor, edit or disclose the contents of your email unless required in the course of normal maintenance of this Website and systems.
+**3.4 Emails**. From time to time, BCMTouring may send email messages to users. BCMTouring may use a bulk email service to distribute that information. If you do not want to receive bulk emails, please indicate that preference on your registration information or contact BCMTouring at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1765727a7861725755545a437862657e79703974787a). Except for email messages that you send to BCMTouring or as provided in Section 6 titled “Your Participation in and Postings on Forums” of the Terms of Use, BCMTouring will not monitor, edit or disclose the contents of your email unless required in the course of normal maintenance of this Website and systems.
 
 **3.5 Cookies**. Upon your first visit to this Website, our Website sends a "cookie" to your computer. A cookie is a file that identifies you as a unique user. It stores personal preferences and user data. Cookies do not identify you by name. BCMTouring has two primary uses for its cookies. First, BCMTouring uses them to specify unique facts. Secondly, BCMTouring uses cookies to track user trends and patterns. This helps BCMTouring better understand and improve this Website and its services. While both of these activities depend on the use of a "cookie," visitors to this Website should have the option of disabling cookies through their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some BCMTouring services may not function properly if you disable cookies.
 
@@ -36,6 +36,6 @@
 
 BCMTouring reserves the right at its discretion to make changes to this Privacy Policy at any time. Please review this page periodically for changes.
 
-If you at any time have questions about this Privacy Policy, please send your question via email to [admin@BCMTouring.com](mailto:admin@BCMTouring.com). 
+If you at any time have questions about this Privacy Policy, please send your question via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90f1f4fdf9fed0d2d3ddc4ffe5e2f9fef7bef3fffd). 
 
 LAST UPDATED: 23/05/2007
