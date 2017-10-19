@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624201929id_/https%3A//tictail.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019064416id_/https%3A//tictail.com/privacy-policy) for the most accurate reproduction.*
 
-# Sobre nosotros • Tictail
+# Privacy Policy • Tictail
+
+  
+
 
 Your privacy is important to us at Tictail, Inc. (“ _Tictail_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”), so we’ve created this privacy policy (this “ _Privacy Policy_ ”) to explain Tictail’s information collection and use practices in connection with the Service. You’re bound to the Privacy Policy, too: it’s part of the Agreement, and by using the Service you agree that you have read it, that you understand it, and that you will comply with it.
 
