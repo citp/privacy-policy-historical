@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboardconnect.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629141648id_/http%3A//www.blackboard.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboardconnect.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019100228id_/http%3A//www.blackboard.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Blackboard Privacy Policy | Blackboard
 
