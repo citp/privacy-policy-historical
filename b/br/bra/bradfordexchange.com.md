@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033146id_/http%3A//www.bradfordexchange.com/service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019073753id_/http%3A//www.bradfordexchange.com/service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Bradford Exchange Online
 
