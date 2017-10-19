@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217171217id_/https%3A//www.cairo360.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019175524id_/https%3A//www.cairo360.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
