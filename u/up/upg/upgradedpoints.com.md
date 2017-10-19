@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upgradedpoints.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509152929id_/https%3A//upgradedpoints.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedpoints.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019064845id_/https%3A//upgradedpoints.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - UpgradedPoints.com
 
 _**Last Updated: 1/09/2017**_
 
