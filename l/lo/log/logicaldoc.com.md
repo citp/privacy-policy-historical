@@ -1,42 +1,46 @@
-> *The following text is extracted and transformed from the logicaldoc.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327134940id_/http%3A//www.logicaldoc.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicaldoc.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019163619id_/https%3A//www.logicaldoc.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | LogicalDOC
+# Privacy Policy
 
-version 1.0
+Your privacy is critically important to us. At LogicalDOC we have a few fundamental principles:
 
-This document describes the procedures for administering the site in reference to the processing of personal data of users. This notice is given to art. 13 of Legislative Decree. No 196/2003 - Code for the protection of personal data to those who interact with web services of LogicalDOC starting from: [http://www.logicaldoc.com](http://www.logicaldoc.it/)   
-The disclosure was made only for the site of LogicalDOC and not for other sites which may be accessed via links. The information is also based on Recommendation 2 / 2001 that the European authorities for the protection of personal data gathered in the group founded by. 29 of Directive 95/46, adopted on May 17 2001 to determine the minimum requirements for collecting personal data on-line, and, in particular, the manner, timing and nature of the information that the holders of treatment should provide users when they connect to web pages, regardless of the purpose of the connection.
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
-### THE OWNER OF TREATMENT
 
-After consultation of this site it may be processed data on persons identified or identifiable. The "owner" of their treatment is LogicalDOC Srl which is based in Carpi (Italy), via Aldo Moro interna 3
 
-### TREATED DATA TYPES
+Below is our privacy policy which incorporates these goals. If you have questions about deleting or correcting your personal data please [contact us](mailto:contact@logicaldoc.com). LogicalDOC operates several websites, including [logicaldoc.com](https://www.logicaldoc.com/), [forums.logicaldoc.com](http://forums.logicaldoc.com/), [docs.logicaldoc.com, ](http://docs.logicaldoc.com/)[blog.logicaldoc.com](http://blog.logicaldoc.com/), [issues.logicaldoc.com](http://issues.logicaldoc.com/). It is LogicalDOC’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-#### Navigation data
+  
+**Website Visitors**  
+Like most website operators, LogicalDOC collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. LogicalDOC’s purpose in collecting non-personally identifying information is to better understand how LogicalDOC’s visitors use its website. From time to time, LogicalDOC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. LogicalDOC also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. LogicalDOC only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-Computer systems and software for the functioning of this website acquire during their normal exercise, some personal data whose transmission is implicit in the communication protocols of the Internet. This information is not collected to be associated with identified, but by their very nature could, through processing and associations with data held by third parties, identify users. This category of data includes IP addresses or domain names of the computers used by users who connect to the site, the URI (Uniform Resource Identifier) of the resources required, the time of the request, the method used to make the request to the server, the size of files obtained in response, the numerical code indicating the status of the response from the server (successful, error, etc..) and other parameters relating to the operating system and computer environment. This data is used only to obtain anonymous statistics on the use of the site and to check the proper operation and is deleted immediately after processing. The data could be used to ascertain responsibility in case of hypothetical crimes against the site: beyond that eventuality, data on web contacts do not persist for more than seven days.
+  
+**Gathering of Personally-Identifying Information**  
+Certain visitors to LogicalDOC’s websites choose to interact with LogicalDOC in ways that require LogicalDOC to gather personally-identifying information. The amount and type of information that LogicalDOC gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a free trial of LogicalDOC Online Services and LogicalDOC Studio to provide a username and email address. Those who engage in transactions with LogicalDOC are asked to provide additional information, including as necessary the personal information required to process those transactions. In each case, LogicalDOC collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with LogicalDOC. LogicalDOC does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-#### Data provided voluntarily by the user
+  
+**Aggregated Statistics**  
+LogicalDOC may collect statistics about the behavior of visitors to its websites. For instance, LogicalDOC may monitor the most popular blogs on the site. LogicalDOC may display this information publicly or provide it to others. However, LogicalDOC does not disclose personally-identifying information other than as described below.
 
-The optional, explicit and voluntary e-mail to addresses listed on this site involves the subsequent acquisition of the sender's necessary to respond to requests, as well as any other personal data included in the message. Specific summary information will be progressively reported or displayed in the pages of the site designated for special services on request.
+  
+**Protection of Certain Personally-Identifying Information**  
+LogicalDOC discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on LogicalDOC’s behalf or to provide services available at LogicalDOC’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using LogicalDOC’s websites, you consent to the transfer of such information to them. LogicalDOC will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, LogicalDOC discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when LogicalDOC believes in good faith that disclosure is reasonably necessary to protect the property or rights of LogicalDOC, third parties or the public at large. If you are a registered user of an LogicalDOC website and have supplied your email address, LogicalDOC may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with LogicalDOC and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. LogicalDOC takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-### COOKIES
+  
+**Cookies**  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. LogicalDOC uses cookies to help LogicalDOC identify and track visitors, their usage of LogicalDOC website, and their website access preferences. LogicalDOC visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using LogicalDOC’s websites, with the drawback that certain features of LogicalDOC’s websites may not function properly without the aid of cookies. They can also opt out analytics cookies by [clicking here](https://www.logicaldoc.com/privacy-policy#aaa).
 
-No personal user data is acquired from the site. There is not any use of cookies for the transmission of personal information, nor are used cd persistent cookies of any kind, or systems for tracing users. The use of c.d. session cookies (which are not stored in a user's computer and vanish with the closing of the browser) is strictly limited to the transmission of session identifiers (consisting of random numbers generated by the server) necessary to enable a secure and efficiency on the site. I c.d. session cookies used in this site do not make use of other techniques potentially prejudicial to the confidentiality of navigation and do not allow the acquisition of personal identification information of the user.
+You opted out analytics cookies. Former cookies were already deleted.
 
-### OPTIONAL GRANT OF DATA
+  
+**Business Transfers**  
+If LogicalDOC, or substantially all of its assets, were acquired, or in the unlikely event that LogicalDOC goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of LogicalDOC may continue to use your personal information as set forth in this policy.
 
-Apart from that specified for navigation data, the user is free to provide personal data reported in the application forms to the Guarantor or in contact with the office to request the sending of information materials or other communications. Their failure, it may be impossible to fulfill the request. For completeness it should be noted that in some cases (not object of the management of this site) the Authority may ask for news and information under Article 157 of Legislative Decree. No 196/2003, in order to control the processing of personal data. In these cases the answer is a mandatory penalty of administrative sanction.
+  
+**Ads**  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by LogicalDOC and does not cover the use of cookies by any advertisers.
 
-### TREATMENT METHOD
-
-Personal data are processed by automated tools for the time strictly necessary to achieve the purposes for which they were collected. Specific security measures are observed to prevent data loss, misuse or incorrect and unauthorized access.
-
-### RIGHTS OF CONCERNED
-
-Those whose personal data have the right at any time to obtain confirmation of the existence of the data and to know its content and origin, verify its accuracy or request its integration or upgrade, or correction (Article 7 of Legislative Decree no. 196/2003). Under that article, one has the right to request cancellation, transformation in anonymous form or block of data used in violation of the law, as well as object, for legitimate reasons, to their treatment.
-
-* * *
-
-_This document is published at the "Privacy Policy" section of this site is subject to updating._
+  
+**Privacy Policy Changes**  
+Although most changes are likely to be minor, LogicalDOC may change its Privacy Policy from time to time, and in LogicalDOC’s sole discretion. LogicalDOC encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. This privacy policy was adapted from that of [automattic.com](https://automattic.com/privacy/), which was posted under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/2.5/) license. We appreciate their legwork and generosity.
