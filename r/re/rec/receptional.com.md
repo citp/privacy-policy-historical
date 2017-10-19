@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receptional.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175656id_/http%3A//www.receptional.com/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receptional.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019211224id_/https%3A//www.receptional.com/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Receptional
 
