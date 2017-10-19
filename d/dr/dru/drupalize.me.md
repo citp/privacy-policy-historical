@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalize.me privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427213159id_/https%3A//drupalize.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalize.me privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019021907id_/https%3A//drupalize.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drupalize.Me
 
