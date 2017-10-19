@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the health-flash.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207004935id_/http%3A//health-flash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health-flash.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020002128id_/http%3A//health-flash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health Flash
 
 Thank you for visiting Health Flash, or using our mobile device applications (the “Apps”) or other services (together with the Apps, the “Services”), Services within the network of Time Inc.* and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc.* and its subsidiaries. Click here for a list of the sites of Time Inc.* and its subsidiaries which are governed by this Privacy Notice.
 
-**The Information We Collect**  
+ **The Information We Collect**  
 Through Time Inc.* publications, websites, and other media, you can order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. Your personally identifiable information may be required to engage in these activities as well as to receive products and services that you may have requested. The types of personally identifiable information that may be collected at these pages and elsewhere include but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
 
 We may also collect information about your personal or professional interests and use of or opinions about various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
@@ -13,7 +13,7 @@ At some Time Inc.* sites and through certain promotions, you can submit informat
 
 We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information.
 
-**How We Use the Information**  
+ **How We Use the Information**  
 We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
 
 We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
@@ -40,21 +40,21 @@ Please note that if Time Inc.* or any of its subsidiaries or lines of business i
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-**Privacy Options**  
+ **Privacy Options**  
 If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc.* property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc.* , please click here.
 
 If you prefer not to receive e-mail marketing from this or any other Time Inc.* property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc.* , [please click here](http://contact@health-flash.com/).
 
 Time Inc.* sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-**Your California Privacy Rights: Notice to California Customers**  
+ **Your California Privacy Rights: Notice to California Customers**  
 California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing.
 
 (Note: Time Inc.* sites do not recognize the “do not track signals” that some browsers may employ.)
 
 As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes offline please click here, or for email please click here. To find out more about your opt-out rights, please contact us as described in the “How to Contact Us” section below.
 
-**Collection of Information by Third-Party Sites and Sponsors**  
+ **Collection of Information by Third-Party Sites and Sponsors**  
 Some of our sites contain links to other sites whose information practices may be different than ours. Time Inc.* also allows you to connect with other sites and services in order to share content and information. You should consult the other sites’ and services’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information.
 
 Time Inc.* sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc.* site and the third parties. Time Inc.* has no control over the third parties’ use of this information.
@@ -63,7 +63,7 @@ Time Inc.* sites may use reputable third parties to present or serve advertiseme
 
 For more information on advertisements and your behavioral advertising options, visit our About Ads page and our Network Advertising Initiatives page.
 
-**Cookies**  
+ **Cookies**  
 To enhance your experience on our Services, we may place “cookies” on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
 
 We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
@@ -80,24 +80,24 @@ Web Beacons: Our websites may also use small pieces of code called “web beacon
 
 These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
 
-**Our Commitment to Security**  
+ **Our Commitment to Security**  
 We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
 
-**Accessing, Correcting, and Deleting Your Personal Information**  
+ **Accessing, Correcting, and Deleting Your Personal Information**  
 We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
 
 We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the “How to Contact Us” section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
 
-**Retention of Personal Information**  
+ **Retention of Personal Information**  
 We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the “Accessing, Correcting, and Deleting Your Personal Information” section above.
 
-**Special Note for Parents**  
+ **Special Note for Parents**  
 The site you are visiting is one of the Time Inc.* general audience sites and is not intended for use by children. For more information about our online privacy practices for children’s sites, consult the privacy notice at the children’s site in which you are interested.
 
-**Changes to this Privacy Policy**  
+ **Changes to this Privacy Policy**  
 This Privacy Policy may be changed by Time Inc.* The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
-**How to Contact Us**  
+ **How to Contact Us**  
 If you have any questions or concerns about the Time Inc.* Privacy Notice or its implementation please contact us via email by [clicking here](http://contact@health-flash.com/) or by writing to:
 
 *Time Inc. = Time in Cairo, Egypt
