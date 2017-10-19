@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cies.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619193550id_/http%3A//www.cies.org/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cies.org privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019173713id_/http%3A//www.cies.org/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Fulbright Scholar Program
 
