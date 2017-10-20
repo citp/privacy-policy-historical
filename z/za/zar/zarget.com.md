@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zarget.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629212033id_/https%3A//zarget.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarget.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020182357id_/https%3A//zarget.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy - Zarget
 
