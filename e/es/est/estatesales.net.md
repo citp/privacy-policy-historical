@@ -1,45 +1,34 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131184650id_/https%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021011515id_/https%3A//www.estatesales.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please enable JavaScript on the page to use key features of the site. If you need help please contact our [customer support](https://web.archive.org/contact.aspx). 
-
-**This Page Is Out of Date**
-
-It appears that your browser settings are preventing this page from loading the latest version. You may be seeing old information or you may run into errors because of this. Your system time settings can also cause this issue. Please check that your system time is correct. 
-
-Dismiss Tell Me More
-
-At EstateSales.NET we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us: 
+At EstateSales.NET we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
     
     
-     
-    EstateSales.NET
-    100 S High St
-    Jackson, MO 63755
-    E-mail: [support@EstateSales.NET](mailto:support@EstateSales.NET)
-    Phone: (888) 653-8468
-    
+        EstateSales.NET 100 S High St Jackson, MO 63755
+        E-mail: [support@EstateSales.NET](mailto:support@EstateSales.NET)
+        Phone: (888) 653-8468
+      
 
 ### Does this website use cookies to keep track of my information?
 
-Yes, this website uses cookies. One common example of how we use cookies is a city selection. When you choose a city to look at, we save that information in a cookie so that the next time you visit our site, we can take you to the most probable city that interests you without having to ask. 
+Yes, this website uses cookies. One common example of how we use cookies is a city selection. When you choose a city to look at, we save that information in a cookie so that the next time you visit our site, we can take you to the most probable city that interests you without having to ask.
 
 ### What types of information does this website collect?
 
-We collect the following types of information: 
+We collect the following types of information:
 
   * Traditional contact information such as mailing address, phone number, and fax number.
   * Internet contact information such as e-mail addresses.
   * Web pages visited, click stream data, and other navigation information.
-  * Non-financial identification information, such as username and password combinations. 
+  * Non-financial identification information, such as username and password combinations.
   * Estate Sale companies and some individuals provide us with estate sale information and financial information.
 
 
 
 ### Why is this website collecting the information?
 
-We collect the information for the following purposes: 
+We collect the information for the following purposes:
 
   * To complete the current activity of the visitor.
   * For website administration purposes.
@@ -52,13 +41,13 @@ We collect the information for the following purposes:
 
 ### Who will receive the information?
 
-The information will be shared with the following parties: 
+The information will be shared with the following parties:
 
   * Our internal staff and our direct agents, such as a printing bureau.
 
 
 
-We do not want our own information shared or sold, so we do not do that with your information. We will never sell, rent, give away, or share your information. 
+We do not want our own information shared or sold, so we do not do that with your information. We will never sell, rent, give away, or share your information.
 
 ### How long will the information be kept?
 
@@ -69,22 +58,22 @@ We do not want our own information shared or sold, so we do not do that with you
 
 ### Can I review my information?
 
-Our website allows you to review the contact information we keep about you. This is done by clicking on the link in the estate sale e-mail or by logging in on the site under Subscribers or Admin (depending on whether or not you are a company). 
+Our website allows you to review the contact information we keep about you. This is done by clicking on the link in the estate sale e-mail or by logging in on the site under Subscribers or Admin (depending on whether or not you are a company).
 
 ### Can I opt-out at any time?
 
-Yes, you can unsubscribe at any time by one of the following methods. We will normally unsubscribe your address within 30 minutes. It can take up to one business day though. 
+Yes, you can unsubscribe at any time by one of the following methods. We will normally unsubscribe your address within 30 minutes. It can take up to one business day though.
 
   1. Click the link at the bottom of a notification e-mail that you received from us and follow the instructions.
   2. Reply to any e-mail that you have received from us and ask to be unsubscribed or removed
-  3. Log into our web site and make the changes there:   
-[Log In](https://web.archive.org/account/)
+  3. Log into our web site and make the changes there:  
+[Log In](https://web.archive.org/account)
 
 
 
 ### What if I think there are inaccuracies in my information?
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at:   
-[Contact Us](https://web.archive.org/contact.aspx)
+If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at:  
+[Contact Us](https://web.archive.org/contact)
 
-If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
+If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us.
