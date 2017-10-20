@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationhomes.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621075808id_/http%3A//www.invitationhomesforrent.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationhomes.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020141905id_/http%3A//www.invitationhomesforrent.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Homes | Invitation Homes
 
