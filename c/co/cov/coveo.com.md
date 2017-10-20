@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveo.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619231349id_/http%3A//www.coveo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveo.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020051717id_/http%3A//www.coveo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coveo Privacy Practices | Coveo
 
