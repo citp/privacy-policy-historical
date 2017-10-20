@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508210739id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020113145id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wire Realm
 
