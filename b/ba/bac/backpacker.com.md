@@ -1,98 +1,116 @@
-> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609033347id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020160941id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Rodale
+# Privacy Policy – Active Interest Media
 
-  
-|  |  **_Policy Effective Date: April 26, 2007_**
+**What information do we collect?**  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or magazine, respond to a survey or fill out a form.
 
-**_Protecting Your Privacy and Servicing Your Needs_**
+Any data we request that is not required will be specified as voluntary or optional.
 
-Rodale is the world's leader in health and well-being. Through our brands ( _Backpacker, Best Life, Bicycling, Men's Health, Mountain Bike, Organic Gardening, Women's Health, Prevention, Runner's World, Running Times_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, location, phone number or credit card information. You may, however, use our sites without registering, although some content and/or sections may become inaccessible. When using AIM mobile applications registration and/or login may be required to access the materials.
 
-We're a family-run business that treats its customers like family. And we are deeply committed to protecting your privacy and the security of the information you share with us.. 
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-We believe you have the right to know everything regarding the information we collect about you ...how this information benefits you...and how you can say "no" to the use of any of this information. 
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways:
 
-This policy explains what we do with your information, and what you can expect from Rodale. By using this site you indicate your acceptance of Rodale's Privacy Policy. 
+**; To personalize your experience**  
+(your information helps us to better respond to your individual needs)
 
-**Children Under 13:**   
-We care about the safety of children. We won't knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones. 
+**; To improve our website**  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**What information do you collect about me?**   
-Rodale collects personal identifying information from you only if you voluntarily submit such information to us on website(s) and through email. We also collect information during transactions, sponsored events and contests/sweepstakes. When visiting one of our online sites, we collect user-specific information on what pages are visited and volunteered information such as survey information and/or site registrations. 
+**; To improve customer service**  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**What's in it for me?**   
-_Plenty!_ The information we collect allows us to customize the content and/or layout of our page for each visitor. Plus, it enables us to notify you about updates to our Web site...contact you with special offers of interest...and customize your Web site experience. In addition, information is shared with reputable organizations who may contact you with special offers of possible interest. 
+**; To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-**What are "cookies" and what do they do for me?**   
-In order to provide better service when you return to our site, Rodale may use cookies to store your preferences and information about such things as items added to your shopping cart, purchases you have made with us, what pages you visit, and past activity at a site. "Cookies" are tiny pieces of information stored by your browser on your computer's hard drive. Cookies are also used to ensure that you are not repeatedly sent the same banner ads, to customize Web page content based on your browser type (Netscape or Microsoft Explorer, for example Most browsers are initially set to accept cookies. 
+**; To send periodic messages via email and postal mail**  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. We may also send promotional messages to an email or postal mail address that our cookies associate with you when you browse our sites.
 
-If you want to disable cookies, there is a simple procedure in most Internet browsers that allow you to turn off cookies. Please remember however, that cookies may be required to allow you to use certain features of our sites. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We may also use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: **(link to Rodale Page with List of companies and a unique effective date on this page)**
+**; To administer a contest, promotion, survey or other site feature**
 
-**With whom do you share information about me?**   
-From time to time, we make our customer e-mail addresses, postal addresses and telephone numbers available to other reputable businesses whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. We retain email opt-out and postal/telephone non solicitation requests for 5 years. 
+Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising/choices>.
 
-**Transfers of Information for Legal Purposes**   
-Rodale, Inc. may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, in the course of a legal proceeding or in response to a law enforcement agency request. If there is a change of control in Rodale's business (whether by merger, sale, or otherwise), or a sale or transfer of its assets, customer information could be sold or transferred as part of that transaction and your personally identifying information potentially used by the Purchaser or other recipient of said customer information. 
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or enter, submit, or access your personal information.
 
-**Links**   
-Rodale sites may, on occasion, contain links to other sites with information gathering practices different from our own. Visitors should consult privacy policies for all other sites as Rodale has no control over information submitted to or collected by such third parties. 
+These security measures may include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology via HTTPS urls to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
 
-Rodale sites sometimes offer contest, sweepstakes or promotions sponsored or co-sponsored by third parties. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes or promotion. Rodale has no control over the third party sponsor's use of this information. The Rodale site will notify you at the time of requesting personally identifiable information if third party sponsors will be provided access to such information. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**What if I don't want e-mail from Rodale?**   
-Easy. If you do not want to receive e-mail from Rodale, please let us know by utilizing the unsubscribe option available on email communications, or by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at: Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. We retain all such email opt-out requests for 5 years. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**May I see the information you collect about me?**   
-_Yes!_ Upon request, we provide our customers with access to personal account information (e.g., customer number)...account status (outstanding balance)...and contact information (i.e., name, address, phone number). You may access the information by completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html) or by calling us at (800) 914-9363. 
+**Do we use cookies?**  
+Yes (cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers’ systems to recognize your browser and capture and remember certain information. We use cookies for our own purposes on the sites and our partners may also use cookies on our sites to fulfill purposes that we specify that we believe are consistent with this privacy policy.
 
-In addition, we offer web visitors the ability to correct any inaccuracies in their contact information, simply by accessing the appropriate [Customer Service](http://www.rodale.com/corp/sub/1,1874,5-30,00.html) site, completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or by calling us at (800) 914-9363. If you prefer, you may write to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 19098. 
+**Do we disclose any information to outside parties?**  
+We do not sell, rent, loan, or give your email address or other personal information to anybody without your express permission. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may provide third-party vendors with encrypted (i.e. hashed) data that is not identifiable via personal information such as email, phone, address, etc. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Changes...**   
-Rodale may need to change this privacy policy from time to time in order to address new issues, evolving technologies, changes on our sites or business practices. Rodale will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly. 
+From time to time, our sponsors wish to contact our subscribers and customers who have indicated an interest in their products, services or events. Before we disclose your personally identifiable data to a third party for their own business purposes (such as a survey or a sweepstake), we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise. If you register for or access products, services or events offered by these vendors, you choose to share your name and contact details directly with those vendors so that they may contact you. For example, if you register for a vendor-branded (or co-branded with us) resource, we will collect your registration information on behalf of that vendor for its own use. When you register for an in-person or online event, we will provide your registration information to the sponsor(s) of such event. If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy.
 
-**What about data security?**   
-To ensure the security of your data- including address information and credit card numbers- Rodale always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse or alteration of information that we have collected from you. 
+**How Can You Opt Out of Use and Disclosure of Your Information?**  
+Active Interest Media will only use your personal information for the purposes described in this Privacy Policy or as subsequently authorized by you. You can avoid having your personal information disclosed to sponsors in the following ways: a) do not provide us with personal information; b) do not access or request content; c) turn on cookie and/or ad blocking via your browser; or d) email us at privacy@aimmedia.com to request that we opt-out your email address from Active Interest Media emails. Active Interest Media has a number of brands and products and we allow you to opt-out selectively. If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand, make use of a provided “private account” option option to prevent search and follow capabilities, or contact the brand directly.
 
-**Rules for Submissions and Messages**   
-Responsibility for what is posted in the discussion groups or other public forums lies with each user--you alone are responsible for the content of your messages, and the consequences of any such messages. We cannot and do not review every submission a user may make. We neither endorse nor guarantee the accuracy or propriety of any submission. We do, however, reserve the right but do not assume the obligation to restrict or prohibit your use of our sites if we believe you are violating any of the terms of the agreement and to remove, edit, or relocate any submission as we see fit whether for legal or other reasons. 
+To opt-out of postal mail promotions from Active Interest Media, please mail an opt-out request to us at:
 
-**Member Conduct**   
-You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not Rodale, Inc., are entirely responsible for all Content that you upload, post or otherwise transmit. Rodale does not control the Content posted and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using a Rodale site, you may be exposed to Content that is offensive, indecent or objectionable. 
+**Active Interest Media | Attn: Circulation Department  
+**5720 Flatiron Pkwy  
+Boulder, CO 80301
 
-You agree to not use the Rodale sites in order to:
+You can direct your opt-out request to specific brands or to ‘all brands.’
 
-  * upload, post or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
-  * harm minors in any way;
-  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity;
-  * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked to from another accessible page);
-  * upload, post or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
-  * upload, post or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
-  * upload, post or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service that are designated for such purpose;
-  * upload, post or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-  * interfere with or disrupt the servers or networks connected to the Rodale site, or disobey any requirements, procedures, policies or regulations of networks connected to the site;
-  * intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the NASDAQ, and any regulations having the force of law;
-  * "stalk" or otherwise harass another;
-  * collect or store personal data about other users;
-  * promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals.
-  * use your home page (or directory) as storage for remote loading or as a door or signpost to another home page
-  * engage in commercial activities without the express written consent of Rodale, Inc. This includes, but is not limited to, the following activities:
-    * offering for sale any products or services;
-    * soliciting for advertisers or sponsors;
-    * conducting raffles or contests that require any type of entry fee;
-    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services
-    * displaying banners for services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to their web sites. 
+You may receive email marketing messages from us about our own or other companies’ offerings. To opt-out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
-**Rights**   
-You acknowledge that we acquire all Rights to use any posted materials as described above so that we do not violate any Rights you may have in materials you post. By submitting content to or through our sites, you grant us the non-exclusive right to reproduce, modify and distribute it as we see fit in any medium and for any purpose in any form, media, or technology now known or later developed. You also permit any other user to access, display, and print such content for personal use. You vouch that any material you submit does not violate, plagiarize or infringe upon the right of any third party, including copyright, trademark or proprietary rights. If non-original content is included in your posting, you must obtain permission from the content owner and attribute it. 
+You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. To withdraw your consent, simply contact us by writing to the Active Interest Media, Inc., 5720 Flatiron Pkwy, Boulder, CO 80301, USA Attn: Data Department, or by e-mailing us at privacy@aimmedia.com and advising which of your personal information you no longer wish us to collect, use and/or disclose. We will the inform you of the implications of withdrawing consent to collect, use and/or disclose that personal information, including without limitation the fact that once such consent is withdrawn you may not be able to use certain or all of the features of the Site, applications or services, and/or may not be able to receive products and services from us. Should you nonetheless still desire that consent be withdrawn, we will accede to your request.
 
-**We appreciate the opportunity to serve you!**   
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098 and we can be reached via e-mail at: [info@rodale.com](mailto:info@rodale.com). You can reach us by telephone at (610) 967-5171 or (800) 914-9363. 
+We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at http://www.aboutads.info/choices/.
 
-Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01). 
+**Premium Accounts**
 
-Note: This privacy policy applies to all of Rodale's owned and operated websites and to Rodale's other information gathering activities. 
+  * Information may be collected in order to process your payments (e.g., for subscriptions);
+  * We may offer the ability to sign up for a premium account that allows you to visit the Site without, or with limited, advertisements (a “ **Premium Account** ”). If you use a Premium Account, we will not use personal information about you for advertising purposes.
+  * If you choose to use an account, you are responsible for keeping your login credentials for access to certain parts of the site (e.g., user names and passwords) confidential. Do not give your credentials to anyone else.
+  * Notice that we may share personal information with service providers, subcontractors, partners, vendors, consultants, and others that help us with any of the purposes noted above or otherwise in this Policy
 
-Rodale complies with all the stringent standards of ethical conduct set forth by the [Direct Marketing Association](http://www.the-dma.org/). 
+
+
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**  
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Your Consent  
+**By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on September 23, 2016.
+
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+Active Interest Media | Attn: Circulation Department  
+5720 Flatiron Pkwy  
+Boulder, CO 80301  
+privacy@aimmedia.com / 310.356.4100
+
+**Privacy Policy Customer Pledge**  
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
